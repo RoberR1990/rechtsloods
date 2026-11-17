@@ -1,0 +1,167 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:7477",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (met bureau als gemachtigde)",
+  "wederpartij": "gemeente Roosendaal",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De zaak gaat over een naheffing parkeerbelasting van € 74,40 voor een auto zonder betaling. Een parkeerder, met een bureau als gemachtigde, procedeert tegen de gemeente Roosendaal bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Twee minuten te laat betaald: naheffing blijft staan",
+ "kern": {
+  "zin": "De rechter hield de naheffing in stand: de parkeerder startte de app pas later, en dat viel niet onder de redelijke betaaltijd.",
+  "bron": [
+   31
+  ],
+  "citaat": "de verstreken tijd niet onder de pardontijd valt"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 8 november 2023 zagen controleurs om 10:21 uur dat er niets was betaald voor de auto.",
+   "bron": [
+    17
+   ],
+   "citaat": "stond op 8 november 2023 om 10:21 uur geparkeerd"
+  },
+  {
+   "zin": "De parkeerder merkt op dat de aanslag om 10:21 uur is gemaakt terwijl hij tussen 10:23 en 10:24 uur betaalde.",
+   "bron": [
+    29,
+    19
+   ],
+   "citaat": "de boete om 10:21 uur is uitgeschreven en er parkeerbelasting is voldaan"
+  },
+  {
+   "zin": "De gemeente zegt dat er geen extra onderzoek is gedaan naar de verklaring van de controleur.",
+   "bron": [
+    26
+   ],
+   "citaat": "De heffingsambtenaar stelt geen nader onderzoek te hebben gedaan"
+  },
+  {
+   "zin": "De rechter vindt dat de verstreken tijd buiten de redelijke betaaltijd valt, omdat de parkeerder eerst de auto verliet.",
+   "bron": [
+    31
+   ],
+   "citaat": "de verstreken tijd niet onder de pardontijd valt"
+  },
+  {
+   "zin": "Het beroep is ongegrond en het dwangsomverzoek niet-ontvankelijk, dus de naheffing blijft staan.",
+   "bron": [
+    35
+   ],
+   "citaat": "Dat betekent dat de naheffingsaanslag parkeerbelasting in stand blijft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan, dwangsom niet-ontvankelijk.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing van € 74,40 blijft staan, en de parkeerder krijgt geen griffierecht of proceskosten vergoed.",
+  "bron": [
+   35,
+   18
+  ],
+  "citaat": "krijgt belanghebbende zijn griffierecht niet vergoed"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij wijst erop dat er vanaf 10:23 uur betaald is, na de boete om 10:21 uur.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de tijd tot de aanmelding te lang was, omdat hij de auto eerst verliet.",
+    "bron": [
+     31
+    ],
+    "citaat": "tussen het moment van parkeren en de aanmelding via de parkeerapplicatie twee minuten zijn verstreken"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het risico van niet-tijdige voldoening rust op de belastingplichtige",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente had nader onderzoek moeten doen naar de verklaring van de controleur.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ziet geen reden voor zulk extra onderzoek, want het verschil in lezing is onvoldoende.",
+    "bron": [
+     26
+    ],
+    "citaat": "Ook ziet de rechtbank geen aanleiding voor het oordeel dat de heffingsambtenaar nader onderzoek had moeten doen"
+   },
+   "bruikbare_zin": {
+    "citaat": "mag vertrouwen op de verklaring van een verbalisant",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente besliste te laat op het bezwaar, dus hij vraagt een dwangsom.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter vindt het verzoek om een dwangsom niet-ontvankelijk, omdat de dwangsom al is vastgesteld.",
+    "bron": [
+     33
+    ],
+    "citaat": "het verzoek om een dwangsombesluit niet-ontvankelijk is wegens het ontbreken van procesbelang"
+   },
+   "bruikbare_zin": {
+    "citaat": "het dwangsombesluit gedurende de beroepsprocedure vastgesteld",
+    "bron": [
+     33
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder moet direct na het begin van het parkeren betalen, met alleen een korte redelijke betaaltijd erbij.",
+  "type": "regel",
+  "reikwijdte": "parkeren in een gebied met betaald parkeren",
+  "uitzondering": "de redelijke betaaltijd (pardontijd) om naar de automaat of app te gaan",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   31
+  ],
+  "citaat": "de parkeerbelasting direct na aanvang van het parkeren dient te worden voldaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van de verbalisant",
+   "screenshot van de betaling 10:23 tot 10:24 uur",
+   "verklaring van de parkeerder"
+  ],
+  "wat_gaf_doorslag": "De eigen verklaring van de parkeerder over het eerst verlaten van de auto gaf de doorslag."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente won; rechter noemt geen tekort aan de gemeentekant",
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "Parkeerbelasting moet u direct betalen, met alleen een korte tijd om dat te regelen. De rechter oordeelde dat het in deze zaak te lang duurde, omdat de parkeerder eerst de auto verliet. Wilt u bezwaar maken, dan telt vooral hoe snel u na het parkeren heeft betaald.",
+ "gemeente": "Roosendaal",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

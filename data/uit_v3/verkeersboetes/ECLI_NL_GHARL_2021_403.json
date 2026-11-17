@@ -1,0 +1,132 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2021:403",
+ "relevant": true,
+ "onderwerp": "bewijs-en-aansprakelijkheid",
+ "sub": "kentekenhouder-bestuurder",
+ "kenmerk": "wie-reed",
+ "zaaktype": "snelheid",
+ "partijen": {
+  "burger": "kentekenhouder (met gemachtigde)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een kentekenhouder kreeg een snelheidsboete van € 97 terwijl zijn auto bij een garage stond voor de APK. Hij ging in hoger beroep tegen de officier van justitie (CJIB) bij het hof Arnhem-Leeuwarden.",
+ "titel": "Auto met sleutel bij APK-garage: eigenaar betaalt snelheidsboete",
+ "kern": {
+  "zin": "Het hof houdt de boete in stand, omdat de burger niet aannemelijk maakte dat hij het gebruik van zijn auto niet had kunnen voorkomen.",
+  "bron": [
+   26
+  ],
+  "citaat": "is niet aannemelijk geworden dat de betrokkene het gebruik van zijn auto redelijkerwijs niet heeft kunnen voorkomen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger kreeg als kentekenhouder een boete van € 97 voor te hard rijden buiten de bebouwde kom.",
+   "bron": [
+    20
+   ],
+   "citaat": "bij inleidende beschikking een sanctie opgelegd van € 97,- voor"
+  },
+  {
+   "zin": "De gemachtigde zei dat de keurmeester geen toestemming had om met de auto te rijden en dat er dus tegen de wil van de burger gebruik van de auto was gemaakt.",
+   "bron": [
+    22
+   ],
+   "citaat": "De APK-keurmeester heeft op geen enkele wijze toestemming gekregen om met het voertuig te rijden."
+  },
+  {
+   "zin": "De wetgever dacht bij deze uitzondering vooral aan joyriding of diefstal en niet aan toegestaan gebruik.",
+   "bron": [
+    24
+   ],
+   "citaat": "De wetgever heeft bij deze uitzondering met name gedacht aan gevallen van joyriding of diefstal"
+  },
+  {
+   "zin": "Het hof vond dat de garage de auto kon gebruiken, omdat de burger de auto met sleutel aan de garage gaf.",
+   "bron": [
+    26
+   ],
+   "citaat": "konden medewerkers van dit bedrijf de auto gebruiken"
+  },
+  {
+   "zin": "Het hof bevestigt de beslissing van de kantonrechter en wijst de proceskosten af.",
+   "bron": [
+    27
+   ],
+   "citaat": "De kantonrechter heeft het beroep terecht ongegrond verklaard."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete blijft; hoger beroep ongegrond; geen proceskostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De burger moet de boete van € 97 betalen en krijgt geen proceskostenvergoeding, maar mag proberen het bedrag op de garage te verhalen.",
+  "bron": [
+   27
+  ],
+  "citaat": "Het staat de betrokkene vrij om desgewenst te proberen het bedrag van de sanctie te verhalen op het garagebedrijf."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Er is tegen mijn wil van mijn auto gebruik gemaakt, want de keurmeester had geen toestemming om ermee te rijden (art. 8 Wahv).",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger gaf de auto met sleutel aan de garage, dus hij kon het gebruik redelijkerwijs voorkomen.",
+    "bron": [
+     26
+    ],
+    "citaat": "is niet aannemelijk geworden dat de betrokkene het gebruik van zijn auto redelijkerwijs niet heeft kunnen voorkomen"
+   },
+   "bruikbare_zin": {
+    "citaat": "konden medewerkers van dit bedrijf de auto gebruiken",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De kentekenhouder moet met concrete feiten aannemelijk maken dat een ander tegen zijn wil zijn auto gebruikte en dat hij dat niet kon voorkomen.",
+  "type": "regel",
+  "reikwijdte": "Kentekenhouders die zich beroepen op art. 8 onder a Wahv om niet aansprakelijk te zijn voor een boete",
+  "uitzondering": "Bedoeld voor gevallen als joyriding of diefstal, niet voor toegestaan gebruik",
+  "herkomst": "wet",
+  "bron": [
+   25
+  ],
+  "citaat": "aannemelijk te maken dat tegen zijn wil door een ander van zijn voertuig gebruik is gemaakt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "factuur van het garagebedrijf van 13 december 2016"
+  ],
+  "wat_gaf_doorslag": "De burger gaf zijn auto met sleutel aan de garage, dus de medewerkers konden de auto gebruiken."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:GHARL:2020:3336"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 5 Wahv",
+  "art. 8 onder a Wahv"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; boete is van de officier van justitie (CJIB)",
+ "raakt": [
+  "juridische-zaken",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als eigenaar van de auto bent u in principe verantwoordelijk voor een boete, ook als iemand anders reed. Geeft u uw auto met sleutel aan een garage, dan gaat het hof er hier van uit dat u het gebruik kon voorkomen. U kunt wel proberen het bedrag bij de garage terug te vragen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

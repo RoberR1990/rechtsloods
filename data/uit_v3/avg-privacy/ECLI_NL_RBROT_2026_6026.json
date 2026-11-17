@@ -1,0 +1,166 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2026:6026",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "weigering-rechten-anderen",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "sollicitant",
+  "wederpartij": "minister van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Deze zaak gaat over een verzoek om inzage op grond van de AVG. Een sollicitant stond tegenover de minister van Financiën bij de rechtbank Rotterdam.",
+ "titel": "Geen inzage in naam van afwijzende medewerker",
+ "kern": {
+  "zin": "De rechter beslist dat de minister terecht geen naam van de medewerker gaf, omdat de AVG geen recht geeft op gegevens van anderen.",
+  "bron": [
+   22
+  ],
+  "citaat": "Artikel 15 van de AVG biedt geen grondslag om persoonsgegevens van derden te verstrekken."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de minister van Financiën om de naam van de medewerker die zijn sollicitaties had afgewezen.",
+   "bron": [
+    18
+   ],
+   "citaat": "verzocht om de naam van de persoon die zijn sollicitaties heeft afgewezen."
+  },
+  {
+   "zin": "De minister vond dat de naam van die medewerker geen persoonsgegeven van de burger is en gaf die naam niet.",
+   "bron": [
+    20
+   ],
+   "citaat": "geen op eiser betrekking hebbend persoonsgegeven is"
+  },
+  {
+   "zin": "De burger vond dat de AVG ruim moet worden uitgelegd en dat hij ook de afwijzingsmail en aantekeningen van de beoordelaar moest krijgen.",
+   "bron": [
+    21
+   ],
+   "citaat": "Eiser voert aan er een ruime uitleg gegeven moet worden aan het begrip ‘persoonsgegevens’ uit de AVG."
+  },
+  {
+   "zin": "De rechter oordeelt dat artikel 15 AVG alleen recht geeft op informatie over eigen persoonsgegevens, niet op gegevens van anderen.",
+   "bron": [
+    22
+   ],
+   "citaat": "Dit artikel geeft een betrokkene slechts het recht om informatie te verkrijgen over de hem betreffende persoonsgegevens."
+  },
+  {
+   "zin": "Het beroep is ongegrond; de burger krijgt griffierecht en proceskosten niet terug.",
+   "bron": [
+    27
+   ],
+   "citaat": "Het beroep is ongegrond. Dat betekent dat het bestreden besluit in stand blijft."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Rechter verklaart beroep ongegrond; besluit van de minister blijft in stand.",
+ "gevolg_betrokkene": {
+  "zin": "De sollicitant krijgt de naam niet en moet zijn griffierecht en proceskosten zelf dragen.",
+  "bron": [
+   27
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug. Hij krijgt ook geen vergoeding van zijn proceskosten."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "De burger zegt dat hij de naam van de medewerker die zijn sollicitaties afwees moet krijgen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat de AVG geen recht geeft op gegevens van anderen.",
+    "bron": [
+     22
+    ],
+    "citaat": "Artikel 15 van de AVG biedt geen grondslag om persoonsgegevens van derden te verstrekken."
+   },
+   "bruikbare_zin": {
+    "citaat": "De minister heeft eiser dan ook terecht geen inzage verschaft in de door eiser verzochte naam van de medewerker.",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "De burger zegt dat hij de afwijzingsmail en de aantekeningen van de beoordelaar had willen krijgen.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter zegt dat deze stukken niet in dit inzageverzoek zaten.",
+    "bron": [
+     22
+    ],
+    "citaat": "Eisers inzageverzoek zag niet op deze gegevens."
+   },
+   "bruikbare_zin": {
+    "citaat": "Eisers inzageverzoek zag niet op deze gegevens.",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De burger zegt dat de minister de naam van de persoon die het primaire besluit nam niet heeft vermeld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ziet dat de naam en functie van de beslisser onderaan het primaire besluit staan.",
+    "bron": [
+     24
+    ],
+    "citaat": "onderaan het primaire besluit de naam en de functie van de medewerker"
+   },
+   "bruikbare_zin": {
+    "citaat": "Van onzorgvuldig handelen door de minister is dan ook geen sprake.",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een AVG-inzageverzoek krijgt iemand alleen informatie over zijn eigen persoonsgegevens; gegevens van anderen hoeven niet te worden gegeven.",
+  "type": "regel",
+  "reikwijdte": "Bij een inzageverzoek op grond van de AVG dat gaat over gegevens van iemand anders.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   22
+  ],
+  "citaat": "Dit artikel geeft een betrokkene slechts het recht om informatie te verkrijgen over de hem betreffende persoonsgegevens."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De inhoud van het inzageverzoek, dat alleen om de naam van de medewerker vroeg."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:EU:C:2023:3"
+  ]
+ },
+ "wetsartikelen": [
+  "artikel 15, eerste lid AVG",
+  "artikel 15, derde lid AVG",
+  "artikel 7:5 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Als u om inzage vraagt, krijgt u alleen informatie over uw eigen persoonsgegevens. Gegevens van iemand anders, zoals de naam van een medewerker, hoeft de organisatie via de AVG niet te geven. Wilt u zo'n naam toch, kijk dan of een andere wet daar een basis voor geeft.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente; wederpartij is minister van Financiën",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

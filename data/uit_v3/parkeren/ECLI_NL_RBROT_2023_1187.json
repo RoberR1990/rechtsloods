@@ -1,0 +1,143 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:1187",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "invordering",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeert tegen de gemeente Rotterdam over aanmaningskosten (de kosten van de herinnering). Die kwamen omdat de naheffing (de rekening achteraf) niet op tijd was betaald. De zaak ligt bij de Rechtbank Rotterdam, die het beroep ongegrond verklaart.",
+ "titel": "Extra kosten blijven; digitale aanslag gold als ontvangen",
+ "kern": {
+  "zin": "De rechter vindt dat de gemeente de aanslag digitaal mocht sturen via de Berichtenbox, dus de extra kosten blijven.",
+  "bron": [
+   24
+  ],
+  "citaat": "de naheffingsaanslag via de Berichtenbox van MijnOverheid digitaal bekend te maken"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde de naheffing op via MijnOverheid.",
+   "bron": [
+    19
+   ],
+   "citaat": "een naheffingsaanslag parkeerbelasting opgelegd via het onlinesysteem MijnOverheid"
+  },
+  {
+   "zin": "De parkeerder zei dat hij niet bij MijnOverheid was aangemeld.",
+   "bron": [
+    21
+   ],
+   "citaat": "stelt dat hij niet voor MijnOverheid is aangemeld"
+  },
+  {
+   "zin": "Met het verzendbewijs was volgens de rechter voldoende duidelijk dat de aanslag was verzonden.",
+   "bron": [
+    24
+   ],
+   "citaat": "heeft daarmee voldoende aannemelijk gemaakt dat de aanslag is verzonden"
+  },
+  {
+   "zin": "Alleen zeggen dat je het niet kreeg, is niet genoeg.",
+   "bron": [
+    24
+   ],
+   "citaat": "De enkele ontkenning van de ontvangst is daarvoor onvoldoende"
+  },
+  {
+   "zin": "De rechter ziet geen reden om proceskosten (de kosten van de rechtszaak) te vergoeden.",
+   "bron": [
+    27
+   ],
+   "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; extra kosten blijven en geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt de extra kosten van de herinnering en krijgt geen kosten van de rechtszaak terug.",
+  "bron": [
+   25,
+   27
+  ],
+  "citaat": "verweerder de aanmaningskosten terecht bij eiser in rekening heeft gebracht"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij was niet aangemeld voor MijnOverheid en kreeg de aanslag niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er was niets dat twijfel gaf over de ontvangst, dus dit standpunt haalde het niet.",
+    "bron": [
+     24
+    ],
+    "citaat": "Eiser heeft geen feiten en omstandigheden naar voren gebracht op grond waarvan aan de ontvangst"
+   },
+   "bruikbare_zin": {
+    "citaat": "De enkele ontkenning van de ontvangst is daarvoor onvoldoende",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Na bewijs van verzending wordt ontvangst vermoed, en de burger moet dat vermoeden weerleggen.",
+  "bron": [
+   24
+  ],
+  "citaat": "Vervolgens ligt het op de weg van eiser om dit vermoeden te ontzenuwen",
+  "type": "regel",
+  "reikwijdte": "elektronisch verstuurde aanslagen via de Berichtenbox aan een aangemelde burger",
+  "uitzondering": "de burger geeft feiten die de ontvangst redelijkerwijs in twijfel trekken",
+  "herkomst": "vaste lijn HR-RvS"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "schermprint verzendadministratie MijnOverheid",
+   "referentienummer op de aanslag"
+  ],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2006:AZ4416"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 3:41 Awb",
+  "art. 2:14 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij elke digitale aanslag de verzendadministratie vast, met dagtekening en referentienummer.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    24
+   ],
+   "citaat": "met de overgelegde verzendadministratie aannemelijk heeft gemaakt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als de gemeente kan laten zien dat een aanslag in uw MijnOverheid-berichtenbox is gezet, wordt vermoed dat u die heeft gekregen. Alleen zeggen dat u hem niet kreeg, is niet genoeg. Wilt u bezwaar maken, kom dan met concrete feiten die twijfel geven.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

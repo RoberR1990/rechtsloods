@@ -1,0 +1,156 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2020:2278",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "belastingplicht",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "taxichauffeur (de auto's staan op naam van een bedrijf)",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een taxichauffeur ging in beroep tegen dertien naheffingsaanslagen (rekeningen achteraf) voor parkeerbelasting, terwijl de auto's op naam van een bedrijf stonden. Hij procedeerde tegen de gemeente Amsterdam; in hoger beroep besliste het gerechtshof.",
+ "titel": "Alleen wie de auto neerzette mag procederen: beroepen niet-ontvankelijk",
+ "kern": {
+  "zin": "Het hof liet de beroepen niet toe, omdat de taxichauffeur niet aannemelijk maakte dat hij de auto's zelf had neergezet.",
+  "bron": [
+   224
+  ],
+  "citaat": "bij gebrek aan belang niet-ontvankelijk moeten worden verklaard"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde dertien naheffingsaanslagen op, omdat bij controles bleek dat er geen parkeerbelasting was betaald.",
+   "bron": [
+    31
+   ],
+   "citaat": "bij controle was gebleken dat daarvoor telkens geen parkeerbelasting was betaald"
+  },
+  {
+   "zin": "De taxichauffeur zei dat hij de auto's neerzette om klanten op te halen of thuis te brengen.",
+   "bron": [
+    218
+   ],
+   "citaat": "zet geregeld de taxi neer om klanten op te halen en/of thuis te brengen"
+  },
+  {
+   "zin": "Wie zelf geen naheffingsaanslag kreeg maar toch bezwaar maakt, moet aannemelijk maken dat hij de auto heeft neergezet.",
+   "bron": [
+    219
+   ],
+   "citaat": "om aannemelijk te maken dat hij degene is die de auto feitelijk heeft neergezet"
+  },
+  {
+   "zin": "De taxichauffeur bracht niets in bij het hof dat zijn verhaal ondersteunde.",
+   "bron": [
+    220
+   ],
+   "citaat": "Van de zijde van [X] is niets aangevoerd of overgelegd"
+  },
+  {
+   "zin": "Hij kwam ook niet naar de zitting waarvoor het hof hem had opgeroepen; daarom ging het hof ervan uit dat hij de auto's niet zelf had neergezet.",
+   "bron": [
+    223
+   ],
+   "citaat": "niet degene was die de auto’s feitelijk op de parkeerplaatsen heeft neergezet"
+  },
+  {
+   "zin": "Het hof verklaarde de beroepen niet-ontvankelijk en keek niet naar de inhoud van de naheffingen.",
+   "bron": [
+    224
+   ],
+   "citaat": "aan een (inhoudelijke) beoordeling van de uitspraken op bezwaar komt het Hof niet toe"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroepen niet-ontvankelijk; geen oordeel over de parkeerrekeningen zelf.",
+ "gevolg_betrokkene": {
+  "zin": "Het hof beoordeelt de naheffingen niet inhoudelijk; de taxichauffeur krijgt € 126 griffierecht terug, maar geen proceskosten in hoger beroep, en de vergoeding van de rechtbank blijft staan.",
+  "bron": [
+   235,
+   228,
+   229
+  ],
+  "citaat": "het voor het instellen daarvan betaalde griffierecht van € 126 terug te betalen"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik ben taxichauffeur en zette de auto's zelf neer om klanten op te halen; daarom mag ik procederen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Hij liet niets zien of horen dat dit ondersteunde en kwam niet naar de zitting.",
+    "bron": [
+     223
+    ],
+    "citaat": "niet degene was die de auto’s feitelijk op de parkeerplaatsen heeft neergezet"
+   },
+   "bruikbare_zin": {
+    "citaat": "Van de zijde van [X] is niets aangevoerd of overgelegd",
+    "bron": [
+     220
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "In twee zaken heeft de rechtbank het bezwaar ten onrechte niet-ontvankelijk verklaard.",
+   "oordeel": "niet beoordeeld",
+   "waarom": null,
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Iemand die zelf geen naheffingsaanslag kreeg, mag alleen zelf bezwaar of beroep instellen als hij de auto feitelijk op de plek heeft neergezet.",
+  "type": "regel",
+  "reikwijdte": "Persoon die niet de kentekenhouder is aan wie de naheffing is opgelegd.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   217
+  ],
+  "citaat": "alleen bevoegd uit eigen hoofde rechtsmiddelen aan te wenden tegen de onderhavige naheffingsaanslagen indien hij degene is die de auto’s feitelijk heeft neergezet"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De taxichauffeur bracht geen bewijs in, bijvoorbeeld een verklaring van het bedrijf of rittenstaten, en verscheen niet voor de raadsheer-commissaris."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2000:AA6508",
+   "ECLI:NL:HR:2017:844"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:64 Awb",
+  "art. 8:108 Awb",
+  "art. 2 lid 3 Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Laat iemand die bezwaar maakt zonder zelf de naheffing te hebben gekregen aannemelijk maken dat hij de auto heeft neergezet.",
+   "raakt": "bezwaar",
+   "bron": [
+    219
+   ],
+   "citaat": "om aannemelijk te maken dat hij degene is die de auto feitelijk heeft neergezet"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Alleen wie zelf de rekening kreeg, of de auto zelf neerzette, kan met succes bezwaar of beroep instellen. Staat de auto op naam van een bedrijf, laat dan het bedrijf zelf bezwaar maken of zorg voor een machtiging van het bedrijf. Komt u niet naar een zitting waarvoor de rechter u oproept, dan kan dat tegen u werken.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

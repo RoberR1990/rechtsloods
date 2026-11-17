@@ -1,0 +1,129 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:5161",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "wissen",
+ "kenmerk": "publieke-taak",
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "burger (staat in de FSV)",
+  "wederpartij": "minister van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger vroeg de minister van Financiën om zijn gegevens te wissen uit de Fraude Signalering Voorziening (FSV, een fraudesysteem van het Rijk). De rechtbank gaf de burger gelijk. De minister ging in hoger beroep bij de Raad van State.",
+ "titel": "Weigering om gegevens uit fraudesysteem FSV te wissen mocht",
+ "kern": {
+  "zin": "De rechter vond de weigering om de gegevens te wissen terecht, omdat ze voorlopig nodig zijn voor taken van algemeen belang en de weigering evenredig is.",
+  "bron": [
+   23
+  ],
+  "citaat": "de minister het verzoek om wissing terecht niet heeft ingewilligd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de minister om zijn gegevens in de FSV te wissen, maar de minister weigerde.",
+   "bron": [
+    19
+   ],
+   "citaat": "verzocht om, voor zover hier van belang, wissing van zijn persoonsgegevens in de FSV"
+  },
+  {
+   "zin": "De rechtbank vond dat de minister het verzoek had moeten inwilligen.",
+   "bron": [
+    20
+   ],
+   "citaat": "de minister het verzoek om wissing had moeten inwilligen"
+  },
+  {
+   "zin": "De Raad van State had in een eerdere zaak al geoordeeld dat de gegevens in de FSV voorlopig nodig zijn voor taken van algemeen belang.",
+   "bron": [
+    21
+   ],
+   "citaat": "voorlopig noodzakelijk is voor de vervulling van taken van algemeen belang"
+  },
+  {
+   "zin": "Ook als de gegevens ten onrechte in de FSV staan, was weigeren niet onevenredig, mede door maatregelen van de minister om verdere verwerking te beperken.",
+   "bron": [
+    22
+   ],
+   "citaat": "mede gelet op de maatregelen die de minister heeft genomen om de verdere verwerking ervan te beperken, niet onevenredig"
+  },
+  {
+   "zin": "Het hoger beroep van de minister was dus gegrond en het beroep van de burger ongegrond.",
+   "bron": [
+    25
+   ],
+   "citaat": "Het hoger beroep is gegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep minister slaagt; gegevens blijven voorlopig staan",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt zijn gegevens niet gewist: de opdracht van de rechtbank om binnen een maand te wissen vervalt. De minister hoeft geen proceskosten te betalen.",
+  "bron": [
+   25,
+   26
+  ],
+  "citaat": "is bepaald dat de minister binnen een maand na verzending van de uitspraak de persoonsgegevens van [wederpartij] in de FSV wist"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "wissen-geen-grondslag",
+   "burger_zegt": "Mijn gegevens zijn ten onrechte in de FSV verwerkt, dus ze moeten worden gewist.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dat de gegevens ten onrechte zijn verwerkt, maakt weigeren niet onevenredig, mede door de maatregelen van de minister.",
+    "bron": [
+     22
+    ],
+    "citaat": "ten onrechte in de FSV zijn verwerkt, maakt de weigering om die gegevens te wissen"
+   },
+   "bruikbare_zin": {
+    "citaat": "verwerking van de persoonsgegevens in de FSV voorlopig noodzakelijk is voor de vervulling van taken van algemeen belang",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Gegevens in de FSV hoeven voorlopig niet gewist te worden, omdat verwerking nodig is voor herstel van de nadelige gevolgen en voor verantwoording over de FSV.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om wissing van gegevens uit de FSV",
+  "uitzondering": "De weigering moet evenredig zijn; hier hielp dat de minister maatregelen nam om verdere verwerking te beperken",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "voorlopig noodzakelijk is voor de vervulling van taken van algemeen belang"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De gegevens zijn voorlopig nodig voor herstel en verantwoording, en de minister beperkte de verdere verwerking."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2026:226"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 17 lid 3 AVG"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten (de FSV is een systeem van het Rijk)",
+ "raakt": [
+  "fraude-handhaving",
+  "privacy-fg"
+ ],
+ "klantuitleg": "Een overheidsorgaan hoeft gegevens niet altijd te wissen als u daarom vraagt. In deze zaak mochten gegevens in een fraudesysteem van het Rijk voorlopig blijven staan, ook al stonden ze er ten onrechte. Vraag bij een weigering om uitleg waarom de gegevens nog nodig zijn.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

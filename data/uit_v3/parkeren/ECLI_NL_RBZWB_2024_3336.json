@@ -1,0 +1,136 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2024:3336",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (particulier)",
+  "wederpartij": "gemeente Sluis",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder procedeert tegen de gemeente Sluis over een naheffing (de rekening achteraf) van € 67,50. De rechtbank Zeeland-West-Brabant gaat alleen over de kosten van het bezwaar.",
+ "titel": "Geen kostenvergoeding voor bezwaar na ingetrokken parkeerrekening",
+ "kern": {
+  "zin": "De rechtbank oordeelt dat de gemeente niet onrechtmatig handelde, omdat zij het bezwaar al volledig had gehonoreerd.",
+  "bron": [
+   30
+  ],
+  "citaat": "De heffingsambtenaar is (ambtshalve) volledig aan het bezwaar tegemoetgekomen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde de parkeerder een naheffing van € 67,50 op, omdat er voor het kenteken niets was betaald.",
+   "bron": [
+    18
+   ],
+   "citaat": "is aan belanghebbende een naheffingsaanslag parkeerbelasting opgelegd van € 67,50"
+  },
+  {
+   "zin": "De gemeente vernietigde de aanslag later ambtshalve, omdat de parkeerder wel had betaald.",
+   "bron": [
+    12
+   ],
+   "citaat": "de naheffingsaanslag ambtshalve vernietigd omdat belanghebbende wel parkeerbelasting had betaald"
+  },
+  {
+   "zin": "De parkeerder vindt dat de gemeente hem had moeten horen, en dat hij daarom kosten vergoed moet krijgen.",
+   "bron": [
+    24
+   ],
+   "citaat": "aan het horen van belanghebbende niet voorbij had mogen worden gegaan"
+  },
+  {
+   "zin": "De gemeente zegt dat de parkeerder door het niet horen niet benadeeld is, omdat de aanslag al tot nul was verminderd.",
+   "bron": [
+    26
+   ],
+   "citaat": "dat belanghebbende door het niet-horen niet benadeeld is omdat de aanslag ambtshalve verminderd is tot nihil"
+  },
+  {
+   "zin": "De rechtbank vindt dat de gemeente niet onrechtmatig handelde, omdat zij het bezwaar al had gehonoreerd en daarom niet hoefde te horen.",
+   "bron": [
+    30
+   ],
+   "citaat": "daarom kon de heffingsambtenaar afzien van het horen"
+  },
+  {
+   "zin": "De parkeerder krijgt zijn griffierecht niet vergoed, en ook geen proceskosten.",
+   "bron": [
+    32
+   ],
+   "citaat": "Omdat het beroep ongegrond is krijgt belanghebbende zijn griffierecht niet vergoed"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Alleen over proceskosten en griffierecht; de gemeente krijgt hier gelijk.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt geen proceskosten vergoed en ook zijn griffierecht niet.",
+  "bron": [
+   32
+  ],
+  "citaat": "Ook krijgt belanghebbende geen vergoeding voor proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De parkeerder zegt dat de gemeente hem had moeten horen voordat zij de aanslag vernietigde.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vindt dat de gemeente niet hoefde te horen, omdat zij het bezwaar al volledig had gehonoreerd.",
+    "bron": [
+     30
+    ],
+    "citaat": "daarom kon de heffingsambtenaar afzien van het horen"
+   },
+   "bruikbare_zin": {
+    "citaat": "daarom kon de heffingsambtenaar afzien van het horen",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de gemeente een bezwaar ambtshalve volledig inwilligt, mag zij afzien van horen.",
+  "type": "regel",
+  "reikwijdte": "Bezwaar dat de gemeente ambtshalve volledig inwilligt (art. 7:3 aanhef en onder e Awb)",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   30
+  ],
+  "citaat": "daarom kon de heffingsambtenaar afzien van het horen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:HR:2017:3226"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:3 aanhef en onder e Awb",
+  "art. 7:15 tweede lid Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver procedurele uitspraak over kosten; geen gebrek bij de gemeente vastgesteld",
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "De rekening voor het parkeren is terecht als er voor uw kenteken niet is betaald. Hebt u wel betaald, maar met een verkeerd kenteken, dan kan de gemeente de rekening achteraf intrekken, zonder dat u daardoor recht heeft op kosten van het bezwaar. Bewaar daarom het bewijs van uw betaling; dat helpt bij bezwaar.",
+ "gemeente": "Sluis",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

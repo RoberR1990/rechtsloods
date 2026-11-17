@@ -1,0 +1,42 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:6508",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "parkeerder", "wederpartij": "gemeente Tilburg", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging bij de rechtbank Zeeland-West-Brabant in beroep tegen een naheffingsaanslag (de rekening achteraf) van de gemeente Tilburg. De parkeerder zei dat er na het betalen nog kort op een dochter werd gewacht.",
+ "titel": "Wachten op een dochter telt niet als in- of uitstappen",
+ "kern": {"zin": "De rechter vond de rekening terecht, omdat de auto geparkeerd stond en niet alleen werd gebruikt om in of uit te stappen.", "bron": [27], "citaat": "Het voorgaande betekent dat sprake was van parkeren"},
+ "samenvatting": [
+  {"zin": "Een scanauto stelde op 1 maart 2024 in Tilburg vast dat er niet was betaald.", "bron": [18], "citaat": "is door middel van een scanauto geconstateerd dat geen parkeerbelasting was voldaan"},
+  {"zin": "De parkeerder zegt dat er na 14:16 uur hooguit zeven minuten werd gewacht op een dochter.", "bron": [21], "citaat": "Na het laatstgenoemde tijdstip heeft zij hooguit nog zeven minuten staan wachten op haar dochter"},
+  {"zin": "De rechter vond op basis van de foto's dat de auto om 14:43 uur in het vak stond.", "bron": [22], "citaat": "volgt naar het oordeel van de rechtbank dat de auto om 14:43 uur in het parkeervak stond"},
+  {"zin": "Wachten op een passagier met bagage telt volgens de rechter niet als in- of uitstappen.", "bron": [24], "citaat": "Het gedurende deze tijd op de parkeerplaats wachten op een passagier met haar bagage"},
+  {"zin": "De parkeerder maakte volgens de rechter niet aannemelijk dat er laden en lossen was.", "bron": [25], "citaat": "niet aannemelijk gemaakt dat sprake was van laden en lossen"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de aanslag blijft staan, geen griffierecht terug, geen proceskosten.",
+ "gevolg_betrokkene": {"zin": "De naheffingsaanslag blijft staan, en de parkeerder krijgt het griffierecht niet terug, ook geen proceskosten.", "bron": [29], "citaat": "Dat betekent dat de naheffingsaanslag in stand blijft."},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "kort-stilstaan", "burger_zegt": "De parkeerder zegt dat er alleen zeven minuten werd gewacht op een dochter met bagage.", "oordeel": "verworpen", "waarom": {"zin": "Wachten op een passagier met bagage valt volgens de rechter niet onder in- of uitstappen.", "bron": [24], "citaat": "Het gedurende deze tijd op de parkeerplaats wachten op een passagier met haar bagage"}, "bruikbare_zin": {"citaat": "Onder het onmiddellijk in- of uitstappen van personen worden slechts die handelingen verstaan die een daadwerkelijk in of uitstappen vormen", "bron": [24]}},
+  {"arg": "bewijs-scanauto", "burger_zegt": "De parkeerder zegt dat op de foto's te zien moest zijn dat er iemand in de auto zat.", "oordeel": "verworpen", "waarom": {"zin": "De rechter vond dat op de foto's niets te zien was dat op in- of uitstappen wees.", "bron": [26], "citaat": "Op de foto’s zijn geen openstaande deuren, aanwezige personen of andere aanwijzingen te zien die hierop duiden"}, "bruikbare_zin": {"citaat": "Op de foto’s zijn geen openstaande deuren, aanwezige personen of andere aanwijzingen te zien die hierop duiden", "bron": [26]}}
+ ],
+ "rechtsregel": {"zin": "Stilstaan telt in beginsel als parkeren, ook als de bestuurder in de auto zit.", "type": "regel", "reikwijdte": "stilstaan op een parkeerplek met betaalplicht", "uitzondering": "onmiddellijk in- of uitstappen van personen, of laden en lossen van goederen", "herkomst": "oordeel rechter", "bron": [23], "citaat": "in beginsel als parkeren moet worden aangemerkt"},
+ "bewijs": {"bewijslast_bij": "burger", "bewijsmiddelen": ["foto's van de scanauto met tijdsaanduiding", "kenteken zichtbaar op de foto's"], "wat_gaf_doorslag": "De tijdsaanduiding op de foto's, waaruit bleek dat de auto om 14:43 uur stond."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver feitelijk oordeel over deze zaak; geen fout van de gemeente",
+ "raakt": ["bezwaar", "tarief-naheffing", "scanauto-handhaving"],
+ "klantuitleg": "De rekening voor het parkeren is terecht als de auto op een betaalplek heeft stilgestaan en u niet alleen aan het in- of uitstappen was. Wachten op een passagier met bagage telt niet als in- of uitstappen, en bij laden en lossen moet u zelf aannemelijk maken dat het zo was. Bezwaar heeft weinig kans als u alleen op iemand met bagage wachtte, dus betaal voor de tijd dat u daar staat.",
+ "gemeente": "Tilburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

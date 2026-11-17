@@ -1,0 +1,140 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2026:3551",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner ging in beroep tegen vijf naheffingen (de rekeningen achteraf) voor parkeerbelasting in Amsterdam. De gemeente had de aanslagen gehandhaafd; de rechtbank Amsterdam oordeelde.",
+ "titel": "Gemeente informeerde bewoner te weinig; aanslagen vernietigd",
+ "kern": {
+  "zin": "De rechter vernietigde de aanslagen, omdat de gemeente niet voldeed aan haar informatieplicht (de plicht om duidelijk te informeren).",
+  "bron": [
+   32
+  ],
+  "citaat": "De rechtbank oordeelt dat de heffingsambtenaar niet heeft voldaan aan zijn informatieplicht"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner betaalde de vergunning pas op 20 december 2024.",
+   "bron": [
+    25
+   ],
+   "citaat": "Eiseres heeft pas op 20 december 2024 betaald"
+  },
+  {
+   "zin": "Op de controledagen stond de auto geparkeerd terwijl de vergunning nog niet was betaald.",
+   "bron": [
+    21
+   ],
+   "citaat": "heeft geparkeerd en dat op die momenten voor de parkeervergunning nog niet was betaald"
+  },
+  {
+   "zin": "De bewoner vond dat de bevestigingsmail onvoldoende duidelijk was over de betaling.",
+   "bron": [
+    22
+   ],
+   "citaat": "geen link naar een betaalsite was opgenomen en ook niet was aangegeven"
+  },
+  {
+   "zin": "De gemeente stelde dat de vergunning pas na betaling werkt.",
+   "bron": [
+    23
+   ],
+   "citaat": "De parkeervergunning wordt pas actief na de eerste betaling"
+  },
+  {
+   "zin": "De rechter vond dat de e-mail de indruk gaf dat de vergunning al geldig was.",
+   "bron": [
+    32
+   ],
+   "citaat": "Deze tekst wekt naar het oordeel van de rechtbank de indruk dat de vergunning vanaf dat moment geldig is"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Aanslagen vernietigd omdat de gemeente niet duidelijk genoeg informeerde",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet het griffierecht terugbetalen; proceskosten krijgt de bewoner niet.",
+  "bron": [
+   36
+  ],
+  "citaat": "moet de heffingsambtenaar het griffierecht aan eiseres vergoeden"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Zij ging ervan uit dat haar bewonersvergunning geldig was, omdat de gemeente haar aanvraag had goedgekeurd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente haar informatieplicht niet is nagekomen.",
+    "bron": [
+     32
+    ],
+    "citaat": "De rechtbank oordeelt dat de heffingsambtenaar niet heeft voldaan aan zijn informatieplicht"
+   },
+   "bruikbare_zin": {
+    "citaat": "Deze tekst wekt naar het oordeel van de rechtbank de indruk dat de vergunning vanaf dat moment geldig is",
+    "bron": [
+     32
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente moet de voorwaarden van een vergunning duidelijk genoeg aan de parkeerder vertellen.",
+  "type": "regel",
+  "reikwijdte": "Voorwaarden van een bewonersvergunning bij naheffingen.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "Op de heffingsambtenaar rust een informatieplicht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "bevestigingsmail van de gemeente",
+   "betaling op 20 december 2024"
+  ],
+  "wat_gaf_doorslag": "De bevestigingsmail noemde niet dat de vergunning pas na betaling gold."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:72 lid 3 onder b Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vermeld in de bevestigingsmail van een bewonersvergunning dat de vergunning pas geldig is na betaling, met een link naar de betaalsite.",
+   "raakt": "communicatie",
+   "bron": [
+    32
+   ],
+   "citaat": "zonder de mededeling dat de vergunning nog niet geldig is en zonder verwijzing naar een factuur of betaling"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "vergunningen",
+  "communicatie"
+ ],
+ "klantuitleg": "Een bewonersvergunning werkt pas na betaling, ook als u een bevestiging hebt gekregen. Heeft de gemeente u niet duidelijk gezegd dat betalen nodig was, dan kan een naheffing vervallen; zo oordeelde de rechter hier. Bewaar in zo'n geval de e-mails en betaalbewijzen, want die helpen bij bezwaar.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

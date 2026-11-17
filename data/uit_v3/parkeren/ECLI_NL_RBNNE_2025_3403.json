@@ -1,0 +1,166 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2025:3403",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "maximale-duur",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een boete van 119 euro voor parkeren in een blauwe zone zonder parkeerschijf. De kantonrechter van de rechtbank Noord-Nederland deed het beroep mondeling af.",
+ "titel": "Blauwe zone zonder parkeerschijf: boete van 119 euro blijft staan",
+ "kern": {
+  "zin": "De kantonrechter vond dat de parkeerder het had moeten zien, en dat de boete dus terecht is opgelegd.",
+  "bron": [
+   17,
+   18
+  ],
+  "citaat": "Het had voor betrokkene duidelijk moeten zijn dat hij parkeerde in een parkeerschijfzone"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete voor parkeren bij een blauwe streep zonder duidelijke parkeerschijf.",
+   "bron": [
+    12
+   ],
+   "citaat": "parkeren bij blauwe streep terwijl niet is voorzien van een duidelijke geplaatste parkeerschijf"
+  },
+  {
+   "zin": "De parkeerder zei dat er geen bord stond dat een parkeerschijf vroeg en dat hij minder dan drie uur stond.",
+   "bron": [
+    13
+   ],
+   "citaat": "Betrokkene voert aan dat er geen bord staat dat je een parkeerschijf moet gebruiken"
+  },
+  {
+   "zin": "De verbalisant maakte een foto waarop de blauwe streep achter de auto te zien is.",
+   "bron": [
+    16
+   ],
+   "citaat": "Op de door de verbalisant gemaakte foto is te zien"
+  },
+  {
+   "zin": "De kantonrechter vond dat de parkeerder na het parkeren moest nagaan of het mocht.",
+   "bron": [
+    17
+   ],
+   "citaat": "na het parkeren dient na te gaan of parkeren op de betreffende parkeerplaats voor hem is toegestaan"
+  },
+  {
+   "zin": "De boete blijft staan, want er waren geen omstandigheden om die te matigen.",
+   "bron": [
+    18
+   ],
+   "citaat": "Door betrokkene zijn geen omstandigheden aangevoerd waaruit blijkt dat de boete gematigd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; boete van 119 euro blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De boete van 119 euro blijft staan, want het beroep is ongegrond verklaard.",
+  "bron": [
+   19
+  ],
+  "citaat": "De kantonrechter verklaart het beroep ongegrond"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Er stond geen bord dat een parkeerschijf vroeg, behalve bij de laatste inrijstrook.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rijstrook naar de plek had wel een bord dat een parkeerschijfzone aangeeft.",
+    "bron": [
+     17
+    ],
+    "citaat": "is voorzien van een bord dat aangeeft dat er sprake is van een parkeerschijfzone"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het had voor betrokkene duidelijk moeten zijn dat hij parkeerde in een parkeerschijfzone",
+    "bron": [
+     17
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij had minder dan drie uur geparkeerd, dus de boete was niet nodig.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter vond dat de boete juist ging om het ontbreken van de schijf, niet om de tijd.",
+    "bron": [
+     17
+    ],
+    "citaat": "Dat betrokkene stelt dat hij minder dan drie uur heeft geparkeerd maakt dat niet anders"
+   },
+   "bruikbare_zin": {
+    "citaat": "maakt dat niet anders",
+    "bron": [
+     17
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Door de sneeuw was de blauwe streep niet te zien.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Bij sneeuw mag van een bestuurder worden verwacht dat hij de sneeuw weghaalt om te kijken.",
+    "bron": [
+     17
+    ],
+    "citaat": "mag er bij sneeuw van een bestuurder worden verwacht dat hij de sneeuw weghaalt"
+   },
+   "bruikbare_zin": {
+    "citaat": "mag er bij sneeuw van een bestuurder worden verwacht dat hij de sneeuw weghaalt",
+    "bron": [
+     17
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bestuurder moet na het parkeren zelf nagaan of parkeren is toegestaan, ook bij sneeuw.",
+  "type": "regel",
+  "reikwijdte": "parkeerschijfzone met een blauwe streep; de bestuurder moet zelf controleren",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   17
+  ],
+  "citaat": "na het parkeren dient na te gaan of parkeren op de betreffende parkeerplaats voor hem is toegestaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring van de verbalisant in het zaakoverzicht",
+   "foto met de blauwe streep"
+  ],
+  "wat_gaf_doorslag": "De verklaring van de verbalisant en de foto; de parkeerder bracht geen concrete twijfel."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Wahv (Wet administratiefrechtelijke handhaving verkeersvoorschriften)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een boete voor parkeren in een blauwe zone is terecht als vaststaat dat er geen duidelijke parkeerschijf lag en u dat kon zien. Een korte parkeertijd maakt de boete niet ongeldig. Wilt u bezwaar maken, dan helpt het om foto's van de borden en de straat vast te leggen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "alleen plaatsnaam genoemd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

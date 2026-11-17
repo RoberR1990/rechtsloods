@@ -1,0 +1,207 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2021:4475",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing (de rekening achteraf) voor een auto die op het Cor Kieboomplein stond zonder geldig parkeerbewijs. Zij ging bij de rechtbank Rotterdam in beroep tegen de gemeente Rotterdam.",
+ "titel": "Naheffing blijft staan; gemeente betaalt wel proceskosten",
+ "kern": {
+  "zin": "De rechter houdt de naheffing in stand, maar veroordeelt de gemeente in proceskosten, omdat het motiveringsbeginsel was geschonden.",
+  "bron": [
+   24
+  ],
+  "citaat": "Wel ziet de rechtbank hierin aanleiding verweerder te veroordelen in de door eiseres gemaakte proceskosten"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle bleek dat er voor de auto geen geldig parkeerbewijs was.",
+   "bron": [
+    19
+   ],
+   "citaat": "bij controle is gebleken dat geen geldig parkeerbewijs voor de auto was geregistreerd"
+  },
+  {
+   "zin": "De parkeerder zei dat de ambtenaren niet bevoegd waren om de naheffing op te leggen.",
+   "bron": [
+    22
+   ],
+   "citaat": "stelt allereerst dat de betrokken ambtenaren niet bevoegd zijn om de naheffingsaanslag op te leggen"
+  },
+  {
+   "zin": "De rechter vond op basis van de stukken dat de gemeente de bevoegdheid voldoende had aangetoond.",
+   "bron": [
+    23
+   ],
+   "citaat": "Verweerder heeft met de door hem overgelegde stukken aannemelijk gemaakt dat de naheffingsaanslag bevoegd is opgelegd"
+  },
+  {
+   "zin": "De rechter oordeelde dat de parkeerder in bezwaar voldoende kans had gekregen om gehoord te worden.",
+   "bron": [
+    34
+   ],
+   "citaat": "eiseres met de hierboven beschreven brieven voldoende in de gelegenheid is gesteld om te worden gehoord"
+  },
+  {
+   "zin": "Wel vond de rechter dat de gemeente pas in beroep de bevoegdheidsstukken gaf, wat het motiveringsbeginsel schond.",
+   "bron": [
+    24
+   ],
+   "citaat": "De rechtbank is dan ook van oordeel dat het motiveringsbeginsel is geschonden"
+  },
+  {
+   "zin": "De gemeente moet de proceskosten van 799 euro en het griffierecht van 47 euro vergoeden.",
+   "bron": [
+    55,
+    54
+   ],
+   "citaat": "veroordeelt verweerder in de (proces)kosten van eiseres tot een bedrag van € 799,-"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Naheffing blijft staan; alleen proceskosten en griffierecht voor de parkeerder.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan, maar de gemeente vergoedt de proceskosten van 799 euro en het griffierecht van 47 euro.",
+  "bron": [
+   55,
+   54
+  ],
+  "citaat": "veroordeelt verweerder in de (proces)kosten van eiseres tot een bedrag van € 799,-"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Op de foto van de scanauto blijkt niet dat het een fiscale parkeerplaats was, en de bebording was niet aanwezig.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de gemeente met de stukken aannemelijk maakte dat de auto op een fiscale plek stond.",
+    "bron": [
+     43
+    ],
+    "citaat": "verweerder aannemelijk heeft gemaakt dat de auto van eiseres ten tijde van het opleggen van de naheffingsaanslag op een fiscale parkeerplaats stond"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat de scanauto alleen op fiscale parkeerplekken controleert",
+    "bron": [
+     43
+    ]
+   }
+  },
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Mogelijk stond zij alleen kort stil om in of uit te stappen, of om te laden en lossen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt die verweren niet genoeg onderbouwd.",
+    "bron": [
+     44
+    ],
+    "citaat": "volgt de rechtbank niet, nu die stellingen niet nader zijn onderbouwd"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "Zij is in bezwaar niet gehoord, terwijl zij daar om had gevraagd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat zij meerdere keren zonder bericht niet is verschenen op de hoorzitting.",
+    "bron": [
+     34
+    ],
+    "citaat": "Daarbij neemt de rechtbank in aanmerking dat zij meerdere malen zonder kennisgeving niet is verschenen"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente was niet bevoegd, en pas in beroep kreeg zij de stukken daarover.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de gemeente met de stukken aannemelijk maakte dat zij bevoegd was.",
+    "bron": [
+     23
+    ],
+    "citaat": "Verweerder heeft met de door hem overgelegde stukken aannemelijk gemaakt dat de naheffingsaanslag bevoegd is opgelegd"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Pas in beroep kreeg zij de bevoegdheidsstukken, wat het motiveringsbeginsel schendt.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter stelt vast dat het motiveringsbeginsel is geschonden, maar dat wordt alleen met proceskosten hersteld.",
+    "bron": [
+     24
+    ],
+    "citaat": "De rechtbank is dan ook van oordeel dat het motiveringsbeginsel is geschonden"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeren is het gedurende een aaneengesloten periode laten staan van een voertuig, behalve bij direct in- of uitstappen of laden en lossen.",
+  "type": "regel",
+  "reikwijdte": "Parkeren op openbare terreinen en weggedeelten in Rotterdam, voor de parkeerbelasting.",
+  "uitzondering": "Onmiddellijk in- of uitstappen, laden of lossen.",
+  "herkomst": "lokale verordening",
+  "bron": [
+   40
+  ],
+  "citaat": "het gedurende een aaneengesloten periode doen of laten staan van een voertuig"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto van de scanauto",
+   "HAS-rapport met GPS-coördinaten",
+   "foto van Google Maps van het plein",
+   "toelichting bij het overzicht uit het overtredingssysteem"
+  ],
+  "wat_gaf_doorslag": "Met het HAS-rapport en de GPS-gegevens maakte de gemeente aannemelijk dat de auto op een fiscale plek stond."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 Gemeentewet",
+  "art. 231 lid 2 onder b Gemeentewet",
+  "art. 9 lid 2 Verordening parkeerregulering en parkeerbelastingen Rotterdam",
+  "art. 8:42 Awb",
+  "art. 8:31 Awb",
+  "art. 7:2 Awb",
+  "art. 6:22 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg de bevoegdheidsstukken al in het bezwaar over, niet pas in beroep.",
+   "raakt": "bezwaar",
+   "bron": [
+    24
+   ],
+   "citaat": "verweerder pas in de beroepsfase stukken heeft overgelegd ten aanzien van de bevoegdheid"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Een naheffing blijft staan als de gemeente aannemelijk maakt dat uw auto op een betaald parkeervak stond. Reageer op een uitnodiging voor een hoorzitting, want anders kan de gemeente zonder u beslissen. Heeft u een foto of ander bewijs dat een ander beeld geeft, neem dat dan mee; dat helpt, maar is geen garantie.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

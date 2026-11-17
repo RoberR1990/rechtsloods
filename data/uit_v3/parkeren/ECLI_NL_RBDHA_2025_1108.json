@@ -1,0 +1,182 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2025:1108",
+ "relevant": true,
+ "kenmerk": null,
+ "dubbel_van": null,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner in Den Haag procedeert tegen het college van burgemeester en wethouders, omdat zijn bewonersparkeervergunning is ingetrokken. De rechtbank Den Haag (één rechter) beoordeelt dat beroep.",
+ "titel": "Bewoner verliest beroep tegen intrekking parkeervergunning in Den Haag",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente zich op het standpunt mocht stellen dat de bewoner een parkeerplek op eigen terrein (POET) heeft, dus bleef de intrekking staan.",
+  "bron": [
+   17
+  ],
+  "citaat": "verweerder zich op het standpunt heeft kunnen stellen dat eiser over een POET kan beschikken"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewonersvergunning werd ingetrokken, omdat er vlakbij een parkeergarage is.",
+   "bron": [
+    13
+   ],
+   "citaat": "in de parkeergarage [parkeergarage] vlakbij zijn woning"
+  },
+  {
+   "zin": "Volgens de bewoner ontbreekt er een eigen parkeerplek bij zijn woning.",
+   "bron": [
+    15
+   ],
+   "citaat": "niet beschikt over een parkeerplaats op eigen terrein"
+  },
+  {
+   "zin": "Volgens de gemeente staat in de bouwvergunning dat juist deze garage de plek levert.",
+   "bron": [
+    20
+   ],
+   "citaat": "Dit omdat de garage is aangewezen in de bouwvergunning"
+  },
+  {
+   "zin": "De rechter ziet de garage niet als vol, en daarom geldt de plek als eigen plek.",
+   "bron": [
+    20
+   ],
+   "citaat": "Nu niet is gebleken dat de parkeergarage vol is"
+  },
+  {
+   "zin": "Een tijdelijke vergunning bij de verbouwing speelt nu geen rol.",
+   "bron": [
+    30
+   ],
+   "citaat": "Nu dit nog niet aan de orde is, niet zeker is wanneer de garage dichtgaat"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; intrekking blijft, geen griffierecht of proceskosten terug.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de bewoner betekent dit dat de vergunning weg blijft en dat hij geen proceskosten of griffierecht terugkrijgt.",
+  "bron": [
+   32
+  ],
+  "citaat": "Dat betekent dat de intrekking van de parkeervergunning in stand blijft"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De garagekosten zijn veel hoger dan de vergunning; de hardheidsclausule had moeten worden toegepast.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Hoge garagekosten zijn op zich geen reden om van het beleid af te wijken.",
+    "bron": [
+     26
+    ],
+    "citaat": "is op zichzelf geen bijzondere omstandigheid"
+   },
+   "bruikbare_zin": {
+    "citaat": "is op zichzelf geen bijzondere omstandigheid",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Een gemeentemedewerker zou hebben toegezegd dat hij een tweede vergunning krijgt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een mogelijkheid om een vergunning aan te vragen is geen recht daarop.",
+    "bron": [
+     28
+    ],
+    "citaat": "Dat hij die kan aanvragen is nog geen toezegging dat hij daar ook recht op heeft"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat hij die kan aanvragen is nog geen toezegging",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De garage gaat dicht, dus hij heeft recht op een tijdelijke vergunning.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt de verbouwing nog niet aan de orde, omdat de sluiting nog onzeker is.",
+    "bron": [
+     30
+    ],
+    "citaat": "Nu dit nog niet aan de orde is, niet zeker is wanneer de garage dichtgaat"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet zeker is wanneer de garage dichtgaat",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het beleid om wie al een eigen parkeerplek heeft te weigeren, houdt stand: dat is niet kennelijk onredelijk.",
+  "type": "regel",
+  "reikwijdte": "aanvragers van een bewonersvergunning die een parkeerplek op eigen terrein hebben",
+  "uitzondering": "een bijzondere omstandigheid kan reden zijn om van het beleid af te wijken",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "Volgens vaste rechtspraak is een beleidsregel, die meebrengt dat een aanvrager met een POET"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "bouwvergunning",
+   "omgevingsvergunning"
+  ],
+  "wat_gaf_doorslag": "De garage was niet vol en stond in de bouwvergunning, dus er was een eigen plek."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RBDHA:2016:15554",
+   "ECLI:NL:RVS:2014:3096",
+   "ECLI:NL:RVS:2011:BU5404",
+   "ECLI:NL:RVS:2008:BC7092",
+   "ECLI:NL:RVS:2024:4055"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 4.2.1 lid 6 Regeling parkeerregulering en parkeerbelastingen Den Haag 2022",
+  "art. 2:5 aanhef en onder h Verordening"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Maak op de website duidelijk wanneer een tijdelijke bewonersvergunning geldt, bijvoorbeeld bij verbouwing van een garage.",
+   "raakt": "communicatie",
+   "bron": [
+    30
+   ],
+   "citaat": "Op de website van de gemeente staat dat een (tijdelijke) parkeervergunning kan worden verleend"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "communicatie"
+ ],
+ "klantuitleg": "Of een bewonersvergunning terecht wordt ingetrokken, hangt af van of u al een eigen parkeerplek heeft, ook in een garage. De rechter vond dat de garage hier niet vol was en dat die plek dus telt. Wilt u bezwaar maken, dan helpt een verklaring van de beheerder dat de garage vol is; een mondelinge toezegging van een medewerker telt niet als recht.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "zekerheid": "hoog"
+}

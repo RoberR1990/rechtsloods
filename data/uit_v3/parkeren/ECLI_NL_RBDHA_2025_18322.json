@@ -1,0 +1,42 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2025:18322",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "parkeerder", "wederpartij": "gemeente Den Haag", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg in Den Haag een naheffingsaanslag (de rekening achteraf) voor parkeerbelasting. De parkeerder procedeerde tegen de gemeente Den Haag bij de rechtbank Den Haag.",
+ "titel": "Rekening terecht: zonenummer stond op borden in de buurt",
+ "kern": {"zin": "De rechter vond de rekening terecht: de borden in de buurt toonden het zonenummer, en de parkeerder moest zelf uitzoeken welk tarief gold.", "bron": [23], "citaat": "De heffingsambtenaar heeft daarmee dus aan zijn informatieplicht voldaan."},
+ "samenvatting": [
+  {"zin": "Bij een controle bleek dat de parkeerder in de juiste zone niet had betaald.", "bron": [15], "citaat": "geen parkeerbelasting was voldaan in de juiste parkeerzone"},
+  {"zin": "De parkeerder vond dat het zonenummer niet zichtbaar was op een redelijke afstand van de parkeerplek.", "bron": [19], "citaat": "zij geen zichtbaar bord waarop het zonenummer vermeld staat kon vinden"},
+  {"zin": "De gemeente zegt dat het zonenummer zowel in de parkeerapp als op borden bij de auto te zien was.", "bron": [20], "citaat": "het zonenummer wel degelijk te zien moest zijn geweest, zowel in de Easypark-app"},
+  {"zin": "De rechter vond dat op enkele meters afstand borden stonden met het zonenummer.", "bron": [23], "citaat": "meerdere borden staan waaruit blijkt welk zonenummer geldt voor het desbetreffende gebied"},
+  {"zin": "De rechter legde de verantwoordelijkheid voor het juiste zonenummer bij de parkeerder.", "bron": [23], "citaat": "Verder is het haar eigen verantwoordelijkheid te zorgen dat het juiste zonenummer wordt ingevoerd"},
+  {"zin": "Persoonlijke omstandigheden maakten de regel niet anders, omdat er geen acute noodsituatie was.", "bron": [24], "citaat": "Dit is slechts anders als sprake is van een acute noodsituatie"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de parkeerder krijgt geen gelijk en geen proceskosten.",
+ "gevolg_betrokkene": {"zin": "De naheffingsaanslag blijft staan, dus de parkeerder moet de rekening betalen.", "bron": [24], "citaat": "De rechtbank oordeelt dat de naheffingsaanslag terecht is opgelegd."},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "borden-onduidelijk", "burger_zegt": "Er was geen zichtbaar bord met het zonenummer op een redelijke afstand van de parkeerplaats.", "oordeel": "verworpen", "waarom": {"zin": "De rechter vond dat de gemeente aan de informatieplicht had voldaan.", "bron": [23], "citaat": "De heffingsambtenaar heeft daarmee dus aan zijn informatieplicht voldaan."}, "bruikbare_zin": {"citaat": "meerdere borden staan waaruit blijkt welk zonenummer geldt voor het desbetreffende gebied", "bron": [23]}}
+ ],
+ "rechtsregel": {"zin": "Een gemeente moet op straat duidelijk maken dat er betaald moet worden en welk tarief geldt; de parkeerder moet zelf nagaan wat het tarief is.", "type": "regel", "reikwijdte": "parkeerbelasting op straat: wat de gemeente ter plaatse moet tonen en wat de parkeerder moet nagaan", "uitzondering": "een acute noodsituatie waardoor de parkeerder niet (tijdig) kon betalen", "herkomst": "oordeel rechter", "bron": [22], "citaat": "de plicht om ter plaatse kenbaar te maken dat parkeerbelasting verschuldigd is"},
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": ["foto's van de straat", "scanauto-controle"], "wat_gaf_doorslag": "Borden op enkele meters van de parkeerplek, waaruit het juiste zonenummer bleek."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "bevestigt", "eerdere": []},
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente won op de feiten; de rechter vraagt geen nieuwe actie",
+ "raakt": ["bezwaar", "klantcontact", "tarief-naheffing", "bebording-verkeersbesluit"],
+ "klantuitleg": "De rekening voor het parkeren is terecht als de gemeente op straat duidelijk heeft laten zien dat u moet betalen en welk tarief geldt. Het is ook uw taak om vooraf te controleren welk zonenummer geldt, bijvoorbeeld op de borden in de buurt. Bezwaar heeft op dit punt weinig kans, tenzij er een acute noodsituatie was waardoor u niet kon betalen.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

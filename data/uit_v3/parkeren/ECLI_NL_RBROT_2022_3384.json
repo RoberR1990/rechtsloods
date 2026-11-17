@@ -1,0 +1,144 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2022:3384",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "privaat-boete-voorwaarden",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "exploitant Q-Park",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "Dit is een zaak van de kantonrechter van de rechtbank Rotterdam. Parkeerbedrijf Q-Park vorderde geld van een parkeerder die de parkeergarage zonder te betalen had verlaten.",
+ "titel": "Wegrijden zonder betalen: alleen wettelijke rente blijft over",
+ "kern": {
+  "zin": "Q-Park kreeg in principe gelijk, maar omdat de hoofdsom al betaald was, blijft alleen wettelijke rente over.",
+  "bron": [
+   55,
+   50
+  ],
+  "citaat": "de door Q-Park gevorderde hoofdsom en vergoeding voor buitengerechtelijke incassokosten al volledig zijn betaald"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 18 juni 2021 verliet een parkeerder de garage Zuidplein zonder te betalen, door achter een ander aan onder de slagboom door te rijden.",
+   "bron": [
+    34,
+    25
+   ],
+   "citaat": "zonder gebruikmaking van een geldig parkeerbewijs"
+  },
+  {
+   "zin": "De hoofdsom was 337,97 euro, bestaand uit het tarief voor de verloren kaart en een schadevergoeding.",
+   "bron": [
+    52
+   ],
+   "citaat": "bestaande uit € 18,00 aan het tarief voor de verloren kaart en € 319,97 aan schadevergoeding"
+  },
+  {
+   "zin": "De parkeerder zei het parkeergeld achteraf te hebben betaald en legde een betalingsbewijs over.",
+   "bron": [
+    40
+   ],
+   "citaat": "Ter onderbouwing hiervan overhandigt [gedaagde] een betalingsbewijs."
+  },
+  {
+   "zin": "Volgens Q-Park moet de schadevergoeding hoog genoeg zijn om treintje rijden te ontmoedigen.",
+   "bron": [
+    49
+   ],
+   "citaat": "Voor een voldoende preventieve werking is vereist dat het verschuldigde bedrag hoog genoeg is."
+  },
+  {
+   "zin": "De kantonrechter vond de schadevergoeding niet oneerlijk en zag het betalingsbewijs niet als bewijs.",
+   "bron": [
+    50,
+    51
+   ],
+   "citaat": "de door Q-Park bedongen schadevergoeding niet oneerlijk in de zin van de Richtlijn"
+  },
+  {
+   "zin": "Na de dagvaarding was de hoofdsom al betaald, dus blijft alleen wettelijke rente over tot 6 oktober 2021.",
+   "bron": [
+    55,
+    52
+   ],
+   "citaat": "de door Q-Park gevorderde hoofdsom en vergoeding voor buitengerechtelijke incassokosten al volledig zijn betaald"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoofdsom al betaald; alleen rente en proceskosten voor de parkeerder.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt geen hoofdsom en incassokosten meer, wel wettelijke rente over 337,97 euro en de proceskosten van Q-Park.",
+  "bron": [
+   55,
+   56,
+   65
+  ],
+  "citaat": "de door Q-Park gevorderde hoofdsom en vergoeding voor buitengerechtelijke incassokosten al volledig zijn betaald"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder zegt het parkeergeld achteraf te hebben betaald.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het wegrijden zonder betalen werd daarmee niet ongedaan, en het betalingsbewijs was op naam van een ander gesteld.",
+    "bron": [
+     51
+    ],
+    "citaat": "In de eerste plaats maakt dit niet ongedaan dat [gedaagde] de parkeeraccommodatie op onrechtmatige wijze heeft verlaten."
+   },
+   "bruikbare_zin": {
+    "citaat": "Nu Q-Park bovendien heeft betwist dat [gedaagde] het parkeergeld heeft betaald",
+    "bron": [
+     51
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een betaling strekt eerst af op de kosten, daarna op de rente en pas daarna op de hoofdsom.",
+  "type": "regel",
+  "reikwijdte": "betalingen bij een vordering met kosten en rente",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   52
+  ],
+  "citaat": "Op grond van artikel 6:44 lid 1 BW strekt dit bedrag eerst in mindering van de kosten"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "betalingsbewijs op naam van een ander"
+  ],
+  "wat_gaf_doorslag": "Het parkeerkaartje was niet overgelegd en het betalingsbewijs stond op naam van een ander."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2013:691"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 6:44 lid 1 BW",
+  "art. 6:233 BW",
+  "art. 6:119 BW"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "klantcontact"
+ ],
+ "klantuitleg": "Bent u zonder te betalen uit een parkeergarage weggereden, dan kan de exploitant het parkeergeld en een extra schadevergoeding vorderen. Achteraf betalen maakt het wegrijden niet ongedaan, en een betaalbewijs op naam van iemand anders werd door de rechter niet als bewijs gezien. Heeft u wel betaald, bewaar dan uw eigen parkeerkaartje of betaalbewijs op uw eigen naam.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente partij in deze zaak",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

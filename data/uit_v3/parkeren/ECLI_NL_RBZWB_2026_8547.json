@@ -1,0 +1,193 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:8547",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Tilburg",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeerde tegen de gemeente Tilburg over een naheffingsaanslag parkeerbelasting (de rekening achteraf voor niet betaald parkeren). Het beroep ging naar de Rechtbank Zeeland-West-Brabant, die de zaak zonder zitting behandelde.",
+ "titel": "Parkeerder betaalde niet en reed weg; kosten blijven staan",
+ "kern": {
+  "zin": "De naheffing blijft staan, omdat het dagkaartregime vooraf bekend was en de parkeerder zelf niet betaalde.",
+  "bron": [
+   23
+  ],
+  "citaat": "Het dagkaartregime was in dit geval vóór het parkeren kenbaar."
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 23 augustus 2025 stond de auto van de parkeerder stil op een parkeerplek.",
+   "bron": [
+    14
+   ],
+   "citaat": "stil op een parkeerplek aan de [straat] in [plaats]"
+  },
+  {
+   "zin": "Zij zei dat ze alleen even stilstond om een parkeeractie te starten.",
+   "bron": [
+    19
+   ],
+   "citaat": "De auto stond volgens haar slechts tijdelijk stil terwijl zij probeerde een parkeeractie te starten"
+  },
+  {
+   "zin": "De gemeente bleef bij de naheffing en wees het bezwaar af.",
+   "bron": [
+    11
+   ],
+   "citaat": "tegen de naheffingsaanslag parkeerbelasting ongegrond verklaard"
+  },
+  {
+   "zin": "Volgens de rechter was er wel degelijk sprake van parkeren.",
+   "bron": [
+    21
+   ],
+   "citaat": "sprake van parkeren in de zin van artikel 225, tweede lid, van de Gemeentewet"
+  },
+  {
+   "zin": "Omdat het dagkaartregime vooraf bekend was, kon de parkeerder zich niet op extra betaaltijd beroepen.",
+   "bron": [
+    23
+   ],
+   "citaat": "Het dagkaartregime was in dit geval vóór het parkeren kenbaar."
+  },
+  {
+   "zin": "De naheffing blijft staan.",
+   "bron": [
+    30
+   ],
+   "citaat": "Dat betekent dat de naheffingsaanslag parkeerbelasting in stand blijft."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; de parkeerder verloor op alle beroepsgronden.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de rekening betalen en krijgt ook het griffierecht niet terug en geen proceskosten.",
+  "bron": [
+   30
+  ],
+  "citaat": "krijgt zij ook geen vergoeding van haar proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Zij zegt dat ze alleen even stilstond om een parkeeractie te starten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter telt stilstaan als parkeren, en de reden van de parkeerder doet er niet toe.",
+    "bron": [
+     21
+    ],
+    "citaat": "is voor de kwalificatie als parkeren verder niet van belang"
+   },
+   "bruikbare_zin": {
+    "citaat": "is voor de kwalificatie als parkeren verder niet van belang",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "Zij wijst op technische problemen met de parkeerapps.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter hebben de app-problemen haar niet verhinderd te betalen.",
+    "bron": [
+     24
+    ],
+    "citaat": "De gestelde problemen met de parkeerapps hebben er niet toe geleid"
+   },
+   "bruikbare_zin": {
+    "citaat": "uiteindelijk zelf besloten geen betaling te doen maar elders te parkeren",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Zij vindt de rekening onevenredig en vraagt om coulance.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter mag een naheffing in beginsel niet aan het evenredigheidsbeginsel toetsen.",
+    "bron": [
+     26
+    ],
+    "citaat": "niet toegestaan om de wettelijke verplichting tot het opleggen van een naheffingsaanslag te toetsen"
+   },
+   "bruikbare_zin": {
+    "citaat": "tenzij sprake is van bijzondere omstandigheden die niet of niet ten volle zijn verdisconteerd in de afweging van de wetgever",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "gelijkheid",
+   "burger_zegt": "Zij zegt dat andere gemeenten in vergelijkbare gevallen wel coulance geven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Wat andere gemeenten doen, verplicht Tilburg niet tot hetzelfde beleid.",
+    "bron": [
+     28
+    ],
+    "citaat": "verplicht de heffingsambtenaar van de gemeente Tilburg niet om hetzelfde beleid te voeren"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet om hetzelfde beleid te voeren",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Na het parkeren is er een redelijke betaaltermijn, maar niet als de regels vooraf kenbaar waren.",
+  "type": "regel",
+  "reikwijdte": "parkeerders die na het parkeren alsnog willen betalen",
+  "uitzondering": "de regels waren vooraf kenbaar",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "voor zover de daarvoor relevante voorwaarden vooraf kenbaar waren"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "controle door scanauto"
+  ],
+  "wat_gaf_doorslag": "De bebording bij de toegangswegen maakte het dagkaartregime vooraf kenbaar."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "art. 1 onder a Verordening heffing en invordering parkeerbelastingen Tilburg 2025",
+  "art. 6 lid 1 Verordening heffing en invordering parkeerbelastingen Tilburg 2025"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen eis of kritiek aan de gemeente; de rechter zag de bebording als voldoende",
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een parkeerder die niet betaalt, krijgt achteraf een rekening voor het parkeren. Die rekening blijft staan als de regels op de borden vooraf duidelijk waren, ook als de app niet werkte. Heeft u bewijs dat de borden of de zone niet zichtbaar waren, dan kan dat helpen bij bezwaar; zonder dat bewijs is de kans klein.",
+ "gemeente": "Tilburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,171 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2026:1306",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Zeist",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Zeist een naheffing van 78,30 euro. Hij gaat in beroep bij de rechtbank Midden-Nederland.",
+ "titel": "Naheffing vervalt: gemeente gaf onvoldoende informatie ter plaatse",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente te weinig informatie ter plaatse gaf, dus de naheffing is herroepen.",
+  "bron": [
+   30
+  ],
+  "citaat": "de heffingsambtenaar onvoldoende aan zijn informatieplicht heeft voldaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controleur zag op 2 augustus 2024 een auto in Zeist zonder betaalde parkeerbelasting.",
+   "bron": [
+    26
+   ],
+   "citaat": "terwijl geen parkeerbelasting was betaald"
+  },
+  {
+   "zin": "De parkeerder zei dat hij met een app had betaald en dat er geen bord was dat iets anders zei.",
+   "bron": [
+    27
+   ],
+   "citaat": "Eiser stelt dat er wel voor het parkeren is betaald door middel van een parkeerapp"
+  },
+  {
+   "zin": "De gemeente zei dat er wel betaald was, maar voor de verkeerde zone.",
+   "bron": [
+    28
+   ],
+   "citaat": "dat er inderdaad met een parkeerapp is betaald, maar voor de verkeerde zone"
+  },
+  {
+   "zin": "De rechter nam de versie van de parkeerder over, omdat de gemeente niets inbracht.",
+   "bron": [
+    30
+   ],
+   "citaat": "Zonder inlichtingen of een standpunt van de heffingsambtenaar kan de rechtbank niet anders"
+  },
+  {
+   "zin": "De rechter verklaarde het beroep gegrond en vernietigde de uitspraak op bezwaar.",
+   "bron": [
+    18
+   ],
+   "citaat": "vernietigt de uitspraak op bezwaar;"
+  },
+  {
+   "zin": "De parkeerder krijgt het griffierecht van 51 euro terug.",
+   "bron": [
+    23
+   ],
+   "citaat": "het betaalde griffierecht van € 51,- aan eiser te vergoeden"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Beroep gegrond; naheffing herroepen, griffierecht terug.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft de naheffing en de aanmaningskosten niet meer te betalen.",
+  "bron": [
+   20,
+   19
+  ],
+  "citaat": "vernietigt de beschikking waarbij de aanmaningskosten in rekening zijn gebracht"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Er stond geen bord dat liet zien dat de plek alleen voor vergunninghouders was.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de parkeerder geen bord of automaat had gezien die de wijziging aangaf.",
+    "bron": [
+     30
+    ],
+    "citaat": "geen bord of parkeerautomaat is gepasseerd waaruit hij kon afleiden dat de situatie is gewijzigd"
+   },
+   "bruikbare_zin": {
+    "citaat": "de heffingsambtenaar onvoldoende aan zijn informatieplicht heeft voldaan",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Ik heb betaald, maar de zone was recent veranderd zonder dat ik dat wist.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter nam aan dat de zonewijziging niet duidelijk was.",
+    "bron": [
+     30
+    ],
+    "citaat": "dat het onvoldoende duidelijk was dat de situatie recent was gewijzigd"
+   },
+   "bruikbare_zin": {
+    "citaat": "De situatie was pas recent gewijzigd, zonder dat eiser dit wist",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente moet ter plaatse laten zien dat betalen nodig is, en de parkeerder moet zelf opletten.",
+  "type": "regel",
+  "reikwijdte": "Naheffingen parkeerbelasting op straat, met bebording of een automaat ter plaatse",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   29
+  ],
+  "citaat": "Van een parkeerder mag worden verwacht dat hij bij aanvang van het parkeren voldoende onderzoekt of parkeerbelasting verschuldigd is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "screenshot van de parkeeractie door de parkeerder",
+   "streetview-beelden en de rijrichting van de parkeerder"
+  ],
+  "wat_gaf_doorslag": "Doordat de gemeente niet op de zitting was, kon de rechter niet anders dan de parkeerder geloven."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Geef bij een zonewijziging op de plek zelf duidelijke informatie, zodat de informatieplicht is nagekomen.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    29
+   ],
+   "citaat": "rust op de heffingsambtenaar de plicht om ter plaatse kenbaar te maken dat parkeerbelasting verschuldigd is"
+  },
+  {
+   "actie": "Lever bij een zitting vooraf de inlichtingen en het standpunt van de gemeente aan, zodat de rechter ze kan betrekken.",
+   "raakt": "bezwaar",
+   "bron": [
+    30
+   ],
+   "citaat": "Vanwege de afwezigheid van de heffingsambtenaar op de zitting heeft de rechtbank geen mogelijkheid gehad"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "bebording-verkeersbesluit",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Een naheffing is alleen terecht als de gemeente ter plaatse duidelijk heeft gemaakt dat betalen nodig was. Heeft u betaald, maar in een andere zone, dan kan bezwaar nog zinvol zijn. Bewaar uw betaalbewijs en maak foto's van de borden op de plek; dat helpt, maar garandeert niets.",
+ "gemeente": "Zeist",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

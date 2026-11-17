@@ -1,0 +1,136 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "dubbel_van": null,
+ "ecli": "ECLI:NL:GHAMS:2026:2445",
+ "onderwerp": "strafzaken-bevelen",
+ "sub": "gedragsaanwijzing",
+ "kenmerk": null,
+ "zaaktype": "strafzaak",
+ "partijen": {
+  "burger": "verdachte",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Dit is een strafzaak bij het gerechtshof Amsterdam. De verdachte ging in hoger beroep tegen een veroordeling door de politierechter voor mishandeling en het negeren van een bevel om niet in een straat te komen.",
+ "titel": "Celstraf voor mishandeling en negeren van straatverbod",
+ "kern": {
+  "zin": "De rechter bevestigt de veroordeling en maakt de straf zwaarder, omdat de straf van de politierechter te licht was voor de ernst van de mishandelingen.",
+  "bron": [
+   37
+  ],
+  "citaat": "met de door de politierechter opgelegde straf onvoldoende recht is gedaan aan de ernst"
+ },
+ "samenvatting": [
+  {
+   "zin": "Samen met een ander mishandelde de verdachte twee broers in hun eigen woning, nadat zij hem hadden gevraagd te vertrekken.",
+   "bron": [
+    35
+   ],
+   "citaat": "heeft de verdachte twee broers in hun eigen woning ernstig mishandeld, na door hen te zijn verzocht te vertrekken"
+  },
+  {
+   "zin": "Daarna kreeg de verdachte een gedragsaanwijzing (een bevel over wat hij wel en niet mag doen): geen contact met de broers en niet meer in hun straat komen.",
+   "bron": [
+    35
+   ],
+   "citaat": "van contact met de broers dient te onthouden en dat hij niet meer in de straat mag komen"
+  },
+  {
+   "zin": "De verdediging zei dat de verklaring van een slachtoffer, dat niet kon worden ondervraagd, niet voor het bewijs mocht worden gebruikt.",
+   "bron": [
+    23
+   ],
+   "citaat": "de verklaringen van deze getuige daarom niet voor het bewijs kunnen worden gebruikt"
+  },
+  {
+   "zin": "De advocaat-generaal (de aanklager bij het hof) wilde een gevangenisstraf van een maand.",
+   "bron": [
+    33
+   ],
+   "citaat": "gevangenisstraf voor de duur van een maand"
+  },
+  {
+   "zin": "De rechter vindt het gebruik van die verklaring eerlijk, omdat de verklaring grotendeels wordt bevestigd door andere verklaringen en het letsel.",
+   "bron": [
+    25
+   ],
+   "citaat": "wordt grotendeels bevestigd in de verklaringen van [slachtoffer 1] en het geconstateerde letsel"
+  },
+  {
+   "zin": "De rechter legt vijf weken gevangenisstraf op, nu zonder voorwaardelijk deel.",
+   "bron": [
+    46
+   ],
+   "citaat": "Veroordeelt de verdachte tot een gevangenisstraf voor de duur van 5 (vijf) weken"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Veroordeling bevestigd; vijf weken celstraf zonder voorwaardelijk deel",
+ "gevolg_betrokkene": {
+  "zin": "De verdachte moet vijf weken de gevangenis in, met aftrek van de tijd in voorarrest.",
+  "bron": [
+   46,
+   47
+  ],
+  "citaat": "Veroordeelt de verdachte tot een gevangenisstraf voor de duur van 5 (vijf) weken"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Een slachtoffer is niet ondervraagd, dus de verklaring mag niet als bewijs dienen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De verklaring is niet van beslissende betekenis, omdat de rechter ook zonder die verklaring tot bewezenverklaring had kunnen komen.",
+    "bron": [
+     25
+    ],
+    "citaat": "had het hof ook zonder de verklaring van [slachtoffer 2] tot een bewezenverklaring kunnen komen"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "In deze zaak mocht de verklaring van een niet ondervraagd slachtoffer meetellen, omdat ze niet van beslissende betekenis was.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Verklaring van een slachtoffer dat niet kon worden gehoord, terwijl ander bewijs de bewezenverklaring ook draagt",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "het gebruik van de getuigenverklaring van [slachtoffer 2] verenigbaar is met het recht op een eerlijk proces"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van een slachtoffer bij de politie",
+   "aangifte van het tweede slachtoffer",
+   "vastgesteld letsel"
+  ],
+  "wat_gaf_doorslag": "De verklaring van het ene slachtoffer vlak na het incident werd bevestigd door het letsel."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 47 Wetboek van Strafrecht",
+  "art. 57 Wetboek van Strafrecht",
+  "art. 63 Wetboek van Strafrecht",
+  "art. 184a Wetboek van Strafrecht",
+  "art. 300 Wetboek van Strafrecht"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver strafrechtelijke uitspraak; gemeente geen partij",
+ "raakt": [
+  "handhaving-openbare-orde"
+ ],
+ "klantuitleg": "Een gedragsaanwijzing is een bevel over wat u wel en niet mag doen, bijvoorbeeld een straat mijden. In deze zaak telde het negeren van zo'n bevel zwaar mee in de straf. Twijfelt u over wat u mag, vraag het dan aan wie het bevel gaf of aan een advocaat.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "niet genoemd in de uitspraak",
+ "zekerheid": "middel"
+}

@@ -1,0 +1,142 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2023:6772",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "invordering",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente (via de invorderingsambtenaar van de Belastingsamenwerking)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder kreeg een naheffing parkeerbelasting (de rekening achteraf) en daarna een dwangbevel (een dwingende betaalaanzegging met extra kosten). Hij ging naar de rechtbank Midden-Nederland, tegen de invorderingsambtenaar van de Belastingsamenwerking gemeenten.",
+ "titel": "Parkeerder krijgt proceskosten terug; aanmaning niet bewezen",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente niet kon aantonen dat de aanmaning de parkeerder had bereikt, dus moet de gemeente de proceskosten van het bezwaar betalen.",
+  "bron": [
+   23
+  ],
+  "citaat": "Omdat redelijkerwijs aan de ontvangst van de aanmaning moet worden getwijfeld"
+ },
+ "samenvatting": [
+  {
+   "zin": "In augustus 2022 volgde een dwangbevel voor de naheffing.",
+   "bron": [
+    11
+   ],
+   "citaat": "Op 13 augustus 2022 heeft de invorderingsambtenaar eiser een dwangbevel gestuurd"
+  },
+  {
+   "zin": "Volgens de parkeerder kwam de aanmaning vooraf nooit binnen.",
+   "bron": [
+    19
+   ],
+   "citaat": "Eiser voert aan dat hij de aan het dwangbevel voorafgaande aanmaning niet heeft ontvangen"
+  },
+  {
+   "zin": "De invorderingsambtenaar wees op eerdere brieven die niet terugkwamen, maar de rechter vond dat onvoldoende.",
+   "bron": [
+    22
+   ],
+   "citaat": "dat geen van de brieven retour is gekomen"
+  },
+  {
+   "zin": "De rechter oordeelde dat de dwangbevelkosten daardoor niet mochten worden geïnd.",
+   "bron": [
+    23
+   ],
+   "citaat": "mocht de invorderingsambtenaar geen dwangbevelkosten invorderen"
+  },
+  {
+   "zin": "De parkeerder krijgt de proceskosten van het bezwaar en het griffierecht terug.",
+   "bron": [
+    32,
+    33
+   ],
+   "citaat": "veroordeelt de invorderingsambtenaar in de proceskosten van eiser"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Wint alleen op proceskosten en griffierecht.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet de proceskosten terugbetalen en het griffierecht van 50 euro aan de parkeerder geven.",
+  "bron": [
+   32,
+   33
+  ],
+  "citaat": "veroordeelt de invorderingsambtenaar in de proceskosten van eiser"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De aanmaning voor de dwangbevelkosten is nooit ontvangen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Omdat ontvangst twijfelachtig was, mocht de gemeente de dwangbevelkosten niet innen.",
+    "bron": [
+     23
+    ],
+    "citaat": "Omdat redelijkerwijs aan de ontvangst van de aanmaning moet worden getwijfeld"
+   },
+   "bruikbare_zin": {
+    "citaat": "Daardoor heeft de invorderingsambtenaar niet bewezen dat hij de aanmaning naar eisers adres heeft verzonden",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het is aan de gemeente om te laten zien dat de aanmaning is aangekomen.",
+  "type": "regel",
+  "reikwijdte": "Invordering van kosten na een dwangbevel, als de burger zegt de aanmaning niet te hebben gehad.",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   21
+  ],
+  "citaat": "bepalend of de invorderingsambtenaar aannemelijk maakt dat de aanmaning"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verzendadministratie (niet meer beschikbaar)",
+   "eerdere aanslag en herinneringsbrief zonder retour"
+  ],
+  "wat_gaf_doorslag": "De gemeente kon niet aantonen dat de aanmaning was verstuurd, omdat de verzendadministratie niet meer beschikbaar was."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 7:15 lid 2 Awb",
+  "art. 11 en 12 Invorderingswet 1990",
+  "art. 7 lid 2 Kostenwet invordering rijksbelastingen",
+  "art. 231 lid 1 Gemeentewet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar van elke aanmaning het bewijs van verzending, zodat de gemeente de ontvangst later kan aantonen.",
+   "raakt": "bezwaar",
+   "bron": [
+    22
+   ],
+   "citaat": "geen verzendadministratie (meer) beschikbaar is van de aanmaning"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar"
+ ],
+ "klantuitleg": "Wanneer de gemeente niet kan aantonen dat u een aanmaning hebt gekregen, mag zij de extra kosten van de dwingende betaalbrief niet bij u in rekening brengen. In deze zaak ging het niet om de rekening voor het parkeren zelf, maar om de kosten die daarna kwamen. Dat bezwaar kan helpen als u kunt uitleggen waarom de aanmaning u niet heeft bereikt; of het lukt, hangt af van de feiten.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "niet in de tekst genoemd",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

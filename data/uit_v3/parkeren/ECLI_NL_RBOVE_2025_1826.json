@@ -1,0 +1,156 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2025:1826",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "privaat-boete-voorwaarden",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "exploitant Q-Park",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "Q-Park Operations Netherlands B.V. vordert van een parkeerder betaling van 410,49 euro, omdat hij met treintje rijden de parkeergarage verliet. De kantonrechter van de rechtbank Overijssel, zittingsplaats Zwolle, doet uitspraak.",
+ "titel": "Parkeerder moet betalen na treintje rijden in parkeergarage",
+ "kern": {
+  "zin": "De kantonrechter wees de vordering toe, omdat de parkeerder bewust via treintje rijden de garage verliet en zich niet op overmacht kon beroepen.",
+  "bron": [
+   46
+  ],
+  "citaat": "heeft er bewust voor gekozen om de parkeergarage te verlaten middels treintje rijden"
+ },
+ "samenvatting": [
+  {
+   "zin": "Q-Park vordert 410,49 euro van de parkeerder.",
+   "bron": [
+    41
+   ],
+   "citaat": "Q-Park vordert dat de kantonrechter bij vonnis, uitvoerbaar bij voorraad, [gedaagde] veroordeelt tot betaling van € 410,49"
+  },
+  {
+   "zin": "De parkeerder gaf toe treintje te hebben gereden, omdat zijn vrouw nog de parkeerkaart en de pinpas had.",
+   "bron": [
+    43
+   ],
+   "citaat": "Hij heeft treintje gereden omdat zijn vrouw nog in het bezit was van de parkeerkaart en de pinpas"
+  },
+  {
+   "zin": "Hij vindt de schadevergoeding buitenproporties.",
+   "bron": [
+    43
+   ],
+   "citaat": "De hoogte van de schadevergoeding vindt hij buitenproporties"
+  },
+  {
+   "zin": "Q-Park stelt dat er alternatieven waren, zoals een verloren kaart kopen bij een betaalautomaat.",
+   "bron": [
+    46
+   ],
+   "citaat": "Daarnaast had [gedaagde] een verloren kaart kunnen kopen bij een van de betaalautomaten"
+  },
+  {
+   "zin": "Het beroep op overmacht slaagt niet, omdat de parkeerder er bewust voor koos.",
+   "bron": [
+    46
+   ],
+   "citaat": "heeft er bewust voor gekozen om de parkeergarage te verlaten middels treintje rijden"
+  },
+  {
+   "zin": "Het bedrag is volgens de kantonrechter niet buitensporig.",
+   "bron": [
+    47
+   ],
+   "citaat": "Van een buitensporige boete, zoals [gedaagde] aanvoert, is naar het oordeel van de kantonrechter dan ook geen sprake"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Vordering toegewezen: de parkeerder betaalt het verloren-kaarttarief en een schadevergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet 410,49 euro betalen met wettelijke rente, en 448,54 euro aan proceskosten.",
+  "bron": [
+   64,
+   65
+  ],
+  "citaat": "veroordeelt [gedaagde] tegen bewijs van kwijting aan Q-Park te betalen een bedrag van € 410,49"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overmacht-medisch",
+   "burger_zegt": "Hij verliet de garage eerder omdat zijn kleinzoon ziek was; dat was overmacht.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter vindt het beroep op overmacht niet slagen, omdat hij bewust koos voor treintje rijden.",
+    "bron": [
+     46
+    ],
+    "citaat": "heeft er bewust voor gekozen om de parkeergarage te verlaten middels treintje rijden"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft er bewust voor gekozen om de parkeergarage te verlaten",
+    "bron": [
+     46
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De hoogte van de schadevergoeding vindt hij buitenproporties.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het bedrag is niet buitensporig; het dient als prikkel en dekt algemene schade.",
+    "bron": [
+     47
+    ],
+    "citaat": "Van een buitensporige boete, zoals [gedaagde] aanvoert, is naar het oordeel van de kantonrechter dan ook geen sprake"
+   },
+   "bruikbare_zin": {
+    "citaat": "Bovendien staat het in redelijke verhouding tot de belangen van Q-Park",
+    "bron": [
+     47
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een schadevergoeding voor treintje rijden mag afschrikwekkend zijn, omdat ze als prikkel tot nakoming dient.",
+  "type": "regel",
+  "reikwijdte": "treintje rijden in een parkeergarage van een private exploitant, met een schadevergoeding in de algemene voorwaarden",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   47
+  ],
+  "citaat": "Het bedrag dient immers als prikkel tot nakoming"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "erkenning van de parkeerder"
+  ],
+  "wat_gaf_doorslag": "De parkeerder erkende zelf dat hij treintje had gereden."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 5.5 t/m 5.8 algemene voorwaarden Q-Park",
+  "art. 6:96 BW",
+  "art. 6:230l BW"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "klantcontact",
+  "betaalapp"
+ ],
+ "klantuitleg": "Treintje rijden, dus direct achter een ander de slagboom door, is in deze garage niet toegestaan. Heeft u geen kaart of betaalpas, dan moet u de parkeerkosten alsnog betalen en kunt u bij de parkeerexploitant om hulp vragen. Wilt u dit betwisten, dan moet u laten zien welke andere weg u had kunnen nemen; in deze zaak vond de rechter die uitleg niet overtuigend.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente-partij; privaat parkeerterrein",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

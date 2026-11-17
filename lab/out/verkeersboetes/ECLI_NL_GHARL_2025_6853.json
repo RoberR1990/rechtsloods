@@ -1,0 +1,131 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2025:6853",
+ "relevant": true,
+ "onderwerp": "procedure-beroep",
+ "sub": "proceskosten",
+ "kenmerk": null,
+ "zaaktype": "procedure-proceskosten",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bedrijf kreeg een boete van € 280 voor het gebruiken van een verdrijvingsvlak. In hoger beroep bij het hof Arnhem-Leeuwarden tegen de officier van justitie (het CJIB) ging het vooral om de hoogte van de proceskostenvergoeding.",
+ "titel": "Boete vervalt, maar proceskosten krijgen korting bij bureau zonder inzicht",
+ "kern": {
+  "zin": "Het hof vernietigde de boete, maar rekende de proceskosten met een korting van 0,25, omdat de gemachtigde zijn bedrijfsmodel niet liet zien.",
+  "bron": [
+   26
+  ],
+  "citaat": "Er is geen sprake van een bijzonder geval als hiervoor bedoeld"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het bedrijf kreeg een boete van € 280 voor het gebruiken van een verdrijvingsvlak.",
+   "bron": [
+    15
+   ],
+   "citaat": "als bestuurder een verdrijvingsvlak gebruiken"
+  },
+  {
+   "zin": "De advocaat-generaal (de aanklager bij het hof) vond dat de boete niet kon blijven staan, omdat te twijfelen viel of de auto op de plek was geweest, en het hof ging daarin mee.",
+   "bron": [
+    15
+   ],
+   "citaat": "nu er teveel twijfel is of het voertuig van de betrokkene ten tijde van de gedraging op de pleeglocatie is geweest"
+  },
+  {
+   "zin": "De gemachtigde zei dat de korting op de proceskosten niet geldt, omdat zijn cliënten een kleine instapvergoeding betalen en het dus geen no cure no pay (geen betaling bij verlies) is.",
+   "bron": [
+    22
+   ],
+   "citaat": "Een kenmerk van een no cure no pay is dat er geen instapvergoeding is verschuldigd"
+  },
+  {
+   "zin": "Het hof vond dat een kleine instapvergoeding niet genoeg is: het gaat om het bedrijfsmodel als geheel, en daar gaf de gemachtigde geen inzicht in.",
+   "bron": [
+    25
+   ],
+   "citaat": "De gemachtigde heeft zijn stelling niet verder onderbouwd en geen inzicht gegeven in zijn bedrijfsmodel"
+  },
+  {
+   "zin": "De proceskosten in hoger beroep werden daarom met factor 0,25 verminderd.",
+   "bron": [
+    28
+   ],
+   "citaat": "vermenigvuldigd met factor 0,25"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Sanctie vervalt; proceskosten wel gekort met factor 0,25.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 280 vervalt, het betaalde zekerheidsbedrag komt terug en de officier van justitie moet € 1.060,44 aan proceskosten vergoeden.",
+  "bron": [
+   35
+  ],
+  "citaat": "tot het vergoeden van de proceskosten van de betrokkene tot een bedrag van € 1.060,44"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "proceskosten",
+   "burger_zegt": "De korting op proceskosten geldt niet, want cliënten betalen een instapvergoeding van € 12,99 en dat is geen no cure no pay.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een beperkte instapvergoeding betekent nog niet dat het bedrijfsmodel niet aan de kenmerken voldoet.",
+    "bron": [
+     25
+    ],
+    "citaat": "brengt het enkel in rekening brengen van een (beperkte) vergoeding nog niet mee dat geconcludeerd kan worden"
+   },
+   "bruikbare_zin": {
+    "citaat": "gaat het er niet om of in een individuele zaak (deels) niet wordt voldaan aan één van de genoemde kenmerken",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De korting op proceskosten geldt niet in bijzondere gevallen, en wie zegt dat het een bijzonder geval is, moet dat stellen en aantonen.",
+  "type": "regel",
+  "reikwijdte": "Proceskostenvergoeding bij Wahv-zaken waarin de beslissing van de kantonrechter na 31 december 2023 is bekendgemaakt (art. 13a lid 2 Wahv).",
+  "uitzondering": "Gevallen die kennelijk niet de kenmerken van no cure no pay, overdracht van de vergoeding en ruime vergoedingen hebben, zijn bijzondere gevallen zonder korting.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   19
+  ],
+  "citaat": "De stelplicht en de bewijslast met betrekking tot feiten die meebrengen dat het om zo'n bijzonder geval gaat"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De gemachtigde gaf geen inzicht in zijn bedrijfsmodel."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2025:985",
+   "ECLI:NL:HR:2025:670"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 11 Wahv",
+  "art. 13a lid 2 Wahv",
+  "art. 2 lid 3 Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; de proceskosten gaan over de officier van justitie",
+ "raakt": [
+  "bezwaar",
+  "juridische-zaken"
+ ],
+ "klantuitleg": "Wint u een zaak over een verkeersboete, dan kunt u een vergoeding voor proceskosten krijgen. Die vergoeding kan een stuk lager zijn als uw bureau alleen betaald wordt bij winst en de vergoeding zelf krijgt. Vraag uw bureau hoe dat bij u is geregeld.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "Wahv-zaak; de officier van justitie is de wederpartij, geen gemeente",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

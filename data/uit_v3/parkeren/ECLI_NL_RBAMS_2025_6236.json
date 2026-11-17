@@ -1,0 +1,156 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2025:6236",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing (de rekening achteraf), omdat hij geen parkeerbelasting had betaald. Hij ging in beroep tegen de gemeente Amsterdam bij de rechtbank Amsterdam.",
+ "titel": "Parkeerder op een plek met betaalplicht moet naheffing betalen",
+ "kern": {
+  "zin": "De rechter vond dat de auto op een plek stond waar betaald moest worden en dat laden of lossen niet aannemelijk was.",
+  "bron": [
+   19,
+   18
+  ],
+  "citaat": "eiser ten tijde van de controle van de parkeercontroleur parkeerde op een fiscale parkeerplaats"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 9 november 2024 stond de auto van de parkeerder in een parkeervak.",
+   "bron": [
+    15
+   ],
+   "citaat": "Op 9 november 2024 stond de auto van eiser met kenteken"
+  },
+  {
+   "zin": "Een parkeercontroleur zag dat er geen parkeerbelasting was betaald, waarna de gemeente een naheffing oplegde.",
+   "bron": [
+    15
+   ],
+   "citaat": "Om 22.51 uur heeft een parkeercontroleur van de gemeente Amsterdam geconstateerd dat geen parkeerbelasting was voldaan."
+  },
+  {
+   "zin": "De parkeerder zei dat hij op een plek stond die alleen voor laden en lossen bedoeld was, dus niet om te parkeren.",
+   "bron": [
+    16
+   ],
+   "citaat": "die alleen bestemd is voor het laden en lossen van goederen"
+  },
+  {
+   "zin": "De gemeente zei dat de plek op 9 november een fiscale parkeerplaats was.",
+   "bron": [
+    17
+   ],
+   "citaat": "Nu eiser op 9 november 2024 op deze locatie heeft geparkeerd, is er geparkeerd op een fiscale parkeerplaats."
+  },
+  {
+   "zin": "De rechter zei dat de parkeerder niet aannemelijk had gemaakt dat hij laadde of loste.",
+   "bron": [
+    18
+   ],
+   "citaat": "heeft hij deze stelling dus niet aannemelijk gemaakt"
+  },
+  {
+   "zin": "De rechter vond de naheffing terecht opgelegd en wees het beroep af.",
+   "bron": [
+    19,
+    21
+   ],
+   "citaat": "De naheffingsaanslag is dan ook terecht opgelegd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan, geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing betalen en krijgt geen proceskosten of griffierecht terug.",
+  "bron": [
+   22,
+   19
+  ],
+  "citaat": "Voor een proceskostenvergoeding of vergoeding van het griffierecht bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Hij zegt dat hij alleen kort stond om te laden of te lossen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de parkeerder niet aannemelijk had gemaakt dat hij laadde of loste.",
+    "bron": [
+     18
+    ],
+    "citaat": "heeft hij deze stelling dus niet aannemelijk gemaakt"
+   },
+   "bruikbare_zin": {
+    "citaat": "Voor zover eiser stelt dat hij bezig was met laden of lossen, heeft hij deze stelling dus niet aannemelijk gemaakt.",
+    "bron": [
+     18
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij zegt dat de plek alleen voor laden en lossen was, dus dat hij niet parkeerde in de zin van de wet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de auto op een plek stond waar betaald moest worden, dus wel geparkeerd.",
+    "bron": [
+     19
+    ],
+    "citaat": "eiser ten tijde van de controle van de parkeercontroleur parkeerde op een fiscale parkeerplaats"
+   },
+   "bruikbare_zin": {
+    "citaat": "Nu eiser op 9 november 2024 op deze locatie heeft geparkeerd, is er geparkeerd op een fiscale parkeerplaats.",
+    "bron": [
+     17
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Of een auto op een plek stond waar betaald moest worden, bleek uit de scanfoto's en de toelichting van de gemeente.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Alleen deze zaak: auto op 9 november 2024, geen laden of lossen zichtbaar op de scanfoto's.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   18
+  ],
+  "citaat": "geen activiteiten zijn te zien waaruit blijkt dat er sprake is van het laden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "scanfoto's",
+   "toelichting van de gemeente ter zitting"
+  ],
+  "wat_gaf_doorslag": "Op de scanfoto's was geen laden of lossen te zien."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente won; de rechter vroeg niets van de gemeente",
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "De rekening voor het parkeren is terecht als u op een plek stond waar betalen verplicht was. Kunt u aannemelijk maken dat u alleen liet laden of lossen, dan kan dat anders liggen. Foto's of andere stukken die dat laten zien, helpen daarbij.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

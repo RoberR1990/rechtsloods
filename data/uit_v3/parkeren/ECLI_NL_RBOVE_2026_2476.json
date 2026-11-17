@@ -1,0 +1,133 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2026:2476",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder)",
+  "wederpartij": "gemeente Zwolle",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeerde bij de rechtbank Overijssel tegen een naheffing in Zwolle. Het ging om een auto die op een donderdagavond op een betaalde plek stond zonder betaald parkeerrecht.",
+ "titel": "Naheffing blijft: automaattekst was duidelijk genoeg",
+ "kern": {
+  "zin": "De naheffing bleef staan, want de automaat meldde dat het donderdags tot 21:00 uur betaald moest worden.",
+  "bron": [
+   32
+  ],
+  "citaat": "De op de parkeerautomaat verstrekte informatie over de parkeertarieven is kort en bondig"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een scanauto legde vast dat de auto op een betaalde plek stond zonder geldig parkeerrecht.",
+   "bron": [
+    15
+   ],
+   "citaat": "Een geldig parkeerrecht was niet voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat de tekst op de automaat tegenstrijdig en onduidelijk was.",
+   "bron": [
+    21
+   ],
+   "citaat": "Belanghebbende voert aan dat de naheffingsaanslag moet worden vernietigd"
+  },
+  {
+   "zin": "De gemeente vond dat de kenbaarheid in orde was.",
+   "bron": [
+    22
+   ],
+   "citaat": "De heffingsambtenaar stelt dat aan het kenbaarheidsvereiste is voldaan"
+  },
+  {
+   "zin": "De rechter vond de tekst op de automaat ondanks een grammaticale tegenstrijdigheid duidelijk genoeg.",
+   "bron": [
+    32
+   ],
+   "citaat": "ondanks grammaticale tegenstrijdigheid, voldoende duidelijk en maakt niet dat de naheffingsaanslag"
+  },
+  {
+   "zin": "Schuld of opzet speelt geen rol, want een naheffing is geen boete.",
+   "bron": [
+    34
+   ],
+   "citaat": "een naheffingsaanslag parkeerbelasting geen boete is maar een naheffing van de verschuldigde parkeerbelasting"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing betalen en krijgt het griffierecht niet terug.",
+  "bron": [
+   37
+  ],
+  "citaat": "Belanghebbende krijgt het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "De tekst op de automaat was tegenstrijdig en onduidelijk.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de automaattekst toch voldoende duidelijk, ook met de grammatica.",
+    "bron": [
+     32
+    ],
+    "citaat": "ondanks grammaticale tegenstrijdigheid, voldoende duidelijk en maakt niet dat de naheffingsaanslag"
+   },
+   "bruikbare_zin": {
+    "citaat": "De op de parkeerautomaat verstrekte informatie over de parkeertarieven is kort en bondig",
+    "bron": [
+     32
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente moet het parkeerregime duidelijk aangeven, en de parkeerder moet zich zelf informeren.",
+  "type": "regel",
+  "reikwijdte": "Betaald parkeren in Zwolle, met bebording bij of in de buurt van de parkeerplaats.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25,
+   26
+  ],
+  "citaat": "Van de gemeente mag worden verwacht, bijvoorbeeld door middel van duidelijke bebording bij de parkeerplaats"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "systeemgegevens over de betaling",
+   "tekst op de parkeerautomaat"
+  ],
+  "wat_gaf_doorslag": "De informatie op de automaat, met de tijd tot 21:00 uur op donderdag."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHARL:2020:10028"
+  ]
+ },
+ "wetsartikelen": [
+  "Verordening parkeerbelastingen Zwolle 2025"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechtbank vond de automaattekst voldoende; geen nieuwe actie nodig",
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "bebording-verkeersbesluit"
+ ],
+ "klantuitleg": "De rekening voor het parkeren geldt ook als u de tekst op de automaat verkeerd leest. Let daarom op de tijden per dag, want die kunnen verschillen. Bezwaar heeft weinig kans als alleen de onduidelijke tekst het argument is.",
+ "gemeente": "Zwolle",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

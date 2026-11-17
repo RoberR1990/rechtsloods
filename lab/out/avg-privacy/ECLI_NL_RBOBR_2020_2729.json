@@ -1,0 +1,219 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOBR:2020:2729",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "wissen",
+ "kenmerk": "publieke-taak",
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "burger die Wob-verzoeken deed",
+  "wederpartij": "gemeente 's-Hertogenbosch",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger vroeg de gemeente 's-Hertogenbosch om al zijn gegevens te wissen en om schadevergoeding, omdat hij vond dat zijn gegevens op het VNG-forum stonden of waren doorgestuurd. Hij procedeerde tegen het college van burgemeester en wethouders bij de rechtbank Oost-Brabant.",
+ "titel": "Wissing en schadevergoeding afgewezen; burger krijgt alleen proceskosten vergoed",
+ "kern": {
+  "zin": "De rechter wijst de schadevergoeding af, omdat de gemeente de naam van de burger mocht noemen om de Wob goed uit te voeren; wissen kon niet meer, want de e-mail bestond niet meer.",
+  "bron": [
+   34
+  ],
+  "citaat": "had in dit geval tot doel een goede uitvoering van de Wob te verzekeren"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente om al zijn gegevens uit alle systemen te verwijderen.",
+   "bron": [
+    18
+   ],
+   "citaat": "het college verzocht al zijn persoonsgegevens te verwijderen uit alle systemen van de gemeente"
+  },
+  {
+   "zin": "De gemeente wees dit af, omdat zij zich aan de Archiefwet moest houden.",
+   "bron": [
+    21
+   ],
+   "citaat": "moet worden afgewezen, omdat de gemeente 's-Hertogenbosch zich moet houden aan de Archiefwet"
+  },
+  {
+   "zin": "De rechter vond dat de e-mail met de naam van de burger er niet meer was, dus wissen kon niet meer.",
+   "bron": [
+    26
+   ],
+   "citaat": "Dat het verzoek om verwijdering niet meer ingewilligd kan worden is daarmee gegeven."
+  },
+  {
+   "zin": "De rechter vond het noemen van de naam aan een andere gemeente niet onrechtmatig, dus er komt geen schadevergoeding.",
+   "bron": [
+    34
+   ],
+   "citaat": "in dit geval de verwerking van het persoonsgegeven van eiser niet onrechtmatig is"
+  },
+  {
+   "zin": "De gemeente had de burger in bezwaar moeten horen, maar dit gebrek werd gepasseerd omdat hij op de zitting zijn standpunt kon geven.",
+   "bron": [
+    36
+   ],
+   "citaat": "Het college heeft dus ten onrechte artikel 7:3, aanhef en onder b, van de Awb toegepast en van het horen afgezien."
+  },
+  {
+   "zin": "Het beroep is gegrond op procedurepunten; de gemeente moet de proceskosten en het griffierecht betalen.",
+   "bron": [
+    44
+   ],
+   "citaat": "Het college zal ook het griffierecht moeten terugbetalen aan eiser."
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Wissen en schade afgewezen; alleen proceskosten en griffierecht voor de burger.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen wissing en geen schadevergoeding (hij vroeg eerst € 1.000, later € 5.000), maar de gemeente betaalt € 1.076,02 proceskosten en € 174 griffierecht terug.",
+  "bron": [
+   44
+  ],
+  "citaat": "De totale proceskostenvergoeding die het college moet voldoen aan eiser bedraagt dus € 1.076,02."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wissen-geen-grondslag",
+   "burger_zegt": "Alle gegevens van de burger moeten uit de systemen van de gemeente worden gewist.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De e-mail met de naam bestond bij het verzoek niet meer, dus wissen was niet meer mogelijk.",
+    "bron": [
+     26
+    ],
+    "citaat": "Dat het verzoek om verwijdering niet meer ingewilligd kan worden is daarmee gegeven."
+   },
+   "bruikbare_zin": {
+    "citaat": "praktisch voorstelbaar dat een e-mail uit augustus 2013 vijf jaar later niet meer in de systemen van de gemeente staat",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "delen-met-derden",
+   "burger_zegt": "De gemeente zette zijn gegevens op het VNG-forum of stuurde ze door aan andere bestuursorganen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het noemen van de naam in een mail aan een andere gemeente diende een goede uitvoering van de Wob en past bij artikel 6 lid 1 onder e AVG.",
+    "bron": [
+     34
+    ],
+    "citaat": "Dit doel is in overeenstemming met artikel 8, onder e, van de Wbp en artikel 6, eerste lid, onder e, van de AVG."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het doel van de verwerking stond in verhouding tot de inbreuk op de privacy van eiser en kon niet met minder ingrijpende middelen worden bereikt",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Hij heeft schade door de handelwijze van het college en vroeg € 1.000, later € 5.000.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De verwerking was niet onrechtmatig, dus er is geen recht op schadevergoeding.",
+    "bron": [
+     34
+    ],
+    "citaat": "Dat betekent dat eiser geen aanspraak kan maken op schadevergoeding."
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat betekent dat eiser geen aanspraak kan maken op schadevergoeding.",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "motivering",
+   "burger_zegt": "Het college had hem in bezwaar moeten horen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het bezwaar was niet kennelijk ongegrond, want het primaire besluit zei niets over de verwerking van de e-mail; horen was nodig.",
+    "bron": [
+     36
+    ],
+    "citaat": "had het college hem in de gelegenheid moeten stellen om zich tijdens een hoorzitting uit te laten over de rechtmatigheid"
+   },
+   "bruikbare_zin": {
+    "citaat": "kan dit gebrek met toepassing van artikel 6:22 van de Awb worden gepasseerd",
+    "bron": [
+     37
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het noemen van de naam van iemand die een Wob-verzoek deed in een mail aan een andere gemeente was hier rechtmatig, omdat het nodig was voor de uitvoering van de Wob en niet minder ingrijpend kon.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Alleen deze zaak: naam van een Wob-verzoeker genoemd in een mail aan een andere gemeente om misbruik van dwangsommen te voorkomen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   34
+  ],
+  "citaat": "Het doel van de verwerking stond in verhouding tot de inbreuk op de privacy van eiser en kon niet met minder ingrijpende middelen worden bereikt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "mededeling van het college dat de e-mail niet bewaard is gebleven"
+  ],
+  "wat_gaf_doorslag": "De e-mail bestond niet meer en het noemen van de naam diende de uitvoering van de Wob."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2020:898",
+   "ECLI:NL:RVS:2020:899",
+   "ECLI:NL:RVS:2020:900",
+   "ECLI:NL:RVS:2020:901"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 17 AVG",
+  "art. 82 AVG",
+  "art. 6 lid 1 onder e AVG",
+  "art. 8:88 Awb",
+  "art. 8:4 lid 1 onder f Awb",
+  "art. 7:3 onder b Awb",
+  "art. 7:11 lid 1 Awb",
+  "art. 6:22 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Hoor de burger in bezwaar als het primaire besluit niets zegt over een deel van zijn verzoek; sla het horen niet over omdat het bezwaar kennelijk ongegrond lijkt",
+   "raakt": "bezwaar",
+   "bron": [
+    36
+   ],
+   "citaat": "Het college heeft dus ten onrechte artikel 7:3, aanhef en onder b, van de Awb toegepast en van het horen afgezien."
+  },
+  {
+   "actie": "Verklaar bezwaar tegen een besluit over schadevergoeding niet-ontvankelijk in plaats van ongegrond",
+   "raakt": "bezwaar",
+   "bron": [
+    31
+   ],
+   "citaat": "geen bezwaar kan worden gemaakt tegen een besluit inzake vergoeding van schade wegens onrechtmatig bestuurshandelen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "woo-openbaarheid",
+  "bezwaar"
+ ],
+ "klantuitleg": "De gemeente hoeft gegevens niet te wissen die al niet meer bestaan. Gebruikt de gemeente uw naam voor haar wettelijke taak, en kan dat niet met minder ingrijpende middelen, dan is dat niet onrechtmatig en krijgt u geen schadevergoeding. Vraagt u schadevergoeding, leg dan met concrete gegevens uit welke schade u heeft.",
+ "gemeente": "'s-Hertogenbosch",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

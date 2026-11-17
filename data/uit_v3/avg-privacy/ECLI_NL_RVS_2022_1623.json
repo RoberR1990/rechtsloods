@@ -1,0 +1,161 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2022:1623",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "wissen",
+ "kenmerk": null,
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Nieuwkoop",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Deze zaak gaat over een verzoek om persoonsgegevens te wissen. De burger stond tegenover het college van burgemeester en wethouders van Nieuwkoop bij de Afdeling bestuursrechtspraak van de Raad van State.",
+ "titel": "Rechtbank mocht zelf beslissen op verzoek om wissing",
+ "kern": {
+  "zin": "De rechtbank mocht zelf de zaak afdoen en hoefde die niet terug te sturen voor een nieuwe hoorzitting.",
+  "bron": [
+   30
+  ],
+  "citaat": "met het oog op een definitieve beslechting van het geschil zelf in de zaak mogen voorzien"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente om zijn persoonsgegevens te wissen.",
+   "bron": [
+    21
+   ],
+   "citaat": "een verzoek van [appellant] op grond van artikel 17 van de Algemene Verordening Gegevensverwerking"
+  },
+  {
+   "zin": "De gemeente zei dat zij niet over die gegevens beschikt.",
+   "bron": [
+    22
+   ],
+   "citaat": "niet aan dat verzoek te kunnen voldoen, omdat het niet beschikt over de bedoelde persoonsgegevens"
+  },
+  {
+   "zin": "De rechtbank zei dat de brief een besluit is en verklaarde het bezwaar ongegrond.",
+   "bron": [
+    24
+   ],
+   "citaat": "De rechtbank heeft geoordeeld dat de schriftelijke reactie op een verzoek om wissing een besluit"
+  },
+  {
+   "zin": "De burger ging in hoger beroep alleen over de vraag of de rechtbank zelf mocht beslissen.",
+   "bron": [
+    26
+   ],
+   "citaat": "de rechtbank ten onrechte zelf in de zaak heeft voorzien en de zaak had moeten terugverwijzen naar het college"
+  },
+  {
+   "zin": "De Raad van State zegt dat het hoger beroep ongegrond is.",
+   "bron": [
+    33
+   ],
+   "citaat": "Het hoger beroep is ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Het hoger beroep van de burger is ongegrond; de gemeente wint",
+ "gevolg_betrokkene": {
+  "zin": "Het verzoek om wissing wordt niet toegewezen en er hoeft geen proceskosten te worden betaald.",
+  "bron": [
+   33
+  ],
+  "citaat": "Het hoger beroep is ongegrond. De uitspraak van de rechtbank moet worden bevestigd"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wissen-geen-grondslag",
+   "burger_zegt": "Het college moet mijn persoonsgegevens bij de VNG wissen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat de gemeente goed uitlegde dat zij geen gegevens van de burger heeft.",
+    "bron": [
+     24
+    ],
+    "citaat": "bij de gemeente Nieuwkoop geen persoonsgegevens van [appellant] zijn te vinden waarop het verzoek betrekking heeft"
+   },
+   "bruikbare_zin": {
+    "citaat": "bij de gemeente Nieuwkoop geen persoonsgegevens van [appellant] zijn te vinden waarop het verzoek betrekking heeft",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De rechtbank had de zaak moeten terugwijzen voor een hoorzitting en een nieuw besluit.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank mocht het geschil zelf definitief beslechten.",
+    "bron": [
+     30
+    ],
+    "citaat": "met het oog op een definitieve beslechting van het geschil zelf in de zaak mogen voorzien"
+   },
+   "bruikbare_zin": {
+    "citaat": "met het oog op een definitieve beslechting van het geschil zelf in de zaak mogen voorzien",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De bestuursrechter moet een geschil zoveel mogelijk definitief beslechten en mag zelf in de zaak voorzien als de uitkomst bij een nieuwe beslissing geen andere zou zijn.",
+  "type": "regel",
+  "reikwijdte": "Als de rechter een besluit vernietigt en de uitkomst van een nieuwe beslissing op voorhand vaststaat.",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   29
+  ],
+  "citaat": "de bestuursrechter het hem voorgelegde geschil zoveel mogelijk definitief moet beslechten"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "navraag bij de VNG",
+   "verweerschrift van het college"
+  ],
+  "wat_gaf_doorslag": "De burger ging niet inhoudelijk in op de toelichting van het college."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 17 Algemene Verordening Gegevensverwerking",
+  "art. 1:3 Awb",
+  "art. 8:41a Awb",
+  "art. 8:72 lid 3 Awb",
+  "art. 8:75 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij een verzoek tot wissing concreet uit dat u de persoonsgegevens niet heeft, met navraag bij partijen aan wie u gegevens heeft verstrekt",
+   "raakt": "privacy-fg",
+   "bron": [
+    22
+   ],
+   "citaat": "omdat het niet beschikt over de bedoelde persoonsgegevens"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "U vroeg de gemeente om uw persoonsgegevens te wissen, maar de rechter vindt dat de gemeente genoeg heeft uitgelegd dat zij die gegevens niet meer heeft. De rechter mocht de zaak zelf afdoen, zonder dat er nog een hoorzitting kwam. Alleen klagen over de procedure helpt niet; u moet dan inhoudelijk ingaan op wat de gemeente heeft uitgelegd.",
+ "gemeente": "Nieuwkoop",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,140 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2026:15797",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Schiedam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner had een parkeervergunning die door de gemeente Schiedam niet werd verlengd. De bewoner ging in beroep bij de rechtbank Rotterdam tegen het college van burgemeester en wethouders van Schiedam.",
+ "titel": "Niet verlengde parkeervergunning is een besluit; bezwaar moet inhoudelijk",
+ "kern": {
+  "zin": "De rechter vond dat het niet verlengen van de vergunning een besluit is, dus het college had het bezwaar ten onrechte niet-ontvankelijk verklaard.",
+  "bron": [
+   23
+  ],
+  "citaat": "Het college heeft het bezwaar daarom ten onrechte niet-ontvankelijk verklaard"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het college liet de bewoner schriftelijk weten dat de vergunning afliep.",
+   "bron": [
+    23
+   ],
+   "citaat": "Het aflopen van de parkeervergunning is schriftelijk aan eiser meegedeeld"
+  },
+  {
+   "zin": "Het college zag die mededeling niet als besluit en verklaarde het bezwaar daarom niet-ontvankelijk.",
+   "bron": [
+    23
+   ],
+   "citaat": "omdat de mededeling dat de parkeervergunning van eiser afloopt volgens het college geen besluit is"
+  },
+  {
+   "zin": "De rechter vond dat dit wel een besluit is, omdat de vaststelling rechtsgevolg heeft.",
+   "bron": [
+    23
+   ],
+   "citaat": "Deze vaststelling is op rechtsgevolg gericht"
+  },
+  {
+   "zin": "De gemeente krijgt zes weken om het bezwaar alsnog inhoudelijk te behandelen.",
+   "bron": [
+    24
+   ],
+   "citaat": "Het college moet het bezwaar van eiser inhoudelijk beoordelen"
+  },
+  {
+   "zin": "Het verzoek om schadevergoeding is afgewezen, omdat het bezwaar nog niet inhoudelijk is beoordeeld.",
+   "bron": [
+    25
+   ],
+   "citaat": "wijst het verzoek om schadevergoeding af"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Bezwaar ten onrechte niet-ontvankelijk; schadeclaim afgewezen, college moet opnieuw beslissen.",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner krijgt het griffierecht terug en 1.868 euro aan proceskosten.",
+  "bron": [
+   26
+  ],
+  "citaat": "moet het college het griffierecht aan eiser vergoeden"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het niet verlengen is een besluit, dus het bezwaar moet inhoudelijk worden behandeld.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond de beoordeling van het college onjuist.",
+    "bron": [
+     23
+    ],
+    "citaat": "Die beoordeling klopt naar het oordeel van de rechtbank niet"
+   },
+   "bruikbare_zin": {
+    "citaat": "Deze vaststelling is op rechtsgevolg gericht",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een mededeling dat een parkeervergunning niet wordt verlengd, is een besluit als die vaststelling rechtsgevolg heeft.",
+  "type": "regel",
+  "reikwijdte": "niet verlengen van parkeervergunningen na een betalingsachterstand",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "volgt dat in dat geval sprake is van een besluit"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "schriftelijke mededeling over het aflopen van de vergunning"
+  ],
+  "wat_gaf_doorslag": "De vaststelling dat de vergunning niet wordt verlengd had rechtsgevolg."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2025:4528"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1:3 lid 1 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Behandel een mededeling dat een parkeervergunning niet wordt verlengd als besluit, met bezwaarmogelijkheid.",
+   "raakt": "bezwaar",
+   "bron": [
+    23
+   ],
+   "citaat": "volgt dat in dat geval sprake is van een besluit"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "vergunningen",
+  "klantcontact"
+ ],
+ "klantuitleg": "Deze zaak gaat niet over een naheffing of boete, maar over een parkeervergunning die niet is verlengd. Volgens de rechter is zo'n mededeling een besluit waartegen u bezwaar kunt maken. Of het bezwaar slaagt, moet de gemeente nu inhoudelijk beoordelen.",
+ "gemeente": "Schiedam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

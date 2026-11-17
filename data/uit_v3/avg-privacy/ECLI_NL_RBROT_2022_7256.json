@@ -1,0 +1,159 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2022:7256",
+ "relevant": true,
+ "onderwerp": "rechtmatige-verwerking",
+ "sub": "bijzondere-gegevens",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "persoon met een adresonderzoek",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De gemeente Rotterdam onderzocht of een burger echt op haar adres woonde. De burger ging bij de rechtbank Rotterdam in beroep tegen een boete van de gemeente.",
+ "titel": "Boete vernietigd: gemeente vroeg onterecht om bewijs over gezondheid",
+ "kern": {
+  "zin": "De rechter vernietigde de boete, omdat de gemeente in strijd met de AVG bewijs over gezondheid (doktersafspraken, ziekenhuisbezoek) had gevraagd.",
+  "bron": [
+   38
+  ],
+  "citaat": "kan de boete geen stand houden"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente twijfelde of de burger wel op haar adres woonde en startte een adresonderzoek.",
+   "bron": [
+    22
+   ],
+   "citaat": "is bij verweerder twijfel ontstaan of eiseres woonachtig is op het adres"
+  },
+  {
+   "zin": "De gemeente legde een boete van € 325 op, omdat de burger de gevraagde stukken niet op tijd had gegeven.",
+   "bron": [
+    23
+   ],
+   "citaat": "Verweerder heeft eiseres een bestuurlijke boete van € 325,-- opgelegd"
+  },
+  {
+   "zin": "De burger vond dat de gemeente zonder goede reden medische gegevens had gevraagd en gebruikt.",
+   "bron": [
+    27
+   ],
+   "citaat": "zonder deugdelijke grondslag medische persoonsgegevens heeft gevorderd en verwerkt"
+  },
+  {
+   "zin": "De gemeente vond dat het niet ging om gegevens over de gezondheid van de burger.",
+   "bron": [
+    37
+   ],
+   "citaat": "Volgens verweerder is geen sprake van verwerking van persoonsgegevens over de gezondheid van eiseres"
+  },
+  {
+   "zin": "De rechter vond dat bewijs van dokters-, tandarts- en ziekenhuisbezoeken wel gezondheidsgegevens zijn, en dat de gemeente niet had uitgelegd waarom ze die mocht vragen.",
+   "bron": [
+    37
+   ],
+   "citaat": "Verweerder heeft echter niet toegelicht dat hiervan sprake is"
+  },
+  {
+   "zin": "De boete kon daarom niet blijven bestaan.",
+   "bron": [
+    38
+   ],
+   "citaat": "kan de boete geen stand houden. De beroepsgrond slaagt"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete vernietigd; griffierecht en proceskosten worden vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De burger hoeft de boete van € 325 niet te betalen en krijgt € 178 griffierecht en € 3.359 proceskosten van de gemeente.",
+  "bron": [
+   44,
+   40
+  ],
+  "citaat": "veroordeelt verweerder in de proceskosten van eiseres tot een bedrag van € 3.359,-"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "gevoelige-gegevens",
+   "burger_zegt": "De gemeente had geen grondslag om medische gegevens te vragen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Gegevens over doktersafspraken en ziekenhuisbezoeken vallen onder gezondheidsgegevens; die vragen mag alleen als een uitzondering uit de AVG geldt.",
+    "bron": [
+     37
+    ],
+    "citaat": "is op grond van artikel 9, eerste lid, van de AVG verboden"
+   },
+   "bruikbare_zin": {
+    "citaat": "Uit de gevorderde bewijzen kan namelijk bepaalde informatie over de lichamelijke of geestelijke gezondheidstoestand van eiseres worden afgeleid",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente diende het verweerschrift te laat in; het mocht niet meetellen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente hoefde geen verweerschrift in te dienen en diende het op tijd in na het verzoek van de rechtbank.",
+    "bron": [
+     26
+    ],
+    "citaat": "Verweerder is niet verplicht om een verweerschrift in te dienen."
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Vraagt een gemeente bewijs over doktersafspraken of ziekenhuisbezoek, dan zijn dat gezondheidsgegevens; die vragen is verboden, tenzij een voorwaarde uit de AVG geldt.",
+  "type": "regel",
+  "reikwijdte": "Gemeente die bij een onderzoek (hier naar een adres) bewijs vraagt over doktersafspraken, tandartsafspraken of ziekenhuisbezoeken.",
+  "uitzondering": "Het mag wel als aan een voorwaarde uit artikel 9 lid 2 AVG wordt voldaan; de gemeente moet dat kunnen uitleggen.",
+  "herkomst": "wet",
+  "bron": [
+   37
+  ],
+  "citaat": "verboden, tenzij aan een van de voorwaarden uit het tweede lid van dit artikel wordt voldaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De gemeente vroeg om bewijs van doktersafspraken en ziekenhuisbezoeken en gaf geen reden waarom dat mocht."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 2.47 Wet brp",
+  "art. 9 lid 1 AVG",
+  "art. 8:42 lid 1 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij een adresonderzoek niet om bewijs van doktersafspraken, tandartsafspraken of ziekenhuisbezoeken, tenzij je kunt uitleggen welke voorwaarde uit artikel 9 lid 2 AVG dat toestaat.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    37
+   ],
+   "citaat": "Verweerder heeft echter niet toegelicht dat hiervan sprake is."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Bij een onderzoek naar uw adres mag de gemeente niet zomaar bewijs vragen van afspraken bij de dokter of in het ziekenhuis, want dat zijn gezondheidsgegevens. Alleen als de AVG daarvoor een voorwaarde geeft mag het, en dan moet de gemeente kunnen uitleggen waarom. Kreeg u een boete omdat u zulke stukken niet gaf, dan heeft bezwaar zin.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

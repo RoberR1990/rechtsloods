@@ -1,0 +1,162 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:7742",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeerde tegen de gemeente Rotterdam over een naheffing (de rekening achteraf). Bij de rechtbank Rotterdam ging het om de vraag of de auto echt geparkeerd stond, en om het inzien van het dossier.",
+ "titel": "Foto's van scanauto tonen parkeren; dossierklacht slaagt niet",
+ "kern": {
+  "zin": "De rechter vond op de foto's dat er sprake was van parkeren, dus de naheffing blijft staan.",
+  "bron": [
+   27
+  ],
+  "citaat": "heeft verweerder dus terecht vastgesteld dat sprake was van parkeren"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 6 februari 2022 zag een controleur de auto van de parkeerder staan, zonder voldoende betaald.",
+   "bron": [
+    17
+   ],
+   "citaat": "stond geparkeerd in de Oostervanstraat in Rotterdam zonder dat voldoende parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder stelt dat hij alleen uitstapte en dat de gemeente besliste voordat hij het dossier kreeg.",
+   "bron": [
+    18
+   ],
+   "citaat": "de scanauto is langsgereden terwijl sprake was van het direct in- of uitstappen van personen"
+  },
+  {
+   "zin": "De foto's van de scanauto laten zien dat de auto op een parkeerplaats stond, met gesloten portieren.",
+   "bron": [
+    27
+   ],
+   "citaat": "is te zien dat het voertuig op een parkeerplaats stond"
+  },
+  {
+   "zin": "De gemeente hoefde het dossier niet ter inzage te leggen, omdat de parkeerder niet om horen had gevraagd.",
+   "bron": [
+    26
+   ],
+   "citaat": "Eiser heeft in bezwaar niet verzocht te worden gehoord"
+  },
+  {
+   "zin": "De naheffing blijft staan en de parkeerder krijgt geen gelijk.",
+   "bron": [
+    28
+   ],
+   "citaat": "Dat betekent dat de naheffingsaanslag in stand blijft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan, geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing betalen en krijgt geen proceskostenvergoeding.",
+  "bron": [
+   28,
+   29
+  ],
+  "citaat": "Dat betekent dat de naheffingsaanslag in stand blijft"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij kreeg het dossier niet voordat de gemeente besliste, terwijl hij daarom had gevraagd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Omdat de gemeente niet hoefde te horen, hoefde zij ook geen stukken ter inzage te leggen.",
+    "bron": [
+     26
+    ],
+    "citaat": "Omdat verweerder geen stukken ter inzage had gelegd"
+   },
+   "bruikbare_zin": {
+    "citaat": "Verweerder was gelet op artikel 25, eerste lid, van de AWR, niet verplicht eiser te horen",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De scanauto reed langs terwijl hij alleen uitstapte, dus er was geen sprake van parkeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ziet op de foto's geen in- of uitstappen, dus het was parkeren.",
+    "bron": [
+     27
+    ],
+    "citaat": "heeft verweerder dus terecht vastgesteld dat sprake was van parkeren"
+   },
+   "bruikbare_zin": {
+    "citaat": "de portieren gesloten waren en niemand zich in de nabijheid van het voertuig bevond",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Stilstaan telt als parkeren, behalve de tijd die nodig is om in of uit te stappen.",
+  "type": "regel",
+  "reikwijdte": "motorvoertuig dat langer dan de in- en uitstaptijd stilstaat",
+  "uitzondering": "de tijd die nodig is voor en gebruikt wordt tot het onmiddellijk in- of uitstappen van personen",
+  "herkomst": "lokale verordening",
+  "bron": [
+   24
+  ],
+  "citaat": "wordt onder parkeren verstaan het gedurende een aaneengesloten periode doen of laten stilstaan van een motorvoertuig"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "foto's van de scanauto"
+  ],
+  "wat_gaf_doorslag": "De foto's: auto op een parkeerplaats, portieren dicht, niemand in de buurt."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2002:AE3833",
+   "ECLI:NL:HR:2023:1107"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1 Verordening parkeerregulering en parkeerbelastingen 2022 Rotterdam",
+  "art. 7:4 Awb",
+  "art. 25 AWR",
+  "art. 231 Gemeentewet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg in de scanauto-foto's vast dat het voertuig stilstaat, met portieren dicht en zonder mensen in de buurt.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    27
+   ],
+   "citaat": "de portieren gesloten waren en niemand zich in de nabijheid van het voertuig bevond"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "scanauto-handhaving",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren is terecht als foto's laten zien dat uw auto stilstond, en niet alleen werd in- of uitgestapt. Alleen even in- of uitstappen telt niet als parkeren, maar u moet dat dan zelf aantonen. Wilt u bezwaar maken, verzamel dan bewijs dat er echt iemand in- of uitstapte; daar hangt de uitkomst van af.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

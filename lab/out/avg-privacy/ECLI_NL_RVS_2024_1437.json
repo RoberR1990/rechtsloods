@@ -1,0 +1,156 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2024:1437",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "overheidsregister",
+ "kenmerk": null,
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "burger (woont in het buitenland)",
+  "wederpartij": "minister van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger die in het buitenland woont, vroeg de minister van Financiën om zijn gegevens uit het Register Paspoortsignaleringen te halen. De zaak ging in hoger beroep bij de Raad van State.",
+ "titel": "Verwijdering uit paspoortregister geweigerd, wel € 1.000 voor trage zaak",
+ "kern": {
+  "zin": "De rechter vond dat de minister mocht uitgaan van de belastingschuld, omdat de belastingrechter de aanslagen nog niet onjuist had verklaard.",
+  "bron": [
+   27
+  ],
+  "citaat": "Zolang de onjuistheid van de aanslagen niet is vastgesteld door de belastingrechter"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gegevens van de burger staan in het Register Paspoortsignaleringen, omdat hij naheffingsaanslagen (rekeningen achteraf) voor inkomstenbelasting niet betaalde.",
+   "bron": [
+    21
+   ],
+   "citaat": "De persoonsgegevens zijn opgenomen omdat aan [appellant] naheffingsaanslagen inkomstenbelasting zijn opgelegd en hij die niet heeft voldaan."
+  },
+  {
+   "zin": "De burger vond de opname onjuist, omdat hij volgens hem niet belastingplichtig is in Nederland, en vroeg om verwijdering.",
+   "bron": [
+    21
+   ],
+   "citaat": "is van mening dat de opname van zijn persoonsgegevens in het Register onjuist is"
+  },
+  {
+   "zin": "De minister wees dit af, omdat de AVG niet bedoeld is om belastinggeschillen op te lossen.",
+   "bron": [
+    22
+   ],
+   "citaat": "heeft de AVG niet de strekking om fiscaal-juridische geschillen"
+  },
+  {
+   "zin": "De rechter vond ook dat de AVG hiervoor niet bedoeld is en dat de minister van de juistheid van de aanslagen mocht uitgaan.",
+   "bron": [
+    27
+   ],
+   "citaat": "Zolang de onjuistheid van de aanslagen niet is vastgesteld door de belastingrechter"
+  },
+  {
+   "zin": "De burger had daarom geen recht op verwijdering van de signalering via de AVG.",
+   "bron": [
+    27
+   ],
+   "citaat": "geen recht had op rectificatie of verwijdering van de paspoortsignalering"
+  },
+  {
+   "zin": "Omdat de zaak te lang duurde, kreeg hij wel een schadevergoeding van € 1.000.",
+   "bron": [
+    35
+   ],
+   "citaat": "zal de Afdeling de Staat der Nederlanden veroordelen tot betaling van € 1000,00 aan [appellant]"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Signalering blijft staan; € 1.000 voor te lange behandeling",
+ "gevolg_betrokkene": {
+  "zin": "De signalering blijft staan, maar hij krijgt € 1.000 schadevergoeding voor de trage behandeling en € 437,50 aan proceskosten voor dat verzoek.",
+  "bron": [
+   44,
+   45
+  ],
+  "citaat": "om aan [appellant] een schadevergoeding van € 1000,00 te betalen"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "De signalering is onjuist, want hij is niet belastingplichtig in Nederland en heeft dus geen belastingschuld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Zolang de belastingrechter de aanslagen niet onjuist heeft verklaard, mag de minister ervan uitgaan dat ze juist zijn.",
+    "bron": [
+     27
+    ],
+    "citaat": "Zolang de onjuistheid van de aanslagen niet is vastgesteld door de belastingrechter"
+   },
+   "bruikbare_zin": {
+    "citaat": "mag de minister uitgaan van de juistheid daarvan",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De rechter moet in deze AVG-procedure zelf vaststellen dat de signalering onrechtmatig was; de burgerlijke rechter is daarvoor niet nodig.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De AVG is niet bedoeld om belastinggeschillen inhoudelijk te beslissen.",
+    "bron": [
+     27
+    ],
+    "citaat": "de AVG zich niet leent voor het inhoudelijk beslechten van fiscaal-juridische geschillen"
+   },
+   "bruikbare_zin": {
+    "citaat": "de AVG zich niet leent voor het inhoudelijk beslechten van fiscaal-juridische geschillen",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De AVG is niet bedoeld om belastinggeschillen te beslissen; zolang de belastingrechter de aanslagen niet onjuist verklaart, mag het overheidsorgaan van de juistheid uitgaan.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om correctie of wissing van gegevens die zijn opgenomen vanwege een belastingschuld.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "Zolang de onjuistheid van de aanslagen niet is vastgesteld door de belastingrechter"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De procedure over de aanslagen bij de belastingrechter liep nog en de aanslagen waren niet onjuist verklaard."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:RVS:2024:1436"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 16 AVG",
+  "art. 17 lid 1 onder d en e AVG",
+  "art. 6 EVRM"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Staan uw gegevens in een register omdat de overheid denkt dat u een schuld heeft, dan kunt u die schuld meestal niet via de privacywet (AVG) betwisten. Zolang de rechter die over de schuld gaat niet heeft gezegd dat de schuld onjuist is, mag de overheid ervan uitgaan dat die klopt. Wilt u de schuld betwisten, leg dat dan voor aan de rechter die over die schuld gaat.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente betrokken; de minister is partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

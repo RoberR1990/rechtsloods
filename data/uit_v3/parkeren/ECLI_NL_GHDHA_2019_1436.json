@@ -1,0 +1,148 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "ecli": "ECLI:NL:GHDHA:2019:1436",
+ "onderwerp": "parkeerbelasting",
+ "sub": "belastingplicht",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "medewerker van Eurojust met diplomatieke status",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De gemeente Den Haag ging in hoger beroep tegen een uitspraak van de rechtbank. Het gaat om een medewerker van Eurojust (een EU-organisatie) die een naheffing kreeg voor parkeren zonder te betalen. Het gerechtshof Den Haag besliste.",
+ "titel": "Medewerker Eurojust met diplomatieke status hoeft geen parkeerbelasting te betalen",
+ "kern": {
+  "zin": "Het hof oordeelde dat parkeerbelasting een gewone belasting is en geen betaling voor een geleverde dienst, dus de vrijstelling voor diplomaten geldt.",
+  "bron": [
+   116
+  ],
+  "citaat": "Dat de parkeerbelastingen belastingen en geen retributies (rechten) zijn"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeercontroleur vond geen geldig parkeerkaartje of geldige vergunning in de auto en de gemeente legde een naheffing op.",
+   "bron": [
+    21
+   ],
+   "citaat": "heeft de parkeercontroleur geen geldig parkeerkaartje of een geldige parkeervergunning in de auto aangetroffen"
+  },
+  {
+   "zin": "De burger zei dat hij door zijn diplomatieke status is vrijgesteld van parkeerbelasting.",
+   "bron": [
+    36
+   ],
+   "citaat": "of belanghebbende op grond van zijn diplomatieke status is vrijgesteld van parkeerbelasting"
+  },
+  {
+   "zin": "De gemeente zei dat parkeerbelasting een betaling is voor een dienst van de gemeente, waarvoor de vrijstelling niet geldt.",
+   "bron": [
+    37
+   ],
+   "citaat": "tegenover de betaling van parkeerbelasting een prestatie van de gemeente staat"
+  },
+  {
+   "zin": "Het hof vond dat de burger niet profiteert van een naheffing, dus dat het geen betaling voor een dienst is.",
+   "bron": [
+    117
+   ],
+   "citaat": "Van het opleggen van een naheffingsaanslag kan bezwaarlijk worden gezegd dat de belastingplichtige ervan profiteert"
+  },
+  {
+   "zin": "Het verdrag met Eurojust gaat voor de gemeentelijke regels, dus de vrijstelling geldt.",
+   "bron": [
+    118
+   ],
+   "citaat": "De vrijstellingsbepaling gaat dus voor op de nationale bepalingen in de Gemeentewet en de Regeling"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de gemeente moet de proceskosten betalen.",
+   "bron": [
+    130
+   ],
+   "citaat": "veroordeelt de heffingsambtenaar in de proceskosten van belanghebbende tot een bedrag van € 512"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing was niet terecht; gemeente betaalt proceskosten en griffierecht.",
+ "gevolg_betrokkene": {
+  "zin": "De uitspraak van de rechtbank blijft staan, dus de naheffing van € 63,15 was niet terecht. De gemeente betaalt € 512 aan proceskosten en het griffierecht van € 508.",
+  "bron": [
+   130
+  ],
+  "citaat": "veroordeelt de heffingsambtenaar in de proceskosten van belanghebbende tot een bedrag van € 512"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Door zijn diplomatieke status als nationaal lid van Eurojust is hij vrijgesteld van parkeerbelasting.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Parkeerbelasting is een gewone belasting en geen heffing voor een verleende dienst, dus de vrijstelling uit het verdrag geldt.",
+    "bron": [
+     116
+    ],
+    "citaat": "Dat de parkeerbelastingen belastingen en geen retributies (rechten) zijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "De vrijstellingsbepaling gaat dus voor op de nationale bepalingen in de Gemeentewet en de Regeling",
+    "bron": [
+     118
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een naheffing parkeerbelasting is geen heffing wegens een verleende dienst, dus diplomatieke ambtenaren zijn ervan vrijgesteld.",
+  "bron": [
+   117
+  ],
+  "citaat": "Van het opleggen van een naheffingsaanslag kan bezwaarlijk worden gezegd dat de belastingplichtige ervan profiteert",
+  "type": "regel",
+  "reikwijdte": "Naheffing betaaldparkerenbelasting bij personen die onder het Verdrag van Wenen een belastingvrijstelling hebben, zoals nationale leden van Eurojust.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "diplomatieke status als nationaal lid van Eurojust"
+  ],
+  "wat_gaf_doorslag": "Parkeerbelasting is een gewone belasting en valt niet onder de uitzondering voor verleende diensten."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "nieuw",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 34 Verdrag van Wenen inzake diplomatiek verkeer",
+  "art. 11 Verdrag Nederland-Eurojust 2006",
+  "art. 225 Gemeentewet",
+  "art. 2 lid 1 Besluit Raad Eurojust"
+ ],
+ "actie_gemeente": [
+  {
+   "bron": [
+    118
+   ],
+   "citaat": "De vrijstellingsbepaling gaat dus voor op de nationale bepalingen in de Gemeentewet en de Regeling",
+   "raakt": "tarief-naheffing",
+   "actie": "Toets bij een diplomatiek kenteken eerst of een rechtstreeks werkend verdrag vrijstelling geeft, voordat een naheffing wordt opgelegd."
+  }
+ ],
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar",
+  "verordening-beleid"
+ ],
+ "klantuitleg": "Heeft u een diplomatieke status door een verdrag, bijvoorbeeld via een internationale organisatie, dan kan dat u vrijstellen van parkeerbelasting. Voor gewone parkeerders geldt dit niet: zij moeten gewoon betalen. Denkt u dat u zo'n vrijstelling heeft, maak dan bezwaar en stuur bewijs van uw status mee.",
+ "gemeente": "Den Haag",
+ "zekerheid": "hoog"
+}

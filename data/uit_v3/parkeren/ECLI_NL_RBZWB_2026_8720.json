@@ -1,0 +1,137 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:8720",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "invordering",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "taxibedrijf (beroep door een persoon namens of over het bedrijf)",
+  "wederpartij": "gemeente Tilburg",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Aan een taxibedrijf werden aanmaningskosten (kosten van een herinnering) in rekening gebracht, omdat een parkeerrekening niet op tijd was betaald. Een persoon ging bij de rechtbank Zeeland-West-Brabant in beroep tegen de gemeente Tilburg.",
+ "titel": "Geen recht op beroep over kosten van taxibedrijf",
+ "kern": {
+  "zin": "De rechtbank oordeelde dat de persoon die beroep deed niet kon worden gezien als de juiste partij, dus het beroep is niet-ontvankelijk (niet inhoudelijk behandeld).",
+  "bron": [
+   24
+  ],
+  "citaat": "Eiser kan daarom niet worden aangemerkt als belanghebbende bij de overgelegde beschikking"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het taxibedrijf kreeg voor een parkeerplek op 28 maart 2025 een naheffing (de rekening achteraf) van bijna 50 euro.",
+   "bron": [
+    18
+   ],
+   "citaat": "Aan [taxibedrijf] is daarom een naheffingsaanslag parkeerbelasting opgelegd van in totaal € 49,93."
+  },
+  {
+   "zin": "Omdat die niet op tijd was betaald, stuurde de gemeente op 3 mei 2025 een herinnering met 9 euro extra kosten.",
+   "bron": [
+    19
+   ],
+   "citaat": "een aanmaning naar [taxibedrijf] verzonden, waarbij € 9,00 aanmaningskosten in rekening zijn gebracht"
+  },
+  {
+   "zin": "De gemachtigde zei dat de persoon eigenaar van het bedrijf was, maar de gemeente sprak dat tegen.",
+   "bron": [
+    24
+   ],
+   "citaat": "gesteld dat eiser de eigenaar is van [taxibedrijf]"
+  },
+  {
+   "zin": "De rechtbank wees het bewijsaanbod af, want de gemachtigde had niet uitgelegd waarom de stukken zo laat kwamen.",
+   "bron": [
+    23
+   ],
+   "citaat": "heeft geen adequate reden gegeven waarom de stukken niet eerder zijn ingebracht"
+  },
+  {
+   "zin": "Volgens de rechtbank kon de persoon geen beroep doen tegen de aanmaning, dus het beroep is niet inhoudelijk behandeld.",
+   "bron": [
+    25
+   ],
+   "citaat": "dat eiser niet als beroepsgerechtigde kwalificeert"
+  },
+  {
+   "zin": "Het griffierecht (de kosten voor het beroep) komt niet terug, en er is geen vergoeding voor proceskosten.",
+   "bron": [
+    27
+   ],
+   "citaat": "Eiser krijgt daarom het griffierecht niet terug"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep niet inhoudelijk behandeld; geen geld terug en geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De aanmaningskosten blijven staan, en de persoon krijgt geen griffierecht of proceskosten terug.",
+  "bron": [
+   11,
+   27
+  ],
+  "citaat": "de beschikking, waarmee de aanmaningskosten in rekening zijn gebracht, in stand blijft"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij is eigenaar van het taxibedrijf, dus de kosten raken hem en hij mag beroep doen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond niet aannemelijk dat de persoon namens het bedrijf had gehandeld of dat de kosten bij hem terechtkwamen.",
+    "bron": [
+     24
+    ],
+    "citaat": "Daarom is niet aannemelijk geworden dat eiser ofwel namens [taxibedrijf] heeft gehandeld"
+   },
+   "bruikbare_zin": {
+    "citaat": "Daarom is niet aannemelijk geworden dat eiser ofwel namens [taxibedrijf] heeft gehandeld",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Alleen wie de aanmaning ontving, of wie de belasting zelf draagt, mag er in beginsel tegen opkomen.",
+  "type": "regel",
+  "reikwijdte": "aanmaningskosten-beschikking bij een naheffing parkeerbelasting",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   22
+  ],
+  "citaat": "alleen beroep kan worden ingesteld tegen zoiets als een aanmaningskosten-beschikking"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "volmacht op naam van de persoon",
+   "bewijsaanbod over het eigendom (afgewezen)"
+  ],
+  "wat_gaf_doorslag": "Het bewijsaanbod werd afgewezen, en daardoor was het eigendom niet aannemelijk."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:58 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver procedurele uitspraak",
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Alleen wie de aanmaning ontvangt, of wie de kosten zelf draagt, kan daartegen in beroep gaan. Staat de rekening op naam van een bedrijf, dan moet dat bedrijf zelf in beroep. Kunt u aantonen dat u de kosten zelf draagt, dan kan dat helpen; of dat genoeg is, hangt af van uw situatie.",
+ "gemeente": "Tilburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

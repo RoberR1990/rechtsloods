@@ -1,0 +1,164 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2024:6521",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "invordering",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "automobilist",
+  "wederpartij": "gemeente Delft",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een automobilist kwam op tegen aanmaningskosten van 8 euro, na een naheffingsaanslag (de rekening achteraf) die niet was betaald. De zaak ging naar de rechtbank Den Haag, tegen de gemeente Delft.",
+ "titel": "Gemeente betaalt proceskosten; aanmaning blijft staan",
+ "kern": {
+  "zin": "De uitspraak op bezwaar werd vernietigd, omdat de gemeente toegaf dat die niet bevoegd was genomen; de aanmaning bleef staan.",
+  "bron": [
+   26,
+   17
+  ],
+  "citaat": "heeft verklaard dat de uitspraak op bezwaar inderdaad onbevoegd is genomen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Aan de automobilist werd een naheffingsaanslag opgelegd voor parkeren op 1 oktober 2022 in Delft.",
+   "bron": [
+    23
+   ],
+   "citaat": "Aan belanghebbende is een naheffingsaanslag parkeerbelasting opgelegd wegens parkeren op 1 oktober 2022"
+  },
+  {
+   "zin": "De automobilist ontkende dat hij de rekening had ontvangen.",
+   "bron": [
+    27
+   ],
+   "citaat": "De enkele ontkenning van de ontvangst van de naheffingsaanslag op dit adres"
+  },
+  {
+   "zin": "De gemeente gaf toe dat de uitspraak op bezwaar niet bevoegd was genomen.",
+   "bron": [
+    26
+   ],
+   "citaat": "heeft verklaard dat de uitspraak op bezwaar inderdaad onbevoegd is genomen"
+  },
+  {
+   "zin": "De rechter liet de aanmaning van 8 euro staan, omdat de verzending aannemelijk was.",
+   "bron": [
+    27
+   ],
+   "citaat": "heeft de heffingsambtenaar aannemelijk gemaakt dat de naheffingsaanslag met juiste adressering"
+  },
+  {
+   "zin": "De rechter wees de dwangsom af, omdat de ingebrekestelling te vroeg kwam.",
+   "bron": [
+    29
+   ],
+   "citaat": "was prematuur omdat de heffingsambtenaar op dat moment nog niet in gebreke was"
+  },
+  {
+   "zin": "De gemeente moet de proceskosten van 875 euro betalen.",
+   "bron": [
+    19
+   ],
+   "citaat": "veroordeelt verweerder in de door belanghebbende gemaakte proceskosten van € 875"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Uitspraak vernietigd als onbevoegd genomen; aanmaningskosten blijven staan; geen dwangsom.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente betaalt het griffierecht van 50 euro en 875 euro proceskosten, maar de aanmaningskosten blijven staan.",
+  "bron": [
+   20,
+   27
+  ],
+  "citaat": "draagt verweerder op het betaalde griffierecht van € 50 aan belanghebbende te vergoeden"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij ontkent dat de naheffingsaanslag op dit adres is ontvangen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter was de verzending aannemelijk genoeg, en de ontkenning veranderde dat niet.",
+    "bron": [
+     27
+    ],
+    "citaat": "De enkele ontkenning van de ontvangst van de naheffingsaanslag op dit adres ontzenuwt het vermoeden van ontvangst niet"
+   },
+   "bruikbare_zin": {
+    "citaat": "De enkele ontkenning van de ontvangst van de naheffingsaanslag op dit adres ontzenuwt het vermoeden van ontvangst niet",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente besliste te laat, dus er is recht op een dwangsom.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De ingebrekestelling kwam te vroeg, dus de gemeente was nog niet in gebreke.",
+    "bron": [
+     29
+    ],
+    "citaat": "was prematuur omdat de heffingsambtenaar op dat moment nog niet in gebreke was"
+   },
+   "bruikbare_zin": {
+    "citaat": "Er bestaat geen recht op een dwangsom.",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een blote ontkenning van de ontvangst maakt het vermoeden van ontvangst niet ongedaan.",
+  "type": "regel",
+  "reikwijdte": "een naheffing die met juiste adressering is verzonden",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "De enkele ontkenning van de ontvangst van de naheffingsaanslag op dit adres ontzenuwt het vermoeden van ontvangst niet"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verzendadministratie van de gemeente"
+  ],
+  "wat_gaf_doorslag": "De verzendadministratie met juiste adressering maakte de verzending aannemelijk."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Besluit proceskostenvergoeding bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer vóór een uitspraak op bezwaar wie daarvoor bevoegd is.",
+   "raakt": "bezwaar",
+   "bron": [
+    26
+   ],
+   "citaat": "heeft verklaard dat de uitspraak op bezwaar inderdaad onbevoegd is genomen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren blijft staan als die goed is verstuurd en de betaling is uitgebleven. In deze zaak moest de gemeente de proceskosten en het griffierecht vergoeden, omdat het besluit op het bezwaar niet bevoegd was genomen. Betwist u dat u de rekening hebt gekregen, dan kijkt de rechter naar de verzendadministratie van de gemeente.",
+ "gemeente": "Delft",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

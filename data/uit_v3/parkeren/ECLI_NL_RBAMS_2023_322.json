@@ -1,0 +1,141 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2023:322",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "privaat-boete-voorwaarden",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {
+  "burger": "parkeerder (eigenaar van de auto, een bedrijf)",
+  "wederpartij": "exploitant",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "De exploitant van een parkeergarage vorderde geld van de eigenaar van een auto die zonder te betalen was vertrokken. De kantonrechter van de rechtbank Amsterdam besliste over die vordering in een civiele zaak.",
+ "titel": "Treintje rijden: garage krijgt wel geld, niet de extra kosten",
+ "kern": {
+  "zin": "De kantonrechter wees de vordering grotendeels toe, maar wees de incassokosten af omdat het beding daarover oneerlijk was.",
+  "bron": [
+   54
+  ],
+  "citaat": "Omdat Q-Park een oneerlijk beding in haar algemene voorwaarden heeft staan"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een motor verliet de garage zonder te betalen, door achter een ander voertuig aan de slagboom door te rijden.",
+   "bron": [
+    27
+   ],
+   "citaat": "dat dit voertuig de parkeeraccommodatie om 17.06 uur is uitgereden"
+  },
+  {
+   "zin": "De bestuurder zei dat contant betalen niet lukte, omdat de automaat geen muntjes nam.",
+   "bron": [
+    43
+   ],
+   "citaat": "Dit lukt niet omdat de parkeerautomaat geen muntjes accepteerde"
+  },
+  {
+   "zin": "De garage-exploitant wees erop dat de bestuurder via de belknoppen contact had kunnen zoeken.",
+   "bron": [
+    46
+   ],
+   "citaat": "hij bij problemen via meerdere belknoppen in de parkeergarage contact had kunnen zoeken"
+  },
+  {
+   "zin": "De kantonrechter vond het beroep op overmacht onvoldoende onderbouwd.",
+   "bron": [
+    46
+   ],
+   "citaat": "Het verweer van [naam] dat sprake was van een overmacht situatie"
+  },
+  {
+   "zin": "Het beding over incassokosten was oneerlijk, dus de extra kosten voor het innen werden afgewezen.",
+   "bron": [
+    54
+   ],
+   "citaat": "Omdat Q-Park een oneerlijk beding in haar algemene voorwaarden heeft staan"
+  },
+  {
+   "zin": "Daarnaast moet de parkeerder de proceskosten van de garage betalen.",
+   "bron": [
+    60
+   ],
+   "citaat": "in de kosten van het geding, tot op heden aan de zijde van Q-Park begroot op"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Hoofdsom grotendeels toegewezen; incassokosten afgewezen wegens oneerlijk beding.",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrijf van de parkeerder moet 358,97 euro plus wettelijke rente betalen, en daarnaast 398,32 euro proceskosten en 19 euro nakosten (de kosten na het vonnis).",
+  "bron": [
+   59,
+   61,
+   62
+  ],
+  "citaat": "€ 358,97 aan hoofdsom, vermeerderd met de wettelijke rente vanaf 27 juni 2022"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De automaat accepteerde geen munten en er was geen pinpas, dus betalen lukte niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Op de camerabeelden was niet te zien dat hij vooraf bij de slagboom hulp zocht.",
+    "bron": [
+     46
+    ],
+    "citaat": "niet te zien dat hij voorafgaand aan het treintje rijden bij de slagboom"
+   },
+   "bruikbare_zin": {
+    "citaat": "er geen meldingen bij de klantenservice zijn binnengekomen",
+    "bron": [
+     46
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Staat een oneerlijk beding in de voorwaarden, dan kan de garage niet terugvallen op de wettelijke incassokosten.",
+  "type": "regel",
+  "reikwijdte": "Consumentenovereenkomsten met een oneerlijk beding in algemene voorwaarden",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   54
+  ],
+  "citaat": "kan zij niet subsidiair op grond van de wet incassokosten vorderen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "camerabeelden",
+   "log-gegevens van de garage",
+   "brief aan de garage"
+  ],
+  "wat_gaf_doorslag": "Camerabeelden en logbestanden lieten geen contact met de garage zien."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:96 BW",
+  "Besluit vergoeding buitengerechtelijke incassokosten",
+  "Richtlijn 93/13/EEG",
+  "art. 8.2 algemene voorwaarden parkeren"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u een parkeergarage verlaat zonder te betalen, bijvoorbeeld door achter een andere auto aan de slagboom door te rijden, kunt u de kosten moeten betalen. In deze zaak kreeg de garage geen extra incassokosten, omdat het beding daarover oneerlijk was. Heeft u wel geprobeerd contact op te nemen, bewaar dan bewijs daarvan, want dat kan helpen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij (privaatrechtelijke zaak)",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

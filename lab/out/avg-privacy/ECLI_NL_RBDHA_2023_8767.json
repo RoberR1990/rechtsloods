@@ -1,0 +1,144 @@
+{
+ "ecli": "ECLI:NL:RBDHA:2023:8767",
+ "relevant": true,
+ "onderwerp": "schade-aansprakelijkheid",
+ "sub": "dwangsom-niet-tijdig",
+ "kenmerk": null,
+ "zaaktype": "niet-tijdig-beslissen",
+ "partijen": {
+  "burger": "voormalig medewerker van de gemeente",
+  "wederpartij": "gemeente Westland (college van burgemeester en wethouders)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een ex-medewerker van de gemeente Westland eiste een dwangsom van € 1260 omdat de gemeente te laat zou hebben beslist op haar inzageverzoek. Ze ging bij de rechtbank Den Haag in beroep tegen de gemeente.",
+ "titel": "Geen dwangsom: gemeente had al beslist op het inzageverzoek",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente tijdig had beslist, ook al was het verzoek buiten behandeling gesteld, dus er was geen dwangsom verschuldigd.",
+  "bron": [
+   33
+  ],
+  "citaat": "Omdat er is beslist op het verzoek van eiseres is verweerder geen dwangsommen verschuldigd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De ex-medewerker vroeg de gemeente om inzage in haar gegevens. De gemeente wilde eerst haar identiteit vaststellen.",
+   "bron": [
+    23
+   ],
+   "citaat": "Omdat eiseres niet voldaan heeft aan de identificatieplicht heeft verweerder het inzageverzoek van eiseres"
+  },
+  {
+   "zin": "Daarna eiste ze een dwangsom (een bedrag voor te laat beslissen) van € 1260.",
+   "bron": [
+    25
+   ],
+   "citaat": "heeft eiseres een dwangsom van € 1260,- van verweerder geëist"
+  },
+  {
+   "zin": "De gemeente zei dat er niet te laat was beslist en dat er dus geen dwangsom was verbeurd.",
+   "bron": [
+    26
+   ],
+   "citaat": "dat er geen dwangsommen zijn verbeurd omdat er tijdig is beslist"
+  },
+  {
+   "zin": "De ex-medewerker vond dat de gemeente te laat was met beslissen en dat de maximale dwangsom was verbeurd.",
+   "bron": [
+    28
+   ],
+   "citaat": "heeft verweerder de maximale dwangsom verbeurd"
+  },
+  {
+   "zin": "De rechter zag dat de gemeente al had beslist, met een besluit om het verzoek buiten behandeling te stellen.",
+   "bron": [
+    33
+   ],
+   "citaat": "door middel van een buitenbehandelingstelling"
+  },
+  {
+   "zin": "Was ze het niet eens met dat besluit, dan had ze bezwaar moeten maken; het beroep is ongegrond.",
+   "bron": [
+    33
+   ],
+   "citaat": "Indien zij het niet met dit besluit eens was had het op haar weg gelegen bezwaar te maken"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Er was al beslist, dus geen dwangsom; geen proceskostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De ex-medewerker krijgt geen dwangsom van € 1260 en er worden geen proceskosten vergoed.",
+  "bron": [
+   33,
+   37
+  ],
+  "citaat": "Omdat er is beslist op het verzoek van eiseres is verweerder geen dwangsommen verschuldigd"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente beslisde te laat, ook na een ingebrekestelling (een officiële sommatie), dus de maximale dwangsom is verbeurd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente had al beslist met een buitenbehandelingstelling, en een ingebrekestelling lost een niet-aangevochten besluit niet op.",
+    "bron": [
+     33
+    ],
+    "citaat": "Dit kan eiseres niet oplossen door verweerder in gebreke te stellen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Omdat er is beslist op het verzoek van eiseres is verweerder geen dwangsommen verschuldigd",
+    "bron": [
+     33
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de gemeente heeft beslist, ook door een verzoek buiten behandeling te stellen, is geen dwangsom verschuldigd; wie het niet eens is, moet bezwaar maken.",
+  "type": "regel",
+  "reikwijdte": "Inzageverzoek dat buiten behandeling is gesteld; dwangsom wegens niet tijdig beslissen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   33
+  ],
+  "citaat": "Omdat er is beslist op het verzoek van eiseres is verweerder geen dwangsommen verschuldigd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De ex-medewerker ontkende niet dat zij het besluit had ontvangen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2023:2004"
+  ]
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Neem op een inzageverzoek tijdig een formeel besluit, ook als u het verzoek buiten behandeling stelt omdat de identiteit niet is vastgesteld.",
+   "raakt": "privacy-fg",
+   "bron": [
+    33
+   ],
+   "citaat": "De rechtbank stelt vast dat er is beslist op het AVG-verzoek op 25 september 2018, door middel van een buitenbehandelingstelling"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Stelt de gemeente uw inzageverzoek buiten behandeling en hebt u dat besluit ontvangen, dan heeft de gemeente beslist. Een dwangsom voor te laat beslissen is dan niet aan de orde. Bent u het niet eens met dat besluit, maak er dan bezwaar tegen.",
+ "gemeente": "Westland",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog",
+ "schema": "v3"
+}

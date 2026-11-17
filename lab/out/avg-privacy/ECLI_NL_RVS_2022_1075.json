@@ -1,0 +1,176 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2022:1075",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "gemeente Gorinchem",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De gemeente Gorinchem vulde de persoonsgegevens van een man in de basisregistratie personen (BRP) aan met gegevens over een kind, op grond van een Peruaanse geboorteakte. De man vindt dat het kind niet van hem is en stapte naar de rechter. De Raad van State deed uitspraak in hoger beroep.",
+ "titel": "Peruaanse geboorteakte bewijst vaderschap niet; BRP-aanvulling moet weg",
+ "kern": {
+  "zin": "De geboorteakte uit Peru bewijst volgens haar eigen tekst geen vaderschap, dus mocht de gemeente daar geen kindgegevens aan ontlenen.",
+  "bron": [
+   34
+  ],
+  "citaat": "niet van uit kon gaan dat de geboorteakte strekt tot bewijs van het vaderschap"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een vrouw schreef zich met haar kind in bij de gemeente Gorinchem en liet Peruaanse paspoorten en een Peruaanse geboorteakte zien.",
+   "bron": [
+    20
+   ],
+   "citaat": "heeft zij bij de gemeente aangifte van vestiging voor inschrijving in de brp"
+  },
+  {
+   "zin": "De gemeente vulde daarop de persoonsgegevens van de man in zijn persoonslijst aan met kindgegevens.",
+   "bron": [
+    21
+   ],
+   "citaat": "ambtshalve de persoonsgegevens van [appellant] in zijn persoonslijst in de brp aangevuld met kindgegevens"
+  },
+  {
+   "zin": "De man zegt dat het kind niet van hem is en dat hij het nooit heeft erkend.",
+   "bron": [
+    25
+   ],
+   "citaat": "Het kind is niet van hem en hij heeft het ook nooit erkend."
+  },
+  {
+   "zin": "De Raad van State oordeelt dat de geboorteakte volgens artikel 21 van de Peruaanse Codigo Civil geen ouderschap vastlegt.",
+   "bron": [
+    32
+   ],
+   "citaat": "De geboorteakte strekt gelet op de letterlijke tekst van artikel 21 van de Codigo Civil niet tot bewijs van ouderschap"
+  },
+  {
+   "zin": "Ook staat vast dat niet is gebleken dat de man binnen dertig dagen op de hoogte is gebracht van de registratie.",
+   "bron": [
+    33
+   ],
+   "citaat": "Er kan dus niet van worden uitgegaan dat [appellant] op tijd op de hoogte is gesteld."
+  },
+  {
+   "zin": "De gemeente moet de aanvulling met kindgegevens daarom ongedaan maken.",
+   "bron": [
+    37
+   ],
+   "citaat": "Dit betekent dat het college de aanvulling van de persoonsgegevens van [appellant] met kindgegevens ongedaan moet maken."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Hoger beroep gegrond; BRP-aanvulling ongedaan gemaakt en kosten vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente haalt de kindgegevens uit de persoonslijst van de man en vergoedt zijn kosten: € 541,00, € 2.277,00 en € 444,00 griffierecht.",
+  "bron": [
+   37
+  ],
+  "citaat": "Dit betekent dat het college de aanvulling van de persoonsgegevens van [appellant] met kindgegevens ongedaan moet maken."
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Het kind is niet van mij en ik heb het nooit erkend, dus die gegevens horen niet bij mij.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente mocht er niet van uitgaan dat de geboorteakte het vaderschap bewijst.",
+    "bron": [
+     34
+    ],
+    "citaat": "niet van uit kon gaan dat de geboorteakte strekt tot bewijs van het vaderschap"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet van uit kon gaan dat de geboorteakte strekt tot bewijs van het vaderschap",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het onderzoek naar de geboorteakte was onzorgvuldig.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente wist zelf niet hoe de man is geïnformeerd en het consulaat gaf daarover geen duidelijkheid.",
+    "bron": [
+     33
+    ],
+    "citaat": "Het college erkent niet te hebben kunnen nagaan hoe [appellant] is geïnformeerd en het dus niet te weten."
+   },
+   "bruikbare_zin": {
+    "citaat": "niet van worden uitgegaan dat [appellant] op tijd op de hoogte is gesteld",
+    "bron": [
+     33
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een buitenlandse geboorteakte waaruit volgens het recht van dat land geen ouderschap volgt, mag niet worden gebruikt om vaderschap in de BRP te registreren.",
+  "type": "regel",
+  "reikwijdte": "Ambtshalve aanvulling van BRP-gegevens op grond van een buitenlandse geboorteakte",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   32
+  ],
+  "citaat": "De geboorteakte strekt gelet op de letterlijke tekst van artikel 21 van de Codigo Civil niet tot bewijs van ouderschap"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "vertaling van artikel 21 van de Peruaanse Codigo Civil",
+   "mailwisseling van de gemeente met het consulaat van Peru"
+  ],
+  "wat_gaf_doorslag": "De letterlijke tekst van artikel 21 en het ontbreken van bewijs dat de man op tijd op de hoogte is gebracht."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2021:505",
+   "ECLI:NL:RVS:2016:3251"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2.8 Wet brp",
+  "art. 21 Peruaanse Codigo Civil"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij een buitenlandse geboorteakte eerst of het recht van dat land ouderschap vastlegt, voordat u kindgegevens overneemt",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    32
+   ],
+   "citaat": "De geboorteakte strekt gelet op de letterlijke tekst van artikel 21 van de Codigo Civil niet tot bewijs van ouderschap"
+  },
+  {
+   "actie": "Leg vast hoe de vermeende ouder op tijd op de hoogte is gebracht; lukt dat niet, neem de gegevens dan niet over",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    33
+   ],
+   "citaat": "Er kan dus niet van worden uitgegaan dat [appellant] op tijd op de hoogte is gesteld."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "De gemeente mag uw gegevens in de basisregistratie alleen aanvullen als dat echt vaststaat. Een buitenlandse geboorteakte die zelf geen vaderschap vastlegt, is daarvoor niet genoeg. Wijzigt de gemeente uw gegevens toch, dan kunt u bezwaar maken en vragen om de gegevens te laten weghalen.",
+ "gemeente": "Gorinchem",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,126 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2025:6980",
+ "relevant": true,
+ "onderwerp": "schade-aansprakelijkheid",
+ "sub": "overig",
+ "kenmerk": null,
+ "zaaktype": "schadevergoeding",
+ "partijen": {
+  "burger": "burger (met gemachtigde)",
+  "wederpartij": "minister van Financiën (Belastingdienst)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger vroeg de Belastingdienst om schadevergoeding voor een onjuiste registratie in de Fraude Signalering Voorziening (FSV). De burger ging bij de rechtbank Den Haag in beroep tegen de afwijzing door de minister van Financiën.",
+ "titel": "Schade door FSV-registratie: bestuursrechter is niet bevoegd",
+ "kern": {
+  "zin": "De rechtbank verklaart zich onbevoegd, want alleen de gewone (burgerlijke) rechter mag over deze schadeclaim beslissen.",
+  "bron": [
+   14
+  ],
+  "citaat": "niet de bestuursrechter, maar uitsluitend de burgerlijke rechter bevoegd is om over het geschil te oordelen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de Belastingdienst om schadevergoeding voor een onrechtmatige registratie van zijn gegevens in de FSV.",
+   "bron": [
+    13
+   ],
+   "citaat": "verzoek gedaan om vergoeding van schade die hij heeft geleden door de onrechtmatige registratie"
+  },
+  {
+   "zin": "Hij zegt materiële schade te hebben, zoals teruggevorderde bijstand en te lage toeslagen, en ook immateriële schade (schade zonder geldwaarde, zoals verdriet).",
+   "bron": [
+    13
+   ],
+   "citaat": "Daarnaast stelt hij ook immateriële schade te hebben geleden"
+  },
+  {
+   "zin": "De minister van Financiën wees dit verzoek op 25 september 2024 af.",
+   "bron": [
+    13
+   ],
+   "citaat": "Verweerder heeft het verzoek om schadevergoeding op 25 september 2024 afgewezen"
+  },
+  {
+   "zin": "De rechtbank vindt dat niet de bestuursrechter maar alleen de burgerlijke rechter over deze schade mag oordelen, omdat de schade door handelen van de Belastingdienst zou zijn ontstaan.",
+   "bron": [
+    14
+   ],
+   "citaat": "niet de bestuursrechter, maar uitsluitend de burgerlijke rechter bevoegd is om over het geschil te oordelen"
+  },
+  {
+   "zin": "De rechtbank kijkt daarom niet naar de inhoud en de burger moet naar de burgerlijke rechter.",
+   "bron": [
+    15
+   ],
+   "citaat": "Eiser zal zich moeten wenden tot de burgerlijke rechter"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Rechtbank onbevoegd; de burger moet naar de burgerlijke rechter.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt hier geen schadevergoeding en moet naar de burgerlijke rechter; er wordt geen griffierecht (kosten voor het beroep) geheven.",
+  "bron": [
+   15
+  ],
+  "citaat": "Omdat de rechtbank zich onbevoegd zal verklaren, wordt geen griffierecht geheven"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "De burger zegt schade te hebben door onrechtmatige registratie van zijn gegevens in de FSV.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechtbank is niet bevoegd en beoordeelt de inhoud van de schadeclaim daarom niet.",
+    "bron": [
+     15
+    ],
+    "citaat": "komt zij niet toe aan een inhoudelijke beoordeling van het geschil"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De bestuursrechter kan niet oordelen over besluiten over schadevergoeding voor schade door feitelijk handelen, zoals het verwerken van persoonsgegevens.",
+  "type": "regel",
+  "reikwijdte": "Schadeverzoeken over feitelijk handelen van de Belastingdienst, zoals het verwerken van persoonsgegevens.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   14
+  ],
+  "citaat": "De bestuursrechter kan bovendien geen oordeel geven over de rechtmatigheid van beslissingen van verweerder over vergoeding van schade"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De schade is volgens de rechtbank veroorzaakt door handelen van de Belastingdienst, dus alleen de burgerlijke rechter is bevoegd."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2024:2891"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:54 Awb",
+  "titel 8.4 Awb",
+  "art. 8:88 Awb",
+  "art. 8:73 Awb (oud)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Deze zaak ging over de Belastingdienst, niet over een gemeente. Een verzoek om schadevergoeding voor een onjuiste registratie van gegevens kon hier niet bij de bestuursrechter terecht, maar alleen bij de gewone (burgerlijke) rechter. Wilt u schadevergoeding, dan moet u dus naar die rechter.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente betrokken; de minister van Financiën is partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

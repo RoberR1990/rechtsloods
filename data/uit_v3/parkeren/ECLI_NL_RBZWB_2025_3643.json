@@ -1,0 +1,196 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:3643",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder, vertegenwoordigd door Verkeersboete.nl",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg in Breda een naheffingsaanslag (de rekening achteraf), omdat volgens de gemeente niet was betaald voor de Beyerd. De rechtbank Zeeland-West-Brabant, zittingsplaats Breda, oordeelde over het beroep.",
+ "titel": "Betaalbewijs van andere straat telt niet; kosten wel te hoog",
+ "kern": {
+  "zin": "De rechter houdt de aanslag overeind, omdat het betaalbewijs bij een andere straat hoort, maar verlaagt de te hoge kosten.",
+  "bron": [
+   28,
+   33
+  ],
+  "citaat": "Zone-code 21882 hoort bij een andere straat in Breda dan de Beyerd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Controleurs troffen de auto aan de Beyerd aan, zonder betaling.",
+   "bron": [
+    17
+   ],
+   "citaat": "stond op 7 februari 2023 omstreeks 09:39 uur stil aan de Beyerd te Breda"
+  },
+  {
+   "zin": "De parkeerder zegt dat hij wel had betaald en legde een betaalbewijs over.",
+   "bron": [
+    26
+   ],
+   "citaat": "Belanghebbende stelt dat hij aan zijn betalingsverplichting heeft voldaan"
+  },
+  {
+   "zin": "De gemeente vindt dat het betaalbewijs niet bewijst dat er betaald is.",
+   "bron": [
+    27
+   ],
+   "citaat": "De heffingsambtenaar weerspreekt dat het betalingsbewijs aannemelijk maakt"
+  },
+  {
+   "zin": "De rechter vindt het bewijs niet sterk genoeg, ondanks de betaling.",
+   "bron": [
+    28
+   ],
+   "citaat": "Dit bewijsmiddel is echter niet overtuigend"
+  },
+  {
+   "zin": "Het kostenbedrag op de aanslag was 5 euro te hoog berekend.",
+   "bron": [
+    31,
+    33
+   ],
+   "citaat": "Vast staat dat de kosten van de naheffingsaanslag tot een te hoog bedrag zijn opgelegd"
+  },
+  {
+   "zin": "De rechter kent de parkeerder een vergoeding van 411 euro voor proceskosten toe.",
+   "bron": [
+    40
+   ],
+   "citaat": "In elk van de zaken wordt daarom afgerond € 411 toegekend"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Aanslag blijft; kosten omlaag en proceskosten voor de burger",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt 55,05 euro en krijgt 411 euro proceskosten en 50 euro griffierecht terug.",
+  "bron": [
+   45,
+   46,
+   47
+  ],
+  "citaat": "vermindert de naheffingsaanslag parkeerbelasting tot € 55,05"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij heeft wel betaald, met een betaalbewijs van een andere zone.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt het betaalbewijs niet overtuigend, omdat het bij een andere straat hoort.",
+    "bron": [
+     28
+    ],
+    "citaat": "Dit bewijsmiddel is echter niet overtuigend"
+   },
+   "bruikbare_zin": {
+    "citaat": "Zone-code 21882 hoort bij een andere straat in Breda dan de Beyerd",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De kosten van de aanslag zijn te hoog berekend.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vindt dat de kosten 5 euro te hoog zijn en verlaagt de aanslag.",
+    "bron": [
+     33
+    ],
+    "citaat": "een tarief van € 57,75 in rekening is gebracht"
+   },
+   "bruikbare_zin": {
+    "citaat": "een tarief van € 57,75 in rekening is gebracht",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Recht op een vergoeding van proceskosten in bezwaar en beroep.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Volgens de rechter kwam de fout door het bestuursorgaan zelf, dus krijgt de burger zijn bezwaarkosten vergoed.",
+    "bron": [
+     35
+    ],
+    "citaat": "dit een gevolg is van een aan het bestuursorgaan te wijten onrechtmatigheid"
+   },
+   "bruikbare_zin": {
+    "citaat": "dit een gevolg is van een aan het bestuursorgaan te wijten onrechtmatigheid",
+    "bron": [
+     35
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente moet aannemelijk maken dat er geparkeerd is zonder betaling.",
+  "type": "regel",
+  "reikwijdte": "naheffingen waarin de gemeente parkeren moet aantonen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   28
+  ],
+  "citaat": "rust de last om aannemelijk te maken dat sprake is geweest van parkeren"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto's van de scanauto",
+   "schermafbeelding van de betaalapp"
+  ],
+  "wat_gaf_doorslag": "De zone-code op het betaalbewijs hoorde bij een andere straat."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "art. 10 lid 1 Verordening parkeerbelastingen Breda 2023",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij elke naheffing of het kostenbedrag overeenkomt met de tarieventabel.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    33
+   ],
+   "citaat": "een tarief van € 57,75 in rekening is gebracht"
+  },
+  {
+   "actie": "Herroep het besluit formeel als de kosten worden verlaagd; een losse mededeling telt niet als besluit.",
+   "raakt": "bezwaar",
+   "bron": [
+    32
+   ],
+   "citaat": "Het bericht aan belanghebbende dat € 5 aan kosten zal worden gerestitueerd is geen besluit"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar",
+  "betaalapp"
+ ],
+ "klantuitleg": "Een betaalbewijs voor een andere straat telt niet; u moet betalen voor de plek waar u staat. Staat op uw rekening een te hoog bedrag aan kosten, dan kan de rechter dat verlagen, en soms krijgt u proceskosten terug. Heeft u een betaalbewijs, stuur het dan op tijd mee met uw bezwaar; dat geeft geen zekerheid van winst.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

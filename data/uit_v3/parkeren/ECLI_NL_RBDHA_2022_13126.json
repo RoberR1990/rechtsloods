@@ -1,0 +1,146 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2022:13126",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Noordwijk",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner kreeg een naheffing (de rekening achteraf) voor parkeren, omdat het kenteken van de vergunning niet was geactiveerd. De bewoner ging in beroep tegen de gemeente Noordwijk bij de rechtbank Den Haag.",
+ "titel": "Rekening voor parkeren terecht: kenteken was niet geactiveerd",
+ "kern": {
+  "zin": "De rechter laat de rekening staan: het kenteken moest geactiveerd zijn, en niet weten is voor eigen risico van de gebruiker.",
+  "bron": [
+   28
+  ],
+  "citaat": "Uit de beschikking inwonersvergunning volgt echter nadrukkelijk dat dit een vereiste is voor gebruikmaking van de vergunning"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle bleek dat geen parkeerbelasting was betaald en geen geldige vergunning was aangemeld.",
+   "bron": [
+    17
+   ],
+   "citaat": "Tijdens een controle op voormelde datum en tijdstip is geconstateerd"
+  },
+  {
+   "zin": "De gemeente legde daarna een naheffing op van 48,13 euro.",
+   "bron": [
+    17
+   ],
+   "citaat": "een naheffingsaanslag opgelegd ten bedrage van € 48,13"
+  },
+  {
+   "zin": "De bewoner zei niet te weten dat het kenteken op de gemeentewebsite geactiveerd moest worden.",
+   "bron": [
+    28
+   ],
+   "citaat": "dat hij het kenteken van de geparkeerde auto moest activeren op de website van de gemeente"
+  },
+  {
+   "zin": "De rechter vindt dat het pasje achter de voorruit leggen niet genoeg was.",
+   "bron": [
+    28
+   ],
+   "citaat": "Eiser mocht hieruit niet opmaken dat het pasje achter de voorruit leggen volstond"
+  },
+  {
+   "zin": "De naheffing is volgens de rechter dus terecht opgelegd.",
+   "bron": [
+    28
+   ],
+   "citaat": "De naheffingsaanslag is dan ook terecht opgelegd"
+  },
+  {
+   "zin": "Er volgt geen vergoeding van proceskosten.",
+   "bron": [
+    30
+   ],
+   "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft, geen proceskosten",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing van 48,13 euro blijft staan.",
+  "bron": [
+   29
+  ],
+  "citaat": "is het beroep ongegrond verklaard"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "De bewoner wist niet dat het kenteken op de website geactiveerd moest worden, en legde het pasje achter de voorruit.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Die onwetendheid valt onder de eigen rekening en risico van de gebruiker.",
+    "bron": [
+     28
+    ],
+    "citaat": "komt naar het oordeel van de rechtbank voor zijn rekening en risico"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat dit een vereiste is voor gebruikmaking van de vergunning",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Van parkeren met een vergunning is alleen sprake als aan de voorwaarden van die vergunning is voldaan.",
+  "type": "regel",
+  "reikwijdte": "Parkeren op basis van een vergunning, zoals een inwonersvergunning",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "Van parkeren met een vergunning is alleen sprake als bij het parkeren wordt voldaan aan de voorwaarden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "controle en scan van het kenteken",
+   "beschikking inwonersvergunning"
+  ],
+  "wat_gaf_doorslag": "Vaststond dat het kenteken niet was geactiveerd op het moment van de scan."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 3 Parkeerverordening Noordwijk 2020"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet de eis om het juiste kenteken te activeren vetgedrukt in de beschikking, zoals hier gedaan.",
+   "raakt": "vergunningen",
+   "bron": [
+    28
+   ],
+   "citaat": "dat het juiste kenteken voor het parkeren moet worden geactiveerd staat immers vetgedrukt in de beschikking"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "vergunningen"
+ ],
+ "klantuitleg": "Een vergunning helpt alleen als het kenteken van de geparkeerde auto ook is geactiveerd. Staat dat niet goed, dan krijgt u een rekening, ook als u dat niet wist. Wilt u bezwaar maken, controleer dan eerst of het juiste kenteken is ingesteld; niet weten helpt op dit punt niet.",
+ "gemeente": "Noordwijk",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,143 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2026:875",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "gemeente (naam niet in de tekst)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bedrijf had een bedrijfsparkeervergunning, maar kon de auto door een storing op de website niet aanmelden. De gemeente legde daarom een naheffing (de rekening achteraf) op, en het bedrijf ging in beroep bij de rechtbank Noord-Holland.",
+ "titel": "Storing op de website: parkeerrekening van het bedrijf vernietigd",
+ "kern": {
+  "zin": "De rechter vond dat de storing buiten het bedrijf lag, zodat de gemeente de rekening ten onrechte had opgelegd.",
+  "bron": [
+   36
+  ],
+  "citaat": "Immers lag de storing buiten zijn invloedsfeer, maar in die van verweerder."
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 25 maart 2024 stond een auto van het bedrijf geparkeerd.",
+   "bron": [
+    23
+   ],
+   "citaat": "Op 25 maart 2024 omstreeks 09:24 uur stond de auto van eiser geparkeerd"
+  },
+  {
+   "zin": "Het bedrijf zei dat de aanmeldsite een storing had, en legde een foto van de foutmelding over.",
+   "bron": [
+    31
+   ],
+   "citaat": "maar dat de website een storing had"
+  },
+  {
+   "zin": "De gemeente betwistte de storing en wees op een parkeerapp als alternatief.",
+   "bron": [
+    31
+   ],
+   "citaat": "Bovendien had eiser, aldus verweerder, via een parkeerapp de auto kunnen aanmelden"
+  },
+  {
+   "zin": "Volgens de rechter maakte de foto de storing voldoende aannemelijk, en dat is overmacht.",
+   "bron": [
+    35
+   ],
+   "citaat": "Met de foto heeft eiser dan ook aannemelijk gemaakt dat de website van verweerder een storing had"
+  },
+  {
+   "zin": "De naheffing is vernietigd en de gemeente moet het griffierecht van 51 euro terugbetalen.",
+   "bron": [
+    45,
+    44
+   ],
+   "citaat": "en draagt verweerder op het door eiser betaalde griffierecht van € 51 te vergoeden"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd door overmacht; griffierecht van 51 euro terug.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening van 82,75 euro vervalt, en het bedrijf krijgt het griffierecht van 51 euro terug; proceskosten zijn er niet.",
+  "bron": [
+   28,
+   44,
+   45,
+   39
+  ],
+  "citaat": "Verweerder heeft daarom aan eiser de naheffingsaanslag opgelegd voor een bedrag van € 82,75"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De storing lag aan de website van de gemeente en niet aan het bedrijf, dus het hoeft niet te betalen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de storing buiten het bedrijf lag en dat de foto de storing aannemelijk maakte.",
+    "bron": [
+     35
+    ],
+    "citaat": "Met de foto heeft eiser dan ook aannemelijk gemaakt dat de website van verweerder een storing had"
+   },
+   "bruikbare_zin": {
+    "citaat": "Van eiser mag niet worden verlangd dat hij, indien hij wegens een storing op de website van verweerder zijn auto niet kan aanmelden",
+    "bron": [
+     36
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een storing die buiten de invloed van de parkeerder ligt, maakt de naheffing niet terecht.",
+  "type": "regel",
+  "reikwijdte": "naheffing voor een auto die niet kon worden aangemeld door een storing op de website van de gemeente",
+  "uitzondering": "als een andere aanmeldmethode toen mogelijk was en vooraf bekend was gemaakt",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   36
+  ],
+  "citaat": "Immers lag de storing buiten zijn invloedsfeer, maar in die van verweerder."
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "foto van de foutmelding"
+  ],
+  "wat_gaf_doorslag": "De foto van de foutmelding waarop de URL niet reageerde."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2001:AD6051"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 5 lid 3 Verordening parkeerbelasting"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Maak bij een storing op de aanmeldsite vooraf een andere manier van aanmelden of betalen bekend, anders kan de rekening niet standhouden.",
+   "raakt": "betaalapp",
+   "bron": [
+    35
+   ],
+   "citaat": "dat deze aanmeldmethode vooraf aan eiser kenbaar is gemaakt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "betaalapp",
+  "bezwaar"
+ ],
+ "klantuitleg": "Als een storing op de aanmeldsite u belet uw auto aan te melden, dan kan de rekening voor het parkeren vervallen. Laat dan zien hoe u het probeerde, bijvoorbeeld met een foto van de foutmelding. Of er een andere manier van betalen was die u kende, speelt ook mee en verschilt per geval.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "niet genoemd in de tekst; metadata noemt Cocensus, geen gemeente",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

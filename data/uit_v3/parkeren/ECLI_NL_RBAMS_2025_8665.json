@@ -1,0 +1,144 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2025:8665",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bedrijf procedeert tegen de gemeente Amsterdam over een naheffing voor parkeren. De rechtbank Amsterdam oordeelt in een enkelvoudige kamer.",
+ "titel": "Rekening voor parkeren geschrapt: bord was niet duidelijk genoeg",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente niet duidelijk genoeg had gemaakt dat er betaald moest worden, dus de naheffing is vernietigd.",
+  "bron": [
+   23
+  ],
+  "citaat": "Verweerder heeft naar het oordeel van de rechtbank niet aan het kenbaarheidsvereiste voldaan."
+ },
+ "samenvatting": [
+  {
+   "zin": "Een auto stond op 7 maart 2024 in Amsterdam geparkeerd zonder betaalde parkeerbelasting.",
+   "bron": [
+    9
+   ],
+   "citaat": "geparkeerd stond ter hoogte van [adres] in Amsterdam, terwijl daar geen parkeerbelasting voor was betaald."
+  },
+  {
+   "zin": "Het bedrijf zag het bord aan de andere kant van de weg en parkeerde aan de andere kant.",
+   "bron": [
+    20
+   ],
+   "citaat": "eiseres dit bord aan de rechterkant van de weg heeft zien staan"
+  },
+  {
+   "zin": "De gemeente zei dat het bord pas gold voor de zone die daarna volgt.",
+   "bron": [
+    21
+   ],
+   "citaat": "ziet dit bord pas op de zone die daarna volgt"
+  },
+  {
+   "zin": "De rechter vond dat er redelijkerwijs een misverstand kon bestaan over de betaalplicht.",
+   "bron": [
+    23
+   ],
+   "citaat": "redelijkerwijs een misverstand kon bestaan over de vraag of parkeerbelasting verschuldigd was"
+  },
+  {
+   "zin": "Eerdere borden die wel betaling eisten, veranderden daar niets aan.",
+   "bron": [
+    24
+   ],
+   "citaat": "Dat eiseres eerder borden is gepasseerd waaruit een betaalverplichting blijkt, doet daaraan niet af."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd; gemeente vergoedt griffierecht van € 371.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing vervalt en de gemeente moet het griffierecht van € 371 vergoeden.",
+  "bron": [
+   33,
+   35
+  ],
+  "citaat": "vernietigt de naheffingsaanslag in de parkeerbelasting van 14 maart 2024"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Op basis van het bord dacht het bedrijf dat hier nog geen parkeerbelasting gold.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente de betaalplicht ter plaatse duidelijker had moeten maken.",
+    "bron": [
+     23
+    ],
+    "citaat": "redelijkerwijs een misverstand kon bestaan over de vraag of parkeerbelasting verschuldigd was"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het is belangrijk dat verweerder de verplichting om parkeerbelasting te betalen ter plaatse voldoende duidelijk maakt.",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente moet ter plaatse duidelijk maken dat er parkeerbelasting verschuldigd is.",
+  "type": "regel",
+  "reikwijdte": "Plaatsen waar betaald parkeren geldt; dit kan blijken uit bebording of parkeerapparatuur in de buurt.",
+  "uitzondering": "Ook de parkeerder moet zelf onderzoeken of er betaald moet worden.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   22
+  ],
+  "citaat": "het enerzijds aan verweerder is om op zodanige wijze duidelijk te maken dat er parkeerbelasting verschuldigd is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "foto van een blauw bord 'Per 8 april 2024 betaald parkeren'"
+  ],
+  "wat_gaf_doorslag": "Redelijkerwijs kon er een misverstand bestaan of het bord voor deze zone gold."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Plaats borden over betaald parkeren pas in de zone waarvoor ze gelden.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    23
+   ],
+   "citaat": "had het in de rede gelegen dat verweerder dit bord ook pas in die volgende zone"
+  },
+  {
+   "actie": "Maak de betaalplicht ter plaatse duidelijk, ook voor wie geen internet heeft.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    23
+   ],
+   "citaat": "Die verplichting moet ook voldoende duidelijk zijn voor mensen die"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar"
+ ],
+ "klantuitleg": "Het bord in de buurt van uw parkeerplek was niet duidelijk genoeg, daarom is de rekening voor het parkeren vernietigd. Of u wel moet betalen, hangt af van waar de borden precies staan en wat u daar kon zien. Een foto van de borden op de plek kan bij bezwaar helpen.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

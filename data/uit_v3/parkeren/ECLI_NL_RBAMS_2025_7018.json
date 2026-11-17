@@ -1,0 +1,157 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2025:7018",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "belastingplicht",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "kentekenhouder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een kentekenhouder kreeg twee naheffingsaanslagen (de rekeningen achteraf) voor parkeerbelasting in Amsterdam. Hij ging in beroep bij de rechtbank Amsterdam tegen de gemeente.",
+ "titel": "Garage zette auto neer, maar kentekenhouder moet betalen",
+ "kern": {
+  "zin": "De rechtbank oordeelde dat de kentekenhouder moet betalen, ook als de garage de auto zette; geen uitzondering speelde.",
+  "bron": [
+   19,
+   23
+  ],
+  "citaat": "Dit maakt evenwel niet dat hij geen belasting is verschuldigd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het gaat om twee naheffingsaanslagen (de rekeningen achteraf) voor parkeerbelasting.",
+   "bron": [
+    9
+   ],
+   "citaat": "Deze uitspraak gaat over twee aan eiser opgelegde naheffingsaanslagen parkeerbelasting"
+  },
+  {
+   "zin": "De kentekenhouder zei dat de garage de auto had geparkeerd tijdens een reparatie.",
+   "bron": [
+    17
+   ],
+   "citaat": "De naheffingsaanslagen zijn dus te wijten aan de garage"
+  },
+  {
+   "zin": "De rechtbank zegt dat parkeerbelasting in beginsel wordt betaald door wie de auto zette.",
+   "bron": [
+    18
+   ],
+   "citaat": "parkeerbelasting in beginsel wordt geheven van degene die het voertuig heeft geparkeerd"
+  },
+  {
+   "zin": "De rechtbank ging uit van het feit dat de kentekenhouder de auto niet zelf had gezet, maar dat maakte hem toch belasting verschuldigd.",
+   "bron": [
+    19
+   ],
+   "citaat": "De rechtbank neemt als feit aan dat eiser het voertuig niet zelf heeft geparkeerd"
+  },
+  {
+   "zin": "Geen van de uitzonderingen speelde, omdat de auto aan de garage was overgedragen.",
+   "bron": [
+    23
+   ],
+   "citaat": "Deze uitzonderingen doen zich niet voor"
+  },
+  {
+   "zin": "Persoonlijke omstandigheden tellen niet mee, want parkeerbelasting is objectief.",
+   "bron": [
+    24
+   ],
+   "citaat": "Parkeerbelasting is een zogenaamde objectieve belasting"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroepen ongegrond; geen griffierecht of verletkosten terug.",
+ "gevolg_betrokkene": {
+  "zin": "De kentekenhouder krijgt het griffierecht niet terug en ook geen vergoeding van verletkosten.",
+  "bron": [
+   27
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De garage zette de auto neer, niet hij, dus hij hoeft niet te betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vindt dat het niet uitmaakt wie de auto zette, zolang hij kentekenhouder is.",
+    "bron": [
+     19
+    ],
+    "citaat": "Dit maakt evenwel niet dat hij geen belasting is verschuldigd"
+   },
+   "bruikbare_zin": {
+    "citaat": "aangezien hij kentekenhouder is van de auto",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij had een vergunning voor zone 7, en de auto stond twee meter daarbuiten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechtbank telt een persoonlijke omstandigheid niet mee bij deze belasting.",
+    "bron": [
+     24
+    ],
+    "citaat": "Parkeerbelasting is een zogenaamde objectieve belasting"
+   },
+   "bruikbare_zin": {
+    "citaat": "Parkeerbelasting is een zogenaamde objectieve belasting en daarbij kan geen rekening worden gehouden met persoonlijke omstandigheden",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de belasting niet is betaald, geldt de kentekenhouder als degene die de auto heeft geparkeerd.",
+  "type": "regel",
+  "reikwijdte": "niet betaalde parkeerbelasting op een motorrijtuig",
+  "uitzondering": "een ander stond in het kentekenregister; een huurder met overeenkomst van ten hoogste drie maanden; of een ander gebruikte de auto tegen de wil van de houder",
+  "herkomst": "wet",
+  "bron": [
+   18
+  ],
+  "citaat": "wordt de houder van het voertuig aangemerkt als degene die het voertuig heeft geparkeerd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "kentekenregister",
+   "huurovereenkomst van ten hoogste drie maanden"
+  ],
+  "wat_gaf_doorslag": "De overdracht van de auto aan de garage gold als instemming, dus geen uitzondering."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 3 Gemeentewet",
+  "art. 225 lid 5 Gemeentewet"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen gemeentelijke fout; de kosten van de garage zijn een zaak tussen kentekenhouder en garage",
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als de parkeerbelasting niet is betaald, bent u als kentekenhouder in beginsel de betaler, ook als iemand anders de auto zette. Dat geldt ook als u de auto aan een garage heeft gegeven. Heeft u een huurovereenkomst van ten hoogste drie maanden, of bewijs dat iemand anders de auto tegen uw wil gebruikte, dan kan bezwaar zin hebben.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

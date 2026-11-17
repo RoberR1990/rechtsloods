@@ -1,0 +1,138 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2026:6443",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "evenredigheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (huurauto)",
+  "wederpartij": "gemeente Zwolle",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing parkeerbelasting (de rekening achteraf) van 80,10 euro in Zwolle, omdat er geen geldig parkeerrecht was. Hij ging bij de rechtbank Overijssel in beroep tegen de gemeente Zwolle.",
+ "titel": "Vergissing bij aanmelden: naheffing blijft staan",
+ "kern": {
+  "zin": "De rechter vond dat de naheffing blijft, omdat parkeerbelasting niet van schuld afhangt en een vergissing dus niet telt.",
+  "bron": [
+   21
+  ],
+  "citaat": "Parkeerbelasting is een objectieve belasting waarbij opzet, verwijtbaarheid en/of schuld geen rol spelen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De auto stond aan de Verenigingstraat zonder geldig parkeerrecht, en er kwam een naheffing van 80,10 euro.",
+   "bron": [
+    15
+   ],
+   "citaat": "Aan belanghebbende is een naheffingsaanslag van € 80,10 opgelegd"
+  },
+  {
+   "zin": "De parkeerder zei dat hij bij het aanmelden per vergissing een verkeerde duur koos, terwijl hij genoeg uren had betaald.",
+   "bron": [
+    19
+   ],
+   "citaat": "is bij het selecteren van de duur voor het parkeren een vergissing gemaakt"
+  },
+  {
+   "zin": "Vast stond dat de auto aan de Verenigingstraat geparkeerd stond zonder dat aan de aangifteplicht was voldaan.",
+   "bron": [
+    20
+   ],
+   "citaat": "Verder betwist belanghebbende niet dat de huurauto op 10 oktober 2025 om 19.24 uur aan de Verenigingstraat geparkeerd stond"
+  },
+  {
+   "zin": "De rechter zei dat het enkele feit dat er niet is betaald voldoende is voor een naheffing.",
+   "bron": [
+    21
+   ],
+   "citaat": "Het enkele feit dát geen parkeerbelasting is betaald, is voldoende"
+  },
+  {
+   "zin": "De naheffing blijft staan en de parkeerder krijgt geen gelijk.",
+   "bron": [
+    24
+   ],
+   "citaat": "Dat betekent dat belanghebbende geen gelijk krijgt en dat de naheffingsaanslag parkeerbelasting in stand blijft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan, en de parkeerder krijgt het griffierecht niet terug.",
+  "bron": [
+   24
+  ],
+  "citaat": "Belanghebbende krijgt daarom het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Een vergissing bij het kiezen van de duur is onredelijk als er geen voordeel of nadeel is.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat schuld en opzet bij parkeerbelasting geen rol spelen.",
+    "bron": [
+     21
+    ],
+    "citaat": "Parkeerbelasting is een objectieve belasting waarbij opzet, verwijtbaarheid en/of schuld geen rol spelen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Alleen in zeer bijzondere gevallen, bijvoorbeeld een acute (medische) noodsituatie, wordt rekening gehouden met persoonlijke omstandigheden",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het doel van parkeerbelasting, betalen voor het parkeren, was al bereikt, want de uren waren betaald.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat het niet betalen zelf genoeg is voor een naheffing.",
+    "bron": [
+     21
+    ],
+    "citaat": "Het enkele feit dát geen parkeerbelasting is betaald, is voldoende om een naheffingsaanslag parkeerbelasting op te leggen"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij parkeerbelasting tellen schuld en opzet niet mee; het enkele niet betalen is genoeg.",
+  "type": "regel",
+  "reikwijdte": "gewone gevallen van parkeerbelasting die niet betaald is",
+  "uitzondering": "zeer bijzondere gevallen, zoals een acute medische noodsituatie",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "Parkeerbelasting is een objectieve belasting waarbij opzet, verwijtbaarheid en/of schuld geen rol spelen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Dat er niet was betaald; de bedoeling of schuld van de parkeerder telde niet mee."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuivere toepassing van een objectieve regel; geen tekortkoming van de gemeente",
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Als u niet of te weinig betaalt, krijgt u een naheffing, ook bij een vergissing. Alleen bij een echte noodsituatie, zoals een acute medische situatie, houdt de rechter rekening met uw persoonlijke omstandigheden. Controleer daarom vóór u parkeert de juiste duur; bezwaar omdat het een vergissing was, heeft op dit punt weinig kans.",
+ "gemeente": "Zwolle",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

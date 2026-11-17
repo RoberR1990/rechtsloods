@@ -1,0 +1,43 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2026:18671",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "privaat-boete-voorwaarden",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {"burger": "parkeerder (consument)", "wederpartij": "exploitant (parkeergarage Den Haag-Grote Markt)", "gemeente_is_partij": false},
+ "procesvorm": "anders",
+ "intro": "De exploitant Q-Park procedeerde bij de kantonrechter tegen de parkeerder. Het ging om de parkeerkosten en een extra schadevergoeding, omdat hij de garage uitreed zonder te betalen.",
+ "titel": "Parkeerder moet betalen na uitrijden zonder betaling",
+ "kern": {"zin": "Ook als de betaalautomaat niet werkte, had de parkeerder andere opties, dus moet hij de schadevergoeding betalen.", "bron": [44], "citaat": "Van omstandigheden die hem dwongen om direct achter een voorganger aan uit te rijden"},
+ "samenvatting": [
+  {"zin": "Op 19 september 2025 parkeerde de parkeerder in de garage Den Haag-Grote Markt.", "bron": [29], "citaat": "heeft op 19 september 2025 zijn auto geparkeerd in deze parkeergarage"},
+  {"zin": "Bij het uitrijden reed hij zonder te betalen achter een andere auto onder de slagboom door.", "bron": [30], "citaat": "dicht achter een ander voertuig onder de slagboom door te rijden"},
+  {"zin": "De parkeerder zei dat hij niet kon betalen, omdat de automaat en de helpknop niet werkten.", "bron": [36], "citaat": "omdat de betaalautomaat en de helpknop niet werkten"},
+  {"zin": "De exploitant liet zien dat het logboek op dat moment geen melding bevatte.", "bron": [42], "citaat": "In het door Q-Park overgelegde logboek is geen melding opgenomen"},
+  {"zin": "De rechter zag geen dwang om meteen achter de voorganger aan te rijden.", "bron": [44], "citaat": "Van omstandigheden die hem dwongen om direct achter een voorganger aan uit te rijden"},
+  {"zin": "De rechter vond het bedrag van 382,41 euro niet te hoog en verlaagde het niet.", "bron": [49], "citaat": "De kantonrechter ziet in de voorliggende situatie geen reden tot matiging"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Parkeerder betaalt parkeerkosten en extra schadevergoeding; matiging afgewezen.",
+ "gevolg_betrokkene": {"zin": "De parkeerder moet 384,51 euro betalen, plus rente, incassokosten en proceskosten.", "bron": [75, 76, 77], "citaat": "veroordeelt [gedaagde partij] om aan Q-Park te betalen een bedrag van € 384,51"},
+ "steunt": null,
+ "bezwaargronden": [
+  {"arg": "app-automaat-werkte-niet", "burger_zegt": "De automaat en de helpknop werkten niet, dus kon de parkeerder niet betalen.", "oordeel": "verworpen", "waarom": {"zin": "De rechter vond geen aanwijzing dat de apparatuur niet werkte.", "bron": [42], "citaat": "Op basis daarvan bestaat er geen aanleiding om te twijfelen aan het functioneren van de apparatuur"}, "bruikbare_zin": {"citaat": "geen aanleiding om te twijfelen aan het functioneren van de apparatuur", "bron": [42]}},
+  {"arg": "onevenredig", "burger_zegt": "De schadevergoeding van 382,41 euro is te hoog en moet worden gematigd.", "oordeel": "verworpen", "waarom": {"zin": "De rechter vond het bedrag niet onredelijk, gelet op de onderbouwing van de garage.", "bron": [49], "citaat": "De kantonrechter ziet in de voorliggende situatie geen reden tot matiging"}, "bruikbare_zin": {"citaat": "Gelet op de gemotiveerde onderbouwing van Q-Park van de hoogte van de schadevergoeding, is dit bedrag ook in dit geval niet onredelijk", "bron": [49]}}
+ ],
+ "rechtsregel": {"zin": "Een schadevergoeding in de voorwaarden wordt alleen verlaagd als dat anders een buitensporig, onaanvaardbaar resultaat geeft.", "type": "regel", "reikwijdte": "schadevergoedingsbedingen tegen een consument die achter een voorganger aan uitrijdt zonder te betalen", "uitzondering": null, "herkomst": "wet", "bron": [48], "citaat": "alleen aan de orde als toepassing ervan in die situatie tot een buitensporig en daarom onaanvaardbaar resultaat leidt"},
+ "bewijs": {"bewijslast_bij": "burger", "bewijsmiddelen": ["camerabeelden", "logboek van de exploitant"], "wat_gaf_doorslag": "De parkeerder had onvoldoende onderbouwd dat de apparatuur niet werkte."},
+ "toepasselijkheid": "privaat",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": ["art. 6:94 BW (matiging)", "art. 6:96 BW (incassokosten)", "art. 6:119 BW (wettelijke rente)"],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": ["betaalapp", "klantcontact"],
+ "klantuitleg": "Wie een garage uitrijdt zonder te betalen, moet de parkeerkosten betalen en kan een extra schadevergoeding krijgen. Een kapotte automaat is volgens de rechter geen reden om zonder betalen weg te rijden; zoek dan een andere uitgang of bel de garage. Wilt u dit betwisten, dan helpt bewijs dat het apparaat echt niet werkte, zoals een foto of een melding; zonder zulk bewijs is de kans klein.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "privaat geschil; geen gemeente betrokken",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

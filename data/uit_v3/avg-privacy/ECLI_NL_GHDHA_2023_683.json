@@ -1,0 +1,170 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2023:683",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "algoritme-ai",
+ "kenmerk": null,
+ "zaaktype": "overig",
+ "partijen": {
+  "burger": "eigenaar van twee woningen",
+  "wederpartij": "gemeente Rotterdam (de heffingsambtenaar)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een eigenaar van twee woningen in Rotterdam vond de WOZ-waarden (de waarde waarover onroerendezaakbelasting wordt berekend) te hoog en zei onder meer dat de gemeente de AVG had geschonden. Hij ging in hoger beroep tegen de gemeente bij het gerechtshof Den Haag, nadat de rechtbank de waarden al had verlaagd.",
+ "titel": "WOZ-waarde blijft staan; AVG-klacht moet naar Autoriteit Persoonsgegevens",
+ "kern": {
+  "zin": "Het hof liet de WOZ-waarden staan en zei dat een klacht over strijd met de AVG geen beroepsgrond is in deze zaak maar bij de Autoriteit Persoonsgegevens thuishoort; verder zag het geen onrechtmatig handelen.",
+  "bron": [
+   246
+  ],
+  "citaat": "Belanghebbende dient zich daarvoor te wenden tot de Autoriteit Persoonsgegevens"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente zag de twee boven elkaar gelegen woningen van de burger als twee aparte WOZ-objecten.",
+   "bron": [
+    26
+   ],
+   "citaat": "De onroerende zaken zijn voor de toepassing van de Wet WOZ door de Heffingsambtenaar aangemerkt als twee objecten"
+  },
+  {
+   "zin": "De rechtbank verlaagde de waarden al, waarna de burger in hoger beroep ging.",
+   "bron": [
+    186
+   ],
+   "citaat": "De Rechtbank heeft op 20 juni 2022 uitspraak gedaan, waarbij de waarden van de onroerende zaken zijn verminderd"
+  },
+  {
+   "zin": "De burger zei dat de gemeente met de manier van waarde vaststellen in strijd met artikel 22 van de AVG handelde.",
+   "bron": [
+    244
+   ],
+   "citaat": "Belanghebbende betoogt dat de Heffingsambtenaar met de wijze van vaststelling van de WOZ-waarden heeft gehandeld in strijd met artikel 22 van de AVG"
+  },
+  {
+   "zin": "De gemeente zei dat er mensen betrokken waren bij het vaststellen van de waarden, dus niet alleen een computer.",
+   "bron": [
+    245
+   ],
+   "citaat": "bij de vaststelling van de waarden van de onroerende zaken natuurlijke personen betrokken zijn geweest"
+  },
+  {
+   "zin": "Het hof zei dat een klacht over de AVG niet als beroepsgrond in deze zaak kan worden behandeld en dat de burger daarvoor naar de Autoriteit Persoonsgegevens moet.",
+   "bron": [
+    246
+   ],
+   "citaat": "Belanghebbende dient zich daarvoor te wenden tot de Autoriteit Persoonsgegevens"
+  },
+  {
+   "zin": "Het hof bevestigde de uitspraak van de rechtbank en wees ook de vergoeding van immateriële schade af.",
+   "bron": [
+    260,
+    261
+   ],
+   "citaat": "bevestigt de uitspraak van de Rechtbank"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; uitspraak rechtbank bevestigd",
+ "gevolg_betrokkene": {
+  "zin": "De waarden blijven € 490.000 en € 425.000 zoals de rechtbank bepaalde; er komt geen vergoeding voor immateriële schade en geen proceskostenvergoeding.",
+  "bron": [
+   20,
+   261,
+   257
+  ],
+  "citaat": "de waarde nader wordt vastgesteld op respectievelijk € 490.000,- en € 425.000,-"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De manier waarop de waarden zijn vastgesteld is in strijd met artikel 22 van de AVG (geen besluit alleen door een computer).",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een klacht over strijd met de AVG kan volgens het hof niet als beroepsgrond in deze zaak worden behandeld; daarvoor moet de burger naar de Autoriteit Persoonsgegevens.",
+    "bron": [
+     246
+    ],
+    "citaat": "Belanghebbende dient zich daarvoor te wenden tot de Autoriteit Persoonsgegevens"
+   },
+   "bruikbare_zin": {
+    "citaat": "Belanghebbende dient zich daarvoor te wenden tot de Autoriteit Persoonsgegevens",
+    "bron": [
+     246
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente heeft niet alle stukken van de WOZ-waarde aan mij verstrekt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger had in de bezwaarfase niet gevraagd om een afschrift van de gegevens achter de waarde.",
+    "bron": [
+     240
+    ],
+    "citaat": "Uit de stukken van het geding volgt niet dat belanghebbende in de bezwaarfase een dergelijk verzoek heeft gedaan"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik heb recht op een vergoeding van immateriële schade, omdat de procedure te lang duurde.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De procedure duurde ongeveer drie jaar, dus de redelijke termijn van vier jaar is niet overschreden.",
+    "bron": [
+     253
+    ],
+    "citaat": "de redelijke termijn van vier jaar niet is overschreden en belanghebbende geen recht heeft op een vergoeding van immateriële schade"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een stelling dat een WOZ-beschikking of aanslag in strijd is met de AVG kan niet als beroepsgrond worden behandeld; de burger moet zich tot de Autoriteit Persoonsgegevens wenden.",
+  "type": "regel",
+  "reikwijdte": "Beroep tegen WOZ-beschikkingen en aanslagen onroerendezaakbelasting waarin de burger zich op de AVG beroept",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   246
+  ],
+  "citaat": "Belanghebbende dient zich daarvoor te wenden tot de Autoriteit Persoonsgegevens"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "matrices met vergelijkingsobjecten van de gemeente"
+  ],
+  "wat_gaf_doorslag": "De burger gaf geen inzicht in de indeling van de woningen en onderbouwde zijn veel lagere waarde niet."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 22 AVG",
+  "art. 16 Wet WOZ",
+  "art. 17 lid 2 Wet WOZ",
+  "art. 40 Wet WOZ",
+  "art. 7:4 Awb",
+  "art. 37a Wet WOZ"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "Hof laat de AVG-klacht onbeslist; geen concrete les voor de gemeente",
+ "raakt": [
+  "bezwaar",
+  "privacy-fg",
+  "datateam-algoritmes"
+ ],
+ "klantuitleg": "Vindt u dat de gemeente bij de WOZ-waarde de AVG heeft geschonden, dan kunt u dat niet in het beroep tegen de WOZ-waarde aanvoeren. Zo'n klacht kunt u indienen bij de Autoriteit Persoonsgegevens. Over de hoogte van de waarde zelf beoordeelt de rechter wel of de gemeente die goed heeft onderbouwd.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

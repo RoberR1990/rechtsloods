@@ -1,0 +1,143 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2019:9077",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "gemachtigde-bureau",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg in Den Haag twee keer op dezelfde dag een boete voor dezelfde overtreding. De parkeerder ging in hoger beroep tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Tweede boete voor dezelfde overtreding op één dag vervalt",
+ "kern": {
+  "zin": "De tweede boete vervalt, omdat de handhaver die boete niet had opgelegd als hij van de eerste boete had geweten.",
+  "bron": [
+   24
+  ],
+  "citaat": "houdt het hof het ervoor dat de ambtenaar geen sanctie zou hebben opgelegd als hij op de hoogte was geweest van de eerste sanctie"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete van € 90 voor parkeren in strijd met een parkeerverbod (bord E1) op het Trekvlietplein in Den Haag.",
+   "bron": [
+    20
+   ],
+   "citaat": "parkeren in strijd met parkeerverbod/parkeerverbodszone (bord E1)"
+  },
+  {
+   "zin": "De parkeerder ontkende de overtreding niet, maar zei dat hij dezelfde dag al een boete had gekregen en de auto niet had verplaatst.",
+   "bron": [
+    21
+   ],
+   "citaat": "reeds op dezelfde dag om 14:56 uur een sanctie is opgelegd"
+  },
+  {
+   "zin": "De handhaver die de tweede boete schreef, verklaarde dat hij geen aankondiging onder de ruitenwisser vond, terwijl andere auto's die wel hadden.",
+   "bron": [
+    22
+   ],
+   "citaat": "terwijl er andere voertuigen stonden die wel een aankondiging van beschikking onder de ruitenwissers hadden liggen"
+  },
+  {
+   "zin": "De rechter neemt aan dat de handhaver de tweede boete niet had opgelegd als hij van de eerste had geweten, en vindt die boete daarom niet te billijken.",
+   "bron": [
+    24
+   ],
+   "citaat": "Onder die omstandigheden valt het opleggen van de onderhavige sanctie niet te billijken."
+  },
+  {
+   "zin": "De rechter vernietigt de boete en veroordeelt de advocaat-generaal tot betaling van de proceskosten.",
+   "bron": [
+    25
+   ],
+   "citaat": "Aldus zal het hof de advocaat-generaal veroordelen in de kosten tot een bedrag van € 768,-."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Tweede boete vervalt; proceskosten van € 768 worden vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 90 vervalt, het in zekerheid gestelde bedrag komt terug en de parkeerder krijgt € 768 aan proceskosten vergoed.",
+  "bron": [
+   25,
+   20
+  ],
+  "citaat": "zal het hof de advocaat-generaal veroordelen in de kosten tot een bedrag van € 768,-"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Voor dezelfde overtreding is dezelfde dag al een boete opgelegd, dus de auto is twee keer bestraft.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De handhaver zou de tweede boete niet hebben opgelegd als hij van de eerste had geweten.",
+    "bron": [
+     24
+    ],
+    "citaat": "geen sanctie zou hebben opgelegd als hij op de hoogte was geweest van de eerste sanctie"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen sanctie zou hebben opgelegd als hij op de hoogte was geweest van de eerste sanctie",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een boete kan vervallen als de handhaver die niet had opgelegd bij kennis van een eerdere boete voor dezelfde overtreding.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Alleen deze zaak: tweede boete voor dezelfde auto op dezelfde plek op dezelfde dag, zonder verplaatsing.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "Onder die omstandigheden valt het opleggen van de onderhavige sanctie niet te billijken."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "aanvullende verklaring van de handhaver",
+   "stukken over de eerste boete"
+  ],
+  "wat_gaf_doorslag": "De aanvullende verklaring van de handhaver liet zien dat hij geen boete zou hebben geschreven bij kennis van de eerste."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:GHARL:2017:7239"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 62 RVV 1990",
+  "art. 11 Wahv"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer voor het schrijven van een boete of voor dezelfde auto op dezelfde plek en dag al een boete is opgelegd.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    24
+   ],
+   "citaat": "geen sanctie zou hebben opgelegd als hij op de hoogte was geweest van de eerste sanctie"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Heeft u op dezelfde dag twee boetes gekregen voor één auto die niet is verplaatst? Dan kan de rechter de tweede boete laten vervallen, omdat u in feite twee keer wordt bestraft voor één overtreding. Bezwaar of beroep heeft zin als u kunt laten zien dat de auto tussen de twee boetes niet is verplaatst.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

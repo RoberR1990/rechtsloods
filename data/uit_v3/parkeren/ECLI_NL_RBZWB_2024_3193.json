@@ -1,0 +1,164 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2024:3193",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (via gemachtigde-bureau)",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Breda een naheffing omdat er niet was betaald. Via een gemachtigde ging hij in beroep bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Bezwaar ten onrechte afgewezen; naheffing blijft staan",
+ "kern": {
+  "zin": "De rechter vond de naheffing terecht, omdat er niet op tijd was betaald.",
+  "bron": [
+   67
+  ],
+  "citaat": "Belanghebbende heeft dus geparkeerd zonder dat parkeerbelasting was voldaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "Tijdens een scanauto-controle bleek voor de auto geen parkeerbelasting te zijn betaald.",
+   "bron": [
+    21
+   ],
+   "citaat": "is geconstateerd dat voor de auto geen parkeerbelasting is voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat hij om 16:11 uur via een parkeerapp had betaald.",
+   "bron": [
+    65
+   ],
+   "citaat": "Belanghebbende heeft aangevoerd dat hij om 16:11 uur parkeerbelasting heeft voldaan via parkmobiel"
+  },
+  {
+   "zin": "De gemeente vond dat de app-betaling te laat kwam, gezien de zoektijd naar de zone.",
+   "bron": [
+    66
+   ],
+   "citaat": "Het is daarom niet aannemelijk dat het zoeken naar het zonenummer elf minuten in beslag heeft genomen"
+  },
+  {
+   "zin": "De rechter vond dat de betaling niet binnen de redelijke termijn was gedaan.",
+   "bron": [
+    67
+   ],
+   "citaat": "kan dan niet worden gezegd dat belanghebbende die aanmelding heeft gedaan binnen de redelijke termijn"
+  },
+  {
+   "zin": "Het bezwaar werd ten onrechte afgewezen, en de rechter besliste de zaak zelf.",
+   "bron": [
+    63
+   ],
+   "citaat": "De rechtbank zal daarom zelf in de zaak voorzien"
+  },
+  {
+   "zin": "De parkeerder krijgt het griffierecht terug, maar de naheffing blijft staan.",
+   "bron": [
+    70
+   ],
+   "citaat": "Omdat het beroep gegrond is, krijgt daarom het griffierecht terug"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep gegrond op de termijn; naheffing blijft; proceskosten vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt € 437,50 aan proceskosten; de naheffing van € 59,62 blijft staan.",
+  "bron": [
+   70
+  ],
+  "citaat": "Deze vergoeding bedraagt € 437,50 (1 punt voor het indienen van het beroepschrift"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder zegt dat het bezwaarschrift op tijd is verstuurd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter volgde de parkeerder: het bezwaar was ten onrechte niet-ontvankelijk verklaard.",
+    "bron": [
+     62
+    ],
+    "citaat": "De rechtbank volgt partijen in hun stelling dat het bezwaar ten onrechte niet-ontvankelijk is verklaard"
+   },
+   "bruikbare_zin": {
+    "citaat": "belanghebbende vóór het einde van de termijn van zes weken (op 1 juli 2022) het bezwaarschrift ter post heeft bezorgd",
+    "bron": [
+     62
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder zegt dat hij om 16:11 uur via de app heeft betaald.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de app-betaling niet binnen de redelijke termijn was gedaan.",
+    "bron": [
+     67
+    ],
+    "citaat": "kan dan niet worden gezegd dat belanghebbende die aanmelding heeft gedaan binnen de redelijke termijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "Die redelijke termijn begint direct nadat de auto wordt geparkeerd",
+    "bron": [
+     67
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De termijn om te betalen begint direct na het parkeren.",
+  "type": "regel",
+  "reikwijdte": "parkeerbelasting in Breda; betalen via app of automaat",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   67
+  ],
+  "citaat": "Die redelijke termijn begint direct nadat de auto wordt geparkeerd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "scanauto-controle",
+   "Dossier Naheffingsaanslag met verwerkingshistorie"
+  ],
+  "wat_gaf_doorslag": "De controle en het tijdstip van parkeren waren eerder dan de app-betaling."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Verordening parkeerbelastingen Breda 2022"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij een bezwaar eerst of de termijn echt is overschreden, voordat het bezwaar wordt afgewezen.",
+   "raakt": "bezwaar",
+   "bron": [
+    62
+   ],
+   "citaat": "De rechtbank volgt partijen in hun stelling dat het bezwaar ten onrechte niet-ontvankelijk is verklaard"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een naheffing is terecht als u niet binnen de redelijke termijn na het parkeren heeft betaald. Een formele fout in de behandeling van uw bezwaar kan wel tot vergoeding van kosten leiden, zoals hier. Bezwaar op de inhoud heeft weinig kans als de betaling pas na die termijn is gedaan.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

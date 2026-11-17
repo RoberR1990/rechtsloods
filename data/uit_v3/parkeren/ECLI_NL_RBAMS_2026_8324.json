@@ -1,0 +1,185 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2026:8324",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "plafond-wachtlijst",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner vroeg een parkeervergunning voor bewoners aan, maar Amsterdam wees die af. Bij de rechtbank Amsterdam ging de bewoner in beroep tegen de gemeente.",
+ "titel": "Geen bewonersvergunning: in dit gebied worden er geen meer uitgegeven",
+ "kern": {
+  "zin": "De gemeente mocht het plafond op nul zetten, en een uitzondering was niet nodig.",
+  "bron": [
+   18,
+   21
+  ],
+  "citaat": "dat verweerder een nulplafond mag hanteren"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner vroeg een vergunning aan, en de gemeente zei nee.",
+   "bron": [
+    9
+   ],
+   "citaat": "de afwijzing van de aanvraag van eiseres voor een parkeervergunning voor bewoners"
+  },
+  {
+   "zin": "De bewoner vond het beleid onredelijk, omdat het naastgelegen gebied wel vergunningen kreeg.",
+   "bron": [
+    16
+   ],
+   "citaat": "Eiseres voert aan dat het parkeerbeleid van verweerder"
+  },
+  {
+   "zin": "De rechter zei dat het nulplafond een politieke keuze van de gemeente is.",
+   "bron": [
+    18
+   ],
+   "citaat": "is een politieke keuze van verweerder"
+  },
+  {
+   "zin": "Het andere gebied telt niet als gelijk geval, dus het beroep op gelijkheid faalt.",
+   "bron": [
+    20
+   ],
+   "citaat": "Nu geen sprake is van gelijke gevallen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; bewoner krijgt geen vergunning en geen griffierecht terug",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner krijgt geen vergunning en ook het griffierecht niet terug.",
+  "bron": [
+   26,
+   18
+  ],
+  "citaat": "Eiseres krijgt daarom het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "plafond-verdeling",
+   "burger_zegt": "Het nulplafond in het eigen gebied is onredelijk, omdat het naastgelegen gebied wel vergunningen krijgt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag het nulplafond als een politieke keuze van de gemeente.",
+    "bron": [
+     18
+    ],
+    "citaat": "is een politieke keuze van verweerder"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat verweerder zijn beleid op deze manier heeft kunnen uitvoeren",
+    "bron": [
+     18
+    ]
+   }
+  },
+  {
+   "arg": "gelijkheid",
+   "burger_zegt": "Het naastgelegen gebied krijgt wel vergunningen, dus de behandeling is ongelijk.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een ander gebied is geen gelijk geval, dus er is geen ongelijke behandeling.",
+    "bron": [
+     20
+    ],
+    "citaat": "maakt niet dat er strijd is met het gelijkheidsbeginsel"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het gaat dan immers om een ander deelvergunninggebied",
+    "bron": [
+     20
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De meerkosten van een parkeerplek in het gebouw zijn te hoog.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De meerkosten zijn nadelig, maar maken het besluit niet onevenwichtig.",
+    "bron": [
+     24
+    ],
+    "citaat": "maakt het besluit niet zo onevenwichtig dat verweerder om die reden"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat de weigering van de bewonersvergunning meerkosten met zich brengt",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Haar eigen situatie is bijzonder en vraagt om een uitzondering (hardheid).",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De situatie is niet uitzonderlijk, want veel inwoners zitten in dezelfde positie.",
+    "bron": [
+     21
+    ],
+    "citaat": "De situatie van eiseres valt hier niet onder"
+   },
+   "bruikbare_zin": {
+    "citaat": "omstandigheden die de wetgever niet heeft kunnen voorzien",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een nulplafond is een vergunning alleen in zeldzame gevallen mogelijk.",
+  "type": "regel",
+  "reikwijdte": "vergunningsgebied met een nulplafond",
+  "uitzondering": "schrijnende gevallen, zoals een levensbedreigende ziekte",
+  "herkomst": "lokale verordening",
+  "bron": [
+   21
+  ],
+  "citaat": "kan alleen in uitzonderlijke gevallen (hardheid) in afwijking van de Parkeerverordening"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 3 onderdeel 4 Uitwerkingsbesluit Parkeerverordening 2013 Amsterdam",
+  "hardheidsclausule Parkeerverordening 2013 Amsterdam"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg in het besluit op een hardheidsverzoek uit waarom de situatie niet uitzonderlijk is.",
+   "raakt": "vergunningen",
+   "bron": [
+    21
+   ],
+   "citaat": "Verweerder heeft daarom naar het oordeel van de rechtbank in redelijkheid kunnen beslissen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een vergunning in een gebied met een plafond van nul is vrijwel niet mogelijk. Alleen in echt uitzonderlijke gevallen, zoals een levensbedreigende ziekte, kan de gemeente een uitzondering maken. Heeft u zo'n situatie, dan kunt u dat met bewijs melden; of dat helpt, hangt af van het geval.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

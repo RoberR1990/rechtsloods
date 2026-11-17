@@ -1,0 +1,44 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:2219",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {"burger": "bewoners (de eisers, met een appartement en een garage)", "wederpartij": "gemeente Vlissingen (het college van burgemeester en wethouders)", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Twee bewoners vroegen in Vlissingen een parkeervergunning aan en kregen die geweigerd. Zij gingen in beroep bij de rechtbank Zeeland-West-Brabant tegen het college van burgemeester en wethouders.",
+ "titel": "Beroep niet-ontvankelijk; gemeente betaalt proceskosten van 3.200 euro",
+ "kern": {"zin": "De rechter zei dat de bewoners geen belang meer hadden bij een oordeel, omdat de vergunning over een voorbij jaar ging.", "bron": [20], "citaat": "Gelet hierop hebben eisers geen feitelijk procesbelang meer bij een inhoudelijke beoordeling van dit beroep"},
+ "samenvatting": [
+  {"zin": "De bewoners vroegen een parkeervergunning voor 2025 aan, en het college wees die af.", "bron": [20, 10], "citaat": "Eisers hebben een parkeervergunning aangevraagd voor het jaar 2025"},
+  {"zin": "De bewoners vonden als belangrijkste punt dat het college de weigering op geen wet kon baseren.", "bron": [24], "citaat": "de wettelijke grondslag voor het weigeren van de parkeervergunning ontbreekt"},
+  {"zin": "De rechter oordeelde dat er onder de regels van 2024 geen wettelijke basis voor de weigering was.", "bron": [26], "citaat": "is de rechtbank van oordeel dat een wettelijke grondslag voor het weigeren van de parkeervergunning ontbrak"},
+  {"zin": "Voor een nieuwe aanvraag helpt dat oordeel de bewoners niet, want zone D valt nu onder de vergunningplicht.", "bron": [27], "citaat": "omdat in artikel 2, eerste lid, van het Uitvoeringsbesluit 2026 zone D wél is aangewezen"},
+  {"zin": "Het beroep is niet-ontvankelijk, en de gemeente moet de proceskosten en het griffierecht vergoeden.", "bron": [35, 34], "citaat": "De totale proceskostenvergoeding is dus € 3.200,-"}
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep niet-ontvankelijk; gemeente betaalt proceskosten en griffierecht.",
+ "gevolg_betrokkene": {"zin": "Het beroep is niet inhoudelijk beoordeeld; de bewoners krijgen 194 euro griffierecht en 3.200 euro proceskosten vergoed.", "bron": [40, 39, 34], "citaat": "veroordeelt het college tot betaling van € 3.200,- aan proceskosten aan eisers"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "overig", "burger_zegt": "Er was geen wettelijke grond om de vergunning te weigeren.", "oordeel": "niet beoordeeld", "waarom": {"zin": "De rechter vond dat er onder het besluit van 2024 geen wettelijke grond was, maar oordeelde verder niet inhoudelijk.", "bron": [26], "citaat": "is de rechtbank van oordeel dat een wettelijke grondslag voor het weigeren van de parkeervergunning ontbrak"}, "bruikbare_zin": {"citaat": "Nu er formeel geen vergunningsplicht bestond", "bron": [26]}},
+  {"arg": "overig", "burger_zegt": "De garage is een parkeervoorziening op eigen terrein, dus is er geen vergunning nodig.", "oordeel": "niet beoordeeld", "waarom": {"zin": "De rechter ging niet in op de regeling voor parkeren op eigen terrein, omdat die buiten het geding viel.", "bron": [31], "citaat": "valt buiten de omvang van het geding in deze zaak"}, "bruikbare_zin": {"citaat": "valt buiten de omvang van het geding in deze zaak", "bron": [31]}}
+ ],
+ "rechtsregel": {"zin": "Er is procesbelang als het resultaat van een beroep echt bereikt kan worden en feitelijke betekenis heeft.", "type": "regel", "reikwijdte": "bestuursrechtelijk beroep tegen een weigering, ook bij een verlopen vergunning", "uitzondering": "principieel belang als nieuwe, soortgelijke besluiten waarschijnlijk volgen", "herkomst": "oordeel rechter", "bron": [19], "citaat": "Volgens vaste rechtspraak is er sprake van (voldoende) procesbelang als het resultaat"},
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": [], "wat_gaf_doorslag": null},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": ["art. 12 Uitvoeringsbesluit Parkeerverordening Vlissingen 2024", "art. 2, eerste lid, Uitvoeringsbesluit Parkeerverordening Vlissingen 2026", "art. 4, tweede lid, onder e, Uitvoeringsbesluit Parkeerverordening Vlissingen 2026"],
+ "actie_gemeente": [
+  {"actie": "Wijs gebieden met een vergunningplicht altijd in de tekst van het besluit aan, niet alleen op een kaart in een bijlage.", "raakt": "verordening-beleid", "bron": [26], "citaat": "Het enkele intekenen van een gebied op een kaartje in de bijlage"}
+ ],
+ "reden_leeg_actie": null,
+ "raakt": ["vergunningen", "bezwaar", "verordening-beleid"],
+ "klantuitleg": "Als uw parkeervergunning is geweigerd, kan een rechter soms niet meer inhoudelijk oordelen, bijvoorbeeld als de vergunning over een voorbij jaar ging. Het gaat dan vooral om of een uitspraak nog iets verandert voor een nieuwe aanvraag. Vraag de gemeente na welke regels nu gelden, en bewaar uw bewijs van de situatie ter plaatse.",
+ "gemeente": "Vlissingen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

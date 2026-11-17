@@ -1,0 +1,157 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:4371",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Breda een naheffing (de rekening achteraf) van € 55,05 voor parkeren op 4 december 2023. Hij ging in beroep bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Parkeerapp stopte na 60 minuten: toch opnieuw betalen",
+ "kern": {
+  "zin": "De rechter oordeelde dat de parkeerder na 60 minuten opnieuw had moeten aanmelden, en dat hij dat niet deed.",
+  "bron": [
+   31
+  ],
+  "citaat": "Aangezien belanghebbende zich (opnieuw) had kunnen aanmelden en dat niet heeft gedaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Breda legde een parkeerder een naheffing op van € 55,05 voor parkeren op 4 december 2023.",
+   "bron": [
+    17
+   ],
+   "citaat": "een naheffingsaanslag parkeerbelasting opgelegd van € 55,05 ter zake van het parkeren"
+  },
+  {
+   "zin": "De parkeerder zei dat hij om 17:59 uur de timer in zijn parkeerapp startte en dat de timer rond 18:59 uur stopte.",
+   "bron": [
+    30
+   ],
+   "citaat": "Belanghebbende heeft de timer in de parkeerapp Flitsmeister om 17:59 uur gestart"
+  },
+  {
+   "zin": "De parkeerder vond dat er aan het begin van de straat geen bord stond met de maximale parkeertijd.",
+   "bron": [
+    30
+   ],
+   "citaat": "Bovendien stond aan het begin van de straat geen bord waarop duidelijk de maximale parkeertijd was aangegeven"
+  },
+  {
+   "zin": "De rechter oordeelde dat het ontbreken van een bord niet betekende dat er geen belasting verschuldigd was.",
+   "bron": [
+    34
+   ],
+   "citaat": "kan niet worden afgeleid dat belanghebbende geen parkeerbelasting verschuldigd was"
+  },
+  {
+   "zin": "De rechter vond dat de parkeerder zelf had moeten onderzoeken of hij opnieuw moest betalen.",
+   "bron": [
+    34
+   ],
+   "citaat": "Van belanghebbende mag daarom worden verwacht dat hij na ommekomst van 60 minuten"
+  },
+  {
+   "zin": "Het beroep is ongegrond, dus de naheffing blijft staan en de parkeerder krijgt het griffierecht niet terug.",
+   "bron": [
+    37
+   ],
+   "citaat": "Het beroep is ongegrond. Dat betekent dat de naheffingsaanslag parkeerbelasting in stand blijft."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan, geen griffierecht terug",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt de naheffing van € 55,05 en krijgt het griffierecht niet terug.",
+  "bron": [
+   37,
+   17
+  ],
+  "citaat": "Belanghebbende krijgt daarom het griffierecht niet terug."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Aan het begin van de straat stond geen bord met de maximale parkeertijd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het ontbreken van het bord maakte niet dat er geen belasting verschuldigd was.",
+    "bron": [
+     34
+    ],
+    "citaat": "kan niet worden afgeleid dat belanghebbende geen parkeerbelasting verschuldigd was"
+   },
+   "bruikbare_zin": {
+    "citaat": "Op een parkeerder rust namelijk een onderzoeksplicht.",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De app gaf een maximale parkeerduur van 60 minuten aan, dus hij dacht dat hij daarna niet opnieuw hoefde te betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Uit de tekst in de app volgt niet dat de parkeerder na 60 minuten vrij mag blijven staan.",
+    "bron": [
+     33
+    ],
+    "citaat": "kan niet worden afgeleid dat het een parkeerder vrij staat zijn auto daarna te laten staan"
+   },
+   "bruikbare_zin": {
+    "citaat": "geeft weliswaar aan dat na verloop van 60 minuten het betaald parkeren wordt beëindigd",
+    "bron": [
+     33
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder moet na de maximale aanmeldduur zelf onderzoeken of hij opnieuw moet betalen.",
+  "type": "regel",
+  "reikwijdte": "Betaald parkeren met een maximale aanmeldduur",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   34
+  ],
+  "citaat": "Op een parkeerder rust namelijk een onderzoeksplicht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "screenshot van de parkeerapp Parkmobile"
+  ],
+  "wat_gaf_doorslag": "Het screenshot liet niet zien dat het om deze parkeeractie ging."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Aanwijzingsbesluit parkeerbelastingen Breda 2023, art. 1.3.1",
+  "Aanwijzingsbesluit parkeerbelastingen Breda 2023, art. 1.4"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter ziet geen tekort bij de gemeente; het ontbrekende bord was niet doorslaggevend",
+ "raakt": [
+  "bezwaar",
+  "bebording-verkeersbesluit",
+  "klantcontact",
+  "betaalapp"
+ ],
+ "klantuitleg": "Als uw parkeeractie na de maximale aanmeldduur doorloopt, moet u zelf opnieuw aangeven dat u parkeert. De rechter vond dat het ontbreken van een bord en de tekst in de app dat niet wegnam. Heeft u bewijs van uw aanmelding, dan kunt u dat in bezwaar gebruiken; of het helpt, hangt af van wat het laat zien.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

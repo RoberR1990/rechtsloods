@@ -1,0 +1,160 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2023:937",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "beperking-bezwaar",
+ "kenmerk": null,
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "voormalige medewerker",
+  "wederpartij": "een organisatie (naam niet genoemd)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een voormalige medewerker vroeg een organisatie om te stoppen met het gebruik van een gegeven over zijn oude functie en om opheldering over een indelingsbesluit. Hij ging bij de rechtbank Midden-Nederland in beroep tegen de afwijzing.",
+ "titel": "Geen recht op stoppen met gegevensgebruik dat nog nodig is",
+ "kern": {
+  "zin": "De rechter vond het beroep ongegrond: er was geen recht op beperking van het gebruik van het gegeven, en er bestond geen apart indelingsbesluit.",
+  "bron": [
+   27
+  ],
+  "citaat": "omdat niet aan de voorwaarden van artikel 18 van de AVG is voldaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg om te stoppen met het gebruik van een gegeven over zijn oude functie en om opheldering over een indelingsbesluit.",
+   "bron": [
+    10
+   ],
+   "citaat": "op grond van artikel 18 van de Algemene verordening gegevensbescherming (AVG) onmiddellijk te stoppen met het gebruik van het persoonsgegeven"
+  },
+  {
+   "zin": "De organisatie vond het beroep misbruik van procesrecht, maar de rechter vond niet duidelijk genoeg dat de burger met kwade bedoelingen procedeerde.",
+   "bron": [
+    23
+   ],
+   "citaat": "niet kan worden gezegd dat eiser kwade bedoelingen heeft met het instellen van deze procedure"
+  },
+  {
+   "zin": "De rechter vond dat de organisatie het verzoek om beperking terecht afwees, omdat niet aan de voorwaarden van de AVG was voldaan.",
+   "bron": [
+    27
+   ],
+   "citaat": "terecht op het standpunt heeft gesteld dat eiser geen recht heeft op beperking van de verwerking van het persoonsgegeven"
+  },
+  {
+   "zin": "Het gegeven was volgens de rechter nog nodig om zich te verweren in de procedures van de burger.",
+   "bron": [
+    27
+   ],
+   "citaat": "de verwerking van het persoonsgegeven nog steeds noodzakelijk voor het beoogde doel"
+  },
+  {
+   "zin": "Over het indelingsbesluit was al in een eerdere zaak vastgesteld dat er geen is, dus de organisatie hoefde geen opheldering te geven.",
+   "bron": [
+    31
+   ],
+   "citaat": "In die procedure is vastgesteld dat er geen indelingsbesluit is."
+  },
+  {
+   "zin": "Het beroep is ongegrond en de burger krijgt zijn griffierecht niet terug.",
+   "bron": [
+    33
+   ],
+   "citaat": "Eiser krijgt daarom het griffierecht niet terug."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; griffierecht niet terug",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen gelijk, de organisatie mag het gegeven blijven gebruiken en hij krijgt zijn griffierecht niet terug.",
+  "bron": [
+   33
+  ],
+  "citaat": "Dat betekent dat eiser geen gelijk krijgt."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De organisatie moest stoppen met het gebruik van het gegeven, want zij beschikte er volgens hem niet over.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er was geen sprake van onjuiste gegevens, want de juistheid was in een eerdere procedure vastgesteld.",
+    "bron": [
+     27
+    ],
+    "citaat": "Verweerder heeft terecht overwogen dat er geen sprake is van onjuiste gegevens, omdat de juistheid van de gegevens in rechte is komen vast te staan."
+   },
+   "bruikbare_zin": {
+    "citaat": "de verwerking van het persoonsgegeven nog steeds noodzakelijk voor het beoogde doel",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "geen-wettelijke-grondslag",
+   "burger_zegt": "De organisatie had zijn gronden dat de verwerking onrechtmatig is niet onderzocht.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De organisatie had de verwerking wel getoetst op rechtmatigheid.",
+    "bron": [
+     27
+    ],
+    "citaat": "Verweerder heeft de verwerking van de persoonsgegevens op grond van het verzoek van 11 mei 2022 op rechtmatigheid getoetst."
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De organisatie moest opheldering geven over het bestaan van een indelingsbesluit.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "In een eerdere procedure was al vastgesteld dat er geen indelingsbesluit is.",
+    "bron": [
+     31
+    ],
+    "citaat": "In die procedure is vastgesteld dat er geen indelingsbesluit is."
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een verzoek om de verwerking van een gegeven te beperken mag worden afgewezen als niet aan de voorwaarden van artikel 18 AVG is voldaan.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Alleen dit verzoek: een gegeven over een oude functie dat de organisatie nodig heeft in procedures",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "omdat niet aan de voorwaarden van artikel 18 van de AVG is voldaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De juistheid van het gegeven was al in een eerdere procedure vastgesteld."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 12 AVG",
+  "art. 14 AVG",
+  "art. 15 AVG",
+  "art. 18 AVG"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; uitspraak draait om eerdere procedures in dezelfde zaak",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "U kunt vragen om het gebruik van een gegeven te laten stoppen, maar de organisatie mag dat weigeren als aan de voorwaarden van de AVG niet is voldaan. Dat gold hier: het gegeven was niet onjuist, de verwerking was niet onrechtmatig en de organisatie had het nodig voor haar verweer in procedures. Is hierover al eerder door een rechter beslist, dan heeft een nieuw verzoek weinig kans.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente is geen partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

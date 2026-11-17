@@ -1,0 +1,166 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2021:6176",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bezoekersregeling",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "aanvrager van een bezoekersvergunning",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een aanvrager uit Duitsland procedeert tegen de gemeente Rotterdam over een geweigerde bezoekersvergunning. De rechtbank Rotterdam oordeelde over een tweede woning waarop de aanvrager niet staat ingeschreven.",
+ "titel": "Bezoekersvergunning geweigerd omdat aanvrager niet op het adres stond ingeschreven",
+ "kern": {
+  "zin": "De rechter vond de inschrijvingseis gerechtvaardigd gezien de parkeerdruk, dus het beroep is afgewezen.",
+  "bron": [
+   24
+  ],
+  "citaat": "gerechtvaardigd is met het oog op de parkeerdruk in Rotterdam"
+ },
+ "samenvatting": [
+  {
+   "zin": "Hij kocht in 2020 een tweede woning in Rotterdam, maar staat daar niet in de bevolkingsadministratie.",
+   "bron": [
+    15
+   ],
+   "citaat": "staat niet ingeschreven in de basisregistratie personen"
+  },
+  {
+   "zin": "Hij vindt dat de eis hem ongelijk behandelt ten opzichte van andere inwoners.",
+   "bron": [
+    20
+   ],
+   "citaat": "Hij verkeert in een gelijke positie als iedere andere inwoner van Rotterdam"
+  },
+  {
+   "zin": "De gemeente zegt dat zij schaarse parkeerplekken moet verdelen en daarom een inschrijving eist.",
+   "bron": [
+    23
+   ],
+   "citaat": "heeft daarom een beleidskeuze gemaakt om een inschrijving in de brp als voorwaarde te stellen"
+  },
+  {
+   "zin": "De rechter vond de eis gerechtvaardigd, dus het beroep is ongegrond.",
+   "bron": [
+    24
+   ],
+   "citaat": "gerechtvaardigd is met het oog op de parkeerdruk in Rotterdam"
+  },
+  {
+   "zin": "De afwijzing blijft staan.",
+   "bron": [
+    25
+   ],
+   "citaat": "de afwijzing van de aanvraag voor een bezoekersvergunning in bezwaar gehandhaafd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; afwijzing blijft staan, geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De aanvrager krijgt geen bezoekersvergunning voor dit adres, omdat hij daar niet staat ingeschreven.",
+  "bron": [
+   25
+  ],
+  "citaat": "de afwijzing van de aanvraag voor een bezoekersvergunning in bezwaar gehandhaafd"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gelijkheid",
+   "burger_zegt": "Hij vindt dat hij als inwoner gelijk staat met anderen en dat het doel ook met hem wordt gehaald.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ziet geen bewijs dat gelijke gevallen anders zijn behandeld.",
+    "bron": [
+     24
+    ],
+    "citaat": "Op geen enkele manier is gebleken dat verweerder hiermee gelijke gevallen niet gelijk behandeld"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het idee hierachter is dat de aanvrager van een bezoekersvergunning daadwerkelijk in het betaald parkeren gebied in Rotterdam woont",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "Hij wilde fysiek gehoord worden, maar is telefonisch gehoord.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond een telefonische hoorzitting redelijk, omdat fysiek horen door corona niet kon.",
+    "bron": [
+     19
+    ],
+    "citaat": "als gevolg van de uitbraak van COVID-19 in de zomer van 2020"
+   },
+   "bruikbare_zin": {
+    "citaat": "dit kan niet tot de conclusie leiden dat aan het bestreden besluit een gebrek kleeft",
+    "bron": [
+     19
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente mag als voorwaarde stellen dat de aanvrager op het adres staat ingeschreven, als zij dat onderbouwt.",
+  "type": "regel",
+  "reikwijdte": "bezoekersvergunningen in het betaald parkeergebied van Rotterdam",
+  "uitzondering": null,
+  "herkomst": "lokale verordening",
+  "bron": [
+   23
+  ],
+  "citaat": "heeft daarom een beleidskeuze gemaakt om een inschrijving in de brp als voorwaarde te stellen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Dat de aanvrager niet in de basisregistratie stond, was niet in geschil."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2014:4470"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 3 lid 1 Uitvoeringsbesluit parkeren Rotterdam 2020",
+  "art. 8 lid 2 Uitvoeringsbesluit parkeren Rotterdam 2020",
+  "art. 8:3 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet de reden voor een voorwaarde in het besluit zelf, niet alleen in het verweer of in een telefoongesprek.",
+   "raakt": "bezwaar",
+   "bron": [
+    24
+   ],
+   "citaat": "Dit volgt namelijk niet uit het bestreden besluit"
+  },
+  {
+   "actie": "Controleer de standaardtekst in besluiten op bezwaar op feitelijke fouten, ook als die niet tot vernietiging leiden.",
+   "raakt": "bezwaar",
+   "bron": [
+    19
+   ],
+   "citaat": "Weliswaar heeft verweerder abusievelijk in het bestreden besluit vermeld"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een bezoekersvergunning in Rotterdam krijgt u alleen als u op dat adres in het betaald parkeergebied staat ingeschreven. De rechter vond die eis redelijk, omdat de gemeente zo schaarse parkeerplekken wil verdelen. Vindt u dat uw situatie anders is, dan kunt u bezwaar maken; op dit punt is de kans op succes klein.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

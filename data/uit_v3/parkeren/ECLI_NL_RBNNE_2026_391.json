@@ -1,0 +1,151 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2026:391",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een Wahv-boete (een boete voor een verkeersovertreding) van 129 euro voor parkeren waar dat niet mag, op de Diepswal in Dokkum. Hij ging in beroep tegen de officier van justitie bij de kantonrechter van de rechtbank Noord-Nederland.",
+ "titel": "Boete parkeerverbod blijft; bebording was in orde",
+ "kern": {
+  "zin": "De kantonrechter wees het beroep af: de bebording klopte volgens het proces-verbaal, en de plek was geen parkeervak.",
+  "bron": [
+   21,
+   22
+  ],
+  "citaat": "de verbalisant in het proces-verbaal van 11 februari 2025 expliciet aan dat de bebording is gecontroleerd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Hij kreeg een boete van 129 euro voor parkeren waar dat niet mag, op de Diepswal in Dokkum.",
+   "bron": [
+    10
+   ],
+   "citaat": "een voertuig parkeren waar dat niet mag (bord E1, parkeerverbod(szone))"
+  },
+  {
+   "zin": "Hij zei dat er geen bord stond dat hem verbood daar te parkeren, en dat de plek op een parkeervak leek.",
+   "bron": [
+    18
+   ],
+   "citaat": "ter plaatse geen bord stond dat hij mocht parkeren"
+  },
+  {
+   "zin": "De vertegenwoordigster van de officier van justitie vond dat de plek geen parkeervak was.",
+   "bron": [
+    19
+   ],
+   "citaat": "De locatie ziet er volgens haar niet uit als parkeervak"
+  },
+  {
+   "zin": "De kantonrechter nam aan dat de bebording in orde was, omdat de verbalisant die had gecontroleerd.",
+   "bron": [
+    21
+   ],
+   "citaat": "de verbalisant in het proces-verbaal van 11 februari 2025 expliciet aan dat de bebording is gecontroleerd"
+  },
+  {
+   "zin": "De rechter had begrip voor de situatie, maar wijzigde de boete niet.",
+   "bron": [
+    23
+   ],
+   "citaat": "ziet geen reden voor wijziging van de boete"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; boete blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van 129 euro blijft staan.",
+  "bron": [
+   10,
+   25
+  ],
+  "citaat": "De opgelegde boete bedraagt € 129,00 (inclusief administratiekosten)"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Er stond geen bord dat hem verbood daar te parkeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter nam aan dat de bebording in orde was, omdat de verbalisant had gecontroleerd.",
+    "bron": [
+     21
+    ],
+    "citaat": "de verbalisant in het proces-verbaal van 11 februari 2025 expliciet aan dat de bebording is gecontroleerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "mag ervan uitgegaan worden dat die de bebording heeft gecontroleerd, tenzij omstandigheden dit onaannemelijk maken",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij had op een parkeervak geparkeerd, dus de plek was wel toegestaan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de plek te smal om een parkeervak te zijn.",
+    "bron": [
+     22
+    ],
+    "citaat": "maar het is geen parkeervak"
+   },
+   "bruikbare_zin": {
+    "citaat": "Daarvoor is het te smal",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een verbalisant die ter plaatse was, mag worden aangenomen dat de bebording is gecontroleerd.",
+  "type": "regel",
+  "reikwijdte": "verbalisant die ter plaatse aanwezig was en in het proces-verbaal de controle vermeldt",
+  "uitzondering": "tenzij omstandigheden dit onaannemelijk maken",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "mag ervan uitgegaan worden dat die de bebording heeft gecontroleerd, tenzij omstandigheden dit onaannemelijk maken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "proces-verbaal van de verbalisant (11 februari 2025)",
+   "aanvullend proces-verbaal",
+   "Google Street View"
+  ],
+  "wat_gaf_doorslag": "Het proces-verbaal waarin de verbalisant schreef dat de bebording was gecontroleerd."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Wahv"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "Zuiver individuele boetebeoordeling; de rechter vond het werk van de gemeente goed.",
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "bebording-verkeersbesluit"
+ ],
+ "klantuitleg": "Een boete voor parkeren waar dat niet mag, blijft staan als de handhaver heeft vastgelegd dat de bebording in orde was. Vindt u dat er geen bord stond, dan helpt het om bij bezwaar foto's en bewijs aan te leveren. Winnen is daarmee niet gegarandeerd.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "alleen plaatsnaam genoemd (Dokkum)",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

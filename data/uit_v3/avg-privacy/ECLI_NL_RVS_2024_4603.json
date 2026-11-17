@@ -1,0 +1,187 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2024:4603",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "wissen",
+ "kenmerk": "publieke-taak",
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "minister van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De burger vroeg de minister van Financiën om zijn persoonsgegevens te wissen. De minister weigerde dat en de rechter in hoger beroep moest beslissen of dat terecht was.",
+ "titel": "Geen wissing van gegevens na FIOD-onderzoek",
+ "kern": {
+  "zin": "De rechter vindt dat de minister het verzoek om de gegevens te wissen terecht heeft afgewezen.",
+  "bron": [
+   42
+  ],
+  "citaat": "De Afdeling is van oordeel dat de minister terecht het verzoek van [appellant] om wissing"
+ },
+ "samenvatting": [
+  {
+   "zin": "De FIOD onderzocht de fiscaal adviseur van de burger en vroeg gegevens van zijn cliënten op.",
+   "bron": [
+    23
+   ],
+   "citaat": "De FIOD heeft van de adviseur onder meer gegevens van zijn cliënten gevorderd."
+  },
+  {
+   "zin": "De burger vroeg de minister om de gegevens die de Belastingdienst had gekregen te wissen.",
+   "bron": [
+    24
+   ],
+   "citaat": "verzocht de door de Belastingdienst verkregen gegevens te wissen"
+  },
+  {
+   "zin": "De burger zei dat zijn gegevens voor een ander doel zijn gebruikt en dat hij geen toestemming gaf.",
+   "bron": [
+    31
+   ],
+   "citaat": "[appellant] stelt geen toestemming te hebben gegeven voor de verwerkingen."
+  },
+  {
+   "zin": "De rechter zegt dat de selectie en verstrekking een grondslag hebben in de Wpg en het Bpbo.",
+   "bron": [
+    37
+   ],
+   "citaat": "artikel 18 van de Wpg, gelezen in samenhang met artikel 6 van het Besluit politiegegevens bijzondere opsporingsdiensten"
+  },
+  {
+   "zin": "Volgens de rechter waren de selectie en verstrekking nodig voor een taak van algemeen belang: het heffen en innen van belasting.",
+   "bron": [
+    39
+   ],
+   "citaat": "nodig waren voor het vervullen van een taak van algemeen belang"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    48
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak moet worden bevestigd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Het hoger beroep van de burger is ongegrond; de afwijzing van het wisverzoek blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "Zijn gegevens blijven bij de Belastingdienst; hij krijgt geen schadevergoeding en er worden geen proceskosten vergoed.",
+  "bron": [
+   42,
+   46,
+   51
+  ],
+  "citaat": "de minister terecht het verzoek van [appellant] om wissing"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "doelbinding",
+   "burger_zegt": "De Belastingdienst gebruikt mijn gegevens voor een ander doel dan waarvoor de FIOD ze had verzameld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de verdere verwerking voor het heffen en innen van belasting is toegestaan.",
+    "bron": [
+     36
+    ],
+    "citaat": "de verdere verwerking voor een ander doel dan wel een andere toevertrouwde taak krachtens het lidstatelijke recht toegestaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "de verdere verwerking voor een ander doel dan wel een andere toevertrouwde taak krachtens het lidstatelijke recht toegestaan",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "geen-wettelijke-grondslag",
+   "burger_zegt": "Er is geen specifieke wettelijke grondslag en ik heb geen toestemming gegeven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt een grondslag in artikel 18 Wpg en artikel 6 Bpbo.",
+    "bron": [
+     37
+    ],
+    "citaat": "artikel 18 van de Wpg, gelezen in samenhang met artikel 6 van het Besluit politiegegevens bijzondere opsporingsdiensten"
+   },
+   "bruikbare_zin": {
+    "citaat": "artikel 18 van de Wpg, gelezen in samenhang met artikel 6 van het Besluit politiegegevens bijzondere opsporingsdiensten",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gang van zaken was voor mij niet transparant; de medewerkers deden alsof zij op grond van de Wpg bijstand gaven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ziet in wat de burger aanvoert geen strijd met de beginselen van de AVG.",
+    "bron": [
+     39
+    ],
+    "citaat": "geen aanleiding om de verwerking in strijd met artikel 5, eerste lid, van de AVG te achten"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen aanleiding om de verwerking in strijd met artikel 5, eerste lid, van de AVG te achten",
+    "bron": [
+     39
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Selectie en verstrekking van gegevens door de FIOD aan de Belastingdienst voor belastingheffing zijn toegestaan als dat nodig is voor een taak van algemeen belang en evenredig is.",
+  "type": "regel",
+  "reikwijdte": "Selectie en verstrekking van persoonsgegevens door de FIOD aan de Belastingdienst voor het heffen en innen van belasting.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   40
+  ],
+  "citaat": "De Afdeling acht de selectie en verstrekking van de persoonsgegevens van [appellant] in dit geval noodzakelijk en evenredig"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "memo van 7 oktober 2019",
+   "Nota van toelichting bij het Bpbo",
+   "opgelegde nadere aanslagen"
+  ],
+  "wat_gave_doorslag": "De afspraken in de memo en de wettelijke grondslag in de Wpg en het Bpbo."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2022:497",
+   "ECLI:EU:C:2022:124",
+   "ECLI:EU:C:2022:967",
+   "ECLI:EU:C:2017:725"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 17 AVG",
+  "art. 5 AVG",
+  "art. 6 AVG",
+  "art. 18 Wpg",
+  "art. 6 Besluit politiegegevens bijzondere opsporingsdiensten",
+  "art. 3 lid 4 Wpg",
+  "art. 9 Richtlijn (EU) 2016/680",
+  "art. 8:58 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "De organisatie mag uw gegevens alleen wissen als er geen goede reden meer is om ze te bewaren. In deze zaak vond de rechter dat de Belastingdienst uw gegevens mocht gebruiken voor het heffen van belasting, ook al kwamen ze uit een strafonderzoek. Wilt u wissen of verwijderen, dan moet u uitleggen waarom de grondslag voor bewaring ontbreekt; alleen onvrede is niet genoeg.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente; minister van Financiën is partij",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,176 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2022:1228",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "plafond-wachtlijst",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Utrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner van een appartementencomplex in Utrecht vroeg een parkeervergunning aan en kreeg een plek op de wachtlijst. Zij ging in beroep tegen het college van burgemeester en wethouders van de gemeente Utrecht, bij de rechtbank Midden-Nederland.",
+ "titel": "Bewoner zonder eigen plek krijgt geen eerste vergunning",
+ "kern": {
+  "zin": "De rechter vond dat de bewoner terecht geen eerste vergunning krijgt, omdat het adres op de uitsluitingslijst staat.",
+  "bron": [
+   22
+  ],
+  "citaat": "Dit betekent dus dat eiseres niet in aanmerking komt voor een eerste parkeervergunning"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner vroeg samen met een andere aanvrager een parkeervergunning voor autodelers aan.",
+   "bron": [
+    17
+   ],
+   "citaat": "Op 18 maart 2021 hebben eiseres en [A] een parkeervergunning voor autodelers bij verweerder aangevraagd"
+  },
+  {
+   "zin": "De bewoner vond dat zij recht had op een eerste vergunning, omdat zij geen eigen plek in de garage heeft.",
+   "bron": [
+    21
+   ],
+   "citaat": "Eiseres meent dat zij in aanmerking moet komen voor een eerste bewonersvergunning"
+  },
+  {
+   "zin": "De gemeente stelde dat het adres niet in aanmerking komt voor een parkeervergunning.",
+   "bron": [
+    19
+   ],
+   "citaat": "Verweerder stelt dat eiseres in beginsel niet in aanmerking komt voor een parkeervergunning"
+  },
+  {
+   "zin": "Volgens de rechter mocht de gemeente het adres op de lijst zetten, omdat er een gezamenlijke parkeervoorziening is.",
+   "bron": [
+    22
+   ],
+   "citaat": "als bij deze adressen een gezamenlijke parkeervoorziening is gerealiseerd op eigen terrein"
+  },
+  {
+   "zin": "De rechter zag geen schending van het gelijkheidsbeginsel, want er waren geen vergelijkbare gevallen.",
+   "bron": [
+    25
+   ],
+   "citaat": "omdat niet is gebleken dat sprake is van vergelijkbare gevallen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; bewoner krijgt geen eerste vergunning en blijft op wachtlijst.",
+ "gevolg_betrokkene": {
+  "zin": "Het beroep is afgewezen, dus de bewoner blijft op de wachtlijst staan.",
+  "bron": [
+   35
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gelijkheid",
+   "burger_zegt": "Andere bewoners met een eigen plek krijgen wel een eerste vergunning.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond niet aangetoond dat die gevallen vergelijkbaar waren.",
+    "bron": [
+     25
+    ],
+    "citaat": "omdat niet is gebleken dat sprake is van vergelijkbare gevallen"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet is gebleken dat sprake is van vergelijkbare gevallen",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De wachttijd en de hogere kosten zijn voor mij onevenredig.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de wachtlijst niet onevenredig, ook al is het vervelend voor de bewoner.",
+    "bron": [
+     31
+    ],
+    "citaat": "Dat is vervelend voor eiseres maar dat maakt niet dat het bestreden besluit onevenredig uitpakt voor haar"
+   },
+   "bruikbare_zin": {
+    "citaat": "het belang van verweerder van een eerlijke verdeling van de beschikbare parkeerruimte",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De wijkberichten van de gemeente gaven recht op een eerste vergunning.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de wijkberichten alleen algemene voorlichting, dus daar kon de bewoner geen recht aan ontlenen.",
+    "bron": [
+     28
+    ],
+    "citaat": "Verweerder heeft terecht opgemerkt dat de wijkberichten algemene voorlichting inhouden"
+   },
+   "bruikbare_zin": {
+    "citaat": "Verweerder heeft terecht opgemerkt dat de wijkberichten algemene voorlichting inhouden",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als een adres op de lijst staat, krijgt een bewoner in Utrecht geen eerste vergunning.",
+  "type": "regel",
+  "reikwijdte": "Adressen waar een gezamenlijke parkeervoorziening op eigen terrein is gerealiseerd.",
+  "uitzondering": null,
+  "herkomst": "lokale verordening",
+  "bron": [
+   22
+  ],
+  "citaat": "als bij deze adressen een gezamenlijke parkeervoorziening is gerealiseerd op eigen terrein"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "Adressenlijst uitsluiting parkeervergunningen",
+   "wijkberichten van de gemeente"
+  ],
+  "wat_gaf_doorslag": "Het adres stond op de Adressenlijst, omdat er een gezamenlijke parkeervoorziening was."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6 lid 4 Nadere regel uitgifte parkeervergunningen Utrecht",
+  "Verordening parkeerplaatsen en vergunningen Utrecht 2014"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet in wijkberichten over parkeervergunningen dat bewoners contact kunnen opnemen over hun eigen adres.",
+   "raakt": "communicatie",
+   "bron": [
+    28
+   ],
+   "citaat": "Dat eiseres hierover met de gemeente contact op kon nemen, staat overigens ook in de wijkberichten"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "communicatie"
+ ],
+ "klantuitleg": "In Utrecht krijgt u geen eerste bewonersvergunning als uw adres op de lijst van uitgesloten adressen staat. Dat geldt als er op het adres een gezamenlijke parkeerplek op eigen terrein is, ook als u daar zelf geen plek heeft. Twijfelt u over uw adres, vraag het dan bij de gemeente na; bezwaar heeft op dit punt weinig kans.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

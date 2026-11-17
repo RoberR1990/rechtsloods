@@ -1,0 +1,154 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOBR:2025:2684",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Eindhoven",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing van 74,80 euro omdat hij niet had betaald. Hij ging bij de rechtbank Oost-Brabant in beroep tegen de gemeente Eindhoven.",
+ "titel": "Betaling mislukt op automaat: naheffing blijft terecht",
+ "kern": {
+  "zin": "De rechter vond het aannemelijk dat de betaling mislukte, dus blijft de naheffing staan.",
+  "bron": [
+   22
+  ],
+  "citaat": "De rechtbank acht het aannemelijk dat de parkeerautomaat ook in de situatie van eiser deze melding heeft gegeven."
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controleur constateerde dat er voor de geparkeerde auto niets was betaald.",
+   "bron": [
+    17
+   ],
+   "citaat": "geconstateerd dat geen parkeerheffing was betaald"
+  },
+  {
+   "zin": "De parkeerder zei dat hij had betaald en dat het display slecht zichtbaar was.",
+   "bron": [
+    21
+   ],
+   "citaat": "heeft aangevoerd dat hij op 4 november 2023 rond 19:33 uur de verschuldigde parkeerbelasting heeft betaald"
+  },
+  {
+   "zin": "Volgens de gemeente toont het apparaat bij een mislukte betaling een foutmelding.",
+   "bron": [
+    22
+   ],
+   "citaat": "een melding geeft dat de betaling niet is gelukt en de transactie is afgebroken"
+  },
+  {
+   "zin": "De rechter vond het aannemelijk dat de betaling mislukte en dat de parkeerder dat redelijkerwijs kon zien.",
+   "bron": [
+    22
+   ],
+   "citaat": "moest het voor hem ook redelijkerwijs kenbaar zijn dat hij niet had betaald"
+  },
+  {
+   "zin": "Kosten matigen kan alleen bij een echte onmogelijkheid om te betalen, en die was hier er niet.",
+   "bron": [
+    23
+   ],
+   "citaat": "als geen sprake is van het absoluut, feitelijk en fysiek niet in staat zijn om parkeergeld te betalen"
+  },
+  {
+   "zin": "De parkeerder verliest de zaak, dus hij krijgt zijn griffierecht en proceskosten niet terug.",
+   "bron": [
+    25
+   ],
+   "citaat": "Eiser krijgt daarom het griffierecht niet terug."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan, geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "Zijn naheffing van 74,80 euro blijft staan en hij krijgt het griffierecht niet terug.",
+  "bron": [
+   25,
+   10
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "Hij had betaald, maar het display van de automaat was niet goed zichtbaar.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond het aannemelijk dat de automaat een melding gaf die de parkeerder had kunnen zien.",
+    "bron": [
+     22
+    ],
+    "citaat": "De rechtbank acht het aannemelijk dat de parkeerautomaat ook in de situatie van eiser deze melding heeft gegeven."
+   },
+   "bruikbare_zin": {
+    "citaat": "moest het voor hem ook redelijkerwijs kenbaar zijn dat hij niet had betaald",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "overmacht-medisch",
+   "burger_zegt": "Het regende en de echtgenote die betaalde was klein, dus het was lastig om het display te zien.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Slecht weer en een slecht zichtbaar display maakten betalen niet onmogelijk.",
+    "bron": [
+     23
+    ],
+    "citaat": "maken niet dat sprake was van een absoluut, feitelijk en fysieke onmogelijkheid om het parkeergeld te betalen"
+   },
+   "bruikbare_zin": {
+    "citaat": "maken niet dat sprake was van een absoluut, feitelijk en fysieke onmogelijkheid om het parkeergeld te betalen",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een naheffing tellen persoonlijke omstandigheden en schuld niet mee; het enkele feit dat er niet of te weinig is betaald, is genoeg.",
+  "type": "regel",
+  "reikwijdte": "naheffingen parkeerbelasting waarbij niet of te weinig is betaald",
+  "uitzondering": "absolute, feitelijke onmogelijkheid om te betalen (volgens de Hoge Raad)",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   23
+  ],
+  "citaat": "Het enkele feit dat geen of te weinig parkeerbelasting is betaald is voldoende"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "bankafschrift",
+   "toelichting heffingsambtenaar over de automaat"
+  ],
+  "wat_gaf_doorslag": "De toelichting dat de automaat bij een mislukte betaling een melding geeft."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen aanwijzing voor de gemeente; de rechter bevestigt de werkwijze van de automaat",
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren is terecht als er niet of te weinig is betaald, ook als u dat niet wist. Dat geldt ook als de betaling op de automaat mislukt, zo oordeelde de rechter in deze zaak. Heeft u bewijs dat de betaling wel is gelukt, zoals een bankafschrift, dan kan bezwaar zinvol zijn.",
+ "gemeente": "Eindhoven",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

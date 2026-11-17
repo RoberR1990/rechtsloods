@@ -1,0 +1,42 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2026:6541",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "particulier, kentekenhouder", "wederpartij": "gemeente Deventer", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Een kentekenhouder kreeg een naheffing van € 80,16 voor parkeren in Deventer. Zij ging in beroep bij de rechtbank Overijssel tegen de heffingsambtenaar.",
+ "titel": "Naheffing blijft staan omdat betaling te laat was",
+ "kern": {"zin": "De rechter oordeelde dat om 15.44 uur nog niet was betaald, dus de naheffing blijft staan.", "bron": [31], "citaat": "De rechtbank is van oordeel dat daarmee vast staat dat om 15.44 uur nog niet aan de aangifteverplichting was voldaan"},
+ "samenvatting": [
+  {"zin": "De kentekenhouder kreeg een naheffing van € 80,16 voor een auto zonder geldig parkeerrecht.", "bron": [16], "citaat": "bestaande uit € 1,36 aan tariefkosten en € 78,80 aan kosten van de naheffing"},
+  {"zin": "De kentekenhouder stelt dat de partner pas om 15.46 uur heeft betaald, twee minuten na de naheffing.", "bron": [30], "citaat": "Volgens haar is de parkeerbelasting om 15.46 uur voldaan"},
+  {"zin": "Volgens de gemeente kost het uitschrijven ongeveer vijf minuten, dus de auto stond al eerder neergezet.", "bron": [19], "citaat": "Het proces van het uitschrijven van de naheffingsaanslag duurt ongeveer vijf minuten"},
+  {"zin": "De rechter oordeelde dat om 15.44 uur nog niet was betaald, en het wachten bij de automaat was niet aannemelijk.", "bron": [31, 32], "citaat": "De rechtbank is van oordeel dat daarmee vast staat dat om 15.44 uur nog niet aan de aangifteverplichting was voldaan"},
+  {"zin": "De naheffing blijft staan en de kentekenhouder krijgt geen griffierecht of proceskosten terug.", "bron": [38], "citaat": "dat de naheffingsaanslag parkeerbelasting in stand blijft"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft, geen griffierecht of proceskosten terug",
+ "gevolg_betrokkene": {"zin": "De naheffing blijft staan en de kentekenhouder krijgt geen griffierecht of proceskosten terug.", "bron": [38], "citaat": "dat de naheffingsaanslag parkeerbelasting in stand blijft"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "overig", "burger_zegt": "De partner was bij de automaat aan het betalen en had naar de controleur gezwaaid, die terug gebaard zou hebben.", "oordeel": "verworpen", "waarom": {"zin": "De rechter vond niet aannemelijk dat de partner naar de controleur heeft gezwaaid en daarmee contact heeft gelegd.", "bron": [35], "citaat": "zou hebben gezwaaid naar de controleur en op die wijze contact zou hebben gelegd"}, "bruikbare_zin": {"citaat": "zou hebben gezwaaid naar de controleur en op die wijze contact zou hebben gelegd", "bron": [35]}},
+  {"arg": "bewijs-scanauto", "burger_zegt": "Er zou te weinig bewijs van de gemeente zijn; de kentekenhouder wil de verklaring van de controleur en de scanfoto's zien.", "oordeel": "verworpen", "waarom": {"zin": "De rechter vond dat de gemeente met het brondocument en de foto's aan de bewijslast had voldaan.", "bron": [29], "citaat": "heeft de heffingsambtenaar daarmee voldaan aan de op hem rustende bewijslast"}, "bruikbare_zin": {"citaat": "waarop geen parkeerkaartje achter de voorruit van de auto zichtbaar is", "bron": [29]}}
+ ],
+ "rechtsregel": {"zin": "Een parkeerder moet bij aanvang van het parkeren betalen, maar krijgt daarvoor enige tijd om de automaat in werking te stellen.", "type": "regel", "reikwijdte": "parkeerders die bij de parkeerautomaat moeten betalen", "uitzondering": "alleen zolang de parkeerder onverwijld en onafgebroken bezig is met betalen", "herkomst": "oordeel rechter", "bron": [27], "citaat": "moet aan de parkeerder wel enige tijd worden gegund om de parkeerapparatuur in werking te stellen"},
+ "bewijs": {"bewijslast_bij": "wederpartij", "bewijsmiddelen": ["brondocument van de parkeercontroleur", "foto's zonder parkeerkaartje"], "wat_gaf_doorslag": "Het brondocument en de foto's zonder parkeerkaartje waren genoeg, en de verklaring van de partner was niet aannemelijk."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": ["art. 234 Gemeentewet", "art. 6 lid 1 Parkeerbelastingverordening Deventer 2025"],
+ "actie_gemeente": [{"actie": "Laat parkeercontroleurs voor een naheffing checken of er nog iemand bij de automaat bezig is, zoals de werkwijze voorschrijft.", "raakt": "scanauto-handhaving", "bron": [21], "citaat": "checken de parkeercontroleurs of er nog personen bezig zijn met het voldoen van de parkeerbelasting"}],
+ "reden_leeg_actie": null,
+ "raakt": ["bezwaar", "klantcontact", "betaalapp", "scanauto-handhaving"],
+ "klantuitleg": "Parkeerbelasting moet u betalen zodra u begint met parkeren. U krijgt een korte tijd om te betalen, maar die tijd is beperkt. Heeft u op tijd betaald, dan helpt een bewijs daarvan, zoals een foto of een betaalbevestiging, bij een bezwaar.",
+ "gemeente": "Deventer",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

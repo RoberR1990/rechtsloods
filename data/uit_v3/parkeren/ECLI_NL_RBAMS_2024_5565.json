@@ -1,0 +1,146 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2024:5565",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "schade-aansprakelijkheid",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {
+  "burger": "zzp-visagist",
+  "wederpartij": "gemeente Amsterdam (met verzekeraar VGA)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "anders",
+ "intro": "Een zzp-visagist die in de parkeergarage De Stopera in Amsterdam uitgleed, vraagt de gemeente om schadevergoeding. Het gaat om een deelgeschil bij de rechtbank Amsterdam; tegenpartij is de gemeente, met verzekeraar VGA.",
+ "titel": "Gemeente niet aansprakelijk voor val op gladde vloer parkeergarage",
+ "kern": {
+  "zin": "De rechter wees de schadeclaim af: de gemeente is niet aansprakelijk, omdat bezoekers zelf ook moeten opletten.",
+  "bron": [
+   58,
+   55,
+   46
+  ],
+  "citaat": "De conclusie is dat de gemeente niet aansprakelijk kan worden gehouden voor de schade"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een zzp-visagist gleed in 2022 uit in de garage en brak haar pols.",
+   "bron": [
+    28,
+    27
+   ],
+   "citaat": "Bij haar val heeft zij haar rechterpols gebroken."
+  },
+  {
+   "zin": "Zij vond dat de gemeente als eigenaar moest zorgen dat er geen vocht op de vloer lag, en moest waarschuwen.",
+   "bron": [
+    40,
+    41
+   ],
+   "citaat": "De gemeente dient er op toe te zien dat geen vloeistoffen"
+  },
+  {
+   "zin": "De gemeente en de verzekeraar zeiden dat de gemeente niet aansprakelijk is.",
+   "bron": [
+    42
+   ],
+   "citaat": "De gemeente is niet aansprakelijk op grond van onrechtmatige daad."
+  },
+  {
+   "zin": "Volgens de rechter was er geen gevaarzetting, omdat bezoekers zelf moeten opletten.",
+   "bron": [
+    55
+   ],
+   "citaat": "Van de bezoekers van de parkeergarage mag normale oplettendheid worden verwacht"
+  },
+  {
+   "zin": "De burger moest aantonen dat het gevaar zo groot was dat de gemeente strengere maatregelen moest nemen; dat lukte niet.",
+   "bron": [
+    56
+   ],
+   "citaat": "om voor het voetlicht te brengen dat de kans op glij- en valpartijen zo groot is"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Schadeclaim afgewezen; kosten deelgeschil wel begroot op € 5.129,75.",
+ "gevolg_betrokkene": {
+  "zin": "Zij krijgt geen schadevergoeding en geen buitengerechtelijke kosten; de rechter begroot wel de kosten van het deelgeschil op € 5.129,75, zonder betalingsveroordeling.",
+  "bron": [
+   62,
+   60,
+   69
+  ],
+  "citaat": "Er bestaat echter geen grondslag voor een betalingsveroordeling"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente is aansprakelijk, omdat de vloer zo glad was dat zij had moeten waarschuwen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag in dit geval geen gevaarzetting, dus geen plicht tot een waarschuwingsbord.",
+    "bron": [
+     57
+    ],
+    "citaat": "Het enkele feit dat geen waarschuwingsbord door de gemeente is geplaatst"
+   },
+   "bruikbare_zin": {
+    "citaat": "De Kelderluik-criteria gaan niet zo ver dat de gemeente ervoor moet zorgen dat dit nooit voorkomt",
+    "bron": [
+     55
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De rechter beoordeelt gevaarzetting aan de hand van de Kelderluikcriteria: kans op onoplettendheid, kans op een ongeval, ernst en de bezwaarlijkheid van maatregelen.",
+  "type": "regel",
+  "reikwijdte": "Gevaar door vocht of olie op de vloer van een parkeergarage van de gemeente",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   46
+  ],
+  "citaat": "Of sprake is van gevaarzetting moet worden beoordeeld aan de hand van de omstandigheden van het geval"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "dagrapport schoonmakers",
+   "schoonmaakrooster van de gemeente",
+   "expertrapport namens de gemeente"
+  ],
+  "wat_gaf_doorslag": "De burger kon niet aantonen dat de kans op een ongeval zo groot was dat meer maatregelen nodig waren."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:162 BW",
+  "art. 1019aa Rv",
+  "art. 6:96 lid 2 BW"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg het schoonmaakrooster en de uitgevoerde rondes per garage vast, zodat u bij een val kunt aantonen wat er is gedaan.",
+   "raakt": "klantcontact",
+   "bron": [
+    53
+   ],
+   "citaat": "De gemeente heeft dit onderbouwd door het overleggen van het schoonmaakrooster"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "klantcontact"
+ ],
+ "klantuitleg": "De gemeente is niet automatisch aansprakelijk als u in een garage uitglijdt, want van bezoekers mag normale oplettendheid worden verwacht. U moet dan aantonen dat het gevaar zo groot was dat de gemeente had moeten ingrijpen. Meld een val meteen en leg de plek vast met foto's; dat helpt bij het bewijs.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

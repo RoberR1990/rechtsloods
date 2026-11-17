@@ -1,0 +1,91 @@
+[
+ {
+  "item": "u1",
+  "A": {
+   "oordeel": "klein",
+   "fouten": [
+    "Camerabeelden-grond en stilstaanverbod-grond krijgen code 'overig' i.p.v. passender code",
+    "actie_gemeente (foto/schermafdruk vastleggen) is extrapolatie; gemeente is geen partij"
+   ]
+  },
+  "B": {
+   "oordeel": "klein",
+   "fouten": [
+    "Gevolg proceskosten: citaat (bron 20) over boete draagt de proceskosten niet",
+    "Klantuitleg-advies 'doorgang niet helemaal dicht' is een zwak, niet uit uitspraak volgend advies"
+   ]
+  },
+  "voorkeur": "B",
+  "waarom": "Beide inhoudelijk juist; B kiest passender argumentcode (bewijs-scanauto) en geeft geen te ruime actie, A is wel informatiever over nieuwe grond."
+ },
+ {
+  "item": "u2",
+  "A": {
+   "oordeel": "goed",
+   "fouten": []
+  },
+  "B": {
+   "oordeel": "klein",
+   "fouten": [
+    "herkomst 'vaste lijn HR-RvS' staat niet in uitspraak (alleen 'vaste rechtspraak')"
+   ]
+  },
+  "voorkeur": "A",
+  "waarom": "Beide juist; B noemt zonder grond HR-RvS als herkomst. A is nauwkeuriger en volledig."
+ },
+ {
+  "item": "u3",
+  "A": {
+   "oordeel": "klein",
+   "fouten": [
+    "actie_gemeente 'foto's vastleggen bij nieuw bord' is te ruim, rechter beveelt dit niet"
+   ]
+  },
+  "B": {
+   "oordeel": "klein",
+   "fouten": [
+    "'kruis op wegdek niet verplicht' is geen uitzondering op de rechtsregel",
+    "zekerheid 'hoog' bij mondelinge, korte uitspraak is ruim"
+   ]
+  },
+  "voorkeur": "gelijk",
+  "waarom": "Beide kloppen in uitkomst en gevolg; elk heeft een kleine onnauwkeurigheid in actie of uitzonderingsveld."
+ },
+ {
+  "item": "u4",
+  "A": {
+   "oordeel": "klein",
+   "fouten": [
+    "burger_zegt: standpunt 'aanmeldduur gelijk aan parkeerduur' staat niet in uitspraak",
+    "Hoorrecht-overweging niet verwerkt"
+   ]
+  },
+  "B": {
+   "oordeel": "klein",
+   "fouten": [
+    "burger_zegt hoorgrond is omschreven als wat de rechter bespreekt, niet als standpunt burger"
+   ]
+  },
+  "voorkeur": "B",
+  "waarom": "A verzint een burgerstandpunt; B blijft dichter bij de tekst en neemt het hoorrecht mee."
+ },
+ {
+  "item": "u5",
+  "A": {
+   "oordeel": "klein",
+   "fouten": [
+    "waarom: 'stilstaan duurde langer dan in-/uitstappen' klopt niet; rechter zegt 'hoe kort ook'",
+    "gemeente null terwijl uitspraak Utrecht noemt",
+    "steunt 'gemeente' terwijl gemengd beter past"
+   ]
+  },
+  "B": {
+   "oordeel": "klein",
+   "fouten": [
+    "herkomst 'vaste lijn HR-RvS' niet letterlijk genoemd; alleen 'vaste rechtspraak'"
+   ]
+  },
+  "voorkeur": "B",
+  "waarom": "B geeft gemengd resultaat (kosten wel, aanslag blijft) correct weer in kern en klantuitleg; A heeft meer kleine onnauwkeurigheden."
+ }
+]

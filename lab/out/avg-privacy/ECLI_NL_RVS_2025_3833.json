@@ -1,0 +1,159 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:3833",
+ "relevant": true,
+ "onderwerp": "toezicht-handhaving",
+ "sub": "klacht-ap",
+ "kenmerk": null,
+ "zaaktype": "klacht-handhaving-ap",
+ "partijen": {
+  "burger": "particulier",
+  "wederpartij": "Autoriteit Persoonsgegevens",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger kreeg van Stichting Ymere geen inzage in zijn persoonsgegevens en klaagde daarover bij de Autoriteit Persoonsgegevens (AP). De AP behandelde de klacht niet verder, en de burger ging in hoger beroep bij de Raad van State.",
+ "titel": "AP mocht klacht over geweigerde inzage laten liggen",
+ "kern": {
+  "zin": "De rechter vond dat de AP volgens haar eigen beleidsregels mocht afzien van uitgebreider onderzoek.",
+  "bron": [
+   29
+  ],
+  "citaat": "De Afdeling is met de rechtbank van oordeel dat de AP met verwijzing naar de beleidsregels er in dit geval van mocht afzien om uitgebreider onderzoek te doen."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg Stichting Ymere om inzage in zijn gegevens, maar de stichting wees dit verzoek af.",
+   "bron": [
+    21
+   ],
+   "citaat": "Stichting Ymere heeft dit verzoek afgewezen"
+  },
+  {
+   "zin": "De burger vroeg daarna de AP om in te grijpen tegen Stichting Ymere.",
+   "bron": [
+    21
+   ],
+   "citaat": "heeft de AP verzocht om handhavend op te treden tegen Stichting Ymere"
+  },
+  {
+   "zin": "De AP deed eerst een globaal onderzoek en besloot daarna de klacht niet verder te behandelen.",
+   "bron": [
+    22
+   ],
+   "citaat": "besloten om de klacht van [appellant] niet verder te behandelen"
+  },
+  {
+   "zin": "De burger vond dat de AP zijn klacht zonder inhoudelijke toetsing had geweigerd.",
+   "bron": [
+    26
+   ],
+   "citaat": "de AP zonder enige inhoudelijke toetsing heeft geweigerd zijn klacht verder te behandelen"
+  },
+  {
+   "zin": "De rechter vond dat de AP de klacht wel had behandeld, met een globaal bureauonderzoek.",
+   "bron": [
+    29
+   ],
+   "citaat": "Anders dan [appellant] stelt, heeft de AP de klacht van [appellant] behandeld."
+  },
+  {
+   "zin": "De rechter wees erop dat de AP zelf mag kiezen of zij optreedt, en dat zij die keuze in beleidsregels heeft vastgelegd.",
+   "bron": [
+    28
+   ],
+   "citaat": "de AP beleidsruimte heeft om al dan niet handhavend op te treden"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; AP hoefde niet verder te onderzoeken",
+ "gevolg_betrokkene": {
+  "zin": "De AP gaat niet verder met de klacht en de uitspraak van de rechtbank blijft staan.",
+  "bron": [
+   32
+  ],
+  "citaat": "Het hoger beroep is ongegrond. De Afdeling bevestigt de uitspraak van de rechtbank."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "ap-onderzoek-onvoldoende",
+   "burger_zegt": "De AP heeft zijn klacht zonder inhoudelijke toetsing geweigerd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De AP heeft de klacht wel behandeld, met een globaal bureauonderzoek.",
+    "bron": [
+     29
+    ],
+    "citaat": "Anders dan [appellant] stelt, heeft de AP de klacht van [appellant] behandeld."
+   },
+   "bruikbare_zin": {
+    "citaat": "De AP heeft een globaal bureauonderzoek gedaan.",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De beleidsregels van de AP zijn in strijd met de AVG.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De AP heeft beleidsruimte en vult die in met de beleidsregels; er waren geen aanknopingspunten voor een ander oordeel.",
+    "bron": [
+     28
+    ],
+    "citaat": "Die beleidsruimte heeft de AP ingevuld met de beleidsregels."
+   },
+   "bruikbare_zin": {
+    "citaat": "de AP beleidsruimte heeft om al dan niet handhavend op te treden",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De AP heeft ruimte om te kiezen of zij handhavend optreedt en mag die ruimte invullen met beleidsregels.",
+  "type": "regel",
+  "reikwijdte": "Klachten bij de AP waarin om handhaving van AVG-rechten wordt gevraagd",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   28
+  ],
+  "citaat": "dit betekent dat de AP beleidsruimte heeft om al dan niet handhavend op te treden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "globaal bureauonderzoek van de AP",
+   "Beleidsregels Prioritering klachtenonderzoek"
+  ],
+  "wat_gaf_doorslag": "De AP mocht na een globaal bureauonderzoek volgens haar beleidsregels afzien van nader onderzoek."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2023:4624"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 15 AVG",
+  "art. 57 lid 1 sub f AVG",
+  "art. 58 lid 2 sub c AVG",
+  "Beleidsregels Prioritering klachtenonderzoek AP"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u het niet eens bent met het antwoord op uw inzageverzoek, kunt u een klacht indienen bij de Autoriteit Persoonsgegevens. Die hoeft niet elke klacht helemaal uit te zoeken en kiest zelf welke zaken zij onderzoekt. Wilt u uw gegevens toch zeker krijgen, dan kunt u ook zelf naar de rechter stappen tegen de organisatie.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente betrokken",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

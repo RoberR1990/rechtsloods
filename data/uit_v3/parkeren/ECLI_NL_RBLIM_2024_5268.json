@@ -1,0 +1,161 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBLIM:2024:5268",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Maastricht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg in Maastricht een naheffing en ging in beroep tegen de heffingsambtenaar. De rechtbank Limburg oordeelde in een enkelvoudige kamer.",
+ "titel": "Betaald parkeren was kenbaar; naheffing blijft staan",
+ "kern": {
+  "zin": "De rechter vond dat betaald parkeren op die plek voldoende kenbaar was, dus de naheffing blijft.",
+  "bron": [
+   26,
+   25
+  ],
+  "citaat": "Het had voor eiser duidelijk moeten zijn dat ten tijde van het parkeren parkeerbelasting verschuldigd was"
+ },
+ "samenvatting": [
+  {
+   "zin": "De auto stond op 10 augustus 2023 in Maastricht aan de Kolonel Millerstraat.",
+   "bron": [
+    16
+   ],
+   "citaat": "stond geparkeerd op een parkeerplaats aan de Kolonel Millerstraat te Maastricht"
+  },
+  {
+   "zin": "Er was niet betaald, en dat stond niet ter discussie.",
+   "bron": [
+    21
+   ],
+   "citaat": "Niet in geschil is dat eiser ten tijde van het opleggen van de naheffingsaanslag geen parkeerbelasting had betaald"
+  },
+  {
+   "zin": "De parkeerder vond dat afgeplakte en ontbrekende borden hem niet duidelijk maakten dat hij moest betalen.",
+   "bron": [
+    23
+   ],
+   "citaat": "door afgeplakte en ontbrekende bebording voor hem niet duidelijk was"
+  },
+  {
+   "zin": "Op de foto's van de gemeente staat aan de rechterkant een zonebord.",
+   "bron": [
+    24
+   ],
+   "citaat": "aan de rechterzijde van de Kolonel Millerstraat een zonebord staat"
+  },
+  {
+   "zin": "De rechter zag de borden met 'P zone' ook terug in het brondocument.",
+   "bron": [
+    25
+   ],
+   "citaat": "Die borden zijn ook waarneembaar op de foto’s in het Brondocument"
+  },
+  {
+   "zin": "De rechter wijst de beroepsgrond af en de naheffing blijft staan.",
+   "bron": [
+    27
+   ],
+   "citaat": "Het beroep is ongegrond. Eiser krijgt daarom het griffierecht niet terug"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; parkeren was kenbaar, naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan, en het griffierecht wordt niet vergoed.",
+  "bron": [
+   27
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "De parkeerder zegt dat afgeplakte en ontbrekende borden het betaald parkeren niet duidelijk maakten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat het zonebord er stond en dat betaald parkeren zichtbaar was.",
+    "bron": [
+     24
+    ],
+    "citaat": "aan de rechterzijde van de Kolonel Millerstraat een zonebord staat"
+   },
+   "bruikbare_zin": {
+    "citaat": "Die borden zijn ook waarneembaar op de foto’s in het Brondocument",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Betaald parkeren is kenbaar via borden, apparatuur of andere aanwijzingen bij de plek.",
+  "type": "regel",
+  "reikwijdte": "betaald parkeren op de openbare weg; kenbaarheid via borden of automaat",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   22
+  ],
+  "citaat": "De verschuldigdheid van parkeerbelasting is voldoende kenbaar indien dit blijkt uit de aanwezigheid van parkeerapparatuur"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "Brondocument Fiscale Naheffing met foto's en coördinaten",
+   "Google Maps-beelden met zonebord en borden"
+  ],
+  "wat_gaf_doorslag": "Het zonebord op de beelden van de omgeving en de coördinaten van de auto."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHDHA:2016:2210",
+   "ECLI:NL:GHAMS:2024:1479"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 26 Verordening Parkeerregulering en Parkeerbelastingen 2022 Maastricht",
+  "Aanwijzingsbesluit betaald parkeren Maastricht",
+  "Tarieventabel Parkeren Maastricht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg de bebording bij elke betaalde parkeerplek vast met foto's en datum, zodat die later te tonen is.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    25
+   ],
+   "citaat": "Die borden zijn ook waarneembaar op de foto’s in het Brondocument"
+  },
+  {
+   "actie": "Controleer het apparaat van de handhaver op fouten in de straatnaam, voordat een naheffing wordt opgelegd.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    16
+   ],
+   "citaat": "als gevolg van een systeemtechnische fout van het device van de verbalisant"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "scanauto-handhaving",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Betaald parkeren moet voor u duidelijk zijn, met borden, een automaat of een zone-aanduiding bij de plek. Staan de borden er niet of zijn ze afgeplakt, dan kunt u dat in bezwaar naar voren brengen. In deze zaak vond de rechter de borden toch zichtbaar, en heeft u niet betaald, dan blijft de naheffing meestal staan.",
+ "gemeente": "Maastricht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

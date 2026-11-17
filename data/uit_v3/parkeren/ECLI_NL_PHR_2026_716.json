@@ -1,0 +1,173 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:PHR:2026:716",
+ "relevant": true,
+ "soort_document": "conclusie AG",
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (staat onder bewind)",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "cassatie",
+ "intro": "Dit is een advies van de advocaat-generaal (een adviseur van de Hoge Raad) in een zaak tussen een parkeerder en de gemeente Den Haag. De parkeerder staat onder bewind (een bewindvoerder beheert zijn geld) en kreeg een rekening achteraf voor parkeerbelasting.",
+ "titel": "Parkeerder onder bewind: rechter moet post aan bewindvoerder sturen",
+ "kern": {
+  "zin": "De adviseur vindt dat het hof de brief over het hoger beroep ook aan de bewindvoerder had moeten sturen, zodat het beroep van de parkeerder niet te laat was.",
+  "bron": [
+   24,
+   23
+  ],
+  "citaat": "Dat beroep is dus ten onrechte niet-ontvankelijk verklaard"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Den Haag legde de parkeerder een rekening achteraf op voor parkeerbelasting; de rechtbank vernietigde die rekening en de gemeente ging in hoger beroep.",
+   "bron": [
+    17
+   ],
+   "citaat": "De Heffingsambtenaar heeft hoger beroep ingesteld"
+  },
+  {
+   "zin": "Het hof stuurde de brief met de gronden van het hoger beroep alleen aan de parkeerder zelf en niet aan zijn bewindvoerder of gemachtigde.",
+   "bron": [
+    17
+   ],
+   "citaat": "Het Hof heeft de gronden van het hoger beroep bij brief van 15 januari 2025 verzonden aan alleen belanghebbende zelf"
+  },
+  {
+   "zin": "De gemachtigde van de parkeerder stelde daarna een eigen hoger beroep in, maar het hof vond dat te laat.",
+   "bron": [
+    46
+   ],
+   "citaat": "Het Hof heeft het incidenteel hoger beroep niet-ontvankelijk verklaard op de grond dat het te laat is ingesteld"
+  },
+  {
+   "zin": "Volgens de adviseur is bij iemand onder bewind in zo'n zaak de bewindvoerder de formele partij, dus moest de brief naar hem.",
+   "bron": [
+    23
+   ],
+   "citaat": "De bewindvoerder is immers de formele procespartij, indien art. 8:21(1) Awb van toepassing is"
+  },
+  {
+   "zin": "Daardoor begon de termijn van zes weken voor het eigen hoger beroep niet te lopen en was dat beroep op tijd.",
+   "bron": [
+    186
+   ],
+   "citaat": "Het incidenteel hoger beroep is daarom ten onrechte niet-ontvankelijk verklaard"
+  },
+  {
+   "zin": "De adviseur raadt de Hoge Raad aan het beroep in cassatie van de parkeerder gegrond te verklaren en de zaak zelf af te doen.",
+   "bron": [
+    27
+   ],
+   "citaat": "om het beroep in cassatie van belanghebbende gegrond te verklaren en de zaak zelf af te doen"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Advies: cassatie slaagt op procedure; regel valt uit in voordeel van de parkeerder",
+ "gevolg_betrokkene": {
+  "zin": "Over de parkeerrekening zelf wordt in cassatie niet meer beslist; het gaat alleen nog om termijn en proceskosten, en over de wettelijke rente over de proceskostenvergoeding adviseert de A-G dat die vier weken na de uitspraak van het hof gaat lopen.",
+  "bron": [
+   16,
+   210
+  ],
+  "citaat": "In cassatie draait het echter alleen nog om twee procedurele kwesties"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De brief met de gronden van het hoger beroep had ook naar de bewindvoerder gestuurd moeten worden, dus zijn eigen hoger beroep was niet te laat.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De adviseur vindt dat het eigen hoger beroep ten onrechte niet-ontvankelijk is verklaard.",
+    "bron": [
+     186
+    ],
+    "citaat": "Het incidenteel hoger beroep is daarom ten onrechte niet-ontvankelijk verklaard"
+   },
+   "bruikbare_zin": {
+    "citaat": "het Hof de brief van 15 januari 2025 ten onrechte niet naar de bewindvoerder heeft gestuurd",
+    "bron": [
+     181
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het hof besliste niet over de wettelijke rente over de proceskostenvergoeding.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het hof had op dit verzoek moeten beslissen en deed dat niet.",
+    "bron": [
+     207
+    ],
+    "citaat": "Het Hof had dan ook moeten beslissen op het verzoek, maar heeft verzuimd om dat te doen"
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De rechtbank hanteerde een te lage weging (0,5) voor de proceskostenvergoeding.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de adviseur is er geen reden om de weging van de rechtbank te wijzigen.",
+    "bron": [
+     222
+    ],
+    "citaat": "Kortom, ik meen dat de eerste grief moet worden verworpen"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Gaat een zaak over een belastingaanslag van iemand onder bewind, dan kan de bewindvoerder de formele partij zijn en moeten stukken van de rechter ook naar hem.",
+  "type": "regel",
+  "reikwijdte": "Geding over een belastingaanslag van iemand wiens vermogen onder bewind staat en waarvan het voeren valt onder de taak van de bewindvoerder",
+  "uitzondering": "Anders als de persoon onder bewind zelf in het geding optreedt (art. 8:21 lid 2 Awb)",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   165
+  ],
+  "citaat": "het aanwenden van rechtsmiddelen tegen een belastingaanslag tot de taak van de bewindvoerder kan behoren"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:PHR:2026:252",
+   "ECLI:NL:HR:2014:525",
+   "ECLI:NL:HR:2023:429",
+   "ECLI:NL:GHDHA:2025:2274"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:21 Awb",
+  "art. 6:17 Awb",
+  "art. 8:110 lid 2 Awb",
+  "art. 43 AWR",
+  "art. 231 Gemeentewet",
+  "art. 1:431 BW",
+  "art. 1:441 BW",
+  "art. 29e AWR"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "Advies richt zich op de verzending van stukken door de rechter; geen concrete taak voor de gemeente",
+ "raakt": [
+  "bezwaar",
+  "communicatie",
+  "klantcontact"
+ ],
+ "klantuitleg": "Dit is een advies aan de Hoge Raad en nog geen uitspraak: staat u onder bewind (iemand anders beheert uw geld), dan kan uw bewindvoerder de formele partij zijn in een zaak over een parkeerrekening. Volgens het advies moet de rechter dan ook stukken naar de bewindvoerder sturen, zodat termijnen niet te vroeg beginnen te lopen. Staat u onder bewind en wilt u bezwaar of beroep tegen een parkeerrekening, meld dat dan meteen en overleg met uw bewindvoerder.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

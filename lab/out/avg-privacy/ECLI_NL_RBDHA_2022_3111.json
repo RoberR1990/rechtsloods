@@ -1,0 +1,170 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2022:3111",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Alphen aan den Rijn",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Deze zaak gaat over een man die zijn gegevens in de Basisregistratie Personen (BRP) wil laten veranderen. Hij is het niet eens met de gemeente Alphen aan den Rijn en komt bij de rechtbank Den Haag.",
+ "titel": "Gemeente hoeft BRP-gegevens niet te wijzigen",
+ "kern": {
+  "zin": "De rechtbank vindt dat de gemeente de gegevens in de BRP niet hoeft te wijzigen, omdat de man niet heeft bewezen dat zijn gegevens zeker onjuist zijn.",
+  "bron": [
+   30
+  ],
+  "citaat": "stelt verweerder zich op goede gronden op het standpunt dat eiser met de door hem overgelegde stukken niet heeft aangetoond"
+ },
+ "samenvatting": [
+  {
+   "zin": "De man staat in de BRP met een voornaam, achternaam, geboortedatum en nationaliteit.",
+   "bron": [
+    17
+   ],
+   "citaat": "Het gaat om zijn voornaam, achternaam, geboortedatum en nationaliteit."
+  },
+  {
+   "zin": "Hij vraagt de gemeente om die gegevens te veranderen.",
+   "bron": [
+    17
+   ],
+   "citaat": "Hij verzoekt om wijziging van zijn persoonsgegevens."
+  },
+  {
+   "zin": "Hij laat documenten en een DNA-onderzoek zien om te bewijzen wie hij is.",
+   "bron": [
+    26
+   ],
+   "citaat": "Eiser heeft documenten overgelegd die aantonen wie hij is."
+  },
+  {
+   "zin": "De gemeente vindt de stukken niet genoeg om zeker te weten dat de gegevens nu fout zijn.",
+   "bron": [
+    25
+   ],
+   "citaat": "Verweerder vindt de overgelegde stukken onvoldoende om onomstotelijk vast te stellen"
+  },
+  {
+   "zin": "De rechtbank zegt dat de gegevens niet zomaar kunnen worden veranderd; eerst moet zeker vaststaan dat ze fout zijn.",
+   "bron": [
+    29
+   ],
+   "citaat": "onomstotelijk moeten vaststaan dat deze feitelijk onjuist zijn"
+  },
+  {
+   "zin": "De rechtbank verklaart het beroep ongegrond.",
+   "bron": [
+    40
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De gemeente hoeft de BRP-gegevens niet aan te passen.",
+ "gevolg_betrokkene": {
+  "zin": "Zijn gegevens in de BRP blijven zoals ze zijn en hij krijgt geen vergoeding voor proceskosten.",
+  "bron": [
+   40,
+   38
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Mijn gegevens in de BRP zijn onjuist en moeten worden aangepast.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vindt dat de man niet zeker heeft gemaakt dat de oude gegevens fout zijn.",
+    "bron": [
+     30
+    ],
+    "citaat": "niet heeft aangetoond dat de geregistreerde gegevens in de BRP onomstotelijk onjuist zijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet heeft aangetoond dat de geregistreerde gegevens in de BRP onomstotelijk onjuist zijn",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het DNA-onderzoek en de documenten moeten als bewijs gelden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank zegt dat DNA-onderzoek pas telt als er al aanknopingspunten zijn.",
+    "bron": [
+     34
+    ],
+    "citaat": "Een beoordeling van een DNA-onderzoek kan echter pas aan de orde komen als er aanknopingspunten zijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "kan het DNA-onderzoek in dit geval niet bijdragen aan het bewijs van deze stelling",
+    "bron": [
+     34
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wil iemand al geregistreerde gegevens in de BRP laten wijzigen, dan moet zeker vaststaan dat de oude gegevens feitelijk onjuist zijn.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om wijziging van persoonsgegevens die al in de BRP staan.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   29
+  ],
+  "citaat": "onomstotelijk moeten vaststaan dat deze feitelijk onjuist zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "gelegaliseerde geboorteakte",
+   "identiteitskaart",
+   "gelegaliseerd uittreksel bevolkingsregister",
+   "gelegaliseerde nationaliteitsverklaring",
+   "Irakees paspoort",
+   "DNA-onderzoek"
+  ],
+  "wat_gaf_doorslag": "De registratie berust op een eigen verklaring van de man uit 2000; de latere geboorteakte gaf te veel twijfel."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Wet basisregistratie personen"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Wijs een burger die zijn BRP-gegevens wil wijzigen op de mogelijkheid van bewijsnood als de benodigde papieren ontbreken.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    35
+   ],
+   "citaat": "dan is er nog de mogelijkheid voor eiser zich te beroepen op bewijsnood"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Uw gegevens in het register van de gemeente (de BRP) blijven zoals ze zijn. De gemeente mag een wijziging weigeren als niet zeker is dat de oude gegevens fout zijn en de nieuwe gegevens kloppen. Als u een rechter heeft die vaststelt wie u bent, of als u moeilijk aan de juiste papieren kunt komen, kan dat helpen.",
+ "gemeente": "Alphen aan den Rijn",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

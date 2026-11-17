@@ -1,0 +1,153 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "reden_leeg_actie": null,
+ "dubbel_van": null,
+ "reden_gemeente_leeg": null,
+ "ecli": "ECLI:NL:GHAMS:2022:1517",
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (eigenaar van de auto)",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder in Amsterdam kreeg een naheffingsaanslag (de rekening achteraf voor parkeren) van € 70,50. Hij ging in hoger beroep tegen de gemeente Amsterdam bij het gerechtshof Amsterdam.",
+ "titel": "Ook even stilstaan in een betaald parkeervak is parkeren",
+ "kern": {
+  "zin": "De rechter vond de naheffing terecht, omdat de auto in een betaald parkeervak stond en niet om direct in- of uit te stappen of te laden.",
+  "bron": [
+   37
+  ],
+  "citaat": "heeft de heffingsambtenaar zich dan ook terecht op het standpunt gesteld dat sprake was van parkeren"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 18 september 2020 om 21:39 uur stond de auto van de parkeerder in een parkeervak op de Overtoom in Amsterdam, een plek voor betaald parkeren.",
+   "bron": [
+    19
+   ],
+   "citaat": "stond de auto in een parkeervak op de Overtoom te Amsterdam ter hoogte van nummer 357"
+  },
+  {
+   "zin": "Een scanauto zag dat er niet voor de auto was betaald, en de gemeente legde een naheffing op.",
+   "bron": [
+    20
+   ],
+   "citaat": "Tijdens controle door een scanauto op het tijdstip, is geconstateerd dat voor de auto geen parkeerbelasting was betaald"
+  },
+  {
+   "zin": "De parkeerder zei dat hij niet geparkeerd had, maar de auto even aan de kant had gezet om de plek te zoeken en te bellen.",
+   "bron": [
+    35
+   ],
+   "citaat": "Belanghebbende betoogt dat de naheffingsaanslag ten onrechte is opgelegd omdat de auto op dat moment niet geparkeerd stond"
+  },
+  {
+   "zin": "De gemeente vond dat de naheffing terecht was opgelegd.",
+   "bron": [
+    35
+   ],
+   "citaat": "De heffingsambtenaar stelt zich op het standpunt dat de naheffingsaanslag terecht is opgelegd."
+  },
+  {
+   "zin": "De rechter oordeelde dat de auto stilstond zonder dat iemand direct in- of uitstapte of dat er werd geladen of gelost, en dat dit parkeren was.",
+   "bron": [
+    37
+   ],
+   "citaat": "dat geen sprake was van in- of uitstappen van personen of laden of lossen van zaken"
+  },
+  {
+   "zin": "Omdat de belasting voor dat eerste stilstaan niet was betaald, is de naheffing terecht opgelegd.",
+   "bron": [
+    37
+   ],
+   "citaat": "Nu de verschuldigde parkeerbelasting voor het eerdere stilstaan niet is voldaan, is de naheffingsaanslag terecht opgelegd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; geen kostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing van € 70,50 betalen (€ 6 parkeerbelasting en € 64,50 kosten) en krijgt geen kostenvergoeding.",
+  "bron": [
+   20,
+   41
+  ],
+  "citaat": "bestaat uit € 6 aan parkeerbelasting en € 64,50 aan kosten voor elke naheffingsaanslag"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "De auto stond maximaal 5 minuten stil om de plek te zoeken en te bellen, dus hij parkeerde niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Ook kort stilstaan telt als parkeren waarvoor betaald moet worden.",
+    "bron": [
+     37
+    ],
+    "citaat": "ook het kort stilstaan is aan te merken als parkeren waarvoor parkeerbelasting is verschuldigd"
+   },
+   "bruikbare_zin": {
+    "citaat": "volgens vaste rechtspraak ook het kort stilstaan is aan te merken als parkeren",
+    "bron": [
+     37
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Ook kort stilstaan in een betaald parkeervak is parkeren, tenzij iemand direct in- of uitstapt of er direct wordt geladen of gelost.",
+  "type": "regel",
+  "reikwijdte": "Auto's die in een parkeervak in betaald gebied stilstaan, ook om de weg te zoeken of te bellen en ook als de bestemming nog niet is bereikt.",
+  "uitzondering": "Direct laten in- of uitstappen van personen en direct laden of lossen van zaken.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   37
+  ],
+  "citaat": "ook het kort stilstaan is aan te merken als parkeren waarvoor parkeerbelasting is verschuldigd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "foto's van de scanauto met gedoofde lichten",
+   "eigen verklaring van de parkeerder bij de rechtbank",
+   "factuur van de parkeerapp Yellowbrick"
+  ],
+  "wat_gaf_doorslag": "De eigen verklaring van de parkeerder en de tijden (scan 21:39, aanmelding 21:58) lieten zien dat de auto al eerder stilstond."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHAMS:2019:2491"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 Gemeentewet",
+  "art. 2 Verordening parkeerbelastingen Amsterdam 2020",
+  "art. 8:75 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij een scancontrole met foto's en tijdstip vast dat de auto stilstond met gedoofde lichten, zodat bewijs van parkeren klopt.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    29
+   ],
+   "citaat": "foto’s gemaakt door de scanauto waaruit blijkt dat de lichten van de auto op het tijdstip gedoofd waren"
+  }
+ ],
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "scanauto-handhaving",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Staat uw auto in een betaald parkeervak, dan moet u betalen, ook als u maar even stilstaat om te bellen of de weg te zoeken. Alleen direct in- of uitstappen en direct laden of lossen telt niet als parkeren. Bezwaar heeft weinig kans als u gewoon even stilstond; had u echt direct in- of uitgestapt of geladen, noem dat dan en laat zien hoe kort het duurde.",
+ "gemeente": "Amsterdam",
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,181 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2026:8212",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "plafond-wachtlijst",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "aanvrager (bewoner)",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner kreeg geen bewonersparkeervergunning, omdat het aantal vergunningen in zijn gebied op nul staat. Hij ging in beroep tegen het college van burgemeester en wethouders van Amsterdam bij de rechtbank Amsterdam.",
+ "titel": "Geen bewonersvergunning: gebied is vol, situatie niet uitzonderlijk genoeg",
+ "kern": {
+  "zin": "De rechter vond de afwijzing terecht, omdat het plafond in het gebied op nul stond en de situatie niet bijzonder genoeg was.",
+  "bron": [
+   20,
+   23
+  ],
+  "citaat": "wordt geweigerd indien het vergunningenplafond van het desbetreffende vergunninggebied is bereikt"
+ },
+ "samenvatting": [
+  {
+   "zin": "De aanvraag werd geweigerd, omdat het adres in een gebied ligt waar het aantal vergunningen op nul staat.",
+   "bron": [
+    19
+   ],
+   "citaat": "waar het aantal te verlenen parkeervergunningen op nul is gesteld"
+  },
+  {
+   "zin": "De aanvrager zegt dat hij zonder parkeerplek dichtbij zijn zorgtaken voor zijn kinderen niet goed kan uitvoeren.",
+   "bron": [
+    17
+   ],
+   "citaat": "Zonder parkeerplek dichtbij kan hij zijn zorgtaken niet naar behoren uitvoeren."
+  },
+  {
+   "zin": "Het college legde uit dat de uitzonderingsregel (de hardheidsclausule) alleen bij heel bijzondere gevallen geldt.",
+   "bron": [
+    22
+   ],
+   "citaat": "Verweerder heeft uitgelegd dat de hardheidsclausule alleen in heel bijzondere gevallen wordt toegepast"
+  },
+  {
+   "zin": "De rechter vond de situatie niet uitzonderlijk, omdat andere gezinnen met een auto en schoolgaande kinderen hetzelfde treft.",
+   "bron": [
+    23
+   ],
+   "citaat": "De rechtbank is van oordeel dat de situatie van eiser niet uitzonderlijk is"
+  },
+  {
+   "zin": "Ook de financiële en praktische nadelen maakten het besluit volgens de rechter niet onevenredig.",
+   "bron": [
+    26
+   ],
+   "citaat": "zijn deze omstandigheden niet voldoende bijzonder om het besluit in het geval van eiser onevenredig te achten"
+  },
+  {
+   "zin": "Het beroep is ongegrond, en de aanvrager krijgt het griffierecht niet terug.",
+   "bron": [
+    28
+   ],
+   "citaat": "Eiser krijgt daarom het griffierecht niet terug."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Aanvraag terecht afgewezen; de aanvrager krijgt geen gelijk en geen griffierecht terug.",
+ "gevolg_betrokkene": {
+  "zin": "De aanvrager blijft zonder bewonersvergunning, en het griffierecht krijgt hij niet terug.",
+  "bron": [
+   28
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "plafond-verdeling",
+   "burger_zegt": "Er is een wachtlijst, en het beleid vraagt bij nieuwbouw om voldoende parkeerplekken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat het plafond dwingend geldt, zodat er geen ruimte was om de belangen af te wegen.",
+    "bron": [
+     20
+    ],
+    "citaat": "Omdat artikel 3.3 van de Parkeerverordening dwingendrechtelijk is geformuleerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "is er geen ruimte voor een belangenafweging",
+    "bron": [
+     20
+    ]
+   }
+  },
+  {
+   "arg": "overmacht-medisch",
+   "burger_zegt": "De kinderen moeten vaak naar het ziekenhuis, en de vergunning is nodig voor de zorg.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de ziekenhuisbezoeken onvoldoende onderbouwd en niet uitzonderlijk genoeg.",
+    "bron": [
+     23
+    ],
+    "citaat": "Verder is de omstandigheid dat eisers kinderen regelmatig naar het ziekenhuis moeten onvoldoende onderbouwd"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dit kan niet worden aangemerkt als een uitzonderlijke situatie",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De afwijzing pakt voor het gezin onevenredig uit, financieel en praktisch.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de nadelen niet voldoende bijzonder om het besluit onevenredig te maken.",
+    "bron": [
+     26
+    ],
+    "citaat": "zijn deze omstandigheden niet voldoende bijzonder om het besluit in het geval van eiser onevenredig te achten"
+   },
+   "bruikbare_zin": {
+    "citaat": "betekent niet dat het besluit onevenredig is",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als een parkeerverordening het plafond dwingend voorschrijft, is er geen ruimte voor een afweging van belangen.",
+  "type": "regel",
+  "reikwijdte": "Weigering van een vergunning bij een bereikt vergunningenplafond (artikel 3.3 Parkeerverordening 2025)",
+  "uitzondering": "Hardheidsclausule: alleen in zeer uitzonderlijke gevallen, bijvoorbeeld bij een levensbedreigende ziekte van een vergunninghouder",
+  "herkomst": "lokale verordening",
+  "bron": [
+   20
+  ],
+  "citaat": "Omdat artikel 3.3 van de Parkeerverordening dwingendrechtelijk is geformuleerd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring over de ziekenhuisbezoeken van de kinderen"
+  ],
+  "wat_gaf_doorslag": "De ziekenhuisbezoeken waren onvoldoende onderbouwd, dus het nulplafond bleef gelden."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerste": []
+ },
+ "wetsartikelen": [
+  "art. 3.3 Parkeerverordening 2025"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij een verzoek om een uitzondering op het plafond om onderbouwing van de zorgsituatie.",
+   "raakt": "vergunningen",
+   "bron": [
+    23
+   ],
+   "citaat": "Verder is de omstandigheid dat eisers kinderen regelmatig naar het ziekenhuis moeten onvoldoende onderbouwd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "klantcontact"
+ ],
+ "klantuitleg": "Bij een vol gebied krijgt u geen bewonersvergunning, ook niet als u zorgtaken heeft. Een uitzondering is alleen mogelijk in echt uitzonderlijke gevallen. Heeft u medische redenen, onderbouw die dan goed, maar reken niet op een gewonnen zaak.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

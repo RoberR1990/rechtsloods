@@ -1,0 +1,134 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "dubbel_van": null,
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": null,
+ "ecli": "ECLI:NL:GHAMS:2017:3037",
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder ging in hoger beroep tegen de gemeente Amsterdam over een naheffingsaanslag (rekening achteraf) voor parkeerbelasting. Het gerechtshof Amsterdam deed mondeling uitspraak.",
+ "titel": "Gemeente trekt parkeerrekening in: hoger beroep niet meer nodig",
+ "kern": {
+  "zin": "De gemeente trok de rekening tijdens het hoger beroep zelf in, dus de rechter nam het hoger beroep niet meer in behandeling.",
+  "bron": [
+   23
+  ],
+  "citaat": "Het ontbreekt belanghebbende derhalve aan procesbelang"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde een rekening voor parkeerbelasting van € 57,30 op, en hield die na bezwaar in stand.",
+   "bron": [
+    18
+   ],
+   "citaat": "naheffingsaanslag parkeerbelasting opgelegd van in totaal € 57,30"
+  },
+  {
+   "zin": "De rechtbank verklaarde het beroep van de burger ongegrond, waarna de burger in hoger beroep ging.",
+   "bron": [
+    19
+   ],
+   "citaat": "De rechtbank heeft het beroep van belanghebbende ongegrond verklaard"
+  },
+  {
+   "zin": "De gemeente schreef in haar verweer dat zij de rekening om redenen van proceseconomie vernietigde.",
+   "bron": [
+    22
+   ],
+   "citaat": "besloten de naheffingsaanslag te vernietigen"
+  },
+  {
+   "zin": "De rechter zag dat het hoger beroep de burger niets meer kon opleveren, behalve het griffierecht.",
+   "bron": [
+    23
+   ],
+   "citaat": "kan deze procedure niet meer tot een voor belanghebbende gunstiger resultaat leiden"
+  },
+  {
+   "zin": "Omdat de gemeente de rekening tijdens het hoger beroep vernietigde, moest zij het griffierecht vergoeden.",
+   "bron": [
+    25
+   ],
+   "citaat": "omdat de naheffingsaanslag tijdens de procedure in hoger beroep is vernietigd"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Gemeente vernietigde de rekening zelf; hoger beroep niet-ontvankelijk, griffierecht terug.",
+ "gevolg_betrokkene": {
+  "zin": "De burger hoeft de rekening van € 57,30 niet te betalen en krijgt € 170 griffierecht terug, maar geen proceskosten.",
+  "bron": [
+   16,
+   18,
+   26
+  ],
+  "citaat": "het door belanghebbende in beroep en hoger beroep betaalde griffierecht"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De rekening voor het parkeren is ten onrechte opgelegd.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter beoordeelde dit niet meer, omdat de gemeente de rekening vernietigde.",
+    "bron": [
+     23
+    ],
+    "citaat": "kan deze procedure niet meer tot een voor belanghebbende gunstiger resultaat leiden"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Vernietigt de gemeente de rekening tijdens het hoger beroep en stelt de burger geen andere schade dan griffierecht, dan heeft hij geen belang meer bij het hoger beroep.",
+  "type": "regel",
+  "reikwijdte": "Hoger beroep tegen een parkeerrekening die tijdens het hoger beroep wordt vernietigd",
+  "uitzondering": "Heeft de burger wel andere schade gesteld, dan kan het belang blijven bestaan.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   23
+  ],
+  "citaat": "kan deze procedure niet meer tot een voor belanghebbende gunstiger resultaat leiden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2012:BV0655"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:75 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vernietig een rekening die u niet wilt verdedigen zo vroeg mogelijk, want bij vernietiging in hoger beroep vergoedt u het griffierecht van beide rondes.",
+   "raakt": "bezwaar",
+   "bron": [
+    25
+   ],
+   "citaat": "omdat de naheffingsaanslag tijdens de procedure in hoger beroep is vernietigd"
+  }
+ ],
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Trekt de gemeente de rekening voor het parkeren tijdens de procedure zelf in, dan hoeft u die niet meer te betalen. U krijgt uw griffierecht terug, maar de rechter beoordeelt niet meer of de rekening terecht was. Hebt u andere schade, noem die dan tijdens de zitting.",
+ "gemeente": "Amsterdam",
+ "zekerheid": "hoog"
+}

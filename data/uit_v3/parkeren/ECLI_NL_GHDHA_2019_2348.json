@@ -1,0 +1,204 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "reden_leeg_actie": null,
+ "ecli": "ECLI:NL:GHDHA:2019:2348",
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder in Den Haag kreeg een naheffingsaanslag (een rekening achteraf) omdat hij zes minuten na de controle betaalde. Hij ging in hoger beroep bij het gerechtshof Den Haag tegen de gemeente.",
+ "titel": "Pas na 300 meter lopen betaald: rekening achteraf voor parkeren terecht",
+ "kern": {
+  "zin": "De rechter vond de rekening achteraf terecht, omdat de parkeerder niet binnen een redelijke tijd had betaald.",
+  "bron": [
+   38
+  ],
+  "citaat": "niet binnen een redelijke termijn de parkeerbelasting heeft voldaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een scanauto zag bij een controle dat voor de auto geen parkeerbelasting was betaald.",
+   "bron": [
+    19
+   ],
+   "citaat": "is met behulp van een door een scanauto gemaakte scan geconstateerd dat voor de auto geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder betaalde zes minuten later met een pinbetaling.",
+   "bron": [
+    20
+   ],
+   "citaat": "parkeerbelasting voldaan om 13:13 uur door middel van een pinbetaling"
+  },
+  {
+   "zin": "De parkeerder zei dat zijn auto bij een ander huisnummer stond en dat hij naar de dichtstbijzijnde automaat liep.",
+   "bron": [
+    34
+   ],
+   "citaat": "maar ter hoogte van het perceel met nummer 101, en dat hij vervolgens is doorgelopen naar de dichtstbijzijnde parkeerautomaat"
+  },
+  {
+   "zin": "De rechter vond bewezen dat de auto stond waar de scanauto hem zag.",
+   "bron": [
+    35
+   ],
+   "citaat": "Het Hof acht dan ook bewezen dat de auto op genoemd tijdstip geparkeerd stond"
+  },
+  {
+   "zin": "De dichtstbijzijnde automaten stonden 10 en 40 meter weg en vijf minuten was dan ruim genoeg om te betalen.",
+   "bron": [
+    37
+   ],
+   "citaat": "een tijdspanne van in totaal vijf minuten ruim voldoende is voor het lopen naar één van deze twee parkeerautomaten"
+  },
+  {
+   "zin": "De naheffing mocht worden berekend over een uur parkeren, ook al had de parkeerder € 1,20 betaald.",
+   "bron": [
+    40
+   ],
+   "citaat": "De Heffingsambtenaar heeft dus terecht de naheffingsaanslag berekend over een parkeerduur van een uur"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; hoger beroep ongegrond.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffingsaanslag blijft staan en de parkeerder krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   46,
+   44
+  ],
+  "citaat": "Het Gerechtshof bevestigt de uitspraak van de Rechtbank"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij betaalde bij de dichtstbijzijnde automaat en moest daar in de rij wachten, dus hij betaalde binnen een redelijke tijd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De automaat waar hij betaalde stond ongeveer 300 meter weg, terwijl er automaten dichterbij stonden.",
+    "bron": [
+     37
+    ],
+    "citaat": "Het Hof verwerpt dan ook de stelling van belanghebbende dat hij heeft gekozen voor de dichtstbijzijnde parkeerautomaat"
+   },
+   "bruikbare_zin": {
+    "citaat": "een tijdspanne van in totaal vijf minuten ruim voldoende is voor het lopen naar één van deze twee parkeerautomaten",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De auto stond niet bij nummer 151 maar bij nummer 101.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De foto's en de GPS-gegevens van de scanauto lieten de plek zien en de parkeerder had geen bewijs voor zijn eigen verhaal.",
+    "bron": [
+     35
+    ],
+    "citaat": "heeft belanghebbende geen bewijs bijgebracht van zijn stelling"
+   },
+   "bruikbare_zin": {
+    "citaat": "Uit deze stukken, die de precieze datum en het tijdstip vermelden waarop de scan is uitgevoerd",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De naheffing is te hoog, want er is al € 1,20 betaald.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De naheffing wordt vast berekend over een uur parkeren, tenzij aannemelijk is dat de auto langer stond.",
+    "bron": [
+     40
+    ],
+    "citaat": "wordt berekend over een parkeerduur van een uur, tenzij aannemelijk is dat het voertuig langer dan een uur zonder betaling geparkeerd heeft gestaan"
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De uitspraak op bezwaar is niet goed gemotiveerd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente had het bezwaar afgewezen na onderzoek en dat was genoeg uitleg.",
+    "bron": [
+     41
+    ],
+    "citaat": "Een dergelijke motivering is van voldoende gewicht om de onderhavige uitspraak op bezwaar te rechtvaardigen"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder krijgt een redelijke tijd om direct na het parkeren de parkeerbelasting bij een automaat te betalen.",
+  "type": "regel",
+  "reikwijdte": "Betalen bij een parkeerautomaat direct na het parkeren",
+  "uitzondering": "De lengte van de termijn hangt af van de omstandigheden, zoals de afstand tot de automaat",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   36
+  ],
+  "citaat": "moet een parkeerder een redelijke termijn worden gegund om de verschuldigde parkeerbelasting bij een parkeerautomaat te voldoen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "foto's van de scanauto met datum en tijd",
+   "GPS-uitdraai",
+   "kaarten met de parkeerautomaten",
+   "transactieoverzicht van de automaat",
+   "pinbetaling"
+  ],
+  "wat_gaf_doorslag": "De dichtstbijzijnde automaten stonden 10 en 40 meter weg, terwijl de parkeerder bij een automaat op ongeveer 300 meter betaalde."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 234 lid 3 Gemeentewet",
+  "art. 7 lid 1 Verordening parkeerbelastingen 2008 Den Haag",
+  "art. 20 lid 1 AWR",
+  "art. 7:12 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg met een kaart vast hoe ver de dichtstbijzijnde parkeerautomaten van de parkeerplek staan.",
+   "raakt": "bezwaar",
+   "bron": [
+    37
+   ],
+   "citaat": "Blijkens door de Heffingsambtenaar overgelegde kaarten bevinden zich twee parkeerautomaten in de directe nabijheid van de parkeerplaats"
+  },
+  {
+   "actie": "Bewaar de scanfoto's met datum, tijd en GPS-locatie bij de naheffing.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    35
+   ],
+   "citaat": "de precieze datum en het tijdstip vermelden waarop de scan is uitgevoerd"
+  }
+ ],
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "scanauto-handhaving",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "U moet bij het parkeren direct naar de dichtstbijzijnde parkeerautomaat lopen en betalen. Betaalt u pas later of bij een automaat die veel verder weg staat, dan is de rekening achteraf meestal terecht, ook als u daarna wel betaalt. Bezwaar heeft weinig kans, tenzij u kunt laten zien dat u direct bent gaan betalen en bij de dichtstbijzijnde automaat lang moest wachten.",
+ "gemeente": "Den Haag",
+ "zekerheid": "hoog"
+}

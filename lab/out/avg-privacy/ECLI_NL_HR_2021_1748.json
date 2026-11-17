@@ -1,0 +1,201 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:HR:2021:1748",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "fraude-signalering",
+ "kenmerk": "fsv",
+ "zaaktype": "fraude-algoritme",
+ "partijen": {
+  "burger": "belastingplichtige",
+  "wederpartij": "Staatssecretaris van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "cassatie",
+ "intro": "Deze zaak gaat over inkomstenbelasting en de controle via project 1043 en de databank FSV. De burger procedeert in cassatie tegen de Staatssecretaris van Financiën bij de Hoge Raad.",
+ "titel": "Hoge Raad: privacyfout Belastingdienst verlaagt aanslag niet",
+ "kern": {
+  "zin": "De Hoge Raad zegt dat een schending van de privacyregels niet leidt tot een lagere aanslag als de aanslag zelf juist is berekend.",
+  "bron": [
+   46
+  ],
+  "citaat": "kan dat dus niet leiden tot een verlaging van een – op zichzelf bezien juist berekende – aanslag"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger deed voor 2014 aangifte met aftrek voor alimentatie en zorgkosten.",
+   "bron": [
+    17
+   ],
+   "citaat": "Belanghebbende heeft voor het jaar 2014 aangifte in de inkomstenbelasting/premie volksverzekeringen (hierna: IB/PVV) gedaan."
+  },
+  {
+   "zin": "De inspecteur verlaagde de aftrek voor alimentatie en zorgkosten.",
+   "bron": [
+    19
+   ],
+   "citaat": "is de aftrek voor kosten in verband met alimentatie geweigerd"
+  },
+  {
+   "zin": "Het Hof zei: de burger moet zelf aannemelijk maken dat zij recht heeft op de aftrekposten.",
+   "bron": [
+    22
+   ],
+   "citaat": "op belanghebbende de last rust aannemelijk te maken dat zij recht heeft op de aftrekposten"
+  },
+  {
+   "zin": "De inspecteur mocht informatie opvragen; dat was niet in strijd met de beginselen van behoorlijk bestuur.",
+   "bron": [
+    22
+   ],
+   "citaat": "De Inspecteur mag in dat verband informatie opvragen bij belanghebbende."
+  },
+  {
+   "zin": "In cassatie was de klacht over project 1043 en de databank FSV nieuw; de Hoge Raad kon die niet onderzoeken.",
+   "bron": [
+    34
+   ],
+   "citaat": "is niet bij het Hof, maar voor het eerst in cassatie aangevoerd"
+  },
+  {
+   "zin": "De Hoge Raad verklaart het cassatieberoep ongegrond.",
+   "bron": [
+    36
+   ],
+   "citaat": "Hetgeen hiervoor is overwogen, leidt tot het oordeel dat het beroep in cassatie ongegrond moet worden verklaard."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Cassatieberoep ongegrond; aanslag en belastingrente blijven staan.",
+ "gevolg_betrokkene": {
+  "zin": "Het cassatieberoep is ongegrond, dus de aanslag blijft staan; de burger krijgt geen proceskosten vergoed.",
+  "bron": [
+   50
+  ],
+  "citaat": "De Hoge Raad verklaart het beroep in cassatie ongegrond."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "algoritme-niet-uitlegbaar",
+   "burger_zegt": "Het project 1043 en de databank FSV werken met een risicoselectie die niet mag worden gebruikt.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De Hoge Raad kon de klacht over project 1043 en de FSV niet onderzoeken, omdat die klacht nieuw was in cassatie.",
+    "bron": [
+     34
+    ],
+    "citaat": "is een feitelijk onderzoek nodig naar de inhoud van project 1043, de databank FSV en het gebruik ervan"
+   },
+   "bruikbare_zin": {
+    "citaat": "Zo’n onderzoek kan de Hoge Raad niet verrichten.",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "geen-wettelijke-grondslag",
+   "burger_zegt": "De Belastingdienst heeft mijn gegevens in de FSV opgeslagen in strijd met de AVG.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De Hoge Raad mag zijn beslissing niet baseren op feiten die pas voor het eerst in cassatie zijn aangevoerd.",
+    "bron": [
+     34
+    ],
+    "citaat": "zijn beslissing niet baseren op feiten die voor het eerst in cassatie zijn aangevoerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "zijn beslissing niet baseren op feiten die voor het eerst in cassatie zijn aangevoerd",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De belastingrente is te hoog en strijdt met het recht op eigendom.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het Hof oordeelde dat de belastingrente niet te hoog is.",
+    "bron": [
+     31
+    ],
+    "citaat": "Het Hof heeft daarom terecht geoordeeld dat de aan belanghebbende in rekening gebrachte belastingrente niet te hoog is."
+   },
+   "bruikbare_zin": {
+    "citaat": "de aan belanghebbende in rekening gebrachte belastingrente niet te hoog is",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik heb recht op meer aftrek voor alimentatie en zorgkosten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het Hof oordeelde dat de burger geen recht had op een hogere aftrek.",
+    "bron": [
+     23
+    ],
+    "citaat": "belanghebbende geen recht heeft op een hogere aftrek dan de aftrek die de Inspecteur heeft toegestaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "belanghebbende geen recht heeft op een hogere aftrek dan de aftrek die de Inspecteur heeft toegestaan",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een schending van de privacyregels bij het verwerken van gegevens maakt een juist berekende aanslag niet lager.",
+  "type": "regel",
+  "reikwijdte": "Belastingzaken waarin de correctie gaat om aftrekposten en de bewijslast bij de burger ligt.",
+  "uitzondering": "Als risicoselectie of gebruik van een databank op een criterium leidt tot schending van een grondrecht, zoals discriminatie.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   46
+  ],
+  "citaat": "kan dat dus niet leiden tot een verlaging van een – op zichzelf bezien juist berekende – aanslag"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "aangifte",
+   "informatie over kosten"
+  ],
+  "wat_gaf_doorslag": "De burger maakte niet aannemelijk dat zij recht had op de hogere aftrek."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:PHR:2021:617"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 81 lid 1 Wet RO",
+  "art. 79 Wet RO",
+  "art. 30fc lid 3 AWR",
+  "art. 30fc lid 2 AWR",
+  "art. 9 lid 1 Invorderingswet 1990",
+  "art. 1 Eerste Protocol EVRM",
+  "art. 8:119 lid 1 Awb",
+  "art. 82 AVG"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "fraude-handhaving",
+  "datateam-algoritmes",
+  "bezwaar"
+ ],
+ "klantuitleg": "Deze uitspraak gaat over de Belastingdienst, niet over een gemeente. De Hoge Raad zegt: een fout in de gegevensverwerking maakt een juiste belastingrekening niet lager, behalve als er sprake is van discriminatie. Wilt u schade vergoeden, vraag dat dan apart bij de Belastingdienst; deze uitspraak belooft niet dat u gelijk krijgt.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente betrokken; Rijksbelasting",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,140 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2022:5445",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam (heffingsambtenaar)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder wachtte op een besluit over zijn bezwaar tegen een naheffing (de rekening achteraf) uit 2015. Hij procedeerde tegen de gemeente Amsterdam bij de rechtbank Amsterdam.",
+ "titel": "Beroep niet ontvankelijk; geen schadevergoeding voor wachttijd",
+ "kern": {
+  "zin": "Het beroep is niet-ontvankelijk omdat de naheffing al was vernietigd, en de schadevergoeding is afgewezen omdat de parkeerder zelf te lang wachtte.",
+  "bron": [
+   13,
+   15,
+   18
+  ],
+  "citaat": "om proceseconomische redenen heeft vernietigd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het bezwaar ging over een naheffing die de gemeente in september 2015 had opgelegd.",
+   "bron": [
+    10
+   ],
+   "citaat": "het bezwaar tegen de op 18 september 2015 opgelegde naheffingsaanslag parkeerbelasting"
+  },
+  {
+   "zin": "De parkeerder zette de gemeente op 22 april 2019 in gebreke en stelde pas in augustus 2021 beroep in.",
+   "bron": [
+    15
+   ],
+   "citaat": "op 22 april 2019 in gebreke heeft gesteld wegens het niet-tijdig beslissen"
+  },
+  {
+   "zin": "De parkeerder stelde dat hij ook los van het beroep een verzoekschrift had ingediend.",
+   "bron": [
+    17
+   ],
+   "citaat": "Eiser heeft hiertegen ingebracht dat het arrest van de Hoge Raad niet van toepassing is"
+  },
+  {
+   "zin": "De rechtbank verklaarde het beroep niet-ontvankelijk, omdat de naheffing al was vernietigd.",
+   "bron": [
+    13
+   ],
+   "citaat": "om proceseconomische redenen heeft vernietigd"
+  },
+  {
+   "zin": "De rechtbank vond dat de parkeerder zelf te lang had gewacht met het beroep.",
+   "bron": [
+    15
+   ],
+   "citaat": "eiser het beroepschrift, gelet op de tijd die is verstreken"
+  },
+  {
+   "zin": "Het verzoek om schadevergoeding werd daarom afgewezen.",
+   "bron": [
+    18
+   ],
+   "citaat": "moet het verzoek om schadevergoeding worden afgewezen"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Niet-ontvankelijk; schadevergoeding afgewezen; geen kostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing is al weg, maar de parkeerder krijgt geen schadevergoeding en geen griffierecht (de beroepskosten) terug.",
+  "bron": [
+   13,
+   22
+  ],
+  "citaat": "om proceseconomische redenen heeft vernietigd"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente besliste niet tijdig op zijn bezwaar, dus hij wil een schadevergoeding.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat de parkeerder zelf te lang had gewacht met beroep instellen.",
+    "bron": [
+     15,
+     18
+    ],
+    "citaat": "eiser het beroepschrift, gelet op de tijd die is verstreken"
+   },
+   "bruikbare_zin": {
+    "citaat": "Een uitblijvende beslissing op bezwaar kan niet leiden tot overschrijding van de redelijke termijn",
+    "bron": [
+     17
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de burger zelf te lang wacht met beroep, levert een uitblijvend besluit geen schadevergoeding op.",
+  "type": "regel",
+  "reikwijdte": "schadevergoeding wegens een te lange procedure bij niet-tijdig beslissen op bezwaar",
+  "uitzondering": "anders wanneer na het instellen van beroep meer dan anderhalf jaar zijn verstreken",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   17
+  ],
+  "citaat": "Een uitblijvende beslissing op bezwaar kan niet leiden tot overschrijding van de redelijke termijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "ingebrekestelling van 22 april 2019",
+   "beroepschrift van augustus 2021"
+  ],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:12 lid 4 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver procedurele uitspraak",
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "De gemeente heeft deze naheffing uit coulance ingetrokken, en de rechter oordeelde niet over de inhoud. Wie zelf te lang wacht met beroep, krijgt meestal geen vergoeding voor die wachttijd. Wilt u een vergoeding vragen, dien dan tijdig beroep in en houd de termijnen goed bij.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

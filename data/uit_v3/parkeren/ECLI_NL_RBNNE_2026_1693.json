@@ -1,0 +1,171 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2026:1693",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder (met gemachtigde Verkeersboete.nl)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een Wahv-boete (een administratieve verkeersboete) van € 129 voor parkeren op een plek voor vergunninghouders zonder vergunning. Hij ging in beroep bij de kantonrechter van de rechtbank Noord-Nederland tegen de officier van justitie.",
+ "titel": "Boete van € 129 blijft staan na verklaring van agent",
+ "kern": {
+  "zin": "De rechter hield de boete overeind, omdat de agent met een officiële verklaring bevestigde dat het bord er op de dag stond.",
+  "bron": [
+   22
+  ],
+  "citaat": "Op basis van deze verklaring oordeelt de kantonrechter dat de bebording in orde was"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeerder kreeg in Sneek een boete voor parkeren op een plek voor vergunninghouders.",
+   "bron": [
+    11
+   ],
+   "citaat": "parkeren op een parkeerplaats voor vergunninghouders zonder (de juiste) vergunning (bord E9)"
+  },
+  {
+   "zin": "De parkeerder ging eerst naar de officier van justitie, die zijn beroep ongegrond verklaarde.",
+   "bron": [
+    12
+   ],
+   "citaat": "Deze heeft het beroep ongegrond verklaard"
+  },
+  {
+   "zin": "Het verweer hield in dat de parkeerder geen bord E9 op zijn route was tegengekomen.",
+   "bron": [
+    20
+   ],
+   "citaat": "geen bord E9 is gepasseerd"
+  },
+  {
+   "zin": "Volgens de officier van justitie had de agent in een aanvullend proces-verbaal verklaard dat het bord er stond.",
+   "bron": [
+    21
+   ],
+   "citaat": "dat het bord aanwezig was op de pleegdatum"
+  },
+  {
+   "zin": "De kantonrechter vond de verklaring van de agent onder officiële belofte voldoende om de overtreding vast te stellen.",
+   "bron": [
+    22
+   ],
+   "citaat": "Op basis van deze verklaring oordeelt de kantonrechter dat de bebording in orde was"
+  },
+  {
+   "zin": "Over de dwangsom (een extra boete als er te laat wordt beslist) oordeelde de kantonrechter dat de officier niets verbeurde, omdat de termijn was verlengd.",
+   "bron": [
+    48
+   ],
+   "citaat": "Daarom heeft de officier van justitie geen dwangsom verbeurd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; boete blijft en er is geen dwangsom voor de parkeerder.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de boete van € 129 betalen; de rechter zag geen reden om die te verlagen en wees een vergoeding van proceskosten af.",
+  "bron": [
+   50,
+   56
+  ],
+  "citaat": "Er zijn geen gronden aangevoerd die leiden tot matiging van de boete"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De gemachtigde zegt dat de verklaring van de agent geen echte waarneming is.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter vond de verklaring van de agent onder officiële belofte voldoende.",
+    "bron": [
+     22
+    ],
+    "citaat": "Op basis van deze verklaring oordeelt de kantonrechter dat de bebording in orde was"
+   },
+   "bruikbare_zin": {
+    "citaat": "Op basis van deze verklaring oordeelt de kantonrechter dat de bebording in orde was",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het bord stond niet op de route, en vlak voor de controle was niet gekeken of het er stond.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De agent bevestigde onder officiële belofte dat hij de bebording voor de controle had gecontroleerd.",
+    "bron": [
+     22
+    ],
+    "citaat": "uitdrukkelijk en onder ambtsbelofte antwoordt"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat het bord aanwezig was op de pleegdatum",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een brief waarin de beslistermijn wordt verlengd, is een besluit in de zin van de Awb.",
+  "type": "regel",
+  "reikwijdte": "verlenging van de beslistermijn bij administratief beroep",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   31
+  ],
+  "citaat": "Hieruit concludeert de kantonrechter dat een beslissing tot verlenging, een besluit is."
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "aanvullend proces-verbaal van 10 januari 2025",
+   "tweede aanvullend proces-verbaal van 17 mei 2025",
+   "zaakoverzicht"
+  ],
+  "wat_gaf_doorslag": "De officiële verklaring van de agent in het tweede aanvullend proces-verbaal."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:CRVB:2014:1822",
+   "ECLI:NL:RVS:2015:2653",
+   "ECLI:NL:GHARL:2026:855"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:24 lid 3 Awb",
+  "art. 1:3 lid 1 Awb",
+  "Wahv"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij elke controle vast wanneer de bebording vlak voor de controle is nagelopen.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    20
+   ],
+   "citaat": "Uit het dossier blijkt niet dat (kort) voor aanvang van de controle de bebording is gecontroleerd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar"
+ ],
+ "klantuitleg": "De rechter vond de boete terecht, omdat de agent met een officiële verklaring bevestigde dat het bord er stond. Een losse betwisting zonder bewijs is daarbij niet genoeg. Heeft u foto's of andere bewijzen van de route, stuur die dan mee; zo'n bewijs kan wel helpen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij; Wahv-boete van de officier van justitie",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

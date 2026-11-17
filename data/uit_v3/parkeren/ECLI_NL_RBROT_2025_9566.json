@@ -1,0 +1,41 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:9566",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "parkeerder", "wederpartij": "gemeente Rotterdam", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging in beroep tegen een rekening achteraf voor parkeren (de naheffing) van de gemeente Rotterdam. De Rechtbank Rotterdam deed op 18 juli 2025 mondeling uitspraak.",
+ "titel": "Vergeten kenteken in vergunning; één rekening blijft staan",
+ "kern": {"zin": "De rechter laat de laatste rekening staan, omdat de gemeente niet verplicht was alle vier te schrappen.", "bron": [16], "citaat": "De heffingsambtenaar was niet verplicht alle vier de aanslagen te vernietigen."},
+ "samenvatting": [
+  {"zin": "De parkeerder vergat het kenteken op zijn vergunning te wijzigen en kreeg daardoor vier rekeningen.", "bron": [16], "citaat": "Daardoor heeft hij vier naheffingsaanslagen gekregen, waarvan er drie zijn kwijtgescholden."},
+  {"zin": "Hij begreep niet waarom ook de vierde rekening niet was kwijtgescholden.", "bron": [16], "citaat": "Eiser begrijpt niet waarom de vierde niet ook is kwijtgescholden."},
+  {"zin": "De gemeente schrapte uit goede wil drie van de vier rekeningen.", "bron": [16], "citaat": "uit coulance drie daarvan vernietigd"},
+  {"zin": "De rechter vond dat de gemeente niet verplicht was alle vier te schrappen, dus de laatste blijft staan.", "bron": [16], "citaat": "De heffingsambtenaar was niet verplicht alle vier de aanslagen te vernietigen."},
+  {"zin": "Het beroep is ongegrond, dus de rekening blijft staan en er komt geen geld terug.", "bron": [18], "citaat": "Dat betekent dat de naheffingsaanslag in stand blijft."}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; rekening blijft staan, gemeente schrapte wel drie van vier.",
+ "gevolg_betrokkene": {"zin": "De parkeerder moet de laatste rekening betalen en krijgt geen griffierecht of proceskosten terug.", "bron": [18], "citaat": "Eiser krijgt het griffierecht niet terug."},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "gelijkheid", "burger_zegt": "Waarom is de vierde rekening niet ook kwijtgescholden, terwijl de andere drie dat wel zijn?", "oordeel": "verworpen", "waarom": {"zin": "De gemeente hoefde niet alle vier te schrappen, ook al deed zij er drie uit goede wil.", "bron": [16], "citaat": "De heffingsambtenaar was niet verplicht alle vier de aanslagen te vernietigen."}, "bruikbare_zin": {"citaat": "De heffingsambtenaar was niet verplicht alle vier de aanslagen te vernietigen.", "bron": [16]}}
+ ],
+ "rechtsregel": {"zin": "Wie vergeet het kenteken op zijn vergunning te wijzigen, draagt daar zelf het risico van.", "type": "regel", "reikwijdte": "Parkeervergunning met een kenteken dat niet is bijgewerkt", "uitzondering": "Coulance is mogelijk, maar de gemeente is daartoe niet verplicht.", "herkomst": "oordeel rechter", "bron": [16], "citaat": "Het komt voor eisers eigen risico dat hij is vergeten het kenteken van de parkeervergunning te wijzigen."},
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": [], "wat_gaf_doorslag": null},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen fout van de gemeente; rechter bevestigt wat de gemeente al deed",
+ "raakt": ["bezwaar", "klantcontact"],
+ "klantuitleg": "Het kenteken op uw vergunning klopte niet, daardoor kreeg u vier rekeningen voor parkeren. De gemeente heeft er drie geschrapt, maar was niet verplicht ook de vierde te schrappen. Bezwaar op dit punt maakt weinig kans als de fout bij u zelf lag.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

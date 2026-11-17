@@ -1,0 +1,162 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2016:4325",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De gemeente Amsterdam ging in hoger beroep tegen een uitspraak van de rechtbank, die een rekening achteraf (naheffingsaanslag) voor parkeren had vernietigd. De bewoner had een parkeervergunning met automatische incasso (automatisch afschrijven) en de rechter beoordeelde dit bij het gerechtshof Amsterdam.",
+ "titel": "Vergunning niet rechtsgeldig beëindigd: parkeerrekening vernietigd",
+ "kern": {
+  "zin": "De rechter bevestigt dat de rekening achteraf niet terecht is, omdat de gemeente niet aannemelijk maakte dat de herinnering en de brief over het einde van de vergunning zijn verstuurd.",
+  "bron": [
+   69
+  ],
+  "citaat": "acht het Hof de parkeervergunning niet rechtsgeldig beëindigd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger had sinds 1993 een parkeervergunning en liet de betaling automatisch afschrijven.",
+   "bron": [
+    26
+   ],
+   "citaat": "in het bezit van een parkeervergunning voor het desbetreffende gebied sinds 1993"
+  },
+  {
+   "zin": "De afschrijving mislukte omdat er te weinig geld op de rekening stond.",
+   "bron": [
+    27
+   ],
+   "citaat": "De reden hiervan was een tekort aan saldo op de rekening van belanghebbende"
+  },
+  {
+   "zin": "Daarna vond een controleur geen geldig parkeerbewijs in de auto en kreeg de burger een rekening achteraf van € 58,50.",
+   "bron": [
+    25
+   ],
+   "citaat": "geen geldig parkeerbewijs in de auto aangetroffen"
+  },
+  {
+   "zin": "De burger zei dat hij de herinnering en de brief over het einde van de vergunning nooit kreeg.",
+   "bron": [
+    67
+   ],
+   "citaat": "de ontvangst van beide brieven gemotiveerd betwist"
+  },
+  {
+   "zin": "De gemeente zei dat de vergunning na de mislukte afschrijving was beëindigd, dus de burger moest gewoon betalen.",
+   "bron": [
+    59
+   ],
+   "citaat": "de parkeervergunning van belanghebbende met ingang van 22 september 2014 is beëindigd"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente niet aannemelijk had gemaakt dat de brieven waren verstuurd, dus de vergunning was niet geldig beëindigd.",
+   "bron": [
+    69
+   ],
+   "citaat": "acht het Hof de parkeervergunning niet rechtsgeldig beëindigd"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Rekening blijft vernietigd; gemeente betaalt griffierecht van € 45",
+ "gevolg_betrokkene": {
+  "zin": "De rekening achteraf van € 58,50 blijft vernietigd en de gemeente betaalt het griffierecht van € 45 aan de burger terug, zoals de rechtbank bepaalde.",
+  "bron": [
+   75,
+   20,
+   25
+  ],
+  "citaat": "bevestigt de uitspraak van de rechtbank"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Zijn parkeervergunning was niet beëindigd: hij had een machtiging voor automatische incasso en kreeg nooit een herinnering of brief.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente maakte niet aannemelijk dat de brieven zijn verstuurd, dus de vergunning was niet geldig beëindigd.",
+    "bron": [
+     69
+    ],
+    "citaat": "waarin de verzending van de brieven bedoeld onder 5.8 en 5.9 niet aannemelijk is gemaakt"
+   },
+   "bruikbare_zin": {
+    "citaat": "Zij zal in dat kader de verzending van de brieven aannemelijk moeten kunnen maken",
+    "bron": [
+     66
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Mislukt de automatische incasso van een vergunning, dan moet de gemeente de vergunninghouder daarover en over het einde van de vergunning informeren, en moet zij bewijzen dat dat is gebeurd.",
+  "type": "regel",
+  "reikwijdte": "Vergunninghouders met een doorlopende machtiging voor automatische incasso waarvan de incasso mislukt",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   66
+  ],
+  "citaat": "De gemeente draagt van de geschetste zorgvuldige wijze van het voorzien van informatie aan de belanghebbende de bewijslast"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verzendbewijs of postregistratie van de brieven (ontbrak)"
+  ],
+  "wat_gaf_doorslag": "De brieven gingen niet aangetekend en de verzender hield geen postregistratie bij."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHAMS:2014:4633",
+   "ECLI:NL:HR:1997:AA3336"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1 aanhef en onder a en b Verordening parkeerbelastingen 2014 Amsterdam",
+  "art. 6 lid 2 Verordening parkeerbelastingen 2014 Amsterdam",
+  "art. 27 Parkeerverordening 2013 Amsterdam",
+  "art. 8:75 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Stuur de vergunninghouder een brief met de datum waarop de vergunning stopt als de automatische incasso mislukt en betaling uitblijft",
+   "raakt": "vergunningen",
+   "bron": [
+    64
+   ],
+   "citaat": "belanghebbende een brief te doen toekomen waarin wordt aangegeven dat en per wanneer de parkeervergunning zal worden ingetrokken"
+  },
+  {
+   "actie": "Verstuur deze brieven aangetekend of met postregistratie, zodat u de verzending kunt aantonen",
+   "raakt": "communicatie",
+   "bron": [
+    68
+   ],
+   "citaat": "geen enkele vorm van postregistratie heeft bijgehouden"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "communicatie",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Heeft u een parkeervergunning en liet u de betaling automatisch afschrijven, dan is een rekening achteraf niet terecht als de gemeente niet kan bewijzen dat zij u liet weten dat de afschrijving mislukte en dat uw vergunning stopte. In deze zaak kon de gemeente niet laten zien dat de brieven waren verstuurd. Kreeg u zo'n rekening en ontving u geen brief, maak dan bezwaar en leg dat uit.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

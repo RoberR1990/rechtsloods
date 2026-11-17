@@ -1,0 +1,52 @@
+{
+ "P1": {
+  "bestand": "ECLI_NL_GHARL_2018_4463.json",
+  "A": "bestaand",
+  "B": "deepseek_v3b",
+  "bestaand_bron": "sonnet"
+ },
+ "P2": {
+  "bestand": "ECLI_NL_RBAMS_2025_7589.json",
+  "A": "deepseek_v3b",
+  "B": "bestaand",
+  "bestaand_bron": "haiku_gecorrigeerd"
+ },
+ "P3": {
+  "bestand": "ECLI_NL_GHARL_2024_3905.json",
+  "A": "bestaand",
+  "B": "deepseek_v3b",
+  "bestaand_bron": "sonnet"
+ },
+ "P4": {
+  "bestand": "ECLI_NL_RBZWB_2024_4323.json",
+  "A": "deepseek_v3b",
+  "B": "bestaand",
+  "bestaand_bron": "haiku_gecorrigeerd"
+ },
+ "P5": {
+  "bestand": "ECLI_NL_RBOVE_2025_710.json",
+  "A": "deepseek_v3b",
+  "B": "bestaand",
+  "bestaand_bron": "haiku_gecorrigeerd"
+ },
+ "A1": {
+  "bestand": "ECLI_NL_RVS_2026_226.json",
+  "herkomst": "sonnet-subagent (vangnet)"
+ },
+ "A2": {
+  "bestand": "ECLI_NL_RVS_2026_3686.json",
+  "herkomst": "deepseek-v4.1-flash (consensus met qwen3.8-flash, v3b)"
+ },
+ "A3": {
+  "bestand": "ECLI_NL_CRVB_2024_1227.json",
+  "herkomst": "deepseek-v4.1-flash (consensus met qwen3.8-flash, v3b)"
+ },
+ "A4": {
+  "bestand": "ECLI_NL_RVS_2024_218.json",
+  "herkomst": "deepseek-v4.1-flash (consensus met qwen3.8-flash, v3b)"
+ },
+ "A5": {
+  "bestand": "ECLI_NL_RVS_2026_5787.json",
+  "herkomst": "deepseek-v4.1-flash (consensus met qwen3.8-flash, v3b)"
+ }
+}

@@ -1,0 +1,168 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2023:7865",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "wissen",
+ "kenmerk": "archief",
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "burger met een FSV-registratie",
+  "wederpartij": "minister van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger vraagt de Belastingdienst (de minister van Financiën) om inzage in en wissing van zijn gegevens in de Fraude Signalering Voorziening (FSV). De minister wijst dat deels af en de burger gaat in beroep bij de rechtbank Noord-Holland.",
+ "titel": "Gegevens in FSV moeten worden gewist; bewaren om andere redenen mag niet",
+ "kern": {
+  "zin": "De minister mocht wissing niet weigeren, omdat de gegevens onrechtmatig zijn verwerkt en archivering, Kamertoezeggingen of juridische procedures hier geen reden zijn om ze te bewaren.",
+  "bron": [
+   40
+  ],
+  "citaat": "Gelet op het voorgaande mocht verweerder wissing van de persoonsgegevens van eiser niet weigeren."
+ },
+ "samenvatting": [
+  {
+   "zin": "De Belastingdienst liet de burger weten dat zijn gegevens in de FSV stonden, en de burger vroeg om inzage, correctie en wissing.",
+   "bron": [
+    26
+   ],
+   "citaat": "als een verzoek om inzage, rectificatie en gegevenswissing op grond van de artikelen 15, 16 en 17 van de AVG"
+  },
+  {
+   "zin": "De minister gaf een overzicht van de gegevens, maar weigerde wissing en hield een aantal gegevens geheim.",
+   "bron": [
+    27
+   ],
+   "citaat": "maar wissing van gegevens geweigerd"
+  },
+  {
+   "zin": "De burger zei dat het overzicht niet volledig was, omdat namen van medewerkers ontbraken, en dat zijn gegevens onrechtmatig waren geregistreerd.",
+   "bron": [
+    32
+   ],
+   "citaat": "Verweerder heeft ten onrechte de namen van belastingmedewerkers"
+  },
+  {
+   "zin": "De minister zei dat de gegevens nog nodig waren voor onderzoek, voor juridische procedures, voor een toezegging aan de Tweede Kamer en vanwege de Archiefwet.",
+   "bron": [
+    39
+   ],
+   "citaat": "verplicht ook de Archiefwet 1995 tot het bewaren van gegevens"
+  },
+  {
+   "zin": "De rechtbank vond dat het weglakken van namen van andere personen mocht, maar dat een gegeven (de bron) ten onrechte eerst niet was gegeven.",
+   "bron": [
+    36
+   ],
+   "citaat": "Verweerder heeft daarom terecht geweigerd de gegevens aan eiser te verstrekken."
+  },
+  {
+   "zin": "De rechtbank vond dat de gegevens gewist moeten worden, omdat de Archiefwet, de Awb en Kamertoezeggingen geen grondslag zijn om wissing te weigeren.",
+   "bron": [
+    40
+   ],
+   "citaat": "kunnen op zichzelf geen grondslag vormen voor afwijzing van een verzoek om wissing van persoonsgegevens"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Gegevens moeten binnen een maand worden gewist; griffierecht en proceskosten vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De minister moet de gegevens van de burger binnen een maand wissen en het griffierecht van € 181 vergoeden; de burger krijgt ook € 28 aan proceskosten.",
+  "bron": [
+   54
+  ],
+  "citaat": "bepaalt dat verweerder het griffierecht van € 181,- aan eiser moet vergoeden"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "wissen-geen-grondslag",
+   "burger_zegt": "Mijn gegevens zijn onrechtmatig in de FSV gezet en de minister heeft geen belang bij bewaren, dus ze moeten weg.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het is niet in geschil dat de gegevens onrechtmatig zijn verwerkt, en de redenen om ze te bewaren passen niet in de uitzonderingen van de AVG.",
+    "bron": [
+     40
+    ],
+    "citaat": "niet in geschil is dat de persoonsgegevens van eiser onrechtmatig zijn verwerkt in de FSV"
+   },
+   "bruikbare_zin": {
+    "citaat": "De Archiefwet 1995, artikel 8:42 van de Awb en toezeggingen aan de Tweede Kamer kunnen op zichzelf geen grondslag vormen voor afwijzing van een verzoek om wissing van persoonsgegevens",
+    "bron": [
+     40
+    ]
+   }
+  },
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Het overzicht dat ik kreeg, is niet volledig.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De minister had het gegeven bij \"bron\" ten onrechte niet verstrekt, en dat is later alsnog gedaan.",
+    "bron": [
+     35
+    ],
+    "citaat": "Verweerder heeft zich op het standpunt gesteld dat dit gegeven bij het bestreden besluit ten onrechte niet is verstrekt."
+   }
+  },
+  {
+   "arg": "weigering-rechten-anderen",
+   "burger_zegt": "De namen van de medewerkers die mijn gegevens hebben ingevoerd en beoordeeld, hoor ik te krijgen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Die weggelakte gegevens zijn geen persoonsgegevens van de burger zelf en vallen dus buiten zijn inzagerecht.",
+    "bron": [
+     36
+    ],
+    "citaat": "heeft eiser uitsluitend recht op inzage van persoonsgegevens die hemzelf betreffen"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een organisatie mag wissing van onrechtmatig verwerkte gegevens alleen weigeren in de gevallen die artikel 17 lid 3 AVG en artikel 41 UAVG noemen; de Archiefwet, de Awb en Kamertoezeggingen zijn daarvoor op zichzelf geen grondslag.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om wissing van gegevens die onrechtmatig zijn verwerkt.",
+  "uitzondering": "Wissing mag worden geweigerd als de verwerking echt nodig is voor een van de gevallen in art. 17 lid 3 AVG of art. 41 UAVG.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   40
+  ],
+  "citaat": "Afwijzing is op grond van artikel 17, derde lid, van de AVG en artikel 41, eerste lid, van de Uitvoeringswet immers slechts toegestaan in de in die artikelleden vermelde gevallen."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "ongelakte registratie in de FSV, alleen door de rechtbank ingezien"
+  ],
+  "wat_gaf_doorslag": "Niet in geschil was dat de gegevens onrechtmatig waren verwerkt; bewaren was niet nodig voor de genoemde doelen."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:EU:C:2023:369"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 15 AVG",
+  "art. 17 lid 1 onder d AVG",
+  "art. 17 lid 3 AVG",
+  "art. 41 lid 1 UAVG",
+  "art. 8:29 Awb",
+  "art. 8:42 Awb",
+  "Archiefwet 1995"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "fraude-handhaving"
+ ],
+ "klantuitleg": "Zijn uw gegevens onrechtmatig verwerkt, dan kan de organisatie wissing niet zomaar weigeren. De Archiefwet of een belofte aan de Tweede Kamer is daarvoor niet genoeg, maar namen van medewerkers krijgt u niet. Wilt u gegevens laten wissen, maak dan bezwaar als dat wordt geweigerd.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij; zaak tegen de minister van Financiën",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

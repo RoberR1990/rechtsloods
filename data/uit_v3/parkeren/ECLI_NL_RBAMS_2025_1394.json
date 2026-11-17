@@ -1,0 +1,159 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2025:1394",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder met invalidenvergunning",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing (de rekening achteraf) van 76,80 euro. Zij ging in beroep tegen de gemeente Amsterdam, en de rechtbank Amsterdam oordeelde.",
+ "titel": "Storing app en website: naheffing vernietigd",
+ "kern": {
+  "zin": "De rechter vernietigde de naheffing, omdat de storing voor risico van de gemeente kwam.",
+  "bron": [
+   19,
+   29
+  ],
+  "citaat": "Deze storing is naar het oordeel van de rechtbank een omstandigheid die voor risico van de heffingsambtenaar komt"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde op 23 mei 2024 een naheffing van 76,80 euro op, voor parkeren op 19 mei.",
+   "bron": [
+    10
+   ],
+   "citaat": "De heffingsambtenaar heeft op 23 mei 2024 een parkeerbon van € 76,80 opgelegd"
+  },
+  {
+   "zin": "De parkeerder zegt dat de website en app van de gemeente niet werkten, zodat zij het kenteken niet kon doorgeven.",
+   "bron": [
+    17
+   ],
+   "citaat": "Bij het doorgeven van het kenteken was de website van de gemeente Amsterdam niet bereikbaar"
+  },
+  {
+   "zin": "Volgens de gemeente stond het kenteken niet op de vergunning, dus moest er gewoon worden betaald.",
+   "bron": [
+    18
+   ],
+   "citaat": "Het kenteken van de door eiseres geparkeerde auto stond niet op de vergunning aangemeld"
+  },
+  {
+   "zin": "De rechter vond dat de storing voor risico van de gemeente komt, en dat de parkeerder niet alsnog gewoon hoefde te betalen.",
+   "bron": [
+    19
+   ],
+   "citaat": "Anders dan de heffingsambtenaar voorstaat hoefde eiseres niet"
+  },
+  {
+   "zin": "De naheffing is vernietigd en de gemeente moet het griffierecht terugbetalen.",
+   "bron": [
+    29,
+    31
+   ],
+   "citaat": "vernietigt de naheffingsaanslag parkeerbelasting van 23 mei 2024"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd; de storing kwam voor risico van de gemeente",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft de naheffing van 76,80 euro niet te betalen; eerder betaald geld krijgt zij terug, plus 51 euro griffierecht.",
+  "bron": [
+   23,
+   29,
+   31
+  ],
+  "citaat": "Als eiseres de parkeerbon al heeft betaald, moet de heffingsambtenaar het betaalde bedrag"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De app en website van de gemeente werkten niet, en zij kon de gemeente ook niet telefonisch bereiken.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat deze storing voor risico van de gemeente komt.",
+    "bron": [
+     19
+    ],
+    "citaat": "Deze storing is naar het oordeel van de rechtbank een omstandigheid die voor risico van de heffingsambtenaar komt"
+   },
+   "bruikbare_zin": {
+    "citaat": "De heffingsambtenaar betwist niet dat er een technische storing was",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Door de storing kon het kenteken niet op de vergunning worden gezet, en dat is haar niet aan te rekenen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond het niet registreren van het kenteken niet aan de parkeerder toe te rekenen.",
+    "bron": [
+     19
+    ],
+    "citaat": "Dat het kenteken van de auto niet geregistreerd stond in het vergunningensysteem kan niet aan eiseres worden toegerekend"
+   },
+   "bruikbare_zin": {
+    "citaat": "kan niet aan eiseres worden toegerekend",
+    "bron": [
+     19
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als een storing van de gemeente het betalen met vergunning onmogelijk maakt, hoeft de parkeerder niet gewoon te betalen.",
+  "type": "regel",
+  "reikwijdte": "technische storing van de gemeente die de vergunningvoorwaarden onmogelijk maakt",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "Anders dan de heffingsambtenaar voorstaat hoefde eiseres niet"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "storing van app en website, niet betwist door de gemeente",
+   "geen telefonisch bereik bij de gemeente"
+  ],
+  "wat_gaf_doorslag": "De storing bij de gemeente, die niet werd betwist, kwam voor rekening van de gemeente."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bonnen die zijn uitgeschreven tijdens een storing in app en website, en trek ze in als het kenteken niet kon worden doorgegeven.",
+   "raakt": "betaalapp",
+   "bron": [
+    19
+   ],
+   "citaat": "Deze storing is naar het oordeel van de rechtbank een omstandigheid die voor risico van de heffingsambtenaar komt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "betaalapp",
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Of een naheffing terecht is, hing in deze zaak af van de oorzaak: een storing bij de gemeente. Daarom werd de naheffing vernietigd. Hebt u zelf een storing gehad, bewaar dan bewijs en neem contact op met de gemeente; of dat helpt, is niet zeker.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

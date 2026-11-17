@@ -1,0 +1,195 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2020:970",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "maximale-duur",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "kentekenhouder met gemachtigde",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een kentekenhouder kreeg een boete omdat hij zonder parkeerschijf stond in een blauwe zone op een parkeerterrein in Amersfoort. Hij ging in hoger beroep tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Boete voor parkeren zonder parkeerschijf op parkeerterrein met slagboom",
+ "kern": {
+  "zin": "Het hof vond dat het bord voor het hele parkeerterrein gold en dat het terrein openbaar was, ook met een slagboom.",
+  "bron": [
+   30
+  ],
+  "citaat": "Het verkeersbord is zodanig geplaatst dat duidelijk is dat het toepassing heeft op het gehele parkeerterrein"
+ },
+ "samenvatting": [
+  {
+   "zin": "De kentekenhouder kreeg een boete van € 95 omdat hij parkeerde bij een blauwe streep zonder duidelijke parkeerschijf.",
+   "bron": [
+    21
+   ],
+   "citaat": "Aan de betrokkene is als kentekenhouder bij inleidende beschikking een sanctie opgelegd van € 95,-"
+  },
+  {
+   "zin": "De ambtenaar zag dat er geen parkeerschijf achter de voorruit lag.",
+   "bron": [
+    25
+   ],
+   "citaat": "Hij heeft gezien dat het voertuig geen parkeerschijf achter de voorruit had liggen"
+  },
+  {
+   "zin": "De gemachtigde zei dat een blauwe streep alleen niet genoeg is en dat het om privéterrein ging.",
+   "bron": [
+    22
+   ],
+   "citaat": "De enkele omstandigheid dat er een blauwe streep aanwezig is, is daartoe onvoldoende"
+  },
+  {
+   "zin": "Het hof vond het terrein openbaar toegankelijk, want de gemeente had er een parkeerschijfzone ingesteld.",
+   "bron": [
+    28
+   ],
+   "citaat": "Uit het verkeersbesluit van 16 december 2015 blijkt dat er ter plaatse sprake is van een openbaar toegankelijke parkeergelegenheid"
+  },
+  {
+   "zin": "Het hof zag op de foto's het bord E10 bij de ingang en de blauwe streep in het vak.",
+   "bron": [
+    30
+   ],
+   "citaat": "Bovendien is op de foto’s bij het brondocument ook de blauwe streep duidelijk te zien"
+  },
+  {
+   "zin": "Het hof bevestigde de uitspraak van de kantonrechter en wees de kostenvergoeding af.",
+   "bron": [
+    32
+   ],
+   "citaat": "Nu de gemachtigde geen gelijk krijgt, zal het hof het verzoek tot vergoeding van kosten afwijzen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete blijft; terrein was openbaar en de bebording was duidelijk genoeg.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 95 blijft staan en er komt geen kostenvergoeding.",
+  "bron": [
+   32,
+   21
+  ],
+  "citaat": "Nu de gemachtigde geen gelijk krijgt, zal het hof het verzoek tot vergoeding van kosten afwijzen"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Er stond geen bord voor het vak en een blauwe streep alleen is onvoldoende.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het bord E10 stond bij de ingang en gold met de blauwe streep voor het hele terrein.",
+    "bron": [
+     30
+    ],
+    "citaat": "Het verkeersbord is zodanig geplaatst dat duidelijk is dat het toepassing heeft op het gehele parkeerterrein"
+   },
+   "bruikbare_zin": {
+    "citaat": "Van iedere weggebruiker mag worden verwacht dat hij oplettend is op de aanwezige bebording",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het was privéterrein, dus er mocht niet gehandhaafd worden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het terrein stond open voor het openbaar verkeer; de slagboom sloot het niet af.",
+    "bron": [
+     28
+    ],
+    "citaat": "Hiermee wordt duidelijk dat het betreffende terrein voor het openbaar verkeer openstaat"
+   },
+   "bruikbare_zin": {
+    "citaat": "sluit hiermee het parkeerterrein niet af voor het openbare verkeer",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De e-mail van de gemeente wekte vertrouwen dat er niet gehandhaafd zou worden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Door de duidelijke situatie mocht de kentekenhouder daar niet op rekenen.",
+    "bron": [
+     31
+    ],
+    "citaat": "mocht de betrokkene niet op basis van de e-mail van 24 april 2018"
+   },
+   "bruikbare_zin": {
+    "citaat": "De verkeerssituatie is voldoende duidelijk.",
+    "bron": [
+     31
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerterrein met slagboom dat niet is afgesloten voor het openbaar verkeer, is een weg waar gehandhaafd mag worden.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Parkeerterrein van een private eigenaar waar de gemeente een parkeerschijfzone met verkeersbesluit instelde.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   28
+  ],
+  "citaat": "Hiermee wordt duidelijk dat het betreffende terrein voor het openbaar verkeer openstaat"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "aanvullend proces-verbaal van de ambtenaar",
+   "vier foto's van de gedraging",
+   "verkeersbesluit van 16 december 2015"
+  ],
+  "wat_gaf_doorslag": "De foto's laten het bord E10 en de blauwe streep zien en het verkeersbesluit toont dat het terrein openbaar is."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 25 lid 2 RVV 1990",
+  "art. 1 lid 1 onder b WVW 1994",
+  "art. 3 lid 2 Wahv",
+  "bord E10 bijlage 1 RVV 1990"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Plaats bij de ingang van een parkeerschijfzone een bord E10 en houd de blauwe streep in de vakken goed zichtbaar",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    30
+   ],
+   "citaat": "bij de ingang van het parkeerterrein direct na de slagbomen aan de rechterkant een bord E10 (parkeerschijf-zone) is geplaatst"
+  },
+  {
+   "actie": "Leg met een verkeersbesluit vast dat een privé parkeerterrein openbaar toegankelijk is en een parkeerschijfzone heeft",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    28
+   ],
+   "citaat": "Uit het verkeersbesluit van 16 december 2015 blijkt dat er ter plaatse sprake is van een openbaar toegankelijke parkeergelegenheid"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Staat er een bord voor een blauwe zone bij de ingang van een parkeerterrein, dan geldt de parkeerschijf voor het hele terrein. Dat geldt ook als er een slagboom staat en het terrein van een private eigenaar is. Een e-mail van de gemeente dat er niet gehandhaafd wordt, helpt u niet als de situatie duidelijk is.",
+ "gemeente": "Amersfoort",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

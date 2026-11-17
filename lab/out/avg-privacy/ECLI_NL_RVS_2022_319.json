@@ -1,0 +1,200 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2022:319",
+ "relevant": true,
+ "onderwerp": "schade-aansprakelijkheid",
+ "sub": "immateriele-schade",
+ "kenmerk": null,
+ "zaaktype": "schadevergoeding",
+ "partijen": {
+  "burger": "deurwaarderskantoor (bedrijf) en twee personen",
+  "wederpartij": "Bureau Financieel Toezicht (BFT)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Het Bureau Financieel Toezicht (BFT) gaf de namen van een deurwaarderskantoor en twee personen onterecht aan een journalist. Zij vroegen schadevergoeding; de zaak ligt na de rechtbank in hoger beroep bij de Raad van State.",
+ "titel": "Onterecht gedeelde namen: geen schadevergoeding zonder concrete schade",
+ "kern": {
+  "zin": "De bestuursrechter mocht over de schade oordelen, maar de burgers maakten niet aannemelijk dat zij door het onterecht delen van hun namen in hun persoon waren aangetast.",
+  "bron": [
+   73
+  ],
+  "citaat": "hebben dus niet aannemelijk gemaakt dat het doorgeven van de niet-geanonimiseerde versie van de uitspraak"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het BFT gaf aan een journalist een niet-geanonimiseerde beslissing van de tuchtrechter voor deurwaarders en de bijbehorende brief.",
+   "bron": [
+    26
+   ],
+   "citaat": "Het BFT heeft aan een journalist de niet-geanonimiseerde versie van een beslissing van de kamer voor gerechtsdeurwaarders"
+  },
+  {
+   "zin": "De burgers zeiden dat dit een datalek was en dat zij daardoor schade hadden.",
+   "bron": [
+    26
+   ],
+   "citaat": "Door dat wel te doen, is volgens Yards en anderen sprake van een datalek."
+  },
+  {
+   "zin": "Het BFT zei dat zijn reactie op het verzoek om het datalek te melden geen besluit was waartegen bezwaar of beroep kan.",
+   "bron": [
+    40
+   ],
+   "citaat": "Het BFT betoogt dat de rechtbank ten onrechte heeft geoordeeld dat het bezwaar van"
+  },
+  {
+   "zin": "De rechter vond dat de reactie van het BFT geen besluit was, dus het bezwaar was terecht niet-ontvankelijk.",
+   "bron": [
+    59
+   ],
+   "citaat": "de reactie van het BFT op het verzoek van [appellanten sub 1] om het datalek te melden geen besluit is"
+  },
+  {
+   "zin": "De bestuursrechter mocht wel over de schadevergoeding oordelen, want de vorderingen waren per persoon niet hoger dan € 25.000.",
+   "bron": [
+    64
+   ],
+   "citaat": "is de Afdeling van oordeel dat de bestuursrechter in dit geval bevoegd is te oordelen over het verzoek om schadevergoeding"
+  },
+  {
+   "zin": "De rechter wees de schadevergoeding af.",
+   "bron": [
+    75
+   ],
+   "citaat": "De Afdeling zal het verzoek om schadevergoeding afwijzen."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Geen besluit en geen schadevergoeding; wel gelijk over de bevoegde rechter en proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De burgers krijgen geen schadevergoeding, maar het BFT moet hun proceskosten van € 1.518 en hun griffierecht van € 532 betalen.",
+  "bron": [
+   94
+  ],
+  "citaat": "opgekomen proceskosten tot een bedrag van € 1.518,00"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het BFT moest het datalek melden bij de Autoriteit Persoonsgegevens, en zijn reactie daarop is een besluit waartegen bezwaar kan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De reactie van het BFT was geen besluit, dus het bezwaar was terecht niet-ontvankelijk.",
+    "bron": [
+     59
+    ],
+    "citaat": "de reactie van het BFT op het verzoek van [appellanten sub 1] om het datalek te melden geen besluit is"
+   }
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Ik heb vermogensschade door externe hulp, tijd en een misgelopen bedrijfsverkoop door het onterecht delen van mijn naam.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burgers maakten niet aannemelijk dat deze kosten het gevolg waren van het onterecht delen van hun namen.",
+    "bron": [
+     71
+    ],
+    "citaat": "niet aannemelijk gemaakt dat deze kosten het gevolg zijn van de onrechtmatige verwerking van hun namen"
+   }
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Ik heb immateriële schade (aantasting in mijn persoon) door het onterecht delen van mijn naam.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burgers maakten niet aannemelijk dat het delen hen in hun persoon had aangetast.",
+    "bron": [
+     73
+    ],
+    "citaat": "niet aannemelijk gemaakt dat het doorgeven van de niet-geanonimiseerde versie van de uitspraak en de daarbij behorende aanbiedingsbrief hebben geleid tot de aantasting van hun persoon"
+   },
+   "bruikbare_zin": {
+    "citaat": "Bovendien heeft het BFT de journalist voor publicatie van het artikel verzocht deze persoonsgegevens niet te gebruiken",
+    "bron": [
+     73
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ook het bedrijf zelf wil zich op de AVG beroepen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Alleen mensen, geen bedrijven, kunnen een verzoek op grond van de AVG doen.",
+    "bron": [
+     32
+    ],
+    "citaat": "Alleen natuurlijke personen kunnen een verzoek op grond van de AVG"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie immateriële schade eist wegens onterecht verwerkte gegevens, moet met concrete gegevens laten zien dat hij in zijn persoon is aangetast; alleen de schending van een grondrecht is niet genoeg.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om immateriële schadevergoeding op grond van art. 82 AVG bij een bestuursorgaan.",
+  "uitzondering": "Concrete onderbouwing is niet nodig als de aard en ernst van de schending de nadelige gevolgen zo voor de hand liggend maken dat aantasting in de persoon kan worden aangenomen.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   72
+  ],
+  "citaat": "Degene die zich hierop beroept, zal voldoende concrete gegevens moeten aanvoeren waaruit kan volgen dat in verband met de omstandigheden van het geval psychische schade is ontstaan."
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Alleen de namen waren onterecht gegeven, de uitspraak was al anoniem openbaar en de journalist noemde de namen niet in zijn artikel."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2020:898",
+   "ECLI:NL:RVS:2010:BN4952",
+   "ECLI:NL:HR:2019:376",
+   "ECLI:NL:HR:2019:793",
+   "ECLI:NL:HR:2019:1278"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 82 AVG",
+  "art. 15 lid 1 AVG",
+  "art. 21 AVG",
+  "art. 4 lid 1 AVG",
+  "art. 34 Uitvoeringswet AVG",
+  "art. 8:88 Awb",
+  "art. 6:106 BW"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Geef een journalist stukken alleen geanonimiseerd, tenzij u een grondslag hebt om namen te delen.",
+   "raakt": "woo-openbaarheid",
+   "bron": [
+    66
+   ],
+   "citaat": "Deze handeling van het BFT is een inbreuk op de bescherming van de persoonsgegevens"
+  },
+  {
+   "actie": "Laat een bedrijf dat een AVG-verzoek doet snel weten dat alleen mensen zich op de AVG kunnen beroepen.",
+   "raakt": "klantcontact",
+   "bron": [
+    33
+   ],
+   "citaat": "Het BFT had dus Yards Deurwaardersdiensten B.V. moeten laten weten dat om die reden geen gehoor zal worden gegeven aan haar verzoek."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "woo-openbaarheid",
+  "communicatie",
+  "klantcontact"
+ ],
+ "klantuitleg": "De privacywet (AVG) beschermt mensen, niet bedrijven. Heeft een organisatie uw gegevens onterecht gedeeld, dan kunt u schadevergoeding vragen, maar alleen dat het onterecht gebeurde is meestal niet genoeg. Laat daarom zo concreet mogelijk zien welke schade of last u echt hebt gehad.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente betrokken; het BFT is partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

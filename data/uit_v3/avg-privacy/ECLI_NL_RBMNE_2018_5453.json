@@ -1,0 +1,148 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2018:5453",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Dronten",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Deze zaak gaat over de inschrijving van mevrouw [A] op het adres van de burger in de gemeente Dronten. De burger maakte bezwaar, maar de gemeente verklaarde hem niet-ontvankelijk; de rechtbank Midden-Nederland oordeelt over zijn beroep.",
+ "titel": "Bewoner niet-ontvankelijk in zaak over inschrijving ander",
+ "kern": {
+  "zin": "De rechtbank verklaart het beroep niet-ontvankelijk omdat alleen [A], van wie de persoonslijst wijzigt, bezwaar kan maken.",
+  "bron": [
+   24
+  ],
+  "citaat": "Belanghebbende bij de inschrijving is uitsluitend [A] omdat enkel haar persoonslijst wordt gewijzigd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Dronten heeft mevrouw [A] ambtshalve ingeschreven op het adres van de burger.",
+   "bron": [
+    21
+   ],
+   "citaat": "op grond van artikel 2.4 Wet BRP ambtshalve ingeschreven op het adres [adres] te [plaats]"
+  },
+  {
+   "zin": "De burger is per brief geïnformeerd omdat hij op hetzelfde adres staat ingeschreven.",
+   "bron": [
+    21
+   ],
+   "citaat": "Eiser is bij brief van 14 november 2017 over deze inschrijving geïnformeerd omdat hij op hetzelfde adres staat ingeschreven"
+  },
+  {
+   "zin": "De burger maakte bezwaar, maar de gemeente verklaarde hem niet-ontvankelijk omdat hij geen belanghebbende is.",
+   "bron": [
+    22
+   ],
+   "citaat": "is door verweerder niet-ontvankelijk verklaard in zijn bezwaar omdat hij geen belanghebbende is"
+  },
+  {
+   "zin": "De burger vindt dat hij last heeft van schuldeisers die aan de deur komen.",
+   "bron": [
+    23
+   ],
+   "citaat": "zoals het bezoek door schuldeisers"
+  },
+  {
+   "zin": "De rechtbank oordeelt dat alleen [A] belanghebbende is omdat alleen haar persoonslijst wijzigt.",
+   "bron": [
+    24
+   ],
+   "citaat": "Belanghebbende bij de inschrijving is uitsluitend [A] omdat enkel haar persoonslijst wordt gewijzigd"
+  },
+  {
+   "zin": "De rechtbank verklaart het beroep niet-ontvankelijk.",
+   "bron": [
+    18
+   ],
+   "citaat": "De rechtbank verklaart het beroep niet-ontvankelijk"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De burger krijgt geen inhoudelijk oordeel; het beroep is niet-ontvankelijk.",
+ "gevolg_betrokkene": {
+  "zin": "Het beroep is niet-ontvankelijk en de burger krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   18,
+   29
+  ],
+  "citaat": "De rechtbank verklaart het beroep niet-ontvankelijk"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente past artikel 2.58 van de Wet BRP niet goed toe; ik heb last van schuldeisers die aan de deur komen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat alleen de persoon van wie de persoonslijst wordt gewijzigd, bezwaar kan maken.",
+    "bron": [
+     28
+    ],
+    "citaat": "Alleen die persoon is belanghebbend bij wat er in een persoonslijst is geregistreerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "Alleen die persoon is belanghebbend bij wat er in een persoonslijst is geregistreerd",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Alleen de persoon van wie de persoonslijst in de BRP wordt gewijzigd, kan bezwaar maken tegen een ambtshalve inschrijving.",
+  "type": "regel",
+  "reikwijdte": "Bij een ambtshalve inschrijving in de BRP.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   28
+  ],
+  "citaat": "Alleen die persoon is belanghebbend bij wat er in een persoonslijst is geregistreerd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2016:62"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2.4 Wet BRP",
+  "art. 2.58 Wet BRP",
+  "art. 1:2 Awb",
+  "art. 1.1 onder e Wet BRP"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Behandel bij een ambtshalve inschrijving in de BRP alleen de ingeschrevene als de persoon die bezwaar kan maken.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    28
+   ],
+   "citaat": "Alleen die persoon is belanghebbend bij wat er in een persoonslijst is geregistreerd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "bezwaar"
+ ],
+ "klantuitleg": "De rechter zegt: alleen de persoon van wie de gegevens in de gemeentelijke registratie van inwoners worden veranderd, kan bezwaar maken. Woont iemand anders bij u op het adres en wordt die persoon ingeschreven, dan kunt u daartegen niet zelf bezwaar maken. Uw bezwaar heeft op dat punt weinig kans; overleg met de gemeente of een jurist wat u wel kunt doen.",
+ "gemeente": "Dronten",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

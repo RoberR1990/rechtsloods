@@ -1,0 +1,166 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2026:4734",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Woerden",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder kwam op tegen een naheffingsaanslag (de rekening achteraf) parkeerbelasting van € 69,34 van de gemeente Woerden. De Rechtbank Midden-Nederland beoordeelde het beroep.",
+ "titel": "Verkeerde zone betaald, maar de rekening achteraf was niet terecht",
+ "kern": {
+  "zin": "De rechter herriep de aanslag, omdat de parkeerder redelijkerwijs niet kon weten dat hij in de verkeerde zone betaalde.",
+  "bron": [
+   20
+  ],
+  "citaat": "eiser niet in redelijkheid had kunnen weten dat hij voor de verkeerde zone parkeerbelasting heeft betaald"
+ },
+ "samenvatting": [
+  {
+   "zin": "Na een controle kreeg de parkeerder een rekening van € 69,34, omdat hij voor een andere zone had betaald.",
+   "bron": [
+    15
+   ],
+   "citaat": "eiser heeft betaald bij een parkeerautomaat voor de zone 4400"
+  },
+  {
+   "zin": "De parkeerder stelde dat hij zelf op de Nieuwstraat had betaald, na een tip van de scanauto-bestuurder.",
+   "bron": [
+    17
+   ],
+   "citaat": "Eiser heeft vervolgens parkeerbelasting voldaan bij de parkeerautomaat op de Nieuwstraat"
+  },
+  {
+   "zin": "De gemeente vond dat de bebording duidelijk genoeg was om te zien dat de verkeerde zone was betaald.",
+   "bron": [
+    18
+   ],
+   "citaat": "Volgens de heffingsambtenaar kon eiser op basis van de bebording weten dat hij voor de verkeerde zone had betaald"
+  },
+  {
+   "zin": "De rechter vond dat de zonering en de zonenummers, die eerder waren gewijzigd, voor onduidelijkheid konden zorgen.",
+   "bron": [
+    20
+   ],
+   "citaat": "Dat kan naar het oordeel van de rechtbank voor onduidelijkheid zorgen"
+  },
+  {
+   "zin": "De rechter nam ook mee dat de scanauto-bestuurder de parkeerder zelf naar die automaat had gewezen.",
+   "bron": [
+    20
+   ],
+   "citaat": "de bestuurder van de scanauto eiser heeft gewezen naar de parkeerautomaat"
+  },
+  {
+   "zin": "De rechter verklaarde het beroep gegrond en herriep de aanslag.",
+   "bron": [
+    22,
+    27
+   ],
+   "citaat": "Het beroep is gegrond. De heffingsambtenaar moet daarom het door eiser betaalde griffierecht vergoeden"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Beroep gegrond; aanslag herroepen; griffierecht terug.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft de aanslag niet te betalen, en de gemeente betaalt het griffierecht terug.",
+  "bron": [
+   22,
+   27,
+   29
+  ],
+  "citaat": "Het beroep is gegrond. De heffingsambtenaar moet daarom het door eiser betaalde griffierecht vergoeden"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij had wel betaald, maar bij een automaat die voor een andere zone gold.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de parkeerder niet redelijk kon weten dat hij de verkeerde zone betaalde.",
+    "bron": [
+     20
+    ],
+    "citaat": "eiser niet in redelijkheid had kunnen weten dat hij voor de verkeerde zone parkeerbelasting heeft betaald"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet in redelijkheid had kunnen weten dat hij voor de verkeerde zone parkeerbelasting heeft betaald",
+    "bron": [
+     20
+    ]
+   }
+  },
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Hij betaalde na een aanwijzing van de scanauto-bestuurder en legde een foto van het bord over.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter zag dat de zonering en de bebording voor onduidelijkheid konden zorgen.",
+    "bron": [
+     20
+    ],
+    "citaat": "Dat kan naar het oordeel van de rechtbank voor onduidelijkheid zorgen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat kan naar het oordeel van de rechtbank voor onduidelijkheid zorgen",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Onduidelijke zonering en bebording ter plaatse kunnen maken dat een betaling in de verkeerde zone niet verweten kan worden.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Alleen bij onduidelijke zonering en bebording, zoals de rechter in deze zaak zag.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   20
+  ],
+  "citaat": "Gelet op deze omstandigheden is de rechtbank dan ook van oordeel"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "scanauto-waarneming",
+   "betalingsbewijs van de parkeerder",
+   "foto van het bord",
+   "Google Streetview-beelden"
+  ],
+  "wat_gaf_doorslag": "De onduidelijke zonering en de aanwijzing door de scanauto-bestuurder."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Zorg dat bebording en automaten bij elke zonewijziging dezelfde zonenummers tonen.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    20
+   ],
+   "citaat": "Dat kan naar het oordeel van de rechtbank voor onduidelijkheid zorgen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar"
+ ],
+ "klantuitleg": "Als u in een andere zone heeft betaald, kan de rekening voor het parkeren toch vervallen. Dat hing hier af van hoe duidelijk de zones en borden op de plek waren. Heeft u een betaalbewijs en foto's van de borden, dan kan bezwaar zinvol zijn, maar winst is niet zeker.",
+ "gemeente": "Woerden",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

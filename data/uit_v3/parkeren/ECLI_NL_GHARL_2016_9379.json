@@ -1,0 +1,165 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2016:9379",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "gemeente Almere",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bedrijf kreeg in Almere een rekening achteraf voor parkeerbelasting (naheffingsaanslag), terwijl het via de parkeerapp betaalde. De gemeente Almere ging in hoger beroep bij het Gerechtshof Arnhem-Leeuwarden, nadat de rechtbank het bedrijf gelijk had gegeven.",
+ "titel": "Parkeerapp pas na vijf minuten gestart: aanslag blijft staan",
+ "kern": {
+  "zin": "De rechter vond de aanslag terecht, omdat de app niet binnen een redelijke tijd was gestart en het starten zonder controle niet genoeg is.",
+  "bron": [
+   41
+  ],
+  "citaat": "De enkele activering van de applicatie zonder te controleren of de registratie is gestart"
+ },
+ "samenvatting": [
+  {
+   "zin": "De controleur legde om 16:06 uur een aanslag op, terwijl de betaling via de app pas om 16:09 uur begon.",
+   "bron": [
+    36
+   ],
+   "citaat": "Evenmin is in geschil dat belanghebbende vanaf 16:09 parkeerbelasting heeft voldaan."
+  },
+  {
+   "zin": "Het bedrijf zei dat drie minuten de normale tijd is om de gegevens in de auto in te voeren.",
+   "bron": [
+    23
+   ],
+   "citaat": "Dat is de normale tijd die noodzakelijk is om parkeerge[ge]vens in te voeren"
+  },
+  {
+   "zin": "De rechtbank vond het bewijs van de gemeente te zwak, omdat er geen foto's waren; in hoger beroep legde de gemeente wel foto's over.",
+   "bron": [
+    24
+   ],
+   "citaat": "de heffingsambtenaar geen foto’s van de auto heeft overgelegd"
+  },
+  {
+   "zin": "Het hof vond aannemelijk dat er na het parkeren minstens vijf minuten voorbij waren voordat de betaling startte, en dat is geen redelijke termijn.",
+   "bron": [
+    41
+   ],
+   "citaat": "de parkeerapplicatie niet binnen een redelijke termijn heeft geactiveerd nu tussen het parkeren van de auto en de start van de registratie minstens vijf minuten zijn verstreken"
+  },
+  {
+   "zin": "Het hof zei dat een trage app voor risico van de parkeerder komt en dat alleen de app aanzetten niet genoeg is.",
+   "bron": [
+    41
+   ],
+   "citaat": "dit voor rekening en risico van belanghebbende dient te komen"
+  },
+  {
+   "zin": "Betalen vanaf 16:09 uur veranderde niets, omdat er niet bij het begin van het parkeren was betaald.",
+   "bron": [
+    42
+   ],
+   "citaat": "niet bij aanvang van het parkeren parkeerbelasting is voldaan"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep van de gemeente slaagt; aanslag blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De aanslag blijft staan en het bedrijf krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   42,
+   45
+  ],
+  "citaat": "komt het Hof tot het oordeel dat de heffingsambtenaar de naheffingsaanslag terecht heeft opgelegd"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Drie minuten verschil is de normale tijd om in de auto de parkeergegevens in te voeren, dus ik betaalde op tijd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er waren minstens vijf minuten tussen parkeren en start van de betaling, en dat is te lang.",
+    "bron": [
+     39
+    ],
+    "citaat": "Dit betekent dat tussen het parkeren van de auto en de registratie door Parkmobile minstens vijf minuten moeten zijn verstreken"
+   },
+   "bruikbare_zin": {
+    "citaat": "De enkele activering van de applicatie zonder te controleren of de registratie is gestart, kan naar het oordeel van het Hof niet worden aangemerkt als het bij de aanvang van het parkeren in werking stellen",
+    "bron": [
+     41
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De foto's van de gemeente zijn niet echt en het bewijs van de gemeente is onvoldoende.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De foto's maakten volgens de nummering deel uit van het naheffingsdocument van 16:06 uur, dus de twijfel over echtheid werd niet gedeeld.",
+    "bron": [
+     40
+    ],
+    "citaat": "De twijfels die belanghebbende over de authenticiteit van de foto’s heeft, deelt het Hof niet"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie met een parkeerapp betaalt, moet bij het begin van het parkeren betalen. Alleen de app aanzetten zonder te controleren of de betaling gestart is, is niet genoeg.",
+  "type": "regel",
+  "reikwijdte": "Parkeren met een parkeerapp (belparkeren) op een betaalplaats",
+  "uitzondering": "De parkeerder krijgt wel een redelijke termijn om de app in werking te stellen.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   41
+  ],
+  "citaat": "De enkele activering van de applicatie zonder te controleren of de registratie is gestart"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto's van de auto",
+   "verklaring parkeercontroleur en werkinstructie",
+   "gegevens van Parkmobile",
+   "verklaring van de parkeerder"
+  ],
+  "wat_gaf_doorslag": "Tussen parkeren en start van de betaling zaten minstens vijf minuten."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 1 onder a Gemeentewet",
+  "art. 234 lid 1 Gemeentewet",
+  "art. 234 lid 2 onder a Gemeentewet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij een naheffing foto's en het tijdstip waarop het naheffingsdocument is afgesloten vast, naast het starttijdstip van de betaling in de app.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    40
+   ],
+   "citaat": "onderdeel uitmaken van het door de parkeercontroleur om 16:06 uur afgesloten naheffingsdocument"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "klantcontact",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Betaalt u met een parkeerapp, dan moet de betaling bij het begin van het parkeren gestart zijn. U krijgt een korte, redelijke tijd om de app te starten, maar vijf minuten was te lang. Controleer daarom altijd of de app laat zien dat het parkeren is begonnen, en bewaar bewijs van het tijdstip als u bezwaar wilt maken.",
+ "gemeente": "Almere",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

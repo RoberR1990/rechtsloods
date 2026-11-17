@@ -1,0 +1,169 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:1224",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (betaalplichtige van de rekening)",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder kreeg van de gemeente Rotterdam een naheffing (de rekening achteraf) en daarna aanmaningskosten. Zij ging bij de rechtbank Rotterdam in beroep tegen de afwijzing van haar bezwaren.",
+ "titel": "Te laat bezwaar: bericht in MijnOverheid telde als ontvangen",
+ "kern": {
+  "zin": "De rechter vond dat de rekening via MijnOverheid als ontvangen gold, dus het bezwaar kwam te laat.",
+  "bron": [
+   28
+  ],
+  "citaat": "rechtvaardigt dit het vermoeden dat eiseres de naheffingsaanslag heeft ontvangen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder zei dat zij de naheffing nooit had ontvangen en pas door de aanmaning op de hoogte raakte.",
+   "bron": [
+    24
+   ],
+   "citaat": "zij de naheffingsaanslag niet had ontvangen en hiervan pas op de hoogte is geraakt"
+  },
+  {
+   "zin": "De gemeente zei dat de naheffing op 13 mei 2021 via MijnOverheid was bekendgemaakt.",
+   "bron": [
+    25
+   ],
+   "citaat": "is de naheffingsaanslag op 13 mei 2021 via MijnOverheid aan eiseres bekend gemaakt"
+  },
+  {
+   "zin": "Volgens de rechter kon de gemeente met een schermafdruk aantonen dat het bericht was verstuurd.",
+   "bron": [
+    27
+   ],
+   "citaat": "verweerder met de door hem overgelegde verzendadministratie, te weten een schermprint van zijn MijnOverheid-systeem"
+  },
+  {
+   "zin": "De rechter vond dat de parkeerder het vermoeden van ontvangst niet had weerlegd.",
+   "bron": [
+    28
+   ],
+   "citaat": "De enkele ontkenning van de ontvangst is daarvoor onvoldoende"
+  },
+  {
+   "zin": "Omdat het bezwaar te laat was, was het niet-ontvankelijk en de rechter zag geen verschoonbare reden.",
+   "bron": [
+    29
+   ],
+   "citaat": "Een te laat ingediend bezwaar is niet-ontvankelijk, tenzij de termijnoverschrijding verschoonbaar is"
+  },
+  {
+   "zin": "De rechter zag bij de aanmaningskosten geen gevolg van het niet horen, want de uitkomst bleef gelijk.",
+   "bron": [
+    35
+   ],
+   "citaat": "Ook als het gebrek zich niet zou hebben voorgedaan, zou een besluit met gelijke uitkomst zijn genomen"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Naheffing blijft staan; alleen griffierecht en proceskosten bij aanmaningskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet 837 euro aan proceskosten betalen in de zaak over de aanmaningskosten.",
+  "bron": [
+   43
+  ],
+  "citaat": "tot een bedrag van € 837,-"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "De parkeerder had de rekening niet ontvangen, dus het bezwaar was op tijd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de parkeerder geen feiten noemde die de ontvangst in twijfel trokken.",
+    "bron": [
+     28
+    ],
+    "citaat": "Eiseres heeft geen feiten en omstandigheden aangevoerd op grond waarvan aan de ontvangst van de naheffingsaanslag"
+   },
+   "bruikbare_zin": {
+    "citaat": "De enkele ontkenning van de ontvangst is daarvoor onvoldoende",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "Zij was niet gehoord over de aanmaningskosten en het besluit was slecht gemotiveerd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat het motiveringsgebrek geen verschil maakte, omdat de uitkomst gelijk bleef.",
+    "bron": [
+     35
+    ],
+    "citaat": "Ook als het gebrek zich niet zou hebben voorgedaan, zou een besluit met gelijke uitkomst zijn genomen"
+   },
+   "bruikbare_zin": {
+    "citaat": "zou een besluit met gelijke uitkomst zijn genomen",
+    "bron": [
+     35
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bezwaar mag zonder horen worden afgedaan als het bezwaarschrift zelf al laat zien dat het kennelijk ongegrond is.",
+  "type": "regel",
+  "reikwijdte": "Bezwaren waarvan de ongegrondheid uit het bezwaarschrift zelf blijkt",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   34
+  ],
+  "citaat": "kan van horen worden afgezien indien het bezwaar kennelijk ongegrond is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "schermprint van het MijnOverheid-systeem",
+   "verzendadministratie met dagtekening en referentienummer",
+   "statuscode 'Verwerkt'"
+  ],
+  "wat_gaf_doorslag": "De schermprint met status 'Verwerkt' maakte verzending aannemelijk; de parkeerder noemde geen feiten."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:7 Awb",
+  "art. 3:41 lid 1 Awb",
+  "art. 2:14 lid 1 Awb",
+  "art. 7:3 aanhef onder b Awb",
+  "art. 6:22 Awb",
+  "art. 231 lid 2 onder b Gemeentewet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Motiveer in een bezwaarbesluit waarom er niet is gehoord, want een ontbrekende motivering was hier een gebrek.",
+   "raakt": "bezwaar",
+   "bron": [
+    35
+   ],
+   "citaat": "Verweerder heeft het bestreden besluit 2 in zoverre dan ook niet goed gemotiveerd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een rekening achteraf blijft staan als de gemeente kan aantonen dat die is verstuurd, ook als u die niet heeft gezien. Komt de rekening in uw MijnOverheid-berichtenbox, dan geldt die als ontvangen, tenzij u feiten noemt die dat twijfelachtig maken. Wilt u bezwaar maken, doe dat dan binnen zes weken nadat de rekening is bekendgemaakt en leg uit waarom u de post niet kon ontvangen.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

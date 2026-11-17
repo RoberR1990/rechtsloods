@@ -1,0 +1,151 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2021:1041",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "kentekenhouder (zijn partner parkeerde)",
+  "wederpartij": "gemeente Amstelveen",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De gemeente Amstelveen legde een naheffingsaanslag (een rekening achteraf) op, omdat er nog niet was betaald toen de controleur kwam. De rechtbank vernietigde die; de gemeente ging in hoger beroep bij het gerechtshof Amsterdam.",
+ "titel": "Rekening achteraf vervalt: gemeente betwistte niet dat betalen tijd kostte",
+ "kern": {
+  "zin": "De rechter liet de vernietiging van de naheffing staan, omdat de tijd van het steeds bezig zijn met betalen meetelt en de gemeente dat niet betwistte.",
+  "bron": [
+   30
+  ],
+  "citaat": "moet alle gemoeide tijd met het bij voortduring verrichten van de uitvoeringshandelingen worden gerekend"
+ },
+ "samenvatting": [
+  {
+   "zin": "De partner van de kentekenhouder parkeerde omstreeks half zeven 's avonds in Amstelveen op een plek met betaald parkeren.",
+   "bron": [
+    17
+   ],
+   "citaat": "Deze locatie is aangewezen als een parkeerplaats waar slechts mag worden geparkeerd tegen betaling van parkeerbelasting"
+  },
+  {
+   "zin": "Om 18.35 uur zag een controleur dat niet was betaald, en de kentekenhouder kreeg een naheffingsaanslag; om 18.41 uur werd via de app 16 euro betaald.",
+   "bron": [
+    18
+   ],
+   "citaat": "Tijdens een controle op 8 november 2019 is omstreeks 18:35 uur geconstateerd dat voor de auto geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De kentekenhouder zei dat zijn partner vanaf het parkeren steeds bezig was met betalen.",
+   "bron": [
+    29
+   ],
+   "citaat": "dat zijn partner vanaf het moment van parkeren voortdurend uitvoeringshandelingen heeft verricht"
+  },
+  {
+   "zin": "De gemeente zei dat er niet binnen een redelijke tijd was betaald, gezien de app, de parkeerplek en de parkeerautomaat.",
+   "bron": [
+    28
+   ],
+   "citaat": "niet binnen een redelijke termijn is voldaan en dat de naheffingsaanslag daarom terecht is opgelegd"
+  },
+  {
+   "zin": "Op de zitting zei de gemeente dat zij die stelling van de kentekenhouder niet betwist.",
+   "bron": [
+    29
+   ],
+   "citaat": "Ter zitting heeft de heffingsambtenaar desgevraagd evenwel uitdrukkelijk verklaard de stelling van belanghebbende"
+  },
+  {
+   "zin": "De rechter rekende alle tijd van het steeds bezig zijn met betalen mee, ook als dat zes minuten of langer duurde.",
+   "bron": [
+    30
+   ],
+   "citaat": "zelfs nu dit zes minuten of zelfs nog langer in beslag heeft genomen"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Hoger beroep van de gemeente ongegrond; naheffing blijft vernietigd.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening achteraf blijft vernietigd; de gemeente betaalt 519 euro griffierecht aan het hof en er is geen vergoeding van proceskosten.",
+  "bron": [
+   38,
+   37,
+   34
+  ],
+  "citaat": "bepaalt dat van de heffingsambtenaar een griffierecht wordt geheven van € 519"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Zijn partner was vanaf het parkeren steeds bezig met betalen, dus er werd binnen redelijke tijd betaald.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De tijd van het steeds bezig zijn met betalen telt mee in de tijd die de parkeerder krijgt.",
+    "bron": [
+     30
+    ],
+    "citaat": "moet alle gemoeide tijd met het bij voortduring verrichten van de uitvoeringshandelingen worden gerekend"
+   },
+   "bruikbare_zin": {
+    "citaat": "alle gemoeide tijd met het bij voortduring verrichten van de uitvoeringshandelingen worden gerekend tot de tijd die moest worden gegund",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Alle tijd waarin de parkeerder voortdurend bezig is met betalen, telt mee in de redelijke tijd om te betalen.",
+  "type": "regel",
+  "reikwijdte": "Gevallen waarin vaststaat dat de parkeerder vanaf het parkeren voortdurend bezig was met betalen.",
+  "uitzondering": "Hier gold dit omdat de gemeente de stelling niet betwistte.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   30
+  ],
+  "citaat": "moet alle gemoeide tijd met het bij voortduring verrichten van de uitvoeringshandelingen worden gerekend"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "gegevens van de parkeerapp (betaald om 18.41 uur)",
+   "registratie van de controle om 18.35 uur",
+   "foto's en kaart van de gemeente"
+  ],
+  "wat_gaf_doorslag": "De gemeente betwistte niet dat de partner steeds bezig was met betalen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:75 Awb",
+  "art. 8:108 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Neem in het verweer een standpunt over de stelling dat de parkeerder steeds bezig was met betalen, want wat u niet betwist geldt als vaststaand",
+   "raakt": "bezwaar",
+   "bron": [
+    29
+   ],
+   "citaat": "Daarom moet van de juistheid van deze stelling worden uitgegaan"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "klantcontact",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Na het parkeren krijgt u een redelijke tijd om te betalen, zolang u meteen begint. In deze zaak telden ongeveer zes minuten mee, omdat de gemeente niet betwistte dat de parkeerder steeds bezig was met betalen. Kreeg u een rekening achteraf, dan kan bezwaar zin hebben als u kunt laten zien dat u meteen met betalen begon, bijvoorbeeld met de gegevens uit de app.",
+ "gemeente": "Amstelveen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

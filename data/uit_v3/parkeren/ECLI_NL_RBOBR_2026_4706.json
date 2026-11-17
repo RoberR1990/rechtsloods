@@ -1,0 +1,42 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOBR:2026:4706",
+ "relevant": true,
+ "onderwerp": "parkeernormen",
+ "sub": "parkeernorm-toets",
+ "kenmerk": null,
+ "zaaktype": "omgevingsrecht",
+ "partijen": {"burger": "eigenaar van het pand", "wederpartij": "gemeente Eindhoven (college)", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "De eigenaar van een voormalige kerk procedeerde bij de rechtbank tegen het college van Eindhoven. Het ging om een vergunning voor een sportschool met fysiotherapie en om een storting van 9.000 euro in het gemeentelijke Mobiliteitsfonds, omdat negen parkeerplaatsen in de openbare ruimte worden opgevangen.",
+ "titel": "Afkoop van negen parkeerplaatsen blijft staan",
+ "kern": {"zin": "Het college mocht de bestaande parkeerbehoefte op nul zetten, omdat het pand meer dan vijf jaar leeg stond, zodat de storting van 9.000 euro blijft staan.", "bron": [52], "citaat": "Het college kon er daarom van uitgaan dat de parkeerbehoefte van het gebouw nihil was"},
+ "samenvatting": [
+  {"zin": "De eigenaar kreeg een vergunning om de kerk te verbouwen tot sportschool met fysiotherapie.", "bron": [11], "citaat": "tot sport- en fitnesscentrum, in combinatie met fysiotherapeutische zorg"},
+  {"zin": "De eigenaar was het oneens met de afkoop van negen parkeerplaatsen in de openbare ruimte.", "bron": [11], "citaat": "voor zover het ziet op de afkoop van 9 parkeerplaatsen"},
+  {"zin": "Het college zei dat het gebouw als ongebruikt gold en daarom geen bestaand parkeertekort meetelde.", "bron": [46], "citaat": "op het standpunt gesteld dat terecht en op goede gronden is uitgegaan van een ongebruikt gebouw"},
+  {"zin": "De rechter vond dat een bestaand tekort vaak buiten beschouwing blijft en dat alleen de toename telt.", "bron": [49], "citaat": "Een eventueel bestaand tekort kan als regel buiten beschouwing worden gelaten"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; het afkoopbedrag van 9.000 euro blijft staan.",
+ "gevolg_betrokkene": {"zin": "De eigenaar moet 9.000 euro storten in het Mobiliteitsfonds en krijgt geen proceskosten vergoed.", "bron": [76, 77], "citaat": "tot het doen van een storting van € 9.000,- in het Mobiliteitsfonds"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "parkeernorm-onvoldoende", "burger_zegt": "Het pand was niet leeg en er had gesaldeerd moeten worden met het gebruik als zendmastlocatie.", "oordeel": "verworpen", "waarom": {"zin": "Het zendmastgebruik was geen gebruik van het gebouw dat voor de parkeerbehoefte telt.", "bron": [52], "citaat": "Dat is echter niet een gebruik van het gebouw dat relevant is voor de parkeerbehoefte"}, "bruikbare_zin": {"citaat": "Het gebouw zelf werd immers niet gebruikt", "bron": [52]}},
+  {"arg": "onevenredig", "burger_zegt": "De verplichting van 9.000 euro is onevenredig, want het gaat om een financieel belang.", "oordeel": "verworpen", "waarom": {"zin": "De rechter vond geen aanwijzing dat de normen onredelijk hoog waren.", "bron": [74], "citaat": "Niet is gebleken dat de normen onredelijk hoog zijn"}, "bruikbare_zin": {"citaat": "Het belang dat eiser stelt is een financieel belang", "bron": [74]}},
+  {"arg": "overig", "burger_zegt": "Het gebouw is een gemeentelijk monument en vraagt om maatwerk bij de parkeereis.", "oordeel": "verworpen", "waarom": {"zin": "De rechter vond geen bijzondere situatie die afwijking van de parkeereis rechtvaardigt.", "bron": [69], "citaat": "Van een dergelijke bijzondere situatie tot afwijking van de parkeereis is niet gebleken"}, "bruikbare_zin": {"citaat": "Van een dergelijke bijzondere situatie tot afwijking van de parkeereis is niet gebleken", "bron": [69]}}
+ ],
+ "rechtsregel": {"zin": "Bij een bouwplan telt alleen de toename van de parkeerbehoefte; een bestaand tekort blijft buiten beschouwing.", "type": "regel", "reikwijdte": "bouwplannen die aan de parkeernormen worden getoetst", "uitzondering": "volgens de parkeernota telt een pand dat meer dan vijf jaar ongebruikt is als nul", "herkomst": "vaste lijn HR-RvS", "bron": [49], "citaat": "Een eventueel bestaand tekort kan als regel buiten beschouwing worden gelaten"},
+ "bewijs": {"bewijslast_bij": "burger", "bewijsmiddelen": ["Cultuurhistorisch onderzoek uit 2018"], "wat_gaf_doorslag": "Het onderzoek liet zien dat de kerk al lang niet meer als kerk werd gebruikt, en de eigenaar kon dat niet weerleggen."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "bevestigt", "eerdere": []},
+ "wetsartikelen": ["art. 3:4 lid 2 Awb", "art. 7:11 lid 1 Awb", "art. 11.5.2 onder b planregels bestemmingsplan Woensel-Noord 2021"],
+ "actie_gemeente": [{"actie": "Houd de vijfjaarsgrens voor leegstand in de parkeernota vast, want die gaf hier duidelijkheid.", "raakt": "verordening-beleid", "bron": [51], "citaat": "Met de parkeernota geeft het college duidelijkheid over de termijn waarna leegstand naar zijn mening wel relevant is"}],
+ "reden_leeg_actie": null,
+ "raakt": ["verordening-beleid", "vergunningen", "bezwaar"],
+ "klantuitleg": "Als een nieuw gebruik meer parkeerplaatsen nodig heeft, kan de gemeente een bijdrage in het mobiliteitsfonds vragen voor de plekken die op straat moeten worden opgevangen. Of dat terecht is, hangt af van hoe lang het pand al niet gebruikt werd; de rechter vond vijf jaar leegstand genoeg om de oude behoefte op nul te zetten. Wilt u dit betwisten, dan helpt bewijs dat het pand wel degelijk in gebruik was; zonder dat bewijs is de kans klein.",
+ "gemeente": "Eindhoven",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

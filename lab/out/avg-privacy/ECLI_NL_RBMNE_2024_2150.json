@@ -1,0 +1,181 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2024:2150",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "gelakt",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "Minister van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "De burger vroeg de Minister van Financiën om inzage in zijn gegevens in de Fraude Signaleringsvoorziening (FSV), een systeem om fraude te signaleren. De rechtbank Midden-Nederland behandelde zijn beroep tegen de gedeeltelijke weigering.",
+ "titel": "Minister moet opnieuw beslissen over inzage in fraudesysteem",
+ "kern": {
+  "zin": "De rechtbank verklaart het beroep gegrond en vernietigt het besluit, omdat het besluit niet zorgvuldig en niet goed genoeg gemotiveerd was.",
+  "bron": [
+   33
+  ],
+  "citaat": "het beroep gegrond omdat het bestreden besluit in strijd is met het zorgvuldigheids- en motiveringsbeginsel"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de minister om een overzicht van al zijn persoonsgegevens in de FSV.",
+   "bron": [
+    20
+   ],
+   "citaat": "een overzicht ontvangen van al zijn persoonsgegevens die in de FSV zijn verwerkt"
+  },
+  {
+   "zin": "De burger vond dat de minister hem niet alle gegevens had gegeven.",
+   "bron": [
+    22
+   ],
+   "citaat": "de minister hem ten onrechte geen inzage heeft gegeven in alle persoonsgegevens"
+  },
+  {
+   "zin": "De minister zei dat er ook belangen van anderen waren die zich tegen inzage verzetten.",
+   "bron": [
+    21
+   ],
+   "citaat": "Dit omdat er ook belangen van derden spelen."
+  },
+  {
+   "zin": "De rechtbank oordeelde dat het besluit onvolledig was, omdat daarin niet stond dat er e-mails met gegevens van de burger waren.",
+   "bron": [
+    28
+   ],
+   "citaat": "er in de beslissing op bezwaar geen melding wordt gemaakt van deze e-mails"
+  },
+  {
+   "zin": "De rechtbank vond ook dat de minister de weigering op een van de gronden niet had uitgelegd.",
+   "bron": [
+    31
+   ],
+   "citaat": "de minister heeft op geen enkele wijze inzicht gegeven in de belangen die aan zijn zijde spelen"
+  },
+  {
+   "zin": "De minister moet daarom binnen zes weken een nieuw besluit nemen over de inzage.",
+   "bron": [
+    40
+   ],
+   "citaat": "binnen zes weken na de dag van verzending van deze uitspraak een nieuw besluit te nemen"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Besluit vernietigd; de minister moet opnieuw beslissen over de inzage.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt nog geen volledige inzage; de minister moet binnen zes weken een nieuw besluit nemen en moet het griffierecht van € 184,- en € 1.750,- aan proceskosten betalen.",
+  "bron": [
+   34,
+   35
+  ],
+  "citaat": "de minister een nieuw besluit moet nemen met inachtneming van deze uitspraak"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "De burger vond dat hij niet alle gegevens had gekregen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank vond het besluit op dit punt onvolledig.",
+    "bron": [
+     28
+    ],
+    "citaat": "het bestreden besluit in zoverre onvolledig is"
+   },
+   "bruikbare_zin": {
+    "citaat": "het bestreden besluit in zoverre onvolledig is",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "motivering",
+   "burger_zegt": "De burger vond dat de minister de weigering onvoldoende had uitgelegd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank vond de weigering op dit punt niet goed genoeg uitgelegd.",
+    "bron": [
+     31
+    ],
+    "citaat": "Het besluit is in zoverre gebrekkig gemotiveerd."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het besluit is in zoverre gebrekkig gemotiveerd.",
+    "bron": [
+     31
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een beroep op een uitzonderingsgrond bij een inzageverzoek moet gemotiveerd worden.",
+  "type": "regel",
+  "reikwijdte": "Bij een weigering van inzage op grond van een uitzonderingsgrond in de UAVG.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   30
+  ],
+  "citaat": "Een beroep op een uitzonderingsgrond moet dus gemotiveerd worden."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "print-screen van de FSV",
+   "e-mailberichten",
+   "overzicht van persoonsgegevens"
+  ],
+  "wat_gaf_doorslag": "De rechtbank vond de motivering van de h-grond te algemeen."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 15 AVG",
+  "art. 15 lid 3 AVG",
+  "art. 23 lid 1 onder i AVG",
+  "art. 41 lid 1 onder i UAVG",
+  "art. 41 lid 1 onder h UAVG",
+  "art. 8:29 Awb",
+  "art. 8:72 lid 4 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Verstrek bij een inzageverzoek ook informatie over de inhoud en context van e-mails.",
+   "raakt": "privacy-fg",
+   "bron": [
+    34
+   ],
+   "citaat": "meer informatie moet worden verstrekt over de inhoud, de strekking of de context van een e-mail"
+  },
+  {
+   "actie": "Motiveer een weigering met de belangenafweging en deel die desnoods vertrouwelijk met de rechter.",
+   "raakt": "bezwaar",
+   "bron": [
+    31
+   ],
+   "citaat": "die motivering (al dan niet onder geheimhouding) met de rechtbank te delen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "fraude-handhaving",
+  "datateam-algoritmes"
+ ],
+ "klantuitleg": "U heeft recht om te zien welke gegevens een organisatie over u heeft. Die organisatie moet een volledig overzicht geven, ook van e-mails met uw gegevens, en een weigering goed uitleggen. Krijgt u dat niet, dan kunt u bezwaar maken en naar de rechter gaan.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente; de Minister van Financiën is partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

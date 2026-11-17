@@ -1,0 +1,42 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:10688",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "particulier, parkeerder", "wederpartij": "gemeente Breda", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder betaalde in Breda voor een goedkopere zone dan waar haar auto stond. Zij ging in beroep bij de rechtbank Zeeland-West-Brabant tegen de naheffingsaanslag.",
+ "titel": "Verkeerde parkeerzone gekozen: naheffing blijft staan",
+ "kern": {"zin": "Te weinig betaald is genoeg voor een naheffing, ook al was de bedoeling wel om te betalen.", "bron": [22, 23], "citaat": "Het enkele feit dat te weinig parkeerbelasting is betaald, is voldoende om tot oplegging van een naheffingsaanslag"},
+ "samenvatting": [
+  {"zin": "Bij een controle op de Beyerd in Breda bleek dat er geen parkeerbelasting was betaald.", "bron": [16], "citaat": "Tijdens een controle op voornoemde datum en tijdstip is geconstateerd dat geen parkeerbelasting was voldaan"},
+  {"zin": "Zij zegt dat zij bij het starten van de parkeeractie per abuis de verkeerde zone koos in de parkeerapp.", "bron": [20], "citaat": "zij per abuis bij het starten van de parkeeractie in een parkeerapplicatie de verkeerde zone heeft geselecteerd"},
+  {"zin": "De rechter stelde vast dat het tarief op de Beyerd hoger ligt dan het tarief van de zone die zij koos.", "bron": [21, 22], "citaat": "het parkeertarief op de parkeerplaats in zone 21806 (parkeerterrein Beyerd) € 2,30 per uur bedraagt"},
+  {"zin": "De rechter zei dat de goede bedoeling niets verandert, omdat parkeerbelasting geen boete is.", "bron": [23], "citaat": "De rechtbank overweegt dat de parkeerbelasting geen boete is"},
+  {"zin": "De naheffing blijft staan, en zij krijgt geen proceskosten terug.", "bron": [26], "citaat": "Dat betekent dat de naheffingsaanslag gehandhaafd blijft"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan",
+ "gevolg_betrokkene": {"zin": "De naheffing blijft staan, en zij krijgt geen proceskosten terug.", "bron": [26], "citaat": "Zij krijgt ook geen vergoeding van haar proceskosten"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "wel-betaald-fout-zone-kenteken", "burger_zegt": "Zij heeft wel betaald, maar voor de verkeerde zone. Zij wil het verschil bijbetalen in plaats van een naheffing.", "oordeel": "verworpen", "waarom": {"zin": "Bijbetalen van het verschil haalt de naheffing niet weg, want de kosten van de naheffing worden daarmee niet gedekt.", "bron": [23], "citaat": "kan deze kosten dan ook niet dekken"}, "bruikbare_zin": {"citaat": "Het enkele feit dat te weinig parkeerbelasting is betaald, is voldoende", "bron": [22]}},
+  {"arg": "overig", "burger_zegt": "Zij had de bedoeling om de juiste parkeerbelasting te betalen.", "oordeel": "verworpen", "waarom": {"zin": "De rechter vond dat de bedoeling niet telt, omdat parkeerbelasting een objectieve belasting is.", "bron": [23], "citaat": "Het is een objectieve belasting, waarbij opzet, schuld of intentie geen rol spelen"}, "bruikbare_zin": {"citaat": "Het is een objectieve belasting, waarbij opzet, schuld of intentie geen rol spelen", "bron": [23]}}
+ ],
+ "rechtsregel": {"zin": "Parkeerbelasting is een objectieve belasting; opzet, schuld of goede bedoelingen spelen geen rol.", "type": "regel", "reikwijdte": "naheffingsaanslagen parkeerbelasting, ook bij een vergissing", "uitzondering": null, "herkomst": "oordeel rechter", "bron": [23], "citaat": "Het is een objectieve belasting, waarbij opzet, schuld of intentie geen rol spelen"},
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": [], "wat_gaf_doorslag": null},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "uitspraak bevestigt bestaande lijn; geen aanvullende actie voor de gemeente",
+ "raakt": ["bezwaar", "klantcontact", "betaalapp"],
+ "klantuitleg": "Kiest u bij het betalen de verkeerde zone, dan bent u parkeerbelasting verschuldigd voor de zone waar u stond. Bijbetalen van het verschil haalt de naheffing niet weg. Een bezwaar heeft op dit punt weinig kans, dus controleer de zone en het kenteken voordat u betaalt.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

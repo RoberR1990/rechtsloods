@@ -1,0 +1,346 @@
+{
+ "snelheid": {
+  "label": "Te hard rijden",
+  "rechtsgang": "Wahv: officier van justitie (CJIB) → kantonrechter (rechtbank) → hof Arnhem-Leeuwarden (alleen bij hoger bedrag) → Hoge Raad (in het belang der wet)",
+  "anker": "Wahv bijlage (OM-feitcodes snelheid) en RVV 1990 (maximumsnelheid)",
+  "kleur": "#B5482F",
+  "concept": true,
+  "sub": {
+   "bebouwde-kom": {
+    "label": "Te hard binnen de bebouwde kom",
+    "anker": "RVV 1990, maximumsnelheid",
+    "kenmerk": {
+     "wegwerkzaamheden": "Bij wegwerkzaamheden",
+     "30-km-zone": "30 km-zone / erf"
+    }
+   },
+   "buiten-bebouwde-kom": {
+    "label": "Te hard buiten de bebouwde kom en op autowegen",
+    "anker": "RVV 1990, maximumsnelheid",
+    "kenmerk": {
+     "autosnelweg": "Autosnelweg",
+     "tijdgebonden-maximum": "Maximum alleen op bepaalde uren"
+    }
+   },
+   "trajectcontrole": {
+    "label": "Trajectcontrole",
+    "anker": "Wahv; RVV 1990",
+    "kenmerk": {
+     "begin-eind-traject": "Begin en einde van het traject",
+     "privacy": "Privacy (art. 8 EVRM)"
+    }
+   },
+   "meetmethode": {
+    "label": "Hoe is de snelheid gemeten?",
+    "anker": "Wahv; ijkregels meetapparatuur",
+    "kenmerk": {
+     "laser": "Lasermeting",
+     "flitspaal-radar": "Flitspaal of radar",
+     "boordsnelheidsmeter": "Snelheidsmeter in politieauto",
+     "ijking-nmi": "IJking en keuring (NMI)",
+     "foutmarge": "Foutmarge en correctie"
+    }
+   },
+   "bebording-snelheid": {
+    "label": "Zijn de borden duidelijk? (snelheid)",
+    "anker": "RVV 1990, verkeersborden (kenbaarheid)"
+   },
+   "bijzondere-voertuigen": {
+    "label": "Snelheid van bijzondere voertuigen (trekker, scooter, aanhanger)",
+    "anker": "RVV 1990 / Wegenverkeerswet 1994"
+   }
+  }
+ },
+ "verkeersgedrag": {
+  "label": "Verkeersregels op de weg",
+  "rechtsgang": "Wahv: officier van justitie (CJIB) → kantonrechter (rechtbank) → hof Arnhem-Leeuwarden (alleen bij hoger bedrag) → Hoge Raad (in het belang der wet)",
+  "anker": "Wahv bijlage (OM-feitcodes verkeersgedrag) en RVV 1990",
+  "kleur": "#2F6F8F",
+  "concept": true,
+  "sub": {
+   "rood-licht": {
+    "label": "Door rood licht rijden",
+    "anker": "RVV 1990, verkeerslichten",
+    "kenmerk": {
+     "flitspaal-meting": "Gemeten door flitspaal",
+     "foto-filmnummer": "Foto- en filmnummers kloppen niet",
+     "spoorwegovergang": "Rood knipperlicht bij spoorwegovergang",
+     "verkeerslicht-storing": "Storing of afstelling van het verkeerslicht"
+    }
+   },
+   "voorrang": {
+    "label": "Voorrang niet verleend",
+    "anker": "RVV 1990, voorrangsregels",
+    "kenmerk": {
+     "kruispunt": "Kruispunt",
+     "uitrit-invoegen": "Uitrit of invoegen",
+     "rijstrook-wisselen": "Van rijstrook wisselen",
+     "voorrangsvoertuig": "Voorrangsvoertuig / noodsituatie"
+    }
+   },
+   "inhalen": {
+    "label": "Inhalen en rechts inhalen",
+    "anker": "RVV 1990, inhalen",
+    "kenmerk": {
+     "rechts-inhalen": "Rechts inhalen",
+     "inhaalverbod": "Inhaalverbod (bord)",
+     "file": "Inhalen in file"
+    }
+   },
+   "richting-rijstrook": {
+    "label": "Richting, voorsorteren en rijstrook",
+    "anker": "RVV 1990",
+    "kenmerk": {
+     "voorsorteerstrook": "Voorsorteerstrook",
+     "rotonde": "Rotonde",
+     "richting-aangeven": "Richting niet aangegeven",
+     "uitrijstrook": "Uitrijstrook of invoegstrook"
+    }
+   },
+   "afstand-houden": {
+    "label": "Te weinig afstand houden",
+    "anker": "RVV 1990"
+   },
+   "geslotenverklaring": {
+    "label": "Verboden toegang (geslotenverklaring, binnenstad, milieuzone)",
+    "anker": "RVV 1990, verkeersborden C-reeks",
+    "kenmerk": {
+     "camerahandhaving": "Handhaving met camera",
+     "schouw-borden": "Schouw en bebording",
+     "bevoegdheid-boa": "Bevoegdheid van de handhaver (boa)",
+     "ontheffing-geslotenverklaring": "Ontheffing"
+    }
+   },
+   "fiets-snorfiets": {
+    "label": "Fiets, snorfiets en brommer",
+    "anker": "RVV 1990",
+    "kenmerk": {
+     "fietspad": "Fietspad (verplicht of niet)",
+     "snorfiets-rijbaan": "Snorfiets op rijbaan of fietspad"
+    }
+   },
+   "stilstaan-gevaar": {
+    "label": "Stilstaan, hinder en gevaar op de weg",
+    "anker": "Wegenverkeerswet 1994 / RVV 1990"
+   }
+  }
+ },
+ "veiligheid-gebruik": {
+  "label": "Veiligheid en gebruik van het voertuig",
+  "rechtsgang": "Wahv: officier van justitie (CJIB) → kantonrechter (rechtbank) → hof Arnhem-Leeuwarden (alleen bij hoger bedrag) → Hoge Raad (in het belang der wet)",
+  "anker": "Wahv bijlage (OM-feitcodes) en RVV 1990 / Reglement voertuigen",
+  "kleur": "#6B7F3A",
+  "concept": true,
+  "sub": {
+   "mobiele-telefoon": {
+    "label": "Telefoon of ander apparaat vasthouden",
+    "anker": "RVV 1990, mobiel elektronisch apparaat",
+    "kenmerk": {
+     "vasthouden-definitie": "Wat is vasthouden?",
+     "handsfree": "Handsfree of houder",
+     "fiets": "Op de fiets",
+     "pasje-ander-voorwerp": "Was het wel een telefoon?"
+    }
+   },
+   "gordel": {
+    "label": "Autogordel niet gedragen",
+    "anker": "RVV 1990, autogordel",
+    "kenmerk": {
+     "medische-reden": "Medische reden of vrijstelling",
+     "feitcode-wijzigen": "Verkeerde feitcode"
+    }
+   },
+   "helm": {
+    "label": "Helm niet of niet goed gedragen",
+    "anker": "RVV 1990, helmplicht"
+   },
+   "lading": {
+    "label": "Lading en uitstekende delen",
+    "anker": "RVV 1990 / Reglement voertuigen"
+   },
+   "verlichting-signalen": {
+    "label": "Verlichting en signalen (groot licht, knipperen, claxon)",
+    "anker": "Reglement voertuigen / RVV 1990"
+   },
+   "geluid-uitlaat": {
+    "label": "Onnodig geluid maken",
+    "anker": "RVV 1990"
+   }
+  }
+ },
+ "voertuig-kenteken": {
+  "label": "Voertuig, kenteken, APK en verzekering",
+  "rechtsgang": "Wahv: officier van justitie (CJIB) → kantonrechter (rechtbank) → hof Arnhem-Leeuwarden (alleen bij hoger bedrag) → Hoge Raad (in het belang der wet)",
+  "anker": "Wahv bijlage (OM-feitcodes voertuig); Wegenverkeerswet 1994; WAM",
+  "kleur": "#7A4F8F",
+  "concept": true,
+  "sub": {
+   "apk": {
+    "label": "APK verlopen of niet gekeurd",
+    "anker": "Wegenverkeerswet 1994, keuringsplicht",
+    "kenmerk": {
+     "gestolen-verkocht": "Voertuig gestolen of verkocht",
+     "keuringsbewijs": "Keuringsbewijs ontbreekt"
+    }
+   },
+   "wam-verzekering": {
+    "label": "Geen aansprakelijkheidsverzekering (WAM)",
+    "anker": "Wet aansprakelijkheidsverzekering motorrijtuigen",
+    "kenmerk": {
+     "rdw-register": "Gegevens RDW / verzekeraar",
+     "schorsing": "Schorsing of opzegging"
+    }
+   },
+   "kenteken": {
+    "label": "Kenteken en kentekenbewijs",
+    "anker": "Wegenverkeerswet 1994 / Kentekenreglement",
+    "kenmerk": {
+     "tenaamstelling": "Tenaamstelling niet bijgewerkt",
+     "plaat-ontbreekt": "Kentekenplaat ontbreekt of onleesbaar"
+    }
+   },
+   "gewicht-afmetingen": {
+    "label": "Gewicht, afmetingen en aanhanger",
+    "anker": "Reglement voertuigen",
+    "kenmerk": {
+     "maximumlast-aanhanger": "Maximumlast met aanhangwagen"
+    }
+   },
+   "ontheffing-vergunning": {
+    "label": "Ontheffing, vrijstelling of speciale kaart",
+    "anker": "RVV 1990 / ontheffingsvoorwaarden",
+    "kenmerk": {
+     "kenteken-niet-doorgegeven": "Kenteken niet (tijdig) doorgegeven",
+     "kaart-niet-zichtbaar": "Kaart niet zichtbaar"
+    }
+   }
+  }
+ },
+ "bewijs-en-aansprakelijkheid": {
+  "label": "Bewijs en wie moet betalen",
+  "rechtsgang": "Wahv: officier van justitie (CJIB) → kantonrechter (rechtbank) → hof Arnhem-Leeuwarden (alleen bij hoger bedrag) → Hoge Raad (in het belang der wet)",
+  "anker": "Wahv art. 3, 5, 8, 9 (en Awb voor bewijs en motivering)",
+  "kleur": "#B07A1E",
+  "concept": true,
+  "sub": {
+   "bewijs-foto-video": {
+    "label": "Bewijs: foto's, video en zaakoverzicht",
+    "anker": "Wahv art. 3; Awb",
+    "kenmerk": {
+     "foto-te-donker": "Foto te donker of onduidelijk",
+     "foto-ontbreekt": "Foto of beeld ontbreekt in dossier",
+     "scanauto-camera": "Scanauto of cameraopname",
+     "individualiseerbaar": "Gedraging goed te herkennen (plaats, tijd)"
+    }
+   },
+   "verklaring-ambtenaar": {
+    "label": "Verklaring van de agent of handhaver",
+    "anker": "Wahv art. 3; Awb",
+    "kenmerk": {
+     "tegenstrijdig": "Tegenstrijdig of te summier",
+     "aanvullend-verklaring": "Aanvullende verklaring"
+    }
+   },
+   "staandehouding": {
+    "label": "Niet staande gehouden",
+    "anker": "Wahv art. 5",
+    "kenmerk": {
+     "geen-reele-mogelijkheid": "Geen reële mogelijkheid tot staandehouden",
+     "heimelijke-observatie": "Heimelijke observatie",
+     "laser-controle": "Bij lasercontrole"
+    }
+   },
+   "kentekenhouder-bestuurder": {
+    "label": "Kentekenhouder of bestuurder?",
+    "anker": "Wahv art. 5 en 8",
+    "kenmerk": {
+     "wie-reed": "Wie was de bestuurder?",
+     "verhuur-lease": "Verhuur of lease",
+     "vof-bedrijf": "Bedrijf of vennootschap",
+     "gestolen-voertuig": "Voertuig gestolen"
+    }
+   },
+   "bevoegdheid-handhaver": {
+    "label": "Mocht de handhaver dit vaststellen? (boa, marechaussee)",
+    "anker": "Wahv; Awb 6:22"
+   },
+   "overmacht-schuld": {
+    "label": "Overmacht, noodsituatie en afwezigheid van alle schuld (AVAS)",
+    "anker": "Wahv art. 9 (billijkheid) en art. 5:41 Awb"
+   },
+   "hoogte-evenredigheid": {
+    "label": "Hoogte van de boete en matiging",
+    "anker": "Wahv art. 9",
+    "kenmerk": {
+     "tariefwijziging": "Nieuw tarief na de gedraging",
+     "evenredigheid": "Evenredigheidsbeginsel",
+     "redelijke-termijn": "Redelijke termijn overschreden"
+    }
+   }
+  }
+ },
+ "procedure-beroep": {
+  "label": "Bezwaar, beroep en procedure",
+  "rechtsgang": "Wahv: officier van justitie (CJIB) → kantonrechter (rechtbank) → hof Arnhem-Leeuwarden (alleen bij hoger bedrag) → Hoge Raad (in het belang der wet)",
+  "anker": "Wahv art. 9, 11, 13a, 14 en Awb",
+  "kleur": "#3F6B5B",
+  "concept": true,
+  "sub": {
+   "termijn-tijdigheid": {
+    "label": "Te laat bezwaar of beroep",
+    "anker": "Wahv art. 9 en 11; Awb 6:9, 6:11",
+    "kenmerk": {
+     "verschoonbaar": "Verschoonbaar te laat",
+     "verkeerde-instantie": "Bij de verkeerde instantie ingediend",
+     "buitenland": "Betrokkene woont in het buitenland"
+    }
+   },
+   "machtiging": {
+    "label": "Machtiging van de gemachtigde",
+    "anker": "Wahv art. 9",
+    "kenmerk": {
+     "tussenmachtiging": "Tussenmachtiging",
+     "leasebrieven": "Machtiging via leasemaatschappij"
+    }
+   },
+   "hoorplicht": {
+    "label": "Horen door de officier van justitie",
+    "anker": "Wahv art. 9",
+    "kenmerk": {
+     "gemotiveerd-niet-gehoord": "Niet of verkeerd gehoord",
+     "matiging-hoorplicht": "Matiging bij schending"
+    }
+   },
+   "informatieplicht-dossier": {
+    "label": "Recht op de stukken (dossier)",
+    "anker": "Wahv art. 11 lid 5"
+   },
+   "ontvankelijkheid-gronden": {
+    "label": "Geen of onvoldoende beroepsgronden",
+    "anker": "Awb 6:5 en 6:6"
+   },
+   "appelverbod": {
+    "label": "Hoger beroep bij het hof (appelverbod)",
+    "anker": "Wahv art. 14",
+    "kenmerk": {
+     "doorbreking": "Doorbreking van het appelverbod",
+     "hoor-wederhoor": "Hoor en wederhoor"
+    }
+   },
+   "proceskosten": {
+    "label": "Proceskostenvergoeding",
+    "anker": "Wahv art. 13a; Besluit proceskosten bestuursrecht",
+    "kenmerk": {
+     "samenhangende-zaken": "Samenhangende zaken",
+     "wegingsfactor": "Wegingsfactor",
+     "zitting-punt": "Punt voor zitting",
+     "feitcode-gewijzigd": "Feitcode gewijzigd"
+    }
+   },
+   "dwangsom-dwangbevel": {
+    "label": "Zekerheid stellen, dwangsom, dwangbevel en gijzeling",
+    "anker": "Wahv; Awb 4:17; invordering"
+   }
+  }
+ }
+}

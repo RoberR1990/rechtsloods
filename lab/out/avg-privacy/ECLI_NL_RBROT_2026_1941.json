@@ -1,0 +1,172 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2026:1941",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "zoekslag",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger (moeder, vraagt inzage in het dossier van haar zoon)",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een moeder vraagt de gemeente Rotterdam om inzage in de persoonsgegevens van haar zoon uit de jaren 2008 tot 2011. Zij gaat in beroep bij de rechtbank Rotterdam tegen de besluiten van de gemeente.",
+ "titel": "Zoektocht te laat uitgelegd; burger krijgt €500 voor lange duur",
+ "kern": {
+  "zin": "De rechtbank vindt de besluiten onzorgvuldig en onvoldoende gemotiveerd, omdat de gemeente pas in beroep verder zocht en uitlegde hoe en waar zij zocht; de inzage blijft wel toegewezen.",
+  "bron": [
+   38
+  ],
+  "citaat": "bevatten de bestreden besluiten (van 3 april 2024 en 16 april 2024) een motiverings- en zorgvuldigheidsgebrek"
+ },
+ "samenvatting": [
+  {
+   "zin": "De moeder vroeg in 2023 om inzage in het dossier van haar zoon over zijn opvang in de jaren 2008 tot 2011.",
+   "bron": [
+    19
+   ],
+   "citaat": "inzage in het dossier van haar zoon"
+  },
+  {
+   "zin": "De gemeente trok het eerste besluit in, gaf een overzicht van de verwerkte persoonsgegevens en stuurde later het dossier.",
+   "bron": [
+    19
+   ],
+   "citaat": "Het college heeft in een bijlage bij deze brief een overzicht opgenomen van de verwerkte persoonsgegevens"
+  },
+  {
+   "zin": "De moeder zei dat de gemeente meer stukken heeft dan zij kreeg, zoals een lijst met behandelaars en een brief over reiskosten.",
+   "bron": [
+    25
+   ],
+   "citaat": "Eiseres voert aan dat het college over meer stukken beschikt dan zij heeft ontvangen"
+  },
+  {
+   "zin": "De gemeente zei dat zij had gezocht op de naam, geboortedatum en BSN van de zoon en dat die twee stukken daardoor niet boven kwamen.",
+   "bron": [
+    30
+   ],
+   "citaat": "is gezocht op gegevens die direct te koppelen zijn aan [persoon A] , zoals zijn naam, geboortedatum en BSN"
+  },
+  {
+   "zin": "De rechtbank vindt dat de moeder niet aannemelijk heeft gemaakt dat het overzicht onvolledig is, nadat de gemeente tijdens het beroep extra heeft gezocht.",
+   "bron": [
+    36
+   ],
+   "citaat": "heeft eiseres niet aannemelijk gemaakt dat dit overzicht niet compleet is"
+  },
+  {
+   "zin": "Omdat de gemeente pas in beroep extra stukken gaf en de zoektocht uitlegde, vernietigt de rechtbank de besluiten, maar de gevolgen blijven in stand.",
+   "bron": [
+    39
+   ],
+   "citaat": "De rechtbank zal deze besluiten vernietigen, maar laat de rechtsgevolgen in stand"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Inzage blijft toegewezen; alleen griffierecht en €500 schade om lange duur",
+ "gevolg_betrokkene": {
+  "zin": "De moeder houdt de inzage die zij al kreeg, plus wat in beroep is toegevoegd; de gemeente betaalt € 187 griffierecht en € 500 schadevergoeding en andere proceskosten zijn er niet.",
+  "bron": [
+   39,
+   40,
+   51,
+   52
+  ],
+  "citaat": "haar inzageverzoek blijft toegewezen, met inbegrip van wat het college in beroep heeft toegevoegd aan nadere informatie"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "De gemeente heeft meer stukken dan zij gaf, zoals een lijst met behandelaars en een brief over reiskosten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De moeder maakte niet aannemelijk dat het overzicht onvolledig is of dat de gemeente meer had moeten geven.",
+    "bron": [
+     36
+    ],
+    "citaat": "heeft eiseres niet aannemelijk gemaakt dat dit overzicht niet compleet is"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het college heeft met de toelichting op zitting aannemelijk gemaakt dat deze stukken niet naar boven zijn gekomen bij de inventarisatie van verwerkte persoonsgegevens",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "Er is niet goed genoeg gezocht en niet duidelijk uitgelegd waar is gezocht.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Pas in beroep is extra gezocht en uitgelegd hoe en waar is gezocht; daarom was het besluit onzorgvuldig en onvoldoende gemotiveerd.",
+    "bron": [
+     38
+    ],
+    "citaat": "een aanvullende motivering is gegeven over de hoe en waar is gezocht naar persoonsgegevens"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het bestuursorgaan moet inzichtelijk maken dat voldoende zorgvuldig onderzoek is gedaan.",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Zegt de gemeente dat een document niet (meer) bij haar is en klinkt dat niet ongeloofwaardig, dan moet de burger aannemelijk maken dat het er toch is; de gemeente moet laten zien dat zij zorgvuldig heeft gezocht.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om stukken of persoonsgegevens waarvan het bestuursorgaan zegt dat die er niet zijn",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "Het bestuursorgaan moet inzichtelijk maken dat voldoende zorgvuldig onderzoek is gedaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "toelichting van de gemeente op de zitting",
+   "uitleg over de zoekslag in de systemen",
+   "stukken die de moeder zelf had"
+  ],
+  "wat_gaf_doorslag": "De gemeente legde pas in beroep uit hoe zij had gezocht en gaf toen extra stukken."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 15 AVG",
+  "art. 15 lid 3 AVG",
+  "art. 3:2 Awb",
+  "art. 3:46 Awb",
+  "art. 5.3.2 Wmo"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg al in het besluit uit waar en hoe u hebt gezocht naar persoonsgegevens, met de afdelingen, systemen en archieven.",
+   "raakt": "privacy-fg",
+   "bron": [
+    38
+   ],
+   "citaat": "een aanvullende motivering is gegeven over de hoe en waar is gezocht naar persoonsgegevens"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "U mag de gemeente vragen welke persoonsgegevens zij van u heeft; zij mag een overzicht geven in plaats van kopieën van alle documenten. De gemeente moet zorgvuldig zoeken en kunnen uitleggen waar en hoe zij heeft gezocht. Mist u stukken, benoem ze dan concreet, want u moet aannemelijk maken dat ze er zijn.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

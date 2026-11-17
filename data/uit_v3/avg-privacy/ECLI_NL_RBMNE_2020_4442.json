@@ -1,0 +1,183 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2020:4442",
+ "relevant": true,
+ "onderwerp": "toezicht-handhaving",
+ "sub": "klacht-ap",
+ "kenmerk": null,
+ "zaaktype": "klacht-handhaving-ap",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "Autoriteit Persoonsgegevens",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Deze zaak gaat over een klacht van een burger bij de Autoriteit Persoonsgegevens over een handelsinformatiebureau. De burger stapte naar de rechtbank Midden-Nederland omdat hij vond dat de AP zijn klacht te laat behandelde.",
+ "titel": "AP is niet te laat met klacht van burger",
+ "kern": {
+  "zin": "De rechtbank vindt dat de AP nog niet te laat is met beslissen op de klacht van de burger.",
+  "bron": [
+   34
+  ],
+  "citaat": "Omdat verweerder nog niet te laat is met beslissen op de klacht van eiser"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger klaagde bij de AP over een handelsinformatiebureau dat zijn persoonsgegevens gebruikte.",
+   "bron": [
+    17
+   ],
+   "citaat": "Eiser heeft een klacht ingediend tegen [naam]"
+  },
+  {
+   "zin": "Hij vond dat de AP zijn klacht binnen acht weken had moeten afhandelen.",
+   "bron": [
+    21
+   ],
+   "citaat": "acht weken na ontvangst daarvan door verweerder had moeten zijn afgehandeld"
+  },
+  {
+   "zin": "De AP zei dat zij binnen drie maanden alleen een bericht over de voortgang hoeft te sturen of de klacht moet afronden.",
+   "bron": [
+    20
+   ],
+   "citaat": "binnen drie maanden in kennis te stellen van de voortgang óf van de afhandeling van zijn klacht"
+  },
+  {
+   "zin": "De rechtbank oordeelde dat de AP genoeg deed: de klacht hoort bij een groot onderzoek met juridisch complexe vragen die landsgrenzen overstijgen.",
+   "bron": [
+    29
+   ],
+   "citaat": "juridisch complexe vragen die landsgrenzen overstijgen"
+  },
+  {
+   "zin": "De rechtbank verklaarde het beroep tegen het besluit over de dwangsom ongegrond.",
+   "bron": [
+    37
+   ],
+   "citaat": "verklaart het beroep tegen het besluit van 16 juli 2020 ongegrond"
+  },
+  {
+   "zin": "De AP hoeft de proceskosten van de burger niet te vergoeden.",
+   "bron": [
+    35
+   ],
+   "citaat": "Daarom hoeft verweerder de proceskosten van eiser niet te vergoeden."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De AP is niet te laat; de beroepen van de burger falen.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen dwangsom.",
+  "bron": [
+   34
+  ],
+  "citaat": "zijn er ook geen dwangsommen verbeurd"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De AP heeft te laat beslist op mijn klacht.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank oordeelt dat de AP niet te laat is met beslissen.",
+    "bron": [
+     34
+    ],
+    "citaat": "Omdat verweerder nog niet te laat is met beslissen op de klacht van eiser"
+   },
+   "bruikbare_zin": {
+    "citaat": "nog niet te laat is met beslissen op de klacht",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De e-mail van 20 maart 2019 was geen voortgangsbericht, maar alleen een verzoek om stukken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vindt dat de e-mail de burger wel op de hoogte bracht van de voortgang.",
+    "bron": [
+     26
+    ],
+    "citaat": "eiser met dit e-mailbericht feitelijk op de hoogte is gesteld van de voortgang"
+   },
+   "bruikbare_zin": {
+    "citaat": "eiser met dit e-mailbericht feitelijk op de hoogte is gesteld van de voortgang",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Mijn klacht is simpel en had los van het grote onderzoek afgehandeld moeten worden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vindt dat de klacht niet los kan worden gezien van het grote onderzoek.",
+    "bron": [
+     31
+    ],
+    "citaat": "de klacht van eiser daarom niet valt af te splitsen van dit onderzoek"
+   },
+   "bruikbare_zin": {
+    "citaat": "de klacht van eiser daarom niet valt af te splitsen van dit onderzoek",
+    "bron": [
+     31
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De AP moet binnen drie maanden een voortgangsbericht sturen of de klacht afronden; daarna geldt een redelijke termijn.",
+  "type": "regel",
+  "reikwijdte": "Klachten bij de AP op grond van artikel 77 AVG.",
+  "uitzondering": "Geen harde einddatum; bij een groot of grensoverschrijdend onderzoek kan de afhandeling langer duren.",
+  "herkomst": "wet",
+  "bron": [
+   24
+  ],
+  "citaat": "eiser binnen drie maanden ófwel een bericht van de voortgang te sturen ófwel zijn klacht geheel af te handelen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "e-mailbericht van 20 maart 2019",
+   "brieven van 5 september en 10 december 2019",
+   "voortgangsbericht van 10 september 2020",
+   "8:29-stukken",
+   "toelichting ter zitting"
+  ],
+  "wat_gaf_doorslag": "Dat de klacht deel uitmaakte van een groot en complex onderzoek naar datahandel over meerdere landen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 77 AVG",
+  "art. 78 AVG",
+  "overweging 141 AVG",
+  "art. 4:13 Awb",
+  "art. 4:14 Awb",
+  "art. 4:17 Awb",
+  "art. 8:29 Awb",
+  "UAVG"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "communicatie"
+ ],
+ "klantuitleg": "Deze zaak gaat over een klacht bij de Autoriteit Persoonsgegevens, niet over inzage bij de gemeente. De AP moet u binnen drie maanden laten weten hoe het gaat of uw klacht afronden; daarna moet de AP u binnen een redelijke termijn blijven informeren. Bij een groot onderzoek dat over meerdere landen gaat, kan dat langer duren; hier vond de rechter de berichten van de AP genoeg, dus u kunt beter wachten tot u echt niets hoort voordat u naar de rechter stapt.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente in de zaak",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

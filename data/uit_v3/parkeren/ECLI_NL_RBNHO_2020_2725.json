@@ -1,0 +1,41 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2020:2725",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "de parkeerder", "wederpartij": "gemeente Zaanstad", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing voor parkeren in Zaandam, terwijl er die avond niet was betaald. Hij ging bij de rechtbank Noord-Holland in beroep tegen de gemeente Zaanstad.",
+ "titel": "Achteraf betalen via de app helpt niet bij parkeren zonder betaling",
+ "kern": {"zin": "De rechter vond dat de parkeerbelasting direct moet worden betaald, dus achteraf betalen helpt niet.", "bron": [21], "citaat": "parkeerbelasting direct na het parkeren van het voertuig moet worden voldaan"},
+ "samenvatting": [
+  {"zin": "Op de parkeerplaats in de Vinkenstraat mag buiten de laad- en lostijden alleen tegen betaling worden geparkeerd.", "bron": [16], "citaat": "waarop buiten deze dagen en uren alleen tegen betaling kan worden geparkeerd"},
+  {"zin": "De parkeerder zei dat hij bezig was met lossen en dat hij voor de zekerheid later via de app had betaald.", "bron": [18], "citaat": "bezig was een doos met spullen naar een nabijgelegen winkel te brengen"},
+  {"zin": "De gemeente stelde dat er op dat moment niet was betaald en dat er ook niet werd gelost.", "bron": [19], "citaat": "geen parkeerbelasting was betaald en op dat moment ook geen laad- en losactiviteiten plaatsvonden"},
+  {"zin": "De rechter oordeelde dat er geen sprake was van lossen en dat er niet was betaald op het moment van de controle.", "bron": [20], "citaat": "leidt de rechtbank af dat op het in 1 vermelde tijdstip geen parkeerbelasting was voldaan"},
+  {"zin": "De betaling via de app kwam te laat, omdat de belasting direct moet worden betaald.", "bron": [21], "citaat": "parkeerbelasting direct na het parkeren van het voertuig moet worden voldaan"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing blijft staan",
+ "gevolg_betrokkene": {"zin": "De naheffing (de rekening achteraf) blijft staan en de parkeerder moet die betalen.", "bron": [22], "citaat": "de naheffingsaanslag terecht is opgelegd en het beroep daarom ongegrond is"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "kort-stilstaan", "burger_zegt": "Hij was aan het lossen en dat mocht zonder betaling.", "oordeel": "verworpen", "waarom": {"zin": "Het naar de winkel brengen van de goederen duurde volgens de rechter niet lang genoeg om als lossen te gelden.", "bron": [20], "citaat": "het naar de winkel brengen van de goederen hooguit tien minuten heeft geduurd, maakt dit niet anders"}, "bruikbare_zin": {"citaat": "geen sprake was van het lossen van goederen in vorenbedoelde zin", "bron": [20]}}
+ ],
+ "rechtsregel": {"zin": "Lossen is het direct nadat het voertuig tot stilstand is gebracht bij voortduring uitladen van goederen van enige omvang of gewicht.", "type": "regel", "reikwijdte": "parkeren waar buiten de laad- en lostijden betaald moet worden", "uitzondering": "lossen zoals omschreven in de uitspraak", "herkomst": "oordeel rechter", "bron": [20], "citaat": "Lossen is het direct nadat het voertuig tot stilstand is gebracht bij voortduring uitladen van goederen"},
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": [], "wat_gaf_doorslag": "Betaling na het moment van de controle telt niet mee."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver feitelijke toetsing van deze zaak; geen nieuw beleid",
+ "raakt": ["klantcontact", "tarief-naheffing"],
+ "klantuitleg": "Heeft u geparkeerd op een plek waar buiten de laad- en lostijden betaald moet worden? Dan moet u de parkeerbelasting direct betalen, ook als u later via de app betaalt. Lossen telt alleen als u direct bezig bent met uitladen, dus houd dat goed bij.",
+ "gemeente": "Zaanstad",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

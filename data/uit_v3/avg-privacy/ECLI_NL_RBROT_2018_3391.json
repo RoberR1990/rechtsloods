@@ -1,0 +1,198 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2018:3391",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "misbruik-herhaald",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "gemeente Dordrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Deze zaak gaat over een verzoek om inzage in persoonsgegevens van een familielid. De burger vroeg de gemeente Dordrecht om die gegevens en ging naar de rechtbank Rotterdam omdat hij vond dat de gemeente te laat besliste.",
+ "titel": "Beroep om inzage niet behandeld door misbruik van recht",
+ "kern": {
+  "zin": "De rechtbank verklaart het beroep niet-ontvankelijk, omdat de burger misbruik van recht maakt.",
+  "bron": [
+   27
+  ],
+  "citaat": "De rechtbank zal daarom het beroep wegens het niet tijdig nemen van een besluit niet-ontvankelijk verklaren."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente Dordrecht om persoonsgegevens van een familielid.",
+   "bron": [
+    25
+   ],
+   "citaat": "een aanvraag heeft gedaan tot verstrekking van persoonsgegevens van [Naam familielid]"
+  },
+  {
+   "zin": "Hij had een machtiging, maar schreef in zijn brieven dat het om zijn eigen aanvraag ging.",
+   "bron": [
+    25
+   ],
+   "citaat": "spreekt eiser over zijn aanvraag en niet over een aanvraag die is gedaan namens [Naam familielid]."
+  },
+  {
+   "zin": "De gemeente stelde de aanvraag buiten behandeling, omdat er geen identiteitsbewijs was gestuurd.",
+   "bron": [
+    26
+   ],
+   "citaat": "verweerder de aanvraag buiten behandeling heeft gesteld, omdat blijkbaar door eiser noch [Naam familielid] gevolg is gegeven"
+  },
+  {
+   "zin": "De rechtbank ziet in het procedeergedrag aanknopingspunten voor misbruik van recht.",
+   "bron": [
+    26
+   ],
+   "citaat": "aanknopingspunten voor het oordeel dat het eiser niet te doen is om verstrekking van gegevens"
+  },
+  {
+   "zin": "Daarom verklaart de rechtbank het beroep niet-ontvankelijk.",
+   "bron": [
+    27
+   ],
+   "citaat": "De rechtbank zal daarom het beroep wegens het niet tijdig nemen van een besluit niet-ontvankelijk verklaren."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De rechtbank behandelt het beroep niet, omdat de burger misbruik van recht maakt.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen nieuwe termijn om het griffierecht te betalen.",
+  "bron": [
+   27
+  ],
+  "citaat": "geen aanleiding eiser een nadere termijn te geven om alsnog het verschuldigde griffierecht te voldoen"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik mag de gegevens van mijn familielid opvragen met een machtiging.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vindt dat de burger in zijn brieven voor zichzelf spreekt, niet voor het familielid.",
+    "bron": [
+     25
+    ],
+    "citaat": "Onder die omstandigheden gaat de rechtbank ervan uit dat eiser namens zichzelf procedeert."
+   },
+   "bruikbare_zin": {
+    "citaat": "Onder die omstandigheden gaat de rechtbank ervan uit dat eiser namens zichzelf procedeert.",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente besliste te laat op mijn verzoek.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechtbank komt niet toe aan de vraag of de gemeente te laat besliste.",
+    "bron": [
+     27
+    ],
+    "citaat": "De rechtbank zal daarom het beroep wegens het niet tijdig nemen van een besluit niet-ontvankelijk verklaren."
+   },
+   "bruikbare_zin": {
+    "citaat": "beroep wegens het niet tijdig nemen van een besluit niet-ontvankelijk verklaren",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik kan het griffierecht niet betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vindt dat de burger geen beroep op betalingsonmacht toekomt door misbruik van recht.",
+    "bron": [
+     15
+    ],
+    "citaat": "Eiser komt namelijk naar het oordeel van de rechtbank geen beroep op betalingsonmacht toe, omdat hij misbruik maakt van recht."
+   },
+   "bruikbare_zin": {
+    "citaat": "geen beroep op betalingsonmacht toe, omdat hij misbruik maakt van recht",
+    "bron": [
+     15
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de bestuursrechter vindt dat een burger misbruik van recht maakt, kan dat een grond zijn om het beroep niet-ontvankelijk te verklaren.",
+  "type": "regel",
+  "reikwijdte": "bij een beroep waarin de burger misbruik van recht maakt",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   16
+  ],
+  "citaat": "Indien de bestuursrechter van oordeel is dat sprake is van misbruik van recht dan vormt dit een grond"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "machtiging van het familielid",
+   "brieven en beroepschrift van de burger",
+   "ingebrekestelling",
+   "brief van de gemeente om een identiteitsbewijs"
+  ],
+  "wat_gaf_doorslag": "De eigen bewoordingen van de burger in zijn brieven en beroepschrift."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2016:2730",
+   "ECLI:NL:RVS:2014:4129",
+   "ECLI:NL:CBB:2017:114",
+   "ECLI:NL:RBROT:2017:6918",
+   "ECLI:NL:RVS:2017:3310"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:41 Awb",
+  "art. 3:13 BW",
+  "art. 3:15 BW",
+  "art. 1:2 Awb",
+  "art. 1:3 Awb",
+  "art. 35 Wbp",
+  "art. 37 lid 2 Wbp",
+  "art. 6:20 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag om een identiteitsbewijs als een verzoek om inzage niet duidelijk van de persoon zelf komt.",
+   "raakt": "privacy-fg",
+   "bron": [
+    26
+   ],
+   "citaat": "om een identiteitsbewijs van [Naam familielid] over te leggen of in te sturen"
+  },
+  {
+   "actie": "Neem een inzageverzoek alleen in behandeling als de persoon om wiens gegevens het gaat het verzoek zelf doet.",
+   "raakt": "klantcontact",
+   "bron": [
+    24
+   ],
+   "citaat": "uitsluitend degene op wie een persoonsgegeven betrekking heeft zich tot de verantwoordelijke kan wenden"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "U hebt recht op inzage in uw eigen persoonsgegevens. Een ander kan dat niet zomaar voor u doen; de gemeente moet zeker weten dat het verzoek echt van u komt en mag daarvoor om een identiteitsbewijs vragen. Doet u het verzoek zelf en werkt u mee, dan voorkomt u vertraging; start geen rechtszaak alleen om kosten te krijgen.",
+ "gemeente": "Dordrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

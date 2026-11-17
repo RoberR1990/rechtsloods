@@ -1,0 +1,189 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBLIM:2025:12175",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wegslepen",
+ "kenmerk": null,
+ "zaaktype": "overig",
+ "partijen": {
+  "burger": "parkeerder (automobilist)",
+  "wederpartij": "gemeente Heerlen",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een automobilist kwam op tegen het wegslepen van zijn auto in Heerlen. Hij procedeerde bij de rechtbank Limburg tegen het college van de gemeente Heerlen.",
+ "titel": "Auto mocht worden weggesleept bij tijdelijk parkeerverbod",
+ "kern": {
+  "zin": "De rechter vindt het verbod duidelijk genoeg, dus de parkeerder krijgt geen gelijk.",
+  "bron": [
+   40
+  ],
+  "citaat": "Er was sprake van een voldoende kenbaar en duidelijk parkeerverbod."
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 28 mei 2024 liet de gemeente de auto van de parkeerder wegslepen.",
+   "bron": [
+    21
+   ],
+   "citaat": "Het college heeft de auto rond 19:30 uur laten wegslepen"
+  },
+  {
+   "zin": "De parkeerder vond dat het verbod niet duidelijk genoeg was en dat wegslepen niet nodig was.",
+   "bron": [
+    23
+   ],
+   "citaat": "het parkeerverbod niet duidelijk was en het wegslepen niet noodzakelijk was"
+  },
+  {
+   "zin": "De gemeente had de plek nodig voor de kermis.",
+   "bron": [
+    21
+   ],
+   "citaat": "omdat de parkeerplaats vanaf 18:00 uur vrij moest zijn en blijven"
+  },
+  {
+   "zin": "De rechter vindt dat het bord op de juiste plek stond en het verbod duidelijk maakte.",
+   "bron": [
+    40
+   ],
+   "citaat": "Met het bord op de juiste en gebruikelijke plek is duidelijk gemaakt"
+  },
+  {
+   "zin": "Ook was het wegslepen volgens de rechter nodig.",
+   "bron": [
+    43
+   ],
+   "citaat": "dat het noodzakelijk was de auto van eiser te laten wegslepen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; parkeerder krijgt geen schadevergoeding",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de wegsleepkosten betalen en krijgt het griffierecht niet terug.",
+  "bron": [
+   54,
+   55
+  ],
+  "citaat": "dat eiser daarvoor kosten verschuldigd was"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Het parkeerverbod was niet zichtbaar en de tekst op het bord was te klein.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat het verbod duidelijk genoeg was.",
+    "bron": [
+     40
+    ],
+    "citaat": "Er was sprake van een voldoende kenbaar en duidelijk parkeerverbod."
+   },
+   "bruikbare_zin": {
+    "citaat": "Met het bord op de juiste en gebruikelijke plek is duidelijk gemaakt",
+    "bron": [
+     40
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Wegslepen was niet nodig, want er was nog genoeg ruimte op de parkeerplaats.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de gemeente redelijk kon oordelen dat wegslepen nodig was.",
+    "bron": [
+     43
+    ],
+    "citaat": "dat het noodzakelijk was de auto van eiser te laten wegslepen"
+   },
+   "bruikbare_zin": {
+    "citaat": "in redelijkheid heeft kunnen oordelen dat het noodzakelijk was",
+    "bron": [
+     43
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder zegt dat hem niets te verwijten valt, dus de wegsleepkosten horen niet bij hem.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ziet geen reden om de kosten niet bij de parkeerder te leggen.",
+    "bron": [
+     49
+    ],
+    "citaat": "ziet geen aanleiding voor het oordeel dat het college"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat van een onduidelijke situatie op de parkeerplaats geen sprake was",
+    "bron": [
+     49
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bestuurder moet zelf nagaan welke regels op de plek gelden.",
+  "type": "regel",
+  "reikwijdte": "parkeerplekken en verkeersborden ter plaatse",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   33
+  ],
+  "citaat": "elke verkeersdeelnemer zich ervan moet vergewissen wat de op die plek geldende verkeersregels zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "foto's van het verkeersbord (door het college overgelegd)"
+  ],
+  "wat_gaf_doorslag": "Het bord stond op de gebruikelijke plek, aan de voorkant van de parkeerplaats."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2017:2514",
+   "ECLI:NL:RVS:2018:770",
+   "ECLI:NL:RVS:2022:3390"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 170 Wegenverkeerswet 1994",
+  "art. 5:25 Awb",
+  "art. 8:88 Awb",
+  "art. 24 Reglement verkeersregels en verkeerstekens 1990"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Plaats borden in beginsel haaks op de wegas, bij de ingang van de parkeerplaats.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    98
+   ],
+   "citaat": "Borden worden in beginsel haaks ten opzichte van de wegas geplaatst."
+  },
+  {
+   "actie": "Zoek vóór het wegslepen na of de bestuurder telefonisch bereikbaar is.",
+   "raakt": "klantcontact",
+   "bron": [
+    43
+   ],
+   "citaat": "Het college heeft voor het wegslepen van de auto nog onderzocht of er een telefoonnummer van eiser bekend was"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een auto mag worden weggesleept als een parkeerverbod duidelijk is aangegeven en wegslepen nodig is. In deze zaak vond de rechter het verbod duidelijk genoeg, dus de parkeerder kreeg geen gelijk. Denkt u dat een bord niet te zien was, dan helpt bewijs daarvan bij bezwaar of beroep.",
+ "gemeente": "Heerlen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

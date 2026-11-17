@@ -1,0 +1,173 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2018:597",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De burger vroeg de gemeente Den Haag om haar geboortedatum in de basisregistratie personen (BRP) te wijzigen. De gemeente stelde de aanvraag buiten behandeling en de Raad van State moest in hoger beroep beslissen of dat mocht.",
+ "titel": "Gemeente mag aanvraag om geboortedatum buiten behandeling stellen",
+ "kern": {
+  "zin": "De Raad van State vindt dat de gemeente Den Haag de aanvraag om de geboortedatum te wijzigen buiten behandeling mocht stellen, omdat de burger niet de gevraagde Iraakse geboorteakte en identiteitskaart gaf.",
+  "bron": [
+   36
+  ],
+  "citaat": "het college de aanvraag van [appellante] buiten behandeling heeft mogen stellen."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente Den Haag in 2014 om haar geboortedatum in de BRP te wijzigen van 00-00-1965 naar 1 januari 1972.",
+   "bron": [
+    19
+   ],
+   "citaat": "Bij brief van 17 december 2014 heeft [appellante] het college verzocht deze geboortedatum te wijzigen in 1 januari 1972."
+  },
+  {
+   "zin": "De burger zei dat zij geen geboorteakte kan geven, omdat zij niet in een ziekenhuis is geboren.",
+   "bron": [
+    23
+   ],
+   "citaat": "zij geen geboorteakte kan overleggen, omdat zij niet in een ziekenhuis is geboren."
+  },
+  {
+   "zin": "De gemeente vond de overgelegde documenten onvoldoende en wilde de Iraakse geboorteakte en identiteitskaart zien.",
+   "bron": [
+    24
+   ],
+   "citaat": "De overgelegde documenten zijn daartoe onvoldoende."
+  },
+  {
+   "zin": "De Raad van State oordeelt dat de gemeente de aanvraag buiten behandeling mocht stellen, omdat de burger niet alle gevraagde documenten gaf.",
+   "bron": [
+    36
+   ],
+   "citaat": "heeft het college [appellante] terecht verzocht om overlegging van dat document."
+  },
+  {
+   "zin": "Het hoger beroep van de burger is ongegrond; de uitspraak van de rechtbank blijft staan en er komt geen proceskostenvergoeding.",
+   "bron": [
+    39,
+    40
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De gemeente mocht de aanvraag buiten behandeling stellen; het hoger beroep is ongegrond.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen vergoeding van proceskosten; de geboortedatum in de BRP blijft 00-00-1965.",
+  "bron": [
+   40,
+   39
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Mijn geboortedatum in de BRP is onjuist; die moet 1 januari 1972 worden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de overgelegde documenten niet genoeg om de aanvraag te beoordelen.",
+    "bron": [
+     36
+    ],
+    "citaat": "die documenten niet voldoende zijn om de aanvraag te beoordelen."
+   },
+   "bruikbare_zin": {
+    "citaat": "die documenten niet voldoende zijn om de aanvraag te beoordelen.",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik kan geen geboorteakte geven, omdat ik niet in een ziekenhuis ben geboren; mijn paspoort en uittreksel zijn genoeg.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente de geboorteakte terecht had gevraagd.",
+    "bron": [
+     36
+    ],
+    "citaat": "heeft het college [appellante] terecht verzocht om overlegging van dat document."
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft het college [appellante] terecht verzocht om overlegging van dat document.",
+    "bron": [
+     36
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een wijziging van een buiten Nederland ontstane geboortedatum in de BRP moet de aanvrager het sterkste document uit de rangorde van artikel 2.8 Wet brp overleggen, als hij dat redelijkerwijs kan.",
+  "type": "regel",
+  "reikwijdte": "Aanvragen om een buitenlandse geboortedatum in de BRP te wijzigen.",
+  "uitzondering": "Als de aanvrager aannemelijk maakt dat hij het sterkere document niet kan overleggen.",
+  "herkomst": "wet",
+  "bron": [
+   36
+  ],
+  "citaat": "gelet op de rangorde in de geschriften in artikel 2.8, tweede lid, van de Wet brp"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "Iraaks paspoort",
+   "uittreksel Record of Birth Certification 1957",
+   "Iraakse geboorteakte (niet overgelegd)",
+   "Iraakse identiteitskaart (niet in deze procedure overgelegd)"
+  ],
+  "wat_gaf_doorslag": "Het ontbreken van de Iraakse geboorteakte."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 4:2 lid 2 Awb",
+  "art. 4:5 lid 1 Awb",
+  "art. 2.8 lid 2 Wet brp",
+  "art. 2.10 lid 2 Wet brp"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij een buitenlandse geboortedatum om het sterkste document uit de rangorde van artikel 2.8 Wet brp.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    36
+   ],
+   "citaat": "heeft het college [appellante] terecht verzocht om overlegging van dat document."
+  },
+  {
+   "actie": "Behandel een nieuwe aanvraag opnieuw als de burger later de identiteitskaart overlegt.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    36
+   ],
+   "citaat": "bij de beoordeling van een nieuwe aanvraag om een wijziging van haar geboortedatum in de brp"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Uw geboortedatum in de basisregistratie personen (BRP) kan alleen worden aangepast als u met de juiste papieren aantoont dat de oude datum fout is. Bij een geboorte in het buitenland moet u het sterkste bewijs geven dat u redelijkerwijs kunt krijgen; een paspoort alleen is niet genoeg als er een sterker bewijsstuk is. Kunt u een gevraagd papier echt niet krijgen, maak dat dan met bewijs aannemelijk; anders mag de gemeente uw aanvraag laten liggen zonder er inhoudelijk op te beslissen.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

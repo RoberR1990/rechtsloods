@@ -1,0 +1,162 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2018:8642",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bedrijf kreeg in Eindhoven een boete van 90 euro omdat zijn auto buiten de parkeervakken stond. Het bedrijf ging in hoger beroep tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Boete blijft, maar omschrijving van de overtreding klopte niet",
+ "kern": {
+  "zin": "Parkeren buiten de vakken is geen parkeren op een andere dan aangegeven wijze, maar parkeren in strijd met het verbod; het bedrag van de boete blijft gelijk.",
+  "bron": [
+   34,
+   36
+  ],
+  "citaat": "Gelet daarop had voor deze gedraging geen sanctie mogen worden opgelegd."
+ },
+ "samenvatting": [
+  {
+   "zin": "Het bedrijf kreeg een boete van 90 euro voor parkeren op een andere dan de aangegeven wijze, bij het station in Eindhoven.",
+   "bron": [
+    27
+   ],
+   "citaat": "een administratieve sanctie van € 90,- opgelegd ter zake van"
+  },
+  {
+   "zin": "De verbalisant (de handhaver) zag de auto buiten de vakken staan bij een bord voor betaald parkeren met pas.",
+   "bron": [
+    30
+   ],
+   "citaat": "Ik zag het voertuig buiten de vakken geparkeerd staan bij bord E102"
+  },
+  {
+   "zin": "De burger zei dat de auto buiten de parkeergelegenheid stond en dat er op die plek geen regel was om binnen de vakken te parkeren.",
+   "bron": [
+    31
+   ],
+   "citaat": "De gemachtigde betwist dat het voertuig van de betrokkene op een parkeergelegenheid bij een bord E102 stond."
+  },
+  {
+   "zin": "De rechter vond dat er geen aangegeven wijze was, maar dat de auto wel in een parkeerverbodszone buiten een vak stond.",
+   "bron": [
+    35
+   ],
+   "citaat": "Het hof stelt vast dat het voertuig van de betrokkene binnen een parkeerverbodszone buiten een parkeervak stond geparkeerd."
+  },
+  {
+   "zin": "De rechter paste de omschrijving van de overtreding aan en kende proceskosten toe.",
+   "bron": [
+    37
+   ],
+   "citaat": "veroordelen in de kosten tot een bedrag van € 751,50"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Andere overtreding vastgesteld; boete blijft gelijk, kosten vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt 751,50 euro aan proceskosten vergoed; de boete blijft hetzelfde bedrag maar krijgt een andere omschrijving.",
+  "bron": [
+   37,
+   36
+  ],
+  "citaat": "veroordelen in de kosten tot een bedrag van € 751,50"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De officier van justitie had moeten zeggen waarom hij de burger niet heeft gehoord.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag een gebrek in de motivering, maar de burger was daardoor niet benadeeld.",
+    "bron": [
+     26
+    ],
+    "citaat": "nu de betrokkene door dit gebrek naar het oordeel van het hof niet is benadeeld"
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De auto stond niet bij een parkeerbord en er was geen regel om binnen vakken te parkeren, dus de omschrijving klopte niet.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Er was geen aangegeven wijze van parkeren, dus voor deze omschrijving mocht geen boete komen.",
+    "bron": [
+     34
+    ],
+    "citaat": "Gelet daarop had voor deze gedraging geen sanctie mogen worden opgelegd."
+   },
+   "bruikbare_zin": {
+    "citaat": "Nu beide feitcodes het fout parkeren van een voertuig betreffen en de sanctiebedragen gelijk zijn, wordt de betrokkene in dit geval niet geschaad door een wijziging van de feitcode.",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De auto had een parkeerbewijs (vrijstelling) achter de voorruit.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het bewijs gold voor spoorwegterrein en de auto stond op de openbare weg.",
+    "bron": [
+     32
+    ],
+    "citaat": "valt de relevantie van dit document niet in te zien"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "In een parkeerverbodszone mag alleen in de daarvoor bestemde vakken worden geparkeerd.",
+  "type": "regel",
+  "reikwijdte": "Parkeerverbodszone waarin parkeren alleen in de aangewezen vakken is toegestaan.",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   35
+  ],
+  "citaat": "slechts parkeren op daartoe bestemde weggedeelten, in het onderhavige geval in de vakken bestemd voor betaald parkeren, is toegestaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van de verbalisant (de handhaver)",
+   "foto's in het dossier",
+   "kaart met de parkeerverbodszone"
+  ],
+  "wat_gaf_doorslag": "Op de foto's stond de auto buiten de vakken, in een hoek zonder vakken, binnen een parkeerverbodszone."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHARL:2017:1044",
+   "ECLI:NL:GHARL:2017:9855"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:26 lid 1 Awb",
+  "art. 6:22 Awb",
+  "art. 65 lid 3 RVV 1990"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; draait om de gekozen omschrijving van de overtreding",
+ "raakt": [
+  "bezwaar",
+  "bebording-verkeersbesluit",
+  "klantcontact"
+ ],
+ "klantuitleg": "In een parkeerverbodszone mag u alleen in de aangewezen vakken staan. Staat u ernaast, dan kan de boete blijven staan, ook als de omschrijving op de boete niet klopte. Controleer daarom of de omschrijving op uw boete past bij wat er gebeurd is.",
+ "gemeente": "Eindhoven",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

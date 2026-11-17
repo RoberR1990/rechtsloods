@@ -1,0 +1,185 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2021:8843",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "laadplek",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "bedrijf (kentekenhouder)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bedrijf gaat in hoger beroep tegen een parkeerboete van € 95 in Maastricht. Het bedrijf procedeert tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Laadplek met bord E9: ook een elektrische auto heeft vergunning nodig",
+ "kern": {
+  "zin": "De rechter vindt de boete terecht: bij bord E9 mag alleen met vergunning worden geparkeerd, ook al mag er volgens het onderbord een elektrische auto staan die laadt.",
+  "bron": [
+   27
+  ],
+  "citaat": "maar dit maakt aldus niet dat de betrokkene hier mocht parkeren"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het bedrijf kreeg een boete voor parkeren op een plek voor vergunninghouders zonder vergunning.",
+   "bron": [
+    18
+   ],
+   "citaat": "parkeren op een parkeerplaats voor vergunninghouders zonder vergunning voor dat voertuig (bord E9)"
+  },
+  {
+   "zin": "Volgens de ambtenaar stond de auto op een plek voor vergunninghouders (bord E9) en lag er geen vergunning in de auto.",
+   "bron": [
+    24
+   ],
+   "citaat": "het voertuig van de betrokkene stond geparkeerd op een parkeergelegenheid die is voorbehouden aan vergunninghouders aangeduid middels bord E9"
+  },
+  {
+   "zin": "Het bedrijf zei dat het bord bij de laadpaal (bord E8) voorging en dat het parkeerbeleid ineens was veranderd zonder dat burgers dat wisten.",
+   "bron": [
+    19
+   ],
+   "citaat": "het parkeerbeleid in Maastricht kennelijk ineens is gewijzigd zonder dat de burger daarover publiekelijk is ingelicht"
+  },
+  {
+   "zin": "De rechter zag op de foto's dat er alleen een bord E9 stond en geen bord E8.",
+   "bron": [
+    27
+   ],
+   "citaat": "Er staat enkel een bord E9, waarmee het regime voor parkeren voor vergunninghouders van toepassing is op die parkeerplaats."
+  },
+  {
+   "zin": "De rechter vond dat de bebording duidelijk genoeg was en dat de auto zonder vergunning niet mocht staan.",
+   "bron": [
+    28
+   ],
+   "citaat": "Gelet op de bebording ter plaatse was het parkeerregime voldoende duidelijk aangegeven."
+  },
+  {
+   "zin": "Dat het parkeerbeleid niet was gepubliceerd, veranderde niets, omdat de borden het bedrijf al hadden kunnen waarschuwen.",
+   "bron": [
+    29
+   ],
+   "citaat": "nu de betrokkene reeds door middel van de bebording op de hoogte had kunnen en moeten zijn"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beslissing bevestigd; de boete van € 95 blijft",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrijf moet de boete van € 95 betalen. Proceskosten krijgt het niet vergoed.",
+  "bron": [
+   18,
+   34
+  ],
+  "citaat": "bij inleidende beschikking een sanctie opgelegd van € 95,-"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het bord E8 bij de laadpaal ging voor het bord E9 en een elektrische auto mocht daar dus staan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Op de foto's staat bij die plek alleen een bord E9 en geen bord E8.",
+    "bron": [
+     27
+    ],
+    "citaat": "uit voormelde uitdraai blijkt dat bij de betreffende parkeerplaats geen bord E8 geplaatst"
+   },
+   "bruikbare_zin": {
+    "citaat": "Er staat enkel een bord E9, waarmee het regime voor parkeren voor vergunninghouders van toepassing is op die parkeerplaats",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Het parkeerregime was veranderd zonder dat dit bekend was gemaakt of bij de laadpalen stond.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De bebording maakte het parkeerregime voldoende duidelijk. Wie de borden niet ziet, draagt dat zelf.",
+    "bron": [
+     28
+    ],
+    "citaat": "Gelet op de bebording ter plaatse was het parkeerregime voldoende duidelijk aangegeven."
+   },
+   "bruikbare_zin": {
+    "citaat": "Van iedere weggebruiker mag worden verwacht dat hij oplettend is op de aanwezige bebording.",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het bedrijf parkeerde al jaren vier uur gratis op laadplekken en hoefde niet te denken dat dit was veranderd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het bedrijf mocht er niet op vertrouwen dat die manier van parkeren na de wijziging bleef toegestaan.",
+    "bron": [
+     29
+    ],
+    "citaat": "Aan die omstandigheid heeft de betrokkene niet het gerechtvaardigd vertrouwen kunnen ontlenen"
+   },
+   "bruikbare_zin": {
+    "citaat": "reeds door middel van de bebording op de hoogte had kunnen en moeten zijn van het aldaar geldende parkeerregime",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een bord E9 mag alleen met een geldige vergunning worden geparkeerd. Een onderbord over het opladen van elektrische auto's verandert dat niet.",
+  "type": "regel",
+  "reikwijdte": "Parkeerplaatsen met een bord E9 en onderborden over opladen van elektrische voertuigen",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   27
+  ],
+  "citaat": "Er staat enkel een bord E9, waarmee het regime voor parkeren voor vergunninghouders van toepassing is op die parkeerplaats."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van de ambtenaar",
+   "Street View-uitdraai van het bedrijf zelf"
+  ],
+  "wat_gaf_doorslag": "De Street View-uitdraai liet alleen een bord E9 zien en geen bord E8."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 24 lid 1 onder g RVV 1990",
+  "art. 67 lid 2 RVV 1990",
+  "Wahv"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg de bebording bij laadplekken in vergunninghoudersgebied vast met foto's, zodat u kunt laten zien welk bord er staat.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    27
+   ],
+   "citaat": "uit voormelde uitdraai blijkt dat bij de betreffende parkeerplaats geen bord E8 geplaatst"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Bij een bord E9 mag u alleen parkeren met een geldige vergunning voor die plek. Een onderbord over opladen betekent niet dat elektrische auto's zonder vergunning mogen staan. Denkt u dat er andere borden staan, maak dan foto's van de bebording en gebruik die bij uw beroep.",
+ "gemeente": "Maastricht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

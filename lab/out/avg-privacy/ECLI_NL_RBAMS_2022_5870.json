@@ -1,0 +1,149 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2022:5870",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "rectificatie",
+ "kenmerk": null,
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "Openbaar Ministerie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "De burger vroeg het Openbaar Ministerie om een gespreksverslag in zijn strafzaak te corrigeren. Hij ging naar de rechtbank Amsterdam omdat het Openbaar Ministerie niet op zijn verzoek besliste.",
+ "titel": "Rechter niet bevoegd voor correctie in een strafzaak",
+ "kern": {
+  "zin": "De rechter oordeelde dat zij niet bevoegd is, omdat het verzoek gaat over een stuk uit een strafzaak en de Awb daarvoor niet geldt.",
+  "bron": [
+   20
+  ],
+  "citaat": "De bestuursrechter is derhalve niet bevoegd om van het beroepschrift kennis te nemen."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg het Openbaar Ministerie om een verslag van een gesprek in zijn strafzaak te corrigeren.",
+   "bron": [
+    12
+   ],
+   "citaat": "Eiser heeft op 26 april 2022 een rectificatieverzoek bij verweerder ingediend omdat het verslag van een gesprek"
+  },
+  {
+   "zin": "Het Openbaar Ministerie berichtte dat correctie niet mogelijk is.",
+   "bron": [
+    12
+   ],
+   "citaat": "Verweerder heeft eiser op 10 mei 2022 bericht dat rectificatie niet mogelijk is."
+  },
+  {
+   "zin": "Omdat het verslag in een strafrechtelijk onderzoek is opgesteld, gelden de regels van de Awb niet.",
+   "bron": [
+    20
+   ],
+   "citaat": "de hoofdstukken 2 tot en met 8 van de Awb niet van toepassing zijn"
+  },
+  {
+   "zin": "De rechtbank oordeelde daarom dat zij niet bevoegd is om de zaak te behandelen.",
+   "bron": [
+    21
+   ],
+   "citaat": "komt de rechtbank tot het oordeel dat zij niet bevoegd is"
+  },
+  {
+   "zin": "De burger betaalt geen griffierecht en krijgt geen vergoeding van kosten.",
+   "bron": [
+    22
+   ],
+   "citaat": "Van eiser is geen griffierecht geheven. Er is geen reden voor een proceskostenveroordeling."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De rechter is niet bevoegd; het beroep wordt niet inhoudelijk behandeld.",
+ "gevolg_betrokkene": {
+  "zin": "De rechter verklaart zich onbevoegd, dus de burger krijgt in deze zaak geen beslissing over zijn verzoek.",
+  "bron": [
+   24
+  ],
+  "citaat": "De rechtbank verklaart zich onbevoegd om van het beroep kennis te nemen."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "De burger vindt dat het verslag van het gesprek niet klopt en aangepast moet worden.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter kwam niet aan de inhoud toe, omdat zij zich eerst onbevoegd verklaarde.",
+    "bron": [
+     21
+    ],
+    "citaat": "komt de rechtbank tot het oordeel dat zij niet bevoegd is"
+   },
+   "bruikbare_zin": {
+    "citaat": "komt de rechtbank tot het oordeel dat zij niet bevoegd is",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De burger vindt dat het bericht van het Openbaar Ministerie een besluit is waartegen hij bezwaar kan maken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Omdat het om een stuk uit een strafzaak gaat, kan er geen bezwaar en geen beroep worden ingesteld.",
+    "bron": [
+     20
+    ],
+    "citaat": "Er kan geen bezwaar worden gemaakt en daarmee ook geen beroep (als bedoeld in de Awb) worden ingesteld."
+   },
+   "bruikbare_zin": {
+    "citaat": "Er kan geen bezwaar worden gemaakt en daarmee ook geen beroep (als bedoeld in de Awb) worden ingesteld.",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Gaat een verzoek om correctie over een stuk uit een strafrechtelijk onderzoek, dan geldt de Awb niet en is geen bezwaar of beroep bij de bestuursrechter mogelijk.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om correctie van gegevens in een strafrechtelijk dossier",
+  "uitzondering": "Gaat het verzoek niet over een strafzaak, dan kan de AVG-route wel leiden tot een beslissing waarop bezwaar openstaat.",
+  "herkomst": "wet",
+  "bron": [
+   20
+  ],
+  "citaat": "Artikel 1:6 van de Awb bevat dwingend recht."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Dat het verslag in het kader van een strafrechtelijk onderzoek is opgesteld."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 1:3 lid 1 Awb",
+  "art. 1:3 lid 3 Awb",
+  "art. 1:6 lid 1 onder a Awb",
+  "art. 8:54 lid 1 Awb",
+  "art. 16 AVG"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente is geen partij; de uitspraak gaat over het Openbaar Ministerie",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Wilt u een gespreksverslag of een ander stuk laten corrigeren, dan kan dat met een verzoek om correctie op grond van de AVG. Gaat het om een stuk uit een strafzaak, dan beslist het Openbaar Ministerie en kunt u daartegen niet bij de bestuursrechter terecht. In een gewone gemeentelijke zaak moet de gemeente wel een beslissing nemen waarop u bezwaar kunt maken.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente is geen partij; het Openbaar Ministerie is verweerder",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

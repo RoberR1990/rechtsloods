@@ -1,0 +1,139 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "reden_leeg_actie": null,
+ "dubbel_van": null,
+ "reden_gemeente_leeg": null,
+ "actie_gemeente": [
+  {
+   "actie": "Houd bij een naheffing rekening met redelijke betaaltijd, ook voor uitstappen en spullen pakken, als de betaling snel volgt.",
+   "raakt": "bezwaar",
+   "bron": [
+    43
+   ],
+   "citaat": "moet worden gerekend tot de tijd die belanghebbende had moeten worden gegund om parkeerbelasting te betalen"
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder krijgt een redelijke tijd om te betalen, maar moet wel direct en zonder pauzes handelen om te betalen.",
+  "type": "regel",
+  "reikwijdte": "Betalen van parkeerbelasting direct na het parkeren, bij automaat of app",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   40
+  ],
+  "citaat": "Wel dient de parkeerder onverwijld en onafgebroken uitvoeringshandelingen te verrichten om de verschuldigde parkeerbelasting te betalen."
+ },
+ "steunt": "burger",
+ "ecli": "ECLI:NL:GHDHA:2024:2682",
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (werknemer op bouwplaats)",
+  "wederpartij": "gemeente Vlaardingen",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De gemeente Vlaardingen gaat in hoger beroep bij het gerechtshof Den Haag tegen een parkeerder. De rechtbank had zijn naheffingsaanslag (rekening achteraf voor parkeren) vernietigd.",
+ "titel": "Twee minuten later betaald met de app van de opdrachtgever: geen naheffing",
+ "kern": {
+  "zin": "Het hof vindt dat de parkeerder direct en zonder pauzes bezig was met betalen, dus de naheffing blijft vernietigd.",
+  "bron": [
+   43
+  ],
+  "citaat": "heeft belanghebbende naar het oordeel van het Hof onafgebroken uitvoeringshandelingen verricht die tot doel hadden parkeerbelasting te betalen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 3 mei 2022 om 10.03 uur zag een controleur dat voor de auto geen parkeerbelasting was betaald.",
+   "bron": [
+    25
+   ],
+   "citaat": "Tijdens een controle op hiervoor genoemde datum en tijdstip is geconstateerd dat voor de auto geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder liet zijn opdrachtgever betalen met een andere app, omdat zijn eigen app in Vlaardingen niet werkte; dit gebeurde om 10.05 uur.",
+   "bron": [
+    26
+   ],
+   "citaat": "voor de auto op 3 mei 2022 voor de periode van 10:05 uur tot 14:46 uur parkeerbelasting is voldaan"
+  },
+  {
+   "zin": "De gemeente zei dat schoenen aantrekken en spullen pakken geen handelingen zijn om te betalen.",
+   "bron": [
+    42
+   ],
+   "citaat": "niet kunnen worden aangemerkt als uitvoeringshandelingen gericht op het voldoen van parkeerbelasting"
+  },
+  {
+   "zin": "Het hof gelooft de parkeerder en rekent de tijd voor zijn handelingen mee als redelijke tijd om te betalen.",
+   "bron": [
+    43
+   ],
+   "citaat": "moet worden gerekend tot de tijd die belanghebbende had moeten worden gegund om parkeerbelasting te betalen"
+  },
+  {
+   "zin": "Het hof bevestigt de uitspraak van de rechtbank en de gemeente moet 548 euro griffierecht betalen.",
+   "bron": [
+    48
+   ],
+   "citaat": "Nu de uitspraak van de Rechtbank in stand blijft, wordt van de Heffingsambtenaar een griffierecht geheven van € 548."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing blijft vernietigd; gemeente betaalt griffierecht van 548 euro",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing is vernietigd en de gemeente moet de parkeerder 50 euro griffierecht vergoeden.",
+  "bron": [
+   20
+  ],
+  "citaat": "bepaalt dat verweerder het door eiser betaalde griffierecht aan hem moet vergoeden, tot een bedrag van € 50,-."
+ },
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "Zijn eigen parkeerapp werkte in Vlaardingen niet, dus liet hij zijn opdrachtgever betalen met een andere app.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het hof twijfelt niet aan zijn verklaring dat de app in Vlaardingen niet werkt en dat de opdrachtgever voor hem betaalde.",
+    "bron": [
+     43
+    ],
+    "citaat": "dat de door belanghebbende gebruikte parkeerapplicatie van Ease2pay in de gemeente Vlaardingen niet werkt"
+   },
+   "bruikbare_zin": {
+    "citaat": "Alle met die handelingen gemoeide tijd",
+    "bron": [
+     43
+    ]
+   }
+  }
+ ],
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "betaalbewijs van de parkeerapp",
+   "verklaring van de parkeerder"
+  ],
+  "wat_gaf_doorslag": "Het hof vond zijn verklaring geloofwaardig en zag geen onderbreking in zijn handelingen."
+ },
+ "toepasselijkheid": "landelijk",
+ "wetsartikelen": [
+  "art. 234 lid 2 Gemeentewet"
+ ],
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "U moet betalen bij het begin van het parkeren, maar u krijgt een redelijke tijd om dat te regelen. Wie direct na het parkeren bezig is met betalen, ook via een app van een ander, krijgt niet altijd een naheffing. Bezwaar maken heeft zin als u snel betaalde en dat kunt laten zien met een betaalbewijs.",
+ "gemeente": "Vlaardingen",
+ "zekerheid": "hoog"
+}

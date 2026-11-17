@@ -1,0 +1,42 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2024:266",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "parkeerder", "wederpartij": "gemeente Amsterdam", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Dit gaat over een naheffing voor parkeerbelasting in Amsterdam. Een parkeerder ging in beroep bij de rechtbank Amsterdam tegen de gemeente.",
+ "titel": "Instappen niet aangetoond, dus toch parkeerbelasting",
+ "kern": {"zin": "De rechter oordeelde dat niet bewezen was dat iemand instapte, dus de naheffing bleef staan.", "bron": [26], "citaat": "niet is aangetoond dat er sprake is geweest van het instappen van personen"},
+ "samenvatting": [
+  {"zin": "Een controle wees uit dat er voor de auto geen parkeerbelasting was betaald.", "bron": [21], "citaat": "is geconstateerd dat voor het voertuig geen parkeerbelasting was betaald"},
+  {"zin": "De parkeerder zei dat hij alleen stilstond om een vriendin te laten instappen.", "bron": [23], "citaat": "kortstondig met het voertuig heeft stilgestaan om zijn vriendin te laten instappen"},
+  {"zin": "De gemeente vond dat er wel geparkeerd werd en dat niemand instapte.", "bron": [24], "citaat": "Op de scanfoto's zijn geen in-of uitstappende personen te zien"},
+  {"zin": "De rechter zag op de foto's maar één persoon in de auto.", "bron": [26], "citaat": "Op de foto’s die door de scanauto zijn gemaakt is te zien dat er één persoon in de auto zit"},
+  {"zin": "De naheffing blijft staan, want het bedrag klopt en is terecht opgelegd.", "bron": [27], "citaat": "is de naheffingsaanslag parkeerbelasting terecht en tot het juiste bedrag opgelegd"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing van 77,40 euro blijft staan.",
+ "gevolg_betrokkene": {"zin": "De parkeerder betaalt 77,40 euro en krijgt geen proceskosten of griffierecht terug.", "bron": [28, 21], "citaat": "Voor een proceskostenvergoeding of een vergoeding van het griffierecht bestaat bij deze uitkomst geen aanleiding"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "kort-stilstaan", "burger_zegt": "Hij stond kort stil om zijn vriendin te laten instappen; dat telt niet als parkeren.", "oordeel": "verworpen", "waarom": {"zin": "Volgens de rechter telt wachten op een passagier niet als instappen.", "bron": [25], "citaat": "Het in een stilstaande auto zitten wachten op een passagier valt daar niet onder"}, "bruikbare_zin": {"citaat": "Het in een stilstaande auto zitten wachten op een passagier valt daar niet onder", "bron": [25]}},
+  {"arg": "bewijs-scanauto", "burger_zegt": "Op de scanfoto's zitten twee mensen in de auto, dus er was iemand aan het instappen.", "oordeel": "verworpen", "waarom": {"zin": "Op de foto's zat volgens de rechter één persoon, en instappen was niet te zien.", "bron": [26], "citaat": "Uit de beelden valt niet op te maken dat iemand aan het instappen is"}, "bruikbare_zin": {"citaat": "Uit de beelden valt niet op te maken dat iemand aan het instappen is", "bron": [26]}}
+ ],
+ "rechtsregel": {"zin": "Alleen handelingen die echt instappen zijn, dicht bij de auto, vallen onder de uitzondering.", "type": "regel", "reikwijdte": "stilstaan om een passagier in te laten stappen", "uitzondering": "wachten in de stilstaande auto op een passagier", "herkomst": "oordeel rechter", "bron": [25], "citaat": "Onder deze uitzondering moeten echter alleen de handelingen worden verstaan die een daadwerkelijk in- of uitstappen vormen"},
+ "bewijs": {"bewijslast_bij": "burger", "bewijsmiddelen": ["scanfoto's van de scanauto"], "wat_gaf_doorslag": "Op de scanfoto's was één persoon te zien en geen instappen."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": ["art. 225 Gemeentewet"],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gewone toepassing van de wet; geen tekortkoming van de gemeente",
+ "raakt": ["bezwaar", "scanauto-handhaving", "klantcontact"],
+ "klantuitleg": "Alleen direct in- of uitstappen bij de auto telt niet als parkeren. Blijft u in de auto wachten, dan moet u wel parkeerbelasting betalen. Wilt u bezwaar maken, dan moet u kunnen aantonen dat het instappen echt direct gebeurde.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

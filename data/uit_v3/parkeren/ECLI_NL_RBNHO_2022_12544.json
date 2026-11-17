@@ -1,0 +1,157 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2022:12544",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "bestuurder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "De bestuurder kreeg een WAHV-boete (de boete voor fout parkeren) voor een plek met een verbodsbord. Het beroep ging tegen de officier van justitie bij de kantonrechter van de rechtbank Noord-Holland.",
+ "titel": "Parkeerboete blijft; officier van justitie maakte procedurele fout",
+ "kern": {
+  "zin": "De kantonrechter vindt de boete terecht, omdat de verklaring van de verbalisant in WAHV-zaken in beginsel genoeg is.",
+  "bron": [
+   19
+  ],
+  "citaat": "In WAHV-zaken biedt de verklaring van een verbalisant in beginsel voldoende grondslag voor de vaststelling van de gedraging"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het voertuig stond geparkeerd waar dat niet mocht, volgens het verbodsbord E1.",
+   "bron": [
+    13
+   ],
+   "citaat": "een voertuig parkeren waar dat niet mag (bord E1, parkeerverbod(szone))"
+  },
+  {
+   "zin": "De bestuurder was het niet eens met de beslissing van de officier van justitie.",
+   "bron": [
+    14
+   ],
+   "citaat": "is het niet eens met de beslissing van de officier van justitie"
+  },
+  {
+   "zin": "Volgens de bestuurder duurde de beslistermijn van de officier van justitie te lang.",
+   "bron": [
+    15
+   ],
+   "citaat": "Het verweer van betrokkene is ertegen gericht dat de officier van justitie de wettelijke beslistermijn"
+  },
+  {
+   "zin": "De vertegenwoordiger van de officier van justitie zei ter zitting dat er wel beroepsgronden waren.",
+   "bron": [
+    17
+   ],
+   "citaat": "nu betrokkene wel degelijk beroepsgronden heeft aangevoerd"
+  },
+  {
+   "zin": "De kantonrechter vond de verklaring van de verbalisant en de foto's voldoende; de boete is dus terecht.",
+   "bron": [
+    19
+   ],
+   "citaat": "voldoende blijkt dat de gedraging waarvoor de boete is opgelegd, is verricht"
+  },
+  {
+   "zin": "De kantonrechter vernietigde de beslissing van de officier van justitie en liet de boete staan.",
+   "bron": [
+    24
+   ],
+   "citaat": "verklaart het beroep tegen de beslissing van de officier van justitie gegrond en vernietigt die beslissing"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beslissing officier van justitie vernietigd; boete blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De boete blijft gelden voor de bestuurder.",
+  "bron": [
+   21
+  ],
+  "citaat": "Het beroep tegen de beschikking waarbij de boete is opgelegd, wordt daarom ongegrond verklaard"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De officier van justitie besliste te laat, na de wettelijke beslistermijn van 16 weken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De beslissing was op tijd genomen, omdat de termijn tijdig was verlengd.",
+    "bron": [
+     15
+    ],
+    "citaat": "De beslissing van de officier van justitie is derhalve tijdig genomen"
+   },
+   "bruikbare_zin": {
+    "citaat": "de wet verbindt (dus) aan het overschrijden van deze termijn geen gevolgen",
+    "bron": [
+     16
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De boete is te hoog en moet lager.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter ziet geen reden om de boete te verlagen.",
+    "bron": [
+     20
+    ],
+    "citaat": "De kantonrechter ziet in hetgeen betrokkene heeft aangevoerd ook geen reden om de boete te matigen"
+   },
+   "bruikbare_zin": {
+    "citaat": "ziet in hetgeen betrokkene heeft aangevoerd ook geen reden om de boete te matigen",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "In WAHV-zaken volstaat de verklaring van een verbalisant om de gedraging vast te stellen, tenzij de bestuurder concrete feiten aanvoert die daaraan twijfel geven.",
+  "type": "regel",
+  "reikwijdte": "WAHV-boetes waarbij de gedraging door een verbalisant is vastgelegd",
+  "uitzondering": "Specifieke feiten of omstandigheden die twijfel geven aan de verklaring",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "In WAHV-zaken biedt de verklaring van een verbalisant in beginsel voldoende grondslag voor de vaststelling van de gedraging"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring van de verbalisant",
+   "foto's van de gedraging",
+   "zaakoverzicht"
+  ],
+  "wat_gaf_doorslag": "De verklaring van de verbalisant en de foto's; de bestuurder gaf geen feiten die daaraan twijfel gaven."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 7:24 Algemene wet bestuursrecht",
+  "art. 9 WAHV",
+  "art. 14 WAHV"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een parkeerboete blijft meestal staan als de handhaver het parkeren goed heeft vastgelegd, bijvoorbeeld met een foto. Wilt u bezwaar maken, dan moet u concrete feiten noemen die twijfel geven aan de verklaring van de handhaver. Dat een beslistermijn wordt overschreden, maakt de boete in deze zaak niet ongeldig.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "niet in uitspraak genoemd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

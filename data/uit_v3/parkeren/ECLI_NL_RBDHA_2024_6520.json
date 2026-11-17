@@ -1,0 +1,139 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2024:6520",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "de parkeerder (particulier)",
+  "wederpartij": "gemeente Rijswijk",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De gemeente Rijswijk legde een naheffingsaanslag (de rekening achteraf) op aan een parkeerder. De zaak ging naar de rechtbank Den Haag, waar de gemeente ter zitting zei dat de naheffing weg moest; over de kosten werd nog gestreden.",
+ "titel": "Rekening vernietigd; alleen de kosten bleven over",
+ "kern": {
+  "zin": "De rechter vernietigde de naheffing, omdat de gemeente dat zelf ter zitting had voorgesteld, en kende de proceskosten toe.",
+  "bron": [
+   14
+  ],
+  "citaat": "Verweerder heeft zich ter zitting op het standpunt gesteld dat de naheffingsaanslag moet worden vernietigd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Rijswijk legde de parkeerder een naheffing op, en de parkeerder maakte daartegen bezwaar.",
+   "bron": [
+    9
+   ],
+   "citaat": "tegen de aan eiser opgelegde naheffingsaanslag parkeerbelasting"
+  },
+  {
+   "zin": "De parkeerder wilde dat de vergoeding van de bezwaarkosten hoger uitviel.",
+   "bron": [
+    14
+   ],
+   "citaat": "de hoogte van de waarde per punt voor de proceskostenvergoeding in de bezwaarfase"
+  },
+  {
+   "zin": "De gemeente stelde ter zitting dat de naheffing vernietigd moest worden.",
+   "bron": [
+    14
+   ],
+   "citaat": "op het standpunt gesteld dat de naheffingsaanslag moet worden vernietigd"
+  },
+  {
+   "zin": "De rechter koos voor € 310 per punt, het tarief voor belastingzaken.",
+   "bron": [
+    15
+   ],
+   "citaat": "naar een waarde per punt van € 310, zijnde het tarief voor belastingzaken"
+  },
+  {
+   "zin": "De gemeente moet € 1.185 aan proceskosten betalen, en het griffierecht van € 50 komt terug.",
+   "bron": [
+    16,
+    22
+   ],
+   "citaat": "De rechtbank stelt de te vergoeden proceskosten op grond van het Besluit proceskostenvergoeding"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd; ook € 1.185 proceskosten en griffierecht terug.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing vervalt, en de gemeente betaalt de parkeerder € 1.185 aan kosten en het griffierecht van € 50.",
+  "bron": [
+   20,
+   16,
+   22
+  ],
+  "citaat": "vernietigt de uitspraak op bezwaar en de naheffingsaanslag parkeerbelasting"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het tarief per punt moet hoger, volgens een advies van de advocaat-generaal.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat een advies van de advocaat-generaal geen recht oplevert.",
+    "bron": [
+     15
+    ],
+    "citaat": "De conclusie van de A-G waar eiser naar verwijst, is een advies aan de Hoge Raad en geen recht"
+   },
+   "bruikbare_zin": {
+    "citaat": "Zolang de Hoge Raad niet anders beslist, hanteert de rechtbank een waarde per punt van € 310",
+    "bron": [
+     15
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een waarde per punt van € 310 blijft gelden, tot de Hoge Raad anders beslist.",
+  "type": "regel",
+  "reikwijdte": "Proceskostenvergoeding in de bezwaarfase van belastingzaken (naheffing)",
+  "uitzondering": "Als de Hoge Raad anders beslist",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   15
+  ],
+  "citaat": "Zolang de Hoge Raad niet anders beslist, hanteert de rechtbank een waarde per punt van € 310"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Betaal na een vernietigde naheffing het griffierecht en de proceskosten binnen de termijn die de rechter bepaalt.",
+   "raakt": "bezwaar",
+   "bron": [
+    22,
+    23
+   ],
+   "citaat": "draagt verweerder op om het betaalde griffierecht van € 50 aan eiser te vergoeden"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een rekening achteraf verdwijnt als de gemeente of de rechter die vernietigt. In deze zaak kreeg de parkeerder daarnaast de kosten van bezwaar en beroep en het griffierecht terug. Wilt u die kosten vergoed krijgen, vraag er dan om bij bezwaar of beroep.",
+ "gemeente": "Rijswijk",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

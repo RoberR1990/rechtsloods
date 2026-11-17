@@ -1,0 +1,43 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2024:57",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {"burger": "bewoner", "wederpartij": "gemeente Amsterdam", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Dit gaat over een bewonersparkeervergunning die in Amsterdam is ingetrokken. Een bewoner ging in beroep bij de rechtbank Amsterdam tegen het college van burgemeester en wethouders.",
+ "titel": "Bewonersvergunning ingetrokken vanwege eigen garage",
+ "kern": {"zin": "De rechter vond dat losse kasten de garage niet blijvend verbouwden, dus de intrekking blijft staan.", "bron": [27], "citaat": "De rechtbank is met het college van oordeel dat het plaatsen van losse kasten"},
+ "samenvatting": [
+  {"zin": "De gemeente trok één van de twee vergunningen in, omdat de bewoner een eigen garage had.", "bron": [16], "citaat": "Het college stelt zich op het standpunt dat [eiser] op zijn adres kan beschikken over een eigen stallingsplaats."},
+  {"zin": "De bewoner vond dat zijn garage niet meer als parkeerplek kon dienen.", "bron": [17], "citaat": "Volgens [eiser] kan hij zijn garage niet gebruiken als stallingsplaats"},
+  {"zin": "Volgens de gemeente telde de garage nog mee als eigen stallingsplaats.", "bron": [16], "citaat": "Het college stelt zich op het standpunt dat [eiser] op zijn adres kan beschikken"},
+  {"zin": "Wegneembare kasten gelden in dit geval niet als blijvende verbouwing.", "bron": [27], "citaat": "Dergelijke kasten zijn zonder sloopwerk of noemenswaardige beschadiging te verwijderen."},
+  {"zin": "De bewoner krijgt geen gelijk en de intrekking blijft staan.", "bron": [42], "citaat": "Het beroep is ongegrond. Dat betekent dat [eiser] geen gelijk krijgt."}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de intrekking blijft staan.",
+ "gevolg_betrokkene": {"zin": "De bewoner houdt één vergunning minder en krijgt het griffierecht niet terug.", "bron": [42], "citaat": "[eiser] krijgt daarom het griffierecht niet terug"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "gelijkheid", "burger_zegt": "Buren met een garage kregen geen vergunning, maar hij wel.", "oordeel": "verworpen", "waarom": {"zin": "De bewoner bewees niet dat zijn situatie gelijk was aan die van de buren.", "bron": [40], "citaat": "niet heeft aangetoond dat sprake is van gelijke gevallen op grond waarvan"}, "bruikbare_zin": {"citaat": "niet heeft aangetoond dat sprake is van gelijke gevallen", "bron": [40]}},
+  {"arg": "overig", "burger_zegt": "De gemeente zou hem in 2018 telefonisch hebben toegezegd dat de garage verbouwd was.", "oordeel": "verworpen", "waarom": {"zin": "Er was geen duidelijke toezegging van de gemeente, dus de bewoner kreeg geen gelijk.", "bron": [32], "citaat": "De rechtbank is niet gebleken van een ondubbelzinnige en onvoorwaardelijke toezegging"}, "bruikbare_zin": {"citaat": "is niet gebleken van een ondubbelzinnige en onvoorwaardelijke toezegging", "bron": [32]}},
+  {"arg": "hoorplicht-motivering", "burger_zegt": "Het besluit op bezwaar had geen motivering en de garage was niet goed bekeken.", "oordeel": "verworpen", "waarom": {"zin": "Volgens de rechter gaf het college genoeg uitleg in het besluit en het verweerschrift.", "bron": [36], "citaat": "oordeelt dat het college in het bestreden besluit en in het verweerschrift voldoende"}, "bruikbare_zin": {"citaat": "het college in het bestreden besluit en in het verweerschrift voldoende op de bezwaren", "bron": [36]}}
+ ],
+ "rechtsregel": {"zin": "Wie zich op vertrouwen beroept, moet aannemelijk maken dat de overheid een concrete toezegging deed.", "type": "regel", "reikwijdte": "beroep op het vertrouwensbeginsel bij een vergunning", "uitzondering": null, "herkomst": "oordeel rechter", "bron": [31], "citaat": "Voor een geslaagd beroep op het vertrouwensbeginsel is vereist dat de betrokkene aannemelijk maakt"},
+ "bewijs": {"bewijslast_bij": "burger", "bewijsmiddelen": ["foto's van de garage die de bewoner overlegde"], "wat_gaf_doorslag": "De losse kasten, met schroeven aan de muur, gaven de doorslag."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": ["art. 9 Parkeerverordening 2013 Amsterdam"],
+ "actie_gemeente": [{"actie": "Kijk ter plaatse naar een garage voordat u een bewonersvergunning intrekt.", "raakt": "vergunningen", "bron": [36], "citaat": "het wellicht beter was geweest als het college de garage van [eiser] had bekeken"}],
+ "reden_leeg_actie": null,
+ "raakt": ["vergunningen", "bezwaar", "klantcontact"],
+ "klantuitleg": "Telt uw woning een eigen stallingsplaats mee, dan wordt die afgetrokken van het aantal vergunningen dat u kunt krijgen. Een garage telt niet mee als die aard- en nagelvast is verbouwd. Wilt u bezwaar maken, leg dan uit waarom uw garage niet meer als stalling kan dienen, en laat foto's zien.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

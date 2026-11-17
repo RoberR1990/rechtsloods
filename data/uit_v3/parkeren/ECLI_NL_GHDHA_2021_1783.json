@@ -1,0 +1,207 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2021:1783",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rijswijk",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bewoner van Rijswijk gaat in hoger beroep tegen de gemeente Rijswijk bij het gerechtshof Den Haag. Het gaat om negen naheffingsaanslagen (rekeningen achteraf) voor parkeren zonder vergunning of betaling.",
+ "titel": "Geen bewonersvergunning, niet betaald: rekeningen blijven staan",
+ "kern": {
+  "zin": "De rechter vindt de rekeningen terecht, omdat de bewoner geen geldige vergunning had en ook niet op een andere manier betaalde.",
+  "bron": [
+   98
+  ],
+  "citaat": "belanghebbende geen geldige parkeervergunning (bewonersvergunning) had en ook niet op een andere manier de verschuldigde parkeerbelasting had voldaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "Parkeercontroleurs zagen op negen dagen dat voor de auto van de bewoner geen parkeerbelasting was betaald.",
+   "bron": [
+    70
+   ],
+   "citaat": "Bij controles door parkeercontroleurs op de genoemde data is vastgesteld dat geen parkeerbelasting was voldaan."
+  },
+  {
+   "zin": "De bewoner woonde wel in de gemeente, maar stond niet ingeschreven en had daarom geen bewonersvergunning.",
+   "bron": [
+    73
+   ],
+   "citaat": "stond hij op het moment dat de naheffingsaanslagen werden opgelegd niet als bewoner ingeschreven in deze gemeente"
+  },
+  {
+   "zin": "De bewoner zei dat hij als inwoner zonder inschrijving beschermd was tegen boetes.",
+   "bron": [
+    95
+   ],
+   "citaat": "zonder inschrijving van zijn feitelijk woonadres bij de gemeente, beschermd zou zijn tegen bekeuringen"
+  },
+  {
+   "zin": "De gemeente zag geen reden om coulant te zijn.",
+   "bron": [
+    68
+   ],
+   "citaat": "hij geen aanleiding heeft gevonden voor coulance ten aanzien van onderhavige naheffingsaanslagen"
+  },
+  {
+   "zin": "De rechter vond dat het bezwaar tegen de eerste vijf rekeningen te laat was.",
+   "bron": [
+    96
+   ],
+   "citaat": "Het Hof oordeelt dat de Heffingsambtenaar het bezwaar tegen deze naheffingsaanslagen terecht nietontvankelijk heeft verklaard."
+  },
+  {
+   "zin": "De rechter vond ook alle rekeningen zelf terecht.",
+   "bron": [
+    100
+   ],
+   "citaat": "Onder deze omstandigheden concludeert het Hof dat de naheffingsaanslagen parkeerbelasting terecht zijn opgelegd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; alle rekeningen blijven staan",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner moet alle negen rekeningen betalen: elk € 1,50 parkeerbelasting plus € 61 kosten. Proceskosten krijgt hij niet vergoed.",
+  "bron": [
+   104,
+   22,
+   102
+  ],
+  "citaat": "Het Gerechtshof bevestigt de uitspraak van de Rechtbank."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "Hij vond de bonnen niet op zijn auto, dus de bezwaartermijn begon pas toen hij de kopieën kreeg.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Op de zitting zei de bewoner zelf dat hij de bonnen onder de ruitenwisser vond. Daarom begon de termijn de dag na de datum van de bon.",
+    "bron": [
+     94
+    ],
+    "citaat": "dat hij de naheffingsaanslagen onder de ruitenwisser op de voorruit van de auto heeft aangetroffen"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat de naheffingsaanslagen op de juiste wijze zijn bekendgemaakt",
+    "bron": [
+     94
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij had als inwoner recht op een bewonersvergunning, dus hoefde hij geen parkeerbelasting te betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Wie zonder vergunning parkeert en niet op een andere manier betaalt, draagt zelf het risico, ook als hij als inwoner recht had op een vergunning.",
+    "bron": [
+     84
+    ],
+    "citaat": "ligt in de risicosfeer van de parkeerder"
+   },
+   "bruikbare_zin": {
+    "citaat": "parkeren zonder de verschuldigde belasting op andere wijze te voldoen, ligt in de risicosfeer van de parkeerder",
+    "bron": [
+     84
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente wist waarom hij zich niet kon inschrijven en zou het probleem oplossen, dus hij hoefde niet te betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er waren geen concrete toezeggingen van de gemeente waarop de bewoner mocht vertrouwen.",
+    "bron": [
+     84
+    ],
+    "citaat": "valt niet af te leiden dat aan hem concrete toezeggingen zijn gedaan"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Een postbus zonder inschrijving beschermt hem tegen bekeuringen, ook tegen deze rekeningen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een rekening voor parkeerbelasting is geen boete. Het strafrecht is daarop niet van toepassing.",
+    "bron": [
+     95
+    ],
+    "citaat": "valt een naheffingsaanslag parkeerbelasting onder de toepassing van het bestuursrecht"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een rekening voor parkeerbelasting mag worden bekendgemaakt door de bon op de auto te leggen. De bezwaartermijn begint dan de dag na de datum van de bon.",
+  "type": "regel",
+  "reikwijdte": "Naheffingen parkeerbelasting waarbij de bon op of aan het voertuig is aangebracht",
+  "uitzondering": "Vond de parkeerder de bon niet op de auto, dan moet hij zo snel als redelijkerwijs mogelijk bezwaar maken nadat hij ervan weet.",
+  "herkomst": "wet",
+  "bron": [
+   94
+  ],
+  "citaat": "mag een naheffingsaanslag parkeerbelasting ook bekendgemaakt worden door het aanslagbiljet aan te brengen op of aan het voertuig"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "eigen verklaring van de bewoner op de zitting",
+   "verklaringen van parkeercontroleurs (bij de rechtbank)"
+  ],
+  "wat_gaf_doorslag": "De bewoner zei op de zitting zelf dat hij de bonnen onder de ruitenwisser vond."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHDHA:2014:1275",
+   "ECLI:NL:GHAMS:2012:BW2991"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 lid 7 Gemeentewet",
+  "art. 22j Algemene wet inzake rijksbelastingen",
+  "art. 6:11 Awb",
+  "art. 6 EVRM"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Laat parkeercontroleurs per bon schriftelijk verklaren dat de bon op de auto is aangebracht.",
+   "raakt": "bezwaar",
+   "bron": [
+    80
+   ],
+   "citaat": "ambtsedige verklaringen van de verschillende parkeercontroleurs overgelegd"
+  },
+  {
+   "actie": "Vermeld op kopieën van een bon dat bezwaar kan binnen 6 weken na de oorspronkelijke datum.",
+   "raakt": "klantcontact",
+   "bron": [
+    82
+   ],
+   "citaat": "op de duplicaten staat aangegeven dat binnen 6 weken na de oorspronkelijke dagtekening van de naheffing bezwaar kan worden gemaakt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "tarief-naheffing",
+  "vergunningen"
+ ],
+ "klantuitleg": "Parkeert u zonder vergunning en betaalt u niet, dan kunt u terecht een rekening achteraf krijgen, ook als u eigenlijk recht had op een vergunning. Vond u de bon op uw auto, dan telt de bezwaartermijn van 6 weken vanaf de dag erna. Wilt u bezwaar maken, doe dat dan snel en bewaar uw bewijs.",
+ "gemeente": "Rijswijk",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

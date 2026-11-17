@@ -1,0 +1,165 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2026:6539",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "aanvrager",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "voorlopige voorziening",
+ "intro": "Na het overlijden van een bewoner wil de aanvrager de parkeervergunning op zijn eigen naam zetten. De gemeente Amsterdam weigerde dat, en de aanvrager vroeg de rechter om een voorlopige voorziening (een tijdelijke maatregel tot het bezwaar is beslist).",
+ "titel": "Vergunning niet op naam gezet: geen spoed, verzoek afgewezen",
+ "kern": {
+  "zin": "De rechter wees het verzoek af, omdat het vooral om geld ging en er geen onomkeerbare, acute situatie was.",
+  "bron": [
+   16
+  ],
+  "citaat": "Hetgeen verzoeker heeft aangevoerd ziet (met name) op een financieel belang"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 8 juni 2026 wees de gemeente de aanvraag af.",
+   "bron": [
+    8,
+    14
+   ],
+   "citaat": "met het besluit van 8 juni 2026 afgewezen"
+  },
+  {
+   "zin": "De aanvrager zei dat hij anders een garage zou moeten huren, voor ongeveer 250 euro per maand.",
+   "bron": [
+    15
+   ],
+   "citaat": "Volgens Parkeerbeheer moet hij dan een garage huren voor ongeveer"
+  },
+  {
+   "zin": "De aanvrager gaf toe dat hij zijn verhuizing naar het adres te laat had doorgegeven, door de stressvolle situatie.",
+   "bron": [
+    15
+   ],
+   "citaat": "door de stressvolle situatie heeft verzuimd zijn intrek op het adres"
+  },
+  {
+   "zin": "De rechter vond dat het vooral om een financieel belang ging, en dat er daarom geen spoed was.",
+   "bron": [
+    16
+   ],
+   "citaat": "Hetgeen verzoeker heeft aangevoerd ziet (met name) op een financieel belang"
+  },
+  {
+   "zin": "De rechter vond dat de aanvrager niet had onderbouwd dat er een onomkeerbare situatie was.",
+   "bron": [
+    16
+   ],
+   "citaat": "Verzoeker heeft niet onderbouwd dat sprake is van een onomkeerbare situatie"
+  },
+  {
+   "zin": "De brief over de mantelzorg telt mee in het bezwaar, maar leidde niet tot spoed.",
+   "bron": [
+    16
+   ],
+   "citaat": "Het is aan verweerder om deze brief mee te nemen in de heroverweging in bezwaar"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Verzoek afgewezen; de rechter nam geen spoed aan.",
+ "gevolg_betrokkene": {
+  "zin": "De weigering blijft voorlopig staan, en de gemeente moet de brief over de mantelzorg meenemen in het bezwaar.",
+  "bron": [
+   16
+  ],
+  "citaat": "Het is aan verweerder om deze brief mee te nemen in de heroverweging in bezwaar"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Zonder vergunning ontstaat een onomkeerbaar en onevenredig zwaar nadeel, en een garage kost ongeveer 250 euro per maand.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter gaat het vooral om geld, en is een onomkeerbare, acute nood niet aangetoond.",
+    "bron": [
+     16
+    ],
+    "citaat": "Hetgeen verzoeker heeft aangevoerd ziet (met name) op een financieel belang"
+   },
+   "bruikbare_zin": {
+    "citaat": "Verzoeker heeft niet onderbouwd dat sprake is van een onomkeerbare situatie",
+    "bron": [
+     16
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Door de stressvolle situatie na het overlijden heb ik het nieuwe adres te laat doorgegeven.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter ging hier niet inhoudelijk op in, maar wees erop dat de gemeente de brief in het bezwaar moet meenemen.",
+    "bron": [
+     16
+    ],
+    "citaat": "Het is aan verweerder om deze brief mee te nemen in de heroverweging in bezwaar"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het is aan verweerder om deze brief mee te nemen in de heroverweging in bezwaar",
+    "bron": [
+     16
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een spoedeisende voorziening kan alleen als er anders onomkeerbare gevolgen ontstaan voordat op bezwaar wordt beslist.",
+  "type": "regel",
+  "reikwijdte": "verzoek om voorlopige voorziening tegen een besluit over een parkeervergunning",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   16
+  ],
+  "citaat": "Onverwijlde spoed wil zeggen dat er onomkeerbare gevolgen kunnen intreden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "brief van 25 november 2025 over mantelzorg"
+  ],
+  "wat_gaf_doorslag": "Niet onderbouwd dat er een onomkeerbare situatie of acute financiële nood was."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:81 lid 1 Awb",
+  "art. 8:83 lid 3 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Neem de brief over de mantelzorg mee in de heroverweging van het bezwaar.",
+   "raakt": "bezwaar",
+   "bron": [
+    16
+   ],
+   "citaat": "Het is aan verweerder om deze brief mee te nemen in de heroverweging in bezwaar"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "vergunningen",
+  "klantcontact"
+ ],
+ "klantuitleg": "Deze uitspraak gaat over een parkeervergunning die op een nieuwe naam moest komen, niet over een naheffing of boete. De rechter vond dat er geen spoed was, omdat het vooral om geld ging. Bij het bezwaar helpt het om concreet te laten zien waarom wachten tot de beslissing onomkeerbare gevolgen heeft.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

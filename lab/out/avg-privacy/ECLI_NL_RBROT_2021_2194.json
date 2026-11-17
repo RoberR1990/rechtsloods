@@ -1,0 +1,167 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2021:2194",
+ "relevant": true,
+ "onderwerp": "politie-justitie",
+ "sub": "wpg-inzage",
+ "kenmerk": null,
+ "zaaktype": "politiegegevens",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "Minister van Financiën (FIOD)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger vroeg de FIOD (de opsporingsdienst van de Belastingdienst) of die gegevens over hem verwerkt. Hij kreeg inzage, maar vond dat er stukken waren achtergehouden; hij ging tegen de minister in beroep bij de rechtbank Rotterdam.",
+ "titel": "Wie stukken mist bij inzage, moet in beginsel zeggen welke",
+ "kern": {
+  "zin": "De rechter vindt dat de burger niet aannemelijk maakte dat er stukken zijn achtergehouden, dus het beroep is ongegrond.",
+  "bron": [
+   27
+  ],
+  "citaat": "eiser niet aannemelijk heeft gemaakt dat in het verweerschrift een onjuiste voorstelling van zaken is gegeven"
+ },
+ "samenvatting": [
+  {
+   "zin": "In 2019 vroeg de burger de FIOD of die persoonsgegevens van hem verwerkt.",
+   "bron": [
+    14
+   ],
+   "citaat": "Op 15 juni 2019 heeft eiser bij de FIOD een verzoek ingediend waarin hij vraagt om hem te laten weten of er door de FIOD persoonsgegevens van hem worden verwerkt."
+  },
+  {
+   "zin": "De minister besloot dat de burger de gegevens mocht inzien die de FIOD op grond van de Wet politiegegevens verwerkt.",
+   "bron": [
+    15
+   ],
+   "citaat": "Op grond van de Wpg worden er door de FIOD wel persoonsgegevens van eiser verwerkt."
+  },
+  {
+   "zin": "De burger zei dat er bij de inzage documenten met zijn persoonsgegevens voor hem waren achtergehouden.",
+   "bron": [
+    19
+   ],
+   "citaat": "terwijl eiser stelt dat er bij de inzage documenten met zijn persoonsgegevens voor hem zijn achtergehouden"
+  },
+  {
+   "zin": "De minister zei dat de FIOD geen onderzoek naar de burger heeft ingesteld en dus ook geen aangifte tegen hem deed.",
+   "bron": [
+    22
+   ],
+   "citaat": "De FIOD heeft geen onderzoek ingesteld naar eiser en (dus) ook geen aangifte tegen eiser gedaan."
+  },
+  {
+   "zin": "De rechter vindt de mededeling van de minister niet ongeloofwaardig en zegt dat de burger te weinig concreet maakte.",
+   "bron": [
+    23
+   ],
+   "citaat": "Eiser heeft hier onvoldoende concrete feiten en omstandigheden tegenovergesteld"
+  },
+  {
+   "zin": "Het besluit blijft in stand en het beroep is ongegrond.",
+   "bron": [
+    30
+   ],
+   "citaat": "Het bestreden besluit blijft in zoverre dan ook in stand"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; geen bewijs dat stukken zijn achtergehouden",
+ "gevolg_betrokkene": {
+  "zin": "Het besluit blijft in stand: de burger krijgt geen extra stukken, geen proceskostenvergoeding en geen dwangsom van € 1.000 per dag; over griffierecht zegt de uitspraak niets.",
+  "bron": [
+   31
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Bij de inzage zijn documenten met mijn persoonsgegevens achtergehouden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger maakte met concrete feiten niet aannemelijk dat de FIOD die documenten wel heeft.",
+    "bron": [
+     23
+    ],
+    "citaat": "Eiser heeft hier onvoldoende concrete feiten en omstandigheden tegenovergesteld"
+   },
+   "bruikbare_zin": {
+    "citaat": "eiser onvoldoende heeft gespecificeerd welke concrete documenten met zijn persoonsgegevens hij op 3 september 2019 niet voor ogen heeft gekregen",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "motivering",
+   "burger_zegt": "Het besluit is in strijd met het motiveringsbeginsel, het zorgvuldigheidsbeginsel en andere beginselen van behoorlijk bestuur.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Omdat de burger niet aannemelijk maakte dat stukken zijn achtergehouden, slaagt deze grond niet.",
+    "bron": [
+     28
+    ],
+    "citaat": "Eisers beroepsgrond dat het bestreden besluit in strijd is met het motiveringsbeginsel, het zorgvuldigheidsbeginsel, het evenredigheidsbeginsel en andere beginselen van behoorlijk bestuur slaagt"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De minister moet een dwangsom van € 1.000 per dag betalen zolang ik geen volledige inzage krijg.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt een dwangsom niet aan de orde.",
+    "bron": [
+     31
+    ],
+    "citaat": "is evenmin aan de orde"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Zegt een overheidsorgaan na onderzoek dat een document niet onder hem berust en klinkt dat niet ongeloofwaardig, dan moet degene die om informatie vraagt in beginsel zelf aannemelijk maken dat het document er toch is.",
+  "type": "regel",
+  "reikwijdte": "Mededeling van een bestuursorgaan dat een document niet (meer) onder hem berust en niet ongeloofwaardig lijkt",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   20
+  ],
+  "citaat": "in beginsel aan degene die om informatie verzoekt om aannemelijk te maken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "proces-verbaal aanvraag vordering verstrekking historische gegevens van 2 november 2016",
+   "vordering verstrekking historische gegevens van 10 november 2016"
+  ],
+  "wat_gaf_doorslag": "De burger kon niet concreet maken welke documenten hij bij de inzage niet kreeg."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2014:2371",
+   "ECLI:NL:RVS:2016:1320"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 12 en 15 AVG",
+  "art. 25 Wpg",
+  "art. 7:1 lid 1 onder g Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Zegt een overheidsorgaan dat het bepaalde stukken niet heeft en klinkt dat geloofwaardig, dan moet u in beginsel zelf aannemelijk maken dat die stukken er toch zijn. Noem daarom concreet welke stukken u mist en waarom u denkt dat ze bestaan. Alleen een vermoeden is meestal niet genoeg.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente als partij; Minister van Financiën",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

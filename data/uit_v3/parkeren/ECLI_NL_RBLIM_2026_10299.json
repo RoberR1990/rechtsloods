@@ -1,0 +1,160 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBLIM:2026:10299",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "privaat-boete-voorwaarden",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder, via bewindvoerder)",
+  "wederpartij": "exploitant (Q-Park)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "Q-Park, de exploitant van een parkeergarage, eist geld van de bewindvoerder van een kentekenhouder die de garage zonder te betalen uitreed. De zaak wordt behandeld door de kantonrechter van de rechtbank Limburg.",
+ "titel": "Treintje rijden: ook de bijrijder moet betalen",
+ "kern": {
+  "zin": "De kantonrechter vindt dat ook de bijrijder als klant betaalt en wijst een bedrag toe, maar de incassokosten niet.",
+  "bron": [
+   48,
+   71,
+   54
+  ],
+  "citaat": "Dit heeft tot gevolg dat (ook) tussen [gedaagde] en Q-Park een parkeerovereenkomst tot stand is gekomen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 18 juni 2025 verliet een auto de garage zonder te betalen, achter een andere auto aan.",
+   "bron": [
+    31
+   ],
+   "citaat": "verlaten zonder gebruikmaking van een geldig door Q-Park geaccepteerd parkeerbewijs"
+  },
+  {
+   "zin": "De bewindvoerder stelt dat de kentekenhouder toen als bijrijder zat en niet reed.",
+   "bron": [
+    36
+   ],
+   "citaat": "dat zij op 18 juni 2025 niet heeft gereden"
+  },
+  {
+   "zin": "Q-Park vraagt 445,52 euro, plus rente en kosten.",
+   "bron": [
+    33
+   ],
+   "citaat": "veroordeling van de bewindvoerder q.q. tot betaling van € 445,52"
+  },
+  {
+   "zin": "De kantonrechter oordeelt dat de bijrijder als klant een parkeerovereenkomst heeft gesloten en dus betaalt.",
+   "bron": [
+    48
+   ],
+   "citaat": "Dit heeft tot gevolg dat (ook) tussen [gedaagde] en Q-Park een parkeerovereenkomst tot stand is gekomen"
+  },
+  {
+   "zin": "De extra schadevergoeding van 382,41 euro is volgens de rechter niet onredelijk hoog.",
+   "bron": [
+    50
+   ],
+   "citaat": "is de schadevergoeding zoals opgenomen in artikel 5.5 van de algemene voorwaarden niet onredelijk hoog"
+  },
+  {
+   "zin": "De bewindvoerder moet 387,41 euro betalen, plus proceskosten van 473,28 euro.",
+   "bron": [
+    71
+   ],
+   "citaat": "veroordeelt de bewindvoerder q.q. om aan Q-Park te betalen een bedrag van"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Bedrag lager dan gevorderd; incassokosten afgewezen; proceskosten wel voor de bewindvoerder.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de kentekenhouder betekent dit dat zij 387,41 euro moet betalen plus rente en proceskosten; incassokosten hoeft zij niet te betalen.",
+  "bron": [
+   71,
+   54
+  ],
+  "citaat": "veroordeelt de bewindvoerder q.q. om aan Q-Park te betalen een bedrag van"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Zij zat alleen als bijrijder in de auto en heeft de garage niet zelf uitgereden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter vindt dat niet achter het stuur zitten haar niet helpt, omdat zij later contact had kunnen opnemen.",
+    "bron": [
+     51
+    ],
+    "citaat": "Zij had immers prima op enig later moment contact kunnen opnemen met Q-Park"
+   },
+   "bruikbare_zin": {
+    "citaat": "Zij had immers prima op enig later moment contact kunnen opnemen met Q-Park en alsnog de parkeerkosten kunnen voldoen",
+    "bron": [
+     51
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Het gaat te ver om ook deze boete te betalen, na eerdere boetes die haar partner veroorzaakte.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter vindt de schadevergoeding niet onredelijk hoog, gelet op de onderbouwing van Q-Park.",
+    "bron": [
+     50
+    ],
+    "citaat": "is de schadevergoeding zoals opgenomen in artikel 5.5 van de algemene voorwaarden niet onredelijk hoog"
+   },
+   "bruikbare_zin": {
+    "citaat": "staat deze in een redelijke verhouding tot de (te verwachten) schade",
+    "bron": [
+     50
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een beding in een contract met een consument is oneerlijk als het een onevenredig hoge schadevergoeding oplegt.",
+  "type": "regel",
+  "reikwijdte": "consumentenbedingen in parkeercontracten met een schadevergoeding bij uitrijden zonder betalen",
+  "uitzondering": "Een hoog bedrag is niet vanzelf oneerlijk; hier was de vergoeding onderbouwd.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   49
+  ],
+  "citaat": "Een beding kan bijvoorbeeld oneerlijk zijn als het beding tot doel heeft"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "beeldmateriaal van de garage",
+   "registratie in het parkeermanagementsysteem"
+  ],
+  "wat_gaf_doorslag": "Het beeldmateriaal en de registratie lieten zien dat de auto de garage verliet zonder betaling."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 1 algemene voorwaarden Q-Park",
+  "art. 2.3 algemene voorwaarden Q-Park",
+  "art. 5.5 algemene voorwaarden Q-Park",
+  "art. 8.1 algemene voorwaarden Q-Park",
+  "Besluit vergoeding voor buitengerechtelijke incassokosten"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "klantcontact"
+ ],
+ "klantuitleg": "Ook als u alleen als bijrijder in de auto zat, kan de garage u vragen te betalen als er zonder betalen is uitgereden. In deze zaak vond de rechter de vergoeding van 382,41 euro niet te hoog, en de extra kosten voor het innen van het bedrag niet. Heeft u zo'n situatie, dan kan het helpen om direct contact op te nemen met de garage om alsnog te betalen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

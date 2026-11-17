@@ -1,0 +1,173 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2025:9974",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wegslepen",
+ "kenmerk": null,
+ "zaaktype": "overig",
+ "partijen": {
+  "burger": "de parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeerde tegen de gemeente Amsterdam, omdat zijn auto was weggesleept uit een parkeerverbod. De rechtbank Amsterdam beoordeelde de zaak.",
+ "titel": "Gemeente mocht auto wegslepen die in parkeerverbod stond",
+ "kern": {
+  "zin": "De rechter vond het wegslepen terecht, omdat de auto in strijd met een verkeersbord stond en geen bijzondere omstandigheid gold.",
+  "bron": [
+   26
+  ],
+  "citaat": "stond geparkeerd in strijd met een zichtbaar E1-verkeersbord"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Amsterdam liet de auto van de parkeerder wegslepen.",
+   "bron": [
+    10
+   ],
+   "citaat": "het besluit van het college om de auto van eiser weg te slepen"
+  },
+  {
+   "zin": "De parkeerder vond dat verplaatsen de overtreding ook had kunnen beëindigen.",
+   "bron": [
+    24
+   ],
+   "citaat": "Volgens eiser had de auto daarom verplaatst kunnen worden in plaats van weggesleept"
+  },
+  {
+   "zin": "De gemeente wees op de sleepbon, waarin de handhaver het openen van de deur beschreef.",
+   "bron": [
+    27
+   ],
+   "citaat": "Het college heeft naar de sleepbon verwezen"
+  },
+  {
+   "zin": "De rechter volgde de gemeente en vond het wegslepen nodig en evenredig.",
+   "bron": [
+    27
+   ],
+   "citaat": "het wegslepen in dit geval noodzakelijk was en in verhouding stond tot het te dienen doel"
+  },
+  {
+   "zin": "De rechter wees het beroep af, dus de parkeerder kreeg geen gelijk.",
+   "bron": [
+    31
+   ],
+   "citaat": "Dat betekent dat eiser geen gelijk krijgt"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de parkeerder krijgt geen gelijk en geen kostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de parkeerder betekent dit dat hij geen griffierecht terugkrijgt en geen proceskosten vergoed krijgt.",
+  "bron": [
+   31
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Het wegslepen was te zwaar, want de auto veroorzaakte geen hinder en kon worden verplaatst.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag geen strijd met de evenredigheid.",
+    "bron": [
+     27
+    ],
+    "citaat": "er geen strijdigheid is met het evenredigheidbeginsel"
+   },
+   "bruikbare_zin": {
+    "citaat": "het wegslepen in dit geval noodzakelijk was en in verhouding stond tot het te dienen doel",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Het kruis op het wegdek kwam pas later, dus het was niet duidelijk dat hij niet mocht parkeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een later aangebracht kruis veranderde niets aan het eerdere verbod.",
+    "bron": [
+     26
+    ],
+    "citaat": "doet niet af aan die feitelijke vaststelling"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat het college nadien nog een geel kruis op het wegdek heeft aangebracht om het parkeerverbod te verduidelijken",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "Zonder aanvullend proces-verbaal was niet duidelijk waarom de auto toch weg moest.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de motivering voldoende, omdat de sleepbon de informatie al bevatte.",
+    "bron": [
+     28
+    ],
+    "citaat": "de relevante informatie voldoende uit de sleepbon blijkt"
+   },
+   "bruikbare_zin": {
+    "citaat": "de relevante informatie voldoende uit de sleepbon blijkt",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een parkeerfout moet de gemeente in de regel ingrijpen met een last onder bestuursdwang (de gemeente beëindigt zelf de overtreding).",
+  "type": "regel",
+  "reikwijdte": "Auto's die in strijd met een zichtbaar verkeersbord staan",
+  "uitzondering": "Bijzondere omstandigheden, zoals een invalide-auto of onevenredig optreden",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   26
+  ],
+  "citaat": "Alleen onder bijzondere omstandigheden mag van het college worden verwacht om niet op te treden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "foto's bij het bestreden besluit",
+   "sleepbon met verklaring van de handhaver",
+   "foto's bij de sleepbon"
+  ],
+  "wat_gaf_doorslag": "De sleepbon, waarin de handhaver opschreef dat hij de deur met een hengel opende en geen sleutel vond."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Leg in de sleepbon vast welke deur de handhaver heeft geopend en of er een sleutel in de auto zat.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    27
+   ],
+   "citaat": "dat hij of zij de linker portierdeur met een hengel heeft geopend"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Uw auto mag worden weggesleept als die zichtbaar in strijd met een verkeersbord stond. Alleen onder bijzondere omstandigheden, zoals een invalide-auto, mag de gemeente daarvan afzien. Denkt u dat zo'n omstandigheid speelt, dan helpt bewijs daarvan.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

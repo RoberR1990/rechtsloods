@@ -1,0 +1,41 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:6507",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "parkeerder", "wederpartij": "gemeente Breda", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging bij de rechtbank Zeeland-West-Brabant in beroep tegen een naheffingsaanslag (de rekening achteraf) van de gemeente Breda. Het ging om de vraag of de auto echt had geparkeerd of alleen kort had gekeerd.",
+ "titel": "Kort keren in een vak is geen parkeren: rekening vervalt",
+ "kern": {"zin": "De rechter vond de rekening ten onrechte opgelegd: de gemeente sprak niet tegen dat de auto alleen kort keerde, en dat is geen parkeren.", "bron": [23], "citaat": "De heffingsambtenaar heeft de naheffingsaanslag dus ten onrechte opgelegd."},
+ "samenvatting": [
+  {"zin": "Een scanauto stelde op 8 januari 2024 in Breda vast dat er niet was betaald.", "bron": [18], "citaat": "Tijdens een controle door middel van een scanauto is geconstateerd dat geen parkeerbelasting was voldaan"},
+  {"zin": "De parkeerder zegt dat de auto kort een parkeervak in reed om te keren en een andere weggebruiker ruimte te geven.", "bron": [22], "citaat": "Om te keren en ruimte te maken voor een andere weggebruiker is zij een parkeervak ingereden"},
+  {"zin": "De gemeente Breda sprak dat niet tegen, zodat de rechter de stelling als juist aannam.", "bron": [23], "citaat": "De rechtbank gaat daarom uit van de juistheid van de stelling"},
+  {"zin": "Volgens de rechter was dit geen parkeren, omdat de auto nog deel uitmaakte van het verkeer.", "bron": [23], "citaat": "is daarom van oordeel dat geen sprake was van parkeren"},
+  {"zin": "Daardoor is de naheffingsaanslag vernietigd.", "bron": [25], "citaat": "De rechtbank vernietigt daarom de uitspraak op bezwaar en de naheffingsaanslag"}
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd; griffierecht van € 51 terug, geen proceskosten.",
+ "gevolg_betrokkene": {"zin": "De aanslag is vernietigd, dus de parkeerder hoeft niet te betalen; het griffierecht krijgt de parkeerder terug, maar geen proceskosten.", "bron": [25, 26], "citaat": "De rechtbank vernietigt daarom de uitspraak op bezwaar en de naheffingsaanslag"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "kort-stilstaan", "burger_zegt": "De auto stond alleen kort in het vak om te keren en een ander voorbij te laten.", "oordeel": "gehonoreerd", "waarom": {"zin": "Volgens de rechter was er geen sprake van parkeren, omdat het vak alleen kortstondig werd gebruikt.", "bron": [23], "citaat": "is daarom van oordeel dat geen sprake was van parkeren"}, "bruikbare_zin": {"citaat": "het parkeervak slechts kortstondig heeft gebruikt om te keren en een andere weggebruiker voorbij te laten gaan", "bron": [23]}}
+ ],
+ "rechtsregel": {"zin": "Parkeren betekent volgens de rechter langer stilstaan, en niet alleen in- of uitstappen of laden en lossen.", "type": "regel", "reikwijdte": "parkeerbelasting op openbare terreinen en wegen binnen de gemeente", "uitzondering": "kort in- of uitstappen, laden of lossen, of stilstaan dat wettelijk is toegestaan", "herkomst": "oordeel rechter", "bron": [21], "citaat": "onder parkeren wordt verstaan het gedurende een aaneengesloten periode doen of laten staan van een voertuig"},
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": ["scanauto-controle"], "wat_gaf_doorslag": "De gemeente bestreed de stelling van de parkeerder niet."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": [],
+ "actie_gemeente": [{"actie": "Weerspreek in beroep schriftelijk de feiten die u betwist; anders gaat de rechter uit van de stelling van de parkeerder.", "raakt": "bezwaar", "bron": [23], "citaat": "De rechtbank gaat daarom uit van de juistheid van de stelling"}],
+ "reden_leeg_actie": null,
+ "raakt": ["bezwaar", "tarief-naheffing", "scanauto-handhaving"],
+ "klantuitleg": "Een rekening voor het parkeren is volgens deze uitspraak niet terecht als u de auto alleen kort gebruikte om te keren. Dat helpt alleen als de gemeente dat niet tegenspreekt, dus het gaat om wat er in de stukken staat. Heeft u bezwaar, beschrijf dan zo precies mogelijk wat er gebeurde.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,180 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2026:5517",
+ "relevant": true,
+ "kenmerk": null,
+ "dubbel_van": null,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "kentekenhouder",
+  "wederpartij": "gemeente Zwolle",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een kentekenhouder kreeg van de gemeente Zwolle een rekening voor parkeren achteraf, omdat de auto op een betaalde plek stond zonder parkeerrecht. De kentekenhouder ging in beroep tegen die rekening, en de rechtbank Overijssel besliste de zaak.",
+ "titel": "Parkeerrekening blijft staan ondanks storing en parkeerapp",
+ "kern": {
+  "zin": "De rechter oordeelde dat de regels duidelijk genoeg waren (kenbaarheid) en dat een storing de rekening niet wegneemt.",
+  "bron": [
+   30,
+   35
+  ],
+  "citaat": "Aan het kenbaarheidsvereiste en aan de informatieplicht is voldaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 9 december 2025 zag een controleur een auto op een betaalde plek in de Grasdorpstraat zonder geldig parkeerrecht.",
+   "bron": [
+    15
+   ],
+   "citaat": "op een ‘betaald parkeren’ plek zonder dat sprake was van een parkeerrecht"
+  },
+  {
+   "zin": "De rekening was € 80,10: € 1,30 aan tariefkosten en € 78,80 aan kosten van de naheffing.",
+   "bron": [
+    15,
+    16
+   ],
+   "citaat": "bestaande uit € 1,30 aan tariefkosten en"
+  },
+  {
+   "zin": "De kentekenhouder zei dat de automaat kapot was en dat de app geen dagkaart gaf.",
+   "bron": [
+    22
+   ],
+   "citaat": "Deze parkeerautomaat was echter defect"
+  },
+  {
+   "zin": "De gemeente stelde dat hier maximaal 120 minuten per keer betaald kan worden.",
+   "bron": [
+    24
+   ],
+   "citaat": "per keer voor maximaal 120 minuten parkeren kan worden betaald"
+  },
+  {
+   "zin": "De rechter vond de regels op de automaat en in de app duidelijk genoeg.",
+   "bron": [
+    32,
+    34
+   ],
+   "citaat": "Daaruit blijkt dat de mogelijkheid tot betaling van parkeerbelasting voor parkeren aan de Grasdorpstraat is gemaximeerd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Rekening blijft; storing aan automaat telt niet mee",
+ "gevolg_betrokkene": {
+  "zin": "Het griffierecht (de rechtbankkosten) wordt niet terugbetaald, en de rekening van € 80,10 blijft staan.",
+  "bron": [
+   48,
+   15
+  ],
+  "citaat": "de naheffingsaanslag parkeerbelasting in stand blijft"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Op de gemeentelijke kaart stond dat de zone voor beide plekken gelijk was, dus mocht ik aannemen dat de tarieven gelijk waren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de gemeente duidelijk heeft gemaakt welk regime er in de Grasdorpstraat geldt.",
+    "bron": [
+     31
+    ],
+    "citaat": "De gemeente heeft voldoende kenbaar gemaakt dat voor parkeren in de Grasdorpstraat een ander parkeerregime geldt"
+   },
+   "bruikbare_zin": {
+    "citaat": "binnen deze parkeerzone sprake is van verschillen qua parkeerregime afhankelijk van de locatie",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De automaat was kapot en de app gaf geen dagkaart, dus ik heb wel betaald.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat een storing de rekening niet wegneemt, omdat de aangifteplicht op dat moment niet was nagekomen.",
+    "bron": [
+     35
+    ],
+    "citaat": "een storing aan de parkeerautomaat op het parkeerterrein van de Jumbo doet niet ter zake"
+   },
+   "bruikbare_zin": {
+    "citaat": "was aan de voorwaarden voor het opleggen van een naheffingsaanslag parkeerbelastingen voldaan",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Er is al € 7,49 betaald, meer dan de kosten van een dagkaart (€ 6,50).",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat er bij een naheffing geen ruimte is voor een afweging van belangen.",
+    "bron": [
+     41
+    ],
+    "citaat": "Bij het opleggen van een naheffingsaanslag parkeerbelastingen bestaat geen ruimte voor een belangenafweging"
+   },
+   "bruikbare_zin": {
+    "citaat": "Bij gebruikmaken van een parkeerapp valt de werking van de internetverbinding (uitzonderingen daargelaten) binnen de risicosfeer van de parkeerder",
+    "bron": [
+     44
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een naheffing telt geen belangenafweging mee; de betaling vervalt alleen bij overmacht.",
+  "type": "regel",
+  "reikwijdte": "naheffingsaanslag parkeerbelasting",
+  "uitzondering": "acute (medische) noodsituatie van uitzonderlijk karakter",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   41
+  ],
+  "citaat": "Bij het opleggen van een naheffingsaanslag parkeerbelastingen bestaat geen ruimte voor een belangenafweging"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "printscreen van de overzichtskaart op de gemeentesite",
+   "storing aan de parkeerautomaat"
+  ],
+  "wat_gaf_doorslag": "De aangifteplicht was op het moment van de naheffing niet vervuld; de storing deed daarbij niets af."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Verordening parkeerbelastingen Zwolle 2025",
+  "Aanwijzingsbesluit parkeerbelastingen gemeente Zwolle 2025"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zorg dat de app het geldende parkeerregime per locatie automatisch toont bij het activeren.",
+   "raakt": "betaalapp",
+   "bron": [
+    34
+   ],
+   "citaat": "volgt het van toepassing zijnde parkeerregime bij het activeren van de parkeerapp bovendien vanzelf"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "betaalapp",
+  "tarief-naheffing",
+  "bezwaar"
+ ],
+ "klantuitleg": "U kreeg een rekening voor parkeren achteraf, omdat er op dat moment niet goed was voldaan aan de plicht om te betalen en het parkeren aan te geven. Een storing van de automaat of de app maakt die rekening niet ongeldig; het risico ligt bij de parkeerder. Wilt u weten welke regels op uw plek gelden, dan helpt de overzichtskaart per locatie en de informatie op de automaat.",
+ "gemeente": "Zwolle",
+ "reden_gemeente_leeg": null,
+ "zekerheid": "hoog"
+}

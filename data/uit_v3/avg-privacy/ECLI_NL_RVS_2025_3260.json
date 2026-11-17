@@ -1,0 +1,143 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:3260",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "overzicht-doelen-ontvangers",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "aanmeldster",
+  "wederpartij": "minister voor Rechtsbescherming",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een vrouw vroeg de minister voor Rechtsbescherming om inzage in haar persoonsgegevens uit een adoptieonderzoek. De Raad van State besliste in hoger beroep of de minister ook de namen van de medewerkers moest geven.",
+ "titel": "Minister hoeft namen van medewerkers niet te geven",
+ "kern": {
+  "zin": "De Raad van State beslist dat de vrouw de namen van de medewerkers niet hoeft te krijgen, omdat die medewerkers onder het gezag van de minister werkten en geen ontvangers zijn.",
+  "bron": [
+   37
+  ],
+  "citaat": "Nu de individuele medewerkers niet zijn aan te merken als ontvangers in de zin van de AVG"
+ },
+ "samenvatting": [
+  {
+   "zin": "In 2019 deed het Verwey-Jonker Instituut in opdracht van het ministerie onderzoek naar het binnenlandse adoptieproces.",
+   "bron": [
+    22
+   ],
+   "citaat": "onderzoek gedaan naar het binnenlandse adoptieproces van 1956 tot en met 1984"
+  },
+  {
+   "zin": "De vrouw had zich aangemeld en vroeg om een lijst van personen die toegang hadden gehad tot haar aanmeldverslag.",
+   "bron": [
+    26
+   ],
+   "citaat": "een lijst van personen die toegang hebben gehad tot haar aanmeldverslag"
+  },
+  {
+   "zin": "De minister zei dat hij de identiteit van de betreffende medewerkers niet hoefde te delen.",
+   "bron": [
+    32
+   ],
+   "citaat": "dat hij de identiteit van de betreffende medewerkers niet hoeft te delen"
+  },
+  {
+   "zin": "De Raad van State oordeelt dat de individuele medewerkers geen ontvangers zijn in de zin van de AVG.",
+   "bron": [
+    37
+   ],
+   "citaat": "Nu de individuele medewerkers niet zijn aan te merken als ontvangers in de zin van de AVG"
+  },
+  {
+   "zin": "Daarom vernietigt de Raad van State de uitspraak van de rechtbank op dat punt.",
+   "bron": [
+    40
+   ],
+   "citaat": "De uitspraak van de rechtbank moet worden vernietigd"
+  },
+  {
+   "zin": "De minister hoeft geen proceskosten te vergoeden.",
+   "bron": [
+    46
+   ],
+   "citaat": "De minister hoeft geen proceskosten te vergoeden."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De minister hoeft de namen niet te geven en geen proceskosten te betalen.",
+ "gevolg_betrokkene": {
+  "zin": "Zij krijgt geen inzage in de namen van de medewerkers die haar gegevens hebben verwerkt.",
+  "bron": [
+   37
+  ],
+  "citaat": "heeft [wederpartij] op grond van artikel 15 van de AVG geen recht op inzage in hun identiteit"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Zij vindt dat zij ook de namen moet krijgen van de medewerkers die haar gegevens hebben bekeken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De medewerkers zijn geen ontvangers, omdat zij onder het gezag van de minister werkten.",
+    "bron": [
+     37
+    ],
+    "citaat": "Nu de individuele medewerkers niet zijn aan te merken als ontvangers in de zin van de AVG"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet zijn aan te merken als ontvangers",
+    "bron": [
+     36
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Informatie over de identiteit van eigen medewerkers die onder het gezag van de verwerkingsverantwoordelijke persoonsgegevens verwerken, valt niet onder het inzagerecht van artikel 15 AVG.",
+  "type": "regel",
+  "reikwijdte": "bij een inzageverzoek op grond van de AVG",
+  "uitzondering": "tenzij die informatie onontbeerlijk is om de betrokkene de AVG-rechten uit te oefenen en rekening wordt gehouden met de rechten en vrijheden van de werknemers",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   35
+  ],
+  "citaat": "Werknemers van de verwerkingsverantwoordelijke kunnen echter niet worden beschouwd als \"ontvangers\""
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring van de minister op de zitting",
+   "het ontbreken van logginggegevens"
+  ],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:EU:C:2023:501"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 15 lid 1 onder c AVG",
+  "art. 4 onder 9 AVG",
+  "art. 82 AVG",
+  "art. 6:19 lid 1 Awb",
+  "art. 6:24 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; de zaak gaat over de minister voor Rechtsbescherming",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "ict-informatiebeveiliging"
+ ],
+ "klantuitleg": "U heeft recht op inzage in uw eigen gegevens. Maar u hoeft niet te weten welke medewerkers van een organisatie uw gegevens hebben bekeken, als zij in dienst van die organisatie werken. Alleen als u die namen echt nodig heeft om uw rechten te gebruiken, kunt u daar om vragen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "de zaak gaat over de minister voor Rechtsbescherming, niet over een gemeente",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

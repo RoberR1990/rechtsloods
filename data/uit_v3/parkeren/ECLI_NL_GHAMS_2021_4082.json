@@ -1,0 +1,189 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2021:4082",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "bewijs-scanauto",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "kentekenhouder (met gemachtigde)",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een autobezitter kreeg twee naheffingsaanslagen (rekeningen achteraf) voor parkeren in Amsterdam, vastgesteld met een scanauto. Hij ging in hoger beroep tegen de gemeente Amsterdam bij het gerechtshof Amsterdam.",
+ "titel": "Naheffing blijft staan, ook bij klein foutje in adres",
+ "kern": {
+  "zin": "Het hof laat beide naheffingen staan: de plek was een betaalde parkeerplaats en een kleine afwijking in het adres is geen reden om ze te vernietigen.",
+  "bron": [
+   38
+  ],
+  "citaat": "noch dat belanghebbende ter zake van het parkeren verzuimd heeft parkeerbelasting te voldoen, zijn de naheffingsaanslagen terecht opgelegd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente stelde met scanauto-gegevens vast dat de auto op twee dagen in augustus 2019 stond geparkeerd zonder betaling en legde twee naheffingsaanslagen op.",
+   "bron": [
+    18
+   ],
+   "citaat": "heeft daarom de in geding zijnde twee naheffingsaanslagen opgelegd"
+  },
+  {
+   "zin": "De burger zei dat het adres op de rekening niet klopte en dat de gemeente het risico van die onnauwkeurigheid draagt.",
+   "bron": [
+    34
+   ],
+   "citaat": "Een dergelijke onnauwkeurigheid moet voor rekening en risico van de heffingsambtenaar komen."
+  },
+  {
+   "zin": "Hij zei ook dat hij geen bord of parkeerautomaat had gezien.",
+   "bron": [
+    34
+   ],
+   "citaat": "hij heeft geen bebording (ter zake de verschuldigdheid van parkeerbelasting) of parkeerautomaat gezien"
+  },
+  {
+   "zin": "De gemeente zei dat de GPS-plek van het parkeervak aan het dichtstbijzijnde adres is gekoppeld.",
+   "bron": [
+    35
+   ],
+   "citaat": "De GPS-coördinaten van het desbetreffende parkeervak zijn gekoppeld aan het dichtstbijzijnde adres"
+  },
+  {
+   "zin": "Het hof vond dit een praktische werkwijze; kleine afwijkingen geven in beginsel geen reden om de naheffing te vernietigen.",
+   "bron": [
+    39
+   ],
+   "citaat": "is een praktische werkwijze die, ook als daardoor de parkeerlocatie niet geheel correct wordt aangegeven, kan worden gehanteerd"
+  },
+  {
+   "zin": "Het hof vond dat de burger kon weten dat hij moest betalen, omdat er diverse parkeerautomaten rond de plek stonden.",
+   "bron": [
+    42
+   ],
+   "citaat": "bevonden zich rondom de onderhavige parkeerlocatie diverse parkeerautomaten"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beide naheffingen blijven staan; geen proceskostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "Beide naheffingsaanslagen blijven staan en de burger krijgt geen vergoeding van zijn proceskosten.",
+  "bron": [
+   46
+  ],
+  "citaat": "Het Hof ziet geen aanleiding voor een veroordeling in de proceskosten in verband met de behandeling van het hoger beroep"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De plek op de naheffing klopt niet, omdat het systeem de GPS-plek aan het dichtstbijzijnde adres koppelt; dat risico is voor de gemeente.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Deze koppeling is een praktische werkwijze en kleine afwijkingen zijn in beginsel geen reden om de naheffing te vernietigen.",
+    "bron": [
+     39
+    ],
+    "citaat": "is een praktische werkwijze die, ook als daardoor de parkeerlocatie niet geheel correct wordt aangegeven, kan worden gehanteerd"
+   },
+   "bruikbare_zin": {
+    "bron": [
+     39
+    ],
+    "citaat": "geven in beginsel dus geen aanleiding tot vernietiging van de naheffingsaanslagen"
+   }
+  },
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Ik heb geen bord of parkeerautomaat gezien en kon niet weten dat ik moest betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er stonden diverse parkeerautomaten rond de plek, dus de burger kon weten dat hij moest betalen.",
+    "bron": [
+     42
+    ],
+    "citaat": "Belanghebbende had dan ook kunnen weten dat voor het parkeren parkeerbelasting moet worden voldaan"
+   },
+   "bruikbare_zin": {
+    "bron": [
+     42
+    ],
+    "citaat": "In Amsterdam geldt dat bijna overal betaald moet worden om te parkeren"
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De plek ligt niet aan een straat en de stratentabel noemt geen buurten, dus was er geen parkeerbelasting verschuldigd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het adres waaraan de plek was gekoppeld staat wel in de stratentabel.",
+    "bron": [
+     41
+    ],
+    "citaat": "stond belanghebbende immers geparkeerd aan de TT. Neveritaweg 61 en die weg wordt genoemd in de stratentabel"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een kleine onnauwkeurigheid in de plaatsaanduiding door koppeling aan het dichtstbijzijnde adres is in beginsel geen reden om de naheffing te vernietigen, tenzij er gerede twijfel is over de werkelijke parkeerplek.",
+  "type": "regel",
+  "reikwijdte": "Naheffing parkeerbelasting waarbij het systeem van de scanauto de GPS-plek koppelt aan het dichtstbijzijnde adres.",
+  "uitzondering": "Er is gerede twijfel over de werkelijke parkeerlocatie en dus over de vraag of daar betaald moest worden, bijvoorbeeld aan de rand van een betaald-parkeerzone.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   39
+  ],
+  "citaat": "slechts anders in het geval dat de geconstateerde onnauwkeurigheid van dien aard is dat gerede twijfel rijst"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "foto van de scanauto",
+   "kaart met de aangekruiste plek",
+   "kaart met parkeerautomaten in de buurt"
+  ],
+  "wat_gaf_doorslag": "Er was geen twijfel over de parkeerplek en diverse parkeerautomaten maakten het betaald parkeren kenbaar."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:GHAMS:2017:3863"
+  ]
+ },
+ "wetsartikelen": [
+  "Verordening Parkeerbelastingen Amsterdam (stratentabel)"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar bij elke scanauto-naheffing een foto en een kaart waarop de exacte plek is aangekruist.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    39
+   ],
+   "citaat": "een foto die de scanauto heeft gemaakt van het geparkeerde voertuig alsmede een kaart waarop de exacte locatie is aangekruist"
+  },
+  {
+   "actie": "Leg bij voertuigen op de rand van een betaald-parkeerzone extra precies vast waar het voertuig stond.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    39
+   ],
+   "citaat": "waarin is geparkeerd op de rand van een betaald parkeren zone"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "scanauto-handhaving",
+  "bezwaar",
+  "klantcontact",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "In Amsterdam moet u bijna overal betalen voor parkeren; kijk daarom voordat u parkeert of er een parkeerautomaat of bord staat. Klopt het adres op uw rekening niet precies, dan is de rekening meestal toch geldig, omdat de scanauto de plek aan het dichtstbijzijnde adres koppelt. Bezwaar heeft vooral zin als er echt twijfel is of u in een betaald-parkeergebied stond, bijvoorbeeld aan de rand van een zone.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

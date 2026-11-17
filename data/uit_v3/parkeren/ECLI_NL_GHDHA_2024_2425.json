@@ -1,0 +1,186 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "reden_leeg_actie": null,
+ "dubbel_van": null,
+ "reden_gemeente_leeg": null,
+ "actie_gemeente": [
+  {
+   "actie": "Leg in het dossier foto's, GPS-gegevens en kaartlocatie van de scanauto vast en bewaar de verwerkingshistorie.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    45
+   ],
+   "citaat": "is er geen reden om te twijfelen aan de door de Heffingsambtenaar overgelegde stukken"
+  },
+  {
+   "actie": "Laat naheffingen via het geautomatiseerde systeem opleggen door een aangewezen heffingsambtenaar en leg die aanwijzing vast.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    48
+   ],
+   "citaat": "De naheffingsaanslag is namelijk via het geautomatiseerde systeem bevoegd opgelegd door de directeur gemeentebelastingen"
+  }
+ ],
+ "rechtsregel": {
+  "zin": "In het belastingrecht geldt de vrije bewijsleer: de gemeente mag alle bewijsmiddelen gebruiken, ook GPS-gegevens en scanautofoto's.",
+  "type": "regel",
+  "reikwijdte": "Bewijs van parkeren bij een naheffing na een scanautocontrole",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   43
+  ],
+  "citaat": "Binnen de vrije bewijsleer hebben partijen de vrije keuze in bewijsmiddelen die zij willen aandragen"
+ },
+ "steunt": "gemeente",
+ "ecli": "ECLI:NL:GHDHA:2024:2425",
+ "onderwerp": "handhaving-privacy",
+ "sub": "scanauto-bewijs",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (met gemachtigde)",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder gaat in hoger beroep bij het gerechtshof Den Haag tegen de gemeente Den Haag. Het gaat om een naheffingsaanslag (rekening achteraf voor parkeren) die een scanauto vaststelde.",
+ "titel": "Foto's en GPS-gegevens van de scanauto zijn goed bewijs",
+ "kern": {
+  "zin": "Het hof vindt dat foto's en GPS-gegevens van de scanauto als bewijs mogen worden gebruikt en de naheffing terecht is opgelegd.",
+  "bron": [
+   44
+  ],
+  "citaat": "Het Hof is van oordeel dat niets in de weg staat aan het gebruik van deze apparatuur"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een scanauto stelde op 26 juni 2022 om 00.41 uur vast dat er geen parkeerbelasting was betaald, en de gemeente legde een naheffing op.",
+   "bron": [
+    20
+   ],
+   "citaat": "Tijdens een controle met een scanauto op het genoemde tijdstip is geconstateerd dat er geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat foto's en GPS-gegevens geen bewijs zijn, omdat daar geen wettelijke basis voor is.",
+   "bron": [
+    42
+   ],
+   "citaat": "voor het gebruik van gps-gegevens geen wettelijke basis bestaat"
+  },
+  {
+   "zin": "De gemeente moet bewijzen dat het parkeren is gebeurd, maar mag daarvoor alle bewijsmiddelen gebruiken.",
+   "bron": [
+    43
+   ],
+   "citaat": "Voorop staat dat de Heffingsambtenaar de bewijslast heeft dat het belastbare feit zich heeft voorgedaan."
+  },
+  {
+   "zin": "Het hof ziet geen reden om te twijfelen aan de stukken van de gemeente, ook omdat de parkeerder geen feiten aanvoerde die het bewijs onderuit halen.",
+   "bron": [
+    45
+   ],
+   "citaat": "geen feiten of omstandigheden heeft aangevoerd op grond waarvan het door de Heffingsambtenaar aangevoerde bewijs betwijfeld moet worden"
+  },
+  {
+   "zin": "Het hof bevestigt de uitspraak van de rechtbank.",
+   "bron": [
+    54
+   ],
+   "citaat": "Het Gerechtshof bevestigt de uitspraak van de Rechtbank."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; scanautobewijs en bevoegdheid in orde",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan en de parkeerder krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   52
+  ],
+  "citaat": "Er is geen aanleiding voor een vergoeding van proceskosten."
+ },
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Foto's en GPS-gegevens van de scanauto bewijzen niet dat de auto daar stond, en er is geen wettelijke basis voor GPS-bewijs.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof zegt dat niets in de weg staat aan het gebruik van GPS-apparatuur als bewijs.",
+    "bron": [
+     44
+    ],
+    "citaat": "Het Hof is van oordeel dat niets in de weg staat aan het gebruik van deze apparatuur"
+   },
+   "bruikbare_zin": {
+    "citaat": "Binnen de vrije bewijsleer hebben partijen de vrije keuze in bewijsmiddelen die zij willen aandragen",
+    "bron": [
+     43
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Een naheffing kan alleen als er aangifte is gedaan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Parkeerbelasting wordt geheven bij voldoening op aangifte, dus wie niet betaalt kan een naheffing krijgen.",
+    "bron": [
+     47
+    ],
+    "citaat": "Parkeerbelasting wordt op grond van artikel 234, lid 1, Gemeentewet geheven bij voldoening op aangifte"
+   },
+   "bruikbare_zin": {
+    "citaat": "Parkeerbelasting wordt op grond van artikel 234, lid 1, Gemeentewet geheven bij voldoening op aangifte",
+    "bron": [
+     47
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Chauffeurs van de scanauto hebben geen mandaat, dus de naheffing is onbevoegd opgelegd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De directeur gemeentebelastingen legde de naheffing bevoegd op via het geautomatiseerde systeem.",
+    "bron": [
+     48
+    ],
+    "citaat": "De naheffingsaanslag is namelijk via het geautomatiseerde systeem bevoegd opgelegd door de directeur gemeentebelastingen"
+   },
+   "bruikbare_zin": {
+    "citaat": "De naheffingsaanslag is namelijk via het geautomatiseerde systeem bevoegd opgelegd door de directeur gemeentebelastingen",
+    "bron": [
+     48
+    ]
+   }
+  }
+ ],
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto's van de scanauto",
+   "GPS-coördinaten",
+   "dossier naheffingsaanslag"
+  ],
+  "wat_gaf_doorslag": "De parkeerder voerde geen feiten aan die het bewijs van de gemeente in twijfel trokken."
+ },
+ "toepasselijkheid": "landelijk",
+ "wetsartikelen": [
+  "art. 234 lid 1 Gemeentewet",
+  "art. 20 lid 1 AWR",
+  "art. 3 lid 1 Uitvoeringsbesluit gemeentebelastingen Den Haag 2020"
+ ],
+ "raakt": [
+  "scanauto-handhaving",
+  "bezwaar",
+  "privacy-woo"
+ ],
+ "klantuitleg": "Een naheffing na een scanautocontrole mag de gemeente bewijzen met foto's en GPS-gegevens van de scanauto. Dat het bewijs digitaal is, maakt het niet ongeldig. Bezwaar heeft vooral zin als u concrete feiten kunt noemen die laten zien dat het bewijs niet klopt.",
+ "gemeente": "Den Haag",
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,169 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "dubbel_van": null,
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "reden_gemeente_leeg": null,
+ "ecli": "ECLI:NL:GHARL:2018:10945",
+ "onderwerp": "parkeerverbod",
+ "sub": "maximale-duur",
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "bewoner met parkeervergunning",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bewoner van de Kaai in Veere kreeg een boete van € 90 omdat hij langer dan 30 minuten op een parkeerplek stond. Hij ging in hoger beroep tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Boete blijft: auto na blokkade niet weggereden",
+ "kern": {
+  "zin": "De rechter vond de boete terecht: de blokkade was al weg en de bewoner liet zijn auto toch staan.",
+  "bron": [
+   35
+  ],
+  "citaat": "deed zich tussen 12:21 uur en 12:53 uur dan ook niet (meer) voor"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner stond met zijn auto langer dan 30 minuten op een plek met een maximale parkeertijd van 30 minuten.",
+   "bron": [
+    26
+   ],
+   "citaat": "een plek waar dit voor maximaal 30 minuten was toegestaan"
+  },
+  {
+   "zin": "Hij zei dat zijn auto werd geblokkeerd door de auto van zijn buurman.",
+   "bron": [
+    20
+   ],
+   "citaat": "ziet hij dat zijn voertuig geblokkeerd is door het voertuig van zijn buurman"
+  },
+  {
+   "zin": "De handhaver liet de blokkade opheffen en wachtte daarna 30 minuten voordat hij een boete gaf.",
+   "bron": [
+    33
+   ],
+   "citaat": "Ik heb toen de beslissing genomen om vanaf dat moment 30 minuten te wachten."
+  },
+  {
+   "zin": "De rechter vond dat de bewoner zijn auto had kunnen verplaatsen, maar dat niet deed en wegliep.",
+   "bron": [
+    35
+   ],
+   "citaat": "heeft van deze mogelijkheid geen gebruik gemaakt en is weggelopen"
+  },
+  {
+   "zin": "Dat de buurman ook fout parkeerde en geen boete kreeg, maakt de boete niet onterecht.",
+   "bron": [
+    36
+   ],
+   "citaat": "daarvan ook gevrijwaard zou moeten blijven"
+  },
+  {
+   "zin": "De rechter bevestigde de beslissing van de kantonrechter.",
+   "bron": [
+    38
+   ],
+   "citaat": "De beslissing van de kantonrechter wordt bevestigd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Overmacht gold alleen tijdens de blokkade; boete van € 90 blijft.",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner moet de boete van € 90 betalen.",
+  "bron": [
+   38,
+   19
+  ],
+  "citaat": "De beslissing van de kantonrechter wordt bevestigd."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Mijn auto werd geblokkeerd, dus ik kon niet op tijd weg (overmacht).",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De blokkade was opgeheven en de bewoner gebruikte die kans niet.",
+    "bron": [
+     35
+    ],
+    "citaat": "heeft van deze mogelijkheid geen gebruik gemaakt en is weggelopen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het beroep op overmacht faalt",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Voor een parkeerschijf had hier een bord parkeerschijfzone moeten staan; de situatie was niet duidelijk.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De plek had duidelijke borden met een onderbord van 30 minuten.",
+    "bron": [
+     34
+    ],
+    "citaat": "voorzien is van duidelijke bebording (bord E4 met onderbord)"
+   },
+   "bruikbare_zin": {
+    "citaat": "Van een verwarrende parkeersituatie ter plekke is niet gebleken",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "gelijkheid",
+   "burger_zegt": "De buurman parkeerde ook fout en kreeg geen boete.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Strijd met gelijke behandeling is er alleen als zonder goede reden van het vaste beleid is afgeweken, en dat bleek niet.",
+    "bron": [
+     37
+    ],
+    "citaat": "Daarvan is het hof niet gebleken."
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een plek met maximale parkeertijd moet de bestuurder er alles aan doen om niet te lang te staan; overmacht telt alleen zolang hij echt niet anders kon.",
+  "type": "regel",
+  "reikwijdte": "Parkeerplek met maximale parkeerduur; blokkade door een ander voertuig",
+  "uitzondering": "Een geslaagd beroep op overmacht kan de boete laten vervallen, als de bestuurder niet anders kon",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   34
+  ],
+  "citaat": "mag dan ook worden verwacht dat hij er alles aan doet om de maximale parkeerduur niet te overschrijden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "aanvullende verklaring van de handhaver",
+   "foto's van de bebording"
+  ],
+  "wat_gaf_doorslag": "De blokkade was al opgeheven en de bewoner liep weg zonder zijn auto te verplaatsen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 24 lid 1 aanhef en onder d sub 2 RVV 1990",
+  "bord E4 bijlage 1 RVV 1990"
+ ],
+ "actie_gemeente": [],
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Bij een parkeerplek met een maximale parkeertijd moet u er alles aan doen om op tijd weg te gaan. Staat een ander voertuig u in de weg, dan kan dat een reden zijn voor geen boete, maar alleen zolang u echt niet weg kunt. Kon u wel weg en deed u het niet, dan heeft bezwaar weinig kans.",
+ "gemeente": "Veere",
+ "zekerheid": "hoog"
+}

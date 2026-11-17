@@ -1,0 +1,198 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2026:111",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "verkeersbesluit",
+ "kenmerk": null,
+ "zaaktype": "verkeersbesluit",
+ "partijen": {
+  "burger": "bewoner van de straat",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner ging in beroep tegen het besluit van de gemeente Amsterdam om twee parkeerplaatsen aan te wijzen voor elektrische auto's. De bestuursrechter van de rechtbank Amsterdam moest beoordelen of de gemeente dat besluit goed had onderbouwd.",
+ "titel": "Twee laadplekken in de straat: beroep van bewoner afgewezen",
+ "kern": {
+  "zin": "De rechter oordeelde dat de gemeente het belang van de laadplekken en de keuze voor deze locaties voldoende had onderbouwd.",
+  "bron": [
+   35
+  ],
+  "citaat": "verweerder het belang van het verkeersbesluit en de keuzes voor het realiseren van laadpunten"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente wees twee parkeerplaatsen aan voor het opladen van elektrische auto's.",
+   "bron": [
+    9
+   ],
+   "citaat": "de aanwijzing van twee parkeerplaatsen voor het opladen van elektrische voertuigen"
+  },
+  {
+   "zin": "De burger vond dat de berekening van de bezetting niet klopte, omdat laadpaalkleven meetelde.",
+   "bron": [
+    21
+   ],
+   "citaat": "is volgens hem onjuist, omdat bij het bepalen van de bezettingsgraad"
+  },
+  {
+   "zin": "De gemeente zette het milieubelang en de aanleg van een openbaar laadnetwerk hoger dan het verlies aan parkeerplekken.",
+   "bron": [
+    38
+   ],
+   "citaat": "het milieubelang en het ontwikkelen van een opbaar laadnetwerk zwaarder dan het verlies aan parkeergelegenheid"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente geen fout had gemaakt bij de afweging van de belangen.",
+   "bron": [
+    38
+   ],
+   "citaat": "geen onjuiste belangenafweging heeft gemaakt"
+  },
+  {
+   "zin": "Het verkeersbord-argument kwam pas op de zitting en bleef daarom buiten beschouwing.",
+   "bron": [
+    42
+   ],
+   "citaat": "laat deze grond daarom buiten beschouwing"
+  },
+  {
+   "zin": "Het besluit blijft staan, dus de laadplekken komen in de straat van de burger.",
+   "bron": [
+    38,
+    46
+   ],
+   "citaat": "het plaatsen van de laadpaal in de straat waar hij woont"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; besluit over laadplekken blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner moet de laadplekken in zijn straat accepteren, want het beroep is ongegrond.",
+  "bron": [
+   38,
+   46
+  ],
+  "citaat": "het plaatsen van de laadpaal in de straat waar hij woont"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "belangenafweging-verkeersbesluit",
+   "burger_zegt": "De bezetting is verkeerd berekend, omdat laadpaalkleven als bezetting telt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de keuze voor deze locaties voldoende en duidelijk onderbouwd.",
+    "bron": [
+     35
+    ],
+    "citaat": "voldoende en inzichtelijk heeft gemotiveerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "het belang van het verkeersbesluit en de keuzes voor het realiseren van laadpunten",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "gelijkheid",
+   "burger_zegt": "Elektrische auto's mogen op meer plekken parkeren, dat is ongelijk.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag geen ongelijke behandeling, omdat ook elektrische rijders parkeerruimte verliezen.",
+    "bron": [
+     37
+    ],
+    "citaat": "De rechtbank is van oordeel dat dit geen rechtsongelijkheid met zich mee brengt"
+   },
+   "bruikbare_zin": {
+    "citaat": "ook bestuurders van elektrische voertuigen hebben namelijk te maken met het verlies aan parkeerruimte",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Door de verdwenen plekken moet hij steeds langer rondrijden om te parkeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter hoort een verkeersmaatregel bij de gewone ontwikkeling van de stad, dus is er geen onevenredig nadeel.",
+    "bron": [
+     38
+    ],
+    "citaat": "Het treffen van een verkeersmaatregel is een normale maatschappelijke ontwikkeling"
+   },
+   "bruikbare_zin": {
+    "citaat": "het plaatsen van de laadpaal in de straat waar hij woont",
+    "bron": [
+     38
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De burger zegt dat het verkeersbord E8 niet het juiste bord is.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter liet dit punt buiten beschouwing, omdat het pas op de zitting naar voren kwam.",
+    "bron": [
+     42
+    ],
+    "citaat": "laat deze grond daarom buiten beschouwing"
+   },
+   "bruikbare_zin": {
+    "citaat": "pas op de zitting naar voren heeft gebracht",
+    "bron": [
+     42
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor een verkeersbesluit is voldoende dat de belangen worden gediend en dat de afweging duidelijk is gemaakt.",
+  "type": "regel",
+  "reikwijdte": "verkeersbesluiten, zoals het aanwijzen van parkeerplaatsen",
+  "uitzondering": "als de nadelen onevenredig zijn ten opzichte van het doel",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   25
+  ],
+  "citaat": "Voldoende is dat met het verkeersbesluit de eraan ten grondslag gelegde belangen worden gediend"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 21 Besluit administratieve bepalingen inzake het wegverkeer",
+  "art. 2 Wegenverkeerswet 1994"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zorg dat de gemachtigde bij de zitting een inhoudelijke reactie heeft op nieuwe beroepsgronden over bebording.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    40
+   ],
+   "citaat": "niet inhoudelijk op de grond kon reageren en daarover navraag zou moeten doen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit"
+ ],
+ "klantuitleg": "Een laadplek in uw straat mag in beginsel worden aangewezen, ook als er daardoor parkeerplekken verdwijnen. De rechter vond dat de gemeente dat goed had onderbouwd. Wilt u daartegen opkomen, dan moet u concreet laten zien waarom het nadeel voor u onevenredig is; zonder dat maakt dat weinig kans.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

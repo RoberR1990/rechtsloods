@@ -1,0 +1,167 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2026:26910",
+ "relevant": true,
+ "onderwerp": "politie-justitie",
+ "sub": "afschermen-geheim",
+ "kenmerk": null,
+ "zaaktype": "overig",
+ "partijen": {
+  "burger": "visumaanvrager (vrouw uit Marokko)",
+  "wederpartij": "minister van Buitenlandse Zaken",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "De minister van Buitenlandse Zaken vraagt de rechtbank Den Haag om de profielen van het algoritme IOB alleen aan de rechter te laten zien. Het gaat om een beroep van een vrouw uit Marokko over haar visumaanvraag.",
+ "titel": "Rechter mag algoritme-profielen zien, de visumaanvrager niet",
+ "kern": {
+  "zin": "De rechter vindt dat het belang van de minister zwaarder weegt, dus alleen de rechter mag de profielen van het algoritme zien.",
+  "bron": [
+   29
+  ],
+  "citaat": "De rechtbank acht het verzoek tot beperkte kennisneming hier dan ook gerechtvaardigd."
+ },
+ "samenvatting": [
+  {
+   "zin": "De minister gaf de rechter de profielen van het algoritme IOB en wil dat alleen de rechter ze mag zien.",
+   "bron": [
+    22
+   ],
+   "citaat": "de profielen in het algoritme IOB (Informatie Ondersteunend Beslissen) die golden in de periode van de visumaanvraag"
+  },
+  {
+   "zin": "De vrouw wil de informatie wel zien, omdat zij recht heeft op een eerlijk proces.",
+   "bron": [
+    23
+   ],
+   "citaat": "Volgens eiseres dient zij vanwege het recht op een eerlijk proces toegang tot de informatie te krijgen"
+  },
+  {
+   "zin": "De minister zegt dat bekendmaking van de profielen kan leiden tot het inspelen op het systeem bij nieuwe aanvragen.",
+   "bron": [
+    27
+   ],
+   "citaat": "het prijsgeven van de profielen tot gevolg kan hebben dat hier in toekomstige aanvragen op wordt geanticipeerd"
+  },
+  {
+   "zin": "De rechter zegt dat verwijzen naar de Woo niet genoeg is en dat een aparte afweging nodig is.",
+   "bron": [
+    25
+   ],
+   "citaat": "is een afzonderlijke toets vereist of gewichtige redenen als bedoeld in dit artikel aanwezig zijn"
+  },
+  {
+   "zin": "De rechter vindt de belangen van de minister zwaarder wegen dan die van de vrouw.",
+   "bron": [
+    29
+   ],
+   "citaat": "de door de minister gestelde belangen zwaarder wegen dan de door eiseres gestelde belangen"
+  },
+  {
+   "zin": "Met toestemming van de vrouw kan de rechter de stukken wel zien, zij zelf niet.",
+   "bron": [
+    28
+   ],
+   "citaat": "kan de rechtbank in geval van toestemming van eiseres wel kennisnemen van de onderliggende informatie, alleen eiseres niet"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beslissing over geheimhouding; het beroep zelf is nog niet beslist.",
+ "gevolg_betrokkene": {
+  "zin": "De visumaanvrager krijgt de profielen niet te zien; de beslissing noemt geen proceskosten of bedragen.",
+  "bron": [
+   31
+  ],
+  "citaat": "De rechtbank wijst het verzoek tot beperkte kennisneming toe."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "geheimhouding-onterecht",
+   "burger_zegt": "De vrouw zegt dat de informatie niet geheim mag blijven, omdat haar belang bij een eerlijk proces zwaarder weegt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de belangen van de minister zwaarder wegen.",
+    "bron": [
+     29
+    ],
+    "citaat": "de door de minister gestelde belangen zwaarder wegen dan de door eiseres gestelde belangen"
+   },
+   "bruikbare_zin": {
+    "citaat": "waarom volgens hem het belang bij beperkte kennisneming zwaarder weegt dan het belang dat de andere partij(en) van het stuk kennisnemen",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De vrouw zegt dat de Woo-gronden van de minister het verzoek niet dragen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vindt dat alleen verwijzen naar de Woo geen voldoende motivering is.",
+    "bron": [
+     25
+    ],
+    "citaat": "de verwijzing naar een of meer weigeringsgronden in de Woo geen voldoende motivering is"
+   },
+   "bruikbare_zin": {
+    "citaat": "de verwijzing naar een of meer weigeringsgronden in de Woo geen voldoende motivering is",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor beperkte kennisneming is een aparte toets nodig of er gewichtige redenen zijn; alleen verwijzen naar de Woo is niet genoeg.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om beperkte kennisneming van stukken in een rechtszaak (art. 8:29 Awb)",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "is een afzonderlijke toets vereist of gewichtige redenen als bedoeld in dit artikel aanwezig zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "profielen in het algoritme IOB (vertrouwelijke B-stukken)",
+   "toelichting van de minister van 16 juli 2026"
+  ],
+  "wat_gaf_doorslag": "De rechter woog het belang van de minister om inspelen op het systeem te voorkomen zwaarder dan dat van de vrouw."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:29 lid 1 Awb",
+  "art. 8:29 lid 3 Awb",
+  "art. 5.1 lid 1 onder d Woo",
+  "art. 5.1 lid 2 onder i Woo"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Onderbouw een verzoek om beperkte kennisneming met een eigen belangenafweging en niet alleen met een verwijzing naar de Woo",
+   "raakt": "woo-openbaarheid",
+   "bron": [
+    25
+   ],
+   "citaat": "de verwijzing naar een of meer weigeringsgronden in de Woo geen voldoende motivering is"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "woo-openbaarheid",
+  "datateam-algoritmes",
+  "bezwaar"
+ ],
+ "klantuitleg": "Deze zaak gaat over een visumaanvraag bij de minister en niet over een gemeente. De rechter besliste dat alleen hij de profielen van het algoritme mocht zien en de aanvrager niet, omdat het belang van de minister zwaarder woog. Wilt u stukken zien die een organisatie geheim houdt, dan kunt u uw belang bij een eerlijk proces aanvoeren; hier is dat niet gelukt.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente betrokken; de minister is partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

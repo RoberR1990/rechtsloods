@@ -1,0 +1,162 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2026:831",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Utrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder procedeert tegen de gemeente Utrecht over een rekening achteraf voor parkeren. De Rechtbank Midden-Nederland beoordeelt het beroep tegen de uitspraak op bezwaar.",
+ "titel": "Kosten van 72,90 euro bij een parkeerrekening achteraf bleven overeind",
+ "kern": {
+  "zin": "De rechter vond de kosten van 72,90 euro terecht, omdat de gemeente de raming mocht maken met de gegevens die toen beschikbaar waren.",
+  "bron": [
+   45
+  ],
+  "citaat": "De rechtbank acht het gerechtvaardigd dat de raming van het aantal naheffingsaanslagen wordt gebaseerd op een inschatting"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Utrecht legde de parkeerder een naheffingsaanslag (de rekening achteraf) op, omdat er te weinig parkeergeld was betaald.",
+   "bron": [
+    17
+   ],
+   "citaat": "omdat er door eiser geen of te weinig parkeerbelasting is betaald"
+  },
+  {
+   "zin": "De parkeerder zegt dat het aantal aanslagen dat voor de raming is gebruikt te laag was.",
+   "bron": [
+    43
+   ],
+   "citaat": "Eiser stelt dat er reden is om aan te nemen dat de gegevens in de bijlage"
+  },
+  {
+   "zin": "De gemeente antwoordt dat een raming vooraf altijd een schatting is, en dat het verschil van 160 aanslagen klein is.",
+   "bron": [
+    44
+   ],
+   "citaat": "De raming is altijd gebaseerd op een schatting die vooraf wordt gemaakt"
+  },
+  {
+   "zin": "De rechter vindt dat de gemeente de raming mocht maken met gegevens van vóór 2023.",
+   "bron": [
+    45
+   ],
+   "citaat": "De heffingsambtenaar had gelet hierop dan ook een inschatting mogen maken aan de hand van beschikbare gegevens van vóór 2023"
+  },
+  {
+   "zin": "Ook de kosten van parkeerautomaten, belparkeren en vergunningen mochten volgens de rechter worden doorberekend.",
+   "bron": [
+    49
+   ],
+   "citaat": "hangen de kosten die verband houden met vergunningensystemen, belparkeren en parkeerautomaten"
+  },
+  {
+   "zin": "Het griffierecht wordt niet terugbetaald en de proceskosten worden niet vergoed.",
+   "bron": [
+    51
+   ],
+   "citaat": "Eiser krijgt daarom het griffierecht niet terug"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; kosten van 72,90 euro blijven staan",
+ "gevolg_betrokkene": {
+  "zin": "De 72,90 euro blijft verschuldigd en het griffierecht wordt niet terugbetaald.",
+  "bron": [
+   51
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De parkeerder zegt dat de raming te weinig aanslagen gebruikte, waardoor de kosten per aanslag te hoog zijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het bedrag klopt volgens de rechter, want de raming was gebaseerd op de gegevens van dat moment.",
+    "bron": [
+     45
+    ],
+    "citaat": "De schatting is immers gemaakt aan de hand van de gegevens die op dat moment beschikbaar waren"
+   },
+   "bruikbare_zin": {
+    "citaat": "De raming is altijd gebaseerd op een schatting die vooraf wordt gemaakt",
+    "bron": [
+     44
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "Kosten van vergunningen, belparkeren en parkeerautomaten horen niet in de naheffing.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter horen die kosten meer dan zijdelings bij het innen van niet betaalde parkeerbelasting.",
+    "bron": [
+     49
+    ],
+    "citaat": "hangen de kosten die verband houden met vergunningensystemen, belparkeren en parkeerautomaten"
+   },
+   "bruikbare_zin": {
+    "citaat": "De parkeerautomaten, belparkeren en vergunningensystemen zijn namelijk onontbeerlijk",
+    "bron": [
+     49
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Kosten die meer dan zijdelings samenhangen met het innen van niet betaalde parkeerbelasting mogen in de naheffing worden doorberekend.",
+  "type": "regel",
+  "reikwijdte": "kosten van parkeerautomaten, belparkeren en vergunningensystemen",
+  "uitzondering": "kosten die geheel of nagenoeg geheel andere doeleinden dienen",
+  "herkomst": "wet",
+  "bron": [
+   49
+  ],
+  "citaat": "Daarbij geldt als uitgangspunt dat de kostenpost meer dan zijdelings moet samenhangen met de inning van niet betaalde parkeerbelastingen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 234 lid 5 (de wet)",
+  "art. 2 Besluit gemeentelijke parkeerbelastingen",
+  "Verordening parkeerbelastingen 2023 Utrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Neem bij het maken van de raming voor latere jaren de werkelijke aantallen naheffingsaanslagen mee.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    45
+   ],
+   "citaat": "Het daadwerkelijke aantal naheffingsaanslagen in 2023 is dan ook relevant voor de ramingen na 2023"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "verordening-beleid"
+ ],
+ "klantuitleg": "Hebt u voor het parkeren niet of te weinig betaald, dan krijgt u een rekening achteraf van de gemeente. De rechter vond dat de gemeente de kosten van die rekening mocht berekenen met de cijfers die toen beschikbaar waren. Heeft u wel betaald, of was de zone of het kenteken niet goed ingevoerd, dan is het de moeite waard om bij bezwaar daarnaar te kijken; alleen de hoogte van het bedrag maakt weinig kans.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

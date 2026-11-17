@@ -1,0 +1,191 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:5098",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": null,
+ "zaaktype": "niet-tijdig-beslissen",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Ommen",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De burger heeft hoger beroep ingesteld bij de Raad van State tegen een uitspraak van de rechtbank Overijssel. Het gaat om de vraag of de gemeente Ommen op tijd heeft beslist op haar bezwaar tegen een besluit over inzage in haar persoonsgegevens.",
+ "titel": "Gemeente Ommen besliste op tijd op bezwaar over inzage",
+ "kern": {
+  "zin": "De Raad van State bevestigt dat de gemeente Ommen op tijd besliste, omdat de vertraging door het verplaatsen van de hoorzitting aan de burger is toe te rekenen.",
+  "bron": [
+   34,
+   38
+  ],
+  "citaat": "de ontstane vertraging door het verplaatsen van de hoorzitting daarom aan [appellante] is toe te rekenen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente heeft beslist op een verzoek om inzage van de burger.",
+   "bron": [
+    23
+   ],
+   "citaat": "Het college heeft met het besluit van 15 augustus 2022 beslist op een inzageverzoek van [appellante]"
+  },
+  {
+   "zin": "De burger vindt dat de gemeente te laat op haar bezwaar heeft beslist.",
+   "bron": [
+    30
+   ],
+   "citaat": "[appellante] betoogt hierover dat het college niet tijdig op haar bezwaar heeft beslist."
+  },
+  {
+   "zin": "De gemeente zegt dat de vertraging door het verzoek om de hoorzitting te verplaatsen aan de burger kan worden toegerekend.",
+   "bron": [
+    23
+   ],
+   "citaat": "omdat de vertraging vanwege haar verzoek om de hoorzitting te verplaatsen aan [appellante] kan worden toegerekend."
+  },
+  {
+   "zin": "De Raad van State oordeelt dat de gemeente op tijd heeft beslist.",
+   "bron": [
+    38
+   ],
+   "citaat": "Met het besluit van 7 februari 2023 heeft het college daarom tijdig beslist."
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond.",
+   "bron": [
+    41
+   ],
+   "citaat": "Het hoger beroep is ongegrond."
+  },
+  {
+   "zin": "De gemeente hoeft geen proceskosten te vergoeden.",
+   "bron": [
+    42
+   ],
+   "citaat": "Het college hoeft geen proceskosten te vergoeden."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De gemeente heeft op tijd beslist; het hoger beroep van de burger is ongegrond.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen gelijk: de uitspraak van de rechtbank blijft staan en de gemeente hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   41,
+   42
+  ],
+  "citaat": "De Afdeling bevestigt de uitspraak van de rechtbank"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente heeft te laat op mijn bezwaar beslist.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente heeft met het besluit van 7 februari 2023 tijdig beslist.",
+    "bron": [
+     38
+    ],
+    "citaat": "Met het besluit van 7 februari 2023 heeft het college daarom tijdig beslist."
+   },
+   "bruikbare_zin": {
+    "citaat": "Met het besluit van 7 februari 2023 heeft het college daarom tijdig beslist.",
+    "bron": [
+     38
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De vertraging door het uitstel van de hoorzitting is niet aan mij toe te rekenen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De vertraging door het verplaatsen van de hoorzitting is aan de burger toe te rekenen.",
+    "bron": [
+     34
+    ],
+    "citaat": "de ontstane vertraging door het verplaatsen van de hoorzitting daarom aan [appellante] is toe te rekenen"
+   },
+   "bruikbare_zin": {
+    "citaat": "de ontstane vertraging door het verplaatsen van de hoorzitting daarom aan [appellante] is toe te rekenen",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente heeft mij niet over de opschorting geïnformeerd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De informatieplicht geldt alleen bij overmacht, niet bij vertraging die aan de burger is toe te rekenen.",
+    "bron": [
+     35
+    ],
+    "citaat": "Deze bepaling is namelijk alleen van toepassing in geval van overmacht bij het bestuursorgaan."
+   },
+   "bruikbare_zin": {
+    "citaat": "Deze bepaling is namelijk alleen van toepassing in geval van overmacht bij het bestuursorgaan.",
+    "bron": [
+     35
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de burger zelf om uitstel van de hoorzitting vraagt, wordt de beslistermijn opgeschort van de dag na de oorspronkelijke hoorzitting tot de nieuwe hoorzitting.",
+  "type": "regel",
+  "reikwijdte": "Bij een bezwaar met een adviescommissie, als de burger om uitstel van de hoorzitting vraagt.",
+  "uitzondering": "Als de burger daarna vraagt de hoorzitting af te gelasten en zonder hoorzitting te beslissen, dan is de vertraging niet aan haar toe te rekenen.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   36
+  ],
+  "citaat": "De beslistermijn is daarmee opgeschort geweest van 10 november 2022 tot en met 11 januari 2023."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "e-mail van 27 oktober 2022",
+   "e-mail van 1 november 2022"
+  ],
+  "wat_gaf_doorslag": "De e-mail van 27 oktober 2022 waarin de burger zelf voorstelt de hoorzitting naar januari 2023 te verplaatsen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2020:2949"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 4:15 lid 2 onder b Awb",
+  "art. 4:15 lid 3 Awb",
+  "art. 4:15 lid 4 Awb",
+  "art. 7:10 lid 1 Awb",
+  "art. 6:7 Awb",
+  "art. 6:8 lid 1 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar de e-mail waarin de burger zelf om uitstel van de hoorzitting vraagt.",
+   "raakt": "bezwaar",
+   "bron": [
+    34
+   ],
+   "citaat": "Zij doet dit voorstel namelijk letterlijk in haar e-mail van 27 oktober 2022."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Deze uitspraak gaat over de vraag of de gemeente op tijd op uw bezwaar heeft beslist, niet over de vraag of u inzage krijgt. Als u zelf om uitstel van de hoorzitting vraagt, krijgt de gemeente meer tijd voor de beslissing. Komt u daarna niet, vraag dan om de hoorzitting af te gelasten; doet u dat niet, dan telt de vertraging voor u.",
+ "gemeente": "Ommen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

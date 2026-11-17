@@ -1,0 +1,170 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2024:1717",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder met gemachtigde",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder wilde een dwangsom (geld omdat de gemeente te laat beslist) van de gemeente Rotterdam over acht rekeningen achteraf voor parkeren. De gemeente ging in hoger beroep bij het gerechtshof Den Haag, nadat de rechtbank de parkeerder gelijk had gegeven.",
+ "titel": "Geen nieuw besluit nodig over vergoeding voor te late beslissing",
+ "kern": {
+  "zin": "Het hof vond dat de gemeente niets meer hoefde te beslissen: bij vijf zaken was al beslist en bij drie zaken was er geen ingebrekestelling.",
+  "bron": [
+   76
+  ],
+  "citaat": "Naar het oordeel van het Hof heeft de Rechtbank ten onrechte beslist dat sprake is van een"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder stelde de gemeente op 3 maart 2021 in gebreke omdat zij niet beslist had op bezwaren tegen vijf rekeningen achteraf.",
+   "bron": [
+    19
+   ],
+   "citaat": "Belanghebbende heeft met dagtekening 3 maart 2021 de Heffingsambtenaar in gebreke gesteld"
+  },
+  {
+   "zin": "De gemeente beslist daarna alsnog, vernietigde die vijf rekeningen en kende geen dwangsom toe.",
+   "bron": [
+    45
+   ],
+   "citaat": "Aangezien wij binnen de gestelde termijn van twee weken na ontvangst van uw ingebrekestelling alsnog uitspraak doen"
+  },
+  {
+   "zin": "De gemachtigde van de parkeerder vroeg later om een dwangsom voor acht rekeningen en zag de e-mail van de gemeente als een weigering om te beslissen.",
+   "bron": [
+    55
+   ],
+   "citaat": "opvat als een weigering om een (dwangsom)besluit te nemen"
+  },
+  {
+   "zin": "De rechtbank vond dat de e-mail een weigering was om te beslissen en droeg de gemeente op een nieuw besluit te nemen.",
+   "bron": [
+    63
+   ],
+   "citaat": "kan worden gezien als een (schriftelijke) weigering van verweerder om een besluit te nemen"
+  },
+  {
+   "zin": "De gemeente zei in hoger beroep dat de rechtbank dat ten onrechte vond; het hof gaf haar gelijk, omdat bij vijf rekeningen al was beslist om geen dwangsom toe te kennen.",
+   "bron": [
+    76
+   ],
+   "citaat": "reeds naar aanleiding van de ingebrekestelling van 3 maart 2021 beslist geen dwangsom toe te kennen"
+  },
+  {
+   "zin": "Bij de andere drie rekeningen was geen ingebrekestelling, en de e-mail was slechts informatie en geen besluit.",
+   "bron": [
+    80
+   ],
+   "citaat": "Het betreft slechts informatie over de gang van zaken"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Gemeente wint hoger beroep; geen dwangsom en geen proceskosten voor de parkeerder.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt geen dwangsom en geen proceskosten; of de gemeente reeds betaalde bedragen (€ 50 griffierecht en € 985 proceskosten) kan terugvorderen, bepaalt het civiele recht.",
+  "bron": [
+   84,
+   36,
+   37
+  ],
+  "citaat": "Er is geen aanleiding voor een veroordeling in de proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente moet nog een besluit nemen over mijn verzoek om een dwangsom voor het te laat beslissen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Bij vijf rekeningen was al beslist geen dwangsom toe te kennen, en bij drie was er geen ingebrekestelling.",
+    "bron": [
+     76
+    ],
+    "citaat": "reeds naar aanleiding van de ingebrekestelling van 3 maart 2021 beslist geen dwangsom toe te kennen"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen ingebrekestelling ingediend, zodat de Heffingsambtenaar niet gehouden was een dwangsombesluit te nemen",
+    "bron": [
+     76
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De e-mail van de gemeente is een weigering om een besluit te nemen, dus mijn bezwaar daartegen moest worden behandeld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De e-mail gaf alleen informatie over de gang van zaken en was daarom geen besluit.",
+    "bron": [
+     80
+    ],
+    "citaat": "Het betreft slechts informatie over de gang van zaken"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het betreft slechts informatie over de gang van zaken",
+    "bron": [
+     80
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een dwangsomverzoek na een eerdere ingebrekestelling dwingt de gemeente niet om opnieuw een dwangsombesluit te nemen.",
+  "type": "regel",
+  "reikwijdte": "Verzoek om dwangsom nadat de gemeente al op de ingebrekestelling heeft beslist en geen dwangsom heeft toegekend",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   78
+  ],
+  "citaat": "geen zelfstandige verplichting voor de Heffingsambtenaar schept tot het (opnieuw) nemen van een dwangsombesluit"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verzendadministratie van de gemeente (PostNL)",
+   "toelichting van de gemeente op de zitting",
+   "aangetekend afschrift van de uitspraken van 5 augustus 2021"
+  ],
+  "wat_gaf_doorslag": "De gemeente maakte aannemelijk dat de uitspraken op bezwaar al voor het dwangsomverzoek waren verzonden."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2024:906"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1:3 Awb",
+  "art. 4:17 lid 1 Awb",
+  "art. 6:2 onder a Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar de verzendadministratie van uitspraken op bezwaar, zodat u de verzending kunt bewijzen",
+   "raakt": "bezwaar",
+   "bron": [
+    76
+   ],
+   "citaat": "aan de hand van de door hem aan de Rechtbank overgelegde verzendadministratie"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Beslist de gemeente te laat op uw bezwaar, dan moet u haar eerst schriftelijk in gebreke stellen (een officiële laatste waarschuwing) voordat u een dwangsom (een bedrag voor elke dag dat ze te laat is) kunt krijgen. Heeft de gemeente daarna beslist en daarin geen dwangsom toegekend, dan dwingt een nieuw verzoek haar niet tot een nieuw besluit. Bent u het niet eens met het besluit over de dwangsom, maak daar dan op tijd bezwaar of beroep tegen.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

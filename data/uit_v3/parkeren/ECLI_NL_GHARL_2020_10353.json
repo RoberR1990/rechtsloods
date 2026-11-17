@@ -1,0 +1,154 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2020:10353",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "gehandicaptenplaats",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg een boete van € 370 voor parkeren op een gehandicaptenplaats. Zij gaat in hoger beroep tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Boete gehandicaptenplaats blijft: vrouw bleek zelf de bestuurder",
+ "kern": {
+  "zin": "De rechter vond dat de ambtenaar de vrouw als bestuurder mocht aanmerken, omdat zij zelf kwam aanlopen en zei dat het haar auto was.",
+  "bron": [
+   33
+  ],
+  "citaat": "heeft de ambtenaar op goede gronden vastgesteld dat de betrokkene de bestuurder is van het voertuig"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete van € 370 voor parkeren op een gehandicaptenplaats in Eindhoven.",
+   "bron": [
+    25
+   ],
+   "citaat": "Aan de betrokkene is bij inleidende beschikking een sanctie opgelegd van € 370,-"
+  },
+  {
+   "zin": "De parkeerder vond dat de boete aan de kentekenhouder had moeten gaan, want zij zou niet als bestuurder zijn aan te merken.",
+   "bron": [
+    26
+   ],
+   "citaat": "De gemachtigde voert aan dat de sanctie aan de kentekenhouder had moeten worden opgelegd"
+  },
+  {
+   "zin": "De handhaver verklaarde dat hij de vrouw vroeg of zij de bestuurder was en dat zij zei dat het haar auto was.",
+   "bron": [
+    30
+   ],
+   "citaat": "Ik heb de vrouw gevraagd of zij de bestuurder was van het voornoemde voertuig"
+  },
+  {
+   "zin": "De rechter vond dat de handhaver haar terecht als bestuurder zag, omdat zij zelf naar hem toe kwam terwijl hij nog bezig was.",
+   "bron": [
+    33
+   ],
+   "citaat": "heeft de ambtenaar op goede gronden vastgesteld dat de betrokkene de bestuurder is van het voertuig"
+  },
+  {
+   "zin": "De rechter vernietigde wel de eerdere beslissingen, omdat de foto's niet op tijd aan de parkeerder waren gestuurd, maar liet de boete zelf staan.",
+   "bron": [
+    23
+   ],
+   "citaat": "voorafgaand aan de beslissing op het administratief beroep aan de gemachtigde zijn verstrekt, is de informatieplicht geschonden"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete blijft staan; procedurefout hielp de parkeerder niet.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de boete van € 370 betalen en krijgt geen vergoeding van haar proceskosten.",
+  "bron": [
+   40,
+   25,
+   35
+  ],
+  "citaat": "verklaart het beroep tegen de inleidende beschikking ongegrond"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De boete had naar de kentekenhouder gemoeten, want niet aanstonds was vastgesteld wie de bestuurder was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De handhaver sprak haar aan terwijl hij nog bezig was en zij zei dat het haar auto was, dus de boete ging terecht naar haar als bestuurder.",
+    "bron": [
+     33
+    ],
+    "citaat": "heeft de ambtenaar op goede gronden vastgesteld dat de betrokkene de bestuurder is van het voertuig"
+   },
+   "bruikbare_zin": {
+    "citaat": "de ambtenaar tot staandehouding ter vaststelling van de identiteit van de bestuurder dient over te gaan",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De foto's van de overtreding kwamen te laat, terwijl ze al in het administratief beroep hadden moeten komen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De officier van justitie moest op verzoek de stukken en foto's sturen en kon niet aantonen dat dit voor de beslissing was gebeurd.",
+    "bron": [
+     23
+    ],
+    "citaat": "Nu niet kan worden vastgesteld dat deze foto’s voorafgaand aan de beslissing op het administratief beroep"
+   },
+   "bruikbare_zin": {
+    "citaat": "is de informatieplicht geschonden",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Meldt de bestuurder zich terwijl de handhaver nog de gegevens noteert, dan moet de handhaver haar aanspreken en de boete aan haar geven als zij erkent de bestuurder te zijn.",
+  "type": "regel",
+  "reikwijdte": "Parkeerovertreding waarbij de bestuurder zich meldt voordat de handhaver alle gegevens heeft genoteerd.",
+  "uitzondering": "Blijkt uit het gesprek niet dat de aangesproken persoon de bestuurder was, dan kan de boete naar de kentekenhouder.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   32
+  ],
+  "citaat": "de ambtenaar tot staandehouding ter vaststelling van de identiteit van de bestuurder dient over te gaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "proces-verbaal van de handhaver op ambtseed",
+   "zaakoverzicht",
+   "eigen antwoorden van de parkeerder"
+  ],
+  "wat_gaf_doorslag": "De parkeerder zei zelf tegen de handhaver dat het haar auto was."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHARL:2019:7976",
+   "ECLI:NL:GHARL:2020:3336"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 5 Wahv",
+  "art. 7:18 lid 4 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; officier van justitie is wederpartij",
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Staat uw auto fout geparkeerd en spreekt een handhaver u aan, dan kan de boete op uw naam komen. Zegt u dan dat u de bestuurder bent, dan is een bezwaar hierover weinig kansrijk. Wel kunt u de foto's en het dossier opvragen, want die moet u krijgen.",
+ "gemeente": "Eindhoven",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

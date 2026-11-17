@@ -1,0 +1,43 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:1",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "gehandicaptenplaats",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {"burger": "particulier, aanvrager", "wederpartij": "college van Oosterhout", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Een aanvrager vroeg een gehandicaptenparkeerplaats op zijn kenteken aan, en het college van Oosterhout wees dat af. Hij ging in beroep bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Eigen garage bruikbaar: aanvraag afgewezen",
+ "kern": {"zin": "De rechter vond dat de garage bruikbaar was, dus het college mocht de aanvraag afwijzen.", "bron": [27], "citaat": "het college de aanvraag in redelijkheid heeft kunnen afwijzen"},
+ "samenvatting": [
+  {"zin": "Een aanvrager vroeg op 30 juni 2023 een gehandicaptenparkeerplaats op zijn kenteken aan.", "bron": [17, 18], "citaat": "een aanvraag ingediend voor een gehandicaptenparkeerplaats op kenteken"},
+  {"zin": "Hij zegt dat zijn garage niet geschikt is, omdat hij de deur van de auto helemaal open moet kunnen doen.", "bron": [23], "citaat": "Zijn garage is niet geschikt om in te parkeren"},
+  {"zin": "Volgens het college is de garage op eigen terrein groot genoeg om erin te parkeren.", "bron": [24], "citaat": "De garage voldoet aan de afmetingen om erin te kunnen parkeren"},
+  {"zin": "De rechter vond dat de aanvraag in lijn met het beleid is afgewezen.", "bron": [27], "citaat": "De aanvraag is in lijn met het beleid afgewezen"},
+  {"zin": "Het besluit blijft staan, en de aanvrager krijgt het griffierecht en de proceskosten niet terug.", "bron": [38], "citaat": "Hij krijgt ook geen vergoeding van zijn proceskosten"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; afwijzing blijft, garage geldt als eigen parkeerplek",
+ "gevolg_betrokkene": {"zin": "De afwijzing blijft staan, dus er komt geen gehandicaptenparkeerplaats op dit kenteken.", "bron": [38], "citaat": "Dat betekent dat het college in redelijkheid de aanvraag heeft kunnen afwijzen"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "onevenredig", "burger_zegt": "De garage is niet geschikt, en het grote gezin heeft een grote auto nodig.", "oordeel": "verworpen", "waarom": {"zin": "Een grote auto voor een groot gezin is geen bijzondere omstandigheid, dus de afwijzing is niet onevenredig.", "bron": [28], "citaat": "betekent nog niet dat sprake is van een bijzondere omstandigheid"}, "bruikbare_zin": {"citaat": "betekent nog niet dat sprake is van een bijzondere omstandigheid", "bron": [28]}},
+  {"arg": "gelijkheid", "burger_zegt": "Op foto's ziet hij een andere gehandicaptenplaats op kenteken bij een bereikbare garage.", "oordeel": "verworpen", "waarom": {"zin": "Die plaats kreeg toewijzing onder een ander beleid, dus er zijn geen gelijke gevallen.", "bron": [36], "citaat": "Onder dat beleid golden er andere voorwaarden"}, "bruikbare_zin": {"citaat": "Er is daarmee geen sprake van gelijke gevallen die ongelijk zijn behandeld", "bron": [36]}},
+  {"arg": "overig", "burger_zegt": "Hem was een oplossing beloofd, en hij zou het voorstel anders niet hebben afgewezen.", "oordeel": "verworpen", "waarom": {"zin": "Het college deed geen toezegging dat een andere oplossing hem volledig zou passen, dus er was geen schending.", "bron": [32], "citaat": "heeft daarbij geen toezegging gedaan dat een andere oplossing"}, "bruikbare_zin": {"citaat": "heeft daarbij geen toezegging gedaan dat een andere oplossing", "bron": [32]}}
+ ],
+ "rechtsregel": {"zin": "Het college volgt zijn beleidsregel, tenzij bijzondere omstandigheden het onevenredig maken.", "type": "regel", "reikwijdte": "aanvragen voor een gehandicaptenparkeerplaats op kenteken", "uitzondering": "bijzondere omstandigheden die onevenredig uitpakken", "herkomst": "wet", "bron": [50], "citaat": "Het bestuursorgaan handelt overeenkomstig de beleidsregel"},
+ "bewijs": {"bewijslast_bij": "burger", "bewijsmiddelen": ["foto's van de garage"], "wat_gaf_doorslag": "De foto's lieten niet zien dat de garage onbruikbaar was."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": ["ECLI:NL:RVS:2012:BY5894"]},
+ "wetsartikelen": ["art. 4:84 Awb", "art. 2 beleidsregels gehandicaptenparkeerplaats op kenteken Oosterhout"],
+ "actie_gemeente": [{"actie": "Leg bij elke toekenning vast onder welk beleid de plaats is toegekend, zodat u later uitleg kunt geven.", "raakt": "verordening-beleid", "bron": [36], "citaat": "is toegekend onder het voorgaande beleid"}],
+ "reden_leeg_actie": null,
+ "raakt": ["verordening-beleid", "vergunningen", "bezwaar"],
+ "klantuitleg": "Heeft u een eigen garage of parkeerplek dicht bij uw woning, dan krijgt u geen gehandicaptenparkeerplaats op kenteken, tenzij die plek niet bereikbaar of bruikbaar is. Een grote auto of een groot gezin maakt dat op zichzelf niet anders. Wilt u toch bezwaar maken, dan is bewijs nodig dat uw garage echt niet bruikbaar is, zoals foto's.",
+ "gemeente": "Oosterhout",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

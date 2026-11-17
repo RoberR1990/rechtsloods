@@ -1,0 +1,161 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "ecli": "ECLI:NL:GHARL:2018:6095",
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Hilversum",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De gemeente Hilversum ging in hoger beroep tegen een uitspraak over een parkeerder die een naheffingsaanslag (een rekening achteraf) had gekregen. Het gerechtshof Arnhem-Leeuwarden beoordeelde of de naheffing van € 63,50 klopte.",
+ "titel": "Al betaald parkeergeld mag niet nog eens worden nageheven",
+ "kern": {
+  "zin": "Het hof vond dat de vaste parkeerduur van één uur alleen geldt als onduidelijk is hoe lang iemand heeft geparkeerd, en liet de lagere naheffing staan.",
+  "bron": [
+   33
+  ],
+  "citaat": "deze alleen ziet op gevallen waarin onduidelijkheid bestaat over de parkeerduur"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeerder betaalde € 1 bij de automaat in Hilversum en kreeg een kaartje met begintijd 13.58 uur en eindtijd 14.21 uur.",
+   "bron": [
+    17
+   ],
+   "citaat": "Bij de parkeerautomaat heeft hij € 1 aan parkeerbelasting betaald"
+  },
+  {
+   "zin": "Om 14.24 uur stond de auto er nog en de gemeente legde een naheffing op van € 63,50, waarvan € 2,60 belasting voor een uur en € 60,90 kosten.",
+   "bron": [
+    18
+   ],
+   "citaat": "is een naheffingsaanslag opgelegd ten bedrage van € 63,50, bestaande uit € 2,60 aan nageheven parkeerbelasting"
+  },
+  {
+   "zin": "De rechtbank verlaagde de naheffing met het al betaalde € 1.",
+   "bron": [
+    21
+   ],
+   "citaat": "De Rechtbank heeft de naheffingsaanslag met € 1 verminderd"
+  },
+  {
+   "zin": "Volgens het hof kan al betaalde belasting niet nog eens worden nageheven.",
+   "bron": [
+    26
+   ],
+   "citaat": "Reeds betaalde belasting kan met andere woorden niet in een naheffingsaanslag worden begrepen"
+  },
+  {
+   "zin": "Er bleef maar 3 minuten onbetaald parkeren over, en de gemeente erkende dat de parkeerduur korter dan een uur was.",
+   "bron": [
+    34
+   ],
+   "citaat": "Resteert een parkeerduur van 3 minuten waarover de verschuldigde parkeerbelasting niet is betaald"
+  },
+  {
+   "zin": "Omdat de parkeerder zelf geen hoger beroep had ingesteld, bleef het bij de verlaging van de rechtbank en was het hoger beroep van de gemeente ongegrond.",
+   "bron": [
+    35
+   ],
+   "citaat": "geen aanleiding bestaat de naheffingsaanslag in hoger beroep verder te verminderen dan de Rechtbank heeft gedaan"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Naheffing met € 1 verlaagd; verdere verlaging viel buiten het hoger beroep.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing is € 1 lager, € 62,50 in totaal, en de gemeente moet € 69,96 aan proceskosten vergoeden. Volgens het hof had de belasting zelfs € 0,13 moeten zijn, maar daar kon het hof niet meer over beslissen omdat de parkeerder zelf niet in hoger beroep ging.",
+  "bron": [
+   43,
+   35,
+   34
+  ],
+  "citaat": "veroordeelt de heffingsambtenaar in de proceskosten van belanghebbende tot een bedrag van € 69,96"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De parkeerder had al € 1 betaald voor een deel van de parkeertijd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het al betaalde bedrag kan niet opnieuw worden nageheven.",
+    "bron": [
+     34
+    ],
+    "citaat": "welk bedrag niet op grond van artikel 20 van de AWR kan worden nageheven"
+   },
+   "bruikbare_zin": {
+    "citaat": "Reeds betaalde belasting kan met andere woorden niet in een naheffingsaanslag worden begrepen",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als duidelijk is dat de verschuldigde parkeertijd korter is dan een uur, moet de belasting in de naheffing evenredig lager zijn; de vaste kosten blijven gelijk.",
+  "type": "regel",
+  "reikwijdte": "Naheffing van parkeerbelasting waarbij uit de stukken duidelijk is dat de onbetaalde parkeertijd korter dan een uur was",
+  "uitzondering": "Is onduidelijk hoe lang iemand geparkeerd heeft, dan geldt het forfait van een uur.",
+  "herkomst": "wet",
+  "bron": [
+   33
+  ],
+  "citaat": "dient de naheffingsaanslag, afgezien van de daarin begrepen kosten, naar evenredigheid te worden verlaagd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "parkeerkaartje met begintijd 13.58 uur",
+   "controle om 14.24 uur"
+  ],
+  "wat_gaf_doorslag": "Het kaartje liet de begintijd zien en de gemeente erkende dat de parkeerduur korter dan een uur was."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:HR:1997:AA3200"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 lid 3 Gemeentewet",
+  "art. 231 Gemeentewet",
+  "art. 20 AWR",
+  "art. 8:109 lid 2 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Reken bij een naheffing het betaalde bedrag af en gebruik het forfaitaire uur alleen als de werkelijke parkeerduur onbekend is",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    33
+   ],
+   "citaat": "deze alleen ziet op gevallen waarin onduidelijkheid bestaat over de parkeerduur"
+  },
+  {
+   "actie": "Haal de begintijd van het parkeerkaartje erbij als de controleur die kan lezen en verreken wat al betaald is",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    26
+   ],
+   "citaat": "Reeds betaalde belasting kan met andere woorden niet in een naheffingsaanslag worden begrepen"
+  }
+ ],
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Hebt u al een deel betaald, dan mag de gemeente dat bedrag niet nog eens in rekening brengen. Is duidelijk dat u maar kort te weinig betaalde, dan moet de belasting daarop worden aangepast, maar de vaste kosten van de naheffing blijven staan. Bewaar uw parkeerkaartje met begintijd en maak er bezwaar mee.",
+ "gemeente": "Hilversum",
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,178 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2026:1205",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Leiden",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing (de rekening achteraf) van de gemeente Leiden en ging daartegen in beroep bij de rechtbank Den Haag. Het ging om de vraag of de kosten van die rekening apart op het aanslagbiljet stonden.",
+ "titel": "Kosten stonden apart op het biljet; rekening blijft staan",
+ "kern": {
+  "zin": "De rechter houdt de aanslag in stand, omdat de gemeente voldoende onderbouwde dat de kosten apart op het biljet stonden.",
+  "bron": [
+   51
+  ],
+  "citaat": "heeft verweerder voldoende onderbouwd dat de kosten van de naheffing afzonderlijk op het aanslagbiljet zijn vermeld"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde een naheffing van € 73,10 op, omdat bij een controle geen parkeerbelasting was betaald.",
+   "bron": [
+    35
+   ],
+   "citaat": "Naar aanleiding daarvan is aan eiseres de onderhavige naheffingsaanslag parkeerbelasting opgelegd van € 73,10"
+  },
+  {
+   "zin": "De parkeerder zei dat de kosten niet apart op het aanslagbiljet stonden, en dat de kosten van € 70 willekeurig waren.",
+   "bron": [
+    39
+   ],
+   "citaat": "de kosten van de naheffing niet afzonderlijk op het aanslagbiljet zijn vermeld"
+  },
+  {
+   "zin": "De gemeente zei dat de kosten wel apart stonden, en liet ter zitting een foto van het aanslagbiljet zien.",
+   "bron": [
+    45,
+    48
+   ],
+   "citaat": "Verweerder stelt dat de kosten van de naheffing afzonderlijk op het aanslagbiljet zijn vermeld"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente de aparte vermelding voldoende had onderbouwd.",
+   "bron": [
+    51
+   ],
+   "citaat": "heeft verweerder voldoende onderbouwd dat de kosten van de naheffing afzonderlijk op het aanslagbiljet zijn vermeld"
+  },
+  {
+   "zin": "De kosten van € 70 vond de rechter niet te hoog, omdat de gemeente die lager vaststelde dan de raming.",
+   "bron": [
+    65
+   ],
+   "citaat": "de gemeente Leiden de kosten ter zake van het opleggen van een naheffingsaanslag parkeerbelasting aanzienlijk lager heeft vastgesteld"
+  },
+  {
+   "zin": "De rechter verklaart het beroep ongegrond en geeft geen vergoeding van proceskosten.",
+   "bron": [
+    70,
+    68
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; aanslag blijft staan, geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De aanslag van € 73,10 blijft staan, en de parkeerder krijgt geen proceskosten vergoed.",
+  "bron": [
+   70,
+   68,
+   35
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De kosten stonden niet apart op het aanslagbiljet, dus de aanslag had vernietigd moeten worden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente voldoende aantoonde dat de kosten apart op het biljet stonden.",
+    "bron": [
+     51
+    ],
+    "citaat": "heeft verweerder voldoende onderbouwd dat de kosten van de naheffing afzonderlijk op het aanslagbiljet zijn vermeld"
+   },
+   "bruikbare_zin": {
+    "citaat": "de foto strookt met de inhoud van het brondocument dat wél door verweerder is overgelegd",
+    "bron": [
+     50
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente had de foto eerder moeten overleggen, dus de aanslag moet worden vernietigd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter volgde dat niet: de parkeerder kon de foto ter zitting bekijken en daarop reageren.",
+    "bron": [
+     50
+    ],
+    "citaat": "De rechtbank volgt eiseres niet in dit verzoek"
+   },
+   "bruikbare_zin": {
+    "citaat": "Eiseres is dan ook niet in haar procespositie geschaad doordat zij eerst ter zitting van de foto kon kennisnemen",
+    "bron": [
+     50
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de parkeerder betwist dat de kosten apart op het biljet staan, moet de gemeente dat aannemelijk maken.",
+  "type": "regel",
+  "reikwijdte": "naheffingsaanslagen parkeerbelasting waarbij de aparte vermelding van de kosten wordt betwist",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   47
+  ],
+  "citaat": "dient verweerder aannemelijk te maken dat aan deze voorwaarde is voldaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "brondocument van de naheffingsaanslag",
+   "foto van het aanslagbiljet onder de ruitenwisser"
+  ],
+  "wat_gaf_doorslag": "Het brondocument stemde overeen met de foto, en de parkeerder kon de foto ter zitting bekijken."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHAMS:2024:1370",
+   "ECLI:NL:GHDHA:2025:208",
+   "ECLI:NL:GHDHA:2025:220",
+   "ECLI:NL:HR:2002:AD6867"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 lid 5 Gemeentewet",
+  "art. 234 lid 6 Gemeentewet",
+  "art. 2 Besluit gemeentelijke parkeerbelastingen",
+  "art. 3 Besluit gemeentelijke parkeerbelastingen",
+  "art. 8:42 Awb",
+  "art. 8:31 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg foto's of andere stukken die u ter zitting wilt gebruiken vooraf over aan de rechtbank.",
+   "raakt": "bezwaar",
+   "bron": [
+    49
+   ],
+   "citaat": "een op de zaak betrekking hebbend stuk betreft dat met inachtneming van artikel 8:42"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Een rekening achteraf moet de kosten van de naheffing apart laten zien op het aanslagbiljet. In deze zaak vond de rechter dat dit wel zo was, en dat de kosten van € 70 niet te hoog waren. Bezwaar heeft alleen kans als u laat zien dat een van die punten niet klopt.",
+ "gemeente": "Leiden",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

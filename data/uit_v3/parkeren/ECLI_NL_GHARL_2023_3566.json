@@ -1,0 +1,179 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "dubbel_van": null,
+ "ecli": "ECLI:NL:GHARL:2023:3566",
+ "onderwerp": "vergunningen",
+ "sub": "bezoekersregeling",
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bedrijf kreeg in Nijmegen een boete van € 95 omdat de auto van een bezoeker op een vergunninghoudersplaats stond zonder actieve bezoekersvergunning. Het bedrijf ging tegen de officier van justitie in hoger beroep bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Boete blijft: bezoekersvergunning moet bij aankomst actief zijn",
+ "kern": {
+  "zin": "Het hof vond de boete terecht, omdat het kenteken van de bezoeker vóór aankomst digitaal had kunnen worden aangemeld.",
+  "bron": [
+   29
+  ],
+  "citaat": "Niet valt in te zien waarom het kenteken niet voorafgaand aan de aankomst van het voertuig"
+ },
+ "samenvatting": [
+  {
+   "zin": "De auto van een bezoeker stond op een vergunninghoudersplaats en het kenteken was niet digitaal aangemeld, dus kwam er een boete van € 95.",
+   "bron": [
+    18
+   ],
+   "citaat": "bij inleidende beschikking een sanctie opgelegd van € 95,- voor"
+  },
+  {
+   "zin": "Het bedrijf zei dat de bezoeker pas wifi moest koppelen om te kunnen aanmelden en dat er maar één minuut tussen parkeren en aanmelden zat.",
+   "bron": [
+    19
+   ],
+   "citaat": "Om een kenteken aan te kunnen melden in het systeem, dient er eerst verbinding te worden gemaakt met het Wifi netwerk van zijn zoon"
+  },
+  {
+   "zin": "De handhaver zei dat hij twee keer had gecontroleerd en dat er beide keren geen bezoekersvergunning actief was.",
+   "bron": [
+    26
+   ],
+   "citaat": "waaruit blijkt dat hij op 24 mei 2020 om 10.53 uur en om 11.01 uur heeft gecontroleerd"
+  },
+  {
+   "zin": "Het hof vond de verkeerde tijd in het proces-verbaal een verschrijving.",
+   "bron": [
+    27
+   ],
+   "citaat": "beschouwt het hof de vermelding van de ambtenaar in het aanvullend proces-verbaal"
+  },
+  {
+   "zin": "Het hof vond dat het kenteken ook vooraf, zonder dat de bezoeker erbij was, kon worden aangemeld.",
+   "bron": [
+    29
+   ],
+   "citaat": "Niet valt in te zien waarom het kenteken niet voorafgaand aan de aankomst van het voertuig"
+  },
+  {
+   "zin": "Het hof liet de boete staan en wees de proceskosten af.",
+   "bron": [
+    32
+   ],
+   "citaat": "Nu de betrokkene niet in het gelijk wordt gesteld, zal het verzoek om een proceskostenvergoeding worden afgewezen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete blijft staan; aanmelden kon vooraf.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 95 blijft staan en het bedrijf krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   32,
+   18,
+   36
+  ],
+  "citaat": "Nu de betrokkene niet in het gelijk wordt gesteld, zal het verzoek om een proceskostenvergoeding worden afgewezen"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "De bezoeker had een redelijke tijd nodig om het kenteken aan te melden en dat gebeurde binnen een minuut na parkeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Bij digitale aanmelding kon het kenteken vooraf worden aangemeld, zonder dat de bezoeker erbij hoefde te zijn.",
+    "bron": [
+     29
+    ],
+    "citaat": "Niet valt in te zien waarom het kenteken niet voorafgaand aan de aankomst van het voertuig"
+   },
+   "bruikbare_zin": {
+    "citaat": "Niet valt in te zien waarom het kenteken niet voorafgaand aan de aankomst van het voertuig van de betrokkene ter plaatse door de zoon van de betrokkene kon worden aangemeld",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De tijden van de controles in het proces-verbaal kloppen niet (12.53 uur en 11.01 uur).",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof zag de tijd van 12.53 uur als een verschrijving, omdat de bijlagen controles om 10.53 en 11.01 uur laten zien.",
+    "bron": [
+     27
+    ],
+    "citaat": "beschouwt het hof de vermelding van de ambtenaar in het aanvullend proces-verbaal"
+   },
+   "bruikbare_zin": {
+    "citaat": "Op beide momenten was dat niet het geval",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij digitaal aanmelden van een bezoekerskenteken krijgt de bezoeker geen extra tijd na het parkeren, als aanmelden ook vooraf kon.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Digitale aanmelding van bezoekerskentekens, waarbij de bewoner kan aanmelden zonder dat de bezoeker erbij is",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   29
+  ],
+  "citaat": "is er in deze zaak sprake van digitale aanmelding van het kenteken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto's van de handhaver",
+   "gegevens over twee controles van de bezoekersvergunning"
+  ],
+  "wat_gaf_doorslag": "De foto's en controles toonden dat de auto er al om 10.53 uur stond zonder actieve vergunning."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHARL:2020:3336",
+   "ECLI:NL:GHARL:2021:1786"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 24 lid 1 onder g RVV 1990",
+  "bord E9 RVV 1990"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij elke controle van een bezoekersvergunning de tijdstippen van de controle vast en voeg die toe aan het dossier.",
+   "raakt": "bezwaar",
+   "bron": [
+    26
+   ],
+   "citaat": "waaruit blijkt dat hij op 24 mei 2020 om 10.53 uur en om 11.01 uur heeft gecontroleerd"
+  },
+  {
+   "actie": "Zeg in de uitleg over bezoekersparkeren dat het kenteken vóór aankomst moet zijn aangemeld.",
+   "raakt": "communicatie",
+   "bron": [
+    29
+   ],
+   "citaat": "Niet valt in te zien waarom het kenteken niet voorafgaand aan de aankomst van het voertuig"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "vergunningen",
+  "communicatie"
+ ],
+ "klantuitleg": "Moet een bezoeker digitaal worden aangemeld, dan moet dat al gebeuren voordat de auto er staat. Een boete is dan terecht als de vergunning bij de controle nog niet actief was, ook als u het daarna direct regelt. Meld uw bezoeker dus vooraf aan; bezwaar heeft weinig kans als dat niet is gedaan.",
+ "gemeente": "Nijmegen",
+ "reden_gemeente_leeg": null,
+ "zekerheid": "hoog"
+}

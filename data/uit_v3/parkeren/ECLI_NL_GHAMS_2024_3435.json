@@ -1,0 +1,186 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2024:3435",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder, met gemachtigde",
+  "wederpartij": "gemeente (naam geanonimiseerd)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg een naheffingsaanslag (rekening achteraf) voor parkeren in het centrum. Hij ging in hoger beroep bij het Gerechtshof Amsterdam tegen de gemeente.",
+ "titel": "Hof wijst hoger beroep af: verkeerd tarief betaald en klacht ingetrokken",
+ "kern": {
+  "zin": "Het hof liet de naheffing staan, omdat de rechtbank geen belangrijke klacht had gemist en de burger zijn stelling over verrekening had ingetrokken.",
+  "bron": [
+   41
+  ],
+  "citaat": "De rechtbank heeft echter niet een essentiële stelling onbehandeld gelaten."
+ },
+ "samenvatting": [
+  {
+   "zin": "De auto stond in juli 2022 geparkeerd, terwijl het geldende parkeertarief niet volledig was betaald.",
+   "bron": [
+    22
+   ],
+   "citaat": "zonder dat het aldaar op dat tijdstip geldende parkeertarief volledig was betaald"
+  },
+  {
+   "zin": "De burger had betaald voor een andere zone met een veel lager tarief dan in het centrum.",
+   "bron": [
+    48
+   ],
+   "citaat": "hierdoor is het verkeerde tarief betaald en hiermee niet de verschuldigde parkeerbelasting"
+  },
+  {
+   "zin": "De burger vond dat de rechtbank een klacht over de motivering van de gemeente had overgeslagen en dat de gemeente de dwangsom eerder had moeten vaststellen.",
+   "bron": [
+    37
+   ],
+   "citaat": "Belanghebbende voert aan dat de rechtbank, gelet op de omstandigheid dat na het instellen van het beroep"
+  },
+  {
+   "zin": "De gemeente had in de uitspraak op bezwaar beide klachten van de burger besproken.",
+   "bron": [
+    46
+   ],
+   "citaat": "Aldus is de heffingsambtenaar ingegaan op beide in bezwaar aangevoerde grieven."
+  },
+  {
+   "zin": "Het hof vond dat de wet de gemeente niet dwingt om de dwangsom tegelijk met de uitspraak op bezwaar vast te stellen.",
+   "bron": [
+    38
+   ],
+   "citaat": "Er is geen wettelijke bepaling die de heffingsambtenaar daartoe verplicht."
+  },
+  {
+   "zin": "De burger had zijn stelling over verrekening van het betaalde bedrag op de zitting uitdrukkelijk ingetrokken, dus het hoger beroep is ongegrond.",
+   "bron": [
+    54
+   ],
+   "citaat": "Met zijn uitlating heeft de gemachtigde deze stelling uitdrukkelijk en onvoorwaardelijk ingetrokken"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; naheffing blijft staan, geen proceskostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De burger moet de naheffingsaanslag betalen en krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   59
+  ],
+  "citaat": "Het Hof vindt geen aanleiding voor een veroordeling in de kosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De gemeente ging in de uitspraak op bezwaar niet in op het feit dat er al betaald was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente had beide punten uit het bezwaar besproken, dus de motivering was voldoende.",
+    "bron": [
+     46
+    ],
+    "citaat": "Aldus is de heffingsambtenaar ingegaan op beide in bezwaar aangevoerde grieven."
+   },
+   "bruikbare_zin": {
+    "citaat": "Aldus is de heffingsambtenaar ingegaan op beide in bezwaar aangevoerde grieven.",
+    "bron": [
+     46
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente had de dwangsom meteen met de uitspraak op bezwaar moeten vaststellen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er is geen wettelijke bepaling die dat verplicht.",
+    "bron": [
+     38
+    ],
+    "citaat": "Er is geen wettelijke bepaling die de heffingsambtenaar daartoe verplicht."
+   },
+   "bruikbare_zin": {
+    "citaat": "Er is geen wettelijke bepaling die de heffingsambtenaar daartoe verplicht.",
+    "bron": [
+     38
+    ]
+   }
+  },
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Het betaalde bedrag moet worden afgetrokken van de naheffing.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De burger trok deze stelling op de zitting in, dus de rechtbank hoefde er niet over te oordelen.",
+    "bron": [
+     54
+    ],
+    "citaat": "Met zijn uitlating heeft de gemachtigde deze stelling uitdrukkelijk en onvoorwaardelijk ingetrokken"
+   },
+   "bruikbare_zin": {
+    "citaat": "hierdoor is het verkeerde tarief betaald en hiermee niet de verschuldigde parkeerbelasting",
+    "bron": [
+     48
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Alleen als een rechtbank een belangrijke stelling onbehandeld laat die tot een andere uitkomst kon leiden, kan het hof de uitspraak vernietigen.",
+  "type": "regel",
+  "reikwijdte": "Hoger beroep tegen een uitspraak van de rechtbank in een naheffingszaak.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   41
+  ],
+  "citaat": "Slechts het onbehandeld laten van essentiële stellingen, die mogelijkerwijs tot een andere uitkomst van het geschil hadden kunnen leiden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "betaalbewijs van de burger",
+   "proces-verbaal van de zitting"
+  ],
+  "wat_gaf_doorslag": "De burger had betaald voor een andere zone en trok zijn stelling over verrekening in."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2017:1"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 4:18 Awb",
+  "art. 4:19 Awb",
+  "art. 8:75 Awb",
+  "art. 8:108 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Ga in de uitspraak op bezwaar op elk punt uit het bezwaarschrift in en bewaar het betaalbewijs bij het dossier",
+   "raakt": "bezwaar",
+   "bron": [
+    46
+   ],
+   "citaat": "Aldus is de heffingsambtenaar ingegaan op beide in bezwaar aangevoerde grieven."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Wie parkeergeld betaalt voor een andere zone met een lager tarief, heeft niet het juiste bedrag betaald. Dan blijft de rekening voor het parkeren meestal staan. Bezwaar heeft weinig zin als u alleen kunt laten zien dat u in een andere, goedkopere zone hebt betaald.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2026:4252",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "evenredigheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "parkeerder (met vergunning)", "wederpartij": "Belastingsamenwerking gemeenten en hoogheemraadschap Utrecht", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Dit gaat over negen parkeerrekeningen (naheffingsaanslagen, de rekeningen achteraf) van elk 81,70 euro voor parkeren aan de Amsterdamsestraatweg in Utrecht in april en mei 2024. De parkeerder procedeert tegen de belastingsamenwerking bij de rechtbank Midden-Nederland.",
+ "titel": "Zeven van negen parkeerrekeningen vernietigd; twee blijven",
+ "kern": {"zin": "Volgens de rechter had de gemeente ruimte voor maatwerk moeten laten, daarom zijn zeven van de negen aanslagen vernietigd.", "bron": [31, 34], "citaat": "er voor verweerder ruimte had moeten bestaan voor maatwerk"},
+ "samenvatting": [
+  {"zin": "Op vijf data in april en mei 2024 stond de auto in een betaald gebied zonder dat er betaald was.", "bron": [19], "citaat": "zonder dat op dat tijdstip de verschuldigde belasting was voldaan"},
+  {"zin": "Volgens de parkeerder wist hij niet dat het parkeerbeleid was gewijzigd, en kreeg hij de naheffingen pas later.", "bron": [27], "citaat": "Eiser stelt dat hij niet geïnformeerd was dat het parkeerbeleid was gewijzigd"},
+  {"zin": "De gemeente wees erop dat de regels in het vergunningbesluit stonden, met een vindplaats.", "bron": [28], "citaat": "de vindplaats van de vergunningsvoorschriften en de stratenlijst van het betreffende parkeerrayon"},
+  {"zin": "Volgens de rechter telde de lange vergunning mee, en moest de gemeente ruimte voor maatwerk laten.", "bron": [31], "citaat": "Daarbij acht de rechtbank het van belang dat eiser reeds langere tijd over een parkeervergunning beschikt"},
+  {"zin": "Zeven naheffingen worden vernietigd en de gemeente moet het griffierecht terugbetalen.", "bron": [42, 40], "citaat": "draagt verweerder op het betaalde griffierecht"}
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Zeven van negen naheffingen vernietigd; twee blijven staan",
+ "gevolg_betrokkene": {"zin": "Twee parkeerrekeningen blijven staan en de andere zeven hoeft de parkeerder niet te betalen; het griffierecht komt terug.", "bron": [34, 35], "citaat": "Dat betekent dat eiser deze twee naheffingsaanslagen wel moet betalen"},
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {"arg": "onevenredig", "burger_zegt": "Meerdere naheffingen op een rij zijn financieel te zwaar.", "oordeel": "gehonoreerd", "waarom": {"zin": "Volgens de rechter kunnen veel naheffingen samen op een zeker moment niet meer in verhouding staan tot de overtreding.", "bron": [30], "citaat": "Na een zekere periode gaat zich echter de situatie voordoen dat cumulatieve naheffingsaanslagen"}, "bruikbare_zin": {"citaat": "Er moet altijd ruimte zijn voor maatwerk in een individuele casus", "bron": [30]}},
+  {"arg": "overig", "burger_zegt": "Hij wist niet dat het parkeerbeleid was veranderd en dat hij niet meer mocht parkeren.", "oordeel": "verworpen", "waarom": {"zin": "Volgens de rechter ligt het risico van onbekende regels bij de parkeerder zelf.", "bron": [28], "citaat": "komt naar vaste jurisprudentie voor rekening en risico van de parkeerder"}, "bruikbare_zin": {"citaat": "om ervoor te zorgen dat hij op de hoogte is waar en wanneer de verleende parkeervergunning geldig is", "bron": [28]}},
+  {"arg": "overig", "burger_zegt": "De aanslagen kwamen pas later binnen, zodat hij niet goed kon reageren.", "oordeel": "gehonoreerd", "waarom": {"zin": "De rechter zag in de late aanslagen een reden voor maatwerk.", "bron": [31], "citaat": "in de hand werkt dat er een verhoogd risico ontstaat"}, "bruikbare_zin": {"citaat": "circa 2 weken later door de betrokken wordt ontvangen", "bron": [31]}}
+ ],
+ "rechtsregel": {"zin": "Een aantal naheffingen na elkaar mag, maar er moet altijd ruimte zijn voor maatwerk.", "type": "regel", "reikwijdte": "meerdere naheffingen voor dezelfde overtreding op dezelfde plek", "uitzondering": "vijf naheffingen is niet in alle gevallen evenredig", "herkomst": "oordeel rechter", "bron": [30], "citaat": "Er moet altijd ruimte zijn voor maatwerk in een individuele casus"},
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": ["vergunning met ingangsdatum 1 april 2024", "besluit tot vergunningverlening met vindplaats van de regels"], "wat_gaf_doorslag": "De langdurige vergunning en het ontbreken van financieel nadeel voor de gemeente speelden mee in het maatwerk."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {"actie": "Let bij naheffingen op een geldige vergunning en op de tijd die de aanslag later kostte, en pas dan maatwerk toe.", "raakt": "scanauto-handhaving", "bron": [31], "citaat": "circa 2 weken later door de betrokken wordt ontvangen"},
+  {"actie": "Pas bij een reeks naheffingen maatwerk toe; vaste maxima gelden niet altijd.", "raakt": "bezwaar", "bron": [30], "citaat": "Er moet altijd ruimte zijn voor maatwerk in een individuele casus"}
+ ],
+ "reden_leeg_actie": null,
+ "raakt": ["bezwaar", "scanauto-handhaving", "vergunningen", "klantcontact"],
+ "klantuitleg": "Meerdere parkeerrekeningen op een rij kunnen samen te zwaar worden, en dan moet de gemeente naar uw situatie kijken. In deze zaak vond de rechter dat u al lang een vergunning had en dat de gemeente geen financieel nadeel had, en werden zeven van de negen rekeningen vernietigd. Hebt u meerdere rekeningen gekregen, bewaar dan uw vergunning en laat zien hoe lang u daar al stond; dat kan helpen, maar geeft geen zekerheid.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

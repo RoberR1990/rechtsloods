@@ -1,0 +1,167 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOBR:2023:2797",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Oss",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing (de rekening achteraf) van de gemeente Oss, omdat zij in de Smalstraat niet had betaald. Zij ging in beroep bij de rechtbank Oost-Brabant.",
+ "titel": "Parkeren zonder betalen: borden waren duidelijk genoeg",
+ "kern": {
+  "zin": "Het beroep is ongegrond, omdat de parkeerder redelijkerwijs kon weten dat zij moest betalen.",
+  "bron": [
+   21,
+   15
+  ],
+  "citaat": "redelijkerwijs geen misverstand kan bestaan over de verplichting om parkeerbelasting voor de betreffende parkeerplaats"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 14 april 2022 stond een auto in Oss zonder dat de parkeerbelasting was betaald.",
+   "bron": [
+    17
+   ],
+   "citaat": "Eiseres had op het hiervoor genoemde moment de verschuldigde parkeerbelasting niet voldaan."
+  },
+  {
+   "zin": "De parkeerder betwistte dat het voor haar voldoende duidelijk was dat er betaald moest worden.",
+   "bron": [
+    19
+   ],
+   "citaat": "of op het moment van parkeren door eiseres het voor haar voldoende duidelijk was"
+  },
+  {
+   "zin": "De gemeente liet met foto's zien dat de parkeerzone met verkeersborden was aangegeven.",
+   "bron": [
+    22
+   ],
+   "citaat": "dat op alle plaatsen waar auto’s de parkeerzone van Oss binnenrijden dit met verkeersborden is aangegeven"
+  },
+  {
+   "zin": "De rechter vond dat de parkeerder al door een BOA (buitengewoon opsporingsambtenaar) was gewaarschuwd, dus de naheffing bleef staan.",
+   "bron": [
+    24
+   ],
+   "citaat": "een gewaarschuwd mens telt voor twee."
+  },
+  {
+   "zin": "De afwijzing betekent dat de naheffing blijft staan.",
+   "bron": [
+    15
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing betalen, omdat het beroep is afgewezen.",
+  "bron": [
+   15
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Het was niet duidelijk dat er in deze straat betaald parkeren gold.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de borden en de automaten in de buurt voldoende duidelijk.",
+    "bron": [
+     22
+    ],
+    "citaat": "dat op alle plaatsen waar auto’s de parkeerzone van Oss binnenrijden dit met verkeersborden is aangegeven"
+   },
+   "bruikbare_zin": {
+    "citaat": "Uit die borden blijkt voldoende dat de Smalstraat binnen die parkeerzone ligt",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Volgens haar zag de BOA na het gesprek af van een naheffing, omdat de situatie niet duidelijk was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Ook als de BOA afzag van een naheffing, was de parkeerder al gewaarschuwd.",
+    "bron": [
+     24
+    ],
+    "citaat": "een gewaarschuwd mens telt voor twee."
+   },
+   "bruikbare_zin": {
+    "citaat": "een gewaarschuwd mens telt voor twee.",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voldoende duidelijk betekent dat er redelijkerwijs geen misverstand kan bestaan over de betalingsplicht.",
+  "type": "regel",
+  "reikwijdte": "betaald parkeren waar borden of automaten in de buurt de plicht aangeven",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   20
+  ],
+  "citaat": "betekent dat er redelijkerwijs geen misverstand kan bestaan over de verplichting om parkeerbelasting"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto's van de verkeersborden",
+   "vaststelling van drie parkeerautomaten in de straat",
+   "verslag van het gesprek met de BOA"
+  ],
+  "wat_gaf_doorslag": "De foto's van de borden en de drie parkeerautomaten in de straat maakten de verplichting duidelijk."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Verordening heffing en invordering parkeerbelastingen 2022 Oss (bijlage 2)"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij elke ingang van de parkeerzone de borden vast met foto's, zodat u bij bezwaar kunt laten zien dat ze er staan.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    22
+   ],
+   "citaat": "dat op alle plaatsen waar auto’s de parkeerzone van Oss binnenrijden dit met verkeersborden is aangegeven"
+  },
+  {
+   "actie": "Leg bij een gesprek met een handhaver of BOA op straat vast wat er is gezegd, want dat kan later als waarschuwing tellen.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    24
+   ],
+   "citaat": "een gewaarschuwd mens telt voor twee."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "scanauto-handhaving",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een naheffing is terecht als duidelijk was dat u moest betalen, bijvoorbeeld door borden of een automaat in de buurt. Een waarschuwing van een BOA telt ook mee, ook als er daarna geen naheffing kwam. Wilt u bezwaar maken, bewaar dan foto's van de borden en de omgeving; dat maakt de zaak niet vanzelf sterker.",
+ "gemeente": "Oss",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

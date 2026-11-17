@@ -1,0 +1,146 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2024:268",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente (naam geanonimiseerd)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg een naheffingsaanslag (rekening achteraf) voor parkeerbelasting met € 66,50 aan kosten. Hij ging in hoger beroep tegen de gemeente bij het gerechtshof Amsterdam.",
+ "titel": "Parkeerrekening: kosten van € 66,50 blijven staan ondanks late bekendmaking",
+ "kern": {
+  "zin": "Het hof vindt de datum van 1 september voor het bekendmaken van het maximumbedrag een regelende (niet fatale) termijn, dus de latere bekendmaking maakt de kosten van € 66,50 niet onrechtmatig.",
+  "bron": [
+   47
+  ],
+  "citaat": "Dat het maximumbedrag pas op 13 september 2021 bekend is gemaakt, is dus niet van belang"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een naheffingsaanslag omdat zijn auto stond geparkeerd zonder (genoeg) betaling.",
+   "bron": [
+    19
+   ],
+   "citaat": "geparkeerd stond terwijl daarvoor geen of te weinig parkeerbelasting was betaald"
+  },
+  {
+   "zin": "Hij zei dat het bedrag van € 66,50 aan kosten te laat bekend was gemaakt.",
+   "bron": [
+    32
+   ],
+   "citaat": "het bedrag ad € 66,50 niet voor 1 september 2021 bekend is gemaakt"
+  },
+  {
+   "zin": "De rechtbank wees zijn beroep af.",
+   "bron": [
+    29
+   ],
+   "citaat": "Het beroep is ongegrond. Dat betekent dat eiser geen gelijk krijgt."
+  },
+  {
+   "zin": "Het hof zei dat de datum van 1 september een termijn is die alleen regelt en niet fataal is.",
+   "bron": [
+    46
+   ],
+   "citaat": "niet bedoeld is als een fatale termijn, maar als een regelende termijn"
+  },
+  {
+   "zin": "Die datum dient om de gemeenteraad op tijd te informeren, niet om de parkeerder te beschermen.",
+   "bron": [
+    47
+   ],
+   "citaat": "Omdat de bekendmakingsdatum van belang is om de gemeenteraad tijdig te informeren over het maximumbedrag"
+  },
+  {
+   "zin": "Het hoger beroep slaagt niet.",
+   "bron": [
+    50
+   ],
+   "citaat": "De slotsom is dat het hoger beroep van belanghebbende niet slaagt"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Kosten van € 66,50 terecht; hoger beroep ongegrond",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffingsaanslag met € 66,50 kosten betalen en krijgt geen proceskosten vergoed.",
+  "bron": [
+   54,
+   52
+  ],
+  "citaat": "Het Hof bevestigt de uitspraak van de rechtbank"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "Het bedrag van € 66,50 aan kosten is te laat bekend gemaakt, dus niet geldig.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het te late bekendmaken van het maximumbedrag maakt de hoogte van de kosten niet onrechtmatig.",
+    "bron": [
+     47
+    ],
+    "citaat": "Dat het maximumbedrag pas op 13 september 2021 bekend is gemaakt, is dus niet van belang"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet bedoeld is als een fatale termijn, maar als een regelende termijn",
+    "bron": [
+     46
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De bekendmakingsdatum van 1 september voor het jaarlijkse maximumbedrag is een regelende termijn en geen fatale termijn.",
+  "type": "regel",
+  "reikwijdte": "Jaarlijkse bekendmaking van het maximumbedrag aan naheffingskosten in het Besluit gemeentelijke parkeerbelastingen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   46
+  ],
+  "citaat": "niet bedoeld is als een fatale termijn, maar als een regelende termijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De bekendmakingsdatum is bedoeld om de gemeenteraad tijdig te informeren, niet om de parkeerder te beschermen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 234 Gemeentewet",
+  "art. 3 lid 1 en 2 Besluit gemeentelijke parkeerbelastingen",
+  "Verordening parkeerbelasting 2022 (tarieventabel)"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Neem het jaarlijkse maximumbedrag voor naheffingskosten gewoon op in de tarieventabel, ook als het na 1 september is bekendgemaakt",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    48
+   ],
+   "citaat": "De gemeenteraad heeft het bedrag van € 66,50 dan ook kunnen opnemen in de Verordening"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "verordening-beleid",
+  "bezwaar"
+ ],
+ "klantuitleg": "De gemeente mag bij een parkeerrekening achteraf extra kosten vragen tot een wettelijk maximum, in 2022 € 66,50. Dat het maximumbedrag iets later dan 1 september bekend werd, maakt dat bedrag niet ongeldig. Bezwaar tegen alleen dit punt heeft weinig kans.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

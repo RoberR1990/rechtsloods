@@ -1,0 +1,186 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2024:2059",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg in Breda een naheffing van 60,20 euro, omdat zij voor de Vlaszak niet had betaald. Zij ging in beroep bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Naheffing blijft; gemeente betaalt wel de proceskosten",
+ "kern": {
+  "zin": "De naheffing blijft staan, omdat de verschuldigde parkeerbelasting niet is betaald.",
+  "bron": [
+   47,
+   46
+  ],
+  "citaat": "Omdat de verschuldigde parkeerbelasting niet is voldaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde een naheffing van 60,20 euro op.",
+   "bron": [
+    22
+   ],
+   "citaat": "naheffingsaanslag parkeerbelasting opgelegd van € 60,20"
+  },
+  {
+   "zin": "Zij vond dat er niet was geparkeerd en dat de app had gezegd dat betalen niet kon.",
+   "bron": [
+    44
+   ],
+   "citaat": "Deze parkeerapplicatie gaf de melding dat betaald parkeren onmogelijk was"
+  },
+  {
+   "zin": "Volgens de gemeente komt een fout van de app voor rekening van de parkeerder.",
+   "bron": [
+    45
+   ],
+   "citaat": "een foutieve melding van de parkeerapplicatie"
+  },
+  {
+   "zin": "De rechter zag op de foto's dat er een parkeerautomaat naast de auto stond.",
+   "bron": [
+    46
+   ],
+   "citaat": "door het betalen via de parkeerautomaat die zich naast de auto bevond"
+  },
+  {
+   "zin": "De rechter liet een fout bij het horen van de parkeerder met een wetsartikel voorbijgaan.",
+   "bron": [
+    40
+   ],
+   "citaat": "met toepassing van artikel 6:22 van de Algemene wet bestuursrecht"
+  },
+  {
+   "zin": "De gemeente betaalt de parkeerder 875 euro proceskosten en het griffierecht van 50 euro terug.",
+   "bron": [
+    55,
+    56
+   ],
+   "citaat": "tot betaling van € 875 aan proceskosten"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Naheffing blijft; zij krijgt alleen proceskosten en griffierecht",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan, maar zij krijgt 875 euro proceskosten en het griffierecht van 50 euro terug.",
+  "bron": [
+   55,
+   56
+  ],
+  "citaat": "tot betaling van € 875 aan proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Er was geen sprake van parkeren, alleen van even stilstaan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter oordeelde dat er wel geparkeerd werd, dus was er parkeerbelasting verschuldigd.",
+    "bron": [
+     47
+    ],
+    "citaat": "Uit het voorgaande volgt dat sprake is van parkeren"
+   },
+   "bruikbare_zin": {
+    "citaat": "sprake is van parkeren, waarvoor parkeerbelasting verschuldigd is",
+    "bron": [
+     47
+    ]
+   }
+  },
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De app meldde dat betalen niet kon, dus zij mocht daarop vertrouwen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de parkeerder via de automaat naast de auto had moeten betalen.",
+    "bron": [
+     46
+    ],
+    "citaat": "door het betalen via de parkeerautomaat die zich naast de auto bevond"
+   },
+   "bruikbare_zin": {
+    "citaat": "door het betalen via de parkeerautomaat die zich naast de auto bevond",
+    "bron": [
+     46
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "Zij is niet goed gehoord door de gemeente.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag de vormfout en liet die voorbijgaan.",
+    "bron": [
+     40
+    ],
+    "citaat": "gaat daarom aan de schending van de hoorplicht met toepassing van artikel 6:22"
+   },
+   "bruikbare_zin": {
+    "citaat": "gaat daarom aan de schending van de hoorplicht met toepassing van artikel 6:22",
+    "bron": [
+     40
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder moet zelf nagaan of betalen lukt, ook als de app iets anders meldt.",
+  "type": "regel",
+  "reikwijdte": "Foutmelding van de betaalapp terwijl er een automaat in de buurt staat",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   46
+  ],
+  "citaat": "de op haar rustende onderzoeksplicht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "foto's van de controle",
+   "melding van de parkeerapplicatie"
+  ],
+  "wat_gaf_doorslag": "De foto's toonden een automaat naast de auto, en de storing was niet onderbouwd."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:22 Awb",
+  "art. 7:2 lid 1 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij elke controle op de foto's vast of er een parkeerautomaat naast de auto staat.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    46
+   ],
+   "citaat": "door het betalen via de parkeerautomaat die zich naast de auto bevond"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Een naheffing is terecht als u geparkeerd heeft en daarvoor niet heeft betaald. In deze zaak lag het op uw weg om via de automaat naast de auto te betalen, ook toen de app iets anders meldde. Vindt u een naheffing onterecht, dan kunt u bezwaar maken; winst is niet gegarandeerd.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

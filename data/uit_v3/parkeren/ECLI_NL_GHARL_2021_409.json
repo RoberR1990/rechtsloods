@@ -1,0 +1,181 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2021:409",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "kentekenhouder (met gemachtigde)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een autobezitter kreeg in Leiden een boete van € 90 omdat zijn auto voor een in- of uitrit stond. Hij ging in hoger beroep tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Voor een uitrit parkeren mag niet, ook niet met toestemming",
+ "kern": {
+  "zin": "Parkeren voor een in- of uitrit is een streng verbod; toestemming van de gebruiker van de uitrit helpt niet, dus de boete van € 90 blijft staan.",
+  "bron": [
+   31
+  ],
+  "citaat": "absoluut verbod en is dus niet afhankelijk van toestemming van de eigenaar of gebruiker van de in- of uitrit"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete van € 90 omdat zijn auto in Leiden voor een in- of uitrit stond.",
+   "bron": [
+    23
+   ],
+   "citaat": "bij inleidende beschikking een sanctie opgelegd van € 90,- voor"
+  },
+  {
+   "zin": "De parkeerder zei dat de garage hem toestemming had gegeven om daar te parkeren.",
+   "bron": [
+    26
+   ],
+   "citaat": "overeenkomstig deze afspraak en dus met toestemming van de eigenaar ter plekke geparkeerd"
+  },
+  {
+   "zin": "De rechter vond eerst dat de officier van justitie het beroep niet had mogen afwijzen, omdat de parkeerder geen kans kreeg om ontbrekende gronden aan te vullen.",
+   "bron": [
+    21
+   ],
+   "citaat": "mocht de officier van justitie het beroep niet niet-ontvankelijk verklaren wegens het ontbreken van gronden"
+  },
+  {
+   "zin": "Daarna oordeelde de rechter dat de plek voor iedereen toegankelijk was, dus de verkeersregels golden daar.",
+   "bron": [
+    28
+   ],
+   "citaat": "De plek waar de auto van de betrokkene stond geparkeerd, was dan ook voor een ieder toegankelijk"
+  },
+  {
+   "zin": "De parkeervergunning van de gemeente Leiden gaf ook geen recht om voor een uitrit te staan.",
+   "bron": [
+    32
+   ],
+   "citaat": "ziet op parkeerplaatsen waar men (anders) alleen tegen betaling mag parkeren en niet op het algemene verbod"
+  },
+  {
+   "zin": "De boete blijft staan en de parkeerder krijgt geen vergoeding voor zijn proceskosten.",
+   "bron": [
+    34
+   ],
+   "citaat": "zal het verzoek om een proceskostenvergoeding worden afgewezen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete blijft staan; alleen de behandeling door de officier van justitie was niet goed.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 90 blijft staan en de parkeerder krijgt geen vergoeding van zijn proceskosten.",
+  "bron": [
+   33,
+   40
+  ],
+  "citaat": "Het beroep tegen de inleidende beschikking is ongegrond"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De officier van justitie had hem eerst de kans moeten geven om ontbrekende gronden aan te vullen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Alleen zeggen dat gronden op de hoorzitting mogen worden aangevoerd is niet genoeg om een ontbrekende grond te herstellen.",
+    "bron": [
+     21
+    ],
+    "citaat": "De enkele mededeling van de officier van justitie dat de gronden tijdens de hoorzitting kunnen worden aangevoerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "De enkele mededeling van de officier van justitie dat de gronden tijdens de hoorzitting kunnen worden aangevoerd",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De auto stond op het eigen terrein van de garage en de garage had toestemming gegeven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een bord van de garage dat parkeren verbiedt, maakt de plek nog geen eigen terrein dat voor het verkeer is afgesloten.",
+    "bron": [
+     28
+    ],
+    "citaat": "Dat de garagehouder door middel van een bord heeft aangegeven dat men daar niet mag parkeren is daartoe onvoldoende"
+   },
+   "bruikbare_zin": {
+    "citaat": "absoluut verbod en is dus niet afhankelijk van toestemming van de eigenaar of gebruiker van de in- of uitrit",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Met een parkeervergunning voor het centrum van Leiden mocht hij daar staan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De vergunning geldt voor plekken waar je anders moet betalen en niet voor het verbod om voor een in- of uitrit te parkeren.",
+    "bron": [
+     32
+    ],
+    "citaat": "ziet op parkeerplaatsen waar men (anders) alleen tegen betaling mag parkeren en niet op het algemene verbod"
+   },
+   "bruikbare_zin": {
+    "citaat": "ziet op parkeerplaatsen waar men (anders) alleen tegen betaling mag parkeren en niet op het algemene verbod",
+    "bron": [
+     32
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeren voor een in- of uitrit is een absoluut verbod; toestemming van de eigenaar of gebruiker maakt het niet toegestaan.",
+  "type": "regel",
+  "reikwijdte": "Parkeren voor een in- of uitrit op een plek die voor het openbaar verkeer openstaat",
+  "uitzondering": "Een plek die niet voor het openbaar verkeer openstaat, valt er niet onder",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   31
+  ],
+  "citaat": "absoluut verbod en is dus niet afhankelijk van toestemming van de eigenaar of gebruiker van de in- of uitrit"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "stukken in het dossier",
+   "e-mails van de garage"
+  ],
+  "wat_gaf_doorslag": "Niet ontkend werd dat de auto voor een in- of uitrit stond en de parkeerder onderbouwde niet dat het eigen terrein was."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHARL:2020:7707",
+   "ECLI:NL:HR:2001:AA9494",
+   "ECLI:NL:GHARL:2020:3336"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 24 lid 1 onder b RVV 1990",
+  "art. 6:5 Awb",
+  "art. 6:6 Awb",
+  "art. 9 lid 2 Wahv"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; Wahv-boete van de officier van justitie",
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "vergunningen"
+ ],
+ "klantuitleg": "Een boete voor parkeren voor een in- of uitrit is terecht, ook als de gebruiker van de uitrit toestemming gaf. Een parkeervergunning verandert daar niets aan. Bezwaar heeft op dit punt weinig kans.",
+ "gemeente": "Leiden",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

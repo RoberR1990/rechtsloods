@@ -1,0 +1,172 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2026:10911",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Zandvoort",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder kreeg een naheffingsaanslag parkeerbelasting (de rekening achteraf voor parkeren) van € 77,70, omdat er geen parkeeraangifte was gedaan. De parkeerder ging in beroep tegen de gemeente bij de rechtbank Noord-Holland, vooral over de hoogte van de kosten in die aanslag.",
+ "titel": "Naheffingskosten blijven staan, ook al was één post zwak onderbouwd",
+ "kern": {
+  "zin": "De rechter zei dat de overheadkosten niet goed waren onderbouwd, maar dat de aanslag overeind bleef omdat de kosten zonder die post nog binnen de opbrengst vielen.",
+  "bron": [
+   65
+  ],
+  "citaat": "ook als de overheadkosten van € 138.075 volledig buiten beschouwing worden gelaten"
+ },
+ "samenvatting": [
+  {
+   "zin": "Na een controle zonder parkeeraangifte legde de gemeente een naheffingsaanslag van € 77,70 op.",
+   "bron": [
+    19
+   ],
+   "citaat": "Vervolgens is de naheffingsaanslag parkeerbelasting opgelegd ter hoogte van € 77,70"
+  },
+  {
+   "zin": "De parkeerder vond niet duidelijk of de kostenposten wel met de inning van de parkeerbelasting te maken hadden.",
+   "bron": [
+    37
+   ],
+   "citaat": "deze verband houden met de inning van niet-betaalde parkeerbelasting"
+  },
+  {
+   "zin": "De gemeente zei dat alle kosten meer dan zijdelings met de inning van de parkeerbelasting te maken hadden.",
+   "bron": [
+    38
+   ],
+   "citaat": "de kosten die in de kostenraming zijn opgenomen alle meer dan zijdelings samenhangen met de inning van niet-betaalde parkeerbelasting"
+  },
+  {
+   "zin": "De rechter vond dat ook de kosten van bezwaar en beroep bij de naheffing horen.",
+   "bron": [
+    55
+   ],
+   "citaat": "omdat een bezwaar- en beroepsprocedure het directe gevolg is van de naheffingsaanslag parkeerbelasting"
+  },
+  {
+   "zin": "De rechter vond de overheadkosten niet goed onderbouwd, omdat alleen naar het maximum werd verwezen.",
+   "bron": [
+    65
+   ],
+   "citaat": "door uitsluitend naar het in rekening te brengen maximum te verwijzen"
+  },
+  {
+   "zin": "Zonder de overheadkosten bleven de kosten nog onder de opbrengst, dus de aanslag bleef staan.",
+   "bron": [
+    65
+   ],
+   "citaat": "ook als de overheadkosten van € 138.075 volledig buiten beschouwing worden gelaten"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; overhead onvoldoende onderbouwd maar niet onverbindend",
+ "gevolg_betrokkene": {
+  "zin": "Het beroep is ongegrond, dus de aanslag van € 77,70 blijft staan en de parkeerder betaalt die.",
+  "bron": [
+   73,
+   75
+  ],
+  "citaat": "Gelet op het voorgaande dient het beroep ongegrond te worden verklaard"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De parkeerder zei dat niet duidelijk was welke kosten bij de naheffing horen, en dat de overhead niet klopte.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de overheadkosten niet voldoende onderbouwd, maar de kosten bleven ook zonder die post onder de opbrengst.",
+    "bron": [
+     65
+    ],
+    "citaat": "door uitsluitend naar het in rekening te brengen maximum te verwijzen"
+   },
+   "bruikbare_zin": {
+    "citaat": "omdat een bezwaar- en beroepsprocedure het directe gevolg is van de naheffingsaanslag parkeerbelasting",
+    "bron": [
+     55
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder zei dat de raming niet klopte met de begroting voor 2024.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de verschillen te verklaren, omdat begroting en fiscale raming met verschillende rekenmethodes zijn opgesteld.",
+    "bron": [
+     62
+    ],
+    "citaat": "De rechtbank acht dit een voldoende uitleg voor het verschil"
+   },
+   "bruikbare_zin": {
+    "citaat": "het toepassen van twee verschillende wettelijke rekenmethodieken",
+    "bron": [
+     61
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Kosten van een naheffing mogen worden verhaald als ze meer dan zijdelings samenhangen met de inning van niet-betaalde parkeerbelasting.",
+  "type": "regel",
+  "reikwijdte": "kosten van een naheffingsaanslag parkeerbelasting",
+  "uitzondering": "kosten die geheel of nagenoeg geheel andere doelen dienen",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   53
+  ],
+  "citaat": "dat de kosten meer dan zijdelings verband houden met de inning van niet-betaalde parkeerbelastingen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "begroting 2024 van de gemeente",
+   "kostenraming bij de verordening"
+  ],
+  "wat_gaf_doorslag": "De gemeente legde uit dat begroting en fiscale raming met andere rekenmethodes zijn opgesteld."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2026:24",
+   "ECLI:NL:HR:2026:100",
+   "ECLI:NL:HR:2002:AD6867",
+   "ECLI:NL:GHARL:2024:2263"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 lid 5 Gemeentewet",
+  "art. 234 lid 6 Gemeentewet",
+  "art. 2 Besluit gemeentelijke parkeerbelastingen",
+  "art. 3 Besluit gemeentelijke parkeerbelastingen"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Licht bij de overheadkosten concreet toe welke kosten erin zitten, in plaats van alleen naar het maximum te verwijzen.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    65
+   ],
+   "citaat": "geen enkele verklaring gegeven welke kosten onder deze titel in rekening worden gebracht"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar"
+ ],
+ "klantuitleg": "De kosten van een naheffing mogen alleen worden berekend voor zover ze samenhangen met het innen van de parkeerbelasting. De rechter vond de overheadkosten niet goed toegelicht, maar de naheffing bleef toch overeind. Twijfelt u aan de kosten, dan kunt u de gemeente vragen om een toelichting; of dat tot minder kosten leidt, kan niet worden beloofd.",
+ "gemeente": "Zandvoort",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

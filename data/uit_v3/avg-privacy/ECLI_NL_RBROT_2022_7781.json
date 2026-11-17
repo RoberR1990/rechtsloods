@@ -1,0 +1,157 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2022:7781",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": null,
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "gebruiker van de universiteitsbibliotheek",
+  "wederpartij": "Erasmus Universiteit Rotterdam",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een gebruiker van de universiteitsbibliotheek vroeg om een kopie van zijn gegevens en om verwijdering van zijn reserveringen. Hij ging bij de rechtbank Rotterdam in beroep tegen de Erasmus Universiteit Rotterdam; een gemeente is geen partij.",
+ "titel": "Beroep niet-ontvankelijk: gevraagde gegevens waren al verwijderd",
+ "kern": {
+  "zin": "De rechter verklaarde het beroep niet-ontvankelijk, omdat de gevraagde gegevens al verwijderd waren en de burger er dus niets meer mee kon bereiken.",
+  "bron": [
+   23
+  ],
+  "citaat": "Eiser heeft dus geen belang meer bij de beoordeling van dit beroep."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg om een kopie van zijn reserveringen en van camerabeelden, en om verwijdering van zijn reserveringen.",
+   "bron": [
+    16
+   ],
+   "citaat": "verzocht om een elektronische kopie van alle reserveringen bij de Universiteitsbibliotheek"
+  },
+  {
+   "zin": "De universiteit wees dit af, omdat de gegevens al waren verwijderd.",
+   "bron": [
+    17
+   ],
+   "citaat": "niet kunnen worden ingewilligd omdat deze gegevens al zijn verwijderd"
+  },
+  {
+   "zin": "De burger vond dat het besluit onzorgvuldig tot stand was gekomen, onder meer omdat hij de hoorzitting niet kon bijwonen.",
+   "bron": [
+    18
+   ],
+   "citaat": "het bestreden besluit onzorgvuldig tot stand is gekomen"
+  },
+  {
+   "zin": "De rechter zei dat de burger met dit beroep de gegevens niet meer kan krijgen, omdat ze vier weken na opname al waren verwijderd.",
+   "bron": [
+    23
+   ],
+   "citaat": "kan bereiken dat alsnog aan zijn verzoeken wordt voldaan"
+  },
+  {
+   "zin": "Een dwangsom (bedrag voor te late beslissing) kreeg de burger niet, omdat hij de universiteit niet geldig in gebreke had gesteld.",
+   "bron": [
+    24
+   ],
+   "citaat": "Naar het oordeel van de rechtbank is niet voldaan aan het vereiste van een geldige ingebrekestelling"
+  },
+  {
+   "zin": "Het beroep is niet-ontvankelijk en de schadevergoeding wordt afgewezen.",
+   "bron": [
+    25
+   ],
+   "citaat": "Het beroep is niet-ontvankelijk."
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep niet-ontvankelijk; geen dwangsom en geen schadevergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt de gegevens niet, ook geen dwangsom of schadevergoeding, en geen vergoeding van proceskosten; hij hoeft de kosten van de universiteit ook niet te betalen.",
+  "bron": [
+   26
+  ],
+  "citaat": "Er bestaat geen aanleiding verweerder te veroordelen in de door eiser gemaakte proceskosten."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "motivering",
+   "burger_zegt": "Het besluit kwam onzorgvuldig tot stand; hij kon de hoorzitting niet bijwonen en kreeg stukken te laat.",
+   "oordeel": "niet beoordeeld",
+   "waarom": null,
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De universiteit besliste te laat op zijn bezwaar, dus hij wilde een dwangsom.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Hij had de universiteit niet geldig in gebreke gesteld; zijn e-mail ging naar de adviescommissie en maande niet om een besluit.",
+    "bron": [
+     24
+    ],
+    "citaat": "Naar het oordeel van de rechtbank is niet voldaan aan het vereiste van een geldige ingebrekestelling"
+   },
+   "bruikbare_zin": {
+    "citaat": "er sprake is van een ingebrekestelling als bedoeld in artikel 4:17, derde lid, van de Awb als duidelijk is dat",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De universiteit moet de schade vergoeden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er is geen besluit vernietigd dat schade veroorzaakte, dus de schadevergoeding wordt afgewezen.",
+    "bron": [
+     25
+    ],
+    "citaat": "geen sprake is van enig schadeveroor-zakend besluit dat wordt vernietigd"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Zijn de gevraagde gegevens al verwijderd toen de organisatie besliste, dan heeft de burger geen belang meer bij zijn beroep.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Gegevens die vier weken na opname of reservering zijn verwijderd, waarbij geen aanwijzing is dat de organisatie bewust te laat besliste.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "Eiser heeft dus geen belang meer bij de beoordeling van dit beroep."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Tussen partijen was niet in geschil dat de gegevens vier weken na opname of reservering waren verwijderd."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2014:4682"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 12 lid 3 AVG",
+  "art. 4:17 lid 1 en 3 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Vraagt u om een kopie van uw gegevens, dan kan de organisatie zeggen dat die gegevens al zijn verwijderd; een rechter kan dan niet meer eisen dat u ze alsnog krijgt. Wilt u een dwangsom (een bedrag dat de organisatie u moet betalen als ze te laat beslist), dan moet u de organisatie eerst duidelijk schriftelijk maanen om te beslissen. Stuur die brief aan de organisatie zelf.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij (Erasmus Universiteit Rotterdam)",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

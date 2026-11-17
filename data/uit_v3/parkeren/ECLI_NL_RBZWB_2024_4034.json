@@ -1,0 +1,169 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2024:4034",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (particulier)",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De gemeente Breda legde de parkeerder een naheffingsaanslag parkeerbelasting op. De parkeerder ging daartegen in beroep bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Laden en lossen niet bewezen, wel te hoge kosten",
+ "kern": {
+  "zin": "De rechtbank oordeelde dat de kostenregel in de verordening niet deugt, omdat er meer kosten in rekening werden gebracht dan begroot.",
+  "bron": [
+   25
+  ],
+  "citaat": "meer kosten in rekening worden gebracht dan is begroot"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde de parkeerder een rekening van € 59 op, met € 57,50 aan kosten.",
+   "bron": [
+    17
+   ],
+   "citaat": "vanwege het niet betalen van (voldoende) parkeerbelasting een naheffingsaanslag parkeerbelasting opgelegd"
+  },
+  {
+   "zin": "De parkeerder voerde aan dat er geladen en gelost werd bij een verhuizing.",
+   "bron": [
+    24
+   ],
+   "citaat": "bezig was met het laden en lossen van een bed in verband met een verhuizing"
+  },
+  {
+   "zin": "De gemeente legde foto's over, en daarop was niets te zien dat op laden en lossen wees.",
+   "bron": [
+    24
+   ],
+   "citaat": "geen activiteit waarneembaar die op laden en lossen duidt"
+  },
+  {
+   "zin": "De rechtbank zag geen laden en lossen, omdat een open raam daarvoor te weinig is.",
+   "bron": [
+    24
+   ],
+   "citaat": "De enkele aanwezigheid van een open raam is daartoe onvoldoende"
+  },
+  {
+   "zin": "Volgens de rechtbank ging de gemeente met de kosten van € 57,90 boven de begroting uit.",
+   "bron": [
+    25
+   ],
+   "citaat": "meer kosten in rekening worden gebracht dan is begroot"
+  },
+  {
+   "zin": "De belasting van € 1,50 bleef staan, en de gemeente betaalt griffierecht en proceskosten.",
+   "bron": [
+    38,
+    39,
+    40
+   ],
+   "citaat": "vermindert de naheffingsaanslag parkeerbelasting tot een bedrag van € 1,50"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Kostendeel vervalt; belasting van € 1,50 blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "Van de rekening blijft alleen de belasting van € 1,50 over, en de gemeente betaalt griffierecht en € 296,25 aan proceskosten.",
+  "bron": [
+   38,
+   39,
+   40
+  ],
+  "citaat": "vermindert de naheffingsaanslag parkeerbelasting tot een bedrag van € 1,50"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "De parkeerder zei dat er geladen en gelost werd bij een verhuizing.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank zag op de foto's geen teken van laden en lossen en vond een open raam te weinig.",
+    "bron": [
+     24
+    ],
+    "citaat": "De enkele aanwezigheid van een open raam is daartoe onvoldoende"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen activiteit waarneembaar die op laden en lossen duidt",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "Het kostendeel moet vervallen en het belastingdeel moet blijven.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank oordeelde dat de kostenregel niet geldig was, omdat er meer kosten werden gevraagd dan begroot.",
+    "bron": [
+     25
+    ],
+    "citaat": "meer kosten in rekening worden gebracht dan is begroot"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het is immers in strijd met het legaliteitsbeginsel om een willekeurig bedrag aan kosten",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Kosten van een aanslag mogen niet willekeurig worden vastgesteld en moeten op de juiste manier bekendgemaakt zijn.",
+  "type": "regel",
+  "reikwijdte": "kosten van een naheffingsaanslag parkeerbelasting",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "Het is immers in strijd met het legaliteitsbeginsel om een willekeurig bedrag aan kosten"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "foto's van de gemeente bij het verweerschrift"
+  ],
+  "wat_gaf_doorslag": "De kostenregel in de verordening gaf de doorslag, niet het laden en lossen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Verordening parkeerbelastingen Breda 2022",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Herzie de kostenregeling in de verordening, zodat er niet meer kosten worden gevraagd dan begroot.",
+   "raakt": "verordening-beleid",
+   "bron": [
+    25
+   ],
+   "citaat": "meer kosten in rekening worden gebracht dan is begroot"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "verordening-beleid",
+  "klantcontact"
+ ],
+ "klantuitleg": "De rekening voor het parkeren achteraf is alleen terecht als de kosten kloppen en het parkeren echt betaald had moeten worden. In deze zaak zei de rechter dat er geen laden en lossen was, maar dat de kosten te hoog waren; de belasting van € 1,50 bleef staan. Wilt u bezwaar maken, doe dat op tijd en controleer de bedragen; of het helpt, hangt af van uw situatie.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

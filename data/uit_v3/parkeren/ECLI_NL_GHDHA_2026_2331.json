@@ -1,0 +1,200 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2026:2331",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (met gemachtigde)",
+  "wederpartij": "gemeente Leiden",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg in Leiden een rekening achteraf (naheffingsaanslag), omdat hij met een bezoekersvergunning voor zone 2 in zone 1 stond. Hij ging in hoger beroep bij het gerechtshof Den Haag tegen de gemeente Leiden.",
+ "titel": "Bezoekersvergunning in verkeerde zone: niet gehoord, rekening blijft",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente de parkeerder niet had mogen overslaan bij het horen, maar de rekening bleef staan omdat de bezoekersvergunning in die zone niet gold.",
+  "bron": [
+   74,
+   75,
+   82
+  ],
+  "citaat": "moet worden geoordeeld dat de hoorplicht is geschonden"
+ },
+ "samenvatting": [
+  {
+   "zin": "De auto stond in zone 1 met een bezoekersvergunning die alleen voor zone 2 gold, zonder dat parkeerbelasting voor zone 1 was betaald.",
+   "bron": [
+    20
+   ],
+   "citaat": "stond het voertuig geparkeerd met gebruikmaking van een bezoekersparkeervergunning die uitsluitend geldt voor parkeerzone"
+  },
+  {
+   "zin": "De parkeerder maakte bezwaar en vroeg daarbij om gehoord te worden.",
+   "bron": [
+    22
+   ],
+   "citaat": "Ik wil verder graag gehoord worden in deze zaak"
+  },
+  {
+   "zin": "De gemeente stelde per e-mail data voor een telefoongesprek voor en stuurde later een herinnering, maar kreeg geen antwoord.",
+   "bron": [
+    26,
+    35
+   ],
+   "citaat": "U kunt worden gehoord op 18, 19 en 21 november 2024 tussen 10:00 en 16:00 uur"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente uit het uitblijven van een antwoord niet mocht afleiden dat de parkeerder afzag van horen.",
+   "bron": [
+    72
+   ],
+   "citaat": "niet afleiden dat hij (stilzwijgend) afstand deed van het recht om te worden gehoord"
+  },
+  {
+   "zin": "Toch hoefde de zaak niet terug naar de gemeente, want over de feiten was geen ruzie en de parkeerder was dus niet benadeeld.",
+   "bron": [
+    75
+   ],
+   "citaat": "is belanghebbende niet in zijn belang geschaad door het niet gehoord zijn in de bezwaarfase"
+  },
+  {
+   "zin": "De rekening was terecht, want de parkeerder moet zelf nagaan waar zijn bezoekersvergunning geldt.",
+   "bron": [
+    81
+   ],
+   "citaat": "Het had op de weg van belanghebbende gelegen zich (eerst) te vergewissen van het parkeerbeleid"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Hoorplicht geschonden, maar rekening blijft; proceskosten en griffierecht vergoed",
+ "gevolg_betrokkene": {
+  "zin": "De rekening blijft staan, maar de gemeente moet € 633,50 aan proceskosten en € 196 aan griffierecht vergoeden.",
+  "bron": [
+   103,
+   104
+  ],
+  "citaat": "veroordeelt de Heffingsambtenaar in de proceskosten aan de zijde van belanghebbende, vastgesteld op € 633,50"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "Hij is in bezwaar niet gehoord; dat hij niet op de e-mails reageerde, betekent niet dat hij afzag van horen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter stelde vast dat de gemeente de plicht om de parkeerder te horen heeft geschonden.",
+    "bron": [
+     74
+    ],
+    "citaat": "moet worden geoordeeld dat de hoorplicht is geschonden"
+   },
+   "bruikbare_zin": {
+    "citaat": "blijft de Heffingsambtenaar gehouden (de gemachtigde van) belanghebbende in de gelegenheid te stellen te worden gehoord",
+    "bron": [
+     72
+    ]
+   }
+  },
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij meldde de auto aan in de bezoekersapp voor zone 2 en had dus voor een parkeerplaats betaald; ook in een verkeerde zone is dan aan de betaalplicht voldaan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Hij stond in zone 1 zonder vergunning en zonder dat de belasting voor zone 1 was betaald.",
+    "bron": [
+     82
+    ],
+    "citaat": "waarvoor hij niet over een vergunning beschikte en ook anderszins de ter plaatse in zone [1] verschuldigde belasting niet heeft voldaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "Er is geen sprake van parkeren met een vergunning, als aan één of meer van deze voorwaarden niet wordt voldaan",
+    "bron": [
+     80
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij had er eerder geparkeerd met deze vergunning zonder dat hij een rekening kreeg.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dat er eerder geen rekening kwam, verandert het oordeel niet.",
+    "bron": [
+     82
+    ],
+    "citaat": "met deze bezoekersvergunning zonder dat een naheffingsaanslag is opgelegd, maakt voormeld oordeel evenmin anders"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Is iemand in bezwaar niet goed gehoord, dan hoeft de zaak niet terug naar de gemeente als over de feiten geen ruzie meer is, want dan is hij niet benadeeld.",
+  "type": "regel",
+  "reikwijdte": "Hoorfout in de bezwaarfase bij een naheffing, waarbij partijen het eens zijn over de feiten",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   75
+  ],
+  "citaat": "kan aan dat gebrek in de uitspraak op het bezwaarschrift worden voorbijgegaan als de belanghebbende door de gang van zaken niet is benadeeld"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "beslissing bezoekersvergunning",
+   "screenprint van de bezoekersapp",
+   "kaart met de zones"
+  ],
+  "wat_gaf_doorslag": "Niet in geschil was dat de auto in zone 1 stond met een bezoekersvergunning die alleen voor zone 2 gold."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2009:BI3751",
+   "ECLI:NL:HR:2019:524",
+   "ECLI:NL:HR:1997:AA3336"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:2 Awb",
+  "art. 7:3 Awb",
+  "art. 8:72 lid 4 Awb",
+  "art. 225 Gemeentewet",
+  "art. 231 Gemeentewet",
+  "art. 234 Gemeentewet",
+  "art. 3 Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Nodig een burger die in bezwaar om horen vraagt en niet reageert opnieuw uit, op een vaste datum, tijd en plaats.",
+   "raakt": "bezwaar",
+   "bron": [
+    72
+   ],
+   "citaat": "blijft de Heffingsambtenaar gehouden (de gemachtigde van) belanghebbende in de gelegenheid te stellen te worden gehoord"
+  },
+  {
+   "actie": "Zorg voor een duidelijke kaart van de zones en laat zien in welke zone een bezoekersvergunning geldt.",
+   "raakt": "vergunningen",
+   "bron": [
+    51
+   ],
+   "citaat": "een afschrift overgelegd van een kaart waarop zone [2]"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "vergunningen",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een bezoekersvergunning geldt alleen in de zone waar de vergunninghouder woont. Parkeert u in een andere zone, dan kunt u een rekening achteraf krijgen, ook als u de auto in de bezoekersapp hebt aangemeld en ook als u daar eerder geen rekening kreeg. Controleer vooraf op de zonekaart waar de vergunning geldt en vraag in uw bezwaar om gehoord te worden als u dat wilt.",
+ "gemeente": "Leiden",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

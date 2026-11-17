@@ -1,0 +1,204 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2024:5467",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (met gemachtigde Boetejurist.nl)",
+  "wederpartij": "gemeente Tilburg",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Tilburg een naheffingsaanslag parkeerbelasting. Hij ging daartegen in beroep bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Verkeerde zone gekozen: naheffing blijft staan",
+ "kern": {
+  "zin": "De rechter hield de naheffing overeind, omdat de verkeerde zone voor rekening van de parkeerder blijft.",
+  "bron": [
+   30
+  ],
+  "citaat": "dit voor risico van belanghebbende moet blijven"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 21 juli 2023 stond de auto van de parkeerder in Tilburg, en er was geen parkeerbelasting betaald.",
+   "bron": [
+    15,
+    16
+   ],
+   "citaat": "De auto met [kenteken] stond op 21 juli 2023 omstreeks 20:00 uur stil aan de Nijverstraat te Tilburg."
+  },
+  {
+   "zin": "De parkeerder zei dat hij niet te weinig had betaald, en dat de automaat kapot was en niet pinde.",
+   "bron": [
+    23
+   ],
+   "citaat": "dat de parkeerautomaten buiten werking waren en/of dat het niet mogelijk was"
+  },
+  {
+   "zin": "De rechter vond dat de parkeerder zelf moest uitzoeken welke zone gold, en dat dit zijn eigen risico is.",
+   "bron": [
+    30
+   ],
+   "citaat": "Het lag namelijk op de weg van belanghebbende om voorafgaand of bij aanvang van het parkeren te onderzoeken"
+  },
+  {
+   "zin": "Een kapotte automaat ontslaat de parkeerder volgens de rechter niet van betalen.",
+   "bron": [
+    31
+   ],
+   "citaat": "Een defecte parkeerautomaat leidt er niet toe dat de parkeerder niet hoeft te betalen."
+  },
+  {
+   "zin": "Over een eerder ingetrokken aanslag voor een ander kenteken oordeelde de rechter dat die hier niet telt.",
+   "bron": [
+    34
+   ],
+   "citaat": "De rechtbank ziet niet in waarom die beslissing ook voor deze zaak zou moeten gelden."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing van de gemeente blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan, en de parkeerder krijgt geen griffierecht en geen proceskosten terug.",
+  "bron": [
+   36
+  ],
+  "citaat": "krijgt belanghebbende zijn griffierecht niet vergoed"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De parkeerautomaat was buiten werking en pinnen kon niet; hij had dus niet te weinig betaald.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een kapotte automaat verandert volgens de rechter niets aan de betaalplicht.",
+    "bron": [
+     31
+    ],
+    "citaat": "Een defecte parkeerautomaat leidt er niet toe dat de parkeerder niet hoeft te betalen."
+   },
+   "bruikbare_zin": {
+    "citaat": "Volgens vaste rechtspraak dient een parkeerder zich in te spannen om parkeerbelasting te voldoen.",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij zegt dat hij voldoende heeft betaald, ook al koos hij een andere zone.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat het kiezen van de verkeerde zone te weinig betalen betekent.",
+    "bron": [
+     29
+    ],
+    "citaat": "Belanghebbende heeft, door zijn auto in de verkeerde zone aan te melden, te weinig parkeerbelasting betaald."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het lag namelijk op de weg van belanghebbende om voorafgaand of bij aanvang van het parkeren te onderzoeken",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "gelijkheid",
+   "burger_zegt": "De gemeente behandelt gelijke gevallen niet gelijk, want een eerdere naheffing voor een ander kenteken is ingetrokken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag niet in waarom de intrekking van een andere aanslag ook hier zou gelden.",
+    "bron": [
+     34
+    ],
+    "citaat": "De rechtbank ziet niet in waarom die beslissing ook voor deze zaak zou moeten gelden."
+   },
+   "bruikbare_zin": {
+    "citaat": "ziet niet in waarom die beslissing ook voor deze zaak zou moeten gelden",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "Hij is ten onrechte niet gehoord.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een parkeerder wordt alleen gehoord als hij daar zelf om vraagt, en dat deed hij niet.",
+    "bron": [
+     26
+    ],
+    "citaat": "een belanghebbende alleen gehoord wordt op zijn verzoek"
+   },
+   "bruikbare_zin": {
+    "citaat": "alleen gehoord wordt op zijn verzoek",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "overmacht-medisch",
+   "burger_zegt": "Bijzondere omstandigheden en overmacht maken dat de naheffing lager moet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Parkeerbelasting is volgens de rechter een objectieve belasting, dus een te lage betaling is genoeg.",
+    "bron": [
+     32
+    ],
+    "citaat": "parkeerbelasting geen boete is, maar een objectieve belasting"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het enkele feit dat geen of te weinig parkeerbelasting is betaald, is voldoende",
+    "bron": [
+     32
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een defecte automaat ontslaat de parkeerder niet van betalen; hij moet zich inspannen om te betalen.",
+  "type": "regel",
+  "reikwijdte": "betaald parkeren waarbij een automaat of app wordt gebruikt",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   31
+  ],
+  "citaat": "Volgens vaste rechtspraak dient een parkeerder zich in te spannen om parkeerbelasting te voldoen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "constatering door parkeercontroleurs"
+  ],
+  "wat_gaf_doorslag": "De parkeerder had de verkeerde zone gekozen; een kapotte automaat telde niet mee."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 Gemeentewet",
+  "art. 2 Verordening parkeerbelastingen 2023 Tilburg",
+  "art. 1 Aanwijzingsbesluit Betaald parkeren 2023-1 Tilburg"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "uitspraak bevestigt de naheffing; geen tekortkoming van de gemeente aangewezen",
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "betaalapp"
+ ],
+ "klantuitleg": "Een naheffing blijft staan als u niet of te weinig betaalt, ook als u de verkeerde zone kiest of de automaat kapot is. Het is uw eigen verantwoordelijkheid om de juiste zone te controleren en te betalen. Op deze punten heeft bezwaar in deze zaak weinig kans gehad.",
+ "gemeente": "Tilburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

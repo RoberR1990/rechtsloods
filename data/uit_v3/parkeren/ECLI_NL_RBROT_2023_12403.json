@@ -1,0 +1,162 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:12403",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "gehandicaptenkaart",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner vroeg bij de gemeente Rotterdam een Europese gehandicaptenparkeerkaart aan voor bestuurder en passagier. Zij ging in beroep bij de rechtbank Rotterdam tegen het college van burgemeester en wethouders van Rotterdam.",
+ "titel": "Geen gehandicaptenparkeerkaart: loopbeperking niet langdurig genoeg",
+ "kern": {
+  "zin": "De rechter vindt het medisch advies voldoende en de loopbeperking niet langdurig genoeg, dus het beroep is ongegrond.",
+  "bron": [
+   25
+  ],
+  "citaat": "De rechtbank ziet verder geen aanknopingspunten om te twijfelen aan de conclusies van het medisch advies"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 30 november 2022 vroeg de bewoner een kaart aan voor bestuurder en passagier.",
+   "bron": [
+    15
+   ],
+   "citaat": "heeft eiseres een aanvraag voor een Europese gehandicaptenparkeerkaart bestuurder en passagier gedaan"
+  },
+  {
+   "zin": "Volgens de bewoner deugt de medische beoordeling niet, en de kaart is ten onrechte geweigerd.",
+   "bron": [
+    21
+   ],
+   "citaat": "het medisch advies dat verweerder aan zijn besluitvorming ten grondslag heeft gelegd gebrekkig is"
+  },
+  {
+   "zin": "De gemeente wees de aanvraag af op basis van het medisch advies.",
+   "bron": [
+    16
+   ],
+   "citaat": "heeft verweerder de aanvraag van eiseres afgewezen"
+  },
+  {
+   "zin": "Tijdelijke loopproblemen maken de beperking nog niet langdurig genoeg voor de kaart.",
+   "bron": [
+    25
+   ],
+   "citaat": "maakt niet dat sprake is van een langdurige loopbeperking zoals bedoeld in de Regeling"
+  },
+  {
+   "zin": "Zij krijgt dus geen kaart.",
+   "bron": [
+    30
+   ],
+   "citaat": "Dat betekent dat eiseres geen gehandicaptenparkeerkaart bestuurder of passagier krijgt"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; geen kaart, geen griffierecht of proceskosten terug.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de bewoner betekent dit: geen kaart, geen griffierecht terug en geen proceskostenvergoeding.",
+  "bron": [
+   30
+  ],
+  "citaat": "Eiseres krijgt daarom het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het medisch advies is gebrekkig, omdat de arts niet goed zou hebben doorgevraagd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Voor de rechter houdt het medisch advies stand.",
+    "bron": [
+     24
+    ],
+    "citaat": "zijn er onvoldoende aanknopingspunten voor de conclusie dat verweerder niet op het medisch advies heeft mogen afgaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "sprake van een voldoende objectief en inzichtelijk advies",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Sociaal isolement en de hardheidsclausule rechtvaardigen alsnog een kaart.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter begrijpt het isolement, maar dat rechtvaardigt de kaart niet.",
+    "bron": [
+     27
+    ],
+    "citaat": "kan deze omstandigheid niet de toekenning van een gehandicaptenparkeerkaart rechtvaardigen"
+   },
+   "bruikbare_zin": {
+    "citaat": "het vanwege medische redenen nodig is dat dichtbij kan worden geparkeerd",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een loopbeperking telt pas mee als ze langdurig is en iemand langdurig niet 100 meter aaneengesloten kan lopen.",
+  "type": "regel",
+  "reikwijdte": "gehandicaptenparkeerkaart voor bestuurder en passagier bij loopbeperking",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "het vereiste in de Regeling zo gelezen moet worden dat sprake moet zijn van een loopbeperking"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "episodelijst huisarts",
+   "medisch advies adviserend arts",
+   "verklaring op het medisch spreekuur"
+  ],
+  "wat_gaf_doorslag": "De burger onderbouwde de loopbeperking niet met verifieerbare gegevens; het medisch advies bleef overeind."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:CRVB:2021:1609",
+   "ECLI:NL:CRVB:2020:1076"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1 Regeling gehandicaptenparkeerkaart",
+  "art. 3:9 Awb",
+  "art. 49 Besluit administratieve bepalingen inzake het wegverkeer"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Geef in het bezwaar een nadere medische toelichting op het advies, ook als de aanvrager geen nieuwe stukken stuurt.",
+   "raakt": "bezwaar",
+   "bron": [
+    24
+   ],
+   "citaat": "heeft verweerder mogen volstaan met deze nadere toelichting"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een gehandicaptenparkeerkaart krijgt u alleen als u langdurig niet 100 meter aan een stuk kunt lopen, of als u voor het vervoer continu van de bestuurder afhankelijk bent. Af en toe minder kunnen lopen is daarvoor niet genoeg. Heeft u objectieve medische gegevens over een langdurige beperking, dan kunt u een nieuwe aanvraag doen; zonder die gegevens heeft bezwaar weinig kans.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,170 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2017:2799",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Nissewaard",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Deze zaak gaat over een man die zijn geboorteplaats en geboorteland in de basisregistratie personen (BRP) wil laten aanpassen. Hij procedeert tegen de gemeente Nissewaard bij de Raad van State, in hoger beroep.",
+ "titel": "Gemeente moet geboortegegevens in BRP aanpassen",
+ "kern": {
+  "zin": "De rechter vindt dat de gemeente de geboorteplaats en het geboorteland in de BRP moet aanpassen, omdat vaststaat dat die gegevens onjuist zijn.",
+  "bron": [
+   47
+  ],
+  "citaat": "dienen deze gegevens in dit geval te worden gewijzigd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De man vroeg de gemeente om zijn geboorteplaats en geboorteland in de BRP te wijzigen.",
+   "bron": [
+    21
+   ],
+   "citaat": "heeft het college op 24 april 2014 verzocht de gegevens te wijzigen"
+  },
+  {
+   "zin": "De gemeente wees dat af, omdat niet vaststond dat de nieuwe documenten over hem gingen.",
+   "bron": [
+    23
+   ],
+   "citaat": "in onvoldoende mate heeft aangetoond dat de overgelegde documenten op hem betrekking hebben"
+  },
+  {
+   "zin": "De rechtbank verklaarde het beroep ongegrond.",
+   "bron": [
+    25
+   ],
+   "citaat": "Zij heeft het beroep daarom ongegrond verklaard"
+  },
+  {
+   "zin": "De Raad van State oordeelde dat de rechtbank de verkeerde maatstaf had gebruikt.",
+   "bron": [
+    28
+   ],
+   "citaat": "Anders dan de rechtbank in dit geval heeft gedaan"
+  },
+  {
+   "zin": "Daarna beoordeelde de Raad van State het verzoek zelf en vond de gegevens onjuist.",
+   "bron": [
+    44
+   ],
+   "citaat": "betreffende zijn geboorteplaats en -land feitelijk onjuist zijn"
+  },
+  {
+   "zin": "De gemeente moet nu [plaats], Nigeria als geboorteplaats en geboorteland inschrijven.",
+   "bron": [
+    59
+   ],
+   "citaat": "[plaats], Nigeria als geboorteplaats en geboorteland"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Geboorteplaats en -land aangepast; gemeente betaalt kosten.",
+ "gevolg_betrokkene": {
+  "zin": "Zijn geboorteplaats en geboorteland in de BRP worden aangepast; de gemeente betaalt hem € 990 en € 1.980 aan proceskosten en € 415 aan griffierecht.",
+  "bron": [
+   59
+  ],
+  "citaat": "[plaats], Nigeria als geboorteplaats en geboorteland"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Zijn geboorteplaats en geboorteland in de BRP zijn onjuist en moeten worden aangepast.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter stelt vast dat de gegevens feitelijk onjuist zijn en past ze aan.",
+    "bron": [
+     47
+    ],
+    "citaat": "dienen deze gegevens in dit geval te worden gewijzigd"
+   },
+   "bruikbare_zin": {
+    "citaat": "betreffende zijn geboorteplaats en -land feitelijk onjuist zijn",
+    "bron": [
+     44
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De rechtbank heeft ten onrechte artikel 4:6 van de Awb toegepast.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De Raad van State beoordeelt herhaalde verzoeken nu anders dan de rechtbank deed.",
+    "bron": [
+     28
+    ],
+    "citaat": "beoordeelt de bestuursrechter dus niet meer ambtshalve"
+   },
+   "bruikbare_zin": {
+    "citaat": "Anders dan de rechtbank in dit geval heeft gedaan",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor het wijzigen van gegevens die al in de BRP staan, moet onomstotelijk vaststaan dat ze feitelijk onjuist zijn.",
+  "type": "regel",
+  "reikwijdte": "wijziging van gegevens in de basisregistratie personen",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   40
+  ],
+  "citaat": "zal gelet op het systeem van de Wet brp onomstotelijk moeten vaststaan dat deze feitelijk onjuist zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "Sworn Declaration of Age",
+   "Attestation of Birth",
+   "brief Nigeriaanse ambassade",
+   "Nigeriaans paspoort"
+  ],
+  "wat_gaf_doorslag": "Dat de onjuistheid niet in geschil was en het college geen ander bewijs kon noemen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2016:3131",
+   "ECLI:NL:RVS:2016:3014"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 4:6 Algemene wet bestuursrecht",
+  "art. 2.8 lid 2 Wet basisregistratie personen",
+  "art. 45 Boek 1 Burgerlijk Wetboek"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Geef bij een afwijzing aan welke documenten de burger nog meer of anders kan overleggen.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    47
+   ],
+   "citaat": "het college niet heeft kunnen aangeven welke informatie [appellant] anders of meer had kunnen overleggen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "privacy-fg"
+ ],
+ "klantuitleg": "In de BRP (de lijst met uw persoonsgegevens bij de gemeente) kunt u gegevens laten aanpassen als ze niet kloppen. De gemeente mag dat weigeren als u niet goed kunt bewijzen wat de juiste gegevens zijn. Laat daarom met officiële documenten zien wat er niet klopt.",
+ "gemeente": "Nissewaard",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

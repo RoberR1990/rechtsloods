@@ -1,0 +1,137 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2022:4153",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder)",
+  "wederpartij": "gemeente Utrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging in beroep tegen een naheffing van de gemeente Utrecht. Bij de rechtbank Midden-Nederland ging het om een auto die bij een scanauto-controle zonder betaald parkeerrecht stond.",
+ "titel": "Naheffing blijft: betaling niet aannemelijk gemaakt",
+ "kern": {
+  "zin": "De rechtbank oordeelde dat de parkeerder niet aannemelijk maakte dat hij had betaald, dus de naheffing blijft staan.",
+  "bron": [
+   17,
+   19
+  ],
+  "citaat": "eiser niet aannemelijk gemaakt dat hij de verschuldigde parkeerbelasting wel heeft betaald"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 22 december 2021 om 10:03 uur stond de auto van de parkeerder in Utrecht geparkeerd.",
+   "bron": [
+    8
+   ],
+   "citaat": "Op 22 december 2021 om 10:03 uur stond die auto geparkeerd aan de"
+  },
+  {
+   "zin": "Een controleur zag in de scanauto dat er geen parkeerbelasting was betaald.",
+   "bron": [
+    8
+   ],
+   "citaat": "heeft geregistreerd dat er geen parkeerbelasting was betaald"
+  },
+  {
+   "zin": "De gemeente legde op 4 januari 2022 een naheffing op van € 68,42 inclusief kosten.",
+   "bron": [
+    9
+   ],
+   "citaat": "een naheffingsaanslag in de parkeerbelasting opgelegd"
+  },
+  {
+   "zin": "De parkeerder zei dat hij de parkeerbelasting wel had betaald en liet een afschrijving van € 3,46 zien.",
+   "bron": [
+    13
+   ],
+   "citaat": "heeft eiser bankgegevens over een afschrijving van € 3,46"
+  },
+  {
+   "zin": "De gemeente vond dat de parkeerder niet aannemelijk had gemaakt dat hij op dat moment had betaald.",
+   "bron": [
+    14
+   ],
+   "citaat": "niet aannemelijk heeft gemaakt dat hij wel de verschuldigde parkeerbelasting"
+  },
+  {
+   "zin": "De rechtbank oordeelde dat de betaling niet gold voor deze auto, deze plek en dit tijdstip.",
+   "bron": [
+    17
+   ],
+   "citaat": "Daar blijkt echter niet uit dat hij parkeerbelasting heeft betaald voor zijn eigen auto voor die specifieke locatie"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing betalen en krijgt het griffierecht niet terug.",
+  "bron": [
+   19,
+   20
+  ],
+  "citaat": "Dat betekent dat eiser de naheffing verschuldigd is"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij zegt dat hij wel betaalde en misschien het kenteken verkeerd invoerde.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat de parkeerder niet aannemelijk maakte dat hij voor het parkeren betaalde.",
+    "bron": [
+     17
+    ],
+    "citaat": "eiser niet aannemelijk gemaakt dat hij de verschuldigde parkeerbelasting wel heeft betaald"
+   },
+   "bruikbare_zin": {
+    "citaat": "Daar blijkt echter niet uit dat hij parkeerbelasting heeft betaald voor zijn eigen auto voor die specifieke locatie",
+    "bron": [
+     17
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie een naheffing krijgt, moet zelf aannemelijk maken dat hij wel heeft betaald.",
+  "type": "regel",
+  "reikwijdte": "naheffing parkeerbelasting bij een scanauto-controle zonder geldig parkeerrecht",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   16
+  ],
+  "citaat": "in principe een naheffing verschuldigd is, tenzij hij aannemelijk maakt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "registratie van de controleur in de scanauto",
+   "betaalbewijs van de automaat"
+  ],
+  "wat_gaf_doorslag": "Het betaalbewijs liet niet zien dat voor deze auto, plek en tijdstip was betaald."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen fout van de gemeente; oordeel over betaling van één parkeerder",
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "betaalapp"
+ ],
+ "klantuitleg": "Een betaalbewijs telt alleen als het voor dezelfde auto, dezelfde plek en hetzelfde moment geldt. Anders blijft de rekening voor het parkeren staan. Heeft u wel betaald, zoek dan een bewijs met de juiste auto, plek en tijd.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

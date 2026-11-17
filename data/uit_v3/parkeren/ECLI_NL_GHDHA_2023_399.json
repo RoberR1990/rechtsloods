@@ -1,0 +1,197 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2023:399",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "bewijs-scanauto",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (met gemachtigde)",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder in Rotterdam kreeg een naheffingsaanslag (de rekening achteraf voor niet betaald parkeren). Hij ging in hoger beroep bij het gerechtshof Den Haag tegen de gemeente Rotterdam.",
+ "titel": "Rekening voor parkeren blijft staan, ook zonder foto van de scanauto",
+ "kern": {
+  "zin": "Het hof vond de rekening terecht: de scanauto-gegevens maakten aannemelijk dat er geparkeerd was, ook zonder bewaarde foto.",
+  "bron": [
+   52
+  ],
+  "citaat": "Het Hof ziet geen redenen om te twijfelen aan de juistheid van de HAS-gegevens"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente stuurde een naheffingsaanslag voor een Opel die op 9 november 2019 om 11:53 uur in Rotterdam stond zonder dat voldoende parkeerbelasting was betaald.",
+   "bron": [
+    19
+   ],
+   "citaat": "niet voldoende of geen parkeerbelasting is betaald ter zake van het parkeren van een voertuig"
+  },
+  {
+   "zin": "De parkeerder zei eerst dat hij had willen betalen met een bezoekersvergunning, maar dat het kenteken invoeren niet lukte door een storing. Later zei hij dat hij niet had geparkeerd.",
+   "bron": [
+    21
+   ],
+   "citaat": "Op 9 november 2019 heeft [belanghebbende] wel degelijk parkeerbelasting voldaan"
+  },
+  {
+   "zin": "De gemeente liet gegevens van de scanauto zien (HAS-gegevens) en had de foto's niet meer. Volgens de gemeente bleek uit de gegevens dat er wel foto's waren gemaakt en beoordeeld.",
+   "bron": [
+    49
+   ],
+   "citaat": "De HAS-gegevens bevatten de door een scanauto met een GPS-ontvanger bepaalde coördinaten"
+  },
+  {
+   "zin": "Het hof oordeelde dat de gemeente het parkeren moet bewijzen, maar vrij is in de middelen; het ontbreken van foto's is op zich geen probleem.",
+   "bron": [
+    51
+   ],
+   "citaat": "leidt op zich niet tot het oordeel dat de Heffingsambtenaar niet heeft voldaan aan de op hem rustende bewijslast"
+  },
+  {
+   "zin": "De gegevens verwezen naar een foto en de parkeerder had in bezwaar zelf gezegd dat hij had geparkeerd en wilde betalen. Zijn latere uitleg vond het hof niet geloofwaardig.",
+   "bron": [
+    52
+   ],
+   "citaat": "Gezien de referentie in de HAS-gegevens aan een foto acht het Hof de stelling"
+  },
+  {
+   "zin": "Het hof bevestigde de uitspraak van de rechtbank en wees een vergoeding van proceskosten af.",
+   "bron": [
+    58
+   ],
+   "citaat": "Het Gerechtshof bevestigt de uitspraak van de Rechtbank"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Rekening blijft; geen proceskostenvergoeding",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffingsaanslag betalen en krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   56
+  ],
+  "citaat": "Voor een veroordeling in de proceskosten bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De scanauto-gegevens zijn geen genoeg bewijs: er is geen foto, geen tweede controle ter plaatse, en de scanauto kan een fout hebben gemaakt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof zag geen reden om aan de scanauto-gegevens te twijfelen, ook omdat de gegevens naar een foto verwijzen.",
+    "bron": [
+     52
+    ],
+    "citaat": "Het Hof ziet geen redenen om te twijfelen aan de juistheid van de HAS-gegevens"
+   },
+   "bruikbare_zin": {
+    "citaat": "leidt op zich niet tot het oordeel dat de Heffingsambtenaar niet heeft voldaan aan de op hem rustende bewijslast",
+    "bron": [
+     51
+    ]
+   }
+  },
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "Ik kon mijn kenteken niet invoeren voor mijn bezoekersvergunning door een storing, en ik wilde betalen.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "Het hof ging niet op de storing in, maar gebruikte deze verklaring uit het bezwaar als aanwijzing dat de parkeerder had geparkeerd.",
+    "bron": [
+     52
+    ],
+    "citaat": "belanghebbende in de bezwaarfase uitdrukkelijk heeft gesteld dat hij wel parkeerbelasting heeft betaald"
+   },
+   "bruikbare_zin": {
+    "citaat": "Gegeven de lage drempel die geldt ten aanzien van de motivering van het bezwaar",
+    "bron": [
+     52
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Bij de bewijslast moet artikel 6 lid 2 van het EVRM gelden, zoals bij een strafzaak.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dat artikel geldt alleen bij strafvervolging, niet bij een naheffingsaanslag voor parkeerbelasting.",
+    "bron": [
+     53
+    ],
+    "citaat": "die verdragsbepaling alleen van toepassing is bij strafrechtelijke vervolging"
+   },
+   "bruikbare_zin": {
+    "citaat": "Artikel 6 EVRM ziet niet op geschillen die gericht zijn tegen een belastingaanslag",
+    "bron": [
+     53
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente moet bewijzen dat er geparkeerd is, maar mag dat vrij doen. Zonder bewaarde foto kunnen scanauto-gegevens genoeg zijn, tenzij de burger dat bewijs ontkracht.",
+  "type": "regel",
+  "reikwijdte": "Naheffing parkeerbelasting op basis van scanauto-gegevens (HAS) die naar een niet meer beschikbare foto verwijzen",
+  "uitzondering": "Als de burger de gegevens met goede argumenten ontkracht, kan het bewijs onvoldoende zijn",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   51
+  ],
+  "citaat": "De vraag is of de Heffingsambtenaar met hetgeen hij wel heeft overgelegd voldoet aan de op hem rustende bewijslast"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "HAS-gegevens van de scanauto (plaats, tijd, kenteken, merk)",
+   "beoordeling door een medewerker op kantoor",
+   "eigen uitleg van de burger in bezwaar"
+  ],
+  "wat_gaf_doorslag": "De gegevens verwezen naar een foto en de burger zei in bezwaar zelf dat hij had geparkeerd."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:HR:2011:BP6284",
+   "ECLI:NL:HR:1995:AA3127"
+  ]
+ },
+ "wetsartikelen": [
+  "Verordening parkeerregulering en parkeerbelasting 2019 Rotterdam",
+  "art. 6:5 Awb",
+  "art. 6 EVRM"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar de foto's van de scanauto en laat de verwijzing naar de foto in de scanauto-gegevens staan.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    52
+   ],
+   "citaat": "Gezien de referentie in de HAS-gegevens aan een foto acht het Hof de stelling"
+  },
+  {
+   "actie": "Leg uit wat de scanauto-gegevens bevatten (plaats, zone, tijd, kenteken, merk) en wie ze beoordeelt.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    49
+   ],
+   "citaat": "De HAS-gegevens bevatten de door een scanauto met een GPS-ontvanger bepaalde coördinaten"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "scanauto-handhaving",
+  "bezwaar",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een rekening voor niet betaald parkeren kan ook terecht zijn als de gemeente geen foto meer heeft, omdat de gegevens van de scanauto genoeg kunnen zijn. Zegt u dat u niet geparkeerd hebt, zeg dat dan meteen in uw bezwaar en onderbouw het. Bezwaar heeft weinig kans als u eerder zelf hebt gezegd dat u er stond.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

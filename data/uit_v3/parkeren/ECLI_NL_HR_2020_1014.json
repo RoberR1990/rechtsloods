@@ -1,0 +1,162 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:HR:2020:1014",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Tilburg",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "cassatie",
+ "intro": "Een parkeerder in Tilburg kreeg een naheffingsaanslag (een rekening achteraf) van € 75,30, omdat de parkeerapp een te laag tarief toonde. Hij ging in cassatie bij de Hoge Raad tegen de gemeente Tilburg.",
+ "titel": "Verkeerd tarief in parkeerapp: rekening achteraf vernietigd",
+ "kern": {
+  "zin": "De Hoge Raad vond dat de parkeerder mocht afgaan op het tarief in de parkeerapp, omdat de gemeente zelf niet duidelijk was over dat tarief.",
+  "bron": [
+   28
+  ],
+  "citaat": "kan aan belanghebbende niet worden tegengeworpen dat hij is afgegaan op de tariefinformatie in de parkeerapp"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een rekening achteraf van € 75,30 voor parkeren in de Utrechtsestraat in Tilburg.",
+   "bron": [
+    18
+   ],
+   "citaat": "Aan belanghebbende is met dagtekening 30 juni 2017 een naheffingsaanslag parkeerbelasting opgelegd van € 75,30"
+  },
+  {
+   "zin": "Hij betaalde via de parkeerapp € 2,20 voor een uur, terwijl een dagticket van € 16,50 nodig was.",
+   "bron": [
+    20
+   ],
+   "citaat": "€ 2,20 aan parkeerbelasting voor een uur voldaan, in plaats van € 16,50 voor een dagticket"
+  },
+  {
+   "zin": "De app toonde het verkeerde tarief door een fout in de gegevens tussen de gemeente en het bedrijf achter de app.",
+   "bron": [
+    21
+   ],
+   "citaat": "berust in dit geval op een fout in de uitwisseling van informatie tussen de gemeente Tilburg en het bedrijf"
+  },
+  {
+   "zin": "Het hof vond dat de parkeerder de app had moeten controleren aan de hand van de borden.",
+   "bron": [
+    23
+   ],
+   "citaat": "Nalaten van een controle met de feitelijke situatie komt in dit geval voor zijn risico."
+  },
+  {
+   "zin": "De Hoge Raad vond dat het tarief bij app en automaat even duidelijk moest zijn, en dat de gemeente daar niet aan voldeed.",
+   "bron": [
+    28
+   ],
+   "citaat": "kan aan belanghebbende niet worden tegengeworpen dat hij is afgegaan op de tariefinformatie in de parkeerapp"
+  },
+  {
+   "zin": "De Hoge Raad vernietigde de rekening achteraf.",
+   "bron": [
+    29
+   ],
+   "citaat": "De naheffingsaanslag zal worden vernietigd."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Rekening achteraf vernietigd; de app toonde door een fout het verkeerde tarief.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening van € 75,30 vervalt. De gemeente betaalt het griffierecht (€ 128, € 126 en € 46) en de proceskosten (€ 3.544, € 1.050 en € 525).",
+  "bron": [
+   29,
+   36,
+   37,
+   38,
+   39
+  ],
+  "citaat": "De naheffingsaanslag zal worden vernietigd."
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De parkeerapp toonde een verkeerd tarief, dus hij mocht daarop afgaan.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Bij app en automaat moet het tarief even duidelijk zijn; de app toonde onjuiste gegevens, dus kon dit hem niet worden tegengeworpen.",
+    "bron": [
+     28
+    ],
+    "citaat": "kan aan belanghebbende niet worden tegengeworpen dat hij is afgegaan op de tariefinformatie in de parkeerapp"
+   },
+   "bruikbare_zin": {
+    "citaat": "Voor elk van deze wijzen van betaling dient dan ook voldoende duidelijk te zijn welk tarief gold",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Biedt de verordening de keuze tussen app en automaat, dan moet bij allebei voldoende duidelijk zijn welk tarief geldt; een parkeerder mag afgaan op de app zonder ook borden of automaat te raadplegen.",
+  "type": "regel",
+  "reikwijdte": "Gemeenten waar de verordening vrije keuze geeft tussen betalen via de parkeerapp en de parkeerautomaat.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "Voor elk van deze wijzen van betaling dient dan ook voldoende duidelijk te zijn welk tarief gold"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "gegevens uit de parkeerapp",
+   "bord bij de ingang van de straat"
+  ],
+  "wat_gaf_doorslag": "Vast stond dat de app onjuiste tariefinformatie toonde."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:1995:AA3126"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 lid 1 onder a Gemeentewet",
+  "Verordening parkeerbelastingen 2017 Tilburg"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer dat tarief en zone in de parkeerapp gelijk zijn aan die op borden en automaten.",
+   "raakt": "betaalapp",
+   "bron": [
+    27
+   ],
+   "citaat": "Voor elk van deze wijzen van betaling dient dan ook voldoende duidelijk te zijn welk tarief gold"
+  },
+  {
+   "actie": "Heft een naheffing op als de app door een fout van de gemeente of haar leverancier een verkeerd tarief toonde en de parkeerder zelf mocht kiezen tussen app en automaat.",
+   "raakt": "bezwaar",
+   "bron": [
+    28
+   ],
+   "citaat": "kan aan belanghebbende niet worden tegengeworpen dat hij is afgegaan op de tariefinformatie in de parkeerapp"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "betaalapp",
+  "bezwaar",
+  "tarief-naheffing",
+  "klantcontact"
+ ],
+ "klantuitleg": "De Hoge Raad vond dat u mocht afgaan op het tarief in de parkeerapp als de app door een fout van de gemeente het verkeerde bedrag toonde en u zelf mocht kiezen tussen app en automaat. De rekening achteraf werd daarom ingetrokken. Zit u in zo'n situatie, dan helpt het om een schermafbeelding van de app te bewaren en bezwaar te maken.",
+ "gemeente": "Tilburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

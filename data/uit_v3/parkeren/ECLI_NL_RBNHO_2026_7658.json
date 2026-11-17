@@ -1,0 +1,147 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2026:7658",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Cocensus",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kwam op tegen een naheffingsaanslag (de rekening achteraf) van de gemeente Cocensus, omdat hij geen parkeerbelasting had betaald. De Rechtbank Noord-Holland besliste over het beroep.",
+ "titel": "Automaat werkte niet, rekening blijft, maar rechtbankkosten gaan terug",
+ "kern": {
+  "zin": "De rechter verwierp het beroep, omdat de andere automaten wel werkten, maar de gemeente moet het griffierecht vergoeden omdat zij het argument niet had besproken.",
+  "bron": [
+   22,
+   25
+  ],
+  "citaat": "De rechtbank maakt daaruit op dat die parkeerautomaten gewoon werkten"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 12 november 2023 stond de auto van de parkeerder geparkeerd zonder betaalde parkeerbelasting.",
+   "bron": [
+    16,
+    17
+   ],
+   "citaat": "Op 12 november 2023, om 14:10 uur, stond de auto van belanghebbende"
+  },
+  {
+   "zin": "De parkeerder stelde dat de automaat niet werkte toen hij tot 15:00 uur wilde betalen.",
+   "bron": [
+    19
+   ],
+   "citaat": "wilde betalen tot 15:00 uur, maar de parkeerautomaat niet werkte"
+  },
+  {
+   "zin": "De gemeente gaf toe dat de eerste automaat stuk was, maar zei dat de andere twee wel werkten.",
+   "bron": [
+    20
+   ],
+   "citaat": "de beide andere parkeerautomaten op het terrein het wel deden"
+  },
+  {
+   "zin": "De rechter wees het beroep af, omdat de parkeerder via de andere automaten had kunnen betalen.",
+   "bron": [
+    22
+   ],
+   "citaat": "belanghebbende dus parkeerbelasting had moeten en kunnen betalen"
+  },
+  {
+   "zin": "Omdat de gemeente in het bezwaar niet op dat argument inging, moet zij het griffierecht van € 51 terugbetalen.",
+   "bron": [
+    25,
+    29
+   ],
+   "citaat": "uitspraak op bezwaar niet is ingegaan op het argument van belanghebbende"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep ongegrond; alleen griffierecht vergoed door gemeente.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening blijft staan, maar de gemeente betaalt het griffierecht van € 51 terug.",
+  "bron": [
+   29,
+   25
+  ],
+  "citaat": "geeft verweerder opdracht aan belanghebbende het griffierecht van € 51 te vergoeden"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De parkeerautomaat werkte niet, en de andere automaten op het terrein ook niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond geen reden om de transactielijsten van de gemeente in twijfel te trekken.",
+    "bron": [
+     22
+    ],
+    "citaat": "De rechtbank heeft geen reden om te twijfelen aan de juistheid van hetgeen op de transactielijsten is vermeld"
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank maakt daaruit op dat die parkeerautomaten gewoon werkten",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De gemeente ging in het bezwaar niet in op zijn argument over de andere automaten.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente in het bezwaar niet op dat argument was ingegaan.",
+    "bron": [
+     25
+    ],
+    "citaat": "uitspraak op bezwaar niet is ingegaan op het argument van belanghebbende"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet is ingegaan op het argument van belanghebbende",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": null,
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "transactielijsten van de andere automaten"
+  ],
+  "wat_gaf_doorslag": "De transactielijsten lieten zien dat de andere automaten gewoon werkten."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Stuur bij het bezwaar de transactielijsten mee en beantwoord elk argument van de parkeerder.",
+   "raakt": "bezwaar",
+   "bron": [
+    25
+   ],
+   "citaat": "als verweerder de transactielijsten reeds tijdens de bezwaarfase aan belanghebbende had verstrekt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als de parkeerautomaat niet werkt, probeer dan een andere automaat of de app en bewaar bewijs van uw pogingen. In deze zaak bleken de andere automaten wel te werken, daarom bleef de rekening staan. Bewijs van uw pogingen kan wel helpen bij bezwaar, maar winst is niet gegarandeerd.",
+ "gemeente": "Cocensus",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

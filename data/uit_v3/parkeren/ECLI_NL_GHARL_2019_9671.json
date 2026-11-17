@@ -1,0 +1,179 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2019:9671",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Nijmegen",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bewoner met een parkeervergunning voor zijn eigen zone parkeerde in Nijmegen in een andere zone en kreeg een naheffingsaanslag (een rekening achteraf). De gemeente Nijmegen ging in hoger beroep bij het gerechtshof Arnhem-Leeuwarden, omdat de rechtbank de bewoner gelijk gaf.",
+ "titel": "Parkeren in andere zone met vergunning: rekening blijft staan",
+ "kern": {
+  "zin": "De rechter vond de rekening terecht, omdat de bewoner met een onderzoeksplicht kon zien dat hij in een andere parkeerzone stond.",
+  "bron": [
+   37
+  ],
+  "citaat": "kon het, met de op belanghebbende rustende onderzoeksplicht, voor belanghebbende redelijkerwijs duidelijk zijn dat hij zich bevond in een straat"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeercontroleur zag op een zondagmiddag dat voor de auto geen parkeerbelasting was betaald.",
+   "bron": [
+    18
+   ],
+   "citaat": "De parkeercontroleur heeft op bovengenoemde datum en genoemd tijdstip geconstateerd dat voor de auto geen parkeerbelasting was betaald."
+  },
+  {
+   "zin": "De bewoner had wel een vergunning, maar voor een andere zone.",
+   "bron": [
+    17
+   ],
+   "citaat": "Belanghebbende is in het bezit van een parkeervergunning om in deze zone te kunnen parkeren."
+  },
+  {
+   "zin": "De bewoner zei dat de gemeente de wijziging van de zones niet persoonlijk aan hem had bekendgemaakt.",
+   "bron": [
+    34
+   ],
+   "citaat": "Belanghebbende stelt dat de gemeente die concrete wijziging niet aan hem persoonlijk bekendgemaakt heeft."
+  },
+  {
+   "zin": "De gemeente zei dat een brief over de gewijzigde zones aan de bewoner genoeg was.",
+   "bron": [
+    35
+   ],
+   "citaat": "met een aan belanghebbende gerichte brief dat er parkeerzones gewijzigd zijn"
+  },
+  {
+   "zin": "De rechter liet open of de gemeente genoeg had gemeld, want de bewoner kon het zelf zien aan de parkeerautomaat.",
+   "bron": [
+    36
+   ],
+   "citaat": "is het antwoord op die vraag niet van belang indien het belanghebbende op andere wijze redelijkerwijs duidelijk kon zijn"
+  },
+  {
+   "zin": "De rechter vernietigde het oordeel van de rechtbank: de rekening is terecht en er is geen proceskostenvergoeding.",
+   "bron": [
+    40
+   ],
+   "citaat": "De slotsom is dat aan belanghebbende terecht een naheffingsaanslag parkeerbelasting is opgelegd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep gemeente slaagt; rekening van € 63,20 blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner moet de rekening van € 63,20 betalen en krijgt geen proceskostenvergoeding.",
+  "bron": [
+   18,
+   42
+  ],
+  "citaat": "Vervolgens is de naheffingsaanslag opgelegd naar een bedrag van € 63,20 (€ 2,20 aan parkeerbelasting en € 61 aan kosten)."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente heeft de wijziging van de parkeerzones niet persoonlijk aan mij bekendgemaakt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter liet open of de gemeente dit goed had gemeld, omdat de bewoner zelf moest onderzoeken in welke zone hij stond.",
+    "bron": [
+     36
+    ],
+    "citaat": "Daarbij rust op belanghebbende een onderzoeksplicht, waaraan hij naar het oordeel van het Hof niet heeft voldaan."
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "De zones zijn op de kaart en in de straat niet goed te herkennen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter wees op de duidelijk blauwe zijpanelen van de parkeerautomaat in de straat.",
+    "bron": [
+     37
+    ],
+    "citaat": "staat een parkeerautomaat met duidelijk waarneembare blauwe zijpanelen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Belanghebbende heeft ter zitting erkend dat hij wel had kunnen zien dat de [a-straat] tot een andere parkeerzone behoorde",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Een medewerker van de gemeente schreef dat toezicht niet moeilijk zou doen bij 2 meter in een andere zone, dus mocht ik hierop vertrouwen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de bewoner op minstens 30 meter van de zonegrens stond, en dat is te ver voor dit vertrouwen.",
+    "bron": [
+     38
+    ],
+    "citaat": "Het beroep op het vertrouwensbeginsel wordt dan ook verworpen."
+   },
+   "bruikbare_zin": {
+    "citaat": "omdat belanghebbende de auto op minstens 30 meter van de zonegrens heeft geparkeerd",
+    "bron": [
+     38
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie in een andere zone staat dan waarvoor hij een vergunning heeft, moet zelf uitzoeken in welke zone hij is, als dat redelijkerwijs duidelijk kon zijn.",
+  "type": "regel",
+  "reikwijdte": "Parkeerders met een vergunning voor een andere zone die in een straat met een duidelijk herkenbare andere zone parkeren",
+  "uitzondering": "Heeft de gemeente vertrouwen gewekt en staat de auto zeer dicht bij de zonegrens, dan kan een beroep op vertrouwen kans maken",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   36
+  ],
+  "citaat": "indien het belanghebbende op andere wijze redelijkerwijs duidelijk kon zijn dat hij buiten zijn eigen parkeerzone parkeerde"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "foto van de straat met parkeerautomaat",
+   "verklaring van de bewoner ter zitting",
+   "e-mails uit 2016 met de gemeente"
+  ],
+  "wat_gaf_doorslag": "De bewoner erkende dat hij de blauwe zijpanelen had kunnen zien en stond minstens 30 meter van de zonegrens."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:75 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Maak foto's van de parkeerautomaat met de zonekleur en van de straat, en leg die vast in het dossier",
+   "raakt": "bezwaar",
+   "bron": [
+    37
+   ],
+   "citaat": "staat een parkeerautomaat met duidelijk waarneembare blauwe zijpanelen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "bebording-verkeersbesluit"
+ ],
+ "klantuitleg": "Heeft u een parkeervergunning voor een bepaalde zone, dan geldt die alleen in die zone. U moet zelf goed opletten in welke zone u staat, bijvoorbeeld aan de kleur van de parkeerautomaat. Maakt u bezwaar, laat dan zien dat de zone echt niet te herkennen was, want alleen een melding op de website van de gemeente is geen garantie.",
+ "gemeente": "Nijmegen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

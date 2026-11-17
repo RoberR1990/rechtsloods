@@ -1,0 +1,176 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "dubbel_van": null,
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": null,
+ "ecli": "ECLI:NL:GHARL:2017:591",
+ "onderwerp": "parkeerverbod",
+ "sub": "gehandicaptenplaats",
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een automobilist kreeg in Maastricht een boete van € 370 voor parkeren op een gehandicaptenplaats. Hij ging in hoger beroep tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden en kreeg gelijk.",
+ "titel": "Boete vervalt: gehandicaptenbord stond tussen twee parkeervakken",
+ "kern": {
+  "zin": "De rechter vernietigde de boete, want door de plaats van het bord was niet duidelijk dat dit vak een gehandicaptenplaats was.",
+  "bron": [
+   27
+  ],
+  "citaat": "niet met voldoende mate van duidelijkheid worden vastgesteld dat het parkeervak waar de betrokkene zijn voertuig heeft geparkeerd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De automobilist kreeg een boete van € 370 voor parkeren op een gehandicaptenplaats zonder kaart.",
+   "bron": [
+    23
+   ],
+   "citaat": "een administratieve sanctie van € 370,- opgelegd"
+  },
+  {
+   "zin": "Hij zei dat het bord bij het tweede vak stond en niet aangaf dat het voor meer vakken gold.",
+   "bron": [
+    24
+   ],
+   "citaat": "Het verkeersbord stond echter bij het volgende vak."
+  },
+  {
+   "zin": "De officier van justitie betwistte niet dat de auto in het eerste vak stond.",
+   "bron": [
+    26
+   ],
+   "citaat": "niet betwist dat de betrokkene zijn voertuig heeft geparkeerd in het door hem omschreven vak"
+  },
+  {
+   "zin": "De rechter zei dat door de plaats van het bord niet duidelijk was welk vak een gehandicaptenplaats was.",
+   "bron": [
+    27
+   ],
+   "citaat": "kan niet met voldoende mate van duidelijkheid worden vastgesteld dat het parkeervak"
+  },
+  {
+   "zin": "De rolstoeltegel in de grond veranderde dat niet, want die is geen verkeersteken.",
+   "bron": [
+    27
+   ],
+   "citaat": "nu een dergelijke tegel geen verkeersteken is als bedoeld in het Reglement verkeersregels en verkeerstekens 1990"
+  },
+  {
+   "zin": "De boete werd vernietigd en de borgsom (zekerheid) moet worden terugbetaald.",
+   "bron": [
+    28
+   ],
+   "citaat": "Het bedrag van de zekerheidstelling dient aan de betrokkene te worden gerestitueerd."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete van € 370 vernietigd; borgsom terug.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 370 vervalt en de borgsom krijgt hij terug; proceskosten krijgt hij niet vergoed.",
+  "bron": [
+   28,
+   29,
+   23
+  ],
+  "citaat": "Het bedrag van de zekerheidstelling dient aan de betrokkene te worden gerestitueerd."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Het bord stond bij het volgende vak en gaf niet aan dat het ook voor mijn vak gold.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Door de plaats van het bord tussen twee vakken was niet duidelijk voor welk vak het gold.",
+    "bron": [
+     27
+    ],
+    "citaat": "Gelet op de plaatsing van het bord (tussen het eerste en het tweede vak)"
+   },
+   "bruikbare_zin": {
+    "citaat": "kan niet met voldoende mate van duidelijkheid worden vastgesteld",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het tegeltje met een rolstoel op de grond was niet goed te zien.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Een rolstoeltegel is geen verkeersteken, dus die maakt het niet duidelijk genoeg.",
+    "bron": [
+     27
+    ],
+    "citaat": "nu een dergelijke tegel geen verkeersteken is als bedoeld in het Reglement verkeersregels en verkeerstekens 1990"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De handhaver maakte geen foto's van de overtreding.",
+   "oordeel": "niet beoordeeld",
+   "waarom": null,
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Staat het gehandicaptenbord tussen twee parkeervakken, dan is niet zeker voor welk vak het geldt en kan geen boete worden opgelegd.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Bord haaks op de weg tussen het eerste en tweede vak, zonder aanduiding voor welke vakken het geldt",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "kan niet met voldoende mate van duidelijkheid worden vastgesteld dat het parkeervak"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "print van Google Maps Streetview"
+  ],
+  "wat_gaf_doorslag": "Het bord stond tussen twee vakken, dus het was niet duidelijk voor welk vak het gold."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "RVV 1990",
+  "art. 11 WAHV"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Plaats een gehandicaptenbord zo dat zonder twijfel duidelijk is voor welk parkeervak het geldt",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    27
+   ],
+   "citaat": "Gelet op de plaatsing van het bord (tussen het eerste en het tweede vak)"
+  },
+  {
+   "actie": "Reken niet op een rolstoeltegel in de bestrating als bewijs van een gehandicaptenplaats; plaats een verkeersbord",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    27
+   ],
+   "citaat": "nu een dergelijke tegel geen verkeersteken is als bedoeld in het Reglement verkeersregels en verkeerstekens 1990"
+  }
+ ],
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een boete voor parkeren op een gehandicaptenplaats kan vervallen als niet duidelijk is voor welk vak het bord geldt. Een rolstoeltegel in de straat telt niet als verkeersbord. Stond bij u het bord ook onduidelijk, dan kunt u bezwaar maken en foto's van de situatie meesturen.",
+ "gemeente": "Maastricht",
+ "zekerheid": "hoog"
+}

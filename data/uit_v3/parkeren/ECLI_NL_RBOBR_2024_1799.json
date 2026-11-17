@@ -1,0 +1,150 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOBR:2024:1799",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "de parkeerder (particulier)",
+  "wederpartij": "gemeente 's-Hertogenbosch",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffingsaanslag (de rekening achteraf) voor een parkeerplek waar niet was betaald. Hij ging bij de rechtbank Oost-Brabant in beroep tegen de gemeente 's-Hertogenbosch.",
+ "titel": "App kapot, maar toch moest de parkeerder betalen",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder te lang had gewacht en naar de automaat had moeten gaan.",
+  "bron": [
+   22
+  ],
+  "citaat": "kunnen en moeten kiezen de parkeerbelasting via de aanwezige parkeerautomaat te voldoen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 8 oktober 2022 stond de auto van de parkeerder geparkeerd, en er was niet betaald.",
+   "bron": [
+    16
+   ],
+   "citaat": "Met een scanauto heeft de heffingsambtenaar geconstateerd op het hiervoor genoemde moment de verschuldigde parkeerbelasting niet was voldaan."
+  },
+  {
+   "zin": "De parkeerder zei dat er een storing was in de app.",
+   "bron": [
+    19
+   ],
+   "citaat": "dat er een storing was in de app"
+  },
+  {
+   "zin": "De gemeente betwistte die storing.",
+   "bron": [
+    22
+   ],
+   "citaat": "wat door de heffingsambtenaar is bestreden"
+  },
+  {
+   "zin": "De rechter vond dat de parkeerder te lang wachtte en naar de automaat had moeten gaan.",
+   "bron": [
+    22
+   ],
+   "citaat": "een te lange termijn (van in totaal 15 minuten) in acht heeft genomen"
+  },
+  {
+   "zin": "De rechter oordeelde dat de naheffing terecht bleef staan.",
+   "bron": [
+    24
+   ],
+   "citaat": "met de uitspraak op bezwaar van 18 oktober 2022 terecht heeft gehandhaafd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder blijft verantwoordelijk voor de betaling van 2,57 euro parkeerbelasting en 66,50 euro kosten.",
+  "bron": [
+   17,
+   22
+  ],
+  "citaat": "bestaande uit € 2,57 parkeerbelasting en € 66,50 kosten naheffing"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De storing in de app gaf mij geen redelijke tijd om te betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de parkeerder naar de automaat had moeten gaan, omdat hij te lang had gewacht.",
+    "bron": [
+     22
+    ],
+    "citaat": "een te lange termijn (van in totaal 15 minuten) in acht heeft genomen"
+   },
+   "bruikbare_zin": {
+    "citaat": "kunnen en moeten kiezen de parkeerbelasting via de aanwezige parkeerautomaat te voldoen",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "overmacht-medisch",
+   "burger_zegt": "Door overmacht kon ik de parkeerbelasting niet betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een beroep op overmacht slaagt volgens de rechter alleen bij een noodsituatie.",
+    "bron": [
+     23
+    ],
+    "citaat": "alleen sprake in een noodsituatie of spoedeisende situatie"
+   },
+   "bruikbare_zin": {
+    "citaat": "alleen sprake in een noodsituatie of spoedeisende situatie",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Of een parkeerder genoeg tijd kreeg om te betalen, hangt af van de omstandigheden van het geval.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Parkeerder die via de app niet kon betalen en naar een nabije automaat had kunnen gaan",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "De vraag of een parkeerder een redelijke termijn is gegund om de parkeerapparatuur in werking te stellen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "scanauto-meting en handmatige nacontrole",
+   "foto's uit het dossier"
+  ],
+  "wat_gaf_doorslag": "De foto's lieten zien dat er op korte afstand een automaat stond."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:HR:2000:AA6508",
+   "ECLI:NL:GHSHE:2022:2392"
+  ]
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter zag geen fout bij de gemeente; geen actie uit deze uitspraak",
+ "raakt": [
+  "betaalapp",
+  "tarief-naheffing",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een rekening achteraf is terecht als u niet op tijd heeft betaald. Lukt betalen via de app niet, betaal dan direct op een andere manier, bijvoorbeeld bij de automaat in de buurt. Alleen zeggen dat de app niet werkte, was in deze zaak niet genoeg om de rekening weg te krijgen.",
+ "gemeente": "'s-Hertogenbosch",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,183 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:1812",
+ "relevant": true,
+ "onderwerp": "schade-aansprakelijkheid",
+ "sub": "immateriele-schade",
+ "kenmerk": null,
+ "zaaktype": "schadevergoeding",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Rotterdam (college, GGD)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger vroeg het college van Rotterdam om schadevergoeding, omdat de GGD te veel van zijn gegevens wiste en een belhistorie bijhield. Hij ging in hoger beroep bij de Raad van State, nadat de rechtbank Rotterdam zijn verzoek had afgewezen.",
+ "titel": "GGD wiste te veel gegevens, maar geen schadevergoeding",
+ "kern": {
+  "zin": "Ook als het wissen van de vaccinatiegegevens onrechtmatig was, kreeg de burger geen schadevergoeding, omdat hij zijn schade onvoldoende onderbouwde.",
+  "bron": [
+   42
+  ],
+  "citaat": "onvoldoende onderbouwd dat hij schade heeft geleden als gevolg van het verwijderen van de vaccinatiegegevens"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de GGD zijn gegevens van een coronatest te wissen, en de GGD wiste de gegevens volledig omdat de uitslag negatief was.",
+   "bron": [
+    22
+   ],
+   "citaat": "Omdat de uitslag van de coronatest negatief was, konden de gegevens volledig worden verwijderd."
+  },
+  {
+   "zin": "Daarbij verdween ook zijn vaccinatieafspraak, omdat het gebruikte systeem niet toeliet om alleen de testgegevens te wissen.",
+   "bron": [
+    37
+   ],
+   "citaat": "dat het gebruikte CoronIT-systeem dit niet toeliet en dat ook de vaccinatiegegevens werden gewist"
+  },
+  {
+   "zin": "De burger vroeg schadevergoeding voor het wissen van de vaccinatieafspraak en voor de belhistorie.",
+   "bron": [
+    27
+   ],
+   "citaat": "omdat zijn gegevens volgens hem onrechtmatig zijn verwerkt door de verwijdering van zijn vaccinatieafspraak en vanwege de belhistorie"
+  },
+  {
+   "zin": "De Raad van State vond de motivering van de rechtbank over het wissen onvoldoende, omdat niet de wet maar het systeem het gedeeltelijk wissen in de weg stond.",
+   "bron": [
+    38
+   ],
+   "citaat": "het niet een wettelijke beperking was die in de weg stond aan de mogelijkheid om slechts de coronatestgegevens te wissen"
+  },
+  {
+   "zin": "De burger moet zijn schade zelf aannemelijk maken, en dat lukte niet.",
+   "bron": [
+    39
+   ],
+   "citaat": "in beginsel liggen bij degene die stelt dat hij schade heeft geleden"
+  },
+  {
+   "zin": "Het bijhouden van de belhistorie was rechtmatig, omdat het opnemen van gesprekken buiten de overheidstaak viel.",
+   "bron": [
+    50
+   ],
+   "citaat": "De verwerking van de gegevens is naar het oordeel van de Afdeling daarom rechtmatig."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Wissen mogelijk onrechtmatig, maar schade niet onderbouwd; belhistorie rechtmatig.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen schadevergoeding en ook geen vergoeding van proceskosten.",
+  "bron": [
+   54
+  ],
+  "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak moet worden bevestigd, met aanvulling van de gronden waarop deze rust."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Mijn vaccinatiegegevens zijn ten onrechte gewist en daardoor heb ik schade.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger onderbouwde zijn schade onvoldoende, en de nadelige gevolgen waren niet zo duidelijk dat schade zonder bewijs kon worden aangenomen.",
+    "bron": [
+     42
+    ],
+    "citaat": "De nadelige gevolgen hiervan zijn niet zo voor de hand liggend, dat een aantasting in de persoon kan worden aangenomen."
+   },
+   "bruikbare_zin": {
+    "citaat": "leidt een inbreuk op de AVG niet zonder meer tot vergoedbare schade",
+    "bron": [
+     40
+    ]
+   }
+  },
+  {
+   "arg": "geen-wettelijke-grondslag",
+   "burger_zegt": "De GGD mag de belhistorie niet bijhouden, want de grondslag gerechtvaardigd belang geldt niet voor de overheid.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Voor handelingen buiten de overheidstaak mag de overheid wel een beroep doen op gerechtvaardigd belang.",
+    "bron": [
+     50
+    ],
+    "citaat": "Voor handelingen die buiten de uitoefening van de overheidstaken vallen, mag door overheidsinstanties wel een beroep"
+   },
+   "bruikbare_zin": {
+    "citaat": "De verwerking van de gegevens is naar het oordeel van de Afdeling daarom rechtmatig.",
+    "bron": [
+     50
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een overtreding van de AVG leidt niet automatisch tot schadevergoeding. De burger moet zijn schade zelf aannemelijk maken en onderbouwen.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om schadevergoeding voor onrechtmatige verwerking van persoonsgegevens door een bestuursorgaan.",
+  "uitzondering": "Is de aantasting in de persoon zo voor de hand liggend door aard en ernst van de verwerking, dan kan die worden aangenomen.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   40
+  ],
+  "citaat": "leidt een inbreuk op de AVG niet zonder meer tot vergoedbare schade"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "correspondentie tussen burger en GGD",
+   "verklaring van het college op de zitting"
+  ],
+  "wat_gaf_doorslag": "De burger wees alleen op mogelijke schade; hij kreeg de vaccinatie na enig oponthoud alsnog."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2024:2311",
+   "ECLI:NL:RVS:2022:319",
+   "ECLI:NL:HR:2019:793",
+   "ECLI:NL:RVS:2020:898",
+   "ECLI:EU:C:2024:536"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 82 AVG",
+  "art. 17 AVG",
+  "art. 6 lid 1 onder f AVG",
+  "art. 9 lid 2 AVG",
+  "art. 8:88 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zorg dat een verzoek om wissen alleen de gegevens wist waar de burger om vraagt, ook als het systeem dat lastig maakt.",
+   "raakt": "ict-informatiebeveiliging",
+   "bron": [
+    38
+   ],
+   "citaat": "het niet een wettelijke beperking was die in de weg stond aan de mogelijkheid om slechts de coronatestgegevens te wissen"
+  },
+  {
+   "actie": "Leg in de privacyverklaring vast waarom gesprekken worden opgenomen, als dat buiten de publieke taak valt.",
+   "raakt": "privacy-fg",
+   "bron": [
+    50
+   ],
+   "citaat": "De GGD heeft in haar privacyverklaring vermeld dat gesprekken worden opgenomen om eventuele klachten goed af te kunnen handelen."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "ict-informatiebeveiliging",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Wist de gemeente per ongeluk meer gegevens dan u vroeg, dan is dat niet altijd een reden voor schadevergoeding. U moet zelf laten zien dat u echt schade heeft gehad. Alleen zeggen dat er schade had kunnen zijn is niet genoeg. Houd daarom bewijs bij, zoals stukken of een verklaring van wat er misging.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

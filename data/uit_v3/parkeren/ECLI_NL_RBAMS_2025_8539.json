@@ -1,0 +1,162 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2025:8539",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "invordering",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "de parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder procedeerde tegen de invorderingsambtenaar (de medewerker die openstaande bedragen int) van de gemeente Amsterdam. Het ging om aanmaningskosten en betekeningskosten, en de zaak lag bij de rechtbank Amsterdam.",
+ "titel": "Kosten voor aanmaning en betekening terecht in rekening gebracht",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente met schermafdrukken aantoonde dat de aanslagen digitaal waren verstuurd, dus de kosten mochten worden berekend.",
+  "bron": [
+   22
+  ],
+  "citaat": "de naheffingsaanslagen via de digitale berichtenbox van MijnOverheid aan eiser zijn verzonden"
+ },
+ "samenvatting": [
+  {
+   "zin": "Omdat de parkeerder de naheffingen niet betaalde, stuurde de gemeente aanmaningen en later een dwangbevel met extra kosten.",
+   "bron": [
+    10
+   ],
+   "citaat": "Omdat eiser deze naheffingsaanslagen niet heeft betaald, heeft de invorderingsambtenaar"
+  },
+  {
+   "zin": "Hij betwistte dat de aanslagen op een goede manier aan hem waren bekendgemaakt.",
+   "bron": [
+    20
+   ],
+   "citaat": "De invorderingsambtenaar heeft de naheffingsaanslagen volgens eiser namelijk niet op een juiste wijze kenbaar gemaakt"
+  },
+  {
+   "zin": "Volgens de gemeente leverden de schermafdrukken van het verzendsysteem het bewijs van verzending.",
+   "bron": [
+    22
+   ],
+   "citaat": "De invorderingsambtenaar wijst in dit verband op een door hem overlegde verzendadministratie"
+  },
+  {
+   "zin": "De rechter vond het bewijs van de gemeente sterk genoeg, dus de bezwaren faalden.",
+   "bron": [
+    22
+   ],
+   "citaat": "afdoende aannemelijk heeft gemaakt dat de naheffingsaanslagen via de digitale berichtenbox"
+  },
+  {
+   "zin": "Daardoor begon de betaaltermijn bij de berichtenbox, en de kosten bleven terecht.",
+   "bron": [
+    25
+   ],
+   "citaat": "De betaaltermijn is gelet op het voorgaande aangevangen bij de publicatie in de digitale berichtenbox"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroepen ongegrond; geen vergoeding van proceskosten of griffierecht.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de aanmaningskosten en betekeningskosten betalen.",
+  "bron": [
+   25
+  ],
+  "citaat": "De heffingsambtenaar heeft de aanmanings- en betekeningskosten dan ook terecht in rekening gebracht"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De aanslagen waren niet goed bekendgemaakt en hij kreeg geen melding.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de parkeerder te weinig feiten gaf om de ontvangst in twijfel te trekken.",
+    "bron": [
+     23
+    ],
+    "citaat": "onvoldoende feiten en omstandigheden naar voren gebracht op grond waarvan aan de ontvangst"
+   },
+   "bruikbare_zin": {
+    "citaat": "komen de gevolgen van het niet met regelmaat bekijken van de digitale berichtenbox voor zijn rekening en risico",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De berichtenbox zou achteraf met terugwerkende kracht kunnen zijn aangepast.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ging daar niet verder op in, omdat de parkeerder daarvoor geen onderbouwing gaf.",
+    "bron": [
+     22
+    ],
+    "citaat": "nu eiser daarvoor geen begin van een onderbouwing heeft aangedragen"
+   },
+   "bruikbare_zin": {
+    "citaat": "nu eiser daarvoor geen begin van een onderbouwing heeft aangedragen",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een besluit mag elektronisch worden verstuurd, maar alleen als de ontvanger zich digitaal bereikbaar heeft gemaakt.",
+  "type": "regel",
+  "reikwijdte": "elektronische verzending van besluiten zoals naheffingsaanslagen via MijnOverheid",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   21
+  ],
+  "citaat": "Voorwaarde is wel dat de geadresseerde kenbaar heeft gemaakt dat hij langs die weg voldoende bereikbaar is."
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "schermprints van het verzendsysteem",
+   "verzendadministratie",
+   "vorderingsnummers en dagtekeningen"
+  ],
+  "wat_gaf_doorslag": "De schermprints met verzenddatum en de status Verwerkt maakten de verzending aannemelijk."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 3:40 Awb",
+  "art. 3:41 Awb",
+  "art. 2:14 Awb",
+  "Kostenwet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar bij elke digitale naheffing de verzendadministratie met verzenddatum en statuscode, als bewijs van verzending.",
+   "raakt": "bezwaar",
+   "bron": [
+    22
+   ],
+   "citaat": "De invorderingsambtenaar wijst in dit verband op een door hem overlegde verzendadministratie"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "tarief-naheffing",
+  "communicatie"
+ ],
+ "klantuitleg": "De gemeente heeft de rekening digitaal naar uw berichtenbox bij MijnOverheid gestuurd, en daarom zijn de aanmaningskosten terecht. U bent zelf verantwoordelijk om die berichtenbox te controleren, ook als u geen e-mailmelding wilt. Denkt u dat de rekening niet is aangekomen, dan heeft bezwaar alleen zin met concreet bewijs dat de verzending niet klopt.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

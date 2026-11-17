@@ -1,0 +1,42 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2026:3333",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "privaat-boete-voorwaarden",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {"burger": "parkeerder", "wederpartij": "exploitant (Q-Park)", "gemeente_is_partij": false},
+ "procesvorm": "anders",
+ "intro": "Een parkeerder reed met zijn motor zonder betaald parkeerbewijs de garage uit, achter een ander voertuig aan. Parkeerexploitant Q-Park vorderde bij de kantonrechter van de rechtbank Amsterdam het tarief van een verloren kaart en een schadevergoeding.",
+ "titel": "Treintje rijden in garage: parkeerder moet betalen",
+ "kern": {"zin": "De kantonrechter oordeelde dat de parkeerder moest betalen; dat de app niet werkte, veranderde daar niets aan.", "bron": [60], "citaat": "Dat hij geen actie heeft ondernomen komt voor zijn rekening en risico"},
+ "samenvatting": [
+  {"zin": "Op 11 april 2025 reed de parkeerder met zijn motor de garage uit zonder te betalen.", "bron": [29], "citaat": "door dicht achter een ander voertuig onder de slagboom door te rijden, zonder geldig parkeerbewijs"},
+  {"zin": "De parkeerder zei dat hij een abonnement had en een eigen plek, zodat hij niet hoefde te betalen.", "bron": [33], "citaat": "over een abonnement beschikt en eigenaar is van een parkeerplaats in de parkeergarage"},
+  {"zin": "De kantonrechter vond dat de parkeerder niet had aangetoond dat zijn abonnement aan de motor gekoppeld was.", "bron": [33], "citaat": "heeft onvoldoende onderbouwd dat hij een abonnement heeft dat gekoppeld is aan het kenteken van de motorfiets"},
+  {"zin": "De kantonrechter oordeelde dat de parkeerder de gevorderde bedragen moet betalen.", "bron": [58, 59], "citaat": "De kantonrechter oordeelt dat [gedaagde] de gevorderde bedragen moet betalen"},
+  {"zin": "De parkeerder moest ook de proceskosten betalen, omdat hij in het ongelijk werd gesteld.", "bron": [66, 62, 64], "citaat": "is in het ongelijk gesteld en moet daarom de proceskosten"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Parkeerder moet tarief verloren kaart, schadevergoeding, rente en kosten betalen.",
+ "gevolg_betrokkene": {"zin": "De parkeerder moet 412,41 euro betalen, plus 61,86 euro incassokosten, rente en 451,28 euro proceskosten.", "bron": [87, 88, 89], "citaat": "veroordeelt [gedaagde] om aan Q-Park te betalen een bedrag van € 412,41"},
+ "steunt": null,
+ "bezwaargronden": [
+  {"arg": "privaat-voorwaarden", "burger_zegt": "De app werkte niet en ik had een eigen plek met abonnement.", "oordeel": "verworpen", "waarom": {"zin": "De kantonrechter vond dat de klantenservice bereikbaar was en dat de parkeerder geen hulp heeft gezocht.", "bron": [60], "citaat": "Er is niet gebleken dat [gedaagde] daar gebruik van heeft gemaakt"}, "bruikbare_zin": {"citaat": "Dat hij geen actie heeft ondernomen komt voor zijn rekening en risico", "bron": [60]}},
+  {"arg": "onevenredig", "burger_zegt": "Q-Park had geen schade of omzetderving en de schadevergoeding was te hoog.", "oordeel": "verworpen", "waarom": {"zin": "De kantonrechter oordeelde dat de schadevergoeding niet buitensporig was.", "bron": [54], "citaat": "Van een buitensporige boete is naar het oordeel van de kantonrechter geen sprake"}, "bruikbare_zin": {"citaat": "Van een buitensporige boete is naar het oordeel van de kantonrechter geen sprake", "bron": [54]}}
+ ],
+ "rechtsregel": {"zin": "Wie treintje rijdt, moet volgens het beding het tarief verloren kaart en de schadevergoeding betalen.", "type": "regel", "reikwijdte": "garage van Q-Park, bij verlaten zonder betaald parkeerbewijs, in deze zaak", "uitzondering": null, "herkomst": "oordeel rechter", "bron": [59], "citaat": "Uit artikel 5.5. van de algemene voorwaarden volgt, kort gezegd, dat het tarief verloren kaart"},
+ "bewijs": {"bewijslast_bij": "burger", "bewijsmiddelen": ["abonnement met een ander kenteken", "stukken van Q-Park over klantenservice en help-knoppen"], "wat_gaf_doorslag": "Het abonnement was gekoppeld aan een ander kenteken dan dat van de motor."},
+ "toepasselijkheid": "privaat",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": ["art. 6:96 BW", "art. 6:119 BW", "art. 6:230l BW"],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": ["klantcontact", "betaalapp"],
+ "klantuitleg": "Verlaat u een garage zonder betaald parkeerbewijs, dan kan de garage de kosten van een verloren kaart vorderen. Volgens deze uitspraak geldt dat ook als de app niet werkte, omdat er klantenservice en helpknoppen zijn. Heeft u een abonnement of eigen plek, bewaar dan bewijs dat aan uw eigen kenteken is gekoppeld.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente partij (privaat)",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,146 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:3744",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Tilburg",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeert bij de rechtbank Zeeland-West-Brabant tegen de gemeente Tilburg over een naheffing (de rekening achteraf) voor parkeerbelasting. Het gaat over een auto die niet was aangemeld in de bezoekersapp.",
+ "titel": "Parkeerrekening blijft staan na niet-aangemelde bezoekersapp",
+ "kern": {
+  "zin": "De rechter wees af: opzet of schuld is voor een naheffing niet nodig.",
+  "bron": [
+   26
+  ],
+  "citaat": "Opzet of schuld zijn bij de niet-voldoening van parkeerbelasting geen vereiste"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een scanauto signaleerde op 4 augustus 2024 in Tilburg dat er niet was betaald.",
+   "bron": [
+    15
+   ],
+   "citaat": "geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "Volgens de parkeerder had een familielid de auto moeten aanmelden in de bezoekersapp.",
+   "bron": [
+    21
+   ],
+   "citaat": "haar zus heeft gevraagd om haar auto aan te melden in de bezoekersapp"
+  },
+  {
+   "zin": "De gemeente houdt vol dat aanmelden de taak van de parkeerder is.",
+   "bron": [
+    22
+   ],
+   "citaat": "Bij gebruik van een (bezoekers)app behoort het tot de verantwoordelijkheid van een parkeerder om zich aan te melden"
+  },
+  {
+   "zin": "Een beroep op coulance hielp niet, en de naheffing bleef in beginsel terecht.",
+   "bron": [
+    25,
+    26
+   ],
+   "citaat": "de naheffingsaanslag naar het oordeel van de rechtbank in beginsel terecht is opgelegd"
+  },
+  {
+   "zin": "De naheffing staat overeind, en het griffierecht komt niet terug.",
+   "bron": [
+    28
+   ],
+   "citaat": "Dit betekent dat de naheffingsaanslag parkeerbelasting terecht is opgelegd en gehandhaafd blijft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; rekening blijft, geen kostenvergoeding of griffierecht terug.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder houdt de rekening van 64,88 euro, en geen griffierecht of kostenvergoeding komt terug.",
+  "bron": [
+   28,
+   16
+  ],
+  "citaat": "Dit betekent dat de naheffingsaanslag parkeerbelasting terecht is opgelegd en gehandhaafd blijft"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "De parkeerder had een familielid gevraagd de auto aan te melden in de bezoekersapp.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat zo'n betoog de naheffing niet kan vernietigen.",
+    "bron": [
+     26
+    ],
+    "citaat": "kan haar betoog niet leiden tot vernietiging of vermindering van de naheffingsaanslag"
+   },
+   "bruikbare_zin": {
+    "citaat": "Opzet of schuld zijn bij de niet-voldoening van parkeerbelasting geen vereiste voor de bevoegdheid om een naheffingsaanslag op te leggen",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder vraagt om kwijtschelding van de rekening, uit coulance.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat coulance buiten haar bevoegdheid valt.",
+    "bron": [
+     26
+    ],
+    "citaat": "niet bevoegd om op grond van coulance een naheffingsaanslag te vernietigen of te verminderen"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet bevoegd om op grond van coulance een naheffingsaanslag te vernietigen of te verminderen",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor een naheffing parkeerbelasting hoeft er geen opzet of schuld te zijn.",
+  "type": "regel",
+  "reikwijdte": "als geen of te weinig parkeerbelasting is betaald",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   26
+  ],
+  "citaat": "Opzet of schuld zijn bij de niet-voldoening van parkeerbelasting geen vereiste"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter ziet geen fout bij de gemeente; geen actie nodig",
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "betaalapp",
+  "vergunningen"
+ ],
+ "klantuitleg": "De rechter vond de rekening voor het parkeren terecht, ook al deed u dat niet expres. Uit goedheid kan de rechter zo'n rekening niet laten vervallen, dus dat helpt niet. Als de gemeente zelf geen fout maakte, heeft bezwaar tegen zo'n rekening weinig kans.",
+ "gemeente": "Tilburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

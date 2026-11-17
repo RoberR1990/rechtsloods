@@ -1,0 +1,173 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "dubbel_van": null,
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": null,
+ "ecli": "ECLI:NL:GHAMS:2017:4311",
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder in Amsterdam kreeg een rekening achteraf (naheffingsaanslag) van € 57,90 voor parkeerbelasting. Hij ging in hoger beroep tegen de gemeente bij het gerechtshof Amsterdam.",
+ "titel": "Zwaar schilderij tillen is nog geen laden en lossen",
+ "kern": {
+  "zin": "Het hof vindt de naheffing terecht, omdat de parkeerder niet liet zien dat hij aan het laden of lossen was.",
+  "bron": [
+   94
+  ],
+  "citaat": "concludeert het Hof dat belanghebbende niet aan zijn onder 5.2.1 bedoelde bewijslast heeft voldaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "De scanauto zag de auto en een handhaver controleerde later ter plekke; er was geen geldig parkeerbewijs.",
+   "bron": [
+    28
+   ],
+   "citaat": "De controle op het betalen van parkeerbelasting wordt uitgevoerd met behulp van een door de Gemeente ingehuurd bedrijf, te weten Cition"
+  },
+  {
+   "zin": "De parkeerder zei dat hij een zwaar schilderij naar binnen tilde, dus aan het laden en lossen was.",
+   "bron": [
+    63
+   ],
+   "citaat": "Wij waren een zeer zwaar Schilderij naar binnen aan het tillen"
+  },
+  {
+   "zin": "De parkeerder zei ook dat de auto op de stoep stond en niet op een parkeerplaats.",
+   "bron": [
+    63
+   ],
+   "citaat": "Verder hebben wij de auto op de stoep en niet op een parkeerplaats neergezet"
+  },
+  {
+   "zin": "Het hof vindt aannemelijk dat de auto niet op de stoep stond, maar op een gewone betaalde plek.",
+   "bron": [
+    85
+   ],
+   "citaat": "de heffingsambtenaar aannemelijk heeft gemaakt dat de Auto op de Locatie - anders dan belanghebbende stelt - niet op het trottoir stond"
+  },
+  {
+   "zin": "De parkeerder moet bewijzen dat hij aan het laden of lossen was, en dat deed hij niet.",
+   "bron": [
+    90
+   ],
+   "citaat": "voor de vraag of sprake is van het ‘onmiddellijk laden of lossen van zaken’ de bewijslast op belanghebbende rust"
+  },
+  {
+   "zin": "Het hof vindt het onbegrijpelijk dat de auto zonder uitleg ongeveer 100 meter van de plek stond waar het schilderij heen ging.",
+   "bron": [
+    92
+   ],
+   "citaat": "het zonder verklaring - die ontbreekt - onbegrijpelijk is dat belanghebbende de Auto"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Geen laden en lossen aannemelijk; naheffing van € 57,90 blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing van € 57,90 betalen en krijgt geen proceskostenvergoeding.",
+  "bron": [
+   22
+  ],
+  "citaat": "De parkeercontroleur heeft daarom de naheffingsaanslag opgelegd ter hoogte van € 57,90."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Ik was een zwaar schilderij aan het laden of lossen, dus er was geen sprake van parkeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De parkeerder gaf te weinig feiten en legde niet uit waarom hij 100 meter van de plek stond waar hij heen moest.",
+    "bron": [
+     92
+    ],
+    "citaat": "Belanghebbende heeft onvoldoende feiten en omstandigheden gesteld die de conclusie rechtvaardigen dat sprake was van onmiddellijk laden en lossen"
+   },
+   "bruikbare_zin": {
+    "citaat": "het zonder verklaring - die ontbreekt - onbegrijpelijk is dat belanghebbende de Auto",
+    "bron": [
+     92
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De auto stond op de stoep en niet op een parkeerplaats, en de GPS-gegevens van de scanauto bewijzen niet anders.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De GPS-gegevens zijn niet zeker, maar het hof baseerde zich daar niet op; het zag op andere gegevens dat de auto op een gewone betaalde plek stond.",
+    "bron": [
+     88
+    ],
+    "citaat": "heeft het Hof zijn oordeel niet op deze coördinaten heeft gebaseerd"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Laden en lossen is het bij voortduring in- of uitladen van spullen van enige omvang of gewicht, direct nadat de auto stilstaat, voor zo lang als nodig is.",
+  "type": "regel",
+  "reikwijdte": "Wanneer stilstaan geen parkeren is bij laden en lossen",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   91
+  ],
+  "citaat": "het bij voortduring inladen of uitladen van zaken van enige omvang of enig gewicht, onmiddellijk nadat het voertuig tot stilstand is gebracht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "scanoverzicht",
+   "nacontrole door handhavers",
+   "foto en plattegrond"
+  ],
+  "wat_gaf_doorslag": "De parkeerder gaf geen verklaring waarom hij zo ver van de bestemming stilstond en handhavers zagen geen laden of lossen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2014:445"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 Gemeentewet",
+  "art. 2 Verordening Parkeerbelastingen 2015 II Amsterdam",
+  "art. 8:75 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Laat handhavers bij een nacontrole vastleggen dat zij geen laad- of losactiviteit zagen.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    93
+   ],
+   "citaat": "niet hebben waargenomen dat bij voortduring een ‘zeer zwaar schilderij’ uit de Auto werd uitgeladen"
+  },
+  {
+   "actie": "Onderbouw de plek van de auto met meer dan alleen de GPS-gegevens van de scanauto.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    87
+   ],
+   "citaat": "uit de GPS-coördinaten niet zonder meer hoeft te blijken dat de Auto niet op de stoep"
+  }
+ ],
+ "raakt": [
+  "scanauto-handhaving",
+  "bezwaar",
+  "klantcontact",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Even stilstaan om te laden of te lossen is geen parkeren. Maar u moet zelf laten zien dat u echt aan het laden of lossen was, bijvoorbeeld met wat u vervoerde en waarom u daar stond. Een algemene opmerking als 'ik tilde een zwaar schilderij' is niet genoeg; bezwaar heeft vooral zin als u dit goed kunt onderbouwen.",
+ "gemeente": "Amsterdam",
+ "zekerheid": "hoog"
+}

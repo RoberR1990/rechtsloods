@@ -1,0 +1,143 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:6874",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder procedeerde bij de rechtbank Zeeland-West-Brabant tegen de gemeente Breda. Het ging om de vraag of de gemeente de proceskosten in de bezwaarfase moest vergoeden.",
+ "titel": "Parkeerder krijgt proceskosten omdat naheffing te hoog was",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente de proceskosten moet vergoeden, omdat de kosten van de naheffing te hoog waren vastgesteld.",
+  "bron": [
+   28
+  ],
+  "citaat": "Het bestreden besluit is naar het oordeel van de rechtbank herroepen"
+ },
+ "samenvatting": [
+  {
+   "zin": "In 2023 stond de auto van de parkeerder in Breda zonder betaalde parkeerbelasting, en de gemeente legde daarop een naheffing van € 60,05 op.",
+   "bron": [
+    17,
+    18
+   ],
+   "citaat": "is door middel van een scanauto geconstateerd dat voor de auto geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder vond dat de gemeente te veel had gerekend en vroeg om proceskosten.",
+   "bron": [
+    26,
+    20
+   ],
+   "citaat": "mocht maximaal € 52,75 in rekening worden gebracht"
+  },
+  {
+   "zin": "De gemeente vond dat een per abuis te hoog bedrag geen fout van de gemeente was.",
+   "bron": [
+    27
+   ],
+   "citaat": "Dat per abuis een te hoog bedrag in rekening is gebracht"
+  },
+  {
+   "zin": "De rechter oordeelde dat de gang van zaken aanleiding geeft tot vergoeding van de proceskosten.",
+   "bron": [
+    28
+   ],
+   "citaat": "Naar het oordeel van de rechtbank geeft de gang van zaken aanleiding tot vergoeding van de proceskosten"
+  },
+  {
+   "zin": "De gemeente betaalt de parkeerder € 500 aan proceskosten en het griffierecht van € 51, met wettelijke rente als dat te laat gebeurt.",
+   "bron": [
+    40,
+    41,
+    42
+   ],
+   "citaat": "het griffierecht van € 51 aan belanghebbende moet vergoeden"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Alleen proceskosten en griffierecht; de naheffing was al vernietigd.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente betaalt de parkeerder € 500 aan proceskosten en het griffierecht van € 51, met wettelijke rente als dat te laat gebeurt.",
+  "bron": [
+   40,
+   41,
+   42
+  ],
+  "citaat": "het griffierecht van € 51 aan belanghebbende moet vergoeden"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De naheffing was te hoog: de gemeente mocht maximaal € 52,75 rekenen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter constateert dat de kosten van de naheffing te hoog zijn vastgesteld.",
+    "bron": [
+     28
+    ],
+    "citaat": "De rechtbank constateert dat de kosten van de naheffingsaanslag tot een te hoog bedrag zijn opgelegd"
+   },
+   "bruikbare_zin": {
+    "citaat": "de kosten van de naheffingsaanslag tot een te hoog bedrag zijn opgelegd",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder krijgt proceskosten in bezwaar als het besluit wordt herroepen door een fout van het bestuursorgaan.",
+  "type": "regel",
+  "reikwijdte": "bezwaar waarin het besluit wordt herroepen wegens een aan het bestuursorgaan te wijten onrechtmatigheid",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   25
+  ],
+  "citaat": "bepaalt dat belanghebbende recht heeft op een vergoeding van zijn proceskosten in de bezwaarfase"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 7:15 lid 2 Awb",
+  "art. 10 lid 1 Verordening parkeerbelastingen Breda 2023",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij elke naheffing of de kosten kloppen met de tarieven- en kostentabel van de verordening.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    28
+   ],
+   "citaat": "De rechtbank constateert dat de kosten van de naheffingsaanslag tot een te hoog bedrag zijn opgelegd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "In deze zaak kreeg de parkeerder zijn proceskosten vergoed, omdat de gemeente een te hoog bedrag in rekening had gebracht. Of de rekening voor het parkeren terecht is, hangt af van het betaalde bedrag en de regels van de gemeente. Vindt u de rekening te hoog, dan kunt u bezwaar maken en om een uitleg van de berekening vragen.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

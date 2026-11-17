@@ -1,0 +1,154 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2021:2442",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Almere",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeert tegen de gemeente Almere over een naheffing (de rekening achteraf) voor parkeerbelasting. De zaak ligt bij de Rechtbank Midden-Nederland.",
+ "titel": "Pas later betaald: naheffing terecht, beroep ongegrond",
+ "kern": {
+  "zin": "De rechter vond de naheffing terecht, omdat de betaling niet bij het begin van het parkeren was gedaan.",
+  "bron": [
+   24
+  ],
+  "citaat": "Verweerder heeft de naheffingsaanslag daarom terecht opgelegd."
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controleur constateerde een auto zonder betaalde parkeerbelasting, waarna een naheffing volgde.",
+   "bron": [
+    16
+   ],
+   "citaat": "zonder dat er parkeerbelasting was betaald."
+  },
+  {
+   "zin": "De parkeerder vond het onredelijk dat de naheffing kwam vlak voordat zij met betalen begon.",
+   "bron": [
+    17
+   ],
+   "citaat": "maximaal één minuut is opgelegd voordat de betaling via SMSParking is gestart"
+  },
+  {
+   "zin": "Volgens de parkeerder werkte de app niet vlot, omdat de zonecode niet automatisch werd ingevuld.",
+   "bron": [
+    17
+   ],
+   "citaat": "dit lukte niet omdat de applicatie de zonecode niet automatisch oppakte."
+  },
+  {
+   "zin": "De gemeente stelde dat de controleur eerst enkele minuten controles deed en de parkeerder niet in de buurt zag.",
+   "bron": [
+    18
+   ],
+   "citaat": "De parkeercontroleur heeft eiseres echter ook niet op het parkeerterrein bij de parkeerautomaten gezien."
+  },
+  {
+   "zin": "De rechter vond het aannemelijk dat de controle enkele minuten duurde, en dat de parkeerder in die tijd niet bij de automaat stond.",
+   "bron": [
+    22
+   ],
+   "citaat": "de parkeercontroleur tenminste enige minuten nodig heeft om de benodigde handelingen"
+  },
+  {
+   "zin": "Omdat de betaling later kwam, was de parkeerbelasting niet op tijd voldaan, dus de naheffing bleef staan.",
+   "bron": [
+    24
+   ],
+   "citaat": "Verweerder heeft de naheffingsaanslag daarom terecht opgelegd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond: betaling kwam niet op tijd, naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening blijft staan en er is geen vergoeding van proceskosten.",
+  "bron": [
+   24,
+   25
+  ],
+  "citaat": "Verweerder heeft de naheffingsaanslag daarom terecht opgelegd."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Het is onredelijk dat de naheffing kwam, terwijl hij binnen een minuut betaalde.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Wel geldt een korte tijd om te betalen, maar die was hier al verstreken.",
+    "bron": [
+     21
+    ],
+    "citaat": "Aan degene die parkeert moet een zekere – korte – tijd worden gelaten"
+   },
+   "bruikbare_zin": {
+    "citaat": "Volgens vaste rechtspraak moeten onverwijld de handelingen worden verricht die noodzakelijk zijn om de verschuldigde parkeerbelasting te voldoen.",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Zij zat waarschijnlijk nog in de auto toen de auto werd gescand.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter had de controleur haar dan moeten zien, en dat zag hij niet.",
+    "bron": [
+     22
+    ],
+    "citaat": "De rechtbank volgt eiseres daarom niet in haar stelling dat zij waarschijnlijk nog in de auto zat"
+   },
+   "bruikbare_zin": {
+    "citaat": "omdat de parkeercontroleur en eiseres elkaar dan hadden moeten zien",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie parkeert, moet meteen de nodige stappen zetten om de parkeerbelasting te betalen.",
+  "type": "regel",
+  "reikwijdte": "parkeerbelasting betalen, ook via telefonische aanmelding of een app",
+  "uitzondering": "een korte tijd om de afstand naar de automaat te overbruggen",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "Volgens vaste rechtspraak moeten onverwijld de handelingen worden verricht die noodzakelijk zijn om de verschuldigde parkeerbelasting te voldoen."
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto's van de auto door de controleur",
+   "overzicht van het parkeerterrein en de automaten"
+  ],
+  "wat_gaf_doorslag": "Het zicht vanaf de auto op de automaten maakte duidelijk dat zij er niet was."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen tekortkoming van de gemeente vastgesteld",
+ "raakt": [
+  "bezwaar",
+  "scanauto-handhaving",
+  "betaalapp"
+ ],
+ "klantuitleg": "Betaalt u de parkeerbelasting pas na de controle, dan kan er een rekening komen, ook als u daarna alsnog betaalt. Een korte tijd om te betalen geldt wel, maar die moet u zo kort mogelijk houden. Een bewijs dat u op tijd bezig was met betalen kan helpen, maar het is geen garantie dat uw bezwaar slaagt.",
+ "gemeente": "Almere",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

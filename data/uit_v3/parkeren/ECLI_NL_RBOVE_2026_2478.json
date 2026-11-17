@@ -1,0 +1,141 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2026:2478",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder)",
+  "wederpartij": "gemeente Zwolle",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een kentekenhouder procedeerde bij de rechtbank Overijssel tegen een naheffing van de gemeente Zwolle. De zus van de kentekenhouder had de auto kort via een bezoekersvergunning aangemeld, maar dat werd na een minuut weer afgemeld.",
+ "titel": "Naheffing blijft staan na een te korte bezoekersaanmelding",
+ "kern": {
+  "zin": "De naheffing bleef staan, want er was geen storing en de fout komt voor rekening van de kentekenhouder.",
+  "bron": [
+   26,
+   27
+  ],
+  "citaat": "Er zijn storingen gemeld noch gebleken"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 29 maart 2024 stond de auto in de Vermeerstraat op een betaalde plek zonder geldig parkeerrecht.",
+   "bron": [
+    17,
+    16
+   ],
+   "citaat": "Tijdens een parkeercontrole met een scanauto bleek dat geen sprake was van een geldig parkeerrecht"
+  },
+  {
+   "zin": "De gemachtigde van de parkeerder zei dat de aanmelding via de app na een minuut door een onbekende oorzaak stopte.",
+   "bron": [
+    21
+   ],
+   "citaat": "Nadien is gebleken dat de aanmelding via de app een minuut later door onbekende oorzaak is uitgeschakeld"
+  },
+  {
+   "zin": "De gemeente checkte het systeem op storingen en vond er geen.",
+   "bron": [
+    26
+   ],
+   "citaat": "Er zijn storingen gemeld noch gebleken"
+  },
+  {
+   "zin": "Schuld of opzet speelt geen rol, want een naheffing is geen straf.",
+   "bron": [
+    27
+   ],
+   "citaat": "De rechtbank merkt nog op dat een naheffingsaanslag parkeerbelasting geen boete is"
+  },
+  {
+   "zin": "De kentekenhouder draagt zelf het risico van de fout.",
+   "bron": [
+    27
+   ],
+   "citaat": "De kennelijk begane vergissing komt voor rekening en risico van de kentekenhouder"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft; geen griffierecht terug",
+ "gevolg_betrokkene": {
+  "zin": "De kentekenhouder betaalt de naheffing en krijgt het griffierecht niet terug.",
+  "bron": [
+   30
+  ],
+  "citaat": "Belanghebbende krijgt het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De app heeft de aanmelding na een minuut stopgezet zonder toedoen van de kentekenhouder.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag geen aanwijzing voor een storing in het systeem op die dag.",
+    "bron": [
+     26
+    ],
+    "citaat": "gecontroleerd of op genoemde datum en tijd in het systeem sprake is geweest van een technische storing"
+   },
+   "bruikbare_zin": {
+    "citaat": "Er bestaat daarom geen aanleiding om aan te nemen dat de aanmelding",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een naheffing is geen boete, dus schuld of opzet telt niet mee.",
+  "type": "regel",
+  "reikwijdte": "Naheffingsaanslagen parkeerbelasting.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "De rechtbank merkt nog op dat een naheffingsaanslag parkeerbelasting geen boete is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "systeemgegevens van de bezoekersvergunning",
+   "scanauto-foto's"
+  ],
+  "wat_gaf_doorslag": "De systeemcontrole, die geen storing liet zien."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Verordening parkeerbelastingen Zwolle 2024"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar de systeemgegevens van de bezoekersaanmelding, zodat een storing later te controleren is.",
+   "raakt": "betaalapp",
+   "bron": [
+    26
+   ],
+   "citaat": "gecontroleerd of op genoemde datum en tijd in het systeem sprake is geweest van een technische storing"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "betaalapp"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren blijft staan als er geen betaald parkeerrecht is, ook als u dacht dat het goed ging. Heeft de app of automaat echt gestoord, dan moet u dat kunnen aantonen. Met een melding of schermfoto van de storing wordt uw bezwaar sterker.",
+ "gemeente": "Zwolle",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

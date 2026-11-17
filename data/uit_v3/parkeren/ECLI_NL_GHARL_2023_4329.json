@@ -1,0 +1,142 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2023:4329",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "gemachtigde-bureau (namens een bijrijder)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een man kreeg een boete voor parkeren in een blauwe zone. Hij ging in hoger beroep tegen de officier van justitie bij het gerechtshof, omdat hij zei dat hij alleen bijrijder was.",
+ "titel": "Boete vervalt: niet vast te stellen dat de bijrijder reed",
+ "kern": {
+  "zin": "De rechter vernietigde de boete, omdat niet was vast te stellen dat de man de bestuurder was.",
+  "bron": [
+   28
+  ],
+  "citaat": "niet kan worden vastgesteld dat de betrokkene de bestuurder van het voertuig was"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete van € 95 voor parkeren in een parkeerschijfzone (blauwe zone) in Diemen.",
+   "bron": [
+    21
+   ],
+   "citaat": "waarbij aan de betrokkene een sanctie is opgelegd van € 95,-"
+  },
+  {
+   "zin": "De parkeerder zei dat hij niet de bestuurder was, maar de bijrijder.",
+   "bron": [
+    22
+   ],
+   "citaat": "de betrokkene niet de bestuurder van het voertuig was, maar de passagier"
+  },
+  {
+   "zin": "De officier van justitie wees het bezwaar van de parkeerder af.",
+   "bron": [
+    21
+   ],
+   "citaat": "heeft op 9 oktober 2020 het beroep tegen de inleidende beschikking ongegrond verklaard"
+  },
+  {
+   "zin": "De rechter zag niet dat de ambtenaar aan de parkeerder had gevraagd of hij de bestuurder was.",
+   "bron": [
+    27
+   ],
+   "citaat": "niet blijkt dat de ambtenaar, nadat hij de betrokkene had staandegehouden en de cautie had gegeven, heeft gevraagd"
+  },
+  {
+   "zin": "Zo kon de rechter niet vaststellen dat de parkeerder reed, dus kon de boete niet blijven staan.",
+   "bron": [
+    28
+   ],
+   "citaat": "De inleidende beschikking kan daarom niet in stand blijven"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete vernietigd; kosten en borg komen terug.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 95 vervalt, de borg wordt teruggegeven en de officier van justitie betaalt € 1.284,75 aan proceskosten.",
+  "bron": [
+   34,
+   35,
+   36
+  ],
+  "citaat": "verklaart het beroep tegen de inleidende beschikking gegrond en vernietigt die beschikking"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik was de bijrijder en niet de bestuurder, dus ik heb de overtreding niet gepleegd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter kon niet vaststellen dat de parkeerder bestuurder was, dus was de overtreding niet bewezen.",
+    "bron": [
+     28
+    ],
+    "citaat": "niet kan worden vastgesteld dat de betrokkene de bestuurder van het voertuig was"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet blijkt dat de ambtenaar, nadat hij de betrokkene had staandegehouden en de cautie had gegeven, heeft gevraagd",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de bestuurder kon worden staandegehouden, moet de boete aan de bestuurder zelf worden opgelegd en niet aan de kentekenhouder.",
+  "type": "regel",
+  "reikwijdte": "Boetes onder de Wahv waarbij een ambtenaar de bestuurder ter plekke aanspreekt",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   23
+  ],
+  "citaat": "de sanctie aan die bestuurder dient te worden opgelegd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring van de ambtenaar",
+   "zaakoverzicht met de verklaring van de parkeerder"
+  ],
+  "wat_gaf_doorslag": "De ambtenaar had niet gevraagd of de parkeerder zelf de bestuurder was."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 5 Wahv",
+  "art. 11 Wahv",
+  "art. 2 lid 3 Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij een staandehouding altijd of de persoon de bestuurder was en leg het antwoord vast",
+   "raakt": "bezwaar",
+   "bron": [
+    27
+   ],
+   "citaat": "niet blijkt dat de ambtenaar, nadat hij de betrokkene had staandegehouden en de cautie had gegeven, heeft gevraagd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Hebt u een boete gekregen, maar zat u zelf als bijrijder in de auto? Dan kan de boete vervallen als niemand heeft vastgesteld dat u de bestuurder was. Zeg dit meteen in uw bezwaar en leg uit wie er reed.",
+ "gemeente": "Diemen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

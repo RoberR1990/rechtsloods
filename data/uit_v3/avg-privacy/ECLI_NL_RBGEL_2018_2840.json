@@ -1,0 +1,168 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBGEL:2018:2840",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Culemborg",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De gemeente Culemborg veranderde het adres van een bewoner in de BRP (het bevolkingsregister). De bewoner was het daar niet mee eens en stapte naar de rechtbank Gelderland.",
+ "titel": "Gemeente mocht adres in BRP niet zomaar wijzigen",
+ "kern": {
+  "zin": "De rechter vernietigt de adreswijziging, omdat de gemeente niet zorgvuldig genoeg heeft onderzocht waar de bewoner woont.",
+  "bron": [
+   48
+  ],
+  "citaat": "verweerder het bestreden besluit niet zorgvuldig heeft voorbereid en onvoldoende heeft gemotiveerd."
+ },
+ "samenvatting": [
+  {
+   "zin": "Een woningcorporatie meldde dat een huurwoning werd onderverhuurd, waarna de gemeente een adresonderzoek startte.",
+   "bron": [
+    18
+   ],
+   "citaat": "In februari 2017 heeft woningbouwcorporatie Kleurrijk Wonen een melding gemaakt bij verweerder dat de huurwoning"
+  },
+  {
+   "zin": "De bewoner stelt dat hij sinds 1985 op het oude adres woont en daar blijft slapen.",
+   "bron": [
+    37
+   ],
+   "citaat": "Hij stelt dat hij sinds 1985 op het adres [adres] woont."
+  },
+  {
+   "zin": "De gemeente vond het aannemelijk dat de bewoner op het nieuwe adres woonde.",
+   "bron": [
+    34
+   ],
+   "citaat": "op het standpunt gesteld dat uit de onderzoeksbevindingen voldoende aannemelijk wordt dat eiser op het adres [adres] woont"
+  },
+  {
+   "zin": "De rechter vindt dat de gemeente niet aannemelijk heeft gemaakt dat de bewoner op het nieuwe adres woont.",
+   "bron": [
+    54
+   ],
+   "citaat": "verweerder met de door hem in beroep overgelegde stukken nog altijd niet aannemelijk heeft gemaakt dat hij eiser terecht heeft ingeschreven"
+  },
+  {
+   "zin": "Het oude adres in de BRP blijft staan en de gemeente betaalt de kosten.",
+   "bron": [
+    55
+   ],
+   "citaat": "Dit betekent dat het adres van eiser in de Brp [adres] te [woonplaats] is gebleven."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "De rechter vernietigt de adreswijziging en het oude adres blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "Het adres in de BRP blijft het oude adres; de gemeente vergoedt het griffierecht van € 170 en de proceskosten van € 2.004.",
+  "bron": [
+   65
+  ],
+  "citaat": "draagt verweerder op het betaalde griffierecht van € 170 aan eiser te vergoeden."
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente heeft mijn adres in de BRP ten onrechte gewijzigd; ik woon nog steeds op het oude adres.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter oordeelt dat de gemeente niet aannemelijk heeft gemaakt dat de bewoner op het nieuwe adres woont.",
+    "bron": [
+     54
+    ],
+    "citaat": "nog altijd niet aannemelijk heeft gemaakt dat hij eiser terecht heeft ingeschreven"
+   },
+   "bruikbare_zin": {
+    "citaat": "nog altijd niet aannemelijk heeft gemaakt dat hij eiser terecht heeft ingeschreven",
+    "bron": [
+     54
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er is te weinig onderzoek gedaan naar waar ik echt woon.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter ziet dat de gemeente niet heeft gekeken naar de persoonlijke spullen van de bewoner in de woning.",
+    "bron": [
+     41
+    ],
+    "citaat": "onderzoek heeft gedaan naar de aanwezigheid van persoonlijke spullen van eiser in de woning"
+   },
+   "bruikbare_zin": {
+    "citaat": "onderzoek heeft gedaan naar de aanwezigheid van persoonlijke spullen van eiser in de woning",
+    "bron": [
+     41
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente mag het adres in de BRP niet lichtvaardig wijzigen; eerst is een grondig adresonderzoek nodig.",
+  "type": "regel",
+  "reikwijdte": "Ambtshalve wijziging van een adres in de BRP.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   38
+  ],
+  "citaat": "niet lichtvaardig overgaan tot het doorvoeren van een ambtshalve wijziging en dient er eerst een grondig adresonderzoek plaats te vinden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verslagen van adrescontroles",
+   "proces-verbaal van de politie",
+   "water- en gasverbruik",
+   "verklaringen van buren"
+  ],
+  "wat_gaf_doorslag": "De gemeente onderzocht niet naar de persoonlijke spullen van de bewoner in de woning."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Wet BRP",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Doe bij een adrescontrole ook onderzoek naar de persoonlijke spullen in de woning als de bewoner je binnenlaat.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    41
+   ],
+   "citaat": "onderzoek heeft gedaan naar de aanwezigheid van persoonlijke spullen van eiser in de woning"
+  },
+  {
+   "actie": "Zorg dat verklaringen van buren uitleggen waarop hun wetenschap is gebaseerd.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    53
+   ],
+   "citaat": "leggen niet of nauwelijks uit waarop zij deze wetenschap baseren"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "De gemeente mag uw adres in de BRP niet zomaar veranderen. Zij moet eerst goed uitzoeken waar u echt woont, bijvoorbeeld door naar uw persoonlijke spullen in de woning te kijken. Als de gemeente dat niet doet, kan de rechter de wijziging terugdraaien.",
+ "gemeente": "Culemborg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

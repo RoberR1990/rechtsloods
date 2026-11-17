@@ -1,0 +1,171 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2017:6100",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De burger stond ingeschreven in de basisregistratie personen (BRP) van de gemeente Rotterdam. Hij procedeert bij de rechtbank Rotterdam tegen het college dat de bijhouding van zijn gegevens stopte.",
+ "titel": "Gemeente moet tegenstrijdige BRP-besluiten rechtzetten",
+ "kern": {
+  "zin": "De rechter vernietigt het besluit en herroept het eerdere opschortingsbesluit, omdat er twee tegenstrijdige besluiten liggen.",
+  "bron": [
+   19
+  ],
+  "citaat": "het bestreden besluit vernietigen en zelf in de zaak voorziend, het primaire besluit herroepen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente kreeg een signaal dat de burger niet meer op zijn adres woonde en stuurde hem een brief.",
+   "bron": [
+    15
+   ],
+   "citaat": "verweerder van [verhuurder] het signaal ontvangen dat eiser mogelijk niet langer op dit adres woonachtig is"
+  },
+  {
+   "zin": "De burger reageerde niet en de gemeente stopte de bijhouding van zijn gegevens.",
+   "bron": [
+    15
+   ],
+   "citaat": "Eiser heeft op deze brief niet gereageerd."
+  },
+  {
+   "zin": "Later willigde de gemeente het correctieverzoek van de burger in.",
+   "bron": [
+    16
+   ],
+   "citaat": "Bij besluit van 30 december 2016 heeft verweerder dit verzoek ingewilligd."
+  },
+  {
+   "zin": "De gemeente vond dat de burger geen belang meer had bij de zaak.",
+   "bron": [
+    16
+   ],
+   "citaat": "dat eiser geen belang meer heeft bij de behandeling van het beroep"
+  },
+  {
+   "zin": "De rechter oordeelt dat er twee tegenstrijdige besluiten liggen en dat de burger wel belang heeft.",
+   "bron": [
+    18
+   ],
+   "citaat": "Er liggen thans twee niet met elkaar verenigbare beslissingen"
+  },
+  {
+   "zin": "De rechter vernietigt het besluit en herroept het eerdere besluit.",
+   "bron": [
+    19
+   ],
+   "citaat": "het bestreden besluit vernietigen en zelf in de zaak voorziend, het primaire besluit herroepen"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Besluit vernietigd en eerder besluit herroepen.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt het griffierecht van € 168,- terug en de gemeente moet de proceskosten van € 1.980,- vergoeden. De opschorting van zijn inschrijving vervalt.",
+  "bron": [
+   30,
+   31
+  ],
+  "citaat": "bepaalt dat verweerder aan eiser het betaalde griffierecht van € 168,- vergoedt"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "De burger vindt dat zijn inschrijving in de BRP niet klopt en vraagt de gemeente om die te corrigeren.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente willigde het correctieverzoek in, maar trok het eerdere besluit niet in.",
+    "bron": [
+     19
+    ],
+    "citaat": "het primaire besluit niet is herroepen of ingetrokken bij het correctiebesluit"
+   },
+   "bruikbare_zin": {
+    "citaat": "het primaire besluit niet is herroepen of ingetrokken bij het correctiebesluit",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De burger vindt dat de gemeente twee tegenstrijdige besluiten heeft genomen over zijn inschrijving.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter ziet twee besluiten die niet met elkaar te verenigen zijn.",
+    "bron": [
+     18
+    ],
+    "citaat": "Er liggen thans twee niet met elkaar verenigbare beslissingen"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft er ook procesbelang bij deze tegenstrijdigheid van tafel te krijgen",
+    "bron": [
+     18
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als er twee tegenstrijdige besluiten liggen, heeft de burger belang bij een oordeel van de rechter over dat conflict.",
+  "type": "regel",
+  "reikwijdte": "Als de gemeente een eerder besluit niet intrekt, terwijl ze later een tegengesteld besluit neemt.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   18
+  ],
+  "citaat": "heeft er ook procesbelang bij deze tegenstrijdigheid van tafel te krijgen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "signaal van de verhuurder",
+   "brief van de gemeente aan de burger"
+  ],
+  "wat_gaf_doorslag": "De gemeente deed alleen een brief en geen echt adresonderzoek, waardoor het besluit onrechtmatig was."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Doe meer dan alleen een brief sturen: verricht echt adresonderzoek voordat u de bijhouding opschort.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    20
+   ],
+   "citaat": "zulk een adresonderzoek in het algemeen niet voldoende kan worden geacht"
+  },
+  {
+   "actie": "Zorg dat een correctiebesluit ook het eerdere opschortingsbesluit intrekt, zodat er geen tegenstrijdige besluiten ontstaan.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    19
+   ],
+   "citaat": "het primaire besluit niet is herroepen of ingetrokken bij het correctiebesluit"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp"
+ ],
+ "klantuitleg": "Klopt er iets niet met uw inschrijving in de gemeente, dan kunt u de gemeente vragen dat te corrigeren. Zet de gemeente uw gegevens daarna toch op 'vertrokken', dan zijn er twee verschillende besluiten en mag u naar de rechter. Bewaar de brieven van de gemeente goed, want die laten zien wat er is besloten.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

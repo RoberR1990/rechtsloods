@@ -1,0 +1,142 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2023:4485",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "laadplek",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Nijmegen",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een eigenaar van een elektrische auto kreeg in Nijmegen een naheffingsaanslag (de rekening achteraf) voor parkeren bij een laadpaal. Hij ging in hoger beroep tegen de gemeente bij het gerechtshof.",
+ "titel": "Auto aan laadpaal die niet meer laadt: parkeergeld blijft verschuldigd",
+ "kern": {
+  "zin": "De rechter vond dat de auto niet in strijd met een voorschrift stond, dus moest er parkeerbelasting worden betaald.",
+  "bron": [
+   26
+  ],
+  "citaat": "Van parkeren in strijd met een wettelijk voorschrift is daarom geen sprake, zodat de naheffingsaanslag terecht is opgelegd."
+ },
+ "samenvatting": [
+  {
+   "zin": "Een elektrische auto stond op een plek voor betaald parkeren zonder dat parkeerbelasting was betaald.",
+   "bron": [
+    16
+   ],
+   "citaat": "geparkeerd stond aan de Pontanusstraat te Nijmegen, een aangewezen plaats voor betaald parkeren"
+  },
+  {
+   "zin": "De auto was met een kabel aangesloten op de laadpaal, maar werd niet meer opgeladen.",
+   "bron": [
+    18
+   ],
+   "citaat": "was de auto van belanghebbende met een laadkabel aangesloten op de laadpaal maar werd niet (meer) opgeladen"
+  },
+  {
+   "zin": "De parkeerder zei dat hij op een andere manier stond dan het bord aangaf, omdat de auto niet meer laadde.",
+   "bron": [
+    24
+   ],
+   "citaat": "omdat de auto niet (meer) werd opgeladen"
+  },
+  {
+   "zin": "De rechter vond dat een accu die op een zeker moment niet laadt, nog niet betekent dat de auto er met een ander doel stond.",
+   "bron": [
+    25
+   ],
+   "citaat": "dwingt, anders dan waarvan belanghebbendes betoog uitgaat, niet tot de gevolgtrekking dat de auto"
+  },
+  {
+   "zin": "De rechter liet de uitspraak van de rechtbank staan.",
+   "bron": [
+    31
+   ],
+   "citaat": "Het Hof bevestigt de uitspraak van de Rechtbank."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; geen kostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffingsaanslag betalen en krijgt geen vergoeding van griffierecht of proceskosten.",
+  "bron": [
+   29
+  ],
+  "citaat": "Het Hof ziet geen aanleiding voor vergoeding van het griffierecht of een veroordeling in de proceskosten."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Mijn auto werd niet meer opgeladen, dus ik stond anders dan het bord zegt en hoefde geen parkeerbelasting te betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een auto die aan de laadpaal zit maar niet meer laadt, staat niet vanzelf met een ander doel.",
+    "bron": [
+     25
+    ],
+    "citaat": "dwingt, anders dan waarvan belanghebbendes betoog uitgaat, niet tot de gevolgtrekking dat de auto"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet gehouden nader onderzoek te doen naar het doel waarmee de auto is geparkeerd",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Dat een aangesloten elektrische auto niet (meer) laadt, betekent niet dat hij met een ander doel dan opladen staat.",
+  "type": "regel",
+  "reikwijdte": "Elektrische auto aangesloten op een laadpaal bij een plek met een bord 'uitsluitend voor opladen'",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   25
+  ],
+  "citaat": "dwingt, anders dan waarvan belanghebbendes betoog uitgaat, niet tot de gevolgtrekking dat de auto"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "vaststelling parkeercontroleur",
+   "bord en onderbord bij de laadplek"
+  ],
+  "wat_gaf_doorslag": "De auto was nog aangesloten op de laadpaal."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2022:1127"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "art. 24 lid 1 onder d RVV 1990"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet bij elke laadplek een onderbord dat duidelijk zegt waarvoor de plek bedoeld is",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    17
+   ],
+   "citaat": "een onderbord met de tekst “uitsluitend voor opladen elektrische voertuigen”"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Staat uw elektrische auto op een plek voor betaald parkeren en sluit u hem aan op de laadpaal, dan blijft parkeergeld gewoon verschuldigd. Ook als de accu al vol is en de auto niet meer laadt, vindt de rechter niet dat u er om een ander doel stond. Bezwaar maken heeft op dit punt weinig kans.",
+ "gemeente": "Nijmegen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

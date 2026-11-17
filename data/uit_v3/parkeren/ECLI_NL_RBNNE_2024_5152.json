@@ -1,0 +1,158 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2024:5152",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging in beroep tegen een boete van € 119,00 van de gemeente Groningen, op grond van de Wahv (de wet over boetes voor verkeersovertredingen). De officier van justitie verdedigde de boete bij de kantonrechter van de rechtbank Noord-Nederland.",
+ "titel": "Parkeerder krijgt geen gelijk: boete van 119 euro blijft staan",
+ "kern": {
+  "zin": "De kantonrechter wijst het beroep af, omdat het trottoir feitelijk voor het openbaar verkeer openstaat.",
+  "bron": [
+   18
+  ],
+  "citaat": "Nu het trottoir waar betrokkene heeft geparkeerd feitelijk voor het openbaar verkeer openstaat"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete van € 119,00 voor stilstaan op een trottoir in Groningen.",
+   "bron": [
+    13
+   ],
+   "citaat": "verricht op 20 maart 2023, om 11:29 uur, locatie: Toxopeusstraat in Groningen"
+  },
+  {
+   "zin": "De parkeerder zegt dat het geen duidelijke stoep is en dat de grond niet van de gemeente is.",
+   "bron": [
+    14
+   ],
+   "citaat": "het geen duidelijke stoep is en dat dit stuk geen eigendom is van de gemeente"
+  },
+  {
+   "zin": "De kantonrechter vindt de stoep duidelijk herkenbaar en ziet geen onduidelijkheid.",
+   "bron": [
+    17
+   ],
+   "citaat": "De verschillende soorten bestrating en de trottoirband onderscheiden de stoep duidelijk van de rijbaan"
+  },
+  {
+   "zin": "Of het terrein van de gemeente is, is niet bepalend; het gaat om openbaar verkeer.",
+   "bron": [
+    18
+   ],
+   "citaat": "Daarvoor is niet bepalend van wie het terrein is"
+  },
+  {
+   "zin": "Het beroep is ongegrond, dus de boete blijft staan.",
+   "bron": [
+    19
+   ],
+   "citaat": "De kantonrechter verklaart het beroep ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Parkeerder verliest; boete van € 119,00 blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt de boete van € 119,00 (inclusief administratiekosten).",
+  "bron": [
+   13
+  ],
+  "citaat": "De opgelegde sanctie bedraagt € 119,00 (inclusief administratiekosten)"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Het is geen duidelijke stoep, dus de boete klopt niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter ziet de stoep duidelijk van de rijbaan onderscheiden, dus de onduidelijkheid is niet gebleken.",
+    "bron": [
+     17
+    ],
+    "citaat": "De verschillende soorten bestrating en de trottoirband onderscheiden de stoep duidelijk van de rijbaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "De verschillende soorten bestrating en de trottoirband onderscheiden de stoep duidelijk van de rijbaan",
+    "bron": [
+     17
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De plek is niet van de gemeente, dus de gemeente mag geen boete geven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Eigendom van de grond is niet bepalend; het gaat om de vraag of de plek openstaat voor het verkeer.",
+    "bron": [
+     18
+    ],
+    "citaat": "Daarvoor is niet bepalend van wie het terrein is"
+   },
+   "bruikbare_zin": {
+    "citaat": "Daarvoor is niet bepalend van wie het terrein is",
+    "bron": [
+     18
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een stuk grond hoort bij de openbare weg zolang iedereen er toegang heeft.",
+  "type": "regel",
+  "reikwijdte": "grond die voor iedereen toegankelijk is, ongeacht van wie die grond is",
+  "uitzondering": "de toegang is feitelijk en kenbaar belemmerd, bijvoorbeeld door een hek of slagboom",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   18
+  ],
+  "citaat": "zolang dit voor een ieder toegankelijk is en de toegang niet feitelijk en op kenbare wijze is belemmerd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "stuk dat de parkeerder bij het beroepschrift voegde"
+  ],
+  "wat_gaf_doorslag": "Het stuk ging over betaald parkeren en maakte de plek niet anders."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHARL:2023:962"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1, eerste lid, onder b, Wegenverkeerswet 1994",
+  "Wahv"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Geef de parkeervakken aan beide kanten van de weg even duidelijk aan.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    17
+   ],
+   "citaat": "Aan de andere kant van dezelfde weg zijn dergelijke parkeervakken wel duidelijk aangegeven"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een boete voor stilstaan op een trottoir is niet terecht als de plek niet duidelijk als trottoir te herkennen is. In deze zaak vond de rechter de stoep duidelijk herkenbaar, dus bleef de boete staan. Als u een boete voor een plek krijgt die u onduidelijk vindt, dan helpen foto's van de situatie; zonder bewijs van onduidelijkheid heeft bezwaar weinig kans.",
+ "gemeente": "Groningen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

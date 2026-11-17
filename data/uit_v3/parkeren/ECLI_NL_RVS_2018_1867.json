@@ -1,0 +1,181 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2018:1867",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "plafond-wachtlijst",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bewoner van Amsterdam kreeg te horen dat hij op een wachtlijst voor een bewonersvergunning stond en vroeg om een dwangsom en schadevergoeding. Hij ging tegen de gemeente in hoger beroep bij de Raad van State.",
+ "titel": "Foute mail over wachtlijst: geen dwangsom en geen schadevergoeding",
+ "kern": {
+  "zin": "De gemeente verklaarde het bezwaar ten onrechte niet-ontvankelijk, maar de bewoner kreeg toch geen dwangsom of schadevergoeding en zijn bezwaar bleef ongegrond.",
+  "bron": [
+   37
+  ],
+  "citaat": "dat het college het door [appellant] ingestelde bezwaar ten onrechte niet-ontvankelijk heeft verklaard"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente zette de bewoner op plaats 74 van de wachtlijst voor een bewonersvergunning.",
+   "bron": [
+    55
+   ],
+   "citaat": "dat hij op plaats 74 van de wachtlijst staat"
+  },
+  {
+   "zin": "De bewoner zei dat een medewerker hem foutief had gemaild dat hij op plaats 2 zou komen, en dat hij daardoor € 301,97 extra kosten had.",
+   "bron": [
+    48
+   ],
+   "citaat": "De ambtenaar die hem heeft gemaild dat hij op plaats 2 op de wachtlijst zou komen heeft fout gehandeld."
+  },
+  {
+   "zin": "De gemeente verklaarde zijn bezwaar niet-ontvankelijk, omdat hij na de vergunning geen belang meer zou hebben.",
+   "bron": [
+    34
+   ],
+   "citaat": "kennelijk niet-ontvankelijk verklaard, omdat hij geen belang meer heeft"
+  },
+  {
+   "zin": "De rechter vond dat de bewoner wel belang had, omdat hij met een factuur zijn schade aannemelijk maakte.",
+   "bron": [
+    37
+   ],
+   "citaat": "tot op zekere hoogte aannemelijk gemaakt dat hij daadwerkelijk schade"
+  },
+  {
+   "zin": "Een dwangsom was niet verschuldigd, omdat de gemeente op tijd een besluit nam, ook al was dat besluit niet goed.",
+   "bron": [
+    46
+   ],
+   "citaat": "De beoordeling of een besluit is genomen, staat los van de beoordeling van de juistheid van het genomen besluit."
+  },
+  {
+   "zin": "De foute mail was geen belofte, omdat die van een verkeerde datum uitging, wat de bewoner kon zien.",
+   "bron": [
+    57
+   ],
+   "citaat": "nu daarin van een verkeerde datum wordt uitgegaan"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Geen dwangsom of schadevergoeding; het bezwaar zelf blijft ongegrond",
+ "gevolg_betrokkene": {
+  "zin": "Hij krijgt geen dwangsom en geen schadevergoeding van € 301,97, zijn bezwaar blijft ongegrond en er is geen proceskostenvergoeding.",
+  "bron": [
+   61,
+   59
+  ],
+  "citaat": "Van proceskosten die voor vergoeding in aanmerking komen, is niet gebleken."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente beslist te laat, dus er is een dwangsom verbeurd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente nam binnen twee weken na de ingebrekestelling een besluit; of dat besluit juist was, is een andere vraag.",
+    "bron": [
+     46
+    ],
+    "citaat": "De beoordeling of een besluit is genomen, staat los van de beoordeling van de juistheid van het genomen besluit."
+   },
+   "bruikbare_zin": {
+    "citaat": "De beoordeling of een besluit is genomen, staat los van de beoordeling van de juistheid van het genomen besluit.",
+    "bron": [
+     46
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Een medewerker mailde hem dat hij op plaats 2 van de wachtlijst zou komen; hij kan daarop vertrouwen en wil de kosten vergoed.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De mail ging uit van een verkeerde datum en bevatte geen concrete, ondubbelzinnige toezegging.",
+    "bron": [
+     57
+    ],
+    "citaat": "nu daarin van een verkeerde datum wordt uitgegaan"
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De gemeente besliste op het bezwaar zonder hem te horen.",
+   "oordeel": "niet beoordeeld",
+   "waarom": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een beroep op het vertrouwensbeginsel slaagt alleen bij een concrete, ondubbelzinnige toezegging van een bevoegd persoon die aan de gemeente is toe te rekenen.",
+  "type": "regel",
+  "reikwijdte": "Beroep op een eerdere mail of mededeling van een gemeente, bijvoorbeeld over een wachtlijstplaats",
+  "uitzondering": "Een mail die van een verkeerde datum uitgaat, wat de burger kon zien, is geen toezegging",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   56
+  ],
+  "citaat": "een aan het bestuursorgaan toe te rekenen concrete, ondubbelzinnige toezegging is gedaan door een daartoe bevoegd persoon"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "e-mails van de medewerker van de vergunningverlener",
+   "factuur van Parkmobile"
+  ],
+  "wat_gaf_doorslag": "De mail ging uit van een verkeerde datum, wat de bewoner kon zien."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2017:2862",
+   "ECLI:NL:RVS:2013:BZ7771",
+   "ECLI:NL:RVS:2012:BW5949"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:2 Awb",
+  "art. 7:3 Awb",
+  "art. 4:13 Awb",
+  "art. 4:17 Awb",
+  "art. 8:88 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Verklaar een bezwaar niet kennelijk niet-ontvankelijk als de burger met een factuur aannemelijk maakt dat het besluit hem schade heeft gekost",
+   "raakt": "bezwaar",
+   "bron": [
+    37
+   ],
+   "citaat": "tot op zekere hoogte aannemelijk gemaakt dat hij daadwerkelijk schade"
+  },
+  {
+   "actie": "Controleer bij mails over de wachtlijst of de aanvraagdatum klopt voordat u ze verstuurt",
+   "raakt": "klantcontact",
+   "bron": [
+    57
+   ],
+   "citaat": "nu daarin van een verkeerde datum wordt uitgegaan"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "vergunningen",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een foute mail van een medewerker is niet automatisch een belofte van de gemeente; dat verandert als er een concrete, duidelijke toezegging in staat. Wilt u kosten vergoed krijgen omdat een vergunning te laat kwam, dan moet u met bijvoorbeeld een factuur laten zien dat u die kosten door het besluit hebt gemaakt. Bewaar daarom uw bonnen en mails, ook als u de vergunning inmiddels heeft.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

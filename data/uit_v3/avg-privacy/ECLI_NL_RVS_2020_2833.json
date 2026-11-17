@@ -1,0 +1,178 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2020:2833",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "misbruik-herhaald",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger die veel inzageverzoeken doet",
+  "wederpartij": "gemeente Heemskerk",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger procedeert tegen de gemeente Heemskerk bij de Raad van State. Hij vroeg inzage in zijn persoonsgegevens en de gemeente stelde dat verzoek buiten behandeling, omdat zijn identiteit niet vaststond.",
+ "titel": "Gemeente mag bij twijfel extra bewijs van identiteit vragen",
+ "kern": {
+  "zin": "De rechter vindt dat de gemeente bij twijfel over de identiteit extra bewijs mocht vragen, en dat de burger geen misbruik van recht maakte.",
+  "bron": [
+   41
+  ],
+  "citaat": "De uitspraak van de rechtbank dient te worden bevestigd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente Heemskerk om inzage in zijn persoonsgegevens en stuurde een kopie van een verlopen paspoort mee.",
+   "bron": [
+    24
+   ],
+   "citaat": "heeft op 30 juli 2017 verzocht om inzage in de verwerking van zijn persoonsgegevens"
+  },
+  {
+   "zin": "De gemeente vroeg om een gewaarmerkte kopie van een identiteitsbewijs of een bezoek aan het gemeentehuis en stelde het verzoek daarna buiten behandeling.",
+   "bron": [
+    25,
+    26
+   ],
+   "citaat": "een gewaarmerkte of geautoriseerde kopie van een geldig identiteitsbewijs op te sturen of om persoonlijk langs te komen op het gemeentehuis"
+  },
+  {
+   "zin": "De gemeente vond ook dat het om misbruik van recht ging, omdat de burger dwangsommen en proceskosten wilde innen.",
+   "bron": [
+    28
+   ],
+   "citaat": "het inzageverzoek heeft gedaan met als doel het innen van dwangsommen en het verkrijgen van proceskostenvergoedingen"
+  },
+  {
+   "zin": "De rechter vindt geen misbruik van recht: een financieel doel maakt het verzoek niet strijdig met het doel van de wet.",
+   "bron": [
+    32
+   ],
+   "citaat": "maakt niet dat het doel van het verzoek niet meer in overeenstemming is met het doel van de Wbp"
+  },
+  {
+   "zin": "De rechter vindt dat de gemeente extra bewijs van identiteit mocht vragen, omdat de handtekeningen niet overeenkwamen.",
+   "bron": [
+    37
+   ],
+   "citaat": "Het college kon aanvullende informatie verlangen ter vaststelling van de identiteit"
+  },
+  {
+   "zin": "Beide hoger beroepen zijn ongegrond, maar de gemeente moet € 1.184,53 aan proceskosten betalen.",
+   "bron": [
+    46
+   ],
+   "citaat": "veroordeelt het college van burgemeester en wethouders van Heemskerk tot vergoeding van"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Verzoek mocht buiten behandeling blijven; de gemeente betaalt wel proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "Het inzageverzoek van de burger blijft buiten behandeling, maar de gemeente moet € 1.184,53 aan proceskosten vergoeden.",
+  "bron": [
+   46
+  ],
+  "citaat": "veroordeelt het college van burgemeester en wethouders van Heemskerk tot vergoeding van"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Een kopie van mijn paspoort was genoeg om mijn identiteit vast te stellen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Door twijfel over de identiteit mocht de gemeente extra bewijs vragen; de twee opties waren niet onevenredig bezwarend.",
+    "bron": [
+     37
+    ],
+    "citaat": "Het kon zich daarom in redelijkheid op het standpunt stellen dat daardoor twijfel is ontstaan over de identiteit van de verzoeker"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het college kon aanvullende informatie verlangen ter vaststelling van de identiteit",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "misbruik-recht",
+   "burger_zegt": "Mijn verzoek is geen misbruik van recht, ook al wil ik mogelijk later schadevergoeding vragen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Een financieel doel achter het verzoek maakt niet dat het doel niet meer past bij het doel van de wet.",
+    "bron": [
+     32
+    ],
+    "citaat": "maakt niet dat het doel van het verzoek niet meer in overeenstemming is met het doel van de Wbp"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het achterhalen welke gemeenten persoonsgegevens van de verzoeker hebben geplaatst op het forum van de VNG sluit aan bij het doel van de Wbp",
+    "bron": [
+     32
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente heeft in beginsel ruimte om te bepalen hoe zij de identiteit van iemand met een inzageverzoek vaststelt.",
+  "type": "regel",
+  "reikwijdte": "Identiteitsvaststelling bij inzageverzoeken onder de Wbp.",
+  "uitzondering": "De vaststelling mag niet zo belemmerend zijn dat het recht om vrijelijk een inzageverzoek te doen wordt aangetast.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   36
+  ],
+  "citaat": "het college in beginsel ten aanzien van de wijze waarop zij de identiteit van de verzoeker wil vaststellen beleidsruimte heeft"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "kopie van paspoort",
+   "handtekeningen op eerdere brieven"
+  ],
+  "wat_gaf_doorslag": "De handtekening op het verzoek kwam niet overeen met de handtekening op eerdere brieven van iemand met dezelfde naam."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2019:184",
+   "ECLI:NL:RVS:2019:2797"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 35 Wbp",
+  "art. 37 lid 2 Wbp",
+  "art. 4:5 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij twijfel over de identiteit van iemand met een inzageverzoek om een gewaarmerkte kopie van het identiteitsbewijs of om een bezoek aan het gemeentehuis",
+   "raakt": "klantcontact",
+   "bron": [
+    37
+   ],
+   "citaat": "Het kon zich daarom in redelijkheid op het standpunt stellen dat daardoor twijfel is ontstaan over de identiteit van de verzoeker"
+  },
+  {
+   "actie": "Onderbouw een beroep op misbruik van recht met meer dan veel verzoeken of een financieel motief; dat was hier niet genoeg",
+   "raakt": "privacy-fg",
+   "bron": [
+    32
+   ],
+   "citaat": "maakt niet dat het doel van het verzoek niet meer in overeenstemming is met het doel van de Wbp"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een inwoner mag bij de gemeente vragen welke persoonsgegevens zij heeft, maar moet daarbij zijn identiteit bewijzen. Meestal volstaat een kopie van het identiteitsbewijs; bij twijfel mag de gemeente een gewaarmerkte kopie of een bezoek aan het gemeentehuis vragen. Reageer dus op zo'n vraag, anders kan het verzoek buiten behandeling blijven.",
+ "gemeente": "Heemskerk",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

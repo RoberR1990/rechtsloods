@@ -1,0 +1,166 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2026:3695",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "gehandicaptenkaart",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "aanvrager",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De aanvrager van een Europese gehandicaptenparkeerkaart (GPK, de parkeerkaart voor mensen met een loopbeperking) is het niet eens met de afwijzing door de gemeente Amsterdam. De zaak ging naar de rechtbank Amsterdam, die ook een voorlopige voorziening gaf.",
+ "titel": "Afwijzing gehandicaptenparkeerkaart vernietigd: medisch advies niet zorgvuldig",
+ "kern": {
+  "zin": "De rechter vond de medische adviezen van de GGD niet zorgvuldig tot stand gekomen en vernietigde daarom de afwijzing.",
+  "bron": [
+   26
+  ],
+  "citaat": "de adviezen van de GGD niet zorgvuldig tot stand zijn gekomen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente wees de aanvraag af, mede op de adviezen van de GGD.",
+   "bron": [
+    21
+   ],
+   "citaat": "De adviezen bevatten geen kwantitatieve vaststelling van de maximale loopafstand"
+  },
+  {
+   "zin": "De aanvrager liet een eigen verzekeringsarts een advies opstellen; die vond de GGD-adviezen onvolledig.",
+   "bron": [
+    23
+   ],
+   "citaat": "De verzekeringsarts concludeert in haar advies dat de adviezen van de GGD"
+  },
+  {
+   "zin": "De GGD reageerde later, maar bleef in grote lijnen bij het eerste standpunt.",
+   "bron": [
+    21
+   ],
+   "citaat": "De latere reactie van de GGD van 23 december 2025 herhaalt in hoofdzaak de eerder ingenomen standpunten"
+  },
+  {
+   "zin": "De rechter oordeelde dat de adviezen niet zorgvuldig tot stand kwamen.",
+   "bron": [
+    26
+   ],
+   "citaat": "de adviezen van de GGD niet zorgvuldig tot stand zijn gekomen"
+  },
+  {
+   "zin": "De rechter wil een nieuw advies van de GGD en daarna een nieuw besluit.",
+   "bron": [
+    27
+   ],
+   "citaat": "Het ligt in de rede om een nieuw advies op te vragen bij de GGD"
+  },
+  {
+   "zin": "De aanvrager mag een GPK gebruiken tot zes weken na het nieuwe besluit.",
+   "bron": [
+    31
+   ],
+   "citaat": "tot zes weken na de nieuwe beslissing op bezwaar van een GPK gebruik kan maken"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Beroep gegrond; besluit vernietigd; nieuw besluit binnen acht weken.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet het griffierecht en € 2.802 proceskosten vergoeden, en de aanvrager mag de GPK gebruiken tot zes weken na het nieuwe besluit.",
+  "bron": [
+   32,
+   31,
+   39
+  ],
+  "citaat": "Deze vergoeding bedraagt € 2.802,-"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De medische adviezen van de GGD zijn niet zorgvuldig en niet goed onderbouwd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond de adviezen niet zorgvuldig tot stand gekomen.",
+    "bron": [
+     26
+    ],
+    "citaat": "de adviezen van de GGD niet zorgvuldig tot stand zijn gekomen"
+   },
+   "bruikbare_zin": {
+    "citaat": "de adviezen van de GGD niet zorgvuldig tot stand zijn gekomen",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De GGD heeft de loopafstand niet concreet vastgesteld en de belasting op het werk verkeerd ingeschat.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Volgens de rechter is de belasting in het werk waarschijnlijk verkeerd geïnterpreteerd.",
+    "bron": [
+     26
+    ],
+    "citaat": "in de anamnese lijkt informatie over zijn belasting in werk verkeerd te zijn geïnterpreteerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "in de anamnese lijkt informatie over zijn belasting in werk verkeerd te zijn geïnterpreteerd",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een besluit op een medisch advies mag, als dat advies zorgvuldig en begrijpelijk tot stand is gekomen.",
+  "type": "regel",
+  "reikwijdte": "afwijzing van een gehandicaptenparkeerkaart op basis van een medisch advies",
+  "uitzondering": "als de aanvrager met medische stukken aannemelijk maakt dat het advies niet klopt",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "als dit zorgvuldig tot stand is gekomen, inzichtelijk is, begrijpelijk is gemotiveerd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "medisch advies van een eigen verzekeringsarts",
+   "medische stukken van behandelaars"
+  ],
+  "wat_gaf_doorslag": "De gebreken in de GGD-adviezen, die ook de eigen verzekeringsarts had onderkend."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:72 Awb",
+  "art. 1 lid 1 onder a Regeling gehandicaptenparkeerkaart"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag de GGD om een nieuw advies dat het advies van de eigen verzekeringsarts meeweegt.",
+   "raakt": "bezwaar",
+   "bron": [
+    27
+   ],
+   "citaat": "Het ligt in de rede om een nieuw advies op te vragen bij de GGD"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "De rechter vond de medische adviezen niet zorgvuldig, dus de afwijzing van uw kaart is vernietigd. U krijgt een nieuw besluit, en tot zes weken daarna kunt u de kaart al gebruiken. Een eigen medisch advies met de stukken erbij kan uw bezwaar sterker maken.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

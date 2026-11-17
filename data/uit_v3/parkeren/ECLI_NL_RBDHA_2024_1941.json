@@ -1,0 +1,163 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2024:1941",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Den Haag (heffingsambtenaar)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg twee naheffingsaanslagen (de rekening achteraf) voor parkeren zonder betaling. Zij zegt dat haar klachten betalen onmogelijk maakten, en de rechtbank Den Haag beslist over haar beroep.",
+ "titel": "Fysieke klachten zijn geen reden om parkeergeld niet te betalen",
+ "kern": {
+  "zin": "De rechter gelooft de klachten, maar die vormen geen acute noodsituatie, dus de aanslagen blijven staan.",
+  "bron": [
+   23
+  ],
+  "citaat": "Echter, dit is in het geval van eiseres niet een acute noodsituatie"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op twee dagen in september 2022 kreeg zij twee rekeningen achteraf voor parkeren zonder betaling.",
+   "bron": [
+    19,
+    20
+   ],
+   "citaat": "op 20 september 2022 omstreeks 13:12 uur en op 23 september 2022 omstreeks 15:02 uur"
+  },
+  {
+   "zin": "Zij zegt dat de parkeerapparatuur door haar klachten niet te bedienen was.",
+   "bron": [
+    21
+   ],
+   "citaat": "het in werking stellen van de parkeerapparatuur vanwege een veelheid aan fysieke klachten en aandoeningen"
+  },
+  {
+   "zin": "De rechter zegt dat de gemeente automaten en apps beschikbaar heeft, en dat een gehandicaptenvergunning kan helpen.",
+   "bron": [
+    24
+   ],
+   "citaat": "De gemeente voorziet in de aanwezigheid van parkeerapparatuur alsook apps en/of software"
+  },
+  {
+   "zin": "Schuld of opzet telt niet mee: de belasting is objectief.",
+   "bron": [
+    22
+   ],
+   "citaat": "de parkeerbelasting een objectieve belasting is, waarbij opzet en schuld geen rol spelen"
+  },
+  {
+   "zin": "Ook een beroep op coulance wijst de rechter af, omdat dat bij het college ligt.",
+   "bron": [
+    25
+   ],
+   "citaat": "toepassing van de hardheidsclausule een discretionaire bevoegdheid van het college van burgemeester en wethouders is"
+  },
+  {
+   "zin": "De beroepen zijn ongegrond, dus de aanslagen blijven staan.",
+   "bron": [
+    17
+   ],
+   "citaat": "De rechtbank verklaart de beroepen ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de aanslagen blijven staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de aanslagen betalen en krijgt geen proceskosten vergoed.",
+  "bron": [
+   27,
+   17
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overmacht-medisch",
+   "burger_zegt": "Zij zegt dat haar klachten het onmogelijk maakten om te betalen, en dat dit overmacht is.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat er geen acute noodsituatie was, want zij wist al van haar klachten.",
+    "bron": [
+     23
+    ],
+    "citaat": "Eiseres had immers reeds voordat zij op de bewuste locatie(s) parkeerde wetenschap van haar"
+   },
+   "bruikbare_zin": {
+    "citaat": "Onder die omstandigheden is naar het oordeel van de rechtbank geen sprake van een acute (onverwachte) noodsituatie",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Zij vindt het onredelijk om de aanslagen op te leggen en vraagt om coulance.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat over coulance het college beslist, niet de rechter.",
+    "bron": [
+     25
+    ],
+    "citaat": "toepassing van de hardheidsclausule een discretionaire bevoegdheid van het college van burgemeester en wethouders is"
+   },
+   "bruikbare_zin": {
+    "citaat": "Eiseres had vooraf moeten anticiperen op het later moeten voldoen van parkeerbelasting",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeerbelasting is een objectieve belasting, dus schuld of opzet telt niet mee.",
+  "type": "regel",
+  "reikwijdte": "Verschuldigdheid van parkeerbelasting bij niet betalen op het moment van parkeren.",
+  "uitzondering": "Een acute, onverwachte noodsituatie van uitzonderlijke aard (overmacht) waardoor geen betalingsplicht bestaat.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   22
+  ],
+  "citaat": "de parkeerbelasting een objectieve belasting is, waarbij opzet en schuld geen rol spelen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Ook met de klachten was er geen acute noodsituatie."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHDHA:2021:2134"
+  ]
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Houd naast automaten ook apps en een gehandicaptenparkeervergunning beschikbaar.",
+   "raakt": "betaalapp",
+   "bron": [
+    24
+   ],
+   "citaat": "De gemeente voorziet in de aanwezigheid van parkeerapparatuur alsook apps en/of software"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "betaalapp",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een rekening achteraf voor parkeren blijft staan als u niet betaalt, ook als betalen lastig is. Alleen bij een echte, onverwachte noodsituatie hoeft dat niet. Heeft u vaste klachten, vraag dan vooraf naar een andere manier om te betalen, zoals een gehandicaptenparkeervergunning.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

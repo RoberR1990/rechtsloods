@@ -1,0 +1,188 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:520",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "zoekslag",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "minister van financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Deze zaak gaat over een verzoek om inzage in persoonsgegevens volgens de AVG. Een burger is het niet eens met het overzicht dat de minister van financiën heeft gegeven en ging in beroep bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Inzage FSV-gegevens: beroep burger ongegrond",
+ "kern": {
+  "zin": "De rechtbank verklaart het beroep ongegrond, omdat de minister aan het inzageverzoek heeft voldaan.",
+  "bron": [
+   34
+  ],
+  "citaat": "Uit het voorgaande volgt dat de minister aan het inzageverzoek van eiseres heeft voldaan."
+ },
+ "samenvatting": [
+  {
+   "zin": "De zaak gaat over inzage in de persoonsgegevens van eiseres die in de FSV waren opgenomen.",
+   "bron": [
+    32
+   ],
+   "citaat": "persoonsgegevens van eiseres die in de FSV waren opgenomen"
+  },
+  {
+   "zin": "Eiseres vond de beslissing onbegrijpelijk en vond dat er geen inzicht werd gegeven in de feiten waarop de signalering berust.",
+   "bron": [
+    22
+   ],
+   "citaat": "de beslissing onbegrijpelijk is, geen inzicht geeft op welke feiten en gronden de signalering is gebaseerd"
+  },
+  {
+   "zin": "De minister vond dat het overzicht compleet was en dat er geen documenten hoeven te worden gegeven.",
+   "bron": [
+    24
+   ],
+   "citaat": "In de beslissing zijn alle persoonsgegevens opgenomen die bij de registratie zijn aangetroffen."
+  },
+  {
+   "zin": "De rechtbank oordeelde dat de minister aan het inzageverzoek heeft voldaan.",
+   "bron": [
+    34
+   ],
+   "citaat": "de minister aan het inzageverzoek van eiseres heeft voldaan"
+  },
+  {
+   "zin": "Het beroep is ongegrond. Daarom krijgt eiseres geen proceskostenvergoeding en geen griffierecht terug.",
+   "bron": [
+    41
+   ],
+   "citaat": "Omdat het beroep ongegrond wordt verklaard krijgt eiseres geen proceskostenvergoeding."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De minister heeft genoeg inzage gegeven; beroep ongegrond.",
+ "gevolg_betrokkene": {
+  "zin": "Het beroep is ongegrond: de burger krijgt geen vergoeding van proceskosten en krijgt het griffierecht niet terug.",
+  "bron": [
+   41
+  ],
+  "citaat": "Ook krijgt eiseres het griffierecht niet vergoed."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "De beslissing is onbegrijpelijk en geeft geen inzicht in de feiten waarop de signalering berust.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank zag niet dat het overzicht onjuist was of dat beschikbare informatie niet is gegeven.",
+    "bron": [
+     32
+    ],
+    "citaat": "Het is de rechtbank niet gebleken dat het door de minister verstrekte overzicht onjuistheden bevat"
+   },
+   "bruikbare_zin": {
+    "citaat": "of dat over informatie die wel beschikbaar was, geen inzage is gegeven",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "kopie-stukken",
+   "burger_zegt": "Er ontbreekt een toelichting aan de hand van documenten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter oordeelt dat er geen plicht is om documenten te verstrekken als het doel van de inzage maar wordt gehaald.",
+    "bron": [
+     31
+    ],
+    "citaat": "dat er geen verplichting bestaat tot het verstrekken van documenten"
+   },
+   "bruikbare_zin": {
+    "citaat": "er geen verplichting bestaat tot het verstrekken van documenten",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "delen-met-derden",
+   "burger_zegt": "De gegevens uit de FSV zijn met het UWV gedeeld, dus er zijn meer gegevens gedeeld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Uit een bericht op de website van het UWV blijkt niet dat gegevens van eiseres zelf zijn gedeeld.",
+    "bron": [
+     33
+    ],
+    "citaat": "uit dit bericht niet opgemaakt kan worden dat ook gegevens van eiseres met het UWV zijn gedeeld"
+   },
+   "bruikbare_zin": {
+    "citaat": "Eiseres is er daarom niet in geslaagd om aannemelijk te maken dat de minister meer gegevens van haar heeft verwerkt",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Zij wil schadevergoeding omdat de registratie onrechtmatig was.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "Het schadeverzoek lag niet in dit besluit, dus de rechtbank komt daar niet aan toe.",
+    "bron": [
+     38
+    ],
+    "citaat": "komt de rechtbank niet toe aan een inhoudelijk oordeel over de beroepsgronden die betrekking hebben op de schadevergoeding"
+   },
+   "bruikbare_zin": {
+    "citaat": "in dit besluit geen beslissing is genomen over een schadevergoeding",
+    "bron": [
+     36
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie stelt dat er meer persoonsgegevens zijn, moet dat aannemelijk maken nadat de organisatie heeft gezegd dat er niet meer zijn.",
+  "type": "regel",
+  "reikwijdte": "Inzageverzoeken op grond van de AVG.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   31
+  ],
+  "citaat": "aannemelijk moet maken dat er wel meer persoonsgegevens moeten zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "bericht van 25 januari 2022 op de website van het UWV"
+  ],
+  "wat_gaf_doorslag": "Eiseres kon niet aannemelijk maken dat er meer gegevens waren verwerkt dan in het overzicht stonden."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2024:218",
+   "ECLI:NL:RVS:2025:5323",
+   "ECLI:NL:RVS:2025:2720",
+   "ECLI:NL:RVS:2025:5890",
+   "ECLI:NL:RVS:2025:2730"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 15 lid 1 AVG",
+  "art. 15 lid 3 AVG"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg"
+ ],
+ "klantuitleg": "U vroeg de minister om inzage in de gegevens over u in een systeem voor fraudesignalen. De rechter vindt dat de minister genoeg inzage heeft gegeven en dat documenten niet apart hoeven te worden gegeven. Wil een bezwaar slagen, dan moet u zelf aannemelijk maken dat er meer gegevens van u zijn verwerkt; een bericht op een website is daarvoor niet genoeg.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "de minister van financiën is partij, niet een gemeente",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

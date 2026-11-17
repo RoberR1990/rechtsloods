@@ -1,0 +1,148 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2024:979",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente (naam geanonimiseerd)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder betaalde € 0,10 voor het parkeren, terwijl hij € 4,50 had moeten betalen, en kreeg een naheffingsaanslag (rekening achteraf). Hij procedeert tegen de gemeente bij het gerechtshof Amsterdam.",
+ "titel": "Al betaalde € 0,10 hoeft niet van de naheffing af",
+ "kern": {
+  "zin": "De rechter vindt dat de gemeente over een heel uur mag naheffen en het al betaalde bedrag niet hoeft af te trekken.",
+  "bron": [
+   18
+  ],
+  "citaat": "forfaitair wordt nageheven op basis van een parkeerduur van een uur"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder betaalde € 0,10 aan parkeerbelasting, terwijl hij € 4,50 had moeten betalen.",
+   "bron": [
+    16
+   ],
+   "citaat": "Belanghebbende heeft parkeerbelasting voldaan ten bedrage van € 0,10, terwijl hij een bedrag van € 4,50 aan parkeerbelasting had moeten voldoen"
+  },
+  {
+   "zin": "De gemeente legde een naheffingsaanslag op van € 69,80, bestaande uit € 4,50 parkeerbelasting en € 65,30 kosten.",
+   "bron": [
+    16
+   ],
+   "citaat": "een naheffingsaanslag parkeerbelasting opgelegd aan belanghebbende ten bedrage van € 69,80"
+  },
+  {
+   "zin": "De parkeerder vond de naheffing te hoog, omdat er geen rekening is gehouden met de al betaalde parkeerbelasting.",
+   "bron": [
+    18
+   ],
+   "citaat": "dat de naheffingsaanslag te hoog is omdat geen rekening is gehouden met de reeds betaalde parkeerbelasting"
+  },
+  {
+   "zin": "De rechter wijst op de wet: bij een naheffing wordt gerekend over een parkeerduur van een uur, tenzij aannemelijk is dat de auto langer zonder betaling stond.",
+   "bron": [
+    17
+   ],
+   "citaat": "deze berekend over een parkeerduur van een uur"
+  },
+  {
+   "zin": "Daarom hoefde de gemeente de naheffing niet te beperken tot de te weinig betaalde € 4,40.",
+   "bron": [
+    19
+   ],
+   "citaat": "niet behoeven te beperken tot de door belanghebbende te weinig betaalde parkeerbelasting"
+  },
+  {
+   "zin": "Het hoger beroep van de parkeerder is ongegrond, dus de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    20
+   ],
+   "citaat": "Het hoger beroep van belanghebbende is ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; al betaalde € 0,10 telt niet mee.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffingsaanslag van € 69,80 betalen, zonder aftrek van de al betaalde € 0,10.",
+  "bron": [
+   16,
+   20
+  ],
+  "citaat": "een naheffingsaanslag parkeerbelasting opgelegd aan belanghebbende ten bedrage van € 69,80"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De naheffing is te hoog, want de al betaalde € 0,10 is er niet van afgetrokken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De wet gaat bij een naheffing uit van een uur parkeren, dus het al betaalde bedrag hoeft niet te worden afgetrokken.",
+    "bron": [
+     18
+    ],
+    "citaat": "forfaitair wordt nageheven op basis van een parkeerduur van een uur"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet behoeven te beperken tot de door belanghebbende te weinig betaalde parkeerbelasting",
+    "bron": [
+     19
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een naheffing over een uur hoeft de gemeente het al betaalde bedrag niet af te trekken.",
+  "type": "regel",
+  "reikwijdte": "Naheffing parkeerbelasting op grond van art. 234 lid 3 Gemeentewet waarbij te weinig is betaald",
+  "uitzondering": "Anders als wel voldoende parkeerbelasting is betaald maar de aangifte niet op de voorgeschreven wijze is gedaan (HR 26 februari 2016).",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   19
+  ],
+  "citaat": "niet behoeven te beperken tot de door belanghebbende te weinig betaalde parkeerbelasting"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De wet rekent bij naheffing met een uur parkeerduur, ongeacht het al betaalde bedrag."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2019:56",
+   "ECLI:NL:HR:2016:316"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 lid 3 Gemeentewet",
+  "art. 20 lid 1 AWR"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bereken bij te weinig betalen de naheffing over een uur parkeren, ook als de parkeerder al een klein bedrag betaalde.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    19
+   ],
+   "citaat": "niet behoeven te beperken tot de door belanghebbende te weinig betaalde parkeerbelasting"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Heeft u te weinig betaald, dan krijgt u een rekening achteraf voor een heel uur parkeren plus kosten. Wat u al betaalde, wordt daar niet van afgetrokken. Bezwaar heeft op dit punt weinig kans; was er een andere reden, zoals een kapotte automaat, dan kunt u die aanvoeren.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,154 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2022:3269",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "fraude-signalering",
+ "kenmerk": "fsv",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "persoon die inzage vroeg",
+  "wederpartij": "Minister van Financiën (Belastingdienst)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger wilde weten of hij in fraudelijsten van de Belastingdienst stond. Hij stapte naar de rechtbank Midden-Nederland tegen de Minister van Financiën.",
+ "titel": "Inzage in fraudesysteem terecht geweigerd: burger stond er niet in",
+ "kern": {
+  "zin": "De rechter vindt dat de Belastingdienst de inzage mocht weigeren: de burger stond niet in het fraudesysteem FSV, en over vergelijkbare systemen loopt nog onderzoek.",
+  "bron": [
+   37
+  ],
+  "citaat": "heeft mogen afwijzen onder verwijzing naar het nog lopende onderzoek"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg in 2018 de Belastingdienst om inzage in zijn persoonsgegevens in fraudelijsten, waaronder het systeem FSV.",
+   "bron": [
+    22
+   ],
+   "citaat": "verzocht om informatie over zijn persoonsgegevens die verweerder heeft verwerkt"
+  },
+  {
+   "zin": "De Belastingdienst zei dat de burger niet in FSV staat, ook niet in het bewaarde reservebestand.",
+   "bron": [
+    26
+   ],
+   "citaat": "Ook in dit reservebestand staan geen persoonsgegevens van eiser."
+  },
+  {
+   "zin": "Over vergelijkbare systemen kon de Belastingdienst nog niets zeggen, omdat een onderzoek van drie jaar loopt.",
+   "bron": [
+    27
+   ],
+   "citaat": "omdat er onderzoek loopt naar de vraag of er sprake is met FSV vergelijkbare systemen"
+  },
+  {
+   "zin": "De burger zei dat hij wel op een fraudelijst stond, namelijk van project 1043.",
+   "bron": [
+    29
+   ],
+   "citaat": "dat eiser op de fraudelijst van project 1043 stond"
+  },
+  {
+   "zin": "De rechter zag geen reden om te twijfelen aan de vaststelling dat de burger niet in FSV staat.",
+   "bron": [
+    34
+   ],
+   "citaat": "De rechtbank heeft geen reden om deze vaststelling van verweerder voor onjuist te houden."
+  },
+  {
+   "zin": "Over vergelijkbare systemen mocht de Belastingdienst de inzage weigeren zolang het onderzoek loopt; het beroep is ongegrond.",
+   "bron": [
+    37
+   ],
+   "citaat": "heeft mogen afwijzen onder verwijzing naar het nog lopende onderzoek"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; alleen proceskosten door te late beslissing",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt nu geen inzage; na het onderzoek beslist de Belastingdienst opnieuw en kan de burger weer bezwaar maken, en de Belastingdienst betaalt € 379,50 proceskosten omdat hij te laat besliste.",
+  "bron": [
+   45,
+   36
+  ],
+  "citaat": "veroordeelt verweerder in de proceskosten van eiser tot een bedrag van € 379,50"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Ik sta wel op een fraudelijst (project 1043), dus de inzage klopt niet en is te veel afgesplitst.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dat lijstje valt buiten deze zaak: daarover is een apart besluit genomen waartegen nog bezwaar loopt.",
+    "bron": [
+     37
+    ],
+    "citaat": "over project 1034 heeft verweerder een separaat besluit van 27 oktober 2021 genomen"
+   },
+   "bruikbare_zin": {
+    "citaat": "op het standpunt mogen stellen dat hij over de vraag of eiser in FSV vergelijkbare systemen voorkomt, geen uitsluitsel kan geven",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Fraudegegevens zoals code 88 zijn persoonsgegevens; ik wil een afschrift van die stukken.",
+   "oordeel": "niet beoordeeld",
+   "waarom": null,
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De Belastingdienst heeft mijn verzoek ten onrechte in delen gesplitst (afgesplitst).",
+   "oordeel": "niet beoordeeld",
+   "waarom": null,
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Staat na onderzoek vast dat iemand niet in een systeem staat, ook niet in het bewaarde reservebestand, dan kan de Belastingdienst geen gegevens uit dat systeem geven.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Inzageverzoek over het fraudesysteem FSV, na onderzoek van het systeem en het reservebestand",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   34
+  ],
+  "citaat": "Verweerder heeft zich daarom terecht op het standpunt gesteld dat hij geen persoonsgegevens van eiser uit FSV kan verstrekken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "onderzoek in FSV en het reservebestand",
+   "brieven aan de Tweede Kamer over het lopende onderzoek"
+  ],
+  "wat_gaf_doorslag": "De rechter had geen reden om de vaststelling dat de burger niet in FSV staat te betwijfelen."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 12 AVG",
+  "art. 15 lid 1 AVG",
+  "art. 6:20 lid 3 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "fraude-handhaving",
+  "klantcontact"
+ ],
+ "klantuitleg": "Vraagt u om inzage in uw gegevens in een fraudesysteem, dan mag de organisatie zeggen dat u er niet in staat, als dat na onderzoek zo blijkt. Loopt er nog onderzoek naar andere systemen, dan mag de organisatie daarover voorlopig geen antwoord geven. Na dat onderzoek volgt een nieuw besluit, en daartegen kunt u dan bezwaar maken.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente; Minister van Financiën is partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

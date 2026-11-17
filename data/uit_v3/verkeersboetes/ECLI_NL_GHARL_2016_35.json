@@ -1,0 +1,152 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2016:35",
+ "relevant": true,
+ "onderwerp": "procedure-beroep",
+ "sub": "termijn-tijdigheid",
+ "kenmerk": "buitenland",
+ "zaaktype": "snelheid",
+ "partijen": {
+  "burger": "kentekenhouder die in Duitsland woont",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een kentekenhouder uit Duitsland gaat in hoger beroep bij het hof Arnhem-Leeuwarden tegen een snelheidsboete van de officier van justitie (CJIB). Het gaat om de vraag of de boete wel op tijd en op het juiste adres bekend is gemaakt.",
+ "titel": "Boete pas na twee jaar bekend: boete vernietigd",
+ "kern": {
+  "zin": "Het hof vernietigt de boete, omdat de burger de beschikking pas ruim twee jaar na de overtreding kreeg en zich daardoor niet meer kon verweren.",
+  "bron": [
+   34
+  ],
+  "citaat": "Het voorgaande brengt mee dat de inleidende beschikking, waarbij die sanctie is opgelegd, niet in stand kan blijven."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger kreeg een boete van 223 euro omdat hij op de A73 31 km/u te hard zou hebben gereden.",
+   "bron": [
+    30
+   ],
+   "citaat": "overschrijding maximum snelheid op autosnelwegen, met 31 km/h"
+  },
+  {
+   "zin": "De burger woont in Duitsland en zei dat de beschikking naar een onjuist adres was gestuurd; hij hoorde er pas in 2013 van.",
+   "bron": [
+    22
+   ],
+   "citaat": "Pas op 16 april 2013 is de betrokkene op de hoogte geraakt van de vermeende gedraging"
+  },
+  {
+   "zin": "Het hof vond dat een uittreksel uit het Duitse bevolkingsregister twijfel gaf aan het adres dat het CJIB had.",
+   "bron": [
+    27
+   ],
+   "citaat": "doet twijfel rijzen aan de juistheid van de registratie van het adres van de betrokkene door het CJIB"
+  },
+  {
+   "zin": "Volgens het hof leidt te late bekendmaking alleen tot vernietiging als de burger daardoor rechtstreeks in zijn belang is geschaad.",
+   "bron": [
+    32
+   ],
+   "citaat": "behoort overschrijding van die termijn slechts dan tot vernietiging van de inleidende beschikking te leiden als de betrokkene door die overschrijding rechtstreeks is geschaad in enig rechtens te respecteren belang"
+  },
+  {
+   "zin": "Hier was dat zo, want de burger kreeg de beschikking ruim twee jaar na de overtreding.",
+   "bron": [
+    33
+   ],
+   "citaat": "ruim twee jaar na de vermeende gedraging, kennis heeft genomen van inleidende beschikking"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete vernietigd: te laat en mogelijk op verkeerd adres bekendgemaakt.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van 223 euro vervalt, het zekerheidsbedrag gaat terug naar de burger en hij krijgt 730,50 euro proceskosten vergoed.",
+  "bron": [
+   42
+  ],
+  "citaat": "veroordeelt de advocaat-generaal tot het vergoeden van de proceskosten van de betrokkene, ter hoogte van € 730,50"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "De beschikking ging naar een onjuist adres, dus mijn beroep was niet te laat.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het hof kon niet vaststellen dat de termijn voor beroep was begonnen, dus niet dat het beroep te laat was.",
+    "bron": [
+     28
+    ],
+    "citaat": "niet kan worden vastgesteld dat de onder 3. bedoelde termijn is aangevangen"
+   },
+   "bruikbare_zin": {
+    "citaat": "onvoldoende komen vast te staan dat de inleidende beschikking op de voorgeschreven wijze bekend is gemaakt",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De beschikking is niet binnen vier maanden bekendgemaakt en ik kan me niet meer herinneren wat er toen gebeurde.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De burger kreeg de beschikking zo laat dat hij zich niet meer goed kon verweren.",
+    "bron": [
+     33
+    ],
+    "citaat": "Gelet hierop is de betrokkene niet voldoende in de gelegenheid geweest zich tegen de oplegging van de sanctie te verweren."
+   },
+   "bruikbare_zin": {
+    "citaat": "de inleidende beschikking de betrokkene eerst bereikt op een zodanig tijdstip dat hij redelijkerwijs niet meer geacht kan worden te kunnen nagaan op welke gedraging die beschikking betrekking had",
+    "bron": [
+     32
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Te late bekendmaking van de boete leidt alleen tot vernietiging als de kentekenhouder de beschikking pas bereikt op een moment dat hij niet meer kan nagaan om welke gedraging het ging.",
+  "type": "regel",
+  "reikwijdte": "Boetes aan de kentekenhouder voor een gedraging die op kenteken is vastgesteld.",
+  "uitzondering": "De wet verbindt zelf geen gevolg aan overschrijding van de termijn van vier maanden.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   32
+  ],
+  "citaat": "de inleidende beschikking de betrokkene eerst bereikt op een zodanig tijdstip dat hij redelijkerwijs niet meer geacht kan worden te kunnen nagaan op welke gedraging die beschikking betrekking had"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "uittreksel uit het Duitse bevolkingsregister",
+   "zaakoverzicht van het CJIB"
+  ],
+  "wat_gaf_doorslag": "Het adres bij het CJIB leek onjuist, de burger kreeg de beschikking pas ruim twee jaar na de overtreding en de advocaat-generaal reageerde niet."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 4 lid 2 Wahv",
+  "art. 6 lid 1 Wahv",
+  "art. 6:7 Awb",
+  "art. 6:8 Awb",
+  "art. 3:41 Awb",
+  "art. 11 Wahv"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; wederpartij is de officier van justitie",
+ "raakt": [
+  "juridische-zaken",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een boete hoort u binnen vier maanden na de overtreding te bereiken. Woont u in het buitenland en kreeg u de brief pas veel later, dan kan de boete vervallen als u zich daardoor niet meer kon verweren. Leg in uw bezwaar uit wanneer u de brief kreeg en laat bijvoorbeeld zien waar u stond ingeschreven.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

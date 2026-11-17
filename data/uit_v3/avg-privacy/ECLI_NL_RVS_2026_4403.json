@@ -1,0 +1,171 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:4403",
+ "relevant": true,
+ "onderwerp": "toezicht-handhaving",
+ "sub": "boete",
+ "kenmerk": null,
+ "zaaktype": "boete-ap",
+ "partijen": {
+  "burger": "gemeente Enschede (de beboete partij)",
+  "wederpartij": "Autoriteit Persoonsgegevens",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De Autoriteit Persoonsgegevens (AP) gaf de gemeente Enschede een boete van € 600.000 voor het tellen van bezoekers met wifi-sensoren. De AP ging bij de Raad van State in hoger beroep, nadat de rechtbank de boete had vernietigd.",
+ "titel": "Boete voor wifi-telling Enschede blijft vernietigd door gebrek aan bewijs",
+ "kern": {
+  "zin": "De AP moest het bewijs voor de overtreding al in het boetebesluit leveren en deed dat niet, dus de vernietiging van de boete blijft staan.",
+  "bron": [
+   29
+  ],
+  "citaat": "het dragend bewijs van een overtreding bij de voltooiing van de bestuurlijke besluitvorming dient te leveren"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente telde bezoekers van de binnenstad met sensoren die het MAC-adres (een uniek nummer) van wifi-apparaten opvingen.",
+   "bron": [
+    22
+   ],
+   "citaat": "gebruik heeft gemaakt van in ieder geval tien sensoren in de binnenstad die het MAC-adres opvingen"
+  },
+  {
+   "zin": "De AP legde een boete van € 600.000 op, omdat de gemeente zonder grondslag persoonsgegevens zou hebben verwerkt.",
+   "bron": [
+    23
+   ],
+   "citaat": "boete opgelegd van € 600.000, omdat het college van 25 mei 2018 tot en met 30 april 2020 zonder grondslag"
+  },
+  {
+   "zin": "De rechtbank vond dat de AP niet goed had onderzocht of mensen echt herkenbaar waren.",
+   "bron": [
+    25
+   ],
+   "citaat": "heeft de AP onvoldoende onderzocht of dit het inderdaad mogelijk maken om de identiteit van een gebruiker"
+  },
+  {
+   "zin": "In hoger beroep gaf de AP toe dat dit bewijs voor haar drie geschetste manieren van herkennen ontbrak.",
+   "bron": [
+    29
+   ],
+   "citaat": "ook bevestigd dat ten aanzien van de hiertoe geschetste drie manieren niet is voldaan aan de bewijsstandaard"
+  },
+  {
+   "zin": "Het nieuwe standpunt van de AP, dat het tellen van unieke bezoekers al herkennen is, toetste de Raad van State niet, omdat de AP dat niet in haar besluit had gezet.",
+   "bron": [
+    29
+   ],
+   "citaat": "Ook de Afdeling zal om deze reden dit standpunt niet toetsen en buiten beschouwing laten"
+  },
+  {
+   "zin": "De Raad van State bevestigde de uitspraak van de rechtbank.",
+   "bron": [
+    32
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De Afdeling bevestigt de uitspraak van de rechtbank"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "De gemeente (beboete partij) wint; boete van € 600.000 blijft vernietigd.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente hoeft de boete van € 600.000 niet te betalen; de AP hoeft geen proceskosten te vergoeden en betaalt € 559,00 griffierecht.",
+  "bron": [
+   32,
+   29,
+   36
+  ],
+  "citaat": "Het hoger beroep is ongegrond. De Afdeling bevestigt de uitspraak van de rechtbank"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente zegt dat de AP niet heeft bewezen dat zij persoonsgegevens verwerkte.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De AP moet het bewijs van de overtreding leveren bij het nemen van het boetebesluit.",
+    "bron": [
+     29
+    ],
+    "citaat": "het dragend bewijs van een overtreding bij de voltooiing van de bestuurlijke besluitvorming dient te leveren"
+   },
+   "bruikbare_zin": {
+    "citaat": "het dragend bewijs van een overtreding bij de voltooiing van de bestuurlijke besluitvorming dient te leveren",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Standpunt van de AP (wederpartij): het tellen van unieke bezoekers is al het herkennen van personen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Raad van State liet dit nieuwe standpunt buiten beschouwing.",
+    "bron": [
+     29
+    ],
+    "citaat": "Ook de Afdeling zal om deze reden dit standpunt niet toetsen en buiten beschouwing laten"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een boetebesluit moet het bestuursorgaan het bewijs van de overtreding leveren bij het nemen van het besluit; later aanvullen in beroep mag niet.",
+  "type": "regel",
+  "reikwijdte": "Bestuursrechtelijke boetebesluiten",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   29
+  ],
+  "citaat": "het dragend bewijs van een overtreding bij de voltooiing van de bestuurlijke besluitvorming dient te leveren"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "onderzoek van de AP naar de feiten"
+  ],
+  "wat_gaf_doorslag": "De AP erkende dat zij niet had bewezen dat mensen identificeerbaar waren."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2015:4034",
+   "ECLI:NL:RVS:2017:1819"
+  ]
+ },
+ "wetsartikelen": [
+  "overweging 26 AVG"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Toets bij sensoren die MAC-adressen of locatie vastleggen vooraf of u een grondslag heeft; deze uitspraak zegt niet dat zulke gegevens geen persoonsgegevens zijn.",
+   "raakt": "datateam-algoritmes",
+   "bron": [
+    29
+   ],
+   "citaat": "Ook de Afdeling zal om deze reden dit standpunt niet toetsen en buiten beschouwing laten"
+  },
+  {
+   "actie": "Controleer bij een boetebesluit van de AP of het bewijs voor de overtreding al in het besluit zelf staat.",
+   "raakt": "privacy-fg",
+   "bron": [
+    29
+   ],
+   "citaat": "het dragend bewijs van een overtreding bij de voltooiing van de bestuurlijke besluitvorming dient te leveren"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "datateam-algoritmes",
+  "ict-informatiebeveiliging"
+ ],
+ "klantuitleg": "De rechter oordeelde dat de Autoriteit Persoonsgegevens (AP) niet goed genoeg had bewezen dat de gemeente met wifi-sensoren gegevens van mensen verwerkte, en vernietigde daarom de boete. Dat betekent niet dat zulke tellingen altijd zijn toegestaan, want dat heeft de rechter niet beoordeeld. Denkt u dat uw gegevens onterecht zijn gebruikt, dan kunt u de gemeente om uitleg vragen of een klacht indienen bij de AP.",
+ "gemeente": "Enschede",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

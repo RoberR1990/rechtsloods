@@ -1,0 +1,170 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:4930",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "rectificatie",
+ "kenmerk": null,
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "UWV",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De burger vroeg het UWV om een rapport van een verzekeringsarts uit 2012 aan te passen. De burger ging in hoger beroep bij de Raad van State, omdat de rechtbank Den Haag het UWV gelijk had gegeven.",
+ "titel": "UWV hoeft verslag van artsengesprek niet aan te passen",
+ "kern": {
+  "zin": "De rechter vindt dat het UWV het verslag van het gesprek met de verzekeringsarts niet hoefde te corrigeren.",
+  "bron": [
+   33
+  ],
+  "citaat": "het gespreksverslag niet voor rectificatie in aanmerking komt"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg het UWV om een rapport van een verzekeringsarts van 15 augustus 2012 aan te passen.",
+   "bron": [
+    20
+   ],
+   "citaat": "een rectificatieverzoek ingediend om een rapport van een verzekeringsarts van 15 augustus 2012 aan te passen"
+  },
+  {
+   "zin": "Het UWV zei dat het rapport niet onjuist of onvolledig is en voegde het verzoek als patiëntverklaring toe aan het medisch dossier.",
+   "bron": [
+    26
+   ],
+   "citaat": "omdat niet is gebleken van onjuistheden of onvolledigheden in het rapport"
+  },
+  {
+   "zin": "De burger vond dat een verzekeringsarts haar verzoek had moeten beoordelen en dat het rapport uit 2012 fouten bevat.",
+   "bron": [
+    28
+   ],
+   "citaat": "dat haar rectificatieverzoek beoordeeld had moeten worden door een verzekeringsarts"
+  },
+  {
+   "zin": "De rechter zegt dat een gespreksverslag van een arts geen feit is dat je kunt corrigeren; de burger heeft niet concreet gezegd wat er niet klopt.",
+   "bron": [
+    33
+   ],
+   "citaat": "heeft [appellante] niet concreet gemotiveerd betwist"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond, dus het besluit van het UWV blijft staan.",
+   "bron": [
+    36
+   ],
+   "citaat": "Het hoger beroep is ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep van de burger is ongegrond; besluit van het UWV blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "Het rapport blijft zoals het is en de burger krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   37
+  ],
+  "citaat": "Het college hoeft geen proceskosten te vergoeden."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Het rapport van de verzekeringsarts bevat onjuistheden en moet worden aangepast.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat je alleen kunt corrigeren wat duidelijk en objectief vast te stellen is.",
+    "bron": [
+     32
+    ],
+    "citaat": "Deze onjuistheden moeten eenvoudig en objectief zijn vast te stellen."
+   },
+   "bruikbare_zin": {
+    "citaat": "eenvoudig en objectief zijn vast te stellen",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Een verzekeringsarts had mijn verzoek om correctie inhoudelijk moeten beoordelen, dat staat in artikel 10 van het Reglement.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat het hier gaat om een verslag van een gesprek en niet om een medische beoordeling van een bezwaar.",
+    "bron": [
+     33
+    ],
+    "citaat": "Maar in dit geval gaat het om een gespreksverslag van een verzekeringsarts"
+   },
+   "bruikbare_zin": {
+    "citaat": "in dit geval gaat het om een gespreksverslag van een verzekeringsarts",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De besluiten van 6 februari 2023 en 8 juni 2023 zijn niet door de juiste persoon genomen.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De burger heeft deze grond op de zitting zelf ingetrokken, dus de rechter bespreekt hem niet meer.",
+    "bron": [
+     29
+    ],
+    "citaat": "heeft [appellante] op de zitting ingetrokken"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft [appellante] op de zitting ingetrokken",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Correctie van gegevens kan alleen als de fout eenvoudig en objectief vast te stellen is; een mening, indruk of conclusie in een verslag kun je niet laten aanpassen.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om correctie van persoonsgegevens, ook van medische verslagen",
+  "uitzondering": "Als de onjuistheid eenvoudig en objectief vast te stellen is, moet de correctie wel worden doorgevoerd.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   32
+  ],
+  "citaat": "het recht tot rectificatie niet bedoeld om indrukken, meningen, onderzoeksresultaten en conclusies"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "gespreksverslag van de verzekeringsarts van 15 augustus 2012",
+   "medisch rapport uit 2011"
+  ],
+  "wat_gaf_doorslag": "Dat de burger het gespreksverslag niet concreet tegensprak en zich het gesprek niet meer precies kon herinneren."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2025:5083",
+   "ECLI:NL:RVS:2020:2642"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 16 AVG",
+  "art. 10 Reglement Behandeling bezwaarschriften UWV 2022"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; UWV-zaak, niet over te zetten naar gemeentelijk beleid",
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Hebt u het idee dat een rapport van een arts niet klopt? Dan kunt u vragen om correctie. Dat lukt alleen als de fout duidelijk en meteen te zien is, bijvoorbeeld een verkeerde datum. Wat een arts heeft opgeschreven over een gesprek kunt u meestal niet laten aanpassen; u kunt wel uw eigen versie laten toevoegen aan het dossier.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente in de zaak; het UWV is de wederpartij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

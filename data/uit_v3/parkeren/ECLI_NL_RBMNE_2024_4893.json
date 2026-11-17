@@ -1,0 +1,138 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2024:4893",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "belastingsamenwerking (namens gemeenten)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging in beroep tegen een naheffingsaanslag (de rekening achteraf) voor parkeerbelasting. De rechtbank Midden-Nederland besliste de zaak.",
+ "titel": "Kort stilstaan om uit te stappen is parkeren, rekening terecht",
+ "kern": {
+  "zin": "De rechter oordeelde dat stilstaan en het verlaten van de auto niet direct bij in- of uitstappen hoorde, dus was er sprake van parkeren en was de rekening terecht.",
+  "bron": [
+   22,
+   21
+  ],
+  "citaat": "het niet gezien kan worden als een activiteit die direct verband houdt met in- of uitstappen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De auto stond op een plek met betaald parkeren zonder dat de belasting was betaald.",
+   "bron": [
+    18
+   ],
+   "citaat": "waar betaald parkeren van toepassing is, zonder dat op dat tijdstip de verschuldigde belasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder vond dat hij niet hoefde te betalen, omdat hij iemand liet in- of uitstappen.",
+   "bron": [
+    20
+   ],
+   "citaat": "er sprake was van het in- of uitstappen van personen en dat om die reden geen parkeergeld verschuldigd was"
+  },
+  {
+   "zin": "De gemeente zei dat op de foto's geen personen rond de auto te zien waren.",
+   "bron": [
+    21
+   ],
+   "citaat": "Er zijn op de foto’s geen personen in de omgeving van het voertuig te zien."
+  },
+  {
+   "zin": "De rechter vond dat het stilzetten en verlaten van de auto niet direct bij in- of uitstappen hoorde.",
+   "bron": [
+    22
+   ],
+   "citaat": "het niet gezien kan worden als een activiteit die direct verband houdt met in- of uitstappen"
+  },
+  {
+   "zin": "De beroepen zijn ongegrond en er is geen proceskostenvergoeding.",
+   "bron": [
+    23
+   ],
+   "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; belasting blijft verschuldigd, geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de parkeerbelasting alsnog betalen en krijgt het griffierecht niet terug.",
+  "bron": [
+   23,
+   21
+  ],
+  "citaat": "Ook krijgt eiser het betaalde griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Er was volgens de parkeerder sprake van in- of uitstappen, dus geen parkeergeld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat stilstaan en verlaten van de auto niet direct bij in- of uitstappen hoorde.",
+    "bron": [
+     22
+    ],
+    "citaat": "het niet gezien kan worden als een activiteit die direct verband houdt met in- of uitstappen"
+   },
+   "bruikbare_zin": {
+    "citaat": "De wet beperkt zich in dit verband expliciet tot het onmiddellijk in- en uitstappen van personen",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto's van de scanauto in het brondocument"
+  ],
+  "wat_gaf_doorslag": "De foto's lieten geen personen rond de auto zien, zodat geen direct in- of uitstappen bleek."
+ },
+ "rechtsregel": {
+  "zin": "Alleen het onmiddellijk in- en uitstappen van personen valt buiten de belasting; of de bestuurder in de auto zit, doet er niet toe.",
+  "type": "regel",
+  "reikwijdte": "betaald parkeren; in- of uitstappen van personen",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   21
+  ],
+  "citaat": "De wet beperkt zich in dit verband expliciet tot het onmiddellijk in- en uitstappen van personen"
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Voeg bij elke naheffing de foto's van de scanauto aan het dossier toe; die maakten het parkeren aannemelijk.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    21
+   ],
+   "citaat": "Er zijn op de foto’s geen personen in de omgeving van het voertuig te zien."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "scanauto-handhaving",
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Kort stilstaan en uit de auto gaan telt volgens de rechter als parkeren, ook als het maar even duurt. Alleen het direct in- of uitstappen van personen valt buiten de parkeerbelasting. Heeft u zo'n rekening gekregen, kijk dan of er echt iemand direct in- of uitstapte, want daar draait het om.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "belastingsamenwerking, geen gemeente genoemd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

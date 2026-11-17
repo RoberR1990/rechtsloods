@@ -1,0 +1,173 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:4774",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "kentekenhouder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een kentekenhouder kreeg vier naheffingsaanslagen (de rekening achteraf) voor parkeerbelasting van de gemeente Rotterdam. Hij ging daartegen in beroep bij de rechtbank Rotterdam.",
+ "titel": "Beroep tegen parkeerrekening afgewezen: er was niet betaald",
+ "kern": {
+  "zin": "De rechtbank vond dat de gemeente de aanslagen terecht oplegde, omdat er op een betaald parkeerregime niet was betaald.",
+  "bron": [
+   86
+  ],
+  "citaat": "heeft verweerder terecht aan eiser de naheffingsaanslagen parkeerbelastingen opgelegd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeercontroleur zag dat de auto van de kentekenhouder op een betaald parkeerplek stond zonder betaling.",
+   "bron": [
+    30
+   ],
+   "citaat": "stond geparkeerd op locatie Jan Pettersonstraat te Rotterdam zonder dat er aan de betaalplicht was voldaan"
+  },
+  {
+   "zin": "De gemeente legde vier naheffingsaanslagen op.",
+   "bron": [
+    11
+   ],
+   "citaat": "Verweerder heeft de volgende naheffingsaanslagen parkeerbelasting aan eiser opgelegd"
+  },
+  {
+   "zin": "De kentekenhouder vroeg om meer tijd om de gronden van zijn bezwaar aan te vullen en om een hoorzitting.",
+   "bron": [
+    32
+   ],
+   "citaat": "een nadere redelijke termijn te gunnen om de gronden van het bezwaar kenbaar te maken"
+  },
+  {
+   "zin": "Volgens de rechter had de gemeente meermaals per post een hoorzitting aangeboden.",
+   "bron": [
+    70
+   ],
+   "citaat": "Verweerder heeft eiser namelijk meerdere keren per brief uitgenodigd voor een hoorzitting"
+  },
+  {
+   "zin": "De rechtbank vond dat de hoorplicht niet was geschonden en dat er geen reden was om de zaak terug te sturen.",
+   "bron": [
+    80
+   ],
+   "citaat": "De rechtbank is van oordeel dat de hoorplicht niet is geschonden."
+  },
+  {
+   "zin": "De rechtbank verklaarde de beroepen ongegrond, dus de aanslagen blijven staan.",
+   "bron": [
+    86
+   ],
+   "citaat": "heeft verweerder terecht aan eiser de naheffingsaanslagen parkeerbelastingen opgelegd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroepen ongegrond; aanslagen blijven staan; geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De kentekenhouder moet de aanslagen betalen; hij krijgt geen proceskosten en geen schadevergoeding.",
+  "bron": [
+   88,
+   92
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "Ik ben niet gehoord, ook al heb ik daarom gevraagd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de hoorplicht niet was geschonden, want de kentekenhouder kreeg meerdere uitnodigingen.",
+    "bron": [
+     80,
+     70
+    ],
+    "citaat": "De rechtbank is van oordeel dat de hoorplicht niet is geschonden."
+   },
+   "bruikbare_zin": {
+    "citaat": "eiser voldoende in de gelegenheid is gesteld om te worden gehoord",
+    "bron": [
+     70
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik kreeg geen kans om de gronden van mijn bezwaar aan te vullen (verzuimherstel).",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat de kentekenhouder de hoorzittingen had kunnen gebruiken om zijn gronden kenbaar te maken.",
+    "bron": [
+     65
+    ],
+    "citaat": "Eiser had de door verweerder geplande hoorzittingen kunnen gebruiken om de gronden van het bezwaar kenbaar te maken."
+   },
+   "bruikbare_zin": {
+    "citaat": "komt naar het oordeel van de rechtbank voor rekening en risico van eiser",
+    "bron": [
+     65
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bestuursorgaan mag inhoudelijk op een bezwaar beslissen, ook als de indiener geen gronden heeft aangevoerd.",
+  "type": "regel",
+  "reikwijdte": "bezwaar zonder aangevoerde gronden; artikel 6:6 Awb geeft een bevoegdheid, geen plicht",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   60
+  ],
+  "citaat": "Het artikel geeft verweerder namelijk een discretionaire bevoegdheid."
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "waarneming van de parkeercontroleur",
+   "uitnodigingen per aangetekende post"
+  ],
+  "wat_gaf_doorslag": "Niet in geschil dat er niet was betaald op het betaalde parkeerregime."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:HR:2022:1033",
+   "ECLI:NL:GHARL:2018:8533"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 6:6 Awb",
+  "art. 7:2 Awb",
+  "art. 8:42 Awb",
+  "art. 8:58 Awb",
+  "art. 6 EVRM"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Stuur uitnodigingen voor een hoorzitting aangetekend en probeer de burger ook per mail of telefoon te bereiken.",
+   "raakt": "bezwaar",
+   "bron": [
+    71
+   ],
+   "citaat": "heeft verweerder zich enkel extra ingespannen om een hoorzitting te plannen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een parkeerrekening (naheffing) is terecht als er betaald had moeten worden en dat niet is gebeurd. In deze zaak was dat het geval, dus de rekening bleef staan. Heeft u een uitnodiging voor een hoorzitting gekregen, reageer er dan op; anders kan de gemeente zonder u beslissen.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

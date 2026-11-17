@@ -1,0 +1,132 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2023:8475",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder kreeg een WAHV-boete (een boete voor foutparkeren, zonder strafproces). Hij ging in beroep bij de kantonrechter van de rechtbank Noord-Holland.",
+ "titel": "Boete voor fout parkeren blijft staan, beroep ongegrond",
+ "kern": {
+  "zin": "De kantonrechter ging uit van de verklaring van de verbalisant (de handhaver die de controle deed), dus de boete bleef staan.",
+  "bron": [
+   18
+  ],
+  "citaat": "voorafgaand aan een controle de bebording heeft gecontroleerd."
+ },
+ "samenvatting": [
+  {
+   "zin": "Een voertuig stond geparkeerd waar parkeren niet mag (bord E1, parkeerverbod).",
+   "bron": [
+    14
+   ],
+   "citaat": "een voertuig parkeren waar dat niet mag (bord E1, parkeerverbod(szone))."
+  },
+  {
+   "zin": "De parkeerder zei dat de bebording was afgedekt en daardoor niet te zien was.",
+   "bron": [
+    15
+   ],
+   "citaat": "de bebording in de straat was afgedekt en dus niet zichtbaar was"
+  },
+  {
+   "zin": "Het dossier bevatte een verklaring van de handhaver en foto's van de gedraging.",
+   "bron": [
+    16
+   ],
+   "citaat": "de verklaring van de verbalisant en de in het dossier aanwezige foto’s van de gedraging"
+  },
+  {
+   "zin": "De kantonrechter vond de betwisting van de parkeerder onvoldoende om aan de verklaring te twijfelen.",
+   "bron": [
+    18
+   ],
+   "citaat": "is tegenover de verklaring van de verbalisant onvoldoende reden om te twijfelen aan de aanwezigheid of zichtbaarheid van het bord."
+  },
+  {
+   "zin": "De kantonrechter verklaarde het beroep ongegrond en zag geen reden om de boete te verlagen.",
+   "bron": [
+    19,
+    20
+   ],
+   "citaat": "ook geen reden om de boete te matigen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; boete niet verlaagd.",
+ "gevolg_betrokkene": {
+  "zin": "De boete blijft staan, en de parkeerder moet die betalen.",
+  "bron": [
+   20
+  ],
+  "citaat": "Het beroep wordt daarom ongegrond verklaard."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "De bebording was afgedekt en dus niet zichtbaar, daarom is de boete niet terecht.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de verklaring van de verbalisant sterker dan de enkele betwisting.",
+    "bron": [
+     18
+    ],
+    "citaat": "is tegenover de verklaring van de verbalisant onvoldoende reden om te twijfelen aan de aanwezigheid of zichtbaarheid van het bord."
+   },
+   "bruikbare_zin": {
+    "citaat": "voorafgaand aan een controle de bebording heeft gecontroleerd.",
+    "bron": [
+     18
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de handhaver ter plaatse was, mag de rechter ervan uitgaan dat hij de bebording vooraf heeft gecontroleerd.",
+  "type": "regel",
+  "reikwijdte": "handhaver die zelf ter plaatse was bij de controle",
+  "uitzondering": "een enkele betwisting door de parkeerder is niet genoeg",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   18
+  ],
+  "citaat": "het uitgangspunt is dat de verbalisant die ter plaatste aanwezig is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van de handhaver",
+   "foto's van de gedraging"
+  ],
+  "wat_gaf_doorslag": "De verklaring van de handhaver woog zwaarder dan de enkele betwisting dat het bord was afgedekt."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:GHARL:2020:1803"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 9 WAHV"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "klantcontact"
+ ],
+ "klantuitleg": "In deze zaak bleef de boete staan, omdat de handhaver ter plaatse was en de bebording had gecontroleerd. Alleen zeggen dat het bord was afgedekt, was niet genoeg voor de rechter. Heeft u foto's of getuigen die laten zien dat het bord niet zichtbaar was, neem die dan mee in uw beroep.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "niet vermeld in uitspraak of metadata",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

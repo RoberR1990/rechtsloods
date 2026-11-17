@@ -1,0 +1,158 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2022:12099",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeerde tegen de officier van justitie over een boete voor fout parkeren op een plek met borden. De zaak lag bij de kantonrechter van de rechtbank Noord-Holland.",
+ "titel": "Boete blijft, maar omschrijving fout wordt gecorrigeerd",
+ "kern": {
+  "zin": "De rechter paste de omschrijving van de fout aan, maar het boetebedrag bleef gelijk.",
+  "bron": [
+   25
+  ],
+  "citaat": "Het bedrag van de aan betrokkene opgelegde boete wordt niet gewijzigd."
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeerder kreeg een boete voor parkeren buiten een parkeervak bij een bord.",
+   "bron": [
+    17
+   ],
+   "citaat": "parkeren buiten parkeervak bij één van de borden E4 tot en met E10"
+  },
+  {
+   "zin": "De gemachtigde van de parkeerder stelde dat zij in de auto zat, zodat zij staande gehouden had moeten worden.",
+   "bron": [
+    19
+   ],
+   "citaat": "betrokkene op het moment van het opleggen van de boete in het betreffende voertuig zat"
+  },
+  {
+   "zin": "De gemachtigde wees er ook op dat de handhaver de verkeerde code gebruikte.",
+   "bron": [
+    20
+   ],
+   "citaat": "de verbalisant een onjuiste feitcode heeft gebruikt"
+  },
+  {
+   "zin": "De officier van justitie stelde voor de code te wijzigen, en de rechter ging daarmee akkoord.",
+   "bron": [
+    23
+   ],
+   "citaat": "heeft de vertegenwoordiger van de officier van justitie voorgesteld de feitcode te wijzigen"
+  },
+  {
+   "zin": "De rechter vond dat de boete bij de kentekenhouder terecht lag, omdat er geen reële kans was om de bestuurder staande te houden.",
+   "bron": [
+    24
+   ],
+   "citaat": "geen reële mogelijkheid tot staandehouding heeft voorgedaan"
+  },
+  {
+   "zin": "De rechter kende de proceskosten toe, omdat de parkeerder deels gelijk kreeg.",
+   "bron": [
+    26
+   ],
+   "citaat": "Het verzoek om een proceskostenvergoeding wordt toegewezen"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Fout en feitcode aangepast; boete blijft; proceskosten toegekend.",
+ "gevolg_betrokkene": {
+  "zin": "De boete blijft even hoog, maar de kosten van de procedure van € 785,25 worden vergoed.",
+  "bron": [
+   33
+  ],
+  "citaat": "veroordeelt de officier van justitie tot het vergoeden van de proceskosten"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Zij zat in de auto en had dus staande gehouden moeten worden, niet de kentekenhouder.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag geen reële kans om de bestuurder staande te houden, dus de kentekenhouder kreeg de boete.",
+    "bron": [
+     24
+    ],
+    "citaat": "geen reële mogelijkheid tot staandehouding heeft voorgedaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "10 minuten lang geen activiteit met betrekking tot het voertuig heeft waargenomen",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De verbalisant gebruikte een verkeerde feitcode, want het ging om bord E01 en niet om bord E4 tot en met E10.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter wijzigde de feitcode, omdat niet bleek dat de parkeerder daardoor in zijn belang werd geschaad.",
+    "bron": [
+     23
+    ],
+    "citaat": "Niet gebleken is dat betrokkene door deze wijziging in enig belang wordt geschaad"
+   },
+   "bruikbare_zin": {
+    "citaat": "Niet gebleken is dat betrokkene door deze wijziging in enig belang wordt geschaad",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een boete gaat naar de kentekenhouder, tenzij de bestuurder direct vast te stellen of staande te houden is.",
+  "type": "regel",
+  "reikwijdte": "boete voor fout parkeren (WAHV)",
+  "uitzondering": "de bestuurder was direct vast te stellen of staande te houden",
+  "herkomst": "wet",
+  "bron": [
+   24
+  ],
+  "citaat": "Uit artikel 5 WAHV volgt dat de boete kan worden opgelegd aan degene"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "toelichting van de verbalisant in het zaakoverzicht"
+  ],
+  "wat_gaf_doorslag": "Tien minuten geen activiteit bij het voertuig, volgens de verbalisant."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "wijkt af",
+  "eerdere": [
+   "ECLI:NL:GHARL:2022:280"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 5 WAHV",
+  "art. 9 WAHV",
+  "art. 14 WAHV",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "klantcontact"
+ ],
+ "klantuitleg": "U kreeg een boete voor parkeren op een verboden plek, maar de code op de boete was fout en is aangepast. De boete zelf blijft staan, omdat er geen kans was om de bestuurder staande te houden. Wilt u bezwaar maken, dan helpt een bewijs dat u zelf in de auto zat; zonder dat heeft bezwaar weinig kans.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "niet vermeld in tekst of metadata",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

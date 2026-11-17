@@ -1,0 +1,180 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2023:4630",
+ "relevant": true,
+ "onderwerp": "rechtmatige-verwerking",
+ "sub": "grondslag",
+ "kenmerk": "wettelijke-verplichting",
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "ouder, namens zijn minderjarige dochter",
+  "wederpartij": "Sociale Verzekeringsbank (SVB)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een ouder wil dat de Sociale Verzekeringsbank (SVB) een bericht over zijn dochter wist en vraagt schadevergoeding. Het bericht ging naar de Belastingdienst/Toeslagen; de zaak ligt in hoger beroep bij de Raad van State.",
+ "titel": "SVB mocht gegevens van een kind delen met Toeslagen",
+ "kern": {
+  "zin": "De rechter vond dat het delen van deze gegevens in dit geval in beginsel in verhouding stond tot het doel.",
+  "bron": [
+   50
+  ],
+  "citaat": "De Afdeling is van oordeel dat in dit geval de inbreuk op de privacy in beginsel evenredig is"
+ },
+ "samenvatting": [
+  {
+   "zin": "De SVB stuurde in 2016 de gegevens van een pasgeboren kind naar de Belastingdienst/Toeslagen, in een zogenoemd startbericht.",
+   "bron": [
+    24
+   ],
+   "citaat": "Op 19 januari 2016 heeft de SVB haar persoonsgegevens aan de Belastingdienst/Toeslagen verstrekt"
+  },
+  {
+   "zin": "De ouder zei dat het startbericht al vernietigd had moeten zijn vanwege de bewaartermijn van vijf jaar en vroeg ook schadevergoeding.",
+   "bron": [
+    58
+   ],
+   "citaat": "al vernietigd hadden moeten zijn in verband met de bewaartermijn van vijf jaar"
+  },
+  {
+   "zin": "De SVB zei dat de wetgever bewust koos voor een systeem waarin de gegevens van alle kinderen met recht op kinderbijslag worden gedeeld.",
+   "bron": [
+    30
+   ],
+   "citaat": "De wetgever heeft bewust gekozen voor een systeem waarbij de SVB persoonsgegevens van alle kinderen"
+  },
+  {
+   "zin": "De rechter vond dat het doel van de regeling niet op een mildere manier te bereiken was en dat de inbreuk op de privacy in beginsel evenredig was.",
+   "bron": [
+    45
+   ],
+   "citaat": "niet op een andere, voor betrokkenen minder nadelige, manier kunnen worden bereikt"
+  },
+  {
+   "zin": "Het startbericht was na vijf jaar vernietigd en dat was niet te laat.",
+   "bron": [
+    60
+   ],
+   "citaat": "De SVB heeft het startbericht dus niet te lang bewaard."
+  },
+  {
+   "zin": "Omdat het delen niet in strijd was met de privacywet (AVG), wees de rechter ook de schadevergoeding af.",
+   "bron": [
+    64
+   ],
+   "citaat": "niet in strijd met de AVG. Alleen al daarom moet het verzoek om schadevergoeding"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep van de SVB slaagt; geen wissing, geen schadevergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De uitspraak van de rechtbank gaat van tafel: het delen van de gegevens blijft toegestaan, er komt geen schadevergoeding en de SVB hoeft geen proceskosten te betalen.",
+  "bron": [
+   74
+  ],
+  "citaat": "De uitspraak van de rechtbank moet worden vernietigd."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "te-veel-gegevens",
+   "burger_zegt": "De gegevens van alle kinderen met recht op kinderbijslag worden gedeeld, ook als er geen recht is op kindgebonden budget. Dat is niet in verhouding.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De inbreuk is in beginsel in verhouding, omdat het startbericht alleen de gegevens bevat die nodig zijn om het recht vast te stellen.",
+    "bron": [
+     50
+    ],
+    "citaat": "in het startbericht alleen de gegevens staan die nodig zijn om een recht op kindgebonden budget vast te kunnen stellen"
+   },
+   "bruikbare_zin": {
+    "citaat": "in het startbericht alleen de gegevens staan die nodig zijn om een recht op kindgebonden budget vast te kunnen stellen",
+    "bron": [
+     50
+    ]
+   }
+  },
+  {
+   "arg": "wissen-geen-grondslag",
+   "burger_zegt": "Het startbericht had al gewist moeten zijn, omdat de bewaartermijn van vijf jaar voorbij was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De SVB moest het bericht vijf jaar bewaren en wiste het op tijd.",
+    "bron": [
+     60
+    ],
+    "citaat": "De SVB heeft het startbericht dus niet te lang bewaard."
+   }
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Ik wil schadevergoeding voor de schending van de privacywet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er was geen inbreuk op de AVG, dus geen recht op schadevergoeding.",
+    "bron": [
+     64
+    ],
+    "citaat": "niet in strijd met de AVG. Alleen al daarom moet het verzoek om schadevergoeding"
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De procedure duurde te lang; ik wil schadevergoeding voor overschrijding van de redelijke termijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De redelijke termijn was nog niet verstreken, omdat de periode van uitstel niet meetelt.",
+    "bron": [
+     69
+    ],
+    "citaat": "Daarom is in deze procedure de redelijke termijn niet overschreden."
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een wettelijke gegevensuitwisseling tussen overheidsinstanties moet in verhouding staan tot het doel en het doel mag niet op een mildere manier te bereiken zijn.",
+  "type": "regel",
+  "reikwijdte": "Gegevens die een overheidsorgaan op grond van een wettelijke plicht deelt met een ander overheidsorgaan (art. 6 lid 1 onder c en lid 3 AVG).",
+  "uitzondering": "Bijzondere individuele omstandigheden kunnen in een enkel geval zwaarder wegen dan het doel.",
+  "herkomst": "wet",
+  "bron": [
+   44,
+   51
+  ],
+  "citaat": "moet het doel van de verwerking van de persoonsgegevens niet op een andere, voor betrokkenen minder nadelige, manier kunnen worden bereikt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Het doel van de wet (zonder aanvraag kindgebonden budget toekennen) kon niet met minder gegevensuitwisseling worden bereikt."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:RVS:2023:2076",
+   "ECLI:NL:RVS:2023:155",
+   "ECLI:NL:RVS:2023:2689"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 6 lid 1 onder c AVG",
+  "art. 6 lid 3 AVG",
+  "art. 17 AVG",
+  "art. 82 AVG",
+  "art. 38 Awir",
+  "art. 5 lid 2 Wet op het kindgebonden budget",
+  "Archiefwet 1995"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "datateam-algoritmes"
+ ],
+ "klantuitleg": "Een overheidsdienst mag uw gegevens delen met een andere dienst als een wet dat verplicht en het doel niet anders te bereiken is. Wissen kan dan geweigerd worden, zeker als de gegevens nog nodig zijn voor een uitkering. Vindt u dat het delen u in uw eigen situatie extra zwaar raakt, leg dat dan concreet uit in uw verzoek.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente betrokken; de SVB is partij",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

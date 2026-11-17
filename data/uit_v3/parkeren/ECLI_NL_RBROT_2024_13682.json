@@ -1,0 +1,138 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2024:13682",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "privaat-boete-voorwaarden",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {
+  "burger": "parkeerder (eenmanszaak, procedeert zelf)",
+  "wederpartij": "exploitant (Q-Park)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "Een parkeergarage-exploitant vorderde geld van een parkeerder die zonder te betalen de garage uit reed. De kantonrechter van de rechtbank Rotterdam oordeelt dat de parkeerder moet betalen.",
+ "titel": "Treintje rijden in parkeergarage: parkeerder moet 467,99 euro betalen",
+ "kern": {
+  "zin": "De kantonrechter vond dat de parkeerder zonder te betalen wegreed en de voorwaarden schond.",
+  "bron": [
+   24
+  ],
+  "citaat": "rijdt snel achter het voertuig voor hem aan"
+ },
+ "samenvatting": [
+  {
+   "zin": "Q-Park zegt dat de parkeerder op 20 augustus 2023 zonder te betalen de garage heeft verlaten.",
+   "bron": [
+    23
+   ],
+   "citaat": "zonder te betalen heeft verlaten"
+  },
+  {
+   "zin": "De parkeerder legde een betaalbewijs van die dag over, maar zonder tijdstip.",
+   "bron": [
+    24
+   ],
+   "citaat": "heeft bij antwoord weliswaar een betaalbewijs van de betreffende parkeergarage van die dag overgelegd"
+  },
+  {
+   "zin": "Q-Park bracht camerabeelden in het geding waarop de parkeerder zijn eigen kaartje niet probeerde te gebruiken.",
+   "bron": [
+    24
+   ],
+   "citaat": "niet eens een poging doet met zijn eigen kaartje de garage te verlaten"
+  },
+  {
+   "zin": "Volgens de kantonrechter zijn de voorwaarden niet oneerlijk, omdat Q-Park de schade goed uitlegt.",
+   "bron": [
+    25
+   ],
+   "citaat": "Q-Park legt voldoende uit welke schade zij lijdt door treintje rijden"
+  },
+  {
+   "zin": "De parkeerder moet 467,99 euro betalen, met rente.",
+   "bron": [
+    31
+   ],
+   "citaat": "veroordeelt [gedaagde] om € 467,99 aan Q-Park te betalen"
+  },
+  {
+   "zin": "Daar komt een vergoeding van de proceskosten (de kosten van de rechtszaak) van 448,54 euro bij.",
+   "bron": [
+    32
+   ],
+   "citaat": "veroordeelt [gedaagde] in de proceskosten, die aan de kant van Q-Park worden begroot op € 448,54"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Exploitant krijgt geld en proceskosten; parkeerder verliest",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet 467,99 euro betalen, met rente, en ook de proceskosten van 448,54 euro.",
+  "bron": [
+   31,
+   32
+  ],
+  "citaat": "veroordeelt [gedaagde] om € 467,99 aan Q-Park te betalen"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder zegt dat er wel is betaald, maar dat het tijdstip op het betaalbewijs ontbreekt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het betaalbewijs zonder tijdstip overtuigt de kantonrechter niet.",
+    "bron": [
+     24
+    ],
+    "citaat": "Dat betekent dat de betaling ook kan zien op een ander moment die dag"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat betekent dat de betaling ook kan zien op een ander moment die dag",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als een garage de schade goed uitlegt en het bedrag redelijk is, mag zij dat bedrag vorderen.",
+  "type": "regel",
+  "reikwijdte": "Treintje rijden bij de algemene voorwaarden van Q-Park",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "Q-Park legt voldoende uit welke schade zij lijdt door treintje rijden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "camerabeelden van de garage",
+   "betaalbewijs van de parkeergarage",
+   "algemene voorwaarden"
+  ],
+  "wat_gaf_doorslag": "De camerabeelden: de parkeerder reed achter een ander aan zonder zijn kaartje te gebruiken."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 233 Rv (uitvoerbaar bij voorraad)",
+  "art. 6:119 BW (wettelijke rente)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "klantcontact"
+ ],
+ "klantuitleg": "Rijdt u achter iemand aan de slagboom door zonder te betalen, dan kan de garage kosten bij u leggen. Die kosten zijn volgens de rechter terecht als de garage de schade goed uitlegt en het bedrag redelijk is. Heeft u wel betaald, bewaar dan het betaalbewijs met tijdstip, want zonder tijdstip kan de garage zeggen dat u niet op tijd betaalde.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente-partij in deze zaak",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

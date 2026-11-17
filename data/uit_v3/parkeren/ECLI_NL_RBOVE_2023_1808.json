@@ -1,0 +1,158 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2023:1808",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "bewijs-scanauto",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "kentekenhouder",
+  "wederpartij": "gemeente Deventer",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "De kentekenhouder kreeg een naheffingsaanslag (de rekening achteraf) van 67,75 euro voor parkeren in Deventer. Die ging daartegen in beroep bij de rechtbank Overijssel, tegen de gemeente Deventer, via de regionale belastingsamenwerking.",
+ "titel": "Naheffing blijft staan: verklaring controleur was genoeg",
+ "kern": {
+  "zin": "De rechter vond de naheffing terecht, omdat de verklaring van de controleur en de aanmelding in de zone samen aannemelijk maakten dat er niet betaald was.",
+  "bron": [
+   24
+  ],
+  "citaat": "Met deze gegevens acht de rechtbank voldoende aannemelijk dat het belastbare feit zich heeft voorgedaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een auto van de kentekenhouder stond op 7 januari 2022 in Deventer geparkeerd.",
+   "bron": [
+    17
+   ],
+   "citaat": "stond de auto met kenteken [kenteken] geparkeerd aan de 1e Pauwenlandstraat te Deventer"
+  },
+  {
+   "zin": "Een parkeercontroleur zag dat er geen geldig parkeerrecht was, en de kentekenhouder kreeg een naheffingsaanslag van 67,75 euro.",
+   "bron": [
+    18,
+    19
+   ],
+   "citaat": "voor de auto geen geldig parkeerrecht bestond"
+  },
+  {
+   "zin": "De kentekenhouder zei dat de gemeente het parkeren niet genoeg had onderbouwd, en dat er geen foto's waren.",
+   "bron": [
+    23
+   ],
+   "citaat": "dat verweerder het belastbare feit niet voldoende heeft onderbouwd"
+  },
+  {
+   "zin": "De rechter sloot zich aan bij de gemeente: het parkeren was aannemelijk gemaakt.",
+   "bron": [
+    24
+   ],
+   "citaat": "De rechtbank volgt verweerder in zijn standpunt dat voldoende aannemelijk is gemaakt"
+  },
+  {
+   "zin": "Het ontbreken van foto's maakte volgens de rechter niet uit.",
+   "bron": [
+    24
+   ],
+   "citaat": "maakt het oordeel van de rechtbank niet anders"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan; geen griffierecht of proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan; de kentekenhouder krijgt het griffierecht niet terug en geen proceskosten.",
+  "bron": [
+   27
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De gemeente heeft het parkeren niet bewezen: er is geen ondertekende verklaring en geen foto.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de verklaring van de controleur geloofwaardig, ook zonder ondertekening of foto's.",
+    "bron": [
+     24
+    ],
+    "citaat": "doet volgens de rechtbank niets aan af aan de geloofwaardigheid en juistheid van de verklaring"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat deze verklaring niet is ondertekend of op ambtseed is opgemaakt",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "Ik had ook bezwaar tegen de vermindering van de aanslag.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "Het punt over de vermindering is ter zitting afgevallen, en de rechter gaat er verder niet op in.",
+    "bron": [
+     25
+    ],
+    "citaat": "Ter zitting heeft eiser zijn beroepsgrond ten aanzien van de vermindering van de aanslag laten vallen."
+   },
+   "bruikbare_zin": {
+    "citaat": "Ter zitting heeft eiser zijn beroepsgrond ten aanzien van de vermindering van de aanslag laten vallen.",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "In deze zaak was de verklaring van de controleur, samen met de aanmelding in de zone, voldoende om het parkeren aan te nemen.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "alleen deze zaak: controleurverklaring zonder ondertekening plus een aanmelding in dezelfde zone",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "Met deze gegevens acht de rechtbank voldoende aannemelijk dat het belastbare feit zich heeft voorgedaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring parkeercontroleur (niet ondertekend)",
+   "aanmelding van de auto in de parkeerzone die dag"
+  ],
+  "wat_gaf_doorslag": "De aanmelding van de auto in dezelfde zone op die dag, samen met de verklaring van de controleur."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Verordening parkeerbelastingen 2022 Deventer",
+  "Aanwijzingsbesluit gebieden voor belanghebbenden parkeren 2022 Deventer"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij de uitspraak op bezwaar de aanmeldgegevens van de parkeerzone over.",
+   "raakt": "bezwaar",
+   "bron": [
+    24
+   ],
+   "citaat": "door verweerder bij de uitspraak op bezwaar overgelegde gegevens"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een naheffing is terecht als er geen geldig parkeerrecht was. Een verklaring van de controleur kan genoeg zijn, ook zonder foto's, als de aanmelding in de zone erbij past. Heeft u wel betaald of een geldig recht, laat dat dan met bewijs zien; zonder bewijs heeft bezwaar weinig kans.",
+ "gemeente": "Deventer",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

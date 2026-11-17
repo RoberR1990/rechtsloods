@@ -1,0 +1,152 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2024:4028",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "de parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Het gaat om een naheffing (de rekening achteraf) voor het niet betalen van parkeerbelasting. De parkeerder procedeerde tegen de gemeente Breda bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Parkeerrekening vernietigd: kosten waren te hoog vastgesteld",
+ "kern": {
+  "zin": "De rechter vernietigde de naheffing, omdat de verordening de kosten te hoog vaststelde.",
+  "bron": [
+   25
+  ],
+  "citaat": "dat daarmee de Verordening in strijd is met de wettelijke bepalingen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Breda legde de parkeerder een naheffing op.",
+   "bron": [
+    15
+   ],
+   "citaat": "vanwege het niet betalen van (voldoende) parkeerbelasting"
+  },
+  {
+   "zin": "De parkeerder ging in beroep tegen de uitspraak op bezwaar.",
+   "bron": [
+    10
+   ],
+   "citaat": "het beroep van belanghebbende tegen de uitspraak op bezwaar"
+  },
+  {
+   "zin": "De gemeente verlaagde de kosten na intern overleg naar 57,50 euro.",
+   "bron": [
+    17
+   ],
+   "citaat": "De heffingsambtenaar heeft de kosten, na een intern overleg, verlaagd naar € 57,50 per naheffingsaanslag"
+  },
+  {
+   "zin": "De gemeente gaf op de zitting toe dat de geraamde opbrengst te hoog was.",
+   "bron": [
+    25
+   ],
+   "citaat": "heeft ter zitting erkend dat na onderzoek is gebleken"
+  },
+  {
+   "zin": "De rechter vernietigde de naheffing.",
+   "bron": [
+    25
+   ],
+   "citaat": "Zij vernietigt de naheffingsaanslag parkeerbelasting"
+  },
+  {
+   "zin": "De gemeente moet het griffierecht en 875 euro proceskosten vergoeden.",
+   "bron": [
+    31
+   ],
+   "citaat": "Omdat het beroep gegrond is moet de heffingsambtenaar het griffierecht aan belanghebbende vergoeden"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd; kosten waren te hoog vastgesteld.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing vervalt, en de gemeente vergoedt 875 euro proceskosten en het griffierecht van 50 euro.",
+  "bron": [
+   31
+  ],
+  "citaat": "De vergoeding bedraagt dan in totaal € 875"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De geraamde opbrengst van 100,7 procent klopt niet, dus de kosten zijn te hoog.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De verordening is in strijd met de wet, omdat de kosten te hoog zijn vastgesteld.",
+    "bron": [
+     25
+    ],
+    "citaat": "naar een te hoog bedrag zijn vastgesteld en dat daarmee de Verordening in strijd is"
+   },
+   "bruikbare_zin": {
+    "citaat": "een geraamde opbrengst van 100,7% in strijd is met de wettelijke bepalingen",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Kosten die te hoog zijn vastgesteld maken de verordening in strijd met de wet.",
+  "type": "regel",
+  "reikwijdte": "naheffingskosten boven de werkelijke kosten, bij een geraamde opbrengst boven 100%",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "naar een te hoog bedrag zijn vastgesteld en dat daarmee de Verordening in strijd is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Verordening parkeerbelastingen Breda 2022",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Stel de kosten per naheffing pas vast nadat is nagegaan dat de geraamde opbrengst niet boven de werkelijke kosten uitkomt.",
+   "raakt": "verordening-beleid",
+   "bron": [
+    25
+   ],
+   "citaat": "een geraamde opbrengst van 100,7% in strijd is met de wettelijke bepalingen"
+  },
+  {
+   "actie": "Lever de stukken die voor de zaak van belang zijn tijdig aan de rechtbank aan.",
+   "raakt": "bezwaar",
+   "bron": [
+    23
+   ],
+   "citaat": "De heffingsambtenaar is gehouden om de stukken die van belang zijn voor deze zaak te overleggen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "verordening-beleid",
+  "bezwaar"
+ ],
+ "klantuitleg": "De rechter heeft de rekening voor het parkeren vernietigd, omdat de kosten te hoog waren vastgesteld. De gemeente moet ook griffierecht en proceskosten vergoeden. Heeft u een rekening met hoge kosten, dan kan het helpen de kostenberekening op te vragen.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

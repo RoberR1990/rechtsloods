@@ -1,0 +1,145 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2024:1207",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "kentekenhouder (met gemachtigde)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een kentekenhouder kreeg een boete van € 95 voor parkeren in een parkeerverbodszone in Eindhoven. De burger ging in hoger beroep tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Boete vernietigd: bord van parkeerverbodszone niet aangetoond",
+ "kern": {
+  "zin": "De rechter vernietigde de boete, omdat niet bleek dat op de gereden weg een zonebord stond.",
+  "bron": [
+   29,
+   35
+  ],
+  "citaat": "geen waarneming van de ambtenaar van de aanwezigheid van die bebording ten tijde van de gedraging"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger kreeg een boete van € 95 voor parkeren in een parkeerverbodszone in Eindhoven.",
+   "bron": [
+    19
+   ],
+   "citaat": "bij inleidende beschikking een sanctie opgelegd van € 95,- voor"
+  },
+  {
+   "zin": "De burger zei dat er geen bord E1 (het zonebord) stond.",
+   "bron": [
+    20
+   ],
+   "citaat": "De gemachtigde voert onder meer aan dat er geen bord E1 stond."
+  },
+  {
+   "zin": "De ambtenaar verklaarde dat op elke toegangsweg de juiste borden stonden.",
+   "bron": [
+    26
+   ],
+   "citaat": "op elke toegangsweg in dit gebied staat de juiste bebording en is hierdoor sluitend om te handhaven"
+  },
+  {
+   "zin": "De rechter zei dat de ambtenaar het bord op de moment van de overtreding niet zelf had gezien.",
+   "bron": [
+    29
+   ],
+   "citaat": "geen waarneming van de ambtenaar van de aanwezigheid van die bebording ten tijde van de gedraging"
+  },
+  {
+   "zin": "Omdat bewijs over het bord op de gereden weg ontbrak, kon niet worden vastgesteld dat de overtreding was begaan.",
+   "bron": [
+    35
+   ],
+   "citaat": "kan niet worden vastgesteld dat de gedraging is verricht"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete vernietigd en proceskosten vergoed",
+ "gevolg_betrokkene": {
+  "zin": "De burger hoeft de boete niet te betalen, krijgt betaalde zekerheid terug en krijgt € 1.343 aan proceskosten vergoed.",
+  "bron": [
+   43,
+   42
+  ],
+  "citaat": "veroordeelt de advocaat-generaal tot het vergoeden van de proceskosten van de betrokkene tot een bedrag van € 1.343,-"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Op de route die de parkeerder reed stond geen zonebord E1.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Informatie over het zonebord op de gereden weg ontbrak.",
+    "bron": [
+     34
+    ],
+    "citaat": "informatie omtrent de aanwezigheid en zichtbaarheid van het zonebord E1 op de door de betrokkene gereden toegangsweg ontbreekt"
+   },
+   "bruikbare_zin": {
+    "citaat": "uit nadere stukken zal moeten blijken dat op de gevolgde toegangsweg",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Zegt de ambtenaar alleen dat op elke toegangsweg een bord staat, dan moet uit stukken blijken dat het bord op de gevolgde weg voor en na de overtreding stond.",
+  "type": "regel",
+  "reikwijdte": "Wahv-boetes voor parkeren in een parkeerverbodszone met zonebord E1",
+  "uitzondering": "Heeft de ambtenaar het bord ter plaatse zelf waargenomen, dan mag de rechter ervan uitgaan dat het er stond.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   30
+  ],
+  "citaat": "uit nadere stukken zal moeten blijken dat op de gevolgde toegangsweg"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "zaakoverzicht",
+   "aanvullende processen-verbaal van de ambtenaar",
+   "foto's van de overtreding"
+  ],
+  "wat_gaf_doorslag": "Er was geen bewijs dat het zonebord op de gereden weg voor en na de overtreding stond."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHARL:2020:1803"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 3 lid 2 Wahv",
+  "art. 11 Wahv",
+  "art. 2 lid 3 Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg per zonebord vast wanneer het is geplaatst en controleer later of het er nog stond",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    33
+   ],
+   "citaat": "na verificatie van daarvoor beschikbare bronnen is gebleken dat dit bord in de tussentijd niet is verwijderd of vervangen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "bebording-verkeersbesluit"
+ ],
+ "klantuitleg": "Een boete voor parkeren in een parkeerverbodszone is alleen terecht als vaststaat dat er op uw route een bord stond. Zegt de controleur alleen dat er op elke weg een bord staat, dan is dat soms te weinig. Vertel in uw bezwaar welke route u reed en vraag om bewijs van het bord.",
+ "gemeente": "Eindhoven",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

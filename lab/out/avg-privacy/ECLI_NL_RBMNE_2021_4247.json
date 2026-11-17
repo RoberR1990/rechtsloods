@@ -1,0 +1,178 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2021:4247",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "beperking-bezwaar",
+ "kenmerk": null,
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "Bureau Financieel Toezicht",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "De rechter in Midden-Nederland moest oordelen over een bedrijf dat vond dat het Bureau Financieel Toezicht zijn gegevens ten onrechte had gedeeld. Het bedrijf vroeg om verwijdering en om het delen te stoppen; de rechter verklaarde het beroep ongegrond.",
+ "titel": "Beroep over gedeelde e-mail ongegrond",
+ "kern": {
+  "zin": "De rechter vindt dat het Bureau de drie verzoeken terecht heeft afgewezen: een eenmalige e-mail kun je niet staken en verwijdering bij ontvangers valt niet onder artikel 17.",
+  "bron": [
+   27,
+   25,
+   26
+  ],
+  "citaat": "heeft verweerder de drie verzoeken van eiseres"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het Bureau Financieel Toezicht deelde informatie over een tuchtklacht via e-mails met het ministerie en een journalist.",
+   "bron": [
+    18
+   ],
+   "citaat": "informatie over een tegen eiseres ingediende tuchtklacht gedeeld met medewerkers van het ministerie"
+  },
+  {
+   "zin": "Het bedrijf vroeg het Bureau om het datalek te melden, de verwerking te staken, de gegevens bij de ontvangers te laten verwijderen en schade te vergoeden.",
+   "bron": [
+    18
+   ],
+   "citaat": "het datalek te melden bij de Autoriteit Persoonsgegevens"
+  },
+  {
+   "zin": "Het Bureau zag de verzoeken als verzoeken om verwijdering, beperking en bezwaar, en wees ze af.",
+   "bron": [
+    20
+   ],
+   "citaat": "Volgens verweerder is het recht van bezwaar echter niet van toepassing."
+  },
+  {
+   "zin": "De rechter stelt vast dat het Bureau de eenmalige verzending niet meer kan staken, en dat het recht om bezwaar te maken en het recht om de verwerking te beperken daarom niet gelden.",
+   "bron": [
+    25
+   ],
+   "citaat": "Op deze situatie ziet het recht van bezwaar (artikel 21 van de AVG) niet."
+  },
+  {
+   "zin": "Het verzoek om verwijdering bij de ontvangers valt niet onder artikel 17; dat gaat alleen over gegevens bij het Bureau zelf.",
+   "bron": [
+    26
+   ],
+   "citaat": "Dat artikel heeft betrekking op persoonsgegevens die worden verwerkt bij de verwerkingsverantwoordelijke, bij verweerder zelf dus"
+  },
+  {
+   "zin": "De rechter beoordeelt de schade niet omdat die niet is onderbouwd en er geen verzoek op grond van artikel 8:88 Awb is; het beroep is ongegrond.",
+   "bron": [
+    28,
+    31
+   ],
+   "citaat": "dat zij die stelling niet heeft onderbouwd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Rechter verklaart beroep ongegrond; verzoeken terecht afgewezen.",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrijf verliest het beroep, krijgt geen vergoeding van proceskosten en moet voor de onrechtmatigheid van de e-mail van 20 december 2019 een civiele procedure starten.",
+  "bron": [
+   31,
+   32
+  ],
+  "citaat": "moet zij een civiele procedure starten"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "delen-met-derden",
+   "burger_zegt": "Het Bureau heeft persoonsgegevens naar het ministerie en een journalist gestuurd zonder dat dit mocht.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter beoordeelt de onrechtmatigheid van de e-mail niet omdat een verzoek op grond van artikel 8:88 Awb ontbreekt.",
+    "bron": [
+     28
+    ],
+    "citaat": "Omdat zo’n verzoek ontbreekt, komt de rechtbank er niet aan toe"
+   },
+   "bruikbare_zin": {
+    "citaat": "Omdat zo’n verzoek ontbreekt, komt de rechtbank er niet aan toe",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "wissen-geen-grondslag",
+   "burger_zegt": "De gegevens moeten weg, ook bij de mensen die de e-mail hebben ontvangen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Artikel 17 gaat alleen over gegevens die het Bureau zelf verwerkt, niet over gegevens bij derde ontvangers.",
+    "bron": [
+     26
+    ],
+    "citaat": "Dat artikel heeft betrekking op persoonsgegevens die worden verwerkt bij de verwerkingsverantwoordelijke, bij verweerder zelf dus"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet aan te merken als een verzoek als bedoeld in artikel 17",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Het bedrijf heeft schade door de onrechtmatige e-mail en wil dat de rechter dat vaststelt.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De schade is niet onderbouwd en er is geen verzoek op grond van artikel 8:88 Awb gedaan.",
+    "bron": [
+     28
+    ],
+    "citaat": "dat zij die stelling niet heeft onderbouwd"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat zij die stelling niet heeft onderbouwd",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het recht om bezwaar te maken geldt niet bij een eenmalige verzending van een e-mail; het gaat om een doorlopende verwerking.",
+  "type": "regel",
+  "reikwijdte": "Bij een eenmalige verzending van een e-mail, niet bij een doorlopende verwerking.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "Op deze situatie ziet het recht van bezwaar (artikel 21 van de AVG) niet."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 17 lid 1 AVG",
+  "art. 18 lid 1 onder d AVG",
+  "art. 21 lid 1 AVG",
+  "art. 8:88 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "communicatie",
+  "ict-informatiebeveiliging"
+ ],
+ "klantuitleg": "In deze zaak ging het om een e-mail die al naar anderen was gestuurd. De rechter zegt: het recht om bezwaar te maken geldt niet bij zo'n eenmalige e-mail, en het recht om verwijdering te vragen gaat alleen over gegevens die de organisatie zelf nog heeft. Wilt u laten beoordelen of die e-mail terecht is verstuurd, dan moet u naar de gewone rechter.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente partij; wederpartij is Bureau Financieel Toezicht",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

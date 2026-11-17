@@ -1,0 +1,172 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2025:6784",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "kentekenhouder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een kentekenhouder met een gehandicaptenvergunning kreeg een naheffingsaanslag (de rekening achteraf) voor parkeren in Amsterdam. Zij procedeerde tegen de gemeente Amsterdam bij de Rechtbank Amsterdam.",
+ "titel": "Parkeerrekening ingetrokken uit coulance; beroep niet-ontvankelijk",
+ "kern": {
+  "zin": "De rechter verklaarde het beroep niet-ontvankelijk, omdat de gemeente de rekening alsnog introk en er geen procesbelang meer was.",
+  "bron": [
+   21
+  ],
+  "citaat": "De procedure kan voor eiseres niet meer tot een gunstiger resultaat leiden"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeercontroleur stelde vast dat de auto zonder betaling stond geparkeerd.",
+   "bron": [
+    17
+   ],
+   "citaat": "een parkeercontroleur heeft vastgesteld dat de auto van eiseres"
+  },
+  {
+   "zin": "De kentekenhouder had een vergunning, maar die stond nog niet aan.",
+   "bron": [
+    18
+   ],
+   "citaat": "maar de vergunning was nog niet geactiveerd"
+  },
+  {
+   "zin": "Omdat de vergunning later die dag werd geactiveerd, trok de gemeente de rekening uit coulance in.",
+   "bron": [
+    18
+   ],
+   "citaat": "ziet de heffingsambtenaar aanleiding om uit coulance de naheffingsaanslag in te trekken"
+  },
+  {
+   "zin": "Ondanks de late indiening wilde de kentekenhouder dat de rechter inhoudelijk oordeelde.",
+   "bron": [
+    14
+   ],
+   "citaat": "dat het bezwaar weliswaar te laat is ingediend"
+  },
+  {
+   "zin": "De gemeente hield vast aan de late indiening, waardoor er geen inhoudelijke beoordeling kwam.",
+   "bron": [
+    15
+   ],
+   "citaat": "Het bezwaar is daarom niet inhoudelijk beoordeeld"
+  },
+  {
+   "zin": "De rechtbank verklaarde het beroep niet-ontvankelijk.",
+   "bron": [
+    23
+   ],
+   "citaat": "Dit betekent dat de rechtbank geen inhoudelijk oordeel zal geven in deze zaak"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Niet-ontvankelijk; rekening uit coulance ingetrokken, griffierecht vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De kentekenhouder krijgt 53 euro griffierecht terug en, als er al is betaald, ook het betaalde bedrag.",
+  "bron": [
+   24,
+   18
+  ],
+  "citaat": "het griffierecht van € 53,- aan eiseres te vergoeden"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "De gehandicaptenvergunning was geldig en dus mocht er niet worden beboet.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De vergunning was er wel, maar niet geactiveerd op het moment van parkeren; de rechter ging daar niet op in.",
+    "bron": [
+     18
+    ],
+    "citaat": "maar de vergunning was nog niet geactiveerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "maar de vergunning was nog niet geactiveerd",
+    "bron": [
+     18
+    ]
+   }
+  },
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "Het bezwaar was te laat, maar moet toch inhoudelijk worden beoordeeld.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter kwam niet aan de termijn toe, omdat er geen procesbelang meer was.",
+    "bron": [
+     21
+    ],
+    "citaat": "De procedure kan voor eiseres niet meer tot een gunstiger resultaat leiden"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat het bezwaar weliswaar te laat is ingediend",
+    "bron": [
+     14
+    ]
+   }
+  },
+  {
+   "arg": "gelijkheid",
+   "burger_zegt": "Andere te laat ingediende bezwaren zijn wel inhoudelijk beoordeeld, dus dit moet ook.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De gemeente vond dat andere, uit coulance beoordeelde bezwaren geen recht geven.",
+    "bron": [
+     15
+    ],
+    "citaat": "Eiseres kan geen rechten ontlenen aan het feit dat in andere bezwaren uit coulance"
+   },
+   "bruikbare_zin": {
+    "citaat": "Eiseres kan geen rechten ontlenen aan het feit dat in andere bezwaren uit coulance",
+    "bron": [
+     15
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de gemeente de aanslag geheel intrekt, is er geen procesbelang meer en wordt het beroep niet-ontvankelijk.",
+  "type": "regel",
+  "reikwijdte": "Belastingprocedures waarin de gemeente de aanslag tijdens de procedure volledig intrekt",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   20
+  ],
+  "citaat": "De rechtbank moet dan overgaan tot niet-ontvankelijkverklaring van het beroep wegens het ontbreken van procesbelang"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "vaststelling van de parkeercontroleur",
+   "datum van activeren van de vergunning"
+  ],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver procedurele uitspraak; gemeente trok de aanslag zelf in",
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "vergunningen"
+ ],
+ "klantuitleg": "Heeft u een vergunning, meld die dan op tijd aan, zodat de rekening voor het parkeren niet komt. Als de gemeente de rekening toch stuurt, kan de rekening worden ingetrokken, zoals hier gebeurde. Let op de termijn: een te laat bezwaar wordt in dit geval niet inhoudelijk behandeld.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

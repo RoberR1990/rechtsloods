@@ -1,0 +1,196 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2022:7784",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "kopie-stukken",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "Erasmus Universiteit Rotterdam",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "De burger vroeg de Erasmus Universiteit Rotterdam om foto's van het scherm (screenshots) van zijn persoonsgegevens. Hij stapte naar de Rechtbank Rotterdam omdat hij vond dat de universiteit zijn verzoek niet goed had behandeld.",
+ "titel": "Geen recht op screenshots bij inzage in persoonsgegevens",
+ "kern": {
+  "zin": "De rechter verklaart het beroep ongegrond: de universiteit hoefde geen screenshots of toegang tot het systeem te geven, omdat de bestanden genoeg inzicht gaven.",
+  "bron": [
+   44
+  ],
+  "citaat": "Verweerder was niet gehouden om (ook) screenshots te verstrekken en ook niet om eiser toegang tot haar computersystemen te geven"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de Erasmus Universiteit Rotterdam om screenshots van al zijn persoonsgegevens in het systeem.",
+   "bron": [
+    17
+   ],
+   "citaat": "heeft eiser verzocht om screenshots van al zijn persoonsgegevens"
+  },
+  {
+   "zin": "De burger vond dat het besluit onzorgvuldig tot stand was gekomen.",
+   "bron": [
+    19
+   ],
+   "citaat": "dat het bestreden besluit onzorgvuldig tot stand is gekomen"
+  },
+  {
+   "zin": "De universiteit zei dat de burger alle informatie had gekregen die de medewerkers konden zien.",
+   "bron": [
+    18
+   ],
+   "citaat": "eiser de beschikking heeft gekregen over alle informatie die de medewerkers"
+  },
+  {
+   "zin": "De rechter zegt dat de universiteit met 17 bestanden uit het systeem genoeg inzage heeft gegeven.",
+   "bron": [
+    44
+   ],
+   "citaat": "Door het verstrekken van 17 geëxporteerde bestanden uit het door verweerder gebruikte systeem OSIRIS"
+  },
+  {
+   "zin": "De rechter zegt dat de universiteit geen screenshots of toegang tot de computer hoefde te geven.",
+   "bron": [
+    44
+   ],
+   "citaat": "Verweerder was niet gehouden om (ook) screenshots te verstrekken en ook niet om eiser toegang tot haar computersystemen te geven"
+  },
+  {
+   "zin": "Het beroep is ongegrond en de rechter wijst de schadevergoeding af.",
+   "bron": [
+    48
+   ],
+   "citaat": "Het beroep is ongegrond. Al omdat geen sprake is van enig schadeveroorzakend besluit"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De universiteit krijgt gelijk; de burger krijgt geen schadevergoeding of proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen schadevergoeding en moet zijn eigen proceskosten dragen.",
+  "bron": [
+   48,
+   49
+  ],
+  "citaat": "wijst de rechtbank het verzoek om schadevergoeding af"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "De burger vindt dat hij niet alle gegevens heeft gekregen en dat hij de bestanden niet kan controleren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de burger niet aannemelijk heeft gemaakt dat er meer gegevens zijn.",
+    "bron": [
+     44
+    ],
+    "citaat": "Eiser heeft ook niet aannemelijk gemaakt dat de bestanden niet compleet zijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "Eiser heeft ook niet aannemelijk gemaakt dat de bestanden niet compleet zijn",
+    "bron": [
+     44
+    ]
+   }
+  },
+  {
+   "arg": "kopie-stukken",
+   "burger_zegt": "De burger wil screenshots en zelf achter de computer controleren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat de universiteit geen screenshots of toegang tot het systeem hoefde te geven.",
+    "bron": [
+     44
+    ],
+    "citaat": "Verweerder was niet gehouden om (ook) screenshots te verstrekken en ook niet om eiser toegang tot haar computersystemen te geven"
+   },
+   "bruikbare_zin": {
+    "citaat": "Verweerder was niet gehouden om (ook) screenshots te verstrekken",
+    "bron": [
+     44
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De burger zegt dat de universiteit te laat op zijn bezwaar heeft beslist en vraagt om een dwangsom.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat er geen geldige ingebrekestelling was, dus geen dwangsom.",
+    "bron": [
+     46
+    ],
+    "citaat": "Naar het oordeel van de rechtbank is niet voldaan aan het vereiste van een geldige ingebrekestelling."
+   },
+   "bruikbare_zin": {
+    "citaat": "Naar het oordeel van de rechtbank is niet voldaan aan het vereiste van een geldige ingebrekestelling",
+    "bron": [
+     46
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De organisatie hoeft bij inzage geen kopie van de documenten te geven; een andere vorm mag, zolang de burger maar genoeg inzicht krijgt.",
+  "type": "regel",
+  "reikwijdte": "Bij een verzoek om inzage in persoonsgegevens onder artikel 15 lid 3 AVG.",
+  "uitzondering": "Als de gekozen vorm niet genoeg inzicht geeft om de verwerking te controleren.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   43
+  ],
+  "citaat": "niet betekent dat een bestuursorgaan verplicht is een kopie te verstrekken van de documenten waarin die persoonsgegevens voorkomen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "17 geëxporteerde bestanden uit het systeem OSIRIS",
+   "stukken uit een andere zaak (niet onderbouwd)"
+  ],
+  "wat_gaf_doorslag": "De burger maakte niet aannemelijk dat er meer of andere persoonsgegevens zijn."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2021:452",
+   "ECLI:NL:RVS:2014:4682"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 15 lid 3 AVG",
+  "art. 4:17 lid 1 Awb",
+  "art. 4:17 lid 3 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Geef bij een inzageverzoek een kopie van de persoonsgegevens; screenshots of directe toegang tot het systeem zijn niet verplicht.",
+   "raakt": "privacy-fg",
+   "bron": [
+    44
+   ],
+   "citaat": "Verweerder was niet gehouden om (ook) screenshots te verstrekken"
+  },
+  {
+   "actie": "Vraag een burger die stelt dat er meer gegevens zijn om dat concreet te onderbouwen.",
+   "raakt": "klantcontact",
+   "bron": [
+    44
+   ],
+   "citaat": "Eiser heeft ook niet aannemelijk gemaakt dat de bestanden niet compleet zijn"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "ict-informatiebeveiliging"
+ ],
+ "klantuitleg": "Als u de gemeente om inzage vraagt, moet u een kopie krijgen waarmee u kunt controleren welke persoonsgegevens er zijn. Dat hoeft geen schermafdruk (screenshot) of directe toegang tot het systeem te zijn; een andere vorm mag ook, als u maar genoeg inzicht krijgt. Als u vindt dat er meer gegevens zijn, moet u dat met voorbeelden uitleggen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente; Erasmus Universiteit Rotterdam is partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

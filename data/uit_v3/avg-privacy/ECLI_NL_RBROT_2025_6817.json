@@ -1,0 +1,205 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:6817",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "kopie-stukken",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "verzoeker",
+  "wederpartij": "gemeente [plaats]",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Deze zaak gaat over een verzoek om inzage in eigen persoonsgegevens. Een burger vroeg het college van burgemeester en wethouders van [plaats] om inzage. De rechtbank Rotterdam beoordeelde het beroep.",
+ "titel": "Overzicht van eigen gegevens is genoeg voor inzage",
+ "kern": {
+  "zin": "Een overzicht van de verwerkte gegevens is genoeg voor inzage; de beroepen zijn ongegrond.",
+  "bron": [
+   40
+  ],
+  "citaat": "Volgens vaste rechtspraak betekent het recht op inzage niet dat een bestuursorgaan verplicht is een kopie te verstrekken"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg om inzage in zijn contacthistorie en zijn gegevens in Suwinet.",
+   "bron": [
+    16
+   ],
+   "citaat": "om inzage in de contacthistorie tussen eiser en de [gemeente] en verwerkte persoonsgegevens in Suwinet"
+  },
+  {
+   "zin": "De burger vond dat hij niet alle gegevens had gekregen.",
+   "bron": [
+    40
+   ],
+   "citaat": "Eiser voert aan dat het college geen volledige inzage heeft gegeven in zijn in de contacthistorie verwerkte persoonsgegevens"
+  },
+  {
+   "zin": "In bezwaar vond het college alsnog extra Suwinet-gegevens en stuurde die op.",
+   "bron": [
+    19
+   ],
+   "citaat": "met het bestreden besluit een overzicht van deze gegevens over de jaren 2021 tot en met 2023 is verstrekt"
+  },
+  {
+   "zin": "De rechter oordeelt dat het overzicht voldoende is.",
+   "bron": [
+    40
+   ],
+   "citaat": "Eiser heeft met deze verwerkingsoverzichten inzicht gekregen in welke persoonsgegevens zijn gebruikt en wat het verwerkingsdoel is geweest"
+  },
+  {
+   "zin": "De beroepen zijn ongegrond en er komt geen dwangsom.",
+   "bron": [
+    50
+   ],
+   "citaat": "De beroepen tegen het besluit van 1 februari 2024 en de dwangsombesluiten van 17 juni 2024 zijn ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroepen ongegrond; overzicht van gegevens volstaat.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen extra inzage en geen dwangsom; de beroepen zijn ongegrond.",
+  "bron": [
+   50
+  ],
+  "citaat": "De beroepen tegen het besluit van 1 februari 2024 en de dwangsombesluiten van 17 juni 2024 zijn ongegrond"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Ik heb niet alle gegevens over mijn contacthistorie gekregen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het college mocht met zijn uitleg vinden dat er op dat moment geen gegevens waren.",
+    "bron": [
+     40
+    ],
+    "citaat": "het college met de gegeven toelichting in redelijkheid het standpunt heeft mogen innemen"
+   },
+   "bruikbare_zin": {
+    "citaat": "het recht op inzage niet dat een bestuursorgaan verplicht is een kopie te verstrekken",
+    "bron": [
+     40
+    ]
+   }
+  },
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "Er moeten meer gegevens zijn dan in het overzicht staan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger maakte niet aannemelijk dat er meer gegevens zijn.",
+    "bron": [
+     41
+    ],
+    "citaat": "Eiser heeft zijn stelling dat er meer persoonsgegevens zouden moeten zijn dan opgenomen in de verstrekte verwerkingsoverzichten"
+   },
+   "bruikbare_zin": {
+    "citaat": "de enkele overtuiging van eiser dat hij nog steeds niet al zijn verwerkte persoonsgegevens heeft ontvangen, maakt dit oordeel niet anders",
+    "bron": [
+     41
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik wil inzage in de namen en dossiers van de ambtenaren die mijn gegevens hebben bekeken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Daar vroeg de burger niet om in zijn verzoek.",
+    "bron": [
+     42
+    ],
+    "citaat": "eiser hier niet om heeft verzocht in zijn AVG-verzoek van 1 maart 2023"
+   },
+   "bruikbare_zin": {
+    "citaat": "eiser hier niet om heeft verzocht in zijn AVG-verzoek van 1 maart 2023",
+    "bron": [
+     42
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "Het college besliste te laat, dus ik heb recht op een dwangsom.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat het college terecht geen dwangsom verschuldigd is.",
+    "bron": [
+     47
+    ],
+    "citaat": "het college terecht het standpunt heeft ingenomen dat zij geen dwangsom is verschuldigd aan eiser"
+   },
+   "bruikbare_zin": {
+    "citaat": "deze e-mailberichten niet kunnen worden gekwalificeerd als ingebrekestelling",
+    "bron": [
+     47
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het recht op inzage betekent niet dat de organisatie een kopie van interne documenten moet sturen; een overzicht is genoeg.",
+  "type": "regel",
+  "reikwijdte": "Inzageverzoeken op grond van artikel 15 AVG",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   40
+  ],
+  "citaat": "Volgens vaste rechtspraak betekent het recht op inzage niet dat een bestuursorgaan verplicht is een kopie te verstrekken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verwerkingsoverzichten Suwinet",
+   "overzicht contacthistorie"
+  ],
+  "wat_gaf_doorslag": "De uitleg dat de systemen anders koppelen (postcode en huisnummer tegenover BSN)."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 15 lid 1 AVG",
+  "art. 15 lid 3 AVG",
+  "art. 6:20 lid 3 Awb",
+  "art. 7:11 Awb",
+  "art. 4:19 lid 1 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zoek in bezwaar de systemen opnieuw na; zo vond het college alsnog extra Suwinet-gegevens.",
+   "raakt": "privacy-fg",
+   "bron": [
+    19
+   ],
+   "citaat": "Tijdens de bezwaarprocedure kwam het college toch een aantal Suwinet-inkijkmomenten tegen"
+  },
+  {
+   "actie": "Stuur bij inzage een verwerkingsoverzicht; een kopie van interne documenten is niet nodig.",
+   "raakt": "privacy-fg",
+   "bron": [
+    40
+   ],
+   "citaat": "Volgens vaste rechtspraak betekent het recht op inzage niet dat een bestuursorgaan verplicht is een kopie te verstrekken"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "U vroeg om inzage in uw eigen gegevens. De gemeente mag u een overzicht sturen; u hoeft niet alle losse documenten te krijgen. Denkt u dat er gegevens ontbreken, laat dan met bewijs zien welke dat zijn.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,153 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2023:4320",
+ "relevant": true,
+ "kenmerk": null,
+ "procesvorm": "hoger beroep",
+ "steunt": null,
+ "toepasselijkheid": "landelijk",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente is geen partij; de officier van justitie beslist (Wahv)",
+ "dubbel_van": null,
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "onderwerp": "veiligheid-gebruik",
+ "sub": "lading",
+ "zaaktype": "voertuig-apk-wam",
+ "partijen": {
+  "burger": "kentekenhouder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "intro": "Een automobilist kreeg in Rotterdam een boete omdat zijn auto uitstekende delen zou hebben. Hij ging in hoger beroep tegen de officier van justitie (CJIB) bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Boete voor uitstekende delen vervalt: delen waren scherp, niet uitstekend",
+ "kern": {
+  "zin": "Het hof vernietigt de boete, omdat de beschadigde delen scherp waren maar niet uitstaken, zodat de boete voor de verkeerde overtreding was.",
+  "bron": [
+   27
+  ],
+  "citaat": "Gelet daarop is de gedraging waarvoor de sanctie is opgelegd niet verricht."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger kreeg een boete van € 250 omdat zijn auto in Rotterdam niet afgeschermde uitstekende delen zou hebben.",
+   "bron": [
+    18
+   ],
+   "citaat": "Deze gedraging zou zijn verricht op 4 april 2021 om 16:53 uur op de Potgieterstraat in Rotterdam"
+  },
+  {
+   "zin": "De verbalisant (agent) zag een gat in de auto en een bumper met diverse scherpe punten.",
+   "bron": [
+    22
+   ],
+   "citaat": "zag dat er rechtsvoor een gat zat. De bumper was voorzien van diverse scherpe punten"
+  },
+  {
+   "zin": "De burger zei dat de bumper wel defect was, maar dat er geen scherpe of uitstekende delen waren.",
+   "bron": [
+    19
+   ],
+   "citaat": "van scherpe of uitstekende delen was geen sprake"
+  },
+  {
+   "zin": "Het hof vond de scherpe randen bewezen, maar zei dat de schade niet buiten de normale vorm van de auto uitstak.",
+   "bron": [
+    27
+   ],
+   "citaat": "nu zij niet buiten de normale vorm van het voertuig uitsteken"
+  },
+  {
+   "zin": "Een andere feitcode (omschrijving van de overtreding) over scherpe delen had gekund, maar het hof wijzigt die in dit late stadium niet meer.",
+   "bron": [
+    28
+   ],
+   "citaat": "Wijziging van de feitcode acht het hof in dit stadium van de procedure echter niet meer opportuun."
+  },
+  {
+   "zin": "De boete wordt daarom vernietigd.",
+   "bron": [
+    28
+   ],
+   "citaat": "Bij die stand van zaken past geen andere beslissing dan vernietiging van de inleidende beschikking."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete vervalt; verkeerde overtreding aangewezen.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 250 vervalt, het vooruitbetaalde bedrag wordt terugbetaald en de burger krijgt € 1.284,75 aan proceskosten vergoed.",
+  "bron": [
+   34,
+   35,
+   36
+  ],
+  "citaat": "alsmede de beschikking waarbij onder voormeld CJIB-nummer de administratieve sanctie is opgelegd"
+ },
+ "bezwaargronden": [
+  {
+   "arg": "feitcode-onjuist",
+   "burger_zegt": "Er waren geen uitstekende delen, dus de boete is voor de verkeerde overtreding.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De schade stak niet buiten de normale vorm van de auto uit, dus de overtreding waarvoor de boete is opgelegd is niet gedaan.",
+    "bron": [
+     27
+    ],
+    "citaat": "Gelet daarop is de gedraging waarvoor de sanctie is opgelegd niet verricht."
+   },
+   "bruikbare_zin": {
+    "citaat": "nu zij niet buiten de normale vorm van het voertuig uitsteken",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-onvoldoende",
+   "burger_zegt": "Op de foto is niet te zien dat er scherpe of uitstekende delen zijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De verklaring van de ambtenaar met de foto bewees wel dat er scherpe delen waren.",
+    "bron": [
+     27
+    ],
+    "citaat": "verklaring van de ambtenaar in combinatie met de foto in het dossier genoegzaam vast"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Beschadigde scherpe randen zijn geen 'uitstekende delen' als ze niet buiten de normale vorm van de auto uitsteken.",
+  "type": "regel",
+  "reikwijdte": "Boetes voor niet afgeschermde uitstekende delen bij personenauto's (feitcode N440b).",
+  "uitzondering": "Scherpe delen vallen onder een andere regel (feitcode N440a), waarvoor een boete kan worden gewijzigd als dat op tijd gebeurt.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "nu zij niet buiten de normale vorm van het voertuig uitsteken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van de verbalisant",
+   "foto van de voorzijde van de auto"
+  ],
+  "wat_gaf_doorslag": "De schade was scherp maar stak niet uit; de boete was voor de verkeerde overtreding en de feitcode werd niet meer gewijzigd."
+ },
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 5.2.48 lid 1 en 2 Regeling voertuigen",
+  "art. 3 lid 2 Wahv",
+  "art. 11 Wahv",
+  "art. 2 lid 3 Besluit proceskosten bestuursrecht"
+ ],
+ "raakt": [
+  "bezwaar",
+  "juridische-zaken"
+ ],
+ "klantuitleg": "Een boete moet gaan over de overtreding die echt is vastgesteld. Staat in uw boete een andere overtreding dan wat er volgens u is gebeurd, dan kan de boete vervallen; soms kan de rechter de omschrijving ook nog aanpassen, als dat op tijd gevraagd wordt. Geef daarom in uw bezwaar of beroep duidelijk aan welk punt niet klopt.",
+ "zekerheid": "hoog"
+}

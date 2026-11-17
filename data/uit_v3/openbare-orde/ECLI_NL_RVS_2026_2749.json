@@ -1,0 +1,179 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:2749",
+ "relevant": true,
+ "onderwerp": "bibob",
+ "sub": "informatieplicht",
+ "kenmerk": null,
+ "zaaktype": "bibob",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "gemeente Almere",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De burgemeester van Almere ging in hoger beroep bij de Raad van State tegen een uitspraak van de rechtbank. De zaak gaat over een bedrijf (FEBO Almere) waarvan een terrasvergunning en een vergunning voor een alcoholvrij bedrijf zijn ingetrokken.",
+ "titel": "Vergunningen ingetrokken omdat bedrijf integriteitsvragenlijst niet invulde",
+ "kern": {
+  "zin": "De rechter vindt dat het bewust niet invullen van het Bibob-vragenformulier (de vragenlijst over de integriteit van het bedrijf) op zichzelf al een ernstig gevaar is.",
+  "bron": [
+   32
+  ],
+  "citaat": "het niet invullen van een Bibob-vragenformulier op zichzelf genomen een ernstig gevaar oplevert"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burgemeester wilde in deze zaak de Wet Bibob (de wet die misbruik van vergunningen door criminelen tegengaat) toepassen.",
+   "bron": [
+    22
+   ],
+   "citaat": "De burgemeester heeft aanleiding gezien om ook in deze procedure de Wet Bibob toe te passen"
+  },
+  {
+   "zin": "Het bedrijf vulde het gevraagde formulier niet in.",
+   "bron": [
+    22
+   ],
+   "citaat": "Aan dat verzoek heeft FEBO Almere geen gehoor gegeven"
+  },
+  {
+   "zin": "Het bedrijf zei op de zitting dat het formulier bewust niet is ingevuld, omdat het dat niet nodig vond.",
+   "bron": [
+    33
+   ],
+   "citaat": "het vragenformulier bewust niet heeft ingevuld, omdat zij dat niet nodig vond"
+  },
+  {
+   "zin": "De burgemeester trok de vergunningen in, omdat het niet invullen volgens hem een ernstig gevaar is.",
+   "bron": [
+    23
+   ],
+   "citaat": "Omdat zij het Bibob-vragenformulier niet heeft ingevuld, bestaat volgens de burgemeester een ernstig gevaar"
+  },
+  {
+   "zin": "De rechter zegt dat de burgemeester en niet het bedrijf bepaalt of een Bibob-onderzoek nodig is.",
+   "bron": [
+    33
+   ],
+   "citaat": "Het is immers niet aan FEBO Almere maar aan de burgemeester om te bepalen"
+  },
+  {
+   "zin": "De rechter vernietigt de uitspraak van de rechtbank en verklaart het beroep van het bedrijf ongegrond.",
+   "bron": [
+    37
+   ],
+   "citaat": "De uitspraak van de rechtbank moet worden vernietigd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep van de gemeente slaagt; de intrekking van de vergunningen blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De terrasvergunning en de vergunning voor het alcoholvrije bedrijf blijven ingetrokken en de gemeente hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   33,
+   38
+  ],
+  "citaat": "de burgemeester op juiste gronden de terrasvergunning en de vergunning alcoholvrij bedrijf heeft ingetrokken"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het bedrijf vond het invullen van het formulier niet nodig, want er waren geen wijzigingen die een onderzoek rechtvaardigden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat het aan de burgemeester is om te bepalen of een Bibob-onderzoek nodig is.",
+    "bron": [
+     33
+    ],
+    "citaat": "Het is immers niet aan FEBO Almere maar aan de burgemeester om te bepalen of een Bibob-onderzoek noodzakelijk is"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het is immers niet aan FEBO Almere maar aan de burgemeester om te bepalen of een Bibob-onderzoek noodzakelijk is",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De rechtbank vond de intrekking niet in verhouding tot het enkel niet invullen van het formulier.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt de intrekking wel evenredig, omdat het bedrijf geen reden noemde waarom invullen niet kon.",
+    "bron": [
+     33
+    ],
+    "citaat": "De intrekking van de vergunningen is naar het oordeel van de Afdeling ook evenredig"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "bibob-geen-ernstig-gevaar",
+   "burger_zegt": "De rechtbank vond dat er geen gevaar was dat de vergunningen zouden worden gebruikt voor strafbare feiten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat er ook zonder het formulier een ernstig gevaar bestaat, op grond van de feiten uit een andere zaak.",
+    "bron": [
+     34
+    ],
+    "citaat": "een ernstig gevaar bestaat dat de vergunningen mede zullen worden gebruikt om strafbare feiten te plegen"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als een vergunninghouder het Bibob-vragenformulier bewust niet invult, is dat op zichzelf al een ernstig gevaar en mag de gemeente de vergunning intrekken.",
+  "type": "regel",
+  "reikwijdte": "Intrekking van een vergunning waarbij de gemeente zelf een Bibob-onderzoek doet en het formulier bewust niet wordt ingevuld.",
+  "uitzondering": "De intrekking moet evenredig zijn; er zijn dan geen omstandigheden genoemd waardoor invullen redelijkerwijs niet kon.",
+  "herkomst": "wet",
+  "bron": [
+   32
+  ],
+  "citaat": "het niet invullen van een Bibob-vragenformulier op zichzelf genomen een ernstig gevaar oplevert"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van het bedrijf op de zitting"
+  ],
+  "wat_gaf_doorslag": "Het bedrijf zei zelf dat het formulier bewust niet is ingevuld."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:RVS:2026:2643",
+   "ECLI:NL:RVS:2023:3482",
+   "ECLI:NL:RBMNE:2023:1854"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 3 Wet Bibob",
+  "art. 4 lid 1 Wet Bibob",
+  "art. 7a lid 3 Wet Bibob",
+  "art. 8:110 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg vast dat de gemeente zelf bepaalt of een Bibob-onderzoek nodig is en vraag de vergunninghouder het Bibob-vragenformulier in te vullen",
+   "raakt": "integriteit-bibob",
+   "bron": [
+    33
+   ],
+   "citaat": "Het is immers niet aan FEBO Almere maar aan de burgemeester om te bepalen of een Bibob-onderzoek noodzakelijk is"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "integriteit-bibob",
+  "horeca-evenementenvergunningen",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "Als de gemeente een Bibob-onderzoek doet, moet u het vragenformulier invullen. Doet u dat bewust niet, dan kan de gemeente uw vergunning intrekken, ook als u het onderzoek zelf niet nodig vindt. Heeft u een goede reden waarom invullen niet kon, vertel dat dan meteen aan de gemeente.",
+ "gemeente": "Almere",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

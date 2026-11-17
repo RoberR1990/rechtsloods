@@ -1,0 +1,214 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2026:21749",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "algoritme-ai",
+ "kenmerk": null,
+ "zaaktype": "overig",
+ "partijen": {
+  "burger": "asielzoeker",
+  "wederpartij": "minister van Asiel en Migratie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een asielzoeker diende een nieuwe asielaanvraag in en de minister verklaarde die niet-ontvankelijk (niet in behandeling genomen). Hij gaat bij de rechtbank Den Haag in beroep tegen de minister en zegt onder meer dat het gebruik van het systeem VisualDoc in het besluit had moeten staan.",
+ "titel": "Gebruik van VisualDoc hoefde niet in het besluit te staan",
+ "kern": {
+  "zin": "De minister hoefde het gebruik van VisualDoc niet te vermelden, omdat mensen de echtheid van de documenten beoordeelden; dat kan veranderen als het systeem meer gaat doen.",
+  "bron": [
+   42
+  ],
+  "citaat": "de minister niet gehouden is het gebruik van VisualDoc, zoals het op dit moment functioneert, in de besluitvorming te vermelden"
+ },
+ "samenvatting": [
+  {
+   "zin": "De minister verklaarde de nieuwe asielaanvraag niet-ontvankelijk, na onderzoek van de nieuwe documenten door Bureau Documenten.",
+   "bron": [
+    26
+   ],
+   "citaat": "De minister heeft in het bestreden besluit de aanvraag niet-ontvankelijk verklaard"
+  },
+  {
+   "zin": "De asielzoeker zegt dat het besluit onzorgvuldig is, omdat niet staat dat het AI-systeem VisualDoc is gebruikt.",
+   "bron": [
+    29
+   ],
+   "citaat": "omdat daarin niet is vermeld dat gebruik is gemaakt van artificiële intelligentie (AI)"
+  },
+  {
+   "zin": "De minister legt uit dat VisualDoc hier alleen in zeer beperkte mate is gebruikt om documenten te herkennen.",
+   "bron": [
+    38
+   ],
+   "citaat": "slechts in zeer beperkte mate gebruik heeft gemaakt van de functionaliteit"
+  },
+  {
+   "zin": "De rechter volgt de minister: mensen beoordeelden de echtheid van de documenten en niet VisualDoc.",
+   "bron": [
+    41
+   ],
+   "citaat": "beoordeling van de echtheid van de door eiser overgelegde documenten door (in dit geval twee) mensen is verricht en niet door VisualDoc"
+  },
+  {
+   "zin": "De rechter zegt dat de plicht om het gebruik te vermelden later wel kan ontstaan, als het systeem verder wordt ontwikkeld.",
+   "bron": [
+    42
+   ],
+   "citaat": "op enig moment het kantelpunt bereikt kan worden waarop deze verplichting wel ontstaat"
+  },
+  {
+   "zin": "Het beroep is ongegrond en de asielzoeker krijgt zijn proceskosten niet vergoed.",
+   "bron": [
+    61
+   ],
+   "citaat": "Het beroep is ongegrond. Eiser krijgt geen vergoeding van zijn proceskosten."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; het besluit blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De niet-ontvankelijkverklaring blijft staan en de asielzoeker krijgt geen vergoeding van zijn proceskosten.",
+  "bron": [
+   61
+  ],
+  "citaat": "Het beroep is ongegrond. Eiser krijgt geen vergoeding van zijn proceskosten."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De asielzoeker zegt dat de minister het gebruik van VisualDoc in het besluit had moeten vermelden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de vermelding nu geen toegevoegde waarde heeft, omdat mensen de echtheid toetsen.",
+    "bron": [
+     42
+    ],
+    "citaat": "Dit heeft voor een betrokkene op dit moment geen toegevoegde waarde, omdat de echtheidstoets door mensen wordt uitgevoerd en niet door VisualDoc"
+   },
+   "bruikbare_zin": {
+    "citaat": "omdat de echtheidstoets door mensen wordt uitgevoerd en niet door VisualDoc",
+    "bron": [
+     42
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De asielzoeker zegt dat de minister artikel 86 van de Verordening AI heeft geschonden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat dit artikel nog niet in werking is getreden.",
+    "bron": [
+     45
+    ],
+    "citaat": "artikel 86 van de Verordening AI nog niet in werking is getreden"
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank ziet geen aanleiding om op de inwerkingtreding van deze regelgeving vooruit te lopen",
+    "bron": [
+     45
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De asielzoeker zegt dat er een besluit is genomen door alleen een computer, in strijd met artikel 22 AVG.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ziet geen geautomatiseerde besluitvorming, dus geen schending van artikel 22 AVG.",
+    "bron": [
+     47
+    ],
+    "citaat": "geen sprake is van geautomatiseerde besluitvorming, zodat artikel 22 van de AVG niet is geschonden"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen sprake is van geautomatiseerde besluitvorming, zodat artikel 22 van de AVG niet is geschonden",
+    "bron": [
+     47
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De asielzoeker zegt dat niet blijkt dat de medewerkers genoeg kennis van AI hebben (AI-geletterdheid).",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt niet aannemelijk dat de medewerkers te weinig AI-kennis hadden, gezien de beperkte inzet van VisualDoc.",
+    "bron": [
+     50
+    ],
+    "citaat": "niet aannemelijk is geworden dat de betrokken medewerkers geen toereikend niveau van AI-geletterdheid hadden"
+   },
+   "bruikbare_zin": {
+    "citaat": "gelet op de beperkte inzet van VisualDoc ten tijde van de besluitvorming",
+    "bron": [
+     50
+    ]
+   }
+  },
+  {
+   "arg": "motivering",
+   "burger_zegt": "De asielzoeker zegt dat de minister hem had moeten horen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de minister van horen mocht afzien, omdat de documenten waarop het verhaal rust niet bevoegd waren opgemaakt.",
+    "bron": [
+     56
+    ],
+    "citaat": "heeft de minister conform de regelgeving en het beleid van het horen van eiser mogen afzien"
+   },
+   "bruikbare_zin": {
+    "citaat": "De minister hoefde eiser daar conform het beleid dus niet over te horen",
+    "bron": [
+     56
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De minister hoeft het gebruik van VisualDoc niet in het besluit te vermelden zolang mensen de echtheid van documenten beoordelen en het systeem alleen helpt bij herkenning.",
+  "type": "regel",
+  "reikwijdte": "VisualDoc zoals het nu werkt: alleen documentherkenning, echtheid door mensen beoordeeld",
+  "uitzondering": "Bij verdere ontwikkeling kan een kantelpunt komen waarop de plicht om het gebruik te vermelden wel ontstaat.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   42
+  ],
+  "citaat": "de minister niet gehouden is het gebruik van VisualDoc, zoals het op dit moment functioneert, in de besluitvorming te vermelden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van onderzoek van Bureau Documenten",
+   "bevestiging door TOELT"
+  ],
+  "wat_gaf_doorslag": "Mensen beoordeelden de echtheid en de asielzoeker bestreed de deskundigenadviezen niet voldoende."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 28 Vw 2000",
+  "art. 30a lid 1 onder d Vw 2000",
+  "art. 86 Verordening AI",
+  "art. 4 Verordening AI",
+  "art. 22 AVG",
+  "art. 3:2 Awb",
+  "art. 3.118b lid 3 Vreemdelingenbesluit 2000"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "datateam-algoritmes",
+  "privacy-fg"
+ ],
+ "klantuitleg": "Deze zaak gaat over een asielaanvraag en niet over een gemeente. De rechter vond dat de minister niet hoefde te melden dat een computerprogramma documenten herkende, omdat mensen zelf beoordeelden of de documenten echt waren. Wilt u bezwaar maken tegen een besluit waarin een computer meebeslist, geef dan concreet aan wat er volgens u misgaat.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente betrokken; de minister is partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

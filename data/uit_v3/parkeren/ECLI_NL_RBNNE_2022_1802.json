@@ -1,0 +1,157 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2022:1802",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "kentekenhouder",
+  "wederpartij": "gemeente Groningen",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De kentekenhouder kreeg een naheffing (de rekening achteraf), omdat de parkeerbelasting was betaald voor een andere zone. Hij ging in beroep tegen de gemeente Groningen bij de rechtbank Noord-Nederland.",
+ "titel": "Verkeerde zone in parkeerapp: rekening blijft staan",
+ "kern": {
+  "zin": "De rechter zei dat het invoeren van de verkeerde zone een vergissing is die voor rekening en risico van de dochter komt, dus de naheffing blijft staan.",
+  "bron": [
+   25
+  ],
+  "citaat": "Dit is een vergissing die naar het oordeel van de rechtbank voor haar rekening en risico komt"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle bleek voor de auto in Groningen betaald te zijn voor een andere parkeerzone.",
+   "bron": [
+    19,
+    18
+   ],
+   "citaat": "Er was parkeerbelasting voldaan voor zone 3013 in plaats van zone 3033"
+  },
+  {
+   "zin": "De kentekenhouder zei dat zijn dochter wel had betaald, maar door een vergissing in de app voor de verkeerde zone.",
+   "bron": [
+    22
+   ],
+   "citaat": "Weliswaar voor de onjuiste parkeerzone doordat zij de onjuiste parkeerzone had ingetoetst in de parkeerapp"
+  },
+  {
+   "zin": "De gemeente vond dat de gebruiker van de app zelf de juiste zone moet kiezen.",
+   "bron": [
+    23
+   ],
+   "citaat": "is de gebruiker van de parkeerapp zelf verantwoordelijk voor het invoeren van de juiste parkeerzone"
+  },
+  {
+   "zin": "De rechter vond de naheffing terecht, ook al vindt de kentekenhouder de uitkomst onredelijk.",
+   "bron": [
+    25
+   ],
+   "citaat": "Daarom is de rechtbank van oordeel dat de naheffingsaanslag parkeerbelasting terecht is opgelegd"
+  },
+  {
+   "zin": "Persoonlijke omstandigheden, zoals het ontbreken van opzet of schuld, tellen daarbij niet mee.",
+   "bron": [
+    25
+   ],
+   "citaat": "met persoonlijke omstandigheden, zoals in dit geval het ontbreken van enige opzet of schuld"
+  },
+  {
+   "zin": "Het beroep is ongegrond en er worden geen proceskosten vergoed.",
+   "bron": [
+    29,
+    27
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing van 69,30 euro blijft staan, en er is geen vergoeding van proceskosten.",
+  "bron": [
+   19,
+   29
+  ],
+  "citaat": "Naar aanleiding van deze constatering is aan eiser een naheffingsaanslag parkeerbelasting opgelegd van € 69,30"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Mijn dochter heeft wel betaald, alleen voor de verkeerde zone door een vergissing.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de vergissing voor rekening en risico van de dochter komt, dus deze grond slaagt niet.",
+    "bron": [
+     25
+    ],
+    "citaat": "Dit is een vergissing die naar het oordeel van de rechtbank voor haar rekening en risico komt"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dit is een vergissing die naar het oordeel van de rechtbank voor haar rekening en risico komt.",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De uitkomst is onredelijk, en het gaat om een vergissing van de dochter en geen boete.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat persoonlijke omstandigheden niet meetellen bij een naheffing.",
+    "bron": [
+     25
+    ],
+    "citaat": "met persoonlijke omstandigheden, zoals in dit geval het ontbreken van enige opzet of schuld"
+   },
+   "bruikbare_zin": {
+    "citaat": "met persoonlijke omstandigheden, zoals in dit geval het ontbreken van enige opzet of schuld",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een verkeerde zone in de parkeerapp is een vergissing die voor rekening en risico van wie invoert komt.",
+  "type": "regel",
+  "reikwijdte": "een verkeerde parkeerzone ingevoerd in de parkeerapp",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "Dit is een vergissing die naar het oordeel van de rechtbank voor haar rekening en risico komt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "schermprint van de parkeerapp",
+   "constatering bij de parkeercontrole"
+  ],
+  "wat_gaf_doorslag": "De betaling was voor een andere zone dan waar de auto stond."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 4 Verordening op de heffing en invordering van parkeerbelastingen 2021 Groningen"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver individuele fout; geen actie voor de gemeente uit deze uitspraak",
+ "raakt": [
+  "tarief-naheffing",
+  "betaalapp"
+ ],
+ "klantuitleg": "Heeft u via de parkeerapp een verkeerde zone gekozen, dan kan er toch een naheffing volgen. Dat geldt ook als iemand anders met uw auto die fout maakte, want persoonlijke omstandigheden tellen dan niet mee. Controleer daarom vóór het parkeren altijd of de juiste zone in de app staat.",
+ "gemeente": "Groningen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

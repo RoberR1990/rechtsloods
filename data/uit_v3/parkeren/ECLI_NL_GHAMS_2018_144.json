@@ -1,0 +1,180 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2018:144",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een automobilist kreeg een naheffingsaanslag (de rekening achteraf) voor parkeerbelasting in Amsterdam. Hij ging tegen de gemeente in hoger beroep bij het gerechtshof Amsterdam.",
+ "titel": "Aanhanger huren is parkeren: naheffing blijft staan",
+ "kern": {
+  "zin": "De rechter vindt dat de automobilist geparkeerd stond en niet aan het laden was, omdat hij eerst een huurcontract tekende en pas daarna de aanhanger koppelde.",
+  "bron": [
+   41
+  ],
+  "citaat": "kan niet gezegd worden dat sprake is geweest van een onmiddellijk laden van een goed in vorenbedoelde zin"
+ },
+ "samenvatting": [
+  {
+   "zin": "De automobilist tekende om 11.20 uur een huurcontract voor een aanhangwagen.",
+   "bron": [
+    19
+   ],
+   "citaat": "Daartoe is op diezelfde dag om 11.20 uur een huurovereenkomst ondertekend door belanghebbende met de verhuurder"
+  },
+  {
+   "zin": "Een minuut later zag een controleur van de gemeente dat er geen parkeerbelasting was betaald.",
+   "bron": [
+    20
+   ],
+   "citaat": "geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De automobilist zei dat hij onmiddellijk aan het laden was, omdat hij net onderweg was om de aanhanger aan zijn auto te koppelen.",
+   "bron": [
+    40
+   ],
+   "citaat": "sprake is geweest van een onmiddellijk laden (hier: aankoppelen) van een goed"
+  },
+  {
+   "zin": "De rechter vindt aannemelijk dat hij de auto eerst stilzette en daarna het huurcontract tekende.",
+   "bron": [
+    41
+   ],
+   "citaat": "eerst nadat hij de auto voor het pand van de verhuurder tot stilstand had gebracht"
+  },
+  {
+   "zin": "Volgens de rechter hoeft een controleur ook niet eerst te wachten voordat hij een naheffing oplegt.",
+   "bron": [
+    41
+   ],
+   "citaat": "bestaat geen verplichting voorafgaand aan het opleggen van een naheffingsaanslag een wachttijd in acht te nemen"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de naheffing blijft staan.",
+   "bron": [
+    44
+   ],
+   "citaat": "De slotsom is dat het hoger beroep ongegrond is"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; geen laden of lossen, maar parkeren.",
+ "gevolg_betrokkene": {
+  "zin": "De automobilist moet de naheffing betalen en krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   46
+  ],
+  "citaat": "Het Hof acht geen termen aanwezig voor een kostenveroordeling op de voet van artikel 8:75 van de Awb"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Ik was aan het laden, want ik ging net een aanhanger aan mijn auto koppelen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Eerst kwam het huurcontract en daarna het koppelen, dus de auto stond al geparkeerd.",
+    "bron": [
+     41
+    ],
+    "citaat": "ook indien die handeling slechts één minuut heeft geduurd is de conclusie van het Hof niet anders"
+   },
+   "bruikbare_zin": {
+    "citaat": "Op belanghebbende rust de bewijslast in dezen",
+    "bron": [
+     39
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De auto stond niet op een betaalde parkeerplaats maar blokkeerde een uitrit.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Op de foto's stond de auto in een parkeervak en niet voor een uitrit.",
+    "bron": [
+     36
+    ],
+    "citaat": "stond de auto namelijk niet voor een uitrit maar in een parkeervak naast het bedrijfshek van de verhuurder"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De controleur had moeten wachten om te zien of ik aan het laden was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er is geen plicht om eerst een wachttijd in acht te nemen.",
+    "bron": [
+     41
+    ],
+    "citaat": "bestaat geen verplichting voorafgaand aan het opleggen van een naheffingsaanslag een wachttijd in acht te nemen"
+   },
+   "bruikbare_zin": {
+    "citaat": "bestaat geen verplichting voorafgaand aan het opleggen van een naheffingsaanslag een wachttijd in acht te nemen",
+    "bron": [
+     41
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Onmiddellijk laden of lossen is goederen in- of uitladen direct nadat het voertuig stilstaat, en alleen zolang dat nodig is.",
+  "type": "regel",
+  "reikwijdte": "Alle parkeerbelasting waar laden en lossen is uitgezonderd van parkeren; de parkeerder moet het laden bewijzen.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   39
+  ],
+  "citaat": "onmiddellijk nadat het voertuig tot stilstand is gekomen bij voortduring inladen of uitladen van goederen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "foto's van de controle",
+   "huurovereenkomst met tijdstip"
+  ],
+  "wat_gaf_doorslag": "Het huurcontract is getekend nadat de auto al stilstond."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 Gemeentewet",
+  "art. 2 Verordening Parkeerbelastingen 2016 Amsterdam",
+  "art. 24 RVV 1990",
+  "art. 8:75 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Maak bij elke controle foto's en leg het tijdstip vast, zodat later te zien is dat de auto stilstond.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    20
+   ],
+   "citaat": "Van de controle zijn foto’s gemaakt, die tot de gedingstukken behoren"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Ook als u maar even stilstaat, kan het parkeren zijn. Laden of lossen telt alleen als u meteen na het stilzetten bezig bent met in- of uitladen. Wilt u bezwaar maken, laat dan met een bon of foto zien dat u echt aan het laden was.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

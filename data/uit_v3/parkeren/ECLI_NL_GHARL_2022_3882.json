@@ -1,0 +1,179 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "reden_leeg_actie": null,
+ "dubbel_van": null,
+ "reden_gemeente_leeg": null,
+ "ecli": "ECLI:NL:GHARL:2022:3882",
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg een boete van € 95 voor parkeren op een plek voor vergunninghouders in Weert. Hij ging in hoger beroep tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Woonerfbord heft vergunninghouderszone niet op; boete blijft, code verandert",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder geen vergunning had en dat het woonerfbord de zone niet beëindigde, maar paste de omschrijving van de overtreding aan.",
+  "bron": [
+   36
+  ],
+  "citaat": "Nu de betrokkene niet beschikte over een parkeervergunning waarmee hij mocht parkeren"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete van € 95 voor parkeren op een plek voor vergunninghouders in strijd met de vergunningsvoorwaarden.",
+   "bron": [
+    20
+   ],
+   "citaat": "voertuig parkeren op parkeerplaats voor vergunninghouders in strijd met de aan de vergunning verbonden voorwaarden"
+  },
+  {
+   "zin": "Hij zei dat daar de regels van een woonerf golden en niet die van een vergunninghouderszone.",
+   "bron": [
+    21
+   ],
+   "citaat": "Ook gelden ter plaatse de regels voor een woonerf en niet voor een vergunninghouderszone"
+  },
+  {
+   "zin": "De handhaver verklaarde dat hij geen geldige parkeervergunning zag liggen.",
+   "bron": [
+    28
+   ],
+   "citaat": "Ik zag dat er geen geldige parkeervergunning c.q. kraskaart zone 3 lag."
+  },
+  {
+   "zin": "De rechter vond dat een bord woonerf (G5) de vergunninghouderszone niet opheft; die zone eindigt pas bij een bord dat het einde aangeeft.",
+   "bron": [
+    34
+   ],
+   "citaat": "wordt de werking van de door het bord E9 ingestelde vergunninghouderzone niet opgeheven door plaatsing van een bord G5 (woonerf)"
+  },
+  {
+   "zin": "De parkeerder had niet gezegd en het bleek ook niet dat hij een vergunning had.",
+   "bron": [
+    35
+   ],
+   "citaat": "Namens de betrokkene is niet gesteld, en ook is niet gebleken, dat de betrokkene beschikte over een parkeervergunning"
+  },
+  {
+   "zin": "De rechter paste daarom alleen de code en omschrijving van de overtreding aan; de parkeerder werd daardoor niet benadeeld.",
+   "bron": [
+    36
+   ],
+   "citaat": "Door deze wijziging wordt de betrokkene niet in zijn belangen geschaad"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Alleen overtredingscode aangepast; boete gelijk; proceskosten vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 95 blijft gelijk, maar de parkeerder krijgt € 1.354,50 aan proceskosten vergoed door de advocaat-generaal.",
+  "bron": [
+   45,
+   36,
+   20
+  ],
+  "citaat": "veroordeelt de advocaat-generaal tot het vergoeden van de proceskosten van de betrokkene tot een bedrag van € 1.354,50"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het bord woonerf was het laatste bord, dus de vergunninghoudersregels golden daar niet meer.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een bord woonerf heft de zone met bord E9 niet op.",
+    "bron": [
+     34
+    ],
+    "citaat": "wordt de werking van de door het bord E9 ingestelde vergunninghouderzone niet opgeheven door plaatsing van een bord G5 (woonerf)"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet opgeheven door plaatsing van een bord G5 (woonerf)",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "gehandicaptenkaart",
+   "burger_zegt": "Er lag een gehandicaptenparkeerkaart achter de voorruit.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de handhaver lag er geen gehandicaptenparkeerkaart in de auto, dus dit punt maakte niet uit.",
+    "bron": [
+     34
+    ],
+    "citaat": "volgens de verklaring van de ambtenaar geen gehandicaptenparkeerkaart in het voertuig lag"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De verklaringen van de handhaver spreken elkaar tegen en er is een verkeerde overtredingscode gebruikt.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter wijzigde de code naar R397i, want de handhaver zag geen vergunning.",
+    "bron": [
+     35
+    ],
+    "citaat": "De advocaat-generaal heeft terecht voorgesteld de feitcode van de gedraging te wijzigen naar R397i"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bord woonerf (G5) beëindigt een vergunninghouderszone (bord E9) niet; de zone eindigt pas bij een bord dat het einde van de zone aangeeft.",
+  "type": "regel",
+  "reikwijdte": "Vergunninghouderszones met bord E9 waarin ook een woonerf ligt.",
+  "uitzondering": "De zone eindigt wel bij een bord 'einde zone'.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   34
+  ],
+  "citaat": "wordt de werking van de door het bord E9 ingestelde vergunninghouderzone niet opgeheven door plaatsing van een bord G5 (woonerf)"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "aanvullende processen-verbaal van de handhaver",
+   "foto's van de auto",
+   "afdrukken van Google Maps en Street View"
+  ],
+  "wat_gaf_doorslag": "De auto stond binnen de zone vóór het bord einde zone en er was geen vergunning."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 66 RVV 1990",
+  "bord E9 RVV 1990",
+  "bord G5 RVV 1990",
+  "art. 2 Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Gebruik de code R397i en niet R592a als iemand zonder vergunning op een plek met bord E9 staat.",
+   "raakt": "vergunningen",
+   "bron": [
+    35
+   ],
+   "citaat": "een voertuig parkeren op een parkeerplaats voor vergunninghouders aangeduid door verkeersbord E9"
+  }
+ ],
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "klantcontact",
+  "bebording-verkeersbesluit"
+ ],
+ "klantuitleg": "In een zone met bord E9 mag u alleen parkeren met een vergunning voor die zone. Een bord woonerf maakt daar geen einde aan; de zone stopt pas bij een bord dat het einde aangeeft. Bezwaar heeft weinig kans als u geen vergunning had; kijk bij uw bezwaar met een kaart of foto's of u echt buiten de zone stond.",
+ "gemeente": "Weert",
+ "zekerheid": "hoog"
+}

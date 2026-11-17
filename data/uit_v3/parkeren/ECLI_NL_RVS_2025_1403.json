@@ -1,0 +1,164 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:1403",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bedrijfsvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bewoner van Amsterdam Nieuw-West gaat in hoger beroep tegen de gemeente Amsterdam, die zijn bedrijfsparkeervergunning introk. De Raad van State beslist mondeling.",
+ "titel": "Bedrijfsparkeervergunning ingetrokken: gemeente mag fout herstellen",
+ "kern": {
+  "zin": "De Raad van State vond dat de gemeente de vergunning mocht intrekken, omdat die waarschijnlijk ten onrechte was verleend en de hardheidsclausule hier niet gold.",
+  "bron": [
+   25
+  ],
+  "citaat": "Het college mag een gemaakte fout herstellen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner woont in een gebied van Amsterdam waar geen bedrijfsparkeervergunningen per adres mogen worden verleend.",
+   "bron": [
+    23
+   ],
+   "citaat": "Daar geldt een maximum van nul (bedrijfs-)parkeervergunningen per adres"
+  },
+  {
+   "zin": "De gemeente trok de vergunning in omdat de verordening in dit gebied geen parkeervergunningen toestaat.",
+   "bron": [
+    23
+   ],
+   "citaat": "omdat de Parkeerverordening 2013 (hierna: Parkeerverordening) voorschrijft dat er in dit gebied geen parkeervergunningen mogen worden verstrekt"
+  },
+  {
+   "zin": "De bewoner zei dat de vergunning was verleend op grond van de hardheidsclausule; de rechtbank vond dat dit waarschijnlijk een fout was.",
+   "bron": [
+    24
+   ],
+   "citaat": "dat het college destijds foutief de parkeervergunning heeft verleend en niet, zoals [appellant] betoogt, op grond van de hardheidsclausule"
+  },
+  {
+   "zin": "De Raad van State vond dat de hardheidsclausule alleen bij zeer schrijnende gevallen wordt gebruikt en dat dit er geen was.",
+   "bron": [
+    25
+   ],
+   "citaat": "omdat dat alleen gebeurt in zeer schrijnende gevallen"
+  },
+  {
+   "zin": "De nadelen voor de bewoner waren niet genoeg om de intrekking onevenwichtig te noemen.",
+   "bron": [
+    25
+   ],
+   "citaat": "is dat niet voldoende om het besluit onevenwichtig te achten"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    26
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak moet worden bevestigd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; intrekking van de vergunning blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De bedrijfsparkeervergunning blijft ingetrokken en de gemeente hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   27,
+   26
+  ],
+  "citaat": "Het college hoeft geen proceskosten te vergoeden"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De vergunning was verleend op grond van de hardheidsclausule, dus de gemeente mocht haar niet intrekken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De hardheidsclausule wordt alleen bij zeer schrijnende gevallen gebruikt en dit was er geen.",
+    "bron": [
+     25
+    ],
+    "citaat": "omdat dat alleen gebeurt in zeer schrijnende gevallen"
+   },
+   "bruikbare_zin": {
+    "citaat": "De Afdeling ziet geen aanleiding om aan te nemen dat het college destijds de hardheidsclausule heeft toegepast",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De intrekking heeft nadelige gevolgen voor hem.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Nadelen alleen zijn niet genoeg om het besluit onevenwichtig te noemen.",
+    "bron": [
+     25
+    ],
+    "citaat": "is dat niet voldoende om het besluit onevenwichtig te achten"
+   },
+   "bruikbare_zin": {
+    "citaat": "is dat niet voldoende om het besluit onevenwichtig te achten",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een gemeente mag een vergunning die ten onrechte is verleend intrekken, als de verordening in dat gebied geen vergunning toestaat.",
+  "type": "regel",
+  "reikwijdte": "Parkeervergunningen in gebieden waar de verordening nul vergunningen toestaat.",
+  "uitzondering": "Zeer schrijnende gevallen, waarin de hardheidsclausule kan worden toegepast.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "Het college mag een gemaakte fout herstellen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De bewoner voldeed niet aan de voorwaarden van de verordening en er was geen zeer schrijnend geval."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Parkeerverordening 2013 Amsterdam",
+  "art. 8:67 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Gebruik de hardheidsclausule alleen bij zeer schrijnende gevallen en leg vast waarom het zo'n geval is.",
+   "raakt": "vergunningen",
+   "bron": [
+    25
+   ],
+   "citaat": "omdat dat alleen gebeurt in zeer schrijnende gevallen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "verordening-beleid",
+  "klantcontact"
+ ],
+ "klantuitleg": "Ligt uw adres in een gebied waar de regels geen bedrijfsparkeervergunning toestaan, dan mag de gemeente een vergunning die per ongeluk is verleend weer intrekken. De uitzondering voor harde gevallen geldt alleen bij zeer schrijnende situaties; alleen nadeel of ongemak is niet genoeg. Wilt u bezwaar maken, leg dan uit waarom uw situatie zeer schrijnend is en voeg bewijs toe.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

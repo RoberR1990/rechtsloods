@@ -1,0 +1,173 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2022:1253",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder)",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Amsterdam een naheffing (de rekening achteraf), omdat er geen parkeerbelasting was betaald. Hij ging bij de rechtbank Amsterdam in beroep tegen de gemeente.",
+ "titel": "Kort stilstaan om aan te bellen telt toch als parkeren",
+ "kern": {
+  "zin": "De naheffing bleef staan, omdat aanbellen niet onder direct in- of uitstappen valt.",
+  "bron": [
+   19
+  ],
+  "citaat": "valt het uitstappen om aan te bellen niet onder het onmiddellijk in- en uitstappen van personen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Na een controle kreeg de parkeerder een naheffing, omdat er niets was betaald.",
+   "bron": [
+    15
+   ],
+   "citaat": "werd een naheffingsaanslag parkeerbelasting opgelegd omdat er geen parkeerbelasting was betaald"
+  },
+  {
+   "zin": "De parkeerder zei dat hij maar even stilstond om bij zijn zoon aan te bellen.",
+   "bron": [
+    18
+   ],
+   "citaat": "waar hij is uitgestapt om aan te bellen"
+  },
+  {
+   "zin": "De gemeente liet een scandossier zien met nummerbordfoto's en gps-gegevens van de scanplek.",
+   "bron": [
+    17
+   ],
+   "citaat": "heeft namelijk een zogeheten scandossier aangeleverd met daarin foto’s van de scan van het nummerbord"
+  },
+  {
+   "zin": "De rechtbank vond aannemelijk dat de auto om 17.09 uur op die plek stond.",
+   "bron": [
+    17
+   ],
+   "citaat": "heeft de heffingsambtenaar aannemelijk gemaakt dat de auto op 14 maart 2021 om 17.09 uur geparkeerd stond"
+  },
+  {
+   "zin": "Ook een minuut stilstaan telt als parkeren, dus de belasting was verschuldigd.",
+   "bron": [
+    20
+   ],
+   "citaat": "Ook kort parkeren valt namelijk onder parkeren"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Belasting blijft verschuldigd; kort stilstaan telt als parkeren.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan, en er komt geen vergoeding van proceskosten of griffierecht (het bedrag voor de rechtbank).",
+  "bron": [
+   26,
+   24
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Hij stond maar even stil om aan te bellen, dus hij parkeerde niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Kort stilstaan telt ook als parkeren, dus de belasting was verschuldigd.",
+    "bron": [
+     20
+    ],
+    "citaat": "Ook kort parkeren valt namelijk onder parkeren"
+   },
+   "bruikbare_zin": {
+    "citaat": "valt het uitstappen om aan te bellen niet onder het onmiddellijk in- en uitstappen van personen",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Een naheffing voor één minuut parkeren vindt hij onredelijk.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechtbank liet de vraag of dit redelijk is open, omdat dat niet aan haar is.",
+    "bron": [
+     20
+    ],
+    "citaat": "staat namelijk niet aan de rechtbank ter beoordeling"
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Het tijdstip van 17.09 uur klopt volgens hem niet, want zijn eigen journaal zegt iets anders.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank geloofde het tijdstip uit het scandossier, omdat hij alleen zijn eigen journaal als bewijs gaf.",
+    "bron": [
+     21
+    ],
+    "citaat": "zijn stelling enkel onderbouwt met informatie uit het journaal dat hij zelf geschreven heeft"
+   },
+   "bruikbare_zin": {
+    "citaat": "en niet met objectief controleerbare informatie",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Volgens hem betaalde zijn zoon via Parkmobile voor de auto van 17.38 tot 19.38 uur.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechtbank vond dit niet van belang voor de naheffing van 17.09 uur.",
+    "bron": [
+     22
+    ],
+    "citaat": "in deze zaak niet van belang is dat vast komt te staan wie de parkeerbelasting"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een stop van een minuut om aan te bellen geldt al als parkeren en is dus belastbaar.",
+  "type": "regel",
+  "reikwijdte": "parkeerbelasting bij korte stops, zoals even aanbellen",
+  "uitzondering": "alleen direct in- en uitstappen of direct laden en lossen valt daar niet onder",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   20
+  ],
+  "citaat": "Ook kort parkeren valt namelijk onder parkeren"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "scandossier met foto's van het nummerbord",
+   "gps-coördinaten van de scanplek",
+   "foto's van de auto zonder personen"
+  ],
+  "wat_gaf_doorslag": "Het scandossier met tijd en plaats; het journaal van de parkeerder was niet objectief controleerbaar."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente kreeg gelijk; geen tekortkoming aangewezen",
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "tarief-naheffing",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Stilstaan om even aan te bellen telt als parkeren, dus dan moet u betalen. Alleen direct in- of uitstappen, of direct laden en lossen, valt daar niet onder. Wilt u bezwaar maken, dan helpt concreet bewijs van een andere tijd of betaling; een eigen dagboek is onvoldoende.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

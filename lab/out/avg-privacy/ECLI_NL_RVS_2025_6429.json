@@ -1,0 +1,166 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:6429",
+ "relevant": true,
+ "onderwerp": "schade-aansprakelijkheid",
+ "sub": "dwangsom-niet-tijdig",
+ "kenmerk": null,
+ "zaaktype": "niet-tijdig-beslissen",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Lisse",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger vroeg de gemeente Lisse om inzage in een factuur en vond dat de gemeente te laat besliste. Hij ging in hoger beroep bij de Raad van State tegen een uitspraak van de rechtbank.",
+ "titel": "Besluit op inzageverzoek was op tijd, ondanks verkeerde gemeentenaam",
+ "kern": {
+  "zin": "De Raad van State bevestigt dat het hoger beroep ongegrond is, omdat de burger niet uitlegt waarom de uitspraak van de rechtbank onjuist is.",
+  "bron": [
+   24
+  ],
+  "citaat": "heeft geen redenen aangevoerd waarom de gemotiveerde beoordeling van die gronden in de aangevallen uitspraak onjuist of onvolledig zou zijn"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente om inzage in een factuur op grond van de AVG.",
+   "bron": [
+    19
+   ],
+   "citaat": "verzoek om inzage gedaan op grond van de Algemene Verordening Gegevensbescherming"
+  },
+  {
+   "zin": "De gemeente zei dat zij op 5 januari 2024 op tijd had besloten en dus geen dwangsom (een bedrag voor te laat beslissen) verschuldigd was.",
+   "bron": [
+    19
+   ],
+   "citaat": "tijdig, namelijk op 5 januari 2024, een besluit is genomen op zijn verzoek"
+  },
+  {
+   "zin": "De burger zegt dat het besluit is genomen door een orgaan dat daar niet toe bevoegd is.",
+   "bron": [
+    23
+   ],
+   "citaat": "Het besluit is namelijk genomen door een onbevoegd bestuursorgaan"
+  },
+  {
+   "zin": "De rechtbank vond dat de verkeerde gemeentenaam in de ondertekening een kennelijke verschrijving was.",
+   "bron": [
+    21
+   ],
+   "citaat": "De rechtbank gaat uit van een kennelijke verschrijving, welke [appellant] kenbaar had moeten zijn"
+  },
+  {
+   "zin": "De Raad van State vindt de gronden van de burger bijna gelijk aan zijn eerdere gronden en kan zich vinden in de rechtbank.",
+   "bron": [
+    24
+   ],
+   "citaat": "De Afdeling kan zich vinden in het oordeel van de rechtbank"
+  },
+  {
+   "zin": "Het hoger beroep is daarom ongegrond.",
+   "bron": [
+    25
+   ],
+   "citaat": "Het hoger beroep is ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Besluit op tijd genomen; fout in gemeentenaam maakt het niet ongeldig.",
+ "gevolg_betrokkene": {
+  "zin": "Het beroep van de burger blijft niet-ontvankelijk en de gemeente hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   26
+  ],
+  "citaat": "Het college hoeft geen proceskosten te vergoeden"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De burger zegt dat de gemeente niet op tijd besliste op zijn inzageverzoek.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat de gemeente op 5 januari 2024 wel op het verzoek had beslist.",
+    "bron": [
+     21
+    ],
+    "citaat": "het college op 5 januari 2024 op het verzoek van [appellant] heeft beslist"
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank gaat uit van een kennelijke verschrijving",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De burger zegt dat het besluit niet geldig is, omdat de ondertekening een andere gemeente noemt en de fout voor rekening van de gemeente moet komen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat de verkeerde gemeentenaam in de ondertekening het besluit niet ongeldig maakt; de Raad van State volgt dat.",
+    "bron": [
+     21
+    ],
+    "citaat": "maakt naar het oordeel van de rechtbank niet dat er door het college geen besluit"
+   },
+   "bruikbare_zin": {
+    "citaat": "Uit het briefhoofd van de gemeente Lisse en de rechtsmiddelenclausule volgt dit ook",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een verkeerde gemeentenaam in de ondertekening maakt een besluit niet ongeldig als briefhoofd, kenmerk en rechtsmiddelenclausule de juiste gemeente laten zien.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Besluit waarin alleen de ondertekening een andere gemeente noemt, terwijl briefhoofd, kenmerk en rechtsmiddelenclausule kloppen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "Uit het briefhoofd van de gemeente Lisse en de rechtsmiddelenclausule volgt dit ook"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "briefhoofd",
+   "kenmerk van het besluit",
+   "rechtsmiddelenclausule"
+  ],
+  "wat_gaf_doorslag": "Briefhoofd, kenmerk en rechtsmiddelenclausule lieten zien welke gemeente besliste."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "AVG",
+  "Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zorg dat briefhoofd, kenmerk en rechtsmiddelenclausule van een besluit de juiste gemeente noemen, zodat een verschrijving later te herstellen is.",
+   "raakt": "bezwaar",
+   "bron": [
+    21
+   ],
+   "citaat": "De kennelijke verschrijving had in een eventuele bezwaarprocedure hersteld kunnen worden"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "privacy-fg",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u een besluit krijgt over uw inzageverzoek, dan telt dat ook als er een kleine fout in staat, zoals een verkeerde gemeentenaam in de ondertekening. Zo'n fout hoeft het besluit niet ongeldig te maken. Twijfelt u of u een besluit heeft gekregen, maak dan op tijd bezwaar.",
+ "gemeente": "Lisse",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

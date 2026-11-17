@@ -1,0 +1,191 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "ecli": "ECLI:NL:GHDHA:2024:2055",
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder in Den Haag parkeerde met de bezoekersvergunning van zijn ex-partner. Het aanmelden van zijn auto mislukte eerst; hij kreeg een rekening achteraf (naheffing) en ging in hoger beroep tegen de gemeente bij het gerechtshof Den Haag.",
+ "titel": "Bezoeker niet aangemeld: rekening achteraf blijft staan",
+ "kern": {
+  "zin": "Het hof vond de rekening terecht: de auto was 19 minuten niet aangemeld en de parkeerder deed niet voortdurend wat nodig was.",
+  "bron": [
+   41
+  ],
+  "citaat": "kan niet gezegd worden dat belanghebbende vanaf het moment van parkeren tot het moment waarop de auto werd aangemeld"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 13 juli 2022 stond de auto om 17.25 uur zonder betaling of geldige vergunning geparkeerd; om 17.44 uur werd de auto alsnog aangemeld.",
+   "bron": [
+    19,
+    21
+   ],
+   "citaat": "Op 13 juli 2022 om 17.25 uur stond de auto van belanghebbende met kenteken"
+  },
+  {
+   "zin": "De parkeerder zei dat het aanmelden mislukte door zijn ernstig zieke ex-partner en dat hij dat pas later merkte.",
+   "bron": [
+    39
+   ],
+   "citaat": "er iets misging bij het aanmelden voor de bezoekersvergunning door zijn ernstig zieke ex-partner"
+  },
+  {
+   "zin": "De gemeente wilde dat het hof de uitspraak van de rechtbank bevestigt.",
+   "bron": [
+    37
+   ],
+   "citaat": "De Heffingsambtenaar concludeert tot bevestiging van de uitspraak van de Rechtbank."
+  },
+  {
+   "zin": "Het hof zei dat de vergunning pas geldt als het kenteken is aangemeld en dat de parkeerder meteen en voortdurend moet doorgaan tot de aanmelding klaar is.",
+   "bron": [
+    40
+   ],
+   "citaat": "geldt dat de parkeervergunning geldig is op het moment dat het kenteken van een bezoeker wordt aangemeld"
+  },
+  {
+   "zin": "Ziekte van de ex-partner was zonder uitleg geen bijzondere omstandigheid, omdat de parkeerder niet vertelde waarom aanmelden niet lukte.",
+   "bron": [
+    42
+   ],
+   "citaat": "Waarom die medische omstandigheden ertoe hebben geleid dat de ex-partner van belanghebbende de auto niet kon aanmelden"
+  },
+  {
+   "zin": "Over coulance kan het hof niet oordelen; dat is aan het college van burgemeester en wethouders. Het hof verklaarde het hoger beroep ongegrond.",
+   "bron": [
+    43,
+    46
+   ],
+   "citaat": "tegemoetkomen aan onbillijkheden van overwegende aard bij de heffing en invordering van gemeentelijke belastingen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Auto was bij controle niet aangemeld; ziekte zonder uitleg is geen reden.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening achteraf blijft staan en de parkeerder krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   48
+  ],
+  "citaat": "Het Hof ziet geen aanleiding voor een proceskostenveroordeling."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "De aanmelding voor de bezoekersvergunning mislukte; 19 minuten later was de auto wel aangemeld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De vergunning geldt pas op het moment dat het kenteken is aangemeld.",
+    "bron": [
+     40
+    ],
+    "citaat": "geldt dat de parkeervergunning geldig is op het moment dat het kenteken van een bezoeker wordt aangemeld"
+   },
+   "bruikbare_zin": {
+    "citaat": "onverwijld na het parkeren en voortdurend uitvoeringshandelingen moet verrichten",
+    "bron": [
+     40
+    ]
+   }
+  },
+  {
+   "arg": "overmacht-medisch",
+   "burger_zegt": "Mijn ex-partner was ernstig ziek, daardoor mislukte de aanmelding.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Alleen zeggen dat de ex-partner ernstig ziek is, zonder uitleg, is geen reden om een bijzondere omstandigheid aan te nemen.",
+    "bron": [
+     42
+    ],
+    "citaat": "is het feit dat de ex-partner van belanghebbende ernstig ziek is, zonder nadere verklaring, die ontbreekt, geen reden"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Ik had geen onwil en de rekening moet om coulance vervallen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Parkeerbelasting hangt niet af van de bedoeling van de parkeerder.",
+    "bron": [
+     44
+    ],
+    "citaat": "Parkeerbelasting is een objectieve heffing die aanknoopt bij parkeren"
+   },
+   "bruikbare_zin": {
+    "citaat": "De subjectieve bedoeling van de belastingplichtige speelt daarbij geen rol",
+    "bron": [
+     44
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bezoekersvergunning die niet op kenteken is afgegeven, geldt pas als het kenteken is aangemeld; de parkeerder moet direct en voortdurend doorgaan tot de aanmelding klaar is.",
+  "type": "regel",
+  "reikwijdte": "Bezoekersparkeervergunningen die pas gelden nadat het kenteken van de bezoeker is aangemeld.",
+  "uitzondering": "Bijzondere omstandigheden waardoor aannemelijk is dat het niet aanmelden niet aan de parkeerder te wijten is.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   40
+  ],
+  "citaat": "onverwijld na het parkeren en voortdurend uitvoeringshandelingen moet verrichten totdat de parkeerbelasting is betaald"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "tijdstip van de controle door de scanauto",
+   "tijdstip van de aanmelding op de bezoekersvergunning"
+  ],
+  "wat_gaf_doorslag": "Tussen controle en aanmelding zaten 19 minuten en de parkeerder legde niet uit waarom aanmelden niet lukte."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:1997:AA3336",
+   "ECLI:NL:HR:2005:AU5160"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 63 AWR",
+  "art. 231 Gemeentewet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vermeld bij bezoekersparkeren dat de vergunning pas geldt als het kenteken is aangemeld en dat de bezoeker dat meteen na het parkeren moet doen.",
+   "raakt": "vergunningen",
+   "bron": [
+    40
+   ],
+   "citaat": "geldt dat de parkeervergunning geldig is op het moment dat het kenteken van een bezoeker wordt aangemeld"
+  },
+  {
+   "actie": "Vraag bij een beroep op medische omstandigheden om uitleg waarom het aanmelden niet lukte.",
+   "raakt": "bezwaar",
+   "bron": [
+    42
+   ],
+   "citaat": "heeft belanghebbende echter, ook nadat hem daarom ter zitting is gevraagd, niet toegelicht"
+  }
+ ],
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een bezoekersvergunning geldt pas als het kenteken van uw bezoek is aangemeld. Meld de auto meteen na het parkeren aan en controleer of dat gelukt is. Lukt het niet door bijvoorbeeld ziekte, leg dan bij uw bezwaar precies uit waarom, want alleen ziekte noemen is te weinig.",
+ "gemeente": "Den Haag",
+ "zekerheid": "middel"
+}

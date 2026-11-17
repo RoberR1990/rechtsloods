@@ -1,0 +1,163 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2025:11307",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Amsterdam een naheffing (de rekening achteraf), omdat hij bij het parkeren niet had betaald. Hij ging in beroep bij de rechtbank Amsterdam.",
+ "titel": "Parkeerder betaalde te laat en verloor beroep",
+ "kern": {
+  "zin": "De rechter oordeelde dat de parkeerder te laat betaalde, want de tijd om alsnog te betalen was ruim voorbij.",
+  "bron": [
+   22
+  ],
+  "citaat": "In eisers geval is deze termijn van tien minuten ruimschoots overschreden."
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 4 maart 2025 stond de auto van de parkeerder zonder betaalde parkeerbelasting in de straat.",
+   "bron": [
+    15
+   ],
+   "citaat": "terwijl daarvoor geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat het aanmeldsysteem van de gemeente op dat moment niet werkte, terwijl hij een slechtziende passagier had.",
+   "bron": [
+    18
+   ],
+   "citaat": "Op het moment dat eiser zijn auto parkeerde, werkte het aanmeldsysteem van de gemeente volgens eiser echter niet"
+  },
+  {
+   "zin": "De gemeente hield vol dat het systeem wel werkte en dat de parkeerder ook op een andere manier kon betalen.",
+   "bron": [
+    19
+   ],
+   "citaat": "Volgens de heffingsambtenaar werkte het aanmeldsysteem op het moment dat eiser daarvan gebruik wilde maken gewoon."
+  },
+  {
+   "zin": "De rechter volgde de gemeente, omdat de parkeerder niet kon bewijzen dat het systeem stuk was.",
+   "bron": [
+    21
+   ],
+   "citaat": "heeft eiser, ook desgevraagd ter zitting, niet kunnen aantonen dat het aanmeldsysteem niet functioneerde"
+  },
+  {
+   "zin": "Volgens de rechter was de termijn van tien minuten om alsnog te betalen ruim voorbij.",
+   "bron": [
+    22
+   ],
+   "citaat": "In eisers geval is deze termijn van tien minuten ruimschoots overschreden."
+  },
+  {
+   "zin": "Het beroep werd daarom ongegrond verklaard, en de naheffing blijft staan.",
+   "bron": [
+    25
+   ],
+   "citaat": "Het beroep is ongegrond. Dat betekent dat de naheffingsaanslag terecht is opgelegd en eiser deze dient te voldoen."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan, geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing betalen en krijgt het griffierecht (het bedrag om de zaak te starten) en proceskosten niet terug.",
+  "bron": [
+   25
+  ],
+  "citaat": "Omdat eiser geen gelijk heeft, krijgt hij het door hem betaalde griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "Het aanmeldsysteem van de gemeente werkte op het moment van parkeren niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter geloofde de gemeente, omdat de parkeerder niet kon aantonen dat het systeem niet werkte.",
+    "bron": [
+     21
+    ],
+    "citaat": "heeft eiser, ook desgevraagd ter zitting, niet kunnen aantonen dat het aanmeldsysteem niet functioneerde"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dit terwijl de heffingsambtenaar heeft toegelicht en onderbouwd dat het systeem wel werkte.",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "gehandicaptenkaart",
+   "burger_zegt": "Betalen op een andere manier was onredelijk; de kaart is juist bedoeld om mensen met een beperking te ontzien.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de bestuurder zelf geen beperking had en dus wel op een andere manier kon betalen.",
+    "bron": [
+     21
+    ],
+    "citaat": "eiser als bestuurder zelf geen beperkingen heeft, zodat van hem"
+   },
+   "bruikbare_zin": {
+    "citaat": "van een persoon met een beperking niet altijd kan worden verwacht dat hij of zij naar een parkeerautomaat loopt",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder krijgt na het parkeren een termijn van tien minuten om alsnog te betalen.",
+  "type": "regel",
+  "reikwijdte": "parkeerders die pas na het begin van het parkeren betalen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   22
+  ],
+  "citaat": "Een termijn van tien minuten wordt hierbij redelijk geacht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "storingsoverzicht van de gemeente"
+  ],
+  "wat_gaf_doorslag": "Het storingsoverzicht liet zien dat het systeem werkte; de parkeerder kon het tegendeel niet aantonen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Verordening Parkeerbelastingen 2025 (gemeente Amsterdam)"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Houd een storingsoverzicht van het aanmeldsysteem bij, zodat u bij een beroep kunt aantonen dat het werkte.",
+   "raakt": "bezwaar",
+   "bron": [
+    19
+   ],
+   "citaat": "Dit blijkt uit het storingsoverzicht dat door de heffingsambtenaar wordt bijgehouden"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "U moet parkeergeld betalen zodra u gaat staan, tenzij er een noodsituatie is. Lukt dat niet, dan hebt u tien minuten om alsnog te betalen, en u moet dan meteen actie ondernemen. Ging de betaling bij een storing mis, leg dat dan vast met bewijs, zoals een foto, want zonder bewijs is een bezwaar weinig waard.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

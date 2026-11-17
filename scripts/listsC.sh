@@ -1,0 +1,1 @@
+for y in 2022 2023 2024 2025 2026; do e=$([ $y = 2026 ] && echo 2026-11-12 || echo $y-12-31); python3 scripts/feed.py "http://psi.rechtspraak.nl/rechtsgebied#civielRecht" $y-01-01 $e data/feeds/civ$y.json; done; echo KLAAR

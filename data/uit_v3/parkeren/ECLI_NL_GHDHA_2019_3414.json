@@ -1,0 +1,157 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2019:3414",
+ "relevant": true,
+ "kenmerk": null,
+ "dubbel_van": null,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner met vergunning",
+  "wederpartij": "gemeente (naam geanonimiseerd)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bewoner met een parkeervergunning kreeg vier naheffingen (rekeningen achteraf) in vier dagen voor een vervangende auto. Hij ging in hoger beroep bij het gerechtshof Den Haag tegen de gemeente.",
+ "titel": "Vier naheffingen vervallen: digitaal loket was te onduidelijk",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente zorgt voor een digitaal systeem dat voor gewone burgers duidelijk is, en dat de fout bij de gemeente lag.",
+  "bron": [
+   86
+  ],
+  "citaat": "het de verantwoordelijkheid van het bestuursorgaan is een systeem te ontwerpen dat goed toegankelijk is voor een modale burger"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger bracht zijn auto naar de garage en kreeg een vervangende auto; voor zijn eigen auto had hij een vergunning.",
+   "bron": [
+    19
+   ],
+   "citaat": "naar de garage gebracht in verband met een reparatie"
+  },
+  {
+   "zin": "Bij controles bleek dat voor de vervangende auto geen vergunning was aangemeld en geen parkeerbelasting was betaald.",
+   "bron": [
+    20
+   ],
+   "citaat": "geen geldige parkeervergunning was aangemeld dan wel parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De burger zei dat hij zijn uiterste best had gedaan om de vergunning te wijzigen.",
+   "bron": [
+    84
+   ],
+   "citaat": "hij zijn uiterste best heeft gedaan zijn parkeervergunning te wijzigen"
+  },
+  {
+   "zin": "De gemeente zei dat het haar niet te verwijten is dat mensen niet goed kunnen lezen, ook al maken veel mensen dezelfde fout.",
+   "bron": [
+    85
+   ],
+   "citaat": "dat mensen kennelijk niet goed kunnen lezen"
+  },
+  {
+   "zin": "De rechter zei dat een gemeente die dezelfde fout vaak ziet, het systeem moet verduidelijken of aanpassen.",
+   "bron": [
+    86
+   ],
+   "citaat": "mag van een behoorlijk handelende overheid worden verwacht dat het systeem wordt verduidelijkt, dan wel aangepast"
+  },
+  {
+   "zin": "Vier naheffingen in vier dagen vond de rechter niet in verhouding en niet zorgvuldig; het hoger beroep was gegrond.",
+   "bron": [
+    87
+   ],
+   "citaat": "is disproportioneel en in strijd met wat van een zorgvuldig handelende overheid kan worden verwacht"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Vier naheffingen vernietigd; griffierecht van € 174 vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De vier naheffingen van elk € 63,70 vervallen en de gemeente betaalt € 174 griffierecht terug; een proceskostenvergoeding krijgt de burger niet.",
+  "bron": [
+   97,
+   96,
+   90
+  ],
+  "citaat": "een bedrag van € 174 aan griffierecht te vergoeden"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Hij had de wijziging van het kenteken geprobeerd door te geven en mocht denken dat die klopte.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Dat de wijziging niet is doorgevoerd in het systeem van de gemeente, komt voor risico van de gemeente.",
+    "bron": [
+     87
+    ],
+    "citaat": "behoort onder deze omstandigheden niet voor belanghebbendes risico te komen"
+   },
+   "bruikbare_zin": {
+    "citaat": "op de site niet wordt vermeld dat standaard een mail volgt op het honoreren van een wijzigingsaanvraag",
+    "bron": [
+     87
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een gemeente die vergunningen digitaal laat wijzigen, moet een systeem bieden waarin een wijziging eenvoudig en duidelijk kan worden doorgegeven.",
+  "type": "regel",
+  "reikwijdte": "Gemeenten die parkeervergunningen digitaal laten wijzigen, zeker als bekend is dat veel mensen dezelfde fout maken.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   86
+  ],
+  "citaat": "Een wijziging dient op eenduidige en eenvoudige wijze te kunnen worden aangebracht."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "schermafdrukken van het digitale loket",
+   "bevestiging van de gemeente dat de wijziging was gestart"
+  ],
+  "wat_gaf_doorslag": "De gemeente erkende dat veel mensen dezelfde fout maken bij 'Bewaar aanvraag' en 'Volgende stap'."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "nieuw",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:75 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Maak de knoppen in het digitale loket (zoals 'Bewaar aanvraag' en 'Volgende stap') zo duidelijk dat niemand ze verwart.",
+   "raakt": "betaalapp",
+   "bron": [
+    86
+   ],
+   "citaat": "mag van een behoorlijk handelende overheid worden verwacht dat het systeem wordt verduidelijkt, dan wel aangepast"
+  },
+  {
+   "actie": "Vermeld op de site of er na een gelukte wijziging een bevestigingsmail volgt.",
+   "raakt": "communicatie",
+   "bron": [
+    87
+   ],
+   "citaat": "op de site niet wordt vermeld dat standaard een mail volgt op het honoreren van een wijzigingsaanvraag"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "betaalapp",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Als u een vergunning of kenteken digitaal wijzigt en het systeem is onduidelijk, kan een rekening achteraf onterecht zijn. Dat geldt zeker als u duidelijk uw best deed en de gemeente weet dat veel mensen dezelfde fout maken. Bewaar schermafdrukken en maak bezwaar met die afdrukken erbij.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "zekerheid": "middel"
+}

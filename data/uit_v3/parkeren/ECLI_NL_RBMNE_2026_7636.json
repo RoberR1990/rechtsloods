@@ -1,0 +1,44 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2026:7636",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "invordering",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "parkeerder (met gemachtigde)", "wederpartij": "Belastingsamenwerking gemeenten en hoogheemraadschap Utrecht", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Dit gaat over aanmaningskosten van 9 euro, omdat een naheffingsaanslag (de rekening achteraf) niet op tijd was betaald. De parkeerder procedeert tegen de belastingsamenwerking bij de rechtbank Midden-Nederland.",
+ "titel": "Aanmaningskosten blijven: bericht stond in de berichtenbox",
+ "kern": {"zin": "Volgens de rechter kwam de aanslag wel in de berichtenbox, dus de aanmaningskosten zijn terecht in rekening gebracht.", "bron": [25], "citaat": "heeft naar het oordeel van de rechtbank aannemelijk gemaakt"},
+ "samenvatting": [
+  {"zin": "Het ging om aanmaningskosten van 9 euro voor een niet betaalde naheffingsaanslag.", "bron": [11], "citaat": "voor het niet op tijd betalen van een aan hem opgelegde naheffingsaanslag parkeerbelasting"},
+  {"zin": "De parkeerder zei dat de aanslag hem nooit had bereikt, en dat er geen melding kwam.", "bron": [18], "citaat": "betwist dat de heffingsambtenaar de naheffingsaanslag langs de digitale weg bekend heeft gemaakt en hem heeft bereikt"},
+  {"zin": "De gemeente wees op schermopnames van MijnOverheid en op een e-mail van Logius.", "bron": [19], "citaat": "heeft verschillende schermopnames overgelegd van MijnOverheid"},
+  {"zin": "Volgens de rechter kwam de aanslag wel aan en was de gemeente in orde.", "bron": [25], "citaat": "heeft naar het oordeel van de rechtbank aannemelijk gemaakt"},
+  {"zin": "De aanmaningskosten blijven staan en de parkeerder krijgt het griffierecht niet terug.", "bron": [27], "citaat": "Eiser krijgt ook het griffierecht niet terug"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; aanslag via MijnOverheid bekend gemaakt, kosten blijven",
+ "gevolg_betrokkene": {"zin": "De parkeerder betaalt de aanmaningskosten van 9 euro en krijgt het griffierecht niet terug.", "bron": [27, 11], "citaat": "Eiser krijgt ook het griffierecht niet terug"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "overig", "burger_zegt": "De aanslag is nooit in mijn berichtenbox aangekomen, en ik kreeg geen e-mailmelding.", "oordeel": "verworpen", "waarom": {"zin": "Volgens de rechter was de stelling dat de aanslag niet was aangekomen op zich onvoldoende.", "bron": [25], "citaat": "De enkele stelling dat het bericht hem niet heeft bereikt"}, "bruikbare_zin": {"citaat": "De enkele stelling dat het bericht hem niet heeft bereikt", "bron": [25]}},
+  {"arg": "overig", "burger_zegt": "Een uitspraak van de Centrale Raad van Beroep geldt ook voor mijn zaak.", "oordeel": "verworpen", "waarom": {"zin": "De rechter zag die uitspraak niet als vergelijkbaar, omdat daar geen e-mailmelding was.", "bron": [25], "citaat": "deze zaak niet vergelijkbaar is met onderhavige zaak"}, "bruikbare_zin": {"citaat": "deze zaak niet vergelijkbaar is met onderhavige zaak", "bron": [25]}}
+ ],
+ "rechtsregel": {"zin": "Als de gemeente aannemelijk maakt dat de aanslag is verstuurd, moet de parkeerder laten zien waarom hij die niet kreeg.", "type": "regel", "reikwijdte": "aanslagen die digitaal of per post zijn verstuurd", "uitzondering": null, "herkomst": "wet", "bron": [23], "citaat": "dan ligt het vervolgens op de weg van eiser om het vermoeden van de ontvangst te ontzenuwen"},
+ "bewijs": {"bewijslast_bij": "wederpartij", "bewijsmiddelen": ["verzendadministratie met uniek bericht-ID", "schermopnames van MijnOverheid", "e-mailwisseling met Logius"], "wat_gaf_doorslag": "De verzendadministratie liet zien dat het bericht en de e-mailmelding zijn verstuurd."},
+ "toepasselijkheid": "landelijk",
+ "lijn": {"soort": "onbekend", "eerdere": ["ECLI:NL:CRVB:2021:2174"]},
+ "wetsartikelen": ["art. 3:40 Awb", "art. 3:41 lid 1 Awb", "art. 2:14 lid 1 Awb"],
+ "actie_gemeente": [
+  {"actie": "Bewaar bij elke digitale aanslag de verzendadministratie en de e-mailnotificatie, zodat verzending later aannemelijk is.", "raakt": "bezwaar", "bron": [24], "citaat": "Uit de verzendadministratie blijkt verder dat de verzending van de e-mailnotificatie"}
+ ],
+ "reden_leeg_actie": null,
+ "raakt": ["bezwaar", "klantcontact"],
+ "klantuitleg": "Een aanmaning omdat u een parkeerrekening niet op tijd hebt betaald, is terecht als de gemeente kan aantonen dat de aanslag bij u is aangekomen. In deze zaak vond de rechter dat de gemeente aannemelijk had gemaakt dat de aanslag in uw berichtenbox kwam, met een e-mailmelding erbij. Wilt u bezwaar maken, kijk dan na of u een e-mailmelding van MijnOverheid hebt gehad; dat biedt geen zekerheid.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

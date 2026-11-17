@@ -1,0 +1,161 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2025:2895",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "particulier (bestuurder van de auto)",
+  "wederpartij": "gemeente Diemen",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een automobilist kreeg van de gemeente Diemen een naheffingsaanslag (de rekening achteraf) voor het parkeren. Hij ging daartegen in beroep bij de rechtbank Amsterdam.",
+ "titel": "Even stilstaan om uit te stappen: geen rekening voor parkeren",
+ "kern": {
+  "zin": "De rechtbank vond dat de auto alleen even stilstond zodat de zoon kon uitstappen, dus er was niet geparkeerd.",
+  "bron": [
+   24
+  ],
+  "citaat": "zodat zijn zoon kon uitstappen, waarna eiser is vertrokken"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Diemen zag op 2 november 2024 een auto zonder betaling en legde daarna een rekening op.",
+   "bron": [
+    19
+   ],
+   "citaat": "Om 14:56 uur heeft een parkeercontroleur van de gemeente Diemen geconstateerd dat geen parkeerbelasting was voldaan."
+  },
+  {
+   "zin": "Volgens de bestuurder zette hij alleen zijn zoon af bij een winkelcentrum en reed daarna meteen weg.",
+   "bron": [
+    20
+   ],
+   "citaat": "Hij heeft namelijk zijn zoon afgezet bij het winkelcentrum"
+  },
+  {
+   "zin": "De gemeente wijst op de foto's: lichten uit, deuren dicht en niemand te zien.",
+   "bron": [
+    21
+   ],
+   "citaat": "dat er geen personen in en rond het voertuig te zien zijn"
+  },
+  {
+   "zin": "De rechtbank vond aannemelijk dat nog niemand was uitgestapt, omdat de spiegels nog uitgeklapt waren.",
+   "bron": [
+    24
+   ],
+   "citaat": "dat de spiegels van de auto nog zijn uitgeklapt"
+  },
+  {
+   "zin": "De rechtbank vernietigde de rekening, dus de bestuurder hoeft niets te betalen.",
+   "bron": [
+    26
+   ],
+   "citaat": "de naheffingsaanslag niet hoeft te betalen"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Rekening vernietigd; griffierecht en reiskosten worden vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De bestuurder hoeft de rekening niet te betalen en krijgt het griffierecht en de reiskosten vergoed.",
+  "bron": [
+   27,
+   26
+  ],
+  "citaat": "het door eiser betaalde griffierecht van € 51,- te vergoeden"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Hij stond alleen even stil om zijn zoon te laten uitstappen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank oordeelde dat hij stilstond om zijn zoon te laten uitstappen en daarna vertrok.",
+    "bron": [
+     24
+    ],
+    "citaat": "zodat zijn zoon kon uitstappen, waarna eiser is vertrokken"
+   },
+   "bruikbare_zin": {
+    "citaat": "zodat zijn zoon kon uitstappen, waarna eiser is vertrokken",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De scanfoto's zijn gemaakt toen de auto net stil stond, nog voordat zijn zoon uitstapte.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank zag op de foto's dat de deurgrepen nog ingeklapt waren.",
+    "bron": [
+     24
+    ],
+    "citaat": "dat de deurhendels van de auto nog zijn ingeklapt"
+   },
+   "bruikbare_zin": {
+    "citaat": "de deurhendels van de auto nog zijn ingeklapt",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Onmiddellijk in- en uitstappen geldt alleen voor echt in- of uitstappen, en die uitzondering wordt strikt uitgelegd.",
+  "type": "regel",
+  "reikwijdte": "Stilstaan op openbare terreinen of weggedeelten in de gemeente",
+  "uitzondering": "Andere activiteiten die het stilstaan verlengen vallen niet onder de uitzondering",
+  "herkomst": "wet",
+  "bron": [
+   23
+  ],
+  "citaat": "Deze uitzondering wordt strikt uitgelegd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "scanfoto's",
+   "getuigenverklaring van de zoon",
+   "rittenadministratie van de bestuurder"
+  ],
+  "wat_gaf_doorslag": "De ingeklapte deurhendels en uitgeklapte spiegels op de scanfoto's gaven de doorslag."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "Verordening parkeerbelastingen Amsterdam 2023",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bekijk bij een bezwaar over uitstappen de scanfoto's samen met de rittenadministratie en eventuele verklaringen.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    24
+   ],
+   "citaat": "Tezamen met de rittenadministratie en de getuigenverklaring"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "scanauto-handhaving",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren is niet terecht als u alleen even stilstond om iemand uit te laten stappen. U moet dat wel kunnen aantonen, bijvoorbeeld met een verklaring of een ritoverzicht. Heeft u dat bewijs, dan kan bezwaar zinvol zijn.",
+ "gemeente": "Diemen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

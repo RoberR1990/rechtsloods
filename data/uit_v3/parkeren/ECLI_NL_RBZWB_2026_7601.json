@@ -1,0 +1,170 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:7601",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder met een parkeervergunning",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Breda twee naheffingsaanslagen (de rekening achteraf) voor parkeren in de Concordiastraat. Het beroep ging naar de rechtbank Zeeland-West-Brabant, die de beroepen gegrond verklaarde.",
+ "titel": "Verwarrende gemeentewebsite: naheffingen vernietigd",
+ "kern": {
+  "zin": "De rechter vernietigde de naheffingen, ook al lag de straat buiten het gebied, omdat de website de parkeerder had kunnen misleiden.",
+  "bron": [
+   20,
+   22
+  ],
+  "citaat": "de informatie op de website formeel gezien correct is, maar wel degelijk verwarring kan scheppen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Twee naheffingen volgden voor het parkeren in de Concordiastraat op 19 en 20 maart 2025.",
+   "bron": [
+    11,
+    12
+   ],
+   "citaat": "inzake parkeren op 19 maart 2025 in de Concordiastraat"
+  },
+  {
+   "zin": "De parkeerder beriep zich op een vergunning voor het gebied Gerardus Majella e.o.",
+   "bron": [
+    18
+   ],
+   "citaat": "Belanghebbende stelt dat zij mag parkeren in de Concordiastraat"
+  },
+  {
+   "zin": "De verordening liet de Concordiastraat buiten het vergunninggebied, dus de aanslagen waren in beginsel terecht.",
+   "bron": [
+    19
+   ],
+   "citaat": "de Concordiastraat niet onder het vergunninggebied"
+  },
+  {
+   "zin": "De website bevatte twee lijsten, en alleen de eerste noemde de Concordiastraat.",
+   "bron": [
+    20
+   ],
+   "citaat": "Op de website bevinden zich namelijk twee verschillende lijsten"
+  },
+  {
+   "zin": "De parkeerder wist niet dat de straat buiten het vergunninggebied lag, dat bleek op de zitting.",
+   "bron": [
+    21
+   ],
+   "citaat": "Ter zitting is gebleken dat belanghebbende daadwerkelijk niet op de hoogte was"
+  },
+  {
+   "zin": "De naheffingen vervallen, en de gemeente moet het griffierecht (het bedrag om in beroep te gaan) terugbetalen.",
+   "bron": [
+    24,
+    25
+   ],
+   "citaat": "Dat betekent dat de naheffingsaanslagen parkeerbelasting worden vernietigd"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffingen vernietigd door verwarrende website; griffierecht terug",
+ "gevolg_betrokkene": {
+  "zin": "Voor de parkeerder betekent dit dat beide naheffingen, de aanmaningskosten en de dwangbevelkosten wegvallen, en dat hij twee keer 53 euro griffierecht terugkrijgt.",
+  "bron": [
+   26,
+   33
+  ],
+  "citaat": "ook de aanmaningskosten en de kosten van de dwangbevelen komen te vervallen"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder had een vergunning voor het gebied en mocht daarom in de Concordiastraat staan.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter oordeelde dat de verwarrende website het vertrouwen van de parkeerder had geschonden.",
+    "bron": [
+     22
+    ],
+    "citaat": "Gelet op het voorgaande is de rechtbank van oordeel dat het vertrouwensbeginsel"
+   },
+   "bruikbare_zin": {
+    "citaat": "de informatie op de website formeel gezien correct is, maar wel degelijk verwarring kan scheppen",
+    "bron": [
+     20
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De aanmaningskosten en dwangbevelkosten moesten ook weg.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De aanmaningskosten en het dwangbevel vallen mee weg.",
+    "bron": [
+     26
+    ],
+    "citaat": "de vernietiging van de naheffingsaanslagen tot gevolg heeft dat ook de aanmaningskosten"
+   },
+   "bruikbare_zin": {
+    "citaat": "ook de aanmaningskosten en de kosten van de dwangbevelen komen te vervallen",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Juiste maar verwarrende overheidsinformatie telt mee bij het vertrouwen van de burger.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "deze zaak: website met twee lijsten over een vergunninggebied",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   20
+  ],
+  "citaat": "de informatie op de website formeel gezien correct is, maar wel degelijk verwarring kan scheppen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van de parkeerder ter zitting",
+   "de twee lijsten op de website"
+  ],
+  "wat_gaf_doorslag": "De verwarring op de website gaf de doorslag; ter zitting bleek de parkeerder niet op de hoogte."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "vertrouwensbeginsel (algemeen rechtsbeginsel)",
+  "Verordening op de heffing en invordering van parkeerbelastingen 2025 (gemeente Breda)",
+  "Aanwijzingsbesluit parkeerbelastingen 2025 (gemeente Breda)"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet op de website een lijst met de straten van elk vergunninggebied, zodat er geen tweede lijst is die verwarring schept.",
+   "raakt": "communicatie",
+   "bron": [
+    20
+   ],
+   "citaat": "Op de website bevinden zich namelijk twee verschillende lijsten"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "tarief-naheffing",
+  "communicatie"
+ ],
+ "klantuitleg": "Een naheffing kan worden vernietigd als de gemeentelijke informatie u op het verkeerde been zet. In deze zaak lag de straat buiten de vergunning, maar de website gaf twee verschillende lijsten. Twijfelt u over de vergunning, vraag de gemeente dan vóór u parkeert en bewaar een schermafbeelding van wat u zag.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

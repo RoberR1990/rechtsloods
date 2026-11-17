@@ -1,0 +1,165 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2022:4091",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente (naam geanonimiseerd)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder procedeerde tegen de gemeente bij de rechtbank Zeeland-West-Brabant. Het ging om een naheffing (de rekening achteraf) voor parkeerbelasting, omdat zijn vergunning niet gold op de plek waar de auto stond.",
+ "titel": "Vergunning gold niet op de plek; de rekening blijft staan",
+ "kern": {
+  "zin": "De rechter oordeelde dat de vergunning niet gold op de plek waar de auto stond, dus de rekening is terecht.",
+  "bron": [
+   39
+  ],
+  "citaat": "heeft belanghebbende geparkeerd op een locatie waarop zijn parkeervergunning niet geldig was"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een auto werd op 16 april 2021 gecontroleerd; er was geen parkeerbelasting betaald.",
+   "bron": [
+    15
+   ],
+   "citaat": "is geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder had een vergunning voor de straat, maar niet voor het stuk waar hij stond.",
+   "bron": [
+    16
+   ],
+   "citaat": "een vergunning voor het parkeren aan de [straatnaam] ter hoogte van nummers 2 tot en met 160"
+  },
+  {
+   "zin": "Hij stelde dat zijn vergunning ook op nummer 57 gold.",
+   "bron": [
+    22
+   ],
+   "citaat": "is van mening dat zijn vergunning ook geldig was op de plaats waar de auto"
+  },
+  {
+   "zin": "De gemeente zei dat er voor het parkeren op nummer 57 geen vergunning was.",
+   "bron": [
+    23
+   ],
+   "citaat": "omdat belanghebbende geen vergunning had voor het parkeren"
+  },
+  {
+   "zin": "De rechter wees dit argument af; de vergunning gold alleen voor de genoemde nummers.",
+   "bron": [
+    39
+   ],
+   "citaat": "verwerpt de stelling van belanghebbende dat zijn parkeervergunning ook geldig was ter hoogte van nummer 57"
+  },
+  {
+   "zin": "De parkeerder betaalt de rekening en krijgt ook geen proceskosten of griffierecht terug.",
+   "bron": [
+    42
+   ],
+   "citaat": "Belanghebbende krijgt daarom het griffierecht niet terug"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; vergunning gold niet op de plek",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de rekening van € 66,80 betalen en krijgt geen griffierecht of proceskosten terug.",
+  "bron": [
+   10,
+   42
+  ],
+  "citaat": "een naheffingsaanslag parkeerbelasting opgelegd van € 66,80"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij zegt dat zijn vergunning ook geldig was op de plek waar hij stond.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter gold de vergunning niet op de plek waar de auto stond.",
+    "bron": [
+     39
+    ],
+    "citaat": "heeft belanghebbende geparkeerd op een locatie waarop zijn parkeervergunning niet geldig was"
+   },
+   "bruikbare_zin": {
+    "citaat": "specifiek betrekking had op nummers 2 tot en met 160",
+    "bron": [
+     39
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij klaagt over eerdere communicatie met de belastingsamenwerking over andere gemeentelijke heffingen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat die klachten over andere heffingen de uitkomst niet veranderen.",
+    "bron": [
+     40
+    ],
+    "citaat": "kan niet leiden tot een ander oordeel"
+   },
+   "bruikbare_zin": {
+    "citaat": "kan niet leiden tot een ander oordeel",
+    "bron": [
+     40
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een vergunning geldt alleen voor de huisnummers die in het aanwijzingsbesluit staan.",
+  "type": "regel",
+  "reikwijdte": "parkeervergunningen in een zone waar even en oneven nummers verschillend zijn aangewezen",
+  "uitzondering": null,
+  "herkomst": "lokale verordening",
+  "bron": [
+   39
+  ],
+  "citaat": "uit het Aanwijzingsbesluit volgt dat de een onderscheid is gemaakt tussen even en oneven huisnummers"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "vaststelling bij de controle",
+   "aanwijzingsbesluit"
+  ],
+  "wat_gaf_doorslag": "Vast stond dat de auto buiten het gebied van de vergunning stond."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Aanwijzingsbesluit parkeerzone (lokaal)"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij vergunningen en de communicatie daarover of de exacte huisnummers en de zijde (even of oneven) erin staan.",
+   "raakt": "vergunningen",
+   "bron": [
+    23
+   ],
+   "citaat": "dat aan belanghebbende is meegedeeld dat zijn parkeervergunning geldt voor"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een vergunning geldt alleen in de straten en op de huisnummers die de gemeente heeft aangewezen. Staat uw adres of de zijde van de straat er niet bij, dan mag u daar niet parkeren zonder te betalen. Twijfelt u, vraag dan vooraf na welke nummers uw vergunning geldt; bezwaar heeft op dit punt weinig kans als de nummers duidelijk zijn.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

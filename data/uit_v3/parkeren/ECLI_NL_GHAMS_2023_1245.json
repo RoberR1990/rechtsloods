@@ -1,0 +1,170 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2023:1245",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bedrijf of burger met gemachtigde (bestelbus)",
+  "wederpartij": "gemeente (geanonimiseerd)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger kreeg een naheffingsaanslag (de rekening achteraf) voor parkeren met een bestelbus. De gemeente trok die in, en daarna ging het in hoger beroep bij het gerechtshof Amsterdam alleen nog over de proceskosten.",
+ "titel": "Geen kostenvergoeding voor beroep: burger gaf bewijs te laat",
+ "kern": {
+  "zin": "Het hof vond dat de burger zelf de oorzaak was van het beroep, omdat hij zijn bewijs pas bij de rechtbank liet zien.",
+  "bron": [
+   39
+  ],
+  "citaat": "dat de noodzaak tot het instellen van beroep uitsluitend te wijten is aan belanghebbende"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde de burger een naheffingsaanslag op omdat zijn bestelbus in een betaald parkeervak stond zonder dat betaald was.",
+   "bron": [
+    22
+   ],
+   "citaat": "heeft aan belanghebbende een naheffingsaanslag opgelegd, omdat zijn voertuig, een bestelbusje van het merk Renault"
+  },
+  {
+   "zin": "De burger zei dat hij niet parkeerde maar laadde en loste.",
+   "bron": [
+    23
+   ],
+   "citaat": "gesteld dat geen sprake was van parkeren, maar van laden en lossen"
+  },
+  {
+   "zin": "De gemeente gaf hem twee keer de kans dit te bewijzen. Pas bij de rechtbank liet hij een deel van zijn ritadministratie zien, en toen trok de gemeente de aanslag in.",
+   "bron": [
+    24
+   ],
+   "citaat": "heeft hierin aanleiding gezien de naheffingsaanslag te vernietigen"
+  },
+  {
+   "zin": "De rechtbank vergoedde de kosten van het beroep niet, omdat het beroep alleen nodig was door de handelwijze van de burger.",
+   "bron": [
+    33
+   ],
+   "citaat": "de noodzaak tot het instellen van het beroep uitsluitend voortvloeide uit de handelwijze van de belanghebbende"
+  },
+  {
+   "zin": "Het hof vond het redelijk dat de burger het bewijs moest leveren, omdat hij dat veel beter kon.",
+   "bron": [
+    39
+   ],
+   "citaat": "belanghebbende duidelijk beter in staat is om het bewijs van die stelling te leveren"
+  },
+  {
+   "zin": "Het hof liet de uitspraak van de rechtbank staan.",
+   "bron": [
+    49
+   ],
+   "citaat": "Het Hof bevestigt de uitspraak van de rechtbank."
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Aanslag was al vernietigd; alleen de proceskosten van het beroep waren nog in geschil.",
+ "gevolg_betrokkene": {
+  "zin": "De burger kreeg van de rechtbank € 265 voor de kosten in bezwaar, maar krijgt geen vergoeding voor het beroep en ook niet voor het hoger beroep.",
+  "bron": [
+   35,
+   47
+  ],
+  "citaat": "veroordeelt de heffingsambtenaar in de door [X] gemaakte proceskosten in bezwaar"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Mijn bus stond er alleen om te laden en te lossen.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De burger moest dit zelf onderbouwen en deed dat pas bij de rechtbank, daarom kreeg hij de beroepskosten niet.",
+    "bron": [
+     40
+    ],
+    "citaat": "Niet valt in te zien waarom hij deze stukken niet ook al in de bezwaarfase heeft kunnen overleggen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het had daarom op de weg van belanghebbende gelegen zijn bewering dat sprake was van laden en lossen reeds in de bezwaarfase te onderbouwen",
+    "bron": [
+     40
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente moet ook de proceskosten van het beroep betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente mocht uitgaan van parkeren en hoefde zelf geen onderzoek te doen naar laden en lossen.",
+    "bron": [
+     39
+    ],
+    "citaat": "is de heffingsambtenaar niet gehouden zelf nader onderzoek te doen naar de juistheid van de bewering"
+   },
+   "bruikbare_zin": {
+    "citaat": "Uit deze omstandigheid valt immers niet af te leiden dat het voertuig uitsluitend heeft stilgestaan zo lang als nodig was voor het onmiddellijk laden of lossen van goederen",
+    "bron": [
+     39
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Is het beroep alleen nodig door de handelwijze van de burger zelf, dan hoeft de gemeente de kosten van het beroep niet te vergoeden.",
+  "type": "regel",
+  "reikwijdte": "Proceskosten in beroep als de gemeente de aanslag tijdens het beroep intrekt",
+  "uitzondering": "Is de burger er maar mede de oorzaak van, dan is dat niet genoeg om af te wijken van de kostenvergoeding.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   31
+  ],
+  "citaat": "indien de noodzaak om beroep in te stellen uitsluitend te wijten is aan de handelwijze van de betrokkene zelf"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "foto's van de gemeente",
+   "schermprint van de ritadministratie"
+  ],
+  "wat_gaf_doorslag": "De burger had de ritadministratie in de bezwaarfase kunnen laten zien, maar deed dat pas in beroep."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2006:AX0985",
+   "ECLI:NL:HR:2020:173",
+   "ECLI:NL:HR:2014:878"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:75 Awb",
+  "art. 8:108 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Geef de burger in bezwaar schriftelijk een vaste termijn om zijn stelling te onderbouwen en leg dat vast.",
+   "raakt": "bezwaar",
+   "bron": [
+    23
+   ],
+   "citaat": "De heffingsambtenaar heeft belanghebbende tweemaal in de gelegenheid gesteld deze stelling te onderbouwen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Zegt u dat u niet parkeerde maar laadde of loste? Dan moet u dat zelf aantonen, bijvoorbeeld met een ritadministratie. Doe dat meteen bij het bezwaar, want wie bewijs pas bij de rechter laat zien, krijgt de kosten van het beroep meestal niet vergoed.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

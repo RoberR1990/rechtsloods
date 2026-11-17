@@ -1,0 +1,46 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:6367",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "parkeerder", "wederpartij": "gemeente Goes", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Dit gaat over een naheffingsaanslag (de rekening achteraf) voor een auto die in de gemeente Goes stond zonder betaald te hebben. De parkeerder procedeert tegen de gemeente bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Parkeerder betaalde te laat: rekening blijft staan",
+ "kern": {"zin": "Volgens de rechter was de storing niet bewezen en was de redelijke betaaltermijn al voorbij.", "bron": [29, 28], "citaat": "heeft hij de redelijke termijn om de parkeerbelasting te voldoen, overschreden"},
+ "samenvatting": [
+  {"zin": "Een controle stelde vast dat er op die plek niets was betaald voor het parkeren.", "bron": [15], "citaat": "is (door parkeercontroleurs) geconstateerd dat daarvoor geen parkeerbelasting was voldaan"},
+  {"zin": "Volgens de parkeerder gaf de parkeerapp een foutmelding en stond de automaat achter een wit bord.", "bron": [25], "citaat": "de parkeerapp een foutmelding gaf en de dichtstbijzijnde parkeerautomaat slecht zichtbaar was"},
+  {"zin": "De rechter vond het bord met de pijl juist een hulpmiddel om de automaat te vinden.", "bron": [29], "citaat": "Het bord heeft juist als functie om de zichtbaarheid van de automaat te bevorderen"},
+  {"zin": "Volgens de rechter was het aannemelijk dat de parkeerder te laat begon met betalen.", "bron": [29], "citaat": "aannemelijk is dat belanghebbende niet onverwijld en ononderbroken handelingen heeft verricht"},
+  {"zin": "De naheffing blijft staan en de parkeerder krijgt het griffierecht niet terug.", "bron": [32], "citaat": "Belanghebbende krijgt daarom het griffierrecht niet terug"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; app-storing niet bewezen, termijn voorbij",
+ "gevolg_betrokkene": {"zin": "De naheffing van 79,30 euro blijft staan en de parkeerder krijgt het griffierecht niet terug.", "bron": [32, 16], "citaat": "Belanghebbende krijgt daarom het griffierrecht niet terug"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "app-automaat-werkte-niet", "burger_zegt": "De parkeerapp gaf een foutmelding, dus kon hij pas later betalen.", "oordeel": "verworpen", "waarom": {"zin": "Er was geen bewijs van een storing, en ook de gemeente wist er niets van.", "bron": [28], "citaat": "ook bij de heffingsambtenaar was geen storing bekend"}, "bruikbare_zin": {"citaat": "om via de parkeerautomaat de verschuldigde parkeerbelasting te voldoen", "bron": [28]}},
+  {"arg": "borden-onduidelijk", "burger_zegt": "De parkeerautomaat was slecht zichtbaar achter een groot wit bord.", "oordeel": "verworpen", "waarom": {"zin": "Volgens de rechter wijst het blauwe bord de automaat juist aan.", "bron": [29], "citaat": "Het bord heeft juist als functie om de zichtbaarheid van de automaat te bevorderen"}, "bruikbare_zin": {"citaat": "Het bord heeft juist als functie om de zichtbaarheid van de automaat te bevorderen", "bron": [29]}},
+  {"arg": "overig", "burger_zegt": "Vier minuten om te betalen was een onredelijk korte termijn.", "oordeel": "verworpen", "waarom": {"zin": "De rechter vond dat de redelijke termijn al voorbij was toen de aanslag kwam.", "bron": [29], "citaat": "heeft hij de redelijke termijn om de parkeerbelasting te voldoen, overschreden"}, "bruikbare_zin": {"citaat": "De redelijke termijn vangt aan direct nadat de auto wordt geparkeerd", "bron": [27]}}
+ ],
+ "rechtsregel": {"zin": "De parkeerder moet direct na het parkeren onverwijld betalen, ook als hij een parkeerapp gebruikt.", "type": "regel", "reikwijdte": "betaald parkeren met app of automaat", "uitzondering": null, "herkomst": "oordeel rechter", "bron": [27], "citaat": "De redelijke termijn vangt aan direct nadat de auto wordt geparkeerd"},
+ "bewijs": {"bewijslast_bij": "burger", "bewijsmiddelen": ["verklaring van de parkeerder", "objectief verifieerbare gegevens over een storing"], "wat_gaf_doorslag": "Er was geen objectief bewijs van een storing, en de parkeerder betaalde kort daarna via de app."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": ["art. 225 lid 2 Gemeentewet", "art. 1 onder e Verordening parkeerbelastingen 2024", "art. 8 Verordening parkeerbelastingen 2024", "art. 1 Aanwijzingsbesluit betaald- en vergunninghoudersparkeren 2021"],
+ "actie_gemeente": [
+  {"actie": "Zet bij elke parkeerautomaat een zichtbaar bord met pijl, zodat de automaat ook van een afstand te vinden is.", "raakt": "bebording-verkeersbesluit", "bron": [29], "citaat": "Het bord heeft juist als functie om de zichtbaarheid van de automaat te bevorderen"},
+  {"actie": "Leg storingsmeldingen van de parkeerapp vast, zodat een melding later te controleren is.", "raakt": "betaalapp", "bron": [28], "citaat": "ook bij de heffingsambtenaar was geen storing bekend"}
+ ],
+ "reden_leeg_actie": null,
+ "raakt": ["bezwaar", "betaalapp", "bebording-verkeersbesluit", "klantcontact"],
+ "klantuitleg": "Een parkeerrekening achteraf is terecht als u niet direct na het parkeren betaalt, ook niet als de app het niet doet. In deze zaak vond de rechter de storing niet aannemelijk en was de termijn om te betalen al voorbij. Wilt u bezwaar maken, leg dan bewijs van een storing vast, zoals een schermafbeelding; zonder dat heeft het weinig kans.",
+ "gemeente": "Goes",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

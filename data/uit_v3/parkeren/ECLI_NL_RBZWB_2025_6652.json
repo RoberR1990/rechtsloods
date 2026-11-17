@@ -1,0 +1,196 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:6652",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging in beroep tegen een naheffingsaanslag (de rekening achteraf) van de gemeente Breda. De zaak werd behandeld door de rechtbank Zeeland-West-Brabant.",
+ "titel": "Parkeerrekening verlaagd: gemeente kon kosten niet onderbouwen",
+ "kern": {
+  "zin": "De rechter zette de kostentabel van de gemeente opzij, omdat de kosten niet aannemelijk waren.",
+  "bron": [
+   35
+  ],
+  "citaat": "De tarieven- en kostentabel is niet deugdelijk en dient buiten toepassing te worden verklaard."
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Breda legde de parkeerder een naheffingsaanslag op van 63,15 euro, omdat er geen parkeerbelasting was betaald.",
+   "bron": [
+    16
+   ],
+   "citaat": "een naheffingsaanslag parkeerbelasting opgelegd van € 63,15 bestaande uit een bedrag aan belasting"
+  },
+  {
+   "zin": "De parkeerder zei dat betalen lang duurde, omdat hij het wachtwoord van de parkeerapp was vergeten.",
+   "bron": [
+    28
+   ],
+   "citaat": "Dit heeft enige tijd geduurd omdat belanghebbende het wachtwoord van de parkeerapp was vergeten"
+  },
+  {
+   "zin": "Volgens de gemeente staan de kosten uitgewerkt in de tarieventabel van de verordening.",
+   "bron": [
+    34
+   ],
+   "citaat": "gespecificeerd in bijlage D van de Verordening (de tarieven- en kostentabel)"
+  },
+  {
+   "zin": "De rechter vond de betaaltermijn te lang en wees dit argument af.",
+   "bron": [
+    29
+   ],
+   "citaat": "In dit geval is geen sprake meer van een redelijke termijn om parkeerbelasting te voldoen."
+  },
+  {
+   "zin": "De rechter vond de kostentabel niet deugdelijk en zette die daarom opzij.",
+   "bron": [
+    35
+   ],
+   "citaat": "De tarieven- en kostentabel is niet deugdelijk en dient buiten toepassing te worden verklaard."
+  },
+  {
+   "zin": "De naheffing ging omlaag naar 1,50 euro: alleen de parkeerbelasting blijft over.",
+   "bron": [
+    43
+   ],
+   "citaat": "vermindert de naheffingsaanslag tot een bedrag van € 1,50;"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Naheffing van 63,15 euro naar 1,50 euro; proceskosten vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "U betaalt nog 1,50 euro; de gemeente vergoedt u 51 euro griffierecht (de kosten voor de rechtszaak) en 453,50 euro proceskosten.",
+  "bron": [
+   43,
+   45,
+   46
+  ],
+  "citaat": "vermindert de naheffingsaanslag tot een bedrag van € 1,50;"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Betalen duurde lang, omdat het wachtwoord van de parkeerapp was vergeten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de termijn te lang, dus de betaling kwam te laat.",
+    "bron": [
+     29
+    ],
+    "citaat": "In dit geval is geen sprake meer van een redelijke termijn om parkeerbelasting te voldoen."
+   },
+   "bruikbare_zin": {
+    "citaat": "mag van iemand die parkeert verwacht worden dat hij zorgt dat de middelen om de parkeerbelasting te voldoen gereed zijn om te gebruiken",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De kosten van de naheffing waren niet na te rekenen en niet volgens de regels berekend.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente de kosten niet aannemelijk had gemaakt.",
+    "bron": [
+     35
+    ],
+    "citaat": "Naar het oordeel van de rechtbank heeft de heffingsambtenaar de kosten van de naheffingsaanslag niet aannemelijk gemaakt."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het ligt op de weg van de heffingsambtenaar om de kosten van de naheffingsaanslag aannemelijk te maken.",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De uitspraak op bezwaar was te algemeen en bestond uit standaardteksten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat standaardteksten niet vanzelf betekenen dat het besluit slecht gemotiveerd is.",
+    "bron": [
+     31
+    ],
+    "citaat": "dan betekent dit niet direct dat de uitspraak op bezwaar niet deugdelijk is gemotiveerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "Indien door de heffingsambtenaar gebruik is gemaakt van standaardteksten",
+    "bron": [
+     31
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente moet de kosten van een naheffing aannemelijk maken.",
+  "type": "regel",
+  "reikwijdte": "kosten van een naheffingsaanslag parkeerbelasting",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   35
+  ],
+  "citaat": "Het ligt op de weg van de heffingsambtenaar om de kosten van de naheffingsaanslag aannemelijk te maken."
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "tarieven- en kostentabel (bijlage D)"
+  ],
+  "wat_gaf_doorslag": "De tabel maakte niet aannemelijk waar de overige kosten uit bestaan."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 Gemeentewet",
+  "art. 2 Besluit gemeentelijke parkeerbelastingen",
+  "art. 3 Besluit gemeentelijke parkeerbelastingen",
+  "art. 1 Verordening parkeerbelastingen 2024",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Maak per kostenpost in de tarieven- en kostentabel duidelijk waaruit die bestaat en hoe de overheadkosten zijn berekend.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    35
+   ],
+   "citaat": "Naar het oordeel van de rechtbank is het niet duidelijk waar de overige kosten uit bestaan."
+  },
+  {
+   "actie": "Neem in de tarieventabel alleen kosten op die samenhangen met het opleggen van de naheffing.",
+   "raakt": "verordening-beleid",
+   "bron": [
+    35
+   ],
+   "citaat": "dat er kostenposten zijn opgenomen die geen samenhang hebben met het opleggen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "verordening-beleid",
+  "klantcontact"
+ ],
+ "klantuitleg": "De rechter vond dat de gemeente de kosten van deze rekening niet goed had onderbouwd. Daarom blijft alleen de parkeerbelasting van 1,50 euro over. Of de rekening voor het parkeren terecht is, hangt af van of de kosten te controleren zijn; vraag bij twijfel om een uitleg van de kosten.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

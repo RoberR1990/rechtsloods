@@ -1,0 +1,182 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2025:3031",
+ "relevant": true,
+ "onderwerp": "schade-aansprakelijkheid",
+ "sub": "immateriele-schade",
+ "kenmerk": null,
+ "zaaktype": "schadevergoeding",
+ "partijen": {
+  "burger": "bewoners",
+  "wederpartij": "gemeente Almere",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Twee bewoners gingen bij de rechtbank Midden-Nederland in beroep tegen een last onder dwangsom van de gemeente Almere. Ook vroegen zij schadevergoeding omdat de gemeente hun gegevens in strijd met de AVG met anderen had gedeeld.",
+ "titel": "Dwangsom vernietigd, maar geen schadevergoeding voor datalek",
+ "kern": {
+  "zin": "De rechter wees de schadevergoeding voor het datalek af, omdat de bewoners hun stress en emotionele belasting niet met concrete gegevens hadden onderbouwd.",
+  "bron": [
+   49
+  ],
+  "citaat": "De rechtbank stelt vast dat eisers de aantasting in persoon niet met concrete gegevens hebben onderbouwd."
+ },
+ "samenvatting": [
+  {
+   "zin": "De zaak ging over een last onder dwangsom van het college wegens bewoning in strijd met het bestemmingsplan.",
+   "bron": [
+    12
+   ],
+   "citaat": "Deze uitspraak gaat over een last onder dwangsom die het college heeft opgelegd wegens bewoning in strijd met het bestemmingsplan"
+  },
+  {
+   "zin": "De bewoners vroegen € 1.000 schadevergoeding, omdat het college hun bezwaarschrift met namen en adres met anderen had gedeeld; dat dit onrechtmatig was, was niet in discussie.",
+   "bron": [
+    46
+   ],
+   "citaat": "Tussen partijen staat dus niet ter discussie dat de persoonsgegevens van eisers onrechtmatig zijn verwerkt."
+  },
+  {
+   "zin": "Volgens het Europese Hof is alleen een schending van de AVG niet genoeg voor schadevergoeding.",
+   "bron": [
+    47
+   ],
+   "citaat": "Het Europese Hof geeft geoordeeld dat de enkele schending van de AVG geen recht op schadevergoeding oplevert."
+  },
+  {
+   "zin": "De rechter wees de vergoeding voor identiteitsfraude af, omdat niet bleek dat anderen de gegevens daarvoor hadden gebruikt.",
+   "bron": [
+    48
+   ],
+   "citaat": "Niet is gebleken dat de persoonsgegevens van eisers door derden zijn gebruikt voor identiteitsfraude."
+  },
+  {
+   "zin": "Ook voor stress en emotionele belasting kregen de bewoners niets, omdat zij die niet met concrete gegevens onderbouwden.",
+   "bron": [
+    49
+   ],
+   "citaat": "De rechtbank stelt vast dat eisers de aantasting in persoon niet met concrete gegevens hebben onderbouwd."
+  },
+  {
+   "zin": "De last onder dwangsom is vernietigd wegens een motiveringsgebrek, en het college moet € 187 griffierecht vergoeden.",
+   "bron": [
+    51,
+    53
+   ],
+   "citaat": "Het beroep is gegrond vanwege een motiveringsgebrek in het bestreden besluit."
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Dwangsom vernietigd; schadevergoeding voor datalek afgewezen",
+ "gevolg_betrokkene": {
+  "zin": "De bewoners krijgen de € 1.000 schadevergoeding niet, maar de last onder dwangsom vervalt, het college moet opnieuw beslissen en € 187 griffierecht vergoeden; andere kosten worden niet vergoed.",
+  "bron": [
+   54,
+   51,
+   52,
+   53
+  ],
+  "citaat": "De rechtbank wijst het verzoek om schadevergoeding af."
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Zij hadden materiële schade door identiteitsfraude na het delen van hun gegevens.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Niet bleek dat anderen de gegevens voor identiteitsfraude hadden gebruikt.",
+    "bron": [
+     48
+    ],
+    "citaat": "Niet is gebleken dat de persoonsgegevens van eisers door derden zijn gebruikt voor identiteitsfraude."
+   },
+   "bruikbare_zin": {
+    "citaat": "Niet is gebleken dat de persoonsgegevens van eisers door derden zijn gebruikt voor identiteitsfraude.",
+    "bron": [
+     48
+    ]
+   }
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Zij hadden immateriële schade: stress en emotionele belasting door het datalek.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Wie schade stelt, moet die bewijzen, en de bewoners onderbouwden hun stress niet met concrete gegevens.",
+    "bron": [
+     49
+    ],
+    "citaat": "De rechtbank stelt vast dat eisers de aantasting in persoon niet met concrete gegevens hebben onderbouwd."
+   },
+   "bruikbare_zin": {
+    "citaat": "In het civiele recht geldt het uitgangspunt dat degene die stelt schade te hebben geleden die schade moet bewijzen.",
+    "bron": [
+     49
+    ]
+   }
+  },
+  {
+   "arg": "motivering",
+   "burger_zegt": "De last onder dwangsom was niet goed onderbouwd: de overtreding was niet vastgesteld.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het college had niet toereikend onderbouwd dat er een overtreding was.",
+    "bron": [
+     43
+    ],
+    "citaat": "het college niet toereikend heeft onderbouwd dat er sprake zou zijn van een overtreding van het bestemmingsplan"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie immateriële schade claimt na een onrechtmatige verwerking van gegevens, moet die schade bewijzen met concrete gegevens.",
+  "type": "regel",
+  "reikwijdte": "Verzoek om vergoeding van immateriële schade (zoals stress) op grond van art. 82 AVG en art. 8:88 Awb",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   49
+  ],
+  "citaat": "In het civiele recht geldt het uitgangspunt dat degene die stelt schade te hebben geleden die schade moet bewijzen."
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De bewoners onderbouwden hun stress en emotionele belasting niet met concrete gegevens."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:EU:C:2023:370",
+   "ECLI:NL:RVS:2020:898"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 82 AVG",
+  "art. 8:88 Awb",
+  "art. 2.1 lid 1 onder c Wabo",
+  "art. 6:22 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Deel een bezwaarschrift met namen en adres niet met derden zonder grondslag; zo'n datalek kan tot een schadeclaim leiden.",
+   "raakt": "privacy-fg",
+   "bron": [
+    46
+   ],
+   "citaat": "Het college heeft het bezwaarschrift van eisers, met daarin hun persoonsgegevens, zoals namen en adres, met derden gedeeld."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Heeft de gemeente uw gegevens onrechtmatig met anderen gedeeld, dan krijgt u niet automatisch een schadevergoeding. U moet zelf laten zien dat u schade hebt, bijvoorbeeld door misbruik van uw gegevens, en dat die door het delen komt. Stress of emotionele belasting zonder concrete gegevens is niet genoeg; verzamel dus eerst bewijs voordat u schadevergoeding vraagt.",
+ "gemeente": "Almere",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

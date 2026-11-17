@@ -1,0 +1,162 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2020:22",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "zoekslag",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "minister",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een man vroeg de minister om inzage in gegevens die de AIVD over hem zou hebben; de minister weigerde dat. De Raad van State besliste in hoger beroep of die weigering mocht.",
+ "titel": "AIVD hoeft geen inzage te geven in oude gegevens",
+ "kern": {
+  "zin": "De Raad van State bevestigt dat de minister geen inzage hoefde te geven, omdat de man niet aannemelijk heeft gemaakt dat er nog gegevens over hem zijn.",
+  "bron": [
+   28
+  ],
+  "citaat": "Ook overigens heeft [appellant] niet aannemelijk gemaakt dat gegevens over hem onder de minister berusten."
+ },
+ "samenvatting": [
+  {
+   "zin": "De man vroeg de minister om inzage in gegevens die de AIVD over hem zou hebben.",
+   "bron": [
+    21
+   ],
+   "citaat": "verzocht om inzage van bij de AIVD over hem verzamelde en/of verwerkte persoonsgegevens."
+  },
+  {
+   "zin": "De minister wees het verzoek af: er zijn geen oude gegevens gevonden en over actuele gegevens doet hij geen mededeling.",
+   "bron": [
+    23
+   ],
+   "citaat": "bij het archiefonderzoek geen niet-actuele gegevens zijn aangetroffen."
+  },
+  {
+   "zin": "De man vond dat er wel gegevens moesten zijn; hij wees op de geheimhoudingsbeslissing van de rechtbank.",
+   "bron": [
+    25
+   ],
+   "citaat": "de rechtbank een geheimhoudingsbeslissing als bedoeld in artikel 8:29 van de Awb heeft genomen"
+  },
+  {
+   "zin": "De rechtbank nam die beslissing per ongeluk, maar dat verandert het oordeel niet.",
+   "bron": [
+    28
+   ],
+   "citaat": "betreurenswaardig, maar leidt niet tot een ander oordeel"
+  },
+  {
+   "zin": "De Raad van State bevestigt de uitspraak: het hoger beroep is ongegrond.",
+   "bron": [
+    31
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd."
+  },
+  {
+   "zin": "De man krijgt geen vergoeding voor zijn proceskosten.",
+   "bron": [
+    32
+   ],
+   "citaat": "Voor een proceskostenvergoeding bestaat geen aanleiding."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; de minister hoeft geen inzage te geven.",
+ "gevolg_betrokkene": {
+  "zin": "De man krijgt geen inzage en geen vergoeding voor zijn proceskosten.",
+  "bron": [
+   31,
+   32
+  ],
+  "citaat": "Het hoger beroep is ongegrond."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "Er moeten gegevens over mij zijn; er is niet goed genoeg gezocht.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Raad van State vindt dat de man niet aannemelijk heeft gemaakt dat er gegevens over hem zijn.",
+    "bron": [
+     28
+    ],
+    "citaat": "Ook overigens heeft [appellant] niet aannemelijk gemaakt dat gegevens over hem onder de minister berusten."
+   },
+   "bruikbare_zin": {
+    "citaat": "niet aannemelijk gemaakt dat gegevens over hem onder de minister berusten",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De geheimhoudingsbeslissing van de rechtbank bewijst dat er wel stukken zijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank nam die beslissing per ongeluk; dat maakt het oordeel niet anders.",
+    "bron": [
+     28
+    ],
+    "citaat": "leidt niet tot een ander oordeel"
+   },
+   "bruikbare_zin": {
+    "citaat": "betreurenswaardig, maar leidt niet tot een ander oordeel",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als een bestuursorgaan zegt dat het na onderzoek geen document heeft en dat niet ongeloofwaardig is, moet de vragensteller aannemelijk maken dat het document er toch is.",
+  "type": "regel",
+  "reikwijdte": "Bij verzoeken om inzage of documenten als het bestuursorgaan zegt dat niets is gevonden.",
+  "uitzondering": "Tenzij de mededeling van het bestuursorgaan ongeloofwaardig is.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   26
+  ],
+  "citaat": "in beginsel aan degene die om informatie verzoekt om aannemelijk te maken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "brief van de minister van 5 juli 2018",
+   "geheimhoudingsbeslissing van de rechtbank",
+   "archiefonderzoek van de minister"
+  ],
+  "wat_gaf_doorslag": "De man gaf geen goede reden waarom er toch gegevens zouden zijn; de geheimhoudingsbeslissing was per ongeluk."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2016:292"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:29 Awb",
+  "art. 45 Wiv 2002",
+  "art. 47 Wiv 2002",
+  "art. 53 Wiv 2002",
+  "art. 55 Wiv 2002"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Deze zaak gaat over inzage bij de AIVD, niet bij de gemeente. Als een overheidsdienst zegt dat er na onderzoek niets over u is gevonden, moet u uitleggen waarom er toch gegevens zijn; in deze zaak vond de rechter dat de man dat niet genoeg deed.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente in de uitspraak; minister is partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

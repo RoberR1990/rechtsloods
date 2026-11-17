@@ -1,0 +1,129 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2022:4759",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing (de rekening achteraf), omdat hij een verkeerd kenteken invulde op zijn parkeerlijst. Hij procedeerde tegen de gemeente Amsterdam bij de rechtbank Amsterdam.",
+ "titel": "Verkeerd kenteken ingevuld: parkeerbelasting blijft verschuldigd",
+ "kern": {
+  "zin": "De rechtbank oordeelde dat de vergissing in het kenteken voor rekening van de parkeerder komt, dus de naheffing bleef staan.",
+  "bron": [
+   21
+  ],
+  "citaat": "De kennelijke vergissing komt voor rekening en risico van eiser."
+ },
+ "samenvatting": [
+  {
+   "zin": "Op de parkeerlijst stond het kenteken van een andere auto, en dat kenteken was ook digitaal aangemeld.",
+   "bron": [
+    21
+   ],
+   "citaat": "Eiser heeft op de parkeerlijst het bestaande kenteken van een andere auto ingevuld"
+  },
+  {
+   "zin": "De parkeerder stelde dat hij per abuis een verkeerd kenteken had genoteerd.",
+   "bron": [
+    20
+   ],
+   "citaat": "heeft eiser gesteld dat hij abusievelijk een verkeerde kenteken"
+  },
+  {
+   "zin": "De gemeente zag geen reden voor coulance, omdat het geen kleine verwisseling was.",
+   "bron": [
+    22
+   ],
+   "citaat": "omdat het geen kleine afwijking of verwisseling van cijfers of letters betreft"
+  },
+  {
+   "zin": "De rechtbank oordeelde dat een vergunning alleen telt als aan haar voorwaarden is voldaan.",
+   "bron": [
+    21
+   ],
+   "citaat": "alleen sprake is van parkeren met een parkeervergunning indien aan de voorwaarden die zijn verbonden aan de parkeervergunning is voldaan"
+  },
+  {
+   "zin": "Omdat de parkeerder geen parkeerrecht had gekocht, bleef de naheffing terecht staan.",
+   "bron": [
+    23
+   ],
+   "citaat": "Eiser had een parkeerrecht moeten aanschaffen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; verkeerd kenteken komt voor eigen rekening.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt de parkeerbelasting en krijgt het griffierecht (de beroepskosten) niet terug.",
+  "bron": [
+   23,
+   24
+  ],
+  "citaat": "Eiser had een parkeerrecht moeten aanschaffen"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij heeft een kenteken ingevoerd, maar per vergissing een ander nummer.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een vergissing in het kenteken komt voor zijn rekening, ook al is er geen opzet.",
+    "bron": [
+     21
+    ],
+    "citaat": "De kennelijke vergissing komt voor rekening en risico van eiser."
+   },
+   "bruikbare_zin": {
+    "citaat": "Omdat geen sprake is van een boete maar een objectieve belasting",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een vergunning helpt de parkeerder alleen als hij aan alle voorwaarden van die vergunning voldoet.",
+  "type": "regel",
+  "reikwijdte": "parkeren met een parkeervergunning, bijvoorbeeld bij een verkeerd ingevoerd kenteken",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "alleen sprake is van parkeren met een parkeervergunning indien aan de voorwaarden die zijn verbonden aan de parkeervergunning is voldaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "handgeschreven parkeerlijst",
+   "digitale aanmelding van het kenteken"
+  ],
+  "wat_gaf_doorslag": "Het ingevulde kenteken, dat ook digitaal was aangemeld, gaf de doorslag."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente wint; geen tekortkoming van de gemeente",
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "betaalapp"
+ ],
+ "klantuitleg": "Als u een verkeerd kenteken invult, blijft u meestal parkeerbelasting verschuldigd, ook bij een vergissing. Volgens deze uitspraak komt een vergissing in het kenteken voor uw rekening. Wilt u toch bezwaar maken, bewaar dan in elk geval het bewijs van uw betaling en de juiste gegevens.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

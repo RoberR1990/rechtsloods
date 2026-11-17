@@ -1,0 +1,181 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2025:7600",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Groningen (via het Noordelijk Belastingkantoor)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg een naheffingsaanslag (een rekening achteraf) voor parkeerbelasting van de gemeente Groningen. Zij ging in hoger beroep bij het Gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Na 60 minuten opnieuw betalen: rekening achteraf terecht",
+ "kern": {
+  "zin": "De naheffing is terecht, omdat de parkeerder na de eerste 60 minuten opnieuw moest betalen en dat niet deed.",
+  "bron": [
+   58
+  ],
+  "citaat": "voor die periode geen parkeerbelasting heeft voldaan, terwijl die wel was verschuldigd, is de naheffingsaanslag terecht opgelegd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De auto stond op een dinsdagavond langer geparkeerd dan betaald was. De gemeente legde daarom een naheffingsaanslag op.",
+   "bron": [
+    16
+   ],
+   "citaat": "terwijl daarvoor geen parkeerbelasting was betaald"
+  },
+  {
+   "zin": "De parkeerder had bij de automaat voor het eerste uur betaald, terwijl de auto tot minstens 21:17 uur bleef staan.",
+   "bron": [
+    17
+   ],
+   "citaat": "voor de periode vanaf 19:16 uur tot 20:16 uur € 4,10 is voldaan"
+  },
+  {
+   "zin": "De parkeerder zegt dat de tekst op de automaat een maximale parkeerduur van 60 minuten betekent, dus dat er daarna niets meer te betalen viel.",
+   "bron": [
+    52
+   ],
+   "citaat": "wat volgens belanghebbende moet worden opgevat als maximaal 60 minuten betaald parkeren"
+  },
+  {
+   "zin": "De gemeente zegt dat er geen maximale parkeerduur is, maar dat per keer voor maximaal 60 minuten wordt betaald en daarna opnieuw.",
+   "bron": [
+    54
+   ],
+   "citaat": "er geldt geen maximale parkeerduur, maar een maximale aanmeldduur"
+  },
+  {
+   "zin": "De rechter vindt dat de informatie op de automaat past bij de verordening en dat de gemeente haar informatieplicht nakwam.",
+   "bron": [
+    57
+   ],
+   "citaat": "Het Hof stelt vast dat de informatie op de parkeerautomaat aansluit bij het bepaalde in de Verordening"
+  },
+  {
+   "zin": "Omdat de parkeerder na het eerste uur niet opnieuw betaalde, was de naheffing terecht.",
+   "bron": [
+    58
+   ],
+   "citaat": "voor die periode geen parkeerbelasting heeft voldaan, terwijl die wel was verschuldigd, is de naheffingsaanslag terecht opgelegd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; naheffing blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan. De parkeerder krijgt geen proceskosten of griffierecht vergoed.",
+  "bron": [
+   61
+  ],
+  "citaat": "Het Hof ziet geen aanleiding voor vergoeding van het griffierecht of een veroordeling in de proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Er was een maximale parkeerduur van 60 minuten, dus na dat uur ontstond geen nieuwe belastingschuld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De verordening kent geen maximale parkeerduur; na 60 minuten moet opnieuw worden betaald en dat kon al na 30 minuten.",
+    "bron": [
+     58
+    ],
+    "citaat": "voor die periode geen parkeerbelasting heeft voldaan, terwijl die wel was verschuldigd, is de naheffingsaanslag terecht opgelegd"
+   },
+   "bruikbare_zin": {
+    "citaat": "al na 30 minuten aanvullend voor een nieuwe periode van 60 minuten kan worden betaald",
+    "bron": [
+     58
+    ]
+   }
+  },
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Automaat, app en bord maakten niet duidelijk dat na een uur opnieuw betaald moest worden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De informatie op de automaat sluit aan bij de verordening, dus de gemeente voldeed aan haar informatieplicht.",
+    "bron": [
+     57
+    ],
+    "citaat": "De heffingsambtenaar heeft hiermee aan zijn informatieplicht voldaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "een parkeerder die zijn auto langer dan 60 minuten laat staan, telkens na 60 minuten",
+    "bron": [
+     57
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Staat op de automaat dat per keer maximaal 60 minuten kan worden betaald, dan is dat geen maximale parkeerduur: wie langer blijft staan, moet telkens opnieuw betalen.",
+  "type": "regel",
+  "reikwijdte": "Parkeren bij een automaat met betaling per maximaal 60 minuten, volgens de Groningse verordening van 2023",
+  "uitzondering": null,
+  "herkomst": "lokale verordening",
+  "bron": [
+   57
+  ],
+  "citaat": "een parkeerder die zijn auto langer dan 60 minuten laat staan, telkens na 60 minuten"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "betalingsbewijs van de automaat",
+   "foto van de informatie op de automaat"
+  ],
+  "wat_gaf_doorslag": "De betaling dekte alleen het eerste uur; daarna stond de auto tot minstens 21:17 uur zonder betaling."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:HR:2022:346"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 lid 1 onder a Gemeentewet",
+  "art. 234 lid 1 Gemeentewet",
+  "art. 234 lid 2 onder a Gemeentewet",
+  "art. 1 onder e Verordening parkeerbelastingen 2023 Groningen",
+  "art. 2 onder a Verordening parkeerbelastingen 2023 Groningen",
+  "art. 6 lid 1 Verordening parkeerbelastingen 2023 Groningen",
+  "art. 20 AWR"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet op de parkeerautomaat het uurtarief, de tijden en de regel dat per keer maximaal 60 minuten wordt betaald",
+   "raakt": "klantcontact",
+   "bron": [
+    57
+   ],
+   "citaat": "er kan per keer (telkens) voor maximaal 60 minuten worden betaald"
+  },
+  {
+   "actie": "Laat opnieuw betalen toe al ruim voor het einde van het betaalde uur, zodat er geen gat tussen twee betalingen ontstaat",
+   "raakt": "betaalapp",
+   "bron": [
+    58
+   ],
+   "citaat": "al na 30 minuten aanvullend voor een nieuwe periode van 60 minuten kan worden betaald"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "klantcontact",
+  "betaalapp",
+  "bezwaar"
+ ],
+ "klantuitleg": "Staat op de automaat dat u per keer maximaal 60 minuten kunt betalen, dan mag u daarna langer blijven staan, maar moet u opnieuw betalen. Doet u dat niet, dan is de rekening achteraf voor die extra tijd terecht. Bezwaar heeft op dit punt weinig kans.",
+ "gemeente": "Groningen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

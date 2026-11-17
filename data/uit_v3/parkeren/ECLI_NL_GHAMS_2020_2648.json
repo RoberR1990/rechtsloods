@@ -1,0 +1,194 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2020:2648",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder met gemachtigde",
+  "wederpartij": "gemeente Alkmaar",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg in Alkmaar een rekening achteraf voor niet betaald parkeren en maakte bezwaar. De zaak ging over de vraag of dat bezwaar op tijd en op de juiste manier was ingediend; de parkeerder ging in hoger beroep tegen de gemeente bij het gerechtshof Amsterdam.",
+ "titel": "Bezwaar per e-mail naar het algemene adres telt niet",
+ "kern": {
+  "zin": "De rechter vond het bezwaar te laat, omdat het niet naar het adres ging dat op de rekening en op de websites stond.",
+  "bron": [
+   178
+  ],
+  "citaat": "volgt uit zowel de naheffingsaanslag als het duplicaat ervan uitdrukkelijk dat het bezwaarschrift per post moet worden ingediend"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeercontroleur zag dat voor de auto geen parkeerbelasting was betaald en de gemeente legde een naheffing op.",
+   "bron": [
+    33
+   ],
+   "citaat": "De parkeercontroleur heeft op bovengenoemde datum en bovengenoemd tijdstip geconstateerd dat voor de auto geen parkeerbelasting was betaald"
+  },
+  {
+   "zin": "De parkeerder zei dat het bezwaar op tijd was ingediend en dat de gemeente het had moeten doorsturen naar het juiste orgaan.",
+   "bron": [
+    172
+   ],
+   "citaat": "dat het onbevoegde bestuursorgaan binnen twee weken na ontvangst van het bezwaarschrift dit heeft doorgezonden naar het bevoegde bestuursorgaan"
+  },
+  {
+   "zin": "De gemeente zei dat het bezwaar niet op tijd was ingediend.",
+   "bron": [
+    174
+   ],
+   "citaat": "geen sprake kan zijn van een tijdige indiening van het bezwaarschrift van 26 juli 2017"
+  },
+  {
+   "zin": "De rechter vond dat de e-mail aan het algemene adres van de gemeente geen bezwaar bij een bestuursorgaan was.",
+   "bron": [
+    175
+   ],
+   "citaat": "het e-mailbericht van 26 juli 2017 niet is ingediend bij een bestuursorgaan"
+  },
+  {
+   "zin": "Het bezwaar kwam pas in januari 2018 binnen en dat was veel te laat.",
+   "bron": [
+    177
+   ],
+   "citaat": "Het pro forma bezwaar is derhalve ruim buiten de wettelijke bezwaartermijn"
+  },
+  {
+   "zin": "De rechter vond ook dat de brief van de gemeente van 20 november 2018 geen nieuw besluit was waartegen beroep openstond.",
+   "bron": [
+    167
+   ],
+   "citaat": "in de brief niet is opgenomen dat het een uitspraak op bezwaar is, waartegen beroep mogelijk is"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Bezwaar te laat; geen dwangsom en geen kostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "Het bezwaar wordt niet inhoudelijk bekeken, de naheffing van € 2,70 met € 61 kosten blijft staan en er is geen vergoeding van kosten.",
+  "bron": [
+   160
+  ],
+  "citaat": "één naheffing van parkeerbelasting (€ 2,70, vermeerderd met € 61 kosten) drie gerechtelijke procedures"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het bezwaar is op 26 juli 2017 per e-mail en per post naar de gemeente gestuurd en dus op tijd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De e-mail ging naar het algemene adres van de gemeente en niet naar een bestuursorgaan.",
+    "bron": [
+     175
+    ],
+    "citaat": "het e-mailbericht van 26 juli 2017 niet is ingediend bij een bestuursorgaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "het e-mailbericht van 26 juli 2017 niet is ingediend bij een bestuursorgaan",
+    "bron": [
+     175
+    ]
+   }
+  },
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "De gemachtigde mocht ervan uitgaan dat zijn manier van indienen goed was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemachtigde nam bewust het risico, terwijl de rekening en de websites het juiste adres noemden.",
+    "bron": [
+     178
+    ],
+    "citaat": "willens en wetens het risico heeft genomen dat dit verkeerd zou gaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "willens en wetens het risico heeft genomen dat dit verkeerd zou gaan en het bezwaarschrift in het ongerede zou raken",
+    "bron": [
+     178
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De brief van de gemeente van 20 november 2018 is een besluit waartegen beroep openstaat.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De brief verwees alleen naar een eerdere beslissing en plande een hoorzitting.",
+    "bron": [
+     167
+    ],
+    "citaat": "in de brief niet is opgenomen dat het een uitspraak op bezwaar is, waartegen beroep mogelijk is"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een e-mail aan het algemene adres van de gemeente is geen bezwaar bij een bestuursorgaan, zeker niet als de gemeente zegt dat digitaal bezwaar niet kan.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Bezwaar tegen een naheffing parkeerbelasting, gestuurd naar het algemene e-mailadres van de gemeente terwijl de gemeente liet weten dat digitaal bezwaar niet kan",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   175
+  ],
+  "citaat": "Het gebruikte e-mailadres is immers niet het e-mailadres van de gemeenteraad, het college van burgemeester en wethouders"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "automatische ontvangstbevestiging van de gemeente",
+   "naheffing en duplicaat met het postadres",
+   "websites van de gemeente en de uitvoerder"
+  ],
+  "wat_gaf_doorslag": "Op de naheffing, het duplicaat en de websites stond het postadres en dat digitaal bezwaar niet kon."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2020:1441",
+   "ECLI:NL:GHAMS:2019:3265",
+   "ECLI:NL:RBNHO:2018:8791"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1:3 Awb",
+  "art. 6:7 Awb",
+  "art. 6:11 Awb",
+  "art. 6:15 Awb",
+  "art. 8:75 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vermeld op de naheffing, het duplicaat en de website duidelijk bij welk postadres bezwaar moet en dat digitaal bezwaar niet kan",
+   "raakt": "bezwaar",
+   "bron": [
+    178
+   ],
+   "citaat": "het niet mogelijk is om tegen de naheffingsaanslag parkeerbelasting digitaal bezwaar te maken"
+  },
+  {
+   "actie": "Schrijf in een brief die geen besluit is, uitdrukkelijk dat het geen uitspraak op bezwaar is en dat er geen beroep mogelijk is",
+   "raakt": "communicatie",
+   "bron": [
+    167
+   ],
+   "citaat": "in de brief niet is opgenomen dat het een uitspraak op bezwaar is, waartegen beroep mogelijk is"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "communicatie"
+ ],
+ "klantuitleg": "Bezwaar tegen een rekening voor parkeren moet u binnen zes weken indienen, op de manier en het adres die op de rekening staan. Een e-mail naar het algemene adres van de gemeente telt dan niet altijd als bezwaar. Controleer het adres op uw rekening en bewaar bewijs dat u het bezwaar op tijd verstuurde.",
+ "gemeente": "Alkmaar",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,179 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2025:14615",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Gouda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder kreeg in Gouda een naheffing (de rekening achteraf) van € 60, omdat de parkeerbelasting niet op tijd was betaald. Hij ging in beroep bij de rechtbank Den Haag.",
+ "titel": "Later betalen maakt de rekening niet weg",
+ "kern": {
+  "zin": "De rechter oordeelde dat de naheffing terecht was, omdat de belasting niet binnen redelijke tijd na het parkeren was betaald.",
+  "bron": [
+   20
+  ],
+  "citaat": "dat de parkeerbelasting niet is voldaan binnen een redelijke termijn na het parkeren"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Gouda legde een naheffing van € 60 op na een controle op 15 juli 2024.",
+   "bron": [
+    16
+   ],
+   "citaat": "is aan belanghebbende een naheffingsaanslag opgelegd van € 60, waarbij € 4 ziet op nageheven parkeerbelasting"
+  },
+  {
+   "zin": "De parkeerder zei dat hij het dagtarief later uit eigen beweging alsnog had betaald, en dat de naheffing daarom moest worden herroepen.",
+   "bron": [
+    18
+   ],
+   "citaat": "omdat belanghebbende uit eigen beweging alsnog het dagtarief heeft betaald"
+  },
+  {
+   "zin": "De gemeente vond dat de naheffing terecht en op het juiste bedrag was opgelegd.",
+   "bron": [
+    18
+   ],
+   "citaat": "De heffingsambtenaar stelt zich op het standpunt dat de naheffingsaanslag terecht en naar het juiste bedrag is opgelegd."
+  },
+  {
+   "zin": "De rechter oordeelde dat de belasting op het moment van de controle betaald moest zijn.",
+   "bron": [
+    20
+   ],
+   "citaat": "is namelijk van belang of op het moment van de controle aan de belastingplicht is voldaan"
+  },
+  {
+   "zin": "De rechter zei dat de parkeerbelasting objectief is, dus goede bedoelingen en omstandigheden tellen niet mee.",
+   "bron": [
+    21
+   ],
+   "citaat": "Opzet, schuld en intentie spelen geen rol en er wordt geen rekening gehouden met persoonlijke omstandigheden"
+  },
+  {
+   "zin": "Het beroep is ongegrond, de naheffing blijft staan en er is geen vergoeding van proceskosten.",
+   "bron": [
+    23,
+    24
+   ],
+   "citaat": "Gelet op wat hiervoor is overwogen, is het beroep ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan, ook na later betalen",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing van € 60 blijft staan, ook al betaalde de parkeerder later het dagtarief.",
+  "bron": [
+   16,
+   20
+  ],
+  "citaat": "is aan belanghebbende een naheffingsaanslag opgelegd van € 60"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij had het dagtarief al betaald, dus de naheffing had moeten worden herroepen of verminderd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Later betalen maakt de naheffing niet ongedaan, omdat het om het moment van de controle gaat.",
+    "bron": [
+     20
+    ],
+    "citaat": "Het feit dat belanghebbende alsnog het gehele dagtarief heeft voldaan, doet aan dit oordeel niet af."
+   },
+   "bruikbare_zin": {
+    "citaat": "is namelijk van belang of op het moment van de controle aan de belastingplicht is voldaan",
+    "bron": [
+     20
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Door de evenredigheid had de gemeente de naheffing moeten matigen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Evenredigheid helpt alleen in een uitzonderlijk geval, en dat was hier niet aan de orde.",
+    "bron": [
+     21
+    ],
+    "citaat": "beperkt enkel het opleggen van een naheffingsaanslag in het uitzonderlijke geval"
+   },
+   "bruikbare_zin": {
+    "citaat": "De parkeerbelasting is een zogenoemde objectieve belasting.",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij vroeg om schadevergoeding op grond van artikel 8:88 van de Awb.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "Omdat het beroep ongegrond is, kwam het verzoek om schadevergoeding niet voor toewijzing in aanmerking.",
+    "bron": [
+     23
+    ],
+    "citaat": "komt het op zitting gedane verzoek om een schadevergoeding"
+   },
+   "bruikbare_zin": {
+    "citaat": "Reeds omdat het beroep ongegrond is",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeerbelasting moet bij aanvang van het parkeren zijn betaald, al krijgt de parkeerder daarvoor even de tijd.",
+  "type": "regel",
+  "reikwijdte": "Betaald parkeren; betaling na de controle telt niet mee",
+  "uitzondering": "De parkeerder krijgt enige tijd om uitvoeringshandelingen te verrichten, die onverwijld moeten starten",
+  "herkomst": "wet",
+  "bron": [
+   20
+  ],
+  "citaat": "moet de parkeerbelasting bij aanvang van het parkeren worden voldaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2024:1535",
+   "ECLI:NL:GHDHA:2021:2134",
+   "ECLI:NL:HR:2019:56"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 lid 2 onder a Gemeentewet",
+  "art. 234 lid 3 Gemeentewet",
+  "art. 3:4 lid 2 Awb",
+  "art. 8:88 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver rechtmatigheidsoordeel; geen tekortkoming van de gemeente",
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Parkeerbelasting moet u meteen bij het begin van het parkeren betalen. Betaalt u pas later, dan kan er toch een naheffing blijven staan, ook als u alsnog het hele tarief betaalt. Denkt u dat er iets niet klopt, dan kunt u bezwaar maken met bewijs; of dat helpt, hangt af van het geval.",
+ "gemeente": "Gouda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

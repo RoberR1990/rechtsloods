@@ -1,0 +1,175 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2026:5196",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "automobilist (met gemachtigde)",
+  "wederpartij": "gemeente Zevenaar",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een automobilist kreeg in Zevenaar een naheffingsaanslag (de rekening achteraf) voor parkeren. Hij procedeerde tegen de gemeente Zevenaar bij het gerechtshof Arnhem-Leeuwarden over een dwangsom omdat de gemeente te laat zou hebben beslist op zijn bezwaar.",
+ "titel": "Gemeente betaalt dwangsom: beslissing op bezwaar kwam niet goed aan",
+ "kern": {
+  "zin": "Het hof vond dat de gemeente haar beslissing op het bezwaar niet goed had bekendgemaakt, omdat zij die niet naar het opgegeven postadres stuurde; daardoor is een dwangsom verschuldigd.",
+  "bron": [
+   35
+  ],
+  "citaat": "heeft de heffingsambtenaar de uitspraak op bezwaar niet naar het juiste adres"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde een naheffingsaanslag op, omdat de parkeercontroleurs zagen dat er geen parkeerbelasting was betaald.",
+   "bron": [
+    19
+   ],
+   "citaat": "hebben geconstateerd dat voor het voertuig van belanghebbende aan de Kampsingel in Zevenaar geen parkeerbelasting is voldaan"
+  },
+  {
+   "zin": "De gemachtigde van de automobilist maakte bezwaar en stelde de gemeente in gebreke: beslis binnen 14 dagen of er volgt een dwangsom.",
+   "bron": [
+    21
+   ],
+   "citaat": "gemaand om binnen 14 dagen op het bezwaarschrift te beslissen, op straffe van een dwangsom"
+  },
+  {
+   "zin": "De gemeente zei dat zij binnen 14 dagen had beslist en daarom geen dwangsom hoefde te betalen.",
+   "bron": [
+    22
+   ],
+   "citaat": "omdat binnen 14 dagen na ontvangst van de ingebrekestelling uitspraak op bezwaar is gedaan"
+  },
+  {
+   "zin": "Het hof vond dat de gemeente de beslissing niet op de goede manier bekend had gemaakt, omdat zij die naar een ander adres stuurde dan het opgegeven postadres.",
+   "bron": [
+    35
+   ],
+   "citaat": "heeft de heffingsambtenaar de uitspraak op bezwaar niet naar het juiste adres"
+  },
+  {
+   "zin": "De gemeente moet daarom de hoogste dwangsom van € 1.442 betalen, met wettelijke rente.",
+   "bron": [
+    38
+   ],
+   "citaat": "Dat zijn meer dan 42 dagen, zodat de maximale dwangsom van € 1.442 is verschuldigd"
+  },
+  {
+   "zin": "De bezwaren tegen de naheffing zelf waren kort en slaagden niet.",
+   "bron": [
+    37
+   ],
+   "citaat": "de (summiere) grieven van de gemachtigde tegen de naheffingsaanslag niet slagen"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Dwangsom en proceskosten toegekend; de naheffing blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft gelden, maar de gemeente betaalt € 1.442 dwangsom met rente, € 1.267 proceskosten en € 193 griffierecht.",
+  "bron": [
+   50,
+   51,
+   52
+  ],
+  "citaat": "stelt de door de heffingsambtenaar verbeurde dwangsom vast op een bedrag van € 1.442"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente besliste niet op tijd en moet een dwangsom betalen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De uitspraak op bezwaar was niet goed bekendgemaakt, dus de gemeente had nog niet beslist toen de termijn verstreek.",
+    "bron": [
+     36
+    ],
+    "citaat": "Op het moment dat belanghebbende de uitspraak op bezwaar onder ogen kreeg, was het beroep wegens niet tijdig beslissen reeds ingediend"
+   },
+   "bruikbare_zin": {
+    "citaat": "In de regel mag een bestuursorgaan ervan uitgaan dat het adres vermeld op het briefpapier van het bezwaarschrift juist is",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het belastbare feit klopt niet; de naheffing is ten onrechte opgelegd (in algemene bewoordingen).",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemachtigde gaf de bezwaren geen nadere invulling, dus ze slaagden niet.",
+    "bron": [
+     37
+    ],
+    "citaat": "heeft daaraan in beroep en hoger beroep – nadat de uitspraak op bezwaar hem bekend is geworden – geen nadere invulling gegeven"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bereikt een beslissing op bezwaar de burger of gemachtigde niet door een fout van de gemeente, zoals een verkeerd adres, dan is zij niet goed bekendgemaakt.",
+  "type": "regel",
+  "reikwijdte": "Beslissingen op bezwaar die aan het adres uit het bezwaarschrift moeten worden gestuurd",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   34
+  ],
+  "citaat": "kan niet worden gezegd dat bekendmaking van de uitspraak op bezwaar op de voorgeschreven wijze heeft plaatsgevonden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "brief met opgegeven postadres",
+   "verzendgegevens van de gemeente"
+  ],
+  "wat_gaf_doorslag": "De gemeente gebruikte niet het postadres dat de gemachtigde had opgegeven."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 3:40 Awb",
+  "art. 6:20 lid 3 Awb",
+  "art. 4:17 Awb",
+  "art. 4:18 Awb",
+  "art. 4:19 Awb",
+  "art. 4:87 lid 1 Awb",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Stuur een beslissing op bezwaar naar het adres dat in het bezwaarschrift staat en leg vast welk adres is gebruikt.",
+   "raakt": "bezwaar",
+   "bron": [
+    35
+   ],
+   "citaat": "de uitspraak op bezwaar niet naar het juiste adres"
+  },
+  {
+   "actie": "Beslis op tijd na een ingebrekestelling; na meer dan 42 dagen is de hoogste dwangsom verschuldigd.",
+   "raakt": "bezwaar",
+   "bron": [
+    38
+   ],
+   "citaat": "Dat zijn meer dan 42 dagen, zodat de maximale dwangsom van € 1.442 is verschuldigd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een rekening achteraf voor parkeren blijft gelden als uw bezwaar daartegen niet slaagt. Beslist de gemeente niet op tijd, dan kan zij een dwangsom moeten betalen, ook als zij haar beslissing naar een ander adres stuurde dan u opgaf. Geef in uw bezwaarschrift een duidelijk adres op en noem ook uw echte bezwaren tegen de rekening.",
+ "gemeente": "Zevenaar",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

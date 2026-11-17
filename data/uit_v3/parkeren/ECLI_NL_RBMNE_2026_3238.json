@@ -1,0 +1,139 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2026:3238",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Utrecht (via de belastingsamenwerking)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging in beroep tegen een naheffingsaanslag parkeerbelasting (de rekening achteraf) in Utrecht. De rechtbank Midden-Nederland oordeelde dat de rekening terecht bleef staan.",
+ "titel": "Rekening blijft staan: vergunning gold niet op die tijd",
+ "kern": {
+  "zin": "De rechter vond dat de vergunning op dat moment en op die plek niet gold, dus bleef de rekening staan.",
+  "bron": [
+   17
+  ],
+  "citaat": "gold op dat moment niet op die locatie"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 23 september 2024 stond een auto in Utrecht zonder betaalde parkeerbelasting, en daarom kwam er een rekening.",
+   "bron": [
+    17
+   ],
+   "citaat": "zonder dat hiervoor parkeerbelasting op aangifte was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat hij ruim op tijd voor zijn vergunning had betaald.",
+   "bron": [
+    15
+   ],
+   "citaat": "heeft dit op 23 september 2024 gedaan"
+  },
+  {
+   "zin": "De gemeente gaf toe dat haar motivering fout was, maar zei dat er op dat tijdstip geen parkeerrecht was.",
+   "bron": [
+    16
+   ],
+   "citaat": "ten onrechte is uitgegaan van het niet tijdig betalen"
+  },
+  {
+   "zin": "De rechter zei dat wie een auto op een betaalde plek zet, daarvoor belasting moet betalen.",
+   "bron": [
+    17
+   ],
+   "citaat": "de hoofdregel is dat degene die zijn auto parkeert op een betaalde parkeerplaats parkeerbelasting is verschuldigd"
+  },
+  {
+   "zin": "Het beroep bleef verloren, maar de gemeente betaalt het griffierecht van 53 euro terug.",
+   "bron": [
+    20,
+    24
+   ],
+   "citaat": "Het beroep is ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; alleen griffierecht terug omdat motivering niet klopte",
+ "gevolg_betrokkene": {
+  "zin": "De rekening blijft staan, maar het griffierecht van 53 euro komt terug.",
+  "bron": [
+   20,
+   24
+  ],
+  "citaat": "Het beroep is ongegrond"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Ik heb op tijd betaald voor mijn vergunning.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De vergunning gold niet op die straat en op dat uur, dus de betaling telde niet mee.",
+    "bron": [
+     17
+    ],
+    "citaat": "gold op dat moment niet op die locatie"
+   },
+   "bruikbare_zin": {
+    "citaat": "gold op dat moment niet op die locatie",
+    "bron": [
+     17
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie een auto op een betaalde plek zet, moet daarvoor belasting betalen, tenzij er op dat moment en die plek parkeerrecht is.",
+  "type": "regel",
+  "reikwijdte": "betaald parkeren op straat, bij een vergunning die alleen in een deel van de tijd geldt",
+  "uitzondering": "parkeerrecht op dat moment en op die plek",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   17
+  ],
+  "citaat": "de hoofdregel is dat degene die zijn auto parkeert op een betaalde parkeerplaats parkeerbelasting is verschuldigd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "waarneming van het voertuig op straat om 15.00 uur",
+   "vergunningsgegevens van de parkeerder"
+  ],
+  "wat_gaf_doorslag": "De vergunning gold niet op die straat en dat tijdstip."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij een bezwaar of de motivering klopt met de betaalgegevens van de parkeerder, voordat je besluit.",
+   "raakt": "bezwaar",
+   "bron": [
+    16
+   ],
+   "citaat": "ten onrechte is uitgegaan van het niet tijdig betalen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar",
+  "vergunningen"
+ ],
+ "klantuitleg": "Een vergunning helpt alleen op de straten en tijden waarvoor hij geldt. Betaald hebben is niet genoeg als de vergunning op dat moment en op die plek niet geldt. Twijfelt u, controleer dan de zone en de tijden op uw vergunning; met bewijs kunt u bezwaar maken, maar de uitkomst is niet zeker.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

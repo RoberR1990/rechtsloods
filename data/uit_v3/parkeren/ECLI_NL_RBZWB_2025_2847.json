@@ -1,0 +1,158 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:2847",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing (de rekening achteraf) van 54,25 euro, omdat hij via zijn app de verkeerde parkeerzone koos. Hij ging bij de rechtbank Zeeland-West-Brabant in beroep tegen de gemeente Breda.",
+ "titel": "Verkeerde zone via app: naheffing blijft staan",
+ "kern": {
+  "zin": "De rechter vond dat het risico van de verkeerde zone bij de parkeerder ligt, dus blijft de naheffing staan.",
+  "bron": [
+   35
+  ],
+  "citaat": "De rechtbank is van oordeel dat dit voor risico van belanghebbende moet blijven."
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 15 september 2023 bleek bij een controle aan de Parkstraat in Breda dat er niet was betaald.",
+   "bron": [
+    15
+   ],
+   "citaat": "geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat hij per abuis de verkeerde zone in de app had gekozen, en dat de hoogte niet in verhouding stond tot die fout.",
+   "bron": [
+    30
+   ],
+   "citaat": "Daarbij stelt belanghebbende dat een naheffingsaanslag ter hoogte van € 54,25 niet in verhouding staat tot de vermeende vergissing"
+  },
+  {
+   "zin": "Volgens de rechter gold in de app-zone een gratis kwartier, maar op de echte plek niet.",
+   "bron": [
+    35
+   ],
+   "citaat": "voor het eerste kwartier gratis parkeren en dat is in zone 21885 niet het geval"
+  },
+  {
+   "zin": "De rechter vond dat de parkeerder te weinig had betaald en dat het op zijn weg lag om de zone te controleren.",
+   "bron": [
+    35
+   ],
+   "citaat": "Het lag namelijk op de weg van belanghebbende om voorafgaande of bij aanvang van het parkeren te onderzoeken"
+  },
+  {
+   "zin": "De gemeente hoeft betalingen niet te verrekenen, ook als er wel is betaald.",
+   "bron": [
+    36
+   ],
+   "citaat": "Op de gemeente rust geen plicht om betalingen te verrekenen"
+  },
+  {
+   "zin": "De parkeerder verliest, dus de naheffing van 54,25 euro blijft staan.",
+   "bron": [
+    41
+   ],
+   "citaat": "Dit betekent dat de naheffingsaanslag parkeerbelasting terecht is opgelegd en gehandhaafd blijft."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; verkeerde zone via app, naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing van 54,25 euro blijft staan.",
+  "bron": [
+   41,
+   16
+  ],
+  "citaat": "Dit betekent dat de naheffingsaanslag parkeerbelasting terecht is opgelegd en gehandhaafd blijft."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij had per abuis de verkeerde zone gekozen, dus hij had wel betaald.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Wie in een goedkopere zone betaalt, heeft te weinig betaald, en dat blijft voor zijn risico.",
+    "bron": [
+     35
+    ],
+    "citaat": "Belanghebbende heeft dus te weinig parkeerbelasting betaald"
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank is van oordeel dat dit voor risico van belanghebbende moet blijven.",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De hoogte van de naheffing stond niet in verhouding tot de fout of het voordeel.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat begrijpelijk, maar de uitkomst veranderde er niet door.",
+    "bron": [
+     39
+    ],
+    "citaat": "die op zichzelf begrijpelijk is – lijdt niet tot een andere uitkomst"
+   },
+   "bruikbare_zin": {
+    "citaat": "Indien deze parkeerbelasting niet, of onvoldoende, is voldaan dan wordt de parkeerbelasting nageheven",
+    "bron": [
+     39
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een weggebruiker moet zelf nagaan welk parkeerregime op de plek geldt, ook als hij een parkeerapp gebruikt.",
+  "type": "regel",
+  "reikwijdte": "parkeren met een parkeerapp in betaald gebied",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   34
+  ],
+  "citaat": "Deze onderzoeksplicht is ook van toepassing indien gebruik wordt gemaakt van een parkeerapp"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "parkeerapp-transactie voor zone 21900",
+   "controle door parkeercontroleurs"
+  ],
+  "wat_gaf_doorslag": "De zone in de app had een gratis kwartier dat in de echte zone niet gold, dus er was te weinig betaald."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "art. 234 lid 3 Gemeentewet",
+  "art. 10 onderdeel 1 Verordening op de heffing en invordering van parkeerbelastingen 2023"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen aanwijzing voor de gemeente; de regels volgen uit de wet en de verordening",
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren is terecht als er te weinig is betaald, ook als u de verkeerde zone in de app koos. Dat geldt ook als u dat niet wilde, want de regels kijken naar wat er is betaald. Bij zo'n fout heeft bezwaar weinig kans, dus controleer de zone voordat u betaalt.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

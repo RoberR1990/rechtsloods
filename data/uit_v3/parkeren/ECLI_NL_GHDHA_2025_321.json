@@ -1,0 +1,199 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2025:321",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "particulier (via gemachtigde)",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder in Den Haag kreeg een naheffingsaanslag (de rekening achteraf) omdat hij na 60 minuten niet opnieuw had aangemeld. Hij ging in hoger beroep tegen de gemeente bij het gerechtshof Den Haag.",
+ "titel": "Parkeerduur van 60 minuten: daarna opnieuw aanmelden, anders rekening achteraf",
+ "kern": {
+  "zin": "Het hof vond de naheffing terecht: na de maximale aanmeldduur (de tijd van één aanmelding) moet de parkeerder zich opnieuw aanmelden en dat had de burger niet gedaan.",
+  "bron": [
+   63
+  ],
+  "citaat": "Aangezien belanghebbende zich had kunnen aanmelden en dat niet heeft gedaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een scanauto zag dat voor de auto om 22.30 uur geen parkeerbelasting was betaald; de gemeente legde daarom een naheffingsaanslag op.",
+   "bron": [
+    42
+   ],
+   "citaat": "geconstateerd dat op 27 oktober 2022 om 22:30 uur geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De burger zei dat een maximale aanmeldduur hetzelfde is als een maximale parkeerduur, zodat na 60 minuten geen naheffing meer kan volgen.",
+   "bron": [
+    62
+   ],
+   "citaat": "Belanghebbende voert onder verwijzing naar het arrest van de Hoge Raad van 11 maart 2022"
+  },
+  {
+   "zin": "De gemeente bestreed die twee standpunten van de burger met argumenten.",
+   "bron": [
+    62
+   ],
+   "citaat": "De Heffingsambtenaar heeft deze twee standpunten van belanghebbende gemotiveerd bestreden."
+  },
+  {
+   "zin": "Het hof oordeelde dat de regels niet anders te lezen zijn dan dat men zich na 60 minuten opnieuw moet aanmelden, en dat de burger dat had kunnen doen.",
+   "bron": [
+    63
+   ],
+   "citaat": "men zich na ommekomst van 60 minuten opnieuw moet aanmelden"
+  },
+  {
+   "zin": "Het hof vond de borden en parkeerapps niet misleidend, want daaruit bleek niet dat na 60 minuten niets meer betaald hoefde te worden.",
+   "bron": [
+    67
+   ],
+   "citaat": "kan uit die bebording niet afgeleid worden dat na ommekomst van 60 minuten geen parkeerbelasting meer is verschuldigd"
+  },
+  {
+   "zin": "Het hof bevestigde de uitspraak van de rechtbank en kende geen proceskosten of griffierecht toe.",
+   "bron": [
+    76
+   ],
+   "citaat": "Het Gerechtshof bevestigt de uitspraak van de Rechtbank."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffingsaanslag blijft staan; geen proceskosten of griffierecht.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffingsaanslag blijft staan en de burger krijgt geen proceskosten of griffierecht vergoed.",
+  "bron": [
+   76,
+   74
+  ],
+  "citaat": "Het Gerechtshof bevestigt de uitspraak van de Rechtbank."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Een maximale aanmeldduur is hetzelfde als een maximale parkeerduur, dus na 60 minuten kan geen naheffing volgen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de lokale regels en de toelichting moet de parkeerder zich na 60 minuten opnieuw aanmelden.",
+    "bron": [
+     63
+    ],
+    "citaat": "men zich na ommekomst van 60 minuten opnieuw moet aanmelden"
+   },
+   "bruikbare_zin": {
+    "citaat": "de parkeerder na het verstrijken van de maximale aanmeldduur opnieuw aangifte van parkeerbelasting kan en moet doen",
+    "bron": [
+     63
+    ]
+   }
+  },
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Uit de borden bleek niet dat na 60 minuten nog betaald moest worden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Uit het bord met 'max. 60 minuten' kon niet worden afgeleid dat daarna niets meer betaald hoefde te worden.",
+    "bron": [
+     67
+    ],
+    "citaat": "kan uit die bebording niet afgeleid worden dat na ommekomst van 60 minuten geen parkeerbelasting meer is verschuldigd"
+   },
+   "bruikbare_zin": {
+    "citaat": "kan uit die bebording niet afgeleid worden dat na ommekomst van 60 minuten geen parkeerbelasting meer is verschuldigd",
+    "bron": [
+     67
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerapp liet zien dat het parkeren na 60 minuten ophield.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De apptekst zei dat de parkeeractie stopt, maar niet dat de parkeerder daarna gratis mag blijven staan.",
+    "bron": [
+     66
+    ],
+    "citaat": "niet worden afgeleid dat het een parkeerder vrij staat zijn auto daarna te laten staan"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet worden afgeleid dat het een parkeerder vrij staat zijn auto daarna te laten staan",
+    "bron": [
+     66
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een maximale aanmeldduur mag de parkeerder blijven staan, maar moet hij zich na afloop opnieuw aanmelden; doet hij dat niet, dan mag de gemeente naheffen.",
+  "type": "regel",
+  "reikwijdte": "Zones waar de lokale regels een maximale aanmeldduur kennen en opnieuw aanmelden technisch kan (hier Den Haag).",
+  "uitzondering": "De gemeente geeft de parkeerder na afloop een redelijke tijd om opnieuw aan te melden; binnen die tijd volgt geen naheffing.",
+  "herkomst": "lokale verordening",
+  "bron": [
+   63
+  ],
+  "citaat": "men zich na ommekomst van 60 minuten opnieuw moet aanmelden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "scanauto-controle",
+   "gegevens uit het Nationaal Parkeer Register",
+   "screenshots van drie parkeerapps"
+  ],
+  "wat_gaf_doorslag": "De burger liet niet zien welke app hij gebruikte, en uit borden en apps bleek niet dat na 60 minuten niets meer betaald hoefde te worden."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:HR:2022:346"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 Gemeentewet",
+  "art. 20 AWR",
+  "Verordening parkeerregulering en parkeerbelasting Den Haag 2022",
+  "art. 5.1 Regeling parkeerregulering en parkeerbelastingen Den Haag 2022"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg in de toelichting bij de regeling vast dat de parkeerder na de maximale aanmeldduur opnieuw moet aanmelden.",
+   "raakt": "verordening-beleid",
+   "bron": [
+    63
+   ],
+   "citaat": "de parkeerder na het verstrijken van de maximale aanmeldduur opnieuw aangifte van parkeerbelasting kan en moet doen"
+  },
+  {
+   "actie": "Geef de parkeerder na afloop van de aanmeldduur een redelijke tijd om opnieuw aan te melden voordat u naheft.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    70
+   ],
+   "citaat": "na ommekomst van de eerste 60 minuten een redelijke tijd wordt gegund om zich wederom aan te melden"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "betaalapp",
+  "tarief-naheffing",
+  "bezwaar",
+  "klantcontact",
+  "verordening-beleid"
+ ],
+ "klantuitleg": "In Den Haag moet u op sommige plekken na 60 of 120 minuten uw auto opnieuw aanmelden, ook als u blijft staan. Vergeet u dat, dan kan de gemeente een rekening achteraf sturen. Maakt u bezwaar, laat dan zien welke app u gebruikte en wat die u vertelde.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

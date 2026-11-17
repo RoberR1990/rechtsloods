@@ -1,0 +1,171 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2025:970",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (zelf jurist)",
+  "wederpartij": "gemeente Zutphen (via Tribuut)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg in Zutphen een rekening achteraf (naheffingsaanslag) voor parkeren zonder betalen. Hij ging in hoger beroep tegen de gemeente bij het Gerechtshof Arnhem-Leeuwarden, omdat zijn bezwaar te laat was.",
+ "titel": "Bezwaar te laat: naheffing blijft staan",
+ "kern": {
+  "zin": "Het bezwaar kwam ruim na de termijn van zes weken en de reden van de parkeerder was geen goede reden, dus het hof keek niet naar de inhoud.",
+  "bron": [
+   41
+  ],
+  "citaat": "Op het aanslagbiljet is immers vermeld op welke wijze en binnen welke termijn bezwaar kon worden gemaakt."
+ },
+ "samenvatting": [
+  {
+   "zin": "De auto van de parkeerder stond op 3 februari 2021 in Zutphen op een betaalplek zonder dat er betaald was, en het aanslagbiljet zat onder de ruitenwisser.",
+   "bron": [
+    37
+   ],
+   "citaat": "dat belanghebbende het aanslagbiljet betreffende de in verband daarmee opgelegde naheffingsaanslag"
+  },
+  {
+   "zin": "De parkeerder maakte pas op 9 augustus 2021 bezwaar, ruim na de termijn van zes weken.",
+   "bron": [
+    38
+   ],
+   "citaat": "Het bezwaarschrift is door heffingsambtenaar ontvangen op 9 augustus 2021, derhalve ruim na afloop van de bezwaartermijn."
+  },
+  {
+   "zin": "Hij zei dat de parkeerautomaat kapot was en dat hij op de acceptgiro (betaalbrief) wachtte en dacht dat de rekening was vervallen.",
+   "bron": [
+    40
+   ],
+   "citaat": "Vervolgens heeft hij de voor de betaling vereiste acceptgiro afgewacht"
+  },
+  {
+   "zin": "De gemeente verklaarde het bezwaar niet-ontvankelijk (niet in behandeling genomen) omdat het te laat was.",
+   "bron": [
+    29
+   ],
+   "citaat": "is het bezwaar niet-ontvankelijk verklaard, omdat het bezwaarschrift niet binnen de wettelijke bezwaartermijn"
+  },
+  {
+   "zin": "De rechter vond dat de parkeerder op het aanslagbiljet kon lezen hoe en wanneer hij bezwaar kon maken, en dat het afwachten van de acceptgiro voor zijn rekening komt.",
+   "bron": [
+    41
+   ],
+   "citaat": "komt voor zijn rekening en risico"
+  },
+  {
+   "zin": "Daarom keek het hof niet naar de inhoud en bevestigde het de uitspraak van de rechtbank.",
+   "bron": [
+    42
+   ],
+   "citaat": "komt het Hof niet toe aan een inhoudelijke beoordeling van het geschil"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Bezwaar te laat; naheffing en kosten blijven staan.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan, de parkeerder krijgt geen griffierecht of proceskosten vergoed en de kosten voor aanmaning (€ 8) en dwangbevel (€ 44) zijn niet beoordeeld.",
+  "bron": [
+   47
+  ],
+  "citaat": "Het Hof ziet geen aanleiding voor vergoeding van het griffierecht of een veroordeling in de proceskosten."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "Hij was te laat, maar dat is verschoonbaar: hij wachtte op de acceptgiro en dacht dat de rekening was vervallen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag geen reden waarom tijdig bezwaar maken niet van hem gevraagd kon worden; de aanslag zelf vermeldde de termijn.",
+    "bron": [
+     41
+    ],
+    "citaat": "Dit had voor belanghebbende, die zelf jurist is, duidelijk moeten zijn."
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat belanghebbende ervoor heeft gekozen om desondanks de acceptgiro af te wachten alvorens bezwaar te maken, komt voor zijn rekening en risico.",
+    "bron": [
+     41
+    ]
+   }
+  },
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De parkeerautomaat was kapot en er was geen tijd om een andere te zoeken.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "Omdat het bezwaar te laat was, keek de rechter niet naar de inhoud.",
+    "bron": [
+     42
+    ],
+    "citaat": "komt het Hof niet toe aan een inhoudelijke beoordeling van het geschil"
+   },
+   "bruikbare_zin": {
+    "citaat": "het maken van bezwaar los staat van betaling van de naheffingsaanslag",
+    "bron": [
+     38
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie een aanslagbiljet onder de ruitenwisser vindt, moet binnen zes weken bezwaar maken; wachten op een acceptgiro is geen reden voor te laat bezwaar.",
+  "type": "regel",
+  "reikwijdte": "Naheffingen parkeerbelasting die via het voertuig bekend zijn gemaakt en waarvan het aanslagbiljet de bezwaartermijn vermeldt.",
+  "uitzondering": "Een te late indiener kan toch ontvangen worden als hij redelijkerwijs niet in verzuim is geweest (art. 6:11 Awb).",
+  "herkomst": "wet",
+  "bron": [
+   36
+  ],
+  "citaat": "kan de bekendmaking van een aanslagbiljet parkeerbelasting geschieden door het aanbrengen van het aanslagbiljet op of aan het voertuig"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "aanslagbiljet onder de ruitenwisser",
+   "ontvangstdatum bezwaarschrift"
+  ],
+  "wat_gaf_doorslag": "Het aanslagbiljet vermeldde de termijn en het bezwaar kwam ruim te laat."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2000:AA6508",
+   "ECLI:NL:HR:2024:515"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 lid 7 Gemeentewet",
+  "art. 22j AWR",
+  "art. 6:8 Awb",
+  "art. 6:9 Awb",
+  "art. 6:11 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vermeld op elk aanslagbiljet onder de ruitenwisser duidelijk hoe en binnen welke termijn bezwaar kan worden gemaakt.",
+   "raakt": "bezwaar",
+   "bron": [
+    41
+   ],
+   "citaat": "Op het aanslagbiljet is immers vermeld op welke wijze en binnen welke termijn bezwaar kon worden gemaakt."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Bij een rekening voor parkeren die onder uw ruitenwisser zat, heeft u zes weken om bezwaar te maken. Wachten op een betaalbrief is geen goede reden om later te zijn. Maak dus binnen zes weken bezwaar, ook als u de betaalbrief nog niet heeft.",
+ "gemeente": "Zutphen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

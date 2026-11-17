@@ -1,0 +1,181 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2021:7051",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder)",
+  "wederpartij": "gemeente Amsterdam (heffingsambtenaar)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder kreeg een naheffing voor parkeren zonder betaling in Amsterdam. Hij ging in beroep bij de rechtbank Amsterdam; de zaak draaide om de vraag of hij had geparkeerd of alleen had gekeerd.",
+ "titel": "Naheffing terecht: auto stond geparkeerd, niet alleen gekeerd",
+ "kern": {
+  "zin": "De rechter hield de naheffing overeind, omdat de auto geparkeerd stond en niet alleen was gekeerd.",
+  "bron": [
+   16
+  ],
+  "citaat": "Het voorgaande betekent dat [eiser] geparkeerd stond en parkeerbelasting had moeten betalen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Tijdens een controle zag de gemeente de auto van de parkeerder staan zonder betaalde parkeerbelasting.",
+   "bron": [
+    14
+   ],
+   "citaat": "Tijdens een controle is geconstateerd dat de auto van [eiser] met kenteken"
+  },
+  {
+   "zin": "De parkeerder zei dat hij alleen had gekeerd en dat de foto's niet lieten zien of er iemand in de auto zat.",
+   "bron": [
+    15
+   ],
+   "citaat": "Volgens [eiser] was geen sprake van parkeren, maar van keren"
+  },
+  {
+   "zin": "De rechter zag op de foto's dat er niemand achter het stuur zat, dus ging het niet om alleen keren.",
+   "bron": [
+    16
+   ],
+   "citaat": "om te kunnen zien dat er niemand achter het stuur zit"
+  },
+  {
+   "zin": "De rechter vond dat de uitspraak op bezwaar de argumenten van de parkeerder goed had weergegeven.",
+   "bron": [
+    17
+   ],
+   "citaat": "in de uitspraak op bezwaar onder het kopje"
+  },
+  {
+   "zin": "De rechter vond het adres op de naheffing niet genoeg om de aanslag te vernietigen.",
+   "bron": [
+    18
+   ],
+   "citaat": "de enkele vermelding van een onjuist adres op de naheffingsaanslag geen reden is om tot vernietiging over te gaan"
+  },
+  {
+   "zin": "De naheffing was terecht en het beroep is ongegrond, zonder proceskosten.",
+   "bron": [
+    19
+   ],
+   "citaat": "De rechtbank concludeert dat de naheffingsaanslag terecht is opgelegd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; geen proceskosten, naheffing blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt de naheffing en krijgt geen proceskosten of griffierecht terug.",
+  "bron": [
+   20
+  ],
+  "citaat": "Voor een proceskostenveroordeling of vergoeding van het griffierecht bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Hij heeft alleen gekeerd en niet geparkeerd; op de foto is niet te zien of er iemand in de auto zat.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag op de foto's dat er niemand achter het stuur zat, en daarom telde het niet als alleen keren.",
+    "bron": [
+     16
+    ],
+    "citaat": "Het voorgaande betekent dat [eiser] geparkeerd stond en parkeerbelasting had moeten betalen"
+   },
+   "bruikbare_zin": {
+    "citaat": "om te kunnen zien dat er niemand achter het stuur zit",
+    "bron": [
+     16
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De uitspraak op bezwaar en de naheffing zijn slecht gemotiveerd, omdat zijn bezwaargronden zijn verdraaid.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de uitspraak op bezwaar zijn standpunt goed had weergegeven, dus er was geen gebrek.",
+    "bron": [
+     17
+    ],
+    "citaat": "Van een gebrekkige motivering in de uitspraak op bezwaar is daarom geen sprake"
+   },
+   "bruikbare_zin": {
+    "citaat": "neemt niet weg dat in de uitspraak op bezwaar onder het kopje",
+    "bron": [
+     17
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het adres op de naheffing is onjuist, en dat maakt de aanslag gebrekkig.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat een enkel onjuist adres op de naheffing geen reden is om de aanslag te vernietigen.",
+    "bron": [
+     18
+    ],
+    "citaat": "de enkele vermelding van een onjuist adres op de naheffingsaanslag geen reden is om tot vernietiging over te gaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "Op de naheffingsaanslag staat namelijk standaard vermeld dat je de details kunt inzien via internet",
+    "bron": [
+     18
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Op de foto's was te zien dat er niemand achter het stuur zat, dus was de auto geparkeerd en niet alleen gekeerd.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Deze scanfoto's in deze zaak; geen algemene regel over keren.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   16
+  ],
+  "citaat": "om te kunnen zien dat er niemand achter het stuur zit"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "scanfoto's",
+   "foto van het parkeervak (alleen ramen en garagedeuren)",
+   "gps-coördinaten gekoppeld aan het dichtstbijzijnde adres"
+  ],
+  "wat_gaf_doorslag": "De scanfoto's lieten zien dat er niemand achter het stuur zat."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Blijf op elke naheffingsaanslag vermelden hoe de parkeerder de details via internet kan inzien.",
+   "raakt": "communicatie",
+   "bron": [
+    18
+   ],
+   "citaat": "Op de naheffingsaanslag staat namelijk standaard vermeld dat je de details kunt inzien via internet"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "scanauto-handhaving",
+  "communicatie"
+ ],
+ "klantuitleg": "Zegt u dat u alleen even keerde, dan moet dat blijken uit de foto's. Hier was niemand achter het stuur te zien, dus oordeelde de rechter dat uw auto geparkeerd stond. Op uw naheffing staat hoe u de details via internet kunt bekijken, zodat u kunt nagaan waar de auto stond.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

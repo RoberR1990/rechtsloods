@@ -1,0 +1,183 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2023:5634",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder)",
+  "wederpartij": "gemeente Almere",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De gemeente Almere besliste te laat op het bezwaar tegen een naheffing. In beroep bij de rechtbank Midden-Nederland ging het alleen nog om de hoogte van de dwangsom.",
+ "titel": "Te laat op bezwaar beslist: dwangsom van € 462",
+ "kern": {
+  "zin": "De rechter stelde de dwangsom vast over de dagen van 24 januari tot en met 10 februari 2023, omdat de gemeente te laat beslist.",
+  "bron": [
+   22
+  ],
+  "citaat": "de heffingsambtenaar een dwangsom is verschuldigd vanaf 24 januari 2023 tot en met 10 februari 2023"
+ },
+ "samenvatting": [
+  {
+   "zin": "Volgens de parkeerder was de beslistermijn op 31 december 2022 verstreken.",
+   "bron": [
+    17
+   ],
+   "citaat": "De termijn voor het doen van de bestreden uitspraak verstreek volgens eiser op 31 december 2022"
+  },
+  {
+   "zin": "De parkeerder zette de gemeente op 9 januari 2023 in gebreke.",
+   "bron": [
+    17
+   ],
+   "citaat": "Eiser heeft op 9 januari 2023 de gemeente in gebreke gesteld"
+  },
+  {
+   "zin": "De gemeente zei dat de uitspraak op 9 februari 2023 is verzonden.",
+   "bron": [
+    18
+   ],
+   "citaat": "heeft op de zitting aangegeven dat de bestreden uitspraak is verzonden op 9 februari 2023"
+  },
+  {
+   "zin": "Ter zitting bleek de gemeente geen verzendadministratie te hebben.",
+   "bron": [
+    19
+   ],
+   "citaat": "heeft de heffingsambtenaar aangegeven dat hij niet beschikt over een verzendadministratie"
+  },
+  {
+   "zin": "De rechter oordeelde dat de dag van verzending meetelt voor de dwangsom.",
+   "bron": [
+    19
+   ],
+   "citaat": "De dag waarop de bestreden uitspraak is verzonden is namelijk de laatste dag"
+  },
+  {
+   "zin": "De gemeente moet een dwangsom van € 462 betalen.",
+   "bron": [
+    28
+   ],
+   "citaat": "stelt de door de heffingsambtenaar te betalen dwangsom vast op € 462"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Alleen de dwangsom en het griffierecht; de naheffing was al herroepen.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing is herroepen; de parkeerder krijgt een dwangsom van € 462 en griffierecht van € 50 terug.",
+  "bron": [
+   27,
+   28,
+   30
+  ],
+  "citaat": "herroept de naheffingsaanslag van 30 april 2022"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente besliste te laat op het bezwaar, dus er is dwangsom verschuldigd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter zette de dwangsom vast over de dagen van 24 januari tot en met 10 februari 2023.",
+    "bron": [
+     22
+    ],
+    "citaat": "de heffingsambtenaar een dwangsom is verschuldigd vanaf 24 januari 2023 tot en met 10 februari 2023"
+   },
+   "bruikbare_zin": {
+    "citaat": "de heffingsambtenaar een dwangsom is verschuldigd vanaf 24 januari 2023 tot en met 10 februari 2023",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De dwangsom loopt al vanaf 15 januari 2023, twee weken na de beslistermijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de dwangsom pas loopt na de ingebrekestelling en twee weken later, dus pas vanaf 24 januari.",
+    "bron": [
+     21
+    ],
+    "citaat": "Gelet daarop verbeurde de heffingsambtenaar pas vanaf 24 januari 2023 dwangsommen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Eiser heeft de heffingsambtenaar in gebreke gesteld op 9 januari 2023",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De uitspraak is waarschijnlijk pas op 10 februari verzonden, dus de dwangsom loopt langer.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente de verzenddatum van 9 februari niet kon aantonen.",
+    "bron": [
+     19
+    ],
+    "citaat": "heeft de heffingsambtenaar niet aannemelijk gemaakt dat de bestreden uitspraak daadwerkelijk al op 9 februari 2023 is verzonden"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft de heffingsambtenaar niet aannemelijk gemaakt",
+    "bron": [
+     19
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De dag waarop de uitspraak is verzonden, telt mee voor de berekening van de dwangsom.",
+  "type": "regel",
+  "reikwijdte": "dwangsom bij te laat beslissen op bezwaar: de verzenddag is de laatste dag waarover de dwangsom loopt",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   19
+  ],
+  "citaat": "De dag waarop de bestreden uitspraak is verzonden is namelijk de laatste dag"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verzendadministratie (ontbrak)",
+   "ingebrekestelling van 9 januari 2023"
+  ],
+  "wat_gaf_doorslag": "De gemeente kon de verzenddatum van 9 februari niet aantonen met een verzendadministratie."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 4:17 Awb",
+  "art. 4:17 lid 3 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg vast wanneer een uitspraak is verzonden, bijvoorbeeld in een verzendadministratie, zodat u de datum kunt bewijzen.",
+   "raakt": "bezwaar",
+   "bron": [
+    19
+   ],
+   "citaat": "kan de heffingsambtenaar dat bewijs leveren door een verzendadministratie over te leggen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar"
+ ],
+ "klantuitleg": "In deze zaak was de naheffing ten onrechte opgelegd, daarom is die herroepen. Heeft de gemeente te laat op uw bezwaar beslist, dan kunt u na een ingebrekestelling een dwangsom krijgen. Die loopt per dag, en de dag van verzending telt mee.",
+ "gemeente": "Almere",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

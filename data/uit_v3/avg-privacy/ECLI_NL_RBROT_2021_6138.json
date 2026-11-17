@@ -1,0 +1,137 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2021:6138",
+ "relevant": true,
+ "onderwerp": "schade-aansprakelijkheid",
+ "sub": "dwangsom-niet-tijdig",
+ "kenmerk": null,
+ "zaaktype": "niet-tijdig-beslissen",
+ "partijen": {
+  "burger": "burger met AVG-verzoeken",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger ging in beroep omdat de gemeente Rotterdam niet op tijd had beslist op haar verzoeken op grond van de AVG. De rechtbank Rotterdam deed mondeling uitspraak.",
+ "titel": "Beroep niet-ontvankelijk: gemeente had inmiddels alsnog beslist",
+ "kern": {
+  "zin": "De rechter verklaarde het beroep niet-ontvankelijk, omdat de gemeente alsnog had beslist en de burger dus geen belang meer had.",
+  "bron": [
+   16
+  ],
+  "citaat": "heeft eiseres geen belang meer bij een beoordeling van haar beroep"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger ging in beroep omdat er geen beslissing kwam op haar verzoeken op grond van de AVG.",
+   "bron": [
+    15
+   ],
+   "citaat": "Eiseres heeft beroep ingesteld tegen het uitblijven van een beslissing op haar aanvragen"
+  },
+  {
+   "zin": "De gemeente gaf toe dat ze te laat had beslist en dat een dwangsom (een bedrag voor te late beslissing) was verbeurd.",
+   "bron": [
+    16
+   ],
+   "citaat": "heeft verweerder erkend dat hij niet tijdig heeft beslist op de aanvragen en dat eenmaal de maximale dwangsom is verbeurd"
+  },
+  {
+   "zin": "Daarna besliste de gemeente alsnog op de verzoeken.",
+   "bron": [
+    16
+   ],
+   "citaat": "heeft verweerder alsnog beslist op de aanvragen van eiseres"
+  },
+  {
+   "zin": "De burger vond dat de gemeente meer dan één dwangsom verschuldigd was; de rechter vond van niet, omdat de verzoeken met elkaar samenhingen.",
+   "bron": [
+    16
+   ],
+   "citaat": "vanwege de samenhang tussen de aanvragen slechts één dwangsom verbeurd"
+  },
+  {
+   "zin": "Omdat de gemeente alsnog had beslist, is het beroep niet-ontvankelijk en wordt het als bezwaar doorgestuurd naar de gemeente.",
+   "bron": [
+    16
+   ],
+   "citaat": "verwijst de rechtbank het beroepschrift naar verweerder ter behandeling als bezwaarschrift"
+  },
+  {
+   "zin": "De gemeente moet het griffierecht (kosten voor het beroep) terugbetalen.",
+   "bron": [
+    17
+   ],
+   "citaat": "het door haar betaalde griffierecht van € 178,- vergoedt"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Niet-ontvankelijk; één dwangsom; griffierecht terug; beroep gaat door als bezwaar.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen tweede dwangsom maar wel € 178 griffierecht terug; geen vergoeding van proceskosten, en haar beroepschrift wordt als bezwaar behandeld.",
+  "bron": [
+   17,
+   18
+  ],
+  "citaat": "het door haar betaalde griffierecht van € 178,- vergoedt"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente is meer dan één dwangsom verschuldigd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Door de samenhang tussen de verzoeken is maar één dwangsom verbeurd.",
+    "bron": [
+     16
+    ],
+    "citaat": "vanwege de samenhang tussen de aanvragen slechts één dwangsom verbeurd"
+   },
+   "bruikbare_zin": {
+    "citaat": "vanwege de samenhang tussen de aanvragen slechts één dwangsom verbeurd",
+    "bron": [
+     16
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Heeft de gemeente alsnog beslist, dan heeft de burger geen belang meer bij beroep tegen het uitblijven van een beslissing.",
+  "type": "regel",
+  "reikwijdte": "Beroep tegen het niet tijdig beslissen op AVG-verzoeken, waarbij de gemeente daarna alsnog beslist.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   16
+  ],
+  "citaat": "Nu verweerder alsnog heeft beslist op de aanvragen van eiseres, heeft eiseres geen belang meer"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De gemeente had op 2 juli 2020 alsnog beslist."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:CRVB:2017:1815"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 6:20 lid 4 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver procedurele uitspraak; geen concrete les uit de tekst",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Beslist de gemeente te laat op uw verzoek over uw gegevens, dan kan ze een dwangsom (een bedrag dat ze u moet betalen) verschuldigd zijn; hangen meerdere verzoeken samen, dan geldt maar één dwangsom. Beslist de gemeente daarna alsnog, dan heeft beroep tegen het uitblijven van een besluit geen zin meer. Bent u het niet eens met dat besluit zelf, dan kunt u daartegen bezwaar maken.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

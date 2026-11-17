@@ -1,0 +1,162 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2024:666",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente (via Belastingsamenwerking Gouwe-Rijnland)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een docent parkeerde zijn auto en kon niet betalen, omdat twee parkeerautomaten kapot waren. Hij ging in hoger beroep bij het Gerechtshof Den Haag tegen de gemeente.",
+ "titel": "Kapotte parkeerautomaten: rekening gaat omlaag naar € 2,10",
+ "kern": {
+  "zin": "De rechter verlaagde de rekening achteraf tot de parkeerbelasting zelf, omdat de parkeerder in dit geval alles deed wat redelijk was om te betalen.",
+  "bron": [
+   40
+  ],
+  "citaat": "Belanghebbende heeft gedaan wat redelijkerwijs van hem kon worden verlangd om de parkeerbelasting te voldoen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle bleek dat voor de auto geen parkeerbelasting was betaald, en de gemeente legde een naheffingsaanslag (de rekening achteraf) op.",
+   "bron": [
+    23
+   ],
+   "citaat": "is geconstateerd dat voor de auto geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat hij alles had gedaan om te betalen, maar dat in de buurt twee parkeerautomaten kapot waren.",
+   "bron": [
+    37
+   ],
+   "citaat": "dat in de nabijheid van de auto twee parkeerautomaten defect waren"
+  },
+  {
+   "zin": "De gemeente vond dat de parkeerder naar een werkende automaat had moeten zoeken of de parkeerapp had kunnen gebruiken.",
+   "bron": [
+    38
+   ],
+   "citaat": "Belanghebbende had de parkeerbelasting bovendien ook kunnen voldoen met behulp van een parkeerapp"
+  },
+  {
+   "zin": "De rechter vond de verklaringen van de parkeerder geloofwaardig: hij probeerde te betalen met pinpas en creditcard, liet een leerling naar de volgende automaat lopen en belde de gemeente.",
+   "bron": [
+    40
+   ],
+   "citaat": "heeft rond 8.30 uur getracht bij de dichtstbijzijnde parkeerautomaat te betalen met een pinpas en met een creditcard"
+  },
+  {
+   "zin": "De rechter vond dat de parkeerder niet nog verder hoefde te zoeken, en dat een parkeerapp niet verplicht is als er ook andere manieren van betalen zijn.",
+   "bron": [
+    41
+   ],
+   "citaat": "weer in zijn auto stapt om op zoek te gaan naar een werkende nog verder weg gelegen parkeerautomaat"
+  },
+  {
+   "zin": "De rekening gaat daarom omlaag naar € 2,10 en de gemeente betaalt het griffierecht van € 136 terug.",
+   "bron": [
+    42
+   ],
+   "citaat": "leidt tot de conclusie dat de aanslag moet worden verminderd tot"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Rekening omlaag naar € 2,10; griffierecht terug; geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft alleen € 2,10 parkeerbelasting te betalen, krijgt € 136 griffierecht terug en krijgt geen proceskosten vergoed.",
+  "bron": [
+   42,
+   45,
+   44
+  ],
+  "citaat": "leidt tot de conclusie dat de aanslag moet worden verminderd tot"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "Twee parkeerautomaten in de buurt waren kapot, en hij deed wat redelijk was om te betalen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter geloofde de parkeerder en vond dat hij na de tweede kapotte automaat niet verder hoefde te zoeken.",
+    "bron": [
+     41
+    ],
+    "citaat": "Het Hof heeft geen reden aan deze geloofwaardige verklaringen van belanghebbende te twijfelen"
+   },
+   "bruikbare_zin": {
+    "citaat": "weer in zijn auto stapt om op zoek te gaan naar een werkende nog verder weg gelegen parkeerautomaat",
+    "bron": [
+     41
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Zijn er meer manieren van betalen toegestaan, dan moet de gemeente zorgen voor werkende apparatuur binnen redelijke afstand van de parkeerplek, en kan een parkeerder zonder app dat niet verweten worden.",
+  "type": "regel",
+  "reikwijdte": "Plekken waar de verordening meer manieren van betalen toestaat dan alleen de parkeerapp",
+  "uitzondering": "Een kapotte automaat ontslaat de parkeerder normaal niet van betalen; hij moet dan wel bij een volgende nabije automaat proberen.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   41
+  ],
+  "citaat": "de gemeente dan moet zorgen voor werkende parkeerapparatuur binnen redelijke afstand van de parkeerplaats"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaringen van de parkeerder",
+   "pogingen met pinpas en creditcard",
+   "telefoontjes naar de gemeente"
+  ],
+  "wat_gaf_doorslag": "De rechter vond de verklaringen van de parkeerder geloofwaardig en zag geen bewijs dat de automaten werkten."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2005:AU5160",
+   "ECLI:NL:HR:1995:AA3117"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 lid 1 onder a Gemeentewet",
+  "art. 1 en 5 lid 1 Verordening parkeerbelasting 2021"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zorg dat binnen redelijke afstand van elke betaalde parkeerplek een werkende automaat staat",
+   "raakt": "betaalapp",
+   "bron": [
+    41
+   ],
+   "citaat": "de gemeente dan moet zorgen voor werkende parkeerapparatuur binnen redelijke afstand van de parkeerplaats"
+  },
+  {
+   "actie": "Zorg dat het storingsnummer op de automaat ook buiten kantoortijden een melding kan aannemen",
+   "raakt": "klantcontact",
+   "bron": [
+    40
+   ],
+   "citaat": "het op de parkeerautomaat staande telefoonnummer van de gemeente gebeld om hiervan een melding te doen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "betaalapp",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Is een parkeerautomaat kapot, dan moet u in principe toch betalen, bijvoorbeeld bij een andere automaat in de buurt. In deze zaak vond de rechter dat de parkeerder genoeg had geprobeerd, omdat de tweede automaat ook kapot was. Heeft u een rekening achteraf gekregen na een storing, dan heeft bezwaar meer kans als u kunt laten zien wat u hebt geprobeerd, zoals pogingen om te betalen en een melding aan de gemeente.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

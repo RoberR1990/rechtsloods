@@ -1,0 +1,188 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2017:5155",
+ "relevant": true,
+ "kenmerk": null,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "kentekenhouder met gemachtigde",
+  "wederpartij": "gemeente Hilversum",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een autohouder kreeg in Hilversum een naheffingsaanslag (een rekening achteraf) voor parkeren zonder kaartje. De gemeente trok die in, maar vergoedde de kosten van het bezwaar niet; de autohouder ging daartegen in hoger beroep bij het Gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Geen kostenvergoeding: parkeerkaartje was niet te zien op de foto's",
+ "kern": {
+  "zin": "De gemeente hoeft de kosten van het bezwaar niet te vergoeden, omdat zij zorgvuldig handelde en de parkeerder niet liet zien dat hij had betaald.",
+  "bron": [
+   49
+  ],
+  "citaat": "De naheffingsaanslag is dan ook niet herroepen wegens aan de heffingsambtenaar te wijten onrechtmatigheid"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeercontroleur vond geen geldig parkeerkaartje in de auto en legde een naheffingsaanslag op.",
+   "bron": [
+    19
+   ],
+   "citaat": "De parkeercontroleur heeft geen geldig parkeerkaartje in de auto aangetroffen"
+  },
+  {
+   "zin": "Na bezwaar trok de gemeente de aanslag in, maar weigerde zij de kosten van het bezwaar te vergoeden.",
+   "bron": [
+    23
+   ],
+   "citaat": "geweigerd een proceskostenvergoeding toe te kennen"
+  },
+  {
+   "zin": "De autohouder zei dat het kaartje zichtbaar achter de voorruit lag.",
+   "bron": [
+    44
+   ],
+   "citaat": "belanghebbende het parkeerkaartje zichtbaar achter de voorruit in de hoek bij de linker raamstijl heeft gelegd"
+  },
+  {
+   "zin": "De gemeente zei dat zij niet onrechtmatig had gehandeld, omdat de controleur geen kaartje vond.",
+   "bron": [
+    45
+   ],
+   "citaat": "van een onrechtmatig handelen geen sprake is"
+  },
+  {
+   "zin": "Het hof vond dat de gemeente zorgvuldig had gehandeld: op de foto's was geen kaartje te zien.",
+   "bron": [
+    48
+   ],
+   "citaat": "heeft de heffingsambtenaar de normale zorgvuldigheid betracht bij het vaststellen van de naheffingsaanslag"
+  },
+  {
+   "zin": "Daarom heeft de autohouder geen recht op vergoeding van de kosten.",
+   "bron": [
+    71
+   ],
+   "citaat": "Belanghebbende heeft geen recht op een vergoeding van de proceskosten"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Alleen over kostenvergoeding bezwaar; vergoeding geweigerd",
+ "gevolg_betrokkene": {
+  "zin": "De aanslag was al vernietigd, maar de autohouder krijgt geen vergoeding voor de kosten van bezwaar, het griffierecht of de proceskosten.",
+  "bron": [
+   74
+  ],
+  "citaat": "Het Hof ziet geen aanleiding voor vergoeding van het griffierecht of een veroordeling in de proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente handelde onrechtmatig, want het parkeerkaartje lag zichtbaar achter de voorruit.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Op geen van de foto's was een kaartje te zien.",
+    "bron": [
+     48
+    ],
+    "citaat": "nu op geen van de foto’s een parkeerkaartje zichtbaar is"
+   },
+   "bruikbare_zin": {
+    "citaat": "onderbouwen de foto’s zijn verklaring voldoende",
+    "bron": [
+     48
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De gemeente heeft de plicht om te horen en stukken te laten inzien geschonden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het verzoek om kostenvergoeding was kennelijk niet toewijsbaar, dus horen was niet nodig.",
+    "bron": [
+     69
+    ],
+    "citaat": "Van een schending van de hoor- en inzageplicht bij het nemen van de beslissing op het verzoek is dan geen sprake"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het verweerschrift van de gemeente is door een onbevoegde persoon ingediend.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De ondertekenaar had een machtiging, dus de rechtbank mocht het stuk meenemen.",
+    "bron": [
+     35
+    ],
+    "citaat": "De Rechtbank heeft dan ook terecht acht geslagen op het verweerschrift"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Kosten van bezwaar worden alleen vergoed als het besluit wordt herroepen door een fout die de gemeente te verwijten is.",
+  "type": "regel",
+  "reikwijdte": "Kostenvergoeding bij bezwaar tegen een naheffingsaanslag parkeerbelasting",
+  "uitzondering": "Geen vergoeding als de fout aan de burger te wijten is, bijvoorbeeld doordat hij niet liet zien dat hij had betaald",
+  "herkomst": "wet",
+  "bron": [
+   37
+  ],
+  "citaat": "uitsluitend vergoed op verzoek van de belanghebbende voor zover het bestreden besluit wordt herroepen wegens aan het bestuursorgaan te wijten onrechtmatigheid"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "foto's van de parkeercontroleur",
+   "verklaring van de parkeercontroleur"
+  ],
+  "wat_gaf_doorslag": "Op geen van de foto's was een parkeerkaartje zichtbaar."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2010:BM7705",
+   "ECLI:NL:HR:2016:114",
+   "ECLI:NL:CBB:2013:BZ9960",
+   "ECLI:NL:RVS:2014:4135"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:15 Awb",
+  "art. 7:3 onder b Awb",
+  "art. 7:2 Awb",
+  "art. 8:31 Awb",
+  "art. 6 Verordening Parkeerbelastingen 2015 Hilversum"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Maak foto's van de voorruit en het dashboard bij elke naheffingsaanslag.",
+   "raakt": "bezwaar",
+   "bron": [
+    48
+   ],
+   "citaat": "De verklaring van de parkeercontroleur wordt bevestigd door de diverse foto’s die hij van de auto heeft gemaakt"
+  },
+  {
+   "actie": "Onderbouw dat een verzoek om kostenvergoeding kennelijk niet toewijsbaar is, voordat u afziet van horen.",
+   "raakt": "bezwaar",
+   "bron": [
+    66
+   ],
+   "citaat": "Van een kennelijke niet toewijsbaarheid is naar het oordeel van het Hof sprake"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Trekt de gemeente uw naheffing in, dan krijgt u de kosten van uw bezwaar niet altijd terug. Dat gebeurt alleen als de gemeente een fout maakte. Neem daarom een foto van uw parkeerbewijs achter de voorruit, want zonder bewijs krijgt u waarschijnlijk geen vergoeding.",
+ "gemeente": "Hilversum",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,199 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:490",
+ "relevant": true,
+ "onderwerp": "rechtmatige-verwerking",
+ "sub": "grondslag",
+ "kenmerk": "publieke-taak",
+ "zaaktype": "klacht-handhaving-ap",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "Autoriteit Persoonsgegevens",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bewoner van Wageningen klaagde bij de Autoriteit Persoonsgegevens (AP) over kentekenparkeren door de gemeente en vroeg om handhaving. Hij ging tegen de AP in hoger beroep bij de Raad van State, omdat de AP niet optrad.",
+ "titel": "Kentekenparkeren in Wageningen mag; geen privacy-risicoanalyse nodig",
+ "kern": {
+  "zin": "De Raad van State vond dat de AP terecht niet handhaafde, omdat kentekenparkeren in Wageningen rechtmatig is en geen DPIA (risicoanalyse voor privacy) vereist.",
+  "bron": [
+   61
+  ],
+  "citaat": "is de AP daarom op goede gronden niet overgegaan tot handhaving"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger klaagde bij de AP over het kentekenparkeren en vroeg de AP om handhaving tegen de gemeente.",
+   "bron": [
+    22
+   ],
+   "citaat": "Ook verzoekt hij de AP om corrigerende maatregelen te treffen tegen het college"
+  },
+  {
+   "zin": "De AP wees het verzoek af en de rechtbank vond dat de AP dat terecht had gedaan.",
+   "bron": [
+    22
+   ],
+   "citaat": "geen sprake is van een onrechtmatige verwerking van persoonsgegevens door het college"
+  },
+  {
+   "zin": "Volgens de Raad van State hoeft de wet niet te regelen hoelang gegevens bewaard worden of welke systemen worden gebruikt.",
+   "bron": [
+    33
+   ],
+   "citaat": "gaat niet zo ver dat in wettelijke regelingen moet worden vastgesteld wat de bewaartermijn is"
+  },
+  {
+   "zin": "De burger had niet aannemelijk gemaakt dat een elektronische blauwe parkeerschijf een even goed en minder ingrijpend alternatief is.",
+   "bron": [
+    36
+   ],
+   "citaat": "niet aannemelijk gemaakt dat een systeem met een (elektronische) blauwe parkeerschijf een minder ingrijpend alternatief vormt"
+  },
+  {
+   "zin": "De inbreuk op de privacy is volgens de Raad van State evenredig, omdat men ook ergens anders kan parkeren zonder gegevensverwerking.",
+   "bron": [
+    37
+   ],
+   "citaat": "de inbreuk op de privacy evenredig is met de belangen die zijn gediend met de verwerking"
+  },
+  {
+   "zin": "Een DPIA was niet verplicht, dus de AP hoefde niet te handhaven en het hoger beroep is ongegrond.",
+   "bron": [
+    61
+   ],
+   "citaat": "Dat betekent dat het college niet verplicht was om een DPIA uit te voeren"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; kentekenparkeren mag zoals in Wageningen.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen handhaving van de AP en geen vergoeding van proceskosten; de uitspraak van de rechtbank blijft staan.",
+  "bron": [
+   64
+  ],
+  "citaat": "De AP hoeft de proceskosten niet te vergoeden"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "geen-wettelijke-grondslag",
+   "burger_zegt": "De parkeerverordening, het aanwijzingsbesluit en de Gemeentewet zijn geen goede wettelijke basis voor kentekenparkeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De wet hoeft niet te regelen hoelang gegevens bewaard worden of welke systemen worden gebruikt, en de zaak waarnaar de burger verwees ging over veel grotere gegevensverwerking.",
+    "bron": [
+     33
+    ],
+    "citaat": "gaat niet zo ver dat in wettelijke regelingen moet worden vastgesteld wat de bewaartermijn is"
+   },
+   "bruikbare_zin": {
+    "citaat": "gaat niet zo ver dat in wettelijke regelingen moet worden vastgesteld wat de bewaartermijn is",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Kentekens verwerken is niet nodig, want met een elektronische blauwe parkeerschijf kan men anoniem parkeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Met een blauwe parkeerschijf kan de gemeente parkeerbelasting niet goed innen, dus het doel wordt daarmee niet bereikt.",
+    "bron": [
+     36
+    ],
+    "citaat": "niet aannemelijk gemaakt dat een systeem met een (elektronische) blauwe parkeerschijf een minder ingrijpend alternatief vormt"
+   },
+   "bruikbare_zin": {
+    "citaat": "Met een elektronische blauwe parkeerschijf is inning en eventueel naheffing van parkeerbelasting voor de gemeente namelijk niet goed mogelijk",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente had vooraf een DPIA (risicoanalyse voor privacy) moeten doen, omdat het gaat om stelselmatige monitoring, grote schaal en locatiegegevens.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er is geen stelselmatige monitoring, want parkeerders voeren het kenteken zelf in en kunnen elders parkeren.",
+    "bron": [
+     46
+    ],
+    "citaat": "bij het kentekenparkeren geen sprake van stelselmatige monitoring zoals bedoeld onder punt 12 van het Besluit DPIA"
+   },
+   "bruikbare_zin": {
+    "citaat": "bij het kentekenparkeren geen sprake van stelselmatige monitoring zoals bedoeld onder punt 12 van het Besluit DPIA",
+    "bron": [
+     46
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie gegevens verwerkt, moet laten zien dat de verwerking nodig is voor het doel, maar hoeft niet alle mogelijke alternatieven te bedenken.",
+  "type": "regel",
+  "reikwijdte": "Toets of een verwerking nodig is voor een taak van algemeen belang; hoe concreter de burger een alternatief beschrijft, hoe indringender de AP moet onderzoeken.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   36
+  ],
+  "citaat": "Maar de verwerkingsverantwoordelijke hoeft niet alle mogelijke alternatieven te bedenken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "schriftelijke uiteenzetting van de AP",
+   "toelichting van de gemeente op de zitting"
+  ],
+  "wat_gaf_doorslag": "De burger maakte niet aannemelijk dat een blauwe parkeerschijf even goed werkt, en op andere plekken kan men parkeren zonder gegevensverwerking."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2021:1420",
+   "ECLI:NL:RVS:2017:2555",
+   "ECLI:NL:HR:2017:286"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 6 lid 1 onder e AVG",
+  "art. 35 AVG",
+  "art. 77 AVG",
+  "art. 225 Gemeentewet",
+  "art. 234 Gemeentewet",
+  "Verordening parkeerbelastingen 2021 Wageningen"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zorg dat er naast het kentekenparkeren plekken zijn waar men kan parkeren zonder dat persoonsgegevens worden verwerkt.",
+   "raakt": "privacy-fg",
+   "bron": [
+    37
+   ],
+   "citaat": "alternatieven heeft aangedragen waar het mogelijk is om zonder de verwerking van persoonsgegevens te parkeren"
+  },
+  {
+   "actie": "Leg vast waarom een minder ingrijpend alternatief, zoals een blauwe parkeerschijf, de heffing niet goed mogelijk maakt.",
+   "raakt": "privacy-fg",
+   "bron": [
+    36
+   ],
+   "citaat": "Met een elektronische blauwe parkeerschijf is inning en eventueel naheffing van parkeerbelasting voor de gemeente namelijk niet goed mogelijk"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "fraude-handhaving",
+  "bezwaar"
+ ],
+ "klantuitleg": "De gemeente mag uw kenteken gebruiken om parkeergeld te controleren en te innen. Dat mag ook als het kenteken kort wordt bewaard en u elders kunt parkeren zonder dat uw kenteken wordt gebruikt. Twijfelt u, vraag de gemeente dan waarom zij uw kenteken nodig heeft en hoelang zij het bewaart, en noem een concreet alternatief als u dat heeft.",
+ "gemeente": "Wageningen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

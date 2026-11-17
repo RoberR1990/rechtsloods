@@ -1,0 +1,151 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": "fsv",
+ "steunt": null,
+ "dubbel_van": null,
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij",
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "ecli": "ECLI:NL:RVS:2026:5788",
+ "onderwerp": "algoritmes-registraties",
+ "sub": "fraude-signalering",
+ "zaaktype": "schadevergoeding",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "minister van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger vroeg de Belastingdienst om inzage in zijn gegevens op een fraudelijst (FSV) en vroeg ook om schadevergoeding. Hij ging in hoger beroep tegen de minister van Financiën bij de Raad van State, omdat de rechtbank zich onbevoegd verklaarde over de schade.",
+ "titel": "Schadeverzoek over fraudelijst Belastingdienst hoort bij burgerlijke rechter",
+ "kern": {
+  "zin": "De rechtbank verklaarde zich terecht onbevoegd over het schadeverzoek.",
+  "bron": [
+   29
+  ],
+  "citaat": "Dit betekent dat de rechtbank zich terecht onbevoegd heeft verklaard"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de minister van Financiën om inzage in zijn gegevens op de fraudelijst FSV en andere lijsten.",
+   "bron": [
+    20
+   ],
+   "citaat": "verzocht om inzage over welke persoonsgegevens van hem voorkomen op de lijst van de Fraude Signalering Voorziening (FSV)"
+  },
+  {
+   "zin": "De minister stelde vast dat de gegevens van de burger in de FSV stonden.",
+   "bron": [
+    22
+   ],
+   "citaat": "vastgesteld dat de persoonsgegevens van [appellant] waren opgenomen in de FSV"
+  },
+  {
+   "zin": "Voor het verzoek om schadevergoeding verwees de minister naar de website van de Belastingdienst.",
+   "bron": [
+    23
+   ],
+   "citaat": "Voor het verzoek om immateriële schadevergoeding heeft de minister doorverwezen naar de website van de belastingdienst"
+  },
+  {
+   "zin": "De rechtbank verklaarde zich onbevoegd om over het schadeverzoek te oordelen.",
+   "bron": [
+    25
+   ],
+   "citaat": "De rechtbank heeft zich onbevoegd verklaard om over het schadeverzoek te oordelen"
+  },
+  {
+   "zin": "De Afdeling zei dat voor zo'n schadeverzoek alleen de burgerlijke rechter bevoegd is.",
+   "bron": [
+    29
+   ],
+   "citaat": "daarvoor niet de bestuursrechtelijke weg open staat, maar uitsluitend de burgerlijke rechter bevoegd is"
+  },
+  {
+   "zin": "Over het inzageverzoek oordeelde de Afdeling niet, omdat de burger zijn bezwaren daartegen te laat aanvoerde.",
+   "bron": [
+    31
+   ],
+   "citaat": "De Afdeling is van oordeel dat [appellant] deze gronden te laat heeft aangevoerd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; schadeverzoek hoort bij de burgerlijke rechter.",
+ "gevolg_betrokkene": {
+  "zin": "De burger moet voor zijn schadeverzoek naar de burgerlijke rechter; over zijn inzageverzoek oordeelt de Afdeling niet meer.",
+  "bron": [
+   29
+  ],
+  "citaat": "uitsluitend de burgerlijke rechter bevoegd is"
+ },
+ "bezwaargronden": [
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "De bestuursrechter moest over zijn schade door de FSV oordelen, op grond van het tegemoetkomingsbeleid (een regeling voor een geldbedrag).",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er lag geen besluit op grond van dat beleid, maar een gewoon verzoek om schadevergoeding.",
+    "bron": [
+     29
+    ],
+    "citaat": "geen besluit voor dat op grond van tegemoetkomingbeleid is genomen, maar heeft [appellant] een verzoek om schadevergoeding ingediend"
+   },
+   "bruikbare_zin": {
+    "citaat": "daarvoor niet de bestuursrechtelijke weg open staat, maar uitsluitend de burgerlijke rechter bevoegd is",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Hij kon zich ook niet vinden in het oordeel van de rechtbank over zijn inzageverzoek.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "Deze gronden kwamen te laat en bleven buiten beschouwing.",
+    "bron": [
+     31
+    ],
+    "citaat": "Wat [appellant] heeft aangevoerd over het inzageverzoek laat de Afdeling buiten beschouwing"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een verzoek om schadevergoeding voor onrechtmatig gebruik van gegevens in de FSV hoort bij de burgerlijke rechter, tenzij er een besluit op tegemoetkomingsbeleid ligt.",
+  "type": "regel",
+  "reikwijdte": "Schadeverzoeken over registratie in de FSV bij de Belastingdienst",
+  "uitzondering": "Een besluit op grond van tegemoetkomingsbeleid wordt anders behandeld (uitspraak van 18 juni 2025).",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   29
+  ],
+  "citaat": "daarvoor niet de bestuursrechtelijke weg open staat, maar uitsluitend de burgerlijke rechter bevoegd is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Er lag geen besluit op tegemoetkomingsbeleid, alleen een verzoek om schadevergoeding."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2024:2891",
+   "ECLI:NL:RVS:2025:5890",
+   "ECLI:NL:RVS:2025:2730"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1:3 lid 1 Awb"
+ ],
+ "raakt": [
+  "privacy-fg",
+  "fraude-handhaving",
+  "bezwaar"
+ ],
+ "klantuitleg": "Heeft u schade omdat uw gegevens in een fraudelijst stonden? Daarover beslist de bestuursrechter meestal niet; daarvoor gaat u naar de burgerlijke rechter. Wilt u bezwaren over uw inzageverzoek aanvoeren, doe dat dan op tijd in uw beroepschrift.",
+ "zekerheid": "hoog"
+}

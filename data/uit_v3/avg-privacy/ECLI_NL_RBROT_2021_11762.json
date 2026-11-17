@@ -1,0 +1,220 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2021:11762",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "zoekslag",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "Kamer van Koophandel",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Deze zaak gaat over een verzoek om inzage in persoonsgegevens. De burger stond tegenover de Kamer van Koophandel bij de rechtbank Rotterdam.",
+ "titel": "Kamer van Koophandel hoefde niet meer inzage te geven",
+ "kern": {
+  "zin": "De rechter vindt dat de burger niet aannemelijk heeft gemaakt dat er meer persoonsgegevens zijn.",
+  "bron": [
+   29
+  ],
+  "citaat": "Eiser heeft niet aannemelijk gemaakt dat er meer persoonsgegevens dienen te zijn."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de Kamer van Koophandel om inzage in zijn persoonsgegevens.",
+   "bron": [
+    16
+   ],
+   "citaat": "verzocht om inzage in de verwerking door verweerder van zijn persoonsgegevens"
+  },
+  {
+   "zin": "De Kamer van Koophandel gaf inzage in de klantsystemen, maar wees het verzoek voor het handelsregister af.",
+   "bron": [
+    18
+   ],
+   "citaat": "hem inzage verleend in de verwerking van zijn persoonsgegevens in de klantsystemen van verweerder"
+  },
+  {
+   "zin": "De burger zei dat de gegevens niet volledig waren en dat de Kamer van Koophandel gegevens achterhield.",
+   "bron": [
+    21
+   ],
+   "citaat": "Eiser betoogt dat de verstrekte gegevens niet volledig zijn en dat verweerder welbewust gegevens achterhoudt."
+  },
+  {
+   "zin": "De burger zei dat zijn telefoonnummer geen deel was van zijn onderneming.",
+   "bron": [
+    21
+   ],
+   "citaat": "omdat het geen onderdeel uitmaakt van de onderneming van eiser"
+  },
+  {
+   "zin": "De Kamer van Koophandel zei dat de burger het telefoonnummer zelf bij zijn onderneming had opgegeven.",
+   "bron": [
+    20
+   ],
+   "citaat": "eiser dit heeft opgegeven als behorend bij zijn onderneming"
+  },
+  {
+   "zin": "De rechter vond dat de Kamer van Koophandel genoeg inzage had gegeven en verklaarde het beroep ongegrond.",
+   "bron": [
+    27,
+    35
+   ],
+   "citaat": "verweerder daarmee aan eiser de informatie heeft verstrekt waarop hij op grond van de AVG recht heeft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De rechter vindt dat de Kamer van Koophandel genoeg inzage heeft gegeven.",
+ "gevolg_betrokkene": {
+  "zin": "Het beroep is ongegrond, dus de burger krijgt geen nieuwe inzage; een vergoeding van proceskosten krijgt hij niet.",
+  "bron": [
+   35,
+   33
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Ik heb niet alle gegevens gekregen die ik vroeg.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de burger niet aannemelijk had gemaakt dat er meer gegevens zijn.",
+    "bron": [
+     29
+    ],
+    "citaat": "Eiser heeft niet aannemelijk gemaakt dat er meer persoonsgegevens dienen te zijn."
+   },
+   "bruikbare_zin": {
+    "citaat": "Eiser heeft niet aannemelijk gemaakt dat er meer persoonsgegevens dienen te zijn.",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "Er is niet goed genoeg gezocht in de systemen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de mededeling van de Kamer van Koophandel dat er niet meer gegevens zijn geloofwaardig.",
+    "bron": [
+     28
+    ],
+    "citaat": "verweerder niet geloofwaardig heeft medegedeeld dat er niet meer persoonsgegevens zijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "verweerder niet geloofwaardig heeft medegedeeld dat er niet meer persoonsgegevens zijn",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "kopie-stukken",
+   "burger_zegt": "Ik wil de stukken zelf, niet alleen een overzicht.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de Kamer van Koophandel al een kopie van de gegevens had gegeven.",
+    "bron": [
+     27
+    ],
+    "citaat": "hij eiser een kopie heeft verschaft van de persoonsgegevens die van hem worden verwerkt"
+   },
+   "bruikbare_zin": {
+    "citaat": "hij eiser een kopie heeft verschaft van de persoonsgegevens die van hem worden verwerkt",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Mijn telefoonnummer is privé en hoort niet bij mijn onderneming.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de burger het nummer zelf bij zijn onderneming had opgegeven.",
+    "bron": [
+     31
+    ],
+    "citaat": "eiser dit telefoonnummer op 18 augustus 2012 zelf heeft opgegeven als behorend bij zijn onderneming"
+   },
+   "bruikbare_zin": {
+    "citaat": "eiser dit telefoonnummer op 18 augustus 2012 zelf heeft opgegeven als behorend bij zijn onderneming",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik wil weten aan wie mijn telefoonnummer is verstrekt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de Kamer van Koophandel de categorieën van ontvangers had gegeven.",
+    "bron": [
+     27
+    ],
+    "citaat": "in de categorieën van ontvangers van die gegevens"
+   },
+   "bruikbare_zin": {
+    "citaat": "in de categorieën van ontvangers van die gegevens",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de organisatie na onderzoek geloofwaardig zegt dat er niet meer gegevens zijn, moet de burger aannemelijk maken dat er wel meer gegevens zijn.",
+  "type": "regel",
+  "reikwijdte": "Bij een verzoek om inzage in persoonsgegevens als de organisatie zegt dat er niet meer gegevens zijn.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   28
+  ],
+  "citaat": "aannemelijk te maken dat er wel meer persoonsgegevens dienen te zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "gedingstukken",
+   "communicatie met medewerkers",
+   "verklaring van een getuige"
+  ],
+  "wat_gaf_doorslag": "De rechter vond de uitleg van de Kamer van Koophandel geloofwaardig."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2020:2559",
+   "ECLI:NL:RVS:2020:352"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 35 Wbp",
+  "art. 15 AVG",
+  "art. 47 UAVG",
+  "art. 21 Handelsregisterwet",
+  "art. 35 Handelsregisterbesluit",
+  "art. 17 Handelsregisterwet"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; Kamer van Koophandel is de wederpartij",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "De Kamer van Koophandel heeft u genoeg inzage gegeven in de gegevens die zij van u gebruikt. De rechter vond dat u niet duidelijk heeft gemaakt dat er meer gegevens zijn. Wilt u alsnog meer inzage, maak dan precies duidelijk welke gegevens u mist.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente in de uitspraak; de Kamer van Koophandel is partij",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

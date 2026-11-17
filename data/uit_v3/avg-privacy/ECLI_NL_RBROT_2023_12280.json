@@ -1,0 +1,200 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:12280",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "wissen",
+ "kenmerk": "publieke-taak",
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "bijstandsontvanger",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Deze zaak gaat over een burger met bijstand die de gemeente Rotterdam vroeg het woord 'fraude' uit haar systemen te verwijderen. De rechtbank Rotterdam beslist dat de gemeente dat woord moet wissen.",
+ "titel": "Gemeente moet woord fraude uit systemen wissen",
+ "kern": {
+  "zin": "De rechtbank vindt dat het woord 'fraude' verder gaat dan nodig en dat de gemeente het daarom moet wissen.",
+  "bron": [
+   24
+  ],
+  "citaat": "De rechtbank gaat er daarom van uit dat de registratie van de kwalificatie “fraude” verder gaat dan strikt noodzakelijk"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente om de vermelding 'fraude' uit haar systemen te verwijderen.",
+   "bron": [
+    16
+   ],
+   "citaat": "verzoek van eiseres, dat strekt tot wissing van de kwalificatie “fraude”"
+  },
+  {
+   "zin": "De gemeente gaf toe dat de vermelding over de woonsituatie door een fout onterecht in de systemen stond.",
+   "bron": [
+    18
+   ],
+   "citaat": "door een handmatige fout ten onrechte in de systemen van verweerder is opgenomen"
+  },
+  {
+   "zin": "Voor het verzwijgen van inkomsten vond de gemeente de vermelding 'fraude' wel terecht en beriep zich op een uitzondering.",
+   "bron": [
+    19
+   ],
+   "citaat": "stelt verweerder zich op het standpunt dat deze vermelding terecht is"
+  },
+  {
+   "zin": "De rechtbank oordeelt dat 'fraude' een persoonsgegeven is en dat die kwalificatie te ver gaat; daarom moet de gemeente die wissen.",
+   "bron": [
+    24
+   ],
+   "citaat": "De rechtbank gaat er daarom van uit dat de registratie van de kwalificatie “fraude” verder gaat dan strikt noodzakelijk"
+  },
+  {
+   "zin": "De rechtbank draagt de gemeente op de vermelding uit haar eigen systemen en uit Suwinet te verwijderen.",
+   "bron": [
+    25
+   ],
+   "citaat": "doen wat nodig is om te bewerkstelligen dat de kwalificatie “fraude” ook wordt verwijderd uit Suwinet"
+  },
+  {
+   "zin": "Het verzoek om € 30.000 schadevergoeding moet naar de civiele rechter, want de bestuursrechter is daarvoor niet bevoegd.",
+   "bron": [
+    27
+   ],
+   "citaat": "bestuursrechter niet bevoegd is van het verzoek kennis te nemen"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Rechter beveelt wissen van 'fraude'; schadeverzoek gaat naar civiele rechter.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet het woord fraude binnen een maand uit haar systemen en uit Suwinet wissen; het griffierecht van € 184 krijgt de burger terug.",
+  "bron": [
+   35
+  ],
+  "citaat": "binnen een maand na de verzending van deze uitspraak de in het verzoek van eiseres bedoelde kwalificaties “fraude” te wissen"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "wissen-geen-grondslag",
+   "burger_zegt": "De vermelding 'fraude' moet weg, want er is geen goede reden om die te bewaren.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank vindt dat het woord 'fraude' verder gaat dan nodig en dat de gemeente het daarom moet wissen.",
+    "bron": [
+     24
+    ],
+    "citaat": "registratie van de kwalificatie “fraude” verder gaat dan strikt noodzakelijk"
+   },
+   "bruikbare_zin": {
+    "citaat": "registratie van de kwalificatie “fraude” verder gaat dan strikt noodzakelijk",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "De vermelding over mijn woonsituatie is onjuist.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente gaf zelf toe dat die vermelding door een fout onterecht in de systemen stond.",
+    "bron": [
+     18
+    ],
+    "citaat": "door een handmatige fout ten onrechte in de systemen van verweerder is opgenomen"
+   },
+   "bruikbare_zin": {
+    "citaat": "door een handmatige fout ten onrechte in de systemen van verweerder is opgenomen",
+    "bron": [
+     18
+    ]
+   }
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Ik heb immateriële schade door de onterechte fraudebeschuldiging en wil € 30.000.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De bestuursrechter is niet bevoegd voor een schadeverzoek boven € 25.000; dat moet naar de civiele rechter.",
+    "bron": [
+     27
+    ],
+    "citaat": "bestuursrechter niet bevoegd is van het verzoek kennis te nemen"
+   },
+   "bruikbare_zin": {
+    "citaat": "de civiele rechter op grond van artikel 8:88 van de Awb exclusief bevoegd is om van het verzoek kennis te nemen",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het registreren van het woord 'fraude' bij een schending van de inlichtingenplicht is onrechtmatig als een zakelijke vermelding genoeg is.",
+  "type": "regel",
+  "reikwijdte": "Gemeenten die bij een schending van de inlichtingenplicht het woord 'fraude' in hun systemen zetten.",
+  "uitzondering": "Als een wettelijke plicht of een publieke taak het woord 'fraude' echt nodig maakt.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "De rechtbank gaat er daarom van uit dat de registratie van de kwalificatie “fraude” verder gaat dan strikt noodzakelijk"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "besluiten uit 2018",
+   "brief van 6 november 2023"
+  ],
+  "wat_gaf_doorslag": "De gemeente kon niet uitleggen waarom het woord 'fraude' nodig was."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:EU:C:2017:994",
+   "ECLI:NL:RVS:2020:898"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 5 AVG",
+  "art. 6 AVG",
+  "art. 17 AVG",
+  "art. 17 lid 3 onder b AVG",
+  "art. 82 AVG",
+  "art. 8:88 Awb",
+  "art. 17 lid 1 Participatiewet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Verwijder het woord 'fraude' uit de eigen systemen als een zakelijke vermelding genoeg is.",
+   "raakt": "fraude-handhaving",
+   "bron": [
+    24
+   ],
+   "citaat": "registratie van de kwalificatie “fraude” verder gaat dan strikt noodzakelijk"
+  },
+  {
+   "actie": "Verwijder de vermelding 'fraude' ook uit Suwinet.",
+   "raakt": "ict-informatiebeveiliging",
+   "bron": [
+    25
+   ],
+   "citaat": "verweerder ook zal kunnen bewerkstelligen dat deze kwalificatie uit Suwinet wordt verwijderd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "fraude-handhaving",
+  "privacy-fg",
+  "ict-informatiebeveiliging",
+  "bezwaar"
+ ],
+ "klantuitleg": "De gemeente mag het woord 'fraude' niet in haar systemen laten staan als een zakelijke vermelding genoeg is. In deze zaak moest de gemeente die vermelding wissen, ook uit Suwinet (een systeem waarin gemeenten gegevens delen). Wilt u een schadevergoeding van € 30.000 of meer, dan moet u naar de gewone rechter.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

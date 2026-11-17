@@ -1,0 +1,193 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2025:23821",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "de bewoner",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner procedeerde tegen het intrekken van zijn bewonersparkeervergunning door de gemeente Den Haag. De rechtbank Den Haag oordeelde over dit beroep.",
+ "titel": "Burger verliest, krijgt 194 euro terug door late beslissing",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente de vergunning mocht intrekken, omdat er een gewijzigd inzicht was.",
+  "bron": [
+   33
+  ],
+  "citaat": "dat hier sprake is van een gewijzigd inzicht"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente trok de bewonersparkeervergunning in, omdat het adres volgens haar niet meer aan de voorwaarden voldeed.",
+   "bron": [
+    17
+   ],
+   "citaat": "de reden voor de intrekking van deze vergunning is dat"
+  },
+  {
+   "zin": "De bewoner vond dat de gemeente te laat op zijn bezwaar had beslist.",
+   "bron": [
+    20
+   ],
+   "citaat": "Eiser vindt ten eerste dat verweerder te laat op zijn bezwaar heeft beslist"
+  },
+  {
+   "zin": "De gemeente stelde dat haar afdeling Parkeren pas in december 2024 op de hoogte was van de omgevingsvergunning.",
+   "bron": [
+    33
+   ],
+   "citaat": "Verweerder stelt dat pas op 18 december 2024 de Afdeling Parkeren hiervan op de hoogte gesteld"
+  },
+  {
+   "zin": "De rechter oordeelde dat de gemeente op juiste gronden de vergunning introk.",
+   "bron": [
+    43
+   ],
+   "citaat": "Dat betekent dat verweerder op juridisch juiste gronden is overgegaan"
+  },
+  {
+   "zin": "Het late besluit op bezwaar was een gebrek, maar het bleef toch in stand.",
+   "bron": [
+    39
+   ],
+   "citaat": "ondanks het feit dat deze te laat is genomen, in stand blijft"
+  },
+  {
+   "zin": "De gemeente moet de bewoner het griffierecht (het bedrag voor de rechtszaak) van 194 euro vergoeden.",
+   "bron": [
+    49
+   ],
+   "citaat": "draagt verweerder op het griffierecht van 194 euro aan eiser te vergoeden"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep ongegrond; alleen het griffierecht gaat terug.",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner krijgt het griffierecht van 194 euro terug van de gemeente.",
+  "bron": [
+   49
+  ],
+  "citaat": "draagt verweerder op het griffierecht van 194 euro aan eiser te vergoeden"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente beslisste te laat op zijn bezwaar.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter zag dat de gemeente te laat had beslist op het bezwaar.",
+    "bron": [
+     38
+    ],
+    "citaat": "Desondanks staat vast dat de beslissing op bezwaar te laat is genomen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Desondanks staat vast dat de beslissing op bezwaar te laat is genomen",
+    "bron": [
+     38
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De intrekking was te zwaar voor hem en de hardheidsclausule had moeten gelden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond zijn persoonlijke omstandigheden niet bijzonder genoeg voor een uitzondering.",
+    "bron": [
+     36
+    ],
+    "citaat": "niet dermate bijzonder zijn dat in afwijking van de regelgeving aan hem wel een vergunning toekomt"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet dermate bijzonder zijn dat in afwijking van de regelgeving aan hem wel een vergunning toekomt",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Zijn situatie was niet veranderd, dus de vergunning mocht niet worden ingetrokken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag een gewijzigd inzicht bij de gemeente, dus intrekken mocht.",
+    "bron": [
+     33
+    ],
+    "citaat": "dat hier sprake is van een gewijzigd inzicht"
+   },
+   "bruikbare_zin": {
+    "citaat": "Op grond daarvan was verweerder bevoegd om de vergunning van eiser in te trekken",
+    "bron": [
+     33
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente mag een bewonersvergunning terugnemen als haar inzicht na de verlening is veranderd.",
+  "type": "regel",
+  "reikwijdte": "Bewonersvergunningen na een gewijzigd inzicht bij de gemeente",
+  "uitzondering": null,
+  "herkomst": "lokale verordening",
+  "bron": [
+   32
+  ],
+  "citaat": "een vergunning kan worden ingetrokken wanneer op grond van een verandering van omstandigheden of inzichten"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "omgevingsvergunning",
+   "huisnummerbesluit"
+  ],
+  "wat_gaf_doorslag": "Dat de Afdeling Parkeren pas later van de omgevingsvergunning hoorde."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 2.5 sub i Regeling parkeerregulering en parkeerbelastingen Den Haag 2022",
+  "art. 4.2.1 Regeling parkeerregulering en parkeerbelastingen Den Haag 2022",
+  "art. 6:22 Awb",
+  "art. 8:41 lid 8 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Meld de Afdeling Parkeren altijd een omgevingsvergunning voordat er een bewonersvergunning wordt verleend.",
+   "raakt": "vergunningen",
+   "bron": [
+    33
+   ],
+   "citaat": "komt doordat de Afdeling Parkeren niet op de hoogte was gesteld van de omgevingsvergunning"
+  },
+  {
+   "actie": "Bekijk serieus of meer uren bij een bezoekersvergunning een passende compensatie zijn voor de bewoner.",
+   "raakt": "vergunningen",
+   "bron": [
+    41
+   ],
+   "citaat": "om serieus te bekijken of dit als een passende compensatie kan worden gezien"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Uw bewonersvergunning mag worden ingetrokken als later blijkt dat u er niet voor in aanmerking komt. De rechter vond de intrekking terecht, maar de gemeente moet u wel 194 euro terugbetalen, omdat zij te laat op uw bezwaar besliste. Heeft u een andere, bijzondere reden, dan kunt u die aanvoeren, al is de kans op een uitzondering klein.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

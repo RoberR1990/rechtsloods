@@ -1,0 +1,200 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "dubbel_van": null,
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": null,
+ "ecli": "ECLI:NL:GHSHE:2017:3068",
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (met gemachtigde)",
+  "wederpartij": "gemeente 's-Hertogenbosch",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder ging in hoger beroep tegen de gemeente 's-Hertogenbosch over een naheffingsaanslag (rekening achteraf) voor parkeerbelasting. Het gerechtshof 's-Hertogenbosch deed mondeling uitspraak.",
+ "titel": "Parkeerkaart voor ander gebied: rekening blijft staan",
+ "kern": {
+  "zin": "De rechter vond de rekening terecht, want de parkeerkaart gold voor een ander gebied dan waar de auto stond.",
+  "bron": [
+   38
+  ],
+  "citaat": "Belanghebbendes stelling dat de verschuldigde parkeerbelasting door haar zou zijn voldaan, moet derhalve worden verworpen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde een rekening op omdat de auto stond geparkeerd zonder duidelijk zichtbaar geldig betaalbewijs.",
+   "bron": [
+    24
+   ],
+   "citaat": "stond geparkeerd zonder duidelijk zichtbaar geldig betaalbewijs"
+  },
+  {
+   "zin": "De parkeerder zei dat zij de parkeerbelasting had betaald, dus dat er niet kon worden nageheven.",
+   "bron": [
+    36
+   ],
+   "citaat": "Betaalde parkeerbelasting kan niet worden nageheven"
+  },
+  {
+   "zin": "Ze betwistte ook dat haar auto op een betaalde parkeerplaats stond.",
+   "bron": [
+    39
+   ],
+   "citaat": "ter zitting van het Hof betwist dat haar auto geparkeerd stond op een parkeerplaats"
+  },
+  {
+   "zin": "De rechter zei dat haar parkeerkaart voor een ander gebied gold dan waar de auto stond.",
+   "bron": [
+    38
+   ],
+   "citaat": "maar belanghebbendes voertuig stond niet geparkeerd in het parkeergebied"
+  },
+  {
+   "zin": "De rechter vond het aannemelijk dat de auto op een betaalde parkeerplek stond.",
+   "bron": [
+    39
+   ],
+   "citaat": "acht het Hof aannemelijk dat de auto geparkeerd stond op het eerste parkeervak aan de Citadellaan"
+  },
+  {
+   "zin": "De gemeente maakte fouten bij het bezwaar, maar de rechter zag geen benadeling en liet de rekening staan.",
+   "bron": [
+    41
+   ],
+   "citaat": "dient de onderhavige onjuistheid met toepassing van artikel 6:22 van de Algemene wet bestuursrecht"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Rekening terecht; fouten van de gemeente deden niet ter zake.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan en de burger krijgt geen griffierecht of proceskosten vergoed.",
+  "bron": [
+   45,
+   47
+  ],
+  "citaat": "geen redenen aanwezig zijn om te gelasten dat de Heffingsambtenaar aan belanghebbende het door hem betaalde griffierecht"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Ik had betaald, met een parkeerkaart voor een ander gebied (Muntel).",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De auto stond in een ander parkeergebied en daar was niet betaald.",
+    "bron": [
+     38
+    ],
+    "citaat": "maar belanghebbendes voertuig stond niet geparkeerd in het parkeergebied"
+   },
+   "bruikbare_zin": {
+    "citaat": "Ter zake van het aldaar parkeren behoort geen enkel bewijs van voldoening van de verschuldigde parkeerbelasting tot de gedingstukken",
+    "bron": [
+     38
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Mijn auto stond niet op een parkeerplaats waar betaald moest worden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Uit de stukken en de gebiedskaarten bleek dat het vak als betaald parkeren is aangewezen.",
+    "bron": [
+     39
+    ],
+    "citaat": "acht het Hof aannemelijk dat de auto geparkeerd stond op het eerste parkeervak aan de Citadellaan"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De uitspraak op bezwaar is door een onbevoegd orgaan genomen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het college was niet bevoegd, maar de fout is gepasseerd omdat de burger er niet door is benadeeld.",
+    "bron": [
+     40
+    ],
+    "citaat": "welk orgaan daartoe, naar tussen partijen terecht niet in geschil is, niet bevoegd is"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik kreeg de stukken niet vóór de hoorzitting in bezwaar.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente schond de regel, maar dat is gepasseerd omdat de burger er niet door is benadeeld.",
+    "bron": [
+     42
+    ],
+    "citaat": "In zoverre heeft de Heffingsambtenaar het bepaalde in artikel 7:4 van de Awb geschonden"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerkaart voor het ene parkeergebied geldt niet als betaling voor parkeren in een ander gebied.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Alleen deze zaak: een kaart voor het gebied Muntel, terwijl de auto in het gebied Zuid-Willemsvaart stond",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   38
+  ],
+  "citaat": "maar belanghebbendes voertuig stond niet geparkeerd in het parkeergebied"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "parkeerkaart voor een ander gebied",
+   "gebiedskaarten",
+   "Brondocument met foto's",
+   "gemeentelijke richtlijnen"
+  ],
+  "wat_gaf_doorslag": "Voor het gebied waar de auto stond was geen bewijs van betaling."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2004:AR3371"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 6:22 Awb",
+  "art. 7:4 Awb",
+  "art. 8:75 Awb",
+  "art. 2 Verordening parkeerbelastingen 's-Hertogenbosch 2015"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Laat uitspraken op bezwaar uitdrukkelijk nemen namens de bevoegde ambtenaar die de parkeerbelasting heft, niet namens het college.",
+   "raakt": "bezwaar",
+   "bron": [
+    40
+   ],
+   "citaat": "welk orgaan daartoe, naar tussen partijen terecht niet in geschil is, niet bevoegd is"
+  },
+  {
+   "actie": "Geef de burger vóór de hoorzitting alle stukken van de zaak, ook het Brondocument met foto's.",
+   "raakt": "bezwaar",
+   "bron": [
+    42
+   ],
+   "citaat": "In zoverre heeft de Heffingsambtenaar het bepaalde in artikel 7:4 van de Awb geschonden"
+  }
+ ],
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een parkeerkaart voor een ander parkeergebied telt niet als betaald voor uw plek. De rechter vond de rekening daarom terecht, ook al maakte de gemeente fouten bij het bezwaar. Wilt u bezwaar maken, bewaar dan het bewijs dat u voor het juiste gebied hebt betaald.",
+ "gemeente": "'s-Hertogenbosch",
+ "zekerheid": "middel"
+}

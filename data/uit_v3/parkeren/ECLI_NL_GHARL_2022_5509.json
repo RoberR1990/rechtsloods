@@ -1,0 +1,183 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2022:5509",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "maximale-duur",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "automobilist (kentekenhouder)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een automobilist kreeg een boete van € 95 voor parkeren bij een blauwe streep in Amsterdam. Hij ging in hoger beroep tegen de officier van justitie bij het Gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Boete blauwe zone: verlopen parkeertijd niet bewezen, schijf wel fout",
+ "kern": {
+  "zin": "Het hof vond niet bewezen dat de parkeertijd om was, maar wel dat de parkeerschijf verkeerd stond; daarom werd alleen de omschrijving van de overtreding aangepast.",
+  "bron": [
+   27,
+   28
+  ],
+  "citaat": "niet kan worden vastgesteld dat het voertuig van de betrokkene stond geparkeerd bij een blauwe streep"
+ },
+ "samenvatting": [
+  {
+   "zin": "De automobilist kreeg een boete van € 95 omdat hij bij een blauwe streep zou hebben geparkeerd terwijl de toegestane tijd om was.",
+   "bron": [
+    18
+   ],
+   "citaat": "Motorvoertuig parkeren bij blauwe streep terwijl toegestane parkeertijd is verstreken"
+  },
+  {
+   "zin": "Hij zei dat hij rond 10:00 uur aankwam en de parkeerschijf daarom op 10:30 uur mocht zetten.",
+   "bron": [
+    19
+   ],
+   "citaat": "de betrokkene tegen de klok van 10:00 uur ter plaatse was aangekomen"
+  },
+  {
+   "zin": "Uit de stukken van de overheid bleek dat de ambtenaar de auto om 09:58 uur zag staan, met de parkeerschijf op 10:30 uur.",
+   "bron": [
+    26
+   ],
+   "citaat": "om 09:58 uur zag dat het voertuig met voormeld kenteken ter plaatse stond geparkeerd bij een blauwe streep"
+  },
+  {
+   "zin": "Het hof vond niet bewezen dat de toegestane tijd om was, omdat de ambtenaar de auto voor 10:00 uur zag.",
+   "bron": [
+    27
+   ],
+   "citaat": "De ambtenaar heeft het voertuig immers vòòr 10:00 uur gezien, terwijl de parkeerschijf als begintijd 10:30 uur aangaf"
+  },
+  {
+   "zin": "Wel stond de parkeerschijf verkeerd: er mocht niet op 10:30 uur worden ingesteld.",
+   "bron": [
+    28
+   ],
+   "citaat": "had de parkeerschijf niet op 10:30 uur mogen worden ingesteld"
+  },
+  {
+   "zin": "Het hof veranderde de omschrijving van de overtreding in een verkeerd ingestelde parkeerschijf en veroordeelde de overheid in de proceskosten.",
+   "bron": [
+    31,
+    29
+   ],
+   "citaat": "Aldus zal het hof de advocaat-generaal veroordelen in de kosten tot een bedrag van € 1.029,50"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Geen bewijs voor verlopen parkeertijd; wel verkeerd ingestelde schijf, bedrag niet verhoogd",
+ "gevolg_betrokkene": {
+  "zin": "De automobilist houdt een boete voor een verkeerd ingestelde parkeerschijf (het bedrag wordt niet verhoogd, het was € 95) en krijgt € 1.029,50 aan proceskosten vergoed.",
+  "bron": [
+   29,
+   18,
+   31
+  ],
+  "citaat": "wijziging van de inleidende beschikking in dit geval geen betrekking op (een verhoging van) het sanctiebedrag"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De parkeertijd was niet verstreken en mijn auto stond er niet al de dag ervoor.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De ambtenaar zag de auto voor 10:00 uur met de schijf op 10:30 uur, dus een verlopen parkeertijd kon niet worden vastgesteld.",
+    "bron": [
+     27
+    ],
+    "citaat": "niet kan worden vastgesteld dat het voertuig van de betrokkene stond geparkeerd bij een blauwe streep"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen aanvullende informatie in het geding is gebracht van de zijde van de ambtenaar",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik kwam net rond 10:00 uur aan en mocht de aankomsttijd afronden naar 10:30 uur.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De automobilist maakte niet aannemelijk dat hij pas na 10:00 uur begon te parkeren.",
+    "bron": [
+     28
+    ],
+    "citaat": "Dat pas (net) na 10:00 uur met parkeren is begonnen, zoals de gemachtigde stelt, is niet aannemelijk gemaakt"
+   },
+   "bruikbare_zin": {
+    "citaat": "had de parkeerschijf niet op 10:30 uur mogen worden ingesteld",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hooguit heb ik de parkeerschijf niet goed ingesteld; dan moet de omschrijving van de overtreding veranderen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De omschrijving en feitcode klopten niet en zijn aangepast, zonder dat de automobilist daardoor slechter af is.",
+    "bron": [
+     29
+    ],
+    "citaat": "onjuist is voor wat betreft de omschrijving van de gedraging en de feitcode"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een auto die om 09:58 uur al geparkeerd staat, mag de parkeerschijf niet op 10:30 uur staan; afronden mag alleen naar het eerstvolgende hele of halve uur.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Alleen deze zaak: auto gezien om 09:58 uur in een blauwe zone, schijf op 10:30 uur",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   28
+  ],
+  "citaat": "had de parkeerschijf niet op 10:30 uur mogen worden ingesteld"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "zaakoverzicht",
+   "aanvullend proces-verbaal van de ambtenaar",
+   "foto's"
+  ],
+  "wat_gaf_doorslag": "De ambtenaar zag de auto om 09:58 uur terwijl de parkeerschijf 10:30 uur aangaf."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 25 lid 3 RVV 1990",
+  "art. 25 lid 4 RVV 1990",
+  "Wahv"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Voeg bij een boete voor verlopen parkeertijd bewijs toe dat de auto er al langer stond dan het moment van de controle.",
+   "raakt": "bezwaar",
+   "bron": [
+    27
+   ],
+   "citaat": "geen aanvullende informatie in het geding is gebracht van de zijde van de ambtenaar"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "scanauto-handhaving",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een boete omdat u te lang in een blauwe zone stond, moet bewezen worden. Stond uw parkeerschijf op een later tijdstip dan het moment waarop de controleur uw auto zag, dan is niet altijd bewezen dat de tijd om was, maar de schijf moet wel op het juiste tijdstip staan. Wilt u bezwaar maken, kijk dan op welke tijd de controleur uw auto zag en bewaar bewijs van uw aankomsttijd.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

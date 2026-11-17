@@ -1,0 +1,228 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2022:1538",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "overheidsregister",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "vader",
+  "wederpartij": "gemeente Purmerend",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Deze zaak gaat over een vader die de woonadressen van zijn kinderen wilde krijgen van de gemeente Purmerend. De gemeente weigerde dat, en de Raad van State beslist in hoger beroep.",
+ "titel": "Gemeente mag adresgegevens van kinderen weigeren",
+ "kern": {
+  "zin": "De Raad van State bevestigt de weigering: de vader vroeg als derde om gegevens van zijn kinderen, en een derde kan via de AVG geen inzage in andermans gegevens krijgen.",
+  "bron": [
+   35,
+   42
+  ],
+  "citaat": "Aan artikel 15 van de AVG kunnen derden geen recht op inzage in over een ander verwerkte persoonsgegevens ontlenen."
+ },
+ "samenvatting": [
+  {
+   "zin": "De vader vroeg de gemeente om een uittreksel met de woonplaats van zijn kinderen.",
+   "bron": [
+    18
+   ],
+   "citaat": "om hem een uittreksel uit de brp te verstrekken met de huidige woonplaats van zijn kinderen"
+  },
+  {
+   "zin": "De gemeente wees het verzoek af, omdat de kinderen geheimhouding hebben van hun gegevens.",
+   "bron": [
+    19
+   ],
+   "citaat": "heeft het college dit verzoek afgewezen omdat de kinderen geheimhouding hebben van hun gegevens"
+  },
+  {
+   "zin": "De vader vond dat hij als vader moest weten waar zijn kinderen wonen.",
+   "bron": [
+    31
+   ],
+   "citaat": "Volgens hem is het in het belang van de kinderen dat hij als vader weet waar zij wonen."
+  },
+  {
+   "zin": "De Raad van State oordeelt dat de vader als derde vroeg, omdat hij het verzoek voor zichzelf deed.",
+   "bron": [
+    29
+   ],
+   "citaat": "Uit de bewoordingen van zijn verzoek blijkt dat hij dit verzoek voor zichzelf heeft gedaan."
+  },
+  {
+   "zin": "Daarom kan hij geen inzage in de gegevens van zijn kinderen krijgen via de AVG.",
+   "bron": [
+    35
+   ],
+   "citaat": "Aan artikel 15 van de AVG kunnen derden geen recht op inzage in over een ander verwerkte persoonsgegevens ontlenen."
+  },
+  {
+   "zin": "Het hoger beroep van de vader wordt afgewezen.",
+   "bron": [
+    42
+   ],
+   "citaat": "Het hoger beroep is ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De gemeente mocht het uittreksel weigeren; de vader is een derde.",
+ "gevolg_betrokkene": {
+  "zin": "De vader krijgt de adresgegevens van zijn kinderen niet; de gemeente hoeft geen proceskosten te betalen.",
+  "bron": [
+   35,
+   43
+  ],
+  "citaat": "Aan artikel 15 van de AVG kunnen derden geen recht op inzage in over een ander verwerkte persoonsgegevens ontlenen."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De vader zegt dat de rechtbank zijn beroep met zaaknummer 19/5520 niet heeft behandeld.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De Afdeling zegt dat zij niet bevoegd is om over dat beroep te oordelen.",
+    "bron": [
+     24
+    ],
+    "citaat": "Zij is niet bevoegd om kennis te nemen van het hoger beroep van [appellant]"
+   },
+   "bruikbare_zin": {
+    "citaat": "Zij is niet bevoegd om kennis te nemen van het hoger beroep van [appellant]",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De vader zegt dat de rechtbank het verweerschrift niet bij de zaak had mogen betrekken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank heeft de vader de kans gegeven om op het verweerschrift te reageren.",
+    "bron": [
+     26
+    ],
+    "citaat": "Uit de zittingsaantekeningen van de rechtbank blijkt dat [appellant] de gelegenheid heeft gehad om hierop te reageren."
+   },
+   "bruikbare_zin": {
+    "citaat": "Uit de zittingsaantekeningen van de rechtbank blijkt dat [appellant] de gelegenheid heeft gehad om hierop te reageren.",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De vader zegt dat hij niet als derde moet worden gezien, omdat hij de vader is.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Raad van State ziet hem als derde, omdat hij het verzoek voor zichzelf deed.",
+    "bron": [
+     29
+    ],
+    "citaat": "Uit de bewoordingen van zijn verzoek blijkt dat hij dit verzoek voor zichzelf heeft gedaan."
+   },
+   "bruikbare_zin": {
+    "citaat": "Uit de bewoordingen van zijn verzoek blijkt dat hij dit verzoek voor zichzelf heeft gedaan.",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "geheimhouding-onterecht",
+   "burger_zegt": "De vader zegt dat de geheimhouding van de moeder onterecht is en dat de gemeente die had moeten weigeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De weigering om het uittreksel te geven maakt geen inbreuk op zijn recht op familie- en privéleven.",
+    "bron": [
+     32
+    ],
+    "citaat": "deze weigering niet in strijd is met zijn uit artikel 8 voortvloeiende recht"
+   },
+   "bruikbare_zin": {
+    "citaat": "deze weigering niet in strijd is met zijn uit artikel 8 voortvloeiende recht",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De vader zegt dat de AVG de gemeente verplicht hem een afschrift van de gegevens te geven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een derde kan aan artikel 15 van de AVG geen recht op inzage in andermans gegevens ontlenen.",
+    "bron": [
+     35
+    ],
+    "citaat": "Aan artikel 15 van de AVG kunnen derden geen recht op inzage in over een ander verwerkte persoonsgegevens ontlenen."
+   },
+   "bruikbare_zin": {
+    "citaat": "Aan artikel 15 van de AVG kunnen derden geen recht op inzage in over een ander verwerkte persoonsgegevens ontlenen.",
+    "bron": [
+     35
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een derde heeft op grond van artikel 15 van de AVG geen recht op inzage in persoonsgegevens van iemand anders.",
+  "type": "regel",
+  "reikwijdte": "Als iemand die geen betrokkene is, inzage vraagt in gegevens van een ander.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   35
+  ],
+  "citaat": "Aan artikel 15 van de AVG kunnen derden geen recht op inzage in over een ander verwerkte persoonsgegevens ontlenen."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "het verzoek van de vader",
+   "de aantekening over geheimhouding"
+  ],
+  "wat_gaf_doorslag": "De vader vroeg de gegevens voor zichzelf, niet als vertegenwoordiger van zijn kinderen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 15 AVG",
+  "art. 6 AVG",
+  "art. 2.55 Wet brp",
+  "art. 3.6 Wet brp",
+  "art. 3.21 Wet brp",
+  "art. 8 EVRM",
+  "art. 6 EVRM",
+  "art. 14 EVRM"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij een verzoek van iemand anders om schriftelijke toestemming van de persoon over wie de gegevens gaan.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    19
+   ],
+   "citaat": "Verstrekking van een uittreksel is alleen toegestaan met schriftelijke toestemming van de betrokkene."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar",
+  "burgerzaken-brp"
+ ],
+ "klantuitleg": "De gemeente mag uw adresgegevens niet aan een ander geven zonder uw schriftelijke toestemming. Vraagt een ouder om de gegevens van zijn kind, dan kijkt de gemeente of hij namens het kind vraagt. Wilt u gegevens van iemand anders, vraag dan eerst toestemming; zonder die toestemming mag de gemeente weigeren.",
+ "gemeente": "Purmerend",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

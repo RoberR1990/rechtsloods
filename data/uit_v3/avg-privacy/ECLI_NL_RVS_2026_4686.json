@@ -1,0 +1,148 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:4686",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "voorlopige voorziening",
+ "intro": "De gemeente Rotterdam wil dat de hoogste bestuursrechter tijdelijk bepaalt dat zij nog geen nieuw besluit hoeft te nemen over de gegevens van een bewoner in de basisregistratie personen (BRP). De bewoner won eerder bij de rechtbank Rotterdam over de vraag of de gemeente zijn paspoort moet volgen.",
+ "titel": "Gemeente moet nieuw besluit nemen over paspoortgegevens",
+ "kern": {
+  "zin": "De voorzieningenrechter wijst het verzoek van de gemeente af, omdat er geen spoed is: de gemeente heeft genoeg ruimte om zelf een nieuw besluit te nemen.",
+  "bron": [
+   27
+  ],
+  "citaat": "De voorzieningenrechter is van oordeel dat geen sprake is van een spoedeisend belang."
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner vroeg de gemeente om zijn gegevens in de BRP te wijzigen.",
+   "bron": [
+    20
+   ],
+   "citaat": "[wederpartij] heeft het college verzocht zijn persoonsgegevens te wijzigen in de brp."
+  },
+  {
+   "zin": "De rechtbank vond dat de gemeente het Nigeriaanse paspoort van de bewoner ten onrechte niet had betrokken bij de beoordeling.",
+   "bron": [
+    22
+   ],
+   "citaat": "De rechtbank heeft geoordeeld dat het college het paspoort van [wederpartij] ten onrechte niet heeft betrokken"
+  },
+  {
+   "zin": "De gemeente vroeg de voorzieningenrechter om de uitspraak van de rechtbank niet meteen te hoeven uitvoeren.",
+   "bron": [
+    24
+   ],
+   "citaat": "Het college verzoekt de voorzieningenrechter een voorlopige voorziening te treffen"
+  },
+  {
+   "zin": "De voorzieningenrechter ziet geen spoed en wijst dat verzoek af.",
+   "bron": [
+    27
+   ],
+   "citaat": "De voorzieningenrechter is van oordeel dat geen sprake is van een spoedeisend belang."
+  },
+  {
+   "zin": "De gemeente heeft volgens de rechter voldoende ruimte om een nieuw besluit te nemen en dat beter uit te leggen.",
+   "bron": [
+    27
+   ],
+   "citaat": "het college voldoende ruimte heeft om een nieuw besluit te nemen"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "De rechter wijst het verzoek van de gemeente af.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet nu een nieuw besluit nemen over de gegevens van de bewoner in de BRP; de rechter ziet geen spoed.",
+  "bron": [
+   27
+  ],
+  "citaat": "geen sprake is van een spoedeisend belang"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Mijn gegevens in de BRP zijn onjuist; de gemeente moet mijn paspoort volgen.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechtbank vond dat een paspoort zwaar meetelt en dat de gemeente moet uitleggen waarom zij daarvan afwijkt.",
+    "bron": [
+     22
+    ],
+    "citaat": "Volgens de rechtbank komt aan een paspoort grote bewijswaarde toe"
+   },
+   "bruikbare_zin": {
+    "citaat": "komt aan een paspoort grote bewijswaarde toe",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Er is geen spoed, omdat de gemeente nog zelf een nieuw besluit kan nemen en daarin mag uitleggen waarom zij een ouder ambtsbericht gebruikt.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "deze voorlopige voorziening",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "niet in dat het in geen enkel geval meer mogelijk is om naar een ouder ambtsbericht te verwijzen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "Nigeriaans paspoort",
+   "geboorteverklaringen",
+   "algemeen ambtsbericht Nigeria 2018 en 2023"
+  ],
+  "wat_gaf_doorslag": "De rechter vond geen spoed, omdat de gemeente nog ruimte heeft voor een eigen afweging."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:81 Awb",
+  "Wet basisregistratie personen"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Verwijs in het nieuwe besluit naar een ouder ambtsbericht alleen met een goede uitleg erbij",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    27
+   ],
+   "citaat": "als dat maar wordt voorzien van een goede uitleg"
+  },
+  {
+   "actie": "Betrek het paspoort van de bewoner bij de nieuwe beoordeling",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    22
+   ],
+   "citaat": "het college in de nieuwe beoordeling het paspoort moet betrekken"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "bezwaar"
+ ],
+ "klantuitleg": "U wilt dat de gemeente uw gegevens in de basisregistratie personen (BRP) aanpast. De rechter heeft beslist dat de gemeente eerst een nieuw besluit moet nemen en daarbij goed moet uitleggen waarom zij uw paspoort wel of niet volgt. De gemeente hoeft uw verzoek dus nog niet in te willigen; als u het niet eens bent met het nieuwe besluit, kunt u weer bezwaar maken.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "laag"
+}

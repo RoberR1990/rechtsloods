@@ -1,0 +1,158 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2016:5210",
+ "relevant": true,
+ "onderwerp": "procedure-beroep",
+ "sub": "hoorplicht",
+ "kenmerk": "gemotiveerd-niet-gehoord",
+ "zaaktype": "procedure-proceskosten",
+ "partijen": {
+  "burger": "kentekenhouder (met gemachtigde)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een kentekenhouder kwam te laat in beroep tegen een verkeersboete. Hij procedeerde tegen de officier van justitie, in hoger beroep bij het hof.",
+ "titel": "Boete blijft staan, ondanks fout van de officier",
+ "kern": {
+  "zin": "Het hof vernietigt de beslissing van de officier van justitie, omdat de burger niet is gehoord, maar het beroep tegen de boete zelf is alsnog te laat.",
+  "bron": [
+   30
+  ],
+  "citaat": "had moeten worden gehoord door de officier van justitie, aangezien het beroep niet kennelijk"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger kreeg een boete (inleidende beschikking) die op 18 februari 2012 is verzonden.",
+   "bron": [
+    34
+   ],
+   "citaat": "de inleidende beschikking op 18 februari 2012 aan de betrokkene toegezonden"
+  },
+  {
+   "zin": "Zijn beroepschrift kwam pas in november 2012 binnen, na afloop van de termijn van zes weken.",
+   "bron": [
+    34
+   ],
+   "citaat": "Het beroep is dus niet tijdig ingesteld."
+  },
+  {
+   "zin": "De officier van justitie verklaarde het beroep niet-ontvankelijk (het wordt niet inhoudelijk behandeld), zonder de gemachtigde te horen, terwijl die daarom had gevraagd.",
+   "bron": [
+    29
+   ],
+   "citaat": "heeft verzocht om te worden gehoord door de officier van justitie"
+  },
+  {
+   "zin": "Het hof vindt dat de burger had moeten worden gehoord, omdat niet meteen duidelijk was dat het beroep kansloos was.",
+   "bron": [
+    30
+   ],
+   "citaat": "had moeten worden gehoord door de officier van justitie, aangezien het beroep niet kennelijk"
+  },
+  {
+   "zin": "De burger zei dat hij dak- en thuisloos was en geen post kreeg. Het hof zegt dat een onjuist adres in de basisadministratie voor zijn risico komt.",
+   "bron": [
+    38
+   ],
+   "citaat": "komt het risico van een onjuiste vermelding van diens adres in de gemeentelijke basisadministratie voor rekening van de betrokkene"
+  },
+  {
+   "zin": "Het hof verklaart het beroep tegen de boete niet-ontvankelijk en veroordeelt de advocaat-generaal tot betaling van EUR 730,50 aan proceskosten.",
+   "bron": [
+    40
+   ],
+   "citaat": "zal het hof de advocaat-generaal veroordelen in de kosten tot een bedrag van"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beslissing officier vernietigd; boete blijft staan; alleen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De burger moet de boete nog steeds betalen, maar krijgt EUR 730,50 aan proceskosten vergoed.",
+  "bron": [
+   47
+  ],
+  "citaat": "veroordeelt de advocaat-generaal tot het vergoeden van de proceskosten van de betrokkene"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "hoorplicht-geschonden",
+   "burger_zegt": "De officier van justitie heeft mij ten onrechte niet gehoord.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het beroep was niet kennelijk niet-ontvankelijk, dus de burger had gehoord moeten worden.",
+    "bron": [
+     30
+    ],
+    "citaat": "had moeten worden gehoord door de officier van justitie, aangezien het beroep niet kennelijk"
+   },
+   "bruikbare_zin": {
+    "citaat": "had moeten worden gehoord door de officier van justitie, aangezien het beroep niet kennelijk",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "Ik was dak- en thuisloos en kreeg de post niet, dus mijn beroep is verschoonbaar te laat.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een onjuist adres in de basisadministratie komt voor risico van de burger.",
+    "bron": [
+     38
+    ],
+    "citaat": "Dat de betrokkene niet tijdig beroep heeft ingesteld is een omstandigheid die voor zijn rekening en risico dient te blijven."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het is de verantwoordelijkheid van de betrokkene om te zorgen voor een juiste vermelding van diens adres",
+    "bron": [
+     38
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een onjuist adres in de basisadministratie komt voor risico van de burger; een boete die daar niet aankomt, geldt dan toch als bekend.",
+  "type": "regel",
+  "reikwijdte": "Beschikking verzonden naar het adres in kentekenregister en basisadministratie.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   38
+  ],
+  "citaat": "komt het risico van een onjuiste vermelding van diens adres in de gemeentelijke basisadministratie voor rekening van de betrokkene"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Het adres in de basisadministratie was onjuist, en dat is voor risico van de burger."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:CRVB:2004:AP0537"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:16 Awb",
+  "art. 7:17 Awb",
+  "art. 6:11 Awb",
+  "art. 4 lid 2 Wahv",
+  "art. 6 lid 1 Wahv",
+  "art. 7 lid 2 Wahv"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; officier van justitie is wederpartij",
+ "raakt": [
+  "bezwaar",
+  "juridische-zaken"
+ ],
+ "klantuitleg": "Als u een boete niet binnen zes weken aanvecht, kan uw beroep te laat zijn. Dat u de post niet kreeg door een verkeerd adres in de gemeentelijke administratie, komt voor uw eigen rekening. Zorg dat uw adres klopt en laat het horen niet nalaten als u daarom vraagt.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

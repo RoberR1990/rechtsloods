@@ -1,0 +1,192 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBLIM:2020:9272",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Gennep",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De burger was door de gemeente Gennep uitgeschreven uit de basisregistratie personen (BRP) na een online aangifte van emigratie met zijn DigiD. Hij stond tegenover de gemeente Gennep bij de rechtbank Limburg, die vond dat de gemeente op de DigiD mocht vertrouwen.",
+ "titel": "Uitschrijving na DigiD-aangifte blijft geldig",
+ "kern": {
+  "zin": "De rechter vindt dat de gemeente de burger mocht uitschrijven, omdat de gemeente ervan mocht uitgaan dat hij de aangifte zelf deed.",
+  "bron": [
+   39
+  ],
+  "citaat": "mocht verweerder ervan uitgaan dat eiser de aangifte zelf heeft ingediend."
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Gennep kreeg via de website een online aangifte van emigratie binnen, ondertekend met de DigiD van de burger.",
+   "bron": [
+    18
+   ],
+   "citaat": "Deze is elektronisch ingediend via de website van de gemeente Gennep met gebruikmaking van een DigiD op naam van eiser."
+  },
+  {
+   "zin": "De gemeente verwerkte die aangifte in de BRP en stuurde een bevestiging van de uitschrijving.",
+   "bron": [
+    18
+   ],
+   "citaat": "Verweerder heeft de aangifte verwerkt in de brp en een bevestiging van de uitschrijving aan eiser gestuurd."
+  },
+  {
+   "zin": "De burger zei dat hij de aangifte niet zelf had gedaan en dat iemand anders zijn DigiD kon hebben gebruikt.",
+   "bron": [
+    22
+   ],
+   "citaat": "Volgens eiser kan niet worden uitgesloten dat iemand anders het verzoek tot uitschrijving heeft gedaan via een DigiD op naam van eiser."
+  },
+  {
+   "zin": "De gemeente zei dat DigiD persoonlijk is en dat zij daarom mocht aannemen dat de aangifte van de burger zelf kwam.",
+   "bron": [
+    20
+   ],
+   "citaat": "DigiD strikt persoonlijk is en verweerder daarom erop mocht vertrouwen dat de aangifte van emigratie afkomstig was van eiser"
+  },
+  {
+   "zin": "De rechter vond dat de burger onvoldoende bewijs gaf dat iemand anders zijn DigiD gebruikte.",
+   "bron": [
+    38
+   ],
+   "citaat": "Eiser heeft niet aannemelijk gemaakt dat hij zelf geen aangifte van emigratie heeft ingediend."
+  },
+  {
+   "zin": "Het beroep is ongegrond.",
+   "bron": [
+    44
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De gemeente mocht de uitschrijving doen; het beroep van de burger is ongegrond.",
+ "gevolg_betrokkene": {
+  "zin": "De burger blijft uitgeschreven en krijgt geen proceskostenvergoeding, omdat het beroep ongegrond is.",
+  "bron": [
+   44
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De uitschrijving is geen besluit.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat de uitschrijving wel een besluit is, omdat zij de rechtspositie van de burger raakt.",
+    "bron": [
+     32
+    ],
+    "citaat": "Aangezien de uitschrijving voldoet aan de vereisten van artikel 1:3, eerste lid, van de Awb, is sprake van een besluit."
+   },
+   "bruikbare_zin": {
+    "citaat": "Aangezien de uitschrijving voldoet aan de vereisten van artikel 1:3, eerste lid, van de Awb, is sprake van een besluit.",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik heb de aangifte niet zelf gedaan; iemand anders kan mijn DigiD hebben gebruikt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de burger niet aannemelijk heeft gemaakt dat hij de aangifte niet zelf deed.",
+    "bron": [
+     38
+    ],
+    "citaat": "Eiser heeft niet aannemelijk gemaakt dat hij zelf geen aangifte van emigratie heeft ingediend."
+   },
+   "bruikbare_zin": {
+    "citaat": "niet aannemelijk gemaakt dat hij zelf geen aangifte van emigratie heeft ingediend",
+    "bron": [
+     38
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente had nader moeten onderzoeken of ik de aangifte zelf heb gedaan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat de gemeente niet bij elke DigiD-aangifte hoeft te twijfelen of nader onderzoek moet doen.",
+    "bron": [
+     37
+    ],
+    "citaat": "dat dit niet betekent dat verweerder in elk geval aan de juistheid van een aangifte hoeft te twijfelen"
+   },
+   "bruikbare_zin": {
+    "citaat": "in elk geval aan de juistheid van een aangifte hoeft te twijfelen",
+    "bron": [
+     37
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als een aangifte met de DigiD van iemand is ondertekend, mag de gemeente er in beginsel van uitgaan dat die persoon de aangifte zelf heeft gedaan.",
+  "type": "regel",
+  "reikwijdte": "Aangiften van emigratie die met DigiD zijn ondertekend.",
+  "uitzondering": "Bij bijzondere omstandigheden kan nader onderzoek nodig zijn.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   36
+  ],
+  "citaat": "moet het er in beginsel voor worden gehouden dat die aanvraag door eiser is ingediend"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "DigiD-aangifte van emigratie",
+   "enkele ontkenning van de burger",
+   "geen aangifte bij de politie overgelegd"
+  ],
+  "wat_gaf_doorslag": "De burger maakte niet aannemelijk dat een ander zijn DigiD gebruikte."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 1:3 lid 1 Awb",
+  "art. 2.60 onder a Wet brp"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Ga bij een met DigiD ondertekende aangifte van emigratie in beginsel uit van de juistheid.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    36
+   ],
+   "citaat": "Ondertekening via DigiD is dan ook in het algemeen een voldoende betrouwbare methode"
+  },
+  {
+   "actie": "Vraag de burger die misbruik van zijn DigiD stelt om meer dan een enkele ontkenning.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    38
+   ],
+   "citaat": "De enkele stelling dat niet uitgesloten is dat een derde gebruik heeft gemaakt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "privacy-fg",
+  "klantcontact"
+ ],
+ "klantuitleg": "Bij een online aangifte met uw DigiD mag de gemeente er meestal van uitgaan dat u die zelf hebt gedaan. Alleen bij bijzondere omstandigheden of concrete aanwijzingen dat iemand anders uw DigiD gebruikte, moet de gemeente verder kijken. In deze zaak vond de rechter dat u niet genoeg liet zien, dus de uitschrijving bleef staan; wilt u dit aanvechten, laat dan meer zien dan alleen uw ontkenning.",
+ "gemeente": "Gennep",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

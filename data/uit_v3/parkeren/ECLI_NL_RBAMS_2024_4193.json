@@ -1,0 +1,157 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2024:4193",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner uit Amsterdam procedeert tegen de gemeente Amsterdam over de intrekking van haar bewonersvergunning parkeren. De zaak ligt bij de bestuursrechter van de rechtbank Amsterdam.",
+ "titel": "Intrekking bewonersvergunning vernietigd; gemeente moet opnieuw beslissen",
+ "kern": {
+  "zin": "De rechtbank vernietigt de intrekking, omdat zonder nader onderzoek niet vaststaat dat de bewoner geen recht heeft op de vergunning.",
+  "bron": [
+   20
+  ],
+  "citaat": "kan echter zonder nader onderzoek niet worden vastgesteld"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente trok de parkeervergunning in, omdat er volgens de gemeente al twee stallingsplaatsen op het adres waren.",
+   "bron": [
+    10
+   ],
+   "citaat": "Met een besluit van 15 februari 2022 heeft verweerder de parkeervergunning van eiseres ingetrokken"
+  },
+  {
+   "zin": "De bewoner stelde dat de vergunning destijds terecht was verleend, onder dezelfde regels als nu.",
+   "bron": [
+    17
+   ],
+   "citaat": "de parkeervergunning destijds terecht is verleend, onder dezelfde regelgeving die nu geldt"
+  },
+  {
+   "zin": "De gemeente hield vast aan nul vergunningen, omdat de twee stallingsplaatsen het maximum al bereikten.",
+   "bron": [
+    10
+   ],
+   "citaat": "is het maximum van nul parkeervergunningen op het adres volgens verweerder bereikt"
+  },
+  {
+   "zin": "De rechtbank oordeelt dat de gemeente zonder onderzoek niet kon vaststellen of de garagebox echt een stallingsplaats is.",
+   "bron": [
+    20
+   ],
+   "citaat": "Ter zitting is gebleken dat nog onduidelijk is of er daadwerkelijk sprake is van een stallingsplaats in de garagebox"
+  },
+  {
+   "zin": "De rechtbank vernietigt het besluit; de gemeente moet binnen zes weken een nieuw besluit nemen.",
+   "bron": [
+    29
+   ],
+   "citaat": "binnen zes weken na de dag van verzending van deze uitspraak een nieuw besluit te nemen"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Intrekking vernietigd; gemeente moet opnieuw beslissen; griffierecht terug.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de bewoner betekent dit dat de gemeente opnieuw moet beslissen op het bezwaar, en het griffierecht van 50 euro wordt terugbetaald.",
+  "bron": [
+   29,
+   30
+  ],
+  "citaat": "een nieuw besluit te nemen op het bezwaar"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De vergunning was destijds terecht verleend en de regels zijn niet veranderd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat het vertrouwensbeginsel niet meebrengt dat de gemeente steeds opnieuw een vergunning moet verlenen.",
+    "bron": [
+     18
+    ],
+    "citaat": "Het vertrouwensbeginsel brengt niet mee dat verweerder gehouden is om"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat parkeervergunningen een beperkte geldigheidsduur hebben",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De garagebox is al lang een bijkeuken, dus geen stallingsplaats.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank vond dat zonder nader onderzoek niet vaststaat of de garagebox een stallingsplaats is.",
+    "bron": [
+     20
+    ],
+    "citaat": "zonder nader onderzoek op dit punt niet kan worden vastgesteld"
+   },
+   "bruikbare_zin": {
+    "citaat": "zonder nader onderzoek op dit punt niet kan worden vastgesteld of de garagebox daadwerkelijk als stallingsplaats",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Zonder nader onderzoek naar de garagebox kan niet vaststaan dat de bewoner geen vergunning mag hebben.",
+  "bron": [
+   20
+  ],
+  "citaat": "kan echter zonder nader onderzoek niet worden vastgesteld",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "deze zaak: de garagebox op het adres van de bewoner",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "toelichting van de bewoner ter zitting",
+   "dossier van een procedure uit 2018"
+  ],
+  "wat_gaf_doorslag": "Het dossier uit 2018 en de toelichting ter zitting maakten onduidelijk of de garagebox nog een stallingsplaats is."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:72, vierde lid, Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Onderzoek eerst of een stallingsplaats er echt is, voordat je een parkeervergunning intrekt.",
+   "raakt": "vergunningen",
+   "bron": [
+    20
+   ],
+   "citaat": "zonder nader onderzoek op dit punt niet kan worden vastgesteld"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een bewonersvergunning mag niet worden ingetrokken zonder dat de gemeente goed heeft gecontroleerd of u nog recht heeft. Is de intrekking slecht onderbouwd, dan kan de rechter het besluit vernietigen, zoals hier. Twijfelt u aan een intrekking, vraag dan om de onderbouwing van het besluit.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

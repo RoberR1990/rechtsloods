@@ -1,0 +1,163 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2026:3440",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Alkmaar (via Cocensus)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg in Alkmaar een naheffingsaanslag (de rekening achteraf) omdat hij niet had betaald. Hij ging in beroep bij de rechtbank Noord-Holland tegen Cocensus, die de rekening oplegde.",
+ "titel": "Parkeerrekening vernietigd: automaat was moeilijk te vinden",
+ "kern": {
+  "zin": "De rechter vernietigde de rekening, omdat de parkeerder redelijk had gezocht en de gemeente de weg naar de automaat niet aanwees.",
+  "bron": [
+   30
+  ],
+  "citaat": "belanghebbende aan zijn onderzoekplicht heeft voldaan en dat sprake is geweest van overmacht"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op een parkeerplaats in Alkmaar stond een auto zonder betaalde parkeerbelasting.",
+   "bron": [
+    17
+   ],
+   "citaat": "Er was voor dit moment geen parkeerbelasting betaald."
+  },
+  {
+   "zin": "De parkeerder zei dat hij een dagkaart wilde kopen, maar de automaat niet kon vinden.",
+   "bron": [
+    20
+   ],
+   "citaat": "Hij voert aan dat hij een dagkaart wilde kopen, maar dat hij tevergeefs heeft gezocht naar een parkeerautomaat"
+  },
+  {
+   "zin": "De gemeente vond dat het niet vinden van de automaat niets aan de betaalplicht verandert.",
+   "bron": [
+    22
+   ],
+   "citaat": "Dat belanghebbende de parkeerautomaat niet kon vinden, doet niet af aan de betalingsverplichting"
+  },
+  {
+   "zin": "De rechter zag dat de parkeerder ruim had gezocht en dat de gemeente geen wegwijzers had gezet.",
+   "bron": [
+    30,
+    26
+   ],
+   "citaat": "door de gemeente op de zich in de parkeerzone bevindende parkeerborden geen wegwijzers naar de enige parkeerautomaat zijn geplaatst"
+  },
+  {
+   "zin": "De rechter vernietigde daarom de rekening en besliste dat de gemeente de kosten van de parkeerder moet vergoeden.",
+   "bron": [
+    44,
+    43,
+    45
+   ],
+   "citaat": "veroordeelt verweerder in de proceskosten van belanghebbende tot een bedrag van € 53,97 aan reiskosten"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Rekening vernietigd; gemeente betaalt reiskosten en griffierecht.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening van 102,50 euro vervalt, en de gemeente vergoedt 53,97 euro reiskosten en het griffierecht van 53 euro.",
+  "bron": [
+   44,
+   43,
+   45,
+   17
+  ],
+  "citaat": "veroordeelt verweerder in de proceskosten van belanghebbende tot een bedrag van € 53,97 aan reiskosten"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Op de borden in de zone stond geen wijzer naar de enige automaat.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente geen wegwijzers op de borden had gezet.",
+    "bron": [
+     30
+    ],
+    "citaat": "door de gemeente op de zich in de parkeerzone bevindende parkeerborden geen wegwijzers naar de enige parkeerautomaat"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen wegwijzers naar de enige parkeerautomaat zijn geplaatst",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De automaat kon hij niet vinden, en hij had zijn best gedaan om hem te vinden.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de parkeerder aan zijn zoekplicht had voldaan en dat er overmacht was.",
+    "bron": [
+     30
+    ],
+    "citaat": "belanghebbende aan zijn onderzoekplicht heeft voldaan en dat sprake is geweest van overmacht"
+   },
+   "bruikbare_zin": {
+    "citaat": "belanghebbende aan zijn onderzoekplicht heeft voldaan",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de parkeerder de automaat niet kan vinden en de borden hem niet de weg wijzen, kan dat overmacht zijn.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "parkeerzone met één automaat, zonder wegwijzers op de borden, in deze zaak",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   30
+  ],
+  "citaat": "is de rechtbank van oordeel dat belanghebbende aan zijn onderzoekplicht heeft voldaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "plattegrond met de zoekroute",
+   "verklaringen van mensen in de buurt"
+  ],
+  "wat_gaf_doorslag": "Er stond maar één automaat in de zone en de borden wezen niet naar die automaat."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 2, lid 1, letter d, Bpb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet op de parkeerborden in de zone een wegwijzer naar de enige parkeerautomaat.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    30
+   ],
+   "citaat": "geen wegwijzers naar de enige parkeerautomaat zijn geplaatst"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Kon u de parkeerautomaat niet vinden, dan kan de rekening voor het parkeren soms niet terecht zijn. Dat hangt af van hoe goed u heeft gezocht en of de borden u de weg wezen. Heeft u zelf gezocht, dan helpt een kaart met uw route bij uw bezwaar.",
+ "gemeente": "Alkmaar",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

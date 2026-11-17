@@ -1,0 +1,152 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2025:25993",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "schade-aansprakelijkheid",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {
+  "burger": "bromfietsbestuurder",
+  "wederpartij": "exploitant (Q-Park, de garage)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "Een exploitant van een parkeergarage in Den Haag, Q-Park, vorderde geld van een bromfietsbestuurder. De zaak ging bij de kantonrechter van de rechtbank Den Haag, die in eerste aanleg oordeelde.",
+ "titel": "Brommer de garage uit zonder betalen: 100 euro schade",
+ "kern": {
+  "zin": "De rechter vond het onrechtmatig om zonder te betalen de garage uit te rijden, en stelde de schade op 100 euro.",
+  "bron": [
+   89
+  ],
+  "citaat": "De kantonrechter is met Q-Park van oordeel dat het gebruikmaken van de parkeergarage zonder te betalen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een bromfietsbestuurder reed zonder ticket de garage in en verliet die later achter een auto aan.",
+   "bron": [
+    37
+   ],
+   "citaat": "Hij reed om de slagboom heen en heeft geen parkeerticket uit de automaat genomen."
+  },
+  {
+   "zin": "Volgens hem valt een bromfiets buiten het begrip motorvoertuig, dus geldt het contract niet voor hem.",
+   "bron": [
+    64
+   ],
+   "citaat": "De bromfiets van [gedaagde] is geen van beiden"
+  },
+  {
+   "zin": "Q-Park eiste 521,88 euro en beriep zich op de algemene voorwaarden.",
+   "bron": [
+    42
+   ],
+   "citaat": "€ 521,88, te vermeerderen met de wettelijke rente en kosten."
+  },
+  {
+   "zin": "Omdat er geen overeenkomst was, gold het voorwaardenpakket niet.",
+   "bron": [
+    86
+   ],
+   "citaat": "Dat betekent dat de algemene voorwaarden ook niet van toepassing zijn."
+  },
+  {
+   "zin": "Toch vond de rechter het onrechtmatig om zonder te betalen weg te rijden en legde hij schade vast.",
+   "bron": [
+    89
+   ],
+   "citaat": "De kantonrechter is met Q-Park van oordeel dat het gebruikmaken van de parkeergarage zonder te betalen"
+  },
+  {
+   "zin": "De schade werd geschat op 100 euro.",
+   "bron": [
+    90
+   ],
+   "citaat": "De schade zal daarom worden bepaald op € 100,-."
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Schade verlaagd naar 100 euro; reconventie en overige eisen afgewezen.",
+ "gevolg_betrokkene": {
+  "zin": "Hij moet 100 euro betalen met wettelijke rente; de proceskosten worden gecompenseerd.",
+  "bron": [
+   100,
+   102
+  ],
+  "citaat": "veroordeelt [gedaagde] om tegen behoorlijk bewijs van kwijting aan Q-Park te voldoen een bedrag van € 100,00"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "privaat-voorwaarden",
+   "burger_zegt": "Hij zegt dat de voorwaarden niet gelden, omdat een brommer geen motorvoertuig is.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter zag geen overeenkomst, dus de voorwaarden golden niet voor hem.",
+    "bron": [
+     86
+    ],
+    "citaat": "Dat betekent dat de algemene voorwaarden ook niet van toepassing zijn."
+   },
+   "bruikbare_zin": {
+    "citaat": "Q-Park heeft niet onderbouwd op grond waarvan kan worden aangenomen",
+    "bron": [
+     85
+    ]
+   }
+  },
+  {
+   "arg": "privacy-kenteken",
+   "burger_zegt": "Q-Park zou de kentekengegevens bij de RDW onrechtmatig hebben opgevraagd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond niet dat het opvragen van de kentekengegevens onrechtmatig was.",
+    "bron": [
+     94
+    ],
+    "citaat": "Niet valt in te zien waarom dat onrechtmatig zou zijn."
+   },
+   "bruikbare_zin": {
+    "citaat": "een gerechtvaardigd belang had om de kentekeninformatie bij RDW op te vragen",
+    "bron": [
+     94
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "In deze zaak was het zonder betalen de garage uit rijden achter een ander aan onrechtmatig.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "deze zaak: een bromfiets die zonder betaling achter een auto de garage verlaat",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   89
+  ],
+  "citaat": "De kantonrechter is met Q-Park van oordeel dat het gebruikmaken van de parkeergarage zonder te betalen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "schadeberekening op basis van het tarief verloren kaart",
+   "administratiekosten van Q-Park"
+  ],
+  "wat_gaf_doorslag": "Q-Park had voldoende onderbouwd dat zij parkeerkosten was misgelopen."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "klantcontact"
+ ],
+ "klantuitleg": "Of een rekening van een private parkeergarage terecht is, hangt af van of u betaalde of een afspraak had. In deze zaak vond de rechter dat de bestuurder zonder betalen de garage uit reed, en moest hij 100 euro betalen. Als u zo'n rekening krijgt, lees dan de voorwaarden van de garage en vraag om het bewijs van de schade.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

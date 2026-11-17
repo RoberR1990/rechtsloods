@@ -1,0 +1,147 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:904",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "verkeersbesluit",
+ "kenmerk": null,
+ "zaaktype": "verkeersbesluit",
+ "partijen": {
+  "burger": "omwonende (bewoner van het hofje)",
+  "wederpartij": "gemeente Rotterdam (het college)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een omwonende van een hofje in Rotterdam procedeerde bij de rechtbank Rotterdam tegen het college. Het college had zijn bezwaar tegen twee laadplekken niet-ontvankelijk verklaard.",
+ "titel": "Bezwaar tegen laadplekken in hofje ten onrechte niet-ontvankelijk verklaard",
+ "kern": {
+  "zin": "De rechter oordeelde dat de omwonende wel genoeg belang had, omdat het besluit geen exacte plek voor de laadpaal noemt.",
+  "bron": [
+   23
+  ],
+  "citaat": "Het verkeersbesluit stelt alleen dat de parkeerplaatsen worden aangewezen bij de oplaadpaal"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het college wees op 6 mei 2022 twee parkeerplaatsen aan voor het laden van elektrische auto's.",
+   "bron": [
+    13
+   ],
+   "citaat": "Het college heeft bij besluit van 6 mei 2022 twee parkeerplaatsen bij de oplaadpaal"
+  },
+  {
+   "zin": "De omwonende vond dat zijn bezwaar ten onrechte niet-ontvankelijk was verklaard.",
+   "bron": [
+    16
+   ],
+   "citaat": "Eiser voert aan dat het college hem ten onrechte niet-ontvankelijk heeft verklaard in zijn bezwaar"
+  },
+  {
+   "zin": "Het college zei dat de parkeerdruk niet verandert en dat er voldoende plekken voor de woningen zijn.",
+   "bron": [
+    19
+   ],
+   "citaat": "Daarbij wijst het college erop dat de parkeerdruk niet verandert"
+  },
+  {
+   "zin": "De rechter vond dat het college de gevolgen niet kon tegenwerpen, want het deed geen onderzoek naar parkeerdruk.",
+   "bron": [
+    23
+   ],
+   "citaat": "Nu het college geen onderzoek heeft gedaan naar parkeerdruk en feitelijke beschikbaarheid van parkeerplaatsen"
+  },
+  {
+   "zin": "Het beroep is gegrond, maar de rechter oordeelde nog niet over de laadplekken zelf.",
+   "bron": [
+    31
+   ],
+   "citaat": "kan de rechtbank geen inhoudelijk oordeel geven over de zaak"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Burger wint op ontvankelijkheid; geen inhoudelijk oordeel, voorlopige voorziening afgewezen.",
+ "gevolg_betrokkene": {
+  "zin": "Het college moet het griffierecht van € 184 aan de omwonende vergoeden en moet opnieuw op het bezwaar beslissen.",
+  "bron": [
+   40
+  ],
+  "citaat": "bepaalt dat het college het griffierecht van € 184,- aan eiser moet vergoeden"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik woon aan het hofje en heb een eigen belang, dus mijn bezwaar had ontvankelijk moeten zijn.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Volgens de rechter maakt het voor de omwonende weinig uit hoe ver de laadpaal van zijn huis staat.",
+    "bron": [
+     23
+    ],
+    "citaat": "Of de laadpaal zich in het hofje op 20 meter of 80 meter van zijn woning bevindt"
+   },
+   "bruikbare_zin": {
+    "citaat": "onderscheidt zich in voldoende mate van het belang van andere willekeurige weggebruikers",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een verkeersbesluit kijkt de rechter per geval wie rechtstreeks betrokken is.",
+  "type": "regel",
+  "reikwijdte": "Verkeersbesluiten, zoals de aanwijzing van parkeerplaatsen",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   21
+  ],
+  "citaat": "Bij verkeersbesluiten moet dan ook van geval tot geval worden onderzocht wiens belangen rechtstreeks bij een dergelijk besluit zijn betrokken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring van de omwonende over het hofje",
+   "ontbreken van een parkeerdrukonderzoek door het college"
+  ],
+  "wat_gaf_doorslag": "Het ontbreken van een onderzoek naar parkeerdruk door het college gaf de doorslag."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 1:2 lid 1 Awb",
+  "art. 8:72 lid 4 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vermeld in een verkeersbesluit de exacte locatie van de laadpaal, zodat duidelijk is wie er belang bij heeft.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    23
+   ],
+   "citaat": "dat het verkeersbesluit geen locatie aangeeft voor de gereserveerde parkeerplaatsen"
+  },
+  {
+   "actie": "Onderzoek parkeerdruk en beschikbaarheid voordat u een bezwaar niet-ontvankelijk verklaart.",
+   "raakt": "bezwaar",
+   "bron": [
+    23
+   ],
+   "citaat": "Nu het college geen onderzoek heeft gedaan naar parkeerdruk en feitelijke beschikbaarheid van parkeerplaatsen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "bebording-verkeersbesluit"
+ ],
+ "klantuitleg": "Woont u vlak bij een nieuwe laadplek, dan kunt u soms bezwaar maken, ook als de plek niet voor uw deur ligt. De rechter kijkt dan of u een eigen belang heeft, zoals gebruik van het hofje waar u woont. Of u gelijk krijgt, hangt af van de situatie, dus daar is niets zeker.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,148 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2023:2074",
+ "relevant": true,
+ "onderwerp": "toezicht-handhaving",
+ "sub": "klacht-ap",
+ "kenmerk": null,
+ "zaaktype": "klacht-handhaving-ap",
+ "partijen": {
+  "burger": "klant van een bank",
+  "wederpartij": "Autoriteit Persoonsgegevens (ABN AMRO is ook betrokken)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een klant van ABN AMRO had bij de Autoriteit Persoonsgegevens (AP) geklaagd over hoe de bank zijn inzageverzoek afhandelde. De Raad van State beoordeelt in hoger beroep of hij nog belang had bij een uitspraak.",
+ "titel": "Geen belang meer bij klacht over inzage als je alle stukken hebt",
+ "kern": {
+  "zin": "De Raad van State vond dat de klant geen belang had bij een uitspraak, omdat hij alle gegevens die de bank had al gekregen.",
+  "bron": [
+   29
+  ],
+  "citaat": "niet betwist dat hij alle gegevens waarover de ABN AMRO beschikte heeft gekregen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De klant klaagde bij de AP over hoe ABN AMRO zijn verzoek om inzage in zijn persoonsgegevens afhandelde.",
+   "bron": [
+    23
+   ],
+   "citaat": "heeft een klacht ingediend bij de AP over de afhandeling van zijn verzoek om inzage in zijn persoonsgegevens door de ABN AMRO"
+  },
+  {
+   "zin": "De AP wees de klacht af en verklaarde het bezwaar ongegrond; de rechtbank verklaarde het beroep niet-ontvankelijk (de rechter beoordeelt de zaak niet inhoudelijk), omdat de klant de laatste stukken al had.",
+   "bron": [
+    25
+   ],
+   "citaat": "geen belang had bij een uitspraak op het beroep omdat ter zitting was gebleken dat ook de laatste drie stukken"
+  },
+  {
+   "zin": "De klant zei dat ABN AMRO onzorgvuldig met gegevens omgaat en documenten te vroeg had vernietigd, en dat hij daarom wel belang had.",
+   "bron": [
+    27
+   ],
+   "citaat": "gaat ABN AMRO niet zorgvuldig om met persoonsgegevens, is de registratie daarvan niet op orde"
+  },
+  {
+   "zin": "De Raad van State zei dat het recht op inzage alleen gaat over gegevens die een organisatie nog heeft; onzorgvuldig gebruik van gegevens kan daarmee niet worden aangepakt.",
+   "bron": [
+    29
+   ],
+   "citaat": "heeft alleen betrekking op gegevens waar de betreffende organisatie (nog) over beschikt"
+  },
+  {
+   "zin": "Dat zo'n situatie later bij andere klanten kan voorkomen, geeft geen eigen belang bij de procedure.",
+   "bron": [
+    30
+   ],
+   "citaat": "levert dit geen procesbelang op"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    34
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De uitspraak van de rechtbank wordt bevestigd."
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Geen inhoudelijk oordeel; de klant had geen procesbelang.",
+ "gevolg_betrokkene": {
+  "zin": "De uitspraak van de rechtbank blijft staan en de klacht wordt niet inhoudelijk beoordeeld; er is geen vergoeding van proceskosten.",
+  "bron": [
+   34
+  ],
+  "citaat": "De AP hoeft geen proceskosten te vergoeden."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "ABN AMRO gaat onzorgvuldig met gegevens om en vernietigde documenten vóór het einde van de bewaartermijn, dus ik heb belang bij een uitspraak.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het inzagerecht gaat alleen over gegevens die de organisatie nog heeft, niet over onzorgvuldige verwerking of te vroeg vernietigen.",
+    "bron": [
+     29
+    ],
+    "citaat": "biedt daarmee dus niet de ruimte om onzorgvuldige verwerking van persoonsgegevens door de verwerkingsverantwoordelijke"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het inzagerecht op basis van artikel 15 van de AVG heeft alleen betrekking op gegevens waar de betreffende organisatie (nog) over beschikt",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het is belangrijk dat dit in de toekomst bij andere klanten niet meer gebeurt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een onzeker toekomstig risico voor anderen is geen actueel en reëel belang.",
+    "bron": [
+     30
+    ],
+    "citaat": "Dit is een onzekere toekomstige gebeurtenis die voor hem niet feitelijk van betekenis is"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een (hoger) beroep wordt alleen inhoudelijk beoordeeld als de indiener een actueel en reëel belang heeft en het doel dat hij wil bereiken met de procedure kan worden bereikt.",
+  "type": "regel",
+  "reikwijdte": "Alle beroepen bij de bestuursrechter, ook over klachten bij de AP",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   30
+  ],
+  "citaat": "de indiener dient een actueel en reëel belang te hebben bij een inhoudelijke beoordeling van het (hoger) beroep"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De klant betwistte niet dat hij alle gegevens van ABN AMRO had gekregen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2021:1145"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 15 AVG",
+  "art. 77 AVG"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; wederpartij is de AP en een private bank",
+ "raakt": [
+  "privacy-fg",
+  "klantcontact"
+ ],
+ "klantuitleg": "Met een verzoek om inzage kunt u alleen de gegevens opvragen die een organisatie nog heeft. Hebt u alles gekregen, dan heeft een klacht over de afhandeling daarvan weinig zin. Wilt u klagen over onzorgvuldig gebruik of vernietigen van gegevens, dan is een inzageverzoek daarvoor niet de weg.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

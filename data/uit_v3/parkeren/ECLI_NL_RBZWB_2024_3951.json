@@ -1,0 +1,169 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2024:3951",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Tilburg",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Tilburg een naheffing (de rekening achteraf), omdat er op het moment van de controle niet was betaald. De parkeerder ging in beroep bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Parkeerbelasting blijft staan; gemeente betaalt proceskosten en griffierecht",
+ "kern": {
+  "zin": "De naheffing bleef staan, maar de gemeente moest kosten betalen, omdat het gebrek pas na het beroep is hersteld.",
+  "bron": [
+   30
+  ],
+  "citaat": "Omdat het gebrek pas is hersteld nadat belanghebbende beroep had ingesteld"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde een naheffing op nadat parkeercontroleurs hadden vastgesteld dat er niet was betaald.",
+   "bron": [
+    17
+   ],
+   "citaat": "door parkeercontroleurs geconstateerd dat op dat moment geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder vond dat de gemeente de hoorplicht had geschonden, omdat zijn verzoek om een hoorgesprek niet was gehonoreerd.",
+   "bron": [
+    25
+   ],
+   "citaat": "Belanghebbende stelt dat er sprake is van een schending van de hoorplicht"
+  },
+  {
+   "zin": "De parkeerder vond ook dat de uitspraak op bezwaar door een onbevoegde ambtenaar was genomen.",
+   "bron": [
+    28
+   ],
+   "citaat": "Belanghebbende voert verder aan dat de uitspraak op bezwaar onbevoegd is genomen"
+  },
+  {
+   "zin": "De gemeente vond dat er geen gebrek was, omdat er mandaat was verleend.",
+   "bron": [
+    29
+   ],
+   "citaat": "dat er geen sprake is van een gebrek"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente de bevoegdheid niet voldoende had aangetoond, maar dat het gebrek werd gepasseerd.",
+   "bron": [
+    30
+   ],
+   "citaat": "is de heffingsambtenaar er niet in geslaagd om de bevoegdheidsvraag voldoende te beantwoorden"
+  },
+  {
+   "zin": "Het beroep is ongegrond, de naheffing blijft staan, maar de gemeente moet griffierecht en proceskosten betalen.",
+   "bron": [
+    34
+   ],
+   "citaat": "Het beroep is ongegrond. Dit betekent dat de naheffingsaanslag parkeerbelasting terecht is opgelegd"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep ongegrond; wel griffierecht en proceskosten voor de parkeerder.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan, maar de gemeente moet het griffierecht van € 50,- en € 437,50 aan proceskosten aan de parkeerder betalen.",
+  "bron": [
+   34,
+   39,
+   40
+  ],
+  "citaat": "Dit betekent dat de naheffingsaanslag parkeerbelasting terecht is opgelegd en gehandhaafd blijft"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De parkeerder vroeg om een hoorgesprek, en dat verzoek werd niet gehonoreerd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente deed genoeg pogingen om een hoorzitting in te plannen, dus de hoorplicht is niet geschonden.",
+    "bron": [
+     26
+    ],
+    "citaat": "de heffingsambtenaar voldoende inspanningen heeft verricht om gemachtigde van belanghebbende uit te nodigen voor een hoorzitting"
+   },
+   "bruikbare_zin": {
+    "citaat": "Gelet hierop is de rechtbank van oordeel dat de heffingsambtenaar voldoende inspanningen heeft verricht",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De uitspraak op bezwaar is onbevoegd genomen, omdat niet blijkt dat de ambtenaar daarvoor mandaat had.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente de bevoegdheid niet voldoende had onderbouwd, maar het gebrek werd gepasseerd en er is geen vernietiging.",
+    "bron": [
+     30
+    ],
+    "citaat": "is de heffingsambtenaar er niet in geslaagd om de bevoegdheidsvraag voldoende te beantwoorden"
+   },
+   "bruikbare_zin": {
+    "citaat": "Hiermee is onvoldoende onderbouwd dat er sprake is van een bevoegd genomen besluit",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bevoegdheidsgebrek mag worden gepasseerd als de burger er niet door is benadeeld.",
+  "type": "regel",
+  "reikwijdte": "bevoegdheidsgebreken in een besluit op bezwaar die in de beroepsfase zijn hersteld",
+  "uitzondering": "Wel proceskosten en griffierecht als het gebrek pas na het beroep is hersteld.",
+  "herkomst": "wet",
+  "bron": [
+   30
+  ],
+  "citaat": "aangezien belanghebbende door dit gebrek niet is benadeeld"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "vaststelling door parkeercontroleurs",
+   "aanwijzingsbesluit betaald parkeren"
+  ],
+  "wat_gaf_doorslag": "Dat er niet was betaald, was niet in geschil; de bevoegdheid van de ambtenaar wel."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 Gemeentewet",
+  "Verordening op de heffing en invordering van parkeerbelastingen 2022",
+  "art. 8 Verordening op de heffing en invordering van parkeerbelastingen 2022",
+  "art. 1 Aanwijzingsbesluit Betaald Parkeren 2021-4",
+  "art. 6:22 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg vast welke ambtenaar op bezwaar mag beslissen en wijzig het mandaatbesluit bij een nieuwe rechtsopvolger.",
+   "raakt": "bezwaar",
+   "bron": [
+    30
+   ],
+   "citaat": "Het mandaatbesluit is echter niet gewijzigd."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar"
+ ],
+ "klantuitleg": "Staat uw auto op een betaalplek zonder betaalde parkeerbelasting, dan kan de gemeente de rekening achteraf sturen. Een fout in de bevoegdheid van de ambtenaar kan wel leiden tot een vergoeding van uw griffierecht en proceskosten, ook als de rekening blijft staan. Als u wel heeft betaald of het bedrag klopt niet, dan kan bezwaar zinvol zijn.",
+ "gemeente": "Tilburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

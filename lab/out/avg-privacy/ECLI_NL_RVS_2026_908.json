@@ -1,0 +1,159 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:908",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "wissen",
+ "kenmerk": "publieke-taak",
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "particulier",
+  "wederpartij": "minister van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger wilde dat de minister van Financiën zijn gegevens in de fraudelijst FSV van de Belastingdienst corrigeerde en wiste. De minister ging in hoger beroep bij de Raad van State, omdat de rechtbank de burger had gelijkgegeven.",
+ "titel": "Minister mag gegevens in fraudelijst Belastingdienst voorlopig bewaren",
+ "kern": {
+  "zin": "De Raad van State vond dat de minister het verzoek om wissing mocht afwijzen, omdat de gegevens voorlopig nodig zijn voor taken van algemeen belang.",
+  "bron": [
+   31
+  ],
+  "citaat": "Het voorgaande betekent dat de minister het verzoek om wissing heeft mogen afwijzen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de minister om zijn gegevens in de FSV (Fraude Signalering Voorziening, een fraudelijst van de Belastingdienst) te corrigeren en te wissen, en de minister wees dit af.",
+   "bron": [
+    24
+   ],
+   "citaat": "Bij het besluit van 30 maart 2022 heeft de minister dit verzoek afgewezen"
+  },
+  {
+   "zin": "De rechtbank vond dat de minister het wissen niet had mogen weigeren.",
+   "bron": [
+    26
+   ],
+   "citaat": "geoordeeld dat de minister wissing van de persoonsgegevens niet heeft mogen weigeren"
+  },
+  {
+   "zin": "De minister vond dat hij zich terecht had beroepen op de uitzonderingen in artikel 17 lid 3 van de AVG.",
+   "bron": [
+    28
+   ],
+   "citaat": "Hij voert aan dat hij zich terecht op artikel 17, derde lid, van de AVG heeft beroepen"
+  },
+  {
+   "zin": "De Raad van State verwees naar een eerdere uitspraak: de gegevens in de FSV zijn voorlopig nodig voor taken van algemeen belang.",
+   "bron": [
+    29
+   ],
+   "citaat": "verwerking van de persoonsgegevens in de FSV voorlopig noodzakelijk is voor de vervulling van taken van algemeen belang"
+  },
+  {
+   "zin": "Dat de gegevens ten onrechte in de FSV staan, maakt het weigeren van wissen ook voor deze burger niet onevenredig.",
+   "bron": [
+    30
+   ],
+   "citaat": "Dat zijn persoonsgegevens ten onrechte in de FSV zijn verwerkt, maakt de weigering om die gegevens te wissen"
+  },
+  {
+   "zin": "Het verzoek om correctie faalde, omdat de burger niet zei wat onjuist was en alleen zijn naam gezuiverd wilde zien.",
+   "bron": [
+    37
+   ],
+   "citaat": "heeft niet geconcretiseerd wat onjuist is aan zijn in de FSV geregistreerde persoonsgegevens"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep minister slaagt; wissen en corrigeren mochten worden geweigerd.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt zijn gegevens niet gewist of gecorrigeerd en de minister hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   40
+  ],
+  "citaat": "De minister hoeft geen proceskosten te vergoeden"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "wissen-geen-grondslag",
+   "burger_zegt": "De gegevens zijn ten onrechte in de FSV verwerkt en moeten daarom worden gewist.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gegevens zijn voorlopig nodig voor taken van algemeen belang en weigeren is ook voor deze burger evenredig.",
+    "bron": [
+     29
+    ],
+    "citaat": "verwerking van de persoonsgegevens in de FSV voorlopig noodzakelijk is voor de vervulling van taken van algemeen belang"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat zijn persoonsgegevens ten onrechte in de FSV zijn verwerkt, maakt de weigering om die gegevens te wissen",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Zijn gegevens in de FSV moeten worden gecorrigeerd zodat zijn naam wordt gezuiverd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het recht op correctie gaat alleen over onjuiste of onvolledige gegevens, en de burger zei niet wat onjuist was.",
+    "bron": [
+     37
+    ],
+    "citaat": "heeft niet geconcretiseerd wat onjuist is aan zijn in de FSV geregistreerde persoonsgegevens"
+   },
+   "bruikbare_zin": {
+    "citaat": "ziet alleen op het corrigeren of aanvullen van onjuiste of onvolledige verwerkte persoonsgegevens van een betrokkene",
+    "bron": [
+     37
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Gegevens in de FSV-back-up mogen voorlopig bewaard blijven voor het herstellen van nadelige gevolgen en voor verantwoording; wissen weigeren is dan ook bij onrechtmatige opname niet onevenredig.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Verzoeken om wissing van gegevens in de FSV-back-up van de Belastingdienst.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   29
+  ],
+  "citaat": "verwerking van de persoonsgegevens in de FSV voorlopig noodzakelijk is voor de vervulling van taken van algemeen belang"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "eerdere uitspraak van de Raad van State over dezelfde fraudelijst"
+  ],
+  "wat_gaf_doorslag": "De Raad van State volgde zijn eerdere uitspraak over de FSV."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2026:226",
+   "ECLI:NL:RBNHO:2023:7865"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 16 AVG",
+  "art. 17 lid 1 onder d AVG",
+  "art. 17 lid 3 onder b AVG"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "fraude-handhaving"
+ ],
+ "klantuitleg": "Ook als een organisatie uw gegevens onterecht heeft opgenomen, hoeft zij ze niet altijd meteen te wissen. Zij mag ze voorlopig bewaren als dat nodig is om fouten te herstellen en verantwoording af te leggen, en correctie kan alleen als gegevens echt onjuist of onvolledig zijn. Bezwaar maken heeft meer zin als u precies kunt aanwijzen welk gegeven onjuist is.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij (minister van Financiën)",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

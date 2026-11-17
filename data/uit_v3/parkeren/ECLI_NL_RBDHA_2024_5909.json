@@ -1,0 +1,133 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2024:5909",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Den Haag een naheffingsaanslag (de rekening achteraf) voor parkeerbelasting. De parkeerder ging daartegen in beroep bij de rechtbank Den Haag.",
+ "titel": "Parkeerder moest na het eerste uur opnieuw betalen",
+ "kern": {
+  "zin": "De rechtbank zei dat een maximale aanmeldduur iets anders is dan een maximale parkeerduur, dus moest de parkeerder na het eerste uur opnieuw betalen.",
+  "bron": [
+   24
+  ],
+  "citaat": "De rechtbank is van oordeel dat een maximale aanmeldduur iets anders is dan een maximale parkeerduur"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op zaterdag 18 juni 2022 stond de auto van de parkeerder langer dan een uur op een betaalplek.",
+   "bron": [
+    17
+   ],
+   "citaat": "Op het in de naheffingsaanslag vermelde tijdstip stond de auto daar langer dan een uur."
+  },
+  {
+   "zin": "De parkeerder vond dat na het eerste uur geen parkeerbelasting meer verschuldigd was.",
+   "bron": [
+    20
+   ],
+   "citaat": "Eiseres stelt dat zij geen parkeerbelasting is verschuldigd aangezien de maximale parkeertijd 60 minuten is"
+  },
+  {
+   "zin": "De gemeente vond de naheffing terecht opgelegd.",
+   "bron": [
+    21
+   ],
+   "citaat": "Verweerder stelt zich op het standpunt dat de naheffingsaanslag terecht is opgelegd"
+  },
+  {
+   "zin": "De rechtbank zei dat betalen na het eerste uur ook technisch mogelijk was.",
+   "bron": [
+    24
+   ],
+   "citaat": "Dit was technisch ook mogelijk."
+  },
+  {
+   "zin": "Het beroep van de parkeerder werd ongegrond verklaard.",
+   "bron": [
+    25
+   ],
+   "citaat": "Gelet op wat hiervoor is overwogen, is het beroep ongegrond verklaard."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing blijft staan, geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de rekening betalen en krijgt geen vergoeding voor de proceskosten.",
+  "bron": [
+   25,
+   26
+  ],
+  "citaat": "Gelet op wat hiervoor is overwogen, is het beroep ongegrond verklaard."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Na het eerste uur hoefde volgens de parkeerder geen parkeerbelasting meer betaald te worden, omdat de maximale parkeertijd 60 minuten was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat een maximale aanmeldduur iets anders is dan een maximale parkeerduur, dus betalen na het eerste uur bleef nodig.",
+    "bron": [
+     24
+    ],
+    "citaat": "De rechtbank is van oordeel dat een maximale aanmeldduur iets anders is dan een maximale parkeerduur"
+   },
+   "bruikbare_zin": {
+    "citaat": "wel gehouden voor het parkeren na het eerste uur opnieuw parkeerbelasting op aangifte te voldoen",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een maximale aanmeldduur is iets anders dan een maximale parkeerduur, dus moet na het eerste uur opnieuw worden betaald.",
+  "type": "regel",
+  "reikwijdte": "betaald parkeren met een maximale aanmeldduur, zoals 60 minuten",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "De rechtbank is van oordeel dat een maximale aanmeldduur iets anders is dan een maximale parkeerduur"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "controle op het tijdstip (waarneming)"
+  ],
+  "wat_gaf_doorslag": "Dat de parkeerder na het eerste uur niet opnieuw betaalde."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "wijkt af",
+  "eerdere": [
+   "ECLI:NL:HR:2022:346"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 Gemeentewet",
+  "Verordening parkeerregulering en parkeerbelasting Den Haag 2022"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter bevestigt de naheffing; geen fout van de gemeente genoemd",
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u na het eerste uur niet opnieuw betaalt, kan de rekening voor het parkeren terecht zijn, ook als de regel een maximale tijd van 60 minuten noemt. Dat oordeelde de rechter in deze zaak. Heeft u wel betaald, dan kan bezwaar zinvol zijn, en een betaalbewijs helpt daarbij.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

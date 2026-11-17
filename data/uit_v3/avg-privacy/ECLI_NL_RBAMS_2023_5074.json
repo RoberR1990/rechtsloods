@@ -1,0 +1,182 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2023:5074",
+ "relevant": true,
+ "onderwerp": "toezicht-handhaving",
+ "sub": "boete",
+ "kenmerk": null,
+ "zaaktype": "boete-ap",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "Autoriteit Persoonsgegevens",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Het mediabedrijf DPG kreeg een boete van 525.000 euro van de Autoriteit Persoonsgegevens. DPG ging in beroep bij de rechtbank Amsterdam en vond dat de boete niet terecht was.",
+ "titel": "Rechter vernietigt boete voor te strenge ID-check",
+ "kern": {
+  "zin": "De rechter vernietigt de boete omdat de Autoriteit Persoonsgegevens onvoldoende oog had voor de omstandigheden.",
+  "bron": [
+   48
+  ],
+  "citaat": "Verweerder heeft bij het opleggen van de boete onvoldoende oog gehad voor de hiervoor genoemde omstandigheden."
+ },
+ "samenvatting": [
+  {
+   "zin": "De Autoriteit Persoonsgegevens gaf DPG een boete van 525.000 euro.",
+   "bron": [
+    23
+   ],
+   "citaat": "een bestuurlijke boete van € 525.000 opgelegd aan DPG"
+  },
+  {
+   "zin": "DPG vond dat zij niet te streng was en dat er wel ruimte was voor maatwerk.",
+   "bron": [
+    25
+   ],
+   "citaat": "In het beleid van DPG was verder wel degelijk ruimte voor maatwerk, dat ook in praktijk werd gebracht."
+  },
+  {
+   "zin": "De Autoriteit vond dat DPG met een kopie van het identiteitsbewijs te veel vroeg.",
+   "bron": [
+    23
+   ],
+   "citaat": "standaard en op voorhand vroeg om hun identiteit te bevestigen met een kopie van hun identiteitsbewijs."
+  },
+  {
+   "zin": "De rechter oordeelt dat DPG te star was en dat dit in strijd is met de AVG.",
+   "bron": [
+    36
+   ],
+   "citaat": "het beleid van DPG niet in overeenstemming is met het bepaalde in artikel 12, tweede lid, van de AVG"
+  },
+  {
+   "zin": "Maar de rechter vindt dat de Autoriteit onder deze omstandigheden geen boete mocht opleggen.",
+   "bron": [
+    48
+   ],
+   "citaat": "Verweerder heeft bij het opleggen van de boete onvoldoende oog gehad voor de hiervoor genoemde omstandigheden."
+  },
+  {
+   "zin": "De rechter vernietigt de boete.",
+   "bron": [
+    50
+   ],
+   "citaat": "De rechtbank vernietigt het bestreden besluit en herroept het primaire besluit voor zover daarin de boete is opgelegd."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "De boete van 525.000 euro vervalt.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van 525.000 euro vervalt; de Autoriteit moet 365 euro griffierecht en 1.674 euro proceskosten betalen.",
+  "bron": [
+   50,
+   51,
+   52
+  ],
+  "citaat": "herroept het primaire besluit voor zover daarin de boete is opgelegd."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "DPG vindt dat zij de AVG niet heeft overtreden en dat de Autoriteit de regel verkeerd uitlegt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter oordeelt dat DPG te star was bij het vragen om een identiteitsbewijs.",
+    "bron": [
+     35
+    ],
+    "citaat": "DPG hanteerde naar het oordeel van de rechtbank een te rigide procedure voor het identificeren van verzoekers"
+   },
+   "bruikbare_zin": {
+    "citaat": "een te rigide procedure voor het identificeren van verzoekers",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "DPG vindt dat de boete in strijd is met het lex certa-beginsel (het verbod moet duidelijk zijn).",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter verwerpt het beroep op het lex certa-beginsel.",
+    "bron": [
+     38
+    ],
+    "citaat": "geen sprake van strijd met dit beginsel."
+   },
+   "bruikbare_zin": {
+    "citaat": "geen sprake van strijd met dit beginsel",
+    "bron": [
+     38
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "DPG vindt dat de boete en de hoogte ervan niet evenredig zijn.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vindt dat de Autoriteit de boete niet had mogen opleggen.",
+    "bron": [
+     48
+    ],
+    "citaat": "Verweerder heeft bij het opleggen van de boete onvoldoende oog gehad voor de hiervoor genoemde omstandigheden."
+   },
+   "bruikbare_zin": {
+    "citaat": "niet tot oplegging van een boete had mogen komen",
+    "bron": [
+     48
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij het behandelen van een verzoek om inzage of wissing mogen geen onnodige belemmeringen worden opgeworpen; identificatie moet nodig en zo licht mogelijk zijn.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om inzage of wissing van persoonsgegevens.",
+  "uitzondering": "Bij gevoelige gegevens kunnen meer beveiligingsmaatregelen nodig zijn.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   31
+  ],
+  "citaat": "geen sprake mag zijn van onnodige belemmeringen ten aanzien van de uitoefening van deze rechten."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "privacy statement",
+   "brief van 17 juli 2019",
+   "onderzoeksrapport van de Autoriteit"
+  ],
+  "wat_gaf_doorslag": "DPG vroeg altijd om een kopie en nam een verzoek pas daarna in behandeling."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 12 lid 2 AVG",
+  "art. 83 lid 5 AVG",
+  "art. 83 lid 2 AVG",
+  "art. 5:46 lid 2 Awb",
+  "art. 58 lid 2 AVG",
+  "art. 7 EVRM"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; uitspraak gaat over private uitgever en de Autoriteit Persoonsgegevens",
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar",
+  "ict-informatiebeveiliging"
+ ],
+ "klantuitleg": "De gemeente mag om een kopie van uw identiteitsbewijs vragen als dat echt nodig is om te weten wie u bent. Maar zij moet eerst kijken of het met minder gegevens kan, bijvoorbeeld via e-mail. Bij een verzoek om inzage of verwijdering mag een vaste eis dus niet zomaar; deze uitspraak ging over een uitgever, maar dezelfde regel geldt voor de gemeente.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente partij; het gaat om DPG Media en de Autoriteit Persoonsgegevens",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

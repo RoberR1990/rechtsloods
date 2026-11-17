@@ -1,0 +1,192 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:483",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "kopie-stukken",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "twee personen",
+  "wederpartij": "korpschef van politie, minister van Financiën, minister van Justitie en Veiligheid, burgemeester van Groningen en burgemeester van Leeuwarden",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Twee personen vroegen documenten over henzelf bij het RIEC Noord-Nederland. De Raad van State besliste in hoger beroep over hun zaak tegen de korpschef van politie, twee ministers en de burgemeesters van Groningen en Leeuwarden.",
+ "titel": "Geen AVG-inzage in bestuurlijke documenten RIEC",
+ "kern": {
+  "zin": "De rechter zegt dat het verzoek van de burger om bestuurlijke documenten geen AVG-verzoek om inzage in persoonsgegevens is.",
+  "bron": [
+   40
+  ],
+  "citaat": "De Afdeling is van oordeel dat het verzoek van [appellant] daarmee was gericht op verstrekking van bestuurlijke documenten."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg in mei 2020 om documenten over hem die bij het RIEC Noord-Nederland liggen.",
+   "bron": [
+    28
+   ],
+   "citaat": "verzocht om verstrekking van documenten over hem die berusten bij het RIEC Noord-Nederland."
+  },
+  {
+   "zin": "De verweerders gaven een overzicht van de persoonsgegevens, maar weigerden inzage of openbaarmaking van bestuurlijke documenten.",
+   "bron": [
+    28
+   ],
+   "citaat": "Verweerders hebben het verzoek afgewezen voor zover om inzage of openbaarmaking van bestuurlijke documenten wordt verzocht."
+  },
+  {
+   "zin": "De burger zei dat zijn verzoek uitdrukkelijk op artikel 15 van de AVG was gebaseerd.",
+   "bron": [
+    33
+   ],
+   "citaat": "Hij voert daartoe aan dat zijn verzoek uitdrukkelijk is gebaseerd op artikel 15 van de AVG."
+  },
+  {
+   "zin": "De rechter oordeelde dat het verzoek was gericht op bestuurlijke documenten en geen inzage in persoonsgegevens.",
+   "bron": [
+    40
+   ],
+   "citaat": "De Afdeling is van oordeel dat het verzoek van [appellant] daarmee was gericht op verstrekking van bestuurlijke documenten."
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    44
+   ],
+   "citaat": "Het hoger beroep is ongegrond."
+  },
+  {
+   "zin": "De verweerders hoeven geen proceskosten te vergoeden.",
+   "bron": [
+    45
+   ],
+   "citaat": "Verweerders hoeven geen proceskosten te vergoeden."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep van de burger is ongegrond; de rechtbankuitspraak blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt op dit punt geen inzage via de AVG en hoeft geen proceskosten te betalen.",
+  "bron": [
+   40,
+   45
+  ],
+  "citaat": "geen inzage in persoonsgegevens als bedoeld in artikel 15 van de AVG is beoogd"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Mijn verzoek is uitdrukkelijk een AVG-inzageverzoek op grond van artikel 15.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat met het verzoek geen inzage in persoonsgegevens op grond van artikel 15 van de AVG is beoogd.",
+    "bron": [
+     40
+    ],
+    "citaat": "met dat verzoek geen inzage in persoonsgegevens als bedoeld in artikel 15 van de AVG is beoogd"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen inzage in persoonsgegevens als bedoeld in artikel 15 van de AVG is beoogd",
+    "bron": [
+     40
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De rechtbank mocht niet zelf toetsen of mijn verzoek een AVG-verzoek was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat de rechtbank dit juist wel zelf mocht beoordelen.",
+    "bron": [
+     36
+    ],
+    "citaat": "de rechtbank daarom terecht ambtshalve beoordeeld of het verzoek een inzageverzoek was op grond van artikel 15 van de AVG."
+   },
+   "bruikbare_zin": {
+    "citaat": "terecht ambtshalve beoordeeld of het verzoek een inzageverzoek was",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De rechter had prejudiciële vragen aan het Hof van Justitie moeten stellen over artikel 15 van de AVG.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ziet geen aanleiding voor die vragen, omdat de burger niet om inzage in persoonsgegevens heeft verzocht.",
+    "bron": [
+     42
+    ],
+    "citaat": "Alleen al omdat [appellant] niet heeft verzocht om inzage in persoonsgegevens"
+   },
+   "bruikbare_zin": {
+    "citaat": "Alleen al omdat [appellant] niet heeft verzocht om inzage in persoonsgegevens",
+    "bron": [
+     42
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een verzoek dat wel op de AVG is gebaseerd, maar feitelijk om bestuurlijke documenten gaat, is geen verzoek om inzage in persoonsgegevens op grond van artikel 15 van de AVG.",
+  "type": "regel",
+  "reikwijdte": "Als een verzoek wel op de AVG is gebaseerd, maar feitelijk om bestuurlijke documenten gaat.",
+  "uitzondering": "Als het verzoek wel is gericht op inzage in persoonsgegevens.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   40
+  ],
+  "citaat": "geen inzage in persoonsgegevens als bedoeld in artikel 15 van de AVG is beoogd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De bewoordingen van het verzoek en de toelichting van de burger op de zitting."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2024:2891",
+   "ECLI:NL:RVS:2025:3844"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 15 Algemene verordening gegevensbescherming",
+  "art. 34 Uitvoeringswet Algemene verordening gegevensbescherming",
+  "art. 1:3 lid 3 Algemene wet bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Beoordeel eerst of een verzoek om documenten gaat over persoonsgegevens of over bestuurlijke stukken.",
+   "raakt": "privacy-fg",
+   "bron": [
+    40
+   ],
+   "citaat": "De Afdeling is van oordeel dat het verzoek van [appellant] daarmee was gericht op verstrekking van bestuurlijke documenten."
+  },
+  {
+   "actie": "Behandel een verzoek om bestuurlijke documenten als een Wob-verzoek, niet als een AVG-verzoek.",
+   "raakt": "woo-openbaarheid",
+   "bron": [
+    40
+   ],
+   "citaat": "Het verzoek van [appellant] is daarentegen enkel een Wob-verzoek."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "woo-openbaarheid"
+ ],
+ "klantuitleg": "De AVG geeft u inzage in uw persoonsgegevens, niet in bestuurlijke documenten. Als u stukken wilt, vraag die dan via de Wob op. Vraagt u echt om uw eigen persoonsgegevens, dan kan de AVG wel gelden.",
+ "gemeente": "Leeuwarden",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

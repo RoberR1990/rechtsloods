@@ -1,0 +1,43 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:3712",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "parkeerder", "wederpartij": "gemeente Breda", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "De parkeerder kreeg twee naheffingsaanslagen parkeerbelasting in Breda. Hij ging tegen beide in beroep bij de rechtbank Zeeland-West-Brabant, tegen de gemeente Breda.",
+ "titel": "Verkeerde zone betaald in Breda: beroep van parkeerder verloren",
+ "kern": {"zin": "De rechter vond de zones duidelijk genoeg, dus de aanslag blijft staan.", "bron": [28], "citaat": "aannemelijk heeft gemaakt dat aan bovenstaand kenbaarheidsvereiste is voldaan"},
+ "samenvatting": [
+  {"zin": "Parkeercontroleurs zagen dat er te weinig parkeerbelasting was betaald voor de auto in Breda.", "bron": [16], "citaat": "geconstateerd dat te weinig parkeerbelasting was voldaan"},
+  {"zin": "De parkeerder zei dat de zones niet duidelijk waren en dat hij te goeder trouw handelde.", "bron": [26], "citaat": "dat ter plaatse onvoldoende duidelijk is dat sprake is van twee parkeerzones"},
+  {"zin": "Volgens de gemeente waren er twee zones, met borden aan beide kanten van de weg.", "bron": [28], "citaat": "dit ook middels verschillende borden aan beide zijden wordt aangegeven"},
+  {"zin": "De rechter vond dat de parkeerder zelf had moeten uitzoeken in welke zone hij stond.", "bron": [28], "citaat": "om voorafgaand aan of bij aanvang van het parkeren te onderzoeken in welke zone hij parkeerde"},
+  {"zin": "Eén aanslag was al uit coulance vernietigd, en de andere blijft staan.", "bron": [30], "citaat": "één van de twee naheffingsaanslagen reeds uit coulance vernietigd door de heffingsambtenaar"},
+  {"zin": "Het beroep tegen de vernietigde aanslag is niet-ontvankelijk, omdat het niets meer kan opleveren.", "bron": [22], "citaat": "Het beroep kan hierdoor voor belanghebbende niet tot een gunstiger resultaat leiden"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Eén beroep niet-ontvankelijk, het andere ongegrond; aanslag blijft staan.",
+ "gevolg_betrokkene": {"zin": "Voor de overgebleven aanslag blijft hij 2,30 euro belasting en 61,65 euro kosten betalen.", "bron": [17], "citaat": "Iedere naheffingsaanslag bestaat uit een bedrag aan belasting van € 2,30 en € 61,65 aan kosten"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "borden-onduidelijk", "burger_zegt": "De zones waren niet duidelijk en hij handelde te goeder trouw.", "oordeel": "verworpen", "waarom": {"zin": "De rechter vond de zones duidelijk genoeg; het was zijn taak om na te gaan welke zone gold.", "bron": [28], "citaat": "aannemelijk heeft gemaakt dat aan bovenstaand kenbaarheidsvereiste is voldaan"}, "bruikbare_zin": {"citaat": "Op de parkeerder rust dan ook een onderzoeksplicht", "bron": [27]}},
+  {"arg": "wel-betaald-fout-zone-kenteken", "burger_zegt": "Hij had een dagkaart gekocht en dus betaald.", "oordeel": "verworpen", "waarom": {"zin": "Hij had een dagkaart voor de andere zone, maar dat telde niet: hij betaalde te weinig.", "bron": [29], "citaat": "ondanks het kopen van een dagkaart voor zone 21896, te weinig parkeerbelasting voldaan"}, "bruikbare_zin": {"citaat": "De parkeerbelasting is een zogenoemde objectieve belasting, waarbij opzet, schuld en intentie geen rol spelen", "bron": [30]}}
+ ],
+ "rechtsregel": {"zin": "Parkeerbelasting is objectief: opzet, schuld en goede trouw tellen niet mee.", "type": "regel", "reikwijdte": "naheffing parkeerbelasting in Breda", "uitzondering": null, "herkomst": "oordeel rechter", "bron": [30], "citaat": "De parkeerbelasting is een zogenoemde objectieve belasting, waarbij opzet, schuld en intentie geen rol spelen."},
+ "bewijs": {"bewijslast_bij": "wederpartij", "bewijsmiddelen": ["controle door parkeercontroleurs", "stukken uit het dossier"], "wat_gaf_doorslag": "Borden aan beide kanten van de weg lieten twee verschillende zones zien."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "bevestigt", "eerdere": []},
+ "wetsartikelen": ["art. 225 lid 2 Gemeentewet", "art. 1 aanhef en onder a Verordening parkeerbelastingen Breda 2024"],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter vond de kenbaarheid voldoende; geen tekortkoming van de gemeente benoemd",
+ "raakt": ["bezwaar", "tarief-naheffing", "klantcontact"],
+ "klantuitleg": "U moet betalen voor de zone waar uw auto staat, en het is uw taak om die zone na te gaan. Staat u toch in de verkeerde zone, dan blijft de naheffing meestal staan, ook als u te goeder trouw was. Controleer daarom bij het parkeren altijd het bord van de zone en de tarieven.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

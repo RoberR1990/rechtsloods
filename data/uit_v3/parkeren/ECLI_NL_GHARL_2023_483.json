@@ -1,0 +1,140 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2023:483",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "vergunninghouder (kentekenhouder) met gemachtigde",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een vergunninghouder kreeg in Amersfoort een boete van € 95 voor parkeren op een plek voor vergunninghouders zonder vergunning voor dat voertuig. Hij ging in hoger beroep tegen de officier van justitie bij het Gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Boete blijft: kenteken van vergunninghouder was niet geactiveerd",
+ "kern": {
+  "zin": "Het hof vindt de boete terecht, omdat het kenteken niet was geactiveerd en de vergunning daardoor op dat moment niet gold.",
+  "bron": [
+   31
+  ],
+  "citaat": "Gelet hierop was ten tijde van de gedraging geen sprake van een geldige vergunning"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete van € 95 voor parkeren op een plek voor vergunninghouders zonder vergunning voor dat voertuig.",
+   "bron": [
+    20
+   ],
+   "citaat": "parkeren op parkeerplaats vergunninghouders (bord E9) zonder vergunning voor dat voertuig"
+  },
+  {
+   "zin": "De gemachtigde zei dat de parkeerder wel een vergunning had en dat er waarschijnlijk problemen waren bij de overstap naar een digitaal systeem.",
+   "bron": [
+    21
+   ],
+   "citaat": "de betrokkene ten tijde van de gedraging over een vergunning beschikte"
+  },
+  {
+   "zin": "Uit de stukken van de ambtenaar bleek dat de vergunning bestond, maar dat er geen kenteken aan gekoppeld was.",
+   "bron": [
+    28
+   ],
+   "citaat": "kon zien dat er vanaf 1 mei 2020 een vergunning was, maar dat er geen kentekens hieraan gekoppeld waren"
+  },
+  {
+   "zin": "Het hof stelde vast dat een vergunning voor meerdere kentekens pas werkt als een kenteken is geactiveerd.",
+   "bron": [
+    31
+   ],
+   "citaat": "een parkeervergunning voor meerdere kentekens ter plaatse slechts werking heeft na activatie van een van de kentekens"
+  },
+  {
+   "zin": "Er was niet gebleken dat dit kenteken geactiveerd was, dus de boete bleef staan en er kwam geen vergoeding van proceskosten.",
+   "bron": [
+    32
+   ],
+   "citaat": "Voor toekenning van een proceskostenvergoeding bestaat geen aanleiding"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Vergunning bestond, maar kenteken was niet geactiveerd; boete blijft",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 95 blijft staan en er komt geen vergoeding van proceskosten.",
+  "bron": [
+   32
+  ],
+  "citaat": "Voor toekenning van een proceskostenvergoeding bestaat geen aanleiding"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "De parkeerder had een vergunning; het ging waarschijnlijk mis bij de overstap naar het digitale systeem.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het was niet gebleken dat het kenteken van deze auto was geactiveerd.",
+    "bron": [
+     31
+    ],
+    "citaat": "Gesteld noch anderszins gebleken is dat het kenteken van dit voertuig ten tijde van de gedraging was geactiveerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "een parkeervergunning voor meerdere kentekens ter plaatse slechts werking heeft na activatie van een van de kentekens",
+    "bron": [
+     31
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeervergunning voor meerdere kentekens werkt alleen als een van de kentekens is geactiveerd.",
+  "type": "regel",
+  "reikwijdte": "Vergunningen voor een plek met meerdere gekoppelde kentekens waarbij activatie nodig is, zoals hier in Amersfoort",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   31
+  ],
+  "citaat": "een parkeervergunning voor meerdere kentekens ter plaatse slechts werking heeft na activatie van een van de kentekens"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "scan in systeem City Control",
+   "mailwisseling met Parkeerservice Amersfoort",
+   "schermafdruk van de parkeerapp",
+   "brief aan vergunninghouders"
+  ],
+  "wat_gaf_doorslag": "Er was niets dat liet zien dat het kenteken was geactiveerd; de schermafdruk liet alleen twee gekoppelde kentekens zien."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 24 lid 1 aanhef en onder g RVV 1990"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zeg vergunninghouders met meer kentekens duidelijk dat ze zelf een kenteken moeten activeren, want zonder activatie is er geen parkeerrecht.",
+   "raakt": "communicatie",
+   "bron": [
+    30
+   ],
+   "citaat": "Zonder geactiveerd kenteken heeft u geen parkeerrecht"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "communicatie"
+ ],
+ "klantuitleg": "Heeft u een vergunning voor meerdere kentekens, dan moet u meestal zelf een kenteken activeren voordat u parkeert. Is dat niet gebeurd, dan telt de vergunning op dat moment niet en kan een boete terecht zijn. Kreeg u een boete, kijk dan in uw app of portal of het kenteken geactiveerd was en voeg een afdruk toe aan uw beroep.",
+ "gemeente": "Amersfoort",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,161 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "reden_leeg_actie": null,
+ "ecli": "ECLI:NL:GHARL:2019:1648",
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg een boete van € 90 voor parkeren voor een in- of uitrit in Groningen. Hij ging in hoger beroep bij het gerechtshof Arnhem-Leeuwarden tegen de officier van justitie.",
+ "titel": "Parkeren op een uitrit is iets anders dan ervoor parkeren",
+ "kern": {
+  "zin": "De rechter vernietigde de boete, omdat het verbod alleen geldt voor parkeren voor een in- of uitrit en niet voor parkeren op de in- of uitrit.",
+  "bron": [
+   28
+  ],
+  "citaat": "Grammaticaal gezien is op de in- of uitrit parkeren niet hetzelfde als voor de in- of uitrit parkeren"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete van € 90 voor parkeren voor een in- of uitrit aan de Bornholmstraat in Groningen.",
+   "bron": [
+    20
+   ],
+   "citaat": "parkeren voor een in- en/of uitrit"
+  },
+  {
+   "zin": "De parkeerder gaf toe dat hij daar stond, maar zei dat hij op de uitrit van een bedrijventerrein stond en niet ervoor.",
+   "bron": [
+    21
+   ],
+   "citaat": "zijn voertuig niet voor, maar op een in- en uitrit van een bedrijventerrein te hebben geparkeerd"
+  },
+  {
+   "zin": "De advocaat-generaal (de aanklager in hoger beroep) vond dat de parkeerder ook strafbaar was, omdat zijn auto vóór de rest van de uitrit stond.",
+   "bron": [
+    27
+   ],
+   "citaat": "nu het voertuig op die wijze vóór de rest van de uitrit stond"
+  },
+  {
+   "zin": "De rechter stelde vast dat de plek een in- of uitrit was, ook al werd die door een vrachtwagen geblokkeerd.",
+   "bron": [
+    25
+   ],
+   "citaat": "Dat de toegang tot het bedrijventerrein werd geblokkeerd door een vrachtwagen maakt dit niet anders"
+  },
+  {
+   "zin": "De rechter vond het standpunt van de advocaat-generaal te ruim, omdat het verbod alleen over parkeren voor een in- of uitrit gaat.",
+   "bron": [
+    28
+   ],
+   "citaat": "berust op een te ruime interpretatie van dat verbod"
+  },
+  {
+   "zin": "Daardoor kon niet worden vastgesteld dat de parkeerder iets deed wat verboden was.",
+   "bron": [
+    28
+   ],
+   "citaat": "niet kan worden vastgesteld dat de gedraging is verricht"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete vernietigd; zekerheidsbedrag wordt teruggegeven.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 90 vervalt en het betaalde zekerheidsbedrag wordt teruggegeven.",
+  "bron": [
+   29
+  ],
+  "citaat": "Het tot zekerheid gestelde bedrag moet worden gerestitueerd"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De auto stond op de uitrit en niet voor de uitrit, en dat verbod bestaat niet.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Parkeren op een uitrit valt volgens de rechter niet onder het verbod om ervoor te parkeren.",
+    "bron": [
+     28
+    ],
+    "citaat": "Grammaticaal gezien is op de in- of uitrit parkeren niet hetzelfde als voor de in- of uitrit parkeren"
+   },
+   "bruikbare_zin": {
+    "citaat": "Grammaticaal gezien is op de in- of uitrit parkeren niet hetzelfde als voor de in- of uitrit parkeren",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Door de vrachtwagen was het geen echte uitrit meer.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dat de toegang werd geblokkeerd door een vrachtwagen maakt de plek niet anders dan een uitrit.",
+    "bron": [
+     25
+    ],
+    "citaat": "Dat de toegang tot het bedrijventerrein werd geblokkeerd door een vrachtwagen maakt dit niet anders"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het verbod om te parkeren voor een in- of uitrit geldt niet voor parkeren op de in- of uitrit zelf.",
+  "type": "regel",
+  "reikwijdte": "Art. 24 lid 1 onder b RVV 1990: parkeren op de in- of uitrit zelf",
+  "uitzondering": "Een andere regel, art. 5 Wegenverkeerswet 1994, kan wel van toepassing zijn.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   28
+  ],
+  "citaat": "Grammaticaal gezien is op de in- of uitrit parkeren niet hetzelfde als voor de in- of uitrit parkeren"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "foto's van de plek",
+   "afdruk van Google Street View"
+  ],
+  "wat_gaf_doorslag": "De rechter las het verbod letterlijk: voor een uitrit is niet hetzelfde als op een uitrit."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "nieuw",
+  "eerdere": [
+   "ECLI:NL:GHARL:2018:4543"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 24 lid 1 onder b RVV 1990",
+  "art. 11 Wahv",
+  "art. 5 WVW 1994"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij een boete voor een in- of uitrit vast of de auto vóór de uitrit stond of op de uitrit zelf.",
+   "raakt": "bezwaar",
+   "bron": [
+    28
+   ],
+   "citaat": "Grammaticaal gezien is op de in- of uitrit parkeren niet hetzelfde als voor de in- of uitrit parkeren"
+  }
+ ],
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een boete voor parkeren voor een in- of uitrit klopt niet als uw auto op de uitrit zelf stond, al kan een andere regel dan wel gelden. Dat een vrachtwagen de uitrit versperde, verandert daar niets aan. Foto's van waar uw auto precies stond helpen bij bezwaar.",
+ "gemeente": "Groningen",
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,184 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2022:4283",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "kentekenhouder (parkeerder), met gemachtigde",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg een boete van € 95 voor parkeren in een parkeerverbodszone op Schiphol. De parkeerder ging in hoger beroep bij het gerechtshof Arnhem-Leeuwarden tegen de officier van justitie.",
+ "titel": "Boete voor parkeren op rode strook bij Schiphol blijft staan",
+ "kern": {
+  "zin": "De boete blijft: de parkeerder moest laten zien dat de rode strook een parkeerplek was, en dat lukte niet omdat een aanduiding ontbrak.",
+  "bron": [
+   25
+  ],
+  "citaat": "geen aanduiding te zien waaruit kan worden afgeleid dat deze plek een voor parkeren bestemd weggedeelte is"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete van € 95 voor parkeren in de parkeerverbodszone op de Vertrekpassage van Schiphol.",
+   "bron": [
+    18
+   ],
+   "citaat": "parkeren in strijd met parkeerverbod/parkeerverbodszone (bord E1)"
+  },
+  {
+   "zin": "De parkeerder zei dat de auto op een van de rode parkeerstroken stond, en niet op de rijbaan.",
+   "bron": [
+    19
+   ],
+   "citaat": "het voertuig op één van de parkeerstroken tussen vertrekhallen 2 en 3 heeft geparkeerd"
+  },
+  {
+   "zin": "Een handhaver verklaarde dat de auto in de verbodszone stond en dat hij geen laden of lossen zag.",
+   "bron": [
+    22
+   ],
+   "citaat": "Ik, verbalisant, zag geen laad- of losactiviteiten."
+  },
+  {
+   "zin": "De rechter zei dat parkeren in zo'n zone alleen mag op een plek die daarvoor bestemd is, en dat de parkeerder dat moest aannemelijk maken.",
+   "bron": [
+    25
+   ],
+   "citaat": "is het aan de gemachtigde om aannemelijk te maken dat sprake is van een voor parkeren bestemd weggedeelte"
+  },
+  {
+   "zin": "Ook iemand naar de incheckbalie brengen telt als parkeren, en niet als even uitstappen.",
+   "bron": [
+    24
+   ],
+   "citaat": "is niet aan te merken als het onmiddellijk laten uitstappen van een passagier"
+  },
+  {
+   "zin": "De rechter bevestigt de uitspraak van de kantonrechter en wijst de proceskosten af.",
+   "bron": [
+    26
+   ],
+   "citaat": "heeft de kantonrechter het beroep terecht ongegrond verklaard"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete blijft staan; geen vergoeding van proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de boete van € 95 betalen en krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   31,
+   18
+  ],
+  "citaat": "wijst het verzoek om vergoeding van proceskosten af"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Hij begeleidde zijn moeder naar de incheckbalie en dat is geen parkeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat iemand naar de balie begeleiden niet hetzelfde is als direct uit laten stappen, dus het was parkeren.",
+    "bron": [
+     24
+    ],
+    "citaat": "is niet aan te merken als het onmiddellijk laten uitstappen van een passagier"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het naar de incheckbalie begeleiden van een passagier is niet aan te merken als het onmiddellijk laten uitstappen van een passagier",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "De rode stroken met belijning lijken voor de gewone weggebruiker op parkeervakken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een andere kleur asfalt naast de rijbaan is niet genoeg; er moet een verdere aanduiding zijn.",
+    "bron": [
+     25
+    ],
+    "citaat": "is onvoldoende om aan te nemen dat sprake is van een parkeerstrook"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen aanduiding te zien waaruit kan worden afgeleid dat deze plek een voor parkeren bestemd weggedeelte is",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De auto stond niet op de rijbaan maar op een ander weggedeelte, dus het parkeerverbod gold daar niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het parkeerverbod geldt ook voor de strook; alleen een daarvoor bestemd weggedeelte is een uitzondering.",
+    "bron": [
+     25
+    ],
+    "citaat": "parkeren van een voertuig op een locatie waar een parkeerverbod geldt slechts toegestaan op een daartoe bestemd weggedeelte"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "In een zone met parkeerverbod mag alleen geparkeerd worden op een weggedeelte dat daarvoor bestemd is; wie zich daarop beroept, moet dat aannemelijk maken.",
+  "type": "regel",
+  "reikwijdte": "Zones met parkeerverbod (bord E1); een strook naast de rijbaan met een andere kleur asfalt is niet genoeg",
+  "uitzondering": "Een verdere aanduiding, zoals een bord of markering, die laat zien dat de plek voor parkeren bestemd is.",
+  "herkomst": "wet",
+  "bron": [
+   25
+  ],
+  "citaat": "parkeren van een voertuig op een locatie waar een parkeerverbod geldt slechts toegestaan op een daartoe bestemd weggedeelte"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "aanvullend proces-verbaal van de handhaver",
+   "foto's van de gedraging",
+   "zaakoverzicht"
+  ],
+  "wat_gaf_doorslag": "Op de foto's was geen aanduiding te zien die de strook als parkeerplek aanwees."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:GHARL:2016:3927"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 65 lid 3 RVV 1990",
+  "art. 1 RVV 1990",
+  "art. 3 lid 2 Wahv",
+  "bord E1 RVV 1990"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Geef plekken waar parkeren binnen een parkeerverbodszone is toegestaan een duidelijke aanduiding, zoals een bord of markering",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    25
+   ],
+   "citaat": "Daarvoor is een verdere aanduiding nodig."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "In een zone met parkeerverbod mag u alleen parkeren op een plek die daar duidelijk voor bedoeld is. Een andere kleur asfalt is niet genoeg, en iemand naar de balie brengen telt als parkeren. Kreeg u zo'n boete en stond er wel een bord of markering die de plek als parkeerplek aanwees, maak daar dan foto's van en voeg ze toe aan uw bezwaar.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "zaak op Schiphol; geen gemeente genoemd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

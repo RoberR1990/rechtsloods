@@ -1,0 +1,142 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2022:4138",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (met gemachtigde)",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeerde tegen de gemeente Amsterdam omdat die niet op tijd had beslist op zijn bezwaar over een dwangsom. De zaak ging naar de rechtbank Amsterdam.",
+ "titel": "Beroep niet-ontvankelijk: ingebrekestelling was te vroeg",
+ "kern": {
+  "zin": "De rechtbank verklaarde het beroep niet-ontvankelijk, omdat de ingebrekestelling te vroeg kwam.",
+  "bron": [
+   17,
+   18
+  ],
+  "citaat": "De beslistermijn was immers op het moment van de ingebrekestelling niet verstreken."
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeerder wilde een dwangsom (een vergoeding voor te late besluiten), maar de gemeente wees dat op 26 mei 2021 af.",
+   "bron": [
+    14
+   ],
+   "citaat": "besluit van verweerder van 26 mei 2021 waarin eisers verzoek om een dwangsom is afgewezen"
+  },
+  {
+   "zin": "De parkeerder vond dat de gemeente te laat op zijn bezwaar had beslist en stapte naar de rechter.",
+   "bron": [
+    14
+   ],
+   "citaat": "Eiser heeft verweerder in gebreke gesteld, waarna hij in beroep is gegaan"
+  },
+  {
+   "zin": "De gemeente bracht in deze zaak niets in.",
+   "bron": [
+    13
+   ],
+   "citaat": "Nu verweerder geen stukken heeft ingediend"
+  },
+  {
+   "zin": "De rechter oordeelde dat de ingebrekestelling te vroeg was, en daarmee was het beroep niet-ontvankelijk.",
+   "bron": [
+    17
+   ],
+   "citaat": "Dit betekent dat de ingebrekestelling prematuur is."
+  },
+  {
+   "zin": "Daardoor krijgt de parkeerder geen proceskosten vergoed en geen griffierecht (de bijdrage voor de rechtbank) terug.",
+   "bron": [
+    19
+   ],
+   "citaat": "Voor een proceskostenvergoeding of teruggave van het griffierecht is geen aanleiding."
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep niet-ontvankelijk; geen proceskosten of griffierecht terug",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt geen proceskosten en geen griffierecht terug; de dwangsom is niet inhoudelijk beoordeeld.",
+  "bron": [
+   19,
+   18
+  ],
+  "citaat": "Voor een proceskostenvergoeding of teruggave van het griffierecht is geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De parkeerder zegt dat de gemeente niet tijdig op zijn bezwaar heeft beslist.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente hield zich aan de termijn, want die eindigde pas eind 2021.",
+    "bron": [
+     17
+    ],
+    "citaat": "Dit is voor het verstrijken van de beslistermijn die liep tot 31 december 2021"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dit is voor het verstrijken van de beslistermijn die liep tot 31 december 2021",
+    "bron": [
+     17
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Beroep wegens een uitblijvend besluit kan pas als er een schriftelijke ingebrekestelling is geweest en twee weken zijn verstreken.",
+  "type": "regel",
+  "reikwijdte": "Beroep wegens een besluit dat niet tijdig is genomen",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   15
+  ],
+  "citaat": "twee weken zijn verstreken nadat een schriftelijke ingebrekestelling"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "bezwaarschrift van 28 juni 2021",
+   "ingebrekestelling van 19 augustus 2021"
+  ],
+  "wat_gaf_doorslag": "De ingebrekestelling kwam te vroeg, omdat de beslistermijn nog liep tot eind 2021."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 4:18 Awb",
+  "art. 4:19 lid 1 Awb",
+  "art. 236 lid 2 Gemeentewet",
+  "art. 6:12 lid 2 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Stuur bij beroep de stukken tijdig in, zodat de rechter niet alleen de inbreng van de burger ziet.",
+   "raakt": "bezwaar",
+   "bron": [
+    13
+   ],
+   "citaat": "Nu verweerder geen stukken heeft ingediend, gaat de rechtbank uit van de stukken die eiser heeft overgelegd."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar"
+ ],
+ "klantuitleg": "Wacht de gemeente te lang met een besluit op uw bezwaar, dan kunt u een vergoeding vragen (een dwangsom). Dat kan alleen als de beslistermijn al is verstreken en u de gemeente schriftelijk in gebreke heeft gesteld. Stuurt u dat te vroeg, dan kan de rechter uw beroep niet inhoudelijk behandelen; controleer daarom eerst de termijn.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

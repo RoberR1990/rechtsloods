@@ -1,0 +1,152 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2024:4336",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "echtpaar",
+  "wederpartij": "gemeente Westland",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een man en een vrouw vragen de gemeente Westland om hun gegevens in de Basisregistratie personen (BRP) te wijzigen. De rechtbank Den Haag beoordeelt of de gemeente die wijziging mag weigeren.",
+ "titel": "Geen wijziging van BRP-gegevens door twijfel over identiteit",
+ "kern": {
+  "zin": "De rechtbank wijst het beroep af, omdat niet buiten redelijke twijfel vaststaat dat de nieuwe brondocumenten de juiste gegevens bevatten; daarom hoeft de gemeente de BRP niet te wijzigen.",
+  "bron": [
+   44
+  ],
+  "citaat": "De rechtbank is van oordeel dat dit niet het geval is en zal dat hierna uitleggen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De man en de vrouw vroegen om wijziging van hun gegevens in de BRP; de gemeente Westland wees dat af.",
+   "bron": [
+    11
+   ],
+   "citaat": "de afwijzing van de verzoeken tot wijziging van gegevens in de Basisregistratie personen"
+  },
+  {
+   "zin": "Zij zeiden dat de gemeente ten onrechte geen waarde hecht aan de nieuwe brondocumenten.",
+   "bron": [
+    33
+   ],
+   "citaat": "Door verweerder wordt ten onterechte geen waarde gehecht aan de brondocumenten die zijn overgelegd."
+  },
+  {
+   "zin": "De gemeente vond dat er veel twijfel is, omdat er twee echte sets documenten met verschillende gegevens zijn.",
+   "bron": [
+    37
+   ],
+   "citaat": "Hierdoor bestaat er voldoende twijfel over de thans gestelde identiteit van eiseres."
+  },
+  {
+   "zin": "De rechtbank oordeelt dat niet buiten redelijke twijfel vaststaat dat de nieuwe gegevens juist zijn.",
+   "bron": [
+    44
+   ],
+   "citaat": "De rechtbank is van oordeel dat dit niet het geval is en zal dat hierna uitleggen"
+  },
+  {
+   "zin": "De rechtbank verklaart het beroep ongegrond; de eisers krijgen het griffierecht en de proceskosten niet terug.",
+   "bron": [
+    49
+   ],
+   "citaat": "Eisers krijgen daarom het griffierecht niet terug en krijgen ook geen vergoeding van de proceskosten."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De rechter wijst het beroep af; de BRP-gegevens blijven ongewijzigd.",
+ "gevolg_betrokkene": {
+  "zin": "De gegevens in de BRP blijven ongewijzigd; de eisers krijgen het griffierecht en de proceskosten niet terug.",
+  "bron": [
+   49
+  ],
+  "citaat": "Eisers krijgen daarom het griffierecht niet terug en krijgen ook geen vergoeding van de proceskosten."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "De gegevens in de BRP zijn onjuist en moeten met de nieuwe documenten worden aangepast.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vindt dat de nieuwe documenten niet buiten redelijke twijfel laten zien dat de nieuwe gegevens juist zijn.",
+    "bron": [
+     44
+    ],
+    "citaat": "De rechtbank is van oordeel dat dit niet het geval is en zal dat hierna uitleggen"
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank is van oordeel dat dit niet het geval is en zal dat hierna uitleggen",
+    "bron": [
+     44
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Een paspoort is ook een brondocument; als de gemeente twijfelt, moet zij een deskundige inschakelen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank zegt dat uit de nieuwe documenten niet blijkt hoe de Irakese autoriteiten de gegevens aan de vrouw hebben gekoppeld.",
+    "bron": [
+     45
+    ],
+    "citaat": "kan niet worden opgemaakt hoe is vastgesteld dat de daarop vermelde persoonsgegevens van eiseres zijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "kan niet worden opgemaakt hoe is vastgesteld dat de daarop vermelde persoonsgegevens van eiseres zijn",
+    "bron": [
+     45
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor een wijziging van BRP-gegevens moet buiten redelijke twijfel uit de nieuwe brondocumenten, zo nodig met extra bewijs, volgen dat de nieuwe gegevens juist zijn.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken van burgers om gegevens in de BRP te wijzigen.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   42
+  ],
+  "citaat": "Beoordeeld moet worden of buiten redelijke twijfel uit de overgelegde brondocumenten"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "Iraakse huwelijksakte",
+   "Irakees paspoort",
+   "uittreksel geboortegegevens",
+   "gezichtsvergelijkend onderzoek",
+   "verwantschapsonderzoek"
+  ],
+  "wat_gaf_doorslag": "De twee sets als echt beoordeelde documenten met verschillende gegevens en het ontbreken van uitleg hoe de nieuwe gegevens zijn vastgesteld."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 2.8 Wet Brp"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "De rechtbank wijst het beroep af en noemt geen concrete tekortkoming van de gemeente.",
+ "raakt": [
+  "burgerzaken-brp",
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Uw gegevens in de BRP worden alleen gewijzigd als nieuwe originele bewijzen (zoals een paspoort of akte) vrijwel zeker laten zien dat de nieuwe gegevens juist zijn. Twijfelt de gemeente, dan hoeft zij niet te wijzigen. U kunt nieuwe stukken of een duidelijke uitleg over de buitenlandse documenten sturen en opnieuw om wijziging vragen.",
+ "gemeente": "Westland",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

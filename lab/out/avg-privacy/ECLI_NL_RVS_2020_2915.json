@@ -1,0 +1,162 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2020:2915",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "wissen",
+ "kenmerk": null,
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "gemeente Uithoorn",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De burger vroeg gemeente Uithoorn om zijn persoonsgegevens te wissen. De gemeente wilde eerst dat hij persoonlijk naar het gemeentehuis kwam; de Raad van State beslist in hoger beroep of dat mocht.",
+ "titel": "Gemeente mag bij wisverzoek niet standaard persoonlijke komst eisen",
+ "kern": {
+  "zin": "De eis van de gemeente dat de burger persoonlijk langskwam, was geen redelijke maatregel.",
+  "bron": [
+   30
+  ],
+  "citaat": "De eis van het college was in dit geval daarom geen redelijke maatregel."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente Uithoorn om zijn persoonsgegevens te wissen en om schadevergoeding.",
+   "bron": [
+    21
+   ],
+   "citaat": "Hij heeft het college verzocht zijn persoonsgegevens te wissen en een schadevergoeding te betalen."
+  },
+  {
+   "zin": "De gemeente vond de identiteit niet genoeg vastgesteld met een kopie van een gewaarmerkte paspoortkopie en wilde dat hij persoonlijk langskwam.",
+   "bron": [
+    22
+   ],
+   "citaat": "Het heeft [appellant] verzocht om persoonlijk langs te komen op het gemeentehuis."
+  },
+  {
+   "zin": "De burger vond dat de paspoortkopie en het adres waar hij staat ingeschreven genoeg waren om zijn identiteit te controleren.",
+   "bron": [
+    27
+   ],
+   "citaat": "Met de kopie van een gewaarmerkte kopie van zijn paspoort kon het college zijn identiteit deugdelijk vaststellen."
+  },
+  {
+   "zin": "De rechtbank vond dat de gemeente mocht eisen dat hij persoonlijk kwam.",
+   "bron": [
+    25
+   ],
+   "citaat": "het college in redelijkheid heeft kunnen eisen dat [appellant] zich persoonlijk op het gemeentehuis kwam identificeren"
+  },
+  {
+   "zin": "De Raad van State zegt dat de eis van de gemeente geen redelijke maatregel was.",
+   "bron": [
+    30
+   ],
+   "citaat": "De eis van het college was in dit geval daarom geen redelijke maatregel."
+  },
+  {
+   "zin": "De gemeente moet nu een nieuw besluit nemen.",
+   "bron": [
+    40
+   ],
+   "citaat": "een nieuw besluit te nemen"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Besluit vernietigd; gemeente mocht geen persoonlijke komst eisen.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet een nieuw besluit nemen; zij betaalt € 2.234,53 proceskosten en € 439,00 griffierecht.",
+  "bron": [
+   40,
+   41,
+   42
+  ],
+  "citaat": "een nieuw besluit te nemen"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De burger zei dat de paspoortkopie en zijn inschrijfadres genoeg waren om zijn identiteit te controleren.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De Raad van State oordeelt dat de gemeente zijn identiteit met de kopie kon controleren en geen extra eis mocht stellen.",
+    "bron": [
+     30
+    ],
+    "citaat": "Het college kon aan de hand hiervan zijn identiteit controleren."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het college kon aan de hand hiervan zijn identiteit controleren.",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de gemeente geen reden heeft om aan de identiteit te twijfelen, mag zij geen extra bewijs of persoonlijke komst eisen bij een verzoek om gegevens te wissen.",
+  "type": "regel",
+  "reikwijdte": "Bij AVG-verzoeken tot wissen van persoonsgegevens waar de identiteit met een paspoortkopie controleerbaar is.",
+  "uitzondering": "Bij echte twijfel aan de identiteit mag de gemeente om aanvullende informatie vragen (art. 12 lid 6 AVG).",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   30
+  ],
+  "citaat": "Er bestond daarom geen reden om aanvullende informatie te vragen of aanvullende eisen te stellen."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "kopie van een gewaarmerkte kopie van het paspoort",
+   "inschrijving in de basisregistratie personen",
+   "verklaring van het college ter zitting dat het niet twijfelde aan de identiteit"
+  ],
+  "wat_gaf_doorslag": "Het college zei ter zitting dat het niet twijfelde aan de identiteit van de burger."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2020:2833"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 12 lid 6 AVG",
+  "art. 17 AVG",
+  "art. 4:5 lid 1 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Eis niet standaard dat iemand persoonlijk naar het gemeentehuis komt voor een verzoek om gegevens te wissen.",
+   "raakt": "privacy-fg",
+   "bron": [
+    30
+   ],
+   "citaat": "Het college vraagt standaard aan personen die een verzoek tot het wissen van persoonsgegevens indienen om langs te komen"
+  },
+  {
+   "actie": "Accepteer een kopie van een paspoort als de gemeente geen reden heeft om aan de identiteit te twijfelen.",
+   "raakt": "klantcontact",
+   "bron": [
+    30
+   ],
+   "citaat": "Het overleggen van een kopie van een paspoort wordt bijvoorbeeld in beginsel als een redelijke maatregel aangemerkt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar",
+  "burgerzaken-brp"
+ ],
+ "klantuitleg": "De gemeente mag niet standaard eisen dat u persoonlijk langskomt als u vraagt om uw gegevens te wissen. Een kopie van uw paspoort kan genoeg zijn om te controleren wie u bent; twijfelt de gemeente echt aan uw identiteit, dan mag zij om extra informatie vragen. Laat daarom een duidelijke kopie van uw paspoort zien en vraag om een schriftelijke reactie.",
+ "gemeente": "Uithoorn",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,164 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2020:3951",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg in Amsterdam een naheffingsaanslag (een rekening achteraf) voor parkeerbelasting. De parkeerder zei dat hij aan het laden en lossen was en ging tegen de gemeente Amsterdam in hoger beroep bij het gerechtshof.",
+ "titel": "Even laden en lossen telt alleen bij grote of zware spullen",
+ "kern": {
+  "zin": "Het hof vond de rekening terecht, omdat de parkeerder niet aannemelijk maakte dat de spullen alleen met de auto vervoerd konden worden.",
+  "bron": [
+   33
+  ],
+  "citaat": "niet is voldaan aan de vereisten van ‘onmiddellijk laden en lossen’"
+ },
+ "samenvatting": [
+  {
+   "zin": "De auto stond om 19.12 uur stil op een plek met betaald parkeren, zonder dat er betaald was.",
+   "bron": [
+    18
+   ],
+   "citaat": "stil stond ter hoogte van [A-straat 35] in Amsterdam, zonder dat parkeerbelasting was betaald"
+  },
+  {
+   "zin": "De parkeerder zei dat hij aan het laden en lossen was en dus niet hoefde te betalen.",
+   "bron": [
+    19
+   ],
+   "citaat": "Eiser voert aan dat hij aan het laden en lossen was"
+  },
+  {
+   "zin": "De gemeente vond de rekening terecht.",
+   "bron": [
+    22
+   ],
+   "citaat": "de heffingsambtenaar bevestigend"
+  },
+  {
+   "zin": "Het hof vond dat de parkeerder niet liet zien dat het om zaken ging die niet anders dan per auto konden worden vervoerd.",
+   "bron": [
+    33
+   ],
+   "citaat": "belanghebbende heeft onvoldoende feiten en omstandigheden gesteld die de conclusie rechtvaardigen"
+  },
+  {
+   "zin": "De uitleg van de parkeerder over de doos en de tas was te algemeen.",
+   "bron": [
+    33
+   ],
+   "citaat": "door belanghebbende in beroep en hoger beroep is gesteld is voor die conclusie"
+  },
+  {
+   "zin": "Het hoger beroep was dus ongegrond.",
+   "bron": [
+    36
+   ],
+   "citaat": "het hoger beroep van belanghebbende ongegrond is"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Rekening blijft staan; hof bevestigt de uitspraak van de rechtbank.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffingsaanslag betalen en krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   40,
+   38
+  ],
+  "citaat": "Het Hof bevestigt de uitspraak van de rechtbank."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Ik was aan het laden en lossen en moest daarom niet betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De parkeerder liet niet zien dat de doos en de tas zo groot of zwaar waren dat ze niet anders dan per auto konden worden vervoerd.",
+    "bron": [
+     33
+    ],
+    "citaat": "belanghebbende heeft onvoldoende feiten en omstandigheden gesteld die de conclusie rechtvaardigen"
+   },
+   "bruikbare_zin": {
+    "citaat": "te algemeen van aard",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente had een redelijke tijdsmarge moeten wachten om te kunnen zien dat ik aan het laden was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechtbank, waar het hof zich bij aansloot, bestaat zo'n verplichting niet.",
+    "bron": [
+     29
+    ],
+    "citaat": "Uit de rechtspraak volgt dat een dergelijke verplichting niet bestaat"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Laden en lossen is alleen vrij van betaling als het gaat om zaken die niet of bezwaarlijk anders dan per auto gehaald of gebracht kunnen worden.",
+  "type": "regel",
+  "reikwijdte": "Stilstaan op een betaalplek om zaken in of uit te laden.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   27
+  ],
+  "citaat": "niet of bezwaarlijk op een andere wijze dan per auto kunnen worden gehaald of gebracht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring van de parkeerder ter zitting"
+  ],
+  "wat_gaf_doorslag": "De parkeerder wist niet meer wat er precies in de doos en tas zat en gaf een te algemene uitleg."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2014:445",
+   "ECLI:NL:GHAMS:2017:4311",
+   "ECLI:NL:GHAMS:2018:144"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2 onder a Verordening Parkeerbelasting 2018 Amsterdam",
+  "art. 8:75 Awb",
+  "art. 8:108 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij bezwaar om een concrete omschrijving van wat is geladen, met omvang en gewicht, als iemand zich op laden en lossen beroept.",
+   "raakt": "bezwaar",
+   "bron": [
+    30
+   ],
+   "citaat": "niet meer te weten wat de inhoud verder was"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Even stilstaan om te laden of te lossen is alleen vrij van betalen als het om grote of zware spullen gaat die u niet anders kunt vervoeren. U moet dat zelf kunnen laten zien. Bezwaar heeft alleen zin als u precies kunt uitleggen wat u laadde en waarom dat niet anders kon.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

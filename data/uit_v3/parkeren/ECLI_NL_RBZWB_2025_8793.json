@@ -1,0 +1,158 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:8793",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Breda een naheffingsaanslag parkeerbelasting (de rekening achteraf). Hij had in de parkeerapp een andere zone gekozen, en de Rechtbank Zeeland-West-Brabant besliste dat de fout voor zijn rekening komt.",
+ "titel": "Verkeerde zone in de parkeerapp komt voor eigen rekening",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder zelf de juiste zone moet kiezen, ook met een parkeerapp, en dat de fout dus bij hem ligt.",
+  "bron": [
+   28,
+   27
+  ],
+  "citaat": "komt het selecteren van een verkeerde zone daarom voor rekening"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle stelden parkeercontroleurs vast dat er niets was betaald.",
+   "bron": [
+    19
+   ],
+   "citaat": "Tijdens een controle op voornoemde datum en tijd is door parkeercontroleurs geconstateerd dat geen parkeerbelasting was voldaan."
+  },
+  {
+   "zin": "De gemeente rekende 63,15 euro, waarvan 61,65 euro kosten.",
+   "bron": [
+    20
+   ],
+   "citaat": "bestaande uit een bedrag aan belasting van € 1,50 en € 61,65 aan kosten van de naheffingsaanslag"
+  },
+  {
+   "zin": "Hij had de auto in de app aangemeld in zone 21921 en zegt dat hij tussendoor te veel betaalde.",
+   "bron": [
+    26
+   ],
+   "citaat": "De auto stond op 28 augustus 2024 aangemeld in zone 21921 van 09:49 uur tot 14:37 uur."
+  },
+  {
+   "zin": "Hij voerde ook aan dat niet duidelijk was in welke zone hij stond en legde foto’s van de borden over.",
+   "bron": [
+    26
+   ],
+   "citaat": "het voor hem onduidelijk was in welke zone de auto stond geparkeerd"
+  },
+  {
+   "zin": "De rechter zag geen bewijs dat de app of de website verkeerde zonegegevens gaven.",
+   "bron": [
+    28
+   ],
+   "citaat": "het is de rechtbank evenmin gebleken dat daarop onjuist informatie staat"
+  },
+  {
+   "zin": "Volgens de rechter lag de verantwoordelijkheid om de juiste zone vast te stellen bij de parkeerder.",
+   "bron": [
+    27
+   ],
+   "citaat": "Daarbij is het ook de verantwoordelijkheid van de parkeerder om de juiste zone vast te stellen."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de zonekeuze kwam voor zijn rekening.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing van 63,15 euro blijft staan, en hij krijgt het griffierecht niet terug.",
+  "bron": [
+   38,
+   36,
+   20
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij had betaald, maar in een andere zone met een lager tarief, dus de naheffing is niet terecht.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter blijft de zoekplicht bij de parkeerder, ook als de app iets anders aangeeft.",
+    "bron": [
+     27
+    ],
+    "citaat": "ontslaat de parkeerder niet van zijn onderzoeksplicht om de ter plaatse beschikbare informatie over zone-codes"
+   },
+   "bruikbare_zin": {
+    "citaat": "om de ter plaatse beschikbare informatie over zone-codes (bebording) te combineren met de informatie in de app",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "Het bedrag van de naheffing is te hoog.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kosten bleven onder de wettelijke grens, dus de naheffing was niet te hoog.",
+    "bron": [
+     32
+    ],
+    "citaat": "Dit betekent dat de naheffingsaanslag niet buitenproportioneel is."
+   },
+   "bruikbare_zin": {
+    "citaat": "Gelet op het voorgaande oordeelt de rechtbank dat de naheffingsaanslag terecht",
+    "bron": [
+     33
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Van iedere parkeerder op een fiscale parkeerplaats wordt verwacht dat hij zelf onderzoekt of er betaald moet worden.",
+  "type": "regel",
+  "reikwijdte": "parkeerders op fiscale parkeerplaatsen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "van iedereen die parkeert op een fiscale parkeerplaats wordt verwacht dat hij onderzoekt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "foto’s van de borden",
+   "screenshot van de parkeerapp"
+  ],
+  "wat_gaf_doorslag": "De borden op de plek toonden zone 21920, en de parkeerder moest zelf nagaan welke zone gold."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Verordening parkeerbelasting Breda",
+  "art. 3 lid 1 Besluit gemeentelijke parkeerbelastingen"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver feitelijk oordeel over de zonekeuze; de rechter vroeg de gemeente niets",
+ "raakt": [
+  "bezwaar",
+  "betaalapp"
+ ],
+ "klantuitleg": "Volgens de rechter bent u zelf verantwoordelijk voor de juiste zone, ook als de parkeerapp een andere zone voorstelt. Kijk daarom bij de plek naar de borden en kies daarna de juiste zone. Bezwaar heeft op dit punt weinig kans, tenzij u kunt aantonen dat de app of de borden echt verkeerde informatie gaven.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

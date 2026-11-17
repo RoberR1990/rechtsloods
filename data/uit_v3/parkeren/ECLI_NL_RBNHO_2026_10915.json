@@ -1,0 +1,184 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2026:10915",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Alkmaar",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing (de rekening achteraf) van 73,74 euro van de gemeente Alkmaar. De parkeerder ging in beroep bij de rechtbank Noord-Holland; de gemeente werd vertegenwoordigd door Cocensus.",
+ "titel": "Extra parkeerrekening bleef staan na app-storing",
+ "kern": {
+  "zin": "De rechtbank vond de naheffing terecht, omdat de parkeerder niet direct betaalde en de kostenraming voldoende duidelijk was.",
+  "bron": [
+   31,
+   50
+  ],
+  "citaat": "De rechtbank acht het niet aannemelijk dat belanghebbende onverwijld uitvoeringshandelingen heeft verricht"
+ },
+ "samenvatting": [
+  {
+   "zin": "Na een controle op 12 december 2023 kreeg de parkeerder een naheffing van 73,74 euro.",
+   "bron": [
+    21
+   ],
+   "citaat": "Bij controle stelde de parkeercontroleur vast dat geen aangifte van parkeerbelasting voor het parkeren van de auto was gedaan."
+  },
+  {
+   "zin": "De parkeerder zei dat de betaalapp hem uitlogde, zodat hij niet op tijd kon betalen.",
+   "bron": [
+    30
+   ],
+   "citaat": "dat hij plots was uitgelogd en niet meer kon inloggen"
+  },
+  {
+   "zin": "De gemeente vond de naheffing terecht en in lijn met de Gemeentewet.",
+   "bron": [
+    26
+   ],
+   "citaat": "Verweerder stelt zich op het standpunt dat de naheffingsaanslag terecht en in overeenstemming met de Gemeentewet is opgelegd."
+  },
+  {
+   "zin": "Volgens de rechter lag het risico van de app bij de parkeerder, en was de kostenraming voldoende duidelijk.",
+   "bron": [
+    31,
+    50
+   ],
+   "citaat": "komt onder de gegeven omstandigheden naar het oordeel van de rechtbank voor zijn rekening en risico"
+  },
+  {
+   "zin": "Het beroep is ongegrond, dus de rekening blijft staan.",
+   "bron": [
+    56
+   ],
+   "citaat": "Gelet op het voorgaande dient het beroep ongegrond te worden verklaard."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening van 73,74 euro blijft staan, en de parkeerder krijgt geen proceskosten vergoed.",
+  "bron": [
+   56,
+   58
+  ],
+  "citaat": "Gelet op het voorgaande dient het beroep ongegrond te worden verklaard."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De betaalapp logde de parkeerder uit, waardoor die pas laat kon betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag het risico van de app-storing bij de parkeerder.",
+    "bron": [
+     31
+    ],
+    "citaat": "komt onder de gegeven omstandigheden naar het oordeel van de rechtbank voor zijn rekening en risico"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het behoort tot de verantwoordelijkheid van een parkeerder om ervoor te zorgen dat de verschuldigde parkeerbelasting",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De kostenraming was niet inzichtelijk en de kosten zijn te hoog vastgesteld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente de kostenraming voldoende had uitgelegd.",
+    "bron": [
+     50
+    ],
+    "citaat": "de raming voldoende inzichtelijk heeft gemaakt"
+   },
+   "bruikbare_zin": {
+    "citaat": "de raming voldoende inzichtelijk heeft gemaakt",
+    "bron": [
+     50
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De kostenraming zou achteraf zijn gemaakt, en het tarief was zonder actuele raming vastgesteld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat een achteraf gemaakte raming niet betekent dat de kosten niet mochten worden doorberekend.",
+    "bron": [
+     54
+    ],
+    "citaat": "ook indien de kostenraming achteraf zou zijn opgemaakt, betekent dat niet dat bij de naheffing geen kosten"
+   },
+   "bruikbare_zin": {
+    "citaat": "betekent dat niet dat bij de naheffing geen kosten in rekening mochten worden gebracht",
+    "bron": [
+     54
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeerbelasting moet bij aanvang van het parkeren betaald zijn.",
+  "type": "regel",
+  "reikwijdte": "betaald parkeren, ook via een parkeerapp",
+  "uitzondering": "De parkeerder krijgt een redelijke termijn om de parkeerapparatuur in werking te stellen.",
+  "herkomst": "wet",
+  "bron": [
+   29
+  ],
+  "citaat": "moet de parkeerbelasting bij aanvang van het parkeren worden voldaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "tijdstip van de controle (18:45 uur)",
+   "tijdstip van de aanmelding in de app (18:52 uur)"
+  ],
+  "wat_gaf_doorslag": "De zeven minuten tussen de controle en de aanmelding."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2026:24",
+   "ECLI:NL:HR:2002:AD6867"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 Gemeentewet",
+  "art. 2 Besluit gemeentelijke parkeerbelastingen",
+  "art. 3 Besluit gemeentelijke parkeerbelastingen"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Voeg de kostenraming voortaan bij het raadsvoorstel voor het naheffingstarief.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    53
+   ],
+   "citaat": "de kostenraming niet aan het raadsvoorstel van de gemeenteraad gevoegd was"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "betaalapp",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren is terecht als u niet meteen bij het parkeren hebt betaald. Dat geldt ook als de betaalapp niet werkte. Wilt u bezwaar maken, dan helpt het om te laten zien hoe snel u probeerde te betalen.",
+ "gemeente": "Alkmaar",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

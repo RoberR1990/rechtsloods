@@ -1,0 +1,173 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "reden_leeg_actie": null,
+ "dubbel_van": null,
+ "reden_gemeente_leeg": null,
+ "ecli": "ECLI:NL:GHAMS:2016:902",
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bewoner met een parkeervergunning kocht een nieuwe auto en zette de vergunning te laat over op het nieuwe kenteken. Hij ging in hoger beroep tegen de gemeente Amsterdam bij het gerechtshof Amsterdam.",
+ "titel": "Vergunning te laat overgezet naar nieuwe auto: rekening achteraf terecht",
+ "kern": {
+  "zin": "Het hof vond dat de vergunning alleen gold voor het oude kenteken, dus voor de nieuwe auto was gewoon parkeerbelasting verschuldigd.",
+  "bron": [
+   82
+  ],
+  "citaat": "niet over een parkeervergunning beschikte"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner kocht op vrijdag 25 juli 2014 een nieuwe auto; zijn vergunning stond nog op de oude auto.",
+   "bron": [
+    21
+   ],
+   "citaat": "Op (vrijdag) 25 juli 2014 heeft belanghebbende een [merk auto] met kenteken [kenteken 2]"
+  },
+  {
+   "zin": "Een controleur legde voor 25 en 26 juli 2014 twee naheffingsaanslagen (rekeningen achteraf) op.",
+   "bron": [
+    24
+   ],
+   "citaat": "heeft de parkeercontroleur de Naheffingsaanslag 1 op 25 juli 2014 om 20.27 uur en Naheffingsaanslag 2 op 26 juli 2014 om 15.22 opgelegd"
+  },
+  {
+   "zin": "De bewoner zei dat hij geen mogelijkheid had om de vergunning op tijd om te zetten.",
+   "bron": [
+    85
+   ],
+   "citaat": "geen mogelijkheid had om de wijziging door te geven"
+  },
+  {
+   "zin": "Het hof oordeelde dat de vergunning alleen telt voor het kenteken op de vergunning, dus voor de nieuwe auto was de belasting verschuldigd.",
+   "bron": [
+    80
+   ],
+   "citaat": "Indien niet wordt voldaan aan de voorschriften die aan de vergunning zijn verbonden is er geen sprake van parkeren met die vergunning"
+  },
+  {
+   "zin": "Ook als de computer van de bewoner kapot was, kwam dat voor zijn rekening en risico.",
+   "bron": [
+    87
+   ],
+   "citaat": "is dit een omstandigheid die voor rekening en risico van belanghebbende komt"
+  },
+  {
+   "zin": "Het hof vond het hoger beroep ongegrond en bevestigde de uitspraak van de rechtbank.",
+   "bron": [
+    90
+   ],
+   "citaat": "dat de hoger beroepen ongegrond zijn en dat de uitspraak van de rechtbank dient te worden bevestigd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Vergunning gold alleen voor het oude kenteken; beide naheffingen terecht.",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner moet beide naheffingsaanslagen betalen en krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   84,
+   92
+  ],
+  "citaat": "zijn dus, naar het oordeel van het Hof, in overeenstemming met de Verordening Parkeerbelastingen opgelegd"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Ik kon mijn vergunning niet op tijd naar het kenteken van mijn nieuwe auto omzetten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dat de bewoner de vergunning niet kon omzetten, kwam voor zijn rekening en risico, ook als zijn eigen computer niet werkte.",
+    "bron": [
+     87
+    ],
+    "citaat": "is dit een omstandigheid die voor rekening en risico van belanghebbende komt"
+   },
+   "bruikbare_zin": {
+    "citaat": "is dit een omstandigheid die voor rekening en risico van belanghebbende komt",
+    "bron": [
+     87
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Voor één parkeeractie van meer dan een dag mogen niet twee naheffingsaanslagen binnen 24 uur worden opgelegd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Elke aanslag ging over een apart uur parkeren op een andere dag, en bij voortdurend onbetaald parkeren mag een tweede aanslag.",
+    "bron": [
+     89
+    ],
+    "citaat": "Naheffingsaanslag 1 is opgelegd voor het gedurende één uur parkeren op 25 juli 2014"
+   },
+   "bruikbare_zin": {
+    "citaat": "bij voortduring van het onbetaald parkeren een tweede naheffingsaanslag op te leggen",
+    "bron": [
+     89
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeervergunning geldt alleen voor het kenteken op de vergunning; met een ander kenteken moet de parkeerder gewoon betalen.",
+  "type": "regel",
+  "reikwijdte": "Bewonersvergunning in Amsterdam die nog niet is omgezet naar het kenteken van een nieuwe auto.",
+  "uitzondering": null,
+  "herkomst": "lokale verordening",
+  "bron": [
+   80,
+   81
+  ],
+  "citaat": "Indien niet wordt voldaan aan de voorschriften die aan de vergunning zijn verbonden is er geen sprake van parkeren met die vergunning"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "controle door parkeercontroleur",
+   "kentekenregistratie van de vergunning"
+  ],
+  "wat_gaf_doorslag": "De vergunning stond nog op het kenteken van de oude auto."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:1997:AA3336"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 lid 4 Gemeentewet",
+  "art. 1 Verordening Parkeerbelastingen 2014 Amsterdam",
+  "art. 3 Verordening Parkeerbelastingen 2014 Amsterdam",
+  "art. 9 Parkeerverordening 2013 Amsterdam",
+  "art. 36 Parkeerverordening 2013 Amsterdam"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zorg dat vergunninghouders hun kenteken 24 uur per dag online kunnen wijzigen en zeg dat bij de vergunning.",
+   "raakt": "vergunningen",
+   "bron": [
+    25
+   ],
+   "citaat": "kunnen 24 uur per dag online worden gewijzigd in de digitale portal van Cition"
+  }
+ ],
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "klantcontact",
+  "betaalapp"
+ ],
+ "klantuitleg": "Uw parkeervergunning geldt alleen voor het kenteken dat erop staat. Koopt u een andere auto, dan moet u het kenteken eerst laten wijzigen, anders kunt u een rekening achteraf krijgen. Bezwaar heeft weinig kans als de vergunning te laat is omgezet; betaal tot de wijziging rond is gewoon het parkeertarief.",
+ "gemeente": "Amsterdam",
+ "zekerheid": "hoog"
+}

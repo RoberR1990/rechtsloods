@@ -1,0 +1,156 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:5086",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "belastingplicht",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bedrijf (verhuurder van bestelbussen)",
+  "wederpartij": "gemeente Rotterdam (heffingsambtenaar)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bedrijf dat bestelbussen verhuurt, kreeg een naheffing parkeerbelasting voor een bus op een betaald parkeervak. Het bedrijf ging in beroep bij de rechtbank Rotterdam tegen de heffingsambtenaar van de gemeente Rotterdam.",
+ "titel": "Verhuurbedrijf moet naheffing betalen, niet de vorige huurder",
+ "kern": {
+  "zin": "De rechter vindt dat de naheffing bij de kentekenhouder hoort, omdat de bus op het moment van de controle niet verhuurd was.",
+  "bron": [
+   38
+  ],
+  "citaat": "als het voertuig niet is verhuurd op het moment dat de parkeercontroleur constateert"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle op 15 augustus 2023 bleek de bus op een parkeervak te staan zonder betaalde parkeerbelasting.",
+   "bron": [
+    19
+   ],
+   "citaat": "een scanauto heeft geconstateerd dat de bestelbus met kenteken"
+  },
+  {
+   "zin": "Het bedrijf zei dat de naheffing aan de vorige huurder hoort, want die had de bus geparkeerd.",
+   "bron": [
+    34
+   ],
+   "citaat": "maar aan degene die als laatste huurder kan worden aangemerkt"
+  },
+  {
+   "zin": "De gemeente vond dat de huur al voorbij was, dus de regel voor huurders gold niet.",
+   "bron": [
+    35
+   ],
+   "citaat": "omdat deze ziet op een moment dat de huuroverkomst tussen eiseres en de huurder al was beëindigd"
+  },
+  {
+   "zin": "De rechter oordeelt dat het moment van de controle telt, niet het moment waarop de huurder de auto neerzette.",
+   "bron": [
+    38
+   ],
+   "citaat": "ziet dus niet op het moment dat de huurder het voertuig heeft neergezet"
+  },
+  {
+   "zin": "Het doel van de wet is dat duidelijk is wie de naheffing moet betalen.",
+   "bron": [
+    46
+   ],
+   "citaat": "als doel heeft dat duidelijk moet zijn bij wie de naheffingsaanslag kan worden ingevorderd"
+  },
+  {
+   "zin": "De naheffing blijft staan; het bedrijf ontvangt geen griffierecht of proceskosten terug.",
+   "bron": [
+    55
+   ],
+   "citaat": "Dat betekent dat de naheffingsaanslag in stand blijft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan; geen proceskosten voor het bedrijf.",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrijf betaalt de naheffing en krijgt het griffierecht niet terug.",
+  "bron": [
+   55,
+   19
+  ],
+  "citaat": "Eiseres krijgt daarom het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De naheffing hoort bij de vorige huurder, die de bus had geparkeerd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat het moment van de controle bepalend is, niet het moment van het neerzetten.",
+    "bron": [
+     38
+    ],
+    "citaat": "ziet dus niet op het moment dat de huurder het voertuig heeft neergezet"
+   },
+   "bruikbare_zin": {
+    "citaat": "op het moment dat de parkeercontroleur constateert dat sprake is van parkeren",
+    "bron": [
+     38
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Andere gemeenten leggen de naheffing aan de laatste huurder op.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een andere werkwijze van gemeenten elders bindt Rotterdam niet.",
+    "bron": [
+     50
+    ],
+    "citaat": "Dat andere gemeenten het anders doen, betekent niet dat de heffingsambtenaar van de gemeente Rotterdam daaraan is gebonden"
+   },
+   "bruikbare_zin": {
+    "citaat": "De wet en de Verordening dwingen daar niet toe",
+    "bron": [
+     50
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor de naheffing telt het moment waarop de controleur constateert dat er geparkeerd wordt.",
+  "bron": [
+   38
+  ],
+  "citaat": "op het moment dat de parkeercontroleur constateert dat sprake is van parkeren",
+  "type": "regel",
+  "reikwijdte": "Naheffing parkeerbelasting bij verhuur van voertuigen",
+  "uitzondering": "Het voertuig was op het moment van de controle nog verhuurd",
+  "herkomst": "wet"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "scanauto-constatering van 15 augustus 2023"
+  ],
+  "wat_gaf_doorslag": "Het moment van de constatering bepaalde wie de naheffing moest betalen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 5 aanhef onder b Gemeentewet",
+  "art. 225 lid 2 Gemeentewet",
+  "art. 1 Verordening (definitie parkeren)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "bevestigt bestaande werkwijze; geen nieuwe actie nodig",
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een naheffing is terecht als er op het moment van de controle geen parkeerbelasting is betaald. Bij een verhuurde auto kan de huurder soms worden aangesproken, maar niet als die huur op dat moment al voorbij was. Wilt u tegen een naheffing opkomen, maak dan op tijd bezwaar; dat geeft geen zekerheid.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

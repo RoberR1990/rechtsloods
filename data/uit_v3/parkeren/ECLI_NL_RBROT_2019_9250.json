@@ -1,0 +1,177 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2019:9250",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffingsaanslag (de rekening achteraf) van € 63,67, omdat er voor zijn auto niet genoeg was betaald. Hij ging in beroep tegen de gemeente Rotterdam, vertegenwoordigd door de directeur gemeentebelastingen; de rechtbank Rotterdam besliste.",
+ "titel": "Geen bewijs van betaling: parkeerrekening blijft staan",
+ "kern": {
+  "zin": "De rechter oordeelde dat de parkeerder niet had aangetoond dat hij had betaald, zodat de rekening bleef staan.",
+  "bron": [
+   35
+  ],
+  "citaat": "Eiser heeft ook niet op een andere wijze onderbouwd dat er wel parkeerbelasting is voldaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controleur zag dat er voor de auto op de Tandwielstraat niet genoeg was betaald.",
+   "bron": [
+    17
+   ],
+   "citaat": "zonder dat er (voldoende) parkeerbelasting was betaald"
+  },
+  {
+   "zin": "De parkeerder zei eerst dat een kaartje van het dashboard was gevallen, later dat hij het verkeerde kenteken had ingevoerd.",
+   "bron": [
+    34
+   ],
+   "citaat": "Daartoe stelt eiser eerst dat het parkeerkaartje van het dashboard is gevallen"
+  },
+  {
+   "zin": "De gemeente liet op zitting en met foto's zien dat de auto op een fiscale parkeerplaats stond.",
+   "bron": [
+    36
+   ],
+   "citaat": "heeft verweerder met de door hem ter zitting gegeven toelichting"
+  },
+  {
+   "zin": "De rechter ging niet mee met het verweer dat de auto half op de stoep stond.",
+   "bron": [
+    36
+   ],
+   "citaat": "Voor zover eiser stelt dat zijn auto geparkeerd stond met de rechtervoorwiel op de stoep"
+  },
+  {
+   "zin": "Het beroep werd ongegrond verklaard, dus de rekening van € 63,67 blijft staan.",
+   "bron": [
+    41
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de rekening van € 63,67 blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de rekening van € 63,67 betalen en krijgt geen proceskostenvergoeding.",
+  "bron": [
+   39
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "Hij werd niet gehoord, terwijl hij daarom had gevraagd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de gemachtigde zich voldoende beschikbaar had moeten houden voor een hoorzitting.",
+    "bron": [
+     26
+    ],
+    "citaat": "mag van een professioneel gemachtigde worden verlangd dat hij zich voldoende beschikbaar houdt"
+   },
+   "bruikbare_zin": {
+    "citaat": "hij heeft dit niet (met stukken) onderbouwd",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er was geen naheffingsaanslag achtergelaten op de auto.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De aanslag was opgestuurd en daarmee op de juiste manier bekendgemaakt.",
+    "bron": [
+     32
+    ],
+    "citaat": "De (duplicaat) naheffingsaanslag is met dagtekening 6 juni 2018 aan eiser verzonden"
+   },
+   "bruikbare_zin": {
+    "citaat": "De (duplicaat) naheffingsaanslag is met dagtekening 6 juni 2018 aan eiser verzonden",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij had wel betaald, maar met het verkeerde kenteken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de stelling over het kenteken niet onderbouwd.",
+    "bron": [
+     35
+    ],
+    "citaat": "Eisers tweede stelling, dat hij niet het juiste kenteken heeft ingevoerd, is verder op geen enkele wijze onderbouwd"
+   },
+   "bruikbare_zin": {
+    "citaat": "is verder op geen enkele wijze onderbouwd",
+    "bron": [
+     35
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie laat betalen door iemand anders, draagt daar zelf het risico van.",
+  "type": "regel",
+  "reikwijdte": "betaling door een derde die later niet meer te achterhalen is",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   35
+  ],
+  "citaat": "komt voor zijn rekening en risico"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "betaalbewijs (ontbreekt)",
+   "toelichting en foto's van de gemeente"
+  ],
+  "wat_gaf_doorslag": "De gemeente maakte met toelichting en foto's aannemelijk dat er fiscaal werd geparkeerd."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHDHA:2017:4016"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 lid 7 Gemeentewet",
+  "art. 8 lid 1 Invorderingswet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij een hoorverzoek vast hoe vaak en wanneer u horen heeft aangeboden.",
+   "raakt": "bezwaar",
+   "bron": [
+    27
+   ],
+   "citaat": "verweerder de gemachtigde van eiser twee maal in de gelegenheid heeft gesteld om te worden gehoord"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "De rekening voor het parkeren blijft staan als u niet kunt laten zien dat u heeft betaald. Bewaar daarom een betaalbewijs of de bevestiging van de app. Betaling die iemand anders voor u deed, komt voor uw eigen rekening, en zonder bewijs heeft bezwaar weinig kans.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

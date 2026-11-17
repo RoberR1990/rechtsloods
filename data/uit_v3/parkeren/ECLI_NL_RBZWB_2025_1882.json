@@ -1,0 +1,140 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:1882",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Tilburg",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder procedeerde bij de rechtbank Zeeland-West-Brabant tegen de gemeente Tilburg over een naheffingsaanslag parkeerbelasting. Hij zei dat hij alleen even stilstond om op een vriend te wachten.",
+ "titel": "Even wachten op een vriend is toch parkeren",
+ "kern": {
+  "zin": "Wachten in de auto telt als parkeren, ook als het maar even duurt; alleen direct in- of uitstappen valt daarbuiten.",
+  "bron": [
+   24,
+   25
+  ],
+  "citaat": "Het doen staan van een voertuig in een parkeervak is voldoende om belastingplichtig te zijn"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 10 juli 2023 stond de auto stil in Tilburg, zonder dat er parkeerbelasting was betaald.",
+   "bron": [
+    14
+   ],
+   "citaat": "De auto met [kenteken] stond op 10 juli 2023 omstreeks 20:23 uur stil"
+  },
+  {
+   "zin": "De parkeerder zei dat hij niet had geparkeerd, maar alleen stilstond om op een vriend te wachten.",
+   "bron": [
+    23
+   ],
+   "citaat": "Er was namelijk geen sprake van parkeren, maar slechts van stilstaan"
+  },
+  {
+   "zin": "De rechter oordeelde dat hij de auto wel enkele minuten op de parkeerplaats had laten staan.",
+   "bron": [
+    25
+   ],
+   "citaat": "in ieder geval enkele minuten heeft laten stilstaan op de parkeerplaats"
+  },
+  {
+   "zin": "Volgens de rechter betekent onmiddellijk dat een passagier al klaar staat, niet dat de bestuurder nog even moet wachten.",
+   "bron": [
+    25
+   ],
+   "citaat": "Onmiddellijk betekent naar het oordeel van de rechtbank namelijk dat een passagier al klaar staat om in te stappen"
+  },
+  {
+   "zin": "De rechter verklaarde het beroep ongegrond, dus de aanslag bleef staan.",
+   "bron": [
+    30
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de aanslag van € 54,77 blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing van € 54,77 betalen en krijgt zijn griffierecht niet terug.",
+  "bron": [
+   15,
+   28
+  ],
+  "citaat": "naheffingsaanslag parkeerbelasting opgelegd van € 54,77"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Hij stond alleen even stil om op een vriend te wachten, dus hij was niet aan het parkeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat ook wachten met draaiende motor onder parkeren valt.",
+    "bron": [
+     24
+    ],
+    "citaat": "Ook als iemand de auto niet verlaat, maar met draaiende motor staat te wachten"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het doen staan van een voertuig in een parkeervak is voldoende om belastingplichtig te zijn",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een voertuig dat in een parkeervak staat, is belastingplichtig, ook als het maar kort staat.",
+  "type": "regel",
+  "reikwijdte": "stilstaan in een betaald parkeervak, ook kort of met draaiende motor",
+  "uitzondering": "direct in- of uitstappen, laden of lossen",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "Het doen staan van een voertuig in een parkeervak is voldoende om belastingplichtig te zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van de parkeerder in het beroepschrift"
+  ],
+  "wat_gaf_doorslag": "De eigen verklaring van de parkeerder dat hij enkele minuten stilstond."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "art. 1 aanhef en onder a Verordening op de heffing en invordering van parkeerbelastingen 2023"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg aan klanten uit dat wachten in de auto op een parkeervak ook als parkeren geldt, ook kort en met draaiende motor.",
+   "raakt": "klantcontact",
+   "bron": [
+    24
+   ],
+   "citaat": "Ook als iemand de auto niet verlaat, maar met draaiende motor staat te wachten"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u in een parkeervak op iemand wacht, telt dat als parkeren, ook als u maar even blijft staan. Alleen direct in- of uitstappen valt daar niet onder. Bezwaar heeft weinig kans als u alleen zegt dat u maar even stilstond.",
+ "gemeente": "Tilburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

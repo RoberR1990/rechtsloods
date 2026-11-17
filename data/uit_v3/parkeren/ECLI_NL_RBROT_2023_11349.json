@@ -1,0 +1,132 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:11349",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bedrijf procedeerde bij de rechtbank Rotterdam tegen de gemeente Rotterdam. Het ging om een naheffing (de rekening achteraf) voor parkeren zonder betaling, terwijl het bedrijf al voor een andere zone had betaald.",
+ "titel": "Betaald maar verkeerde zone: toch extra bedrag te betalen",
+ "kern": {
+  "zin": "De rechter houdt de naheffing in stand, omdat de wet een vast bedrag toestaat ook na eerdere betaling.",
+  "bron": [
+   21
+  ],
+  "citaat": "ongeacht wat overigens al zou zijn betaald"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het bedrijf kreeg een naheffing, omdat de auto in Rotterdam zonder betaling stond geparkeerd.",
+   "bron": [
+    17
+   ],
+   "citaat": "stond geparkeerd op locatie Honingerdijk te Rotterdam zonder dat er aan de betaalplicht is voldaan"
+  },
+  {
+   "zin": "Het bedrijf zegt dat het deels al had betaald en dat de gemeente dat had moeten verrekenen.",
+   "bron": [
+    20
+   ],
+   "citaat": "Eiseres stelt dat zij reeds parkeerbelasting deels heeft voldaan"
+  },
+  {
+   "zin": "Het gekozen zonenummer was fout, waardoor het bedrijf te weinig betaalde.",
+   "bron": [
+    22
+   ],
+   "citaat": "heeft eiseres een verkeerd zonenummer ingevuld"
+  },
+  {
+   "zin": "Volgens de Gemeentewet mag de gemeente standaard een vast bedrag van één uur vorderen.",
+   "bron": [
+    21
+   ],
+   "citaat": "is de heffingsambtenaar bevoegd om bij naheffing standaard een forfaitair bedrag"
+  },
+  {
+   "zin": "De rechtbank wijst het beroep af, dus de naheffing blijft staan.",
+   "bron": [
+    26
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; het extra bedrag van 2,60 euro blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrijf houdt de naheffing en krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   26,
+   24
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Het bedrijf had al deels betaald, dus de gemeente had dat moeten verrekenen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een eigen fout met het zonenummer telt hier tegen het bedrijf.",
+    "bron": [
+     22
+    ],
+    "citaat": "heeft eiseres een verkeerd zonenummer ingevuld"
+   },
+   "bruikbare_zin": {
+    "citaat": "De situatie van eiseres komt hiermee niet overeen",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een naheffing mag de gemeente een vast bedrag heffen, ook als er al is betaald.",
+  "type": "regel",
+  "reikwijdte": "naheffing parkeerbelasting, ook bij eerdere betaling in een andere zone",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   21
+  ],
+  "citaat": "ongeacht wat overigens al zou zijn betaald"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Het verkeerde zonenummer dat het bedrijf zelf had ingevuld."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHDHA:2021:2134",
+   "ECLI:NL:HR:2019:56",
+   "ECLI:NL:HR:2016:316",
+   "ECLI:NL:RBZWB:2022:4974"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234, derde lid, Gemeentewet"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver bevestiging van een bestaande bevoegdheid; geen verwijt aan de gemeente",
+ "raakt": [
+  "tarief-naheffing",
+  "klantcontact"
+ ],
+ "klantuitleg": "Heeft u een deel van de parkeerkosten al betaald, maar in de verkeerde zone of met een verkeerd kenteken, dan kan de rekening toch blijven staan. De gemeente mag dan een vast bedrag van één uur vragen, ook als u al iets betaalde. Met bewijs van uw betaling kunt u bezwaar maken; dat geeft weinig kans als de fout bij u lag.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,153 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2026:2851",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (student)",
+  "wederpartij": "gemeente Groningen",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder ging in hoger beroep tegen de gemeente Groningen. Het ging om een rekening achteraf voor parkeren, bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Na twee uur opnieuw betalen als langer parkeren mag",
+ "kern": {
+  "zin": "Het hof vond de rekening achteraf terecht, omdat langer dan 2 uur staan was toegestaan en daarvoor opnieuw betaald moest worden.",
+  "bron": [
+   42
+  ],
+  "citaat": "Naar het oordeel van het Hof is de naheffingsaanslag terecht aan belanghebbende opgelegd."
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder betaalde bij de automaat voor het parkeren van 10:20 tot 12:15 uur.",
+   "bron": [
+    18
+   ],
+   "citaat": "heeft bij de parkeerautomaat € 5,18 aan parkeerbelasting betaald voor 8 februari 2023"
+  },
+  {
+   "zin": "Om 15:10 uur zag een scanauto dat er voor dat moment niet was betaald, en de parkeerder kreeg een rekening achteraf (naheffingsaanslag).",
+   "bron": [
+    19
+   ],
+   "citaat": "is met behulp van een scanauto geconstateerd dat voor het betreffende tijdstip geen parkeerbelasting was betaald"
+  },
+  {
+   "zin": "De parkeerder zei dat een tentamen uitliep en dat hij tussendoor niets kon bijbetalen.",
+   "bron": [
+    21
+   ],
+   "citaat": "de timer van de parkeerautomaat verlopen en kon ik hier tussentijds niets aan veranderen"
+  },
+  {
+   "zin": "De parkeerder vond ook dat een maximale tijd om te betalen hetzelfde is als een maximale parkeertijd, zodat de rekening niet had gemogen.",
+   "bron": [
+    40
+   ],
+   "citaat": "dat de naheffingsaanslag ten onrechte is opgelegd nu niet valt in te zien waarom"
+  },
+  {
+   "zin": "De gemeente zei dat het ging om betaald parkeren voor telkens 2 uur.",
+   "bron": [
+    41
+   ],
+   "citaat": "dat sprake is van betaald parkeren voor een periode van telkens 2 uur"
+  },
+  {
+   "zin": "Het hof vond dat langer dan 2 uur staan hier mocht, dus dat na elke 2 uur opnieuw betalen nodig was.",
+   "bron": [
+    42
+   ],
+   "citaat": "is toegestaan om de auto langer dan 2 uur op de bewuste plek te laten staan"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; rekening achteraf blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de rekening achteraf betalen en krijgt geen vergoeding van griffierecht of proceskosten.",
+  "bron": [
+   46
+  ],
+  "citaat": "Het Hof ziet geen aanleiding voor vergoeding van het griffierecht of een veroordeling in de proceskosten."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Een maximale tijd om te betalen is hetzelfde als een maximale parkeertijd, dus achteraf rekenen mag niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Hier mocht de auto langer dan 2 uur blijven staan, dus er was geen maximale parkeerduur.",
+    "bron": [
+     42
+    ],
+    "citaat": "Er is in het onderhavige geval dus geen sprake van een situatie waarin parkeren na het verstrijken van de maximale parkeerduur niet meer is toegestaan."
+   },
+   "bruikbare_zin": {
+    "citaat": "is toegestaan om de auto langer dan 2 uur op de bewuste plek te laten staan",
+    "bron": [
+     42
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Mag een parkeerder langer blijven staan en kan hij per keer maar voor 2 uur betalen, dan moet hij na elke 2 uur opnieuw betalen.",
+  "type": "regel",
+  "reikwijdte": "Plekken waar per keer voor maximaal 2 uur betaald kan worden en langer staan is toegestaan.",
+  "uitzondering": "Is langer parkeren na een maximale parkeerduur niet toegestaan, dan kan voor die tijd niet achteraf worden geheven (HR 11 maart 2022).",
+  "herkomst": "lokale verordening",
+  "bron": [
+   42
+  ],
+  "citaat": "die zijn auto langer dan 120 minuten laat staan, telkens na 120 minuten voor een aanvullende betaling moet zorgdragen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "scanauto",
+   "betaalbewijs van de parkeerautomaat",
+   "parkeercontroleur"
+  ],
+  "wat_gaf_doorslag": "Langer dan 2 uur staan was toegestaan, dus er moest na 12:15 uur opnieuw betaald worden."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2022:346"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 lid 1 Gemeentewet",
+  "art. 234 Gemeentewet",
+  "art. 1 Verordening parkeerbelastingen Groningen 2023",
+  "art. 2 Verordening parkeerbelastingen Groningen 2023",
+  "art. 6 lid 1 Verordening parkeerbelastingen Groningen 2023"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet in de tarieventabel en op de automaat dat per keer maximaal 2 uur betaald kan worden en daarna opnieuw betaald moet worden.",
+   "raakt": "verordening-beleid",
+   "bron": [
+    42
+   ],
+   "citaat": "De kosten bedragen € 2,50 per uur en er kan per keer (telkens) voor maximaal 2 uur worden betaald."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Kunt u op een plek per keer maar voor 2 uur betalen, maar mag u er langer staan? Dan moet u na die 2 uur opnieuw betalen. Heeft u dat niet gedaan, dan is de rekening achteraf waarschijnlijk terecht en heeft bezwaar weinig kans.",
+ "gemeente": "Groningen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

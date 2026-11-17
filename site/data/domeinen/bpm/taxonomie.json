@@ -1,0 +1,267 @@
+{
+ "heffing": {
+  "label": "Wanneer en hoeveel BPM (heffing en tarief)",
+  "rechtsgang": "Belastingrecht: rechtbank → gerechtshof → Hoge Raad (met prejudiciële vragen aan het Hof van Justitie EU mogelijk)",
+  "anker": "Wet BPM 1992, hoofdstuk heffing (o.a. art. 1, art. 9)",
+  "kleur": "#1F5F8B",
+  "concept": true,
+  "sub": {
+   "registratie-belastbaar-feit": {
+    "label": "Registratie en belastbaar feit (wanneer is BPM verschuldigd)",
+    "anker": "Wet BPM 1992, art. 1",
+    "kenmerk": {
+     "eerste-tenaamstelling": "Eerste tenaamstelling in Nederland",
+     "import-uit-eu": "Auto uit een andere EU-land",
+     "buitenlands-kenteken": "Rijden met buitenlands kenteken",
+     "ex-rental": "Auto uit verhuur (ex-rental)"
+    }
+   },
+   "inwonerschap-gebruik": {
+    "label": "Wonen of gevestigd zijn in Nederland (inwonerschap en gebruik)",
+    "anker": "Wet BPM 1992, art. 1",
+    "kenmerk": {
+     "bewijs-inwoner": "Wie moet bewijzen dat iemand hier woont",
+     "tijdelijk-gebruik": "Tijdelijk gebruik of verhuur"
+    }
+   },
+   "co2-tarief": {
+    "label": "CO2-uitstoot en tarief",
+    "anker": "Wet BPM 1992, art. 9",
+    "kenmerk": {
+     "wltp-nedc": "Meetmethode (WLTP of NEDC)",
+     "herleiding": "Uitstoot herleiden naar een oude meting",
+     "tarief-moment": "Welk tarief geldt (moment van registratie)",
+     "correctie-uitstoot": "Fout in opgegeven uitstoot"
+    }
+   },
+   "nieuw-of-gebruikt": {
+    "label": "Nieuwe of gebruikte auto",
+    "anker": "Wet BPM 1992, art. 9 en art. 16a",
+    "kenmerk": {
+     "tellerstand": "Weinig kilometers (bijna nieuw)",
+     "niet-gebruikt-buitenland": "Nooit gebruikt, wel in het buitenland toegelaten"
+    }
+   },
+   "voertuigsoort": {
+    "label": "Soort voertuig (personenauto, bestelauto, motor)",
+    "anker": "Wet BPM 1992, art. 1",
+    "kenmerk": {
+     "bestelauto": "Bestelauto of grijs kenteken",
+     "motorrijwiel": "Motor",
+     "personenauto": "Personenauto"
+    }
+   },
+   "aangifte-naheffing": {
+    "label": "Aangifte en naheffingsaanslag",
+    "anker": "Wet BPM 1992, art. 1; Algemene wet inzake rijksbelastingen (AWR)",
+    "kenmerk": {
+     "aangifte-te-laat": "Aangifte te laat of niet gedaan",
+     "naheffing-controle": "Naheffing na controle"
+    }
+   },
+   "boeten": {
+    "label": "Boete en verzuim",
+    "anker": "Algemene wet inzake rijksbelastingen (AWR), boeteregels",
+    "kenmerk": {
+     "verzuimboete": "Verzuimboete",
+     "vergrijpboete": "Vergrijpboete (opzet of grove schuld)"
+    }
+   }
+  }
+ },
+ "afschrijving": {
+  "label": "Waarde van een gebruikte auto (afschrijving)",
+  "rechtsgang": "Belastingrecht: rechtbank → gerechtshof → Hoge Raad",
+  "anker": "Wet BPM 1992, art. 10 en Uitvoeringsregeling BPM",
+  "kleur": "#B5651D",
+  "concept": true,
+  "sub": {
+   "forfaitaire-tabel": {
+    "label": "Standaardtabel voor afschrijving (forfaitaire tabel)",
+    "anker": "Wet BPM 1992, art. 10; Uitvoeringsregeling BPM",
+    "kenmerk": {
+     "leeftijdskorting": "Korting op basis van leeftijd",
+     "historische-nieuwprijs": "Nieuwprijs van toen",
+     "bijlage-tabel": "Percentage uit de tabel"
+    }
+   },
+   "koerslijst": {
+    "label": "Prijslijst voor de dagwaarde (koerslijst)",
+    "anker": "Wet BPM 1992, art. 10; Uitvoeringsregeling BPM",
+    "kenmerk": {
+     "eurotax-autotelex": "Eurotax of Autotelex",
+     "afslag-markt": "Afslag voor markt en dealer",
+     "handelsinkoopwaarde": "Handelsinkoopwaarde",
+     "btw-marge": "BTW-auto of margeauto"
+    }
+   },
+   "taxatierapport": {
+    "label": "Taxatierapport van de eigenaar",
+    "anker": "Wet BPM 1992, art. 10; Uitvoeringsregeling BPM",
+    "kenmerk": {
+     "staat-moment": "Staat van de auto op het juiste moment",
+     "taxateur-onafhankelijk": "Onafhankelijkheid taxateur",
+     "taxatiemethode": "Gebruikte taxatiemethode"
+    }
+   },
+   "schade-gebruiksslijtage": {
+    "label": "Schade en slijtage",
+    "anker": "Wet BPM 1992, art. 10",
+    "kenmerk": {
+     "motorschade": "Motorschade",
+     "schadeverleden": "Schadeverleden",
+     "meer-dan-normaal": "Meer dan normale gebruiksschade"
+    }
+   },
+   "afschrijving-bewijslast": {
+    "label": "Wie moet wat bewijzen (bewijslast)",
+    "anker": "Wet BPM 1992, art. 10; Algemene wet bestuursrecht",
+    "kenmerk": {
+     "aannemelijk": "Aannemelijk maken",
+     "getuigen": "Getuigen en eerdere zaken"
+    }
+   },
+   "vermindering-ambtshalve": {
+    "label": "Alsnog een andere methode kiezen (vermindering)",
+    "anker": "Wet BPM 1992, art. 10",
+    "kenmerk": {
+     "marge-keuze": "Alsnog keuze voor inkoopwaarde",
+     "ambtshalve": "Inspecteur had zelf moeten toepassen"
+    }
+   }
+  }
+ },
+ "teruggaaf": {
+  "label": "BPM terugkrijgen (teruggaaf)",
+  "rechtsgang": "Belastingrecht: rechtbank → gerechtshof → Hoge Raad",
+  "anker": "Wet BPM 1992, art. 14a e.v.",
+  "kleur": "#2E7D5B",
+  "concept": true,
+  "sub": {
+   "export-uitvoer": {
+    "label": "Teruggaaf bij export",
+    "anker": "Wet BPM 1992, art. 14a e.v.",
+    "kenmerk": {
+     "aantonen-export": "Export aantonen",
+     "termijn-aanvraag": "Termijn van de aanvraag"
+    }
+   },
+   "teruggaaf-berekening": {
+    "label": "Hoogte van de teruggaaf",
+    "anker": "Wet BPM 1992, art. 14a e.v.",
+    "kenmerk": {
+     "restwaarde": "Restwaarde bij vertrek",
+     "afschrijving-teruggaaf": "Afschrijving bij teruggaaf"
+    }
+   },
+   "teruggaaf-bijzonder": {
+    "label": "Teruggaaf in bijzondere gevallen (bijv. verhuur, oude BPM-regels)",
+    "anker": "Wet BPM 1992, art. 14a e.v. en art. 16a",
+    "kenmerk": {
+     "verhuurauto": "Verhuurauto"
+    }
+   },
+   "vermindering-herziening": {
+    "label": "Vermindering of herziening achteraf",
+    "anker": "Wet BPM 1992",
+    "kenmerk": {}
+   }
+  }
+ },
+ "unierecht-vergoeding": {
+  "label": "Europees recht, rente en schadevergoeding",
+  "rechtsgang": "Belastingrecht: rechtbank → gerechtshof → Hoge Raad; Hof van Justitie EU",
+  "anker": "Art. 110 VWEU; AWR art. 30ha en 30hb; Algemene wet bestuursrecht",
+  "kleur": "#6B3FA0",
+  "concept": true,
+  "sub": {
+   "art-110-vweu": {
+    "label": "Strijd met Europees recht (art. 110 VWEU: geen zwaardere belasting op import)",
+    "anker": "Art. 110 VWEU",
+    "kenmerk": {
+     "gelijke-behandeling": "Ongelijke behandeling van gebruikte import",
+     "doeltreffendheid": "Doeltreffendheidsbeginsel",
+     "gelijkwaardigheid": "Gelijkwaardigheidsbeginsel"
+    }
+   },
+   "prejudiciele-vragen": {
+    "label": "Vragen aan het Europese Hof",
+    "anker": "Art. 267 VWEU",
+    "kenmerk": {}
+   },
+   "belastingrente": {
+    "label": "Rente over te veel betaalde of terug te geven BPM",
+    "anker": "AWR art. 30ha en 30hb",
+    "kenmerk": {
+     "rentevergoeding-30ha": "Rentevergoeding",
+     "belastingrente-teruggaaf": "Belastingrente bij teruggaaf"
+    }
+   },
+   "immateriele-schade": {
+    "label": "Vergoeding voor stress en lange duur (immateriële schade)",
+    "anker": "Algemene wet bestuursrecht, hoofdstuk schadevergoeding; redelijke termijn",
+    "kenmerk": {
+     "redelijke-termijn": "Te lange behandeling (redelijke termijn)",
+     "matiging-cluster": "Lagere vergoeding bij gezamenlijke behandeling"
+    }
+   },
+   "andere-grondrechten": {
+    "label": "Andere rechten (gelijkheid, eigendom, vertrouwen)",
+    "anker": "EVRM; Handvest EU; algemene beginselen van behoorlijk bestuur",
+    "kenmerk": {
+     "vertrouwensbeginsel": "Vertrouwen op eerder standpunt",
+     "gelijkheidsbeginsel": "Gelijke gevallen gelijk behandelen",
+     "eigendomsrecht": "Eigendomsrecht (1e Protocol EVRM)"
+    }
+   }
+  }
+ },
+ "procedure-kosten": {
+  "label": "Procedure en proceskosten",
+  "rechtsgang": "Bezwaar bij de inspecteur → rechtbank → gerechtshof → Hoge Raad",
+  "anker": "Algemene wet bestuursrecht; Besluit proceskosten bestuursrecht; Wet BPM art. 19a",
+  "kleur": "#8A8F98",
+  "concept": true,
+  "sub": {
+   "bezwaar-hoorplicht": {
+    "label": "Bezwaarprocedure en horen",
+    "anker": "Awb, hoofdstuk 7 (bezwaar), art. 7:2 (horen)",
+    "kenmerk": {
+     "hoorplicht-gebrek": "Niet gehoord",
+     "gebrek-passeren": "Gebrek toch laten rusten (art. 6:22 Awb)"
+    }
+   },
+   "proceskostenvergoeding": {
+    "label": "Vergoeding van proceskosten",
+    "anker": "Awb art. 7:15 en 8:75; Besluit proceskosten bestuursrecht; Wet BPM art. 19a",
+    "kenmerk": {
+     "waarde-per-punt": "Waarde per punt",
+     "bijzonder-geval": "Bijzondere omstandigheden",
+     "no-cure-no-pay": "Betaling op basis van no cure no pay",
+     "bezwaarfase": "Kosten van bezwaar"
+    }
+   },
+   "termijnen-ontvankelijkheid": {
+    "label": "Termijnen en ontvankelijkheid",
+    "anker": "Awb, hoofdstukken 6 en 8",
+    "kenmerk": {
+     "te-laat": "Te laat bezwaar of beroep",
+     "belang": "Belang bij de zaak"
+    }
+   },
+   "verweerschrift-bewijs": {
+    "label": "Stukken van de inspecteur en bewijs in de procedure",
+    "anker": "Awb art. 8:42, 8:45",
+    "kenmerk": {
+     "geen-verweerschrift": "Inspecteur dient geen verweerschrift in",
+     "bewijsvoering": "Hoe de rechter bewijs weegt"
+    }
+   },
+   "clusterzaken": {
+    "label": "Massabezwaar en clusters van gelijke zaken",
+    "anker": "Algemene wet bestuursrecht",
+    "kenmerk": {}
+   }
+  }
+ }
+}

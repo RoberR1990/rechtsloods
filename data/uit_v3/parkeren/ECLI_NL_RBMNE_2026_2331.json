@@ -1,0 +1,127 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2026:2331",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente (heffingsambtenaar Belastingsamenwerking)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder kreeg een naheffingsaanslag parkeerbelasting (de rekening achteraf) omdat de auto geen geldig parkeerrecht had. De parkeerder ging in beroep bij de rechtbank Midden-Nederland tegen de heffingsambtenaar van de gemeente.",
+ "titel": "Auto stond zonder geldig parkeerrecht: rekening blijft",
+ "kern": {
+  "zin": "Het beroep is ongegrond: het kenteken was niet gekoppeld aan een vergunning, dus de aanslag is terecht.",
+  "bron": [
+   18
+  ],
+  "citaat": "volgt dat het kenteken [kenteken] niet gekoppeld was aan een parkeervergunning"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een naheffing voor een parkeerplaats in Utrecht volgde, omdat er geen geldig parkeerrecht was.",
+   "bron": [
+    18,
+    17
+   ],
+   "citaat": "was er dus geen geldig parkeerrecht"
+  },
+  {
+   "zin": "De parkeerder zei dat er toen een vergunning was.",
+   "bron": [
+    18
+   ],
+   "citaat": "Volgens eiser had hij een parkeervergunning op het moment van het opleggen van de naheffingsaanslag"
+  },
+  {
+   "zin": "Het vergunningsysteem toonde aan dat het kenteken geen vergunning had.",
+   "bron": [
+    18
+   ],
+   "citaat": "volgt dat het kenteken [kenteken] niet gekoppeld was aan een parkeervergunning"
+  },
+  {
+   "zin": "De parkeerder sprak het overzicht niet tegen, en de rechtbank volgde hem dus niet.",
+   "bron": [
+    18
+   ],
+   "citaat": "Eiser heeft dit niet weersproken."
+  },
+  {
+   "zin": "Het griffierecht krijgt de parkeerder niet terug, en proceskosten worden niet vergoed.",
+   "bron": [
+    20
+   ],
+   "citaat": "Ook krijgt eiser het betaalde griffierecht niet terug."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan, geen griffierecht terug.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan, en het griffierecht krijgt de parkeerder niet terug.",
+  "bron": [
+   20
+  ],
+  "citaat": "Ook krijgt eiser het betaalde griffierecht niet terug."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Er was een parkeervergunning op het moment van de naheffing.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het overzicht liet zien dat het kenteken niet aan een vergunning was gekoppeld.",
+    "bron": [
+     18
+    ],
+    "citaat": "volgt dat het kenteken [kenteken] niet gekoppeld was aan een parkeervergunning"
+   },
+   "bruikbare_zin": {
+    "citaat": "Op het moment van het opleggen van de naheffingsaanslag parkeerbelasting was er dus geen geldig parkeerrecht.",
+    "bron": [
+     18
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Zonder een aan het kenteken gekoppelde vergunning was er geen geldig parkeerrecht.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "deze zaak: kenteken stond niet in het vergunningsysteem",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   18
+  ],
+  "citaat": "was er dus geen geldig parkeerrecht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "overzicht uit het parkeervergunningsysteem"
+  ],
+  "wat_gaf_doorslag": "Het overzicht uit het vergunningsysteem liet zien dat het kenteken niet was gekoppeld, en de parkeerder sprak dat niet tegen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver feitelijk oordeel over het kenteken; niets nieuws voor de gemeente",
+ "raakt": [
+  "bezwaar",
+  "vergunningen"
+ ],
+ "klantuitleg": "Een naheffing is terecht als uw kenteken op dat moment niet aan een vergunning was gekoppeld. Heeft u wel een vergunning, laat dan bewijs zien dat die op het moment van parkeren was aangemeld. Zonder dat bewijs heeft bezwaar weinig kans.",
+ "gemeente": "Belastingsamenwerking gemeenten & Hoogheemraadschap Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

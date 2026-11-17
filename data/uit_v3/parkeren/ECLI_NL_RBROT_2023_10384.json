@@ -1,0 +1,168 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:10384",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder)",
+  "wederpartij": "gemeente Dordrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder betaalde via een parkeerapp voor 40 minuten en kreeg daarna een naheffing van de gemeente Dordrecht. De parkeerder ging in beroep bij de rechtbank Rotterdam tegen die naheffing.",
+ "titel": "Betaald voor 40 minuten en langer geparkeerd: naheffing blijft",
+ "kern": {
+  "zin": "De rechter oordeelde dat de betaalplicht na elke 40 minuten opnieuw geldt, dus de naheffing blijft staan.",
+  "bron": [
+   19
+  ],
+  "citaat": "waarbij steeds opnieuw aan de betaalplicht moet worden voldaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeercontroleur zag de auto op 17 maart 2022 zonder betaling staan.",
+   "bron": [
+    17
+   ],
+   "citaat": "een parkeercontroleur heeft geconstateerd dat de auto van eiser"
+  },
+  {
+   "zin": "De parkeerder zei dat de app maar 40 minuten toestond, en dat dat bedrag al betaald was.",
+   "bron": [
+    18
+   ],
+   "citaat": "In de applicatie van Parkmobile staat aangegeven dat er maximaal 40 minuten mag worden geparkeerd"
+  },
+  {
+   "zin": "De parkeerder verwees naar een arrest van de Hoge Raad over een maximale parkeerduur.",
+   "bron": [
+    18
+   ],
+   "citaat": "waarin de Hoge Raad heeft geoordeeld dat een belanghebbende niet gehouden is"
+  },
+  {
+   "zin": "De gemeente wees op de tarieventabel: het tarief geldt telkens voor 40 minuten.",
+   "bron": [
+    19
+   ],
+   "citaat": "waarin staat vermeld dat het tarief voor parkeren met een maximale parkeerduur van telkens 40 minuten"
+  },
+  {
+   "zin": "De rechter zei dat de late bekendmaking van het maximumbedrag de verordening niet onverbindend maakt.",
+   "bron": [
+    22
+   ],
+   "citaat": "Dat dit maximumbedrag in 2021 op 13 september in de Staatscourant is gepubliceerd, heeft niet tot gevolg"
+  },
+  {
+   "zin": "Het beroep is ongegrond, dus de naheffing blijft staan.",
+   "bron": [
+    26
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; elke 40 minuten moet opnieuw betaald worden.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder blijft de naheffing betalen en krijgt geen proceskostenvergoeding.",
+  "bron": [
+   24
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder betaalde het maximum van 40 minuten en vond daarna geen betaling meer nodig.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat na elke 40 minuten opnieuw betaald moet worden, dus één betaling volstaat niet.",
+    "bron": [
+     19
+    ],
+    "citaat": "waarbij steeds opnieuw aan de betaalplicht moet worden voldaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "maakt naar het oordeel van de rechtbank duidelijk dat meerdere keren voor een parkeerduur van 40 minuten geparkeerd kan worden",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De kosten van de naheffing van € 66,50 zijn te hoog, omdat het maximumbedrag te laat bekend was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag geen reden om de verordening onverbindend te verklaren.",
+    "bron": [
+     22
+    ],
+    "citaat": "Dat dit maximumbedrag in 2021 op 13 september in de Staatscourant is gepubliceerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft niet tot gevolg dat de Verordening op dit punt in strijd zou zijn",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een tarief per 40 minuten moet na elke 40 minuten opnieuw worden betaald.",
+  "type": "regel",
+  "reikwijdte": "parkeren met een tarief dat telkens geldt per 40 minuten, zoals in de tarieventabel van de Verordening 2022",
+  "uitzondering": null,
+  "herkomst": "lokale verordening",
+  "bron": [
+   19
+  ],
+  "citaat": "waarbij steeds opnieuw aan de betaalplicht moet worden voldaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "Parkmobile-app (maximaal 40 minuten)",
+   "tarieventabel van de Verordening 2022"
+  ],
+  "wat_gaf_doorslag": "De tarieventabel, met het woord telkens, gaf de doorslag."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RBROT:2023:7737"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 20 AWR",
+  "art. 234 Gemeentewet",
+  "tarieventabel A7 Verordening op de heffing en de invordering van parkeerbelastingen 2022 (Dordrecht)"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Maak in de parkeerapp duidelijk dat het tarief na elke 40 minuten opnieuw geldt.",
+   "raakt": "betaalapp",
+   "bron": [
+    19
+   ],
+   "citaat": "waarbij steeds opnieuw aan de betaalplicht moet worden voldaan"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "betaalapp",
+  "tarief-naheffing",
+  "bezwaar"
+ ],
+ "klantuitleg": "Heeft u via een app voor 40 minuten betaald en bent u daarna langer gebleven, dan moet u opnieuw betalen. Dat staat zo in de tarieventabel van de gemeente Dordrecht, en de rechter vond dat duidelijk genoeg. Bezwaar heeft op dit punt weinig kans, dus activeer de app na elke 40 minuten opnieuw.",
+ "gemeente": "Dordrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

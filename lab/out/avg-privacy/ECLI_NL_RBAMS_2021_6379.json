@@ -1,0 +1,169 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2021:6379",
+ "relevant": true,
+ "onderwerp": "rechtmatige-verwerking",
+ "sub": "camera-toezicht",
+ "kenmerk": null,
+ "zaaktype": "klacht-handhaving-ap",
+ "partijen": {
+  "burger": "bewoonster en lid van de VvE",
+  "wederpartij": "Autoriteit Persoonsgegevens",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoonster van een flat in Amsterdam was het niet eens met nieuwe beveiligingscamera's van de VvE (vereniging van eigenaren). De Autoriteit Persoonsgegevens (AP) greep niet in. Zij ging in beroep bij de rechtbank Amsterdam tegen de AP; de VvE deed als derde partij mee.",
+ "titel": "Nieuwe camera's in flat mogen blijven hangen",
+ "kern": {
+  "zin": "De rechter vindt dat de AP terecht niet optrad tegen de nieuwe camera's, omdat de inbreuk op de privacy beperkt is en er waarborgen zijn.",
+  "bron": [
+   48
+  ],
+  "citaat": "terecht zijn weigering heeft gehandhaafd om op te treden tegen de vernieuwde plaatsing van beveiligingscamera’s"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoonster is lid van de VvE. De VvE verving de camera's in de gemeenschappelijke ruimten van het flatgebouw.",
+   "bron": [
+    20
+   ],
+   "citaat": "als eigenares van het appartementsrecht lid van de VvE"
+  },
+  {
+   "zin": "De AP stelde na haar klacht geen overtreding van de AVG vast.",
+   "bron": [
+    21
+   ],
+   "citaat": "geen normovertreding in de zin van de Algemene Verordening Gegevensbescherming"
+  },
+  {
+   "zin": "De bewoonster zegt dat de camera's biometrische gegevens (zoals gezichtskenmerken) kunnen verwerken en op de openbare weg zijn gericht.",
+   "bron": [
+    29
+   ],
+   "citaat": "Zij stelt dat de beveiligingscamera’s biometrische gegevens kunnen verwerken."
+  },
+  {
+   "zin": "De AP en de VvE wijzen op een gerechtvaardigd belang: er waren eerder incidenten met insluipers en beschadigingen.",
+   "bron": [
+    28
+   ],
+   "citaat": "in het verleden diverse incidenten met insluipers en beschadigingen hebben plaatsgevonden"
+  },
+  {
+   "zin": "De rechter oordeelt dat het cameratoezicht niet te ver gaat en dat er geen minder ingrijpende manier is om het doel te bereiken.",
+   "bron": [
+    41
+   ],
+   "citaat": "voldaan aan de vereisten van proportionaliteit en subsidiariteit"
+  },
+  {
+   "zin": "De AP had in de bezwaarfase te weinig onderzocht, maar dat gebrek telt niet mee omdat de feiten tijdens het beroep zijn vastgesteld.",
+   "bron": [
+    46
+   ],
+   "citaat": "is er naar het oordeel reden om op grond van artikel 6:22 van de Awb het vastgestelde gebrek in verweerders besluitvorming te passeren"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; wel krijgt zij het griffierecht van € 178 terug.",
+ "gevolg_betrokkene": {
+  "zin": "De camera's mogen blijven. De AP moet het griffierecht van € 178 aan de bewoonster vergoeden; proceskosten krijgt zij niet.",
+  "bron": [
+   53,
+   49
+  ],
+  "citaat": "draagt verweerder op het betaalde griffierecht van € 178,- aan eiseres te vergoeden"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "te-veel-gegevens",
+   "burger_zegt": "Cameratoezicht is niet nodig: minder zware maatregelen, zoals betere sloten en een bewonersprotocol, kunnen ook.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ziet niet dat het doel op een andere, minder ingrijpende manier kan worden bereikt.",
+    "bron": [
+     40
+    ],
+    "citaat": "De rechtbank is niet gebleken dat al deze doelstellingen op een andere, minder ingrijpende manier kunnen worden gerealiseerd."
+   },
+   "bruikbare_zin": {
+    "citaat": "niet gebleken dat al deze doelstellingen op een andere, minder ingrijpende manier kunnen worden gerealiseerd",
+    "bron": [
+     40
+    ]
+   }
+  },
+  {
+   "arg": "gevoelige-gegevens",
+   "burger_zegt": "De camera's verwerken biometrische gegevens en kijken ook op de openbare weg.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ziet geen bewijs dat biometrische gegevens worden verwerkt: het zijn gewone camera's met scherpere beelden.",
+    "bron": [
+     37
+    ],
+    "citaat": "het gaat om reguliere beveiligingscamera’s die scherpere beelden geven dan de camera’s die zijn vervangen"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet gebleken dat met de nieuw geplaatste camera’s biometrische gegevens worden verwerkt",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De VvE heeft niet op een rechtmatige manier besloten om de camera's te plaatsen.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De bestuursrechter toetst niet of het bestuur van de VvE genoeg bevoegdheid had; dat kan via de ledenvergadering of de civiele rechter.",
+    "bron": [
+     32
+    ],
+    "citaat": "De bestuursrechter toetst niet of het bestuur binnen de VvE voldoende mandaat heeft gekregen om die handeling te verrichten."
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een beroep op gerechtvaardigd belang moet drie dingen doorstaan: een gerechtvaardigd belang, noodzaak (met proportionaliteit en subsidiariteit) en een afweging van belangen.",
+  "type": "regel",
+  "reikwijdte": "Verwerking van persoonsgegevens op grond van gerechtvaardigd belang, hier cameratoezicht in een flatgebouw.",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   27
+  ],
+  "citaat": "waarbij ook wordt getoetst aan de proportionaliteit en subsidiariteit"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "toelichting van de VvE op de zitting",
+   "antwoorden van de VvE op vragen van de rechtbank",
+   "privacyreglement van de VvE"
+  ],
+  "wat_gaf_doorslag": "De camera's brengen niet meer in beeld dan nodig en er zijn waarborgen, zoals wissen van beelden, wachtwoord en logboek."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6 lid 1 onder f AVG",
+  "art. 6:22 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg"
+ ],
+ "klantuitleg": "Een vereniging van eigenaren mag camera's in de gemeenschappelijke ruimten ophangen om het gebouw te beveiligen. In dit geval vond de rechter de waarborgen genoeg, zoals het wissen van beelden en een wachtwoord op de recorder. Twijfelt u over camera's in uw gebouw, dan kunt u eerst de vereniging om uitleg vragen en eventueel een klacht indienen bij de Autoriteit Persoonsgegevens.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente partij (VvE en AP)",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

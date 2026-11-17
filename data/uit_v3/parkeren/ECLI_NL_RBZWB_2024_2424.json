@@ -1,0 +1,132 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2024:2424",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Tilburg",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging in beroep tegen een naheffingsaanslag (de rekening achteraf) van de gemeente Tilburg. De rechtbank Zeeland-West-Brabant, zittingsplaats Breda, oordeelde over de kosten van die aanslag.",
+ "titel": "Parkeerrekening blijft staan; klein verschil in kosten telt niet",
+ "kern": {
+  "zin": "De rechter houdt de aanslag in stand; een klein verschil door afronding maakt de kosten niet te hoog.",
+  "bron": [
+   32
+  ],
+  "citaat": "een overschrijding met minder dan een promille niet tot vermindering van de kosten"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 2 oktober 2022 stond zijn auto geparkeerd zonder betaalde parkeerbelasting, en kreeg hij een naheffing.",
+   "bron": [
+    17
+   ],
+   "citaat": "is door parkeercontroleurs geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder vindt de kosten van 42,60 euro te hoog, omdat de kosten van automaten er niet bij horen.",
+   "bron": [
+    27
+   ],
+   "citaat": "Belanghebbende voert daartoe aan dat de kosten voor parkeerautomaten en geldlediging niet samenhangen"
+  },
+  {
+   "zin": "De gemeente zei dat automaten en geldlediging wel nodig zijn om te kunnen naheffen.",
+   "bron": [
+    29
+   ],
+   "citaat": "Om parkeerbelasting te kunnen naheffen moet duidelijk zijn wie er wel en niet betaald heeft"
+  },
+  {
+   "zin": "De rechter vond dat de automaten en geldlediging bij de inning horen, dus die kosten kunnen worden doorberekend.",
+   "bron": [
+    31
+   ],
+   "citaat": "De kosten die samenhangen met de inning van niet-betaalde parkeerbelastingen kunnen volledig worden verhaald"
+  },
+  {
+   "zin": "Het verschil van minder dan een promille telde niet, dus de aanslag bleef staan.",
+   "bron": [
+    32
+   ],
+   "citaat": "een overschrijding met minder dan een promille niet tot vermindering van de kosten"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing van 43,60 euro blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De aanslag blijft staan: 1 euro belasting en 42,60 euro kosten.",
+  "bron": [
+   18
+  ],
+  "citaat": "bestaande uit een bedrag aan belasting van € 1 en € 42,60 aan kosten van de naheffingsaanslag"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De kosten van 42,60 euro zijn te hoog, omdat automaten en geldlediging er niet bij horen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter horen automaten en geldlediging bij het innen van niet-betaalde parkeerbelasting.",
+    "bron": [
+     31
+    ],
+    "citaat": "de parkeerautomaten en de geldlediging een centrale functie vervullen in het proces van vaststellen"
+   },
+   "bruikbare_zin": {
+    "citaat": "een overschrijding met minder dan een promille niet tot vermindering van de kosten",
+    "bron": [
+     32
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Naheffingskosten mogen alleen de kosten bevatten die samenhangen met de inning van niet-betaalde parkeerbelasting.",
+  "type": "regel",
+  "reikwijdte": "de kosten van het opleggen van een naheffingsaanslag parkeerbelasting",
+  "uitzondering": "een overschrijding van minder dan een promille leidt niet tot verlaging",
+  "herkomst": "wet",
+  "bron": [
+   30
+  ],
+  "citaat": "voor zover deze samenhangen met de inning van niet-betaalde parkeerbelastingen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "raming van de gemeente over 2022"
+  ],
+  "wat_gaf_doorslag": "De raming over 2022 gaf de werkelijke kosten van 42,59 euro per naheffing."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "art. 234 lid 5 Gemeentewet",
+  "art. 234 lid 6 Gemeentewet",
+  "art. 2 Besluit gemeentelijke parkeerbelastingen",
+  "art. 1 lid a Verordening parkeerbelastingen 2022 Tilburg"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente won; de rechter vraagt niets extra van de gemeente",
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar"
+ ],
+ "klantuitleg": "Als u niet heeft betaald voor het parkeren, kan de gemeente een extra rekening sturen met kosten erbij. De rechter vond dat die kosten op een vaste manier mogen worden berekend, en dat een klein verschil door afronding niet telt. Heeft u een echt verschil in de berekening, leg dat dan met cijfers aan de gemeente voor.",
+ "gemeente": "Tilburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

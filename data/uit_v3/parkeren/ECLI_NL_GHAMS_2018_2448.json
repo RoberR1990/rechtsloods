@@ -1,0 +1,181 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2018:2448",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (particulier)",
+  "wederpartij": "gemeente Zaanstad",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder ging in hoger beroep tegen een naheffingsaanslag (een rekening achteraf) van de gemeente Zaanstad. Het Gerechtshof Amsterdam beoordeelde de zaak.",
+ "titel": "Kapotte parkeerautomaat: toch betalen bij een andere automaat",
+ "kern": {
+  "zin": "Het hof vindt de naheffing terecht: een kapotte parkeerautomaat ontslaat de parkeerder niet van betalen, want er stonden nog werkende automaten.",
+  "bron": [
+   36
+  ],
+  "citaat": "parkeerbelasting te voldoen. Een defecte parkeerautomaat leidt er niet toe dat de parkeerder"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder parkeerde op 7 december 2016 in Zaanstad zonder parkeerbelasting te betalen.",
+   "bron": [
+    18
+   ],
+   "citaat": "Op 7 december 2016 omstreeks 9.15 uur heeft belanghebbende de auto, een Peugeot"
+  },
+  {
+   "zin": "Hij zei dat hij slecht ter been is en dat de dichtstbijzijnde parkeerautomaat kapot was.",
+   "bron": [
+    32
+   ],
+   "citaat": "Eiser heeft aangevoerd dat hij slecht ter been is en daarom de auto zo dicht"
+  },
+  {
+   "zin": "De gemeente zei dat de andere twee automaten op de locatie werkten, en dat werd niet betwist.",
+   "bron": [
+    41
+   ],
+   "citaat": "die zoals verweerder onbetwist heeft gesteld niet defect waren."
+  },
+  {
+   "zin": "Het hof nam de redenering van de rechtbank over: wie niet kan betalen bij de dichtstbijzijnde automaat, moet een andere automaat gebruiken.",
+   "bron": [
+    43
+   ],
+   "citaat": "dichtstbijzijnde automaat”. Dat eiser dit willens en wetens niet heeft gedaan is zijn keuze"
+  },
+  {
+   "zin": "Dat de automaat een ander woord gebruikte (kaart in plaats van parkeerbewijs) maakt volgens het hof niets uit.",
+   "bron": [
+    60
+   ],
+   "citaat": "zonder juridische betekenis. De naheffingsaanslag parkeerbelasting is opgelegd op basis van het enkele feit dat geen parkeerbelasting is betaald."
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    62
+   ],
+   "citaat": "Het hoger beroep van belanghebbende is ongegrond. De uitspraak van de rechtbank wordt bevestigd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; geen proceskostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing betalen en krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   64
+  ],
+  "citaat": "Het Hof acht geen termen aanwezig voor een veroordeling in de kosten."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De dichtstbijzijnde parkeerautomaat was kapot, dus kon hij niet betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er stonden nog twee werkende automaten en op de kapotte automaat stond dat men bij een storing bij de dichtstbijzijnde automaat moet betalen.",
+    "bron": [
+     42
+    ],
+    "citaat": "Op de parkeerautomaat met het nummer [1] staat ook vermeld “Bij storing betalen bij"
+   },
+   "bruikbare_zin": {
+    "citaat": "Een defecte parkeerautomaat leidt er niet toe dat de parkeerder",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "overmacht-medisch",
+   "burger_zegt": "Hij is slecht ter been en parkeerde daarom zo dicht mogelijk bij de kapper.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Slecht ter been zijn ontslaat niet van de plicht om toch te betalen.",
+    "bron": [
+     44
+    ],
+    "citaat": "dient voor zijn rekening en risico te komen. Dat eiser slecht ter been is, leidt niet"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De controleur gebruikte het woord kaart, maar een parkeerbewijs is geen kaart.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De naam van het bewijs van betaling heeft geen juridische betekenis; de naheffing rust op het feit dat niet is betaald.",
+    "bron": [
+     60
+    ],
+    "citaat": "De naheffingsaanslag parkeerbelasting is opgelegd op basis van het enkele feit dat geen parkeerbelasting is betaald."
+   },
+   "bruikbare_zin": {
+    "citaat": "De naheffingsaanslag parkeerbelasting is opgelegd op basis van het enkele feit dat geen parkeerbelasting is betaald.",
+    "bron": [
+     60
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een kapotte parkeerautomaat ontslaat de parkeerder niet van betalen; hij moet zich inspannen om te betalen, bijvoorbeeld bij een andere automaat.",
+  "type": "regel",
+  "reikwijdte": "Parkeren op een locatie waar nog een werkende automaat is.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   35
+  ],
+  "citaat": "5. Volgens vaste jurisprudentie dient een parkeerder zich in te spannen om de"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "ambtelijke verklaring van de parkeercontroleur",
+   "vermelding op de automaat bij storing"
+  ],
+  "wat_gaf_doorslag": "Er waren nog twee werkende automaten en dat werd niet betwist."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:1995:AA3117"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 20 Awr",
+  "art. 231 lid 1 Gemeentewet",
+  "Verordening parkeerbelastingen 2016 Zaanstad"
+ ],
+ "actie_gemeente": [
+  {
+   "bron": [
+    42
+   ],
+   "citaat": "Op de parkeerautomaat met het nummer [1] staat ook vermeld “Bij storing betalen bij",
+   "actie": "Zet op elke parkeerautomaat duidelijk waar de parkeerder bij een storing kan betalen.",
+   "raakt": "betaalapp"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Als de parkeerautomaat kapot is, moet u betalen bij een andere automaat in de buurt. Doet u dat niet, dan krijgt u de rekening voor het parkeren achteraf. Bezwaar heeft weinig kans als er een werkende automaat in de buurt was; het helpt wel als u kunt laten zien dat er echt nergens kon worden betaald.",
+ "gemeente": "Zaanstad",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

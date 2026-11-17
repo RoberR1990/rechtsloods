@@ -1,0 +1,182 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2021:4845",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bedrijf kreeg een boete van € 140 omdat zijn auto in Rotterdam het verkeer hinderde. Het bedrijf ging in hoger beroep tegen de officier van justitie bij het Gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Boete voor hinder blijft staan, ook bij gele streep",
+ "kern": {
+  "zin": "Het hof vond de boete terecht, omdat de auto het verkeer en de uitrit van een garage blokkeerde.",
+  "bron": [
+   25
+  ],
+  "citaat": "het voertuig van de betrokkene zodanig op de weg stond dat het overige verkeer er niet langs kon"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het bedrijf kreeg als kentekenhouder een boete van € 140 voor een auto die het verkeer hinderde.",
+   "bron": [
+    18
+   ],
+   "citaat": "voertuig zodanig op de weg laten staan dat gevaar wordt/kan worden veroorzaakt of verkeer wordt/kan worden gehinderd"
+  },
+  {
+   "zin": "Het bedrijf zei dat de boete had moeten gaan over parkeren langs een gele streep, waarop een lagere boete staat.",
+   "bron": [
+    19
+   ],
+   "citaat": "De ambtenaar had dan ook een sanctie moeten opleggen voor de gedraging behorend bij feitcode R397g"
+  },
+  {
+   "zin": "De handhaver verklaarde dat het verkeer er niet langs kon en dat de uitrit van de garage was geblokkeerd.",
+   "bron": [
+    23
+   ],
+   "citaat": "zodanig geparkeerd stond dat daardoor het overige verkeer er niet door kon"
+  },
+  {
+   "zin": "De rechter vond dat de hinder niet alleen bestond uit parkeren langs een gele streep, dus de handhaver mocht de zwaardere regel gebruiken.",
+   "bron": [
+    25
+   ],
+   "citaat": "bestond de hinder in dit geval niet (slechts) uit het parkeren langs een gele onderbroken streep"
+  },
+  {
+   "zin": "De rechter nam aan dat de handhaver de bestuurder niet echt kon aanspreken, dus de boete mocht naar het bedrijf als kentekenhouder.",
+   "bron": [
+    27
+   ],
+   "citaat": "geen reële mogelijkheid heeft voorgedaan om de identiteit van de bestuurder vast te stellen"
+  },
+  {
+   "zin": "De rechter bevestigde de beslissing en wees de vergoeding van proceskosten af.",
+   "bron": [
+    29
+   ],
+   "citaat": "zal het verzoek om een proceskostenvergoeding worden afgewezen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete blijft staan; geen vergoeding van proceskosten",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrijf moet de boete van € 140 betalen en krijgt zijn proceskosten niet vergoed.",
+  "bron": [
+   29
+  ],
+  "citaat": "zal het verzoek om een proceskostenvergoeding worden afgewezen"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Er had een lagere boete moeten komen voor parkeren langs een gele streep.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De hinder was meer dan parkeren langs een gele streep, dus de zwaardere regel mocht worden gebruikt.",
+    "bron": [
+     25
+    ],
+    "citaat": "bestond de hinder in dit geval niet (slechts) uit het parkeren langs een gele onderbroken streep"
+   },
+   "bruikbare_zin": {
+    "citaat": "bestond de hinder in dit geval niet (slechts) uit het parkeren langs een gele onderbroken streep",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De boete mocht niet naar de kentekenhouder, want de bestuurder sprak met de handhaver.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dat de bestuurder later wel met de handhaver sprak, veranderde niets aan de beslissing.",
+    "bron": [
+     27
+    ],
+    "citaat": "Dat zich daarna wel een confrontatie tussen de ambtenaar en de bestuurder van het voertuig heeft voorgedaan, doet hier niet aan af."
+   },
+   "bruikbare_zin": {
+    "citaat": "Slechts wanneer er geen reële mogelijkheid is geweest om de identiteit van de bestuurder vast te stellen, mag de sanctie aan de kentekenhouder worden opgelegd",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Op de foto van de handhaver is de auto niet te zien.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De verklaring van de handhaver was genoeg om vast te stellen dat de overtreding is gedaan.",
+    "bron": [
+     25
+    ],
+    "citaat": "Aldus kan worden vastgesteld dat de gedraging is verricht."
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een auto die het verkeer en een garage-uitrit blokkeert, geeft hinder; daarvoor mag de zwaardere hinderregel worden gebruikt, ook als er een gele streep is.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Gevallen waarin de hinder meer is dan alleen parkeren langs een gele streep",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "bestond de hinder in dit geval niet (slechts) uit het parkeren langs een gele onderbroken streep"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring handhaver",
+   "aanvullend proces-verbaal",
+   "foto van de situatie"
+  ],
+  "wat_gaf_doorslag": "De verklaring van de handhaver dat het verkeer er niet langs kon en de uitrit was geblokkeerd."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:GHARL:2020:3336",
+   "ECLI:NL:GHARL:2021:1786"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 5 Wahv",
+  "art. 3 lid 2 Wahv",
+  "art. 5 WVW 1994"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Schrijf in het proces-verbaal op wat geblokkeerd werd en waarom de bestuurder niet kon worden aangesproken.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    23
+   ],
+   "citaat": "De betrokkene was niet aanwezig tijdens het uitschrijven van de aankondiging van beschikking."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Staat uw auto zo dat ander verkeer er niet langs kan of een uitrit dicht zit, dan kunt u een boete voor hinder krijgen, ook als parkeren langs een gele streep een lagere boete geeft. De boete mag naar de eigenaar van de auto als de handhaver de bestuurder niet kon aanspreken. Bezwaar heeft weinig kans als de handhaver heeft opgeschreven dat het verkeer werd geblokkeerd.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

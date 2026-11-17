@@ -1,0 +1,184 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:989",
+ "relevant": true,
+ "onderwerp": "schade-aansprakelijkheid",
+ "sub": "overig",
+ "kenmerk": null,
+ "zaaktype": "schadevergoeding",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een inwoner vroeg de gemeente Breda voor de tweede keer om € 1.000 schadevergoeding voor foto's van zijn woning. Hij procedeerde tegen de gemeente; de Raad van State beslist in hoger beroep.",
+ "titel": "Tweede gelijk verzoek om schadevergoeding mocht worden afgewezen",
+ "kern": {
+  "zin": "De gemeente mocht het nieuwe, gelijke verzoek afwijzen omdat er al op een gelijkluidend verzoek was besloten.",
+  "bron": [
+   32
+  ],
+  "citaat": "Het college heeft erop gewezen dat al op een gelijkluidend verzoek van [appellant] was besloten"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente eerst foto's van zijn woning te vernietigen en € 1.000 schadevergoeding te betalen.",
+   "bron": [
+    20
+   ],
+   "citaat": "heeft [appellant] het college op grond van artikel 17 van de Algemene verordening gegevensbescherming"
+  },
+  {
+   "zin": "Na de afwijzing vroeg hij opnieuw om € 1.000 schadevergoeding.",
+   "bron": [
+    21
+   ],
+   "citaat": "heeft [appellant] opnieuw een verzoek om een schadevergoeding van € 1000,00 gedaan"
+  },
+  {
+   "zin": "De gemeente wees het nieuwe verzoek af, omdat er al op een gelijkluidend verzoek was besloten.",
+   "bron": [
+    21
+   ],
+   "citaat": "Het college heeft er daarbij op gewezen dat al een gelijkluidend verzoek van [appellant] in behandeling was"
+  },
+  {
+   "zin": "De Raad van State vond dat de gemeente het verzoek mocht afwijzen als herhaald verzoek.",
+   "bron": [
+    32
+   ],
+   "citaat": "heeft bedoeld om het verzoek met toepassing van artikel 4:6 van de Awb af te wijzen"
+  },
+  {
+   "zin": "De bezwaarcommissie was niet onafhankelijk, vond de burger, maar de rechter zag daarvoor geen aanwijzing.",
+   "bron": [
+    35
+   ],
+   "citaat": "Ook is verder niet gebleken dat de commissie niet onafhankelijk was"
+  },
+  {
+   "zin": "De burger kreeg geen dwangsom, omdat hij de gemeente meer dan een jaar na zijn verzoek in gebreke stelde.",
+   "bron": [
+    37
+   ],
+   "citaat": "De ingebrekestelling is daarmee onredelijk laat"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Herhaald verzoek mocht worden afgewezen; geen dwangsom, geen proceskosten",
+ "gevolg_betrokkene": {
+  "zin": "De afwijzing van het verzoek blijft staan, de burger krijgt geen dwangsom en geen proceskosten vergoed.",
+  "bron": [
+   37,
+   43
+  ],
+  "citaat": "Alleen al daarom is de rechtbank terecht tot het oordeel gekomen dat het college geen dwangsom is verschuldigd"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente heeft zijn verzoek niet als herhaald verzoek behandeld, maar inhoudelijk beoordeeld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente gaf voor de volledigheid een inhoudelijke uitleg, maar bedoelde het verzoek af te wijzen als herhaald verzoek.",
+    "bron": [
+     32
+    ],
+    "citaat": "heeft bedoeld om het verzoek met toepassing van artikel 4:6 van de Awb af te wijzen"
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De bezwaarcommissie was niet onafhankelijk en het advies was niet goed ondertekend.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het advies mocht door alleen de voorzitter worden ondertekend en er was geen aanwijzing dat de commissie niet onafhankelijk was.",
+    "bron": [
+     35
+    ],
+    "citaat": "Ook is verder niet gebleken dat de commissie niet onafhankelijk was"
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente moet een dwangsom betalen, want het besluit kwam te laat bij hem aan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger stelde de gemeente meer dan een jaar na zijn verzoek in gebreke, dat is onredelijk laat.",
+    "bron": [
+     37
+    ],
+    "citaat": "De ingebrekestelling is daarmee onredelijk laat"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat is meer dan een jaar na het verzoek",
+    "bron": [
+     37
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Worden er geen nieuwe feiten of veranderde omstandigheden genoemd, dan mag de gemeente een herhaald verzoek afwijzen onder verwijzing naar het eerdere afwijzende besluit.",
+  "type": "regel",
+  "reikwijdte": "Herhaalde aanvragen zonder nieuw gebleken feiten of veranderde omstandigheden",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   31
+  ],
+  "citaat": "kan het bestuursorgaan zonder toepassing te geven aan artikel 4:5 de aanvraag afwijzen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "brieven en data van het verzoek en de ingebrekestelling"
+  ],
+  "wat_gaf_doorslag": "De burger noemde geen nieuwe feiten en stelde de gemeente meer dan een jaar na zijn verzoek in gebreke."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2023:4624",
+   "ECLI:NL:RVS:2023:3130"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 4:6 lid 2 Awb",
+  "art. 4:17 lid 6 Awb",
+  "art. 7:13 Awb",
+  "art. 17 AVG"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Wijs een gelijkluidend verzoek zonder nieuwe feiten af als herhaald verzoek en verwijs naar het eerdere besluit",
+   "raakt": "bezwaar",
+   "bron": [
+    32
+   ],
+   "citaat": "heeft bedoeld om het verzoek met toepassing van artikel 4:6 van de Awb af te wijzen"
+  },
+  {
+   "actie": "Controleer bij een ingebrekestelling of die onredelijk laat is gedaan voordat u een dwangsom toekent",
+   "raakt": "bezwaar",
+   "bron": [
+    37
+   ],
+   "citaat": "gedacht moet worden aan een termijn voor ingebrekestelling van hooguit enkele weken"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "privacy-fg",
+  "klantcontact"
+ ],
+ "klantuitleg": "Dient u een tweede, bijna gelijk verzoek in zonder nieuwe feiten, dan mag de gemeente dat afwijzen met een verwijzing naar het eerste besluit. Wilt u een dwangsom als de gemeente te laat is, stel de gemeente dan binnen enkele weken na uw verzoek schriftelijk in gebreke. Heeft u echt nieuwe feiten, noem die dan duidelijk in uw nieuwe verzoek.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

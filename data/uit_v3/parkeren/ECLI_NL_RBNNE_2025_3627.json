@@ -1,0 +1,159 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2025:3627",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg in Assen een Wahv-boete van € 129, een snelle boete voor een verkeersfout, voor dubbel parkeren. Hij ging in beroep bij de kantonrechter tegen de officier van justitie.",
+ "titel": "Dubbel parkeren niet bewezen: boete vernietigd",
+ "kern": {
+  "zin": "De rechter vernietigt de boete, omdat dubbel parkeren niet vast kan worden gesteld.",
+  "bron": [
+   25
+  ],
+  "citaat": "is de kantonrechter van oordeel dat de gedraging niet kan worden vastgesteld"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeerder kreeg een boete van € 129 voor dubbel parkeren in Assen.",
+   "bron": [
+    9
+   ],
+   "citaat": "De opgelegde boete bedraagt € 129,00 (inclusief administratiekosten)."
+  },
+  {
+   "zin": "De parkeerder zei dat hij wachtte op zijn dochter en dat er geen parkeren was.",
+   "bron": [
+    17
+   ],
+   "citaat": "Betrokkene heeft aangevoerd dat hij zijn dochter kwam ophalen"
+  },
+  {
+   "zin": "Hij vond ook dat hij de doorstroming niet had belemmerd, omdat hij makkelijk ruimte kon maken.",
+   "bron": [
+    17
+   ],
+   "citaat": "dat hij zijn voertuig juist had stopgezet op een plaats"
+  },
+  {
+   "zin": "De verbalisant meldde dat de doorstroming stokte en dat de auto dubbel stond.",
+   "bron": [
+    21
+   ],
+   "citaat": "dat de bestuurder dubbel geparkeerd stond"
+  },
+  {
+   "zin": "De rechter zag daarom geen dubbel parkeren, omdat de auto niet langs een parkeervak stond.",
+   "bron": [
+    23
+   ],
+   "citaat": "Hierdoor kan de gedraging met feitcode R398 niet worden vastgesteld"
+  },
+  {
+   "zin": "De boete verdwijnt en de officier van justitie moet de proceskosten van € 740,44 vergoeden.",
+   "bron": [
+    33,
+    32
+   ],
+   "citaat": "veroordeelt de officier van justitie in de kosten van de procedure"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete vernietigd; officier van justitie betaalt proceskosten van € 740,44.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 129 is weg, de zekerheid komt terug en de proceskosten van € 740,44 worden vergoed.",
+  "bron": [
+   33,
+   32
+  ],
+  "citaat": "veroordeelt de officier van justitie in de kosten van de procedure"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Hij stond maar even stil om zijn dochter op te halen, dus geen parkeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat hij niet aannemelijk maakte dat het stilstaan kort genoeg was.",
+    "bron": [
+     22
+    ],
+    "citaat": "onvoldoende aannemelijk is gemaakt dat er sprake was van onmiddellijkheid"
+   },
+   "bruikbare_zin": {
+    "citaat": "onvoldoende aannemelijk is gemaakt dat er sprake was van onmiddellijkheid",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij stond niet dubbel geparkeerd en hinderde het verkeer niet.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Omdat de auto niet langs een parkeervak stond, was dubbel parkeren niet vast te stellen.",
+    "bron": [
+     23
+    ],
+    "citaat": "Doordat het voertuig van betrokkene niet parallel aan een parkeervak stond geparkeerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "Hierdoor kan de gedraging met feitcode R398 niet worden vastgesteld",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een auto telt pas als dubbel parkeren als hij langs een parkeervak staat en dat vak afsluit.",
+  "type": "regel",
+  "reikwijdte": "auto parallel aan een parkeervak die de toegang blokkeert; bij haaks gelegen vakken is er geen sprake van dubbel parkeren",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "Van dubbel parkeren is sprake wanneer een voertuig parallel aan een parkeervak wordt geparkeerd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring van de verbalisant",
+   "zaakoverzicht"
+  ],
+  "wat_gaf_doorslag": "De auto stond niet langs een parkeervak, zodat dubbel parkeren niet vast te stellen was."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHARL:2023:2589",
+   "ECLI:NL:GHARL:2019:3022"
+  ]
+ },
+ "wetsartikelen": [
+  "Wahv",
+  "art. 1 RVV 1990"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "bezwaar"
+ ],
+ "klantuitleg": "Dubbel parkeren is pas een boete als uw auto langs een parkeervak staat en dat vak afsluit. In deze zaak vond de rechter dat niet vast te stellen, daarom verviel de boete. Heeft u een zelfde situatie, dan kunnen foto's van de plek en van de auto helpen bij bezwaar.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "niet partij; alleen plaats van overtreding genoemd",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,138 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2026:3406",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een Wahv-boete (de boete voor kleine verkeersovertredingen) van € 89,00, omdat hij een bromfiets op een plek zette waar dat verboden was. De kantonrechter van de Rechtbank Noord-Nederland besliste over het beroep.",
+ "titel": "Bromfiets in verbodszone: boete blijft, beroep ongegrond",
+ "kern": {
+  "zin": "De kantonrechter oordeelde dat het eindbord vanaf de plek van de bromfiets zichtbaar was, dus de boete blijft staan.",
+  "bron": [
+   20
+  ],
+  "citaat": "het bord dat het einde van de parkeerverbodszone aangeeft zichtbaar is"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 11 december 2024 zette de parkeerder de bromfiets op de Sophialaan in Leeuwarden, waar dat niet mocht.",
+   "bron": [
+    10
+   ],
+   "citaat": "verricht op 11 december 2024, om 13:33 uur, op de Sophialaan in Leeuwarden"
+  },
+  {
+   "zin": "De parkeerder betwistte dat er bebording was en wilde bewijs van het bord zien.",
+   "bron": [
+    16
+   ],
+   "citaat": "betwist de aanwezigheid van de bebording"
+  },
+  {
+   "zin": "De officier van justitie vond het beroep ongegrond.",
+   "bron": [
+    17
+   ],
+   "citaat": "De vertegenwoordiger stelt dat het beroep ongegrond is"
+  },
+  {
+   "zin": "De kantonrechter hield vast aan de verklaring van de verbalisant (de opsporingsambtenaar die de overtreding vaststelde), omdat de parkeerder zijn route niet had laten zien.",
+   "bron": [
+    19
+   ],
+   "citaat": "zodat de bebording niet gecontroleerd kan worden, waardoor de verklaring van de verbalisant als uitgangspunt geldt"
+  },
+  {
+   "zin": "De kantonrechter zag het eindbord vanaf de plek van de bromfiets en vond dat de parkeerder in de zone stond.",
+   "bron": [
+    20
+   ],
+   "citaat": "het bord dat het einde van de parkeerverbodszone aangeeft zichtbaar is"
+  },
+  {
+   "zin": "De boete van € 89,00 blijft staan, omdat er geen reden was om die te verlagen.",
+   "bron": [
+    21,
+    10
+   ],
+   "citaat": "Betrokkene heeft geen omstandigheden aangevoerd die leiden tot aanpassing van de boete"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; boete van € 89,00 blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de boete van € 89,00, inclusief administratiekosten, betalen.",
+  "bron": [
+   21,
+   10
+  ],
+  "citaat": "Betrokkene heeft geen omstandigheden aangevoerd die leiden tot aanpassing van de boete"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Hij betwistte dat er bebording stond en wilde bewijs van het bord zien.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter hield vast aan de verklaring van de verbalisant, omdat de parkeerder zijn route niet had laten zien.",
+    "bron": [
+     19
+    ],
+    "citaat": "zodat de bebording niet gecontroleerd kan worden, waardoor de verklaring van de verbalisant als uitgangspunt geldt"
+   },
+   "bruikbare_zin": {
+    "citaat": "het bord dat het einde van de parkeerverbodszone aangeeft zichtbaar is",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de verbalisant ter plaatse was, mag ervan worden uitgegaan dat hij de bebording heeft gecontroleerd.",
+  "type": "regel",
+  "reikwijdte": "Gewone bebording, waar de verbalisant ter plaatse was.",
+  "uitzondering": "Bij zonebebording kan dat anders zijn.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "ervan uitgegaan mag worden dat die de bebording heeft gecontroleerd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring van de verbalisant",
+   "foto van de locatie, gemaakt door de kantonrechter"
+  ],
+  "wat_gaf_doorslag": "De verklaring van de verbalisant, en het bord dat vanaf de plek zichtbaar was."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Wahv, code R587B (bord E3)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; uitspraak over één overtreding",
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "klantcontact"
+ ],
+ "klantuitleg": "Wie een boete voor foutparkeren krijgt, kan aanvoeren dat de borden niet goed zichtbaar waren. In deze zaak was het bord vanaf de plek zichtbaar, daarom bleef de boete staan. Wilt u dat betwisten, dan kan het helpen om uw route en de plek van de borden goed te laten zien, maar winst is niet gegarandeerd.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente partij; boete van het openbaar ministerie",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,197 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2024:2087",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder gaat in hoger beroep tegen een naheffingsaanslag (een rekening achteraf) van de gemeente Rotterdam. Zij zegt dat ze alleen eten kwam brengen. De zaak ligt bij het gerechtshof Den Haag.",
+ "titel": "Even eten brengen is niet altijd laden en lossen",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder niet aannemelijk maakte dat ze alleen laadde of loste, dus het was parkeren en de naheffing was terecht.",
+  "bron": [
+   45
+  ],
+  "citaat": "Met haar enkele verklaring dat zij etenswaren heeft afgegeven is zij niet in de op haar rustende bewijslast geslaagd."
+ },
+ "samenvatting": [
+  {
+   "zin": "Een scanauto zag dat voor de auto geen parkeerbelasting was betaald, en de gemeente legde een naheffing op.",
+   "bron": [
+    23
+   ],
+   "citaat": "met behulp van een scanauto geconstateerd dat op de genoemde datum en het genoemde tijdstip geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat ze eten bracht naar haar dochter in quarantaine en dus laadde en loste.",
+   "bron": [
+    43
+   ],
+   "citaat": "etenswaar heeft gebracht naar haar dochter die in quarantaine zat wegens COVID-19"
+  },
+  {
+   "zin": "De gemeente zei dat de scanauto-foto's geen laden of lossen laten zien.",
+   "bron": [
+    43
+   ],
+   "citaat": "Op deze foto's is geen laad- of losactiviteit waar te nemen."
+  },
+  {
+   "zin": "De rechter legde uit dat laden en lossen alleen telt bij zaken van enige omvang of gewicht, direct na het stoppen.",
+   "bron": [
+    44
+   ],
+   "citaat": "het bij voortduring inladen of uitladen van zaken van enige omvang of enig gewicht"
+  },
+  {
+   "zin": "De parkeerder maakte dat met alleen haar eigen verklaring niet aannemelijk, dus het was parkeren.",
+   "bron": [
+    45
+   ],
+   "citaat": "niet aannemelijk gemaakt dat sprake is van onmiddellijk laden en/of lossen van goederen"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de naheffing blijft staan.",
+   "bron": [
+    46
+   ],
+   "citaat": "De naheffingsaanslag is terecht opgelegd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; geen proceskostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing betalen en krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   48
+  ],
+  "citaat": "Er is geen aanleiding voor een veroordeling in de proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "De parkeerder zegt dat ze alleen eten afleverde en dus laadde en loste, niet parkeerde.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Met alleen haar verklaring maakte ze niet aannemelijk dat het om zaken van enige omvang of gewicht ging.",
+    "bron": [
+     45
+    ],
+    "citaat": "Met haar enkele verklaring dat zij etenswaren heeft afgegeven is zij niet in de op haar rustende bewijslast geslaagd."
+   },
+   "bruikbare_zin": {
+    "citaat": "van enig omvang of gewicht die bezwaarlijk anders dan per voertuig kunnen worden vervoerd",
+    "bron": [
+     45
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De gemeente heeft maar één foto, terwijl alle feiten en omstandigheden tellen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De foto's lieten geen laad- of losbeweging zien, dus de parkeerder moest zelf aannemelijk maken dat ze laadde of loste.",
+    "bron": [
+     32
+    ],
+    "citaat": "Aanwijzingen die duiden op een laad-of losbeweging zijn hierop niet zichtbaar"
+   },
+   "bruikbare_zin": {
+    "citaat": "Aanwijzingen die duiden op een laad-of losbeweging zijn hierop niet zichtbaar",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "overmacht-medisch",
+   "burger_zegt": "De parkeerder is hartpatiënt en moest naar de vierde verdieping, waardoor het langer duurde.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank had begrip, maar dat maakte het in juridische zin niet tot laden en lossen.",
+    "bron": [
+     32
+    ],
+    "citaat": "De rechtbank heeft begrip voor deze (vervelende) persoonlijke omstandigheden van eiseres"
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank heeft begrip voor deze (vervelende) persoonlijke omstandigheden van eiseres",
+    "bron": [
+     32
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Onmiddellijk laden en lossen is alleen het ononderbroken in- of uitladen van zaken van enige omvang of gewicht, direct na het stoppen en niet langer dan nodig.",
+  "type": "regel",
+  "reikwijdte": "Naheffing parkeerbelasting waarbij de parkeerder zegt dat ze alleen laadde of loste.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   44
+  ],
+  "citaat": "het bij voortduring inladen of uitladen van zaken van enige omvang of enig gewicht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "HAS-rapport met foto's van de scanauto",
+   "verklaring van de parkeerder"
+  ],
+  "wat_gaf_doorslag": "De foto's lieten geen laden of lossen zien en de parkeerder bracht alleen haar eigen verklaring."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2014:445",
+   "ECLI:NL:HR:1999:AA2760"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "art. 1 Verordening parkeerregulering en parkeerbelastingen 2022 Rotterdam",
+  "art. 5 Verordening parkeerregulering en parkeerbelastingen 2022 Rotterdam",
+  "art. 8:75 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg met scanauto-foto's vast dat de auto stilstaat met gesloten portieren en kofferbak en zonder mensen erbij.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    32
+   ],
+   "citaat": "stil staat met gesloten portieren en kofferbak en zonder personen in de directe omgeving daarvan"
+  },
+  {
+   "actie": "Vraag bij een beroep op laden en lossen om onderbouwing van de omvang en het gewicht van de spullen.",
+   "raakt": "bezwaar",
+   "bron": [
+    45
+   ],
+   "citaat": "van enig omvang of gewicht die bezwaarlijk anders dan per voertuig kunnen worden vervoerd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "scanauto-handhaving",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Even iets afleveren is niet altijd laden en lossen. Alleen als u spullen van enige omvang of gewicht meteen uitlaadt en direct weer wegrijdt, geldt het niet als parkeren. Maakt u bezwaar, laat dan zien wat u vervoerde en hoe lang het duurde, bijvoorbeeld met een foto of verklaring van de ontvanger.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

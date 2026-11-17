@@ -1,0 +1,168 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOBR:2021:1129",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "bewijs-scanauto",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Eindhoven",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder procedeerde tegen de gemeente Eindhoven bij de rechtbank Oost-Brabant. Het ging om een naheffingsaanslag (de rekening achteraf) voor parkeerbelasting en om een verzoek om schadevergoeding wegens een te lange procedure.",
+ "titel": "Parkeerder moet alsnog betalen; schadevergoeding geweigerd",
+ "kern": {
+  "zin": "De rechter hield de naheffing overeind, omdat de verklaring van de controleurs niet onjuist was.",
+  "bron": [
+   30
+  ],
+  "citaat": "de rechtbank de verklaring van de verbalisanten dat zij de gegevens niet op het kaartje konden noteren niet onjuist"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 18 juni 2015 kreeg de parkeerder een naheffingsaanslag na een controle van haar auto.",
+   "bron": [
+    23
+   ],
+   "citaat": "naar aanleiding van de constatering dat op 18 juni 2015 het voertuig van eiseres"
+  },
+  {
+   "zin": "De parkeerder zei dat zij uiterlijk om 11.51 uur weer bij haar auto was.",
+   "bron": [
+    25
+   ],
+   "citaat": "Eiseres stelt dat zij om uiterlijk 11.51 uur aan kwam"
+  },
+  {
+   "zin": "De gemeente vond dat de parkeerder ook om 11.53 uur nog niet terug was.",
+   "bron": [
+    25
+   ],
+   "citaat": "Verweerder bestrijdt dat en stelt dat eiseres toen nog niet"
+  },
+  {
+   "zin": "De rechter vond de uitleg van de gemeente over de klok overtuigend.",
+   "bron": [
+    30
+   ],
+   "citaat": "De rechtbank acht deze toelichting van verweerder overtuigend"
+  },
+  {
+   "zin": "De rechter wees het beroep af, dus de naheffing bleef staan.",
+   "bron": [
+    33
+   ],
+   "citaat": "Het beroep is ongegrond. Voor een proceskostenveroordeling bestaat geen aanleiding"
+  },
+  {
+   "zin": "De rechter vond de procedure niet te lang duren, dus de vraag om schadevergoeding werd afgewezen.",
+   "bron": [
+    38
+   ],
+   "citaat": "de redelijke termijn op het moment van de onderhavige uitspraak niet is overschreden"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; ook schadevergoeding voor lange procedure afgewezen.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing betalen en krijgt geen schadevergoeding.",
+  "bron": [
+   41
+  ],
+  "citaat": "wijst het verzoek om immateriële schadevergoeding af"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De foto's tonen niet dat zij te laat was en de apparatuur gaf mogelijk niet de juiste tijd aan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de klok van de handheld betrouwbaar, omdat die dagelijks wordt gelijkgezet.",
+    "bron": [
+     30
+    ],
+    "citaat": "de tijdregistratie van de handhelds dagelijks wordt gesynchroniseerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "de tijdregistratie van de handhelds dagelijks wordt gesynchroniseerd",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Zij laadde alleen haar boodschappen in, dus dat telt als laden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Boodschappen inladen na het stilstaan telt niet als laden, omdat het niet direct gebeurde.",
+    "bron": [
+     31
+    ],
+    "citaat": "het inladen van de boodschappen door eiseres, zoals zij heeft gesteld, niet aan de voormelde omschrijving"
+   },
+   "bruikbare_zin": {
+    "citaat": "reeds omdat dit niet plaatsvond onmiddellijk nadat het voertuig tot stilstand was gebracht",
+    "bron": [
+     31
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Laden en lossen telt alleen als het direct na het stilstaan gebeurt en zonder onderbreking doorgaat.",
+  "type": "regel",
+  "reikwijdte": "parkeren waarbij goederen van enige omvang of gewicht in- of uitgeladen worden",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   31
+  ],
+  "citaat": "het onmiddellijk nadat het voertuig tot stilstand is gebracht bij voortduring inladen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring controleur onder ambtseed",
+   "foto's van de auto",
+   "handheld met tijdstip"
+  ],
+  "wat_gaf_doorslag": "De verklaring van de controleurs over het kaartje en de tijd, die de rechter niet onjuist vond."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2016:252",
+   "ECLI:NL:HR:2014:445",
+   "ECLI:NL:RBZWB:2019:5771"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 Gemeentewet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg vast hoe de klok van de handheld dagelijks wordt gelijkgezet en bewaar dat bij het dossier.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    30
+   ],
+   "citaat": "de tijdregistratie van de handhelds dagelijks wordt gesynchroniseerd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "scanauto-handhaving",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een naheffing is de rekening achteraf die u krijgt als er geen geldig parkeerbewijs in de auto ligt. In deze zaak vond de rechter de controle betrouwbaar, en even stilstaan om boodschappen in te laden telde niet als laden. Heeft u bezwaar, dan helpt bewijs dat u op tijd terug was; of dat genoeg is, hangt van de feiten af.",
+ "gemeente": "Eindhoven",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

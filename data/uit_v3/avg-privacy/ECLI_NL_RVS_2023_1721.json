@@ -1,0 +1,201 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2023:1721",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Venlo",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een vrouw uit Venlo wilde haar naam en geboortegegevens in de basisregistratie personen (BRP) laten wijzigen en procedeerde daarover tegen de gemeente Venlo. De Raad van State oordeelde in hoger beroep of de gemeente de wijziging terecht had geweigerd.",
+ "titel": "Geen wijziging in basisregistratie zonder goede originele stukken",
+ "kern": {
+  "zin": "De Raad van State vindt dat de gemeente de BRP-gegevens niet hoefde te wijzigen, omdat de vrouw geen bruikbare documenten had overgelegd.",
+  "bron": [
+   57
+  ],
+  "citaat": "geen brondocumenten overgelegd waarvan de gegevens zonder meer verwerkt kunnen worden in de brp"
+ },
+ "samenvatting": [
+  {
+   "zin": "De vrouw staat in de basisregistratie personen (BRP) ingeschreven met een naam en geboortedatum die zij betwist.",
+   "bron": [
+    22
+   ],
+   "citaat": "[appellante] staat in de brp ingeschreven als [naam 1], geboren op [geboortedatum] 1985 in [plaats], China."
+  },
+  {
+   "zin": "Zij vroeg de gemeente Venlo om die gegevens te wijzigen in een andere naam en geboortedatum.",
+   "bron": [
+    22
+   ],
+   "citaat": "heeft het college verzocht haar gegevens te wijzigen in [naam 2], geboren op [geboortedatum] 1983 in [plaats], China."
+  },
+  {
+   "zin": "De gemeente wees dat af, omdat zij twijfelde aan de echtheid en bewijswaarde van de documenten.",
+   "bron": [
+    30
+   ],
+   "citaat": "Het college heeft het verzoek van [appellante] afgewezen omdat de notariële akte met [nummer] niet voorzien is van een foto"
+  },
+  {
+   "zin": "De rechtbank verklaarde het beroep ongegrond.",
+   "bron": [
+    32
+   ],
+   "citaat": "De rechtbank heeft het beroep van [appellante] daarom ongegrond verklaard."
+  },
+  {
+   "zin": "De Raad van State verklaarde het hoger beroep ongegrond.",
+   "bron": [
+    60
+   ],
+   "citaat": "Het hoger beroep van [appellante] is ongegrond."
+  },
+  {
+   "zin": "Daardoor blijven de oude gegevens in de BRP staan.",
+   "bron": [
+    57
+   ],
+   "citaat": "het college de gegevens van [appellante] in de brp niet hoefde te wijzigen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De gemeente hoefde de gegevens niet te wijzigen; het hoger beroep faalt.",
+ "gevolg_betrokkene": {
+  "zin": "De vrouw houdt de gegevens in de BRP die er nu staan; het college hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   57,
+   61
+  ],
+  "citaat": "De rechtbank heeft terecht overwogen dat het college de gegevens van [appellante] in de brp niet hoefde te wijzigen."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Haar naam en geboortedatum in de BRP zijn onjuist en moeten worden aangepast.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Raad van State vond dat de vrouw geen documenten overlegde waaruit zonder twijfel de juiste gegevens blijken.",
+    "bron": [
+     57
+    ],
+    "citaat": "De rechtbank heeft terecht overwogen dat het college de gegevens van [appellante] in de brp niet hoefde te wijzigen."
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank heeft terecht overwogen dat het college de gegevens van [appellante] in de brp niet hoefde te wijzigen.",
+    "bron": [
+     57
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De paspoorten zijn echt en de Chinese verklaringen moeten als bewijs worden aanvaard.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Raad van State oordeelde dat de echtheid van een paspoort niet betekent dat de gegevens zonder meer in de BRP moeten worden overgenomen.",
+    "bron": [
+     42
+    ],
+    "citaat": "betekent nog niet zonder meer dat de daarin vermelde feiten moeten worden verwerkt in de brp"
+   },
+   "bruikbare_zin": {
+    "citaat": "betekent nog niet zonder meer dat de daarin vermelde feiten moeten worden verwerkt in de brp",
+    "bron": [
+     42
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De notariële akte is echt en het genoemde oude legitimatiebewijs maakt de akte niet ongeldig.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Raad van State vond dat er te veel twijfel was over de notariële akte en dat de vrouw die twijfel niet met objectieve stukken had weggenomen.",
+    "bron": [
+     47
+    ],
+    "citaat": "De echtheid van de notariële akte is niet met objectieve stukken gestaafd."
+   },
+   "bruikbare_zin": {
+    "citaat": "De echtheid van de notariële akte is niet met objectieve stukken gestaafd.",
+    "bron": [
+     47
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een verzoek om persoonsgegevens in de BRP te wijzigen, moet de burger eerst originele documenten overleggen die aan de eisen van de Wet BRP voldoen.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om wijziging van in de BRP opgenomen persoonsgegevens, zoals naam en geboortedatum.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   38
+  ],
+  "citaat": "of de verzoeker brondocumenten heeft overgelegd, die voldoen aan de eisen uit artikel 2.8, tweede lid, van de Wet brp"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "paspoorten",
+   "notariële akte",
+   "PSB-verklaring",
+   "notarieel certificaat",
+   "DNA-onderzoek",
+   "gezichtsvergelijkend onderzoek",
+   "registratieformulieren"
+  ],
+  "wat_gaf_doorslag": "De vrouw overlegde geen originele documenten die aan de eisen voldeden."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2022:1198"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2.8 lid 2 onder c en d Wet brp",
+  "art. 2.10 lid 2 en 3 Wet brp",
+  "art. 2.58 lid 1 en 2 Wet brp"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij twijfel om het onderliggende identiteitsbewijs en eventueel een hukou.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    47
+   ],
+   "citaat": "Het college heeft [appellante] daarom verzocht om de onderliggende identiteitskaart en eventueel een hukou over te leggen"
+  },
+  {
+   "actie": "Ga bij Chinese paspoorten van vóór 2012 niet zonder meer uit van een behoorlijk onderzoek vooraf.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    48
+   ],
+   "citaat": "voor Chinese paspoorten die zijn afgegeven vóór 2012 niet ook als uitgangspunt worden genomen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "De gemeente wijzigt uw gegevens in de basisregistratie personen (BRP) pas als u originele documenten overlegt die zonder twijfel laten zien dat de gegevens juist zijn. Kopieën en buitenlandse verklaringen zonder duidelijke herkomst zijn vaak niet genoeg. Wilt u toch een wijziging, overleg dan originele documenten of vraag de gemeente welke stukken zij nog nodig heeft.",
+ "gemeente": "Venlo",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

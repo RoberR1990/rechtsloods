@@ -1,0 +1,165 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2023:6736",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "gehandicaptenkaart",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "aanvrager (privépersoon)",
+  "wederpartij": "gemeente Den Haag (college van burgemeester en wethouders)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De aanvrager wilde een gehandicaptenparkeerkaart en kreeg die niet van het college van burgemeester en wethouders van Den Haag. De aanvrager ging bij de rechtbank Den Haag in beroep tegen de afwijzing in bezwaar.",
+ "titel": "Geen gehandicaptenkaart zonder medisch onderzoek: beroep afgewezen",
+ "kern": {
+  "zin": "De rechter oordeelde dat de kaart niet kon worden afgegeven zonder medisch onderzoek, en dat onderzoek bleef uit.",
+  "bron": [
+   29
+  ],
+  "citaat": "Vast staat dat eiser geen medisch onderzoek heeft ondergaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het college wees de aanvraag voor een gehandicaptenparkeerkaart af.",
+   "bron": [
+    17
+   ],
+   "citaat": "heeft verweerder in het primaire besluit eisers aanvraag voor een gehandicaptenparkeervoorziening afgewezen"
+  },
+  {
+   "zin": "De aanvrager zei dat de gemeente zijn aanvragen en bezwaren negeerde.",
+   "bron": [
+    24
+   ],
+   "citaat": "De gemeente negeert aanvragen en bezwaren waardoor ik naar de rechter moet"
+  },
+  {
+   "zin": "De bezwaarcommissie zag dat de aanvrager niet wilde meewerken aan het onderzoek, waardoor de aanvraag onvolledig bleef.",
+   "bron": [
+    21
+   ],
+   "citaat": "Eiser wilde daar niet aan meewerken"
+  },
+  {
+   "zin": "De rechter vond niet van belang of de aanvraag bewust werd bemoeilijkt.",
+   "bron": [
+    29
+   ],
+   "citaat": "Of in de aanvraagprocedure de zaak bemoeilijkt is en door wie, is daarbij niet relevant"
+  },
+  {
+   "zin": "De eerdere kwestie over niet tijdig beslissen liet de rechter buiten beschouwing.",
+   "bron": [
+    27
+   ],
+   "citaat": "Die kwestie is afgedaan in de hiervoor genoemde uitspraak van 27 juni 2022"
+  },
+  {
+   "zin": "Van proceskosten was geen sprake.",
+   "bron": [
+    30
+   ],
+   "citaat": "Van proceskosten is geen sprake"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; aanvraag bleef afgewezen zonder medisch onderzoek.",
+ "gevolg_betrokkene": {
+  "zin": "De aanvrager krijgt geen gehandicaptenparkeerkaart, omdat het college die zonder medisch onderzoek niet mag afgeven.",
+  "bron": [
+   29
+  ],
+  "citaat": "Verweerder kan daarom gelet op genoemd artikel in de Regeling geen gehandicaptenparkeerkaart afgeven"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente besliste te laat en daarom is een dwangsom verschuldigd.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter liet dit buiten beschouwing, omdat die kwestie al eerder was afgedaan.",
+    "bron": [
+     27
+    ],
+    "citaat": "Die kwestie is afgedaan in de hiervoor genoemde uitspraak van 27 juni 2022"
+   },
+   "bruikbare_zin": {
+    "citaat": "Die kwestie is afgedaan in de hiervoor genoemde uitspraak",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente heeft de zaak bewust bemoeilijkt; dat was niet onderbouwd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond niet van belang of de zaak bemoeilijkt was en door wie.",
+    "bron": [
+     29
+    ],
+    "citaat": "Of in de aanvraagprocedure de zaak bemoeilijkt is en door wie, is daarbij niet relevant"
+   },
+   "bruikbare_zin": {
+    "citaat": "Een geneeskundig onderzoek is dus dwingend voorgeschreven",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Zonder eerder geneeskundig onderzoek naar de handicap geeft de gemeente geen kaart af.",
+  "type": "regel",
+  "reikwijdte": "Aanvragen voor een gehandicaptenparkeerkaart",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   29
+  ],
+  "citaat": "een gehandicaptenparkeerkaart niet wordt afgegeven alvorens een geneeskundig onderzoek heeft plaatsgehad"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "geneeskundig onderzoek (GGD)",
+   "documenten als begin van bewijs van de handicap"
+  ],
+  "wat_gaf_doorslag": "Er was geen medisch onderzoek en geen begin van bewijs van de handicap."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 4:5 lid 1 onder c Awb",
+  "art. 8:54 Awb",
+  "art. 2 lid 1 Ministeriële Regeling gehandicaptenparkeerkaart"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Geef de aanvrager de gelegenheid om een ontbrekend medisch onderzoek alsnog te laten doen, binnen een vaste termijn.",
+   "raakt": "vergunningen",
+   "bron": [
+    21
+   ],
+   "citaat": "Volgens genoemd artikel moet de aanvrager dan gelegenheid krijgen om de aanvraag aan te vullen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een gehandicaptenparkeerkaart krijgt u alleen na een medisch onderzoek naar uw handicap. Laat u dat onderzoek niet doen, dan kan de gemeente de kaart niet afgeven, ook niet na bezwaar of beroep. Heeft u documenten die uw handicap laten zien, neem die dan mee in een nieuwe aanvraag.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

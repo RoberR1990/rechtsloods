@@ -1,0 +1,182 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2020:4785",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg in Gouda een boete van 90 euro voor parkeren in een parkeerverbodszone. Hij ging via een gemachtigde in hoger beroep bij het gerechtshof tegen de officier van justitie.",
+ "titel": "Bord einde vergunninghouderzone beëindigt parkeerverbod niet",
+ "kern": {
+  "zin": "Het hof vindt de boete terecht: een bord dat de zone voor vergunninghouders beëindigt, beëindigt de parkeerverbodszone niet.",
+  "bron": [
+   26
+  ],
+  "citaat": "wordt beëindigd door plaatsing van een bord waarmee het einde van die zone wordt aangeduid"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete van 90 euro voor parkeren in een parkeerverbodszone.",
+   "bron": [
+    18
+   ],
+   "citaat": "parkeren in strijd met parkeerverbod/parkeerverbodszone (bord E1)"
+  },
+  {
+   "zin": "Hij zei dat hij geen zonebord zag en niet hoefde te begrijpen dat een bord alleen de zone voor vergunninghouders beëindigde.",
+   "bron": [
+    19
+   ],
+   "citaat": "Toen de betrokkene de wijk inreed heeft hij geen zonebord E1 gezien"
+  },
+  {
+   "zin": "De handhaver verklaarde dat er bij alle ingangen van de wijk duidelijke borden stonden.",
+   "bron": [
+    23
+   ],
+   "citaat": "bij alle ingangen staat duidelijk bebording"
+  },
+  {
+   "zin": "Het hof zei dat de parkeerder niet aangaf welke route hij reed, en dat een gemist bord voor zijn eigen rekening komt.",
+   "bron": [
+    25
+   ],
+   "citaat": "deze bebording heeft gemist, is een omstandigheid waarvan de gevolgen voor zijn eigen rekening dienen te komen"
+  },
+  {
+   "zin": "De parkeerverbodszone eindigt volgens het hof alleen bij een bord dat het einde van die zone aangeeft, niet bij een bord voor vergunninghouders.",
+   "bron": [
+    26
+   ],
+   "citaat": "niet (mede) beëindigd door plaatsing van een bord waarmee het einde van de zone voor vergunninghouders wordt aangeduid"
+  },
+  {
+   "zin": "Het hof bevestigde de beslissing van de kantonrechter.",
+   "bron": [
+    33
+   ],
+   "citaat": "bevestigt de beslissing van de kantonrechter"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete van 90 euro blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van 90 euro blijft staan en de kosten in hoger beroep worden niet vergoed.",
+  "bron": [
+   18,
+   34
+  ],
+  "citaat": "een sanctie is opgelegd van € 90,- voor"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Ik zag bij het inrijden van de wijk geen zonebord en de handhaver controleerde niet alle toegangswegen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De parkeerder gaf zijn route niet aan; een gemist bord is voor zijn eigen rekening.",
+    "bron": [
+     25
+    ],
+    "citaat": "deze bebording heeft gemist, is een omstandigheid waarvan de gevolgen voor zijn eigen rekening dienen te komen"
+   },
+   "bruikbare_zin": {
+    "citaat": "In de onderhavige zaak is niet aangegeven welke route de betrokkene heeft afgelegd om zijn bestemming te bereiken",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Bij een bord einde zone mag ik denken dat ook het parkeerverbod is afgelopen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een parkeerverbodszone eindigt alleen met een bord dat het einde van die zone aangeeft.",
+    "bron": [
+     26
+    ],
+    "citaat": "wordt beëindigd door plaatsing van een bord waarmee het einde van die zone wordt aangeduid"
+   },
+   "bruikbare_zin": {
+    "citaat": "Voor zover de betrokkene dit niet heeft begrepen, betreft dit een omstandigheid waarvan de gevolgen voor zijn eigen rekening dienen te komen",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De vergoeding van proceskosten die de kantonrechter gaf was te laag.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof ziet in dit geval geen aanleiding voor een proceskostenvergoeding.",
+    "bron": [
+     29
+    ],
+    "citaat": "is er in dit geval geen aanleiding voor een proceskostenvergoeding"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerverbodszone eindigt alleen bij een bord dat het einde van die zone aanduidt; een bord einde vergunninghouderzone telt daarvoor niet.",
+  "type": "regel",
+  "reikwijdte": "Parkeerverbodszones met een zone voor vergunninghouders erbinnen",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   26
+  ],
+  "citaat": "wordt beëindigd door plaatsing van een bord waarmee het einde van die zone wordt aangeduid"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "proces-verbaal van de handhaver",
+   "zaakoverzicht"
+  ],
+  "wat_gaf_doorslag": "De parkeerder noemde zijn route niet, dus de verklaring van de handhaver over de borden bleef staan."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHARL:2020:1803",
+   "ECLI:NL:GHARL:2020:3336"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 66 lid 2 RVV 1990",
+  "art. 3 lid 2 Wahv"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Laat de handhaver in het proces-verbaal vastleggen dat bij alle ingangen van de zone borden staan",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    23
+   ],
+   "citaat": "bij alle ingangen staat duidelijk bebording"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een parkeerverbodszone geldt tot een bord het einde van die zone aangeeft. Een bord dat alleen het einde van een zone voor vergunninghouders aangeeft, beëindigt het parkeerverbod niet. Zegt u dat borden ontbraken, geef dan aan welke route u reed.",
+ "gemeente": "Gouda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

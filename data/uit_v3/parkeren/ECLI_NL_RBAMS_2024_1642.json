@@ -1,0 +1,137 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2024:1642",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "gehandicaptenkaart",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bestuurder (aanvrager)",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bestuurder vroeg de gemeente Amsterdam om een Europese gehandicaptenparkeerkaart. Die werd geweigerd, en hij ging in beroep bij de rechtbank Amsterdam.",
+ "titel": "Parkeerkaart voor gehandicapten geweigerd; medisch advies gaf de doorslag",
+ "kern": {
+  "zin": "De rechter liet de afwijzing staan, want het GGD-advies was voldoende onderbouwd.",
+  "bron": [
+   22
+  ],
+  "citaat": "Het advies bevat voldoende informatie om de conclusie te dragen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De aanvraag van de bestuurder werd in juli 2022 geweigerd.",
+   "bron": [
+    11
+   ],
+   "citaat": "met het besluit van 14 juli 2022 afgewezen"
+  },
+  {
+   "zin": "De bestuurder zei dat hij niet verder dan 100 meter kan lopen.",
+   "bron": [
+    19
+   ],
+   "citaat": "dat hij niet meer dan 100 meter kan lopen"
+  },
+  {
+   "zin": "De gemeente vertrouwde op het medisch advies van de GGD.",
+   "bron": [
+    21
+   ],
+   "citaat": "het medisch advies van de GGD betrokken"
+  },
+  {
+   "zin": "De rechter zag geen aanleiding om het GGD-advies te wantrouwen.",
+   "bron": [
+    22
+   ],
+   "citaat": "niet is gebleken dat getwijfeld moet worden aan de juistheid van het GGD-advies"
+  },
+  {
+   "zin": "Aanvullend openbaar vervoer telt niet mee, want daarvoor gelden andere voorwaarden.",
+   "bron": [
+    23
+   ],
+   "citaat": "Om in aanmerking te komen voor AOV gelden namelijk andere voorwaarden"
+  },
+  {
+   "zin": "De bestuurder krijgt ook geen vergoeding voor zijn proceskosten.",
+   "bron": [
+    27
+   ],
+   "citaat": "Hij krijgt ook geen vergoeding van zijn proceskosten"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; kaart blijft geweigerd",
+ "gevolg_betrokkene": {
+  "zin": "De bestuurder krijgt de kaart niet, en ook geen vergoeding voor de proceskosten.",
+  "bron": [
+   16,
+   27
+  ],
+  "citaat": "De rechtbank is van oordeel dat het beroep ongegrond is"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij kan niet verder dan 100 meter lopen, en het aanvullend openbaar vervoer is hem wel toegekend.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het GGD-advies was voldoende onderbouwd, en voor AOV gelden andere voorwaarden.",
+    "bron": [
+     22,
+     23
+    ],
+    "citaat": "Het advies bevat voldoende informatie om de conclusie te dragen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het advies bevat voldoende informatie om de conclusie te dragen",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een gemeente mag een besluit op medisch advies baseren, mits het advies zorgvuldig en objectief is opgesteld.",
+  "type": "regel",
+  "reikwijdte": "Medisch advies dat zorgvuldig, inzichtelijk en objectief is opgesteld",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   20
+  ],
+  "citaat": "als die adviezen op een zorgvuldige, inzichtelijke en objectieve manier zijn opgesteld"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "GGD-advies (medisch advies)"
+  ],
+  "wat_gaf_doorslag": "Het GGD-advies gaf de doorslag; er bleek geen reden om het te betwijfelen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 1, eerste lid, onder a Regeling gehandicaptenparkeerkaart"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "onderzoek was al zorgvuldig; geen aanpassing uit deze zaak",
+ "raakt": [
+  "vergunningen",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een gehandicaptenparkeerkaart krijgt u alleen als u niet zelfstandig meer dan 100 meter kunt lopen. Dat beoordeelt de gemeente met een medisch advies van de GGD. Twijfelt u daaraan, dan moet u dat met stukken onderbouwen; winst is niet gegarandeerd.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

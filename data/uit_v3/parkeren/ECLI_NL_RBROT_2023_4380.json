@@ -1,0 +1,159 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:4380",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder uit Dordrecht ging in beroep tegen de gemeente Rotterdam. Het ging alleen om een vergoeding van proceskosten (de kosten die hij in het bezwaar maakte) voor een hoorzitting.",
+ "titel": "Geen vergoeding hoorzitting: betaalkaart pas bij de hoorzitting",
+ "kern": {
+  "zin": "De rechter oordeelde dat de gemeente terecht geen vergoeding voor de hoorzitting gaf, omdat de betaalkaart al eerder had kunnen worden overgelegd.",
+  "bron": [
+   20
+  ],
+  "citaat": "Verweerder heeft dan ook terecht geen punt toegekend voor de hoorzitting."
+ },
+ "samenvatting": [
+  {
+   "zin": "Het ging om de vraag of de gemeente ook een vergoeding had moeten geven voor de hoorzitting.",
+   "bron": [
+    16
+   ],
+   "citaat": "dat verweerder ook proceskosten had moeten toekennen voor het bijwonen van de hoorzitting"
+  },
+  {
+   "zin": "De gemachtigde vond dat de gemeente verplicht was een vergoeding voor de hoorzitting te geven.",
+   "bron": [
+    18
+   ],
+   "citaat": "gehouden is hem de punt proceskosten voor de hoorzitting toe te kennen"
+  },
+  {
+   "zin": "De gemeente zei dat de gemachtigde de betaalkaart pas bij de hoorzitting had overgelegd.",
+   "bron": [
+    17
+   ],
+   "citaat": "niet eerder dan bij de hoorzitting op 30 december 2021 een geldige betaalkaart heeft overgelegd"
+  },
+  {
+   "zin": "De rechter zag een bijzondere omstandigheid, waardoor de gemeente mocht afwijken van de vaste vergoeding.",
+   "bron": [
+    20
+   ],
+   "citaat": "Het voorgaande vormt een bijzondere omstandigheid op grond waarvan verweerder mocht afwijken"
+  },
+  {
+   "zin": "De rechter wees ook het verzoek om schadevergoeding en wettelijke rente af.",
+   "bron": [
+    23
+   ],
+   "citaat": "Nu het beroep ongegrond is verklaard, wijst de rechtbank dat schadevergoedingsverzoek af."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; er komt geen extra vergoeding voor de hoorzitting.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt geen vergoeding voor de hoorzitting, en de gevraagde rente en schadevergoeding worden afgewezen.",
+  "bron": [
+   23
+  ],
+  "citaat": "wijst de rechtbank dat schadevergoedingsverzoek af."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente had op grond van het Bpb een vergoedingspunt voor de hoorzitting moeten toekennen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag een bijzondere omstandigheid, omdat de betaalkaart al eerder had kunnen worden overgelegd.",
+    "bron": [
+     20
+    ],
+    "citaat": "Het voorgaande vormt een bijzondere omstandigheid op grond waarvan verweerder mocht afwijken"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het voorgaande vormt een bijzondere omstandigheid op grond waarvan verweerder mocht afwijken",
+    "bron": [
+     20
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente had de hoorzitting kunnen voorkomen door het parkeersysteem na te kijken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat het parkeersysteem was gecontroleerd en geen betaling liet zien.",
+    "bron": [
+     20
+    ],
+    "citaat": "Zoals verweerder ter zitting heeft toegelicht is het systeem gecontroleerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "maar bleek daaruit niet dat eiser had betaald.",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor het bijwonen van een hoorzitting in bezwaar krijgt men in beginsel een vergoedingspunt, maar bij bijzondere omstandigheden mag daarvan worden afgeweken.",
+  "type": "regel",
+  "reikwijdte": "proceskosten voor het bijwonen van een hoorzitting in bezwaar",
+  "uitzondering": "bijzondere omstandigheden",
+  "herkomst": "wet",
+  "bron": [
+   19
+  ],
+  "citaat": "volgt dat in beginsel voor het bijwonen van een hoorzitting een punt wordt toegekend"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "brieven van de gemeente",
+   "betaalkaart ter zitting"
+  ],
+  "wat_gaf_doorslag": "De betaalkaart was al eerder beschikbaar; de gemachtigde leverde die pas bij de hoorzitting aan."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:HR:2006:AX0985"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:15 Awb",
+  "art. 2 lid 3 Bpb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij een algemeen bezwaarschrift vooraf om de stukken, en leg vast waarom er geen vergoeding voor de hoorzitting komt.",
+   "raakt": "bezwaar",
+   "bron": [
+    20
+   ],
+   "citaat": "Dan was het niet nodig geweest om een hoorzitting te houden."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "In deze zaak ging het niet over of de rekening terecht was, maar over de vergoeding voor de hoorzitting. De rechter vond dat de betaalkaart al eerder had kunnen worden overgelegd, daarom kreeg de parkeerder geen vergoeding. Stuur bewijs zoals een betaalkaart daarom meteen mee met uw bezwaar, dan is een hoorzitting misschien niet nodig.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

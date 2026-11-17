@@ -1,0 +1,85 @@
+[
+ {
+  "item": "u1",
+  "A": {
+   "oordeel": "goed",
+   "fouten": []
+  },
+  "B": {
+   "oordeel": "goed",
+   "fouten": []
+  },
+  "voorkeur": "gelijk",
+  "waarom": "Beide kloppen met de uitspraak; B noemt ook de opbrengstlimiet-grond apart, A is korter. Geen verschil in betrouwbaarheid."
+ },
+ {
+  "item": "u2",
+  "A": {
+   "oordeel": "klein",
+   "fouten": [
+    "Rechtsregel te breed: burger moet altijd zelf betaling aannemelijk maken",
+    "Gevolg noemt proceskosten niet",
+    "Samenvatting stelt stellig dat betaling niet voor deze auto gold"
+   ]
+  },
+  "B": {
+   "oordeel": "klein",
+   "fouten": [
+    "Titel stelt als feit dat verkeerde gegevens zijn ingevoerd; rechter zegt 'mogelijk'",
+    "09:54 uur is standpunt gemeente, niet expliciet door rechter overgenomen"
+   ]
+  },
+  "voorkeur": "B",
+  "waarom": "B heeft rechtsregel met uitzondering en preciezere bewijsduiding; A's regel is te algemeen. Beide kleine onnauwkeurigheden."
+ },
+ {
+  "item": "u3",
+  "A": {
+   "oordeel": "goed",
+   "fouten": []
+  },
+  "B": {
+   "oordeel": "goed",
+   "fouten": []
+  },
+  "voorkeur": "gelijk",
+  "waarom": "Beide juist over uitkomst, bedragen en overmacht; A kern noemt uitkomst duidelijker, B klantuitleg praktischer. Geen echte fouten."
+ },
+ {
+  "item": "u4",
+  "A": {
+   "oordeel": "klein",
+   "fouten": [
+    "Kern-citaat draagt 'voldoende aanwijzing' niet",
+    "Klantuitleg generaliseert: automaat of eerdere betaling geldt als bewijs, foto's niet genoeg",
+    "Rechtsregel noemt informatieplicht gemeente niet",
+    "actie_gemeente te algemeen"
+   ]
+  },
+  "B": {
+   "oordeel": "klein",
+   "fouten": [
+    "Gemeente leeg terwijl uitspraak Utrecht noemt",
+    "actie_gemeente te algemeen"
+   ]
+  },
+  "voorkeur": "B",
+  "waarom": "B is evenwichtiger: rechtsregel noemt beide plichten en kern-citaat draagt de bewering. A overgeneraliseert in klantuitleg."
+ },
+ {
+  "item": "u5",
+  "A": {
+   "oordeel": "goed",
+   "fouten": []
+  },
+  "B": {
+   "oordeel": "klein",
+   "fouten": [
+    "actie_gemeente (verweerschrift beschrijven) volgt niet uit de uitspraak",
+    "Titel 'scanfoto's zijn genoeg bewijs' is te algemeen; doorslag was niet-betwisten"
+   ]
+  },
+  "voorkeur": "A",
+  "waarom": "A klopt en geeft terecht geen actie; B verzint een te specifieke actie en heeft een te algemene titel."
+ }
+]

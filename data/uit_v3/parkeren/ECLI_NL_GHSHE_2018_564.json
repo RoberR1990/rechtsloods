@@ -1,0 +1,156 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHSHE:2018:564",
+ "relevant": true,
+ "kenmerk": null,
+ "dubbel_van": null,
+ "reden_gemeente_leeg": null,
+ "reden_leeg_actie": null,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (particulier)",
+  "wederpartij": "gemeente Eindhoven",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder in Eindhoven kreeg een naheffingsaanslag (een rekening achteraf), nadat de parkeerautomaat bij het betalen met de pinpas 'interne storing' meldde. De parkeerder ging tegen de gemeente in hoger beroep bij het gerechtshof 's-Hertogenbosch.",
+ "titel": "Parkeerautomaat leek stuk: drie minuten was te kort om te betalen",
+ "kern": {
+  "zin": "De naheffing was ten onrechte opgelegd, want de gemeente liet niet zien dat drie minuten genoeg was om na de storing alsnog te betalen.",
+  "bron": [
+   44
+  ],
+  "citaat": "Naar het oordeel van het Hof is de Heffingsambtenaar in deze bewijslast niet geslaagd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 5 september 2015 om 18.19 uur stond de auto in Eindhoven en de controleur zag geen parkeerkaartje achter de voorruit.",
+   "bron": [
+    25
+   ],
+   "citaat": "Een parkeercontroleur heeft op dat moment geconstateerd dat achter de voorruit geen parkeerkaartje lag"
+  },
+  {
+   "zin": "De parkeerder zei dat hij met zijn pinpas wilde betalen, dat de automaat 'interne storing' meldde en dat hij een andere automaat ging zoeken.",
+   "bron": [
+    42
+   ],
+   "citaat": "heeft onweersproken gesteld dat hij zijn pinpas heeft ingevoerd in de parkeerautomaat"
+  },
+  {
+   "zin": "De gemeente zei dat de parkeerder het storingsnummer had kunnen bellen en dat de volgende automaat al na 25 seconden te zien was.",
+   "bron": [
+    36
+   ],
+   "citaat": "had ook het storingsnummer kunnen bellen, dan had het bedrijf hem verteld dat pinnen bij deze automaat"
+  },
+  {
+   "zin": "De rechter vond dat de parkeerder redelijkerwijs mocht denken dat de automaat defect was, omdat er niet op stond dat pinnen niet kon.",
+   "bron": [
+    42
+   ],
+   "citaat": "belanghebbende in redelijkheid mocht menen dat de parkeerautomaat defect was"
+  },
+  {
+   "zin": "Heen en terug lopen naar de volgende automaat kostte al drie minuten, dus drie minuten was geen redelijke termijn.",
+   "bron": [
+    44
+   ],
+   "citaat": "in dit geval drie minuten geen redelijke termijn is voor het in werking stellen van parkeerapparatuur"
+  },
+  {
+   "zin": "De naheffing werd vernietigd en de gemeente moest € 536,40 aan kosten en het griffierecht van € 169 betalen.",
+   "bron": [
+    61
+   ],
+   "citaat": "vastgesteld op in totaal € 536,40"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd; gemeente betaalt kosten en griffierecht.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing vervalt, de gemeente betaalt € 536,40 aan kosten en betaalt het griffierecht van € 169 terug.",
+  "bron": [
+   61,
+   60
+  ],
+  "citaat": "vastgesteld op in totaal € 536,40"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De automaat gaf 'interne storing' aan, dus ik ging op zoek naar een andere automaat en had te weinig tijd om te betalen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente liet niet zien dat drie minuten genoeg was om een andere automaat te zoeken en te gebruiken.",
+    "bron": [
+     44
+    ],
+    "citaat": "in dit geval drie minuten geen redelijke termijn is voor het in werking stellen van parkeerapparatuur"
+   },
+   "bruikbare_zin": {
+    "citaat": "Op de parkeerautomaat was niet vermeld dat betaling met bankpas niet mogelijk is",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder krijgt een redelijke tijd om parkeerapparatuur te gebruiken, en de gemeente moet bewijzen dat de gebruikte tijd redelijk was.",
+  "type": "regel",
+  "reikwijdte": "Parkeerder die na een storing aan de automaat een andere automaat moet zoeken",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   43
+  ],
+  "citaat": "Voor het in werking stellen van parkeerapparatuur moet belanghebbende op grond van vaste rechtspraak een redelijke termijn worden gegund"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto's van automaten met stickers",
+   "loopafstand tot de volgende automaat"
+  ],
+  "wat_gaf_doorslag": "Heen en terug lopen kostte drie minuten, en de parkeerder moest ook nog zoeken en de automaat bedienen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vermeld op parkeerautomaten waar betalen met de bankpas niet kan duidelijk dat dit niet kan en sluit het invoeren van de bankpas uit.",
+   "raakt": "communicatie",
+   "bron": [
+    26
+   ],
+   "citaat": "Op de parkeerautomaat was niet vermeld dat betaling met bankpas niet mogelijk is"
+  },
+  {
+   "actie": "Reken bij een betaalprobleem de loopafstand naar de volgende automaat plus zoek- en bedientijd mee voordat u een naheffing oplegt.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    44
+   ],
+   "citaat": "Omdat belanghebbende ook nog de parkeerapparatuur in werking moet stellen en belanghebbende bovendien niet wist waar de volgende parkeerautomaat was"
+  }
+ ],
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar",
+  "klantcontact",
+  "communicatie"
+ ],
+ "klantuitleg": "Werkt de parkeerautomaat niet en gaat u een andere zoeken? Dan krijgt u een redelijke tijd om alsnog te betalen. Is de rekening achteraf te snel opgelegd, dan kan bezwaar zin hebben; noteer wat de automaat meldde en wat u deed.",
+ "gemeente": "Eindhoven",
+ "zekerheid": "middel"
+}

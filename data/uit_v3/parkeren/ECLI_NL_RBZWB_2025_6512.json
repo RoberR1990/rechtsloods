@@ -1,0 +1,41 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:6512",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "parkeerder", "wederpartij": "gemeente Breda", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging bij de rechtbank Zeeland-West-Brabant in beroep tegen een naheffingsaanslag (de rekening achteraf) van de gemeente Breda. Het ging erom of de parkeerder genoeg tijd had om een automaat te zoeken en te betalen.",
+ "titel": "Zoeken naar een parkeermeter telt mee: rekening vervalt",
+ "kern": {"zin": "De rechter vond de rekening onterecht: de parkeerder had redelijke tijd nodig om een automaat te zoeken, en die tijd telde mee.", "bron": [23], "citaat": "Dit betekent dat de naheffingsaanslag onterecht is opgelegd en moet worden vernietigd."},
+ "samenvatting": [
+  {"zin": "De parkeerder kreeg in Breda een naheffing van € 63,15, omdat er niet was betaald.", "bron": [19, 17], "citaat": "vanwege het niet betalen van parkeerbelasting een naheffingsaanslag parkeerbelasting opgelegd"},
+  {"zin": "De parkeerder zegt na 150 meter lopen nog geen automaat te hebben gezien en is teruggelopen naar de auto.", "bron": [21], "citaat": "na 150 meter te hebben gelopen in de aangegeven richting nog geen parkeerautomaat zag"},
+  {"zin": "De gemeente Breda sprak niet tegen dat de dichtstbijzijnde automaat op 400 meter afstand stond.", "bron": [22], "citaat": "dat de dichtstbijzijnde parkeerautomaat zich op 400 meter van de parkeerlocatie bevindt"},
+  {"zin": "De rechter vond dat zoeken naar de meter onder een redelijke betaaltijd valt.", "bron": [23], "citaat": "een redelijke tijd worden gelaten om de parkeerapparatuur in werking te stellen"},
+  {"zin": "Daardoor verdwijnt de aanslag: de uitspraak op bezwaar en de aanslag worden ongedaan gemaakt.", "bron": [25], "citaat": "De rechtbank vernietigt daarom de uitspraak op bezwaar en de naheffingsaanslag"}
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd; griffierecht van € 51 terug, geen proceskosten.",
+ "gevolg_betrokkene": {"zin": "De aanslag verdwijnt, en de parkeerder krijgt het griffierecht van € 51 terug, maar geen proceskosten.", "bron": [25, 26, 32], "citaat": "De rechtbank vernietigt daarom de uitspraak op bezwaar en de naheffingsaanslag"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "overig", "burger_zegt": "De parkeerder vond na 150 meter lopen geen automaat en liep terug naar de auto.", "oordeel": "gehonoreerd", "waarom": {"zin": "De rechter vond dat zoeken naar een automaat een redelijke tijd was om te betalen.", "bron": [23], "citaat": "een redelijke tijd worden gelaten om de parkeerapparatuur in werking te stellen"}, "bruikbare_zin": {"citaat": "door 150 meter in de aangegeven richting te lopen op zoek naar een parkeerautomaat", "bron": [23]}}
+ ],
+ "rechtsregel": {"zin": "Wie moet betalen, krijgt eerst een redelijke tijd om de betaalapparatuur te bedienen.", "type": "regel", "reikwijdte": "parkeerbelasting: tijd om een automaat te vinden en te bedienen", "uitzondering": null, "herkomst": "oordeel rechter", "bron": [23], "citaat": "een redelijke tijd worden gelaten om de parkeerapparatuur in werking te stellen"},
+ "bewijs": {"bewijslast_bij": "burger", "bewijsmiddelen": ["bankafschriften van betalingen bij restaurant, garage en supermarkt", "routebeschrijvingen van Google Maps"], "wat_gaf_doorslag": "De tijdlijn uit de stukken, en dat de gemeente niet tegensprak."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": [],
+ "actie_gemeente": [{"actie": "Reageer in beroep met een weerwoord als u de afstand tot de dichtstbijzijnde automaat niet eens bent.", "raakt": "bezwaar", "bron": [22], "citaat": "Evenmin betwist de heffingsambtenaar dat de dichtstbijzijnde parkeerautomaat zich op 400 meter"}],
+ "reden_leeg_actie": null,
+ "raakt": ["bezwaar", "tarief-naheffing", "betaalapp"],
+ "klantuitleg": "De rekening voor het parkeren is niet terecht als u na het parkeren redelijke tijd nodig had om een automaat te zoeken en te betalen. Het helpt als u kunt laten zien hoe lang u zocht, bijvoorbeeld met bankafschriften of een routekaart. Zonder zulke bewijzen heeft bezwaar weinig kans.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

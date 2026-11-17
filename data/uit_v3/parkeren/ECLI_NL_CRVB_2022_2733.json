@@ -1,0 +1,158 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:CRVB:2022:2733",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "gehandicaptenkaart",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "aanvrager",
+  "wederpartij": "gemeente Utrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een aanvrager vroeg bij de gemeente Utrecht een gehandicaptenparkeerkaart voor passagiers aan. De gemeente wees de aanvraag af. Zij ging in hoger beroep bij de Centrale Raad van Beroep.",
+ "titel": "Gehandicaptenkaart geweigerd omdat medisch onderzoek ontbrak",
+ "kern": {
+  "zin": "De Raad vindt dat de gemeente bij een eerste aanvraag een medisch onderzoek of huisbezoek mocht vragen, omdat geen medische bezwaren daartegen bleken.",
+  "bron": [
+   16
+  ],
+  "citaat": "Er is immers niet naar voren gekomen dat daartegen objectiefmedische bezwaren bestonden."
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Utrecht wees de aanvraag af, omdat de aanvrager niet meewerkte aan het medisch onderzoek dat de medisch adviseur nodig vond.",
+   "bron": [
+    13
+   ],
+   "citaat": "Het bestreden besluit berust op het standpunt dat appellante geen medewerking heeft willen verlenen aan een medisch onderzoek"
+  },
+  {
+   "zin": "De aanvrager zei dat een huisbezoek te belastend en onnodig was.",
+   "bron": [
+    14
+   ],
+   "citaat": "Een huisbezoek is voor appellante te belastend en onnodig."
+  },
+  {
+   "zin": "De gemeente zei dat zonder dit onderzoek niet te beoordelen is of de kaart verleend moet worden.",
+   "bron": [
+    13
+   ],
+   "citaat": "Zonder dit onderzoek kan niet beoordeeld worden of de gehandicaptenparkeerkaart voor een passagier verleend moet worden."
+  },
+  {
+   "zin": "De Raad vindt dat de medisch adviseur om een medisch onderzoek of huisbezoek mocht vragen.",
+   "bron": [
+    16
+   ],
+   "citaat": "heeft mogen vragen om, conform de regelgeving en het protocol betreffende een aanvraag als hier aan de orde, voor zijn beoordeling een medisch onderzoek of huisbezoek te doen"
+  },
+  {
+   "zin": "Dat de gemeente al medische informatie had uit een eerdere aanvraag, maakt een onderzoek volgens de rechtbank niet overbodig.",
+   "bron": [
+    13
+   ],
+   "citaat": "maakt niet dat een huisbezoek, dan wel fysiek medisch onderzoek daarom niet langer nodig zou zijn"
+  },
+  {
+   "zin": "Het hoger beroep slaagt niet en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    17
+   ],
+   "citaat": "Uit wat onder 3.1 is overwogen, volgt dat het hoger beroep niet slaagt."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Afwijzing blijft staan; onderzoek of huisbezoek mocht gevraagd worden.",
+ "gevolg_betrokkene": {
+  "zin": "De aanvraag blijft afgewezen en de aanvrager krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   18,
+   17
+  ],
+  "citaat": "Voor een veroordeling in de proceskosten bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Een huisbezoek is te belastend en onnodig.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er bleken geen objectief-medische bezwaren tegen het huisbezoek.",
+    "bron": [
+     16
+    ],
+    "citaat": "Er is immers niet naar voren gekomen dat daartegen objectiefmedische bezwaren bestonden."
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft mogen vragen om, conform de regelgeving en het protocol betreffende een aanvraag als hier aan de orde, voor zijn beoordeling een medisch onderzoek of huisbezoek te doen",
+    "bron": [
+     16
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Medische rapporten uit eerdere aanvragen en informatie van de kinderpsychiater hadden volstaan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Eerdere medische informatie maakt een huisbezoek of fysiek onderzoek niet overbodig.",
+    "bron": [
+     13,
+     16
+    ],
+    "citaat": "maakt niet dat een huisbezoek, dan wel fysiek medisch onderzoek daarom niet langer nodig zou zijn"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente mag bij een eerste aanvraag om een gehandicaptenparkeerkaart een medisch onderzoek of huisbezoek vragen.",
+  "type": "regel",
+  "reikwijdte": "Eerste aanvragen voor een gehandicaptenparkeerkaart volgens de Regeling en het protocol.",
+  "uitzondering": "Er zijn objectief-medische bezwaren tegen het onderzoek of huisbezoek.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   16
+  ],
+  "citaat": "heeft mogen vragen om, conform de regelgeving en het protocol betreffende een aanvraag als hier aan de orde, voor zijn beoordeling een medisch onderzoek of huisbezoek te doen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Er kwamen geen objectief-medische bezwaren naar voren tegen een huisbezoek."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 2 Regeling gehandicaptenparkeerkaart"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij een eerste aanvraag om een medisch onderzoek of huisbezoek, zoals de Regeling en het protocol voorschrijven.",
+   "raakt": "vergunningen",
+   "bron": [
+    16
+   ],
+   "citaat": "heeft mogen vragen om, conform de regelgeving en het protocol betreffende een aanvraag als hier aan de orde, voor zijn beoordeling een medisch onderzoek of huisbezoek te doen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Vraagt u voor het eerst een gehandicaptenparkeerkaart aan, dan mag de gemeente een medisch onderzoek of huisbezoek vragen. Werkt u daar niet aan mee, dan kan de aanvraag worden afgewezen. Heeft u medische redenen waarom dat niet kan, laat dat dan vroeg weten met een verklaring van uw arts.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

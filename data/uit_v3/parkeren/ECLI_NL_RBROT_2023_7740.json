@@ -1,0 +1,192 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:7740",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "belastingplicht",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (bestuurder)",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bestuurder procedeerde bij de rechtbank Rotterdam tegen de gemeente Rotterdam. De gemeente had haar bezwaren tegen twee naheffingen (de rekeningen achteraf) niet ontvankelijk verklaard, omdat zij geen machtiging van de kentekenhouder had.",
+ "titel": "Gemeente moet opnieuw beslissen; bezwaar ten onrechte geweigerd",
+ "kern": {
+  "zin": "De rechter vindt dat de bestuurder zelf bezwaar mocht maken, dus moet de gemeente opnieuw beslissen.",
+  "bron": [
+   25
+  ],
+  "citaat": "Omdat eiseres krachtens een eigen recht bezwaar mocht maken tegen de naheffingsaanslagen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde op 23 en 29 juni 2022 twee naheffingen op aan de houder van het kenteken.",
+   "bron": [
+    19
+   ],
+   "citaat": "Verweerder heeft op 23 en 29 juni 2022 naheffingsaanslagen parkeerbelasting opgelegd aan de kentekenhouder"
+  },
+  {
+   "zin": "Zij stelt dat zij als bestuurder zelf heeft geparkeerd en dus zelf bezwaar mag maken.",
+   "bron": [
+    22
+   ],
+   "citaat": "zij als bestuurder het voertuig heeft geparkeerd en op eigen titel bezwaar heeft ingediend"
+  },
+  {
+   "zin": "De gemeente vond dat de bestuurder dat in het bezwaarschrift duidelijk had moeten zeggen.",
+   "bron": [
+    23
+   ],
+   "citaat": "had zij dat duidelijk in het bezwaarschrift moeten vermelden"
+  },
+  {
+   "zin": "De rechter vindt dat de gemeente de bezwaren ten onrechte buiten behandeling liet.",
+   "bron": [
+    25
+   ],
+   "citaat": "Omdat eiseres krachtens een eigen recht bezwaar mocht maken tegen de naheffingsaanslagen"
+  },
+  {
+   "zin": "De rechter zet de besluiten opzij en laat de gemeente opnieuw beslissen.",
+   "bron": [
+    43
+   ],
+   "citaat": "vernietigt de bestreden besluiten"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Geen inhoudelijk oordeel; gemeente moet opnieuw beslissen en betalen.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt 837 euro proceskosten en 100 euro griffierecht terug, en de bezwaren worden opnieuw beoordeeld.",
+  "bron": [
+   46,
+   45,
+   44
+  ],
+  "citaat": "veroordeelt verweerder tot betaling van € 837,- aan proceskosten aan eiseres"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Zij heeft de auto zelf geparkeerd en mag daarom als bestuurder zelf bezwaar maken.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vindt dat de gemeente moest uitgaan van haar eigen stelling als bestuurder.",
+    "bron": [
+     24
+    ],
+    "citaat": "zal de heffingsambtenaar in het algemeen moeten uitgaan van de juistheid van die stelling"
+   },
+   "bruikbare_zin": {
+    "citaat": "krachtens een eigen recht bezwaar mocht maken tegen de naheffingsaanslagen",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "Zij vroeg in het bezwaarschrift om gehoord te worden, maar dat is niet gebeurd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vindt het verzoek om gehoord te worden over het hoofd gezien.",
+    "bron": [
+     29
+    ],
+    "citaat": "Verweerder heeft dit ten onrechte niet aangemerkt als een verzoek om te worden gehoord"
+   },
+   "bruikbare_zin": {
+    "citaat": "De beroepsgrond slaagt wat betreft het bestreden besluit II",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De besluiten zijn onbevoegd genomen, omdat niet blijkt dat er mandaat was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter telt de aanwijzing van de directeur niet als mandaat.",
+    "bron": [
+     33
+    ],
+    "citaat": "Deze aanwijzing is geen mandaatverlening als bedoeld in artikel 10:1 van de Awb"
+   },
+   "bruikbare_zin": {
+    "citaat": "De directeur Belastingen was daarom bevoegd de naheffingsaanslagen op te leggen",
+    "bron": [
+     33
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie zelf het voertuig heeft geparkeerd, mag als bestuurder zelf bezwaar maken tegen een naheffing.",
+  "type": "regel",
+  "reikwijdte": "bestuurder die het voertuig zelf heeft geparkeerd, ook als de kentekenhouder de naheffing kreeg",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   24
+  ],
+  "citaat": "krachtens een eigen recht, in de hoedanigheid van bestuurder van het voertuig"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "bezwaarschriften van de bestuurder"
+  ],
+  "wat_gaf_doorslag": "De eigen stelling van de bestuurder in het bezwaarschrift, die de gemeente had moeten volgen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2000:AA6508",
+   "ECLI:NL:HR:2019:440",
+   "ECLI:NL:HR:2006:AX7330",
+   "ECLI:NL:GHDHA:2021:2131"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 3:4 Awb",
+  "art. 6:6 Awb",
+  "art. 10:3 derde lid Awb",
+  "art. 25 AWR",
+  "art. 231 Gemeentewet",
+  "art. 3 Aanwijzingsbesluit heffings- en invorderingsambtenaar Rotterdam"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Ga bij een bezwaar van een bestuurder uit van diens stelling dat hij of zij zelf heeft geparkeerd.",
+   "raakt": "bezwaar",
+   "bron": [
+    24
+   ],
+   "citaat": "zal de heffingsambtenaar in het algemeen moeten uitgaan van de juistheid van die stelling"
+  },
+  {
+   "actie": "Herken een verzoek om gehoord te worden, ook als het in een bezwaarschrift staat.",
+   "raakt": "bezwaar",
+   "bron": [
+    29
+   ],
+   "citaat": "Verweerder heeft dit ten onrechte niet aangemerkt als een verzoek om te worden gehoord"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren kunt u zelf aanvechten als u de auto zelf heeft geparkeerd, ook als de rekening op naam van een ander staat. Vermeld in uw bezwaarschrift dat u de bestuurder was en vraag uitdrukkelijk om gehoord te worden. Of uw bezwaar slaagt, hangt af van de feiten in uw eigen zaak.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

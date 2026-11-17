@@ -1,0 +1,155 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:4267",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing kort voordat hij zich aanmeldde in de parkeerapp. Na zijn bezwaar weigerde de gemeente Rotterdam de proceskosten te vergoeden, en hij ging daarom in beroep bij de rechtbank Rotterdam.",
+ "titel": "Gemeente betaalt proceskosten, naheffing was al ingetrokken",
+ "kern": {
+  "zin": "De rechtbank vond dat de gemeente de proceskosten moet vergoeden, omdat zij de naheffing niet uit coulance maar om een fout heeft herroepen.",
+  "bron": [
+   20
+  ],
+  "citaat": "De rechtbank kan daarom niet anders concluderen dan dat verweerder het primaire besluit heeft herroepen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeerder kreeg een naheffing, en pas daarna meldde hij zich aan in de parkeerapp.",
+   "bron": [
+    20
+   ],
+   "citaat": "terwijl de naheffingsaanslag om 20:59 is opgelegd"
+  },
+  {
+   "zin": "Hij vond dat de gemeente de proceskosten van zijn bezwaar moest vergoeden.",
+   "bron": [
+    18
+   ],
+   "citaat": "Eiser stelt dat het primaire besluit is herroepen door een aan verweerder te wijten onrechtmatigheid"
+  },
+  {
+   "zin": "De gemeente zei dat de naheffing uit coulance was vernietigd, en niet door een fout.",
+   "bron": [
+    19
+   ],
+   "citaat": "De naheffingsaanslag is dan ook niet vernietigd vanwege een aan verweerder te wijten onrechtmatigheid"
+  },
+  {
+   "zin": "De rechtbank oordeelde dat de naheffing niet uit coulance was herroepen.",
+   "bron": [
+    20
+   ],
+   "citaat": "Het bestreden besluit benoemt daarentegen niet dat coulance hierbij een rol heeft gespeeld"
+  },
+  {
+   "zin": "De gemeente moet de proceskosten en het griffierecht aan de parkeerder terugbetalen.",
+   "bron": [
+    22,
+    28
+   ],
+   "citaat": "om verweerder te veroordelen in de door eiser gemaakte proceskosten"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Alleen proceskosten en griffierecht; de naheffing zelf was al ingetrokken.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente vergoedt de parkeerder 714,50 euro aan proceskosten en het griffierecht van 49 euro.",
+  "bron": [
+   27,
+   28
+  ],
+  "citaat": "veroordeelt verweerder in de door eiser gemaakte proceskosten, tot een bedrag van € 714,50"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De naheffing was ten onrechte opgelegd, dus moeten de proceskosten van het bezwaar worden vergoed.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank vond dat de gemeente de naheffing herriep om een fout en niet uit coulance.",
+    "bron": [
+     20
+    ],
+    "citaat": "Het bestreden besluit benoemt daarentegen niet dat coulance hierbij een rol heeft gespeeld"
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank kan daarom niet anders concluderen dan dat verweerder het primaire besluit heeft herroepen",
+    "bron": [
+     20
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het bestreden besluit bevat onjuistheden, zoals een verkeerde datum en een verkeerd tijdstip.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond de verschrijvingen niet voldoende om het besluit te vernietigen.",
+    "bron": [
+     17
+    ],
+    "citaat": "Dit zijn immers verschrijvingen die niet hebben geleid tot een materieel andersluidend besluit."
+   },
+   "bruikbare_zin": {
+    "citaat": "Dit zijn immers verschrijvingen die niet hebben geleid tot een materieel andersluidend besluit.",
+    "bron": [
+     17
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wat het bestuursorgaan als reden voor een vernietiging geeft, moet uit de motivering van het besluit blijken.",
+  "type": "regel",
+  "reikwijdte": "besluit op bezwaar waarin een naheffing wordt herroepen",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   20
+  ],
+  "citaat": "welke door de motivering van het besluit kenbaar dienen te worden gemaakt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 7:12 lid 1 Awb",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer of de motivering van een besluit op bezwaar niet met zichzelf in strijd is, voordat het verstuurd wordt.",
+   "raakt": "bezwaar",
+   "bron": [
+    20
+   ],
+   "citaat": "is dan ook innerlijk tegenstrijdig met de voorgaande overweging in het bestreden besluit"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar"
+ ],
+ "klantuitleg": "Als de gemeente een naheffing intrekt omdat die ten onrechte was opgelegd, kan zij ook de kosten van uw bezwaar en beroep moeten vergoeden. Het gaat dan om de echte reden van de intrekking, niet om een latere uitleg. Heeft u een aanmelding of betaling die u kunt laten zien, dan kan bezwaar of beroep zin hebben.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,42 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2024:402",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {"burger": "bewoner", "wederpartij": "gemeente Rotterdam", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Dit gaat over een aanvraag voor een bewonersparkeervergunning op straat in Rotterdam. Een bewoner ging in beroep bij de rechtbank Rotterdam tegen het college van burgemeester en wethouders.",
+ "titel": "Besluit vernietigd, maar geen vergunning voor op straat",
+ "kern": {"zin": "De rechter vernietigde het besluit, omdat de gemeente de stukken te laat stuurde.", "bron": [23], "citaat": "De rechtbank is van oordeel dat het op de weg van verweerder had gelegen om deze stukken"},
+ "samenvatting": [
+  {"zin": "De gemeente wees de aanvraag van een bewoner voor een parkeervergunning op straat af.", "bron": [10], "citaat": "heeft verweerder de aanvraag van eiser voor een parkeervergunning bewoner voor op straat afgewezen"},
+  {"zin": "De bewoner zei dat zijn complex geen eigen parkeergarage had.", "bron": [20], "citaat": "Eiser stelt dat het appartementencomplex waarin hij woont"},
+  {"zin": "De gemeente hield vol dat de garage bij The Red Apple ook voor het complex bedoeld was.", "bron": [21], "citaat": "ter onderbouwing van het standpunt dat de parkeergarage bij The Red Apple (ook) bedoeld is"},
+  {"zin": "De rechter vond dat de gemeente de stukken veel eerder had moeten sturen.", "bron": [23], "citaat": "De rechtbank is van oordeel dat het op de weg van verweerder had gelegen om deze stukken"},
+  {"zin": "Het besluit is vernietigd, maar de bewoner blijft zonder vergunning.", "bron": [24], "citaat": "de rechtsgevolgen van het bestreden besluit in stand te laten"}
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Besluit vernietigd op motivering; de weigering blijft gelden.",
+ "gevolg_betrokkene": {"zin": "De bewoner krijgt het griffierecht en de proceskosten vergoed, maar blijft zonder vergunning.", "bron": [34], "citaat": "Verder veroordeelt de rechtbank verweerder in de door eiser gemaakte proceskosten in beroep"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "hoorplicht-motivering", "burger_zegt": "De gemeente gaf de stukken te laat, dus het besluit was niet goed gemotiveerd.", "oordeel": "gehonoreerd", "waarom": {"zin": "De rechter oordeelde dat de motivering tekortschoot, omdat de stukken pas ter zitting kwamen.", "bron": [23], "citaat": "De rechtbank is daarom van oordeel dat het bestreden besluit onvoldoende is gemotiveerd"}, "bruikbare_zin": {"citaat": "het bestreden besluit onvoldoende is gemotiveerd", "bron": [23]}},
+  {"arg": "gelijkheid", "burger_zegt": "Buren kregen wel een vergunning, en er staan altijd lege parkeerplekken.", "oordeel": "verworpen", "waarom": {"zin": "De bewoner kon niet bewijzen dat buren met een gelijke situatie een vergunning kregen.", "bron": [30], "citaat": "Eiser heeft immers niet (met stukken) onderbouwd dat sprake zou zijn van buren"}, "bruikbare_zin": {"citaat": "niet (met stukken) onderbouwd dat sprake zou zijn van buren", "bron": [30]}}
+ ],
+ "rechtsregel": {"zin": "Een parkeerplek telt als bijbehorend als drie vragen met ja worden beantwoord.", "type": "regel", "reikwijdte": "bewonersvergunning voor op straat; of een parkeervoorziening bij een gebouw hoort", "uitzondering": null, "herkomst": "lokale verordening", "bron": [25], "citaat": "dat sprake is van een “bijbehorende of toegewezen parkeervoorziening” als de volgende drie deelvragen"},
+ "bewijs": {"bewijslast_bij": "wederpartij", "bewijsmiddelen": ["omgevingsvergunning en bijbehorend parkeeronderzoek", "verklaring van de VvE (door de bewoner overgelegd)"], "wat_gaf_doorslag": "De omgevingsvergunning en het parkeeronderzoek, die de gemeente pas ter zitting overlegde."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "bevestigt", "eerdere": ["ECLI:NL:RVS:2019:1554", "ECLI:NL:RVS:2020:2778"]},
+ "wetsartikelen": ["art. 7:12 Awb", "art. 8:72 Awb", "art. 1 Uitvoeringsbesluit parkeren Rotterdam 2023", "art. 2 lid 1 onder b Uitvoeringsbesluit parkeren Rotterdam 2023"],
+ "actie_gemeente": [{"actie": "Stuur de stukken die u gebruikt al voor de zitting naar de burger.", "raakt": "bezwaar", "bron": [23], "citaat": "had gelegen om deze stukken (veel) eerder aan eiser toe te sturen"}],
+ "reden_leeg_actie": null,
+ "raakt": ["bezwaar", "vergunningen", "klantcontact"],
+ "klantuitleg": "Is een garage bij uw complex bestemd voor bewoners, dan krijgt u geen vergunning voor op straat. Heeft uw complex zo'n garage niet, dan kunt u een vergunning voor op straat aanvragen, mits aan de voorwaarden is voldaan. Wilt u bezwaar maken, vraag dan de gemeente om de stukken over de garage.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

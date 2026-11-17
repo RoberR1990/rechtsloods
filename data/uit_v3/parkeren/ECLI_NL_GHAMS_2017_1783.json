@@ -1,0 +1,207 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2017:1783",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bedrijf procedeert tegen de gemeente Amsterdam bij het gerechtshof Amsterdam. Het gaat om de kosten van een bezwaar tegen een naheffingsaanslag (een rekening achteraf voor parkeren).",
+ "titel": "Verkeerd kenteken ingetoetst: geen vergoeding van bezwaarkosten",
+ "kern": {
+  "zin": "De rechter vond dat de fout bij het bedrijf lag en dat de scanauto de privacy niet schond, dus er is geen vergoeding van de bezwaarkosten.",
+  "bron": [
+   55
+  ],
+  "citaat": "In deze gang van zaken kan het Hof slechts een fout van belanghebbende onderkennen, niet van de heffingsambtenaar."
+ },
+ "samenvatting": [
+  {
+   "zin": "Een bedrijf betaalde bij de parkeerautomaat, maar toetste een verkeerd kenteken in.",
+   "bron": [
+    21
+   ],
+   "citaat": "Zij heeft ingetoetst [kenteken 2] in plaats van [kenteken 1]"
+  },
+  {
+   "zin": "Daardoor kreeg het bedrijf een naheffingsaanslag; na bezwaar vernietigde de gemeente die, maar zonder kostenvergoeding.",
+   "bron": [
+    26
+   ],
+   "citaat": "De heffingsambtenaar heeft toen de naheffingsaanslag vernietigd."
+  },
+  {
+   "zin": "Het bedrijf vond dat de gemeente beter had moeten controleren en dat de scanauto de privacy schond.",
+   "bron": [
+    57
+   ],
+   "citaat": "had deze controleur het betaalbewijs achter de voorruit zien liggen"
+  },
+  {
+   "zin": "De gemeente zei dat zij geen klachten over de automaten kende en dat de fout bij het bedrijf lag.",
+   "bron": [
+    56
+   ],
+   "citaat": "geen klachten bekend zijn geworden over disfunctioneren van de apparatuur"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente niet verder hoefde te onderzoeken en dat een scanauto geen verboden inbreuk op de privacy is.",
+   "bron": [
+    79
+   ],
+   "citaat": "geen verboden inmenging zich heeft voorgedaan"
+  },
+  {
+   "zin": "Het beroep van het bedrijf is ongegrond en het bedrijf krijgt geen kosten vergoed.",
+   "bron": [
+    104
+   ],
+   "citaat": "het hoger beroep van belanghebbende ongegrond is"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Naheffing was al vernietigd; alleen de bezwaarkosten waren nog in geschil.",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrijf krijgt de kosten van het bezwaar niet vergoed en ook geen proceskostenvergoeding voor het hoger beroep.",
+  "bron": [
+   106
+  ],
+  "citaat": "Het Hof acht geen termen aanwezig voor een veroordeling in de kosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De parkeerautomaten werken slecht, dus de fout is niet aan het bedrijf te wijten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente kende geen klachten en de rest van het kenteken was wel goed ingevoerd.",
+    "bron": [
+     56
+    ],
+    "citaat": "Het Hof verwerpt de stelling van belanghebbende dat de parkeerautomaten niet goed zouden functioneren"
+   },
+   "bruikbare_zin": {
+    "citaat": "na het maken van een fout (kenbaar via het display) de transactie had moeten afbreken en opnieuw had moeten beginnen",
+    "bron": [
+     56
+    ]
+   }
+  },
+  {
+   "arg": "privacy-kenteken",
+   "burger_zegt": "De controle met een scanauto schendt het recht op privacy (artikel 8 EVRM).",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Scanauto-controles zijn waarnemingen in de openbare ruimte en geen verboden inmenging.",
+    "bron": [
+     79
+    ],
+    "citaat": "geen verboden inmenging zich heeft voorgedaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "zij kon nu juist verwachten dat controle van de parkeerbelasting zou plaatsvinden",
+    "bron": [
+     79
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De gemeente heeft het bedrijf ten onrechte niet gehoord in bezwaar.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Aan het bezwaar tegen de naheffing was volledig tegemoetgekomen, dus horen hoefde niet.",
+    "bron": [
+     95
+    ],
+    "citaat": "terecht op de voet van artikel 7:3, aanhef en onder e, Awb van het horen kon afzien"
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente moest eerst nader onderzoeken of er betaald was voordat zij de naheffing oplegde.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Bij belasting op aangifte hoeft de gemeente niet extra te onderzoeken; controle met de scanauto is genoeg.",
+    "bron": [
+     58
+    ],
+    "citaat": "de heffingsambtenaar niet een nadere onderzoeksplicht had"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bezwaarkosten worden alleen vergoed als de gemeente de naheffing herroept door een onrechtmatigheid die de gemeente zelf veroorzaakte.",
+  "type": "regel",
+  "reikwijdte": "Vergoeding van bezwaarkosten bij een vernietigde naheffingsaanslag parkeerbelasting",
+  "uitzondering": "Is de fout van de gemeente zelf, dan kunnen de kosten wel worden vergoed.",
+  "herkomst": "wet",
+  "bron": [
+   92
+  ],
+  "citaat": "voorzover het bestreden besluit wordt herroepen wegens een aan het bestuursorgaan te wijten onrechtmatigheid"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "betaalbewijs van de automaat",
+   "scanauto-gegevens"
+  ],
+  "wat_gaf_doorslag": "Het foute kenteken was door het bedrijf zelf ingevoerd."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2017:288",
+   "ECLI:NL:GHAMS:2016:1107",
+   "ECLI:NL:GHAMS:2015:4471"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:15 Awb",
+  "art. 7:3 Awb",
+  "art. 7:2 Awb",
+  "art. 6:22 Awb",
+  "art. 8 EVRM",
+  "art. 4 Verordening Parkeerbelastingen 2015 II Amsterdam"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Gebruik scanauto-gegevens alleen voor de parkeercontrole en bewaar ze niet jarenlang om voertuigbewegingen te volgen.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    79
+   ],
+   "citaat": "jarenlang bewaren van gegevens over de bewegingen van voertuigen"
+  },
+  {
+   "actie": "Leg in de beslissing op bezwaar uit dat een fout van de burger zelf geen recht geeft op kostenvergoeding.",
+   "raakt": "bezwaar",
+   "bron": [
+    55
+   ],
+   "citaat": "De herroeping is in gang gezet om de gevolgen van een door belanghebbende gemaakte fout ongedaan te maken."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "scanauto-handhaving",
+  "betaalapp",
+  "privacy-woo"
+ ],
+ "klantuitleg": "Als u bij de automaat een verkeerd kenteken intoetst en daardoor een rekening achteraf krijgt, kan de gemeente die laten vervallen als u laat zien dat u betaald hebt. De kosten van uw bezwaar krijgt u dan meestal niet terug, omdat de fout bij u lag. Bewaar daarom uw betaalbewijs en controleer het kenteken voordat u betaalt.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

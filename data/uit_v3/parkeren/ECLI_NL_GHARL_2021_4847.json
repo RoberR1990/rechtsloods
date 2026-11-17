@@ -1,0 +1,143 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2021:4847",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een automobilist kreeg een boete van € 95 voor parkeren in een parkeerverbodszone in Amersfoort. Hij ging in hoger beroep tegen de officier van justitie bij het Gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Wachten op afgezette passagier is parkeren",
+ "kern": {
+  "zin": "Het hof vond dat wachten op een net afgezette passagier niet meer onder het meteen laten uitstappen valt, dus het was parkeren.",
+  "bron": [
+   24
+  ],
+  "citaat": "is het wachten op je recent afgezette passagier niet inbegrepen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De automobilist kreeg een boete van € 95 voor parkeren in een parkeerverbodszone in Amersfoort.",
+   "bron": [
+    18
+   ],
+   "citaat": "parkeren in strijd met parkeerverbod/parkeerverbodszone (bord E1)"
+  },
+  {
+   "zin": "Hij zei dat hij een passagier meteen liet uitstappen en dus niet parkeerde.",
+   "bron": [
+    19
+   ],
+   "citaat": "sprake was van het onmiddellijk laten in/uitstappen van passagiers"
+  },
+  {
+   "zin": "De handhaver zag geen laden of lossen; de bestuurder zei dat hij zijn maat net had afgezet en wachtte.",
+   "bron": [
+    23
+   ],
+   "citaat": "De bestuurder vertelde dat hij zijn maat net had afgezet en wachtte tot hij terugkwam."
+  },
+  {
+   "zin": "De rechter vond dat de uitzondering voor het meteen laten uitstappen hier niet gold.",
+   "bron": [
+    24
+   ],
+   "citaat": "De uitzondering voor het onmiddellijk laten in- of uitstappen van passagiers doet zich hier niet voor."
+  },
+  {
+   "zin": "De rechter bevestigde de boete en wees de vergoeding van proceskosten af.",
+   "bron": [
+    26
+   ],
+   "citaat": "zal het verzoek om een proceskostenvergoeding worden afgewezen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete blijft staan; geen vergoeding van proceskosten",
+ "gevolg_betrokkene": {
+  "zin": "De automobilist moet de boete van € 95 betalen en krijgt geen proceskosten vergoed.",
+  "bron": [
+   26
+  ],
+  "citaat": "zal het verzoek om een proceskostenvergoeding worden afgewezen"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Hij liet alleen een passagier uitstappen, dus er was geen sprake van parkeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Wachten op een net afgezette passagier hoort niet bij het meteen laten uitstappen.",
+    "bron": [
+     24
+    ],
+    "citaat": "is het wachten op je recent afgezette passagier niet inbegrepen"
+   },
+   "bruikbare_zin": {
+    "citaat": "is het wachten op je recent afgezette passagier niet inbegrepen",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wachten op een net afgezette passagier valt niet onder het meteen laten in- of uitstappen; dat is parkeren.",
+  "type": "regel",
+  "reikwijdte": "Bestuurders die na het afzetten van een passagier blijven wachten tot die terugkomt",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "is het wachten op je recent afgezette passagier niet inbegrepen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "aanvullend proces-verbaal handhaver",
+   "verklaring bestuurder aan handhaver"
+  ],
+  "wat_gaf_doorslag": "De bestuurder wachtte op de afgezette passagier."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:GHARL:2020:3336",
+   "ECLI:NL:GHARL:2021:1786"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 3 lid 2 Wahv",
+  "art. 66 RVV 1990 (bord E1)"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Schrijf in het proces-verbaal op dat er geen laden, lossen of in- en uitstappen te zien was.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    23
+   ],
+   "citaat": "omdat er geen laad en los activiteiten zichtbaar waren"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Iemand meteen laten in- of uitstappen telt niet als parkeren. Blijft u daarna wachten tot die persoon terugkomt, dan telt dat wel als parkeren en kunt u in een parkeerverbodszone een boete krijgen. Bezwaar heeft op dit punt weinig kans als u bent blijven wachten.",
+ "gemeente": "Amersfoort",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,146 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2026:2560",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Zwolle",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing (de rekening achteraf) van 80,10 euro voor parkeren in Zwolle. Hij ging in beroep tegen de gemeente Zwolle, die het bezwaar eerder had afgewezen; de zaak ging naar de rechtbank Overijssel.",
+ "titel": "Parkeerrekening blijft staan omdat bezoekersvergunning niet was aangemeld",
+ "kern": {
+  "zin": "De rechter hield de naheffing in stand, omdat vaststond dat er geen geldig parkeerrecht was en er geen bijzondere omstandigheden waren.",
+  "bron": [
+   21
+  ],
+  "citaat": "Daarmee staat vast dat grond bestaat voor een naheffingsaanslag."
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle in Zwolle bleek dat een auto zonder geldig parkeerrecht stond.",
+   "bron": [
+    15
+   ],
+   "citaat": "Tijdens een controle op voornoemde datum en tijdstip is geconstateerd dat voor de auto geen geldig parkeerrecht bestond."
+  },
+  {
+   "zin": "Hij zei dat hij het systeem direct weer aanzette na de bekeuring.",
+   "bron": [
+    19
+   ],
+   "citaat": "Hij heeft het systeem direct weer aangezet."
+  },
+  {
+   "zin": "De gemeente vond dat de vervangende auto niet was aangemeld, dus de rekening was terecht.",
+   "bron": [
+    20
+   ],
+   "citaat": "De naheffingsaanslag is daarom terecht uitgeschreven."
+  },
+  {
+   "zin": "De rechter zag geen aannemelijke systeemfout, dus de grond van de parkeerder slaagde niet.",
+   "bron": [
+    21
+   ],
+   "citaat": "Gelet op het voorgaande slagen de beroepsgronden niet."
+  },
+  {
+   "zin": "Schuld en opzet tellen bij deze belasting niet mee.",
+   "bron": [
+    21
+   ],
+   "citaat": "Parkeerbelasting is geen boete, maar een objectieve belasting."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; rekening van 80,10 euro blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de rekening betalen en krijgt geen proceskostenvergoeding.",
+  "bron": [
+   24
+  ],
+  "citaat": "Hij krijgt ook geen vergoeding van zijn proceskosten."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Hij zegt dat hij de vervangende auto wel had aangemeld en dat het systeem de verkeerde datum gebruikte.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat een systeemfout niet aannemelijk was gemaakt, dus deze grond slaagt niet.",
+    "bron": [
+     21
+    ],
+    "citaat": "Gelet op het voorgaande slagen de beroepsgronden niet."
+   },
+   "bruikbare_zin": {
+    "citaat": "Parkeerbelasting is geen boete, maar een objectieve belasting.",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij zegt dat het onschuldig was en dat hij zonder opzet handelde.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter tellen schuld en opzet bij deze belasting niet mee.",
+    "bron": [
+     21
+    ],
+    "citaat": "intenties, schuld of opzet en persoonlijke omstandigheden geen rol spelen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Parkeerbelasting is geen boete, maar een objectieve belasting.",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een naheffing voor parkeren wordt beoordeeld op de feiten en niet op schuld of opzet.",
+  "type": "regel",
+  "reikwijdte": "Naheffingen parkeerbelasting",
+  "uitzondering": "Overmacht of een acute (medische) noodsituatie",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "Parkeerbelasting is geen boete, maar een objectieve belasting."
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "controle op 16 juni 2025 om 10.03 uur",
+   "gegevens van het bezoekerssysteem"
+  ],
+  "wat_gaf_doorslag": "Het niet tijdig aanmelden van de auto; de parkeerder toonde geen systeemfout aan."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "Rechter noemt geen tekortkoming van de gemeente; beroep ongegrond.",
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "vergunningen"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren is terecht als er geen geldig parkeerrecht was, ook als u het per ongeluk niet heeft aangemeld. Hier was de bezoekersvergunning niet tijdig aangemeld en de rechter zag geen bewijs van een systeemfout. Heeft u zoiets, dan helpt bewijs van het systeemprobleem bij bezwaar; zonder bewijs is de kans klein.",
+ "gemeente": "Zwolle",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,182 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2024:1595",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Almelo",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bewoner van Almelo wilde zijn geboortedatum in de BRP (de basisregistratie persoonsgegevens) laten veranderen. Hij ging in hoger beroep bij de Raad van State tegen de gemeente Almelo.",
+ "titel": "Geboortedatum in BRP blijft: Turkse uitspraak onvoldoende betrouwbaar",
+ "kern": {
+  "zin": "De rechter vond dat de Turkse uitspraak niet op betrouwbare gegevens berustte, dus de gemeente hoefde de geboortedatum niet te veranderen.",
+  "bron": [
+   42
+  ],
+  "citaat": "Uit de beschikbare brondocumenten volgt dus niet buiten redelijke twijfel dat de daarin vermelde persoonsgegevens juist zijn."
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner liet in 2020 in Turkije zijn geboortedatum veranderen met een uitspraak van een Turkse rechtbank.",
+   "bron": [
+    21
+   ],
+   "citaat": "op grond van een uitspraak van een Turkse rechtbank van 15 januari 2020 zijn geboortedatum"
+  },
+  {
+   "zin": "Hij vroeg de gemeente daarna om zijn geboortedatum in de BRP aan te passen.",
+   "bron": [
+    21
+   ],
+   "citaat": "heeft [appellant] op 27 mei 2020 het college verzocht om correctie van zijn geboortedatum"
+  },
+  {
+   "zin": "De gemeente weigerde, omdat niet onomstotelijk vaststond dat de nieuwe geboortedatum juist is.",
+   "bron": [
+    22
+   ],
+   "citaat": "niet onomstotelijk vaststaat dat de gewenste geboortedatum juist is"
+  },
+  {
+   "zin": "De bewoner zei dat de Turkse uitspraak op feiten berustte, want kinderen in Turkije begonnen op achtjarige leeftijd op de basisschool.",
+   "bron": [
+    26
+   ],
+   "citaat": "dat kinderen in Turkije op achtjarige leeftijd aan de basisschool beginnen"
+  },
+  {
+   "zin": "De rechter vond dat de Turkse rechter geen goed onderzoek had gedaan naar de geboortedatum.",
+   "bron": [
+    40
+   ],
+   "citaat": "heeft geen behoorlijk onderzoek plaatsgevonden naar de geboortedatum van [appellant]"
+  },
+  {
+   "zin": "Daarom verzet de Nederlandse openbare orde zich tegen opname van die gegevens in de BRP.",
+   "bron": [
+    42
+   ],
+   "citaat": "verzet zich daarom tegen de erkenning van de rechtsgeldigheid van de in deze brondocumenten vermelde feiten"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Geboortedatum in de BRP blijft ongewijzigd",
+ "gevolg_betrokkene": {
+  "zin": "Zijn verzoek wordt afgewezen: de geboortedatum in de BRP verandert niet en hij krijgt geen proceskosten vergoed.",
+  "bron": [
+   45,
+   46
+  ],
+  "citaat": "Het hoger beroep is ongegrond."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De rechter mag de uitspraak van de Turkse rechtbank niet inhoudelijk beoordelen en moet de feiten daaruit overnemen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Ook een brondocument leidt er niet vanzelf toe dat de feiten daarin in de BRP komen.",
+    "bron": [
+     34
+    ],
+    "citaat": "de daarin vermelde feiten zonder meer moeten worden verwerkt in de brp"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat deze er blijk van moet geven op - naar objectieve maatstaven gemeten - betrouwbare gegevens te zijn gebaseerd",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "De Turkse uitspraak berust op een feit van algemene bekendheid: kinderen begonnen daar op achtjarige leeftijd aan de basisschool.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Turkse uitspraak berust volgens de rechter op een aanname en niet op een objectief feit.",
+    "bron": [
+     40
+    ],
+    "citaat": "De uitspraak van de Turkse rechtbank is daarmee niet gebaseerd op een objectief feit."
+   },
+   "bruikbare_zin": {
+    "citaat": "De uitspraak van de Turkse rechtbank is daarmee niet gebaseerd op een objectief feit",
+    "bron": [
+     40
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een buitenlandse rechterlijke uitspraak is een brondocument, maar de gemeente hoeft de feiten daaruit niet over te nemen als de uitspraak niet op objectief betrouwbare gegevens berust.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om een gegeven in de BRP te wijzigen op grond van een buitenlandse rechterlijke uitspraak.",
+  "uitzondering": "Volgt uit de brondocumenten buiten redelijke twijfel dat het gegeven juist is en is het document van hogere orde, dan wordt de BRP aangepast.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   34,
+   31
+  ],
+  "citaat": "Een van de eisen waaraan een buitenlandse rechterlijke uitspraak in dit verband moet voldoen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "uitspraak van een Turkse rechtbank",
+   "Turks paspoort",
+   "verklaringen van vader, echtgenote, scholen en oud-klasgenoten"
+  ],
+  "wat_gaf_doorslag": "De Turkse rechter deed geen behoorlijk onderzoek en ging uit van een aanname over de leeftijd waarop kinderen naar school gingen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2022:1198",
+   "ECLI:NL:RVS:2022:1300",
+   "ECLI:NL:RVS:2022:1843",
+   "ECLI:NL:RVS:2015:2285"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2.8 lid 2 Wet brp",
+  "art. 2.10 lid 2 Wet brp",
+  "art. 2.58 Wet brp",
+  "art. 16 AVG"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij een buitenlandse uitspraak of akte na of er vooraf behoorlijk onderzoek is gedaan en of die op objectief betrouwbare gegevens berust.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    34
+   ],
+   "citaat": "voorafgaand aan de afgifte van het brondocument kennelijk geen behoorlijk onderzoek heeft plaatsgevonden"
+  },
+  {
+   "actie": "Leg in de afwijzing uit waarom de overgelegde stukken niet betrouwbaar genoeg zijn.",
+   "raakt": "bezwaar",
+   "bron": [
+    39
+   ],
+   "citaat": "gemotiveerd dat de in de rechterlijke uitspraak uit Turkije vermelde informatie onvoldoende betrouwbaar is"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "bezwaar"
+ ],
+ "klantuitleg": "Wilt u een geboortedatum in de BRP laten veranderen, dan moet uit officiële stukken buiten redelijke twijfel blijken dat de nieuwe datum klopt. Een buitenlandse rechterlijke uitspraak telt mee, maar de gemeente hoeft die niet over te nemen als er geen goed onderzoek aan voorafging. Voeg bij uw verzoek daarom zoveel mogelijk officiële stukken toe die laten zien waarop de datum is gebaseerd.",
+ "gemeente": "Almelo",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

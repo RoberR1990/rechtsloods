@@ -1,0 +1,153 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:8510",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeerde tegen de gemeente Breda over twee naheffingsaanslagen parkeerbelasting (de rekeningen achteraf voor niet betaald parkeren) uit juni 2025. De Rechtbank Zeeland-West-Brabant behandelde de beroepen zonder zitting.",
+ "titel": "Verkeerde zone in de app; te weinig betaald, naheffing blijft",
+ "kern": {
+  "zin": "De naheffingen blijven staan, want te weinig betalen is genoeg, ook als de parkeerder te goeder trouw was.",
+  "bron": [
+   24
+  ],
+  "citaat": "Het enkele feit dat geen of te weinig parkeerbelasting is betaald"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een scanauto zag op twee dagen in juni 2025 dat de parkeerbelasting niet was voldaan.",
+   "bron": [
+    14
+   ],
+   "citaat": "door middel van een scanauto geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "Volgens de parkeerder mocht hij erop vertrouwen dat de app de juiste zone zou tonen.",
+   "bron": [
+    21
+   ],
+   "citaat": "Een parkeerder mag er in dat geval van uitgaan dat het correcte zonenummer wordt vermeld"
+  },
+  {
+   "zin": "De gemeente stelde dat het kenteken in een uurzone was aangemeld, terwijl de auto in een dagkaartzone stond.",
+   "bron": [
+    22
+   ],
+   "citaat": "aangemeld in een zone waar een uurtarief geldt"
+  },
+  {
+   "zin": "Volgens de rechter moet de parkeerder zelf controleren of de zone klopt, ook bij een app.",
+   "bron": [
+    23
+   ],
+   "citaat": "ontslaat de parkeerder niet van zijn onderzoeksplicht"
+  },
+  {
+   "zin": "De goede bedoeling van de parkeerder maakt de naheffing niet ongeldig.",
+   "bron": [
+    24
+   ],
+   "citaat": "kan dit niet tot vernietiging van de naheffingsaanslag leiden"
+  },
+  {
+   "zin": "De naheffingen blijven staan.",
+   "bron": [
+    26
+   ],
+   "citaat": "Dat betekent dat de naheffingsaanslagen gehandhaafd blijven"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beide naheffingen blijven staan; de verkeerde zone kwam voor rekening van de parkeerder.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt beide naheffingen en krijgt geen griffierecht of proceskosten terug.",
+  "bron": [
+   26
+  ],
+  "citaat": "krijgt ook geen vergoeding van zijn proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij zegt dat de app alleen het foutieve zonenummer gaf, en dat hij daar op mocht vertrouwen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De parkeerder moet zelf controleren of de juiste zone is gekozen, ook als de app een andere zone voorstelt.",
+    "bron": [
+     23
+    ],
+    "citaat": "ontslaat de parkeerder niet van zijn onderzoeksplicht"
+   },
+   "bruikbare_zin": {
+    "citaat": "het handmatig selecteren van de juiste zone",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij betwist dat hij te weinig parkeerbelasting heeft betaald.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Hij betaalde veel minder dan de kosten van een dagkaart, dus er was te weinig betaald.",
+    "bron": [
+     23
+    ],
+    "citaat": "de kosten van een dagkaart € 35 bedragen"
+   },
+   "bruikbare_zin": {
+    "citaat": "en er is ook niet betaald voor een dagkaart",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor een naheffing is genoeg dat er niet of te weinig is betaald; opzet of schuld doet er niet toe.",
+  "type": "regel",
+  "reikwijdte": "naheffingen parkeerbelasting, ook als de parkeerder te goeder trouw was",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "Opzet of schuld zijn bij de niet-voldoening van parkeerbelasting geen vereiste voor de bevoegdheid om een naheffingsaanslag op te leggen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "scanauto-controle",
+   "zone die in de parkeerapp was aangemeld"
+  ],
+  "wat_gaf_doorslag": "De zone die in de app was gekozen, en de dagkaartverplichting op de plek zelf."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen eis of kritiek aan de gemeente; de rechter legde de verantwoordelijkheid bij de parkeerder",
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u in de app een andere zone kiest dan waar u staat, blijft u de parkeerbelasting verschuldigd, ook als u te goeder trouw was. Het is uw eigen verantwoordelijkheid om te controleren of de zone klopt, ook als de app een andere zone voorstelt. Bij bezwaar helpt het weinig om te zeggen dat de app de fout maakte, dus controleer de zone altijd voordat u betaalt.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

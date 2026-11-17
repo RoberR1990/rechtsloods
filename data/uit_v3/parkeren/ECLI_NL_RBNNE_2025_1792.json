@@ -1,0 +1,140 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2025:1792",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Leeuwarden",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Leeuwarden een naheffing (de rekening achteraf) voor parkeren op zondag. De rechtbank Noord-Nederland vernietigde die naheffing, omdat de parkeerder op de melding van de automaat mocht vertrouwen.",
+ "titel": "Parkeerder mocht op automaatmelding vertrouwen; bedrag vervalt",
+ "kern": {
+  "zin": "De rechter vernietigde de naheffing, omdat de parkeerder op de automaatmelding mocht vertrouwen.",
+  "bron": [
+   27
+  ],
+  "citaat": "er in dit geval op mocht vertrouwen dat zij geen parkeerbelasting hoefde te betalen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op zondag 3 september 2023 kreeg de parkeerder een naheffing voor haar auto in Leeuwarden.",
+   "bron": [
+    19
+   ],
+   "citaat": "op de Wissesdwinger in Leeuwarden geparkeerd stond terwijl daarvoor geen parkeerbelasting was betaald"
+  },
+  {
+   "zin": "De parkeerder vond dat de tekst op de automaat zo duidelijk was dat zij niet hoefde te betalen.",
+   "bron": [
+    25
+   ],
+   "citaat": "dat zij er op mocht vertrouwen dat zij geen parkeerbelasting hoefde te betalen"
+  },
+  {
+   "zin": "De gemeente vond de automaattekst cryptisch en vond dat de parkeerder nader onderzoek had moeten doen.",
+   "bron": [
+    25
+   ],
+   "citaat": "dat de tekst op de parkeerautomaat cryptisch is"
+  },
+  {
+   "zin": "De rechter vond de automaattekst juist duidelijk en zag geen storing.",
+   "bron": [
+    26
+   ],
+   "citaat": "De tekst is juist heel duidelijk"
+  },
+  {
+   "zin": "De naheffing vervalt, en de gemeente moet 50 euro griffierecht (de kosten van de rechtszaak) vergoeden.",
+   "bron": [
+    29,
+    38
+   ],
+   "citaat": "De rechtbank vernietigt daarom de uitspraak op bezwaar en de naheffingsaanslag"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd; gemeente vergoedt griffierecht",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft de naheffing niet te betalen en krijgt het griffierecht van 50 euro vergoed.",
+  "bron": [
+   29,
+   38
+  ],
+  "citaat": "De rechtbank vernietigt daarom de uitspraak op bezwaar en de naheffingsaanslag"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De automaat zei dat zij niet hoefde te betalen, en zij mocht daarop vertrouwen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond de automaattekst niet cryptisch en zag geen reden om aan de juistheid te twijfelen.",
+    "bron": [
+     26
+    ],
+    "citaat": "De rechtbank vindt de tekst op de parkeerautomaat niet cryptisch"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het uitroepteken vestigt enkel de aandacht op de tekst",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een duidelijke melding van de parkeerautomaat kan de parkeerder doen vertrouwen dat zij niet hoeft te betalen.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "deze melding op deze automaat op deze dag",
+  "uitzondering": "een storing van de automaat",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "er in dit geval op mocht vertrouwen dat zij geen parkeerbelasting hoefde te betalen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "melding op de parkeerautomaat",
+   "naheffingsaanslag met tijdstip 16:10 uur"
+  ],
+  "wat_gaf_doorslag": "De tekst op de automaat, die volgens de rechter duidelijk was."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Verordening parkeerbelasting Leeuwarden 2023"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer of de melding op de automaat klopt met de verordening, want de rechter legde die melding zwaar mee.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    26
+   ],
+   "citaat": "Uit niets bleek dat sprake was van een storing van de parkeerautomaat"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "De rekening achteraf voor parkeren kan niet terecht zijn als de parkeerautomaat een duidelijke melding gaf dat u niet hoefde te betalen. Die melding moet wel duidelijk zijn en er mag geen storing van de automaat zijn geweest. Heeft u zo'n melding gezien, leg dan het tijdstip en de tekst vast voordat u bezwaar maakt.",
+ "gemeente": "Leeuwarden",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

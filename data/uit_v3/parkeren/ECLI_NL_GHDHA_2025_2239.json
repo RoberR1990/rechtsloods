@@ -1,0 +1,190 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2025:2239",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (bezoeker)",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg in Den Haag een naheffingsaanslag (een rekening achteraf), omdat hij zijn kenteken te laat aanmeldde voor een bezoekersvergunning. Hij ging in hoger beroep tegen de gemeente bij het gerechtshof.",
+ "titel": "Bezoeker moet kenteken zelf op tijd aanmelden in de parkeerapp",
+ "kern": {
+  "zin": "De rechter vond de naheffing terecht, omdat de parkeerder zijn kenteken pas na de controle aanmeldde en daar zelf voor moet zorgen.",
+  "bron": [
+   74
+  ],
+  "citaat": "Hiermee is niet voldaan aan de voorwaarden voor het parkeren met een gebruikmaking van een vergunning"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder parkeerde om 8.30 uur op een plek in Den Haag waar vanaf 9.00 uur betaald parkeren geldt.",
+   "bron": [
+    37,
+    38
+   ],
+   "citaat": "Belanghebbende heeft het voertuig op donderdag 11 mei 2023 om 8.30 uur geparkeerd"
+  },
+  {
+   "zin": "Om 9.40 uur zag een controleur dat de parkeerbelasting niet was betaald, en de gemeente legde een naheffingsaanslag op.",
+   "bron": [
+    38
+   ],
+   "citaat": "zonder dat de ter plaatse verschuldigde parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat hij vergat de app om 9.00 uur aan te zetten en dat de app niet vanzelf stopt om 14.00 uur.",
+   "bron": [
+    55
+   ],
+   "citaat": "Op de bewuste dag vergat ik om de wekker precies op 9.00 uur te zetten om de app. aan te laten zetten"
+  },
+  {
+   "zin": "De gemeente zei dat de vergunning niet vanzelf kan stoppen, omdat in het gebied verschillende tijden gelden.",
+   "bron": [
+    63
+   ],
+   "citaat": "Ter zitting heeft verweerder verklaard dat de bezoekersvergunning wordt afgegeven voor een bepaald gebied, waarbinnen verschillende werkingstijden gelden"
+  },
+  {
+   "zin": "De rechter oordeelde dat de parkeerder zelf verantwoordelijk is en dat de inrichting van de app daar niets aan verandert.",
+   "bron": [
+    76
+   ],
+   "citaat": "De inrichting van de mobiele applicatie staat los van de verplichting en verantwoordelijkheid van de parkeerder"
+  },
+  {
+   "zin": "Coulance (een uitzondering uit mildheid) is aan de gemeente en niet aan de rechter, dus het hoger beroep is ongegrond.",
+   "bron": [
+    78
+   ],
+   "citaat": "Die bevoegdheid komt niet aan het Hof toe"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; het kenteken was te laat aangemeld.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffingsaanslag blijft staan en de parkeerder krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   84,
+   82
+  ],
+  "citaat": "Het Gerechtshof bevestigt de uitspraak van de Rechtbank"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Ik vergat de app om 9.00 uur aan te zetten en de app stopt niet vanzelf om 14.00 uur, daarom wachtte ik tot 9.00 uur.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De parkeerder moet zelf zorgen voor aan- en afmelden; hoe de app is ingericht verandert dat niet.",
+    "bron": [
+     76
+    ],
+    "citaat": "De inrichting van de mobiele applicatie staat los van de verplichting en verantwoordelijkheid van de parkeerder"
+   },
+   "bruikbare_zin": {
+    "citaat": "De inrichting van de mobiele applicatie staat los van de verplichting en verantwoordelijkheid van de parkeerder",
+    "bron": [
+     76
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Eerder is te veel tegoed van de bezoekersvergunning afgeschreven en dat wil ik terug.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "Dit viel buiten het geschil, want alleen de naheffingsaanslag lag voor.",
+    "bron": [
+     77
+    ],
+    "citaat": "Voor zover belanghebbende aanspraak wenst te maken op vergoeding van het teveel dat is afgeschreven op het tegoed"
+   },
+   "bruikbare_zin": {
+    "citaat": "dit buiten het onderhavige geschil valt",
+    "bron": [
+     77
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het was een eenmalig foutje, dus de gemeente moet coulance geven.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "Coulance geven is een bevoegdheid van de gemeente en de rechter kan die niet gebruiken.",
+    "bron": [
+     78
+    ],
+    "citaat": "Die bevoegdheid komt niet aan het Hof toe"
+   },
+   "bruikbare_zin": {
+    "citaat": "Die bevoegdheid komt niet aan het Hof toe",
+    "bron": [
+     78
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een bezoekersvergunning die niet op kenteken is verleend, geldt de vergunning pas als het kenteken is aangemeld; anders is het parkeren zonder vergunning.",
+  "type": "regel",
+  "reikwijdte": "Vergunning die pas geldig is na aanmelding van het kenteken, zoals de bezoekersvergunning in Den Haag.",
+  "uitzondering": null,
+  "herkomst": "lokale verordening",
+  "bron": [
+   74
+  ],
+  "citaat": "Hiermee is niet voldaan aan de voorwaarden voor het parkeren met een gebruikmaking van een vergunning"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "constatering door parkeercontroleur",
+   "tijdstip van aanmelding in de app"
+  ],
+  "wat_gaf_doorslag": "Niet in geschil was dat het kenteken pas om 9.59 uur was aangemeld."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:1997:AA3336"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 Gemeentewet",
+  "art. 4.1.5 Regeling parkeerregulering en parkeerbelastingen Den Haag 2022",
+  "art. 6.1 Regeling parkeerregulering en parkeerbelastingen Den Haag 2022",
+  "art. 5.11 Verordening parkeerbelastingen 2022 Den Haag"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Wijs bezoekers bij het aanmelden in de app op de mogelijkheid zelf een begin- en eindtijd te kiezen.",
+   "raakt": "betaalapp",
+   "bron": [
+    76
+   ],
+   "citaat": "zelf de begintijd en eindtijd van de aanmelding te kiezen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "betaalapp",
+  "klantcontact",
+  "vergunningen",
+  "bezwaar"
+ ],
+ "klantuitleg": "Heeft u een bezoekersvergunning waarbij u zelf het kenteken moet aanmelden? Dan telt de vergunning pas als u het kenteken hebt aangemeld, en u moet de aanmelding ook zelf afmelden. Meldt u te laat aan, dan kan de rekening achteraf terecht zijn, dus bezwaar heeft dan weinig kans; kies bij het aanmelden zelf een begin- en eindtijd.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

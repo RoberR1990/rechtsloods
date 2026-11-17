@@ -1,0 +1,242 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:7183",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "zoekslag",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "verzoeker",
+  "wederpartij": "Huis voor Klokkenluiders",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Deze zaak gaat over een verzoek om inzage in persoonsgegevens bij het Huis voor Klokkenluiders. De verzoeker en het Huis zijn het oneens over de zoekslag, de kopieën en een dwangsom; de rechtbank Rotterdam doet een tussenuitspraak.",
+ "titel": "Huis moet zakelijke berichten via privételefoons onderzoeken",
+ "kern": {
+  "zin": "De rechter geeft de organisatie acht weken om de gebreken in het tweede besluit te herstellen.",
+  "bron": [
+   111
+  ],
+  "citaat": "De rechtbank bepaalt de termijn waarbinnen de gebreken in het bestreden besluit 2 kunnen worden hersteld op acht weken"
+ },
+ "samenvatting": [
+  {
+   "zin": "De verzoeker vroeg in 2019 om inzage in zijn persoonsgegevens op grond van de AVG.",
+   "bron": [
+    29
+   ],
+   "citaat": "Op 25 juli 2019 heeft eiser een verzoek op grond van de Algemene Verordening Gegevensbescherming (AVG) ingediend."
+  },
+  {
+   "zin": "Het Huis gaf hem overzichten en afschriften van een deel van zijn persoonsdossier.",
+   "bron": [
+    10
+   ],
+   "citaat": "heeft verweerder aan eiser afschriften verstrekt van de hem betreffende documenten uit zijn persoonsdossier"
+  },
+  {
+   "zin": "De verzoeker vond dat het Huis zakelijke WhatsApp en sms via privételefoons niet had onderzocht.",
+   "bron": [
+    69
+   ],
+   "citaat": "zakelijke Whatsapp en/of sms-berichten die door bestuursleden en medewerkers van het Huis vanaf hun privé-telefoon zijn verstuurd"
+  },
+  {
+   "zin": "De rechter vindt dat het Huis die berichten in zijn zoekslag had moeten meenemen.",
+   "bron": [
+    71
+   ],
+   "citaat": "Verweerder had deze berichten dan ook in zijn zoekslag moeten meenemen."
+  },
+  {
+   "zin": "De rechter vindt ook dat het Huis te laat op het hele verzoek besliste en daardoor een dwangsom verschuldigd is.",
+   "bron": [
+    106
+   ],
+   "citaat": "heeft verweerder een dwangsom verbeurd wegens het niet tijdig beslissen op het AVG-verzoek van eiser."
+  },
+  {
+   "zin": "Het eerste besluit wordt vernietigd en het tweede besluit moet het Huis binnen acht weken herstellen.",
+   "bron": [
+    111
+   ],
+   "citaat": "De rechtbank bepaalt de termijn waarbinnen de gebreken in het bestreden besluit 2 kunnen worden hersteld op acht weken"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Burger wint op zoekslag en dwangsom; veel andere punten verliest hij.",
+ "gevolg_betrokkene": {
+  "zin": "De organisatie moet de zakelijke privéberichten alsnog onderzoeken en de dwangsom vaststellen; de rechter beslist later over kosten.",
+  "bron": [
+   111,
+   114
+  ],
+  "citaat": "verweerder een zoekslag moeten uitvoeren naar de zakelijke berichten die via de privé telefoons van bestuurders zijn verstuurd."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "Er is niet goed genoeg gezocht: zakelijke WhatsApp en sms via privételefoons van bestuurders zijn niet meegenomen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vindt dat het Huis deze berichten in zijn zoekslag had moeten meenemen.",
+    "bron": [
+     71
+    ],
+    "citaat": "Verweerder had deze berichten dan ook in zijn zoekslag moeten meenemen."
+   },
+   "bruikbare_zin": {
+    "citaat": "Verweerder had deze berichten dan ook in zijn zoekslag moeten meenemen.",
+    "bron": [
+     71
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De organisatie heeft te laat op mijn hele AVG-verzoek beslist, dus er is een dwangsom verschuldigd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter oordeelt dat het Huis een dwangsom heeft verbeurd.",
+    "bron": [
+     106
+    ],
+    "citaat": "heeft verweerder een dwangsom verbeurd wegens het niet tijdig beslissen op het AVG-verzoek van eiser."
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft verweerder een dwangsom verbeurd wegens het niet tijdig beslissen op het AVG-verzoek van eiser.",
+    "bron": [
+     106
+    ]
+   }
+  },
+  {
+   "arg": "kopie-stukken",
+   "burger_zegt": "Ik wil kopieën of deels zwartgemaakte documenten, niet alleen overzichten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat een overzicht van de persoonsgegevens in dit geval genoeg is.",
+    "bron": [
+     101
+    ],
+    "citaat": "niet dat een bestuursorgaan verplicht is een kopie te verstrekken van de documenten waarin die persoonsgegevens voorkomen"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet dat een bestuursorgaan verplicht is een kopie te verstrekken van de documenten waarin die persoonsgegevens voorkomen",
+    "bron": [
+     101
+    ]
+   }
+  },
+  {
+   "arg": "weigering-rechten-anderen",
+   "burger_zegt": "De organisatie heeft ten onrechte stukken van advocaten en namen van anderen weggelaten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de vertrouwelijkheid van correspondentie met een advocaat zwaar weegt.",
+    "bron": [
+     94
+    ],
+    "citaat": "de vertrouwelijkheid van de relatie en correspondentie tussen cliënt en advocaat een elementair beginsel van onze rechtsorde is"
+   },
+   "bruikbare_zin": {
+    "citaat": "de vertrouwelijkheid van de relatie en correspondentie tussen cliënt en advocaat een elementair beginsel van onze rechtsorde is",
+    "bron": [
+     94
+    ]
+   }
+  },
+  {
+   "arg": "misbruik-recht",
+   "burger_zegt": "Mijn verzoek is geen misbruik van recht.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vindt dat de verzoeker geen misbruik maakt van zijn procesrecht.",
+    "bron": [
+     47
+    ],
+    "citaat": "De rechtbank is van oordeel dat eiser met het instellen van dit beroep geen misbruik maakt van zijn procesrecht."
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank is van oordeel dat eiser met het instellen van dit beroep geen misbruik maakt van zijn procesrecht.",
+    "bron": [
+     47
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als bestuursleden geen zakelijke telefoon hebben en de organisatie laat privégebruik voor zakelijke communicatie toe, dan is de organisatie verwerkingsverantwoordelijke voor die berichten.",
+  "type": "regel",
+  "reikwijdte": "zakelijke berichten via privételefoons van bestuursleden zonder zakelijke telefoon, als de organisatie privégebruik niet heeft verboden",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   71
+  ],
+  "citaat": "moet verweerder worden aangemerkt als verwerkingsverantwoordelijke voor zakelijke berichten die door de bestuursleden met privé telefoons zijn verstuurd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaringen ter zitting",
+   "procesdossier",
+   "8:29-stukken",
+   "overzichten"
+  ],
+  "wat_gaf_doorslag": "De verklaring dat de voorzitter diverse malen zakelijk communiceerde via een privételefoon."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2022:688",
+   "ECLI:NL:RVS:2022:1993",
+   "ECLI:NL:RVS:2022:647",
+   "ECLI:NL:GHDHA:2021:2793",
+   "ECLI:NL:GHDHA:2019:2398"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 15 lid 3 AVG",
+  "art. 15 lid 4 AVG",
+  "art. 2 lid 1 AVG",
+  "art. 23 lid 1 onder g AVG",
+  "art. 41 lid 1 onder g UAVG",
+  "art. 3:2 Awb",
+  "art. 7:12 Awb",
+  "art. 8:51a Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Neem zakelijke WhatsApp- en sms-berichten via privételefoons van bestuursleden mee in de zoekslag bij een inzageverzoek.",
+   "raakt": "privacy-fg",
+   "bron": [
+    71
+   ],
+   "citaat": "Verweerder had deze berichten dan ook in zijn zoekslag moeten meenemen."
+  },
+  {
+   "actie": "Stel de dwangsom vast als niet tijdig op het volledige AVG-verzoek is beslist.",
+   "raakt": "klantcontact",
+   "bron": [
+    106
+   ],
+   "citaat": "heeft verweerder een dwangsom verbeurd wegens het niet tijdig beslissen op het AVG-verzoek van eiser."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Als u om uw gegevens vraagt, moet de organisatie goed zoeken. Ook zakelijke berichten via een privételefoon van bestuurders kunnen erbij horen. Wijst u de organisatie daarop als die berichten er zijn.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente; verweerder is het Huis voor Klokkenluiders",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

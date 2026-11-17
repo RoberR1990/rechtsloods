@@ -1,0 +1,183 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2025:6403",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder)",
+  "wederpartij": "gemeente Utrecht (via de Belastingsamenwerking)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffingsaanslag parkeerbelasting in Utrecht, terwijl er wel was betaald, maar voor een andere zone. De gemeente Utrecht, via de Belastingsamenwerking, had die aanslag al uit coulance vernietigd; de rechtbank Midden-Nederland oordeelde over het beroep.",
+ "titel": "Verkeerde zone betaald: kosten wel terug, niet de aanslag",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente de parkeerder ten onrechte niet had gehoord, maar dat dit geen nadeel gaf; de kosten moeten wel vergoed worden.",
+  "bron": [
+   20,
+   36
+  ],
+  "citaat": "ten onrechte geen hoorzitting heeft plaatsgevonden"
+ },
+ "samenvatting": [
+  {
+   "zin": "Voor een auto in Utrecht legde de gemeente een naheffing op, omdat er op 25 februari 2023 geen geldig parkeerrecht was.",
+   "bron": [
+    16
+   ],
+   "citaat": "Op 25 februari 2023 om 12:19 stond de auto met het kenteken geparkeerd"
+  },
+  {
+   "zin": "De parkeerder legde een betaalbewijs voor, van een betaling voor een andere zone met een lager tarief.",
+   "bron": [
+    16
+   ],
+   "citaat": "heeft zij een betaalbewijs overgelegd van dat tijdstip van een betaling voor Parkeerrayon Pijlsweerd Noord"
+  },
+  {
+   "zin": "De gemeente haalde de aanslag uit coulance weg, omdat er wel was betaald maar voor een ander gebied.",
+   "bron": [
+    16
+   ],
+   "citaat": "wel betaald was maar voor een ander rayon tegen een lager tarief"
+  },
+  {
+   "zin": "De parkeerder had in het bezwaar om een hoorzitting gevraagd, maar die kwam er niet.",
+   "bron": [
+    20
+   ],
+   "citaat": "in het bezwaarschrift expliciet verzocht heeft te worden gehoord"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente de parkeerder ten onrechte niet had gehoord, maar dat dit geen nadeel was.",
+   "bron": [
+    20
+   ],
+   "citaat": "ten onrechte geen hoorzitting heeft plaatsgevonden"
+  },
+  {
+   "zin": "De gemeente moet het griffierecht en de kosten van rechtsbijstand in beroep vergoeden.",
+   "bron": [
+    38
+   ],
+   "citaat": "De totale vergoeding voor de kosten van rechtsbijstand in beroep bedraagt daarmee € 226,75."
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep ongegrond; wel griffierecht en proceskosten vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt € 365 griffierecht terug en € 226,75 aan kosten voor rechtsbijstand.",
+  "bron": [
+   38,
+   39
+  ],
+  "citaat": "De totale vergoeding voor de kosten van rechtsbijstand in beroep bedraagt daarmee € 226,75."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Er was wel betaald, maar in een andere zone; daarom had de gemeente niet mogen aanslaan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag het betalen in de verkeerde zone als eigen risico van de parkeerder.",
+    "bron": [
+     32
+    ],
+    "citaat": "Omdat het betalen voor de verkeerde zone voor risico"
+   },
+   "bruikbare_zin": {
+    "citaat": "Omdat het betalen voor de verkeerde zone voor risico",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente had de stukken niet gedeeld, dus de aanslag kon niet worden gecontroleerd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat stukken niet hoeven te worden gedeeld als de aanslag toch wordt vernietigd.",
+    "bron": [
+     29
+    ],
+    "citaat": "er geen inzage in de op de zaak betrekking hebbende stukken hoeft te worden geboden wanneer de aanslag wordt vernietigd"
+   },
+   "bruikbare_zin": {
+    "citaat": "er geen inzage in de op de zaak betrekking hebbende stukken hoeft te worden geboden wanneer de aanslag wordt vernietigd",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Recht op een proceskostenvergoeding in bezwaar, ook als de gemeente uit coulance vernietigt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat proceskosten alleen vergoed worden als het besluit wegens een fout van de gemeente wordt herroepen.",
+    "bron": [
+     32
+    ],
+    "citaat": "komt de proceskosten enkel voor vergoeding in aanmerking voor zover een bestreden besluit wordt herroepen"
+   },
+   "bruikbare_zin": {
+    "citaat": "komt de proceskosten enkel voor vergoeding in aanmerking voor zover een bestreden besluit wordt herroepen",
+    "bron": [
+     32
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bestuursorgaan betaalt proceskosten alleen als het besluit wordt herroepen door een eigen fout.",
+  "type": "regel",
+  "reikwijdte": "proceskosten in bezwaar bij een naheffing",
+  "uitzondering": "een gebrek dat met artikel 6:22 Awb wordt gepasseerd: dan wel vergoeding in beroep",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   32
+  ],
+  "citaat": "komt de proceskosten enkel voor vergoeding in aanmerking voor zover een bestreden besluit wordt herroepen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "betaalbewijs voor de andere zone"
+  ],
+  "wat_gaf_doorslag": "Het betaalde bedrag was lager dan het verschuldigde bedrag in de juiste zone."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:22 Awb",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Houd een hoorzitting in het bezwaar als de parkeerder daar expliciet om vraagt.",
+   "raakt": "bezwaar",
+   "bron": [
+    20
+   ],
+   "citaat": "in het bezwaarschrift expliciet verzocht heeft te worden gehoord"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Betalen in de verkeerde zone komt voor uw eigen risico. In dit geval schrapte de gemeente de aanslag toch uit coulance. Als de gemeente een fout maakt, zoals een hoorzitting die niet plaatsvindt, dan kan het zijn dat u de kosten van de procedure terugkrijgt.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

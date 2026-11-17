@@ -1,0 +1,158 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2023:160",
+ "relevant": true,
+ "onderwerp": "handhaving-privacy",
+ "sub": "woo-inzage",
+ "kenmerk": null,
+ "zaaktype": "woo-avg",
+ "partijen": {
+  "burger": "burger (fietser)",
+  "wederpartij": "minister voor Rechtsbescherming",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De fiets van een burger werd wegens verkeerd parkeren verwijderd. De burger vroeg om de naam van de ambtenaar en om handtekeningen en ging in hoger beroep tegen de minister voor Rechtsbescherming bij de Raad van State.",
+ "titel": "Naam en handtekening van ambtenaar mogen geheim blijven",
+ "kern": {
+  "zin": "De Raad van State vindt dat de minister de naam en de handtekeningen terecht niet openbaar maakte, omdat de burger geen zwaarder belang liet zien.",
+  "bron": [
+   31
+  ],
+  "citaat": "terecht heeft geoordeeld dat de minister openbaarmaking van de naam van de buitengewoon opsporingsambtenaar"
+ },
+ "samenvatting": [
+  {
+   "zin": "De fiets van de burger werd wegens verkeerd parkeren verwijderd en opgeslagen.",
+   "bron": [
+    20
+   ],
+   "citaat": "is wegens verkeerd parkeren verwijderd en opgeslagen"
+  },
+  {
+   "zin": "De burger vroeg daarna om de naam van de ambtenaar die de bon opmaakte (een buitengewoon opsporingsambtenaar) en om handtekeningen.",
+   "bron": [
+    20
+   ],
+   "citaat": "verzocht om de naam van de buitengewoon opsporingsambtenaar die bekend is onder aktenummer 6050527"
+  },
+  {
+   "zin": "De minister weigerde, omdat de privacy van deze personen zwaarder woog dan openbaarheid.",
+   "bron": [
+    25
+   ],
+   "citaat": "weegt in dit geval niet op tegen het belang van de eerbiediging van de persoonlijke levenssfeer van deze personen"
+  },
+  {
+   "zin": "De Raad van State vond dat de naam terecht was weggelakt, omdat de ambtenaar niet vanwege zijn functie in de openbaarheid treedt.",
+   "bron": [
+    30
+   ],
+   "citaat": "de naam van de buitengewoon opsporingsambtenaar, die niet uit hoofde van zijn functie in de openbaarheid treedt, terecht is weggelakt"
+  },
+  {
+   "zin": "Ook de handtekeningen mochten geheim blijven, omdat de namen al openbaar waren en er dan een risico op identiteitsfraude is.",
+   "bron": [
+    30
+   ],
+   "citaat": "bij openbaarmaking van de handtekeningen het risico op identiteitsfraude aanwezig is"
+  },
+  {
+   "zin": "Het hoger beroep slaagt niet en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    34
+   ],
+   "citaat": "Het hoger beroep is ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naam en handtekeningen blijven geheim; hoger beroep ongegrond",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt de naam en de handtekeningen niet en de minister hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   35,
+   34
+  ],
+  "citaat": "De minister hoeft geen proceskosten te vergoeden."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Er is niet goed uitgelegd waarom privacy zwaarder weegt dan openbaarheid van de naam.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger liet niet zien dat openbaarheid van de naam in dit geval zwaarder weegt dan de privacy van de ambtenaar.",
+    "bron": [
+     30
+    ],
+    "citaat": "niet aannemelijk gemaakt dat het belang van openbaarheid van de naam van die functionaris zwaarder weegt"
+   },
+   "bruikbare_zin": {
+    "citaat": "verzet het belang van eerbiediging van de persoonlijke levenssfeer zich tegen openbaarmaking van namen van medewerkers",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De handtekeningen van de ondertekenaars moeten openbaar worden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Omdat de namen al openbaar zijn, geeft het openbaar maken van handtekeningen een risico op identiteitsfraude.",
+    "bron": [
+     30
+    ],
+    "citaat": "bij openbaarmaking van de handtekeningen het risico op identiteitsfraude aanwezig is"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Namen van medewerkers die niet vanwege hun functie in de openbaarheid treden, blijven in principe geheim vanwege hun privacy.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om informatie over namen van medewerkers van een overheidsorgaan zonder openbare functie",
+  "uitzondering": "Tenzij de vrager aannemelijk maakt dat het belang van openbaarheid in het concrete geval zwaarder weegt",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   29
+  ],
+  "citaat": "verzet het belang van eerbiediging van de persoonlijke levenssfeer zich tegen openbaarmaking van namen van medewerkers"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De burger maakte niet aannemelijk dat openbaarheid zwaarder woog dan privacy."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2018:321",
+   "ECLI:NL:RVS:2018:3788"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 10 lid 2 aanhef en onder e Wob"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Maak namen van medewerkers zonder openbare functie niet openbaar bij een verzoek om informatie, tenzij de vrager een zwaarder belang aannemelijk maakt.",
+   "raakt": "privacy-woo",
+   "bron": [
+    29
+   ],
+   "citaat": "verzet het belang van eerbiediging van de persoonlijke levenssfeer zich tegen openbaarmaking van namen van medewerkers"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-woo"
+ ],
+ "klantuitleg": "Vraagt u om de naam of handtekening van een medewerker die niet vanwege zijn functie bekend is, dan mag die in de regel geheim blijven. Dat kan anders zijn als u goed laat zien waarom uw belang om de naam te weten zwaarder weegt. Twijfelt u, leg dan in uw verzoek uit waarom u de naam echt nodig hebt.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij (minister)",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

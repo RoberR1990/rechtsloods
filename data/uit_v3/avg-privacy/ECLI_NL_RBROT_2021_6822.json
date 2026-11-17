@@ -1,0 +1,161 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2021:6822",
+ "relevant": true,
+ "onderwerp": "schade-aansprakelijkheid",
+ "sub": "immateriele-schade",
+ "kenmerk": null,
+ "zaaktype": "schadevergoeding",
+ "partijen": {
+  "burger": "persoon die om verwijdering van medische gegevens vroeg",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "anders",
+ "intro": "Een burger vroeg de gemeente Rotterdam om schadevergoeding, omdat de gemeente haar medische gegevens ongeveer tien jaar had bewaard. De rechtbank Rotterdam beoordeelde dit verzoek.",
+ "titel": "€ 2.500 schadevergoeding voor tien jaar bewaren van medische gegevens",
+ "kern": {
+  "zin": "De rechter kende € 2.500 toe voor immateriële schade (schade die geen geld kost, zoals aantasting van privacy), omdat de gemeente de gegevens in strijd met de AVG had bewaard.",
+  "bron": [
+   21
+  ],
+  "citaat": "heeft verzoekster recht op toekenning van een vergoeding voor immateriële schade"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente in 2014 om medische gegevens uit haar dossier te verwijderen.",
+   "bron": [
+    14
+   ],
+   "citaat": "heeft verzoekster verweerder verzocht medische gegevens uit haar dossier te verwijderen"
+  },
+  {
+   "zin": "De gemeente wees dat eerst af en besloot pas in 2018 de gegevens te verwijderen; ze erkende zelf dat de afwijzing van 2017 onrechtmatig was.",
+   "bron": [
+    16
+   ],
+   "citaat": "met de intrekking van het besluit van 24 juli 2017 de onrechtmatigheid van dit besluit is gegeven"
+  },
+  {
+   "zin": "De burger stelde dat ze ten minste € 25.000 schade had geleden.",
+   "bron": [
+    22
+   ],
+   "citaat": "ten minste € 25.000,- aan schade te hebben geleden"
+  },
+  {
+   "zin": "De rechter vond dat het bewaren en verwerken van de gegevens de privacy van de burger had geschonden, wat recht geeft op vergoeding van immateriële schade.",
+   "bron": [
+    21
+   ],
+   "citaat": "daardoor het recht op eerbiediging van de persoonlijke levenssfeer van verzoekster heeft geschonden"
+  },
+  {
+   "zin": "De rechter stelde de schade op € 2.500, vooral omdat de gegevens ongeveer tien jaar zijn bewaard.",
+   "bron": [
+    23
+   ],
+   "citaat": "privacygevoelige persoonsgegevens gedurende een periode van ongeveer tien jaar door verweerder zijn bewaard"
+  },
+  {
+   "zin": "Schade door gemist inkomen of een beschadigde carrière vond de rechter niet aannemelijk; dat deel werd afgewezen.",
+   "bron": [
+    24
+   ],
+   "citaat": "Het verzoek om materiële schadevergoeding wordt daarom afgewezen."
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "€ 2.500 toegekend van ten minste € 25.000 gevraagd; materiële schade afgewezen.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt € 2.500 schadevergoeding en € 178 griffierecht terug; de rest van haar claim (ten minste € 25.000) wordt afgewezen en proceskosten worden niet vergoed.",
+  "bron": [
+   30,
+   31,
+   26
+  ],
+  "citaat": "veroordeelt verweerder tot vergoeding van verzoeksters schade, vastgesteld op € 2.500,-"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "De gemeente bewaarde en verwerkte haar medische gegevens onrechtmatig en dat veroorzaakte schade.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Een inbreuk op de privacy telt als aantasting van de persoon en geeft recht op vergoeding van immateriële schade.",
+    "bron": [
+     21
+    ],
+    "citaat": "Een inbreuk op de persoonlijke levenssfeer van verzoekster kan worden aangemerkt als een aantasting in de persoon"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het begrip schade moet ruim worden uitgelegd in het licht van de rechtspraak van het Hof van Justitie van de Europese Unie",
+    "bron": [
+     18
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Haar carrière is beschadigd en ze heeft inkomen verloren (materiële schade).",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond niet aannemelijk gemaakt dat de carrière was beschadigd en inkomen was verloren door het bewaren van de gegevens.",
+    "bron": [
+     24
+    ],
+    "citaat": "acht de rechtbank niet aannemelijk gemaakt"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie door onrechtmatige verwerking van persoonsgegevens in zijn privacy is geschonden, heeft recht op een naar billijkheid vast te stellen vergoeding voor immateriële schade.",
+  "type": "regel",
+  "reikwijdte": "Onrechtmatig bewaren en verwerken van privacygevoelige gegevens, hier medische gegevens, gedurende lange tijd.",
+  "uitzondering": "De schade moet reëel en zeker zijn; voor materiële schade (zoals inkomensverlies) moet de burger die aannemelijk maken.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "Een inbreuk op de persoonlijke levenssfeer van verzoekster kan worden aangemerkt als een aantasting in de persoon als bedoeld in artikel 6:106"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De gemeente weersprak niet voldoende dat ze de medische gegevens onrechtmatig had verwerkt, en de gegevens waren ongeveer tien jaar bewaard."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2020:898"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 82 lid 1 AVG",
+  "art. 6:106 lid 1 onder b BW"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Voer een verzoek om medische gegevens te verwijderen direct uit zodra duidelijk is dat bewaren niet mag; hoe langer de gegevens onrechtmatig blijven staan, hoe hoger de schadevergoeding kan zijn.",
+   "raakt": "privacy-fg",
+   "bron": [
+    23
+   ],
+   "citaat": "en de lengte van de periode dat de gegevens onrechtmatig zijn bewaard en verwerkt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Heeft de gemeente uw medische gegevens bewaard terwijl dat niet mocht, dan kunt u recht hebben op schadevergoeding voor de inbreuk op uw privacy. De hoogte hangt onder meer af van hoe lang de gegevens zijn bewaard; in deze zaak ging het om ongeveer tien jaar en om € 2.500. Schade zoals gemist inkomen moet u aannemelijk maken.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

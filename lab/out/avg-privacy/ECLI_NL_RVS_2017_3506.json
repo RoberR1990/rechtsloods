@@ -1,0 +1,199 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2017:3506",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "wissen",
+ "kenmerk": "publieke-taak",
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "woningverhuurder",
+  "wederpartij": "Belastingdienst/Toeslagen",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Deze zaak gaat over een verzoek om persoonsgegevens uit oude huurtoeslagbeschikkingen te verwijderen. De burger procedeert tegen de Belastingdienst/Toeslagen bij de Raad van State.",
+ "titel": "Geen verwijdering van gegevens uit huurtoeslagbeschikkingen",
+ "kern": {
+  "zin": "De Raad van State vindt dat de gegevens nodig waren voor de motivering en wijst het verzoek om verwijdering terecht af.",
+  "bron": [
+   32
+  ],
+  "citaat": "het verzoek van [appellant] om zijn persoonsgegevens te verwijderen of af te schermen terecht heeft afgewezen."
+ },
+ "samenvatting": [
+  {
+   "zin": "[persoon] huurde een deel van de woning van [appellant] en vroeg huurtoeslag aan.",
+   "bron": [
+    20
+   ],
+   "citaat": "[persoon] woont in 2011 en 2012 op hetzelfde adres als [appellant], van wie hij een deel van de woning huurt."
+  },
+  {
+   "zin": "De Belastingdienst/Toeslagen zette de gegevens van de burger in de beschikkingen.",
+   "bron": [
+    20
+   ],
+   "citaat": "In de beschikkingen huurtoeslag voor de jaren 2011 en 2012 van [persoon] zijn de persoonsgegevens van [appellant] vermeld."
+  },
+  {
+   "zin": "De burger vroeg om nieuwe beschikkingen zonder zijn gegevens of om afscherming.",
+   "bron": [
+    20
+   ],
+   "citaat": "heeft verzocht om nieuwe beschikkingen huurtoeslag te nemen waarin zijn persoonsgegevens zijn verwijderd of afgeschermd."
+  },
+  {
+   "zin": "Volgens de dienst waren de gegevens ter zake dienend.",
+   "bron": [
+    20
+   ],
+   "citaat": "Volgens de Belastingdienst/Toeslagen waren de gegevens ten tijde van de verwerking ter zake dienend"
+  },
+  {
+   "zin": "De rechtbank en de Raad vonden dat de gegevens nodig waren voor een goede motivering.",
+   "bron": [
+    29
+   ],
+   "citaat": "Deze concrete gegevens zijn dus nodig voor een goede motivering."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; verzoek om verwijdering terecht afgewezen.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt de kosten van de procedure niet vergoed; zijn verzoek om schadevergoeding is ook afgewezen.",
+  "bron": [
+   50,
+   49
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "geen-wettelijke-grondslag",
+   "burger_zegt": "De wetten verplichten de dienst niet om mijn persoonsgegevens aan de aanvrager te geven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat het ontbreken van zo'n verplichting niet betekent dat de gegevens niet gebruikt mochten worden.",
+    "bron": [
+     30
+    ],
+    "citaat": "Dat in de Awir en de Wht geen verplichting is opgenomen voor het bekendmaken van persoonsgegevens, maakt dat niet anders."
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat in de Awir en de Wht geen verplichting is opgenomen voor het bekendmaken van persoonsgegevens, maakt dat niet anders.",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "te-veel-gegevens",
+   "burger_zegt": "De precieze inkomens, het BSN en de geboortedatum waren niet nodig voor de beslissing.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat juist concrete gegevens nodig zijn voor een goede motivering.",
+    "bron": [
+     29
+    ],
+    "citaat": "Deze concrete gegevens zijn dus nodig voor een goede motivering."
+   },
+   "bruikbare_zin": {
+    "citaat": "Van het BSN kan evenmin worden geoordeeld dat de verwerking daarvan niet ter zake dienend is.",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Mijn privacy is geschonden; ik wil schadevergoeding.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de verwerking zorgvuldig was en nodig voor de wettelijke taak.",
+    "bron": [
+     39
+    ],
+    "citaat": "Reeds daarom is de door [appellant] ervaren schending van zijn privacy geen grond voor vergoeding van immateriële schade."
+   },
+   "bruikbare_zin": {
+    "citaat": "Reeds daarom is de door [appellant] ervaren schending van zijn privacy geen grond voor vergoeding van immateriële schade.",
+    "bron": [
+     39
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De procedure duurde te lang; ik wil daarvoor schadevergoeding.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat de totale procedure nog geen vier jaar duurde.",
+    "bron": [
+     45
+    ],
+    "citaat": "zijn ten tijde van de uitspraak van de Afdeling van vandaag nog geen vier jaar verstreken."
+   },
+   "bruikbare_zin": {
+    "citaat": "zijn ten tijde van de uitspraak van de Afdeling van vandaag nog geen vier jaar verstreken.",
+    "bron": [
+     45
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor een goede motivering van een huurtoeslagbeschikking zijn de concrete gegevens van medebewoners nodig.",
+  "type": "regel",
+  "reikwijdte": "Beschikkingen huurtoeslag waarin een medebewoner voorkomt.",
+  "uitzondering": "Als de gegevens feitelijk onjuist zijn of niet ter zake dienend zijn.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   29
+  ],
+  "citaat": "Deze concrete gegevens zijn dus nodig voor een goede motivering."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "inschrijving in de BRP",
+   "inkomensgegeven uit de basisregistratie inkomen",
+   "beschikkingen huurtoeslag"
+  ],
+  "wat_gaf_doorslag": "De inschrijving in de BRP en de noodzaak om de beschikking te motiveren."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2017:52",
+   "ECLI:NL:RVS:2016:253",
+   "ECLI:NL:RVS:2014:188"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 36, eerste lid, Wbp",
+  "art. 36, tweede lid, Wbp",
+  "art. 3:46 Awb",
+  "art. 3:47 Awb",
+  "art. 2, eerste lid, onder e, Awir",
+  "art. 7, eerste lid, Wht",
+  "art. 21, onderdeel e, Awr",
+  "art. 21g, eerste lid, Awr"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar",
+  "burgerzaken-brp",
+  "communicatie"
+ ],
+ "klantuitleg": "De overheid mag uw gegevens gebruiken als dat nodig is om een beslissing over iemand anders goed uit te leggen. Vraagt u om verwijdering, dan gebeurt dat niet als de gegevens kloppen en echt nodig zijn. In deze zaak bleef de afwijzing staan; bezwaar heeft vooral zin als u kunt laten zien dat uw gegevens onjuist zijn of niet nodig waren.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente in de uitspraak",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

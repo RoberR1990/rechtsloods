@@ -1,0 +1,43 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:9567",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "parkeerder", "wederpartij": "gemeente Rotterdam", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging in beroep tegen een rekening achteraf voor parkeren (de naheffing) van de gemeente Rotterdam. De Rechtbank Rotterdam deed op 18 juli 2025 mondeling uitspraak.",
+ "titel": "Rekening al ingetrokken; rechter behandelt zaak niet verder",
+ "kern": {"zin": "De rechter behandelt de zaak niet verder, omdat de gemeente de rekening al had vernietigd en er niets meer te winnen valt.", "bron": [14], "citaat": "Dat betekent dat eiseres met deze procedure niet meer in een betere positie kan worden gebracht."},
+ "samenvatting": [
+  {"zin": "Op 13 maart 2024 kreeg de parkeerder een rekening achteraf voor parkeerbelasting van de gemeente.", "bron": [9], "citaat": "een naheffingsaanslag in de parkeerbelasting opgelegd"},
+  {"zin": "De gemeente vond het bezwaar van de parkeerder niet terecht en wees het af.", "bron": [10], "citaat": "het bezwaar van eiseres hiertegen ongegrond verklaard"},
+  {"zin": "Op 17 juni 2025 trok de gemeente de rekening zelf in, tijdens het beroep.", "bron": [14], "citaat": "De heffingsambtenaar heeft de bestreden naheffingsaanslag op 17 juni 2025 vernietigd"},
+  {"zin": "De rechter gaat de zaak daarom niet inhoudelijk na, en het beroep is niet in behandeling genomen.", "bron": [16], "citaat": "De rechtbank beoordeelt dus de zaak niet inhoudelijk."},
+  {"zin": "De gemeente betaalt de 51 euro die de parkeerder voor de rechtszaak heeft betaald, terug.", "bron": [21], "citaat": "het griffierecht van € 51,- aan eiseres moet vergoeden"}
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Rekening vernietigd tijdens beroep; geen inhoudelijke toets, griffierecht terug.",
+ "gevolg_betrokkene": {"zin": "De rekening is van tafel, en de parkeerder krijgt 51 euro terug voor de rechtszaak (het griffierecht).", "bron": [14, 21], "citaat": "De heffingsambtenaar heeft de bestreden naheffingsaanslag op 17 juni 2025 vernietigd"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "overig", "burger_zegt": "De parkeerder is het niet eens met de rekening; de inhoud van de grond staat niet in deze uitspraak.", "oordeel": "niet beoordeeld", "waarom": {"zin": "De rechter oordeelt niet over de inhoud, omdat het beroep niet in behandeling wordt genomen.", "bron": [16], "citaat": "De rechtbank beoordeelt dus de zaak niet inhoudelijk."}, "bruikbare_zin": {"citaat": "De rechtbank beoordeelt dus de zaak niet inhoudelijk.", "bron": [16]}}
+ ],
+ "rechtsregel": null,
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": [], "wat_gaf_doorslag": null},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {"actie": "Vergoed het griffierecht als de gemeente een rekening tijdens het beroep intrekt.", "raakt": "bezwaar", "bron": [14], "citaat": "moet de heffingsambtenaar wel het betaalde griffierecht vergoeden"}
+ ],
+ "reden_leeg_actie": null,
+ "raakt": ["bezwaar"],
+ "klantuitleg": "De gemeente heeft uw rekening tijdens het beroep ingetrokken, zodat de rechter de zaak niet meer verder hoefde te bekijken. U krijgt het bedrag terug dat u voor de rechtszaak betaalde (51 euro). Of een rekening terecht is, hangt af van wat er op dat moment gebeurde; dat bepaalt de rechter per geval.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

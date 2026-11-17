@@ -1,0 +1,41 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:6506",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "parkeerder", "wederpartij": "gemeente Breda", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeerde bij de rechtbank Zeeland-West-Brabant tegen de gemeente Breda over een naheffingsaanslag (de rekening achteraf) voor parkeerbelasting. Het ging om een auto die in een parkeervak in Breda stond.",
+ "titel": "Zaak afgewezen op formaliteit: geen kopie van het besluit",
+ "kern": {"zin": "De rechter ging niet inhoudelijk in op de aanslag, omdat het beroep niet mocht: de parkeerder leverde geen kopie van het besluit op tijd in.", "bron": [26, 24], "citaat": "Al het voorgaande brengt mee dat het beroep niet-ontvankelijk is."},
+ "samenvatting": [
+  {"zin": "De parkeerder had op 16 juni 2023 in Breda geen parkeerbelasting betaald.", "bron": [17, 18], "citaat": "stond op 16 juni 2023 omstreeks 12.16 uur stil in een parkeervak in de Ceresstraat in Breda"},
+  {"zin": "Een e-mail van de parkeerder gold als beroepschrift.", "bron": [11], "citaat": "die als beroepschrift is aangemerkt"},
+  {"zin": "De gemeente Breda schreef per e-mail dat het parkeren op dat tijdstip werd gedoogd.", "bron": [20], "citaat": "dat het parkeren heeft plaatsgevonden op een tijdstip dat dit werd gedoogd"},
+  {"zin": "De rechter begreep dat de aanslag al vóór het beroep was vernietigd.", "bron": [25], "citaat": "de naheffingsaanslag voorafgaand aan het beroep reeds was vernietigd"},
+  {"zin": "De rechter ging daarom niet in op de vraag of de aanslag terecht was.", "bron": [28], "citaat": "De rechtbank beoordeelt de zaak niet inhoudelijk"}
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep niet-ontvankelijk; geen inhoudelijk oordeel, geen griffierecht terug, geen proceskosten.",
+ "gevolg_betrokkene": {"zin": "De aanslag was volgens de rechter al weg, maar het griffierecht komt niet terug en er is geen vergoeding van proceskosten.", "bron": [25, 28], "citaat": "de naheffingsaanslag voorafgaand aan het beroep reeds was vernietigd"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "overig", "burger_zegt": "De parkeerder ging in beroep, maar leverde geen kopie van de uitspraak op bezwaar in.", "oordeel": "niet beoordeeld", "waarom": {"zin": "De rechter ging niet inhoudelijk in op de zaak, omdat het beroep al niet ontvankelijk was.", "bron": [28], "citaat": "De rechtbank beoordeelt de zaak niet inhoudelijk"}, "bruikbare_zin": {"citaat": "wordt zo mogelijk een afschrift van het besluit waarop het geschil betrekking heeft overgelegd", "bron": [23]}}
+ ],
+ "rechtsregel": {"zin": "Als iemand een verzuim niet op tijd herstelt, kan de rechter het beroep niet-ontvankelijk verklaren.", "type": "regel", "reikwijdte": "beroep bij de bestuursrechter, bij een verzuim zoals een ontbrekend afschrift van het besluit", "uitzondering": null, "herkomst": "wet", "bron": [23], "citaat": "mits de indiener de gelegenheid heeft gehad het verzuim te herstellen binnen een hem daartoe gestelde termijn"},
+ "bewijs": {"bewijslast_bij": "burger", "bewijsmiddelen": ["afschrift van het bestreden besluit (ontbrak)"], "wat_gaf_doorslag": "Het ontbreken van een afschrift binnen de gestelde termijn."},
+ "toepasselijkheid": "landelijk",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": ["art. 6:5 Awb", "art. 6:6 onderdeel a Awb"],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver procedurele uitspraak",
+ "raakt": ["bezwaar", "klantcontact", "tarief-naheffing"],
+ "klantuitleg": "De rechter heeft niet gekeken of de rekening voor het parkeren terecht was, omdat de procedure niet goed was ingediend. Volgens de rechter was de rekening al ingetrokken voordat de zaak bij de rechter kwam. Wilt u in beroep gaan, lever dan tijdig een kopie van het besluit in, anders kan de rechter de inhoud niet behandelen.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

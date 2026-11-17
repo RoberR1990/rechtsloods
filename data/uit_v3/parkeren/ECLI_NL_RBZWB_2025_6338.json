@@ -1,0 +1,140 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:6338",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Het gaat om een naheffing parkeerbelasting in Breda, omdat een kenteken verkeerd was ingevoerd in de parkeerapp. De parkeerder kwam tegen de gemeente Breda in beroep bij de rechtbank.",
+ "titel": "Naheffing vernietigd: betaald parkeren was wel gedaan",
+ "kern": {
+  "zin": "De rechter oordeelde dat naheffen niet mag, omdat de parkeerder de parkeerbelasting al had betaald, ook met een foutief kenteken.",
+  "bron": [
+   21
+  ],
+  "citaat": "naheffen niet toegestaan, ook al heeft belanghebbende een onjuist kenteken ingevoerd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een naheffing van 63,95 euro voor parkeren op het Chasséveld in Breda zonder betaling.",
+   "bron": [
+    16
+   ],
+   "citaat": "een naheffingsaanslag parkeerbelasting van € 63,95 opgelegd"
+  },
+  {
+   "zin": "De parkeerder zei dat hij die avond wel had betaald via de parkeerapp, maar met een ander kenteken.",
+   "bron": [
+    17
+   ],
+   "citaat": "in de parkeerapp Yellowbrick heeft aangemeld in verband met het parkeren"
+  },
+  {
+   "zin": "De gemeente zei dat die betaling niet voor deze auto gold, omdat het kenteken fout was ingevoerd.",
+   "bron": [
+    19
+   ],
+   "citaat": "omdat belanghebbende niet het juiste kenteken in de parkeerapp geregistreerd heeft"
+  },
+  {
+   "zin": "De rechter vond dat de parkeerder wel had betaald, omdat het kenteken maar twee letters verschilde en het om een Volkswagen ging.",
+   "bron": [
+    20
+   ],
+   "citaat": "Alleen de letters ‘[letters]’ zijn omgedraaid."
+  },
+  {
+   "zin": "De naheffing en de uitspraak op bezwaar zijn daarom vernietigd en de gemeente moet het griffierecht terugbetalen.",
+   "bron": [
+    24,
+    25
+   ],
+   "citaat": "Dit betekent dat de naheffingsaanslag en de uitspraak op bezwaar worden vernietigd."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Beroep gegrond; naheffing vernietigd en griffierecht terugbetaald.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft de naheffing van 63,95 euro niet te betalen en krijgt het griffierecht van 51 euro terug.",
+  "bron": [
+   31
+  ],
+  "citaat": "griffierecht van € 51 aan belanghebbende moet vergoeden"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "Ik heb wel betaald via de parkeerapp, maar met een ander kenteken ingevuld.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de parkeerder de verschuldigde belasting had betaald, ook met een fout kenteken.",
+    "bron": [
+     20
+    ],
+    "citaat": "Naar het oordeel van de rechtbank heeft belanghebbende dan ook de verschuldigde parkeerbelasting voldaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "Aangezien belanghebbende de verschuldigde parkeerbelasting heeft betaald",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de verschuldigde parkeerbelasting al is betaald, mag de gemeente daar niet nog een keer naheffen.",
+  "type": "regel",
+  "reikwijdte": "betaling voor hetzelfde voertuig op hetzelfde moment en dezelfde locatie",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   21
+  ],
+  "citaat": "is naheffen niet toegestaan, ook al heeft belanghebbende een onjuist kenteken ingevoerd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "betaalbewijs van de parkeerapp"
+  ],
+  "wat_gaf_doorslag": "Het betaalbewijs, waaruit bleek dat op dat moment was betaald."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 20 Algemene wet inzake rijksbelastingen",
+  "art. 234 Gemeentewet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij een naheffing of er al betaald is voor hetzelfde voertuig, ook als het kenteken niet klopt.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    21
+   ],
+   "citaat": "is naheffen niet toegestaan, ook al heeft belanghebbende een onjuist kenteken ingevoerd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "betaalapp",
+  "bezwaar"
+ ],
+ "klantuitleg": "Heeft u betaald, maar met een verkeerd kenteken, dan kan de rechter de naheffing toch vernietigen. Bewaar daarom uw betaalbewijs. Of uw zaak ook zo uitpakt, hangt af van het bewijs dat u heeft.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

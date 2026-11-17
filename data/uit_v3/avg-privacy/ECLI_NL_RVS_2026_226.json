@@ -1,0 +1,206 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:226",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "wissen",
+ "kenmerk": "publieke-taak",
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "particulier",
+  "wederpartij": "minister van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger wilde dat de minister van Financiën zijn gegevens uit de fraudelijst FSV van de Belastingdienst wist. De burger en de minister gingen allebei in hoger beroep bij de Raad van State, nadat de rechtbank de burger had gelijkgegeven.",
+ "titel": "Gegevens in fraudelijst Belastingdienst mogen voorlopig blijven staan",
+ "kern": {
+  "zin": "De Raad van State vond dat de minister de gegevens in de FSV-back-up mag bewaren, omdat dat voorlopig nodig is voor taken van algemeen belang.",
+  "bron": [
+   46
+  ],
+  "citaat": "voorlopig noodzakelijk is voor de vervulling van taken van algemeen belang"
+ },
+ "samenvatting": [
+  {
+   "zin": "De minister gaf de burger inzage in zijn gegevens in de FSV (Fraude Signalering Voorziening, een fraudelijst van de Belastingdienst), maar weigerde ze te corrigeren of te wissen.",
+   "bron": [
+    23
+   ],
+   "citaat": "inzage gegeven in de in de FSV aanwezige persoonsgegevens"
+  },
+  {
+   "zin": "De minister zei dat hij de gegevens nog nodig had om de gevolgen van de FSV in kaart te brengen en verantwoording af te leggen aan de Tweede Kamer.",
+   "bron": [
+    23
+   ],
+   "citaat": "nog nodig zijn om de gevolgen van de FSV in kaart te brengen"
+  },
+  {
+   "zin": "De rechtbank vond dat de minister het verzoek om wissing niet had mogen afwijzen.",
+   "bron": [
+    25
+   ],
+   "citaat": "geoordeeld dat de minister dat verzoek niet heeft mogen afwijzen"
+  },
+  {
+   "zin": "De burger wilde in hoger beroep ook inzage in gegevens van ambtenaren en het BSN van zijn partner; de Raad van State zei dat dit geen gegevens van de burger zelf zijn.",
+   "bron": [
+    31
+   ],
+   "citaat": "Het gaat namelijk om gegevens van behandelend ambtenaren van de Belastingdienst"
+  },
+  {
+   "zin": "De Raad van State vond dat de minister de gegevens in de back-up voorlopig mag bewaren voor taken van algemeen belang.",
+   "bron": [
+    46
+   ],
+   "citaat": "voorlopig noodzakelijk is voor de vervulling van taken van algemeen belang"
+  },
+  {
+   "zin": "Het weigeren van wissen is volgens de Raad van State ook voor deze burger evenredig, dus niet te zwaar.",
+   "bron": [
+    50
+   ],
+   "citaat": "Het weigeren van de wissing is daarom in dit geval evenredig"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Wissen mocht worden geweigerd; alleen vergoeding voor te lange procedure.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt zijn gegevens niet gewist, de minister hoeft geen proceskosten te betalen, en de burger krijgt wel een vergoeding voor de te lange procedure (totaal 500 euro, betaald door de Staat).",
+  "bron": [
+   56
+  ],
+  "citaat": "Daarmee wordt de schadevergoeding vastgesteld op"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "De minister moest ook inzage geven in de velden 'opgevoerd door', 'beoordeeld door' en 'partner BSN'.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Die velden bevatten gegevens van ambtenaren en het BSN van de partner, dus niet van de burger zelf.",
+    "bron": [
+     31
+    ],
+    "citaat": "Het gaat namelijk om gegevens van behandelend ambtenaren van de Belastingdienst"
+   },
+   "bruikbare_zin": {
+    "citaat": "deze gegevens niet vallen onder het bereik van het inzagerecht van artikel 15 van de AVG",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "De minister moest zijn naam zuiveren door rectificaties in kranten te plaatsen en instanties te informeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het recht op correctie gaat alleen over onjuiste of onvolledige gegevens, en de burger zei niet dat zijn gegevens onjuist waren.",
+    "bron": [
+     34
+    ],
+    "citaat": "ziet alleen op het corrigeren of aanvullen van onjuiste of onvolledige verwerkte persoonsgegevens"
+   },
+   "bruikbare_zin": {
+    "citaat": "ziet alleen op het corrigeren of aanvullen van onjuiste of onvolledige verwerkte persoonsgegevens",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "wissen-geen-grondslag",
+   "burger_zegt": "De gegevens zijn onrechtmatig verwerkt en moeten daarom worden gewist.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gegevens zijn voorlopig nodig voor het herstellen van fouten en voor verantwoording, dus mocht de minister wissen weigeren.",
+    "bron": [
+     46
+    ],
+    "citaat": "voorlopig noodzakelijk is voor de vervulling van taken van algemeen belang"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het weigeren van de wissing is daarom in dit geval evenredig",
+    "bron": [
+     50
+    ]
+   }
+  },
+  {
+   "arg": "proceskosten",
+   "burger_zegt": "De rechtbank had een te laag uurtarief voor zijn verletkosten gebruikt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger had zijn hogere uurtarief niet met gegevens onderbouwd.",
+    "bron": [
+     36
+    ],
+    "citaat": "daarom terecht de verletkosten vastgesteld tegen het minimumtarief"
+   },
+   "bruikbare_zin": {
+    "citaat": "daarom terecht de verletkosten vastgesteld tegen het minimumtarief",
+    "bron": [
+     36
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een organisatie mag wissen weigeren als de verwerking nodig is voor een taak van algemeen belang: het doel moet duidelijk omschreven zijn, het moet daarmee bereikt worden en de inbreuk op het privéleven moet evenredig zijn.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om wissing van gegevens die nodig zijn voor een taak van algemeen belang (art. 17 lid 3 onder b AVG).",
+  "uitzondering": "Kan het doel op een minder nadelige manier worden bereikt, dan is de inbreuk niet strikt noodzakelijk.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   44
+  ],
+  "citaat": "moet worden beoordeeld of het doel waarvoor de persoonsgegevens worden verwerkt welbepaald en uitdrukkelijk omschreven is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "toelichting van de minister",
+   "brieven van het kabinet aan de Tweede Kamer"
+  ],
+  "wat_gaf_doorslag": "De gegevens staan alleen in een beveiligde back-up, worden niet meer gebruikt en worden na zeven jaar verwijderd."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2024:4603",
+   "ECLI:NL:RVS:2025:2720"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 15 AVG",
+  "art. 16 AVG",
+  "art. 17 lid 1 onder d AVG",
+  "art. 17 lid 3 onder b AVG"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij een weigering om te wissen vast waarom de gegevens nog nodig zijn, wie erbij mag en hoelang ze blijven bewaard.",
+   "raakt": "privacy-fg",
+   "bron": [
+    50
+   ],
+   "citaat": "in de vorm van een kopiebestand in een datakluis geplaatst waar een beperkt aantal medewerkers"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "fraude-handhaving"
+ ],
+ "klantuitleg": "Ook als een organisatie uw gegevens onterecht heeft gebruikt, hoeft zij ze niet altijd meteen te wissen. Dat mag als zij de gegevens nog nodig heeft voor een taak van algemeen belang, zoals fouten herstellen of verantwoording afleggen, en als dat niet te zwaar voor u is. Bezwaar maken heeft zin als de organisatie niet kan uitleggen waarom ze de gegevens nog nodig heeft of hoelang ze die bewaart.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij (minister van Financiën)",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

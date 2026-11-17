@@ -1,0 +1,158 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2022:865",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder met gemachtigde",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg een boete van € 95 voor parkeren voor een in- of uitrit in Roermond. De parkeerder ging tegen de officier van justitie in hoger beroep bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Parkeren voor een poort mag niet, ook met stoep ertussen",
+ "kern": {
+  "zin": "Het hof oordeelde dat een auto die voor de poort van een terrein staat, voor een in- of uitrit staat, ook als er een stoep en fietspad tussen liggen.",
+  "bron": [
+   28
+  ],
+  "citaat": "Het voertuig van de betrokkene stond voor deze in- en/of uitrit."
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg als kentekenhouder een boete van € 95 voor parkeren voor een in- of uitrit in Roermond.",
+   "bron": [
+    20
+   ],
+   "citaat": "Aan de betrokkene is als kentekenhouder bij inleidende beschikking een sanctie opgelegd van € 95,-"
+  },
+  {
+   "zin": "De parkeerder zei dat zijn auto niet voor een in- of uitrit stond.",
+   "bron": [
+    22
+   ],
+   "citaat": "Het voertuig stond niet voor een in- of uitrit."
+  },
+  {
+   "zin": "Een ambtenaar verklaarde op ambtseed dat de auto voor de poort van een pand stond.",
+   "bron": [
+    24
+   ],
+   "citaat": "Ik zag, dat de betrokken personenauto geparkeerd stond voor de poort van het pand Wonen Limburg"
+  },
+  {
+   "zin": "Het hof zag op de foto's dat de auto voor hekken stond die open kunnen, met een weg erachter naar het pand.",
+   "bron": [
+    27
+   ],
+   "citaat": "Het voertuig van de betrokkene stond geparkeerd voor hekken die open kunnen."
+  },
+  {
+   "zin": "Het hof vond dat de stoep en het fietspad tussen de auto en de hekken daar niets aan veranderen.",
+   "bron": [
+    28,
+    29
+   ],
+   "citaat": "dat zich tussen de plaats waar het voertuig stond en de hekken een trottoir en een fietspad bevinden"
+  },
+  {
+   "zin": "Het hof liet de boete staan en wees de vergoeding van proceskosten af.",
+   "bron": [
+    34
+   ],
+   "citaat": "Nu de betrokkene niet in het gelijk wordt gesteld, zal het verzoek om een proceskostenvergoeding worden afgewezen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete blijft staan; geen proceskostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 95 blijft staan en de parkeerder krijgt geen proceskosten vergoed.",
+  "bron": [
+   33,
+   34
+  ],
+  "citaat": "Het hof zal derhalve de beslissing van de kantonrechter bevestigen"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De auto stond niet voor een in- of uitrit, want er liggen een stoep en fietspad tussen en de rijbaan was vrij.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een auto voor de hekken staat voor de in- of uitrit, ook met stoep en fietspad ertussen.",
+    "bron": [
+     28
+    ],
+    "citaat": "dat zich tussen de plaats waar het voertuig stond en de hekken een trottoir en een fietspad bevinden"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het voertuig van de betrokkene stond voor deze in- en/of uitrit.",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Een andere boete op dezelfde plek is vernietigd, dus deze moet ook weg.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dezelfde plek is niet genoeg: hier stond vast dat de overtreding was begaan.",
+    "bron": [
+     32
+    ],
+    "citaat": "Het enkele feit dat sprake is van dezelfde locatie brengt niet mee dat de inleidende beschikking in deze zaak"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het enkele feit dat sprake is van dezelfde locatie brengt niet mee",
+    "bron": [
+     32
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een toegangspoort van een terrein is een in- of uitrit; parkeren ervoor mag niet, ook niet als er een trottoir en fietspad tussen liggen.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Hekken of een poort die toegang geven tot een terrein, ook met een stoep en fietspad ervoor.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   28
+  ],
+  "citaat": "dat zich tussen de plaats waar het voertuig stond en de hekken een trottoir en een fietspad bevinden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring ambtenaar op ambtseed",
+   "vijf foto's",
+   "afbeelding uit Google Maps"
+  ],
+  "wat_gaf_doorslag": "De foto's en de afbeelding lieten zien dat de auto voor de hekken van de toegang stond."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:GHARL:2020:3336",
+   "ECLI:NL:GHARL:2021:1786"
+  ]
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; zuiver oordeel over de feiten van deze zaak",
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Staat uw auto voor de poort of toegang van een terrein, dan mag u daar niet parkeren, ook niet als er een stoep of fietspad tussen ligt. Dan is een boete meestal terecht. Bezwaar heeft vooral zin als de foto's niet laten zien dat u voor de toegang stond.",
+ "gemeente": "Roermond",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,140 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:4056",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffingsaanslag (de rekening achteraf) van € 63,15, omdat er geen parkeerbelasting was betaald. Hij procedeert tegen de gemeente Breda bij de Rechtbank Zeeland-West-Brabant.",
+ "titel": "Rekening vernietigd: aanmelding bleek niet in het systeem te zien",
+ "kern": {
+  "zin": "De rechter vernietigt de naheffing, omdat de aanmelding door een storing niet zichtbaar was en dat risico bij de gemeente ligt.",
+  "bron": [
+   20
+  ],
+  "citaat": "Een dergelijke fout ligt in de risicosfeer van de heffingsambtenaar"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeercontroleur zag bij de auto van de parkeerder dat er geen parkeerbelasting was betaald, waarop de gemeente een rekening stuurde.",
+   "bron": [
+    16
+   ],
+   "citaat": "geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zegt dat er tijdens de controle een actieve parkeervergunning was.",
+   "bron": [
+    19
+   ],
+   "citaat": "dat tijdens de controle een parkeervergunning actief was"
+  },
+  {
+   "zin": "De gemeente stelt dat het voertuig niet was aangemeld, en dat er geen storing was.",
+   "bron": [
+    19
+   ],
+   "citaat": "was het voertuig niet aangemeld in de bezoekersapplicatie of via mobiel parkeren"
+  },
+  {
+   "zin": "De rechter gaat af op de onderbouwing van de parkeerder en ziet geen reden om die stelling in twijfel te trekken.",
+   "bron": [
+    20
+   ],
+   "citaat": "ziet de rechtbank geen aanleiding om te twijfelen aan de stelling van belanghebbende"
+  },
+  {
+   "zin": "De uitspraak op bezwaar en de rekening worden vernietigd, en de gemeente betaalt het griffierecht terug.",
+   "bron": [
+    22
+   ],
+   "citaat": "De rechtbank vernietigt de uitspraak op bezwaar en de naheffingsaanslag parkeerbelasting"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Rekening vernietigd; de parkeerder hoeft niet te betalen.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft de € 63,15 niet te betalen en krijgt het griffierecht van € 51 terug; proceskosten krijgt hij niet.",
+  "bron": [
+   28,
+   29,
+   23
+  ],
+  "citaat": "vernietigt de naheffingsaanslag parkeerbelasting"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "Er was tijdens de controle een parkeervergunning actief, maar die was niet zichtbaar in het systeem.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vindt dat de storing voor risico van de gemeente komt en niet voor de parkeerder.",
+    "bron": [
+     20
+    ],
+    "citaat": "Een dergelijke fout ligt in de risicosfeer van de heffingsambtenaar"
+   },
+   "bruikbare_zin": {
+    "citaat": "dit standpunt niet op enigerlei wijze is onderbouwd",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een storing waardoor een aanmelding niet in het systeem staat, komt voor risico van de gemeente.",
+  "type": "regel",
+  "reikwijdte": "Technische storingen waardoor een aanmelding voor parkeren niet zichtbaar is in het systeem",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   20
+  ],
+  "citaat": "Een dergelijke fout ligt in de risicosfeer van de heffingsambtenaar"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "schermafdruk uit de applicatie 2Park met kenteken, datum en tijdvak",
+   "Aanwijzingsbesluit parkeerbelastingen Breda 2023 (zonering)"
+  ],
+  "wat_gaf_doorslag": "De schermafdruk met kenteken en tijdvak, gecombineerd met de zone uit het aanwijzingsbesluit."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Aanwijzingsbesluit parkeerbelastingen Breda 2023"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Onderbouw bij een bezwaar met gegevens of er een storing was, want een niet-onderbouwd standpunt helpt niet.",
+   "raakt": "betaalapp",
+   "bron": [
+    20
+   ],
+   "citaat": "dit standpunt niet op enigerlei wijze is onderbouwd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "betaalapp",
+  "bezwaar"
+ ],
+ "klantuitleg": "De rekening voor het parkeren kan onterecht zijn als de betaling of vergunning wel klopte, maar de app de aanmelding niet doorgaf. Heeft u een schermafdruk van de app of van uw vergunning, leg die dan met het kenteken en het tijdvak bij uw bezwaar. Of de gemeente uw bezwaar dan gelijk geeft, hangt af van de gegevens die zij zelf heeft.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

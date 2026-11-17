@@ -1,0 +1,154 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2023:153",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bewoner kreeg van de gemeente Amsterdam een naheffingsaanslag parkeerbelasting (de rekening achteraf voor het parkeren). De zaak ging in hoger beroep bij het gerechtshof Amsterdam.",
+ "titel": "Rekening achteraf voor parkeren vervalt, gemeente betaalt de kosten",
+ "kern": {
+  "zin": "Het hof volgde partijen: het beroep was ten onrechte te laat verklaard, de rekening was al vernietigd en de gemeente betaalt de kosten.",
+  "bron": [
+   27
+  ],
+  "citaat": "geen reden heeft partijen niet te volgen in hun eensluidende standpunt dat het beroep ten onrechte niet-ontvankelijk is verklaard"
+ },
+ "samenvatting": [
+  {
+   "zin": "De rechtbank verklaarde het beroep van de bewoner niet-ontvankelijk (het werd niet inhoudelijk bekeken), maar dat was ten onrechte.",
+   "bron": [
+    20
+   ],
+   "citaat": "Er is derhalve sprake van een verschoonbare termijnoverschrijding en het beroep is ten onrechte niet-ontvankelijk verklaard"
+  },
+  {
+   "zin": "De bewoner liet zien dat zijn gemachtigde al in de bezwaarfase was aangemeld.",
+   "bron": [
+    20
+   ],
+   "citaat": "bewijs aangeleverd van het feit dat hij zich in de bezwaarfase als gemachtigde heeft aangemeld"
+  },
+  {
+   "zin": "De gemeente vond zelf dat de naheffing niet kon blijven en vernietigde die.",
+   "bron": [
+    21
+   ],
+   "citaat": "dat de naheffingsaanslag parkeerbelasting niet in stand kan blijven"
+  },
+  {
+   "zin": "Het hof ziet geen inhoudelijk geschil meer.",
+   "bron": [
+    25
+   ],
+   "citaat": "bestaat in hoger beroep geen inhoudelijk geschil meer tussen partijen"
+  },
+  {
+   "zin": "De gemeente moet de kosten van bezwaar, beroep en hoger beroep vergoeden.",
+   "bron": [
+    30
+   ],
+   "citaat": "acht termen aanwezig voor een veroordeling in de (proces)kosten op de voet van artikel 8:75"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd door de gemeente; gemeente betaalt kosten",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing is vernietigd en de gemeente betaalt € 985 proceskosten en € 183 griffierecht.",
+  "bron": [
+   42,
+   43
+  ],
+  "citaat": "(proces)kosten van belanghebbende in bezwaar, beroep en hoger beroep tot een totaalbedrag van € 985"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Er was geen sprake van parkeren, maar van laden en lossen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente vond zelf aannemelijk dat het om laden en lossen ging, niet om parkeren.",
+    "bron": [
+     21
+    ],
+    "citaat": "het aannemelijk is dat geen sprake was van parkeren in de zin van de Verordening, maar van laden en lossen"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "Het beroep was niet te laat: de gemachtigde was aangemeld, dus de uitspraak had naar hem gemoeten.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente erkende een verschoonbare termijnoverschrijding.",
+    "bron": [
+     20
+    ],
+    "citaat": "Er is derhalve sprake van een verschoonbare termijnoverschrijding en het beroep is ten onrechte niet-ontvankelijk verklaard"
+   },
+   "bruikbare_zin": {
+    "citaat": "De uitspraak op het bezwaarschrift had daarom naar gemachtigde van belanghebbende moeten worden toegestuurd",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": null,
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "bezwaarschrift",
+   "scanfoto's",
+   "bewijs van aanmelding als gemachtigde"
+  ],
+  "wat_gaf_doorslag": "De gemeente vond zelf dat bezwaarschrift en scanfoto's laden en lossen aannemelijk maakten."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:75 Awb",
+  "art. 8:108 Awb",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer of een gemachtigde is aangemeld en stuur de uitspraak op bezwaar ook naar die gemachtigde",
+   "raakt": "bezwaar",
+   "bron": [
+    20
+   ],
+   "citaat": "De uitspraak op het bezwaarschrift had daarom naar gemachtigde van belanghebbende moeten worden toegestuurd"
+  },
+  {
+   "actie": "Beoordeel bezwaarschrift en scanfoto's in de bezwaarfase op laden en lossen, zodat de naheffing niet pas in hoger beroep wordt vernietigd",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    21
+   ],
+   "citaat": "uit het bezwaarschrift in combinatie met de scanfoto’s het aannemelijk is dat geen sprake was van parkeren"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "scanauto-handhaving",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een rekening achteraf voor parkeren kan vervallen als blijkt dat u alleen aan het laden of lossen was. Maakt iemand namens u bezwaar, meld die persoon dan meteen bij de gemeente, zodat de post ook bij hem of haar aankomt. Maak op tijd bezwaar en voeg bewijs toe, zoals foto's.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

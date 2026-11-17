@@ -1,0 +1,187 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2022:514",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "fraude-signalering",
+ "kenmerk": "fsv",
+ "zaaktype": "fraude-algoritme",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "Belastingdienst",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Deze zaak gaat over de belasting die de burger voor 2015 en 2016 moest betalen. De burger is in hoger beroep gegaan bij het Gerechtshof Den Haag; de Belastingdienst is de wederpartij.",
+ "titel": "Hoger beroep over aftrek en fraudebestand ongegrond",
+ "kern": {
+  "zin": "De aanslagen blijven staan; volgens het hof leiden de FSV-gegevens niet tot verlaging of vernietiging.",
+  "bron": [
+   236
+  ],
+  "citaat": "leidt om die reden niet tot een verlaging of vernietiging van de aanslagen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger trok in haar aangiften voor 2015 en 2016 kosten af, zoals alimentatiekosten en zorgkosten.",
+   "bron": [
+    23
+   ],
+   "citaat": "de volgende posten in aftrek gebracht op haar inkomen"
+  },
+  {
+   "zin": "Zij vond dat de Belastingdienst onrechtmatig handelde door haar aangiften te controleren en haar gegevens in project 1043 en de FSV-databank op te nemen.",
+   "bron": [
+    216
+   ],
+   "citaat": "de Inspecteur onrechtmatig heeft gehandeld door de aangiften van belanghebbende te onderzoeken"
+  },
+  {
+   "zin": "De Belastingdienst vond de correcties terecht en wilde de aanslagen houden.",
+   "bron": [
+    217
+   ],
+   "citaat": "De Inspecteur beantwoordt de vragen in tegenovergestelde zin."
+  },
+  {
+   "zin": "Het hof oordeelde dat de aftrekposten terecht zijn geweigerd.",
+   "bron": [
+    225
+   ],
+   "citaat": "De Inspecteur heeft de aftrek van alimentatiekosten daarom terecht niet in aftrek toegelaten."
+  },
+  {
+   "zin": "Ook oordeelde het hof dat de FSV-gegevens niet tot vernietiging van de aanslagen leiden.",
+   "bron": [
+    236
+   ],
+   "citaat": "leidt om die reden niet tot een verlaging of vernietiging van de aanslagen"
+  },
+  {
+   "zin": "Het hof bevestigde de uitspraak van de rechtbank; het hoger beroep is ongegrond.",
+   "bron": [
+    243
+   ],
+   "citaat": "Het Gerechtshof bevestigt de uitspraak van de Rechtbank."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hof bevestigt de aanslagen; hoger beroep van de burger is ongegrond.",
+ "gevolg_betrokkene": {
+  "zin": "De aanslagen blijven staan en de burger krijgt geen proceskosten vergoed.",
+  "bron": [
+   243,
+   241
+  ],
+  "citaat": "Het Gerechtshof bevestigt de uitspraak van de Rechtbank."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De aftrek van alimentatiekosten en zorgkosten is ten onrechte geweigerd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof volgt de rechtbank: zonder verwachting op alimentatie zijn de kosten niet aftrekbaar.",
+    "bron": [
+     225
+    ],
+    "citaat": "De Inspecteur heeft de aftrek van alimentatiekosten daarom terecht niet in aftrek toegelaten."
+   },
+   "bruikbare_zin": {
+    "citaat": "de aftrek van alimentatiekosten daarom terecht niet in aftrek toegelaten",
+    "bron": [
+     225
+    ]
+   }
+  },
+  {
+   "arg": "algoritme-niet-uitlegbaar",
+   "burger_zegt": "Het systeem project 1043 en de FSV-databank zijn niet goed te controleren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof vond dat de controle kwam door de correcties in 2013, niet door een verboden criterium.",
+    "bron": [
+     236
+    ],
+    "citaat": "niet plaatsgevonden op basis van een criterium dat jegens belanghebbende leidt tot een schending van een grondrecht"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet plaatsgevonden op basis van een criterium",
+    "bron": [
+     236
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De opname in de FSV-databank maakt de aanslagen onrechtmatig.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Ook de FSV-gegevens leiden niet tot verlaging of vernietiging.",
+    "bron": [
+     236
+    ],
+    "citaat": "leidt om die reden niet tot een verlaging of vernietiging van de aanslagen"
+   },
+   "bruikbare_zin": {
+    "citaat": "leidt om die reden niet tot een verlaging of vernietiging van de aanslagen",
+    "bron": [
+     236
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de controle van een aangifte niet berust op een verboden criterium, maken gegevens in de FSV-databank de aanslag niet onrechtmatig.",
+  "type": "regel",
+  "reikwijdte": "Belastingzaken waarin de Belastingdienst aangiften uitwerpt na eerdere correcties en gegevens in de FSV-databank opneemt.",
+  "uitzondering": "Wel als de controle berust op een criterium dat een grondrecht schendt, zoals discriminatie naar afkomst, geaardheid of geloof.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   236
+  ],
+  "citaat": "leidt om die reden niet tot een verlaging of vernietiging van de aanslagen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "aangiften",
+   "kwitantie",
+   "factuur",
+   "rekeningafschrift"
+  ],
+  "wat_gaf_doorslag": "De burger maakte de aftrekposten en de besteding van het flexibel krediet niet aannemelijk."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2021:1748",
+   "ECLI:NL:HR:2022:14"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 6.17 Wet IB 2001",
+  "art. 3.108 Wet IB 2001",
+  "art. 1 EP EVRM",
+  "art. 8:119 Awb",
+  "art. 8:88 Awb",
+  "art. 8:73 Awb",
+  "art. 82 AVG",
+  "art. 79 Wet RO"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "fraude-handhaving",
+  "datateam-algoritmes",
+  "bezwaar"
+ ],
+ "klantuitleg": "Deze uitspraak gaat over de Belastingdienst, niet over de gemeente; over inzage of verwijderen bij de gemeente zegt zij dus niets. Staan uw gegevens in een fraudebestand, dan maakt dat een belastingrekening niet automatisch ongeldig. Alleen bij verboden discriminatie kan dat anders zijn; vraag dan om uitleg en bewijs.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente in deze zaak; Belastingdienst is partij",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

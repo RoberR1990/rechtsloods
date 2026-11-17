@@ -1,0 +1,174 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "ecli": "ECLI:NL:PHR:2024:1113",
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "cassatie",
+ "soort_document": "conclusie AG",
+ "intro": "Een parkeerder in Den Haag kreeg een rekening achteraf (naheffing) en vond de kosten daarvan te hoog. Dit is het advies van de advocaat-generaal (de adviseur van de Hoge Raad) in de zaak van de parkeerder tegen de gemeente Den Haag.",
+ "titel": "Advies: Den Haag mag kosten van parkeerautomaten meerekenen",
+ "kern": {
+  "zin": "De advocaat-generaal adviseert de Hoge Raad om het beroep van de parkeerder af te wijzen.",
+  "bron": [
+   27
+  ],
+  "citaat": "Het cassatieberoep is naar mijn mening ongegrond."
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder parkeerde in 2021 in Den Haag zonder te betalen en kreeg een rekening achteraf van € 67,30, waarvan € 65,30 kosten.",
+   "bron": [
+    30
+   ],
+   "citaat": "bestaande uit € 2 parkeerbelasting en € 65,30 kosten voor het opleggen van de naheffingsaanslag"
+  },
+  {
+   "zin": "De parkeerder zei dat het kostenbedrag niet geldt, omdat het maximumbedrag te laat is bekendgemaakt, en dat de kosten verkeerd zijn berekend.",
+   "bron": [
+    18
+   ],
+   "citaat": "omdat het maximumbedrag van € 65,30 voor het jaar 2021 op en dus niet vóór 1 september 2020"
+  },
+  {
+   "zin": "De gemeente liet zien dat de kosten van de parkeerautomaten samenhangen met het innen van niet betaalde parkeerbelasting; rechtbank en hof gaven haar gelijk.",
+   "bron": [
+    72,
+    68
+   ],
+   "citaat": "De Heffingsambtenaar heeft aannemelijk gemaakt dat de kosten van de parkeerautomaten samenhangen met de inning van niet betaalde parkeerbelastingen"
+  },
+  {
+   "zin": "Volgens de advocaat-generaal was het maximumbedrag wel te laat bekendgemaakt, maar de minister mocht het bedrag voor 2021 toch aanpassen.",
+   "bron": [
+    84
+   ],
+   "citaat": "niet vóór 1 september 2020 in de Staatscourant heeft bekendgemaakt, is weliswaar niet in overeenstemming"
+  },
+  {
+   "zin": "Kosten van parkeerautomaten mogen meetellen, zolang de automaten niet geheel of bijna geheel voor andere doelen dienen.",
+   "bron": [
+    88
+   ],
+   "citaat": "Die samenhang is pas afwezig indien de parkeerautomaten geheel of nagenoeg geheel andere doeleinden dienen"
+  },
+  {
+   "zin": "De advocaat-generaal adviseert de Hoge Raad het beroep van de parkeerder af te wijzen.",
+   "bron": [
+    102
+   ],
+   "citaat": "het beroep in cassatie van belanghebbende ongegrond te verklaren"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Advies: regel valt uit in voordeel van de gemeente; de Hoge Raad beslist nog.",
+ "gevolg_betrokkene": {
+  "zin": "De Hoge Raad beslist nog; volgt die dit advies, dan blijft de rekening van € 67,30 (met € 65,30 aan kosten) staan.",
+  "bron": [
+   102,
+   30
+  ],
+  "citaat": "het beroep in cassatie van belanghebbende ongegrond te verklaren"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De kosten van € 65,30 zijn verkeerd berekend, omdat er kosten in zitten die er niet in mogen, zoals die van parkeerautomaten en de parkeerapp.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de advocaat-generaal falen de klachten over de kostenberekening.",
+    "bron": [
+     20
+    ],
+    "citaat": "kom ik tot de conclusie dat de middelen falen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Die samenhang is pas afwezig indien de parkeerautomaten geheel of nagenoeg geheel andere doeleinden dienen",
+    "bron": [
+     88
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het maximumbedrag voor 2021 is te laat bekendgemaakt, dus de gemeente mag dat bedrag niet rekenen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een te late bekendmaking betekent volgens de advocaat-generaal niet dat het bedrag niet geldt.",
+    "bron": [
+     83
+    ],
+    "citaat": "brengt niet mee dat dit bedrag niet geldt voor het jaar 2021"
+   },
+   "bruikbare_zin": {
+    "citaat": "brengt niet mee dat dit bedrag niet geldt voor het jaar 2021",
+    "bron": [
+     83
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Kosten van parkeerautomaten mogen worden meegerekend bij de kosten van een rekening achteraf als ze meer dan zijdelings samenhangen met het innen van niet betaalde parkeerbelasting.",
+  "type": "regel",
+  "reikwijdte": "Berekening van de kosten van een naheffing parkeerbelasting door een gemeente (art. 2 Besluit gemeentelijke parkeerbelastingen).",
+  "uitzondering": "Geen samenhang als de automaten geheel of bijna geheel andere doelen dienen.",
+  "herkomst": "wet",
+  "bron": [
+   87
+  ],
+  "citaat": "voldoende is dat er een meer dan zijdelingse samenhang is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "toelichting van de gemeente over de verbinding tussen automaten, app en scanauto's",
+   "onderbouwing van de kosten per kostensoort"
+  ],
+  "wat_gaf_doorslag": "De automaten en de app staan in verbinding met de systemen waarmee de scanauto's controleren."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:HR:2001:AD4849",
+   "ECLI:NL:RBDHA:2022:11871",
+   "ECLI:NL:GHDHA:2023:2043"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 Gemeentewet",
+  "art. 2 Besluit gemeentelijke parkeerbelastingen",
+  "art. 3 Besluit gemeentelijke parkeerbelastingen",
+  "art. 11 Verordening parkeerbelasting Den Haag 2021"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Onderbouw per kostenpost van de naheffing waarom die samenhangt met het innen van niet betaalde parkeerbelasting.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    72
+   ],
+   "citaat": "De Heffingsambtenaar heeft aannemelijk gemaakt dat de kosten van de parkeerautomaten samenhangen met de inning van niet betaalde parkeerbelastingen"
+  }
+ ],
+ "raakt": [
+  "tarief-naheffing",
+  "verordening-beleid",
+  "bezwaar"
+ ],
+ "klantuitleg": "Bij een rekening achteraf voor parkeren rekent de gemeente vaste kosten mee, hier € 65,30. Volgens dit advies mogen daar ook kosten van parkeerautomaten en de parkeerapp in zitten. Het is nog een advies; vindt u de kosten te hoog, vraag dan de berekening van de gemeente op en kijk of een post niets met het innen van niet betaalde parkeerbelasting te maken heeft.",
+ "gemeente": "Den Haag",
+ "zekerheid": "middel"
+}

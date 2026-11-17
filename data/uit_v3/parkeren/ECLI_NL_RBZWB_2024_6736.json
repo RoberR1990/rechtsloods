@@ -1,0 +1,155 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2024:6736",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging naar de Rechtbank Zeeland-West-Brabant tegen de gemeente Breda. Het ging om een naheffing (de rekening achteraf) van 55,05 euro.",
+ "titel": "Verkeerde zone in de app: extra kosten blijven voor parkeerder",
+ "kern": {
+  "zin": "De rechter zegt dat een parkeerder zelf moet controleren of hij de juiste zone heeft gekozen, en dat een fout voor zijn rekening komt.",
+  "bron": [
+   24
+  ],
+  "citaat": "blijft daarom naar het oordeel van de rechtbank voor zijn rekening en risico"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeerder zette op 17 oktober 2023 zijn auto neer op een betaalde parkeerplek.",
+   "bron": [
+    13
+   ],
+   "citaat": "heeft de auto met [kenteken] op 17 oktober 2023 geparkeerd op een parkeerplaats"
+  },
+  {
+   "zin": "Een scanauto zag om 14:19 uur dat er niet voor de juiste zone was betaald, en de gemeente legde een naheffing van 55,05 euro op.",
+   "bron": [
+    14
+   ],
+   "citaat": "is geconstateerd dat niet de verschuldigde parkeerbelasting is voldaan voor de zone"
+  },
+  {
+   "zin": "De parkeerder zei dat hij volledig had betaald, alleen voor een lager tarief, door een vergissing in de app.",
+   "bron": [
+    22
+   ],
+   "citaat": "Belanghebbende stelt dat hij de volledige parkeertijd heeft betaald, zij het tegen een lager tarief"
+  },
+  {
+   "zin": "Dat hij in de app een verkeerde zone koos, stond tussen partijen niet ter discussie.",
+   "bron": [
+    23
+   ],
+   "citaat": "Tussen partijen is niet in geschil dat belanghebbende"
+  },
+  {
+   "zin": "De rechter vond dat de parkeerder zelf moet nagaan of de zone klopt, en dat de vergissing dus voor zijn rekening blijft.",
+   "bron": [
+    24
+   ],
+   "citaat": "blijft daarom naar het oordeel van de rechtbank voor zijn rekening en risico"
+  },
+  {
+   "zin": "Opzet telt niet mee, omdat de parkeerbelasting een objectieve belasting is.",
+   "bron": [
+    25
+   ],
+   "citaat": "De rechtbank overweegt verder dat de parkeerbelasting een zogenoemde objectieve belasting is"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan, ook bij goede bedoelingen.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening van 55,05 euro blijft staan, en de parkeerder krijgt geen griffierecht en geen proceskosten terug.",
+  "bron": [
+   28
+  ],
+  "citaat": "Dat betekent dat de naheffingsaanslag parkeerbelasting in stand blijft"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij heeft wel betaald, maar per vergissing de verkeerde zone gekozen in de app.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De parkeerder moet zelf nagaan of de zone klopt, dus de vergissing blijft voor zijn rekening.",
+    "bron": [
+     24
+    ],
+    "citaat": "blijft daarom naar het oordeel van de rechtbank voor zijn rekening en risico"
+   },
+   "bruikbare_zin": {
+    "citaat": "behoort het daarom tot de verantwoordelijkheid van een parkeerder om de juiste zone te selecteren",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij wilde het verschil alsnog betalen en had geen opzet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Opzet of goede bedoelingen tellen niet mee; de belasting moet bij het begin van het parkeren worden betaald.",
+    "bron": [
+     25
+    ],
+    "citaat": "leidt niet tot een ander oordeel, omdat de verschuldigde parkeerbelasting moet worden voldaan bij aanvang van het parkeren"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat de verschuldigde parkeerbelasting moet worden voldaan bij aanvang van het parkeren",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder moet zelf controleren of hij de juiste parkeerbelasting heeft betaald voor de plek waar hij staat.",
+  "type": "regel",
+  "reikwijdte": "Parkeerder die via een parkeer-app betaalt",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "wordt van een parkeerder verwacht dat hij controleert of de verschuldigde parkeerbelasting is voldaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "scanauto-controle om 14:19 uur"
+  ],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "art. 1 onder a Verordening parkeerbelastingen 2023 Breda"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter legt de controle bij de parkeerder; geen actie voor de gemeente afgeleid",
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "betaalapp"
+ ],
+ "klantuitleg": "De rekening voor het parkeren is terecht als er niet de juiste parkeerbelasting is betaald voor die plek, ook als u per vergissing een verkeerde zone koos. Uw goede bedoeling of bereidheid om het verschil alsnog te betalen maakt de rekening niet ongedaan. Controleer daarom direct na het betalen of de zone en het kenteken kloppen; dat kan een rekening achteraf voorkomen.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

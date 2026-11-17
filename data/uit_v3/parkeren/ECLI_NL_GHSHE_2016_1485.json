@@ -1,0 +1,176 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "dubbel_van": null,
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": null,
+ "kenmerk": null,
+ "ecli": "ECLI:NL:GHSHE:2016:1485",
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Maastricht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een automobilist kreeg in Maastricht een naheffingsaanslag (een rekening achteraf) voor parkeerbelasting. Hij ging in hoger beroep bij het gerechtshof 's-Hertogenbosch tegen de gemeente Maastricht, omdat zijn bezwaar te laat zou zijn.",
+ "titel": "Bezwaar parkeerrekening te laat: kopie van brief is geen bewijs",
+ "kern": {
+  "zin": "De burger kon niet aannemelijk maken dat hij op tijd bezwaar maakte; het bezwaar bleef te laat en kreeg geen inhoudelijke beoordeling.",
+  "bron": [
+   48
+  ],
+  "citaat": "Door ervoor te kiezen om het bezwaarschrift niet aangetekend te verzenden"
+ },
+ "samenvatting": [
+  {
+   "zin": "De auto van de burger stond zonder zichtbaar parkeerkaartje geparkeerd; er lag alleen een kopie van een gehandicaptenparkeerkaart.",
+   "bron": [
+    26
+   ],
+   "citaat": "In de auto was geen zichtbaar parkeerkaartje aanwezig"
+  },
+  {
+   "zin": "De parkeercontroleur legde hem een naheffingsaanslag voor parkeerbelasting op.",
+   "bron": [
+    28
+   ],
+   "citaat": "een naheffingsaanslag parkeerbelasting opgelegd"
+  },
+  {
+   "zin": "De burger zei dat hij al op 3 juni 2014 bezwaar had gemaakt.",
+   "bron": [
+    43
+   ],
+   "citaat": "stelt zich op het standpunt dat reeds op 3 juni 2014 bezwaar is gemaakt"
+  },
+  {
+   "zin": "De gemeente zei dat zij die brief niet had ontvangen en niet in haar systeem vond.",
+   "bron": [
+    44
+   ],
+   "citaat": "weersproken dat op 3 juni 2014 een bezwaarschrift of een schrijven wat daarvoor kan doorgaan, is ontvangen"
+  },
+  {
+   "zin": "De rechter vond een kopie van de brief niet genoeg als bewijs, omdat de burger de brief niet aangetekend verstuurde.",
+   "bron": [
+    48
+   ],
+   "citaat": "Een afschrift van diens brief van 3 juni 2014 is daartoe niet voldoende"
+  },
+  {
+   "zin": "Een goede reden voor de vertraging was er ook niet.",
+   "bron": [
+    52
+   ],
+   "citaat": "Belanghebbende heeft niets dan wel onvoldoende aangedragen dat ter verschoning kan gelden"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Bezwaar te laat; de naheffing is niet inhoudelijk beoordeeld.",
+ "gevolg_betrokkene": {
+  "zin": "Het bezwaar blijft niet-ontvankelijk (te laat), de rekening wordt niet inhoudelijk beoordeeld en hij krijgt geen griffierecht of proceskosten vergoed.",
+  "bron": [
+   56,
+   54
+  ],
+  "citaat": "het door hem betaalde griffierecht geheel of gedeeltelijk vergoedt"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "Een medewerker van de gemeente zou hem telefonisch een nieuwe kans hebben gegeven om bezwaar te maken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het gesprek vond ruimschoots na het einde van de bezwaartermijn plaats en de gemeente weersprak het.",
+    "bron": [
+     52
+    ],
+    "citaat": "betreft bovendien een telefoongesprek dat heeft plaatsgevonden ruimschoots na het verstrijken van de bezwaartermijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "Belanghebbende heeft niets dan wel onvoldoende aangedragen dat ter verschoning kan gelden",
+    "bron": [
+     52
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij zei dat hij zijn bezwaar op 3 juni 2014 op tijd had verstuurd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Hij kon niet aannemelijk maken dat hij het bezwaar op tijd had verzonden.",
+    "bron": [
+     48
+    ],
+    "citaat": "niet aannemelijk gemaakt dat hij het bezwaarschrift tijdig heeft verzonden"
+   },
+   "bruikbare_zin": {
+    "citaat": "een keuze die voor rekening en risico van belanghebbende komt",
+    "bron": [
+     48
+    ]
+   }
+  },
+  {
+   "arg": "gehandicaptenkaart",
+   "burger_zegt": "Hij zei dat er een geldige gehandicaptenparkeerkaart was en dat hij de eigenaar alleen een lift gaf.",
+   "oordeel": "niet beoordeeld",
+   "waarom": null,
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie zegt op tijd bezwaar te hebben gemaakt, moet aannemelijk maken dat hij het bezwaar op tijd verstuurde.",
+  "type": "regel",
+  "reikwijdte": "Bezwaar dat de gemeente niet heeft ontvangen of dat te laat binnenkwam",
+  "uitzondering": "Is een bezwaar te laat maar niet verwijtbaar (art. 6:11 Awb), dan is het toch ontvankelijk.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   47
+  ],
+  "citaat": "De bewijslast voor een tijdige indiening van het bezwaarschrift rust op belanghebbende"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "kopie van de brief",
+   "registratiesysteem van de gemeente"
+  ],
+  "wat_gaf_doorslag": "Hij had het bezwaar niet aangetekend verstuurd en kon daarom geen verzending bewijzen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:7 Awb",
+  "art. 6:8 Awb",
+  "art. 6:9 Awb",
+  "art. 6:11 Awb",
+  "art. 8:75 Awb",
+  "Verordening Parkeerregulering en Parkeerbelastingen 2012 Maastricht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Stuur direct een ontvangstbevestiging bij elk bezwaarschrift en leg de ontvangst vast in het registratiesysteem.",
+   "raakt": "bezwaar",
+   "bron": [
+    44
+   ],
+   "citaat": "altijd zo snel mogelijk een ontvangstbevestiging naar aanleiding van een via de post of fax ontvangen bezwaarschrift stuurt"
+  }
+ ],
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "U heeft zes weken om bezwaar te maken tegen de rekening achteraf voor het parkeren. Stuur uw bezwaar aangetekend of op een manier waarmee u kunt bewijzen dat u het op tijd verstuurde. Bent u te laat, dan wordt uw bezwaar alleen bekeken als u een goede reden voor de vertraging kunt aantonen.",
+ "gemeente": "Maastricht",
+ "zekerheid": "middel"
+}

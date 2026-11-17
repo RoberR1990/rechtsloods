@@ -1,0 +1,141 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2026:2043",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Utrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder kreeg een naheffingsaanslag (de rekening achteraf) voor parkeerbelasting in Utrecht. Hij procedeert tegen de heffingsambtenaar van de gemeente Utrecht bij de rechtbank Midden-Nederland.",
+ "titel": "Naheffing parkeren blijft; persoonlijke omstandigheden tellen alleen bij noodsituatie",
+ "kern": {
+  "zin": "De rechtbank hield de naheffing in stand, omdat parkeerbelasting objectief is en er geen overmacht speelde.",
+  "bron": [
+   24
+  ],
+  "citaat": "De rechtbank is van oordeel dat in dit geval geen sprake is van een overmachtssituatie zoals hiervoor bedoeld"
+ },
+ "samenvatting": [
+  {
+   "zin": "De auto stond op een betaald parkeervak aan de Minstraat in Utrecht, zonder dat de belasting was betaald.",
+   "bron": [
+    21
+   ],
+   "citaat": "geparkeerd stond op een parkeerplaats aan de Minstraat in Utrecht"
+  },
+  {
+   "zin": "De parkeerder zei een vergunning in de buurt te hebben; de huurder zette de auto door miscommunicatie op de verkeerde plek.",
+   "bron": [
+    22
+   ],
+   "citaat": "Door miscommunicatie is de auto op een plek gezet waar de parkeervergunning niet van toepassing was"
+  },
+  {
+   "zin": "De gemeente zei dat het aan de verhuurder ligt om de huurder goed te informeren over de vergunning.",
+   "bron": [
+    23
+   ],
+   "citaat": "het op de weg van de verhuurder ligt om de huurder op een juiste en volledige manier te informeren"
+  },
+  {
+   "zin": "De rechtbank oordeelde dat het niet betalen voor rekening en risico van de parkeerder zelf komt.",
+   "bron": [
+    24
+   ],
+   "citaat": "Het niet betalen van de parkeerbelasting komt dus voor rekening en risico van eiser"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft, geen griffierecht of proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan en het betaalde griffierecht krijgt de parkeerder niet terug.",
+  "bron": [
+   27
+  ],
+  "citaat": "Ook krijgt eiser het betaalde griffierecht niet terug."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerbelasting is een boete; de verkeerde plek kwam door miscommunicatie met de huurder.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank zei dat de parkeerbelasting geen boete is, maar een objectieve belasting.",
+    "bron": [
+     24
+    ],
+    "citaat": "De parkeerbelasting is geen boete zoals eiser stelt, maar een objectieve belasting"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De uitspraak op bezwaar ging niet inhoudelijk in op de aangevoerde gronden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond de uitspraak op bezwaar voldoende gemotiveerd.",
+    "bron": [
+     26
+    ],
+    "citaat": "is van oordeel dat de uitspraak op bezwaar voldoende is gemotiveerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "Daarbij is gewezen op de stratenlijst die bij de parkeervergunning is bijgevoegd",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeerbelasting is een objectieve belasting; persoonlijke omstandigheden tellen alleen mee bij een noodsituatie.",
+  "type": "regel",
+  "reikwijdte": "Betaalde parkeerbelasting; geen rekening met persoonlijke omstandigheden",
+  "uitzondering": "Een noodsituatie waardoor iemand absoluut verhinderd is om te betalen",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "De parkeerbelasting is geen boete zoals eiser stelt, maar een objectieve belasting"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De vergunning was ter plaatse niet geldig en er was geen noodsituatie."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RBMNE:2025:2259"
+  ]
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Leg in de uitspraak op bezwaar uit welke stratenlijst bij de vergunning hoort en waarom die op de plek niet gold.",
+   "raakt": "bezwaar",
+   "bron": [
+    26
+   ],
+   "citaat": "Daarbij is gewezen op de stratenlijst die bij de parkeervergunning is bijgevoegd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Een naheffing parkeren is terecht als de vergunning niet geldig was op de plek waar u stond. Een verkeerde afspraak met een huurder maakt dat niet anders; de verantwoording ligt bij de houder van de vergunning. Alleen bij een echte noodsituatie, waarbij betalen echt onmogelijk was, kan het anders liggen en dan moet u dat aantonen.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

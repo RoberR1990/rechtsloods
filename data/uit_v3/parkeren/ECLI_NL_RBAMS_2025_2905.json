@@ -1,0 +1,158 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2025:2905",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "bedrijf (kentekenhouder, via een bureau)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bedrijf als kentekenhouder kreeg een boete voor parkeren na de toegestane tijd, een Wahv-boete (de administratieve boete voor kleine verkeersovertredingen). Het bedrijf ging via een bureau in beroep bij de kantonrechter van de rechtbank Amsterdam.",
+ "titel": "Boete vernietigd: niet bewezen dat de auto een bord passeerde",
+ "kern": {
+  "zin": "De kantonrechter vernietigde de boete, omdat niet bewezen was dat de auto het bord E10 passeerde, het bord van een parkeerschijfzone.",
+  "bron": [
+   32,
+   31
+  ],
+  "citaat": "Het ligt daarmee op de weg van de verbalisant om aan te tonen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De controle zag op 9 juni 2023 een auto die te lang bij een blauwe streep stond.",
+   "bron": [
+    21
+   ],
+   "citaat": "Deze gedraging is geconstateerd op 9 juni 2023 om 09:40 uur"
+  },
+  {
+   "zin": "Het bedrijf betwist dat de juiste bebording was geplaatst en dat de auto langs een E10-bord reed.",
+   "bron": [
+    23
+   ],
+   "citaat": "Betrokkene betwist uitdrukkelijk dat de juiste bebording is geplaatst"
+  },
+  {
+   "zin": "De officier van justitie vond ter zitting ook dat het beroep gegrond was.",
+   "bron": [
+    25
+   ],
+   "citaat": "Ter zitting stelt verweerder zich op het standpunt dat het beroep gegrond is"
+  },
+  {
+   "zin": "De kantonrechter vond dat de parkeerschijfzone met het bord E10 moest worden aangetoond.",
+   "bron": [
+    31
+   ],
+   "citaat": "hetgeen wordt aangeduid met het verkeersbord E10"
+  },
+  {
+   "zin": "De boete wordt vernietigd, het betaalde bedrag komt terug en het bedrijf krijgt 550,25 euro proceskosten.",
+   "bron": [
+    50,
+    49,
+    48
+   ],
+   "citaat": "kent aan betrokkene ten laste van verweerder een kostenvergoeding toe van € 550,25"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete vernietigd; betaald bedrag terug en 550,25 euro proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrijf hoeft de boete niet te betalen, krijgt betaald geld terug en 550,25 euro proceskosten.",
+  "bron": [
+   49,
+   50,
+   48
+  ],
+  "citaat": "bepaalt dat het als zekerheid betaalde bedrag aan betrokkene wordt gerestitueerd"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De auto is niet langs het bord E10 gereden, en de bebording is niet gecontroleerd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De kantonrechter vond dat het aan de controleur lag om het bord E10 aan te tonen.",
+    "bron": [
+     32
+    ],
+    "citaat": "Het ligt daarmee op de weg van de verbalisant om aan te tonen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het ligt daarmee op de weg van de verbalisant om aan te tonen",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De hoorplicht is geschonden, omdat er geen hoorzitting kwam.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De kantonrechter besprak die klacht niet meer, omdat de boete al vernietigd werd.",
+    "bron": [
+     33
+    ],
+    "citaat": "Dit brengt mee dat de overige geen bespreking meer behoeven"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dit brengt mee dat de overige geen bespreking meer behoeven",
+    "bron": [
+     33
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeren bij een blauwe streep na de toegestane tijd kan alleen worden beboet als vaststaat dat het bord E10 van de parkeerschijfzone is gepasseerd.",
+  "type": "regel",
+  "reikwijdte": "Parkeren bij een blauwe streep na het verstrijken van de parkeertijd",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   31
+  ],
+  "citaat": "hetgeen wordt aangeduid met het verkeersbord E10"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "zaakoverzicht van de controle",
+   "aanvullend proces-verbaal (gevraagd, niet gekomen)"
+  ],
+  "wat_gaf_doorslag": "Het zaakoverzicht liet niet zien dat het bord E10 was gepasseerd."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHARL:2024:1843",
+   "ECLI:NL:HR:2025:46",
+   "ECLI:NL:PHR:2025:369"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 25 RVV 1990",
+  "art. 13a lid 2 Wahv",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; bewijs ligt bij de officier van justitie en de verbalisant",
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een parkeerboete voor te lang staan bij een blauwe streep kan onterecht zijn. Dat kan als niet vaststaat dat u het bord E10 passeerde, het bord dat een parkeerschijfzone aangeeft. Heeft u zo'n boete gekregen, dan kan beroep zinvol zijn, zeker als de bebording niet goed was gecontroleerd.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

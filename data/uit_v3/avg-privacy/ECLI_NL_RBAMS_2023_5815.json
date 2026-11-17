@@ -1,0 +1,193 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2023:5815",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "zoekslag",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "Openbaar Ministerie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "De burger vroeg om inzage in alle persoonsgegevens die het Openbaar Ministerie over hem heeft. Hij is het niet eens met het besluit op zijn bezwaar en ging in beroep bij de rechtbank Amsterdam.",
+ "titel": "Algemeen overzicht bij breed inzageverzoek is genoeg",
+ "kern": {
+  "zin": "De rechtbank verklaart het beroep ongegrond: de burger heeft zijn verzoek niet gespecificeerd, zodat een algemeen overzicht volstaat.",
+  "bron": [
+   29
+  ],
+  "citaat": "Nu eiser dit niet heeft gedaan, mocht verweerder gelet op de algemene strekking van het verzoek"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg in juli 2021 om inzage in alle persoonsgegevens die het Openbaar Ministerie over hem verwerkt.",
+   "bron": [
+    16
+   ],
+   "citaat": "verzoek om inzage gedaan in alle persoonsgegevens die verweerder over hem verwerkt"
+  },
+  {
+   "zin": "Het Openbaar Ministerie verstrekte twee overzichten: één over strafvorderlijke gegevens en één over persoonsgegevens.",
+   "bron": [
+    17
+   ],
+   "citaat": "Verweerder heeft twee overzichten verstrekt"
+  },
+  {
+   "zin": "De burger vond het overzicht niet compleet.",
+   "bron": [
+    18
+   ],
+   "citaat": "Daarbij heeft eiser onder meer gesteld dat het overzicht niet compleet is"
+  },
+  {
+   "zin": "Volgens de burger had hij recht op ongelakte afschriften.",
+   "bron": [
+    40
+   ],
+   "citaat": "recht heeft op ongelakte afschriften"
+  },
+  {
+   "zin": "De rechtbank vond de zoekslag goed genoeg voor het algemene verzoek.",
+   "bron": [
+    35
+   ],
+   "citaat": "De rechtbank is van oordeel dat de door verweerder uitgevoerde zoekslag het algemene verzoek van eiser afdoende dekt"
+  },
+  {
+   "zin": "Het beroep is ongegrond; de burger krijgt geen griffierecht of proceskosten terug.",
+   "bron": [
+    47
+   ],
+   "citaat": "Eiser krijgt daarom het griffierecht niet terug. Hij krijgt ook geen vergoeding van zijn proceskosten."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond: algemeen overzicht volstaat en geen recht op afschriften.",
+ "gevolg_betrokkene": {
+  "zin": "De beslissing op het bezwaar blijft in stand en de burger krijgt geen griffierecht of proceskosten terug.",
+  "bron": [
+   47
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug. Hij krijgt ook geen vergoeding van zijn proceskosten."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Het overzicht van mijn gegevens is niet compleet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger heeft zijn verzoek niet gespecificeerd, daarom mocht een algemeen overzicht.",
+    "bron": [
+     29
+    ],
+    "citaat": "Eiser is dus niet ingegaan op het verzoek van verweerder"
+   },
+   "bruikbare_zin": {
+    "citaat": "volstaan met een algemeen overzicht van de verwerkte persoonsgegevens van eiser",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "Er is niet goed genoeg gezocht; het overzicht kan niet compleet zijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond de zoekslag het algemene verzoek voldoende dekken.",
+    "bron": [
+     35
+    ],
+    "citaat": "De rechtbank is van oordeel dat de door verweerder uitgevoerde zoekslag het algemene verzoek van eiser afdoende dekt"
+   },
+   "bruikbare_zin": {
+    "citaat": "de door verweerder uitgevoerde zoekslag het algemene verzoek van eiser afdoende dekt",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "kopie-stukken",
+   "burger_zegt": "Ik wil de stukken zelf, niet alleen een overzicht.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Afschriften waren niet nodig om zijn rechten uit te oefenen.",
+    "bron": [
+     43
+    ],
+    "citaat": "niet gebleken is dat het voor eiser onontbeerlijk is dat hij afschriften krijgt van alle onderliggende documenten"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet gebleken is dat het voor eiser onontbeerlijk is dat hij afschriften krijgt",
+    "bron": [
+     43
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het verweerschrift kwam te laat.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat de burger op de zitting genoeg kon reageren.",
+    "bron": [
+     26
+    ],
+    "citaat": "De rechtbank heeft van partijen geen signaal gehad dat de zaak moet worden aangehouden"
+   },
+   "bruikbare_zin": {
+    "citaat": "Hoewel dit verweerder bepaald niet siert",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als een inzageverzoek algemeen is en de burger weigert het te specificeren, mag de organisatie met een algemeen overzicht volstaan.",
+  "type": "regel",
+  "reikwijdte": "Bij een algemeen inzageverzoek dat de burger niet specificeert.",
+  "uitzondering": "Bij een nieuw, specifiek verzoek moet de organisatie opnieuw zoeken.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   29
+  ],
+  "citaat": "volstaan met een algemeen overzicht van de verwerkte persoonsgegevens van eiser"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "toelichting op de zitting over de zoekslag",
+   "schriftelijke reactie van de burger van 28 juni 2022"
+  ],
+  "wat_gaf_doorslag": "De toelichting van het Openbaar Ministerie op de zitting over de zoekslag."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "artikel 15 van de Avg",
+  "artikel 15, derde lid, van de Avg",
+  "artikel 39i van de Wjsg"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "communicatie"
+ ],
+ "klantuitleg": "U heeft recht op inzage in uw persoonsgegevens. Als u heel algemeen om 'alles' vraagt en niet precies zegt wat u zoekt, kan de organisatie met een algemeen overzicht volstaan. Wilt u meer of kopieën van stukken, vraag dan om een specifiek onderwerp en leg uit waarom u die stukken echt nodig heeft.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "Openbaar Ministerie is partij, geen gemeente",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

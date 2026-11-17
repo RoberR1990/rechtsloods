@@ -1,0 +1,149 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2022:5704",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "verkeersbesluit",
+ "kenmerk": null,
+ "zaaktype": "verkeersbesluit",
+ "partijen": {
+  "burger": "bewoners",
+  "wederpartij": "gemeente Houten",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Twee bewoners procederen tegen de gemeente Houten over een verkeersbesluit. Dat besluit wees twee parkeerplekken aan voor laadpalen voor elektrische auto’s; de rechtbank Midden-Nederland oordeelde.",
+ "titel": "Laadplekken op parkeerplekken: beroep bewoners ongegrond",
+ "kern": {
+  "zin": "De rechter liet het besluit staan, omdat het nadeel voor de bewoners niet onevenredig was.",
+  "bron": [
+   20
+  ],
+  "citaat": "Daar is naar het oordeel van de rechtbank geen sprake van"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente koos twee parkeerplekken voor laadpalen voor elektrische auto’s.",
+   "bron": [
+    10
+   ],
+   "citaat": "twee parkeerplaatsen aan te wijzen voor het opladen van elektrische voertuigen"
+  },
+  {
+   "zin": "Een verzoek van de exploitant liet zien dat de dichtstbijzijnde laadpaal vaak bezet was.",
+   "bron": [
+    19
+   ],
+   "citaat": "de dichtstbijzijnde laadpaal een bezettingsgraad van meer dan 50% had over de laatste drie maanden"
+  },
+  {
+   "zin": "De bewoners brachten andere locaties naar voren.",
+   "bron": [
+    19
+   ],
+   "citaat": "Ook de alternatieven die door eisers zijn aangedragen hebben hun nadelen"
+  },
+  {
+   "zin": "De rechter vond dat andere locaties het besluit niet onrechtmatig maken.",
+   "bron": [
+    19
+   ],
+   "citaat": "Dat er mogelijk alternatieve locaties zijn voor de plaatsing maakt niet dat de gekozen locatie onrechtmatig is"
+  },
+  {
+   "zin": "Het beroep is ongegrond.",
+   "bron": [
+    24
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; laadplekken blijven op de gekozen plek",
+ "gevolg_betrokkene": {
+  "zin": "Het besluit blijft staan, dus de laadplekken en het verlies van parkeerplekken blijven ook.",
+  "bron": [
+   24,
+   21
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Wij hebben minder parkeerplekken bij ons huis, en dat is te zwaar.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat het nadeel niet onevenredig was, omdat er elders in de buurt nog parkeermogelijkheden zijn.",
+    "bron": [
+     20
+    ],
+    "citaat": "Daar is naar het oordeel van de rechtbank geen sprake van"
+   },
+   "bruikbare_zin": {
+    "citaat": "omdat er voor eisers in de nabijheid van hun woning immers ook nog andere parkeermogelijkheden zijn",
+    "bron": [
+     20
+    ]
+   }
+  },
+  {
+   "arg": "belangenafweging-verkeersbesluit",
+   "burger_zegt": "Er zijn andere locaties die beter passen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De andere locaties hadden ook nadelen, dus de gekozen plek bleef.",
+    "bron": [
+     19
+    ],
+    "citaat": "Ook de alternatieven die door eisers zijn aangedragen hebben hun nadelen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat er mogelijk alternatieve locaties zijn voor de plaatsing maakt niet dat de gekozen locatie onrechtmatig is",
+    "bron": [
+     19
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente mag een verkeersbesluit op haar beleid baseren, zolang dat beleid niet onredelijk is.",
+  "type": "regel",
+  "reikwijdte": "laadplekken op een plek waar de dichtstbijzijnde laadpaal vaak bezet is (meer dan 50%)",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "verweerder heeft dit aan het verkeersbesluit ten grondslag mogen leggen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "bezettingsgegevens van de laadpaalexploitant"
+  ],
+  "wat_gaf_doorslag": "De bezetting van meer dan 50% van de dichtstbijzijnde laadpaal."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 2 Wegenverkeerswet 1994",
+  "Beleidsplan Parkeervisie 2021 (Houten)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter vond besluit en afweging in orde; geen verbeterpunt uit de uitspraak",
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "verordening-beleid",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een laadplek kan op een parkeerplek komen, ook als u daar zelf last van heeft. De gemeente mag dat doen als het beleid redelijk is en de afweging klopt. Wie bezwaar wil maken, moet laten zien waarom een andere plek beter is of waarom het nadeel te zwaar is; dat maakt niet altijd verschil.",
+ "gemeente": "Houten",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

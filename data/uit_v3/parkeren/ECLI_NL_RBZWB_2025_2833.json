@@ -1,0 +1,182 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:2833",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Goes",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg in Goes een naheffing (de rekening achteraf), omdat zijn parkeerapp een zone in Roosendaal had gekozen. Hij ging bij de rechtbank Zeeland-West-Brabant in beroep tegen de gemeente Goes.",
+ "titel": "Betaald in de verkeerde zone: naheffing blijft staan",
+ "kern": {
+  "zin": "De rechter oordeelde dat betalen aan de verkeerde gemeente telt als niet betaald, dus blijft de naheffing staan.",
+  "bron": [
+   24
+  ],
+  "citaat": "Het betalen van parkeerbelasting aan de verkeerde gemeente betekent immers dat geen parkeerbelasting is voldaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controleur zag op 27 januari 2024 in Goes dat er niet was betaald.",
+   "bron": [
+    16
+   ],
+   "citaat": "geconstateerd dat geen parkeerbelasting was voldaan voor het parkeren aan de Koepoort in Goes"
+  },
+  {
+   "zin": "De parkeerder dacht dat een technische storing de zone had gekozen.",
+   "bron": [
+    22
+   ],
+   "citaat": "Belanghebbende vermoedt dat de parkeerapp als gevolg van een technische storing een andere zone heeft geselecteerd"
+  },
+  {
+   "zin": "De rechter zag geen bewijs van een structurele storing en legde het risico bij de parkeerder.",
+   "bron": [
+    23,
+    24
+   ],
+   "citaat": "niet aannemelijk gemaakt dat er sprake was van structurele problemen of een storing met de door belanghebbende gebruikte parkeerapp"
+  },
+  {
+   "zin": "Volgens de rechter telt een betaling aan de verkeerde gemeente als niet betaald.",
+   "bron": [
+    24
+   ],
+   "citaat": "Het betalen van parkeerbelasting aan de verkeerde gemeente betekent immers dat geen parkeerbelasting is voldaan"
+  },
+  {
+   "zin": "De rechter ging niet in op coulance, omdat hij die bevoegdheid niet heeft.",
+   "bron": [
+    25
+   ],
+   "citaat": "is echter niet bevoegd om op grond van coulance een naheffingsaanslag parkeerbelasting te vernietigen of te verminderen"
+  },
+  {
+   "zin": "De parkeerder verliest de zaak en krijgt het griffierecht niet terug.",
+   "bron": [
+    27
+   ],
+   "citaat": "Omdat het beroep ongegrond is krijgt belanghebbende het griffierecht niet vergoed."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; betaling voor verkeerde zone telt niet, naheffing blijft.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing van 79,30 euro blijft staan en het griffierecht komt niet terug.",
+  "bron": [
+   27,
+   10
+  ],
+  "citaat": "Omdat het beroep ongegrond is krijgt belanghebbende het griffierecht niet vergoed."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij had betaald, maar in de verkeerde zone.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Betaling aan de verkeerde gemeente geldt als niet betaald, ook als de app die zone voorstelde.",
+    "bron": [
+     24
+    ],
+    "citaat": "Het betalen van parkeerbelasting aan de verkeerde gemeente betekent immers dat geen parkeerbelasting is voldaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "goed te kijken of de parkeerapp de juiste zone had geselecteerd",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De app had door een technische storing de verkeerde zone gekozen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De parkeerder kon geen structurele storing van de app aantonen.",
+    "bron": [
+     23
+    ],
+    "citaat": "niet aannemelijk gemaakt dat er sprake was van structurele problemen of een storing met de door belanghebbende gebruikte parkeerapp"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat de parkeerapp is uitgegaan van verkeerde data komt voor belanghebbendes rekening en risico",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij vroeg de rechter de aanslag uit coulance te vernietigen of te verminderen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter kan op grond van coulance niets aan de aanslag veranderen.",
+    "bron": [
+     25
+    ],
+    "citaat": "is echter niet bevoegd om op grond van coulance een naheffingsaanslag parkeerbelasting te vernietigen of te verminderen"
+   },
+   "bruikbare_zin": {
+    "citaat": "in strijd zou hebben gehandeld met enig algemeen beginsel van behoorlijk bestuur",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Betaling aan de verkeerde gemeente telt als niet betaald, en de fout van de app komt voor rekening van de parkeerder.",
+  "type": "regel",
+  "reikwijdte": "betaling aan de verkeerde gemeente, ook als de app die zone koos",
+  "uitzondering": "structurele problemen of storing met de parkeerapp waar de gemeente rekening mee had moeten houden",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "Het betalen van parkeerbelasting aan de verkeerde gemeente betekent immers dat geen parkeerbelasting is voldaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "parkeerapp-transactie voor Roosendaal",
+   "controle door parkeercontroleur"
+  ],
+  "wat_gaf_doorslag": "De parkeerder kon geen structurele storing van de app aantonen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Houd bekende storingen in de parkeerapp bij, zodat bij bezwaren blijkt of de gemeente ervan wist.",
+   "raakt": "betaalapp",
+   "bron": [
+    23
+   ],
+   "citaat": "structurele problemen of een storing met de door belanghebbende gebruikte parkeerapp"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren is terecht als u voor de juiste zone of gemeente niet heeft betaald, ook als uw app de verkeerde zone koos. Dat geldt ook als u dat niet wist of de app dat voorstelde. Vindt u dat uw app een storing had, dan moet u dat met bewijs kunnen laten zien; zonder bewijs heeft bezwaar weinig kans.",
+ "gemeente": "Goes",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

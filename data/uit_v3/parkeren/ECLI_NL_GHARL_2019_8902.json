@@ -1,0 +1,143 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2019:8902",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg een boete van € 90 voor parkeren op een plek voor vergunninghouders. De parkeerder ging in hoger beroep tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Boete vervalt: auto direct na parkeren aangemeld in de app",
+ "kern": {
+  "zin": "De rechter vindt dat de boete in dit geval niet terecht is, omdat de handhaver niet heeft gecontroleerd of de auto kort na de controle was aangemeld.",
+  "bron": [
+   28
+  ],
+  "citaat": "in dit specifieke geval de omstandigheden waaronder de gedraging is verricht het opleggen van een administratieve sanctie niet billijken"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete van € 90 voor parkeren op een plek voor vergunninghouders zonder vergunning, in Nijmegen.",
+   "bron": [
+    18
+   ],
+   "citaat": "parkeren op parkeerplaats vergunninghouders (bord E9) zonder vergunning voor dat voertuig"
+  },
+  {
+   "zin": "De parkeerder zei dat zij pas om 14.17 uur aankwam en dat haar auto direct daarna via de parkeerapp werd aangemeld voor een bezoekersvergunning.",
+   "bron": [
+    19
+   ],
+   "citaat": "waarna haar auto direct via de parkeerapp van de gemeente Nijmegen is aangemeld voor een bezoekersvergunning"
+  },
+  {
+   "zin": "De handhaver zag 10 minuten geen activiteit bij de auto, maar zei dat hij daarna niet meer heeft gekeken of de auto was aangemeld.",
+   "bron": [
+    25
+   ],
+   "citaat": "Na de pardontijd heb ik niet meer gecheckt of het voertuig was aangemeld voor het parkeren via de bezoekersvergunning app."
+  },
+  {
+   "zin": "De rechter ziet geen reden om de verklaring van de parkeerder te betwijfelen, want die is met stukken onderbouwd.",
+   "bron": [
+    27
+   ],
+   "citaat": "Het hof ziet geen aanleiding om te twijfelen aan de verklaring die de betrokkene gedurende de gehele procedure heeft afgelegd"
+  },
+  {
+   "zin": "De rechter vernietigt de boete en bepaalt dat het in zekerheid gestelde bedrag terugkomt.",
+   "bron": [
+    29
+   ],
+   "citaat": "het beroep gegrond verklaren en de beslissing van de officier van justitie en de inleidende beschikking vernietigen"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete vervalt wegens bijzondere omstandigheden; bedrag wordt terugbetaald.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 90 vervalt en het in zekerheid gestelde bedrag wordt terugbetaald.",
+  "bron": [
+   18,
+   29
+  ],
+  "citaat": "een administratieve sanctie van € 90,- opgelegd"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "De auto is direct na het parkeren aangemeld voor een bezoekersvergunning, dus de boete is niet terecht.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De verklaring van de handhaver weerlegt dit niet, want hij heeft niet gecontroleerd of er kort na de controle een bezoekersvergunning was.",
+    "bron": [
+     27
+    ],
+    "citaat": "De verklaring van de ambtenaar in het aanvullend proces-verbaal ontkracht deze stellingen niet."
+   },
+   "bruikbare_zin": {
+    "citaat": "hij niet heeft gecontroleerd of in deze periode, kort na de constatering van de gedraging, een bezoekersvergunning is afgegeven",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Ook als de overtreding vaststaat, kan de rechter de boete laten vervallen als de omstandigheden het opleggen ervan niet billijken.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Alleen deze zaak: auto direct na aankomst aangemeld voor een bezoekersvergunning, met onderbouwing door stukken.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   28
+  ],
+  "citaat": "in dit specifieke geval de omstandigheden waaronder de gedraging is verricht het opleggen van een administratieve sanctie niet billijken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "stukken over het tijdstip van aankomst",
+   "bewijs van de bezoekersvergunning van 14.20 uur",
+   "aanvullende verklaring van de handhaver"
+  ],
+  "wat_gaf_doorslag": "De handhaver had niet gecontroleerd of de auto kort na de controle was aangemeld."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 24 lid 1 onder g RVV 1990",
+  "art. 11 Wahv"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer na de wachttijd van 10 minuten of de auto alsnog is aangemeld voor een bezoekersvergunning, voordat u een boete schrijft.",
+   "raakt": "vergunningen",
+   "bron": [
+    27
+   ],
+   "citaat": "hij niet heeft gecontroleerd of in deze periode, kort na de constatering van de gedraging, een bezoekersvergunning is afgegeven"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "vergunningen",
+  "betaalapp"
+ ],
+ "klantuitleg": "Kreeg u een boete voor parkeren zonder vergunning, terwijl u uw auto direct na aankomst aanmeldde als bezoeker? Dan kan de rechter vinden dat de boete in dat geval niet terecht is, zeker als de handhaver dit niet heeft gecontroleerd. Dit geldt niet altijd: bewaar het bewijs van het tijdstip van aankomst en van de aanmelding, en gebruik dat in uw beroep.",
+ "gemeente": "Nijmegen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

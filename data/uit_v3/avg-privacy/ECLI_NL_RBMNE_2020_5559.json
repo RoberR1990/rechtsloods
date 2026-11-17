@@ -1,0 +1,150 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2020:5559",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "gemeente Hilversum",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De burger wil zijn gegevens in de basisregistratie personen (BRP) laten aanpassen. De rechtbank Midden-Nederland in Utrecht oordeelt dat de gemeente Hilversum de aanpassing mocht weigeren.",
+ "titel": "Geen aanpassing van persoonsgegevens zonder brondocumenten",
+ "kern": {
+  "zin": "De rechter vond dat de burger niet met de juiste brondocumenten had bewezen dat zijn BRP-gegevens onjuist waren.",
+  "bron": [
+   31
+  ],
+  "citaat": "uit de door eiser overgelegde documenten niet kan worden geconcludeerd dat de gegevens in de BRP onjuist zijn geregistreerd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente om zijn gegevens in de BRP te wijzigen.",
+   "bron": [
+    20
+   ],
+   "citaat": "Eiser heeft verweerder gevraagd zijn persoonsgegevens in de BRP te wijzigen."
+  },
+  {
+   "zin": "Hij vond dat andere persoonsgegevens in de BRP moesten staan.",
+   "bron": [
+    20
+   ],
+   "citaat": "Hij stelt zich op het standpunt dat zijn juiste persoonsgegevens zijn"
+  },
+  {
+   "zin": "De gemeente wees het verzoek af, omdat de burger niet had aangetoond dat de gegevens onjuist waren.",
+   "bron": [
+    27
+   ],
+   "citaat": "omdat eiser niet heeft aangetoond dat de geregistreerde gegevens in de BRP onjuist zijn"
+  },
+  {
+   "zin": "De rechter vond dat de burger met zijn stukken niet kon bewijzen dat de gegevens onjuist waren.",
+   "bron": [
+    31
+   ],
+   "citaat": "uit de door eiser overgelegde documenten niet kan worden geconcludeerd dat de gegevens in de BRP onjuist zijn geregistreerd"
+  },
+  {
+   "zin": "De rechter verklaarde het beroep ongegrond en gaf geen vergoeding voor proceskosten.",
+   "bron": [
+    34
+   ],
+   "citaat": "Het beroep is ongegrond. Voor een proceskostenveroordeling bestaat geen aanleiding."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De rechter houdt de BRP-gegevens en wijst het verzoek van de burger af.",
+ "gevolg_betrokkene": {
+  "zin": "Het beroep is ongegrond en de burger krijgt geen vergoeding voor proceskosten.",
+  "bron": [
+   34
+  ],
+  "citaat": "Het beroep is ongegrond. Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "De burger vond dat zijn gegevens in de BRP onjuist waren en aangepast moesten worden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de overgelegde stukken niet bewezen dat de BRP-gegevens onjuist waren.",
+    "bron": [
+     31
+    ],
+    "citaat": "uit de door eiser overgelegde documenten niet kan worden geconcludeerd dat de gegevens in de BRP onjuist zijn geregistreerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "onomstotelijk vast moet staan dat de geregistreerde gegevens in de BRP feitelijk onjuist zijn",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De burger vond dat zijn Chinese paspoort zwaarder moest tellen dan zijn oude verklaring onder ede.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat een paspoort geen brondocument is.",
+    "bron": [
+     33
+    ],
+    "citaat": "Een paspoort is geen brondocument omdat het is verleend op grond van andere documenten."
+   },
+   "bruikbare_zin": {
+    "citaat": "Een paspoort is geen brondocument",
+    "bron": [
+     33
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Om gegevens in de BRP te wijzigen, moet onomstotelijk vaststaan dat de gegevens feitelijk onjuist zijn; de burger moet dat met de juiste brondocumenten bewijzen.",
+  "type": "regel",
+  "reikwijdte": "Wijziging van gegevens die al in de BRP staan.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   32
+  ],
+  "citaat": "Voor het wijzigen van eenmaal in de BRP geregistreerde gegevens zal onomstotelijk moeten vaststaan dat deze feitelijk onjuist zijn."
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "Chinees paspoort",
+   "verblijfsdocument",
+   "gelegaliseerde notariële verklaring persoonsgegevens",
+   "gelegaliseerde notariële verklaring justitiële gegevens",
+   "gelegaliseerde kopie hukou"
+  ],
+  "wat_gaf_doorslag": "Het ontbreken van brondocumenten die de identiteit konden bewijzen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "De rechter geeft de gemeente gelijk; er is geen opdracht of tekortkoming.",
+ "raakt": [
+  "burgerzaken-brp",
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "U wilt uw gegevens in de basisregistratie personen (BRP) laten aanpassen. De gemeente mag dat weigeren als u niet met de juiste brondocumenten kunt bewijzen dat de gegevens echt fout zijn. Een paspoort alleen is daarvoor niet genoeg; vraag na welke brondocumenten de gemeente nodig heeft.",
+ "gemeente": "Hilversum",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,240 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2023:786",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "bewijs-scanauto",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Delft",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder ging bij het gerechtshof Den Haag in hoger beroep tegen de gemeente Delft. Het ging om een naheffingsaanslag (een rekening achteraf) die op een scan van een scanauto was gebaseerd.",
+ "titel": "Rekening achteraf na scanauto blijft staan: foto's en GPS mogen als bewijs",
+ "kern": {
+  "zin": "De rechter vond de rekening achteraf terecht: de gemeente mocht foto's en GPS-gegevens van de scanauto als bewijs gebruiken en een te late bekendmaking van de aanwijzing van de ambtenaar had de parkeerder niet benadeeld.",
+  "bron": [
+   214
+  ],
+  "citaat": "Gelet op wat hiervoor is overwogen is het hoger beroep ongegrond"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een scanauto in Delft zag een auto staan op een plek met betaald parkeren zonder dat er was betaald, en de gemeente legde een naheffingsaanslag (rekening achteraf) op.",
+   "bron": [
+    157
+   ],
+   "citaat": "met behulp van een door een scanauto gemaakte scan geconstateerd dat de auto van belanghebbende met kenteken"
+  },
+  {
+   "zin": "De parkeerder zei dat de GPS-gegevens van de scanauto niet als bewijs mogen worden gebruikt omdat daar geen wettelijke basis voor is.",
+   "bron": [
+    208
+   ],
+   "citaat": "De door de scanauto vastgelegde gps-coördinaten kunnen niet worden gebruikt als bewijsmiddel omdat hiervoor geen wettelijke grondslag bestaat"
+  },
+  {
+   "zin": "De gemeente zei dat er die ochtend geen storing was in de parkeerapparatuur.",
+   "bron": [
+    211
+   ],
+   "citaat": "tussen 10.00 uur en 12.00 uur geen storing aanwezig was in de parkeerapparatuur"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente elk bewijsmiddel mag gebruiken (vrije bewijsleer) en dat uit GPS-gegevens, foto's en kaartgegevens aannemelijk werd dat de auto daar stond.",
+   "bron": [
+    209,
+    210
+   ],
+   "citaat": "de Heffingsambtenaar dus niet gebonden aan bewijsmiddelen waarvan het gebruik uitdrukkelijk op grond van een wettelijke bepaling is toegestaan"
+  },
+  {
+   "zin": "Dat de aanwijzing van de belastingambtenaar te laat was bekendgemaakt, telde niet mee omdat de parkeerder daardoor geen nadeel had; ook zonder aparte aangifte kon de gemeente naheffen.",
+   "bron": [
+    194,
+    212
+   ],
+   "citaat": "geen sanctie te worden verbonden, tenzij de belanghebbende daardoor zou zijn benadeeld"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de parkeerder krijgt geen vergoeding van proceskosten.",
+   "bron": [
+    214,
+    216
+   ],
+   "citaat": "Gelet op wat hiervoor is overwogen is het hoger beroep ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; naheffing blijft staan, geen proceskosten",
+ "gevolg_betrokkene": {
+  "zin": "De naheffingsaanslag blijft staan en de parkeerder krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   214,
+   216
+  ],
+  "citaat": "Gelet op wat hiervoor is overwogen is het hoger beroep ongegrond"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "GPS-gegevens van de scanauto mogen niet als bewijs worden gebruikt en tonen niet waar mijn auto stond.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente mag met alle bewijsmiddelen werken, ook als de wet dat middel niet apart noemt.",
+    "bron": [
+     209
+    ],
+    "citaat": "de Heffingsambtenaar dus niet gebonden aan bewijsmiddelen waarvan het gebruik uitdrukkelijk op grond van een wettelijke bepaling is toegestaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "Binnen de vrije bewijsleer hebben partijen de vrije keuze in bewijsmiddelen",
+    "bron": [
+     209
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De directeur was niet bevoegd, omdat het besluit dat hem aanwees pas later in het Gemeenteblad stond.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het gebrek in de bekendmaking krijgt geen gevolg als de parkeerder daardoor niet is benadeeld.",
+    "bron": [
+     194
+    ],
+    "citaat": "geen sanctie te worden verbonden, tenzij de belanghebbende daardoor zou zijn benadeeld"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen sanctie te worden verbonden, tenzij de belanghebbende daardoor zou zijn benadeeld",
+    "bron": [
+     194
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De medewerker die op het bezwaar besliste was daar niet bevoegd toe.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er was geen reden om te twijfelen aan de bevoegdheid van die medewerker.",
+    "bron": [
+     196
+    ],
+    "citaat": "Het Hof onderschrijft het oordeel van de Rechtbank dat er geen aanleiding is voor twijfel over de bevoegdheid van"
+   },
+   "bruikbare_zin": {
+    "citaat": "er geen aanleiding is voor twijfel over de bevoegdheid van",
+    "bron": [
+     196
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De vertegenwoordigers van de gemeente bij de rechtbank en het hof waren daar niet bevoegd toe.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De overgelegde machtigingen gaven hen de bevoegdheid.",
+    "bron": [
+     205
+    ],
+    "citaat": "Gelet op de verstrekte machtigingen in beroep en hoger beroep zijn zij daartoe bevoegd"
+   },
+   "bruikbare_zin": {
+    "citaat": "Gelet op de verstrekte machtigingen in beroep en hoger beroep zijn zij daartoe bevoegd",
+    "bron": [
+     205
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er kan geen naheffing komen als er geen aangifte is gedaan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Bij parkeerbelasting geldt betalen als aangifte; wie niet betaalt, kan worden nageheven.",
+    "bron": [
+     212
+    ],
+    "citaat": "Parkeerbelasting wordt op grond van artikel 234 Gemeentewet geheven bij voldoening op aangifte"
+   },
+   "bruikbare_zin": {
+    "citaat": "met het doen van de betaling tevens aangifte wordt gedaan",
+    "bron": [
+     212
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "In het belastingrecht mogen partijen met alle mogelijke middelen bewijzen wat zij stellen, dus ook met foto's en GPS-gegevens van een scanauto.",
+  "type": "regel",
+  "reikwijdte": "Bewijs in het belastingrecht, zoals bij naheffing van parkeerbelasting.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   209
+  ],
+  "citaat": "partijen met alle mogelijke middelen het bewijs mogen leveren dat hun standpunt onderbouwt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto's van de scanauto",
+   "GPS-coördinaten van het gescande kenteken",
+   "kaartgegevens in het dossier",
+   "verklaring over controle van de parkeerapparatuur"
+  ],
+  "wat_gaf_doorslag": "De parkeerder noemde geen feiten waardoor het bewijs van de gemeente te betwijfelen viel."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2015:2162",
+   "ECLI:NL:HR:2015:3224"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 231 Gemeentewet",
+  "art. 234 Gemeentewet",
+  "art. 20 AWR",
+  "art. 6:22 Awb",
+  "art. 3:42 Awb",
+  "art. 13 Parkeerverordening Delft 2019"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij een scancontrole het kenteken, de GPS-coördinaten, de foto's en de kaartgegevens vast in het dossier van de naheffing.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    210
+   ],
+   "citaat": "Op grond van de gps-coördinaten van het gescande kenteken"
+  },
+  {
+   "actie": "Maak aanwijzingsbesluiten van heffingsambtenaren bekend voordat u naheffingen oplegt.",
+   "raakt": "verordening-beleid",
+   "bron": [
+    194
+   ],
+   "citaat": "niet op de in artikel 3:42, lid 2, Awb voorgeschreven wijze was bekendgemaakt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "scanauto-handhaving",
+  "bezwaar",
+  "verordening-beleid"
+ ],
+ "klantuitleg": "De gemeente mag een rekening achteraf sturen als een scanauto uw auto op een betaalplek ziet en er niet is betaald. Foto's en GPS-gegevens van de scanauto mogen daarbij als bewijs dienen. Wilt u bezwaar maken, noem dan concrete feiten waarom het bewijs niet klopt, bijvoorbeeld dat u wel hebt betaald.",
+ "gemeente": "Delft",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

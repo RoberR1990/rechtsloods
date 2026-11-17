@@ -1,0 +1,43 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:10683",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "bedrijf, zelfstandige", "wederpartij": "gemeente Tilburg", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Een zelfstandige kreeg naheffingen parkeerbelasting in Tilburg. Hij ging in beroep bij de rechtbank Zeeland-West-Brabant en zei dat hij zware spullen laadde.",
+ "titel": "Laden en lossen niet aangetoond; naheffingen blijven",
+ "kern": {"zin": "De rechter vond niet aannemelijk dat er zware spullen werden geladen, dus de naheffingen blijven staan.", "bron": [36], "citaat": "niet aannemelijk heeft gemaakt dat ook op de momenten waarop de constateringen als in r.o. 3.1. en 3.2 zijn gedaan"},
+ "samenvatting": [
+  {"zin": "Controleurs zagen zijn auto in Tilburg staan zonder betaalde parkeerbelasting.", "bron": [18], "citaat": "geconstateerd dat geen parkeerbelasting was voldaan"},
+  {"zin": "Hij zegt dat hij zware spullen in en uit de auto laadde, en dat hij een ontheffing voor de stoep heeft.", "bron": [31], "citaat": "spullen in en uit zijn auto aan het laden was"},
+  {"zin": "De gemeente zegt dat er geen laden of lossen te zien was, en dat een ontheffing op betaalde plekken niet geldt.", "bron": [32], "citaat": "geen enkele activiteit is waargenomen waaruit kon worden afgeleid dat sprake was van laden en/of lossen"},
+  {"zin": "De rechter vond dat de gemeente aan haar bewijslast had voldaan en dat laden niet aannemelijk was.", "bron": [34, 36], "citaat": "De rechtbank is van oordeel dat de heffingsambtenaar in zijn bewijslast is geslaagd"},
+  {"zin": "De naheffingen blijven gehandhaafd, en een te laat beroep werd niet-ontvankelijk verklaard.", "bron": [40], "citaat": "Dat betekent dat de naheffingsaanslagen gehandhaafd blijven"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffingen blijven; een beroep was te laat, drie ongegrond",
+ "gevolg_betrokkene": {"zin": "De naheffingen blijven staan, en hij krijgt het griffierecht en geen proceskosten terug.", "bron": [40], "citaat": "Hij krijgt ook geen vergoeding van zijn proceskosten"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "kort-stilstaan", "burger_zegt": "Hij laadde zware spullen voor klanten, dus het was geen parkeren.", "oordeel": "verworpen", "waarom": {"zin": "De rechter vond niet aannemelijk dat er op die momenten zware spullen werden bezorgd.", "bron": [36], "citaat": "niet aannemelijk heeft gemaakt dat ook op de momenten waarop de constateringen"}, "bruikbare_zin": {"citaat": "Niet de duur van het plaatsen van de auto is doorslaggevend", "bron": [37]}},
+  {"arg": "overig", "burger_zegt": "Hij heeft een ontheffing om op de stoepen in Tilburg te parkeren, dus hij betaalt niets.", "oordeel": "verworpen", "waarom": {"zin": "Een mogelijke stoepontheffing maakte niets anders, omdat de auto op een betaald vak stond.", "bron": [37], "citaat": "in een daartoe aangewezen gefiscaliseerd parkeervak waar voor het parkeren parkeerbelasting verschuldigd is"}, "bruikbare_zin": {"citaat": "in een daartoe aangewezen gefiscaliseerd parkeervak waar voor het parkeren parkeerbelasting verschuldigd is", "bron": [37]}},
+  {"arg": "termijn-verschoonbaar", "burger_zegt": "Hij gaf geen reden waarom het beroep later kwam dan de termijn.", "oordeel": "verworpen", "waarom": {"zin": "De rechter zag geen reden om de te late indiening van het beroep te verschonen.", "bron": [27], "citaat": "heeft geen gronden aangevoerd waaruit volgt dat de overschrijding van de beroepstermijn verschoonbaar is"}, "bruikbare_zin": {"citaat": "heeft geen gronden aangevoerd waaruit volgt dat de overschrijding van de beroepstermijn verschoonbaar is", "bron": [27]}}
+ ],
+ "rechtsregel": {"zin": "Laden en lossen telt niet als parkeren als de auto stilstaat om zaken van enige omvang of gewicht in of uit te laden.", "type": "regel", "reikwijdte": "auto's die stilstaan om zaken van enige omvang of gewicht in of uit te laden", "uitzondering": "niet als de zaken ook op een andere manier ter plaatse kunnen komen", "herkomst": "oordeel rechter", "bron": [33], "citaat": "zaken van enige omvang of enig gewicht, onmiddellijk nadat het voertuig tot stilstand is gebracht"},
+ "bewijs": {"bewijslast_bij": "wederpartij", "bewijsmiddelen": ["foto's van de scanauto", "waarneming door de handhaver"], "wat_gaf_doorslag": "De scanfoto's lieten geen activiteit zien, en de stelling van laden werd niet aannemelijk gemaakt."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": [],
+ "actie_gemeente": [{"actie": "Bewaar de scanfoto's van elke naheffing, want die bepaalden hier of er geladen werd.", "raakt": "scanauto-handhaving", "bron": [34], "citaat": "waaruit kan worden geconcludeerd dat sprake is van laden en/of lossen"}],
+ "reden_leeg_actie": null,
+ "raakt": ["bezwaar", "scanauto-handhaving", "klantcontact"],
+ "klantuitleg": "Laden en lossen telt alleen als u echt zware of grote spullen in of uit de auto zet. Een ontheffing voor de stoep betekent niet dat u op een betaald parkeervak niets hoeft te betalen. Wilt u bezwaar maken, dien dan tijdig uw gronden in en zorg voor bewijs dat u echt aan het laden was.",
+ "gemeente": "Tilburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

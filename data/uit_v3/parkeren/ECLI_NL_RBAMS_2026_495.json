@@ -1,0 +1,172 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2026:495",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder met parkeervergunning",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg vier naheffingsaanslagen (de rekening achteraf) voor parkeren op een ander kenteken dan op zijn vergunning stond. Hij ging in beroep tegen de gemeente Amsterdam bij de rechtbank Amsterdam.",
+ "titel": "Vier parkeerrekeningen blijven staan: vergunning gold niet voor ander kenteken",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente de vier naheffingsaanslagen terecht had opgelegd, omdat de vergunning niet voor het gebruikte kenteken gold.",
+  "bron": [
+   22
+  ],
+  "citaat": "een parkeervergunning alleen geldig is voor het parkeren van het motorvoertuig waarvan het kenteken is vermeld"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder had een parkeervergunning en wilde het kenteken daarop wijzigen.",
+   "bron": [
+    18
+   ],
+   "citaat": "dat hij op 30 oktober 2024 het kenteken van die vergunning wilde wijzigen"
+  },
+  {
+   "zin": "De parkeerder vroeg de rechter de naheffingen te laten vervallen.",
+   "bron": [
+    18
+   ],
+   "citaat": "verzoekt de rechtbank de naheffingsaanslagen te laten vervallen"
+  },
+  {
+   "zin": "De gemeente zei dat het kenteken niet was aangemeld en dat de naheffingen dus klopten.",
+   "bron": [
+    19
+   ],
+   "citaat": "is de parkeervergunning alleen geldig voor het kenteken dat is aangemeld"
+  },
+  {
+   "zin": "De rechter zei dat goede wil niet telt, omdat de parkeerbelasting objectief is.",
+   "bron": [
+    23
+   ],
+   "citaat": "De parkeerbelasting is namelijk een objectieve belasting"
+  },
+  {
+   "zin": "De rechter vond dat het vroegsignaleringssysteem (een waarschuwing bij veel naheffingen) de vier naheffingen niet had voorkomen.",
+   "bron": [
+    25
+   ],
+   "citaat": "Het huidige vroegsignaleringssysteem heeft blijkbaar niet voorkomen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroepen ongegrond; naheffingen blijven staan. Rechter vraagt om coulance te overwegen.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de vier naheffingen betalen, krijgt het griffierecht niet terug en krijgt geen proceskosten vergoed.",
+  "bron": [
+   28
+  ],
+  "citaat": "Hij krijgt ook geen vergoeding van zijn proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Hij wijzigde het kenteken op tijd, maar de wijziging werd niet verwerkt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de vergunning niet geldig was voor de auto waarmee hij stond.",
+    "bron": [
+     22
+    ],
+    "citaat": "het kenteken van de auto waarmee eiser heeft geparkeerd niet was aangemeld"
+   },
+   "bruikbare_zin": {
+    "citaat": "Van parkeren met een vergunning is alleen sprake als wordt voldaan aan de voorwaarden die aan de vergunning zijn verbonden",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Vier naheffingen achter elkaar zijn te veel, en de gemeente had eerder coulance moeten tonen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat de gemeente volgens vaste jurisprudentie niet in strijd met het evenredigheidsbeginsel handelt.",
+    "bron": [
+     26
+    ],
+    "citaat": "dit volgens vaste jurisprudentie niet in strijd is met het evenredigheidsbeginsel"
+   },
+   "bruikbare_zin": {
+    "citaat": "en of zij eerder coulance zou moeten toepassen",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij had goede wil en handelde zo snel mogelijk na de eerste naheffing.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat goede wil en persoonlijke omstandigheden niet tellen, omdat de belasting objectief is.",
+    "bron": [
+     23
+    ],
+    "citaat": "De parkeerbelasting is namelijk een objectieve belasting"
+   },
+   "bruikbare_zin": {
+    "citaat": "Slechts in bijzondere gevallen kan strikte naleving van de regels niet van de parkeerder worden gevergd",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeren met een vergunning telt alleen als aan de voorwaarden van de vergunning is voldaan.",
+  "type": "regel",
+  "reikwijdte": "Parkeren met een vergunning in een vergunninggebied",
+  "uitzondering": "Bijzondere gevallen, zoals een acute noodsituatie of geen redelijke kans om te betalen",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   22
+  ],
+  "citaat": "Van parkeren met een vergunning is alleen sprake als wordt voldaan aan de voorwaarden die aan de vergunning zijn verbonden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "kenteken op de parkeervergunning",
+   "digitaal parkeerbelastingbestand"
+  ],
+  "wat_gaf_doorslag": "Het kenteken op de vergunning kwam niet overeen met de auto waarmee hij parkeerde."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Overweeg of het opleggen van maximaal vijf naheffingen niet te veel is, en of eerder coulance nodig is.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    26
+   ],
+   "citaat": "en of zij eerder coulance zou moeten toepassen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "scanauto-handhaving",
+  "bezwaar"
+ ],
+ "klantuitleg": "Met een parkeervergunning mag u alleen parkeren als het kenteken van uw auto op de vergunning staat. Staat dat kenteken er niet op, dan kan de gemeente de rekening voor het parkeren alsnog opleggen, ook als u te goeder trouw was. Hebt u het kenteken net gewijzigd, controleer dan of de wijziging echt is verwerkt.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

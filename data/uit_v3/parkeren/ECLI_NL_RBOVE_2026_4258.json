@@ -1,0 +1,177 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2026:4258",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "particuliere parkeerder",
+  "wederpartij": "gemeente Deventer (via de Regionale Belastingsamenwerking DOWR)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een particuliere parkeerder kreeg een naheffing van € 81,65 voor een auto zonder betaalde parkeerbelasting in Deventer. Hij ging in beroep bij de rechtbank Overijssel tegen de kosten die in die naheffing zijn doorberekend.",
+ "titel": "Naheffing van € 81,65 blijft staan; kosten mochten worden doorberekend",
+ "kern": {
+  "zin": "De rechter vond de kosten terecht doorberekend, omdat ze meer dan zijdelings samenhangen met het innen van niet-betaalde parkeerbelasting.",
+  "bron": [
+   57
+  ],
+  "citaat": "Vereist is slechts dat de kosten meer dan zijdelings daarmee samenhangen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 26 april 2025 stond de auto in Deventer zonder betaalde parkeerbelasting, en kreeg de parkeerder een naheffing.",
+   "bron": [
+    18
+   ],
+   "citaat": "Tijdens een controle is geconstateerd dat voor de auto geen parkeerbelasting was voldaan."
+  },
+  {
+   "zin": "Volgens de parkeerder was de opbouw van de kosten niet duidelijk genoeg uitgelegd.",
+   "bron": [
+    25
+   ],
+   "citaat": "niet volledig inzichtelijk hoe de opgevoerde kosten zich verhouden"
+  },
+  {
+   "zin": "De gemeente legde uit dat de overheadpost een opslag van 25% op de loonsom van team Toezicht was.",
+   "bron": [
+    72
+   ],
+   "citaat": "dit een toeslag is voor de overhead van team Toezicht"
+  },
+  {
+   "zin": "De rechter vond de kosten voldoende onderbouwd, zodat de naheffing in stand blijft.",
+   "bron": [
+    76
+   ],
+   "citaat": "De naheffingsaanslag blijft daarom in stand"
+  },
+  {
+   "zin": "De parkeerder krijgt de kosten van de rechtszaak niet terug.",
+   "bron": [
+    78
+   ],
+   "citaat": "Belanghebbende krijgt daarom het griffierecht niet terug."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing van € 81,65 blijft in stand.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt de naheffing en krijgt de kosten van de rechtszaak niet terug.",
+  "bron": [
+   78
+  ],
+  "citaat": "Belanghebbende krijgt daarom het griffierecht niet terug."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De kosten van de naheffing zijn te hoog, omdat niet duidelijk is wat ze dekken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de kosten meer dan zijdelings samenhangen met het innen van niet-betaalde parkeerbelasting.",
+    "bron": [
+     57
+    ],
+    "citaat": "Vereist is slechts dat de kosten meer dan zijdelings daarmee samenhangen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Vereist is slechts dat de kosten meer dan zijdelings daarmee samenhangen",
+    "bron": [
+     57
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De kostenposten overhead, overwerk, toezicht en belastingen hangen te weinig samen met het innen van de parkeerbelasting.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente voldoende aannemelijk had gemaakt dat de overhead- en overwerkposten meer dan zijdelings samenhangen.",
+    "bron": [
+     72
+    ],
+    "citaat": "voldoende aannemelijk gemaakt dat de post Overhead en Overwerk meer dan zijdelings verband houden"
+   },
+   "bruikbare_zin": {
+    "citaat": "dit een toeslag is voor de overhead van team Toezicht",
+    "bron": [
+     72
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De uitspraak op bezwaar was niet goed onderbouwd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de uitspraak op bezwaar wel voldoende onderbouwd.",
+    "bron": [
+     28
+    ],
+    "citaat": "dat de uitspraak op bezwaar onvoldoende is gemotiveerd, volgt de rechtbank hem hierin niet"
+   },
+   "bruikbare_zin": {
+    "citaat": "het kostenoverzicht van de naheffingsaanslag parkeren in de bijlage behorende bij de Verordening",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Kosten van een naheffing mogen worden doorberekend als ze meer dan zijdelings samenhangen met het innen van niet-betaalde parkeerbelasting.",
+  "type": "regel",
+  "reikwijdte": "Doorberekening van kosten van naheffingsaanslagen in de parkeerbelasting.",
+  "uitzondering": "Geen samenhang als de kosten geheel of nagenoeg geheel andere doeleinden dienen.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   57
+  ],
+  "citaat": "Vereist is slechts dat de kosten meer dan zijdelings daarmee samenhangen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "kostenraming van de gemeente",
+   "nadere toelichting van de gemeente op zitting",
+   "toelichting op het systeem Bluebrick"
+  ],
+  "wat_gaf_doorslag": "De nadere toelichting op het systeem Bluebrick, dat team Toezicht gebruikt bij parkeercontroles, maakte het verband aannemelijk."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Gemeentewet (kosten van de naheffingsaanslag)",
+  "Bgpb",
+  "Verordening parkeerbelastingen gemeente Deventer 2025"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer de kostenraming op verschrijvingen voordat de uitspraak op bezwaar wordt genomen, zodat de onderbouwing klopt.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    51
+   ],
+   "citaat": "sprake is van een verschrijving in de onderbouwing van de kostenposten"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren blijft staan als de gemeente de kosten goed kan uitleggen, en dat is in deze zaak gelukt. U krijgt de kosten van de rechtszaak niet terug. Wilt u bezwaar maken tegen de hoogte, dan heeft het alleen zin als u precies aanwijst welke kostenpost u onjuist vindt.",
+ "gemeente": "Deventer",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,185 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2023:39",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bewoner kreeg een boete omdat hij in Venlo parkeerde op een plek voor vergunninghouders. Hij procedeert tegen de officier van justitie en ging in hoger beroep bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Bewonersabonnement is geen vergunning voor plek met bord E9",
+ "kern": {
+  "zin": "Een abonnement voor betaald parkeren en de blauwe zone is geen vergunning voor een plek met bord E9, dus de boete blijft.",
+  "bron": [
+   25
+  ],
+  "citaat": "De betrokkene beschikte derhalve niet over een parkeervergunning waarmee hij mocht parkeren"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner kreeg een boete van € 95 voor parkeren op een plek voor vergunninghouders (bord E9) in Venlo.",
+   "bron": [
+    18
+   ],
+   "citaat": "parkeren op parkeerplaats vergunninghouders (bord E9) zonder vergunning voor dat voertuig"
+  },
+  {
+   "zin": "De bewoner zegt dat zijn straatabonnement een parkeervergunning is.",
+   "bron": [
+    19
+   ],
+   "citaat": "de betrokkene beschikt over een straatabonnement"
+  },
+  {
+   "zin": "De handhaver verklaarde dat een straatabonnement alleen geldt voor betaald parkeren en de blauwe zone.",
+   "bron": [
+    23
+   ],
+   "citaat": "Een straatabonnement is uitsluitend geldig voor de betaald parkeervakken en de schil blauwe-zone"
+  },
+  {
+   "zin": "Het hof vindt dat het abonnement juridisch een ontheffing is op het betaald parkeren en de blauwe zone, en dus geen vergunning voor deze plek.",
+   "bron": [
+    25
+   ],
+   "citaat": "betreft dit juridisch gezien echter een ontheffing op het fiscale parkeerregime en het parkeren in de blauwe zone"
+  },
+  {
+   "zin": "De borden zijn volgens het hof duidelijk genoeg.",
+   "bron": [
+    26
+   ],
+   "citaat": "Het hof deelt niet de opvatting van de gemachtigde dat de bebording ter plaatse onduidelijk is"
+  },
+  {
+   "zin": "Het hof bevestigt de beslissing van de kantonrechter.",
+   "bron": [
+    27
+   ],
+   "citaat": "Het hof zal de beslissing van de kantonrechter dan ook bevestigen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete blijft; geen proceskostenvergoeding",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 95 blijft staan en de bewoner krijgt geen proceskosten vergoed.",
+  "bron": [
+   27,
+   18
+  ],
+  "citaat": "zal het verzoek om een proceskostenvergoeding worden afgewezen"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Mijn straatabonnement is een parkeervergunning, dus ik mocht hier staan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het abonnement is juridisch een ontheffing, geen vergunning voor een plek voor vergunninghouders.",
+    "bron": [
+     25
+    ],
+    "citaat": "betreft dit juridisch gezien echter een ontheffing op het fiscale parkeerregime en het parkeren in de blauwe zone"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Het bord E9 is onlogisch geplaatst.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het bord staat aan het begin van de straat en is bij het inrijden duidelijk te zien.",
+    "bron": [
+     26
+    ],
+    "citaat": "Bij het inrijden van de straat is het bord duidelijk waarneembaar"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat de betrokkene de bebording wellicht heeft gemist, is dan ook een omstandigheid waarvan de gevolgen voor zijn rekening moeten blijven",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De voorwaarden van het abonnement waren niet duidelijk.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Van de bewoner mag worden verwacht dat hij de voorwaarden kent en bij onduidelijkheid de gemeente vraagt.",
+    "bron": [
+     26
+    ],
+    "citaat": "van de betrokkene mag worden verwacht dat hij op de hoogte is van de geldende voorwaarden"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een abonnement voor betaald parkeren en de blauwe zone geeft geen recht om te parkeren op een plek voor vergunninghouders.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Straatabonnement/bewonersabonnement in Venlo; hangt af van de voorwaarden van de gemeente",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "betreft dit juridisch gezien echter een ontheffing op het fiscale parkeerregime en het parkeren in de blauwe zone"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring handhaver",
+   "foto's van het voertuig en de borden",
+   "kentekenscan",
+   "voorwaarden van de gemeente Venlo"
+  ],
+  "wat_gaf_doorslag": "Het abonnement gold alleen voor betaald parkeren en de blauwe zone, niet voor deze plek."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 24 lid 1 onder g RVV 1990",
+  "bord E9 bijlage I RVV 1990"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet het bord E9 bij de ingang van de straat en geef elk parkeervak een eigen nummerbordje",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    26
+   ],
+   "citaat": "Bij alle parkeervakken is afzonderlijk een wit bordje met blauwe omranding geplaatst"
+  },
+  {
+   "actie": "Noem een abonnement dat alleen geldt voor betaald parkeren en de blauwe zone niet een vergunning",
+   "raakt": "vergunningen",
+   "bron": [
+    25
+   ],
+   "citaat": "Hoewel de gemeente Venlo dit in de voorwaarden benoemt als"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "vergunningen",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een abonnement voor betaald parkeren of de blauwe zone is geen vergunning voor een plek met bord E9 en de tekst 'alleen vergunninghouders'. Parkeert u daar toch, dan kunt u een boete krijgen, ook als u het bord gemist hebt. Twijfelt u over de voorwaarden van uw abonnement, vraag het dan vooraf aan de gemeente.",
+ "gemeente": "Venlo",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

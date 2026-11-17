@@ -1,0 +1,144 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2026:1095",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (eiseres)",
+  "wederpartij": "gemeente (Belastingsamenwerking gemeenten en hoogheemraadschap Utrecht)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffingsaanslag parkeerbelasting van 69,69 euro (de rekening achteraf). Zij ging in beroep bij de rechtbank Midden-Nederland tegen de beslissing van de gemeente op haar bezwaar.",
+ "titel": "Stilstaan om iemand op te halen telde hier als parkeren",
+ "kern": {
+  "zin": "De rechter vond niet dat er sprake was van direct in- of uitstappen, dus de naheffing blijft staan.",
+  "bron": [
+   21
+  ],
+  "citaat": "Gelet daarop acht de rechtbank het aannemelijk dat van het onmiddellijk in- en uitstappen van personen geen sprake was"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder werd door een scanauto gesignaleerd terwijl haar auto in een betaald gebied in Utrecht stilstond.",
+   "bron": [
+    19
+   ],
+   "citaat": "Op 21 december 2021 om 15:31 uur heeft een scanauto vastgesteld dat de auto van eiseres"
+  },
+  {
+   "zin": "Zij zei dat zij maar enkele seconden stilstond om iemand op te halen en meteen weer wegreed.",
+   "bron": [
+    20
+   ],
+   "citaat": "Eiseres stond namelijk alleen enkele seconden stil om iemand op te halen"
+  },
+  {
+   "zin": "De gemeente legde foto's van de scanauto over.",
+   "bron": [
+    21
+   ],
+   "citaat": "heeft bij het verweerschrift het brondocument overgelegd met daarin foto’s van de scanauto"
+  },
+  {
+   "zin": "Op die foto's stond geen persoon rond de auto.",
+   "bron": [
+    21
+   ],
+   "citaat": "Rondom de auto zijn geen personen te zien"
+  },
+  {
+   "zin": "Volgens de rechter lag het aan de parkeerder om in- en uitstappen aannemelijk te maken.",
+   "bron": [
+    21
+   ],
+   "citaat": "Het is aan eiseres om aannemelijk te maken"
+  },
+  {
+   "zin": "Het beroep werd afgewezen, de naheffing blijft staan en er komt geen vergoeding voor proceskosten.",
+   "bron": [
+    22
+   ],
+   "citaat": "Het beroep is ongegrond en er bestaat geen aanleiding voor een proceskostenveroordeling"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing van 69,69 euro blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan, en de parkeerder krijgt geen proceskosten vergoed.",
+  "bron": [
+   22
+  ],
+  "citaat": "Het beroep is ongegrond en er bestaat geen aanleiding voor een proceskostenveroordeling"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Zij stond maar enkele seconden stil om iemand op te halen en reed meteen weer weg.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter was direct in- of uitstappen waarschijnlijk niet aan de orde.",
+    "bron": [
+     21
+    ],
+    "citaat": "Gelet daarop acht de rechtbank het aannemelijk dat van het onmiddellijk in- en uitstappen van personen geen sprake was"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het onmiddellijk laten in- of uitstappen van personen is daarop een uitzondering",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie zijn auto op betaald parkeren neerzet, betaalt parkeerbelasting, tenzij er direct in- of uitgestapt wordt.",
+  "type": "regel",
+  "reikwijdte": "stilstaan op betaald parkeren",
+  "uitzondering": "onmiddellijk in- of uitstappen van personen",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "Het onmiddellijk laten in- of uitstappen van personen is daarop een uitzondering"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "foto's van de scanauto",
+   "brondocument van de gemeente"
+  ],
+  "wat_gaf_doorslag": "Op de foto's stond de auto recht in het vak en waren geen personen te zien."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij het verweer het brondocument met foto's van de scanauto over.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    21
+   ],
+   "citaat": "heeft bij het verweerschrift het brondocument overgelegd met daarin foto’s van de scanauto"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "scanauto-handhaving",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een naheffing is alleen terecht als de auto op een betaald parkeervak stond en u niet direct in- of uitstapte. Zegt u alleen kort te hebben stilgestaan, dan moet u dat zelf aannemelijk maken. Heeft u bewijs, zoals een foto, dan kan dat helpen; zonder bewijs heeft bezwaar weinig kans.",
+ "gemeente": "Belastingsamenwerking gemeenten en hoogheemraadschap Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

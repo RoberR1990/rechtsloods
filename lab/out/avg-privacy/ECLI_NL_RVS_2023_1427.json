@@ -1,0 +1,164 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2023:1427",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "zoekslag",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "minister van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De burger vroeg de Belastingdienst om inzage in zijn persoonsgegevens in de Fraude Signalering Voorziening (FSV). Hij kreeg te horen dat die er niet in staan. De Raad van State moest oordelen over zijn hoger beroep tegen de minister van Financiën.",
+ "titel": "Zoekslag in fraudesysteem was genoeg; geen inzage",
+ "kern": {
+  "zin": "Het hoger beroep van de burger is ongegrond; de minister heeft genoeg gedaan om zijn gegevens te zoeken.",
+  "bron": [
+   38
+  ],
+  "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de Belastingdienst om inzage in zijn persoonsgegevens in de FSV.",
+   "bron": [
+    18
+   ],
+   "citaat": "te laten weten of zijn persoonsgegevens worden verwerkt in de Fraude Signalering Voorziening"
+  },
+  {
+   "zin": "De minister zei dat er geen gegevens van hem in de FSV staan.",
+   "bron": [
+    33
+   ],
+   "citaat": "persoonsgegevens, zoals uw naam en burgerservicenummer, niet voorkomen in deze applicatie"
+  },
+  {
+   "zin": "De burger vond dat er in alle zwarte lijsten had moeten worden gezocht.",
+   "bron": [
+    20
+   ],
+   "citaat": "zijn verzoek niet alleen over de FSV gaat, maar over alle zwarte lijsten"
+  },
+  {
+   "zin": "De rechter vond de zoekslag van de minister voldoende en bevestigde de eerdere uitspraak.",
+   "bron": [
+    38
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd."
+  },
+  {
+   "zin": "De burger verliest de zaak en de minister hoeft geen proceskosten te vergoeden.",
+   "bron": [
+    39
+   ],
+   "citaat": "De minister hoeft geen proceskosten te vergoeden."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep van de burger ongegrond; zoekslag was voldoende.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen inzage en hoeft niets te betalen; de minister hoeft de proceskosten niet te vergoeden.",
+  "bron": [
+   39
+  ],
+  "citaat": "De minister hoeft geen proceskosten te vergoeden."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "Mijn verzoek gaat over alle zwarte lijsten van de Belastingdienst, niet alleen de FSV, dus er had breder gezocht moeten worden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat het verzoek niet zo ruim is dat elk denkbaar systeem eronder valt.",
+    "bron": [
+     26
+    ],
+    "citaat": "het verzoek niet zodanig ruim is geformuleerd dat onbepaald elk systeem daar onder valt."
+   },
+   "bruikbare_zin": {
+    "citaat": "het verzoek niet zodanig ruim is geformuleerd dat onbepaald elk systeem daar onder valt",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "motivering",
+   "burger_zegt": "Er is onvoldoende uitgelegd hoe in de FSV is gezocht; er had een verklaring van de zoeker zelf moeten komen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de minister geen verklaring van de zoekende collega hoefde te overleggen.",
+    "bron": [
+     35
+    ],
+    "citaat": "De minister heeft geen verklaring van die collega hoeven overleggen."
+   },
+   "bruikbare_zin": {
+    "citaat": "De minister heeft geen verklaring van die collega hoeven overleggen.",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Ik sta toch in de FSV, en met een systeemdump hadden jullie dat kunnen vinden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ziet geen concrete aanwijzingen dat de burger toch in de FSV staat.",
+    "bron": [
+     35
+    ],
+    "citaat": "Er zijn verder geen concrete aanwijzingen dat [appellant] desondanks in de FSV staat."
+   },
+   "bruikbare_zin": {
+    "citaat": "Er zijn verder geen concrete aanwijzingen dat [appellant] desondanks in de FSV staat.",
+    "bron": [
+     35
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De zoekslag is voldoende als de organisatie goed uitlegt hoe zij heeft gezocht en aannemelijk maakt dat zij al het redelijkerwijs mogelijke heeft gedaan.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "het zoeken naar persoonsgegevens in een systeem bij een inzageverzoek",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   35
+  ],
+  "citaat": "De minister heeft met de door hem gegeven toelichting voldoende inzichtelijk gemaakt op welke wijze hij heeft gezocht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "toelichting van de minister ter zitting"
+  ],
+  "wat_gaf_doorslag": "De uitleg dat alle systemen aan het BSN zijn gekoppeld, zodat een systeemdump geen andere uitkomst zou geven."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 15 AVG"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; het gaat om de minister van Financiën, niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "fraude-handhaving"
+ ],
+ "klantuitleg": "U vroeg om inzage in uw gegevens. De rechter vond dat de Belastingdienst genoeg had gedaan om te zoeken, ook al stonden uw gegevens er niet in. Denkt u dat er toch ergens gegevens over u staan, geef dan concrete aanwijzingen mee waar die te vinden zijn.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente betrokken; het gaat om de minister van Financiën",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

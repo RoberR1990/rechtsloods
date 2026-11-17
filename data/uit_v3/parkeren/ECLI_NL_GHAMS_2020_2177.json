@@ -1,0 +1,164 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2020:2177",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg in Amsterdam een naheffingsaanslag (een rekening achteraf) voor parkeerbelasting. De parkeerder ging tegen de gemeente Amsterdam in hoger beroep bij het gerechtshof.",
+ "titel": "Automaten in de buurt: parkeren was voldoende kenbaar betaald",
+ "kern": {
+  "zin": "Het hof vond de rekening terecht, omdat de gemeente aannemelijk maakte dat er genoeg parkeerautomaten in de buurt stonden.",
+  "bron": [
+   138
+  ],
+  "citaat": "voldaan aan de op hem rustende bewijslast, namelijk dat aan belanghebbende voldoende kenbaar is gemaakt"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle bleek dat voor de auto geen parkeerbelasting was betaald.",
+   "bron": [
+    20
+   ],
+   "citaat": "geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat er geen borden of andere aanwijzingen waren voor betaald parkeren.",
+   "bron": [
+    40
+   ],
+   "citaat": "geen borden en/of andere aanwijzingen heeft aangetroffen waaruit blijkt dat er parkeerbelasting verschuldigd is"
+  },
+  {
+   "zin": "De gemeente vond dat wel duidelijk was dat er betaald moest worden, omdat er meerdere parkeerautomaten in de buurt stonden.",
+   "bron": [
+    72
+   ],
+   "citaat": "vindt dat wel voldoende duidelijk was dat er voor het parkeren"
+  },
+  {
+   "zin": "Het hof vond dat er ook zonder de omstreden automaat nog zes automaten waren, waarvan minstens vier dichtbij.",
+   "bron": [
+    138
+   ],
+   "citaat": "dan nog resteert een zestal aan parkeerautomaten"
+  },
+  {
+   "zin": "De gemeente hoefde de kaart met automaten niet al voor de hoorzitting in bezwaar te laten inzien, omdat de parkeerder in bezwaar nog niet over de duidelijkheid van de borden klaagde.",
+   "bron": [
+    131
+   ],
+   "citaat": "niet gehandeld heeft in strijd met art. 7:4 lid 2 Awb"
+  },
+  {
+   "zin": "Het hoger beroep van de parkeerder was dus ongegrond.",
+   "bron": [
+    141
+   ],
+   "citaat": "het hoger beroep van belanghebbende ongegrond is"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Rekening blijft staan; hof bevestigt de uitspraak van de rechtbank.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffingsaanslag betalen en krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   145,
+   143
+  ],
+  "citaat": "Het Hof bevestigt de uitspraak van de rechtbank."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Er waren geen borden of automaten te zien, en de automaat op de foto stond er misschien nog niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof vond de kaart betrouwbaar en zag geen reden om aan de informatie te twijfelen.",
+    "bron": [
+     138
+    ],
+    "citaat": "geen reden om te twijfelen aan de daarin opgenomen informatie"
+   },
+   "bruikbare_zin": {
+    "citaat": "waaruit belanghebbende het plaatselijke parkeerregime had kunnen opmaken",
+    "bron": [
+     138
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente had in bezwaar de kaart met automaten al ter inzage moeten leggen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof vond dat de gemeente in bezwaar geen reden had om aan te nemen dat de duidelijkheid van het betaald parkeren in geschil was.",
+    "bron": [
+     130
+    ],
+    "citaat": "geen grond aan te nemen dat ook het kenbaarheidsvereiste onderwerp van geschil was"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Van een parkeerder mag worden verwacht dat hij bij aanvang van het parkeren onderzoekt of er parkeerbelasting verschuldigd is.",
+  "type": "regel",
+  "reikwijdte": "Parkeren op een plek waar volgens de verordening betaald moet worden.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   82
+  ],
+  "citaat": "hij bij aanvang van het parkeren voldoende onderzoekt of"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "uitdraai Amsterdam City Data met foto van parkeerautomaat",
+   "plattegrond met zeven locaties van automaten en bebording"
+  ],
+  "wat_gaf_doorslag": "Er stonden ook zonder de omstreden automaat nog zes automaten in de buurt, waarvan minstens vier dichtbij."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHAMS:2017:3863",
+   "ECLI:NL:HR:2018:672"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:4 lid 2 Awb",
+  "art. 8:42 Awb",
+  "Verordening parkeerbelastingen 2018 Amsterdam"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar een kaart of uitdraai met de datum en plaats van parkeerautomaten rond de locatie van de controle.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    138
+   ],
+   "citaat": "in geruime mate parkeerautomaten aanwezig waren"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "bebording-verkeersbesluit",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u in een betaald-parkeergebied parkeert, moet u zelf nagaan of u moet betalen. Een parkeerautomaat of bord in de buurt is genoeg; bij elke straat hoeft dat niet. Maak foto's van de situatie als u vindt dat er echt niets te zien was.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

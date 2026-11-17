@@ -1,0 +1,133 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2025:8840",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "de parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder kreeg een Wahv-boete (de wet voor kleine verkeersboetes) voor parkeren in een parkeerverbodszone. Hij procedeerde tegen de officier van justitie bij de kantonrechter van de rechtbank Amsterdam.",
+ "titel": "Boete in parkeerverbodszone blijft staan, bord mocht worden aangenomen",
+ "kern": {
+  "zin": "De rechter hield de boete in stand, omdat er genoeg grond was om het zonebord als gecontroleerd aan te nemen.",
+  "bron": [
+   32
+  ],
+  "citaat": "Uit de beelden blijkt dat de enige toegangsweg tot de pleeglocatie via de Amstellandlaan is"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete voor parkeren in een zone met bord E1, op een straat in Weesp.",
+   "bron": [
+    22
+   ],
+   "citaat": "Deze gedraging is geconstateerd op 15 juni 2024 om 10:00 uur op de Sinnigvelderstraat"
+  },
+  {
+   "zin": "Volgens de route die hij opgaf, kwam hij via de Amstellandlaan en passeerde hij geen bord E1.",
+   "bron": [
+    24
+   ],
+   "citaat": "Betrokkene kwam vanaf de Amstellandlaan en is linksaf geslagen naar de Sinnigvelderstraat"
+  },
+  {
+   "zin": "De officier van justitie stelde dat je mocht aannemen dat de verbalisant het bord had gecontroleerd.",
+   "bron": [
+    27
+   ],
+   "citaat": "Nu de verbalisant zelf ter plaatse was en het zonebord E1 zich dichtbij de pleeglocatie bevindt"
+  },
+  {
+   "zin": "De rechter vond dat er genoeg grond was voor het uitgangspunt dat het bord gecontroleerd was.",
+   "bron": [
+    32
+   ],
+   "citaat": "voldoende grond aanwezig voor het uitgangspunt dat de verbalisant die zelf ter plaatse"
+  },
+  {
+   "zin": "Omdat de boete standhoudt, krijgt de parkeerder geen vergoeding van de proceskosten.",
+   "bron": [
+    34
+   ],
+   "citaat": "Gelet op de uitkomst van de procedure wordt voor een toekenning van een proceskostenvergoeding"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; geen proceskostenvergoeding toegekend.",
+ "gevolg_betrokkene": {
+  "zin": "De boete blijft staan en de parkeerder betaalt die.",
+  "bron": [
+   32
+  ],
+  "citaat": "Het beroep wordt derhalve ongegrond verklaard"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Niet bewezen dat de agent het bord had gecontroleerd; schouwrapporten ontbraken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de enige toegangsweg langs het bord genoeg om het bord als gecontroleerd aan te nemen.",
+    "bron": [
+     32
+    ],
+    "citaat": "Uit de beelden blijkt dat de enige toegangsweg tot de pleeglocatie via de Amstellandlaan is"
+   },
+   "bruikbare_zin": {
+    "citaat": "voldoende grond aanwezig voor het uitgangspunt dat de verbalisant die zelf ter plaatse",
+    "bron": [
+     32
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een parkeerverbodszone hoeft niet op elke toegangsweg bebording vastgesteld te zijn; de weg waarlangs de bestuurder de zone inreed moet van een deugdelijk bord zijn voorzien.",
+  "type": "regel",
+  "reikwijdte": "parkeerverbodszones met meerdere toegangswegen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   31
+  ],
+  "citaat": "dat de toegangsweg waarlangs de bestuurder van het voertuig de zone is ingereden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verbalisant-verklaring",
+   "foto's van de gedraging",
+   "Google Maps Streetview"
+  ],
+  "wat_gaf_doorslag": "De enige toegangsweg langs het zonebord E1 en de aanwezigheid van de verbalisant."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHARL:2020:1803"
+  ]
+ },
+ "wetsartikelen": [
+  "Wahv",
+  "RVV 1990 (bord E1)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen algemene actie; rechter oordeelde op de feiten van deze zaak",
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een boete voor parkeren in een zone met bord E1 blijft staan als de agent het bord op uw route kon zien. De rechter vond dat hier genoeg grond voor was, omdat de enige weg naar de plek langs het bord liep. Wilt u bezwaar maken, dan moet u precies aangeven welke route u reed; zonder die route heeft bezwaar weinig kans.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "alleen plaatsnaam Weesp genoemd; gemeente niet vermeld",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

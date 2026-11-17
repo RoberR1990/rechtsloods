@@ -1,0 +1,163 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2021:902",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": null,
+ "zaaktype": "niet-tijdig-beslissen",
+ "partijen": {
+  "burger": "verzoeker",
+  "wederpartij": "gemeente Kapelle",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Deze zaak gaat over een verzoek om inzage in persoonsgegevens. De burger en de gemeente Kapelle stonden tegenover elkaar bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Beroep tegen te late beslissing op inzageverzoek niet ontvankelijk",
+ "kern": {
+  "zin": "De rechtbank verklaart het beroep niet-ontvankelijk, omdat de brief van 16 juni 2020 geen geldige ingebrekestelling is.",
+  "bron": [
+   24
+  ],
+  "citaat": "Omdat de brief van 16 juni 2020 niet kan worden aangemerkt als een ingebrekestelling"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente om inzage in zijn persoonsgegevens.",
+   "bron": [
+    13
+   ],
+   "citaat": "verzocht om hem uitsluitsel te geven of er hem betreffende persoonsgegevens bij de gemeente Steenbergen worden verwerkt"
+  },
+  {
+   "zin": "De gemeente zei dat hij zich eerst moest identificeren via DigiD.",
+   "bron": [
+    14
+   ],
+   "citaat": "Het college verzoekt eiser om via de website de aanvraag in te dienen, waarmee eiser zich identificeert met DigiD."
+  },
+  {
+   "zin": "De burger schreef op 16 juni 2020 dat de gemeente moest beslissen.",
+   "bron": [
+    15
+   ],
+   "citaat": "verzocht een besluit te nemen op zijn brief van 29 april 2020"
+  },
+  {
+   "zin": "De rechtbank oordeelt dat die brief geen geldige ingebrekestelling is.",
+   "bron": [
+    24
+   ],
+   "citaat": "Omdat de brief van 16 juni 2020 niet kan worden aangemerkt als een ingebrekestelling"
+  },
+  {
+   "zin": "Daarom verklaart de rechtbank het beroep niet-ontvankelijk.",
+   "bron": [
+    25
+   ],
+   "citaat": "Het beroep van eiser zal dan ook niet-ontvankelijk worden verklaard."
+  },
+  {
+   "zin": "Er is geen vergoeding voor proceskosten.",
+   "bron": [
+    26
+   ],
+   "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Het beroep is niet-ontvankelijk; de burger verliest.",
+ "gevolg_betrokkene": {
+  "zin": "De rechtbank verklaart het beroep niet-ontvankelijk, dus de burger krijgt geen inhoudelijk oordeel en geen vergoeding voor proceskosten.",
+  "bron": [
+   25,
+   26
+  ],
+  "citaat": "Het beroep van eiser zal dan ook niet-ontvankelijk worden verklaard."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente heeft te laat beslist op mijn verzoek om inzage.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vindt dat niet is voldaan aan de voorwaarde voor een geldige ingebrekestelling.",
+    "bron": [
+     24
+    ],
+    "citaat": "is niet voldaan aan de voorwaarde van artikel 6:12, tweede lid, onder b, van de Awb."
+   },
+   "bruikbare_zin": {
+    "citaat": "Een enkele verwijzing naar “mijn brief d.d. 29 april 2020” geeft het college onvoldoende duidelijkheid",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De inhoud van een ingebrekestelling moet herleidbaar zijn naar de aanvraag en het te nemen besluit.",
+  "type": "regel",
+  "reikwijdte": "bij een beroep wegens niet tijdig beslissen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "de inhoud van de ingebrekestelling niet herleidbaar naar de aanvraag en het te nemen besluit"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "brief van 29 april 2020",
+   "brief van 16 juni 2020",
+   "verweerschrift van het college"
+  ],
+  "wat_gaf_doorslag": "De brief van 16 juni 2020 was te onbepaald en verwees onvoldoende naar de aanvraag."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2012:BY5083"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 6:2 Awb",
+  "art. 7:1 lid 1 onder f Awb",
+  "art. 6:12 lid 2 Awb",
+  "art. 12 lid 3 AVG",
+  "art. 12 lid 6 AVG",
+  "art. 4:15 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Meld binnen een maand na ontvangst van een inzageverzoek wat u met het verzoek doet.",
+   "raakt": "privacy-fg",
+   "bron": [
+    19
+   ],
+   "citaat": "binnen een maand na ontvangst van het verzoek informatie verstrekt over het gevolg"
+  },
+  {
+   "actie": "Vraag om DigiD-identificatie voordat u een inzageverzoek in behandeling neemt.",
+   "raakt": "klantcontact",
+   "bron": [
+    14
+   ],
+   "citaat": "Het college verzoekt eiser om via de website de aanvraag in te dienen, waarmee eiser zich identificeert met DigiD."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "U mag de gemeente vragen om te laten zien welke gegevens zij over u heeft. De gemeente mag eerst vragen dat u zich met DigiD laat zien. Als de gemeente te laat is, stuur dan een duidelijke brief met welke beslissing u wilt en binnen welke tijd; zonder zo'n brief kan de rechter uw zaak niet behandelen.",
+ "gemeente": "Kapelle",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

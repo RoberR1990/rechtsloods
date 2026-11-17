@@ -1,0 +1,151 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2025:2135",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "gehandicaptenkaart",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "aanvrager",
+  "wederpartij": "gemeente Amsterdam (college van burgemeester en wethouders)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De aanvrager procedeerde bij de rechtbank Amsterdam tegen het college van burgemeester en wethouders van Amsterdam. Dat college had zijn aanvraag voor een gehandicaptenparkeerkaart afgewezen, terwijl hij zei dat hij niet ver kon lopen.",
+ "titel": "Afwijzing gehandicaptenkaart vernietigd: GGD-advies was onzorgvuldig",
+ "kern": {
+  "zin": "De rechter vond het GGD-advies niet zorgvuldig genoeg, dus de gemeente kon het niet gebruiken en moet opnieuw beslissen.",
+  "bron": [
+   23,
+   25
+  ],
+  "citaat": "Verweerder heeft deze adviezen daarom niet aan zijn besluit ten grondslag kunnen leggen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De aanvrager vroeg een gehandicaptenparkeerkaart aan voor zichzelf en een passagier, en het college wees die af.",
+   "bron": [
+    10
+   ],
+   "citaat": "afwijzing van eisers aanvraag voor een Europese gehandicaptenparkeerkaart (GPK) voor een passagier"
+  },
+  {
+   "zin": "De aanvrager zei dat hij met gewone loophulpmiddelen niet zelfstandig meer dan 100 meter kan lopen.",
+   "bron": [
+    10
+   ],
+   "citaat": "hij met gebruikelijke loophulpmiddelen niet in staat is om zelfstandig een afstand van meer dan 100 meter"
+  },
+  {
+   "zin": "De GGD-arts vond dat de klachten niet altijd speelden en dat hij meer dan 100 meter kon lopen.",
+   "bron": [
+    21
+   ],
+   "citaat": "Het grootste deel van de tijd is er geen sprake van een ernstige mobiliteitsbeperking"
+  },
+  {
+   "zin": "De rechter vond dat de GGD het niet mocht laten bij een onbeantwoorde vraag aan de behandelaar.",
+   "bron": [
+    22
+   ],
+   "citaat": "Ten onrechte heeft de GGD het daarbij gelaten"
+  },
+  {
+   "zin": "De rechter vernietigde de afwijzing en gaf het college zes weken om opnieuw te beslissen.",
+   "bron": [
+    25
+   ],
+   "citaat": "vernietigt daarom het bestreden besluit"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Afwijzing vernietigd; college moet binnen zes weken opnieuw beslissen.",
+ "gevolg_betrokkene": {
+  "zin": "De aanvrager krijgt €51 griffierecht en €907 proceskosten terug, en het college moet opnieuw beslissen.",
+  "bron": [
+   25,
+   32,
+   33
+  ],
+  "citaat": "vernietigt daarom het bestreden besluit"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij kan met hulpmiddelen niet zelfstandig meer dan 100 meter lopen, en de klachten zijn niet altijd aanwezig.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het GGD-advies was niet zorgvuldig tot stand gekomen, dus het college kon het niet gebruiken.",
+    "bron": [
+     23
+    ],
+    "citaat": "Verweerder heeft deze adviezen daarom niet aan zijn besluit ten grondslag kunnen leggen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat betekent dat eiser wellicht 100 meter kan lopen, maar dat dit kan leiden tot een nieuwe crise",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een college mag zich op een medisch advies baseren, mits dat zorgvuldig tot stand is gekomen.",
+  "type": "regel",
+  "reikwijdte": "medische adviezen bij een aanvraag voor een gehandicaptenparkeerkaart",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "mag verweerder zich bij het nemen van besluiten baseren op een medisch advies als dit zorgvuldig tot stand is gekomen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "medische verklaringen",
+   "brief van het ziekenhuis van 14 april 2023"
+  ],
+  "wat_gaf_doorslag": "De medische verklaringen gaven voldoende aanknopingspunten om het GGD-advies in twijfel te trekken."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 1 lid 1 onder b Regeling gehandicaptenparkeerkaart",
+  "art. 3:2 Awb",
+  "art. 8:72 lid 4 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Laat de GGD bij een onduidelijk advies opnieuw bij de behandelaar navragen voordat u een besluit neemt.",
+   "raakt": "bezwaar",
+   "bron": [
+    22
+   ],
+   "citaat": "ligt het op de weg van de GGD om hierover opnieuw contact op te nemen met de behandelaar"
+  },
+  {
+   "actie": "Neem in het GGD-advies de opmerking van de behandelaar mee dat lopen een nieuwe crise kan uitlokken.",
+   "raakt": "bezwaar",
+   "bron": [
+    22
+   ],
+   "citaat": "ten onrechte niet ingegaan op de opmerking van AMC Poli Kinderthematologie dat lopen een nieuwe crise uitlokt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een gehandicaptenparkeerkaart krijgt u als u door een loopbeperking echt niet zelfstandig ver kunt lopen. Een medisch advies moet zorgvuldig tot stand komen, en een afwijzing kan daardoor opnieuw beoordeeld worden. Wilt u bezwaar of beroep maken, dan helpen medische verklaringen van uw arts die uw klachten onderbouwen.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

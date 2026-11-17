@@ -1,0 +1,160 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2025:18791",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Den Haag een naheffing (de rekening achteraf) van € 79,30. Hij ging in beroep bij de rechtbank Den Haag.",
+ "titel": "Parkeren na 120 minuten: opnieuw aanmelden was nodig",
+ "kern": {
+  "zin": "De rechter vindt de naheffing terecht, omdat de parkeerder na 120 minuten opnieuw had moeten aanmelden.",
+  "bron": [
+   27
+  ],
+  "citaat": "Eiser had dus na ommekomst van 120 minuten het kenteken opnieuw moeten aanmelden"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle bleek voor de auto geen parkeerbelasting betaald te zijn.",
+   "bron": [
+    19
+   ],
+   "citaat": "is geconstateerd dat voor de auto geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder hield vol dat na 120 minuten geen naheffing kon komen.",
+   "bron": [
+    22
+   ],
+   "citaat": "Eiser voert aan dat maximaal 120 minuten mocht worden geparkeerd"
+  },
+  {
+   "zin": "De gemeente zei dat op bord en automaat een aanmeldtijd van 120 minuten stond.",
+   "bron": [
+    23
+   ],
+   "citaat": "Op de parkeerlocatie geldt een maximale aanmeldduur van 120 minuten"
+  },
+  {
+   "zin": "Volgens de rechter is een maximale aanmeldduur iets anders dan een maximale parkeerduur.",
+   "bron": [
+    27
+   ],
+   "citaat": "Onder maximale aanmeldduur moet iets anders worden verstaan dan onder maximale parkeerduur."
+  },
+  {
+   "zin": "De app en het bord maakten het volgens de rechter niet vrij om zonder betalen te blijven staan.",
+   "bron": [
+    28
+   ],
+   "citaat": "daaruit kan niet worden afgeleid dat het een parkeerder vrij staat"
+  },
+  {
+   "zin": "De naheffing van € 79,30 blijft staan, en er komt geen vergoeding voor proceskosten.",
+   "bron": [
+    31,
+    33
+   ],
+   "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing van € 79,30 blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan, en er is geen vergoeding voor proceskosten.",
+  "bron": [
+   33,
+   31
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Na 120 minuten mocht hij blijven staan zonder opnieuw te betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter is een maximale aanmeldduur iets anders dan een maximale parkeerduur.",
+    "bron": [
+     27
+    ],
+    "citaat": "Onder maximale aanmeldduur moet iets anders worden verstaan dan onder maximale parkeerduur."
+   },
+   "bruikbare_zin": {
+    "citaat": "Onder maximale aanmeldduur moet iets anders worden verstaan",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "In de app en op de borden stond niet dat hij opnieuw kon aanmelden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Uit de tekst over de maximale parkeerduur volgde niet dat je vrij mocht blijven staan.",
+    "bron": [
+     28
+    ],
+    "citaat": "daaruit kan niet worden afgeleid dat het een parkeerder vrij staat"
+   },
+   "bruikbare_zin": {
+    "citaat": "Op een parkeerder rust de onderzoeksplicht om zich voorafgaand aan het parkeren zo goed mogelijk te informeren",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie na de maximale aanmeldduur nog staat, moet opnieuw aanmelden en betalen.",
+  "type": "regel",
+  "reikwijdte": "betaald parkeren met een maximale aanmeldduur (deze zaak: 120 minuten in Den Haag)",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "Eiser had dus na ommekomst van 120 minuten het kenteken opnieuw moeten aanmelden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "constatering bij controle",
+   "tekst op bord en in de app"
+  ],
+  "wat_gaf_doorslag": "Opnieuw aanmelden was mogelijk en nodig; de app-tekst veranderde dat niet."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:HR:2022:346"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 Gemeentewet",
+  "Verordening parkeerregulering en parkeerbelasting Den Haag 2022"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver toepassing van de regels; geen nieuwe actie uit deze uitspraak",
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "betaalapp"
+ ],
+ "klantuitleg": "Staat u na de maximale aanmeldtijd nog op dezelfde plek, dan moet u zich opnieuw aanmelden en opnieuw betalen. De rechter vond de rekening voor het parkeren hier terecht, ook al stond in de app niet duidelijk dat u opnieuw moest aanmelden. Bezwaar heeft alleen zin als u kunt laten zien dat u wel had betaald.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

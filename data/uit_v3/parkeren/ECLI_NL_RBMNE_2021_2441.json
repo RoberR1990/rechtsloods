@@ -1,0 +1,152 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2021:2441",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente (via de Belastingsamenwerking)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeert tegen de gemeente over een naheffing (de rekening achteraf) voor parkeerbelasting. De zaak ligt bij de Rechtbank Midden-Nederland.",
+ "titel": "Kapotte automaat: toch zelf zorgen voor betaling; beroep ongegrond",
+ "kern": {
+  "zin": "De parkeerder had zelf een andere manier moeten zoeken om te betalen, dus het beroep is afgewezen.",
+  "bron": [
+   18
+  ],
+  "citaat": "dat het de verantwoordelijkheid van eiser was om de parkeerbelasting op een andere manier te voldoen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 11 maart 2020 kreeg de parkeerder een naheffing omdat hij niet had betaald.",
+   "bron": [
+    16
+   ],
+   "citaat": "zonder dat er parkeerbelasting was betaald."
+  },
+  {
+   "zin": "De parkeerder zei dat de automaat niet werkte, dus hij kon niet betalen.",
+   "bron": [
+    17
+   ],
+   "citaat": "omdat de parkeerautomaat in de [locatie 1] niet werkte"
+  },
+  {
+   "zin": "De gemeente vond dat hij ook op een andere manier had kunnen betalen.",
+   "bron": [
+    18
+   ],
+   "citaat": "dat het de verantwoordelijkheid van eiser was om de parkeerbelasting op een andere manier te voldoen"
+  },
+  {
+   "zin": "Uit de transactiegegevens bleek dat bij de twee dichtstbijzijnde automaten wel betaald kon worden.",
+   "bron": [
+    18
+   ],
+   "citaat": "dat er ook (zeer) dicht rond het tijdstip van parkeren van eiser met succes pinbetalingen zijn verricht"
+  },
+  {
+   "zin": "Het beroep op gelijke behandeling slaagde niet, want de parkeerder kon niet laten zien dat de collega ook was gecontroleerd.",
+   "bron": [
+    20
+   ],
+   "citaat": "Eiser heeft echter niet aannemelijk gemaakt dat zijn collega ook is gecontroleerd door de parkeercontroleur."
+  },
+  {
+   "zin": "De rechter wees het beroep af en kende geen proceskosten toe.",
+   "bron": [
+    21
+   ],
+   "citaat": "Het beroep is ongegrond. Voor een proceskostenveroordeling bestaat geen aanleiding."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep afgewezen: andere betaalmogelijkheid was er; geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening blijft staan en de parkeerder krijgt geen proceskosten vergoed.",
+  "bron": [
+   21
+  ],
+  "citaat": "Het beroep is ongegrond. Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De automaat in de straat werkte niet, dus kon hij niet betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Bij andere automaten in de buurt kon wel worden betaald, dus de rechter zag geen reden om de rekening te laten vervallen.",
+    "bron": [
+     18
+    ],
+    "citaat": "Dat eiser niet bij deze automaten is gaan kijken, komt voor zijn rekening."
+   },
+   "bruikbare_zin": {
+    "citaat": "dat eiser niet bij deze automaten is gaan kijken, komt voor zijn rekening",
+    "bron": [
+     18
+    ]
+   }
+  },
+  {
+   "arg": "gelijkheid",
+   "burger_zegt": "Een collega van hem kreeg ook geen boete bij een defecte automaat.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Hij kon niet laten zien dat de collega ook was gecontroleerd, dus gelijke gevallen waren niet aangetoond.",
+    "bron": [
+     20
+    ],
+    "citaat": "Eiser heeft echter niet aannemelijk gemaakt dat zijn collega ook is gecontroleerd door de parkeercontroleur."
+   },
+   "bruikbare_zin": {
+    "citaat": "Alleen al daarom heeft eiser niet aannemelijk gemaakt dat sprake is van gelijke gevallen.",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie zich op gelijke behandeling beroept, moet aannemelijk maken dat anderen in gelijke gevallen anders zijn behandeld.",
+  "type": "regel",
+  "reikwijdte": "een beroep op gelijke behandeling tegen een naheffing",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   20
+  ],
+  "citaat": "dat eiser aannemelijk maakt dat verweerder ten nadele van hem gelijke gevallen ongelijk heeft behandeld"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "afschrift van een internetpagina over een pinstoring",
+   "transactiegegevens van de twee dichtstbijzijnde automaten"
+  ],
+  "wat_gaf_doorslag": "De transactiegegevens lieten zien dat er in de buurt wel betaald kon worden."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen tekortkoming van de gemeente vastgesteld",
+ "raakt": [
+  "bezwaar",
+  "betaalapp"
+ ],
+ "klantuitleg": "Werkt de automaat niet, dan moet u op een andere manier betalen, bijvoorbeeld bij een automaat in de buurt. De rechter vond dat de parkeerder dat zelf had moeten zoeken, dus een kapotte automaat is niet vanzelf reden om de rekening te laten vervallen. Een bewijs van de storing kan helpen, maar het garandeert niet dat bezwaar slaagt.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,163 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOBR:2023:3022",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente 's-Hertogenbosch",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder kreeg van de gemeente 's-Hertogenbosch een naheffingsaanslag (de rekening achteraf) parkeerbelasting. Zij ging in beroep bij de rechtbank Oost-Brabant.",
+ "titel": "Rekening voor parkeren blijft staan, ondanks fout bij het horen",
+ "kern": {
+  "zin": "De rechter keurde de fout bij het horen niet af, omdat de parkeerder daardoor niet is benadeeld.",
+  "bron": [
+   31
+  ],
+  "citaat": "is zij naar het oordeel van de rechtbank niet benadeeld door het achterwege blijven van een formeel hoorgesprek"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een scanauto zag dat de parkeerbelasting niet was betaald.",
+   "bron": [
+    19
+   ],
+   "citaat": "geconstateerd dat de parkeerbelasting niet was betaald"
+  },
+  {
+   "zin": "De parkeerder vond dat de minister de maximale kosten te laat had bekendgemaakt.",
+   "bron": [
+    24
+   ],
+   "citaat": "Volgens eiseres heeft de minister niet voor 1 september 2021 het berekende maximale bedrag"
+  },
+  {
+   "zin": "De parkeerder vond dat de gemeente ten onrechte had afgezien van een hoorzitting.",
+   "bron": [
+    27
+   ],
+   "citaat": "heeft daar ten onrechte van afgezien"
+  },
+  {
+   "zin": "De gemeente stelde dat de parkeerder niet had gereageerd op het verzoek om een datum door te geven.",
+   "bron": [
+    28
+   ],
+   "citaat": "maar niet gereageerd op het verzoek van de heffingsambtenaar om door te geven"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente de plicht om te horen (hoorplicht) had geschonden, maar dat de parkeerder daardoor niet benadeeld was.",
+   "bron": [
+    31
+   ],
+   "citaat": "is zij naar het oordeel van de rechtbank niet benadeeld door het achterwege blijven van een formeel hoorgesprek"
+  },
+  {
+   "zin": "De rekening blijft staan; er is geen geld terug en geen vergoeding van proceskosten.",
+   "bron": [
+    34
+   ],
+   "citaat": "geen reden is de heffingsambtenaar op te dragen eiseres het griffierecht terug te betalen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de rekening blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de rekening van € 69,69 betalen; er komt geen geld terug en geen vergoeding van proceskosten.",
+  "bron": [
+   12
+  ],
+  "citaat": "ter hoogte van € 69,69"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De kosten van € 66,50 mochten niet worden berekend, omdat het maximum te laat bekend was gemaakt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de bekendmakingsdatum geen harde grens is, dus de kosten bleven geldig.",
+    "bron": [
+     25
+    ],
+    "citaat": "De bekendmakingsdatum in het hiervoor genoemde Besluit is niet bedoeld als een fatale termijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "de bekendmakingsdatum uitsluitend is bedoeld om gemeenten de gelegenheid te geven",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De gemeente heeft ten onrechte van een hoorzitting afgezien, terwijl de parkeerder daar om had gevraagd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de plicht om de burger te horen (hoorplicht) is geschonden.",
+    "bron": [
+     29
+    ],
+    "citaat": "Dit betekent dat de hoorplicht is geschonden."
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bekendmakingsdatum in het Besluit is een regelende termijn, geen fatale termijn.",
+  "type": "regel",
+  "reikwijdte": "Bekendmaking van het maximumbedrag kosten naheffing (Besluit gemeentelijke parkeerbelastingen)",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   25
+  ],
+  "citaat": "De bekendmakingsdatum in het hiervoor genoemde Besluit is niet bedoeld als een fatale termijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "scanauto-controle",
+   "handmatige nacontrole"
+  ],
+  "wat_gaf_doorslag": "Onbetwist dat de auto in betaald gebied stond en niet was betaald."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:GHSHE:2020:4110"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 3 lid 2 Besluit gemeentelijke parkeerbelastingen",
+  "art. 10 lid 1 Verordening parkeerbelastingen 2022",
+  "art. 6:22 Awb",
+  "art. 25 AWR i.v.m. art. 231 Gemeentewet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Nodig de burger voor een hoorzitting uit met tijdstip en plaats, ook als de burger niet op een eerder verzoek reageert.",
+   "raakt": "bezwaar",
+   "bron": [
+    29
+   ],
+   "citaat": "moeten uitnodigen onder vermelding van tijdstip en plaats"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren is terecht als uw auto op een betaald parkeerplek stond en u niet had betaald. In deze zaak bleef de rekening staan, ook al is er bij het horen iets misgegaan. Vraag bij bezwaar tijdig om een hoorzitting en bewaar het bewijs van uw verzoek.",
+ "gemeente": "'s-Hertogenbosch",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

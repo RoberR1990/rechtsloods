@@ -1,0 +1,149 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2022:5874",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "privaat-boete-voorwaarden",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "exploitant (Q-Park)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "De exploitant Q-Park eiste bij de kantonrechter van de rechtbank Rotterdam betaling van een parkeerder. Het ging om een vertrek uit de parkeergarage in Venlo zonder te betalen.",
+ "titel": "Wegrijden zonder betalen: parkeerder moet alsnog betalen",
+ "kern": {
+  "zin": "De kantonrechter oordeelde dat de parkeerder moet betalen, omdat hij niet voldoende bewees dat hij niet kon betalen.",
+  "bron": [
+   28
+  ],
+  "citaat": "onderbouwt echter onvoldoende dat het echt zo is dat hij niet contant kon betalen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 19 november 2021 reed de parkeerder weg uit de garage in Venlo, zonder dat er betaald was.",
+   "bron": [
+    23
+   ],
+   "citaat": "haar parkeergarage in Venlo heeft verlaten"
+  },
+  {
+   "zin": "De parkeerder zei dat hij niet kon betalen, want hij had geen pinpas en de intercom gaf geen gehoor.",
+   "bron": [
+    24
+   ],
+   "citaat": "[gedaagde] had geen pinpas bij zich, kon geen medewerker vinden en via de intercom kreeg hij geen gehoor"
+  },
+  {
+   "zin": "De exploitant eiste bij de rechter € 387,52, onder meer aan schadevergoeding.",
+   "bron": [
+    23
+   ],
+   "citaat": "tot betaling van € 387,52, bestaande uit € 17,00 tarief voor een verloren kaart"
+  },
+  {
+   "zin": "De kantonrechter vond de kosten niet onredelijk, ook al lag het totaal ver boven de gewone parkeerprijs.",
+   "bron": [
+    27
+   ],
+   "citaat": "Het totaalbedrag is inderdaad beduidend meer dan wat er betaald had moeten worden"
+  },
+  {
+   "zin": "De parkeerder moet betalen, omdat hij niet voldoende bewees dat hij niet kon betalen.",
+   "bron": [
+    28
+   ],
+   "citaat": "wordt ertoe veroordeeld € 336,97 aan Q-Park te betalen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Exploitant krijgt € 387,52 toegewezen; schade niet onredelijk",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet € 387,52 betalen, met rente, plus € 385,22 proceskosten.",
+  "bron": [
+   36,
+   37
+  ],
+  "citaat": "veroordeelt [gedaagde] om € 387,52 aan Q-Park te betalen"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "Hij zegt dat hij niet contant kon betalen en dat de intercom hem niet hielp, dus hij moest wegrijden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter vond dat de parkeerder niet genoeg bewijs had dat hij niet kon betalen.",
+    "bron": [
+     28
+    ],
+    "citaat": "onderbouwt echter onvoldoende dat het echt zo is dat hij niet contant kon betalen"
+   },
+   "bruikbare_zin": {
+    "citaat": "De gang van zaken die [gedaagde] schetst is kortom niet geloofwaardig",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Hij betwist de schade die Q-Park vordert.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de kantonrechter vielen de kosten voor het wegrijden zonder betalen binnen het redelijke.",
+    "bron": [
+     27
+    ],
+    "citaat": "De kantonrechter acht de consequenties die het wegrijden zonder te betalen in dit geval heeft"
+   },
+   "bruikbare_zin": {
+    "citaat": "als (moedwillig) wordt weggereden zonder te betalen",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "In deze garage vond de kantonrechter de kosten van wegrijden zonder betalen niet onredelijk.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Q-Park-garage in Venlo; wegrijden zonder betalen met € 17 tarief en € 319,97 schadevergoeding",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "niet onredelijk bezwarend en ook niet oneerlijk"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "screenshot van de website van Q-Park uit 2020",
+   "overzicht van het intercomgebruik (bijlage van Q-Park)"
+  ],
+  "wat_gaf_doorslag": "De screenshot was van ruim anderhalf jaar eerder en het overzicht liet zien dat de intercom werkte."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:119 BW",
+  "Algemene Voorwaarden Parkeren (Q-Park)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u uit een parkeergarage wegrijdt zonder te betalen, kan de exploitant de kosten en een schadevergoeding van u vragen. Dat vond de rechter hier niet onredelijk, ook al lag het totaal ver boven de gewone parkeerprijs. Kon u niet betalen, neem dan direct contact op en bewaar bewijs, want dat kan later uitmaken.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente partij; privaat geschil",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

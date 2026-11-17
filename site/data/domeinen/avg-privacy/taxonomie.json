@@ -1,0 +1,181 @@
+{
+ "rechten-betrokkene": {
+  "label": "Uw rechten op uw gegevens (inzage, correctie, wissen)",
+  "rechtsgang": "Bestuursrecht: rechtbank → Raad van State (bij besluit van een overheidsorgaan); privaat: civiele rechter",
+  "anker": "AVG hoofdstuk III (art. 12–22)",
+  "kleur": "#2E6F9E",
+  "concept": false,
+  "sub": {
+   "inzage": {
+    "label": "Inzage in uw persoonsgegevens",
+    "anker": "AVG art. 15",
+    "kenmerk": {
+     "zoekslag": "Is er genoeg gezocht in de systemen (zoekslag)?",
+     "kopie-stukken": "Recht op een kopie of op de stukken zelf",
+     "overzicht-doelen-ontvangers": "Overzicht van doelen, ontvangers en bewaartermijn",
+     "weigering-rechten-anderen": "Weigering om rechten van anderen te beschermen",
+     "misbruik-herhaald": "Misbruik van recht of herhaald verzoek",
+     "gelakt": "Weggelakte of ontbrekende gegevens"
+    }
+   },
+   "informatieplicht": {
+    "label": "Informatie en duidelijke communicatie door de organisatie",
+    "anker": "AVG art. 12–14"
+   },
+   "rectificatie": {
+    "label": "Gegevens laten corrigeren (rectificatie)",
+    "anker": "AVG art. 16"
+   },
+   "wissen": {
+    "label": "Gegevens laten wissen (recht op vergetelheid)",
+    "anker": "AVG art. 17",
+    "kenmerk": {
+     "archief": "Verhouding tot Archiefwet en bewaarplicht",
+     "publieke-taak": "Verwerking nodig voor publieke taak",
+     "openbare-lijst": "Publicatie of openbare lijst"
+    }
+   },
+   "beperking-bezwaar": {
+    "label": "Verwerking beperken, bezwaar maken, gegevens overdragen",
+    "anker": "AVG art. 18 en 21"
+   }
+  }
+ },
+ "rechtmatige-verwerking": {
+  "label": "Mag de overheid deze gegevens gebruiken?",
+  "rechtsgang": "Bestuursrecht: rechtbank → Raad van State; tuchtrecht, ambtenarenrecht: CRvB",
+  "anker": "AVG hoofdstuk II (art. 5–11), UAVG",
+  "kleur": "#2F7D5B",
+  "concept": false,
+  "sub": {
+   "grondslag": {
+    "label": "Grondslag en beginselen",
+    "anker": "AVG art. 6",
+    "kenmerk": {
+     "publieke-taak": "Nodig voor een publieke taak",
+     "wettelijke-verplichting": "Wettelijke verplichting",
+     "toestemming": "Toestemming",
+     "gerechtvaardigd-belang": "Gerechtvaardigd belang"
+    }
+   },
+   "bijzondere-gegevens": {
+    "label": "Gevoelige gegevens (gezondheid, strafrecht, BSN)",
+    "anker": "AVG art. 9 en 10, UAVG hoofdstuk 3"
+   },
+   "verstrekking-derden": {
+    "label": "Gegevens delen met of verstrekken aan anderen",
+    "anker": "AVG art. 6 en 5 lid 1 onder b"
+   },
+   "openbaarmaking-woo": {
+    "label": "Persoonsgegevens in openbare stukken (Woo/Wob)",
+    "anker": "Woo art. 5.1 lid 2 onder e; AVG art. 6"
+   },
+   "medewerkers-ambtenaren": {
+    "label": "Medewerkers, beveiliging en datalekken",
+    "anker": "AVG art. 5 en 32; Ambtenarenwet"
+   },
+   "camera-toezicht": {
+    "label": "Camera's, opnames en andere toezichtmiddelen",
+    "anker": "AVG art. 5 en 6; UAVG"
+   }
+  }
+ },
+ "politie-justitie": {
+  "label": "Politie- en justitiegegevens",
+  "rechtsgang": "Bestuursrecht: rechtbank → Raad van State",
+  "anker": "Wet politiegegevens (Wpg), Wet justitiële en strafvorderlijke gegevens (Wjsg)",
+  "kleur": "#8A4F7D",
+  "concept": false,
+  "sub": {
+   "wpg-inzage": {
+    "label": "Inzage in politiegegevens",
+    "anker": "Wpg hoofdstuk 4 (art. 25 e.v.)"
+   },
+   "wpg-correctie": {
+    "label": "Politiegegevens corrigeren, verwijderen of delen",
+    "anker": "Wpg hoofdstuk 4"
+   },
+   "wjsg": {
+    "label": "Justitiële gegevens en documentatie",
+    "anker": "Wjsg"
+   },
+   "afschermen-geheim": {
+    "label": "Geheimhouding en beperkte kennisneming",
+    "anker": "Awb art. 8:29; Wpg"
+   }
+  }
+ },
+ "toezicht-handhaving": {
+  "label": "Klacht of handhavingsverzoek bij de Autoriteit Persoonsgegevens",
+  "rechtsgang": "Bestuursrecht: rechtbank → Raad van State of CBb",
+  "anker": "AVG hoofdstuk VI en VIII (art. 51–84), UAVG hoofdstuk 4–5",
+  "kleur": "#B5651D",
+  "concept": false,
+  "sub": {
+   "klacht-ap": {
+    "label": "Klacht bij de AP en beroep tegen de AP",
+    "anker": "AVG art. 77, UAVG"
+   },
+   "handhavingsverzoek": {
+    "label": "Verzoek om handhaving (last, waarschuwing)",
+    "anker": "AVG art. 58, Awb 5:2"
+   },
+   "boete": {
+    "label": "Bestuurlijke boete aan een organisatie",
+    "anker": "AVG art. 83, UAVG"
+   }
+  }
+ },
+ "schade-aansprakelijkheid": {
+  "label": "Schadevergoeding en dwangsom",
+  "rechtsgang": "Bestuursrecht: rechtbank → Raad van State; civiel: rechtbank → hof → Hoge Raad",
+  "anker": "AVG art. 82; Awb afdeling 8.4 en 4:17",
+  "kleur": "#A23B3B",
+  "concept": false,
+  "sub": {
+   "immateriele-schade": {
+    "label": "Immateriële schade door onrechtmatige verwerking",
+    "anker": "AVG art. 82"
+   },
+   "materiele-schade": {
+    "label": "Vermogensschade en bewijs van schade",
+    "anker": "AVG art. 82; Awb art. 8:88"
+   },
+   "dwangsom-niet-tijdig": {
+    "label": "Dwangsom en proceskosten",
+    "anker": "Awb art. 4:17 e.v."
+   }
+  }
+ },
+ "algoritmes-registraties": {
+  "label": "Algoritmes, fraudesystemen en basisregistraties",
+  "rechtsgang": "Bestuursrecht: rechtbank → Raad van State",
+  "anker": "AVG art. 5, 6, 22; Wet BRP; Awb",
+  "kleur": "#5B5BA6",
+  "concept": false,
+  "sub": {
+   "fraude-signalering": {
+    "label": "Fraudesignalering en risicoregistratie",
+    "anker": "AVG art. 5 en 6",
+    "kenmerk": {
+     "fsv": "Fraude Signalering Voorziening (FSV)",
+     "risicoscore": "Risicoscore of risicomodel",
+     "delen-gegevens": "Gegevens delen tussen instanties"
+    }
+   },
+   "algoritme-ai": {
+    "label": "Algoritme, AI of besluit door een computer",
+    "anker": "AVG art. 22; Awb art. 3:46 en 7:12"
+   },
+   "brp-wijziging": {
+    "label": "Gegevens in de basisregistratie personen (BRP) wijzigen",
+    "anker": "Wet BRP; AVG art. 16"
+   },
+   "overheidsregister": {
+    "label": "Overige registers en verstrekking uit de BRP",
+    "anker": "AVG art. 5 en 6"
+   }
+  }
+ },
+ "_bevroren": "2026-11-16"
+}

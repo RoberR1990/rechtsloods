@@ -1,0 +1,177 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2025:6783",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Amsterdam een naheffingsaanslag (de rekening achteraf), omdat hij niet had betaald. Hij ging naar de rechtbank Amsterdam om dat aan te vechten.",
+ "titel": "Niet betaald parkeren: rekening blijft staan, ook bij goede bedoelingen",
+ "kern": {
+  "zin": "Niet betalen is genoeg voor een naheffing, tenzij de parkeerder niet redelijk kon betalen; dat was hier niet aangetoond.",
+  "bron": [
+   20,
+   21
+  ],
+  "citaat": "wanneer de parkeerder niet in redelijkheid de gelegenheid heeft gehad om de verschuldigde parkeerbelasting te voldoen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde een naheffing op, nadat een controleur de auto zonder betaalde parkeerbelasting had gezien.",
+   "bron": [
+    17
+   ],
+   "citaat": "een parkeercontroleur heeft vastgesteld dat de auto van eiser op"
+  },
+  {
+   "zin": "De parkeerder zegt dat hij wilde betalen, maar dat het niet lukte.",
+   "bron": [
+    14
+   ],
+   "citaat": "dat hij heeft geprobeerd om te betalen, maar dat het niet is gelukt"
+  },
+  {
+   "zin": "De gemeente zegt dat het kenteken pas laat is aangemeld in het systeem.",
+   "bron": [
+    15
+   ],
+   "citaat": "Uit het parkeersysteem blijkt dat het kenteken een ruime tijd na het moment van de controle werd aangemeld."
+  },
+  {
+   "zin": "De rechter vond dat niet was aangetoond dat de parkeerder niet de kans had om te betalen.",
+   "bron": [
+    21
+   ],
+   "citaat": "niet is gebleken dat eiser niet de gelegenheid heeft gehad om de verschuldigde parkeerbelasting te voldoen"
+  },
+  {
+   "zin": "De rechter zag geen ruimte om de kosten te verlagen, ook al was de fout klein.",
+   "bron": [
+    24
+   ],
+   "citaat": "Gelet hierop heeft de rechtbank geen ruimte om op grond van het evenredigheidsbeginsel de kosten te verlagen."
+  },
+  {
+   "zin": "De rechter vond de naheffing dus terecht opgelegd en het beroep ongegrond.",
+   "bron": [
+    26
+   ],
+   "citaat": "Dat betekent dat de naheffingsambtenaar de naheffingsaanslag terecht heeft opgelegd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de parkeerder blijft de naheffing staan en het griffierecht wordt niet terugbetaald.",
+  "bron": [
+   26
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De parkeerder probeerde te betalen, maar dat lukte niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er waren andere manieren om te betalen, en die heeft de parkeerder niet onderzocht.",
+    "bron": [
+     21
+    ],
+    "citaat": "had eiser ook andere opties, zoals het betalen bij een parkeerautomaat in de buurt"
+   },
+   "bruikbare_zin": {
+    "citaat": "Indien het betalen met de parkeerapp niet lukte, had eiser ook andere opties",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De kosten zijn onevenredig hoog voor 60 cent parkeerbelasting.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kosten liggen vast in de wet, en de rechter mag ze niet verlagen.",
+    "bron": [
+     24
+    ],
+    "citaat": "Gelet hierop heeft de rechtbank geen ruimte om op grond van het evenredigheidsbeginsel de kosten te verlagen."
+   },
+   "bruikbare_zin": {
+    "citaat": "een gemeente een vast (wettelijk gemaximeerd) bedrag in rekening mag brengen",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er was geen opzet, want de parkeerder wilde gewoon betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Opzet telt niet, omdat parkeerbelasting een objectieve belasting is.",
+    "bron": [
+     22
+    ],
+    "citaat": "Parkeerbelasting is een zogeheten objectieve belasting en geen boete."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het enkele feit dat hij niet had betaald, is voldoende voor het opleggen van de naheffingsaanslag.",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een naheffing is alleen ten onrechte als de parkeerder niet redelijk kon betalen.",
+  "type": "regel",
+  "reikwijdte": "parkeren waarbij vaststaat dat niet is betaald",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   20
+  ],
+  "citaat": "enkel nog worden geoordeeld dat een naheffingsaanslag ten onrechte is opgelegd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "overzicht van betaalregistraties",
+   "gegevens uit het parkeersysteem (kenteken-aanmelding)"
+  ],
+  "wat_gaf_doorslag": "Niet gebleken dat de parkeerder niet de kans had om te betalen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Gemeentewet",
+  "Besluit gemeentelijke parkeerbelastingen",
+  "Parkeerverordening Amsterdam 2024"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente kreeg gelijk; geen tekortkoming aangewezen",
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "De rekening voor het parkeren blijft staan als u niet hebt betaald en dat wel had kunnen doen. De rechter vond dat u niet had laten zien dat betalen echt niet kon. Wilt u bezwaar maken, laat dan zien waarom betalen echt niet lukte; alleen zeggen dat u wilde betalen is niet genoeg.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

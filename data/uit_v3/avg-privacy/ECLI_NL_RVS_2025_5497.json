@@ -1,0 +1,211 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:5497",
+ "relevant": true,
+ "onderwerp": "schade-aansprakelijkheid",
+ "sub": "immateriele-schade",
+ "kenmerk": null,
+ "zaaktype": "schadevergoeding",
+ "partijen": {
+  "burger": "bewoners",
+  "wederpartij": "gemeente Leusden (burgemeester)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Inwoners van Leusden vragen schadevergoeding, omdat hun gegevens in de persoonsgerichte aanpak (een samenwerking tegen overlast) onrechtmatig zouden zijn gebruikt. Zij en de burgemeester van Leusden gaan in hoger beroep bij de Raad van State.",
+ "titel": "Geen schadevergoeding voor opname in persoonsgerichte aanpak",
+ "kern": {
+  "zin": "De rechter vond de opname in de aanpak niet onrechtmatig en de schade niet aannemelijk gemaakt; de afwijzing van schadevergoeding blijft staan.",
+  "bron": [
+   80
+  ],
+  "citaat": "De conclusie is dat de rechtbank het verzoek om schadevergoeding terecht heeft afgewezen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente nam de inwoners op in de aanpak omdat zij herhaaldelijk overlast zouden veroorzaken.",
+   "bron": [
+    38
+   ],
+   "citaat": "laten weten dat zij zijn opgenomen in de pga omdat zij herhaaldelijk overlast hebben veroorzaakt in hun woonomgeving"
+  },
+  {
+   "zin": "De burger zei dat de opname ten onrechte was en dat daarom de verwerking van gegevens onrechtmatig was.",
+   "bron": [
+    42
+   ],
+   "citaat": "Zij stellen dat de burgemeester hen ten onrechte heeft aangemeld voor de pga en dat de verwerking van hun gegevens daarom onrechtmatig is"
+  },
+  {
+   "zin": "De burgemeester zei dat de inwoners tot de doelgroep behoorden en dat het gebruik van hun gegevens nodig was.",
+   "bron": [
+    50
+   ],
+   "citaat": "behoren tot de doelgroep van de pga en het verwerken van hun persoonsgegevens was noodzakelijk"
+  },
+  {
+   "zin": "De rechter vond dat er wel grond was voor de opname in de aanpak.",
+   "bron": [
+    59
+   ],
+   "citaat": "alleen al daarom alle gegevensverwerking onrechtmatig was, niet slaagt"
+  },
+  {
+   "zin": "De rechter vond de schade niet aannemelijk gemaakt met concrete gegevens.",
+   "bron": [
+    76
+   ],
+   "citaat": "hebben niet aan de hand van voldoende concrete gegevens aannemelijk gemaakt dat zij immateriële schade hebben geleden"
+  },
+  {
+   "zin": "De gestelde reputatieschade en extra reiskosten komen niet door het handelen van de burgemeester.",
+   "bron": [
+    78
+   ],
+   "citaat": "zijn niet het gevolg van de gegevensverwerking door de burgemeester"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Schade niet aannemelijk; opname in de aanpak was niet onrechtmatig",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen schadevergoeding, ook niet voor de gevraagde vervoerskosten van ruim € 10.000, en de burgemeester hoeft geen proceskosten te betalen.",
+  "bron": [
+   80,
+   72,
+   81
+  ],
+  "citaat": "De conclusie is dat de rechtbank het verzoek om schadevergoeding terecht heeft afgewezen"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Opname in de persoonsgerichte aanpak was niet terecht: ik heb geen overlast gegeven en het was gebaseerd op anonieme meldingen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De stukken bevatten veel meldingen uit meerdere jaren bij de politie en de gemeente.",
+    "bron": [
+     56
+    ],
+    "citaat": "De stukken bevatten een groot aantal meldingen uit meerdere jaren bij de politie en de afdeling veiligheid van de gemeente"
+   },
+   "bruikbare_zin": {
+    "citaat": "De stukken bevatten een groot aantal meldingen uit meerdere jaren bij de politie en de afdeling veiligheid van de gemeente",
+    "bron": [
+     56
+    ]
+   }
+  },
+  {
+   "arg": "gevoelige-gegevens",
+   "burger_zegt": "Er zijn medische gegevens over een behandeling bij de GGZ verwerkt en gedeeld in het overleg.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter liet de vraag of dit gegeven mocht worden verwerkt in het midden.",
+    "bron": [
+     64
+    ],
+    "citaat": "De Afdeling laat het antwoord op deze vraag in het midden"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Door het gebruik van mijn gegevens heb ik stressklachten en andere schade.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De medische stukken waren van voor de gegevensverwerking en lieten geen verband zien.",
+    "bron": [
+     76
+    ],
+    "citaat": "hebben niet aan de hand van voldoende concrete gegevens aannemelijk gemaakt dat zij immateriële schade hebben geleden"
+   },
+   "bruikbare_zin": {
+    "citaat": "leidt een inbreuk op de AVG niet zonder meer tot vergoedbare schade",
+    "bron": [
+     74
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik heb reputatieschade in de buurt en extra vervoerskosten door de vertrouwensbreuk met de GGZ.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Niet gebleken is dat de gegevens buiten het overleg zijn gedeeld, en de reiskosten komen niet door de burgemeester.",
+    "bron": [
+     77
+    ],
+    "citaat": "Niet gebleken is dat de gegevens buiten het pga-overleg zijn gedeeld"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie schade stelt door onrechtmatige gegevensverwerking, moet de schade, de omvang en het verband met de verwerking zelf aannemelijk maken.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om schadevergoeding na onrechtmatige gegevensverwerking door een bestuursorgaan",
+  "uitzondering": "Geldt in beginsel; een inbreuk op de AVG leidt niet zonder meer tot vergoedbare schade",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   70
+  ],
+  "citaat": "in beginsel ligt bij degene die stelt dat hij schade heeft geleden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "medische verklaring van 26 oktober 2018",
+   "medische rapportage",
+   "brief van GGZ Centraal van 4 februari 2020",
+   "pga-verslagen"
+  ],
+  "wat_gaf_doorslag": "De medische stukken waren van voor de gegevensverwerking en lieten geen verband met de aanpak zien."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2024:2715",
+   "ECLI:NL:RVS:2024:2311",
+   "ECLI:NL:HR:2019:793",
+   "ECLI:NL:HR:2021:1024",
+   "ECLI:EU:C:2024:216"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:88 lid 1 Awb",
+  "art. 2 lid 1 AVG",
+  "art. 4 punt 2 AVG",
+  "art. 8:29 Awb",
+  "art. 2 en 6 Privacyreglement Lokale Persoonsgerichte aanpak"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Probeer eerst contact en buurtbemiddeling en waarschuw de inwoner vooraf, voordat u iemand aanmeldt voor een persoonsgerichte aanpak.",
+   "raakt": "privacy-fg",
+   "bron": [
+    57
+   ],
+   "citaat": "herhaaldelijk geprobeerd hebben in contact te komen met"
+  },
+  {
+   "actie": "Leg vast of het delen van medische gegevens, zoals dat iemand onder behandeling is, nodig is voordat u het in een overleg verwerkt.",
+   "raakt": "privacy-fg",
+   "bron": [
+    63
+   ],
+   "citaat": "Hiermee staat echter niet vast of die verwerking in dit geval ook noodzakelijk was"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een gemeente mag gegevens van inwoners gebruiken in een samenwerking tegen overlast, als zij daar volgens haar eigen regels grond voor heeft. Vraagt u schadevergoeding, dan moet u zelf met concrete stukken laten zien dat de schade door het gebruik van uw gegevens komt. Medische stukken van vóór dat gebruik of kosten die elders vandaan komen, tellen daarvoor niet mee.",
+ "gemeente": "Leusden",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

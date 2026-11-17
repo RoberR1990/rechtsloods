@@ -1,0 +1,127 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2026:769",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Utrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg drie rekeningen achteraf van de gemeente Utrecht, omdat zijn auto zonder betaling in de Sumatrastraat stond. De Rechtbank Midden-Nederland beoordeelt de beroepen tegen die rekeningen.",
+ "titel": "Kenteken niet goed geregistreerd: drie rekeningen bleven staan",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder zelf moet zorgen dat het kenteken goed is geregistreerd, dus de rekeningen blijven staan.",
+  "bron": [
+   23
+  ],
+  "citaat": "Het behoort tot de verantwoordelijkheid van een parkeerder ervoor te zorgen dat het kenteken op de juiste manier is geregistreerd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeerder kreeg drie naheffingsaanslagen (de rekeningen achteraf), omdat er op meerdere dagen niet was betaald.",
+   "bron": [
+    16
+   ],
+   "citaat": "Naar aanleiding hiervan zijn de volgende naheffingsaanslagen opgelegd"
+  },
+  {
+   "zin": "De parkeerder zegt dat hij een zakelijke vergunning had en dat het systeem verwarrend was.",
+   "bron": [
+    21
+   ],
+   "citaat": "Eiser voert aan dat hij beschikt over een zakelijke parkeervergunning"
+  },
+  {
+   "zin": "De gemeente zegt dat het voertuig in het vergunningensysteem niet goed was aangemeld.",
+   "bron": [
+    22
+   ],
+   "citaat": "dat uit het parkeervergunningensysteem volgt dat het voertuig van eiser niet correct was aangemeld"
+  },
+  {
+   "zin": "De rechter vindt dat de parkeerder zelf verantwoordelijk is voor een goede kentekenregistratie.",
+   "bron": [
+    23
+   ],
+   "citaat": "Het behoort tot de verantwoordelijkheid van een parkeerder ervoor te zorgen dat het kenteken op de juiste manier is geregistreerd"
+  },
+  {
+   "zin": "Het griffierecht gaat niet terug en er komt geen vergoeding van proceskosten.",
+   "bron": [
+    25
+   ],
+   "citaat": "Eiser krijgt daarom het griffierecht niet terug"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroepen ongegrond; alle drie de naheffingen blijven staan",
+ "gevolg_betrokkene": {
+  "zin": "Alle drie de aanslagen blijven staan, de parkeerder moet ze betalen en het griffierecht gaat niet terug.",
+  "bron": [
+   25
+  ],
+  "citaat": "en dat eiser deze moet betalen"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "De parkeerder zegt dat hij een zakelijke vergunning had en dat de kentekenregistratie in het systeem verwarrend was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter legt de verantwoordelijkheid voor een juiste kentekenregistratie bij de parkeerder.",
+    "bron": [
+     23
+    ],
+    "citaat": "Het behoort tot de verantwoordelijkheid van een parkeerder ervoor te zorgen dat het kenteken op de juiste manier is geregistreerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het behoort tot de verantwoordelijkheid van een parkeerder",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het is de verantwoordelijkheid van de parkeerder dat zijn kenteken goed in het systeem staat.",
+  "type": "regel",
+  "reikwijdte": "kentekenregistratie die de parkeerder zelf doet in het systeem van de gemeente",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "Het behoort tot de verantwoordelijkheid van een parkeerder ervoor te zorgen dat het kenteken op de juiste manier is geregistreerd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "gegevens uit het parkeervergunningensysteem"
+  ],
+  "wat_gaf_doorslag": "Uit het vergunningensysteem bleek dat het voertuig niet goed was aangemeld."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen eis van de rechter aan de gemeente; de parkeerder klaagde over een verwarrend portaal, maar daar oordeelde de rechter niet over",
+ "raakt": [
+  "vergunningen",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Staat uw kenteken niet goed in het systeem van de gemeente, dan kan de gemeente u een rekening achteraf sturen. De rechter vond dat u zelf moet zorgen dat uw kenteken goed is aangemeld. Wilt u bezwaar maken, dan helpt het om te laten zien wanneer en hoe u het kenteken heeft aangemeld; zonder goede aanmelding heeft bezwaar weinig kans.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

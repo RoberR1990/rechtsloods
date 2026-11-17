@@ -1,0 +1,130 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:3742",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Tilburg",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Tilburg een naheffing (de rekening achteraf) voor parkeerbelasting. De burger ging in beroep bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Verkeerde parkeerzone gekozen, naheffing blijft staan",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder zelf moest uitzoeken in welke zone de auto stond, dus de naheffing blijft staan.",
+  "bron": [
+   27,
+   29
+  ],
+  "citaat": "de verantwoordelijkheid van de parkeerder om uit te zoeken in welke zone is geparkeerd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een auto stond op 16 juni 2023 in Tilburg geparkeerd zonder voldoende betaalde parkeerbelasting, en de gemeente legde een naheffing op.",
+   "bron": [
+    15,
+    16
+   ],
+   "citaat": "Tijdens een controle omstreeks 20:20 uur is door middel van een scanauto geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder stelde dat zij in de zone met code 51306 mocht menen te staan.",
+   "bron": [
+    24
+   ],
+   "citaat": "zij kon en mocht menen dat zij in de zone met code 51306 geparkeerd stond"
+  },
+  {
+   "zin": "Partijen waren het erover eens dat de zone waar de auto stond duurder was.",
+   "bron": [
+    25
+   ],
+   "citaat": "tussen partijen niet ter discussie staat dat de parkeerbelasting voor de zone waar belanghebbende geparkeerd stond"
+  },
+  {
+   "zin": "De rechter zag op de foto's dat het zonebord 51330 was gepasseerd, zodat de parkeerder in die zone stond.",
+   "bron": [
+    26
+   ],
+   "citaat": "bij het inrijden van de parkeerzone een bord betaald parkeren staat met daarbij de zone waarbinnen wordt geparkeerd"
+  },
+  {
+   "zin": "De rechter verklaarde het beroep ongegrond en kende geen proceskosten toe.",
+   "bron": [
+    29
+   ],
+   "citaat": "Ook krijgt belanghebbende geen vergoeding van zijn proceskosten."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; zone-fout komt voor rekening parkeerder.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan en de parkeerder krijgt geen griffierecht en geen proceskosten terug.",
+  "bron": [
+   29
+  ],
+  "citaat": "Dit betekent dat de naheffingsaanslag parkeerbelasting terecht is opgelegd en gehandhaafd blijft"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "De parkeerder koos de zone van het dichtstbijzijnde bord en vond dat zij daarmee haar onderzoeksplicht had gedaan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de parkeerder de juiste zone had moeten vinden, dus de fout komt voor haar rekening.",
+    "bron": [
+     27
+    ],
+    "citaat": "De omstandigheid dat belanghebbende door de verkeerde zone te selecteren te weinig parkeerbelasting heeft voldaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "de verantwoordelijkheid van de parkeerder om uit te zoeken in welke zone is geparkeerd",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder moet zelf uitzoeken in welke zone hij staat en de juiste zone in de parkeerapp kiezen.",
+  "type": "regel",
+  "reikwijdte": "parkeerders die zelf een zone kiezen in een parkeerapp",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "Volgens vaste jurisprudentie rust op een parkeerder de onderzoeksplicht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "art. 1 onder a Verordening op de heffing en invordering van parkeerbelastingen 2023 Tilburg"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter zag het zonebord als voldoende kenbaar; geen tekort in de bebording vastgesteld",
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "Kiest u in de parkeerapp de verkeerde zone, dan kan de rekening voor het parkeren alsnog komen. In deze zaak zag de rechter op de foto's dat het zonebord bij de inrit de andere zone aangaf. Bezwaar heeft op dit punt weinig kans, tenzij u kunt aantonen dat het zonebord niet duidelijk was.",
+ "gemeente": "Tilburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

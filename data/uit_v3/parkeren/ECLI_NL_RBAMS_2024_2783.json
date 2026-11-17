@@ -1,0 +1,146 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2024:2783",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bezoeker (met bezoekersvergunning van bewoner)",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bezoeker kreeg in Amsterdam een naheffing, die in bezwaar werd vernietigd. Over de proceskosten van dat bezwaar ging zij naar de rechtbank Amsterdam.",
+ "titel": "Gemeente moet proceskosten betalen na vernietigde naheffing",
+ "kern": {
+  "zin": "De rechter vond de voorwaarde van een eindtijd niet in de vergunning, dus de proceskosten moeten worden vergoed.",
+  "bron": [
+   27
+  ],
+  "citaat": "De heffingsambtenaar heeft dus niet aannemelijk gemaakt dat de voorwaarde aan de vergunning was verbonden"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bezoeker vulde bij het aanmelden geen eindtijd in, dus de sessie stopte na een kwartier.",
+   "bron": [
+    18
+   ],
+   "citaat": "Doordat eiseres bij het aanmelden geen eindtijd heeft ingevuld op het aanmeldportaal"
+  },
+  {
+   "zin": "Sinds 4 december 2022 moest ook een eindtijd worden ingevuld bij het aanmelden.",
+   "bron": [
+    17
+   ],
+   "citaat": "heeft de wijze van het aanmelden van de parkeersessie op 4 december 2022 gewijzigd"
+  },
+  {
+   "zin": "De bezoeker zei dat de regel geen wettelijke grond heeft en daardoor onrechtmatig is.",
+   "bron": [
+    24
+   ],
+   "citaat": "Er is namelijk geen wettelijke grondslag voor de voorwaarde dat de parkeersessie na een kwartier automatisch wordt beëindigd"
+  },
+  {
+   "zin": "De gemeente zag de eindtijd als voorwaarde voor het lage tarief.",
+   "bron": [
+    26
+   ],
+   "citaat": "heeft kennelijk een voorwaarde willen stellen aan de wijze waarop van een gereduceerd tarief gebruik kan worden gemaakt"
+  },
+  {
+   "zin": "De rechter zei dat vermelding op het portaal niet genoeg is om een voorwaarde te stellen.",
+   "bron": [
+    26
+   ],
+   "citaat": "Het enkele informeren over deze voorwaarden op het aanmeldportaal is daartoe niet voldoende"
+  },
+  {
+   "zin": "De gemeente moet de kosten van het bezwaar vergoeden.",
+   "bron": [
+    27
+   ],
+   "citaat": "De aanslag was dus onrechtmatig en de heffingsambtenaar had de kosten in bezwaar moeten vergoeden"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep gegrond; alleen proceskosten en griffierecht vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De bezoeker krijgt het griffierecht terug en € 1.185 aan proceskosten.",
+  "bron": [
+   32
+  ],
+  "citaat": "Omdat het beroep gegrond is moet de heffingsambtenaar het griffierecht aan eiseres vergoeden"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Er is geen wettelijke grondslag voor de regel dat de sessie na een kwartier stopt.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Een voorwaarde telt pas als die in de vergunning zelf staat.",
+    "bron": [
+     26
+    ],
+    "citaat": "moeten voorwaarden waaronder de betreffende vergunning geldt zijn opgenomen in de vergunning"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het enkele informeren over deze voorwaarden op het aanmeldportaal is daartoe niet voldoende",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een voorwaarde voor een bezoekersvergunning moet in de vergunning zelf staan, niet alleen op een website.",
+  "type": "regel",
+  "reikwijdte": "voorwaarden voor een bezoekersvergunning met gereduceerd tarief in Amsterdam",
+  "uitzondering": null,
+  "herkomst": "lokale verordening",
+  "bron": [
+   26
+  ],
+  "citaat": "moeten voorwaarden waaronder de betreffende vergunning geldt zijn opgenomen in de vergunning"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "de vergunning zelf",
+   "informatie op het aanmeldportaal"
+  ],
+  "wat_gaf_doorslag": "De gemeente kon niet aantonen dat de eindtijd-voorwaarde in de vergunning stond."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 1 onder b Verordening parkeerbelastingen Amsterdam 2023"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet voorwaarden zoals een eindtijd in de vergunning zelf, niet alleen op het aanmeldportaal.",
+   "raakt": "vergunningen",
+   "bron": [
+    26
+   ],
+   "citaat": "Het enkele informeren over deze voorwaarden op het aanmeldportaal is daartoe niet voldoende"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een naheffing is niet terecht als een voorwaarde die u niet nakwam, niet in de vergunning zelf stond. Bij een bezoekersvergunning kunt u daarom vragen welke voorwaarde in de vergunning zelf staat. Zonder die vermelding in de vergunning heeft een beroep op de website weinig steun.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,160 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "ecli": "ECLI:NL:GHARL:2022:7264",
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "kentekenhouder met gemachtigde",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De kentekenhouder kreeg in Haarlem een boete van € 95 voor stilstaan op het trottoir. Hij ging via een gemachtigde in hoger beroep bij het gerechtshof Arnhem-Leeuwarden tegen de officier van justitie.",
+ "titel": "Boete op kenteken bleef staan: bestuurder niet aannemelijk aanwezig",
+ "kern": {
+  "zin": "De boete mocht aan de kentekenhouder worden opgelegd, omdat niet aannemelijk is dat de bestuurder erbij was toen de ambtenaar de foto's maakte.",
+  "bron": [
+   29
+  ],
+  "citaat": "heeft de ambtenaar de sanctie terecht met toepassing van artikel 5 van de Wahv aan de betrokkene als kentekenhouder opgelegd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De kentekenhouder kreeg een boete van € 95 voor stilstaan op het trottoir in Haarlem.",
+   "bron": [
+    19
+   ],
+   "citaat": "stilstaan op het trottoir, voetpad, (brom)fietspad of het ruiterpad"
+  },
+  {
+   "zin": "De kentekenhouder zegt dat de boete ten onrechte op kenteken is opgelegd.",
+   "bron": [
+    20
+   ],
+   "citaat": "grond dat ten onrechte op kenteken is bekeurd"
+  },
+  {
+   "zin": "De gemeente Haarlem liet weten dat er geen staandehouding was, omdat de bestuurder niet bij de auto was.",
+   "bron": [
+    26
+   ],
+   "citaat": "Er heeft geen staandehouding plaatsgevonden, omdat de bestuurder niet bij het voertuig aanwezig was"
+  },
+  {
+   "zin": "De rechter hecht geen waarde aan die mededeling, omdat niet duidelijk is waar ze op berust.",
+   "bron": [
+    27
+   ],
+   "citaat": "komt aan die mededeling geen betekenis toe"
+  },
+  {
+   "zin": "Op een foto staat mogelijk een persoon bij de auto, maar de rechter vindt niet aannemelijk dat dit de bestuurder was.",
+   "bron": [
+    29
+   ],
+   "citaat": "Daarmee is echter niet aannemelijk gemaakt dat deze persoon de bestuurder van het voertuig was"
+  },
+  {
+   "zin": "De boete blijft staan; de rechter verbetert alleen de motivering van de kantonrechter.",
+   "bron": [
+    34
+   ],
+   "citaat": "bevestigt de beslissing van de kantonrechter, met verbetering van gronden"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete van € 95 blijft; proceskostenvergoeding afgewezen.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 95 blijft staan en er komt geen proceskostenvergoeding.",
+  "bron": [
+   34,
+   35
+  ],
+  "citaat": "bevestigt de beslissing van de kantonrechter, met verbetering van gronden"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De bestuurder was bij de auto, dus de boete had niet op kenteken mogen worden opgelegd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Niet aannemelijk is dat de persoon bij de auto de bestuurder was.",
+    "bron": [
+     29
+    ],
+    "citaat": "Daarmee is echter niet aannemelijk gemaakt dat deze persoon de bestuurder van het voertuig was"
+   },
+   "bruikbare_zin": {
+    "citaat": "Uit de verklaring van de ambtenaar blijkt niet dat hij met de bestuurder heeft gesproken",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De kantonrechter ging niet in op de grond dat ten onrechte op kenteken is bekeurd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De kantonrechter motiveerde dit onvoldoende, maar de uitkomst blijft gelijk.",
+    "bron": [
+     30
+    ],
+    "citaat": "Er is in zoverre sprake van een motiveringsgebrek in de beslissing van de kantonrechter"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een boete mag alleen aan de kentekenhouder worden opgelegd als er geen reële mogelijkheid was om de identiteit van de bestuurder vast te stellen.",
+  "type": "regel",
+  "reikwijdte": "Wahv-boetes voor overtredingen waarbij de bestuurder niet is aangetroffen",
+  "uitzondering": "Is er wel een reële mogelijkheid, dan houdt de ambtenaar de bestuurder staande.",
+  "herkomst": "wet",
+  "bron": [
+   22
+  ],
+  "citaat": "geen reële mogelijkheid is geweest om de identiteit van de bestuurder vast te stellen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "vier foto's van de gedraging",
+   "zaakoverzicht met toelichting van de ambtenaar",
+   "mededeling van de gemeente Haarlem"
+  ],
+  "wat_gaf_doorslag": "Niet aannemelijk was dat de persoon op de foto de bestuurder was."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 5 Wahv"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg in het zaakoverzicht vast waarom de bestuurder niet is aangesproken, bijvoorbeeld dat niemand bij de auto was",
+   "raakt": "bezwaar",
+   "bron": [
+    29
+   ],
+   "citaat": "Hoewel een nadere verklaring van de ambtenaar in dit geval ontbreekt"
+  }
+ ],
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Stond u niet bij uw auto toen de handhaver de overtreding vaststelde, dan kan de boete naar u als kentekenhouder gaan. Zegt u dat de bestuurder er wel bij was? Leg dat dan meteen en concreet uit, bijvoorbeeld met een verklaring.",
+ "gemeente": "Haarlem",
+ "zekerheid": "middel"
+}

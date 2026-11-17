@@ -1,0 +1,151 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2025:2860",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "particulier",
+  "wederpartij": "gemeente Arnhem",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder liet zijn auto stilstaan op een plek voor betaald parkeren in Arnhem en kreeg een rekening achteraf. Hij ging in hoger beroep tegen de gemeente Arnhem bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "In- en uitstappen met hulphond: toch parkeerbelasting verschuldigd",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder parkeerde en niet alleen in- of uitstapte, omdat er op de foto's geen mensen of hond bij de auto waren; de naheffing bleef staan.",
+  "bron": [
+   30
+  ],
+  "citaat": "geen sprake is geweest van 'onmiddellijk in- en uitstappen' maar van 'parkeren'"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 28 juli 2022 stond de auto van de parkeerder stil op een plek voor betaald parkeren in Arnhem, zonder dat hij parkeerbelasting had betaald.",
+   "bron": [
+    23
+   ],
+   "citaat": "heeft stilgestaan op een plaats voor 'betaald parkeren' in de Steenstraat te Arnhem, zonder dat daarvoor parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat hij alleen zijn vrouw en haar hulphond uit de auto hielp en dus niet parkeerde.",
+   "bron": [
+    27
+   ],
+   "citaat": "alleen bezig is geweest om zijn vrouw en haar hulphond uit de auto te helpen"
+  },
+  {
+   "zin": "De gemeente betwistte dit, waardoor de parkeerder zelf aannemelijk moest maken dat hij alleen in- of uitstapte.",
+   "bron": [
+    24
+   ],
+   "citaat": "Nu de heffingsambtenaar dit betwist, rust op belanghebbende de last de feiten"
+  },
+  {
+   "zin": "De rechtbank zag op de foto's geen mensen of hond bij de auto en vond daarom dat de parkeerder iets anders moet hebben gedaan dan in- of uitstappen.",
+   "bron": [
+    29
+   ],
+   "citaat": "er sprake moet zijn geweest van activiteiten die geen direct verband houden met het in- en of uitstappen"
+  },
+  {
+   "zin": "Het gerechtshof nam dit oordeel en de redenen van de rechtbank over.",
+   "bron": [
+    30
+   ],
+   "citaat": "Het Hof maakt de beslissing van de Rechtbank en de overwegingen daartoe daarom tot de zijne."
+  },
+  {
+   "zin": "De naheffing was daarom terecht opgelegd.",
+   "bron": [
+    31
+   ],
+   "citaat": "heeft de heffingsambtenaar terecht de onderhavige naheffingsaanslag aan belanghebbende opgelegd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; geen griffierecht of proceskosten vergoed",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan en de parkeerder krijgt zijn griffierecht en proceskosten niet vergoed.",
+  "bron": [
+   35,
+   31
+  ],
+  "citaat": "Het Hof ziet geen aanleiding voor vergoeding van het griffierecht of een veroordeling in de proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Ik was alleen bezig mijn vrouw en haar hulphond uit de auto te helpen, dat is onmiddellijk in- en uitstappen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Op de foto's waren geen mensen of hond bij de auto te zien, dus moest er iets anders zijn gebeurd dan in- of uitstappen.",
+    "bron": [
+     29
+    ],
+    "citaat": "Daarom moet aangenomen worden dat er sprake was van parkeren en dat parkeerbelasting verschuldigd was"
+   },
+   "bruikbare_zin": {
+    "citaat": "zijn geen personen en is geen hond te zien bij de auto",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als naast het in- of uitstappen andere handelingen plaatsvinden die de stilstand verlengen, is geen sprake meer van onmiddellijk in- en uitstappen.",
+  "type": "regel",
+  "reikwijdte": "Stilstaan op een plek voor betaald parkeren waarbij de parkeerder zich beroept op in- of uitstappen van passagiers",
+  "uitzondering": "Een passagier moet wel een redelijke tijd krijgen om in of uit te stappen.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   26
+  ],
+  "citaat": "Als naast het in- en/of uitstappen activiteiten plaatsvinden die daarmee geen direct verband houden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "foto's van de gemeente",
+   "e-mailbericht van de parkeerder"
+  ],
+  "wat_gaf_doorslag": "Op de foto's waren geen mensen of hond bij de auto te zien, terwijl de afstand naar het café klein was."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2025:90"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 lid 1 Gemeentewet",
+  "art. 225 lid 2 Gemeentewet",
+  "Verordening parkeren en parkeerbelastingen gemeente Arnhem 2022"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg met foto's vast dat er bij de stilstaande auto geen personen zijn die in- of uitstappen.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    27
+   ],
+   "citaat": "Op de door de heffingsambtenaar overgelegde foto's zijn geen personen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Als u stilstaat in een straat met betaald parkeren, telt alleen echt in- of uitstappen niet als parkeren. Loopt u ook weg of doet u iets anders, dan telt het wel als parkeren. Wilt u bezwaar maken, dan moet u zelf aannemelijk maken wat u deed, bijvoorbeeld met foto's of een verklaring.",
+ "gemeente": "Arnhem",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

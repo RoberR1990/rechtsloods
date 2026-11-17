@@ -1,0 +1,152 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "reden_leeg_actie": "gemeente geen partij; boete van de officier van justitie (Wahv)",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "ecli": "ECLI:NL:GHARL:2025:6823",
+ "onderwerp": "parkeerverbod",
+ "sub": "gehandicaptenplaats",
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder, bijgestaan door een gemachtigde",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg een boete van € 350 omdat zij op een gehandicaptenparkeerplaats in Amsterdam stond met de kaart van iemand anders. Zij ging in hoger beroep tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Boete voor misbruik van andermans gehandicaptenkaart blijft staan",
+ "kern": {
+  "zin": "Het hof vond de boete terecht, omdat de parkeerder niet aannemelijk maakte dat zij de kaarthouder vervoerde.",
+  "bron": [
+   31
+  ],
+  "citaat": "lag het op weg van de betrokkene om te stellen en aannemelijk te maken dat het vervoer verband hield met het vervoer van de gehandicapte"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete van € 350 voor parkeren op een gehandicaptenparkeerplaats zonder dat dit met het vervoer van de kaarthouder te maken had.",
+   "bron": [
+    20
+   ],
+   "citaat": "Aan de betrokkene is bij inleidende beschikking een sanctie opgelegd van € 350,-"
+  },
+  {
+   "zin": "De handhaver zag dat de bestuurder niet de kaarthouder was en dat de kaarthouder niet in of bij de auto was.",
+   "bron": [
+    25
+   ],
+   "citaat": "Ik zag op de achterzijde van de gehandicaptenparkeerkaart (B) met kaartnummer 1703706 dat de bestuurder niet de kaarthouder was."
+  },
+  {
+   "zin": "De parkeerder zei via haar gemachtigde dat de gedraging niet vast te stellen was, ook omdat zij pas na de eerste vragen op haar zwijgrecht (de cautie) was gewezen.",
+   "bron": [
+    21
+   ],
+   "citaat": "De gemachtigde van de betrokkene voert aan dat de gedraging niet kan worden vastgesteld."
+  },
+  {
+   "zin": "Het hof zei dat de parkeerder zelf moet laten zien dat het parkeren met het vervoer van de kaarthouder te maken had.",
+   "bron": [
+    30
+   ],
+   "citaat": "het op de weg van een betrokkene ligt zich erop te beroepen dat het parkeren rechtstreeks verband houdt"
+  },
+  {
+   "zin": "Het hof vond dat de parkeerder dat niet had gedaan, en dat het niet uitmaakte wanneer de cautie was gegeven.",
+   "bron": [
+    32
+   ],
+   "citaat": "Gelet op het voorgaande kan in het midden blijven wanneer de cautie is gegeven."
+  },
+  {
+   "zin": "Het hof bevestigde de uitspraak van de kantonrechter en wees de vraag om proceskosten af.",
+   "bron": [
+    33
+   ],
+   "citaat": "zal het hof de beslissing van de kantonrechter bevestigen en het verzoek om een proceskostenvergoeding afwijzen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete van € 350 blijft; geen proceskostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 350 blijft staan en de parkeerder krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   33,
+   20
+  ],
+  "citaat": "zal het hof de beslissing van de kantonrechter bevestigen en het verzoek om een proceskostenvergoeding afwijzen"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De handhaver kan niet vaststellen dat het parkeren niets met het vervoer van de kaarthouder te maken had.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof vond dat de waarneming van de handhaver genoeg was om dit vast te stellen.",
+    "bron": [
+     31
+    ],
+    "citaat": "Daarmee kan worden vastgesteld dat het parkeren op het moment van de gedraging niet rechtstreeks verband hield"
+   },
+   "bruikbare_zin": {
+    "citaat": "de gehandicapte ook niet in het voertuig aanwezig was of in de nabije omgeving daarvan",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De verklaringen van de parkeerder mogen niet worden gebruikt, want de cautie (het zwijgrecht) werd te laat gegeven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof liet dit in het midden, omdat de gedraging ook zonder die verklaringen vast te stellen was.",
+    "bron": [
+     32
+    ],
+    "citaat": "De gedraging kan op basis van de waarnemingen van de ambtenaar worden vastgesteld."
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De parkeerder moet zelf aannemelijk maken dat het parkeren rechtstreeks met het vervoer van de kaarthouder te maken had.",
+  "type": "regel",
+  "reikwijdte": "Parkeren op een gehandicaptenparkeerplaats met een kaart die op naam van een ander staat.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   30
+  ],
+  "citaat": "het op de weg van een betrokkene ligt zich erop te beroepen dat het parkeren rechtstreeks verband houdt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring van de handhaver",
+   "foto's van de gehandicaptenkaart",
+   "eigen uitspraken van de parkeerder bij de controle"
+  ],
+  "wat_gaf_doorslag": "De bestuurder was niet de kaarthouder en de kaarthouder was niet bij de auto."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHARL:2014:5768"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 26 lid 1 onder b RVV 1990"
+ ],
+ "actie_gemeente": [],
+ "raakt": [
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een gehandicaptenparkeerkaart mag alleen worden gebruikt als de kaarthouder zelf wordt vervoerd. Staat u er zonder de kaarthouder, dan kunt u zelf moeten laten zien dat het toch om diens vervoer ging. Heeft u daar bewijs van, bewaar dat dan en voeg het toe aan uw beroep.",
+ "gemeente": "Amsterdam",
+ "zekerheid": "hoog"
+}

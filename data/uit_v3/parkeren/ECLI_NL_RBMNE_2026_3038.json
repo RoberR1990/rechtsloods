@@ -1,0 +1,156 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2026:3038",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner (met bewonersvergunning)",
+  "wederpartij": "gemeente (Belastingsamenwerking gemeenten en hoogheemraadschap Utrecht)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De bewoner ging in beroep tegen een naheffing parkeerbelasting in Utrecht. Tegenpartij was de gemeente, via de Belastingsamenwerking gemeenten en hoogheemraadschap Utrecht; de rechtbank Midden-Nederland deed mondeling uitspraak.",
+ "titel": "Naheffing blijft staan; wel griffierecht terug door foutief adres",
+ "kern": {
+  "zin": "De naheffing bleef staan, omdat de auto buiten de plekken stond waar de vergunning geldt; het griffierecht (het bedrag voor de rechter) moet wel terug, door een fout in het bezwaarbesluit.",
+  "bron": [
+   24
+  ],
+  "citaat": "waar de parkeervergunning van eiseres niet geldig is"
+ },
+ "samenvatting": [
+  {
+   "zin": "De auto stond op 23 juni 2023 in Utrecht geparkeerd, zonder dat de belasting betaald was.",
+   "bron": [
+    20
+   ],
+   "citaat": "zonder dat de verschuldigde parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De bewoner stelde dat er een parkeervergunning gold en dat het bezwaarbesluit het verkeerde adres noemde.",
+   "bron": [
+    22
+   ],
+   "citaat": "Eiseres beschikt namelijk over een parkeervergunning"
+  },
+  {
+   "zin": "De gemeente erkende de fout in het adres, maar zei dat dit de naheffing niet ongeldig maakt.",
+   "bron": [
+    23
+   ],
+   "citaat": "niet tot gevolg dat de naheffingsaanslag ten onrechte is opgelegd"
+  },
+  {
+   "zin": "De rechter zag op de foto's dat de auto stond waar de vergunning niet geldig was.",
+   "bron": [
+    24
+   ],
+   "citaat": "waar de parkeervergunning van eiseres niet geldig is"
+  },
+  {
+   "zin": "Het beroep bleef daarom zonder succes, maar het griffierecht van 50 euro wordt terugbetaald.",
+   "bron": [
+    26
+   ],
+   "citaat": "Eiseres krijgt wel het griffierecht van € 50,- terug."
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Naheffing blijft; alleen het griffierecht van 50 euro wordt vergoed door een foutief adres.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de bewoner verandert de naheffing niet, maar het bedrag voor de rechter komt terug.",
+  "bron": [
+   24,
+   26
+  ],
+  "citaat": "De heffingsambtenaar moet wel het griffierecht van eiseres vergoeden"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Er gold een parkeervergunning voor deze plek, dus de naheffing moest weg.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de vergunning op die plek niet gold, en het beroep daarom ongegrond is.",
+    "bron": [
+     24
+    ],
+    "citaat": "waar de parkeervergunning van eiseres niet geldig is"
+   },
+   "bruikbare_zin": {
+    "citaat": "waar de parkeervergunning van eiseres niet geldig is",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het verkeerde adres in het bezwaarbesluit moet ook gevolgen hebben voor de rekening.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de fout in het bezwaarbesluit recht geeft op vergoeding van het griffierecht, maar de naheffing blijft.",
+    "bron": [
+     24
+    ],
+    "citaat": "omdat in de uitspraak op bezwaar abusievelijk is opgenomen"
+   },
+   "bruikbare_zin": {
+    "citaat": "in de uitspraak op bezwaar abusievelijk is opgenomen dat eiseres stond geparkeerd",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een fout in het adres van het bezwaarbesluit maakt in dit geval de naheffing niet ongeldig, maar het griffierecht moet wel worden vergoed.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "fouten in de uitspraak op bezwaar, waarbij de naheffing zelf klopt",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "omdat in de uitspraak op bezwaar abusievelijk is opgenomen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto's uit het brondocument van de scanauto",
+   "bewonersvergunning voor rayon 16.400"
+  ],
+  "wat_gaf_doorslag": "De foto's lieten zien dat de auto stond op een plek waar de vergunning niet geldig was."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer uitspraken op bezwaar op het juiste adres voordat ze worden verstuurd.",
+   "raakt": "bezwaar",
+   "bron": [
+    24
+   ],
+   "citaat": "omdat in de uitspraak op bezwaar abusievelijk is opgenomen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "klantcontact"
+ ],
+ "klantuitleg": "Uw vergunning geldt alleen op de plekken die erop staan. Als er een fout in het adres van uw bezwaarbesluit staat, betekent dat niet vanzelf dat de rekening vervalt, maar het bedrag voor de rechter kan dan wel worden vergoed. Controleer daarom goed of het adres in uw besluit klopt, en meld een fout meteen aan de gemeente.",
+ "gemeente": "Belastingsamenwerking gemeenten en hoogheemraadschap Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

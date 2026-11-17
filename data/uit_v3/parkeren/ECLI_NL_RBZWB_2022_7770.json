@@ -1,0 +1,184 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2022:7770",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeert tegen de gemeente Breda over een naheffing (de rekening achteraf) voor parkeerbelasting. De rechtbank Zeeland-West-Brabant oordeelde in deze belastingzaak.",
+ "titel": "Elders betaald na verplaatsen auto: naheffing toch terecht",
+ "kern": {
+  "zin": "De rechter vond de naheffing terecht, omdat een verplaatste auto opnieuw moet betalen.",
+  "bron": [
+   28
+  ],
+  "citaat": "Zodra de auto wordt verplaatst is daarvan geen sprake (meer)"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde een naheffing van € 66,80 op.",
+   "bron": [
+    19
+   ],
+   "citaat": "een naheffingsaanslag parkeerbelasting opgelegd van € 66,80"
+  },
+  {
+   "zin": "De parkeerder zei dat hij materieel al genoeg had betaald, in een andere zone.",
+   "bron": [
+    25
+   ],
+   "citaat": "materieel gezien reeds voldoende parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De gemeente legde foto’s over waarop niemand bij de auto stond.",
+   "bron": [
+    27
+   ],
+   "citaat": "ook zijn er geen personen in of rond de auto te zien"
+  },
+  {
+   "zin": "De rechter vond dat een verplaatste auto opnieuw moet betalen.",
+   "bron": [
+    28
+   ],
+   "citaat": "Zodra de auto wordt verplaatst is daarvan geen sprake (meer)"
+  },
+  {
+   "zin": "De parkeerder krijgt het griffierecht niet terug en ook geen proceskosten.",
+   "bron": [
+    37
+   ],
+   "citaat": "krijgt daarom het griffierecht niet terug"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing van € 66,80 blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing van € 66,80 betalen en krijgt het griffierecht niet terug.",
+  "bron": [
+   19,
+   37
+  ],
+  "citaat": "een naheffingsaanslag parkeerbelasting opgelegd van € 66,80"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overmacht-medisch",
+   "burger_zegt": "Er was een spoedsituatie: ik moest medicijnen halen bij de apotheek ter plaatse.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat medicijnen halen, zonder uitleg, niet genoeg was.",
+    "bron": [
+     26
+    ],
+    "citaat": "Het afhalen van medicatie is, zonder nadere toelichting tot onderbouwing, daartoe onvoldoende."
+   },
+   "bruikbare_zin": {
+    "citaat": "Dan moet sprake zijn van een zeer dwingende reden",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Ik was aan het laden en lossen, dus er was geen sprake van parkeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Op de foto’s stond niemand bij de auto, dus laden of lossen was niet aannemelijk.",
+    "bron": [
+     27
+    ],
+    "citaat": "ook zijn er geen personen in of rond de auto te zien"
+   },
+   "bruikbare_zin": {
+    "citaat": "De heffingsambtenaar heeft ter onderbouwing van de naheffingsaanslag",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Ik had elders in de stad al betaald voor dezelfde dag.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Na het verplaatsen van de auto telt het eerdere betalen niet meer.",
+    "bron": [
+     28
+    ],
+    "citaat": "Zodra de auto wordt verplaatst is daarvan geen sprake (meer)"
+   },
+   "bruikbare_zin": {
+    "citaat": "Er moet dus sprake zijn van een aangesloten periode van parkeren",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er ontbreken stukken en de mandaatverlening klopt niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag geen bevoegdheidsfout bij de gemeente.",
+    "bron": [
+     32
+    ],
+    "citaat": "Van een bevoegdheidsgebrek aan de zijde van de heffingsambtenaar is niet gebleken"
+   },
+   "bruikbare_zin": {
+    "citaat": "Voor het overige is de mandaatverlening door de heffingsambtenaar met stukken onderbouwd",
+    "bron": [
+     32
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeren is het voertuig een aaneengesloten tijd laten staan; verplaatsen breekt die periode af.",
+  "type": "regel",
+  "reikwijdte": "parkeerbelasting in een betaald parkeergebied, ook bij wisselen van zone",
+  "uitzondering": "zeer dwingende reden, zoals een noodsituatie, maar alleen als die aannemelijk is",
+  "herkomst": "wet",
+  "bron": [
+   28
+  ],
+  "citaat": "onder parkeren verstaan het gedurende een aaneengesloten periode doen of laten staan van een voertuig"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto’s van de auto bij de controle",
+   "betalingsbewijzen van de parkeerder"
+  ],
+  "wat_gaf_doorslag": "De foto’s lieten geen laden of lossen zien, en het betalen in een andere zone telde niet mee."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter bevestigt de naheffing; geen verbeterpunt in de uitspraak",
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Een naheffing is in deze zaak terecht opgelegd, omdat de auto op een betaald parkeervak stond zonder betaling voor die zone. Een spoedgeval maakte dat niet ongedaan, en ook betalen in een andere zone telde niet mee. Wie bezwaar wil maken, moet met bewijs komen; zonder duidelijke onderbouwing heeft dat weinig kans.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,193 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:6188",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner in Rotterdam ging in beroep tegen de gemeente over een parkeervergunning voor bewoners. Het ging om een vergunning die eerst op de wachtlijst stond en daarna alsnog werd gegeven.",
+ "titel": "Beroep niet behandeld, wel kosten terug voor bewoner",
+ "kern": {
+  "zin": "Het beroep is niet-ontvankelijk, omdat de bewoner geen belang meer had; wel moet de gemeente het betaalde griffierecht (de kosten om naar de rechter te gaan) vergoeden.",
+  "bron": [
+   31
+  ],
+  "citaat": "het door eiser betaalde griffierecht dient te vergoeden"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner vroeg meerdere keren een parkeervergunning voor bewoners aan, en elke keer werd die afgewezen.",
+   "bron": [
+    15
+   ],
+   "citaat": "Eiser heeft vanaf 4 januari 2021 meerdere keren geprobeerd om een parkeervergunning voor bewoners aan te vragen"
+  },
+  {
+   "zin": "Tijdens de bezwaarprocedure kreeg de bewoner alsnog een tijdelijke vergunning.",
+   "bron": [
+    15
+   ],
+   "citaat": "Hangende de bezwaarprocedure is bij besluit van 1 maart 2022 een tijdelijke parkeervergunning"
+  },
+  {
+   "zin": "De gemeente zei dat de bewoner een eigen parkeerplek had, via een pad naar de voordeur.",
+   "bron": [
+    16
+   ],
+   "citaat": "Eiser zou dus beschikken over een bijbehorende parkeervoorziening"
+  },
+  {
+   "zin": "De bewoner zei dat hij geen eigen parkeerplek had en legde een splitsingsakte over.",
+   "bron": [
+    18
+   ],
+   "citaat": "Hij heeft geen eigen parkeervoorziening"
+  },
+  {
+   "zin": "Op de zitting zei de gemeente dat de bewoner die vergunning alsnog zo snel mogelijk krijgt.",
+   "bron": [
+    19
+   ],
+   "citaat": "gaat dit dan ook zo spoedig mogelijk regelen voor eiser"
+  },
+  {
+   "zin": "De rechter verklaarde het beroep niet-ontvankelijk, omdat de bewoner geen procesbelang meer had.",
+   "bron": [
+    31,
+    22
+   ],
+   "citaat": "het beroep van eiser niet-ontvankelijk te verklaren"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep niet-ontvankelijk; alleen het griffierecht wordt vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente vergoedt de bewoner het griffierecht van € 184,00; boetes en schade worden niet vergoed.",
+  "bron": [
+   31,
+   35,
+   25,
+   27
+  ],
+  "citaat": "het door eiser betaalde griffierecht dient te vergoeden"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerboetes moeten worden vergoed, omdat hij de brief over het verlengen niet kreeg.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat het risico van een niet op tijd verlengde vergunning bij de bewoner ligt.",
+    "bron": [
+     25
+    ],
+    "citaat": "Het komt voor zijn rekening en risico dat hij deze tijdelijke vergunning niet op tijd heeft verlengd"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het komt voor zijn rekening en risico",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "Er is geen hoorzitting geweest in de bezwaarprocedure.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter kwam aan dit punt niet toe, omdat het procesbelang ontbrak.",
+    "bron": [
+     29
+    ],
+    "citaat": "De rechtbank komt vanwege het ontbreken van procesbelang voor eiser niet meer toe aan een inhoudelijke beoordeling"
+   },
+   "bruikbare_zin": {
+    "citaat": "komt vanwege het ontbreken van procesbelang voor eiser niet meer toe",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente moet € 4.000 immateriële schade vergoeden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de schade niet was onderbouwd, dus geen procesbelang.",
+    "bron": [
+     27
+    ],
+    "citaat": "Eiser heeft immers enkel gesteld dat hij door het handelen van verweerder immateriële schade zou hebben opgelopen"
+   },
+   "bruikbare_zin": {
+    "citaat": "ook niet met concrete stukken heeft onderbouwd",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Schade kan procesbelang geven, maar alleen als tot op zekere hoogte aannemelijk is dat die door het besluit is ontstaan.",
+  "type": "regel",
+  "reikwijdte": "bewoner die door een bestuurlijk besluit schade stelt te hebben geleden",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "tot op zekere hoogte aannemelijk wordt gemaakt dat de gestelde schade daadwerkelijk als gevolg van deze bestuurlijke besluitvorming is ontstaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "concrete stukken over de schade"
+  ],
+  "wat_gaf_doorslag": "De bewoner had de schade niet toegelicht en niet met stukken onderbouwd."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:75 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Ken de bewonersvergunning zo snel mogelijk toe als uit stukken blijkt dat de aanvrager er recht op heeft.",
+   "raakt": "vergunningen",
+   "bron": [
+    19
+   ],
+   "citaat": "gaat dit dan ook zo spoedig mogelijk regelen voor eiser"
+  },
+  {
+   "actie": "Vergoed het griffierecht als de gemeente in de bezwaar- en beroepsprocedure aanleiding gaf om naar de rechter te gaan.",
+   "raakt": "bezwaar",
+   "bron": [
+    31
+   ],
+   "citaat": "het door eiser betaalde griffierecht dient te vergoeden"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Boetes die ontstaan omdat u een vergunning niet op tijd verlengt, blijven voor uw rekening. Wilt u een bewonersvergunning, laat dan met stukken zien dat u geen eigen parkeerplek heeft, zoals een splitsingsakte. Voor vergoeding van schade heeft u concrete stukken nodig; zonder die stukken lukt dat niet.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

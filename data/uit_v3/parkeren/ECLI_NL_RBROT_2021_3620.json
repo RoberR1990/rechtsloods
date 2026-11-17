@@ -1,0 +1,147 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2021:3620",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Westvoorne",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeert tegen de gemeente Westvoorne over de kosten van bezwaar en beroep. De zaak ligt bij de Rechtbank Rotterdam.",
+ "titel": "Na app-storing: gemeente moet proceskosten en griffierecht betalen",
+ "kern": {
+  "zin": "De gemeente wist van de storing en wachtte af; daarom moet zij de proceskosten vergoeden.",
+  "bron": [
+   21
+  ],
+  "citaat": "Door het afwachten van verweerder is eiser in de positie gebracht dat hij een bezwaarschrift heeft moeten indienen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder betaalde via de parkeerapp van de Anwb.",
+   "bron": [
+    20
+   ],
+   "citaat": "gebruik heeft gemaakt van de parkeerapp van de Anwb"
+  },
+  {
+   "zin": "Toch kreeg hij een naheffing, die later ten onrechte bleek.",
+   "bron": [
+    16
+   ],
+   "citaat": "zodat de naheffingsaanslag bij nader inzien ten onrechte is opgelegd"
+  },
+  {
+   "zin": "De gemeente was ook op de hoogte van de storing bij de app-aanbieder.",
+   "bron": [
+    20
+   ],
+   "citaat": "Niet in geschil is dat verweerder daarmee eveneens op de hoogte is geraakt van de storing."
+  },
+  {
+   "zin": "De gemeente vond dat zij geen proceskosten hoefde te betalen, omdat zij niet verwijtbaar handelde.",
+   "bron": [
+    16
+   ],
+   "citaat": "omdat er geen sprake is geweest van verwijtbaarheid of nalatigheid aan de zijde van verweerder."
+  },
+  {
+   "zin": "De rechter vond dat de gemeente de aanslag eerder had moeten intrekken.",
+   "bron": [
+    21
+   ],
+   "citaat": "Verweerder heeft vervolgens geen poging ondernomen om de - achteraf ten onrechte - opgelegde aanslag te vernietigen"
+  },
+  {
+   "zin": "De rechter veroordeelde de gemeente tot proceskosten van 532 euro.",
+   "bron": [
+    29
+   ],
+   "citaat": "veroordeelt verweerder in de proceskosten van eiser tot een bedrag van € 532,-."
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep gegrond: gemeente betaalt proceskosten en griffierecht; naheffing was al weg.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente vergoedt het griffierecht van 48 euro en betaalt 532 euro aan proceskosten.",
+  "bron": [
+   28,
+   29
+  ],
+  "citaat": "bepaalt dat verweerder aan eiser het betaalde griffierecht van € 48,- vergoedt"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Hij vraagt een vergoeding van de proceskosten in bezwaar en beroep.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Omdat de gemeente niet ingreep, moest hij bezwaar maken en dat kostte hem geld.",
+    "bron": [
+     21
+    ],
+    "citaat": "Door het afwachten van verweerder is eiser in de positie gebracht dat hij een bezwaarschrift heeft moeten indienen"
+   },
+   "bruikbare_zin": {
+    "citaat": "daarom onredelijk om in dit geval de kosten van de bestuurlijke (voor)procedure ten laste van eiser te laten",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Kosten van bezwaar gaan naar de gemeente als het besluit om onrechtmatigheid van de gemeente wordt herroepen.",
+  "type": "regel",
+  "reikwijdte": "kosten van bezwaar en beroep, bij ernstige onzorgvuldigheid van het bestuursorgaan",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   18
+  ],
+  "citaat": "voor zover het bestreden besluit wordt herroepen wegens aan het bestuursorgaan te wijten onrechtmatigheid"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "e-mail van de app-aanbieder aan de RDW over de storing"
+  ],
+  "wat_gaf_doorslag": "De gemeente wist van de storing en wachtte af in plaats van de aanslag te vernietigen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:75 Awb",
+  "art. 7:15 Awb",
+  "art. 7:28 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Trek bij een bekende storing in een betaalapp de naheffingen van dat tijdvak direct in, zonder dat burgers bezwaar hoeven te maken.",
+   "raakt": "betaalapp",
+   "bron": [
+    21
+   ],
+   "citaat": "heeft afgewacht of de gedupeerden bezwaar zouden maken"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "betaalapp",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren is niet terecht als de parkeerbelasting achteraf toch is betaald, ook bij een storing in de app. Kosten van bezwaar en beroep krijgt u alleen vergoed als de gemeente ernstig onzorgvuldig is geweest. Heeft u bewijs van uw betaling of van de storing, neem dat dan mee; dat helpt, maar het is geen garantie.",
+ "gemeente": "Westvoorne",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

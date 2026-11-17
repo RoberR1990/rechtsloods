@@ -1,0 +1,180 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2026:48",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "privaat-boete-voorwaarden",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {
+  "burger": "particulier, kentekenhouder, zonder gemachtigde",
+  "wederpartij": "exploitant",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "Q-Park, de exploitant van een parkeergarage, eiste geld van een particuliere kentekenhouder. Bij de kantonrechter, de civiele rechter, ging het om het zogenoemde treintje rijden.",
+ "titel": "Treintje rijden in privégarage: betalen, maar geen incassokosten",
+ "kern": {
+  "zin": "De rechter besliste dat de kentekenhouder moet betalen, omdat hij het vermoeden dat hij bestuurder was niet weerlegde.",
+  "bron": [
+   32
+  ],
+  "citaat": "heeft dat vermoeden naar het oordeel van de kantonrechter onvoldoende weerlegd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 27 maart 2025 verliet een auto zonder betaling de garage van Q-Park.",
+   "bron": [
+    26
+   ],
+   "citaat": "heeft op 27 maart 2025 een parkeergarage van Q-Park verlaten"
+  },
+  {
+   "zin": "Volgens de kentekenhouder reed een vriend de garage door, zonder te parkeren.",
+   "bron": [
+    30
+   ],
+   "citaat": "is niet geparkeerd in de garage maar is er alleen doorheen gereden"
+  },
+  {
+   "zin": "De exploitant meende dat er een overeenkomst ontstond, omdat de auto op naam van de kentekenhouder stond.",
+   "bron": [
+    29
+   ],
+   "citaat": "waardoor tussen partijen een overeenkomst is gesloten"
+  },
+  {
+   "zin": "De rechter vond dat de kentekenhouder het vermoeden niet voldoende had weerlegd.",
+   "bron": [
+    32
+   ],
+   "citaat": "heeft dat vermoeden naar het oordeel van de kantonrechter onvoldoende weerlegd"
+  },
+  {
+   "zin": "De rechter vond de voorwaarden niet oneerlijk, dus de garage mag de kosten vragen.",
+   "bron": [
+    52
+   ],
+   "citaat": "beoordeelt de hierboven geciteerde bedingen dan ook als niet oneerlijk"
+  },
+  {
+   "zin": "De kentekenhouder moet dus 17 euro voor de verloren kaart en 382,41 euro schadevergoeding betalen.",
+   "bron": [
+    68,
+    69
+   ],
+   "citaat": "€ 17,- aan tarief verloren kaart"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Garage krijgt hoofdbedrag en proceskosten; incassokosten afgewezen.",
+ "gevolg_betrokkene": {
+  "zin": "De kentekenhouder betaalt 17 euro en 382,41 euro, plus rente vanaf 27 maart 2025 en 438,78 euro proceskosten; incassokosten hoeft hij niet te betalen.",
+  "bron": [
+   68,
+   69,
+   70,
+   71,
+   60
+  ],
+  "citaat": "€ 17,- aan tarief verloren kaart"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De burger zegt dat een vriend alleen door de garage reed en niet parkeerde.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter maakt korte doorrit niets uit; er moet alsnog betaald worden.",
+    "bron": [
+     57
+    ],
+    "citaat": "maakt namelijk niet dat er niet betaald hoeft te worden voor dat gebruik"
+   },
+   "bruikbare_zin": {
+    "citaat": "De omstandigheid dat alleen kort gebruik wordt gemaakt van de parkeergarage",
+    "bron": [
+     57
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De burger zegt dat er niemand van de garage aanwezig was om te helpen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond die stelling op zichzelf onvoldoende, omdat er helpknoppen en een klantenservice zijn.",
+    "bron": [
+     56
+    ],
+    "citaat": "De enkele stelling dat niemand aanwezig was is dan ook onvoldoende"
+   },
+   "bruikbare_zin": {
+    "citaat": "Q-Park heeft namelijk voldoende onderbouwd gesteld dat de klantenservice van Q-Park te allen tijde bereikbaar is",
+    "bron": [
+     56
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De burger zegt de aanmaning over de betaling nooit te hebben ontvangen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter wees de incassokosten af, omdat niet vaststond wanneer de aanmaning was ontvangen.",
+    "bron": [
+     60
+    ],
+    "citaat": "De kantonrechter kan dan ook niet vaststellen op welke datum de aanmaning door [gedaagde] op zijn laatst is ontvangen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Q-Park heeft echter niet gesteld of aannemelijk gemaakt dat ter zake van die brief een afhaalbericht bij [gedaagde] is achtergelaten",
+    "bron": [
+     60
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Staat een auto op naam van iemand, dan wordt in beginsel aangenomen dat die persoon de bestuurder was.",
+  "type": "regel",
+  "reikwijdte": "parkeergarage van een exploitant, waar met een kenteken wordt binnengereden en verlaten",
+  "uitzondering": "de kentekenhouder toont aan dat een ander de auto bestuurde",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   31
+  ],
+  "citaat": "In beginsel wordt er daarom van uitgegaan dat de kentekenhouder de bestuurder is geweest"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "RDW-registratie op naam van de kentekenhouder",
+   "videobeeld van de uitrit",
+   "niet onderbouwde stelling over een vriend"
+  ],
+  "wat_gaf_doorslag": "De registratie op zijn naam, en het niet onderbouwde verhaal over de vriend."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:230l BW",
+  "art. 6:96 BW",
+  "art. 6:119 BW",
+  "Besluit vergoeding buitengerechtelijke incassokosten"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "klantcontact"
+ ],
+ "klantuitleg": "Een privé-parkeergarage mag het tarief voor een verloren kaart vragen als u zonder te betalen uitrijdt, ook achter een andere auto aan. Staat de auto op uw naam, dan gaat de rechter er in beginsel van uit dat u bestuurder was. Wilt u dat weerleggen, dan moet u aantonen dat iemand anders reed; alleen zeggen dat een vriend reed is niet genoeg.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "niet in de uitspraak genoemd; privaat terrein",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

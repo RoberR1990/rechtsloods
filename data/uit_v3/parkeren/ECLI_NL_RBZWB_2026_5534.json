@@ -1,0 +1,137 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:5534",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Oisterwijk",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing (de rekening achteraf), omdat er op 31 januari 2025 niet was betaald. Hij ging in beroep bij de rechtbank Zeeland-West-Brabant tegen de gemeente Oisterwijk.",
+ "titel": "Naheffing blijft: defect van de automaat niet aannemelijk gemaakt",
+ "kern": {
+  "zin": "De rechter vond de naheffing terecht, omdat niet was aangetoond dat de automaat defect was.",
+  "bron": [
+   20,
+   24
+  ],
+  "citaat": "Naar het oordeel van de rechtbank is de aanslag parkeerbelasting terecht opgelegd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle zagen parkeercontroleurs op 31 januari 2025 dat er niet was betaald.",
+   "bron": [
+    14,
+    15
+   ],
+   "citaat": "Tijdens een controle op voornoemde datum en tijd"
+  },
+  {
+   "zin": "De parkeerder kreeg een naheffing van 79,60 euro.",
+   "bron": [
+    15
+   ],
+   "citaat": "opgelegd voor een totaalbedrag van"
+  },
+  {
+   "zin": "De parkeerder zei dat de app in de gemeente niet werkte en dat de automaat defect was.",
+   "bron": [
+    23
+   ],
+   "citaat": "dat dit niet mogelijk was in de gemeente"
+  },
+  {
+   "zin": "De gemeente zei dat het risico van de niet werkende app bij de parkeerder ligt, en dat niet bleek dat de automaat defect was.",
+   "bron": [
+    23
+   ],
+   "citaat": "uit de feiten volgt niet dat de nabijgelegen parkeerautomaat defect was"
+  },
+  {
+   "zin": "Volgens de rechter had de parkeerder nog moeten proberen elders te betalen.",
+   "bron": [
+    24
+   ],
+   "citaat": "van de parkeerder enige inspanning mag worden verwacht om de parkeerbelasting alsnog te voldoen"
+  },
+  {
+   "zin": "De naheffing blijft staan, de uitspraak op bezwaar ook, en het griffierecht wordt niet vergoed.",
+   "bron": [
+    26
+   ],
+   "citaat": "De uitspraak op bezwaar en de naheffingsaanslag blijven in stand"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan, geen griffierecht terug.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening van 79,60 euro blijft staan, en het griffierecht komt niet terug.",
+  "bron": [
+   26
+  ],
+  "citaat": "Er is geen aanleiding voor vergoeding van het griffierecht"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De parkeerapp werkte niet in deze gemeente en de parkeerautomaat was defect.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter is het defect van de automaat niet aannemelijk gemaakt, en een defecte automaat ontslaat niet van betalen.",
+    "bron": [
+     24
+    ],
+    "citaat": "Een defecte parkeerautomaat leidt er niet toe dat de parkeerder niet hoeft te betalen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Een defecte parkeerautomaat leidt er niet toe dat de parkeerder niet hoeft te betalen",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder moet zelf uitzoeken welk parkeerregime geldt, ook als hij een app gebruikt.",
+  "type": "regel",
+  "reikwijdte": "parkeerder die een parkeerapp of een automaat gebruikt",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "Uit vaste rechtspraak volgt dat van een weggebruiker mag worden verwacht dat hij zichzelf op de hoogte stelt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Niet aannemelijk gemaakt dat de nabijgelegen automaat defect was."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 2 aanhef en onderdeel a Verordening op de heffing en de invordering van parkeerbelastingen 2025 Oisterwijk",
+  "art. 9 Verordening op de heffing en de invordering van parkeerbelastingen 2025 Oisterwijk"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuivere toetsing; de gemeente hoeft niets te veranderen",
+ "raakt": [
+  "tarief-naheffing",
+  "betaalapp",
+  "bezwaar"
+ ],
+ "klantuitleg": "De rekening voor het parkeren blijft staan als u niet hebt betaald, ook als de app of de automaat niet werkte. De rechter vond dat u zelf nog had moeten zoeken naar een andere manier om te betalen. Bij een defecte automaat helpt bewijs dat die echt kapot was; zonder bewijs heeft bezwaar op dit punt weinig kans.",
+ "gemeente": "Oisterwijk",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

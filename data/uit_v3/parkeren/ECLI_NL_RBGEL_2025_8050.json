@@ -1,0 +1,42 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBGEL:2025:8050",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "gehandicaptenplaats",
+ "kenmerk": null,
+ "zaaktype": "verkeersbesluit",
+ "partijen": {"burger": "bewoner", "wederpartij": "gemeente Wijchen", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Twee bewoners procedeerden bij de rechtbank Gelderland tegen het college van de gemeente Wijchen. Het college had één openbare parkeerplaats ingericht als gehandicaptenplaats voor twee kentekens.",
+ "titel": "Gemeente mag één gehandicaptenplaats voor twee auto's",
+ "kern": {"zin": "De rechter vond het redelijk dat één gehandicaptenplaats voor twee kentekens is ingericht, omdat de bewoners op eigen terrein kunnen parkeren.", "bron": [46, 44], "citaat": "heeft het college in redelijkheid kunnen besluiten tot het inrichten van één gehandicaptenparkeerplaats"},
+ "samenvatting": [
+  {"zin": "Met een verkeersbesluit van 31 augustus 2023 koos het college voor een plek met twee kentekens.", "bron": [23], "citaat": "maar dan verbonden aan twee kentekens"},
+  {"zin": "De bewoners vonden dat elk van hen een eigen plek nodig had.", "bron": [29], "citaat": "twee individuele gehandicaptenparkeerplaatsen had moeten aanwijzen"},
+  {"zin": "Het college vond dat twee kentekens aan één gehandicaptenplaats gekoppeld mogen worden.", "bron": [30], "citaat": "dat het mogelijk is om twee kentekens te koppelen aan één gehandicaptenparkeerplaats"},
+  {"zin": "De rechter vond dat twee kentekens op één plek mogelijk zijn.", "bron": [43], "citaat": "dat het mogelijk is om op één gehandicaptenparkeerplaats twee kentekens te registreren"},
+  {"zin": "Volgens de rechter was een tweede plek onevenredig, omdat de bewoners zelf op eigen terrein kunnen parkeren.", "bron": [44], "citaat": "het onevenredig is om een tweede gehandicaptenparkeerplaats aan de openbaarheid te onttrekken"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de bewoners verliezen en krijgen geen proceskosten of griffierecht terug.",
+ "gevolg_betrokkene": {"zin": "De plek met twee kentekens blijft zo, en de bewoners krijgen geen griffierecht en geen proceskosten terug.", "bron": [51], "citaat": "Eiseressen krijgen daarom het griffierecht niet terug."},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "onevenredig", "burger_zegt": "De bewoners vonden dat zij elk een eigen gehandicaptenplaats nodig hadden, omdat er op eigen terrein te weinig ruimte is.", "oordeel": "verworpen", "waarom": {"zin": "Volgens de rechter was een tweede plek onevenredig, omdat de bewoners zelf op eigen terrein kunnen parkeren.", "bron": [44], "citaat": "het onevenredig is om een tweede gehandicaptenparkeerplaats aan de openbaarheid te onttrekken"}, "bruikbare_zin": {"citaat": "het onevenredig is om een tweede gehandicaptenparkeerplaats aan de openbaarheid te onttrekken", "bron": [44]}},
+  {"arg": "belangenafweging-verkeersbesluit", "burger_zegt": "De plek was niet met lijnen gemarkeerd, zodat auto's de plek konden blokkeren.", "oordeel": "verworpen", "waarom": {"zin": "De rechter vond dat lijnen op de weg niet nodig waren, omdat het bord duidelijk genoeg was.", "bron": [49], "citaat": "het aanbrengen van belijning niet nodig is"}, "bruikbare_zin": {"citaat": "een blauw verkeersbord met onderborden is geplaatst met daarop de aanduiding van de parkeerplaats als gehandicaptenparkeerplaats", "bron": [49]}}
+ ],
+ "rechtsregel": {"zin": "De rechter toetst een verkeersbesluit op redelijkheid en kijkt of het niet onevenredig is voor de doelen van dat besluit.", "type": "regel", "reikwijdte": "verkeersbesluiten over parkeerplaatsen, zoals een gehandicaptenplaats", "uitzondering": null, "herkomst": "oordeel rechter", "bron": [36], "citaat": "onevenredig is in verhouding tot de met dat besluit te dienen doelen"},
+ "bewijs": {"bewijslast_bij": "burger", "bewijsmiddelen": ["documenten over parkeren op eigen terrein"], "wat_gaf_doorslag": "Het ontbreken van stukken dat parkeren op eigen terrein te belastend was."},
+ "toepasselijkheid": "landelijk",
+ "lijn": {"soort": "onbekend", "eerdere": ["ECLI:NL:RVS:2025:2081", "ECLI:NL:RVS:2023:599"]},
+ "wetsartikelen": ["art. 2 Wegenverkeerswet 1994", "art. 15 Wegenverkeerswet 1994", "art. 21 Besluit administratieve bepalingen inzake het wegverkeer", "art. 26 Reglement verkeersregels en verkeerstekens 1990"],
+ "actie_gemeente": [{"actie": "Zet bij een gehandicaptenplaats voor meerdere kentekens een blauw bord met onderborden met die kentekens neer.", "raakt": "bebording-verkeersbesluit", "bron": [49], "citaat": "een blauw verkeersbord met onderborden is geplaatst met daarop de aanduiding"}],
+ "reden_leeg_actie": null,
+ "raakt": ["bebording-verkeersbesluit", "vergunningen", "bezwaar"],
+ "klantuitleg": "Een gehandicaptenplaats kan voor twee kentekens gelden, maar er mag alleen een van die auto's staan. Of een tweede plek nodig is, hangt af van wat u op eigen terrein kunt parkeren; de rechter wil daar stukken over zien. Bezwaar heeft op dit punt weinig kans als u op eigen terrein kunt parkeren.",
+ "gemeente": "Wijchen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

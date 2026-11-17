@@ -1,0 +1,131 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:8791",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Het gaat om een naheffingsaanslag parkeerbelasting (de rekening achteraf voor parkeren zonder betaling) van de gemeente Breda. De parkeerder procedeert tegen de uitspraak op bezwaar van de heffingsambtenaar bij de Rechtbank Zeeland-West-Brabant.",
+ "titel": "Bankafschrift met 10 cent is onvoldoende bewijs van betaling",
+ "kern": {
+  "zin": "De rechter vond het bankafschrift te zwak, omdat het niet liet zien dat de betaling bij deze auto en plek hoorde.",
+  "bron": [
+   30
+  ],
+  "citaat": "Bovendien kan op basis van (enkel) het bankschrift niet worden vastgesteld dat deze transactie betrekking heeft"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle stelden parkeercontroleurs vast dat voor de auto geen parkeerbelasting was betaald.",
+   "bron": [
+    20
+   ],
+   "citaat": "Tijdens een controle op voornoemde datum en tijd is door parkeercontroleurs geconstateerd dat geen parkeerbelasting was voldaan."
+  },
+  {
+   "zin": "De gemeente rekende daarom 62,80 euro, waarvan het grootste deel kosten van de naheffing waren.",
+   "bron": [
+    21
+   ],
+   "citaat": "bestaande uit een bedrag aan belasting van € 1,15 en € 61,65 aan kosten van de naheffingsaanslag."
+  },
+  {
+   "zin": "Zij legde een bankafschrift over met een betaling van 10 cent, geboekt om 20:51 uur.",
+   "bron": [
+    22
+   ],
+   "citaat": "op 23 mei 2024 om 20:51 uur"
+  },
+  {
+   "zin": "De rechter vond 10 cent opvallend laag voor parkeren in het centrum van Breda.",
+   "bron": [
+    30
+   ],
+   "citaat": "De rechtbank constateert echter dat het op het bankafschrift vermelde bedrag van € 0,10 opmerkelijk laag is"
+  },
+  {
+   "zin": "De naheffing blijft staan, en de parkeerder krijgt het griffierecht niet terug.",
+   "bron": [
+    35,
+    33
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan, geen griffierecht.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing van 62,80 euro blijft staan, en zij krijgt het griffierecht niet terug.",
+  "bron": [
+   35,
+   33,
+   21
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Zij heeft wel betaald en dat blijkt uit een bankafschrift.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond 10 cent opvallend laag en niet te koppelen aan deze auto of plek.",
+    "bron": [
+     30
+    ],
+    "citaat": "De rechtbank constateert echter dat het op het bankafschrift vermelde bedrag van € 0,10 opmerkelijk laag is"
+   },
+   "bruikbare_zin": {
+    "citaat": "Bovendien kan op basis van (enkel) het bankschrift niet worden vastgesteld dat deze transactie betrekking heeft",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeerbelasting moet meteen bij het parkeren worden betaald, met een redelijke tijd om dat te regelen.",
+  "type": "regel",
+  "reikwijdte": "parkeren op een plek waar betaald parkeren geldt",
+  "uitzondering": "een redelijke termijn voor de betaalhandelingen",
+  "herkomst": "lokale verordening",
+  "bron": [
+   29
+  ],
+  "citaat": "parkeerbelasting direct bij aanvang van het parkeren verschuldigd is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "bankafschrift"
+  ],
+  "wat_gaf_doorslag": "Het bankafschrift liet niet zien dat de betaling bij deze auto en plek hoorde."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Verordening parkeerbelasting Breda"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver bewijsoordeel; geen actie voor de gemeente uit deze uitspraak",
+ "raakt": [
+  "bezwaar",
+  "betaalapp"
+ ],
+ "klantuitleg": "Volgens de rechter heeft u met uw bankafschrift niet genoeg bewezen dat u voor deze auto en deze plek heeft betaald. Het bedrag was ook erg laag voor het centrum van Breda. Wilt u dit betwisten, dan helpt bewijs waaruit blijkt voor welk kenteken en welke plek u betaalde; een garantie op gelijk is dat niet.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

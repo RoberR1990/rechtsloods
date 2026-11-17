@@ -1,0 +1,171 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2020:2927",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "misbruik-herhaald",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "verzoeker",
+  "wederpartij": "gemeente Zundert",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De gemeente Zundert ging in hoger beroep bij de Raad van State tegen een uitspraak over een inzageverzoek van een burger. De zaak draait om de vraag of de gemeente eerst extra bewijs van identiteit mocht vragen.",
+ "titel": "Gemeente mag extra identificatie vragen bij inzageverzoek",
+ "kern": {
+  "zin": "De gemeente mocht het inzageverzoek van de burger buiten behandeling stellen, omdat zij zijn identiteit niet kon vaststellen.",
+  "bron": [
+   41
+  ],
+  "citaat": "onvoldoende gegevens had om het verzoek in behandeling te nemen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente Zundert om inzage in de persoonsgegevens die zij over hem had verwerkt.",
+   "bron": [
+    23
+   ],
+   "citaat": "verzocht om inzage in de verwerking van zijn persoonsgegevens"
+  },
+  {
+   "zin": "De gemeente stelde het verzoek buiten behandeling, omdat zij de identiteit van de verzoeker niet goed kon vaststellen.",
+   "bron": [
+    24
+   ],
+   "citaat": "het de identiteit van de verzoeker niet deugdelijk kan vaststellen"
+  },
+  {
+   "zin": "De gemeente vond dat de burger misbruik maakte van het recht om inzage te vragen.",
+   "bron": [
+    25
+   ],
+   "citaat": "misbruik maakt van de bevoegdheid om inzageverzoeken in te dienen"
+  },
+  {
+   "zin": "De Raad van State oordeelde dat daarvan geen sprake was.",
+   "bron": [
+    34
+   ],
+   "citaat": "het college zich niet kon beroepen op misbruik van recht"
+  },
+  {
+   "zin": "Toch kreeg de burger geen inzage, omdat een kopie van zijn paspoort niet genoeg was om zijn identiteit vast te stellen.",
+   "bron": [
+    39
+   ],
+   "citaat": "alleen een kopie van het paspoort in dit geval niet voldoende was"
+  },
+  {
+   "zin": "De burger hoeft ook geen vergoeding van proceskosten te verwachten.",
+   "bron": [
+    46
+   ],
+   "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Het hoger beroep van de gemeente slaagt; de burger krijgt geen inzage",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen inzage in zijn persoonsgegevens.",
+  "bron": [
+   41
+  ],
+  "citaat": "onvoldoende gegevens had om het verzoek in behandeling te nemen"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "misbruik-recht",
+   "burger_zegt": "Mijn inzageverzoek is geen misbruik van recht; ik wil gewoon mijn gegevens zien.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de burger met zijn verzoek een echt doel nastreefde.",
+    "bron": [
+     34
+    ],
+    "citaat": "maakt niet dat het doel van het verzoek niet meer in overeenstemming is met het doel van de AVG"
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank heeft terecht geoordeeld dat het college zich niet kon beroepen op misbruik van recht",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Een kopie van mijn paspoort is genoeg om mijn identiteit vast te stellen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente wel mocht twijfelen en extra bewijs mocht vragen.",
+    "bron": [
+     39
+    ],
+    "citaat": "alleen een kopie van het paspoort in dit geval niet voldoende was"
+   },
+   "bruikbare_zin": {
+    "citaat": "alleen een kopie van het paspoort in dit geval niet voldoende was",
+    "bron": [
+     39
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als er reden is om aan de identiteit te twijfelen, mag de organisatie om aanvullende informatie vragen.",
+  "type": "regel",
+  "reikwijdte": "bij een inzageverzoek als de organisatie reden heeft om aan de identiteit van de verzoeker te twijfelen",
+  "uitzondering": "Is een kopie van het identiteitsbewijs wel genoeg, dan hoeft er geen extra informatie te worden gevraagd.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   38
+  ],
+  "citaat": "Als reden bestaat om te twijfelen aan de identiteit, mag om aanvullende informatie gevraagd worden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "kopie van het paspoort",
+   "handtekening op eerdere Wob-verzoeken",
+   "gewaarmerkte kopie van het paspoort"
+  ],
+  "wat_gaf_doorslag": "Het college mocht twijfelen aan de identiteit omdat de handtekening verschilde, en de burger kwam niet langs of stuurde geen gewaarmerkte kopie."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2019:184",
+   "ECLI:NL:RVS:2019:2797",
+   "ECLI:NL:RVS:2020:2833"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 12 lid 6 AVG",
+  "art. 15 AVG",
+  "art. 6:5 Awb",
+  "art. 6:24 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bied bij een inzageverzoek meteen een gewaarmerkte of gelegaliseerde kopie van het paspoort aan als alternatief voor langskomen.",
+   "raakt": "privacy-fg",
+   "bron": [
+    40
+   ],
+   "citaat": "opsturen van een gewaarmerkte of gelegaliseerde kopie van een paspoort ook voldoende zou worden gevonden"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "klantcontact"
+ ],
+ "klantuitleg": "Vraagt u inzage in uw gegevens, dan mag de gemeente eerst controleren wie u bent. Twijfelt de gemeente aan uw identiteit, dan mag zij om extra bewijs vragen, bijvoorbeeld een gewaarmerkte kopie van uw paspoort. Kunt u niet langskomen, vraag dan zelf om zo'n andere manier van identificeren.",
+ "gemeente": "Zundert",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

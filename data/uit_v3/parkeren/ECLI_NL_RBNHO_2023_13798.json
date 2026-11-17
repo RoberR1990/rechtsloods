@@ -1,0 +1,162 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2023:13798",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "gemachtigde-bureau (namens de parkeerder)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder kreeg van de officier van justitie een boete voor parkeren waar een verbod gold. Zijn gemachtigde ging in beroep bij de kantonrechter van de Rechtbank Noord-Holland.",
+ "titel": "Parkeerverbod niet bewezen: boete vervalt",
+ "kern": {
+  "zin": "De kantonrechter vond dat niet vast stond dat het verbodsbord er op het moment van het parkeren stond, dus de boete vervalt.",
+  "bron": [
+   24
+  ],
+  "citaat": "kan niet met voldoende mate van zekerheid worden vastgesteld dat ten tijde van het vaststellen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete omdat hij ergens parkeerde waar een parkeerverbod gold.",
+   "bron": [
+    18
+   ],
+   "citaat": "een voertuig parkeren waar dat niet mag (bord E1, parkeerverbod)"
+  },
+  {
+   "zin": "De parkeerder betwistte dat hij een bord E1 was gepasseerd en zei dat de bebording niet was gecontroleerd.",
+   "bron": [
+    19
+   ],
+   "citaat": "betwist dat hij een bord E1 is gepasseerd"
+  },
+  {
+   "zin": "Ter zitting legde de officier van justitie Streetview-beelden over van maart en november 2021.",
+   "bron": [
+    23
+   ],
+   "citaat": "zijn een tweetal uitdraaien uit Google Maps Streetview overgelegd"
+  },
+  {
+   "zin": "De kantonrechter oordeelde dat er meer dan zes maanden zat tussen de beelden en de gedraging.",
+   "bron": [
+    23
+   ],
+   "citaat": "Tussen maart 2021 en de verweten gedraging op 11 oktober 2021 zit meer dan zes maanden"
+  },
+  {
+   "zin": "De kantonrechter vernietigde de boete en bepaalde dat het bedrag dat als zekerheid is betaald, wordt teruggestort.",
+   "bron": [
+    31,
+    33
+   ],
+   "citaat": "vernietigt de beslissing van de officier van justitie en de beschikking waarbij de"
+  },
+  {
+   "zin": "De officier van justitie moet de proceskosten (de kosten van de juridische procedure) van de parkeerder vergoeden, € 1.284,75.",
+   "bron": [
+    34
+   ],
+   "citaat": "veroordeelt de officier van justitie tot het vergoeden van de proceskosten"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete vervalt en de officier betaalt de proceskosten van € 1.284,75.",
+ "gevolg_betrokkene": {
+  "zin": "De boete vervalt, het bedrag dat als zekerheid is betaald krijgt de parkeerder terug, en de proceskosten van € 1.284,75 worden vergoed.",
+  "bron": [
+   31,
+   33,
+   34
+  ],
+  "citaat": "vernietigt de beslissing van de officier van justitie en de beschikking waarbij de"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "De plek leek op een parkeerhaven, en de bebording was niet gecontroleerd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Er kon niet met voldoende zekerheid worden vastgesteld dat het bord E1 er op het moment van de gedraging stond.",
+    "bron": [
+     24
+    ],
+    "citaat": "kan niet met voldoende mate van zekerheid worden vastgesteld dat ten tijde van het vaststellen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dit betekent dat de gedraging niet kan worden vastgesteld",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "Er was geen fysieke hoorzitting, en dat moet leiden tot matiging.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De kantonrechter besprak dit niet meer, omdat de boete al wegviel.",
+    "bron": [
+     24
+    ],
+    "citaat": "Hetgeen overigens door de betrokkene naar voren is gebracht behoeft daarmee geen bespreking meer"
+   },
+   "bruikbare_zin": {
+    "citaat": "Hetgeen overigens door de betrokkene naar voren is gebracht behoeft daarmee geen bespreking meer",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de termijn tussen een bord en de gedraging langer is dan zes maanden, moet uit stukken blijken dat het bord niet was verwijderd of vervangen.",
+  "type": "regel",
+  "reikwijdte": "boetes waarbij het bord niet door de ambtenaar zelf is gecontroleerd",
+  "uitzondering": "Was de ambtenaar zelf ter plaatse, dan mag in het algemeen worden aangenomen dat de borden klopten; hier niet.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   22
+  ],
+  "citaat": "dan zal uit (nadere) stukken moeten blijken dat na verificatie van daarvoor beschikbare bronnen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "proces-verbaal van de verbalisant",
+   "Streetview-uitdraaien van maart en november 2021",
+   "verklaring over de rijroute"
+  ],
+  "wat_gaf_doorslag": "De Streetview-beelden waren meer dan zes maanden van de gedraging, zodat het bord niet kon worden vastgesteld."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHARL:2022:7804",
+   "ECLI:NL:GHARL:2022:280"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 9 WAHV",
+  "art. 3, lid 2, WAHV"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een boete voor parkeren waar een verbod geldt, is niet terecht als niet vast staat dat het verbodsbord er op dat moment stond. Oude beelden tellen alleen mee als ze binnen zes maanden voor of na de boete zijn gemaakt. Wilt u bezwaar maken, leg dan de route, de datum en de borden vast.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "niet genoemd in de tekst (terrein van Schiphol, partij is de officier van justitie)",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

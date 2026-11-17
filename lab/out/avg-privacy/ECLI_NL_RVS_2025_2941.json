@@ -1,0 +1,179 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:2941",
+ "relevant": true,
+ "onderwerp": "politie-justitie",
+ "sub": "wpg-inzage",
+ "kenmerk": null,
+ "zaaktype": "politiegegevens",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "minister van Defensie (Koninklijke Marechaussee)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger vroeg de Koninklijke Marechaussee om inzage in zijn politiegegevens, omdat hij problemen heeft bij grenscontroles. Hij ging in hoger beroep tegen de minister van Defensie bij de Raad van State.",
+ "titel": "Marechaussee gaf inzage; burger maakt niet aannemelijk dat er meer is",
+ "kern": {
+  "zin": "De Raad van State vond dat de burger niet aannemelijk maakte dat de Marechaussee meer gegevens heeft dan al getoond, ondanks zijn grote problemen bij grenscontroles.",
+  "bron": [
+   34
+  ],
+  "citaat": "heeft hij niet aannemelijk gemaakt dat er meer gegevens zijn die onder de verwerkingsverantwoordelijkheid van de KMar berusten"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de Koninklijke Marechaussee om inzage in zijn persoonsgegevens.",
+   "bron": [
+    20
+   ],
+   "citaat": "heeft een verzoek om inzage in zijn persoonsgegevens bij de Koninklijke Marechaussee"
+  },
+  {
+   "zin": "De minister gaf inzage in twaalf registraties, waarin een signalering in een Europees opsporingssysteem (SIS-II) werd genoemd.",
+   "bron": [
+    21
+   ],
+   "citaat": "inzage verleend in twaalf mutaties met een omschrijving van hun inhoud"
+  },
+  {
+   "zin": "De burger zei dat er meer gegevens moeten zijn en dat hij nog te weinig over die signalering kreeg.",
+   "bron": [
+    34
+   ],
+   "citaat": "in negen van de twaalf aan hem verstrekte mutaties is vermeld dat op hem een SIS-signalering van toepassing is"
+  },
+  {
+   "zin": "De minister zei dat het om een nationale aandachtsvestiging ging en niet om een internationale signalering.",
+   "bron": [
+    34
+   ],
+   "citaat": "sprake geweest van een aandachtsvestiging op nationaal niveau en niet van een (internationale) signalering"
+  },
+  {
+   "zin": "De rechter vond het niet ongeloofwaardig dat het vakje SIS per vergissing was aangekruist, omdat onder meer een SIS-nummer in de registraties ontbrak.",
+   "bron": [
+    34
+   ],
+   "citaat": "Ook ontbreekt in de mutaties een SIS-identificatienummer en een vermelding van de signalerende autoriteit."
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    38
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De Afdeling bevestigt de uitspraak van de rechtbank."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Inzage was volledig; burger maakte niet aannemelijk dat er meer is.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen extra gegevens en geen vergoeding van proceskosten.",
+  "bron": [
+   38,
+   39
+  ],
+  "citaat": "Het hoger beroep is ongegrond. De Afdeling bevestigt de uitspraak van de rechtbank."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Er zijn meer politiegegevens over mij dan ik kreeg, zoals over de SIS-signalering en in het systeem Summ-IT.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger maakte niet aannemelijk dat de Marechaussee meer gegevens heeft; de uitleg van de minister was niet ongeloofwaardig.",
+    "bron": [
+     34
+    ],
+    "citaat": "heeft hij niet aannemelijk gemaakt dat er meer gegevens zijn die onder de verwerkingsverantwoordelijkheid van de KMar berusten"
+   },
+   "bruikbare_zin": {
+    "citaat": "Ook ontbreekt in de mutaties een SIS-identificatienummer en een vermelding van de signalerende autoriteit.",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De AVG geldt ook; ik wil nog inzage in eerstelijncontroles en passagiersgegevens.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het AVG-verzoek was een aparte procedure; deze zaak ging alleen over de Wet politiegegevens.",
+    "bron": [
+     29
+    ],
+    "citaat": "Het gaat in deze procedure alleen om de Wpg en niet om de AVG."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het gaat in deze procedure alleen om de Wpg en niet om de AVG.",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Mijn recht op een eerlijk proces is geschonden, omdat het voor mij erg moeilijk is om te achterhalen welke gegevens er zijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dat het moeilijk is om aannemelijk te maken dat er meer gegevens zijn, is op zich geen strijd met een eerlijk proces.",
+    "bron": [
+     36
+    ],
+    "citaat": "is er daarmee nog geen sprake van strijd met het beginsel van een eerlijk proces"
+   },
+   "bruikbare_zin": {
+    "citaat": "is er daarmee nog geen sprake van strijd met het beginsel van een eerlijk proces",
+    "bron": [
+     36
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Zegt een organisatie na onderzoek dat een document er niet is, en is dat niet ongeloofwaardig, dan moet de burger aannemelijk maken dat het er toch is.",
+  "type": "regel",
+  "reikwijdte": "Inzageverzoeken op grond van de Wet politiegegevens.",
+  "uitzondering": "Als de mededeling van de organisatie ongeloofwaardig overkomt, geldt dit niet.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   32
+  ],
+  "citaat": "het in beginsel aan degene is die om informatie verzoekt om aannemelijk te maken dat"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "uitleg van de minister op de zitting",
+   "de twaalf registraties (mutaties)",
+   "ontbrekend SIS-nummer"
+  ],
+  "wat_gaf_doorslag": "Er was geen contact met Bureau Sirene en in de registraties ontbrak een SIS-nummer."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2024:232"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 25 Wet politiegegevens",
+  "art. 15 AVG",
+  "art. 6 EVRM"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Wie om inzage vraagt, krijgt de gegevens die de organisatie heeft. Zegt de organisatie na onderzoek dat er niet meer is, en klinkt dat geloofwaardig, dan moet u zelf laten zien dat er toch meer is. Dat uw problemen groot zijn is daarvoor niet genoeg. Wijs daarom op concrete aanwijzingen, zoals stukken waaruit blijkt dat er meer gegevens bestaan.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente niet betrokken; minister van Defensie is partij",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

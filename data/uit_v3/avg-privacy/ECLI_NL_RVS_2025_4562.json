@@ -1,0 +1,203 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:4562",
+ "relevant": true,
+ "onderwerp": "toezicht-handhaving",
+ "sub": "boete",
+ "kenmerk": null,
+ "zaaktype": "boete-ap",
+ "partijen": {
+  "burger": "bedrijf (uitgever van tijdschriften)",
+  "wederpartij": "Autoriteit Persoonsgegevens",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De Autoriteit Persoonsgegevens (AP) gaf een tijdschriftenuitgever een boete omdat die bij inzage- en wisverzoeken altijd een kopie van het identiteitsbewijs vroeg. Zowel de AP als het bedrijf ging in hoger beroep bij de Raad van State.",
+ "titel": "Boete om altijd identiteitskopie te vragen gehalveerd",
+ "kern": {
+  "zin": "De rechter vond dat de AP een boete mocht opleggen, maar matigde die omdat de AP de redenen voor een lagere boete niet besprak.",
+  "bron": [
+   48,
+   49
+  ],
+  "citaat": "De AP heeft de aangevoerde redenen voor een mogelijke boeteverlaging verder onbesproken gelaten."
+ },
+ "samenvatting": [
+  {
+   "zin": "Het bedrijf vroeg bij verzoeken buiten zijn inlogomgeving standaard en vooraf om een kopie van het identiteitsbewijs.",
+   "bron": [
+    23
+   ],
+   "citaat": "standaard en op voorhand om hun identiteit te bevestigen met een kopie van hun identiteitsbewijs"
+  },
+  {
+   "zin": "De AP legde daarvoor een boete van € 525.000 op.",
+   "bron": [
+    23
+   ],
+   "citaat": "heeft de AP aan [appellante sub 2] daarom een boete van € 525.000,00 opgelegd"
+  },
+  {
+   "zin": "Het bedrijf zei dat een kopie nodig was om verzoekers veilig te identificeren.",
+   "bron": [
+    29
+   ],
+   "citaat": "Voor het identificeren van verzoekers vormde een (afgeschermde) kopie van het identiteitsbewijs een noodzakelijk middel"
+  },
+  {
+   "zin": "De rechter oordeelde dat het bedrijf zo onnodige drempels opwierp voor mensen die hun rechten wilden gebruiken.",
+   "bron": [
+    33
+   ],
+   "citaat": "heeft daarom onnodige drempels voor betrokkenen opgeworpen die zich op hun rechten uit de AVG wilden beroepen"
+  },
+  {
+   "zin": "Omdat het om structureel beleid ging en niet om een vergissing, mocht de AP een boete opleggen.",
+   "bron": [
+    41
+   ],
+   "citaat": "geen sprake is van een incident of een enkele vergissing, maar van structureel beleid"
+  },
+  {
+   "zin": "De rechter matigde de boete met 50 procent, mede omdat het om een klein aantal gevallen ging en het bedrijf zijn beleid al had aangepast.",
+   "bron": [
+    49
+   ],
+   "citaat": "Alles afwegend ziet de Afdeling daarom aanleiding de boete met 50% te matigen."
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Boete mocht, maar gaat van € 525.000 naar € 262.500",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrijf betaalt € 262.500 boete in plaats van € 525.000 en krijgt € 2.721 proceskosten vergoed.",
+  "bron": [
+   62,
+   64
+  ],
+  "citaat": "bepaalt dat boete wordt vastgesteld op € 262.500,00"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Een kopie van het identiteitsbewijs was nodig en proportioneel om verzoekers te identificeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Meer informatie vragen dan nodig is, strijdt met het beginsel van zo min mogelijk gegevens.",
+    "bron": [
+     33
+    ],
+    "citaat": "Het vragen van meer informatie dan nodig is, is in strijd met het beginsel van minimale gegevensverwerking"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet heeft onderzocht of een alternatieve, minder ingrijpende verificatiemethode",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De boete had lager moeten zijn: het beleid was al gewijzigd en het ging om weinig gevallen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het beleid was ruim voor het voornemen tot handhaving gewijzigd en het ging om een klein aantal gevallen.",
+    "bron": [
+     49
+    ],
+    "citaat": "Verder is van belang dat [appellante sub 2] haar beleid ruim voor het uitbrengen van het voornemen tot handhaving door de AP heeft gewijzigd."
+   },
+   "bruikbare_zin": {
+    "citaat": "In de praktijk ging het daarom slechts om een relatief klein aantal gevallen.",
+    "bron": [
+     49
+    ]
+   }
+  },
+  {
+   "arg": "motivering",
+   "burger_zegt": "De AP is niet ingegaan op de redenen voor een lagere boete.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De AP ging onvoldoende in op de redenen voor matiging, wat in strijd is met het motiveringsbeginsel.",
+    "bron": [
+     48
+    ],
+    "citaat": "De Afdeling stelt vast dat de AP daarmee onvoldoende is ingegaan op de door [appellante sub 2] aangevoerde gronden voor matiging."
+   },
+   "bruikbare_zin": {
+    "citaat": "Daarmee heeft zij gehandeld in strijd met het motiveringsbeginsel.",
+    "bron": [
+     48
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een organisatie moet bij verzoeken om inzage of wissing eerst onderzoeken of identificatie op een minder ingrijpende manier kan, en mag niet standaard een identiteitskopie eisen.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om inzage of wissing bij organisaties die veel persoonsgegevens verwerken, buiten een inlogomgeving",
+  "uitzondering": "Een kopie van een identiteitsbewijs is op zichzelf geen onredelijk middel om iemand te identificeren.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   33
+  ],
+  "citaat": "niet heeft onderzocht of een alternatieve, minder ingrijpende verificatiemethode"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "privacyverklaring van het bedrijf",
+   "nieuw beleid na het besluit",
+   "verklaring van het bedrijf op de zitting"
+  ],
+  "wat_gaf_doorslag": "Het bedrijf vroeg altijd vooraf om een kopie, zonder een minder ingrijpende manier te onderzoeken."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2020:2927",
+   "ECLI:NL:RVS:2020:2915",
+   "ECLI:NL:RVS:2024:2221",
+   "ECLI:NL:RVS:2023:4624",
+   "ECLI:NL:RVS:2024:4281"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 12 lid 2 AVG",
+  "art. 5 lid 1 sub c AVG",
+  "art. 58 lid 2 sub i AVG",
+  "art. 83 lid 2 AVG",
+  "art. 5:46 lid 2 Awb",
+  "Boetebeleidsregels AP 2019"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Onderzoek bij een inzage- of wisverzoek eerst of u de burger lichter kunt identificeren, voordat u een identiteitskopie vraagt.",
+   "raakt": "klantcontact",
+   "bron": [
+    33
+   ],
+   "citaat": "niet heeft onderzocht of een alternatieve, minder ingrijpende verificatiemethode"
+  },
+  {
+   "actie": "Meld bij elke vraag om een identiteitsbewijs dat BSN en pasfoto onleesbaar gemaakt mogen worden.",
+   "raakt": "privacy-fg",
+   "bron": [
+    32
+   ],
+   "citaat": "Dit was dus niet steeds duidelijk voor de verzoekers."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "klantcontact",
+  "privacy-fg"
+ ],
+ "klantuitleg": "Wilt u inzage in uw gegevens of dat ze worden gewist, dan mag een organisatie u vragen te bewijzen wie u bent. Zij mag niet standaard een volledige kopie van uw identiteitsbewijs eisen als het ook lichter kan, bijvoorbeeld met een klantnummer of e-mail. Wordt u toch om een kopie gevraagd, maak dan uw BSN en pasfoto onleesbaar en vraag of dat genoeg is.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente betrokken",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

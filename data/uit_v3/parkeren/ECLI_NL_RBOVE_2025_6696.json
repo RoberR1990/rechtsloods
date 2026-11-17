@@ -1,0 +1,161 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2025:6696",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Deventer",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeert tegen de gemeente Deventer over een naheffing parkeerbelasting van € 80,03. De rechtbank Overijssel oordeelt in een enkelvoudige kamer.",
+ "titel": "Naheffing blijft: betalen was niet direct na het parkeren begonnen",
+ "kern": {
+  "zin": "De rechter vond dat de betaling niet direct na het parkeren was begonnen, dus de naheffing blijft staan.",
+  "bron": [
+   34
+  ],
+  "citaat": "is naar het oordeel van de rechtbank niet sprake geweest van het"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controleur legde de parkeerder om 19:38 uur een naheffing op.",
+   "bron": [
+    19
+   ],
+   "citaat": "De controleur heeft belanghebbende om 19:38 uur een naheffingsaanslag parkeerbelastingen opgelegd"
+  },
+  {
+   "zin": "De parkeerder zei dat de automaat niet werkte en dat hij via een app betaalde.",
+   "bron": [
+    25
+   ],
+   "citaat": "heeft hij zijn auto via een app aangemeld"
+  },
+  {
+   "zin": "De gemeente zei dat de auto niet tijdig was aangemeld.",
+   "bron": [
+    27
+   ],
+   "citaat": "is de auto niet tijdig aangemeld"
+  },
+  {
+   "zin": "De rechter vond de storing bij de automaat niet aannemelijk.",
+   "bron": [
+    36
+   ],
+   "citaat": "acht de rechtbank daarom niet aannemelijk"
+  },
+  {
+   "zin": "Het beroep is ongegrond en de naheffing blijft staan.",
+   "bron": [
+    44
+   ],
+   "citaat": "Dit betekent dat het bestreden besluit in stand blijft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; beroep ongegrond, geen griffierecht of kosten.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing van € 80,03 blijft staan, en er is geen vergoeding voor griffierecht of kosten.",
+  "bron": [
+   44,
+   45
+  ],
+  "citaat": "Dit betekent dat het bestreden besluit in stand blijft"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De automaat werkte niet, dus is hij naar zijn bestemming gelopen en heeft hij via een app betaald.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de storing bij de automaat niet aannemelijk.",
+    "bron": [
+     36
+    ],
+    "citaat": "acht de rechtbank daarom niet aannemelijk"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet is gebleken dat die dag rond 19:30 uur sprake was van een storing van parkeerautomaten",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De gemeente heeft de hoorplicht geschonden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat de parkeerder niet om een hoorzitting had gevraagd, dus de hoorplicht is niet geschonden.",
+    "bron": [
+     42
+    ],
+    "citaat": "De hoorplicht is aldus niet geschonden"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet verzocht omtrent zijn bezwaren te worden gehoord",
+    "bron": [
+     42
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij betaald parkeren moeten de handelingen om te betalen direct beginnen en doorgaan.",
+  "type": "regel",
+  "reikwijdte": "Betaald parkeren waar de parkeerbelasting bij aanvang moet worden voldaan.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   33
+  ],
+  "citaat": "moeten wel onverwijld worden gestart en voortgezet zodra de auto is geparkeerd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "foto's van de controle",
+   "gegevens van het computersysteem van de heffingsambtenaar"
+  ],
+  "wat_gaf_doorslag": "De foto's lieten zien dat er niets op aanmelden wees, en de automaten werkten."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 234 lid 2 onder a Gemeentewet",
+  "art. 4 Parkeerbelastingverordening 2024 Deventer",
+  "art. 6 Parkeerbelastingverordening 2024 Deventer",
+  "art. 25 lid 1 AWR"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij een fysieke controle vast of er betaalhandelingen bij de automaat waren.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    28
+   ],
+   "citaat": "die avond persoonlijk heeft gecontroleerd of betalingsactiviteiten plaatsvonden"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "scanauto-handhaving",
+  "tarief-naheffing",
+  "bezwaar"
+ ],
+ "klantuitleg": "Uw naheffing van € 80,03 blijft staan. Een naheffing is terecht als u niet direct na het parkeren begint met betalen of aanmelden. Heeft u bewijs van een storing van de automaat, dan kan dat helpen bij een volgende procedure.",
+ "gemeente": "Deventer",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,132 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2022:1282",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder)",
+  "wederpartij": "gemeente Amstelveen",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder betaalde via de app Parkmobile voor een goedkopere zone dan de zone waar hij stond. Hij ging bij de rechtbank Amsterdam in beroep tegen de naheffing van de gemeente Amstelveen.",
+ "titel": "Verkeerde zone in parkeerapp komt voor eigen rekening",
+ "kern": {
+  "zin": "De naheffing bleef staan, want parkeerbelasting is een objectieve belasting: wat de parkeerder bedoelde telt niet mee.",
+  "bron": [
+   18
+  ],
+  "citaat": "Parkeerbelasting is namelijk een zogenaamde objectieve belasting"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controleur zag dat voor de auto geen parkeergeld was betaald, waarna de gemeente een naheffing oplegde.",
+   "bron": [
+    14
+   ],
+   "citaat": "heeft een parkeercontroleur geconstateerd dat [eiser] geen parkeergeld had betaald"
+  },
+  {
+   "zin": "De parkeerder zei dat hij via de app per ongeluk een andere zone koos.",
+   "bron": [
+    15
+   ],
+   "citaat": "dat hij via de parkeerapp op basis van de GPS-locatie per ongeluk de verkeerde zone heeft geselecteerd"
+  },
+  {
+   "zin": "Het screenshot liet zien dat hij had betaald voor de goedkopere zone A.",
+   "bron": [
+    17
+   ],
+   "citaat": "dus voor de goedkopere tariefzone A"
+  },
+  {
+   "zin": "De rechtbank vond dat er daardoor te weinig was betaald, en de bedoeling van de parkeerder telde niet mee.",
+   "bron": [
+    18
+   ],
+   "citaat": "Daarmee staat vast dat [eiser] voor het parkeren minder belasting heeft betaald dan hij verschuldigd was"
+  },
+  {
+   "zin": "Het beroep werd afgewezen, en er kwam geen vergoeding voor proceskosten of het griffierecht (de rechtbankkosten).",
+   "bron": [
+    19
+   ],
+   "citaat": "Voor een proceskostenveroordeling of vergoeding van het griffierecht bestaat geen aanleiding"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; de verkeerde zone komt voor eigen rekening.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan, en de parkeerder krijgt geen proceskosten of griffierecht vergoed.",
+  "bron": [
+   19
+  ],
+  "citaat": "Het beroep is ongegrond"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij betaalde wel, maar koos per ongeluk de verkeerde zone via de app.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank legde de zorg voor het juiste tarief bij de parkeerder zelf.",
+    "bron": [
+     18
+    ],
+    "citaat": "Het is [eiser] zijn verantwoordelijkheid dat hij goed onderzoek doet"
+   },
+   "bruikbare_zin": {
+    "citaat": "maakt niet dat de naheffingsaanslag parkeerbelasting ten onrechte is opgelegd",
+    "bron": [
+     18
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De bedoeling van iemand telt bij parkeerbelasting niet mee: de belasting is objectief.",
+  "type": "regel",
+  "reikwijdte": "parkeerbelasting, ook als een verkeerde zone via de app is gekozen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   18
+  ],
+  "citaat": "Parkeerbelasting is namelijk een zogenaamde objectieve belasting"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "screenshot van de parkeerapp",
+   "vaststelling door de parkeercontroleur"
+  ],
+  "wat_gaf_doorslag": "Het screenshot toonde de goedkopere zone; juist daardoor was er te weinig betaald."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 4 Verordening op de heffing en invordering van parkeerbelastingen Amstelveen 2017",
+  "art. 5 Verordening op de heffing en invordering van parkeerbelastingen Amstelveen 2017"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente kreeg gelijk; geen tekortkoming aangewezen",
+ "raakt": [
+  "klantcontact",
+  "tarief-naheffing",
+  "betaalapp",
+  "bezwaar"
+ ],
+ "klantuitleg": "Betaalt u voor een andere zone dan waar u staat, dan kan er toch een naheffing komen, ook als dat per ongeluk gebeurde. Het gaat om wat u werkelijk heeft betaald voor de plek waar u stond. Controleer daarom voor het betalen goed de zone en het kenteken; volgens deze uitspraak is een bezwaar op dit punt niet genoeg.",
+ "gemeente": "Amstelveen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

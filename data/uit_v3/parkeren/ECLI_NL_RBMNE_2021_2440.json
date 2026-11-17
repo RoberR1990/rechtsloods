@@ -1,0 +1,133 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2021:2440",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente (via de Belastingsamenwerking)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeert tegen de gemeente over een naheffing (de rekening achteraf) voor parkeerbelasting. De zaak ligt bij de Rechtbank Midden-Nederland.",
+ "titel": "Te laat bezwaar tegen parkeerbelasting; beroep ongegrond",
+ "kern": {
+  "zin": "Het bezwaar kwam te laat binnen, dus het beroep is afgewezen.",
+  "bron": [
+   20
+  ],
+  "citaat": "Het bezwaar is terecht niet-ontvankelijk verklaard."
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde een naheffing op, en de parkeerder maakte daartegen bezwaar.",
+   "bron": [
+    15
+   ],
+   "citaat": "het bezwaar van eiser tegen de naheffingsaanslag"
+  },
+  {
+   "zin": "De parkeerder diende het bezwaar digitaal in, maar te laat.",
+   "bron": [
+    17
+   ],
+   "citaat": "Eiser heeft namelijk op 15 januari 2020 digitaal een bezwaarschrift ingediend."
+  },
+  {
+   "zin": "In beroep voerde de parkeerder niet aan dat hij er niets aan kon doen.",
+   "bron": [
+    19
+   ],
+   "citaat": "Eiser heeft in zijn beroepschrift niet gesteld dat de termijnoverschrijding redelijkerwijs niet aan hem is toe te rekenen."
+  },
+  {
+   "zin": "De rechter bevestigde dat de gemeente het bezwaar terecht niet-ontvankelijk verklaarde.",
+   "bron": [
+    20
+   ],
+   "citaat": "Het bezwaar is terecht niet-ontvankelijk verklaard."
+  },
+  {
+   "zin": "De rechter wees het beroep van de parkeerder af.",
+   "bron": [
+    20
+   ],
+   "citaat": "Het beroep tegen de uitspraak op bezwaar is ongegrond."
+  },
+  {
+   "zin": "Over de beslissing om de aanslag niet ambtshalve te verminderen oordeelde de rechter niet.",
+   "bron": [
+    22
+   ],
+   "citaat": "Tegen deze beslissing kan namelijk geen beroep bij de bestuursrechter worden ingesteld."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep afgewezen: bezwaar te laat ingediend; geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening blijft staan en de parkeerder krijgt geen proceskosten vergoed.",
+  "bron": [
+   20,
+   23
+  ],
+  "citaat": "Het bezwaar is terecht niet-ontvankelijk verklaard."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij voerde in beroep geen reden aan voor de late indiening.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Omdat hij dat niet aanvoerde, bleef het bij de te late indiening.",
+    "bron": [
+     19
+    ],
+    "citaat": "Eiser heeft in zijn beroepschrift niet gesteld dat de termijnoverschrijding redelijkerwijs niet aan hem is toe te rekenen."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het bezwaar is terecht niet-ontvankelijk verklaard.",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Te laat ingediend bezwaar moet de gemeente niet-ontvankelijk verklaren.",
+  "type": "regel",
+  "reikwijdte": "bezwaarschriften die na de termijn van zes weken binnenkomen",
+  "uitzondering": "de te late indiening is de indiener niet te verwijten",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   18
+  ],
+  "citaat": "Als iemand een bezwaarschrift te laat indient, moet het bestuursorgaan het bezwaar niet-ontvankelijk verklaren."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "indiendatum van het bezwaarschrift"
+  ],
+  "wat_gaf_doorslag": "De indiendatum van 15 januari 2020 was na de termijn van zes weken."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver procedurele uitspraak",
+ "raakt": [
+  "bezwaar"
+ ],
+ "klantuitleg": "Een bezwaar moet op tijd bij de gemeente binnen zijn. Komt het te laat, dan kan de gemeente het niet inhoudelijk behandelen en blijft de rekening voor het parkeren staan. Heeft u een goede reden waarom u niet op tijd kon, dan kunt u die zo snel mogelijk aan de gemeente uitleggen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

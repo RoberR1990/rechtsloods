@@ -1,0 +1,158 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2026:1283",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "invordering",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder ging in hoger beroep tegen een gemeente over € 9 aanmaningskosten voor een niet betaalde naheffingsaanslag (rekening achteraf). Het gerechtshof Amsterdam oordeelde over de zaak.",
+ "titel": "Geen aanmaningskosten zonder bewijs van het e-mailbericht",
+ "kern": {
+  "zin": "Het hof vernietigde de aanmaningskosten, omdat de gemeente niet aannemelijk maakte dat de burger een e-mailbericht over de naheffingsaanslag kreeg.",
+  "bron": [
+   26
+  ],
+  "citaat": "Dit leidt tot de conclusie dat geen aanmaningskosten in rekening hadden mogen worden gebracht"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente maande de burger aan voor een niet betaalde naheffingsaanslag en rekende € 9 aanmaningskosten.",
+   "bron": [
+    18
+   ],
+   "citaat": "heeft de invorderingsambtenaar hem daartoe op 4 mei 2024 aangemaand en daarbij € 9 aan aanmaningskosten in rekening gebracht"
+  },
+  {
+   "zin": "De burger zei dat hij geen e-mailbericht had gekregen over de naheffingsaanslag in zijn berichtenbox.",
+   "bron": [
+    23
+   ],
+   "citaat": "Belanghebbende betwist dat hem een notificatiebericht (een e-mail) is gezonden"
+  },
+  {
+   "zin": "De gemeente vroeg gegevens op bij de beheerder van MijnOverheid, maar die kon geen gegevens geven.",
+   "bron": [
+    25
+   ],
+   "citaat": "heeft echter aangegeven dat in de zaak van belanghebbende geen gegevens kunnen worden verstrekt"
+  },
+  {
+   "zin": "Omdat de burger dit betwistte, moest de gemeente aannemelijk maken dat het bericht was verstuurd.",
+   "bron": [
+    24
+   ],
+   "citaat": "is het aan de invorderingsambtenaar aannemelijk te maken dat een notificatiebericht is verstuurd"
+  },
+  {
+   "zin": "Dat lukte de gemeente niet, dus ging het hof ervan uit dat er geen bericht was verstuurd.",
+   "bron": [
+    26
+   ],
+   "citaat": "moet er voor dit geding van worden uitgegaan dat dit niet is gebeurd"
+  },
+  {
+   "zin": "Daarom hadden geen aanmaningskosten in rekening mogen worden gebracht en vernietigde het hof die beschikking.",
+   "bron": [
+    26
+   ],
+   "citaat": "Dit leidt tot de conclusie dat geen aanmaningskosten in rekening hadden mogen worden gebracht"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Aanmaningskosten vernietigd; gemeente betaalt € 2.534 aan kosten.",
+ "gevolg_betrokkene": {
+  "zin": "De burger hoeft de € 9 aanmaningskosten niet te betalen en krijgt € 2.534 proceskosten, € 51 en € 143 griffierecht en wettelijke rente vergoed.",
+  "bron": [
+   35,
+   18
+  ],
+  "citaat": "Het totaal van de (proces)kostenvergoeding is daarmee € 2.534"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik heb geen e-mailbericht gekregen dat de naheffingsaanslag in mijn berichtenbox stond.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente kon niet aannemelijk maken dat een bericht was verstuurd, dus ging het hof ervan uit dat dit niet was gebeurd.",
+    "bron": [
+     26
+    ],
+    "citaat": "moet er voor dit geding van worden uitgegaan dat dit niet is gebeurd"
+   },
+   "bruikbare_zin": {
+    "citaat": "is het aan de invorderingsambtenaar aannemelijk te maken dat een notificatiebericht is verstuurd",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Betwist de burger dat hij een e-mailbericht over een digitale naheffingsaanslag kreeg, dan moet de gemeente aannemelijk maken dat het is verstuurd.",
+  "type": "regel",
+  "reikwijdte": "Naheffingsaanslagen die digitaal in de berichtenbox MijnOverheid zijn gezet, als de burger de berichten heeft ingeschakeld en het bericht betwist.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "is het aan de invorderingsambtenaar aannemelijk te maken dat een notificatiebericht is verstuurd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "gegevens van de beheerder van MijnOverheid"
+  ],
+  "wat_gaf_doorslag": "De gemeente kreeg geen gegevens over het verzonden bericht en kon het versturen niet aannemelijk maken."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:PHR:2026:152"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:75 Awb",
+  "art. 8:108 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar bewijs dat het e-mailbericht over de digitale naheffingsaanslag is verstuurd.",
+   "raakt": "communicatie",
+   "bron": [
+    26
+   ],
+   "citaat": "noch anderszins aannemelijk heeft gemaakt dat belanghebbende een notificatiebericht is gezonden"
+  },
+  {
+   "actie": "Stuur geen aanmaning met kosten als u niet kunt aantonen dat het e-mailbericht is verstuurd.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    26
+   ],
+   "citaat": "noch anderszins aannemelijk heeft gemaakt dat belanghebbende een notificatiebericht is gezonden"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "communicatie",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Krijgt u een aanmaning met extra kosten voor een rekening die u digitaal zou hebben gekregen, dan moet de gemeente kunnen laten zien dat u daarover een e-mailbericht is gestuurd. In deze zaak kon de gemeente dat niet, en vernietigde de rechter de aanmaningskosten. Kreeg u zo'n aanmaning terwijl u geen e-mail kreeg, dan kunt u bezwaar maken en dat uitleggen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

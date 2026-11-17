@@ -1,0 +1,183 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:2468",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "wissen",
+ "kenmerk": null,
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "twee burgers",
+  "wederpartij": "minister van Volksgezondheid, Welzijn en Sport",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Twee mensen vroegen de minister van Volksgezondheid om hun coronavaccinatiegegevens te wissen. De minister wilde dat niet omdat hij hun identiteit niet kon vaststellen; de Raad van State oordeelt in hoger beroep.",
+ "titel": "Minister mocht om identiteitsbewijs vragen bij verzoek om wissing",
+ "kern": {
+  "zin": "De minister mocht de verzoeken om wissing buiten behandeling stellen, omdat hij de identiteit van de verzoekers niet kon vaststellen.",
+  "bron": [
+   39
+  ],
+  "citaat": "De rechtbank heeft dus terecht geoordeeld dat de minister de verzoeken buiten behandeling mocht stellen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Twee mensen vroegen de minister om hun Covid-19-vaccinatiegegevens en Covid-19 persoonsgegevens bij het RIVM te wissen.",
+   "bron": [
+    25
+   ],
+   "citaat": "aanwezige Covid-19 vaccinatiegegevens en Covid-19 persoonsgegevens"
+  },
+  {
+   "zin": "De minister stelde de verzoeken buiten behandeling omdat de mensen niet wilden laten zien wie ze waren.",
+   "bron": [
+    25
+   ],
+   "citaat": "De minister heeft de verzoeken bij de besluiten van 7 december 2021 buiten behandeling gesteld omdat"
+  },
+  {
+   "zin": "De mensen vonden dat de minister niet om extra informatie mocht vragen.",
+   "bron": [
+    30
+   ],
+   "citaat": "de minister niet om aanvullende informatie mocht vragen"
+  },
+  {
+   "zin": "De Raad van State vindt dat de minister eerst om een kopie van het paspoort mocht vragen.",
+   "bron": [
+    35
+   ],
+   "citaat": "Dat betekent dat de minister eerst mocht vragen om een kopie van hun paspoort"
+  },
+  {
+   "zin": "De twee manieren die de minister aanbood om de identiteit te laten zien, waren niet onredelijk bezwarend.",
+   "bron": [
+    37
+   ],
+   "citaat": "blijkt niet dat de twee opties die de minister heeft gegeven onredelijk bezwarend zijn"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en het verzoek om schadevergoeding wordt afgewezen.",
+   "bron": [
+    42
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak moet worden bevestigd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; de minister mocht de verzoeken buiten behandeling stellen.",
+ "gevolg_betrokkene": {
+  "zin": "De gegevens worden niet gewist en er komt geen schadevergoeding.",
+  "bron": [
+   39,
+   42
+  ],
+  "citaat": "de minister de verzoeken buiten behandeling mocht stellen"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De minister mocht niet om extra informatie vragen, omdat hij niet twijfelde aan hun identiteit.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De minister moet alle redelijke maatregelen nemen om de identiteit van de verzoeker vast te stellen.",
+    "bron": [
+     35
+    ],
+    "citaat": "De minister moet alle redelijke maatregelen nemen om de identiteit van de verzoeker vast te stellen."
+   },
+   "bruikbare_zin": {
+    "citaat": "De minister moet alle redelijke maatregelen nemen om de identiteit van de verzoeker vast te stellen.",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Een kopie van het paspoort is onveilig en de reis naar het RIVM is te bezwarend; er zijn betere alternatieven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De twee opties die de minister gaf, waren niet onredelijk bezwarend.",
+    "bron": [
+     37
+    ],
+    "citaat": "blijkt niet dat de twee opties die de minister heeft gegeven onredelijk bezwarend zijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "blijkt niet dat de twee opties die de minister heeft gegeven onredelijk bezwarend zijn",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Zij vragen om schadevergoeding.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er is geen inbreuk op de AVG, dus geen recht op schadevergoeding.",
+    "bron": [
+     42
+    ],
+    "citaat": "Van een inbreuk als bedoeld in artikel 82 van de AVG is ook geen sprake"
+   },
+   "bruikbare_zin": {
+    "citaat": "Van een inbreuk als bedoeld in artikel 82 van de AVG is ook geen sprake",
+    "bron": [
+     42
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een gewaarmerkte kopie van een geldig identiteitsbewijs is een redelijke manier om iemands identiteit te controleren.",
+  "type": "regel",
+  "reikwijdte": "bij verzoeken om inzage of wissing van persoonsgegevens",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   36
+  ],
+  "citaat": "een gewaarmerkte en geautoriseerde kopie van een geldig identiteitsbewijs wordt als een redelijke maatregel aangemerkt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "kopie paspoort",
+   "legitimatie in persoon",
+   "DigiD"
+  ],
+  "wat_gaf_doorslag": "De minister mocht zelf de manier van identificatie kiezen; zijn twee opties waren niet onredelijk bezwarend."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2020:2833"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 17 AVG",
+  "art. 12 lid 6 AVG",
+  "overweging 64 AVG",
+  "art. 9 lid 1 AVG",
+  "art. 82 AVG",
+  "art. 8:88 lid 1 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; uitspraak gaat over de minister van VWS",
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar",
+  "ict-informatiebeveiliging"
+ ],
+ "klantuitleg": "Als u vraagt om uw gegevens te wissen, mag de organisatie eerst controleren wie u bent. Dat mag bijvoorbeeld met een kopie van uw paspoort of door langs te komen. Als u dat weigert, hoeft de organisatie uw verzoek niet verder te behandelen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente partij; de minister van VWS is wederpartij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

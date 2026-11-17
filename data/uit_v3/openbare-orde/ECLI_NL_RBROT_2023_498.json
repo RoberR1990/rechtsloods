@@ -1,0 +1,202 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:498",
+ "relevant": true,
+ "onderwerp": "drugspanden",
+ "sub": "bevoegdheid-13b",
+ "kenmerk": "kleine-hoeveelheid-softdrugs",
+ "zaaktype": "sluiting-pand",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De burgemeester van Rotterdam sloot de huurwoning van een bewoner voor drie maanden, nadat de politie een kleine hoeveelheid drugs had gevonden. De bewoner ging in beroep bij de rechtbank Rotterdam.",
+ "titel": "Woning ten onrechte gesloten na vondst van kleine hoeveelheid drugs",
+ "kern": {
+  "zin": "De rechter vindt dat de burgemeester de woning niet mocht sluiten, omdat onvoldoende aannemelijk is dat de drugs voor verkoop bedoeld waren en de politierapportage niet te controleren was.",
+  "bron": [
+   48
+  ],
+  "citaat": "zodat verweerder niet bevoegd was om de woning te sluiten"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een doorzoeking vond de politie in de woning 1 gram MDMA en 1,4 gram cocaïne.",
+   "bron": [
+    33
+   ],
+   "citaat": "in de woning twee XTC-pillen (1 gram MDMA), negen pillen cellulose (2,1 gram) en 1,4 gram cocaïne zijn aangetroffen"
+  },
+  {
+   "zin": "De burgemeester sloot de woning voor drie maanden.",
+   "bron": [
+    34
+   ],
+   "citaat": "de woning met ingang van 21 maart 2022 voor de duur van drie maanden gesloten"
+  },
+  {
+   "zin": "De bewoner zei vanaf het begin dat de drugs voor eigen gebruik waren.",
+   "bron": [
+    46
+   ],
+   "citaat": "waarover eiser vanaf het begin heeft verklaard dat dit voor eigen gebruik bestemd was"
+  },
+  {
+   "zin": "De burgemeester vond het aannemelijk dat er vanuit de woning drugs werden verhandeld.",
+   "bron": [
+    37
+   ],
+   "citaat": "aannemelijk is dat sprake is geweest van drugshandel vanuit de woning"
+  },
+  {
+   "zin": "De rechter vond dit onvoldoende uitgelegd. De politierapportage was ook niet te controleren, omdat onderliggende stukken ontbraken en klantverklaringen niet op schrift stonden.",
+   "bron": [
+    47
+   ],
+   "citaat": "verweerder onvoldoende heeft gemotiveerd waarom desondanks de conclusie gerechtvaardigd is dat sprake is van drugshandel"
+  },
+  {
+   "zin": "Het beroep is gegrond, het besluit is vernietigd en de sluiting is herroepen.",
+   "bron": [
+    50
+   ],
+   "citaat": "Dat betekent dat verweerder de woning ten onrechte heeft gesloten."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Sluiting herroepen; gemeente betaalt griffierecht en proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De woning is ten onrechte gesloten. De gemeente betaalt € 184,- griffierecht en € 2.868,- aan proceskosten.",
+  "bron": [
+   50,
+   59,
+   60
+  ],
+  "citaat": "Dat betekent dat verweerder de woning ten onrechte heeft gesloten."
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "bevoegdheid-ontbreekt",
+   "burger_zegt": "De burgemeester was niet bevoegd om de woning te sluiten.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vindt dat niet is voldaan aan de voorwaarden van artikel 13b van de Opiumwet.",
+    "bron": [
+     48
+    ],
+    "citaat": "niet is voldaan aan de voorwaarden die volgen uit artikel 13b van de Opiumwet"
+   },
+   "bruikbare_zin": {
+    "bron": [
+     48
+    ],
+    "citaat": "onvoldoende aannemelijk is geworden dat de aangetroffen hoeveelheid harddrugs bestemd is geweest voor de verkoop"
+   }
+  },
+  {
+   "arg": "eigen-gebruik-kleine-hoeveelheid",
+   "burger_zegt": "Het ging om een kleine hoeveelheid voor eigen gebruik.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vindt dat de gevonden situatie niet zonder meer op drugshandel wijst.",
+    "bron": [
+     46
+    ],
+    "citaat": "kan alleen op grond van de door de politie aangetroffen situatie niet zonder meer van drugshandel worden uitgegaan"
+   },
+   "bruikbare_zin": {
+    "bron": [
+     46
+    ],
+    "citaat": "geen attributen zijn aangetroffen die te relateren zijn aan en wijzen op drugshandel"
+   }
+  },
+  {
+   "arg": "bewijs-rapportage-onvoldoende",
+   "burger_zegt": "De politierapportage en de stukken eronder zijn niet goed te controleren.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter volgt de bewoner: de rapportage is op dit punt niet te controleren.",
+    "bron": [
+     47
+    ],
+    "citaat": "eisers betoog dat de rapportage in dit opzicht onvoldoende controleerbaar is, te volgen"
+   },
+   "bruikbare_zin": {
+    "bron": [
+     47
+    ],
+    "citaat": "Ook op dit punt is de rapportage dus niet controleerbaar"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een geringe overschrijding van 0,5 gram harddrugs en een helder verhaal over eigen gebruik moet de burgemeester uitleggen waarom de drugs toch voor verkoop, aflevering of verstrekking bedoeld waren.",
+  "type": "regel",
+  "reikwijdte": "Geringe overschrijding van de 0,5 gram-grens bij harddrugs, waarbij de bewoner een helder en consistent verhaal over eigen gebruik heeft.",
+  "uitzondering": "Zijn er andere spullen of feiten die wijzen op drugshandel, dan blijft sluiting mogelijk.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   44
+  ],
+  "citaat": "waarom desondanks de conclusie gerechtvaardigd is dat de aangetroffen hoeveelheid drugs bestemd is voor verkoop"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "bestuurlijke rapportage van de politie",
+   "verklaringen van klanten (mondeling doorgegeven)",
+   "twee grammenweegschalen",
+   "verklaring van vrienden met veel handtekeningen"
+  ],
+  "wat_gaf_doorslag": "De rapportage was niet te controleren, want onderliggende stukken ontbraken en er waren weinig tekenen van handel."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2020:1682",
+   "ECLI:NL:RVS:2018:738",
+   "ECLI:NL:RVS:2019:1433"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 13b lid 1 Opiumwet",
+  "art. 3:2 Awb",
+  "art. 7:12 lid 1 Awb",
+  "Beleidslijn bestuurlijke handhaving artikel 13b Opiumwet Rotterdam 2022"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zorg dat bij een bestuurlijke rapportage de onderliggende processen-verbaal en stukken bestaan en kunnen worden overgelegd.",
+   "raakt": "drugsbeleid-woningsluiting",
+   "bron": [
+    47
+   ],
+   "citaat": "geen onderliggende – op ambtseed of ambtsbelofte opgemaakte – processen-verbaal of andere stukken bestaan"
+  },
+  {
+   "actie": "Leg verklaringen van klanten bij een doorzoeking op schrift vast.",
+   "raakt": "handhaving-openbare-orde",
+   "bron": [
+    47
+   ],
+   "citaat": "deze verklaringen niet op schrift zijn gesteld"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "drugsbeleid-woningsluiting",
+  "handhaving-openbare-orde",
+  "bezwaar-juridische-zaken",
+  "woningcorporaties-verhuurders"
+ ],
+ "klantuitleg": "Bij een sluiting van een woning vanwege drugs moet de burgemeester kunnen laten zien dat de drugs voor verkoop bedoeld waren. Is er maar een kleine hoeveelheid boven de 0,5 gram gevonden, dan moet hij uitleggen waarom het toch om handel gaat; in deze zaak was ook het politierapport niet goed te controleren. Gaat het bij u om eigen gebruik, dan kunt u bezwaar maken en dat laten zien, bijvoorbeeld met een ondertekende verklaring van vrienden.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

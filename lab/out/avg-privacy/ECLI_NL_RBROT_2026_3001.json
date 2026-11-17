@@ -1,0 +1,159 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2026:3001",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": null,
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "verzoeker",
+  "wederpartij": "UWV",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "voorlopige voorziening",
+ "intro": "Deze zaak gaat over een verzoek om een voorlopige voorziening (een snelle tijdelijke beslissing) bij de rechtbank Rotterdam. Verzoeker wil dat het UWV hem volledig inzage geeft in zijn persoonsgegevens, maar het UWV vindt dat er geen spoed is.",
+ "titel": "Spoedverzoek om inzage bij UWV afgewezen",
+ "kern": {
+  "zin": "De voorzieningenrechter wijst het verzoek om een voorlopige voorziening af, omdat verzoeker niet aannemelijk heeft gemaakt dat hij nu spoed heeft.",
+  "bron": [
+   18
+  ],
+  "citaat": "De voorzieningenrechter zal het verzoek als kennelijk ongegrond afwijzen omdat het spoedeisend belang ontbreekt."
+ },
+ "samenvatting": [
+  {
+   "zin": "Verzoeker vroeg het UWV in maart 2025 om inzage in de persoonsgegevens die het UWV over hem gebruikt.",
+   "bron": [
+    9
+   ],
+   "citaat": "verzocht om inzage in de door het UWV over hem verwerkte persoonsgegevens"
+  },
+  {
+   "zin": "Het UWV nam op 25 april 2025 een besluit over dat verzoek.",
+   "bron": [
+    10
+   ],
+   "citaat": "Het UWV heeft met een besluit 25 april 2025 over deze aanvraag beslist."
+  },
+  {
+   "zin": "Verzoeker maakte bezwaar en vroeg de rechter om een snelle tijdelijke beslissing.",
+   "bron": [
+    11
+   ],
+   "citaat": "Verzoeker heeft hiertegen bezwaar gemaakt en een verzoek om een voorlopige voorziening ingediend."
+  },
+  {
+   "zin": "Het UWV stelde dat verzoeker geen belang meer had bij zijn verzoek.",
+   "bron": [
+    16
+   ],
+   "citaat": "dat verzoeker daarom geen procesbelang meer heeft bij zijn verzoek"
+  },
+  {
+   "zin": "De rechter wijst het verzoek af omdat er geen spoed is; de procedure bij de Centrale Raad kan nog lang duren.",
+   "bron": [
+    18
+   ],
+   "citaat": "De procedure bij de Centrale Raad van Beroep kan echter nog lang duren."
+  },
+  {
+   "zin": "Verzoeker krijgt geen vergoeding van zijn kosten.",
+   "bron": [
+    21
+   ],
+   "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De rechter ziet geen spoed en wijst het verzoek af.",
+ "gevolg_betrokkene": {
+  "zin": "Het verzoek is afgewezen en verzoeker krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   21
+  ],
+  "citaat": "De voorzieningenrechter wijst het verzoek dus af. Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Verzoeker wil dat het UWV hem volledig inzage geeft in zijn persoonsgegevens.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter komt niet aan de inhoud toe, omdat hij het verzoek al afwijst wegens gebrek aan spoed.",
+    "bron": [
+     18
+    ],
+    "citaat": "De voorzieningenrechter zal het verzoek als kennelijk ongegrond afwijzen omdat het spoedeisend belang ontbreekt."
+   },
+   "bruikbare_zin": {
+    "citaat": "dat de voorzieningenrechter het UWV beveelt om onverwijld en volledig aan zijn verzoek te voldoen",
+    "bron": [
+     17
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Verzoeker vindt dat hij spoed heeft omdat hij in de procedure bij de Centrale Raad van Beroep een informatieachterstand heeft.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat deze procedure nog lang kan duren en daarom geen spoed oplevert.",
+    "bron": [
+     18
+    ],
+    "citaat": "De procedure bij de Centrale Raad van Beroep kan echter nog lang duren."
+   },
+   "bruikbare_zin": {
+    "citaat": "Volgens verzoeker moet hij deze procedure nu voeren met een informatieachterstand",
+    "bron": [
+     18
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "In dit geval is er geen spoedeisend belang, omdat de procedure bij de Centrale Raad van Beroep nog lang kan duren.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Deze voorlopige voorziening over een AVG-inzageverzoek.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   18
+  ],
+  "citaat": "De procedure bij de Centrale Raad van Beroep kan echter nog lang duren."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "stukken in het dossier",
+   "e-mail van verzoeker van 12 maart 2026"
+  ],
+  "wat_gaf_doorslag": "Het ontbreken van een zittingsdatum bij de Centrale Raad van Beroep."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:RVS:2026:978"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:81 lid 1 Awb",
+  "art. 8:83 lid 3 Awb",
+  "Algemene Verordening Gegevensbescherming (AVG)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "De rechter heeft uw verzoek om een snelle tijdelijke beslissing afgewezen. Volgens de rechter is er geen spoed, omdat de procedure bij de Centrale Raad van Beroep nog lang kan duren. U kunt daar wel vragen om stukken die u mist.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente partij; wederpartij is het UWV",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

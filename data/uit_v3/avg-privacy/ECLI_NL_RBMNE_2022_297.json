@@ -1,0 +1,176 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2022:297",
+ "relevant": true,
+ "onderwerp": "rechtmatige-verwerking",
+ "sub": "bijzondere-gegevens",
+ "kenmerk": null,
+ "zaaktype": "overig",
+ "partijen": {
+  "burger": "stichting Brein",
+  "wederpartij": "Ziggo B.V.",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "kort geding",
+ "intro": "Stichting Brein wil dat het internetbedrijf Ziggo waarschuwingsbrieven doorstuurt aan mensen die veel illegaal downloaden. De rechter in Utrecht beslist in kort geding of Ziggo dat moet doen.",
+ "titel": "Ziggo hoeft waarschuwingsbrieven niet door te sturen zonder vergunning",
+ "kern": {
+  "zin": "De rechter wijst de vordering af, omdat Ziggo zonder vergunning van de Autoriteit Persoonsgegevens geen strafrechtelijke persoonsgegevens voor Brein mag verwerken.",
+  "bron": [
+   53
+  ],
+  "citaat": "Daarom kan de vordering (nog) niet worden toegewezen."
+ },
+ "samenvatting": [
+  {
+   "zin": "Stichting Brein stuurt waarschuwingsbrieven aan mensen die via BitTorrent veel illegaal uploaden.",
+   "bron": [
+    41
+   ],
+   "citaat": "een waarschuwingsbrief te sturen aan de houder van een IP-adres"
+  },
+  {
+   "zin": "Brein wil dat Ziggo die brieven doorstuurt naar haar klanten, maar Ziggo weigert.",
+   "bron": [
+    49
+   ],
+   "citaat": "Brein wil daarom dat Ziggo de waarschuwingsbrieven van Brein aan haar betreffende klanten doorstuurt"
+  },
+  {
+   "zin": "De rechter wijst de vordering van Brein af.",
+   "bron": [
+    53
+   ],
+   "citaat": "De voorzieningenrechter wijst de vordering van Brein af."
+  },
+  {
+   "zin": "Ziggo verwerkt strafrechtelijke persoonsgegevens voor Brein en heeft daarvoor een vergunning van de Autoriteit Persoonsgegevens nodig.",
+   "bron": [
+    53
+   ],
+   "citaat": "Ziggo verwerkt de strafrechtelijke persoonsgegevens ten behoeve van een derde (Brein)"
+  },
+  {
+   "zin": "Krijgt Ziggo die vergunning later wel en stuurt zij de brieven dan nog niet door, dan handelt zij onrechtmatig.",
+   "bron": [
+    159
+   ],
+   "citaat": "zij onrechtmatig handelt door de waarschuwingsbrieven niet door te sturen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De rechter wijst de vordering van Brein af.",
+ "gevolg_betrokkene": {
+  "zin": "Als Ziggo van de Autoriteit Persoonsgegevens een vergunning krijgt, moet zij de waarschuwingsbrieven doorsturen; nu hoeft dat nog niet.",
+  "bron": [
+   159
+  ],
+  "citaat": "zij onrechtmatig handelt door de waarschuwingsbrieven niet door te sturen"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "gevoelige-gegevens",
+   "burger_zegt": "Ziggo vindt dat het doorsturen van de brieven niet mag volgens de AVG, omdat het om strafrechtelijke persoonsgegevens gaat.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter oordeelt dat de IP-adressen strafrechtelijke persoonsgegevens zijn.",
+    "bron": [
+     66
+    ],
+    "citaat": "die IP-adressen gelden als strafrechtelijke persoonsgegevens"
+   },
+   "bruikbare_zin": {
+    "citaat": "die IP-adressen gelden als strafrechtelijke persoonsgegevens",
+    "bron": [
+     66
+    ]
+   }
+  },
+  {
+   "arg": "doelbinding",
+   "burger_zegt": "Ziggo vindt dat het doelbindingsbeginsel aan het doorsturen in de weg staat.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter oordeelt dat het doorsturen binnen het verzameldoel van Ziggo valt.",
+    "bron": [
+     124
+    ],
+    "citaat": "moet onder het hiervoor genoemde verzameldoel ook worden begrepen de verwerking"
+   },
+   "bruikbare_zin": {
+    "citaat": "moet onder het hiervoor genoemde verzameldoel ook worden begrepen de verwerking",
+    "bron": [
+     124
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ziggo vindt dat zij zonder vergunning van de Autoriteit Persoonsgegevens de gegevens niet voor Brein mag verwerken.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter oordeelt dat Ziggo de strafrechtelijke persoonsgegevens alleen met een vergunning van de Autoriteit Persoonsgegevens voor Brein mag verwerken, en die is er nog niet.",
+    "bron": [
+     88
+    ],
+    "citaat": "als de AP hiervoor een vergunning heeft afgegeven en dat is (nog) niet het geval"
+   },
+   "bruikbare_zin": {
+    "citaat": "als de AP hiervoor een vergunning heeft afgegeven en dat is (nog) niet het geval",
+    "bron": [
+     88
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een internetaanbieder mag strafrechtelijke persoonsgegevens ten behoeve van een derde alleen verwerken als de Autoriteit Persoonsgegevens daarvoor een vergunning heeft afgegeven.",
+  "type": "regel",
+  "reikwijdte": "verwerking van strafrechtelijke persoonsgegevens door een internetaanbieder voor een derde",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   53
+  ],
+  "citaat": "mag dat alleen als de AP hiervoor een vergunning aan haar heeft afgegeven"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "deskundigenrapporten over de AFLU-software",
+   "Data Protection Impact Assessment (DPIA)"
+  ],
+  "wat_gaf_doorslag": "Het ontbreken van een vergunning van de Autoriteit Persoonsgegevens voor Ziggo."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:EU:C:2016:779",
+   "ECLI:EU:C:2021:492",
+   "ECLI:NL:HR:2005:AU4019",
+   "ECLI:EU:C:2014:192"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 4 AVG",
+  "art. 10 AVG",
+  "art. 6 lid 1 sub f AVG",
+  "art. 33 lid 4 sub c UAVG",
+  "art. 32 lid 1 sub a UAVG",
+  "art. 33 lid 2 sub b UAVG",
+  "art. 6:162 BW",
+  "art. 1019h Rv"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg"
+ ],
+ "klantuitleg": "Deze uitspraak gaat over het doorsturen van waarschuwingsbrieven over illegaal downloaden. Een internetaanbieder mag zulke brieven pas doorsturen als de Autoriteit Persoonsgegevens daarvoor een vergunning heeft gegeven. Wilt u weten welke gegevens over u worden gebruikt of hebt u zo'n brief ontvangen, dan kunt u daarover vragen stellen aan uw internetaanbieder.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "zaak tussen twee private partijen; geen gemeente betrokken",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

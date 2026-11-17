@@ -1,0 +1,186 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:4089",
+ "relevant": true,
+ "onderwerp": "politie-justitie",
+ "sub": "wpg-inzage",
+ "kenmerk": null,
+ "zaaktype": "politiegegevens",
+ "partijen": {
+  "burger": "twee particulieren",
+  "wederpartij": "Autoriteit Persoonsgegevens",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Twee burgers kregen van de politie maar een deel van hun politiegegevens te zien en klaagden bij de Autoriteit Persoonsgegevens (AP). De AP wees de klacht af, en zij gingen in hoger beroep bij de Raad van State.",
+ "titel": "Geen kopieën en geen namen van agenten bij inzage politiegegevens",
+ "kern": {
+  "zin": "De rechter vond dat de politie geen kopieën hoeft te geven en dat de AP de klacht mocht afwijzen.",
+  "bron": [
+   32
+  ],
+  "citaat": "De Wpg biedt geen grond om kopieën te verkrijgen van documenten waarin politiegegevens zijn opgenomen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de korpschef (hoofd van de politie) om inzage in zijn politiegegevens.",
+   "bron": [
+    22
+   ],
+   "citaat": "een inzageverzoek bij de korpschef ingediend"
+  },
+  {
+   "zin": "Hij klaagde bij de AP omdat hij geen kopieën kreeg.",
+   "bron": [
+    22
+   ],
+   "citaat": "geen kopieën van zijn dossier met politiegegevens heeft gekregen"
+  },
+  {
+   "zin": "De AP vond dat geen nader onderzoek en geen handhaving nodig was.",
+   "bron": [
+    24
+   ],
+   "citaat": "Volgens de AP is geen nader onderzoek en ook geen handhavend optreden nodig."
+  },
+  {
+   "zin": "De rechter oordeelde dat de politie niet verplicht is kopieën van de politiegegevens te geven.",
+   "bron": [
+    32
+   ],
+   "citaat": "die de korpschef niet verplicht tot het verstrekken van kopieën van de over [appellant] verwerkte politiegegevens"
+  },
+  {
+   "zin": "Namen en dienstnummers van agenten zijn gegevens van anderen en vallen niet onder het inzagerecht.",
+   "bron": [
+    35
+   ],
+   "citaat": "Het recht op inzage uit artikel 25, eerste lid, van de Wpg ziet op inzage in persoonsgegevens van de verzoeker en niet van anderen"
+  },
+  {
+   "zin": "De politie had de gegevens die te lang bewaard waren al vernietigd, dus extra handhaving was niet nodig.",
+   "bron": [
+    38
+   ],
+   "citaat": "alle gegevens die te lang zijn verwerkt alsnog verwijderd zijn"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Klacht terecht afgewezen; schadevergoeding ook afgewezen",
+ "gevolg_betrokkene": {
+  "zin": "De burgers krijgen geen kopieën, geen namen van agenten en geen schadevergoeding, en de AP hoeft geen proceskosten te betalen.",
+  "bron": [
+   43,
+   44
+  ],
+  "citaat": "wijst het verzoek om schadevergoeding af"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "kopie-stukken",
+   "burger_zegt": "De politie moet kopieën geven van alle gegevens, ook van vernietigde gegevens.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Wpg geeft geen recht op kopieën van documenten met politiegegevens.",
+    "bron": [
+     32
+    ],
+    "citaat": "De Wpg biedt geen grond om kopieën te verkrijgen van documenten waarin politiegegevens zijn opgenomen"
+   },
+   "bruikbare_zin": {
+    "citaat": "De Wpg biedt geen grond om kopieën te verkrijgen van documenten waarin politiegegevens zijn opgenomen",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "weigering-rechten-anderen",
+   "burger_zegt": "Hij hoeft niet uit te leggen waarom zijn belang zwaarder weegt dan de privacy van agenten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het inzagerecht gaat over de eigen gegevens van de burger, dus namen van agenten komen niet in aanmerking.",
+    "bron": [
+     35
+    ],
+    "citaat": "De namen van politieagenten komen daarom niet voor inzage in aanmerking."
+   },
+   "bruikbare_zin": {
+    "citaat": "Aan die conclusie gaat geen belangenafweging vooraf",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "ap-onderzoek-onvoldoende",
+   "burger_zegt": "De AP moet handhaven tegen de korpschef.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De te oude gegevens waren verwijderd, dus de AP hoefde niet meer te handhaven.",
+    "bron": [
+     38
+    ],
+    "citaat": "Extra handhavend optreden van de AP was dus niet meer nodig."
+   },
+   "bruikbare_zin": {
+    "citaat": "Extra handhavend optreden van de AP was dus niet meer nodig",
+    "bron": [
+     38
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij wil schadevergoeding.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het besluit blijft in stand, dus er is geen reden voor schadevergoeding.",
+    "bron": [
+     40
+    ],
+    "citaat": "is er geen aanleiding om het verzoek tot het vergoeden van schade toe te wijzen"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De politie hoeft bij inzage in politiegegevens geen kopieën van documenten te geven, maar wel een volledig overzicht in begrijpelijke vorm.",
+  "type": "regel",
+  "reikwijdte": "Inzageverzoeken op grond van de Wet politiegegevens (niet de AVG)",
+  "uitzondering": "De burger moet wel een volledig overzicht van zijn gegevens in begrijpelijke vorm krijgen.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   32
+  ],
+  "citaat": "De Wpg biedt geen grond om kopieën te verkrijgen van documenten waarin politiegegevens zijn opgenomen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van de korpschef dat te oude gegevens zijn verwijderd"
+  ],
+  "wat_gaf_doorslag": "De Wpg geeft geen recht op kopieën of namen van agenten, en de te oude gegevens waren al vernietigd."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2024:5090"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 25 lid 1 Wpg",
+  "art. 14 Richtlijn (EU) 2016/680"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg"
+ ],
+ "klantuitleg": "Vraagt u inzage in politiegegevens, dan krijgt u een volledig overzicht van uw eigen gegevens, maar niet altijd kopieën van de stukken. Namen en dienstnummers van agenten krijgt u niet, want het recht geldt alleen voor uw eigen gegevens. Vindt u dat oude gegevens te lang zijn bewaard, vraag dan om verwijdering; een klacht alleen om kopieën of namen van agenten heeft weinig kans.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente betrokken",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

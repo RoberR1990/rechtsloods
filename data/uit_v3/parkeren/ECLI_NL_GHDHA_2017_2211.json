@@ -1,0 +1,175 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2017:2211",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (bewoner)",
+  "wederpartij": "gemeente Zoetermeer",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De gemeente Zoetermeer en een parkeerder procedeerden bij het gerechtshof Den Haag over een naheffingsaanslag (een rekening achteraf voor parkeren). Het ging erom of de € 1 die de parkeerder al had betaald, van die rekening af moest.",
+ "titel": "Al betaalde parkeerkosten gaan af van de rekening achteraf",
+ "kern": {
+  "zin": "Het hof vond dat de gemeente alleen mag navorderen wat te weinig is betaald, dus het al betaalde euro gaat van de rekening af.",
+  "bron": [
+   40
+  ],
+  "citaat": "Op grond van het bepaalde in artikel 20 Awr kan alleen de belasting worden nageheven die te weinig is betaald"
+ },
+ "samenvatting": [
+  {
+   "zin": "Controleurs zagen om 11.36 uur de auto staan, terwijl het kaartje van de parkeerder maar tot 11.24 uur gold.",
+   "bron": [
+    22
+   ],
+   "citaat": "geconstateerd dat de auto om 11.36 uur op de parkeerplaats stond"
+  },
+  {
+   "zin": "De parkeerder vond dat de € 1 die hij al had betaald, van de naheffingsaanslag (de rekening achteraf) af moest.",
+   "bron": [
+    46
+   ],
+   "citaat": "in mindering gebracht dient te worden op de naheffingsaanslag"
+  },
+  {
+   "zin": "De gemeente vond van niet en ging in hoger beroep.",
+   "bron": [
+    48
+   ],
+   "citaat": "De Heffingsambtenaar beantwoordt deze vragen ontkennend"
+  },
+  {
+   "zin": "Het hof zei dat de gemeente alleen mag navorderen wat te weinig is betaald, dus het betaalde bedrag gaat van de rekening af.",
+   "bron": [
+    40
+   ],
+   "citaat": "kan alleen de belasting worden nageheven die te weinig is betaald"
+  },
+  {
+   "zin": "Het hof vond dat de gemeente onrechtmatig handelde door de rekening te handhaven terwijl duidelijk was dat al deels was betaald, dus de gemeente moet de proceskosten betalen.",
+   "bron": [
+    57
+   ],
+   "citaat": "heeft de Heffingsambtenaar onrechtmatig gehandeld"
+  },
+  {
+   "zin": "De kosten van het bezwaar kreeg de parkeerder niet vergoed, omdat hij daar te laat om had gevraagd.",
+   "bron": [
+    60
+   ],
+   "citaat": "kan belanghebbende geen aanspraak maken op vergoeding van deze kosten"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Betaalde € 1 gaat van de rekening af; kosten van bezwaar niet vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening gaat van € 61,45 naar € 60,45 en de gemeente betaalt de proceskosten (€ 992 in beroep en € 990 in hoger beroep); de kosten van het bezwaar krijgt de parkeerder niet terug.",
+  "bron": [
+   13
+  ],
+  "citaat": "de naheffingsaanslag verminderd tot € 60,45"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De € 1 die ik al voor een deel van het uur had betaald, moet van de rekening af.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De naheffing mag alleen over het deel dat niet was betaald.",
+    "bron": [
+     40
+    ],
+    "citaat": "Op grond van het bepaalde in artikel 20 Awr kan alleen de belasting worden nageheven die te weinig is betaald"
+   },
+   "bruikbare_zin": {
+    "citaat": "kan alleen de belasting worden nageheven die te weinig is betaald",
+    "bron": [
+     40
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ook de kosten van het bezwaar moeten worden vergoed.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er was niet om gevraagd voordat de gemeente op het bezwaar besliste.",
+    "bron": [
+     60
+    ],
+    "citaat": "kan belanghebbende geen aanspraak maken op vergoeding van deze kosten"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Is de verschuldigde parkeerbelasting al deels betaald, dan mag de naheffing alleen het onbetaalde deel omvatten.",
+  "type": "regel",
+  "reikwijdte": "Naheffing van parkeerbelasting als de parkeerder voor een deel van de gecontroleerde periode al heeft betaald",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   39
+  ],
+  "citaat": "is voor het opleggen van een naheffingsaanslag op grond van artikel 20 Awr in zoverre geen plaats"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "parkeerkaartje achter de voorruit",
+   "handhavingsbon",
+   "verklaring van de gemeente ter zitting"
+  ],
+  "wat_gaf_doorslag": "Het kaartje lag achter de voorruit, dus de controleurs konden zien dat al deels was betaald."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:1997:AA3200",
+   "ECLI:NL:HR:2008:BC1593"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 lid 3 Gemeentewet",
+  "art. 231 lid 1 Gemeentewet",
+  "art. 20 Awr",
+  "art. 7:15 lid 3 Awb",
+  "art. 8:75 Awb",
+  "Verordening parkeerbelastingen 2016 Zoetermeer"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Trek bij een naheffing de al betaalde parkeerbelasting af als een kaartje achter de voorruit laat zien dat voor een deel van de tijd is betaald.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    57
+   ],
+   "citaat": "dat voor een deel van de parkeerduur waarvoor zij een naheffingsaanslag oplegden"
+  },
+  {
+   "actie": "Houd een naheffing in bezwaar niet in stand als blijkt dat al deels is betaald; dat leidt tot proceskosten.",
+   "raakt": "bezwaar",
+   "bron": [
+    57
+   ],
+   "citaat": "heeft de Heffingsambtenaar onrechtmatig gehandeld"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Heeft u voor een deel van de tijd al betaald, dan mag de gemeente alleen het deel achteraf vragen dat u nog niet betaald had. Het bedrag dat u al betaalde, gaat dus van de rekening af. Is uw betaling niet meegerekend, dan heeft bezwaar zin; bewaar dan uw kaartje of betaalbewijs.",
+ "gemeente": "Zoetermeer",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,173 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2025:2274",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "belastingplicht",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg een naheffingsaanslag (een rekening achteraf) in Den Haag voor een huurauto, terwijl hij zegt dat hij de auto nooit heeft gehuurd. De gemeente ging in hoger beroep bij het gerechtshof.",
+ "titel": "Gemeente moet bewijzen wie de huurder van de auto was",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente niet kon bewijzen dat de parkeerder de huurder was, dus de naheffing was ten onrechte opgelegd.",
+  "bron": [
+   111
+  ],
+  "citaat": "Het vorenstaande leidt tot de conclusie dat de naheffingsaanslag ten onrechte aan belanghebbende is opgelegd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een huurauto stond op 4 februari 2023 in Den Haag geparkeerd zonder betaalde parkeerbelasting, en de verhuurder kreeg een naheffingsaanslag.",
+   "bron": [
+    32
+   ],
+   "citaat": "Naar aanleiding daarvan is op 13 februari 2023 aan [Verhuurder] een naheffingsaanslag parkeerbelasting opgelegd"
+  },
+  {
+   "zin": "De verhuurder zei dat de auto verhuurd was en vroeg de aanslag op naam van de huurder te zetten.",
+   "bron": [
+    34
+   ],
+   "citaat": "Wij beroepen ons op het feit dat het voertuig ten tijde van de gedraging verhuurd was"
+  },
+  {
+   "zin": "De parkeerder zei dat hij de auto niet had gehuurd, maar dat iemand zijn gegevens had misbruikt.",
+   "bron": [
+    108
+   ],
+   "citaat": "een persoon die zich heeft voorgedaan als belanghebbende en aldus identiteitsfraude heeft gepleegd"
+  },
+  {
+   "zin": "De gemeente zei dat de parkeerder de huurder was en gebruikte daarvoor onder meer een factuur van de verhuurder.",
+   "bron": [
+    107
+   ],
+   "citaat": "De Heffingsambtenaar heeft deze stelling onderbouwd met diverse documenten, zoals een factuur van [Verhuurder] aan belanghebbende"
+  },
+  {
+   "zin": "De rechter oordeelde dat de gemeente geen huurovereenkomst had overgelegd en dat de factuur niet genoeg was.",
+   "bron": [
+    110
+   ],
+   "citaat": "De overgelegde factuur is onvoldoende om als een zodanig bewijsmiddel te kunnen dienen"
+  },
+  {
+   "zin": "De parkeerder had ook zelf hoger beroep willen instellen over de hoogte van de proceskosten, maar dat was te laat en is niet toegelaten.",
+   "bron": [
+    104
+   ],
+   "citaat": "Het incidentele hoger beroep is daarmee niet-ontvankelijk"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd; gemeente betaalt proceskosten en griffierecht.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffingsaanslag vervalt en de gemeente betaalt € 1.814 proceskosten en € 559 griffierecht voor het hoger beroep; de vergoeding van de rechtbank blijft staan, maar een hogere vergoeding kreeg de parkeerder niet.",
+  "bron": [
+   115,
+   116
+  ],
+  "citaat": "Het Hof ziet aanleiding de Heffingsambtenaar te veroordelen in de door belanghebbende gemaakte proceskosten"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik heb de auto niet gehuurd, dus ik ben niet degene die moet betalen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente bewees niet met een huurovereenkomst dat de parkeerder de huurder was, dus hij is niet belastingplichtig.",
+    "bron": [
+     110
+    ],
+    "citaat": "De Heffingsambtenaar heeft derhalve niet voldaan aan de bewijslast om, in afwijking van artikel 225, lid 5, tweede volzin, Gemeentewet"
+   },
+   "bruikbare_zin": {
+    "citaat": "De overgelegde factuur is onvoldoende om als een zodanig bewijsmiddel te kunnen dienen",
+    "bron": [
+     110
+    ]
+   }
+  },
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "Ik was te laat met mijn incidenteel hoger beroep, maar dat is verschoonbaar, want het hof stuurde de stukken niet naar mijn gemachtigde of bewindvoerder.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof hoefde de stukken niet rechtstreeks naar de gemachtigde of bewindvoerder te sturen, dus de termijn is niet verschoonbaar overschreden.",
+    "bron": [
+     104
+    ],
+    "citaat": "het niet rechtstreeks toezenden van het geschrift aan de gemachtigde of bewindvoerder geen verschoonbare omstandigheid oplevert"
+   },
+   "bruikbare_zin": {
+    "citaat": "het niet rechtstreeks toezenden van het geschrift aan de gemachtigde of bewindvoerder geen verschoonbare omstandigheid oplevert",
+    "bron": [
+     104
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wil de gemeente de huurder in plaats van de kentekenhouder aanspreken, dan moet zij met een huurovereenkomst of ander stuk aantonen wie de huurder was; een factuur is niet genoeg.",
+  "type": "regel",
+  "reikwijdte": "Huurauto's waarbij de gemeente de huurder wil aanspreken in plaats van de kentekenhouder (huur van ten hoogste drie maanden).",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   110
+  ],
+  "citaat": "De overgelegde factuur is onvoldoende om als een zodanig bewijsmiddel te kunnen dienen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "factuur van de verhuurder",
+   "antwoorden van de verhuurder",
+   "aangifte van identiteitsfraude"
+  ],
+  "wat_gaf_doorslag": "De gemeente overlegde geen huurovereenkomst en de factuur was onvoldoende."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:HR:2014:525",
+   "ECLI:NL:HR:2020:734"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 lid 3 Gemeentewet",
+  "art. 225 lid 5 Gemeentewet",
+  "art. 8:21 Awb",
+  "art. 8:75 Awb",
+  "art. 13 Procesregeling belastingkamers gerechtshoven 2022"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij een huurauto eerst de huurovereenkomst op voordat u de naheffing op naam van de huurder zet.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    110
+   ],
+   "citaat": "heeft geen kopie overgelegd van een huurovereenkomst die voor ten hoogste drie maanden is aangegaan"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "klantcontact"
+ ],
+ "klantuitleg": "Kreeg u een rekening achteraf voor parkeren met een huurauto die u niet zelf huurde? Dan moet de gemeente kunnen aantonen dat u de huurder was, en een factuur van het verhuurbedrijf is daarvoor niet genoeg. Maak bezwaar en vraag de gemeente om de huurovereenkomst.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,191 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2022:5539",
+ "relevant": true,
+ "onderwerp": "parkeernormen",
+ "sub": "parkeernorm-toets",
+ "kenmerk": null,
+ "zaaktype": "omgevingsrecht",
+ "partijen": {
+  "burger": "sportvereniging",
+  "wederpartij": "gemeente Utrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een sportvereniging procedeert tegen de gemeente Utrecht. Het gaat om de parkeerplaatsen bij een nieuw gebouw van FC Utrecht op een sportpark; de rechtbank Midden-Nederland oordeelde.",
+ "titel": "Parkeerberekening sportpark fout, vergunning blijft staan",
+ "kern": {
+  "zin": "De rechter vond de parkeerberekening van de gemeente fout, maar liet de vergunning staan omdat er toch genoeg parkeerplaatsen komen.",
+  "bron": [
+   133
+  ],
+  "citaat": "De onjuiste berekening heeft naar het oordeel van de rechtbank echter niet geleid tot een onjuiste uitkomst"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente gaf FC Utrecht een omgevingsvergunning voor een nieuw gebouw op het sportpark.",
+   "bron": [
+    13
+   ],
+   "citaat": "Op 4 november 2020 heeft het college aan FC Utrecht een omgevingsvergunning verleend"
+  },
+  {
+   "zin": "De sportvereniging vreesde dat er te weinig parkeerplaatsen zouden komen.",
+   "bron": [
+    14
+   ],
+   "citaat": "Zij vreest dat er met de komst van FC Utrecht een tekort aan parkeerplaatsen"
+  },
+  {
+   "zin": "Volgens de gemeente was er wel genoeg parkeergelegenheid.",
+   "bron": [
+    17
+   ],
+   "citaat": "Het college vindt dat er wel voldoende parkeergelegenheid is gerealiseerd"
+  },
+  {
+   "zin": "De rechter oordeelde dat de gemeente de parkeerbehoefte niet volgens de Nota had berekend.",
+   "bron": [
+    26
+   ],
+   "citaat": "De rechtbank concludeert, met eiseres, dat de berekening van de parkeerbehoefte door het college inderdaad niet in lijn is"
+  },
+  {
+   "zin": "Toch kwam er na de herinrichting feitelijk genoeg parkeerruimte op het sportpark.",
+   "bron": [
+    118
+   ],
+   "citaat": "is er met de vergunningverlening feitelijk wel voldoende parkeergelegenheid gerealiseerd op het sportpark"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Berekening gemeente fout; vergunning blijft, vereniging krijgt proceskosten",
+ "gevolg_betrokkene": {
+  "zin": "De vereniging houdt de vergunning, maar de gemeente betaalt haar ruim 2.298 euro aan proceskosten.",
+  "bron": [
+   141,
+   142
+  ],
+  "citaat": "veroordeelt het college in de proceskosten van eiseres tot een bedrag van in totaal"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "parkeernorm-onvoldoende",
+   "burger_zegt": "Door het nieuwe gebouw komt er te weinig parkeergelegenheid bij het sportpark.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De berekening van de gemeente klopte niet, dus de grond slaagt in zoverre; er kwamen toch genoeg plekken.",
+    "bron": [
+     26
+    ],
+    "citaat": "De beroepsgrond van eiseres slaagt dus in zoverre."
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank concludeert, met eiseres, dat de berekening van de parkeerbehoefte door het college inderdaad niet in lijn is",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Meerdere verenigingen gebruiken het park tegelijk, dus de parkeerdruk is hoger.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Zolang de parkeernormen zijn gehaald, is er voldoende parkeergelegenheid, ook bij gelijktijdig gebruik.",
+    "bron": [
+     121
+    ],
+    "citaat": "Als aan de parkeernormen uit de Nota is voldaan moet ervan uit worden gegaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat er meerdere verenigingen tegelijkertijd van het sportpark gebruik maken, kan dus niet betekenen",
+    "bron": [
+     121
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerplaatsen zijn te klein en de wegen te smal om veilig te keren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag geen concrete onderbouwing dat de situatie echt onveilig is.",
+    "bron": [
+     124
+    ],
+    "citaat": "Eiseres heeft niet concreet gemaakt waarom er desondanks sprake zou zijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank kan het college hierin volgen.",
+    "bron": [
+     124
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er had een parkeermeting moeten komen, en wildparkeerders hadden meegeteld moeten worden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een parkeermeting was hier niet verplicht, want de Nota schrijft die niet voor.",
+    "bron": [
+     127
+    ],
+    "citaat": "De Nota schrijft in dit geval geen parkeermeting voor"
+   },
+   "bruikbare_zin": {
+    "citaat": "Wildparkeren is niet toegestaan, zodat dat een handhavingskwestie is.",
+    "bron": [
+     127
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij de parkeernorm tellen de functie en de oppervlakte van een gebouw, niet het aantal gebruikers.",
+  "type": "regel",
+  "reikwijdte": "parkeereis bij een omgevingsvergunning voor een bouwplan op een sportpark",
+  "uitzondering": "bij sloop/nieuwbouw of functiewijziging gelden andere rekenmethoden (par. 5.1.1 van de Nota)",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   93
+  ],
+  "citaat": "De parkeernormen in de Nota zijn namelijk niet gekoppeld aan het aantal gebruikers"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 4:3 onder a planregels Chw algemene regels over bouwen en gebruik",
+  "Nota Stallen en parkeren 2019 par. 5.1"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Reken de parkeereis per functie en oppervlakte uit, niet per gebruiker, en tel het hele nieuwe gebouw mee.",
+   "raakt": "vergunningen",
+   "bron": [
+    93
+   ],
+   "citaat": "Het college had in plaats van het gebruik, dus moeten kijken naar de minimumparkeernorm"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "verordening-beleid"
+ ],
+ "klantuitleg": "Een vergunning kan blijven staan, ook als de rekenmethode van de gemeente fout was. Dat betekent niet dat de berekening goed was. Wilt u bezwaar maken, dan helpt het om met cijfers aan te tonen waar het tekort zit.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

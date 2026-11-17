@@ -1,0 +1,180 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "dubbel_van": null,
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "reden_gemeente_leeg": "Schiphol; geen gemeente genoemd in de tekst",
+ "ecli": "ECLI:NL:GHARL:2018:10949",
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "particulier (kentekenhouder) met gemachtigde",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een vader kreeg een boete van € 90 omdat hij op de Vertrekpassage van Schiphol stond. Hij ging in hoger beroep tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Meelopen met passagier telt als parkeren, niet als uitladen",
+ "kern": {
+  "zin": "De rechter vond dat dit parkeren was: de tijd om je dochter naar de vertrekhal te brengen telt niet als in- of uitstappen of laden.",
+  "bron": [
+   33
+  ],
+  "citaat": "niet begrepen de tijd die de betrokkene heeft gebruikt om zijn dochter met een koffer naar de vertrekhal te begeleiden"
+ },
+ "samenvatting": [
+  {
+   "zin": "De vader kreeg een boete van € 90 voor parkeren in strijd met een parkeerverbod op Schiphol.",
+   "bron": [
+    20
+   ],
+   "citaat": "een administratieve sanctie van € 90,- opgelegd"
+  },
+  {
+   "zin": "Hij zei dat hij liep met zijn dochter mee omdat zij een zware koffer had, en dat het om laden en lossen ging.",
+   "bron": [
+    33
+   ],
+   "citaat": "dat hij met zijn dochter is meegelopen naar de vertrekhal omdat zijn dochter een zware koffer bij zich had"
+  },
+  {
+   "zin": "De handhaver schreef dat hij tien minuten lang geen laden of lossen zag.",
+   "bron": [
+    32
+   ],
+   "citaat": "Gedurende 10 minuten zijn er door mij geen laad- en losactiviteiten waargenomen"
+  },
+  {
+   "zin": "De rechter vond dat er geen sprake was van bij voortduring in- of uitladen van goederen.",
+   "bron": [
+    33
+   ],
+   "citaat": "Er is geen sprake van bij voortduring inladen of uitladen van goederen van enige omvang of enig gewicht."
+  },
+  {
+   "zin": "De rechter vond de uitleg van de kantonrechter te summier, maar bevestigde de uitkomst met betere gronden.",
+   "bron": [
+    22
+   ],
+   "citaat": "is diens beslissing niet deugdelijk gemotiveerd"
+  },
+  {
+   "zin": "De rechter bevestigde de beslissing van de kantonrechter.",
+   "bron": [
+    35
+   ],
+   "citaat": "Het hof zal de beslissing van de kantonrechter daarom bevestigen."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Geen laden of lossen; boete van € 90 blijft.",
+ "gevolg_betrokkene": {
+  "zin": "De vader moet de boete van € 90 betalen.",
+  "bron": [
+   35,
+   20
+  ],
+  "citaat": "Het hof zal de beslissing van de kantonrechter daarom bevestigen."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Ik stond stil om te laden en lossen en mijn dochter te helpen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Meelopen naar de vertrekhal valt niet onder de tijd voor uitstappen of laden en lossen.",
+    "bron": [
+     33
+    ],
+    "citaat": "Er is geen sprake van bij voortduring inladen of uitladen van goederen van enige omvang of enig gewicht"
+   },
+   "bruikbare_zin": {
+    "citaat": "Van een pardontijd is geen sprake",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De handhaver zag de auto geen tien minuten, dus zijn verklaring is niet genoeg.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter liet in het midden of de handhaver tien minuten niets zag, omdat het al geen laden of lossen was.",
+    "bron": [
+     33
+    ],
+    "citaat": "kan in het midden blijven of de verbalisant tien minuten geen laad- en losactiviteiten heeft waargenomen"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De officier van justitie ging niet goed in op mijn bezwaren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De beslissing van de officier van justitie was voldoende uitgelegd.",
+    "bron": [
+     23
+    ],
+    "citaat": "de beslissing van de officier van justitie in dit geval deugdelijk is gemotiveerd"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "gelijkheid",
+   "burger_zegt": "Er wordt niet altijd gehandhaafd; dat is willekeur.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Handhavers hebben ruimte om te kiezen en dat andere bestuurders geen boete krijgen, maakt de boete niet onterecht.",
+    "bron": [
+     34
+    ],
+    "citaat": "Verbalisanten beschikken over een discretionaire bevoegdheid"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Laden en lossen is alleen het bij voortduring in- of uitladen van goederen van enige omvang of gewicht; meelopen met een passagier hoort daar niet bij.",
+  "type": "regel",
+  "reikwijdte": "Stilstaan op een plek waar parkeren verboden is; in- en uitstappen en laden en lossen",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   29
+  ],
+  "citaat": "bij voortduring inladen of uitladen van goederen van enige omvang of enig gewicht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring van de handhaver in het zaakoverzicht",
+   "eigen verklaring in het beroepschrift"
+  ],
+  "wat_gaf_doorslag": "Meelopen naar de vertrekhal telt niet als laden, lossen of uitstappen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:1999:AA2760"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1 RVV 1990",
+  "art. 24 lid 1 onder f RVV 1990",
+  "art. 7:26 Awb"
+ ],
+ "actie_gemeente": [],
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Stilstaan om iemand te laten uitstappen of om spullen in of uit te laden, is iets anders dan parkeren. Loopt u ook mee met uw passagier naar de ingang, dan telt die tijd als parkeren en kunt u een boete krijgen. Bezwaar heeft op dit punt weinig kans.",
+ "gemeente": null,
+ "zekerheid": "hoog"
+}

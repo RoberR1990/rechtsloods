@@ -1,0 +1,191 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2026:2429",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente (naam geanonimiseerd)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De gemeente ging in hoger beroep tegen een parkeerder, die via een parkeerapp voor een zone in een andere gemeente had betaald. De rechtbank had de parkeerder gelijk gegeven; het gerechtshof Amsterdam besliste anders.",
+ "titel": "Parkeerapp koos verkeerde zone: naheffing blijft staan",
+ "kern": {
+  "zin": "Het Hof vond dat de gemeente de juiste informatie had gegeven en dat de parkeerder moest nagaan of de zone in de app klopte met de plek waar hij stond; de naheffing was dus terecht.",
+  "bron": [
+   40,
+   43
+  ],
+  "citaat": "heeft de gemeente aan deze informatieplicht ook voldaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeerder meldde zijn auto via een parkeerapp aan voor een zone in een andere gemeente dan waar hij stond en betaalde de parkeerbelasting dus niet voor de juiste plek.",
+   "bron": [
+    37
+   ],
+   "citaat": "de parkeeractie van de auto heeft aangemeld met behulp van een parkeerapplicatie op zijn mobiele telefoon"
+  },
+  {
+   "zin": "De parkeerder zei dat de fout kwam door een foute locatiebepaling en dat de gemeente daarvoor moest opdraaien.",
+   "bron": [
+    38
+   ],
+   "citaat": "maar om een foutieve locatiebepaling die voor rekening van de heffingsambtenaar dient te blijven"
+  },
+  {
+   "zin": "De gemeente zei dat de parkeerder moet controleren of de zone in de app klopt met de plek waar hij parkeert.",
+   "bron": [
+    39
+   ],
+   "citaat": "het is aan de parkeerder om te controleren of de parkeerzone waarin is geparkeerd overeenkomt met de parkeerzone"
+  },
+  {
+   "zin": "Het Hof vond dat de gemeente aan haar plicht had voldaan om de juiste gegevens over zones en tarieven te geven.",
+   "bron": [
+    40
+   ],
+   "citaat": "heeft de gemeente aan deze informatieplicht ook voldaan"
+  },
+  {
+   "zin": "Het Hof vond dat van de parkeerder te vragen is om te controleren of de locatie in zijn telefoon klopt met de echte plek.",
+   "bron": [
+    43
+   ],
+   "citaat": "dat hij verifieert of de door zijn mobiele telefoon weergegeven locatie overeenkomt met de fysieke werkelijkheid"
+  },
+  {
+   "zin": "Het Hof vond de naheffing daarom terecht en maakte de uitspraak van de rechtbank ongedaan.",
+   "bron": [
+    45
+   ],
+   "citaat": "is de naheffingsaanslag terecht opgelegd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep van de gemeente slaagt; naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan, ook al had de parkeerder een bedrag aan een andere gemeente betaald, en er is geen kostenveroordeling.",
+  "bron": [
+   45,
+   50
+  ],
+  "citaat": "Dat belanghebbende wel een bedrag aan een andere gemeente heeft betaald maakt het voorgaande niet anders"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "De app stelde zelf de verkeerde zone voor door een foute locatiebepaling, dus dat moet voor rekening van de gemeente komen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De parkeerder had moeten nagaan of de zone in de app klopte met de plek waar hij stond; hij deed dat niet.",
+    "bron": [
+     43
+    ],
+    "citaat": "Doet hij dat niet, dan dienen de gevolgen daarvan voor zijn rekening te komen"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat hij verifieert of de door zijn mobiele telefoon weergegeven locatie overeenkomt met de fysieke werkelijkheid",
+    "bron": [
+     43
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het is onredelijk om een naheffing op te leggen, want ik betaalde al meer aan de andere gemeente en die gemeenten kunnen dat onderling verrekenen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Betalen aan een andere gemeente verandert niets aan de naheffing, ook niet als beide gemeenten samenwerken.",
+    "bron": [
+     45
+    ],
+    "citaat": "Dat belanghebbende wel een bedrag aan een andere gemeente heeft betaald maakt het voorgaande niet anders"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet worden gevergd dat hij, alvorens een naheffingsaanslag op te leggen, controleert of de parkeerder wellicht in een andere gemeente",
+    "bron": [
+     45
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik had geen opzet om de belasting niet te betalen en handelde te goeder trouw.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Bij parkeerbelasting is opzet, schuld of goede trouw van de parkeerder niet van belang.",
+    "bron": [
+     45
+    ],
+    "citaat": "Voor de parkeerbelasting is een verwijt van opzet of schuld van belanghebbende (of zijn goede of kwade trouw) niet van belang"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie via een parkeerapp betaalt, mag uitgaan van de tarieven in de app, maar moet nagaan of de locatie klopt; een fout door onnauwkeurige GPS-locatie komt voor zijn rekening.",
+  "type": "regel",
+  "reikwijdte": "Parkeerapps die de zone voorstellen op basis van de GPS-locatie van de telefoon, waarbij de parkeerder in een verkeerde zone of andere gemeente betaalt.",
+  "uitzondering": "Anders als de onjuiste zone is veroorzaakt door een omstandigheid die voor rekening van de gemeente komt.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   43
+  ],
+  "citaat": "Doet hij dat niet, dan dienen de gevolgen daarvan voor zijn rekening te komen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "betalingsbewijs van de parkeerapp",
+   "verklaring van de parkeerder"
+  ],
+  "wat_gaf_doorslag": "De parkeerder verklaarde zelf dat hij afging op de automatisch gekozen locatie en niet nagaf of die klopte."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "nieuw",
+  "eerdere": [
+   "ECLI:NL:HR:2020:1014",
+   "ECLI:NL:HR:2024:1535"
+  ]
+ },
+ "wetsartikelen": [
+  "Verordening parkeerbelastingen 2024-1"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Geef parkeerapp-aanbieders de juiste zone-indeling en tarieven door en zorg dat u dat kunt aantonen.",
+   "raakt": "betaalapp",
+   "bron": [
+    40
+   ],
+   "citaat": "Het Hof acht aannemelijk dat de juiste zone-indeling en tarieven ten behoeve van de parkeerapplicatie zijn verstrekt"
+  },
+  {
+   "actie": "Wijs parkeerders erop dat zij moeten controleren of de zone in de app klopt met de plek waar hun auto staat.",
+   "raakt": "communicatie",
+   "bron": [
+    43
+   ],
+   "citaat": "dat hij verifieert of de door zijn mobiele telefoon weergegeven locatie overeenkomt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "betaalapp",
+  "bezwaar",
+  "communicatie",
+  "klantcontact"
+ ],
+ "klantuitleg": "U mag uitgaan van de tarieven in de parkeerapp, maar u moet zelf nagaan of de zone in de app klopt met de plek waar uw auto staat. Betaalde u door een verkeerde zone te weinig, dan mag de gemeente het tekort terecht nahalen, ook als uw telefoon de plek verkeerd bepaalde. Controleer daarom de zone bij het starten van de app en ga alleen in bezwaar als u kunt laten zien dat de fout bij de gemeente of de informatie in de app lag.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,166 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2024:127",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "vrouw",
+  "wederpartij": "gemeente 's-Hertogenbosch",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Deze zaak gaat over een verzoek om persoonsgegevens in de BRP (basisregistratie personen) te wijzigen. Een vrouw uit Den Bosch en de gemeente 's-Hertogenbosch strijden bij de Raad van State over de vraag of de gemeente die gegevens moet aanpassen.",
+ "titel": "Gemeente moet persoonsgegevens in BRP aanpassen",
+ "kern": {
+  "zin": "De Raad van State beslist dat de gemeente de BRP-gegevens van de vrouw moet wijzigen, omdat één juist brondocument genoeg is.",
+  "bron": [
+   58
+  ],
+  "citaat": "omdat één brondocument met juiste gegevens voldoende is om de gegevens in de brp te wijzigen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De vrouw verzocht om haar persoonsgegevens te wijzigen in [naam], geboren op [geboortedatum] 1977 in Ruian, China.",
+   "bron": [
+    19
+   ],
+   "citaat": "verzocht om haar persoonsgegevens te wijzigen in [naam], geboren op [geboortedatum] 1977 in Ruian, China"
+  },
+  {
+   "zin": "De gemeente wees dat verzoek af omdat niet duidelijk was of de documenten op haar betrekking hadden.",
+   "bron": [
+    29
+   ],
+   "citaat": "niet duidelijk is of de documenten op [appellant sub 1] betrekking hebben"
+  },
+  {
+   "zin": "Later leverde de vrouw een originele hukou (Chinees huishoudboekje).",
+   "bron": [
+    46
+   ],
+   "citaat": "Na de tussenuitspraak heeft [appellant sub 1] de originele hukou alsnog overgelegd."
+  },
+  {
+   "zin": "Met een verwantschapsonderzoek toonde zij aan een dochter te zijn.",
+   "bron": [
+    47
+   ],
+   "citaat": "heeft met het verwantschapsonderzoek aangetoond een dochter te zijn"
+  },
+  {
+   "zin": "De Raad van State oordeelt dat de hukou de juiste gegevens bewijst.",
+   "bron": [
+    47
+   ],
+   "citaat": "buiten redelijke twijfel is dat de op de hukou vermelde persoonsgegevens juist zijn"
+  },
+  {
+   "zin": "De gemeente moet de inschrijving binnen vier weken wijzigen.",
+   "bron": [
+    58
+   ],
+   "citaat": "binnen vier weken na verzending van deze uitspraak in de brp te wijzigen"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "De vrouw krijgt gelijk: de gemeente moet haar BRP-gegevens wijzigen.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet de BRP-inschrijving van de vrouw binnen vier weken aanpassen en haar proceskosten van € 1750,00 en griffierecht van € 274,00 vergoeden.",
+  "bron": [
+   58,
+   69,
+   70
+  ],
+  "citaat": "binnen vier weken na verzending van deze uitspraak in de brp te wijzigen"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Mijn gegevens in de BRP zijn onjuist; ik ben de persoon [naam] en niet [zus].",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De Raad van State oordeelt dat het verband tussen de vrouw en de persoon [naam] op de hukou is gelegd.",
+    "bron": [
+     47
+    ],
+    "citaat": "Het verband tussen [appellant sub 1] en de op de hukou genoemde persoon [naam] is daarmee gelegd."
+   },
+   "bruikbare_zin": {
+    "citaat": "buiten redelijke twijfel is dat de op de hukou vermelde persoonsgegevens juist zijn",
+    "bron": [
+     47
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Eén brondocument met juiste gegevens is genoeg om persoonsgegevens in de BRP te wijzigen.",
+  "type": "regel",
+  "reikwijdte": "Bij een verzoek om wijziging van persoonsgegevens in de BRP.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   58
+  ],
+  "citaat": "omdat één brondocument met juiste gegevens voldoende is om de gegevens in de brp te wijzigen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "paspoort",
+   "identiteitskaart",
+   "notariële verklaringen",
+   "originele hukou",
+   "verwantschapsonderzoek"
+  ],
+  "wat_gaf_doorslag": "De originele hukou, samen met het verwantschapsonderzoek, bracht het verband met de vrouw buiten redelijke twijfel."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2022:1198",
+   "ECLI:NL:RVS:2015:2285",
+   "ECLI:NL:RVS:2022:3874"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2.58 Wet brp",
+  "art. 2.8 lid 2 Wet brp",
+  "art. 2.10 lid 2 Wet brp",
+  "art. 7:12 lid 1 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Wijzig de bestaande BRP-inschrijving binnen vier weken na de uitspraak.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    58
+   ],
+   "citaat": "om de bestaande inschrijving binnen vier weken na verzending van deze uitspraak in de brp te wijzigen"
+  },
+  {
+   "actie": "Neem één juist brondocument als voldoende bewijs voor wijziging van de BRP.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    58
+   ],
+   "citaat": "omdat één brondocument met juiste gegevens voldoende is om de gegevens in de brp te wijzigen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "De gemeente moet uw gegevens in de BRP aanpassen als u met een origineel bewijsstuk buiten redelijke twijfel aantoont dat de gegevens niet kloppen. De gemeente mag weigeren als zij goede redenen heeft om aan dat bewijs te twijfelen, bijvoorbeeld omdat het document niet echt of niet goed onderzocht is. In deze zaak waren de originele hukou (Chinees huishoudboekje) en het verwantschapsonderzoek genoeg; de gemeente moet de inschrijving binnen vier weken wijzigen.",
+ "gemeente": "'s-Hertogenbosch",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

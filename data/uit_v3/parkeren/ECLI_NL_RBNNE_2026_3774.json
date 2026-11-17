@@ -1,0 +1,163 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2026:3774",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Heerenveen",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder in Heerenveen kreeg een naheffing (de rekening achteraf), omdat er geen parkeerkaart zichtbaar was. De parkeerder zei dat de automaat kapot was; de rechtbank Noord-Nederland wees het beroep af.",
+ "titel": "Geen zichtbaar kaartje en kapotte automaat: rekening blijft",
+ "kern": {
+  "zin": "De rechter zag dat de gemeente de bewijslast had gedragen, en dat een kapotte automaat de naheffing niet wegneemt.",
+  "bron": [
+   28,
+   33
+  ],
+  "citaat": "heeft de heffingsambtenaar voldaan aan de op hem rustende bewijslast"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 16 augustus 2024 stond de auto van de parkeerder in Heerenveen op een betaalde plek, zonder zichtbare parkeerkaart.",
+   "bron": [
+    18,
+    17,
+    28
+   ],
+   "citaat": "geparkeerd op het Burgemeester Kuperusplein in Heerenveen"
+  },
+  {
+   "zin": "De parkeerder liet een briefje achter de ruit achter, met de tekst dat de automaat niet werkte.",
+   "bron": [
+    19
+   ],
+   "citaat": "Automaat werkte niet! 4 euro betaald."
+  },
+  {
+   "zin": "De gemeente stelde dat er geen betaalbewijs was overgelegd en dat er geen geldige vergunning was.",
+   "bron": [
+    20
+   ],
+   "citaat": "geconstateerd dat eiser geen betaalbewijs heeft overgelegd"
+  },
+  {
+   "zin": "De rechter vond niet aannemelijk dat de parkeerder had betaald, omdat dat niet was onderbouwd.",
+   "bron": [
+    29,
+    32
+   ],
+   "citaat": "omdat eiser deze stelling niet heeft onderbouwd"
+  },
+  {
+   "zin": "De rechter wees het beroep af, zodat de naheffing blijft staan zonder griffierecht of proceskosten.",
+   "bron": [
+    35
+   ],
+   "citaat": "Dat betekent dat eiser geen gelijk krijgt en de naheffingsaanslag parkeerbelasting in stand blijft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; geen griffierecht en geen proceskosten terug.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing betalen en krijgt geen griffierecht of proceskosten terug.",
+  "bron": [
+   35
+  ],
+  "citaat": "Dat betekent dat eiser geen gelijk krijgt en de naheffingsaanslag parkeerbelasting in stand blijft"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De automaat werkte niet en er was 4 euro betaald.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een kapotte automaat maakt de naheffing niet ongedaan; er waren andere manieren om te betalen.",
+    "bron": [
+     33
+    ],
+    "citaat": "breng het enkele feit dat de parkeerautomaat defect is, niet met zich mee"
+   },
+   "bruikbare_zin": {
+    "citaat": "alternatieve mogelijkheden om de parkeerbelasting te betalen",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "overmacht-medisch",
+   "burger_zegt": "Door het slechte weer en de gezondheid vond de parkeerder het niet verantwoord om naar een andere automaat te lopen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Slecht weer of gezondheid is geen overmacht, tenzij er echt sprake is van een nood- of spoedsituatie.",
+    "bron": [
+     32
+    ],
+    "citaat": "In het geval van eiser is er geen sprake van een overmachtsituatie"
+   },
+   "bruikbare_zin": {
+    "citaat": "een nood- of spoedeisende situatie, waardoor eiser absoluut, feitelijk en fysiek, verhinderd was om parkeerbelasting te betalen",
+    "bron": [
+     32
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een naheffing mag alleen als de belasting niet is betaald; een niet-zichtbaar kaartje is op zichzelf onvoldoende.",
+  "type": "regel",
+  "reikwijdte": "naheffing voor parkeren waarvoor de belasting niet is betaald",
+  "uitzondering": null,
+  "herkomst": "lokale verordening",
+  "bron": [
+   27
+  ],
+  "citaat": "Het enkele feit dat een parkeerkaartje niet zichtbaar achter de voorruit ligt, is dus onvoldoende"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "brondocument van de controleur",
+   "foto zonder parkeerkaart"
+  ],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 tweede lid Gemeentewet",
+  "art. 1 onder d Verordening parkeerbelasting (Heerenveen) 2024",
+  "Aanwijzingsbesluit parkeren (Heerenveen) 2023"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij elke controle een brondocument en foto vast, zoals in deze zaak.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    28
+   ],
+   "citaat": "heeft het brondocument overgelegd waarin door de controleur wordt aangegeven"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "scanauto-handhaving",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een naheffing is terecht als er niet is betaald, en de gemeente kan dat laten zien met een controle-foto en het controlestuk. Een kapotte automaat betekent niet dat u niet hoeft te betalen; u kunt dan bij een andere automaat of met een app betalen. Hebt u wel betaald, dan kunt u dat met een bewijs laten zien; zonder bewijs heeft bezwaar op dit punt weinig kans.",
+ "gemeente": "Heerenveen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

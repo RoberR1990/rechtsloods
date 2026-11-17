@@ -1,0 +1,155 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:HR:2022:156",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "kentekenhouder",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "cassatie",
+ "intro": "Een automobilist kreeg van de gemeente Den Haag een naheffingsaanslag (een rekening achteraf) voor parkeerbelasting, omdat zijn auto deels op de stoep stond. Hij ging in cassatie (een toets op rechtsvragen) bij de Hoge Raad.",
+ "titel": "Auto deels op de stoep: toch parkeerbelasting verschuldigd",
+ "kern": {
+  "zin": "De Hoge Raad vond dat ook parkeerbelasting verschuldigd is als de auto deels op een plek staat waar parkeren verboden is en voor het overige op een betaalde parkeerplek.",
+  "bron": [
+   23
+  ],
+  "citaat": "parkeerbelasting ook is verschuldigd in een geval als dit"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Den Haag legde een rekening achteraf op, omdat de auto deels op een betaalde parkeerplek stond zonder dat was betaald.",
+   "bron": [
+    18
+   ],
+   "citaat": "voor een deel stond op een door het College aangewezen plaats voor betaald parkeren"
+  },
+  {
+   "zin": "Het hof vond de rekening terecht, omdat de auto bijna helemaal in een parkeervak stond.",
+   "bron": [
+    20
+   ],
+   "citaat": "Omdat de auto nagenoeg geheel in een parkeervak stond, was parkeerbelasting verschuldigd"
+  },
+  {
+   "zin": "De burger zei dat naheffen niet kan, omdat de auto deels op de stoep stond, waar parkeren verboden is.",
+   "bron": [
+    22
+   ],
+   "citaat": "aan het naheffen van parkeerbelasting in de weg staat dat de auto deels op de stoep"
+  },
+  {
+   "zin": "De Hoge Raad vond dat een voertuig dat deels op een verboden plek staat, voor het overige gewoon op een betaalde plek kan staan.",
+   "bron": [
+    23
+   ],
+   "citaat": "In zo’n geval bevindt het voertuig zich immers voor dat overige op een plaats"
+  },
+  {
+   "zin": "Een plek waar parkeren verboden is, kan een gemeente volgens de Hoge Raad niet aanwijzen als plek voor betaald parkeren.",
+   "bron": [
+    23
+   ],
+   "citaat": "niet door een gemeente kan worden aangewezen als plaats waar voor het parkeren belasting verschuldigd is"
+  },
+  {
+   "zin": "De Hoge Raad verklaarde het beroep ongegrond, zonder proceskostenveroordeling.",
+   "bron": [
+    29
+   ],
+   "citaat": "De Hoge Raad verklaart het beroep in cassatie ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; rekening achteraf blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De rekening achteraf blijft staan en de burger krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   29,
+   27
+  ],
+  "citaat": "De Hoge Raad verklaart het beroep in cassatie ongegrond"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Omdat de auto deels op de stoep stond, kan er alleen een sanctie voor een parkeerverbod komen en geen rekening voor parkeerbelasting.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Hoge Raad vond dat in zo'n geval niet alleen een sanctie voor een parkeerverbod kan worden opgelegd.",
+    "bron": [
+     24
+    ],
+    "citaat": "kan in een geval als dit dus niet slechts een sanctie wegens de overtreding van een parkeerverbod worden opgelegd"
+   },
+   "bruikbare_zin": {
+    "citaat": "Wanneer die plaats op de voet van artikel 225 Gemeentewet is aangewezen voor betaald parkeren, is voor dat gebruik van die plaats parkeerbelasting verschuldigd",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Staat een auto deels op een plek waar parkeren verboden is en voor het overige op een plek die is aangewezen voor betaald parkeren, dan is parkeerbelasting verschuldigd.",
+  "type": "regel",
+  "reikwijdte": "Auto's die deels op een verboden plek (bijvoorbeeld de stoep) en deels op een aangewezen betaalde plek staan",
+  "uitzondering": "Een plek waar parkeren verboden is, kan een gemeente niet aanwijzen als plek voor betaald parkeren.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "parkeerbelasting ook is verschuldigd in een geval als dit"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De uitleg van artikel 225 Gemeentewet: parkeren op een deel van een aangewezen plek is voldoende."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "art. 10 RVV 1990",
+  "Verordening parkeerbelastingen 2008 Den Haag"
+ ],
+ "actie_gemeente": [
+  {
+   "bron": [
+    23
+   ],
+   "citaat": "is voor dat gebruik van die plaats parkeerbelasting verschuldigd",
+   "raakt": "tarief-naheffing",
+   "actie": "Heff ook parkeerbelasting als een auto deels op een verboden plek en voor het overige op een aangewezen betaalde plek staat."
+  },
+  {
+   "bron": [
+    23
+   ],
+   "citaat": "niet door een gemeente kan worden aangewezen als plaats waar voor het parkeren belasting verschuldigd is",
+   "raakt": "verordening-beleid",
+   "actie": "Wijs geen plek waar parkeren verboden is aan als plek voor betaald parkeren."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "verordening-beleid",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Staat uw auto voor een deel op een plek waar parkeren verboden is, maar voor een ander deel op een betaalde parkeerplek, dan moet u voor die betaalde plek betalen. De rekening voor het parkeren is dan in principe terecht. Bezwaar maken heeft op dit punt weinig kans.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

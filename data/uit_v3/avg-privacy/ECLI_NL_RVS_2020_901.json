@@ -1,0 +1,193 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2020:901",
+ "relevant": true,
+ "onderwerp": "schade-aansprakelijkheid",
+ "sub": "immateriele-schade",
+ "kenmerk": null,
+ "zaaktype": "schadevergoeding",
+ "partijen": {
+  "burger": "burger (particulier)",
+  "wederpartij": "gemeente Harderwijk",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger vroeg de Raad van State om € 10.000 schadevergoeding van de gemeente Harderwijk. Zijn naam stond op het VNG-Forum en hij kreeg een overzicht van zijn gegevens te laat.",
+ "titel": "Rechter wijst schadevergoeding voor AVG-fout af: schade niet onderbouwd",
+ "kern": {
+  "zin": "De rechter wijst de schadevergoeding af: het noemen van de naam was niet onrechtmatig en de schade door de late informatie was niet met concrete gegevens onderbouwd.",
+  "bron": [
+   92
+  ],
+  "citaat": "geen aanspraak kan maken op een schadevergoeding"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente noemde de naam van de burger op het VNG-Forum, een online plek waar gemeenten overleggen, om misbruik van de Wob (de wet over openbare overheidsinformatie) te voorkomen.",
+   "bron": [
+    61
+   ],
+   "citaat": "te voorkomen dat de Wob wordt misbruikt om dwangsommen te innen"
+  },
+  {
+   "zin": "De burger vroeg € 10.000 schadevergoeding, omdat hij de controle over zijn persoonsgegevens kwijt was en het overzicht van zijn gegevens te laat kreeg.",
+   "bron": [
+    35
+   ],
+   "citaat": "stelt aanspraak te maken op een schadevergoeding van € 10.000,00"
+  },
+  {
+   "zin": "De gemeente vond dat de burger niet aannemelijk had gemaakt dat hij zodanig had geleden dat er sprake was van geestelijk letsel.",
+   "bron": [
+    37
+   ],
+   "citaat": "niet aannemelijk heeft gemaakt dat hij zodanig heeft geleden door de publicatie"
+  },
+  {
+   "zin": "De rechter vond dat de bestuursrechter zo'n schadeverzoek mag beoordelen en dat de burger zelf mag kiezen tussen de bestuursrechter en de gewone rechter.",
+   "bron": [
+    55
+   ],
+   "citaat": "aan de bestuursrechter voor te leggen dan wel zijn aanspraak op schadevergoeding via de civielrechtelijke weg te realiseren"
+  },
+  {
+   "zin": "De rechter vond het noemen van de naam op het VNG-Forum niet onrechtmatig en wees de schadevergoeding op dat punt af.",
+   "bron": [
+    62
+   ],
+   "citaat": "niet onrechtmatig heeft gehandeld, wordt het verzoek om schadevergoeding in zoverre afgewezen"
+  },
+  {
+   "zin": "De gemeente gaf het overzicht te laat, maar de burger maakte niet aannemelijk dat die schending hem persoonlijk had getroffen.",
+   "bron": [
+    84
+   ],
+   "citaat": "niet aannemelijk gemaakt dat de schending van de informatieplicht heeft geleid tot de aantasting"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep niet-ontvankelijk, schade afgewezen; gemeente betaalt wel proceskosten en griffierecht",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen schadevergoeding, maar de gemeente moet € 525 proceskosten en € 174 griffierecht aan hem vergoeden.",
+  "bron": [
+   97,
+   98
+  ],
+  "citaat": "opgekomen proceskosten tot een bedrag van € 525,00"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Ik heb immateriële schade, omdat ik de controle over mijn gegevens kwijt was en mijn overzicht te laat kreeg.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger gaf geen concrete gegevens om zijn schade te onderbouwen.",
+    "bron": [
+     84
+    ],
+    "citaat": "Hij heeft geen concrete gegevens ter onderbouwing van de door hem gestelde schade overgelegd"
+   },
+   "bruikbare_zin": {
+    "citaat": "Er is geen grond voor het oordeel dat een inbreuk op de AVG zonder meer aantasting van de integriteit van een persoon betekent",
+    "bron": [
+     80
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het noemen van mijn naam op het VNG-Forum was niet nodig en ging verder dan nodig.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het doel stond in verhouding tot de inbreuk op de privacy en kon niet met minder ingrijpende middelen worden bereikt.",
+    "bron": [
+     61
+    ],
+    "citaat": "Het doel van de verwerking stond in verhouding tot de inbreuk op de privacy"
+   },
+   "bruikbare_zin": {
+    "citaat": "kon niet met minder ingrijpende middelen worden bereikt",
+    "bron": [
+     61
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Schadevergoeding onder de AVG is bedoeld als straf en moet afschrikken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Schadevergoeding is bedoeld om de schade te herstellen, niet om te straffen.",
+    "bron": [
+     82
+    ],
+    "citaat": "Het doel van schadevergoeding is herstel van of het bieden van compensatie voor een onrechtmatige inbreuk op privacy"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie schadevergoeding vraagt voor een AVG-schending, moet de aantasting in zijn persoon aannemelijk maken en de schade met concrete gegevens onderbouwen; een schending alleen is niet genoeg.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om vergoeding van immateriële schade door een bestuursorgaan dat de AVG schond.",
+  "uitzondering": "Het hoeft niet te worden onderbouwd als de nadelige gevolgen van de schending zo voor de hand liggen dat aantasting in de persoon kan worden aangenomen (r.o. 39).",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   83
+  ],
+  "citaat": "de aantasting in zijn persoon aannemelijk moet maken en de door hem geleden schade met concrete gegevens moet onderbouwen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De burger gaf geen concrete gegevens om zijn gestelde schade te onderbouwen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "nieuw",
+  "eerdere": [
+   "ECLI:NL:RVS:2019:184",
+   "ECLI:NL:RVS:2020:898",
+   "ECLI:NL:RVS:2020:899",
+   "ECLI:NL:RVS:2020:900",
+   "ECLI:NL:HR:2019:376"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 82 AVG",
+  "art. 8:88 Awb",
+  "art. 34 Uitvoeringswet AVG",
+  "art. 6 lid 1 onder e AVG",
+  "art. 6:106 BW"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Geef bij een inzageverzoek binnen de termijn een overzicht van alle verwerkte persoonsgegevens.",
+   "raakt": "privacy-fg",
+   "bron": [
+    64
+   ],
+   "citaat": "niet tijdig een overzicht heeft verstrekt van de persoonsgegevens"
+  },
+  {
+   "actie": "Geef alleen medewerkers met een specifieke taak toegang tot een gedeeld platform waarop namen van burgers staan.",
+   "raakt": "woo-openbaarheid",
+   "bron": [
+    61
+   ],
+   "citaat": "verder alleen degenen toegang die een specifieke functie hadden, gerelateerd aan de behandeling van Wob-verzoeken"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "woo-openbaarheid",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een fout van de gemeente met uw gegevens geeft u niet vanzelf recht op geld. U moet laten zien welke schade u echt hebt en dat met concrete gegevens onderbouwen. Een verzoek om schadevergoeding kunt u indienen bij de bestuursrechter (de rechter voor zaken tegen de overheid) of bij de gewone rechter.",
+ "gemeente": "Harderwijk",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,148 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2023:960",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "gemeente 's-Hertogenbosch",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger vroeg de gemeente 's-Hertogenbosch om zijn naam, geboortedatum, geboorteplaats en ouders in de basisregistratie personen (BRP) te wijzigen. De gemeente weigerde en de burger ging in hoger beroep bij de Raad van State.",
+ "titel": "Gegevens in de BRP wijzigen kan alleen met stevig bewijs",
+ "kern": {
+  "zin": "De Raad van State vond de afwijzing terecht, omdat uit de documenten niet buiten redelijke twijfel blijkt dat de nieuwe gegevens juist zijn.",
+  "bron": [
+   52
+  ],
+  "citaat": "niet volgt dat buiten redelijke twijfel staat dat de daarin vermelde persoonsgegevens juist zijn"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger stond sinds 1998 met een eigen naam en geboortedatum in de BRP, op basis van een verklaring onder ede.",
+   "bron": [
+    26
+   ],
+   "citaat": "Deze registratie is gebaseerd op een onder ede afgelegde verklaring"
+  },
+  {
+   "zin": "De burger wilde bijna al zijn gegevens wijzigen en overlegde onder meer een geboorteakte, DNA-onderzoek en een gezichtsvergelijkend onderzoek.",
+   "bron": [
+    31
+   ],
+   "citaat": "een gezichtsvergelijkend onderzoeksrapport van het Nationaal Forensisch Onderzoeksbureau B.V."
+  },
+  {
+   "zin": "De gemeente zei dat de burger niet onomstotelijk had aangetoond dat de BRP-gegevens onjuist zijn.",
+   "bron": [
+    33
+   ],
+   "citaat": "Omdat [appellant] niet onomstotelijk heeft aangetoond dat de in de Brp geregistreerde gegevens onjuist zijn"
+  },
+  {
+   "zin": "De Raad van State vond dat uit de documenten niet blijkt welke van de vier broers de burger is en dat hij geen uitleg gaf bij de nieuwe stukken.",
+   "bron": [
+    50
+   ],
+   "citaat": "De Afdeling betrekt daarbij dat [appellant] heeft nagelaten een toelichting te geven bij deze documenten"
+  },
+  {
+   "zin": "De Raad van State vond de afwijzing terecht en bevestigde de uitspraak van de rechtbank.",
+   "bron": [
+    55
+   ],
+   "citaat": "Het hoger beroep is ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De BRP-gegevens blijven zoals ze zijn.",
+ "gevolg_betrokkene": {
+  "zin": "De gegevens van de burger in de BRP blijven ongewijzigd en de gemeente hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   52,
+   56
+  ],
+  "citaat": "in de Brp te wijzigen terecht heeft afgewezen"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "De gegevens in de BRP kloppen niet en zijn documenten, DNA-onderzoek en gezichtsvergelijking bewijzen wie hij is.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Uit de documenten bleek niet welke van de vier broers de burger is.",
+    "bron": [
+     48
+    ],
+    "citaat": "aan de hand van de overgelegde documenten niet kan worden vastgesteld of"
+   },
+   "bruikbare_zin": {
+    "citaat": "buiten redelijke twijfel staat dat de daarin vermelde persoonsgegevens juist zijn",
+    "bron": [
+     52
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een gegeven in de BRP wordt alleen gewijzigd als buiten redelijke twijfel uit brondocumenten blijkt dat de nieuwe gegevens juist zijn.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om gegevens over de burgerlijke staat in de BRP te wijzigen op basis van buitenlandse brondocumenten",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   44
+  ],
+  "citaat": "Beoordeeld moet worden of buiten redelijke twijfel uit de overgelegde brondocumenten"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "geboorteakte",
+   "DNA-onderzoek",
+   "gezichtsvergelijkend onderzoek",
+   "familieboekje",
+   "Algerijns paspoort"
+  ],
+  "wat_gaf_doorslag": "Uit de documenten bleek niet welke van de vier broers de burger is."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2022:1300"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2.7 Wet BRP",
+  "art. 2.8 lid 2 Wet BRP",
+  "art. 2.58 Wet BRP",
+  "art. 16 AVG"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij een verzoek om de BRP te wijzigen bewijs dat uitsluit dat de persoon een ander familielid is",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    48
+   ],
+   "citaat": "Het lag op de weg van [appellant] om documenten over te leggen die uitsluiten dat"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "De gemeente mag uw gegevens in de basisregistratie (BRP) alleen wijzigen als uit officiële documenten zonder redelijke twijfel blijkt dat de nieuwe gegevens kloppen. Dat u bij een familie hoort, is niet genoeg als niet vaststaat wie u binnen die familie bent. Lever daarom documenten aan die uitsluiten dat u een ander familielid bent.",
+ "gemeente": "'s-Hertogenbosch",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

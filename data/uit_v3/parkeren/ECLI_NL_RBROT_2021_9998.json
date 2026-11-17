@@ -1,0 +1,192 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2021:9998",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "parkeerplaats-huur-vve",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "vereniging van eigenaars (VvE)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "Een vereniging van eigenaars (VvE, het bestuur van een appartementencomplex) vorderde dat een bewoner spullen uit de gang, de tuin en de parkeerplek haalde. De Rechtbank Rotterdam deed in deze civiele zaak uitspraak.",
+ "titel": "Spullen in gang en tuin: eigenaar moet ruimen, parkeerplek niet",
+ "kern": {
+  "zin": "De rechter gaf de VvE gelijk over de gang en de tuin, maar niet over de parkeerplek.",
+  "bron": [
+   94,
+   96
+  ],
+  "citaat": "dat [naam gedaagde] zijn spullen uit de gang verwijdert en dat de gang vervolgens leeg blijft"
+ },
+ "samenvatting": [
+  {
+   "zin": "De VvE beheert een appartementencomplex, en de bewoner woont er in een eigen appartement.",
+   "bron": [
+    27
+   ],
+   "citaat": "voert het beheer over het appartementencomplex"
+  },
+  {
+   "zin": "De VvE wilde dat de bewoner de gang, de parkeerplek en de tuin ontruimde, en dat de camera en de motor verdwenen.",
+   "bron": [
+    79
+   ],
+   "citaat": "de gang tussen de parkeerplaats van [naam gedaagde] en diens berging te ontruimen"
+  },
+  {
+   "zin": "De bewoner noemde de spullen bouwmateriaal, de VvE noemde ze rommel.",
+   "bron": [
+    94
+   ],
+   "citaat": "noemt het rommel en [naam gedaagde] noemt het bouwmateriaal"
+  },
+  {
+   "zin": "De rechter vond dat de tuin weer als tuin moet worden gebruikt en dat de bouwspullen weg moeten.",
+   "bron": [
+    98
+   ],
+   "citaat": "de tuin (weer) als tuin moet gaan gebruiken"
+  },
+  {
+   "zin": "De deurbelcamera en de motor mogen blijven staan, want de VvE had de hinder niet onderbouwd.",
+   "bron": [
+    101,
+    103
+   ],
+   "citaat": "de stelling van [naam eiseres] dat sprake is van een inbreuk op de privacy van de andere eigenaars onvoldoende onderbouwd"
+  },
+  {
+   "zin": "Er komt een dwangsom van 175 euro per dag, tot maximaal 10.000 euro, als de bewoner niet voldoet.",
+   "bron": [
+    105
+   ],
+   "citaat": "voor € 175,-- per dag met een maximum van € 10.000,--"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Gang en tuin moeten leeg; parkeerplek, camera en motor blijven; dwangsom.",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner moet binnen vier weken de gang en de tuin leegmaken, anders betaalt hij een dwangsom; ieder betaalt eigen proceskosten.",
+  "bron": [
+   109,
+   110,
+   111,
+   112
+  ],
+  "citaat": "binnen vier weken na betekening van dit vonnis"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "privacy-kenteken",
+   "burger_zegt": "De bewoner zei dat de deurbelcamera niet te veel van de omgeving in beeld brengt.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de VvE niet genoeg had onderbouwd dat de camera de privacy van anderen schendt.",
+    "bron": [
+     101
+    ],
+    "citaat": "de stelling van [naam eiseres] dat sprake is van een inbreuk op de privacy van de andere eigenaars onvoldoende onderbouwd"
+   },
+   "bruikbare_zin": {
+    "citaat": "de camera zo ver mogelijk gericht is op het trappenhuis",
+    "bron": [
+     101
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De bewoner zei dat de motor geen hinder geeft, want de bergingen blijven bereikbaar.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de motor mag blijven zolang hij geen hinder geeft.",
+    "bron": [
+     103
+    ],
+    "citaat": "zolang de motor geen hinder oplevert deze niet hoeft te worden verwijderd"
+   },
+   "bruikbare_zin": {
+    "citaat": "zij kunnen hun berging bereiken",
+    "bron": [
+     103
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De bewoner zei dat de parkeerplek voor een auto wordt gebruikt en dus niet voor opslag.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter zag dat er een auto op de plek staat, en dat is gebruik volgens de bestemming.",
+    "bron": [
+     96
+    ],
+    "citaat": "Daarmee is geen sprake van gebruik in afwijking van de daaraan gestelde bestemming"
+   },
+   "bruikbare_zin": {
+    "citaat": "kan niet worden vastgesteld dat het hier gaat om spullen die er langdurig staan",
+    "bron": [
+     96
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De bewoner zei dat hij de tuin naar eigen goeddunken mag inrichten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat eigen goeddunken niet mag leiden tot gebruik dat afwijkt van de bestemming als tuin.",
+    "bron": [
+     98
+    ],
+    "citaat": "Dit is echter geen vrijbrief om de tuin anders dan overeenkomstig de daaraan gestelde bestemming te gebruiken"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een eigenaar mag zijn tuin naar eigen smaak inrichten, maar alleen binnen de bestemming als tuin.",
+  "type": "regel",
+  "reikwijdte": "privé-tuinen binnen een appartementencomplex met splitsingsakte",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   98
+  ],
+  "citaat": "Dit is echter geen vrijbrief om de tuin anders dan overeenkomstig de daaraan gestelde bestemming te gebruiken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto's van de gang, de parkeerplek en de tuin",
+   "brieven van de VvE uit 2015 tot en met 2020",
+   "notulen van de ledenvergadering van 11 juli 2020"
+  ],
+  "wat_gaf_doorslag": "Voor de camera en de motor kon de VvE de hinder niet aantonen."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 4 akte van splitsing",
+  "art. 5 modelreglement splitsing",
+  "art. 9 lid 2 modelreglement splitsing"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-woo"
+ ],
+ "klantuitleg": "Een VvE mag vragen om spullen uit de gemeenschappelijke gang te halen, ook als u ze bouwmateriaal noemt. Een boete of dwangsom is alleen aan de orde als u na het vonnis niet voldoet. Voor een camera of motor moet de VvE zelf laten zien dat er hinder is; dat was hier niet gelukt.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente in de uitspraak",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

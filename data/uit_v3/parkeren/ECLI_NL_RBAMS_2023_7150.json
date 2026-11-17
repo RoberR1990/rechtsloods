@@ -1,0 +1,159 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2023:7150",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing (de rekening achteraf) voor te weinig betaald parkeren in Amsterdam. Hij ging in beroep bij de Rechtbank Amsterdam tegen de gemeente, omdat hij de verordening ongeldig vond en de kosten te hoog.",
+ "titel": "Gemeente wint: € 66,50 kosten voor de naheffing mogen blijven",
+ "kern": {
+  "zin": "De rechter oordeelde dat de bekendmakingsdatum geen fatale termijn is, dus de kosten van € 66,50 mochten worden gerekend.",
+  "bron": [
+   23,
+   24
+  ],
+  "citaat": "De bekendmakingsdatum in het Besluit is niet bedoeld als een fatale termijn"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 18 augustus 2022 stond de auto van de parkeerder in een parkeervak in Amsterdam, en een controleur zag dat er te weinig betaald was.",
+   "bron": [
+    17
+   ],
+   "citaat": "geconstateerd dat geen of te weinig parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat de gemeente het bedrag te laat had bekendgemaakt, waardoor de verordening ongeldig zou zijn.",
+   "bron": [
+    19
+   ],
+   "citaat": "Dit is pas gebeurd op 13 september 2021"
+  },
+  {
+   "zin": "Daarnaast vond hij dat niet alle kosten van parkeerautomaten mochten worden doorberekend.",
+   "bron": [
+    20
+   ],
+   "citaat": "de kosten van parkeerautomaten hangen slechts deels samen met de inning van niet betaalde parkeerbelastingen"
+  },
+  {
+   "zin": "Volgens de rechtbank was € 66,50 het wettelijk maximum, dus dat bedrag mocht worden gerekend.",
+   "bron": [
+    26
+   ],
+   "citaat": "omdat het wettelijk maximum op dat bedrag is vastgesteld"
+  },
+  {
+   "zin": "De rechtbank volgde de parkeerder niet: de bekendmakingsdatum is geen fatale termijn.",
+   "bron": [
+    23
+   ],
+   "citaat": "De bekendmakingsdatum in het Besluit is niet bedoeld als een fatale termijn"
+  },
+  {
+   "zin": "Ook over de kosten van de automaten oordeelde de rechter dat de gemeente binnen de grenzen bleef.",
+   "bron": [
+    30
+   ],
+   "citaat": "geen reden om te veronderstellen dat de gemeente bij het vaststellen van het tarief"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de parkeerder krijgt niets terug, ook geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt de naheffing met de kosten van € 66,50 en krijgt geen proceskosten of griffierecht terug.",
+  "bron": [
+   33,
+   35
+  ],
+  "citaat": "Voor een proceskostenveroordeling of vergoeding van het"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De verordening is onverbindend, omdat het bedrag te laat was bekendgemaakt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De bekendmakingsdatum is volgens de rechter geen fatale termijn, dus de verordening blijft geldig.",
+    "bron": [
+     23
+    ],
+    "citaat": "De bekendmakingsdatum in het Besluit is niet bedoeld als een fatale termijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "de bekendmakingsdatum uitsluitend is bedoeld om gemeenten de gelegenheid te geven",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "Niet alle kosten van de parkeerautomaten mogen in de naheffingskosten zitten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank zag geen reden om te denken dat de gemeente over de grens van het Besluit ging.",
+    "bron": [
+     30
+    ],
+    "citaat": "geen reden om te veronderstellen dat de gemeente bij het vaststellen van het tarief"
+   },
+   "bruikbare_zin": {
+    "citaat": "in overeenstemming is met het op grond van het Besluit aangepaste maximumbedrag",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De bekendmakingsdatum in het Besluit is een regelende termijn en geen fatale termijn.",
+  "type": "regel",
+  "reikwijdte": "bekendmaking van het maximumbedrag voor naheffingskosten, Besluit gemeentelijke parkeerbelastingen",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   23
+  ],
+  "citaat": "De bekendmakingsdatum in het Besluit is niet bedoeld als een fatale termijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "waarneming van de parkeercontroleur"
+  ],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 3 lid 2 Besluit gemeentelijke parkeerbelastingen",
+  "art. 2 Besluit gemeentelijke parkeerbelastingen",
+  "art. 9 lid 1 Verordening parkeerbelasting Amsterdam 2022",
+  "art. 10 lid 1 Verordening parkeerbelasting Amsterdam 2022",
+  "Gemeentewet"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente wint; de rechter eist of prijst niets dat een gemeente moet aanpassen",
+ "raakt": [
+  "tarief-naheffing",
+  "verordening-beleid"
+ ],
+ "klantuitleg": "Een naheffing blijft staan als er niet of te weinig betaald was en de gemeente de kosten volgens de regels heeft berekend. In deze zaak vond de rechter de kosten van € 66,50 terecht, ook al was het bedrag later bekendgemaakt. Vindt u de kosten van een naheffing te hoog, vraag dan om de berekening en leg uit waarom u het er niet mee eens bent.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

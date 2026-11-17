@@ -1,0 +1,178 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2021:4886",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Veenendaal",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder is het niet eens met drie naheffingen (de rekening achteraf) parkeerbelasting van de gemeente Veenendaal. De Rechtbank Midden-Nederland, zittingsplaats Utrecht, oordeelde over de drie beroepen.",
+ "titel": "Geen bewezen parkeervergunning: beroep van parkeerder ongegrond",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder niet had aangetoond dat zijn vergunning nog geldig was, dus de rekening blijft staan.",
+  "bron": [
+   17
+  ],
+  "citaat": "niet aannemelijk heeft gemaakt dat hij ten tijde van de genoemde tijdstippen in het bezit was van een geldige parkeervergunning"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder had niet betaald, en dat ontkende hij niet; daarom kreeg hij een rekening van de gemeente.",
+   "bron": [
+    15
+   ],
+   "citaat": "Eiser betwist niet dat hij geen parkeerbelasting heeft betaald"
+  },
+  {
+   "zin": "Volgens de parkeerder liep zijn vergunning nog tot 2025.",
+   "bron": [
+    16
+   ],
+   "citaat": "Eiser heeft aangevoerd dat hij in het bezit is van een parkeervergunning, geldig tot 2025"
+  },
+  {
+   "zin": "Volgens de gemeente was de nieuwe betaalregel voor vergunningen voldoende bekendgemaakt.",
+   "bron": [
+    16
+   ],
+   "citaat": "Volgens verweerder is hieraan voldoende bekendheid gegeven"
+  },
+  {
+   "zin": "De rechter oordeelde dat de parkeerder zelf moest bewijzen dat zijn vergunning nog gold, en dat lukte hem niet.",
+   "bron": [
+    17
+   ],
+   "citaat": "niet aannemelijk heeft gemaakt dat hij ten tijde van de genoemde tijdstippen in het bezit was van een geldige parkeervergunning"
+  },
+  {
+   "zin": "De rechter liet de vraag over de bekendmaking open.",
+   "bron": [
+    17
+   ],
+   "citaat": "zal de rechtbank daarom buiten beschouwing laten"
+  },
+  {
+   "zin": "De drie beroepen zijn afgewezen, dus de naheffingen blijven staan.",
+   "bron": [
+    25
+   ],
+   "citaat": "De rechtbank verklaart de drie beroepen ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Alle drie de beroepen ongegrond; de naheffingen blijven staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de drie naheffingen betalen en krijgt geen proceskosten vergoed.",
+  "bron": [
+   21,
+   23
+  ],
+  "citaat": "heeft verweerder de naheffingsaanslagen terecht aan eiseres opgelegd"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Hij zei dat zijn parkeervergunning nog tot 2025 geldig was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat hij zijn vergunning niet had laten zien of aannemelijk had gemaakt.",
+    "bron": [
+     17
+    ],
+    "citaat": "niet aannemelijk heeft gemaakt dat hij ten tijde van de genoemde tijdstippen in het bezit was van een geldige parkeervergunning"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet aannemelijk heeft gemaakt dat hij ten tijde van de genoemde tijdstippen",
+    "bron": [
+     17
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij zei dat de gemeente de nieuwe betaalregel voor vergunningen niet goed had bekendgemaakt.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter liet de vraag over de bekendmaking buiten beschouwing, omdat de vergunning toch niet was aangetoond.",
+    "bron": [
+     17
+    ],
+    "citaat": "zal de rechtbank daarom buiten beschouwing laten"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij zei dat parkeerwachten hem hadden verteld dat elektrische auto's tijdens het laden niet hoefden te betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat hij dit niet met namen of tijdstippen had onderbouwd.",
+    "bron": [
+     19
+    ],
+    "citaat": "Eiser heeft geen namen van de betreffende personen, of tijdstippen waarop hem deze informatie zou zijn verstrekt, overgelegd"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet nader heeft onderbouwd",
+    "bron": [
+     19
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie een vergunning heeft, moet die zelf op tijd verlengen.",
+  "type": "regel",
+  "reikwijdte": "vergunninghouders die hun vergunning zelf moeten verlengen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   17
+  ],
+  "citaat": "personen die in het bezit zijn van een vergunning, zelf verantwoordelijk zijn voor het tijdig verlengen van die vergunning"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "de vergunning zelf (die niet is overgelegd)",
+   "verklaring van de gemeente over de jaarlijkse verlenging"
+  ],
+  "wat_gaf_doorslag": "De parkeerder kon niet laten zien dat zijn vergunning nog geldig was."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Verordening parkeerbelastingen Veenendaal"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg vast hoe u een nieuwe betaalregel voor vergunningen bekend hebt gemaakt, zodat u dat bij een beroep kunt aantonen.",
+   "raakt": "communicatie",
+   "bron": [
+    17
+   ],
+   "citaat": "zal de rechtbank daarom buiten beschouwing laten"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "verordening-beleid",
+  "communicatie"
+ ],
+ "klantuitleg": "De rekening voor het parkeren is terecht als u toen geen geldige vergunning had én niet had betaald. Vergunninghouders moeten zelf op tijd verlengen, zo oordeelde de rechter in deze zaak. Heeft u een geldig bewijs van uw vergunning op dat moment, dan kunt u dat meesturen; zonder bewijs heeft bezwaar weinig kans.",
+ "gemeente": "Veenendaal",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

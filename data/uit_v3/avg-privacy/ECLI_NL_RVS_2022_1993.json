@@ -1,0 +1,221 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2022:1993",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "zoekslag",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "inwoner",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De burger vroeg de gemeente Den Haag om inzage in zijn persoonsgegevens. Hij ging in hoger beroep bij de Raad van State tegen de uitspraak van de rechtbank Den Haag.",
+ "titel": "Gemeente moet uitsluitsel geven over bewaarde IP-adressen",
+ "kern": {
+  "zin": "De gemeente moet de burger ook uitsluitsel geven over IP-adressen, want die zijn in de applicatielogs herleidbaar tot personen.",
+  "bron": [
+   46
+  ],
+  "citaat": "De IP-adressen die hierbij worden opgeslagen, zijn herleidbaar tot personen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente Den Haag hem te vertellen welke persoonsgegevens de gemeente over hem verwerkt.",
+   "bron": [
+    25
+   ],
+   "citaat": "verzocht hem te informeren welke hem betreffende persoonsgegevens door de gemeente zijn verwerkt"
+  },
+  {
+   "zin": "De gemeente gaf hem overzichten en verklaarde zijn bezwaar ongegrond.",
+   "bron": [
+    26
+   ],
+   "citaat": "heeft het college het door [appellant] daartegen gemaakte bezwaar ongegrond verklaard"
+  },
+  {
+   "zin": "De rechtbank vond dat IP-adressen in dit geval geen persoonsgegevens waren.",
+   "bron": [
+    28
+   ],
+   "citaat": "dat IP-adressen in dit geval niet als persoonsgegevens moeten worden aangemerkt"
+  },
+  {
+   "zin": "De burger vond dat vaste IP-adressen wel persoonsgegevens zijn en dat het overzicht niet compleet was.",
+   "bron": [
+    34
+   ],
+   "citaat": "statische (vaste) IP-adressen, zoals door hem gebruikt, persoonsgegevens zijn"
+  },
+  {
+   "zin": "De Raad van State oordeelde dat de IP-adressen in de applicatielogs wel persoonsgegevens zijn.",
+   "bron": [
+    46
+   ],
+   "citaat": "De IP-adressen die hierbij worden opgeslagen, zijn herleidbaar tot personen"
+  },
+  {
+   "zin": "Daarom vernietigde de Raad het besluit voor zover de gemeente geen uitsluitsel had gegeven over IP-adressen.",
+   "bron": [
+    51
+   ],
+   "citaat": "uitsluitsel te geven over het al dan niet verwerken van hem betreffende persoonsgegevens middels IP-adressen"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Hoger beroep gegrond op IP-punt; overige punten en later besluit ongegrond.",
+ "gevolg_betrokkene": {
+  "zin": "Hij krijgt € 430 griffierecht terug en geen vergoeding van proceskosten; de gemeente moet hem nog uitsluitsel geven over de IP-adressen.",
+  "bron": [
+   67,
+   59,
+   51
+  ],
+  "citaat": "het door hem betaalde griffierecht ten bedrage van € 430,00"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Het overzicht is niet compleet: er ontbreken gegevens over mijn IP-adressen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De IP-adressen in de applicatielogs zijn herleidbaar tot personen en daarom persoonsgegevens.",
+    "bron": [
+     46
+    ],
+    "citaat": "De IP-adressen die hierbij worden opgeslagen, zijn herleidbaar tot personen"
+   },
+   "bruikbare_zin": {
+    "citaat": "De IP-adressen die hierbij worden opgeslagen, zijn herleidbaar tot personen",
+    "bron": [
+     46
+    ]
+   }
+  },
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "De gemeente heeft niet goed genoeg gezocht naar alle gegevens over mij.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De mededeling dat er niet meer gegevens zijn, was niet ongeloofwaardig; de burger maakte niet aannemelijk dat er meer waren.",
+    "bron": [
+     49
+    ],
+    "citaat": "de mededeling van het college dat niet meer persoonsgegevens zijn aangetroffen die op [appellant] betrekking hebben, niet ongeloofwaardig voorkomt"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet meer persoonsgegevens zijn aangetroffen die op [appellant] betrekking hebben",
+    "bron": [
+     49
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik wil ook inzage in de e-mails tussen mij en de gemeente.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger had de e-mails al en de gemeente hoefde daar geen apart overzicht van te maken.",
+    "bron": [
+     44
+    ],
+    "citaat": "Het college was dus in dit geval niet gehouden ook nog een afzonderlijk overzicht te verstrekken van de e-mailcommunicatie"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet gehouden ook nog een afzonderlijk overzicht te verstrekken van de e-mailcommunicatie",
+    "bron": [
+     44
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De pinbetaling bij het ophalen van de fiets hoort ook bij mijn persoonsgegevens.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De pinbetaling was in dit geval geen persoonsgegeven, omdat de gemeente die niet zonder extra gegevens van de burger tot hem kan herleiden.",
+    "bron": [
+     38
+    ],
+    "citaat": "maakt niet dat de pintransactie in dit geval als een persoonsgegeven moet worden aangemerkt"
+   },
+   "bruikbare_zin": {
+    "citaat": "de pintransactie in dit geval als een persoonsgegeven moet worden aangemerkt",
+    "bron": [
+     38
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de gemeente na onderzoek zegt dat er niet meer gegevens zijn en dat is niet ongeloofwaardig, moet de burger aannemelijk maken dat er toch meer gegevens zijn.",
+  "type": "regel",
+  "reikwijdte": "Bij inzageverzoeken waarin de gemeente zegt dat zij na onderzoek alle gegevens heeft gegeven.",
+  "uitzondering": "Als de mededeling van de gemeente ongeloofwaardig is.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   49
+  ],
+  "citaat": "wanneer een bestuursorgaan meedeelt dat na onderzoek is gebleken dat er niet meer persoonsgegevens zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "e-mails",
+   "gegevens over de pinbetaling (datum, transactienummer, bankrekeningnummer)"
+  ],
+  "wat_gaf_doorslag": "Het college gaf later zelf toe dat IP-adressen in de applicatielogs herleidbaar tot personen waren."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:EU:C:2011:771",
+   "ECLI:EU:C:2016:779",
+   "ECLI:EU:C:2021:492",
+   "ECLI:NL:RVS:2020:2477"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 15 lid 1 AVG",
+  "art. 4 AVG",
+  "art. 3:2 Awb",
+  "art. 7:12 lid 1 Awb",
+  "art. 7 lid 1 Privacyreglement e-mail- en internetgebruik",
+  "art. 7 lid 2 Privacyreglement e-mail- en internetgebruik"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zoek bij inzageverzoeken ook in de applicatielogs van de website en VGZ naar IP-adressen.",
+   "raakt": "ict-informatiebeveiliging",
+   "bron": [
+    54
+   ],
+   "citaat": "in de applicatielogs van de webserver van de gemeentelijke website en de applicatielogs van de applicatie VGZ"
+  },
+  {
+   "actie": "Geef in het besluit uitsluitsel over IP-adressen die de gemeente verwerkt.",
+   "raakt": "privacy-fg",
+   "bron": [
+    51
+   ],
+   "citaat": "uitsluitsel te geven over het al dan niet verwerken van hem betreffende persoonsgegevens middels IP-adressen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar",
+  "ict-informatiebeveiliging"
+ ],
+ "klantuitleg": "U vroeg de gemeente welke gegevens zij over u heeft. De gemeente moet ook vertellen of zij uw IP-adres (het nummer van uw internetverbinding) bewaart in de technische gegevens van haar website en van de applicatie VGZ. Wijs de gemeente daarop als u zo'n verzoek doet; op de andere punten hoefde de gemeente hier niet meer te doen.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

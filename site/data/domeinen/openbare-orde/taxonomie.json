@@ -1,0 +1,359 @@
+{
+ "drugspanden": {
+  "label": "Drugspanden: sluiting van woning of pand (Opiumwet)",
+  "rechtsgang": "Bestuursrecht: voorlopige voorziening en bezwaar → rechtbank → Raad van State",
+  "anker": "Opiumwet art. 13b (met Awb titel 5.3 bestuursdwang)",
+  "kleur": "#B5472D",
+  "concept": true,
+  "sub": {
+   "bevoegdheid-13b": {
+    "label": "Mocht de burgemeester sluiten? (bevoegdheid)",
+    "anker": "Opiumwet art. 13b lid 1",
+    "kenmerk": {
+     "handelshoeveelheid-harddrugs": "Handelshoeveelheid harddrugs",
+     "hennepkwekerij": "Hennepkwekerij of -plantage",
+     "kleine-hoeveelheid-softdrugs": "Kleine hoeveelheid softdrugs of eigen gebruik",
+     "voorbereidingshandelingen": "Alleen voorbereidingshandelingen (pakjes, weegschaal, geld)",
+     "drugscircuit-meldingen": "Handel of loop naar de woning (meldingen, drugscircuit)"
+    }
+   },
+   "bewijs-rapportage": {
+    "label": "Bewijs en bestuurlijke rapportage (politie)",
+    "anker": "Opiumwet art. 13b; Awb art. 3:2 en 8:29",
+    "kenmerk": {
+     "rapportage-beknopt": "Rapportage te summier of niet te controleren",
+     "stukken-geheim": "Stukken niet ingezien (geheimhouding)",
+     "feiten-te-oud": "Lange tijd tussen vondst en sluiting"
+    }
+   },
+   "vorm-reikwijdte": {
+    "label": "Wat wordt gesloten? (woning, pand, bijgebouw, standplaats)",
+    "anker": "Opiumwet art. 13b; Awb titel 5.3",
+    "kenmerk": {
+     "woning": "Woning",
+     "bedrijfspand-horeca": "Bedrijfspand, winkel of horeca",
+     "woonwagen-standplaats": "Woonwagen of standplaats",
+     "bijgebouw-gedeeltelijk": "Alleen bijgebouw of deel van de woning (partiële sluiting)",
+     "lokaal-aangemerkt": "Woning aangemerkt als lokaal"
+    }
+   },
+   "duur-evenredigheid": {
+    "label": "Duur en evenredigheid van de sluiting",
+    "anker": "Awb art. 3:4 lid 2; Opiumwet art. 13b",
+    "kenmerk": {
+     "eerste-overtreding": "Eerste keer, lichtere maatregel mogelijk",
+     "herhaling": "Eerder gesloten of gewaarschuwd (herhaling)",
+     "ernstig-geval": "Ernstig geval (kilo's, wapens, veel contant geld)",
+     "korter-bepaald": "Rechter bepaalt zelf een kortere duur"
+    }
+   },
+   "waarschuwing-beleid": {
+    "label": "Waarschuwing en beleidsregels van de gemeente",
+    "anker": "Awb art. 4:84 (afwijken van beleidsregels); gemeentelijke beleidsregels",
+    "kenmerk": {
+     "waarschuwing-eerst": "Eerst waarschuwen of direct sluiten",
+     "bijzondere-omstandigheden": "Bijzondere omstandigheden, afwijken van beleid"
+    }
+   },
+   "gevolgen-bewoners": {
+    "label": "Gevolgen voor bewoners (kinderen, gezondheid, woonruimte)",
+    "anker": "Awb art. 3:4 lid 2; art. 8 EVRM",
+    "kenmerk": {
+     "minderjarige-kinderen": "Minderjarige kinderen in de woning",
+     "medisch-psychisch": "Medische of psychische problemen",
+     "alternatieve-woonruimte": "Alternatieve woonruimte beschikbaar",
+     "woning-in-buitenland": "Woning in het buitenland of elders"
+    }
+   },
+   "eigenaar-verhuurder": {
+    "label": "Eigenaar, verhuurder en huurder: wie is verantwoordelijk?",
+    "anker": "Opiumwet art. 13b; Awb art. 5:25 (begunstigde)",
+    "kenmerk": {
+     "verhuurder-controle": "Verhuurder deed te weinig toezicht",
+     "verminderde-verwijtbaarheid": "Verminderde verwijtbaarheid",
+     "huurder-onderhuur": "Huurder of onderhuurder is de dader"
+    }
+   },
+   "vovo-procedure": {
+    "label": "Spoed en procedure (voorlopige voorziening)",
+    "anker": "Awb art. 8:81 en 6:7 t/m 6:11; art. 7:1",
+    "kenmerk": {
+     "spoedeisend-belang": "Spoedeisend belang (al gesloten of nog niet)",
+     "mondelinge-uitspraak": "Mondelinge uitspraak",
+     "tweede-verzoek": "Tweede verzoek om voorziening",
+     "redelijke-kans-bezwaar": "Redelijke kans dat bezwaar slaagt"
+    }
+   }
+  }
+ },
+ "bibob": {
+  "label": "Wet Bibob: integriteitstoets bij vergunningen en subsidies",
+  "rechtsgang": "Bestuursrecht: bezwaar → rechtbank → Raad van State (civiele kort geding bij inkoop)",
+  "anker": "Wet Bibob (Wet bevordering integriteitsbeoordelingen door het openbaar bestuur)",
+  "kleur": "#2F5D8C",
+  "concept": true,
+  "sub": {
+   "toepassingsbereik": {
+    "label": "Voor welke vergunning of aanvraag geldt Bibob?",
+    "anker": "Wet Bibob art. 1 en 3",
+    "kenmerk": {
+     "horeca": "Horeca (exploitatie- en alcoholvergunning)",
+     "coffeeshop": "Coffeeshop (gedoogverklaring)",
+     "kansspel": "Speel- en kansspelen",
+     "standplaats-overig": "Standplaats, seksbedrijf of overige vergunning"
+    }
+   },
+   "gevaar-gronden": {
+    "label": "Ernstig gevaar van misbruik: weigeren of intrekken",
+    "anker": "Wet Bibob art. 3 en 4",
+    "kenmerk": {
+     "weigeren-aanvraag": "Aanvraag geweigerd",
+     "intrekken-vergunning": "Vergunning ingetrokken",
+     "witwassen-benutten": "Gevaar voor witwassen of benutten van strafbare feiten"
+    }
+   },
+   "feiten-relaties": {
+    "label": "Feiten en relaties: levensgedrag en samenhang",
+    "anker": "Wet Bibob art. 3 lid 1 en 2",
+    "kenmerk": {
+     "slecht-levensgedrag": "Slecht levensgedrag van de aanvrager",
+     "zakelijk-samenwerkingsverband": "Zakelijk samenwerkingsverband of nauwe band",
+     "samenhangcriterium": "Samenhang tussen feiten en de vergunning"
+    }
+   },
+   "bureau-advies": {
+    "label": "Advies van Landelijk Bureau Bibob en politie-informatie (RIEC)",
+    "anker": "Wet Bibob, hoofdstuk over advies Landelijk Bureau Bibob",
+    "kenmerk": {
+     "advies-onderbouwing": "Advies onvoldoende onderbouwd",
+     "gegevensuitwisseling-riec": "Gegevensuitwisseling RIEC en politie",
+     "geheimhouding-inzage": "Geen inzage in bronnen"
+    }
+   },
+   "informatieplicht": {
+    "label": "Vragen en antwoorden: wat moet de aanvrager aanleveren?",
+    "anker": "Wet Bibob, hoofdstuk over vragenformulier; Awb art. 4:5",
+    "kenmerk": {
+     "buiten-behandeling": "Aanvraag buiten behandeling gesteld",
+     "te-veel-gevraagd": "Meer gegevens gevraagd dan verplicht"
+    }
+   },
+   "bibob-evenredigheid-procedure": {
+    "label": "Evenredigheid, zorgvuldigheid en procedure",
+    "anker": "Awb art. 3:2, 3:4 en 7:2",
+    "kenmerk": {
+     "schijn-vooringenomenheid": "Schijn van vooringenomenheid",
+     "hoor-wederhoor": "Hoor en wederhoor",
+     "onevenredig-zwaar": "Intrekken onevenredig zwaar"
+    }
+   },
+   "bibob-inkoop-civiel": {
+    "label": "Bibob bij inkoop, subsidie of civiele procedure",
+    "anker": "Wet Bibob, hoofdstuk over inkoop en subsidie; Burgerlijk Wetboek (onrechtmatige daad)",
+    "kenmerk": {
+     "inkoopprocedure": "Inkoop of aanbesteding (bijv. zorgkantoor)",
+     "kort-geding": "Kort geding of schadeclaim"
+    }
+   }
+  }
+ },
+ "burgemeester-bevoegdheden": {
+  "label": "Openbare orde: bevoegdheden van de burgemeester",
+  "rechtsgang": "Bestuursrecht: bezwaar → rechtbank → Raad van State (bij noodverordening vaak direct rechtbank)",
+  "anker": "Gemeentewet art. 172–176a (met art. 151c en VNG-model-APV)",
+  "kleur": "#3F7D5A",
+  "concept": true,
+  "sub": {
+   "woningsluiting-174a": {
+    "label": "Woningsluiting bij overlast of gevaar voor de buurt",
+    "anker": "Gemeentewet art. 174a",
+    "kenmerk": {
+     "beschieting-explosie": "Beschieting, explosie of vuurwerkbom",
+     "zwaar-vuurwerk": "Illegaal (zwaar) vuurwerk",
+     "verlenging-sluiting": "Verlenging van de sluiting",
+     "overlast-woning": "Ernstige woonoverlast"
+    }
+   },
+   "gebiedsverbod-172a": {
+    "label": "Gebiedsverbod of verblijfsontzegging (bestuurlijk)",
+    "anker": "Gemeentewet art. 172 lid 3 en 172a; Apv",
+    "kenmerk": {
+     "drugsoverlast": "Verband met drugsoverlast of handel",
+     "bestuurlijke-rapportage": "Onderbouwing en bestuurlijke rapportage",
+     "duur-omvang": "Duur en omvang van het gebied",
+     "terrorisme-twbmt": "Terrorismebestrijding (Twbmt)"
+    }
+   },
+   "noodbevel-175": {
+    "label": "Noodbevel (direct bevel bij ernstige wanorde)",
+    "anker": "Gemeentewet art. 175",
+    "kenmerk": {
+     "demonstratie": "Demonstratie of betoging",
+     "woning-hotel-sluiting": "Sluiting van woning, hotel of pand",
+     "kraakpand": "Kraakpand of ontruiming",
+     "veiligheidsregio-voorzitter": "Bevel door voorzitter veiligheidsregio"
+    }
+   },
+   "noodverordening-176": {
+    "label": "Noodverordening (o.a. corona)",
+    "anker": "Gemeentewet art. 176 en 176a; Wet veiligheidsregio's art. 39",
+    "kenmerk": {
+     "corona-horeca-handhaving": "Corona: sluiting of last bij horeca en bedrijven",
+     "corona-mondkapjes-ov": "Corona: mondkapjes, openbaar vervoer, afstand",
+     "ongeregeldheden-verbod": "Ongeregeldheden en demonstratieverbod",
+     "handhavingsverzoek-derden": "Handhavingsverzoek tegen een ander (bijv. NS)",
+     "geen-besluit": "Noodverordening is geen besluit (rechtsbescherming)"
+    }
+   },
+   "cameratoezicht": {
+    "label": "Cameratoezicht in de openbare ruimte",
+    "anker": "Gemeentewet art. 151c; Apv",
+    "kenmerk": {
+     "aanwijzingsbesluit": "Aanwijzing van gebied voor cameratoezicht",
+     "verlenging-camera": "Verlenging van cameratoezicht",
+     "bewaartermijn-beelden": "Bewaren en gebruiken van beelden",
+     "privacy-camera": "Privacy en proportionaliteit"
+    }
+   },
+   "bevoegdheid-bewijs-algemeen": {
+    "label": "Verstoring van de openbare orde: algemene bevoegdheid en bewijs",
+    "anker": "Gemeentewet art. 172 en 173",
+    "kenmerk": {
+     "ernstige-vrees": "Ernstige vrees voor wanordelijkheden",
+     "bestuurlijke-rapportage-oo": "Bestuurlijke rapportage"
+    }
+   },
+   "belanghebbende-procesbelang": {
+    "label": "Wie mag procederen en is er nog belang?",
+    "anker": "Awb art. 1:2 en 8:69; Awb art. 1:3 (besluit)",
+    "kenmerk": {
+     "geen-besluit": "Bericht of verordening is geen besluit",
+     "geen-procesbelang": "Verzoek achterhaald, geen procesbelang"
+    }
+   }
+  }
+ },
+ "strafzaken-bevelen": {
+  "label": "Strafzaken rond gebiedsverbod, noodbevel en noodverordening",
+  "rechtsgang": "Strafrecht: kantonrechter/rechtbank → gerechtshof → Hoge Raad",
+  "anker": "Wetboek van Strafrecht art. 184, 38v (vrijheidsbeperkende maatregel); Gemeentewet art. 172a en 175",
+  "kleur": "#7A4E8C",
+  "concept": true,
+  "sub": {
+   "niet-voldoen-bevel-184": {
+    "label": "Gebiedsverbod of bevel niet opgevolgd",
+    "anker": "Wetboek van Strafrecht art. 184",
+    "kenmerk": {
+     "rechtmatigheid-verbod": "Was het gebiedsverbod rechtmatig?",
+     "vrijspraak-bevel": "Vrijspraak (verbod of bevel onduidelijk)",
+     "herhaald-overtreden": "Herhaaldelijk overtreden"
+    }
+   },
+   "vrijheidsbeperkende-maatregel": {
+    "label": "Gebiedsverbod als straf of maatregel (rechter legt op)",
+    "anker": "Wetboek van Strafrecht art. 38v",
+    "kenmerk": {
+     "maximale-duur": "Duur van de maatregel",
+     "voorwaarden-reclassering": "Bijzondere voorwaarden en hulpverlening"
+    }
+   },
+   "noodbevel-demonstratie-strafrecht": {
+    "label": "Noodbevel bij demonstratie (o.a. Museumplein)",
+    "anker": "Gemeentewet art. 175; Wetboek van Strafrecht art. 184",
+    "kenmerk": {
+     "coronademonstratie": "Coronademonstratie",
+     "klimaatprotest": "Klimaat- of andere actiegroep",
+     "pegida-tegendemonstratie": "Demonstratie en tegendemonstratie"
+    }
+   },
+   "noodverordening-strafbaar": {
+    "label": "Overtreding noodverordening (corona) strafrechtelijk",
+    "anker": "Gemeentewet art. 176; Wet veiligheidsregio's",
+    "kenmerk": {
+     "waarschuwingsplicht": "Hoeft de handhaver eerst te waarschuwen?",
+     "grondrecht-beperking": "Beperking van grondrechten toegestaan?",
+     "bekendmaking-kenbaarheid": "Bekendmaking en kenbaarheid"
+    }
+   },
+   "gedragsaanwijzing": {
+    "label": "Gedragsaanwijzing en voorwaarden bij vrijlating",
+    "anker": "Wetboek van Strafvordering art. 509hh"
+   },
+   "gebiedsverbod-bijzaak": {
+    "label": "Strafzaak waarin het gebiedsverbod een bijzaak is",
+    "anker": "Wetboek van Strafrecht (algemeen)",
+    "kenmerk": {
+     "isd-maatregel": "ISD-maatregel (veelpleger)",
+     "taakstraf-celstraf": "Taakstraf of gevangenisstraf",
+     "verwijderd-uit-beeld": "Geen eigenlijk onderwerp van dit domein"
+    }
+   }
+  }
+ },
+ "apv-vergunningen": {
+  "label": "Vergunningen en regels uit de APV (horeca, evenementen, coffeeshops)",
+  "rechtsgang": "Bestuursrecht: bezwaar → rechtbank → Raad van State",
+  "anker": "VNG-model-APV hoofdstuk 2 (openbare orde en veiligheid); Drank- en Horecawet",
+  "kleur": "#B8862B",
+  "concept": true,
+  "sub": {
+   "horeca-exploitatie": {
+    "label": "Exploitatievergunning horeca",
+    "anker": "VNG-model-APV hoofdstuk 2 (o.a. art. 2:28)",
+    "kenmerk": {
+     "weigering-exploitatie": "Weigering of niet verlenen",
+     "intrekking-exploitatie": "Intrekking",
+     "onjuiste-tenaamstelling": "Fout in vergunning of naam"
+    }
+   },
+   "alcohol-horecawet": {
+    "label": "Alcohol: vergunning Drank- en Horecawet",
+    "anker": "Drank- en Horecawet (vergunning en intrekking)",
+    "kenmerk": {
+     "weigering-alcohol": "Weigering alcoholvergunning",
+     "intrekking-alcohol": "Intrekking alcoholvergunning"
+    }
+   },
+   "coffeeshop": {
+    "label": "Coffeeshop: exploitatie en gedoogbeleid",
+    "anker": "Opiumwet (gedoogbeleid); VNG-model-APV hoofdstuk 2",
+    "kenmerk": {
+     "gedoogverklaring": "Gedoogverklaring weigeren of intrekken",
+     "handelsvoorraad-afstand": "Handelsvoorraad of afstandscriterium"
+    }
+   },
+   "evenement-betoging": {
+    "label": "Evenementen en demonstraties",
+    "anker": "VNG-model-APV hoofdstuk 2 (evenementen); Wet openbare manifestaties",
+    "kenmerk": {
+     "voorschriften-locatie": "Voorschriften en aangewezen locatie",
+     "verbod-betoging": "Verbod of beperking van betoging",
+     "intocht-optocht": "Optocht of intocht"
+    }
+   },
+   "sluitingstijden": {
+    "label": "Sluitingstijden en ontheffingen",
+    "anker": "VNG-model-APV hoofdstuk 2",
+    "kenmerk": {
+     "ontheffing-sluitingstijd": "Ontheffing van de sluitingstijd intrekken of weigeren"
+    }
+   },
+   "apv-handhaving": {
+    "label": "Handhaving van APV-regels (last onder dwangsom of bestuursdwang)",
+    "anker": "Awb titel 5.3 en 5.4; VNG-model-APV",
+    "kenmerk": {
+     "last-dwangsom": "Last onder dwangsom",
+     "bestuursdwang-sluiting": "Sluiting van het bedrijf"
+    }
+   },
+   "overige-vergunningen": {
+    "label": "Overige vergunningen (kansspel, seksbedrijf, standplaats)",
+    "anker": "VNG-model-APV hoofdstuk 2; Wet op de kansspelen",
+    "kenmerk": {
+     "kansspelvergunning": "Speelautomaten en kansspelen",
+     "standplaats-woonwagen": "Standplaats of woonwagen"
+    }
+   }
+  }
+ }
+}

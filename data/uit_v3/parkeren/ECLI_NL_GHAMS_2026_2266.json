@@ -1,0 +1,159 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2026:2266",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "automobilist (met gemachtigde)",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een automobilist kreeg in Amsterdam een naheffing (rekening achteraf) voor parkeren, terwijl hij wel had betaald. Hij procedeerde tegen de gemeente Amsterdam bij het gerechtshof Amsterdam over de vergoeding van zijn proceskosten.",
+ "titel": "Bewijs naar no-reply adres gestuurd: geen proceskosten vergoed",
+ "kern": {
+  "zin": "Het hof vond dat de burger geen proceskosten krijgt, omdat de gemachtigde het bewijs van betaling naar een adres stuurde waar de gemeente niet op reageert.",
+  "bron": [
+   47
+  ],
+  "citaat": "De noodzaak tot het instellen van (hoger) beroep vloeit uitsluitend voort uit het gedrag van de gemachtigde van belanghebbende"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij de hoorzitting zei de gemachtigde dat de burger wel had betaald en dat het bewijs zou volgen.",
+   "bron": [
+    23
+   ],
+   "citaat": "aangegeven dat belanghebbende wel parkeerbelasting heeft betaald en dat het bewijs daarvan zou volgen"
+  },
+  {
+   "zin": "De gemachtigde stuurde het bewijs naar een no-reply adres van de gemeente (een adres waar je niet op kunt antwoorden), dus het kwam niet aan.",
+   "bron": [
+    24,
+    44
+   ],
+   "citaat": "stuurt de gemachtigde van belanghebbende een betalingsbewijs naar het onder 2.4. bedoelde no reply e-mailadres"
+  },
+  {
+   "zin": "De gemeente vroeg later om het bewijs alsnog binnen een week te sturen, maar de gemachtigde reageerde niet.",
+   "bron": [
+    25,
+    26
+   ],
+   "citaat": "willen wij u in de gelegenheid stellen om één week na dagtekening het bewijs aan te leveren"
+  },
+  {
+   "zin": "In beroep kwam het bewijs en de gemeente vernietigde de naheffing, omdat bleek dat een verkeerd kenteken was ingevoerd.",
+   "bron": [
+    28
+   ],
+   "citaat": "Uit dat bewijs volgt dat een onjuist kenteken was ingevoerd"
+  },
+  {
+   "zin": "Het hof vond de fout van de gemachtigde de enige reden dat beroep nodig was, dus geen proceskostenvergoeding.",
+   "bron": [
+    47
+   ],
+   "citaat": "De noodzaak tot het instellen van (hoger) beroep vloeit uitsluitend voort uit het gedrag van de gemachtigde van belanghebbende"
+  },
+  {
+   "zin": "Het hof waarschuwde dat deze manier van procederen in andere zaken tot kosten voor de burger kan leiden.",
+   "bron": [
+    48
+   ],
+   "citaat": "Mocht dit beeld in andere zaken van deze gemachtigde bevestigd worden"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Naheffing vernietigd, maar alleen over proceskosten beslist: geen vergoeding",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing is vernietigd, maar de burger krijgt de proceskosten van het beroep niet vergoed; het griffierecht van € 50 kreeg hij al van de rechtbank.",
+  "bron": [
+   47,
+   39
+  ],
+  "citaat": "De rechtbank heeft terecht geoordeeld dat belanghebbende geen recht heeft op proceskostenvergoeding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Er was geen sprake van parkeren.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "Het hof zei dat deze grond geen relatie had met de feiten.",
+    "bron": [
+     48
+    ],
+    "citaat": "Het indienen van een bezwaarschrift onder het aanvoeren van een grond die geen enkele relatie heeft met de feiten"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Ik had wel betaald, maar met een ander kenteken ingevoerd.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De gemeente vernietigde de naheffing zelf in beroep, omdat bleek dat wel was betaald.",
+    "bron": [
+     28
+    ],
+    "citaat": "de naheffingsaanslag te vernietigen omdat wel betaald was"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Komt het bewijs van betaling pas in beroep naar boven doordat de burger of gemachtigde het bewijs naar een verkeerd adres stuurde, dan is die fout voor eigen rekening en krijgt de burger geen proceskosten.",
+  "type": "regel",
+  "reikwijdte": "Naheffingen waarbij het bewijs in bezwaar niet bij de gemeente aankwam door een fout van de burger of gemachtigde",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   47
+  ],
+  "citaat": "De noodzaak tot het instellen van (hoger) beroep vloeit uitsluitend voort uit het gedrag van de gemachtigde van belanghebbende"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "bewijs van betaling van de parkeerbelasting",
+   "e-mails tussen gemachtigde en gemeente"
+  ],
+  "wat_gaf_doorslag": "Het bewijs van betaling kwam niet bij de gemeente door een evidente fout in het e-mailadres."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:75a Awb",
+  "art. 8:75 Awb",
+  "art. 8:108 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Stuur een herinnering als toegezegd bewijs niet binnenkomt en geef een week de tijd om het alsnog te sturen.",
+   "raakt": "bezwaar",
+   "bron": [
+    25
+   ],
+   "citaat": "willen wij u in de gelegenheid stellen om één week na dagtekening het bewijs aan te leveren"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "communicatie"
+ ],
+ "klantuitleg": "Hebt u wel betaald voor het parkeren, stuur het bewijs dan al bij uw bezwaar naar het juiste adres van de gemeente. Stuurt u het te laat of naar een adres waar niet op wordt geantwoord, dan krijgt u de kosten van een beroep meestal niet vergoed.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

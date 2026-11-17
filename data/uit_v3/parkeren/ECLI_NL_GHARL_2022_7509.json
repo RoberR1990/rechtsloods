@@ -1,0 +1,170 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "reden_leeg_actie": null,
+ "ecli": "ECLI:NL:GHARL:2022:7509",
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Arnhem",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg in Arnhem een naheffingsaanslag (een rekening achteraf voor het parkeren). Hij ging in hoger beroep tegen de gemeente bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Kapotte parkeerautomaat: toch parkeerbelasting betalen",
+ "kern": {
+  "zin": "De rechter vond de naheffing terecht, want bij een kapotte automaat moet de parkeerder zelf zorgen dat er wordt betaald.",
+  "bron": [
+   30
+  ],
+  "citaat": "Op belanghebbende rust de verantwoordelijkheid om bij een defecte parkeerautomaat ervoor te zorgen dat de parkeerbelasting wordt voldaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder zette zijn auto op 9 september 2020 in Arnhem op een plek met betaald parkeren.",
+   "bron": [
+    16
+   ],
+   "citaat": "heeft deze auto op woensdag 9 september 2020 omstreeks 15:45 uur geparkeerd aan de Eusebiusbinnensingel te Arnhem"
+  },
+  {
+   "zin": "Een controleur zag dat er niet was betaald en de gemeente legde een naheffingsaanslag op.",
+   "bron": [
+    18
+   ],
+   "citaat": "zonder dat de daarvoor verschuldigde parkeerbelasting was voldaan en heeft om die reden de onderhavige naheffingsaanslag parkeerbelasting aan belanghebbende opgelegd"
+  },
+  {
+   "zin": "De parkeerder zei dat de dichtstbijzijnde automaat defect was en dat hij daarom niet kon betalen.",
+   "bron": [
+    27
+   ],
+   "citaat": "dat de dichtstbijzijnde parkeerautomaat aan de Eusebiusbinnensingel defect was in die zin dat het niet lukte"
+  },
+  {
+   "zin": "De gemeente zei dat de parkeerder ook bij een andere automaat of met een app kon betalen.",
+   "bron": [
+    28
+   ],
+   "citaat": "dat belanghebbende de parkeerbelasting ook had kunnen voldoen door een pinbetaling bij een andere parkeerautomaat"
+  },
+  {
+   "zin": "De rechter vond dat een kapotte automaat de plicht om te betalen niet laat vervallen.",
+   "bron": [
+    29
+   ],
+   "citaat": "het feit dat een parkeerautomaat defect is, niet met zich brengt dat de betalingsverplichting komt te vervallen"
+  },
+  {
+   "zin": "Het hoger beroep van de parkeerder was ongegrond, dus de naheffing blijft staan.",
+   "bron": [
+    31
+   ],
+   "citaat": "Op grond van het vorenstaande is het hoger beroep ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; een kapotte automaat is geen reden om niet te betalen.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffingsaanslag blijft staan en de parkeerder krijgt geen vergoeding van griffierecht of proceskosten.",
+  "bron": [
+   33
+  ],
+  "citaat": "Het Hof ziet geen aanleiding voor vergoeding van het griffierecht of een veroordeling in de proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De dichtstbijzijnde automaat was kapot en de volgende stond buiten gebruik, dus ik kon niet betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De parkeerder had op een andere manier kunnen betalen, bijvoorbeeld met een app of bij een andere automaat.",
+    "bron": [
+     30
+    ],
+    "citaat": "Belanghebbende had de verschuldigde parkeerbelasting op een andere wijze kunnen voldoen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het is de verantwoordelijkheid van de parkeerder om bij een defecte automaat ervoor te zorgen dat de parkeerbelasting wordt voldaan",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De gemeente heeft mij in de bezwaarfase niet uitgenodigd voor een hoorgesprek.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Bij parkeerbelasting wordt de burger alleen gehoord als hij daar zelf om vraagt, en dat had hij niet gedaan.",
+    "bron": [
+     25
+    ],
+    "citaat": "wordt een belanghebbende, in afwijking van artikel 7:2 van de Awb, alleen gehoord op zijn verzoek"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dit betekent dat het initiatief voor het horen bij belanghebbende ligt",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een kapotte parkeerautomaat zorgt er niet voor dat de burger niet meer hoeft te betalen; de parkeerder moet dan op een andere manier betalen.",
+  "type": "regel",
+  "reikwijdte": "Naheffing parkeerbelasting waar naast de automaat ook betaling per telefoonapplicatie of bij een andere automaat mogelijk is.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   29
+  ],
+  "citaat": "het feit dat een parkeerautomaat defect is, niet met zich brengt dat de betalingsverplichting komt te vervallen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "controle door een parkeercontroleur"
+  ],
+  "wat_gaf_doorslag": "De parkeerder had op een andere manier kunnen betalen of elders kunnen parkeren."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2005:AR8903",
+   "ECLI:NL:HR:1995:AA3117"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 231 Gemeentewet",
+  "art. 25 AWR",
+  "art. 7:2 Awb",
+  "art. 5 Verordening parkeren en parkeerbelastingen 2020 Arnhem",
+  "art. 16 Uitwerkingsbesluit Parkeren 2020 Arnhem"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Maak naast pinbetaling ook betaling met een parkeerapp mogelijk en leg dat vast in de uitvoeringsregels.",
+   "raakt": "betaalapp",
+   "bron": [
+    29
+   ],
+   "citaat": "tevens kan geschieden door in te loggen bij een daarvoor bestemde telefonische applicatie"
+  }
+ ],
+ "raakt": [
+  "betaalapp",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Is de parkeerautomaat kapot, dan moet u toch betalen. Dat kan bij een andere automaat of met een parkeerapp, of u parkeert ergens anders. Bezwaar heeft op dit punt weinig kans.",
+ "gemeente": "Arnhem",
+ "zekerheid": "hoog"
+}

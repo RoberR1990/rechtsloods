@@ -1,0 +1,140 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2026:390",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een Wahv-boete (een boete voor een verkeersovertreding) van 129 euro voor parkeren op een blauwe streep zonder zichtbare parkeerschijf. Zij ging in beroep tegen de officier van justitie bij de kantonrechter van de rechtbank Noord-Nederland.",
+ "titel": "Boete vernietigd; parkeerder had geldige vergunning",
+ "kern": {
+  "zin": "De kantonrechter vernietigde de boete, omdat de parkeerder een geldige vergunning had en de overtreding daarom niet vaststond.",
+  "bron": [
+   25
+  ],
+  "citaat": "de boete niet in stand kan blijven omdat zij (al dan niet met terugwerkende kracht) een geldige parkeervergunning had"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete van 129 euro voor parkeren op een blauwe streep zonder zichtbare parkeerschijf.",
+   "bron": [
+    11
+   ],
+   "citaat": "bij een blauwe streep parkeren zonder duidelijk zichtbare parkeerschijf"
+  },
+  {
+   "zin": "Haar man stelde namens haar dat de gemeente een fout had gemaakt bij de parkeervergunning.",
+   "bron": [
+    19
+   ],
+   "citaat": "stelt dat een fout is opgetreden bij de gemeente bij het betalen en verlenen van de parkeervergunning"
+  },
+  {
+   "zin": "De vertegenwoordigster van de officier van justitie vond dat het beroep gegrond moest worden verklaard.",
+   "bron": [
+    20
+   ],
+   "citaat": "verzoekt de kantonrechter om het beroep gegrond te verklaren"
+  },
+  {
+   "zin": "De kantonrechter vond de te late indiening verschoonbaar en behandelde het beroep daarom inhoudelijk.",
+   "bron": [
+    24
+   ],
+   "citaat": "aanleiding om de termijnoverschrijding verschoonbaar te achten"
+  },
+  {
+   "zin": "De boete viel weg, omdat de parkeerder ook met terugwerkende kracht een geldige vergunning had.",
+   "bron": [
+    25
+   ],
+   "citaat": "de boete niet in stand kan blijven omdat zij (al dan niet met terugwerkende kracht) een geldige parkeervergunning had"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete vernietigd; de overtreding kon niet worden vastgesteld.",
+ "gevolg_betrokkene": {
+  "zin": "De boete vervalt, en de zekerheid die de parkeerder had gesteld, krijgt zij terug.",
+  "bron": [
+   32
+  ],
+  "citaat": "bepaalt dat betrokkene de zekerheidstelling terugkrijgt"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "De gemeente heeft bij het betalen en verlenen van de vergunning een fout gemaakt.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De kantonrechter vond dat de boete niet kon blijven bestaan, omdat de parkeerder een geldige vergunning had.",
+    "bron": [
+     25
+    ],
+    "citaat": "de boete niet in stand kan blijven omdat zij (al dan niet met terugwerkende kracht) een geldige parkeervergunning had"
+   },
+   "bruikbare_zin": {
+    "citaat": "(al dan niet met terugwerkende kracht) een geldige parkeervergunning had",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een boete voor parkeren zonder schijf of vergunning valt weg als de parkeerder een geldige vergunning had, ook als die met terugwerkende kracht is verleend.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "deze zaak: vergunning die achteraf geldig bleek uit correspondentie met de gemeente",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "omdat zij (al dan niet met terugwerkende kracht) een geldige parkeervergunning had"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "door de parkeerder overgelegde correspondentie met de gemeente"
+  ],
+  "wat_gaf_doorslag": "De correspondentie, waaruit bleek dat de boete niet kon blijven bestaan."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Wahv",
+  "art. 6:7 Awb",
+  "art. 6:8 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zorg dat een toegezegd verzoek aan handhaving om een boete te vernietigen ook echt wordt ingediend.",
+   "raakt": "bezwaar",
+   "bron": [
+    19
+   ],
+   "citaat": "De gemeente heeft toegezegd dat aan handhaving wordt verzocht om de boete te vernietigen, maar dit is niet gebeurd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "vergunningen"
+ ],
+ "klantuitleg": "Een boete voor parkeren op een blauwe streep is niet terecht als u een geldige vergunning had, ook als die pas later is verleend. Heeft de gemeente toegezegd de boete in te trekken, vraag dan schriftelijk na of dat ook gebeurd is. Bewaar de vergunning en de correspondentie met de gemeente, want die telden hier mee.",
+ "gemeente": "Leeuwarden",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

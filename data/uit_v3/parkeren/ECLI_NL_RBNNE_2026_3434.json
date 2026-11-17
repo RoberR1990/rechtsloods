@@ -1,0 +1,169 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2026:3434",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een Wahv-boete (de boete voor foutparkeren) van € 129 voor parkeren op een parkeerverbod in Groningen. De kantonrechter van de rechtbank Noord-Nederland besliste over het beroep tegen die boete.",
+ "titel": "Boete voor parkeren op een parkeerverbod blijft staan",
+ "kern": {
+  "zin": "De kantonrechter vond de boete terecht, omdat het bord voldoende duidelijk was geplaatst op de plek.",
+  "bron": [
+   23
+  ],
+  "citaat": "is de kantonrechter van oordeel dat de bebording voldoende duidelijk is geplaatst"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 22 januari 2025 kreeg de parkeerder een boete van € 129 voor parkeren op een parkeerverbod.",
+   "bron": [
+    10
+   ],
+   "citaat": "De opgelegde boete bedraagt € 129,00 (inclusief administratiekosten)"
+  },
+  {
+   "zin": "De parkeerder vond de borden onduidelijk en wees erop dat anderen er jaren ongestraft stonden.",
+   "bron": [
+    18
+   ],
+   "citaat": "Betrokkene voert aan dat de borden verkeerd of onzichtbaar zijn geplaatst"
+  },
+  {
+   "zin": "De officier van justitie wilde de boete overeind houden.",
+   "bron": [
+    19
+   ],
+   "citaat": "Zij heeft de kantonrechter verzocht het beroep ongegrond te verklaren"
+  },
+  {
+   "zin": "Volgens de rechter was de handhaver zelf ter plaatse en had hij het bord gecontroleerd.",
+   "bron": [
+    23
+   ],
+   "citaat": "de verbalisant fysiek ter plaatse was, het bord E1 heeft waargenomen"
+  },
+  {
+   "zin": "De boete blijft staan, want de rechter zag geen reden om die te verlagen.",
+   "bron": [
+    25
+   ],
+   "citaat": "geen aanleiding de boete te matigen dan wel op nihil te stellen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; boete van € 129 blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 129 blijft staan, en omdat die boven € 110 ligt, kan de parkeerder in hoger beroep bij het gerechtshof.",
+  "bron": [
+   34,
+   33
+  ],
+  "citaat": "de u opgelegde administratieve boete meer dan € 110,00 bedraagt"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "De borden waren verkeerd of onzichtbaar geplaatst, waardoor het voor hem onduidelijk was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de bebording voldoende duidelijk geplaatst op de plek.",
+    "bron": [
+     23
+    ],
+    "citaat": "is de kantonrechter van oordeel dat de bebording voldoende duidelijk is geplaatst"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het bord E1 heeft enkel gelding aan de kant van de weg waar het bord staat geplaatst",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "gelijkheid",
+   "burger_zegt": "Andere auto's stonden er jaren zonder boete, dus de behandeling was ongelijk.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een boete wordt niet ongeldig, ook als anderen er zonder boete stonden.",
+    "bron": [
+     24
+    ],
+    "citaat": "Dat andere voertuigen niet beboet zijn, betekent niet dat de betrokkene"
+   },
+   "bruikbare_zin": {
+    "citaat": "omdat er pas sprake is van schending van het gelijkheidsbeginsel",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De parkeerder betwistte dat de overtreding vaststond, omdat hij de verklaring van de handhaver niet vertrouwde.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag geen reden om aan de verklaring van de handhaver te twijfelen.",
+    "bron": [
+     23
+    ],
+    "citaat": "ziet de kantonrechter onvoldoende aanleiding te twijfelen aan de verklaring van de verbalisant"
+   },
+   "bruikbare_zin": {
+    "citaat": "de verbalisant fysiek ter plaatse was, het bord E1 heeft waargenomen",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerverbod met bord E1 geldt alleen aan de kant van de weg waar het bord staat.",
+  "type": "regel",
+  "reikwijdte": "parkeerverbod aangegeven met bord E1",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   23
+  ],
+  "citaat": "Het bord E1 heeft enkel gelding aan de kant van de weg waar het bord staat geplaatst"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring van de handhaver in het zaakoverzicht",
+   "vier foto's van de gedraging"
+  ],
+  "wat_gaf_doorslag": "De verklaring van de handhaver, met vier foto's erbij, gaf de doorslag."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:GHLEE:2003:AM5326"
+  ]
+ },
+ "wetsartikelen": [
+  "Wahv",
+  "RVV 1990 (bord E1)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; alleen bewijsoordeel",
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "klantcontact"
+ ],
+ "klantuitleg": "Staat uw auto op een plek met een parkeerverbod, dan kunt u een boete krijgen, ook als het bord u onduidelijk lijkt. De rechter vond in deze zaak dat het bord goed genoeg stond en dat de handhaver het had gecontroleerd. Twijfelt u over de borden, dan kunt u zich tot de gemeente wenden; in deze zaak was dat geen reden om de boete te laten vervallen.",
+ "gemeente": "Groningen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

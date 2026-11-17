@@ -1,0 +1,200 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2024:1322",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "kentekenhouder (met gemachtigde)",
+  "wederpartij": "gemeente",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een kentekenhouder kreeg een rekening achteraf voor parkeerbelasting en maakte bezwaar. Hij ging in hoger beroep bij het Gerechtshof Amsterdam tegen de gemeente, ook omdat die te laat op zijn bezwaar beslistte.",
+ "titel": "Gemeente beslist te laat op bezwaar en betaalt € 1.442",
+ "kern": {
+  "zin": "De rechter stelde vast dat de gemeente een dwangsom (vergoeding voor te late beslissing) van € 1.442 verschuldigd is, omdat zij te laat besliste op het bezwaar.",
+  "bron": [
+   68
+  ],
+  "citaat": "De heffingsambtenaar heeft daarom een dwangsom aan belanghebbende verbeurd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde een rekening achteraf op van € 72,50 voor parkeren zonder geldig parkeerbewijs, en de gemachtigde maakte bezwaar.",
+   "bron": [
+    21
+   ],
+   "citaat": "geen geldig parkeerbewijs was geregistreerd"
+  },
+  {
+   "zin": "De gemachtigde zei dat de gemeente de uitspraak op bezwaar slecht had gemotiveerd en dat de parkeerder niet kon weten dat hij moest betalen.",
+   "bron": [
+    62
+   ],
+   "citaat": "dat belanghebbende niet kon weten dat het om betaald parkeren zou gaan"
+  },
+  {
+   "zin": "De gemachtigde stuurde ook een ingebrekestelling (officiële laatste waarschuwing), omdat de gemeente te laat beslistte; de gemeente betwistte in hoger beroep dat zij die kreeg.",
+   "bron": [
+    65
+   ],
+   "citaat": "In hoger beroep betwist de heffingsambtenaar de ontvangst van de ingebrekestelling"
+  },
+  {
+   "zin": "De rechter vond het niet geloofwaardig dat de parkeerder niet kon weten dat er betaald moest worden.",
+   "bron": [
+    62
+   ],
+   "citaat": "acht het Hof het in hoger beroep herhaalde standpunt van de gemachtigde"
+  },
+  {
+   "zin": "De rechter vond het aannemelijk dat de gemeente de ingebrekestelling kreeg en dat zij daarna niet op tijd beslistte.",
+   "bron": [
+    66
+   ],
+   "citaat": "acht het Hof het aannemelijk dat de ingebrekestelling door de heffingsambtenaar is ontvangen"
+  },
+  {
+   "zin": "De rechtbank had hierover moeten beslissen, dus het hof stelde zelf vast dat de gemeente de maximale dwangsom van € 1.442 verschuldigd is.",
+   "bron": [
+    67
+   ],
+   "citaat": "De rechtbank heeft daarom ten onrechte niet beslist op het verzoek van belanghebbende"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Dwangsom en kosten toegekend; de rekening achteraf zelf blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet € 1.442 dwangsom, € 186 griffierecht en € 657 proceskosten betalen, maar de rekening achteraf van € 72,50 blijft staan.",
+  "bron": [
+   69,
+   78,
+   79,
+   21
+  ],
+  "citaat": "De dwangsom is verbeurd voor het wettelijk maximum van 42 dagen"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente besliste te laat op het bezwaar en moet daarom een dwangsom betalen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente besliste niet op tijd en ook niet binnen twee weken na de ingebrekestelling.",
+    "bron": [
+     68
+    ],
+    "citaat": "Hij heeft vervolgens ook niet binnen twee weken na de ontvangst van de ingebrekestelling de uitspraak op bezwaar gedaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "Hij heeft vervolgens ook niet binnen twee weken na de ontvangst van de ingebrekestelling de uitspraak op bezwaar gedaan",
+    "bron": [
+     68
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De gemeente had pas in beroep bewezen dat daar betaald parkeren gold, dus de uitspraak op bezwaar was slecht gemotiveerd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Fouten in de motivering kunnen in beroep en hoger beroep nog worden hersteld.",
+    "bron": [
+     63
+    ],
+    "citaat": "motiveringsgebreken dan wel onzorgvuldigheden kunnen in (hoger) beroep immers worden hersteld"
+   },
+   "bruikbare_zin": {
+    "citaat": "motiveringsgebreken dan wel onzorgvuldigheden kunnen in (hoger) beroep immers worden hersteld",
+    "bron": [
+     63
+    ]
+   }
+  },
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "De parkeerder zag geen meter en geen bord, en kon dus niet weten dat hij moest betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter was dat niet geloofwaardig, mede door de foto's die de gemeente overlegde.",
+    "bron": [
+     62
+    ],
+    "citaat": "de tien bijlagen die de heffingsambtenaar bij het verweerschrift in eerste aanleg heeft overgelegd"
+   },
+   "bruikbare_zin": {
+    "citaat": "Uw cliënt parkeerde in de buurt van tenminste één parkeerautomaat/parkeerbord",
+    "bron": [
+     37
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Beslist de gemeente niet op tijd op een bezwaar en ook niet binnen twee weken na een ingebrekestelling, dan verbeurt zij een dwangsom.",
+  "type": "regel",
+  "reikwijdte": "Bezwaar tegen een naheffingsaanslag parkeerbelasting waarop niet binnen de wettelijke termijn en niet binnen twee weken na de ingebrekestelling is beslist",
+  "uitzondering": "Niet als er sprake is van een geval als bedoeld in artikel 4:17, lid 6, Awb.",
+  "herkomst": "wet",
+  "bron": [
+   68
+  ],
+  "citaat": "Hij heeft vervolgens ook niet binnen twee weken na de ontvangst van de ingebrekestelling de uitspraak op bezwaar gedaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verzendadministratie van de gemachtigde",
+   "verklaring van de secretaresse van de gemachtigde",
+   "verklaringen van de gemeente op de zitting"
+  ],
+  "wat_gaf_doorslag": "De gemeente betwistte de ontvangst van de ingebrekestelling pas in hoger beroep en niet eerder."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2019:787",
+   "ECLI:NL:HR:1992:ZC5146",
+   "ECLI:NL:HR:1994:ZC5668"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 236 lid 2 Gemeentewet",
+  "art. 4:17 Awb",
+  "art. 4:19 lid 1 Awb",
+  "art. 7:14 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Beslis binnen de wettelijke termijn op bezwaren en reageer binnen twee weken op een ingebrekestelling",
+   "raakt": "bezwaar",
+   "bron": [
+    68
+   ],
+   "citaat": "Hij heeft vervolgens ook niet binnen twee weken na de ontvangst van de ingebrekestelling de uitspraak op bezwaar gedaan"
+  },
+  {
+   "actie": "Leg vast of een ingebrekestelling is ontvangen en betwist dat direct, niet pas in hoger beroep",
+   "raakt": "bezwaar",
+   "bron": [
+    66
+   ],
+   "citaat": "De heffingsambtenaar heeft de ontvangst van de ingebrekestelling in eerste aanleg niet betwist"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "De rekening voor het parkeren bleef hier gewoon staan, want de parkeerder kon niet geloofwaardig zeggen dat hij niet wist dat er betaald moest worden. De gemeente moest wel een vergoeding betalen omdat zij te laat besliste op het bezwaar. Hoort u na uw bezwaar te lang niets, dan kan een schriftelijke ingebrekestelling (een officiële laatste waarschuwing) zin hebben.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

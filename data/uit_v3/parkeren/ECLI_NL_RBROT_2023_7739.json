@@ -1,0 +1,190 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:7739",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeerde tegen de gemeente Rotterdam. De gemeente behandelde zijn bezwaar tegen een naheffing (de rekening achteraf) niet inhoudelijk, omdat het bezwaar volgens haar te laat was ingediend.",
+ "titel": "Bezwaar te laat ingediend, gemeente mocht het afwijzen",
+ "kern": {
+  "zin": "De rechter vond dat het bezwaar te laat was, want de gemeente kon de verzending aantonen.",
+  "bron": [
+   19
+  ],
+  "citaat": "Daarmee heeft verweerder voldoende aannemelijk gemaakt dat de naheffingsaanslag"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder diende op 1 april 2022 bezwaar in tegen een naheffing van 8 januari 2022.",
+   "bron": [
+    18
+   ],
+   "citaat": "Eiser heeft op 1 april 2022 een bezwaarschrift ingediend tegen de naheffingsaanslag van 8 januari 2022"
+  },
+  {
+   "zin": "De parkeerder zegt dat hij pas op 8 maart 2022 via een herinnering van de aanslag hoorde.",
+   "bron": [
+    18
+   ],
+   "citaat": "niet eerder dan 8 maart 2022 door de brief met een betalingsherinnering op de hoogte"
+  },
+  {
+   "zin": "De gemeente legde een verzendlijst over, waarop de aanslag van de parkeerder stond.",
+   "bron": [
+    19
+   ],
+   "citaat": "Verweerder heeft de verzendadministratie overgelegd"
+  },
+  {
+   "zin": "De rechter vindt dat de gemeente genoeg heeft laten zien, dus het bezwaar kwam te laat.",
+   "bron": [
+    19
+   ],
+   "citaat": "Daarmee heeft verweerder voldoende aannemelijk gemaakt dat de naheffingsaanslag"
+  },
+  {
+   "zin": "Het beroep van de parkeerder faalt, en de aanslag blijft overeind.",
+   "bron": [
+    31
+   ],
+   "citaat": "Dat betekent dat de naheffingsaanslag in stand blijft"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Geen inhoudelijke beoordeling; bezwaar te laat, aanslag blijft.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de aanslag betalen, want de gemeente hoefde het bezwaar niet inhoudelijk te behandelen.",
+  "bron": [
+   31,
+   30
+  ],
+  "citaat": "Dat betekent dat de naheffingsaanslag in stand blijft"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Zijn bezwaar was op tijd, omdat hij de aanslag pas later kreeg.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de gemeente de verzending kon aantonen, dus het bezwaar was te laat.",
+    "bron": [
+     19
+    ],
+    "citaat": "Daarmee heeft verweerder voldoende aannemelijk gemaakt dat de naheffingsaanslag"
+   },
+   "bruikbare_zin": {
+    "citaat": "de ontvangst of de aanbieding van het besluit redelijkerwijs kan worden betwijfeld",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De gemeente had hem moeten horen voordat zij het bezwaar afwees.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente mocht van horen afzien, omdat het bezwaar duidelijk te laat was.",
+    "bron": [
+     22
+    ],
+    "citaat": "heeft verweerder terecht vastgesteld dat redelijkerwijs geen twijfel bestond over de niet-ontvankelijkheid"
+   },
+   "bruikbare_zin": {
+    "citaat": "kon verweerder van het horen van eiser afzien met een beroep op artikel 7:3",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De beslisser had geen geldig mandaat, dus de beslissing was onbevoegd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter telt de aanwijzing van de directeur niet als mandaat.",
+    "bron": [
+     28
+    ],
+    "citaat": "Deze aanwijzing is geen mandaatverlening als bedoeld in artikel 10:1 van de Awb"
+   },
+   "bruikbare_zin": {
+    "citaat": "De directeur Belastingen was daarom bevoegd de naheffingsaanslag op te leggen",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bestuursorgaan mag van horen afzien als het bezwaar kennelijk niet-ontvankelijk is.",
+  "type": "regel",
+  "reikwijdte": "bezwaar dat zonder twijfel niet-ontvankelijk is, bijvoorbeeld omdat het te laat is ingediend",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   22
+  ],
+  "citaat": "kon verweerder van het horen van eiser afzien"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verzendadministratie van de gemeente",
+   "eerste pagina van de verzendadministratie"
+  ],
+  "wat_gaf_doorslag": "De verzendadministratie, die liet zien dat de aanslag in een batch naar PostNL ging."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2019:1102",
+   "ECLI:NL:HR:2002:AE3833",
+   "ECLI:NL:HR:2023:1107"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:3 aanhef en onder a Awb",
+  "art. 7:4 Awb",
+  "art. 10:3 derde lid Awb",
+  "art. 25 AWR",
+  "art. 231 Gemeentewet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar de verzendadministratie per naheffing, zodat u de verzending later kunt aantonen.",
+   "raakt": "bezwaar",
+   "bron": [
+    19
+   ],
+   "citaat": "Verweerder heeft de verzendadministratie overgelegd"
+  },
+  {
+   "actie": "Controleer de toelichting bij de verzendadministratie op fouten, zoals een verkeerd jaartal, voordat u die inbrengt.",
+   "raakt": "bezwaar",
+   "bron": [
+    19
+   ],
+   "citaat": "de vermelding van het jaartal 2021 in de toelichting op de verzendadministratie"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar"
+ ],
+ "klantuitleg": "Een bezwaar moet op tijd worden ingediend, anders wordt het niet inhoudelijk behandeld. In deze zaak woog het verzendbewijs van de gemeente zwaarder dan uw verklaring dat u de brief te laat kreeg. Wilt u bezwaar maken, controleer dan eerst de datum van ontvangst en de termijn.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

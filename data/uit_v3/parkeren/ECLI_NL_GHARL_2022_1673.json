@@ -1,0 +1,159 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2022:1673",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner (parkeerder)",
+  "wederpartij": "gemeente Utrecht (heffingsambtenaar)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder procedeert tegen de gemeente Utrecht over een naheffingsaanslag (een rekening achteraf) voor parkeren. Hij ging in hoger beroep bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Rekening achteraf blijft: wie helemaal niet betaalt, krijgt geen extra tijd",
+ "kern": {
+  "zin": "Het hof liet de naheffingsaanslag bestaan, omdat de parkeerder er zelf voor koos om niet te betalen en dus geen redelijke termijn gebruikte.",
+  "bron": [
+   41
+  ],
+  "citaat": "Belanghebbende heeft er in dit geval voor gekozen de ter zake van het parkeren verschuldigde belasting in het geheel niet te betalen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een scanauto zag dat voor de geparkeerde auto geen parkeerbelasting was betaald. Een controleur controleerde dat ter plekke en legde een naheffingsaanslag op.",
+   "bron": [
+    18
+   ],
+   "citaat": "is door een controleur bij fysieke controle geconstateerd dat de verschuldigde parkeerbelasting niet was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat hij onderweg was om een parkeerbewijs te regelen. Toen hij de scanauto zag, liet hij dat na.",
+   "bron": [
+    38
+   ],
+   "citaat": "onderweg was om een geldig parkeerbewijs te regelen bij een nabijgelegen bedrijf"
+  },
+  {
+   "zin": "De gemeente zei dat het niet uitmaakt hoe snel de rekening is opgemaakt, omdat de parkeerder niet had betaald.",
+   "bron": [
+    39
+   ],
+   "citaat": "Belanghebbende heeft de verschuldigde parkeerbelasting immers niet betaald."
+  },
+  {
+   "zin": "Het hof zei dat een parkeerder wel een redelijke termijn krijgt om te betalen. Maar die termijn gebruikte hij niet, dus de rekening was terecht.",
+   "bron": [
+    40
+   ],
+   "citaat": "Uit vaste rechtspraak volgt evenwel dat belastingplichtigen een redelijke termijn moet worden geboden"
+  },
+  {
+   "zin": "Het hof vond ook dat de parkeerder wel bezwaar had gemaakt, al vroeg hij in het formulier om bewijsstukken. Het hoger beroep is ongegrond.",
+   "bron": [
+    45
+   ],
+   "citaat": "Deze beroepsgrond faalt dan ook."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffingsaanslag blijft; geen griffierecht of proceskosten vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffingsaanslag betalen en krijgt geen griffierecht of proceskosten vergoed.",
+  "bron": [
+   41
+  ],
+  "citaat": "reeds om die reden terecht een naheffingsaanslag aan hem is opgelegd"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij kreeg te weinig gelegenheid om te betalen: hij was onderweg om een parkeerbewijs te regelen en de aanslag was al 13 seconden na de scanauto opgemaakt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Hij koos ervoor niet te betalen, dus de redelijke termijn is niet van toepassing en het risico ligt bij hem.",
+    "bron": [
+     41
+    ],
+    "citaat": "dient voor risico van belanghebbende te blijven"
+   },
+   "bruikbare_zin": {
+    "citaat": "nu belanghebbende een aan hem te gunnen redelijke termijn niet heeft gebruikt om de verschuldigde belasting te betalen",
+    "bron": [
+     41
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij had nog geen bezwaar gemaakt, maar alleen bewijsstukken gevraagd, dus de gemeente mocht nog niet beslissen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Op het formulier gaf hij aan waarom hij het niet eens was, dus het was een geldig bezwaar.",
+    "bron": [
+     45
+    ],
+    "citaat": "maakt niet dat hij geen rechtsgeldig bezwaar heeft gemaakt tegen de naheffingsaanslag"
+   },
+   "bruikbare_zin": {
+    "citaat": "Belanghebbende heeft in het desbetreffende stuk aangegeven waarom hij het niet eens was met de opgelegde naheffingsaanslag.",
+    "bron": [
+     45
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie de verschuldigde parkeerbelasting helemaal niet betaalt, kan zich niet beroepen op de redelijke termijn om te betalen.",
+  "type": "regel",
+  "reikwijdte": "Naheffingsaanslagen parkeerbelasting waarbij de parkeerder niet probeert te betalen.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   41
+  ],
+  "citaat": "nu belanghebbende een aan hem te gunnen redelijke termijn niet heeft gebruikt om de verschuldigde belasting te betalen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "scanauto-registratie",
+   "foto's van de controleur met gps-coördinaten"
+  ],
+  "wat_gaf_doorslag": "De parkeerder erkende dat hij niet betaald had en koos er bewust voor niet te betalen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 5 Verordening parkeerbelastingen Utrecht 2019",
+  "art. 7 Verordening parkeerbelastingen Utrecht 2019"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Laat de controleur na een constatering even bij de auto wachten en leg tijd en gps-coördinaten van de foto's vast.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    41
+   ],
+   "citaat": "de controleambtenaar in ieder geval nog twee minuten bij de auto is gebleven"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "scanauto-handhaving",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "U krijgt een redelijke tijd om te betalen nadat u parkeert. Als u helemaal niet betaalt, blijft de rekening achteraf meestal staan, ook als u van plan was te betalen. Bezwaar maken heeft weinig zin, tenzij u kunt laten zien dat u direct probeerde te betalen.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

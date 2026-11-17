@@ -1,0 +1,157 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2025:2293",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "fraude-signalering",
+ "kenmerk": "fsv",
+ "zaaktype": "fraude-algoritme",
+ "partijen": {
+  "burger": "particulier",
+  "wederpartij": "minister van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "De burger uit Hoorn heeft beroep ingesteld bij de rechtbank Noord-Holland. Hij is het oneens met de minister van Financiën over de afsluitende brief over zijn registratie in het fraudesysteem FSV.",
+ "titel": "Brief over FSV-registratie is geen besluit",
+ "kern": {
+  "zin": "De rechtbank verklaart het beroep ongegrond.",
+  "bron": [
+   15
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond."
+ },
+ "samenvatting": [
+  {
+   "zin": "De minister heeft het bezwaar van de burger niet-ontvankelijk verklaard.",
+   "bron": [
+    17
+   ],
+   "citaat": "Verweerder heeft het bezwaar niet-ontvankelijk verklaard"
+  },
+  {
+   "zin": "De burger stelt dat geoordeeld moet kunnen worden over een financiële tegemoetkoming of schadevergoeding.",
+   "bron": [
+    20
+   ],
+   "citaat": "geoordeeld moet kunnen worden over een financiële tegemoetkoming dan wel een verzoek om schadevergoeding"
+  },
+  {
+   "zin": "De minister vindt dat de burger niet in aanmerking komt voor een financiële tegemoetkoming.",
+   "bron": [
+    17
+   ],
+   "citaat": "hij daarom niet in aanmerking komt voor een financiële tegemoetkoming"
+  },
+  {
+   "zin": "De rechtbank oordeelt dat de afsluitende brief geen besluit is.",
+   "bron": [
+    19
+   ],
+   "citaat": "Daarom is de brief geen besluit in de zin van artikel 1:3, van de Awb."
+  },
+  {
+   "zin": "De rechtbank oordeelt dat uitsluitend de burgerlijke rechter bevoegd is om een schadevergoedingsvordering te beoordelen.",
+   "bron": [
+    28
+   ],
+   "citaat": "uitsluitend de burgerlijke rechter bevoegd is om een schadevergoedingsvordering"
+  },
+  {
+   "zin": "De rechtbank verklaart het beroep ongegrond en er is geen vergoeding van proceskosten.",
+   "bron": [
+    15
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond. Voor een proceskostenveroordeling bestaat daarbij geen aanleiding."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond: de brief is geen besluit; schade via de burgerlijke rechter.",
+ "gevolg_betrokkene": {
+  "zin": "De burger verliest het beroep en krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   15
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond. Voor een proceskostenveroordeling bestaat daarbij geen aanleiding."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "De burger vindt dat hij schade heeft door de onrechtmatige FSV-registratie en dat de bestuursrechter daarover moet oordelen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De bestuursrechter kan niet over deze schade oordelen; die weg is niet begaanbaar.",
+    "bron": [
+     21
+    ],
+    "citaat": "De weg van het zuiver schadebesluit is in dit geval dus niet begaanbaar."
+   },
+   "bruikbare_zin": {
+    "citaat": "De weg van het zuiver schadebesluit is in dit geval dus niet begaanbaar.",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De burger vindt dat de afsluitende brief wel een besluit is, zodat hij daartegen bezwaar kon maken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De afsluitende brief is geen besluit in de zin van de Awb.",
+    "bron": [
+     19
+    ],
+    "citaat": "Daarom is de brief geen besluit in de zin van artikel 1:3, van de Awb."
+   },
+   "bruikbare_zin": {
+    "citaat": "Daarom is de brief geen besluit in de zin van artikel 1:3, van de Awb.",
+    "bron": [
+     19
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een afsluitende brief over een FSV-registratie is geen besluit in de zin van de Awb.",
+  "type": "regel",
+  "reikwijdte": "Afsluitende brieven over een FSV-registratie.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "Daarom is de brief geen besluit in de zin van artikel 1:3, van de Awb."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 1:3 Awb",
+  "art. 82 AVG",
+  "art. 8:88 Awb",
+  "art. V Wet nadeelcompensatie en schadevergoeding bij onrechtmatige besluiten",
+  "art. 8:73 Awb (oud)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "fraude-handhaving",
+  "bezwaar",
+  "datateam-algoritmes"
+ ],
+ "klantuitleg": "Deze uitspraak gaat niet over inzage, correctie of verwijdering van uw gegevens, maar over een brief van de Belastingdienst over het fraudesysteem FSV (Fraude Signalering Voorziening). De rechter zegt dat die brief geen besluit is (geen officiële beslissing), dus u kunt daartegen niet bij de bestuursrechter in bezwaar. Voor schadevergoeding door de FSV-registratie moet u naar de burgerlijke rechter; de bestuursrechter kan daar niet over beslissen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente in de uitspraak; minister van Financiën is partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

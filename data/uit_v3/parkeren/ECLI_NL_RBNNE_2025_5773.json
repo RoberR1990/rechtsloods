@@ -1,0 +1,161 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2025:5773",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder (via een gemachtigde bureau)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een Wahv-boete (een boete voor een kleine verkeersovertreding) van 119 euro voor parkeren in een verbodszone. Zijn gemachtigde, een bureau, ging tegen de boete in beroep bij de kantonrechter, tegen de beslissing van de officier van justitie.",
+ "titel": "Parkeerboete blijft staan: zonebord bleek aanwezig",
+ "kern": {
+  "zin": "De rechter vond uit de e-mail van de gemeente dat het E1-bord er stond, dus blijft de boete staan.",
+  "bron": [
+   26
+  ],
+  "citaat": "De kantonrechter oordeelt dat hiermee is aangetoond dat de bebording aanwezig was ten tijde van de overtreding."
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete van 119 euro voor parkeren in een verbodszone op de Rengerslaan in Leeuwarden.",
+   "bron": [
+    11
+   ],
+   "citaat": "een voertuig parkeren waar dat niet mag (bord E1, parkeerverbod(szone))"
+  },
+  {
+   "zin": "Volgens zijn gemachtigde passeerde hij geen E1-bord op zijn route, en de handhaver controleerde de borden niet.",
+   "bron": [
+    19
+   ],
+   "citaat": "de verbalisant heeft de bebording niet gecontroleerd"
+  },
+  {
+   "zin": "De officier van justitie wees op een e-mail van de gemeente over de bebording en wilde dat het beroep ongegrond werd.",
+   "bron": [
+    20
+   ],
+   "citaat": "gelet op de door haar overgelegde e-mailwisseling met de gemeente over de bebording."
+  },
+  {
+   "zin": "De handhaver had zelf gezegd dat hij de borden niet had gecontroleerd, dus was extra onderzoek nodig.",
+   "bron": [
+    23
+   ],
+   "citaat": "De verbalisant heeft echter expliciet aangegeven dat hij dat niet heeft gedaan."
+  },
+  {
+   "zin": "Een e-mail van de gemeente liet zien dat het E1-bord in 2023 en 2024 op de Rengerslaan stond.",
+   "bron": [
+    25
+   ],
+   "citaat": "waarin die aangeeft dat in de periode 2023 – 2024 een bord E1 aanwezig was op de Rengerslaan."
+  },
+  {
+   "zin": "De rechter wees ook het verzoek om proceskostenvergoeding af.",
+   "bron": [
+    30
+   ],
+   "citaat": "wijst het verzoek om proceskostenvergoeding af."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Bord was aanwezig volgens gemeente-e-mail; boete blijft.",
+ "gevolg_betrokkene": {
+  "zin": "Hij moet de boete van 119 euro betalen en krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   11,
+   30
+  ],
+  "citaat": "De opgelegde boete bedraagt € 119,00 (inclusief administratiekosten)."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De handhaver heeft de bebording niet gecontroleerd, dus is het bewijs te zwak.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag uit de e-mail van de gemeente dat het bord er stond, dus was het bewijs voldoende.",
+    "bron": [
+     26
+    ],
+    "citaat": "De kantonrechter oordeelt dat hiermee is aangetoond dat de bebording aanwezig was ten tijde van de overtreding."
+   },
+   "bruikbare_zin": {
+    "citaat": "waarin die aangeeft dat in de periode 2023 – 2024 een bord E1 aanwezig was op de Rengerslaan",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij betwist de gedraging, de bevoegdheid van de handhaver en de gebruikte bewijsmiddelen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond die betwisting zonder onderbouwing te weinig om twijfel te zaaien.",
+    "bron": [
+     22
+    ],
+    "citaat": "De enkele, niet-onderbouwde betwisting van de gedraging, de bevoegdheid van de verbalisant en de wettigheid van de gebruikte bewijsmiddelen"
+   },
+   "bruikbare_zin": {
+    "citaat": "onvoldoende om te leiden tot twijfel aan de gegevens in het zaakoverzicht",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als een verbalisant ter plaatse was, mag ervan uit worden dat hij de bebording heeft gecontroleerd.",
+  "type": "regel",
+  "reikwijdte": "parkeerboetes waarbij een verbalisant ter plaatse was",
+  "uitzondering": "de verbalisant zegt zelf dat hij de bebording niet heeft gecontroleerd",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "ervan uitgegaan mag worden dat die de bebording heeft gecontroleerd."
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "e-mailwisseling met de gemeente over de bebording"
+  ],
+  "wat_gaf_doorslag": "De e-mail van de gemeente over het E1-bord in 2023 en 2024."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Leg per zonebord vast of en wanneer het bord er stond, zodat dat bij beroep kan worden getoond.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    25
+   ],
+   "citaat": "Het is de gemeente niet bekend dat er veranderingen hebben plaatsgevonden"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar"
+ ],
+ "klantuitleg": "Of een boete terecht is, hangt af van wat er op de plek stond en van het bewijs dat de gemeente kan tonen. In deze zaak kon de gemeente met een e-mail laten zien dat het bord er stond, en bleef de boete staan. Als u een boete betwist, vraag dan naar het bewijs van de borden en let op de termijn.",
+ "gemeente": "Leeuwarden",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

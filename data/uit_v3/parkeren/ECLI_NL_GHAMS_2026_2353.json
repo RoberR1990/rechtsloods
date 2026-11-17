@@ -1,0 +1,150 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2026:2353",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "invordering",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder, met een gemachtigde",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder gaat in hoger beroep tegen de ambtenaar die namens de gemeente Amsterdam parkeerrekeningen int. Het gerechtshof Amsterdam beslist of de gemeente € 9 kosten voor een betalingsherinnering mocht rekenen. De berichtenbox van MijnOverheid is de digitale brievenbus van de overheid.",
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2026:734",
+   "ECLI:NL:PHR:2026:152"
+  ]
+ },
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel",
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "gegevens van Logius over plaatsing, melding en openen van het bericht in de berichtenbox"
+  ],
+  "wat_gaf_doorslag": null
+ },
+ "titel": "Bericht zelf geopend in MijnOverheid: kosten herinnering terecht",
+ "kern": {
+  "zin": "De rechter vond de € 9 kosten voor de herinnering terecht, omdat de parkeerder het bericht in de berichtenbox zelf opende, ruim voor die herinnering.",
+  "bron": [
+   49
+  ],
+  "citaat": "het op 22 april 2024 in de berichtenbox geplaatste bericht (de naheffingsaanslag) op 24 april 2024 is geopend"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder betaalde de naheffingsaanslag (de rekening achteraf voor parkeren) niet en kreeg daarom een herinnering met € 9 kosten van de gemeente Amsterdam.",
+   "bron": [
+    22
+   ],
+   "citaat": "Omdat belanghebbende de naheffingsaanslag niet had betaald, heeft de invorderingsambtenaar hem daartoe bij brief"
+  },
+  {
+   "zin": "De parkeerder had zich aangemeld voor de berichtenbox van MijnOverheid en meldingen per e-mail aangezet.",
+   "bron": [
+    23
+   ],
+   "citaat": "Belanghebbende heeft zich aangemeld voor de berichtenbox MijnOverheid en heeft de notificatiefunctie ingeschakeld"
+  },
+  {
+   "zin": "De gemachtigde van de parkeerder suggereerde dat de gegevens van Logius achteraf konden zijn aangepast.",
+   "bron": [
+    49
+   ],
+   "citaat": "gegevens zoals weergegeven onder 2.3 met terugwerkende kracht door de invorderingsambtenaar kunnen worden gewijzigd of gemanipuleerd"
+  },
+  {
+   "zin": "De gemeente vroeg gegevens op bij Logius, de dienst die MijnOverheid beheert, en liet zien wanneer het bericht was geplaatst en geopend.",
+   "bron": [
+    24
+   ],
+   "citaat": "De invorderingsambtenaar heeft gegevens opgevraagd bij Logius, de dienst onder beheer van het Ministerie"
+  },
+  {
+   "zin": "De rechter vond het niet aannemelijk dat die gegevens achteraf zijn aangepast, en vond aannemelijk dat de parkeerder het bericht zelf opende, twee dagen na plaatsing.",
+   "bron": [
+    49
+   ],
+   "citaat": "het op 22 april 2024 in de berichtenbox geplaatste bericht (de naheffingsaanslag) op 24 april 2024 is geopend"
+  },
+  {
+   "zin": "Het hoger beroep slaagde niet en er kwam geen vergoeding van proceskosten.",
+   "bron": [
+    56
+   ],
+   "citaat": "Het Hof ziet geen reden voor een kostenveroordeling"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; € 9 kosten voor herinnering blijven staan",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de € 9 kosten voor de herinnering betalen en krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   56,
+   52
+  ],
+  "citaat": "Het Hof ziet geen reden voor een kostenveroordeling"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemachtigde zegt dat de gegevens van Logius achteraf kunnen zijn aangepast.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond het niet aannemelijk dat de gegevens achteraf zijn aangepast.",
+    "bron": [
+     49
+    ],
+    "citaat": "gegevens zoals weergegeven onder 2.3 met terugwerkende kracht door de invorderingsambtenaar kunnen worden gewijzigd of gemanipuleerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "het op 22 april 2024 in de berichtenbox geplaatste bericht (de naheffingsaanslag) op 24 april 2024 is geopend",
+    "bron": [
+     49
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een aanslag die in de berichtenbox van MijnOverheid is geplaatst, is bekendgemaakt; een e-mailmelding is daarvoor niet nodig.",
+  "type": "regel",
+  "reikwijdte": "Aanslagen van vóór 2026 bij een burger die zijn MijnOverheid-account heeft geactiveerd",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   48
+  ],
+  "citaat": "Verzending en ontvangst van een notificatiebericht zijn geen vereisten voor de bekendmaking"
+ },
+ "wetsartikelen": [
+  "art. 2:17 lid 1 Awb",
+  "art. 3:41 lid 1 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar de Logius-gegevens over plaatsing en openen van het bericht als bewijs voor bezwaar en beroep.",
+   "raakt": "bezwaar",
+   "bron": [
+    49
+   ],
+   "citaat": "het op 22 april 2024 in de berichtenbox geplaatste bericht (de naheffingsaanslag) op 24 april 2024 is geopend"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "communicatie"
+ ],
+ "klantuitleg": "Opent u een bericht in uw berichtenbox van MijnOverheid, dan neemt de rechter aan dat u het zelf las, ook als u geen e-mailmelding kreeg. Opende u het bericht voordat de herinnering kwam, dan mag de gemeente € 9 kosten rekenen. Bezwaar tegen die kosten heeft dan weinig kans; opende u het bericht pas later, dan kunt u dat aanvoeren."
+}

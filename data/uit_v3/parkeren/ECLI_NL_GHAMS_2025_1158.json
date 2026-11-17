@@ -1,0 +1,177 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2025:1158",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "overig",
+ "partijen": {
+  "burger": "bewoner/parkeerder (met gemachtigde)",
+  "wederpartij": "gemeente (naam geanonimiseerd)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder ging bij het Gerechtshof Amsterdam in hoger beroep tegen de gemeente over parkeerbelasting. Het ging niet meer over de belasting zelf, maar over een dwangsom, de proceskosten en de rente.",
+ "titel": "Geen dwangsom bij nieuw besluit, wel rente over kosten",
+ "kern": {
+  "zin": "De parkeerder kreeg geen dwangsom (bedrag bij te laat beslissen) en geen vergoeding voor de zitting, maar de gemeente moet wel wettelijke rente betalen over de toegekende kosten.",
+  "bron": [
+   37
+  ],
+  "citaat": "terecht de door belanghebbende voor het overschrijden van de termijn verzochte dwangsom niet opgenomen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente erkende dat zij de parkeerder niet had gehoord op zijn bezwaar, terwijl hij daar wel om had gevraagd.",
+   "bron": [
+    29
+   ],
+   "citaat": "omdat eiser niet is gehoord op zijn bezwaar, ondanks dat hij daar wel om had verzocht"
+  },
+  {
+   "zin": "De rechtbank vernietigde de uitspraak op bezwaar en droeg de gemeente op binnen zes weken opnieuw te beslissen.",
+   "bron": [
+    18
+   ],
+   "citaat": "binnen zes weken na de dag van verzending van deze uitspraak een nieuwe uitspraak op bezwaar te nemen"
+  },
+  {
+   "zin": "De parkeerder wilde dat aan die termijn van zes weken een dwangsom werd verbonden, en vond ook dat hij een punt moest krijgen voor de zitting.",
+   "bron": [
+    36
+   ],
+   "citaat": "te verbinden dat daarbij een termijn van zes weken wordt gehanteerd op straffe van een dwangsom"
+  },
+  {
+   "zin": "De gemeente had al toegezegd het griffierecht en een vaste proceskostenvergoeding te betalen.",
+   "bron": [
+    44
+   ],
+   "citaat": "al in zijn verweerschrift van 15 maart 2024 toegezegd om het griffierecht en een (forfaitaire) proceskostenvergoeding te betalen"
+  },
+  {
+   "zin": "Het hof vond dat een dwangsom pas past als de gemeente te laat beslist, en dat is hier nog niet gebeurd.",
+   "bron": [
+    37
+   ],
+   "citaat": "Voor het aanspraak maken op en het toekennen van een dwangsom is eerst aanleiding indien de inspecteur niet tijdig beslist op een ingediend bezwaar."
+  },
+  {
+   "zin": "Voor de zitting kreeg de parkeerder geen vergoeding, maar over de al toegekende bedragen moest de gemeente wel wettelijke rente betalen.",
+   "bron": [
+    45,
+    48
+   ],
+   "citaat": "voor rekening van belanghebbende zelf dient te blijven nu redelijkerwijs niet valt in te zien"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Geen dwangsom, geen zittingskosten; wel rente over de kosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt geen dwangsom en geen vergoeding voor de zitting, maar de gemeente moet wettelijke rente betalen over € 642,50 (proceskosten en griffierecht).",
+  "bron": [
+   57,
+   37
+  ],
+  "citaat": "veroordeelt de heffingsambtenaar tot vergoeding van wettelijke rente over een bedrag van € 642,50"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "Hij was niet gehoord op zijn bezwaar, terwijl hij daarom had gevraagd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente erkende dat de hoorplicht was geschonden.",
+    "bron": [
+     29
+    ],
+    "citaat": "erkend dat de hoorplicht in de bezwaarfase is geschonden omdat eiser niet is gehoord op zijn bezwaar"
+   },
+   "bruikbare_zin": {
+    "citaat": "erkend dat de hoorplicht in de bezwaarfase is geschonden omdat eiser niet is gehoord op zijn bezwaar",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "Aan de termijn van zes weken voor het nieuwe besluit moest een dwangsom worden verbonden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een dwangsom kan pas als de gemeente te laat beslist en schriftelijk in gebreke is gesteld; dat tijdsverloop was er niet.",
+    "bron": [
+     37
+    ],
+    "citaat": "Aan dit vereiste tijdsverloop is in deze zaak niet voldaan."
+   },
+   "bruikbare_zin": {
+    "citaat": "Daarvoor moet de heffingsambtenaar wel schriftelijk in gebreke zijn gesteld.",
+    "bron": [
+     37
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een dwangsom voor te laat beslissen op bezwaar kan pas als de gemeente schriftelijk in gebreke is gesteld en de termijn daarna is verstreken.",
+  "type": "regel",
+  "reikwijdte": "Dwangsom bij het niet tijdig beslissen op een ingediend bezwaar; niet bij een termijn die de rechter stelt voor een nieuwe uitspraak.",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   37
+  ],
+  "citaat": "Daarvoor moet de heffingsambtenaar wel schriftelijk in gebreke zijn gesteld."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Er was geen ingebrekestelling en de termijn voor een dwangsom was niet verstreken."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2018:2358",
+   "ECLI:NL:GHARL:2021:10307"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:2 Awb",
+  "art. 4:17 lid 3 Awb",
+  "art. 8:75 Awb",
+  "art. 8:108 Awb",
+  "art. 2 lid 1 Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Hoor een bezwaarmaker die daarom vraagt voordat u op het bezwaar beslist.",
+   "raakt": "bezwaar",
+   "bron": [
+    29
+   ],
+   "citaat": "erkend dat de hoorplicht in de bezwaarfase is geschonden omdat eiser niet is gehoord op zijn bezwaar"
+  },
+  {
+   "actie": "Erken een geschonden hoorplicht vroeg en zeg griffierecht en een vaste proceskostenvergoeding toe, zodat een zitting niet nodig is.",
+   "raakt": "bezwaar",
+   "bron": [
+    42
+   ],
+   "citaat": "erkend dat belanghebbende dient te worden gevolgd in zijn grief dat de hoorplicht is geschonden"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als de gemeente u niet heeft gehoord terwijl u daarom had gevraagd, moet zij opnieuw beslissen en meestal ook uw kosten vergoeden. Een dwangsom (een bedrag voor te late beslissing) krijgt u pas als de gemeente te laat is en u haar eerst schriftelijk een laatste termijn heeft gegeven. Wilt u een dwangsom, stuur dan eerst een schriftelijke ingebrekestelling.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

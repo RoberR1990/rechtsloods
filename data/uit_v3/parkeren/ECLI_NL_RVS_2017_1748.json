@@ -1,0 +1,187 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2017:1748",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bedrijfsvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bedrijf (vastgoedbedrijf)",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een vastgoedbedrijf in Amsterdam verliest zijn bedrijfsparkeervergunning, omdat de gemeente het samen met twee andere bedrijven op hetzelfde adres als één bedrijf ziet. De gemeente gaat in hoger beroep bij de Raad van State tegen een uitspraak van de rechtbank die het bedrijf gelijk gaf.",
+ "titel": "Drie bedrijven op één adres tellen als één bedrijf voor parkeervergunning",
+ "kern": {
+  "zin": "De Raad van State vindt dat de drie bedrijven zich als één bedrijf presenteren, dus de gemeente mocht de vergunning intrekken.",
+  "bron": [
+   35
+  ],
+  "citaat": "[bedrijf B] en [bedrijf A] zich in het maatschappelijk verkeer presenteren als één bedrijf"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente trok de bedrijfsparkeervergunning van een vastgoedbedrijf in, omdat het samen met twee andere bedrijven op hetzelfde adres als één bedrijf telt.",
+   "bron": [
+    22
+   ],
+   "citaat": "ingetrokken omdat zij volgens het college samen met de andere twee bedrijven op hetzelfde adres moet worden beschouwd"
+  },
+  {
+   "zin": "De rechtbank gaf het bedrijf gelijk: dat de bedrijven samen in één pand zitten, vond zij niet doorslaggevend.",
+   "bron": [
+    23
+   ],
+   "citaat": "dat de bedrijven gezamenlijk in een pand zitten, heeft de rechtbank niet doorslaggevend geacht"
+  },
+  {
+   "zin": "De gemeente wijst erop dat de bedrijven dezelfde telefoon- en faxnummers, secretariële ondersteuning en kantoorfaciliteiten gebruiken.",
+   "bron": [
+    25
+   ],
+   "citaat": "maken gebruik van dezelfde telefoon- en faxnummers, dezelfde secretariële ondersteuning en dezelfde kantoorfaciliteiten"
+  },
+  {
+   "zin": "De Raad van State volgt de gemeente: de bedrijven hebben één telefoonnummer, een gezamenlijke secretaresse en een gemeenschappelijke entree.",
+   "bron": [
+    35
+   ],
+   "citaat": "hebben de bedrijven één telefoon- en faxnummer, hebben zij een gezamenlijke secretaresse"
+  },
+  {
+   "zin": "Ook de hardheidsclausule helpt niet: de gemeente past die alleen toe bij tijdelijke situaties, en dat vindt de Raad van State niet onredelijk.",
+   "bron": [
+    51
+   ],
+   "citaat": "onvoldoende aanleiding vormt voor het toepassen van de hardheidsclausule"
+  },
+  {
+   "zin": "De Raad van State verklaart het beroep van het bedrijf alsnog ongegrond, dus de intrekking blijft staan.",
+   "bron": [
+    53
+   ],
+   "citaat": "zal de Afdeling het beroep tegen het besluit van 23 december 2014 van [appellante sub 2] alsnog ongegrond verklaren"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Gemeente mocht de vergunning intrekken; hoger beroep gemeente slaagt.",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrijf houdt geen eigen bedrijfsparkeervergunning en krijgt geen proceskosten vergoed.",
+  "bron": [
+   53,
+   54
+  ],
+  "citaat": "zal de Afdeling het beroep tegen het besluit van 23 december 2014 van [appellante sub 2] alsnog ongegrond verklaren"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De drie bedrijven zijn aparte bedrijven die niet exact hetzelfde werk doen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De bedrijven delen directeur en aandeelhouders, entree, telefoonnummer en secretaresse, en presenteren zich als één bedrijf.",
+    "bron": [
+     35
+    ],
+    "citaat": "zich in het maatschappelijk verkeer presenteren als één bedrijf"
+   },
+   "bruikbare_zin": {
+    "citaat": "zich in het maatschappelijk verkeer presenteren als één bedrijf",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het besluit steunt op een interne checklist, zonder kenbaar en consistent intrekkingsbeleid.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente hoeft geen intrekkingsbeleid vast te stellen, als zij maar consequent handelt.",
+    "bron": [
+     46
+    ],
+    "citaat": "Het college is niet gehouden intrekkingsbeleid vast te stellen."
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De intrekking is te zwaar, want er is geen wachtlijst, er is parkeerruimte in de buurt en parkeren zonder vergunning kost veel meer.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente gebruikt de hardheidsclausule alleen bij tijdelijke situaties, en dat is niet onredelijk.",
+    "bron": [
+     51
+    ],
+    "citaat": "onvoldoende aanleiding vormt voor het toepassen van de hardheidsclausule"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij de vraag of er één bedrijf is, kijkt de rechter eerst of de vergunninghouders zich naar buiten als één bedrijf presenteren, en daarna of er een juridische constructie is.",
+  "type": "regel",
+  "reikwijdte": "Bedrijfsparkeervergunningen onder de Amsterdamse Parkeerverordening 2013 voor bedrijven op hetzelfde adres",
+  "uitzondering": "Welk van de twee aspecten bepalend is, hangt af van de omstandigheden van het geval.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   34
+  ],
+  "citaat": "om eerst te bezien of de vergunninghouders zich in het maatschappelijk verkeer presenteren als één bedrijf"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "gemeenschappelijke entree",
+   "één telefoonnummer",
+   "gezamenlijke secretaresse",
+   "website"
+  ],
+  "wat_gaf_doorslag": "De bedrijven presenteerden zich naar buiten als één bedrijf."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2016:1739",
+   "ECLI:NL:RVS:2016:1740",
+   "ECLI:NL:RVS:2016:999",
+   "ECLI:NL:RVS:2016:1002"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1 aanhef en onder b Parkeerverordening 2013 Amsterdam",
+  "art. 40 Parkeerverordening 2013 Amsterdam"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Handel consequent bij het intrekken van bedrijfsvergunningen, ook als u een interne checklist gebruikt.",
+   "raakt": "vergunningen",
+   "bron": [
+    46
+   ],
+   "citaat": "Wel dient consequent te worden gehandeld."
+  },
+  {
+   "actie": "Gebruik de hardheidsclausule alleen voor tijdelijke situaties en leg die lijn vast.",
+   "raakt": "vergunningen",
+   "bron": [
+    51
+   ],
+   "citaat": "alleen van artikel 40 gebruik wordt gemaakt in situaties waarin het gaat om de tijdelijke onbereikbaarheid"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "verordening-beleid"
+ ],
+ "klantuitleg": "Staan meerdere bedrijven op hetzelfde adres en treden zij samen naar buiten op, bijvoorbeeld met één telefoonnummer, één secretaresse en één entree, dan kan de gemeente ze als één bedrijf zien. Dat kan betekenen dat er maar één bedrijfsvergunning overblijft. Wilt u bezwaar maken, laat dan zien dat uw bedrijf echt apart werkt, want alleen dat het veel kost, is meestal niet genoeg.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

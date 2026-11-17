@@ -1,0 +1,175 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2022:7004",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bedrijf (houder variabele bedrijfsvergunning)",
+  "wederpartij": "gemeente Breda (heffingsambtenaar)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bedrijf met een variabele bedrijfsvergunning kreeg in Breda een naheffing (de rekening achteraf), omdat de auto niet in de app was aangemeld. Het bedrijf ging in beroep tegen de heffingsambtenaar van de gemeente Breda, bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Bedrijfsvergunning niet geactiveerd: naheffing blijft staan",
+ "kern": {
+  "zin": "De naheffing bleef staan, omdat de auto niet in de app was aangemeld en er geen andere betaling was.",
+  "bron": [
+   28,
+   29
+  ],
+  "citaat": "een van de voorwaarden voor het gebruik van de variabele bedrijfsvergunning is dat de auto moet zijn aangemeld"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 29 september 2021 stelde een scanauto vast dat de auto in de Baronielaan geen parkeergeld had betaald.",
+   "bron": [
+    18,
+    17
+   ],
+   "citaat": "door middel van een scanauto vastgesteld dat belanghebbende geen parkeergeld heeft betaald"
+  },
+  {
+   "zin": "Het bedrijf zei dat het aanmelden vast was gebeurd, en dat er misschien een systeemfout was.",
+   "bron": [
+    24
+   ],
+   "citaat": "Belanghebbende stelt primair dat het aanmelden moet hebben plaatsgevonden"
+  },
+  {
+   "zin": "De gemeente zei dat op het moment van de controle geen aanmelding in het systeem stond.",
+   "bron": [
+    24
+   ],
+   "citaat": "De heffingsambtenaar heeft daartegenover gesteld dat ten tijde van het controlemoment"
+  },
+  {
+   "zin": "De rechter vond dat het aan het bedrijf lag om een begin van bewijs voor een storing te leveren, en dat is niet gebeurd.",
+   "bron": [
+    25
+   ],
+   "citaat": "het op de weg van belanghebbende had gelegen, als partij die stelt"
+  },
+  {
+   "zin": "Volgens de rechter komt het aanmelden in de plaats van het kopen van een parkeerkaartje.",
+   "bron": [
+    28
+   ],
+   "citaat": "De handeling van het aanmelden vervangt de handeling van de aanschaf"
+  },
+  {
+   "zin": "Daarom mocht de gemeente nog naheffen, en het bezwaar bleef ongegrond.",
+   "bron": [
+    28
+   ],
+   "citaat": "heeft de heffingsambtenaar het recht om na te heffen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan, geen kosten vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrijf moet de naheffing van € 66,00 betalen en krijgt het griffierecht niet terug.",
+  "bron": [
+   18,
+   31
+  ],
+  "citaat": "een naheffingsaanslag parkeerbelasting opgelegd van € 66,00"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "Er was mogelijk een systeemfout in de app; ons kenteken was wel aangemeld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat het bedrijf moest aantonen dat er een storing was, en dat had het niet gedaan.",
+    "bron": [
+     25
+    ],
+    "citaat": "het op de weg van belanghebbende had gelegen, als partij die stelt"
+   },
+   "bruikbare_zin": {
+    "citaat": "om daarvan een begin van bewijs aan te dragen",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Ik meld de auto altijd dagelijks aan; dat is mijn vaste routine.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Omdat niet aannemelijk was dat de aanmelding was gedaan, mocht de gemeente naheffen.",
+    "bron": [
+     28
+    ],
+    "citaat": "Nu niet aannemelijk is dat die handeling is verricht"
+   },
+   "bruikbare_zin": {
+    "citaat": "is het doen van een aangifte parkeerbelasting",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De belasting was al betaald bij het krijgen van de vergunning, dus naheffing mag niet (artikel 20 AWR).",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De vergelijking met de eerder genoemde rechtszaken gaat niet op, omdat daar wel een aangifte was gedaan.",
+    "bron": [
+     28
+    ],
+    "citaat": "gaat de vergelijking met de door belanghebbende genoemde jurisprudentie niet op"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat betreft steeds situaties dat wel een aangiftehandeling is verricht",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De handeling van het aanmelden vervangt het kopen van een parkeerkaartje.",
+  "type": "regel",
+  "reikwijdte": "parkeren met een variabele bedrijfsvergunning die aan een app is gekoppeld",
+  "uitzondering": "wel een aangifte gedaan, maar met een gebrek, zoals een onjuist kenteken",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   28
+  ],
+  "citaat": "De handeling van het aanmelden vervangt de handeling van de aanschaf"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "begin van bewijs van een systeemfout (niet aangedragen)"
+  ],
+  "wat_gaf_doorslag": "Het bedrijf had geen begin van bewijs voor een systeemfout."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 20 AWR"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen fout van de gemeente; het bewijs van de storing ontbrak bij het bedrijf",
+ "raakt": [
+  "betaalapp",
+  "vergunningen",
+  "bezwaar"
+ ],
+ "klantuitleg": "Heeft u een variabele bedrijfsvergunning, dan moet u de auto zelf in de app aanmelden. Doet u dat niet, dan geldt de vergunning niet en kan er een naheffing (de rekening achteraf) komen. Bij een storing moet u zelf laten zien dat er echt iets mis was; zonder bewijs heeft bezwaar weinig kans.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

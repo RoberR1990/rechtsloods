@@ -1,0 +1,146 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2025:7428",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "laadplek",
+ "kenmerk": null,
+ "zaaktype": "verkeersbesluit",
+ "partijen": {
+  "burger": "vergunninghouder",
+  "wederpartij": "gemeente Utrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een vergunninghouder procedeert tegen de gemeente Utrecht bij de Rechtbank Midden-Nederland. Het gaat om twee parkeerplaatsen die alleen bestemd zijn voor het opladen van elektrische auto's.",
+ "titel": "Twee parkeerplekken alleen voor elektrisch laden: beroep afgewezen",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente de twee plekken mocht aanwijzen, omdat het nadeel voor de vergunninghouder niet onevenredig was.",
+  "bron": [
+   21
+  ],
+  "citaat": "dit nadeel is niet onevenredig groot ten opzichte van het (algemene) doel"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Utrecht wees twee parkeerplaatsen aan voor alleen elektrisch laden.",
+   "bron": [
+    16
+   ],
+   "citaat": "twee parkeerplaatsen zijn aangewezen uitsluitend bestemd voor het opladen van elektrische voertuigen"
+  },
+  {
+   "zin": "De vergunninghouder vond dat er in de straat al weinig plekken waren en dat de noodzaak niet was aangetoond.",
+   "bron": [
+    17
+   ],
+   "citaat": "dat er in de straat al beperkt parkeerplekken zijn"
+  },
+  {
+   "zin": "Het college wilde dat laadpalen optimaal worden gebruikt en zei dat het aantal plekken gelijk blijft.",
+   "bron": [
+    20
+   ],
+   "citaat": "optimaal gebruik gemaakt moet kunnen worden van de laadpalen"
+  },
+  {
+   "zin": "Volgens de rechter hoefde het college niet aan te tonen dat de maatregel nu al nodig was.",
+   "bron": [
+    21
+   ],
+   "citaat": "is het geen vereiste dat het college aantoont dat het nu (al) noodzakelijk is"
+  },
+  {
+   "zin": "De vergunninghouder krijgt geen geld terug en geen proceskosten vergoed.",
+   "bron": [
+    23
+   ],
+   "citaat": "Eiseres krijgt daarom het griffierecht niet terug"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; het verkeersbesluit blijft staan, geen proceskosten of griffierecht.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de vergunninghouder blijft het verkeersbesluit staan, dus de twee plekken blijven alleen voor elektrisch laden.",
+  "bron": [
+   25,
+   23
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "belangenafweging-verkeersbesluit",
+   "burger_zegt": "Er zijn al weinig plekken, en met dit besluit verdwijnen er nog twee voor vergunninghouders.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond het nadeel voor vergunninghouders niet onevenredig, omdat hun vergunning nog bruikbaar bleef.",
+    "bron": [
+     21
+    ],
+    "citaat": "dit nadeel is niet onevenredig groot ten opzichte van het (algemene) doel"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet is gebleken dat eiseres geen gebruik meer zou kunnen maken van haar parkeervergunning",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het college heeft de noodzaak van de twee plekken niet onderbouwd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat het college niet hoeft aan te tonen dat de maatregel nu al nodig is.",
+    "bron": [
+     21
+    ],
+    "citaat": "is het geen vereiste dat het college aantoont dat het nu (al) noodzakelijk is"
+   },
+   "bruikbare_zin": {
+    "citaat": "is het geen vereiste dat het college aantoont dat het nu (al) noodzakelijk is om het verkeersbesluit te nemen",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een verkeersbesluit mag het college de belangen wegen; de rechter kijkt of de nadelen onevenredig zijn.",
+  "type": "regel",
+  "reikwijdte": "Verkeersbesluiten die parkeerplekken anders bestemmen en daardoor enkele vergunninghouders nadeel geven",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   18
+  ],
+  "citaat": "niet onevenredig zijn in verhouding tot de met dat besluit te dienen doelen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 2 lid 2 onder a Wvw 1994"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente wint; de rechter wijst geen tekortkoming van de gemeente aan",
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "vergunningen",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een gemeente mag een parkeerplek alleen voor elektrisch laden aanwijzen, ook als andere auto's daardoor minder plekken hebben. De rechter vond dat het nadeel voor vergunninghouders hier niet te groot was. Bezwaar tegen zo'n besluit heeft weinig kans als de gemeente de keuze goed toelicht.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

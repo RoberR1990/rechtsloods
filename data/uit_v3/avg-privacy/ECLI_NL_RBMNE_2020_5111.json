@@ -1,0 +1,174 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2020:5111",
+ "relevant": true,
+ "onderwerp": "toezicht-handhaving",
+ "sub": "boete",
+ "kenmerk": null,
+ "zaaktype": "boete-ap",
+ "partijen": {
+  "burger": "bedrijf (videoplatform voor amateurvoetbal)",
+  "wederpartij": "Autoriteit Persoonsgegevens",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Dit is een zaak van het bedrijf VoetbalTV tegen de Autoriteit Persoonsgegevens (AP). De rechtbank Midden-Nederland oordeelde over een boete van € 575.000 voor het filmen en uitzenden van amateurvoetbal.",
+ "titel": "Boete voor filmen amateurvoetbal vervalt: toets was te strikt",
+ "kern": {
+  "zin": "De rechter vernietigt de boete, omdat de AP een commercieel belang vooraf uitsloot en niet onderzocht of de verwerking nodig was.",
+  "bron": [
+   41
+  ],
+  "citaat": "niet voldoende zorgvuldig genomen en is daarmee in strijd met artikel 3:2 van de Awb"
+ },
+ "samenvatting": [
+  {
+   "zin": "De AP legde het bedrijf een boete van € 575.000 op, omdat het zonder geldige grondslag amateurvoetbalwedstrijden opnam en uitzond.",
+   "bron": [
+    25
+   ],
+   "citaat": "Verweerder heeft eiseres een boete opgelegd ter hoogte van € 575.000,-, omdat zij onrechtmatig persoonsgegevens heeft verwerkt"
+  },
+  {
+   "zin": "Het bedrijf zei dat de AP geen boete mocht opleggen, omdat de uitzendingen onder de journalistieke uitzondering vallen.",
+   "bron": [
+    26
+   ],
+   "citaat": "Zij betoogt ten eerste dat verweerder geheel (of gedeeltelijk) onbevoegd is om een boete op te leggen"
+  },
+  {
+   "zin": "De AP vond dat een zuiver commercieel belang nooit een gerechtvaardigd belang (een toegestane reden om gegevens te gebruiken) kan zijn.",
+   "bron": [
+    30
+   ],
+   "citaat": "Zuiver commerciële belangen en het belang van winstmaximalisatie zijn niet specifiek genoeg"
+  },
+  {
+   "zin": "De rechter vond dat de journalistieke uitzondering hier niet geldt, omdat de wedstrijden te weinig nieuwswaarde hebben.",
+   "bron": [
+    29
+   ],
+   "citaat": "De journalistieke exceptie geldt dus niet voor de gegevensverwerkingen waar deze procedure over gaat."
+  },
+  {
+   "zin": "De rechter vond wel dat de AP het gerechtvaardigd belang te strikt had uitgelegd, omdat een belang niet vooraf mag worden uitgesloten.",
+   "bron": [
+    37
+   ],
+   "citaat": "gaat eraan voorbij dat het HvJ het op voorhand uitsluiten van bepaalde legitieme belangen nu juist verbiedt"
+  },
+  {
+   "zin": "De AP had ook niet onderzocht of de verwerking nodig was. Daarom is de boete van tafel.",
+   "bron": [
+    42
+   ],
+   "citaat": "Daarmee is de boete dus in zijn geheel van tafel."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete van € 575.000 vernietigd; de AP betaalt griffierecht en proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 575.000 vervalt. De AP vergoedt het griffierecht van € 354 en de proceskosten van € 1.575.",
+  "bron": [
+   47,
+   46
+  ],
+  "citaat": "veroordeelt verweerder in de proceskosten van eiseres tot een bedrag van € 1.575,-"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het bedrijf zegt dat de AP niet bevoegd is, omdat de journalistieke uitzondering geldt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De wedstrijden hebben te weinig nieuwswaarde en het gaat om een ongefilterde grote hoeveelheid beelden.",
+    "bron": [
+     29
+    ],
+    "citaat": "De wedstrijden hebben daarvoor te weinig nieuwswaarde; het gaat om het uitzenden van amateursport en- spel."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het gaat om een ongefilterd verwerken van een grote hoeveelheid door eiseres zelf verzamelde persoonsgegevens.",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het bedrijf zegt dat het een gerechtvaardigd belang heeft en dat de AP dat te strikt toetst.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De AP gebruikte een verkeerde uitleg van gerechtvaardigd belang.",
+    "bron": [
+     40
+    ],
+    "citaat": "uitgaat van een verkeerde interpretatie van het begrip ‘gerechtvaardigd belang’"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat het begrip ‘gerechtvaardigd’ belang vooral als buitengrens dient voor de beoordeling en niet als een drempel",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De AP vond dat de boete ook zonder die uitleg terecht was, na een noodzakelijkheidstoets en belangenafweging.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het onderzoek van de AP ging niet over noodzaak en belangenafweging, dus de boete kan niet blijven.",
+    "bron": [
+     41
+    ],
+    "citaat": "Proportionaliteit en subsidiariteit hebben geen deel uitgemaakt van die beoordeling."
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een commercieel belang sluit niet op voorhand uit dat er een gerechtvaardigd belang is. Dat belang wordt open getoetst, met daarna een noodzakelijkheidstoets en een belangenafweging.",
+  "type": "regel",
+  "reikwijdte": "Verwerking van persoonsgegevens op grond van het gerechtvaardigd belang (art. 6 lid 1 onder f AVG)",
+  "uitzondering": "Het belang mag niet in strijd zijn met de wet of buiten het statutaire doel vallen.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   37
+  ],
+  "citaat": "dat het begrip ‘gerechtvaardigd’ belang vooral als buitengrens dient voor de beoordeling en niet als een drempel"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De AP sloot een belang vooraf uit en onderzocht noodzaak en belangenafweging niet."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:EU:C:2019:629",
+   "ECLI:EU:C:2008:727",
+   "ECLI:EU:C:2019:122",
+   "ECLI:CE:ECHR:2017:0627JUD000093113"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 5 lid 1 onder a AVG",
+  "art. 6 lid 1 onder f AVG",
+  "art. 85 AVG",
+  "art. 43 UAVG",
+  "art. 3:2 Awb",
+  "art. 8:72a Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg"
+ ],
+ "klantuitleg": "Deze uitspraak gaat over een bedrijf, niet over de gemeente. Een organisatie mag soms gegevens gebruiken zonder uw toestemming als ze een goed belang heeft en uw privacy niet te zwaar weegt. Twijfelt u, vraag de organisatie dan uit te leggen welk belang zij heeft en waarom ze uw gegevens daarvoor nodig heeft.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,180 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2021:11813",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (eiser)",
+  "wederpartij": "heffingsambtenaar van de gemeente Bloemendaal",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder betaalde via een parkeerapp in de verkeerde gemeente en kreeg daarom een naheffing van Bloemendaal. Hij ging bij de Rechtbank Noord-Holland in beroep tegen de heffingsambtenaar van Bloemendaal.",
+ "titel": "Via app in verkeerde gemeente betaald: parkeerder moet alsnog betalen",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder zelf moest controleren in welke zone hij parkeerde, dus de naheffing bleef staan.",
+  "bron": [
+   30
+  ],
+  "citaat": "Het is aan eiser om te controleren of de parkeerzone waar hij parkeert overeenkomt met de parkeerzone"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controleur zag op 7 maart 2020 dat een auto in Bloemendaal zonder betaling stond.",
+   "bron": [
+    18
+   ],
+   "citaat": "heeft een parkeercontroleur geconstateerd dat de auto van eiser"
+  },
+  {
+   "zin": "De parkeerder zei dat hij wel had betaald, maar via de app voor een zone in Zandvoort.",
+   "bron": [
+    19
+   ],
+   "citaat": "heeft op 7 maart 2020 wel € 5,23 parkeerbelasting voldaan voor parkeerzone"
+  },
+  {
+   "zin": "De gemeente vond dat de betaling in de verkeerde gemeente voor rekening van de parkeerder komt.",
+   "bron": [
+    23
+   ],
+   "citaat": "dat eiser parkeerbelasting aan de verkeerde gemeente heeft betaald"
+  },
+  {
+   "zin": "De rechter besloot dat de naheffing terecht was opgelegd.",
+   "bron": [
+    29
+   ],
+   "citaat": "Dat betekent dat verweerder aan eiser terecht de naheffingsaanslag heeft opgelegd"
+  },
+  {
+   "zin": "Dat hij in Zandvoort betaalde, blijft volgens de rechter voor zijn eigen rekening en risico.",
+   "bron": [
+    30
+   ],
+   "citaat": "Dat hij de parkeerbelasting ten onrechte aan de gemeente Zandvoort heeft betaald komt dan ook voor zijn rekening en risico"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing betalen en krijgt geen vergoeding voor proceskosten.",
+  "bron": [
+   35
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij heeft wel betaald, maar via de app in de verkeerde gemeente.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter legde de controleplicht bij de parkeerder en wees daarmee dit verweer af.",
+    "bron": [
+     30
+    ],
+    "citaat": "Het is aan eiser om te controleren of de parkeerzone waar hij parkeert overeenkomt met de parkeerzone"
+   },
+   "bruikbare_zin": {
+    "citaat": "op de parkeerder een onderzoeksplicht rust",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De parkeerapp toonde een zone die niet klopte, en hij heeft niet onwillig betaald.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het gebruik van een parkeerapp en de betaling doen aan de controleplicht niets af.",
+    "bron": [
+     30
+    ],
+    "citaat": "De omstandigheid dat eiser ter plaatse niet bekend is en heeft betaald met behulp van een parkeerapp"
+   },
+   "bruikbare_zin": {
+    "citaat": "De omstandigheid dat eiser ter plaatse niet bekend is en heeft betaald met behulp van een parkeerapp doet aan het voorgaande niet af",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeenten zouden het verkeerd betaalde bedrag onderling moeten verrekenen.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter kon over de wenselijkheid van een verrekening geen oordeel geven.",
+    "bron": [
+     32
+    ],
+    "citaat": "kan over de wenselijkheid daarvan geen oordeel geven"
+   },
+   "bruikbare_zin": {
+    "citaat": "het aan de betrokken gemeenten is voor gevallen als de onderhavige een voorziening te treffen",
+    "bron": [
+     32
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeerbelasting moet je betalen aan de gemeente waar je staat, ook als je via een app betaalt.",
+  "type": "regel",
+  "reikwijdte": "parkeerbelasting betaald via app in een andere gemeente dan waar de auto staat",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   28
+  ],
+  "citaat": "De parkeerbelasting dient dan ook te worden betaald aan de gemeente waarin wordt geparkeerd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "vaststelling van de parkeercontroleur",
+   "betaling van € 5,23 voor een zone in Zandvoort"
+  ],
+  "wat_gaf_doorslag": "Vast stond dat de betaling voor een andere gemeente was."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHAMS:2016:313"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 lid 2 onder a Gemeentewet",
+  "art. 1 onder d en e Verordening parkeerbelastingen Bloemendaal 2020",
+  "art. 5 lid 1 Verordening parkeerbelastingen Bloemendaal 2020",
+  "art. 20 lid 1 Algemene wet inzake rijksbelastingen"
+ ],
+ "actie_gemeente": [
+  {
+   "bron": [
+    32
+   ],
+   "citaat": "het aan de betrokken gemeenten is voor gevallen als de onderhavige een voorziening te treffen",
+   "actie": "Overleg met de andere gemeenten van Gemeentebelastingen Kennemerland Zuid over een regeling voor verkeerd betaalde parkeerbelasting.",
+   "raakt": "tarief-naheffing"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u via een parkeerapp betaalt, moet u controleren of de zone en de gemeente kloppen. Betaalt u in de verkeerde gemeente, dan blijft u de parkeerbelasting van de gemeente waar u staat verschuldigd. De rechter legde die controleplicht bij de parkeerder, dus bezwaar heeft op dit punt weinig kans.",
+ "gemeente": "Bloemendaal",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

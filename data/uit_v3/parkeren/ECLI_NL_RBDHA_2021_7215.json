@@ -1,0 +1,197 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2021:7215",
+ "relevant": true,
+ "onderwerp": "parkeernormen",
+ "sub": "parkeernorm-toets",
+ "kenmerk": null,
+ "zaaktype": "omgevingsrecht",
+ "partijen": {
+  "burger": "eigenaar van nabijgelegen complex",
+  "wederpartij": "gemeente Noordwijk (college)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een eigenaar van een nabijgelegen complex procedeert tegen de gemeente Noordwijk over een omgevingsvergunning voor een winkel met een uitweg en parkeerplekken. De rechtbank Den Haag oordeelde over parkeren, fietsplekken, het bestemmingsplan, stikstof en een te late beslissing.",
+ "titel": "Bouwplan supermarkt: te weinig fietsplekken en te late beslissing",
+ "kern": {
+  "zin": "De rechter vond te weinig fietsplekken en voegde daarom een voorschrift toe voor 45 plekken.",
+  "bron": [
+   51
+  ],
+  "citaat": "dat het bouwplan voorziet in onvoldoende fietsparkeerplaatsen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het gaat om een bouwplan voor een winkel met een uitweg, waarvoor een omgevingsvergunning is aangevraagd.",
+   "bron": [
+    26
+   ],
+   "citaat": "voorziet in het bouwen van een winkel en het aanleggen van een uitweg"
+  },
+  {
+   "zin": "De eigenaar vindt dat het bouwplan ook te weinig fietsplekken heeft.",
+   "bron": [
+    44
+   ],
+   "citaat": "Het bouwplan voorziet ook niet in voldoende fietsparkeerplaatsen"
+  },
+  {
+   "zin": "De gemeente komt uit op 83 benodigde parkeerplekken, inclusief de plekken die verdwijnen.",
+   "bron": [
+    45
+   ],
+   "citaat": "tot een totaal van 83 benodigde parkeerplaatsen"
+  },
+  {
+   "zin": "De rechter telde 43 fietsplekken, terwijl de norm 45 is; dat is te weinig.",
+   "bron": [
+    51
+   ],
+   "citaat": "Uit de bouwtekeningen volgt dat sprake is van 43 fietsparkeerplaatsen"
+  },
+  {
+   "zin": "De gemeente moet een dwangsom van 1.442 euro betalen.",
+   "bron": [
+    73
+   ],
+   "citaat": "bepaalt dat verweerder een dwangsom heeft verbeurd van € 1.442,-"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Dwangsom en fietsplekken gewonnen; rest verloren.",
+ "gevolg_betrokkene": {
+  "zin": "De eigenaar krijgt een dwangsom van 1.442 euro, omdat de gemeente te laat besliste.",
+  "bron": [
+   73
+  ],
+  "citaat": "bepaalt dat verweerder een dwangsom heeft verbeurd van € 1.442,-"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "parkeernorm-onvoldoende",
+   "burger_zegt": "Er komen te weinig auto-parkeerplekken; de gemeente rekende verkeerd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de 90 geplande plekken de nodige parkeerbehoefte dekken.",
+    "bron": [
+     50
+    ],
+    "citaat": "Het geplande parkeerterrein voorziet in 90 parkeerplaatsen, zodat in de benodigde parkeerbehoefte wordt voorzien"
+   },
+   "bruikbare_zin": {
+    "citaat": "Een eventueel bestaand tekort kan als regel buiten beschouwing worden gelaten",
+    "bron": [
+     50
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het plan is in strijd met het bestemmingsplan door een verdieping.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag in de nieuwe tekeningen geen verdieping meer, dus geen strijd met het plan.",
+    "bron": [
+     41
+    ],
+    "citaat": "dat geen sprake meer is van een (interne) verdieping"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "parkeernorm-onvoldoende",
+   "burger_zegt": "Er zijn te weinig fietsplekken; het plan heeft er minder dan de norm.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat het plan te weinig fietsplekken heeft en voegde daarom een voorschrift toe.",
+    "bron": [
+     51
+    ],
+    "citaat": "Dit betekent dat eiseres terecht betoogt dat het bouwplan voorziet in onvoldoende fietsparkeerplaatsen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Uit de bouwtekeningen volgt dat sprake is van 43 fietsparkeerplaatsen",
+    "bron": [
+     51
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente besliste te laat en moet daarom een dwangsom betalen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter stelde vast dat de gemeente niet op tijd besliste, dus een dwangsom is verschuldigd.",
+    "bron": [
+     34
+    ],
+    "citaat": "Dit betekent dat verweerder een dwangsom is verschuldigd"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een bouwplan telt alleen de extra parkeerbehoefte die het plan veroorzaakt, niet een bestaand tekort.",
+  "type": "regel",
+  "reikwijdte": "beoordeling of een bouwplan voldoende parkeerplekken heeft",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   50
+  ],
+  "citaat": "alleen rekening worden gehouden met de toename van de parkeerbehoefte als gevolg van het realiseren van het bouwplan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "bouwtekeningen",
+   "parkeernota Noordwijk 2013",
+   "rapport Goudappel Coffeng"
+  ],
+  "wat_gaf_doorslag": "De bouwtekeningen telden 43 fietsplekken, terwijl de norm 45 is."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 4:17 lid 2 Awb",
+  "art. 4:17 lid 6 onder a Awb",
+  "art. 7:10 lid 1 Awb",
+  "art. 8:69a Awb",
+  "Paraplu Bestemmingsplan Parkeren",
+  "Nota parkeren en stallen Noordwijk 2013"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij een bouwplan de fietsplekken op de tekening tegen de norm, voordat u de vergunning verleent.",
+   "raakt": "vergunningen",
+   "bron": [
+    51
+   ],
+   "citaat": "Uit de bouwtekeningen volgt dat sprake is van 43 fietsparkeerplaatsen"
+  },
+  {
+   "actie": "Zet na een uitspraak van de Raad van State meteen een termijn voor het nieuwe besluit op bezwaar.",
+   "raakt": "bezwaar",
+   "bron": [
+    32
+   ],
+   "citaat": "In dit geval heeft de Afdeling geen termijn gesteld voor het nemen van een nieuw besluit op bezwaar"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "verordening-beleid"
+ ],
+ "klantuitleg": "Heeft u als eigenaar in de buurt zorgen over parkeren bij een nieuw bouwplan, maak die dan kenbaar in de procedure. Een tekort aan auto-parkeerplekken dat er al was, telt meestal niet mee. Heeft u cijfers over het extra gebruik, zoals een eigen telling, dan helpt dat het meest; zonder die cijfers is de kans klein.",
+ "gemeente": "Noordwijk",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

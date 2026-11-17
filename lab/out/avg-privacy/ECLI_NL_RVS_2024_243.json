@@ -1,0 +1,142 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2024:243",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "rectificatie",
+ "kenmerk": null,
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "inwoner",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Deze zaak gaat over een verzoek om een tekst in persoonsgegevens te laten corrigeren. De burger en de gemeente Amsterdam stonden tegenover elkaar bij de Raad van State in hoger beroep.",
+ "titel": "Geen correctie van beschrijving over demonstraties",
+ "kern": {
+  "zin": "De Raad van State bevestigt dat de beschrijving een indruk is en geen feit, zodat die niet gecorrigeerd hoeft te worden.",
+  "bron": [
+   27
+  ],
+  "citaat": "Nu de beschrijving niet een feit weergeeft, maar een indruk, heeft de rechtbank terecht geoordeeld"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente Amsterdam om een beschrijving in zijn persoonsgegevens te corrigeren.",
+   "bron": [
+    20
+   ],
+   "citaat": "[appellant] heeft het college op 24 januari 2020 verzocht om zijn persoonsgegevens te rectificeren"
+  },
+  {
+   "zin": "Hij vond dat de beschrijving ging over feiten en dat die feiten niet klopten.",
+   "bron": [
+    20
+   ],
+   "citaat": "Volgens hem zijn dit feiten en kloppen deze niet."
+  },
+  {
+   "zin": "De gemeente zei dat het om een indruk of mening van een professional gaat en niet om een feit.",
+   "bron": [
+    21
+   ],
+   "citaat": "omdat deze een indruk dan wel een mening van een professional betreft en geen feitelijk gegeven"
+  },
+  {
+   "zin": "De rechtbank en later de Raad van State vonden dat de tekst geen feit is, maar een beschrijving van mogelijke situaties.",
+   "bron": [
+    27
+   ],
+   "citaat": "Het college heeft namelijk voldoende toegelicht dat de beschrijving niet een feit betreft, maar een beschrijving van mogelijke situaties"
+  },
+  {
+   "zin": "Daarom blijft de afwijzing van het correctieverzoek in stand.",
+   "bron": [
+    33
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak zal worden bevestigd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De burger verliest: zijn hoger beroep is ongegrond en de afwijzing van correctie blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De afwijzing van het correctieverzoek blijft staan; het college hoeft geen proceskosten te betalen.",
+  "bron": [
+   33,
+   34
+  ],
+  "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak zal worden bevestigd"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "De beschrijving in de documenten gaat over feiten en die feiten kloppen niet, dus moet de gemeente die corrigeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Raad van State vindt dat de beschrijving geen feit weergeeft, maar een indruk.",
+    "bron": [
+     27
+    ],
+    "citaat": "Nu de beschrijving niet een feit weergeeft, maar een indruk, heeft de rechtbank terecht geoordeeld"
+   },
+   "bruikbare_zin": {
+    "citaat": "De onjuistheden moeten wel eenvoudig en objectief zijn vast te stellen.",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het correctierecht van artikel 16 AVG geldt niet voor indrukken, meningen, onderzoeksresultaten en conclusies.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om correctie van persoonsgegevens op grond van de AVG",
+  "uitzondering": "Als de persoonsgegevens eenvoudig en objectief vast te stellen fouten bevatten.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   27
+  ],
+  "citaat": "niet is bedoeld om indrukken, meningen, onderzoeksresultaten en conclusies"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "de documenten met de beschrijving",
+   "de toelichting van het college"
+  ],
+  "wat_gaf_doorslag": "Het college legde uit dat de tekst een beschrijving van mogelijke situaties is en geen feit."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2023:2006"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 16 AVG",
+  "art. 8:60 lid 1 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij een correctieverzoek uit dat de tekst gaat over mogelijke situaties en geen vaststaand feit, zoals het college hier deed.",
+   "raakt": "privacy-fg",
+   "bron": [
+    27
+   ],
+   "citaat": "Het college heeft namelijk voldoende toegelicht dat de beschrijving niet een feit betreft, maar een beschrijving van mogelijke situaties"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "U vroeg de gemeente om een tekst over u te laten aanpassen. De rechter zegt dat dit niet hoeft als de tekst geen feit is, maar een indruk of een beschrijving van wat er mogelijk kan gebeuren. Als er echt een fout in uw gegevens staat die duidelijk en objectief te controleren is, kunt u wel om correctie vragen.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

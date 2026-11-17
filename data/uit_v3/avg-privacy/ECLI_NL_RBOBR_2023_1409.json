@@ -1,0 +1,180 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOBR:2023:1409",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "gemeente Geldrop-Mierlo",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Deze zaak gaat over een verzoek om persoonsgegevens in de basisregistratie personen (BRP) te wijzigen. De burger vroeg de gemeente Geldrop-Mierlo om haar naam, voornaam, geboortedatum en geboorteplaats te veranderen; de rechtbank Oost-Brabant beoordeelt haar beroep.",
+ "titel": "BRP-wijziging terecht geweigerd; wel proceskosten vergoed",
+ "kern": {
+  "zin": "De rechtbank vernietigt het besluit omdat de gemeente een oude toets gebruikte, maar laat de weigering in stand.",
+  "bron": [
+   33
+  ],
+  "citaat": "Het beroep is gegrond omdat het college bij het nemen van het bestreden besluit een verouderde toetsingsmaatstaf heeft gebruikt"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger staat sinds 1994 met haar gegevens in de BRP, maar zegt dat zij vroeger een valse identiteit heeft aangenomen.",
+   "bron": [
+    16
+   ],
+   "citaat": "Eiseres staat sinds 14 maart 1994 met haar huidige gegevens ingeschreven in de brp"
+  },
+  {
+   "zin": "Zij vroeg de gemeente om haar naam, voornaam, geboortedatum en geboorteplaats in de BRP te wijzigen.",
+   "bron": [
+    16
+   ],
+   "citaat": "Daarom heeft zij het college gevraagd om onderstaande persoonsgegevens in de brp te wijzigen"
+  },
+  {
+   "zin": "De gemeente weigerde dat, omdat volgens haar niet zeker genoeg vaststond dat de oude gegevens onjuist en de nieuwe gegevens juist zijn.",
+   "bron": [
+    30
+   ],
+   "citaat": "niet onomstotelijk vaststaat dat de gegevens van eiseres in de brp onjuist en de nieuwe gegevens juist zijn"
+  },
+  {
+   "zin": "De rechtbank vond dat de gemeente in het besluit een oude maatstaf gebruikte, waardoor het besluit niet goed was gemotiveerd.",
+   "bron": [
+    33
+   ],
+   "citaat": "waardoor sprake is van een motiveringsgebrek"
+  },
+  {
+   "zin": "Toch mocht de gemeente het verzoek afwijzen, omdat de documenten niet bijna zeker aantoonden dat de gegevens juist zijn en bij de burger horen.",
+   "bron": [
+    55
+   ],
+   "citaat": "niet buiten redelijke twijfel uit de overgelegde brondocumenten volgt"
+  },
+  {
+   "zin": "De weigering blijft daarom staan, maar de gemeente moet het griffierecht en de proceskosten van € 1.674 betalen.",
+   "bron": [
+    58
+   ],
+   "citaat": "moet het college het griffierecht aan eiseres vergoeden en krijgt eiseres ook een vergoeding van haar proceskosten"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Weigering blijft staan; wel griffierecht en proceskosten vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De weigering blijft staan; de gemeente moet het griffierecht van € 184 en de proceskosten van € 1.674 betalen.",
+  "bron": [
+   64,
+   65
+  ],
+  "citaat": "bepaalt dat het college het griffierecht van € 184,– aan eiseres moet vergoeden"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "De burger zegt dat haar documenten aantonen dat haar gegevens onjuist zijn en aangepast moeten worden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat de documenten niet buiten redelijke twijfel aantoonden dat de gegevens juist zijn en bij de burger horen.",
+    "bron": [
+     55
+    ],
+    "citaat": "niet buiten redelijke twijfel uit de overgelegde brondocumenten volgt dat de daarin opgenomen gegevens zien op eiseres"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet buiten redelijke twijfel uit de overgelegde brondocumenten volgt",
+    "bron": [
+     55
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De burger vindt dat de nieuwe, lichtere toetsingsmaatstaf van de Afdeling moet worden toegepast.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank vond dat de gemeente in het bestreden besluit nog een verouderde toetsingsmaatstaf gebruikte.",
+    "bron": [
+     33
+    ],
+    "citaat": "Het beroep is gegrond omdat het college bij het nemen van het bestreden besluit een verouderde toetsingsmaatstaf heeft gebruikt"
+   },
+   "bruikbare_zin": {
+    "citaat": "waardoor sprake is van een motiveringsgebrek",
+    "bron": [
+     33
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een verzoek om BRP-gegevens te wijzigen, moet buiten redelijke twijfel uit de brondocumenten blijken dat de nieuwe gegevens juist zijn.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om wijziging van persoonsgegevens in de BRP.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   41
+  ],
+  "citaat": "buiten redelijke twijfel uit de overgelegde brondocumenten, zo nodig bezien in samenhang met de daaraan ten grondslag liggende nadere bewijsmiddelen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "gelegaliseerde geboorteakten",
+   "noodpaspoort",
+   "DNA-verwantschapsonderzoek",
+   "declaration sur l’honneur",
+   "stukken uit de asielprocedure"
+  ],
+  "wat_gaf_doorslag": "De onduidelijkheid over het onderzoek vóór afgifte van de Algerijnse geboorteakten."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2022:1198",
+   "ECLI:NL:RVS:2022:1297",
+   "ECLI:NL:RVS:2022:1300",
+   "ECLI:NL:RVS:2017:2799",
+   "ECLI:NL:RVS:2019:2882"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2.8 lid 2 Wet brp",
+  "art. 2.8 lid 2 onder c Wet brp",
+  "art. 2.8 lid 2 onder d Wet brp",
+  "art. 2.10 Wet brp",
+  "art. 8:72 lid 3 onder a Awb",
+  "art. 1 lid 1 onder 1 Wet op de identificatieplicht",
+  "art. 2 Paspoortwet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Gebruik de actuele toetsingsmaatstaf al in het besluit op bezwaar, niet pas in beroep.",
+   "raakt": "bezwaar",
+   "bron": [
+    43
+   ],
+   "citaat": "Het college heeft voor de motivering van het bestreden besluit de inmiddels achterhaalde toetsingsmaatstaf gebruikt."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "burgerzaken-brp",
+  "bezwaar"
+ ],
+ "klantuitleg": "De gemeente mag uw gegevens in de basisregistratie personen (BRP) alleen wijzigen als u met officiële documenten bijna zeker maakt dat de nieuwe gegevens juist zijn en bij u horen. Een noodpaspoort telt hierbij niet als bewijs. In deze zaak bleef de weigering daarom staan; heeft u betere officiële documenten, dan kan bezwaar zin hebben.",
+ "gemeente": "Geldrop-Mierlo",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

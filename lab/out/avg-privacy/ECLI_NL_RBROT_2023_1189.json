@@ -1,0 +1,170 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:1189",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "zoekslag",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "Minister van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Deze zaak gaat over een verzoek om inzage in persoonsgegevens volgens de AVG. De burger vroeg de Minister van Financiën om al zijn gegevens en kreeg maar een deel. De rechtbank Rotterdam deed uitspraak.",
+ "titel": "Rechtbank: Minister moet breder zoeken bij inzageverzoek",
+ "kern": {
+  "zin": "De rechtbank vernietigt het besluit, omdat de Minister niet kon volstaan met zoeken in één systeem en te weinig uitleg gaf.",
+  "bron": [
+   25
+  ],
+  "citaat": "Verweerder kan niet volstaan met het enkel verrichten van een zoekslag in het meest algemene systeem."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vindt dat de Minister zijn verzoek om inzage in zijn persoonsgegevens niet volledig heeft uitgevoerd.",
+   "bron": [
+    23
+   ],
+   "citaat": "Eiser voert aan dat verweerder niet volledig aan zijn AVG-verzoek heeft voldaan."
+  },
+  {
+   "zin": "De Minister zocht alleen in het meest algemene belastingsysteem en vond een grotere zoekactie te veel werk.",
+   "bron": [
+    24
+   ],
+   "citaat": "In andere systemen is niet gezocht, omdat er volgens verweerder te veel systemen zijn"
+  },
+  {
+   "zin": "De rechtbank oordeelt dat de Minister niet heeft uitgelegd waarom een grotere zoekactie te veel werk zou zijn.",
+   "bron": [
+    25
+   ],
+   "citaat": "Verweerder heeft niet inzichtelijk gemaakt dat een ruimere zoekslag dan is verricht een onevenredig grote inspanning vergt."
+  },
+  {
+   "zin": "Ook een lijstje met gevonden gegevens is niet genoeg: de burger moet ook het doel, de ontvangers en de herkomst horen.",
+   "bron": [
+    26
+   ],
+   "citaat": "Met een enkele opsomming van de aangetroffen persoonsgegevens is eiser daartoe niet in staat."
+  },
+  {
+   "zin": "De Minister moet binnen zes weken een nieuw besluit nemen.",
+   "bron": [
+    36
+   ],
+   "citaat": "draagt verweerder op binnen zes weken na de dag van verzending van deze uitspraak een nieuw besluit te nemen"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Besluit vernietigd; de Minister moet opnieuw en beter zoeken en uitleg geven.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt € 1.674,- aan proceskosten en € 184,- griffierecht vergoed; de gevraagde dwangsom wordt niet opgelegd.",
+  "bron": [
+   29,
+   37,
+   38
+  ],
+  "citaat": "De rechtbank ziet geen aanleiding om daaraan de door eiser gevraagde dwangsom te verbinden"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "De burger vindt dat de Minister niet in alle systemen heeft gezocht.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank vindt dat de Minister niet kan volstaan met zoeken in één systeem en niet uitlegt waarom meer zoeken te veel werk is.",
+    "bron": [
+     25
+    ],
+    "citaat": "Het niet nader onderbouwde standpunt dat er te veel systemen zijn, is een onvoldoende motivering"
+   },
+   "bruikbare_zin": {
+    "citaat": "Verweerder kan niet volstaan met het enkel verrichten van een zoekslag in het meest algemene systeem.",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "De burger zegt dat hij niet alles heeft gekregen wat hij vroeg.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Een lijstje met gevonden gegevens is niet genoeg; de burger moet ook het doel, de ontvangers en de herkomst horen.",
+    "bron": [
+     26
+    ],
+    "citaat": "Met een enkele opsomming van de aangetroffen persoonsgegevens is eiser daartoe niet in staat."
+   },
+   "bruikbare_zin": {
+    "citaat": "Verder kan verweerder niet volstaan met een opsomming van aangetroffen persoonsgegevens",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een inzageverzoek moet de organisatie zoeken in alle systemen waarin de gegevens kunnen staan, en uitleggen waarvoor de gegevens zijn gebruikt, aan wie ze zijn verstrekt en waar ze vandaan komen.",
+  "type": "regel",
+  "reikwijdte": "Inzageverzoeken op grond van artikel 15 AVG bij de overheid",
+  "uitzondering": "Als de organisatie concreet uitlegt dat een grotere zoekactie onevenredig veel werk is.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "Verweerder moet alsnog een zoekslag verrichten naar de aanwezigheid van persoonsgegevens van eiser in de applicaties en systemen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "inventarislijst van stukken die ter zitting is overgelegd"
+  ],
+  "wat_gaf_doorslag": "De inventarislijst liet zien dat er buiten het doorzochte systeem stukken met gegevens van de burger lagen."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 15 AVG",
+  "art. 13 AVG",
+  "art. 14 AVG",
+  "art. 23 AVG",
+  "art. 41 UAVG",
+  "art. 8:29 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Doe bij een inzageverzoek onderzoek in alle systemen waar de gegevens kunnen staan, of leg concreet uit waarom dat onevenredig veel werk is.",
+   "raakt": "privacy-fg",
+   "bron": [
+    25
+   ],
+   "citaat": "Verweerder heeft niet inzichtelijk gemaakt dat een ruimere zoekslag dan is verricht een onevenredig grote inspanning vergt."
+  },
+  {
+   "actie": "Geef bij inzage niet alleen een lijst met gegevens, maar ook het doel, de ontvangers en de herkomst.",
+   "raakt": "privacy-fg",
+   "bron": [
+    26
+   ],
+   "citaat": "Verder kan verweerder niet volstaan met een opsomming van aangetroffen persoonsgegevens"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u om inzage in uw gegevens vraagt, moet de organisatie zoeken in alle systemen waar uw gegevens kunnen staan. Zij mag niet volstaan met één systeem en een lijstje: u moet ook horen waarvoor de gegevens zijn gebruikt, aan wie ze zijn gegeven en waar ze vandaan komen. Krijgt u zo'n beperkt antwoord, dan kunt u daartegen in bezwaar gaan.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "De Minister van Financiën is partij; er komt geen gemeente in de uitspraak voor.",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,166 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2023:1907",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "fraude-signalering",
+ "kenmerk": "fsv",
+ "zaaktype": "fraude-algoritme",
+ "partijen": {
+  "burger": "bedrijf (B.V.)",
+  "wederpartij": "inspecteur van de Belastingdienst",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "Een bedrijf vroeg het gerechtshof om herziening van een eerdere uitspraak in een belastingzaak. De inspecteur van de Belastingdienst wilde gegevens uit de Fraude Signalering Voorziening (FSV) geheim houden en het hof besliste daarover.",
+ "titel": "Namen van medewerkers mogen geheim blijven, BSN-nummers niet",
+ "kern": {
+  "zin": "Het hof liet namen en medewerkerscodes geheim houden omdat medewerkers gevaar kunnen lopen, maar niet de BSN-nummers van de burgers.",
+  "bron": [
+   65
+  ],
+  "citaat": "geen gewichtige redenen zijn, zodat het verzoek van de Inspecteur in zoverre moet worden afgewezen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het bedrijf wilde weten of het of zijn bestuurder in de FSV stond en welke invloed dat had gehad.",
+   "bron": [
+    30
+   ],
+   "citaat": "inzicht ontbreekt in de vraag of belanghebbenden en de gemachtigde en/of zijn partner zijn opgenomen in de fraudesignaleringsvoorziening"
+  },
+  {
+   "zin": "De inspecteur gaf geschoonde screenprints en vroeg om beperkte kennisneming van namen, medewerkerscodes en BSN-nummers.",
+   "bron": [
+    39
+   ],
+   "citaat": "ziet op de BSN-nummers van de betreffende natuurlijke personen en de rechtsboven in de prints vermelde medewerkerscode"
+  },
+  {
+   "zin": "Het bedrijf verzette zich omdat het zich zo geen oordeel kon vormen over de FSV-gegevens.",
+   "bron": [
+    56
+   ],
+   "citaat": "zij daardoor niet in staat is zich een oordeel te kunnen vormen omtrent de inhoud van de FSV-gegevens"
+  },
+  {
+   "zin": "Het hof vond het meer dan denkbeeldig dat medewerkers gevaar lopen en liet namen en medewerkerscodes geheim.",
+   "bron": [
+    60
+   ],
+   "citaat": "acht het Hof het meer dan denkbeeldig dat medewerkers van de Belastingdienst"
+  },
+  {
+   "zin": "Voor de BSN-nummers zag het hof geen reden voor geheimhouding, omdat het inzenden van stukken een wettelijke plicht is.",
+   "bron": [
+    64
+   ],
+   "citaat": "Omdat het inzenden een wettelijke verplichting is, is deze vorm van verwerking daarmee tevens noodzakelijk"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Namen en codes blijven geheim; BSN-nummers moeten wel worden getoond.",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrijf mag de FSV-screenprints van de bestuurder en zijn partner inzien, maar zonder medewerkerscodes.",
+  "bron": [
+   66
+  ],
+  "citaat": "ook de FSV-screenprints van de gemachtigde en zijn partner over te leggen, met weglating evenwel van de daarin vermelde medewerkerscodes"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "geheimhouding-onterecht",
+   "burger_zegt": "Het bedrijf vindt dat namen en medewerkerscodes in de FSV-stukken niet geheim mogen blijven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof vond dat medewerkers van de Belastingdienst mogelijk gevaar lopen en dat dit zwaarder weegt.",
+    "bron": [
+     60
+    ],
+    "citaat": "acht het Hof het meer dan denkbeeldig dat medewerkers van de Belastingdienst"
+   },
+   "bruikbare_zin": {
+    "citaat": "Vereist is dat voldoende aannemelijk wordt gemaakt dat de mogelijkheid van gevaar in concreto aanwezig is",
+    "bron": [
+     59
+    ]
+   }
+  },
+  {
+   "arg": "geheimhouding-onterecht",
+   "burger_zegt": "Het bedrijf vindt dat de BSN-nummers van de bestuurder en zijn partner niet geheim mogen blijven.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De AVG is geen gewichtige reden, omdat het inzenden van stukken aan de rechter een wettelijke plicht is.",
+    "bron": [
+     64
+    ],
+    "citaat": "Dat betekent dat in de AVG geen gewichtige reden is gelegen voor de beperking van kennisneming"
+   },
+   "bruikbare_zin": {
+    "citaat": "in de AVG geen gewichtige reden is gelegen voor de beperking van kennisneming van de genoemde persoonsgegevens",
+    "bron": [
+     64
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij beperkte kennisneming moet de rechter grootst mogelijke terughoudendheid betrachten.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om beperkte kennisneming van stukken op grond van art. 8:29 Awb",
+  "uitzondering": "Beperking kan wel als de gewichtige redenen aanzienlijk zwaarder wegen dan het belang bij onbeperkte kennisneming.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   46
+  ],
+  "citaat": "bij de toepassing van dit artikellid de grootst mogelijke terughoudendheid dient te worden betracht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "geschoonde en ongeschoonde screenprints van FSV-gegevens"
+  ],
+  "wat_gaf_doorslag": "Het hof achtte het gevaar voor medewerkers meer dan denkbeeldig door de aandacht voor de toeslagenaffaire."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2020:1367",
+   "ECLI:NL:RVS:2018:4318",
+   "ECLI:NL:CRVB:2001:AD5972"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:29 Awb",
+  "art. 8:42 Awb",
+  "art. 8:45 Awb",
+  "art. 8:119 Awb",
+  "art. 6 EVRM",
+  "art. 5 AVG",
+  "art. 6 lid 1 sub c AVG"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Onderbouw een verzoek om namen van medewerkers geheim te houden met concreet gevaar, niet alleen met een algemene verwijzing naar risico's",
+   "raakt": "privacy-fg",
+   "bron": [
+    59
+   ],
+   "citaat": "Vereist is dat voldoende aannemelijk wordt gemaakt dat de mogelijkheid van gevaar in concreto aanwezig is"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "fraude-handhaving",
+  "bezwaar"
+ ],
+ "klantuitleg": "In een rechtszaak mag u in principe alle stukken uit uw dossier zien. De rechter kan een uitzondering maken, bijvoorbeeld om namen van medewerkers te beschermen als zij echt gevaar kunnen lopen. Een BSN-nummer van een betrokken persoon mag niet alleen vanwege de privacyregels geheim blijven.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

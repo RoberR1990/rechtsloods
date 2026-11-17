@@ -1,0 +1,155 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2026:4760",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeert tegen de officier van justitie over twee Wahv-boetes (administratieve verkeersboetes) voor stilstaan op een trottoir. De kantonrechter van de rechtbank Amsterdam doet uitspraak.",
+ "titel": "Parkeren op trottoir: twee boetes blijven staan",
+ "kern": {
+  "zin": "De boetes blijven staan, want de kantonrechter vindt twee boetes voor hetzelfde soort gedrag terecht.",
+  "bron": [
+   39
+  ],
+  "citaat": "Er is terecht een boete opgelegd voor een soortgelijke gedraging"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 1 en 2 september 2024 werd de auto van de parkeerder op het trottoir gezien.",
+   "bron": [
+    20,
+    21,
+    22
+   ],
+   "citaat": "niet de rijbaan is gebruikt door stil te staan op het trottoir"
+  },
+  {
+   "zin": "De parkeerder zegt dat de plek privé terrein is.",
+   "bron": [
+    24
+   ],
+   "citaat": "omdat de vermeende pleeglocatie - kort samengevat - privé terrein is"
+  },
+  {
+   "zin": "De officier van justitie vraagt de rechter om het beroep ongegrond te verklaren.",
+   "bron": [
+    28
+   ],
+   "citaat": "stelt verweerder zich op het standpunt dat het beroep in beide zaken ongegrond dient te worden verklaard"
+  },
+  {
+   "zin": "De kantonrechter vindt dat de plek als openbare weg geldt, ook als het eigen terrein zou zijn.",
+   "bron": [
+    35
+   ],
+   "citaat": "worden aangemerkt als een voor het openbaar verkeer openstaande weg"
+  },
+  {
+   "zin": "De parkeerder krijgt geen vergoeding voor proceskosten.",
+   "bron": [
+    46
+   ],
+   "citaat": "wijst het verzoek om een proceskostenvergoeding in de onderhavige zaken af"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; boetes blijven staan, geen proceskosten",
+ "gevolg_betrokkene": {
+  "zin": "De twee boetes blijven staan, en de parkeerder krijgt geen proceskosten vergoed.",
+  "bron": [
+   41,
+   45
+  ],
+  "citaat": "wordt voor een toekenning van een proceskostenvergoeding"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het trottoir zou privé terrein zijn, dus de regels voor de openbare weg zouden niet gelden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter vindt de plek openbaar, omdat niemand heeft laten zien dat de eigenaar het terrein kenbaar afsloot.",
+    "bron": [
+     35
+    ],
+    "citaat": "Gesteld noch gebleken is dat de rechthebbende zich op kenbare wijze"
+   },
+   "bruikbare_zin": {
+    "citaat": "Gesteld noch gebleken is dat de rechthebbende zich op kenbare wijze",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij zegt dat hij twee keer is beboet voor hetzelfde en geen kans kreeg de auto te verplaatsen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt de tweede boete terecht, omdat niet aannemelijk is dat de auto tussendoor is verplaatst.",
+    "bron": [
+     39
+    ],
+    "citaat": "onvoldoende aannemelijk is geworden dat het voertuig in de tussentijd niet verplaatst is geweest"
+   },
+   "bruikbare_zin": {
+    "citaat": "Er is terecht een boete opgelegd voor een soortgelijke gedraging",
+    "bron": [
+     39
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een boete mag in beginsel op elk moment worden gegeven als een auto verkeerd staat.",
+  "type": "regel",
+  "reikwijdte": "parkeren op een plek waar het niet mag, op elk moment dat dat wordt vastgesteld",
+  "uitzondering": "een voortgezette handeling waarbij een boete niet billijk is",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   38
+  ],
+  "citaat": "kan in beginsel op ieder moment waarop wordt geconstateerd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring verbalisant",
+   "foto's",
+   "zaakoverzichten"
+  ],
+  "wat_gaf_doorslag": "De verklaring van de verbalisant met foto's, en geen aannemelijk bewijs dat de auto was verplaatst."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2001:AA9494"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1 lid 1 sub b WVW 1994",
+  "art. 9 lid 2 sub b Wahv",
+  "art. 2 lid 3 Wahv"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Staat uw auto op een trottoir, dan is dat in de regel niet toegestaan. Zegt u dat het eigen terrein is, dan moet u dat met bewijs laten zien, anders blijft de boete staan. Wilt u een boete betwisten, dan kunt u een beroep doen met bewijs, zoals foto's van borden of een eigendomsbewijs.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,214 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2016:2251",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "moeder en zoon",
+  "wederpartij": "gemeente Gorinchem",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De zoon en zijn moeder wilden hun gegevens in de basisregistratie personen (BRP) laten veranderen. De gemeente Gorinchem weigerde dat, en de Raad van State oordeelde in hoger beroep dat de gemeente dat mocht.",
+ "titel": "Geen wijziging in BRP zonder heel zeker bewijs",
+ "kern": {
+  "zin": "De rechter vindt dat de moeder en zoon niet aannemelijk hebben gemaakt dat zij dezelfde personen zijn als in de nieuwe documenten.",
+  "bron": [
+   35
+  ],
+  "citaat": "niet aannemelijk hebben gemaakt dat zij dezelfde personen zijn"
+ },
+ "samenvatting": [
+  {
+   "zin": "De zoon en zijn moeder vroegen de gemeente om hun persoonsgegevens in de BRP te wijzigen.",
+   "bron": [
+    19
+   ],
+   "citaat": "verzoeken van [appellant A] en [appellant B], zoon onderscheidenlijk moeder, om hun persoonsgegevens in de brp te wijzigen"
+  },
+  {
+   "zin": "Zij overlegden Chinese paspoorten, geboorteaktes en uittreksels om te laten zien dat de oude gegevens fout zijn.",
+   "bron": [
+    24
+   ],
+   "citaat": "Chinese paspoorten, de geboorteaktes met notariële verklaring en de uittreksels uit het woonregister"
+  },
+  {
+   "zin": "De gemeente vond dat daaruit niet zeker bleek dat de gegevens in de BRP onjuist waren.",
+   "bron": [
+    23
+   ],
+   "citaat": "niet onomstotelijk vast komen te staan dat de in de brp opgenomen persoonsgegevens feitelijk onjuist zijn"
+  },
+  {
+   "zin": "De rechtbank en daarna de Raad van State gaven de gemeente gelijk.",
+   "bron": [
+    41
+   ],
+   "citaat": "De rechtbank heeft derhalve met juistheid overwogen dat het college de verzoeken terecht heeft afgewezen."
+  },
+  {
+   "zin": "Het hoger beroep van de moeder en zoon is ongegrond.",
+   "bron": [
+    43
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd."
+  },
+  {
+   "zin": "Zij krijgen geen proceskosten vergoed.",
+   "bron": [
+    44
+   ],
+   "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De gemeente mocht de BRP-gegevens laten staan; het hoger beroep faalt.",
+ "gevolg_betrokkene": {
+  "zin": "De zoon en moeder krijgen geen vergoeding voor proceskosten; hun gegevens in de BRP blijven staan.",
+  "bron": [
+   44,
+   43
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Onze gegevens in de BRP zijn onjuist en moeten worden aangepast.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de moeder en zoon niet aannemelijk hebben gemaakt dat zij dezelfde personen zijn.",
+    "bron": [
+     35
+    ],
+    "citaat": "niet aannemelijk hebben gemaakt dat zij dezelfde personen zijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet aannemelijk hebben gemaakt dat zij dezelfde personen zijn",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De Chinese paspoorten en aktes hebben een hogere rang dan de oude verklaring.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat een hogere rangorde niet helpt als niet vaststaat dat de documenten over dezelfde personen gaan.",
+    "bron": [
+     35
+    ],
+    "citaat": "Dat de overgelegde documenten van een hogere rangorde zijn, maakt dat niet anders"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat de overgelegde documenten van een hogere rangorde zijn, maakt dat niet anders",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De Chinese ambassade heeft onze paspoorten afgegeven, dus de inhoud klopt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat een paspoort van een officiële instantie niet bewijst dat de inhoud ervan juist is.",
+    "bron": [
+     36
+    ],
+    "citaat": "niet dat van de inhoudelijke juistheid daarvan kan worden uitgegaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet dat van de inhoudelijke juistheid daarvan kan worden uitgegaan",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Wij hebben geen belang om onjuiste informatie te geven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat dit de gemeente niet verplichtte om de verzoeken in te willigen.",
+    "bron": [
+     40
+    ],
+    "citaat": "brengt niet met zich dat het college gehouden was hun verzoeken in te willigen"
+   },
+   "bruikbare_zin": {
+    "citaat": "brengt niet met zich dat het college gehouden was hun verzoeken in te willigen",
+    "bron": [
+     40
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor het wijzigen van gegevens die al in de BRP staan, moet onomstotelijk vaststaan dat die gegevens feitelijk onjuist zijn.",
+  "type": "regel",
+  "reikwijdte": "Wijziging van gegevens die al in de BRP staan.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   34
+  ],
+  "citaat": "onomstotelijk moeten vaststaan dat deze feitelijk onjuist zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "Chinese paspoorten",
+   "geboorteaktes met notariële verklaring",
+   "uittreksels uit het woonregister",
+   "IND-onderzoek naar echtheid"
+  ],
+  "wat_gaf_doorslag": "De zoon en moeder maakten niet aannemelijk dat de documenten over hen gingen; daarom stond niet zeker vast dat de BRP-gegevens fout waren."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2016:232"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2.8 lid 2 Wet brp"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij een verzoek om BRP-wijziging of de documenten echt over de verzoeker gaan.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    35
+   ],
+   "citaat": "niet aannemelijk hebben gemaakt dat zij dezelfde personen zijn"
+  },
+  {
+   "actie": "Leg in het besluit vast waarom u de inhoud van buitenlandse documenten niet zeker vindt.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    37
+   ],
+   "citaat": "geen uitspraak kan worden gedaan over de inhoudelijke juistheid"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "De gemeente mag uw gegevens in de BRP (de lijst met persoonsgegevens van de overheid) alleen veranderen als heel zeker is dat ze fout zijn. U moet met de juiste documenten laten zien dat die documenten echt over u gaan. Lukt dat niet, dan blijven de oude gegevens staan en heeft bezwaar op dit punt weinig kans.",
+ "gemeente": "Gorinchem",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

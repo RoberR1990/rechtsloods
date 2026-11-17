@@ -1,0 +1,143 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2023:443",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "maximale-duur",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder) met gemachtigde",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg een boete van € 100 in Amsterdam voor parkeren bij een blauwe streep terwijl de parkeertijd was verstreken. Hij ging in hoger beroep tegen de officier van justitie bij het Gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Boete blauwe zone vervalt: parkeertijd was nog niet verstreken",
+ "kern": {
+  "zin": "Het hof vernietigt de boete, omdat niet is vast te stellen dat de auto al langer dan de toegestane twee uur binnen de geldende uren stond.",
+  "bron": [
+   23
+  ],
+  "citaat": "om 09:13 uur niet worden vastgesteld dat de gedraging is verricht"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete van € 100 voor parkeren bij een blauwe streep terwijl de parkeertijd was verstreken.",
+   "bron": [
+    19
+   ],
+   "citaat": "van € 100,- voor: “motorvoertuig parkeren bij een blauwe streep terwijl toegestane parkeertijd"
+  },
+  {
+   "zin": "De parkeerder zei dat hij zijn auto 's nachts om 04:00 uur had neergezet. De regel gold pas vanaf 09:00 uur (de venstertijd), dus om 09:13 uur kon hij niet twee uur hebben geparkeerd.",
+   "bron": [
+    21
+   ],
+   "citaat": "Binnen de zone is als venstertijd aangegeven 09:00 - 19:00 uur, met een maximale parkeertijd van twee uren."
+  },
+  {
+   "zin": "De officier van justitie baseerde de boete op stukken van een ambtenaar. Die zag om 09:13 uur de parkeerschijf op 4 uur staan.",
+   "bron": [
+    22
+   ],
+   "citaat": "de parkeerschijf die zich in het voertuig achter de voorruit bevond een tijdstip van “4 uur” aangaf"
+  },
+  {
+   "zin": "Het hof vond dat uit de stukken niet blijkt dat de auto meer dan twee uur binnen de venstertijd stond.",
+   "bron": [
+    23
+   ],
+   "citaat": "niet kan worden vastgesteld dat het voertuig van de betrokkene stond geparkeerd bij een blauwe streep"
+  },
+  {
+   "zin": "Het hof vernietigde de boete en de officier van justitie moest de proceskosten betalen.",
+   "bron": [
+    33
+   ],
+   "citaat": "veroordeelt de advocaat-generaal tot het vergoeden van de proceskosten van de betrokkene tot een bedrag van € 1.703,25."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete vernietigd; proceskosten van € 1.703,25 vergoed",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 100 vervalt, een betaalde zekerheidsstelling wordt teruggegeven en de parkeerder krijgt € 1.703,25 aan proceskosten vergoed.",
+  "bron": [
+   31,
+   32,
+   33
+  ],
+  "citaat": "vernietigt de beslissing van de officier van justitie, alsmede de beschikking waarbij onder voormeld CJIB-nummer"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De parkeertijd was nog niet verstreken, want de auto stond er sinds 04:00 uur en de regel gold pas vanaf 09:00 uur.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het hof vond het niet aannemelijk dat de auto er al de dag ervoor om 16:00 uur stond, en er was geen informatie die dat liet zien.",
+    "bron": [
+     23
+    ],
+    "citaat": "niet aannemelijk dat de betrokkene het voertuig de dag daarvoor om 16:00 uur op de parkeerplaats heeft geparkeerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "om 09:13 uur niet worden vastgesteld dat de gedraging is verricht",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een maximale parkeertijd moet de auto langer dan die tijd binnen de geldende uren (venstertijden) hebben gestaan.",
+  "type": "regel",
+  "reikwijdte": "Zones met een maximale parkeertijd en venstertijden, zoals hier twee uur tussen 09:00 en 19:00 uur",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "gedurende een periode van meer dan twee uren binnen de geldende venstertijden geparkeerd heeft gestaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "zaakoverzicht van de ambtenaar",
+   "foto's",
+   "waarneming parkeerschijf op 4 uur",
+   "verklaring van de gemachtigde"
+  ],
+  "wat_gaf_doorslag": "De ambtenaar zag de auto pas om 09:13 uur en er was niets dat liet zien dat de auto al eerder binnen de venstertijd stond."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 11 Wahv",
+  "art. 2 lid 3 Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij een blauwe zone vast dat de auto binnen de geldende uren langer dan de toegestane tijd stond, bijvoorbeeld met een tweede controle later.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    23
+   ],
+   "citaat": "gedurende een periode van meer dan twee uren binnen de geldende venstertijden geparkeerd heeft gestaan"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "scanauto-handhaving",
+  "bezwaar"
+ ],
+ "klantuitleg": "Geldt er een maximale parkeertijd, dan telt alleen de tijd binnen de uren waarop die regel geldt. Stond uw auto er bij de controle pas kort binnen die uren, dan moet de andere kant kunnen laten zien dat u te lang stond, dus zo'n boete kan onterecht zijn. Kreeg u zo'n boete, ga dan in beroep en leg uit hoe laat u parkeerde.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

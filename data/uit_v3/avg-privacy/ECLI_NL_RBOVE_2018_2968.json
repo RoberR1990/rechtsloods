@@ -1,0 +1,153 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2018:2968",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "verzoeker",
+  "wederpartij": "gemeente Wierden",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De vrouw vroeg de gemeente Wierden om haar gegevens in de basisregistratie personen (BRP) te wijzigen. De gemeente weigerde dat en de rechtbank Overijssel beoordeelde haar beroep.",
+ "titel": "Geen wijziging van BRP-gegevens zonder onomstotelijk bewijs",
+ "kern": {
+  "zin": "De rechtbank oordeelt dat niet onomstotelijk vaststaat dat de gegevens in de BRP onjuist zijn.",
+  "bron": [
+   69
+  ],
+  "citaat": "niet voldaan aan de eis dat onomstotelijk moet vaststaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "Volgens de vrouw zijn de eerder opgenomen persoonsgegevens niet correct.",
+   "bron": [
+    32
+   ],
+   "citaat": "De eerder opgenomen persoonsgegevens zijn volgens eiseres niet correct"
+  },
+  {
+   "zin": "Zij zegt dat zij tijdens haar asielaanvraag een valse identiteit heeft aangenomen.",
+   "bron": [
+    32
+   ],
+   "citaat": "zij destijds tijdens haar asielaanvraag een valse identiteit heeft aangenomen"
+  },
+  {
+   "zin": "Bij haar nieuwe verzoek voegde zij een DNA-verwantschapsonderzoek.",
+   "bron": [
+    43
+   ],
+   "citaat": "een rapportage inzake een (DNA)verwantschapsonderzoek"
+  },
+  {
+   "zin": "De gemeente wees het verzoek af omdat niet onomstotelijk vaststond dat de gegevens onjuist zijn.",
+   "bron": [
+    39
+   ],
+   "citaat": "afgewezen omdat niet onomstotelijk vaststaat dat de in de brp"
+  },
+  {
+   "zin": "De rechtbank vond dat zij niet onomstotelijk aantoonde dat zij de gestelde persoon is.",
+   "bron": [
+    68
+   ],
+   "citaat": "niet onomstotelijk is komen vast te staan dat eiseres [naam] is"
+  },
+  {
+   "zin": "De rechtbank verklaart het beroep ongegrond.",
+   "bron": [
+    73
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De gemeente mocht weigeren; beroep ongegrond en geen proceskostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "Haar gegevens in de BRP blijven staan; er komt geen vergoeding voor proceskosten.",
+  "bron": [
+   69,
+   71
+  ],
+  "citaat": "geweigerd de in de brp geregistreerde persoonsgegevens van eiseres te wijzigen"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Mijn gegevens in de BRP zijn onjuist en moeten worden aangepast.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat niet onomstotelijk vaststond dat de gegevens onjuist waren.",
+    "bron": [
+     69
+    ],
+    "citaat": "niet voldaan aan de eis dat onomstotelijk moet vaststaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "onomstotelijk moeten vaststaan dat deze feitelijk onjuist zijn",
+    "bron": [
+     49
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor het wijzigen van gegevens die al in de BRP staan, moet onomstotelijk vaststaan dat die gegevens feitelijk onjuist zijn.",
+  "type": "regel",
+  "reikwijdte": "Wijziging van gegevens die al in de basisregistratie personen staan.",
+  "uitzondering": "Bij bewijsnood in deze zaak hoefde de vrouw niet te bewijzen dat zij niet de oude persoon is.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   49
+  ],
+  "citaat": "onomstotelijk moeten vaststaan dat deze feitelijk onjuist zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "Chinees paspoort",
+   "notariële verklaringen",
+   "DNA-verwantschapsonderzoek",
+   "gezichtsvergelijkend onderzoek"
+  ],
+  "wat_gaf_doorslag": "De rechtbank vond het gezichtsvergelijkend onderzoek niet sluitend; het gaf alleen 'enige steun'."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2017:2799",
+   "ECLI:NL:RVS:2017:580"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2.8 Wet brp"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij bewijsnood niet ook bewijs dat de burger niet de oude persoon is.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    56
+   ],
+   "citaat": "in deze zaak niet noodzakelijk dat eiseres aantoont dat zij niet [naam] is"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Uw gegevens in de basisregistratie personen (BRP) kunnen worden aangepast als u met sterke stukken aantoont dat ze echt onjuist zijn. De gemeente mag weigeren als dat niet zeker vaststaat. Lever bij zo'n verzoek zo sterk mogelijk bewijs over wie u bent en over de link met uw documenten.",
+ "gemeente": "Wierden",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

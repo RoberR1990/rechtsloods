@@ -1,0 +1,142 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2018:10458",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "kentekenhouder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een autobezitter kreeg een boete van € 90 voor parkeren buiten een parkeervak in Utrecht. Hij ging in hoger beroep tegen de officier van justitie bij het gerechtshof.",
+ "titel": "Boete vervalt: parkeerbord gold niet voor deze straat",
+ "kern": {
+  "zin": "De rechter vond dat de borden bij het parkeerterrein niet golden voor de plek waar de auto stond, dus de boete was onterecht.",
+  "bron": [
+   27
+  ],
+  "citaat": "geen werking hebben voor de locatie waar het voertuig van de betrokkene stond geparkeerd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger kreeg als kentekenhouder een boete van € 90 voor parkeren buiten een parkeervak bij een bord E4.",
+   "bron": [
+    20
+   ],
+   "citaat": "een administratieve sanctie van € 90,- opgelegd"
+  },
+  {
+   "zin": "De burger zei dat zijn auto vijf zijstraten verder stond dan het parkeerterrein met de borden.",
+   "bron": [
+    21
+   ],
+   "citaat": "het voertuig stond op een forse afstand van dit parkeerterrein vijf zijstraten verder geparkeerd"
+  },
+  {
+   "zin": "De verbalisant (de handhaver) schreef dat bij elke ingang van het studentencomplex een bord E4 staat.",
+   "bron": [
+    25
+   ],
+   "citaat": "Aan elke ingang is duidelijk zichtbaar een verkeersbord van het model E4 aangebracht"
+  },
+  {
+   "zin": "Het hof zei dat een bord E4 alleen geldt voor het parkeerterrein waar het staat, niet voor een hele zone.",
+   "bron": [
+    27
+   ],
+   "citaat": "slechts gelding heeft voor de parkeergelegenheid waar dit bord geplaatst staat"
+  },
+  {
+   "zin": "Het hof vernietigde de boete en gaf het betaalde zekerheidsbedrag terug.",
+   "bron": [
+    28
+   ],
+   "citaat": "die beslissing en de inleidende beschikking vernietigen"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete vernietigd; geen kostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 90 vervalt en het betaalde zekerheidsbedrag komt terug, maar er is geen vergoeding van proceskosten.",
+  "bron": [
+   28,
+   29
+  ],
+  "citaat": "Het tot zekerheid gestelde bedrag moet worden gerestitueerd"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het bord E4 gold niet op de plek waar zijn auto stond, want die stond vijf zijstraten van het parkeerterrein.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het hof vond dat het bord alleen voor het parkeerterrein zelf gold en niet voor de straat waar de auto stond.",
+    "bron": [
+     27
+    ],
+    "citaat": "Deze locatie kan immers niet worden gerekend tot het parkeerterrein waarbij de bebording E4 is geplaatst"
+   },
+   "bruikbare_zin": {
+    "citaat": "slechts gelding heeft voor de parkeergelegenheid waar dit bord geplaatst staat",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bord E4 geldt alleen voor de parkeergelegenheid waar het staat en heeft geen zonale werking.",
+  "type": "regel",
+  "reikwijdte": "Parkeren in de vakken bij een bord E4 met onderbord, bij een terrein met borden bij de ingangen.",
+  "uitzondering": "Anders als bij de plek zelf ook een bord E4 stond.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "slechts gelding heeft voor de parkeergelegenheid waar dit bord geplaatst staat"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring verbalisant",
+   "foto van de advocaat-generaal",
+   "plattegrond van de burger"
+  ],
+  "wat_gaf_doorslag": "De plattegrond liet zien dat de auto zijstraten verder stond en de verbalisant gaf geen andere gegevens."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 24 lid 4 RVV 1990",
+  "art. 11 Wahv"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet bij elke straat of ingang waar het parkeren in vakken moet, een eigen bord E4; een bord bij een ander terrein geldt niet voor de omgeving.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    27
+   ],
+   "citaat": "wordt vastgesteld dat aan het middels bord E4 aangeduide gebod om in de vakken te parkeren geen zonale werking is toegekend"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een boete voor parkeren buiten het vak is alleen terecht als het bord daar ook echt geldt. Een bord bij een parkeerterrein geldt niet voor straten ver daarvandaan. Denkt u dat het bord niet gold, maak dan bezwaar en stuur een plattegrond of foto's mee.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

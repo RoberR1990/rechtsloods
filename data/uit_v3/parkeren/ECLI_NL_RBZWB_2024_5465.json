@@ -1,0 +1,182 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2024:5465",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Breda een naheffingsaanslag parkeerbelasting van € 59,25. Hij ging daartegen in beroep bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Naheffing te hoog: kosten omlaag, rest bleef staan",
+ "kern": {
+  "zin": "De rechter verlaagde de aanslag, omdat de kosten van de naheffing niet klopten volgens de verordening.",
+  "bron": [
+   32
+  ],
+  "citaat": "Dit betekent dat op basis van de Verordening de heffingsambtenaar € 52,75 in rekening mag brengen."
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 27 januari 2023 stond de auto van de parkeerder in Breda zonder betaalde parkeerbelasting.",
+   "bron": [
+    14,
+    15
+   ],
+   "citaat": "De auto met [kenteken] stond op 27 januari 2023 omstreeks 10:30 uur stil aan de Baronielaan te Breda."
+  },
+  {
+   "zin": "De parkeerder zei dat hij per abuis een verkeerde zone koos, omdat de plek en de instructies in de app onduidelijk waren.",
+   "bron": [
+    27
+   ],
+   "citaat": "de onduidelijke situatie ter plaatse en de onduidelijke instructies in de parkeerapp"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente aannemelijk had gemaakt dat de zone voor de parkeerder duidelijk genoeg was.",
+   "bron": [
+    30
+   ],
+   "citaat": "het voor belanghebbende voldoende duidelijk had kunnen zijn in welke zone"
+  },
+  {
+   "zin": "Volgens de rechter komt een foute zone-invoer in de app voor rekening van de parkeerder.",
+   "bron": [
+    30
+   ],
+   "citaat": "het foutief invoeren van de gebiedscode in de parkeerapp voor rekening en risico"
+  },
+  {
+   "zin": "De rechter zette de kosten van de naheffing lager, omdat de gemeente € 57,75 had gerekend in plaats van € 52,75.",
+   "bron": [
+    32
+   ],
+   "citaat": "Dit betekent dat op basis van de Verordening de heffingsambtenaar € 52,75 in rekening mag brengen."
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Kosten van de naheffing omlaag; de aanslag zelf bleef staan.",
+ "gevolg_betrokkene": {
+  "zin": "De aanslag gaat van € 59,25 naar € 54,25, en de parkeerder krijgt het griffierecht van € 50 terug.",
+  "bron": [
+   39,
+   40,
+   15
+  ],
+  "citaat": "vermindert de naheffingsaanslag parkeerbelasting tot € 54,25"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij koos per abuis de verkeerde zone in de app, en de situatie ter plaatse was onduidelijk.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat het foute invoeren van de zone voor rekening van de parkeerder blijft.",
+    "bron": [
+     30
+    ],
+    "citaat": "het foutief invoeren van de gebiedscode in de parkeerapp voor rekening en risico"
+   },
+   "bruikbare_zin": {
+    "citaat": "Belanghebbende kiest er immers zelf voor om de parkeerbelasting te voldoen via de parkeerapp.",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De naheffing staat niet in verhouding tot de vergissing of het voordeel.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter verandert de hoogte van de naheffing daardoor niet.",
+    "bron": [
+     31
+    ],
+    "citaat": "lijdt niet tot een andere uitkomst"
+   },
+   "bruikbare_zin": {
+    "citaat": "dan moet parkeerbelasting worden voldaan",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De kosten van de naheffing zijn te hoog.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de kosten van € 57,75 niet mochten; het tarief is € 52,75.",
+    "bron": [
+     32
+    ],
+    "citaat": "Dit betekent dat op basis van de Verordening de heffingsambtenaar € 52,75 in rekening mag brengen."
+   },
+   "bruikbare_zin": {
+    "citaat": "Dit betekent dat op basis van de Verordening de heffingsambtenaar € 52,75 in rekening mag brengen.",
+    "bron": [
+     32
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie parkeert, moet zich zelf op de hoogte stellen van het geldende parkeerregime, ook bij gebruik van een parkeerapp.",
+  "type": "regel",
+  "reikwijdte": "betaald parkeren, ook als de parkeerder via een parkeerapp betaalt",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   30
+  ],
+  "citaat": "Uit vaste rechtspraak volgt dat van een weggebruiker mag worden verwacht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "constatering door parkeercontroleurs"
+  ],
+  "wat_gaf_doorslag": "De zone-invoer was fout; de gemeente maakte aannemelijk dat de zone duidelijk genoeg was."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2019:56"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 Gemeentewet",
+  "art. 234 Gemeentewet",
+  "art. 2 Verordening parkeerbelastingen 2023 Breda",
+  "art. 10 Verordening parkeerbelastingen 2023 Breda"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer het tarief van de kosten van de naheffing tegen de tarieventabel voordat de aanslag wordt verstuurd.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    32
+   ],
+   "citaat": "Dit betekent dat op basis van de Verordening de heffingsambtenaar € 52,75 in rekening mag brengen."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een naheffing is terecht als er niet of te weinig is betaald, ook als u de verkeerde zone in de app kiest. In deze zaak bleef de naheffing staan, maar de kosten werden lager. Vindt u de kosten op uw aanslag te hoog, dan kunt u daar bezwaar tegen maken; over de zone heeft bezwaar in deze zaak geen kans gehad.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

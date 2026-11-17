@@ -1,0 +1,181 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2018:1137",
+ "relevant": true,
+ "kenmerk": null,
+ "dubbel_van": null,
+ "reden_gemeente_leeg": null,
+ "reden_leeg_actie": null,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (particulier, met gemachtigde)",
+  "wederpartij": "gemeente Enschede (Gemeentelijk Belastingkantoor Twente)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder in Enschede betaalde via de app, maar vulde een verkeerd kenteken in en kreeg een naheffingsaanslag (een rekening achteraf). De parkeerder ging tegen de gemeente in hoger beroep bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Wel betaald met verkeerd kenteken: rekening vervalt",
+ "kern": {
+  "zin": "De rechter vernietigde de naheffing, omdat de gemeente zelf erkende dat de parkeerder wel had betaald; niet horen had geen gevolg.",
+  "bron": [
+   39
+  ],
+  "citaat": "Nu niet in geschil is dat de naheffingsaanslag ten onrechte is opgelegd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 20 januari 2017 stond de auto in Enschede op een betaalde plek en de parkeerder betaalde via een app, maar met een ander kenteken.",
+   "bron": [
+    17
+   ],
+   "citaat": "heeft zij het kenteken [00-YYY-0] ingevoerd, dus een ander kenteken dan van de auto"
+  },
+  {
+   "zin": "De parkeerder maakte bezwaar en gaf aan dat de parkeerbelasting wel was betaald, met een betalingsbewijs erbij.",
+   "bron": [
+    19
+   ],
+   "citaat": "heeft de gemachtigde vermeld dat belanghebbende de verschuldigde parkeerbelasting heeft voldaan"
+  },
+  {
+   "zin": "De gemeente hoorde de parkeerder niet, ook al had die daarom gevraagd, en verklaarde het bezwaar ongegrond.",
+   "bron": [
+    24,
+    41
+   ],
+   "citaat": "heeft zonder belanghebbende te horen met dagtekening 12 mei 2017 uitspraak op bezwaar gedaan"
+  },
+  {
+   "zin": "Bij de rechtbank gaf de gemeente toe dat de parkeerder waarschijnlijk wel voor deze auto had betaald.",
+   "bron": [
+    37
+   ],
+   "citaat": "heeft verklaard het ervoor te houden dat belanghebbende de parkeerbelasting voor de auto heeft betaald"
+  },
+  {
+   "zin": "Het hof vond dat de gemeente de parkeerder niet had mogen overslaan, maar dat dit niets veranderde aan de uitkomst.",
+   "bron": [
+    42
+   ],
+   "citaat": "dat belanghebbende door het niet-horen niet is benadeeld"
+  },
+  {
+   "zin": "Het hof vernietigde de naheffing en veroordeelde de gemeente in de proceskosten.",
+   "bron": [
+    66
+   ],
+   "citaat": "veroordeelt de heffingsambtenaar in de proceskosten van belanghebbende tot een bedrag van"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd; gemeente betaalt proceskosten en griffierecht.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing vervalt en de gemeente betaalt € 876,75 proceskosten en het griffierecht van € 46 en € 124; kosten van het bezwaar krijgt de parkeerder niet vergoed.",
+  "bron": [
+   66,
+   67,
+   68,
+   51
+  ],
+  "citaat": "veroordeelt de heffingsambtenaar in de proceskosten van belanghebbende tot een bedrag van"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Ik heb wel betaald, maar per ongeluk een verkeerd kenteken ingevoerd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente erkende dat de parkeerder voor de auto had betaald, dus de naheffing was ten onrechte opgelegd.",
+    "bron": [
+     37
+    ],
+    "citaat": "Derhalve is niet in geschil dat de naheffingsaanslag ten onrechte is opgelegd"
+   },
+   "bruikbare_zin": {
+    "citaat": "abusievelijk bij het aanmelden van de auto het kenteken van het voertuig van haar moeder heeft ingevoerd",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De gemeente heeft mij niet gehoord, terwijl ik daarom had gevraagd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente mocht niet aannemen dat de parkeerder niet gehoord wilde worden, maar dat had geen gevolg voor de uitkomst.",
+    "bron": [
+     41
+    ],
+    "citaat": "Door de enkele omstandigheid dat de gemachtigde niet heeft gereageerd op de brief van 14 april 2017"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente moet de kosten van het bezwaar vergoeden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente had normale zorgvuldigheid betracht, omdat zij geen informatie had over de betaling voor deze auto.",
+    "bron": [
+     51
+    ],
+    "citaat": "De heffingsambtenaar beschikte ten tijde van het opleggen van de naheffingsaanslag niet over informatie waaruit volgde dat"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Is niet in geschil dat de naheffing ten onrechte is opgelegd, dan vernietigt de rechter de naheffing zelf en stuurt hij de zaak niet terug naar de gemeente.",
+  "type": "regel",
+  "reikwijdte": "Gemeente erkent dat de naheffing onjuist is; schending van de hoorplicht blijft zonder gevolg als de burger er niet door is benadeeld",
+  "uitzondering": "Een schending van de hoorplicht heeft wel gevolg als de burger daardoor is benadeeld",
+  "herkomst": "wet",
+  "bron": [
+   39
+  ],
+  "citaat": "bestaat het geschil (uiteindelijk) niet uit een eventuele schending van de hoorplicht, maar uit de rechtmatigheid van de opgelegde naheffingsaanslag"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "betalingsbewijs van de parkeerapp"
+  ],
+  "wat_gaf_doorslag": "De gemeente erkende dat de parkeerder wel had betaald, alleen met een verkeerd kenteken."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2010:BM7705"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:41a Awb",
+  "art. 6:22 Awb",
+  "art. 7:15 lid 2 Awb",
+  "art. 6 Verordening parkeerbelastingen 2017 Enschede"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bel de burger op het telefoonnummer uit het bezwaarschrift als om een hoorzitting is gevraagd en een reactie op uw brief uitblijft.",
+   "raakt": "bezwaar",
+   "bron": [
+    41
+   ],
+   "citaat": "Uit het dossier blijkt niet dat de heffingsambtenaar een poging heeft ondernomen om de gemachtigde telefonisch te bereiken"
+  }
+ ],
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "betaalapp",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Heeft u wel betaald maar een verkeerd kenteken ingevoerd, dan kan de rekening achteraf vervallen als de gemeente ziet dat u voor deze auto heeft betaald. Stuur uw betalingsbewijs mee met uw bezwaar en vraag om gehoord te worden. De kosten van het bezwaar krijgt u meestal niet terug.",
+ "gemeente": "Enschede",
+ "zekerheid": "hoog"
+}

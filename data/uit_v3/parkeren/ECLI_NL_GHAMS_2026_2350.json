@@ -1,0 +1,165 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2026:2350",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "invordering",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder, met een gemachtigde",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder gaat in hoger beroep tegen de ambtenaar die namens de gemeente Amsterdam parkeerrekeningen int. Het gerechtshof Amsterdam beslist of de gemeente € 9 kosten voor een betalingsherinnering mocht rekenen. De berichtenbox van MijnOverheid is de digitale brievenbus van de overheid.",
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "nieuw",
+  "eerdere": [
+   "ECLI:NL:HR:2026:734",
+   "ECLI:NL:PHR:2026:152"
+  ]
+ },
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel",
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "gegevens van Logius over plaatsing, melding en openen van het bericht in de berichtenbox"
+  ],
+  "wat_gaf_doorslag": null
+ },
+ "titel": "Geen kosten voor herinnering als e-mailmelding niet vaststaat",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente de € 9 kosten voor de herinnering niet mocht rekenen, omdat niet vaststond naar welk e-mailadres de melding ging.",
+  "bron": [
+   50
+  ],
+  "citaat": "reeds omdat niet bekend is naar welk emailadres de notificatie is verzonden"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder betaalde de naheffingsaanslag (de rekening achteraf voor parkeren) niet en kreeg daarom een herinnering met € 9 kosten van de gemeente Amsterdam.",
+   "bron": [
+    22
+   ],
+   "citaat": "Omdat belanghebbende de naheffingsaanslag niet had betaald, heeft de invorderingsambtenaar hem daartoe bij brief"
+  },
+  {
+   "zin": "De parkeerder had zich aangemeld voor de berichtenbox van MijnOverheid en meldingen per e-mail aangezet.",
+   "bron": [
+    23
+   ],
+   "citaat": "Belanghebbende heeft zich aangemeld voor de berichtenbox MijnOverheid en heeft de notificatiefunctie ingeschakeld"
+  },
+  {
+   "zin": "Hij zegt dat hij geen melding kreeg.",
+   "bron": [
+    23
+   ],
+   "citaat": "Hij stelt met betrekking tot de naheffingsaanslag geen notificatie te hebben ontvangen"
+  },
+  {
+   "zin": "De gemeente vroeg gegevens op bij Logius, de dienst die MijnOverheid beheert, maar die geeft het e-mailadres van de melding niet vrij.",
+   "bron": [
+    24
+   ],
+   "citaat": "De invorderingsambtenaar heeft gegevens opgevraagd bij Logius, de dienst onder beheer van het Ministerie"
+  },
+  {
+   "zin": "De rechter vond dat zonder verstuurde melding geen kosten voor een herinnering mogen worden gerekend, en dat hier niet vaststond naar welk e-mailadres de melding ging.",
+   "bron": [
+    49,
+    50
+   ],
+   "citaat": "geen aanmaningskosten in rekening mogen worden gebracht indien geen notificatie is verstuurd"
+  },
+  {
+   "zin": "De kosten van € 9 vielen weg en de gemeente moest de proceskosten en het griffierecht vergoeden.",
+   "bron": [
+    68,
+    69
+   ],
+   "citaat": "veroordeelt de invorderingsambtenaar in de kosten van belanghebbende tot een bedrag van € 760,20"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Kosten van € 9 vernietigd; proceskosten en griffierecht vergoed",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft de € 9 niet te betalen en krijgt € 760,20 aan proceskosten plus het griffierecht (€ 51 en € 143) terug.",
+  "bron": [
+   68,
+   69,
+   67
+  ],
+  "citaat": "veroordeelt de invorderingsambtenaar in de kosten van belanghebbende tot een bedrag van € 760,20"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij zegt dat hij geen e-mailmelding van MijnOverheid kreeg.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Niet bekend is naar welk e-mailadres de melding ging, dus de verzending is niet zeker.",
+    "bron": [
+     50
+    ],
+    "citaat": "reeds omdat niet bekend is naar welk emailadres de notificatie is verzonden"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet met voldoende mate van zekerheid kan worden vastgesteld dat de notificatie daadwerkelijk is verzonden",
+    "bron": [
+     50
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Heeft een burger MijnOverheid-meldingen aangezet, dan mag de gemeente geen kosten voor een herinnering rekenen als geen melding is verstuurd.",
+  "type": "regel",
+  "reikwijdte": "Aanslagen van vóór 2026 die via de berichtenbox MijnOverheid zijn bekendgemaakt, bij een burger die meldingen had aangezet",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   49
+  ],
+  "citaat": "geen aanmaningskosten in rekening mogen worden gebracht indien geen notificatie is verstuurd"
+ },
+ "wetsartikelen": [
+  "art. 2:17 lid 1 Awb",
+  "art. 3:41 lid 1 Awb",
+  "art. 2:11 lid 2 Awb",
+  "art. 8:75 Awb",
+  "art. 8:108 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer of de e-mailmelding van MijnOverheid aantoonbaar naar het opgegeven e-mailadres is verstuurd, voordat u kosten voor een herinnering rekent.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    50
+   ],
+   "citaat": "reeds omdat niet bekend is naar welk emailadres de notificatie is verzonden"
+  },
+  {
+   "actie": "Leg vast of er problemen waren bij het afleveren van de e-mailmelding.",
+   "raakt": "communicatie",
+   "bron": [
+    50
+   ],
+   "citaat": "Ook is niet bekend of zich bij het afleveren van de notificatie problemen hebben voorgedaan"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "communicatie",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Heeft u zich aangemeld voor de berichtenbox van MijnOverheid en e-mailmeldingen aangezet? Dan mag de gemeente geen € 9 kosten voor een herinnering rekenen als niet vaststaat dat zij u een melding stuurde. Kreeg u zo'n herinnering zonder melding, dan kan bezwaar zin hebben; vraag de gemeente dan om te laten zien dat de melding is verstuurd."
+}

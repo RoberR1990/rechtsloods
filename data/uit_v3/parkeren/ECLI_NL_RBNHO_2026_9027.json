@@ -1,0 +1,150 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2026:9027",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "leaserijder",
+  "wederpartij": "gemeente Zaanstad",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Deze zaak gaat over een naheffing parkeerbelasting voor een leaseauto in Zaandam. Een leaserijder procedeert tegen de gemeente Zaanstad bij de rechtbank Noord-Holland.",
+ "titel": "Naheffing terecht: foto's lieten geen keren zien",
+ "kern": {
+  "zin": "De rechter vond de naheffing terecht, omdat de foto's geen keermanoeuvre lieten zien en de auto dus geparkeerd stond.",
+  "bron": [
+   27
+  ],
+  "citaat": "Naar het oordeel van de rechtbank wijzen deze omstandigheden niet op een keermanoeuvre"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 18 oktober 2025 zag een controleur de auto in een parkeervak en legde hij een aanslag op.",
+   "bron": [
+    18
+   ],
+   "citaat": "De parkeercontroleur heeft vervolgens een naheffingsaanslag parkeerbelasting opgelegd"
+  },
+  {
+   "zin": "Volgens de leaserijder stond hij alleen kort stil om zijn echtgenote te laten uitstappen.",
+   "bron": [
+    21
+   ],
+   "citaat": "hij op 18 oktober 2025 slechts kortstondig heeft stilgestaan om zijn echtgenote te laten uitstappen"
+  },
+  {
+   "zin": "De gemeente zegt dat keren met een auto geen bijzondere verrichting is.",
+   "bron": [
+    22
+   ],
+   "citaat": "Volgens verweerder kan geen sprake zijn van een bijzondere verrichting, zoals het keren van een auto"
+  },
+  {
+   "zin": "De rechter oordeelt dat de auto geparkeerd stond, omdat keren niet aannemelijk werd.",
+   "bron": [
+    27
+   ],
+   "citaat": "kan de rechtbank niet afleiden dat belanghebbende op dat moment bezig was met het keren van zijn auto"
+  },
+  {
+   "zin": "De aanslag blijft staan omdat het beroep ongegrond is.",
+   "bron": [
+    28
+   ],
+   "citaat": "is de naheffingsaanslag terecht opgelegd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; geen vergoeding van proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De aanslag blijft staan en de leaserijder krijgt geen proceskosten vergoed.",
+  "bron": [
+   32,
+   30
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Hij stond maar kort stil om zijn echtgenote te laten uitstappen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat er sprake was van parkeren en niet van een korte stop.",
+    "bron": [
+     27
+    ],
+    "citaat": "De rechtbank is daarom van oordeel dat sprake is geweest van parkeren"
+   },
+   "bruikbare_zin": {
+    "citaat": "Naar het oordeel van de rechtbank wijzen deze omstandigheden niet op een keermanoeuvre",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij was bezig de auto te keren op een smal, doodlopend stuk.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat niet vast staat dat hij op dat moment aan het keren was.",
+    "bron": [
+     27
+    ],
+    "citaat": "kan de rechtbank niet afleiden dat belanghebbende op dat moment bezig was met het keren van zijn auto"
+   },
+   "bruikbare_zin": {
+    "citaat": "Onder deze omstandigheden ligt het op de weg van belanghebbende om aannemelijk te maken",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeren is elk langer stilstaan van een voertuig dan nodig is om in- of uit te stappen of te laden.",
+  "type": "regel",
+  "reikwijdte": "openbare terreinen in de gemeente waar staan niet wettelijk verboden is",
+  "uitzondering": "in- of uitstappen en laden of lossen (direct)",
+  "herkomst": "lokale verordening",
+  "bron": [
+   26
+  ],
+  "citaat": "het gedurende een aaneengesloten periode doen of laten staan van een voertuig"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "foto's van de scanauto",
+   "verklaring van de leaserijder"
+  ],
+  "wat_gaf_doorslag": "Op de foto's stond de auto recht achteruit in het vak, zonder keerbeweging."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2000:AA6508"
+  ]
+ },
+ "wetsartikelen": [
+  "Verordening op de heffing en invordering van Parkeerbelasting Zaanstad 2025 (definitie parkeren)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente won; rechter noemt geen tekortkoming aan de gemeentekant",
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u met de auto keert op een parkeerplek, kan dat toch als parkeren gelden. De rechter vond dat de foto's geen keerbeweging lieten zien. Wilt u aantonen dat u aan het keren was, dan helpt bewijs van die manoeuvre; zonder dat bewijs is de kans klein.",
+ "gemeente": "Zaanstad",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

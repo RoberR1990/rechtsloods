@@ -1,0 +1,153 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2024:193",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "invordering",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Rotterdam kosten voor een aanmaning en een dwangbevel (een officieel bevel om te betalen), nadat hij een naheffingsaanslag (rekening achteraf) niet betaalde. Hij procedeert tegen de gemeente bij het gerechtshof Den Haag.",
+ "titel": "Extra kosten voor aanmaning terecht na bericht via MijnOverheid",
+ "kern": {
+  "zin": "Het hof vindt dat de gemeente de aanslag terecht digitaal in de Berichtenbox van MijnOverheid mocht zetten, omdat de parkeerder zich had aangemeld en dat alleen ongemotiveerd (zonder uitleg) ontkende.",
+  "bron": [
+   36
+  ],
+  "citaat": "De enkele ongemotiveerde betwisting hiervan door belanghebbende is onvoldoende."
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder betaalde de naheffingsaanslag niet op tijd, waarna er kosten voor een aanmaning en een dwangbevel bijkwamen.",
+   "bron": [
+    36
+   ],
+   "citaat": "Nu belanghebbende de naheffingsaanslag niet vóór de vervaldatum van 11 oktober 2020 heeft betaald"
+  },
+  {
+   "zin": "De parkeerder zei dat niet bewezen was dat hij zich bij MijnOverheid had aangemeld.",
+   "bron": [
+    34
+   ],
+   "citaat": "voldoende is gebleken dat hij zich heeft aangemeld bij MijnOverheid"
+  },
+  {
+   "zin": "De gemeente zei dat de status 'verwerkt' op de schermprint laat zien dat de aanslag in de digitale postbus stond, en dat dit alleen na aanmelding kan.",
+   "bron": [
+    35
+   ],
+   "citaat": "de naheffingsaanslag is aangeboden in de digitale postbus van MijnOverheid"
+  },
+  {
+   "zin": "De rechter zag geen reden om aan de gemeente te twijfelen en vond de ontkenning van de parkeerder te mager.",
+   "bron": [
+    36
+   ],
+   "citaat": "Het Hof heeft geen reden te twijfelen aan de stelling van de Invorderingsambtenaar"
+  },
+  {
+   "zin": "De kosten voor de aanmaning (€ 7) en het dwangbevel (€ 43) waren daarom terecht.",
+   "bron": [
+    37
+   ],
+   "citaat": "heeft dus terecht een dwangbevel aan belanghebbende betekend en daarbij eveneens terecht € 43 aan betekeningskosten in rekening gebracht"
+  },
+  {
+   "zin": "Het hof bevestigt de uitspraak van de rechtbank en kent geen proceskosten toe.",
+   "bron": [
+    42,
+    40
+   ],
+   "citaat": "Het Gerechtshof bevestigt de uitspraak van de Rechtbank."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Aanmaningskosten en dwangbevelkosten terecht; uitspraak rechtbank bevestigd",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet € 7 aanmaningskosten en € 43 kosten voor het dwangbevel betalen en krijgt geen proceskosten vergoed.",
+  "bron": [
+   36,
+   37,
+   40
+  ],
+  "citaat": "terecht aangemaand en daarbij eveneens terecht een bedrag van € 7 aan aanmaningskosten in rekening gebracht"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik heb me niet aangemeld voor digitale post, dus de aanslag is niet goed bij mij bekendgemaakt en de kosten zijn niet terecht.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof ging ervan uit dat de parkeerder zich had aangemeld, omdat hij dit alleen zonder uitleg betwistte.",
+    "bron": [
+     36
+    ],
+    "citaat": "De enkele ongemotiveerde betwisting hiervan door belanghebbende is onvoldoende."
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat brengt mee dat de naheffingsaanslag terecht digitaal via de berichtenbox van MijnOverheid aan belanghebbende is bekendgemaakt",
+    "bron": [
+     36
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Staat de aanslag volgens de verzendadministratie in de Berichtenbox van MijnOverheid, dan gaat de rechter ervan uit dat de parkeerder zich daarvoor heeft aangemeld; alleen ontkennen is niet genoeg.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Aanslagen die via de Berichtenbox van MijnOverheid zijn verstuurd, met een schermprint van de verzendadministratie als bewijs",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   36
+  ],
+  "citaat": "Het Hof heeft geen reden te twijfelen aan de stelling van de Invorderingsambtenaar"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "schermprint van de verzendadministratie",
+   "status 'verwerkt' in MijnOverheid"
+  ],
+  "wat_gaf_doorslag": "De parkeerder betwistte de aanmelding alleen zonder uitleg."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 2:14 Awb",
+  "art. 3:41 Awb",
+  "art. 2 Kostenwet",
+  "art. 3 lid 1 Kostenwet",
+  "art. 231 lid 1 Gemeentewet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar bij elke digitale aanslag een schermprint van de verzendadministratie met dagtekening, nummer en status",
+   "raakt": "bezwaar",
+   "bron": [
+    22
+   ],
+   "citaat": "De Invorderingsambtenaar heeft een schermprint van de verzendadministratie overgelegd."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "communicatie",
+  "klantcontact"
+ ],
+ "klantuitleg": "Heeft u zich bij MijnOverheid aangemeld voor berichten van de gemeente, dan mag de gemeente de rekening voor het parkeren daar neerzetten. Betaalt u niet op tijd, dan komen er kosten bij voor de aanmaning en voor het bevel om te betalen. Zegt u dat u zich niet heeft aangemeld, leg dan uit waarom; alleen ontkennen is volgens de rechter niet genoeg.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,154 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2026:11076",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (eigenaar van de auto)",
+  "wederpartij": "gemeente Haarlem",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder betaalde via een parkeerapp, maar voor een andere zone dan waar de auto stond. De gemeente Haarlem legde een naheffing (de rekening achteraf) op; de parkeerder ging in beroep bij de rechtbank Noord-Holland.",
+ "titel": "Naheffing vernietigd: app gaf onvoldoende waarschuwing",
+ "kern": {
+  "zin": "De naheffing ging niet door, omdat de app de parkeerder onvoldoende waarschuwde.",
+  "bron": [
+   27
+  ],
+  "citaat": "Hiermee heeft de app belanghebbende niet volledig en daarom onvoldoende ingelicht"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een scanauto zag op 13 augustus 2025 dat er geen geldig parkeerrecht was.",
+   "bron": [
+    15
+   ],
+   "citaat": "is geconstateerd dat geen geldig parkeerrecht was verkregen"
+  },
+  {
+   "zin": "De parkeerder stond in zone B, maar betaalde via de app het tarief van zone C.",
+   "bron": [
+    16
+   ],
+   "citaat": "heeft via de parkeerapp Tango het parkeertarief van parkeerzone C voldaan"
+  },
+  {
+   "zin": "De gemeente vond dat de parkeerder zelf de zone in de app had gekozen.",
+   "bron": [
+    24
+   ],
+   "citaat": "Verweerder stelt dat belanghebbende zelf de zone op de app heeft geselecteerd"
+  },
+  {
+   "zin": "De rechter zag dat de app niet waarschuwde voor het risico van een verkeerde zone.",
+   "bron": [
+    27
+   ],
+   "citaat": "De rechtbank stelt vast dat de app niet wijst op het risico"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd; gemeente vergoedt griffierecht van € 53",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing vervalt, en de gemeente moet het griffierecht van € 53 aan de parkeerder vergoeden.",
+  "bron": [
+   37,
+   35
+  ],
+  "citaat": "bepaalt dat de heffingsambtenaar het griffierecht van € 53,- aan belanghebbende moet vergoeden"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Zij betaalde via de app, maar de app had een verkeerde zone gekozen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De app had de parkeerder onvoldoende gewaarschuwd voor het risico van een verkeerde zone.",
+    "bron": [
+     27
+    ],
+    "citaat": "Hiermee heeft de app belanghebbende niet volledig en daarom onvoldoende ingelicht"
+   },
+   "bruikbare_zin": {
+    "citaat": "is het niet correct om het risico van een onjuiste betaling van parkeerbelasting bij belanghebbende te leggen",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Zij was te goeder trouw en wilde de belasting wel betalen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter ging ervan uit dat de parkeerder te goeder trouw was.",
+    "bron": [
+     26
+    ],
+    "citaat": "Het moet er dus voor worden gehouden dat belanghebbende mocht menen het goed te doen"
+   },
+   "bruikbare_zin": {
+    "citaat": "belanghebbende mocht menen het goed te doen",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de informatie van een parkeerapp niet betrouwbaar is, komt het risico van een verkeerde zone bij de gemeente.",
+  "type": "regel",
+  "reikwijdte": "betaling via een parkeerapp met een verkeerde zone",
+  "uitzondering": "als de informatie van de app betrouwbaar is, ligt het risico bij de parkeerder",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   24
+  ],
+  "citaat": "dan horen de gevolgen daarvan - zoals het betalen voor een verkeerde parkeerzone"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring van de gemeente over informatie aan parkeerapps",
+   "vergelijkbare zaak op dezelfde plek"
+  ],
+  "wat_gaf_doorslag": "De app waarschuwde niet voor het risico van een verkeerde zone."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2020:1014"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 lid 1 Gemeentewet",
+  "art. 6 lid 1 Verordening op de heffing en invordering van parkeerbelastingen Haarlem 2025"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Stel kwaliteitseisen op aan parkeerapps en laat de zones die zij tonen controleren.",
+   "raakt": "betaalapp",
+   "bron": [
+    25
+   ],
+   "citaat": "Niet bekend is geworden of de gemeente ook kwaliteitseisen heeft geformuleerd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "betaalapp",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Heeft u via een parkeerapp betaald en was de zone in de app fout, dan kan dat bij bezwaar een rol spelen. De rechter vond in deze zaak dat de app de parkeerder te weinig had gewaarschuwd. Bewaar daarom uw betaalbewijs en een screenshot; of dat genoeg is, hangt van uw situatie af.",
+ "gemeente": "Haarlem",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

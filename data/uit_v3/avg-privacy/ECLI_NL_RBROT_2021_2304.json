@@ -1,0 +1,214 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2021:2304",
+ "relevant": true,
+ "onderwerp": "toezicht-handhaving",
+ "sub": "klacht-ap",
+ "kenmerk": null,
+ "zaaktype": "klacht-handhaving-ap",
+ "partijen": {
+  "burger": "de burger",
+  "wederpartij": "Autoriteit Persoonsgegevens",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "De burger diende een klacht in bij de Autoriteit Persoonsgegevens over een organisatie die zijn gegevens liet verwerken door een externe dienst en via een app. De AP wees de klacht af; de burger ging in beroep bij de rechtbank Rotterdam.",
+ "titel": "AP mocht klacht over ledenadministratie en app afwijzen",
+ "kern": {
+  "zin": "De rechtbank oordeelt dat de AP de klacht van de burger terecht ongegrond heeft verklaard, omdat er geen duidelijke overtreding van de AVG was.",
+  "bron": [
+   31
+  ],
+  "citaat": "dat er geen evidente overtreding is van de AVG en dat er geen aanleiding is om de klacht"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger diende op 30 januari 2019 een klacht in bij de AP over een organisatie.",
+   "bron": [
+    18
+   ],
+   "citaat": "Op 30 januari 2019 heeft eiser een klacht ingediend bij verweerder over [naam partij]"
+  },
+  {
+   "zin": "Die organisatie liet haar ledenadministratie automatiseren door DEX Online Services.",
+   "bron": [
+    18
+   ],
+   "citaat": "heeft DEX Online Services ingeschakeld om haar ledenadministratie, met daarin persoonsgegevens van eiser, te automatiseren"
+  },
+  {
+   "zin": "De burger vond dat de organisatie eerst om zijn toestemming had moeten vragen voordat ze zijn gegevens aan DEX Online Services gaf.",
+   "bron": [
+    20
+   ],
+   "citaat": "voordat zijn persoonsgegevens aan DEX Online Services zouden worden verstrekt, eerst nadrukkelijk aan hem om toestemming daarvoor had moeten vragen"
+  },
+  {
+   "zin": "De AP vond dat de organisatie een geldige grondslag had voor de verwerking van de gegevens van de burger.",
+   "bron": [
+    19
+   ],
+   "citaat": "[naam partij] beschikt over een geldige grondslag voor de verwerking van eisers persoonsgegevens"
+  },
+  {
+   "zin": "De rechtbank oordeelt dat de organisatie als verwerkingsverantwoordelijke mocht kiezen om de verwerking uit te besteden aan een verwerker.",
+   "bron": [
+    28
+   ],
+   "citaat": "stond het [naam partij] als verwerkingsverantwoordelijke vrij om te besluiten de persoonsgegevens binnen de organisatie te verwerken"
+  },
+  {
+   "zin": "Het beroep van de burger is ongegrond, dus de afwijzing van zijn klacht blijft staan.",
+   "bron": [
+    33
+   ],
+   "citaat": "Gelet op het voorgaande is het beroep ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De rechter houdt de afwijzing van de klacht door de AP in stand.",
+ "gevolg_betrokkene": {
+  "zin": "De burger houdt geen nieuwe beoordeling van zijn klacht over en krijgt geen proceskostenvergoeding.",
+  "bron": [
+   31,
+   34
+  ],
+  "citaat": "geen aanleiding is om de klacht van eiser nader te onderzoeken"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "geen-wettelijke-grondslag",
+   "burger_zegt": "De organisatie had eerst om toestemming moeten vragen voordat ze mijn gegevens aan DEX Online Services gaf.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank oordeelt dat de organisatie als verwerkingsverantwoordelijke mocht uitbesteden en dat geen aparte toestemming van de burger nodig was.",
+    "bron": [
+     28
+    ],
+    "citaat": "In dat kader bestond er ook geen aanleiding om eiser separaat daarvoor om toestemming te vragen"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen aanleiding om eiser separaat daarvoor om toestemming te vragen",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "ap-onderzoek-onvoldoende",
+   "burger_zegt": "De AP heeft niet goed onderzocht of er een overtreding was, onder meer omdat zij niet naar de definitie van toestemming keek.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vindt dat de AP op goede gronden geen duidelijke overtreding hoefde aan te nemen en de klacht niet verder hoefde te onderzoeken.",
+    "bron": [
+     31
+    ],
+    "citaat": "dat er geen aanleiding is om de klacht van eiser nader te onderzoeken"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen aanleiding is om de klacht van eiser nader te onderzoeken",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "DEX Online Services had als verwerker moeten controleren of de organisatie zich aan de AVG hield.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank oordeelt dat een verwerker geen eigen plicht heeft om te controleren of de verwerkingsverantwoordelijke aan de AVG voldoet.",
+    "bron": [
+     28
+    ],
+    "citaat": "op DEX Online Services als verwerker geen verplichting om zich ervan te vergewissen dat [naam partij]"
+   },
+   "bruikbare_zin": {
+    "citaat": "op DEX Online Services als verwerker geen verplichting",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De organisatie moest kunnen aantonen dat zij de AVG naleeft, en dat ontbrak in het besluit.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank oordeelt dat de AP mocht vinden dat de verantwoordingsplicht was ingevuld met de ondertekende verwerkingsovereenkomst.",
+    "bron": [
+     29
+    ],
+    "citaat": "de ondertekende verwerkingsovereenkomst tussen [naam partij] en DEX Online Services is overgelegd"
+   },
+   "bruikbare_zin": {
+    "citaat": "de ondertekende verwerkingsovereenkomst tussen [naam partij] en DEX Online Services is overgelegd",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Mijn gegevens zijn ook ingevoerd in de YogiBit-app, zonder dat ik daar iets over kon kiezen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank oordeelt dat niet is gebleken dat de gegevens van de burger in de app zijn verwerkt en dat leden vrij zijn om de app te gebruiken.",
+    "bron": [
+     30
+    ],
+    "citaat": "niet is gebleken dat de persoonsgegevens van eiser zijn verwerkt in de YogiBit-app"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet is gebleken dat de persoonsgegevens van eiser zijn verwerkt in de YogiBit-app",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een verwerker kan zich bij de verwerking beroepen op de grondslag van de verwerkingsverantwoordelijke, die verantwoordelijk blijft voor de uitbestede verwerking.",
+  "type": "regel",
+  "reikwijdte": "Bij uitbesteding van persoonsgegevens aan een verwerker op grond van een overeenkomst.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   28
+  ],
+  "citaat": "Dex Online Services kan zich in dat kader beroepen op de grondslag van de verwerkingsverantwoordelijke"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "ondertekende verwerkersovereenkomst",
+   "toelichting van partijen ter zitting"
+  ],
+  "wat_gaf_doorslag": "De ondertekende verwerkersovereenkomst en de uitleg dat de administratie niet meer met een secretaresse haalbaar was."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 4 AVG (definities)",
+  "art. 5 lid 1 en 2 AVG",
+  "art. 6 lid 1 onder a en b AVG",
+  "art. 17 AVG",
+  "art. 28 AVG",
+  "art. 77 AVG"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "ict-informatiebeveiliging"
+ ],
+ "klantuitleg": "Deze uitspraak gaat niet over inzage of correctie van uw gegevens bij de gemeente. De rechter vond dat de Autoriteit Persoonsgegevens (de privacywaakhond) een klacht over een organisatie mocht afwijzen, omdat er geen duidelijke fout was. Bent u het niet eens met hoe de AP uw klacht behandelt, dan kunt u naar de rechter stappen; de rechter kijkt of de AP redelijk heeft gehandeld.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente betrokken; zaak gaat over de AP en een private partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

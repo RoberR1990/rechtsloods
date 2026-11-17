@@ -1,0 +1,176 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2022:12349",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "bestuurder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bestuurder kreeg een boete omdat zijn auto bij een blauwe streep stond zonder zichtbare parkeerschijf. Hij ging tegen die boete in beroep bij de kantonrechter van de rechtbank Noord-Holland; de officier van justitie had de boete opgelegd.",
+ "titel": "Parkeren bij blauwe streep zonder schijf: boete blijft staan",
+ "kern": {
+  "zin": "De kantonrechter vond de boete terecht, omdat de blauwe streep op de foto te zien is en de juiste code is gebruikt.",
+  "bron": [
+   22
+  ],
+  "citaat": "zodat de verbalisant naar het oordeel van de kantonrechter de juiste feitcode heeft gebruikt"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bestuurder kreeg een boete, omdat zijn auto bij de blauwe streep stond zonder zichtbare parkeerschijf.",
+   "bron": [
+    16
+   ],
+   "citaat": "motorvoertuig op meer dan twee wielen parkeren bij blauwe streep terwijl niet is voorzien van een duidelijke geplaatste parkeerschijf"
+  },
+  {
+   "zin": "De bestuurder betwistte de gedraging niet; hij zei dat de schijf van het dashboard was gevallen.",
+   "bron": [
+    18
+   ],
+   "citaat": "stelt dat de parkeerschijf kennelijk van het dashboard is afgevallen"
+  },
+  {
+   "zin": "De officier van justitie had de boete opgelegd, en de bestuurder was het daar niet mee eens.",
+   "bron": [
+    17
+   ],
+   "citaat": "Betrokkene is het niet eens met de beslissing van de officier van justitie"
+  },
+  {
+   "zin": "De kantonrechter vond de boete terecht, want de blauwe streep staat duidelijk op de foto.",
+   "bron": [
+    22
+   ],
+   "citaat": "Op de foto van de gedraging is deze blauwe streep duidelijk te zien"
+  },
+  {
+   "zin": "Volgens de rechter is een matiging van de boete niet overtuigend genoeg, en het beroep is ongegrond.",
+   "bron": [
+    23
+   ],
+   "citaat": "De kantonrechter ziet in hetgeen betrokkene heeft aangevoerd ook geen reden om de boete te matigen"
+  },
+  {
+   "zin": "Er wordt geen vergoeding van proceskosten toegekend.",
+   "bron": [
+    24
+   ],
+   "citaat": "De kantonrechter ziet geen aanleiding om proceskosten toe te kennen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete blijft staan; geen matiging en geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De boete blijft zoals opgelegd, en de bestuurder krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   23,
+   24
+  ],
+  "citaat": "De kantonrechter ziet in hetgeen betrokkene heeft aangevoerd ook geen reden om de boete te matigen"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerschijf is van het dashboard gevallen, dus de bestuurder had hem wel gelegd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter vindt dat de gedraging vaststaat, omdat de bestuurder die niet betwistte.",
+    "bron": [
+     18
+    ],
+    "citaat": "dat de gedraging waarvoor de boete is opgelegd, is verricht"
+   },
+   "bruikbare_zin": {
+    "citaat": "Uit het hoorverslag in het dossier blijkt dat betrokkene de gedraging dan ook niet betwist",
+    "bron": [
+     18
+    ]
+   }
+  },
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Een blauwe streep betekent op zichzelf niets, dus er had een parkeerschijfzone moeten zijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter vindt dat het niet uitmaakt of er een zone is.",
+    "bron": [
+     22
+    ],
+    "citaat": "Het is daarbij niet van belang of er sprake is van een zone"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het is daarbij niet van belang of er sprake is van een zone.",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Er waren meerdere parkeerplaatsen beschikbaar, dus de boete moet lager.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter is een matiging van de boete niet overtuigend genoeg.",
+    "bron": [
+     23
+    ],
+    "citaat": "De kantonrechter ziet in hetgeen betrokkene heeft aangevoerd ook geen reden om de boete te matigen"
+   },
+   "bruikbare_zin": {
+    "citaat": "De kantonrechter ziet in hetgeen betrokkene heeft aangevoerd ook geen reden om de boete te matigen",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Op een blauwe streep moet een motorvoertuig op meer dan twee wielen een duidelijk zichtbare parkeerschijf hebben.",
+  "type": "regel",
+  "reikwijdte": "parkeren van een motorvoertuig op meer dan twee wielen op een blauwe streep",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   21
+  ],
+  "citaat": "is het parkeren van een motorvoertuig op meer dan twee wielen slechts toegestaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van de handhaver",
+   "foto van de gedraging",
+   "hoorverslag"
+  ],
+  "wat_gaf_doorslag": "De foto van de gedraging, waarop de blauwe streep te zien is, gaf de doorslag."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 25 lid 2 en 3 RVV 1990",
+  "art. 9 WAHV",
+  "art. 14 WAHV"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "bezwaar",
+  "bebording-verkeersbesluit"
+ ],
+ "klantuitleg": "Staat uw auto bij een blauwe streep, dan moet er een duidelijk zichtbare parkeerschijf achter de voorruit liggen. Valt die schijf van het dashboard, dan is de boete in de regel toch terecht. Een uitleg over een gevallen schijf heeft in deze zaak niet geholpen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "niet genoemd in de tekst; officier van justitie",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

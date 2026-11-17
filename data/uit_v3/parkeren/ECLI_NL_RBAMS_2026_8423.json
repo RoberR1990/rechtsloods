@@ -1,0 +1,136 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2026:8423",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "bewijs-scanauto",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "kentekenhouder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Het gaat om een parkeerrekening achteraf (de naheffing) in Amsterdam. Een kentekenhouder gaat tegen de gemeente Amsterdam in beroep bij de rechtbank Amsterdam, en zegt dat de auto op de scanfoto niet de zijne is.",
+ "titel": "Parkeerrekening achteraf terecht: afgeplakt kenteken toch herleid",
+ "kern": {
+  "zin": "De rechter vond de rekening terecht, omdat het kenteken via de RDW toch op de auto van de kentekenhouder bleek.",
+  "bron": [
+   20
+  ],
+  "citaat": "De rechtbank oordeelt daarom dat de naheffingsaanslag terecht aan eiser is opgelegd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 24 november 2025 stond een zwarte auto in een parkeervak zonder betaalde parkeerbelasting.",
+   "bron": [
+    15
+   ],
+   "citaat": "Om 19:30 uur heeft een parkeercontroleur van de gemeente Amsterdam geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De kentekenhouder zegt dat de gescande auto niet van hem is.",
+   "bron": [
+    17
+   ],
+   "citaat": "Volgens eiser gaat het niet om (het kenteken van) zijn auto"
+  },
+  {
+   "zin": "De gemeente zegt dat de zichtbare kentekendelen en de voertuigkenmerken genoeg zijn om de auto te herleiden.",
+   "bron": [
+    18
+   ],
+   "citaat": "Desondanks kon het voertuig op basis van de zichtbare kentekendelen"
+  },
+  {
+   "zin": "Er waren 100 kentekencombinaties mogelijk, en de gemeente zocht ze via de openbare RDW-check na.",
+   "bron": [
+    20
+   ],
+   "citaat": "Omdat twee cijfers van het kenteken zijn afgeplakt, zijn er (10x10) 100 combinaties mogelijk"
+  },
+  {
+   "zin": "De rechter verklaarde het beroep ongegrond.",
+   "bron": [
+    24
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de rekening blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De kentekenhouder moet de parkeerrekening betalen en krijgt het griffierecht (het bedrag voor de rechtszaak) niet terug.",
+  "bron": [
+   22
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De gescande auto was niet zijn auto, omdat een deel van het kenteken is afgeplakt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond het bewijs toereikend, omdat de auto via de RDW toch aan hem kon worden gekoppeld.",
+    "bron": [
+     20
+    ],
+    "citaat": "kan het naar het oordeel van de rechtbank niet anders dan dat het gescande voertuig"
+   },
+   "bruikbare_zin": {
+    "citaat": "Andere combinaties betreffen voertuigen van een ander merk, een andere kleur of een kenteken dat niet is uitgegeven",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een deels afgeplakt kenteken kan de gemeente de auto herleiden via zichtbare delen, kenmerken en RDW-gegevens.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "alleen deze zaak: scanfoto met twee afgeplakte cijfers van het kenteken",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   18
+  ],
+  "citaat": "Desondanks kon het voertuig op basis van de zichtbare kentekendelen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "scanfoto's van de scanauto",
+   "RDW-kentekencheck"
+  ],
+  "wat_gaf_doorslag": "De combinatie van zichtbare kentekendelen en voertuigkenmerken maakte de auto herleidbaar."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Leg de gehanteerde zoekslag bij een deels afgeplakt kenteken vast in het dossier.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    20
+   ],
+   "citaat": "Ter zitting heeft de heffingsambtenaar meer uitleg gegeven over de gehanteerde zoekslag"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "scanauto-handhaving",
+  "bezwaar"
+ ],
+ "klantuitleg": "Als op een foto een deel van het kenteken niet te zien is, kan de gemeente de auto toch vinden via andere kenmerken. Staat de auto op uw naam, dan moet u de parkeerrekening betalen, ook als het kenteken niet helemaal leesbaar was. Denkt u dat het niet uw auto was, dan helpt alleen concreet bewijs, zoals een verklaring of een foto waaruit blijkt dat de auto er niet stond.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,146 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2024:6873",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bewoner (aanvrager brommobielvergunning)",
+  "wederpartij": "gemeente Amsterdam (college)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner van Amsterdam vroeg twee keer een parkeervergunning voor een emissieloze brommobiel aan, maar het college weigerde die. Zij ging tegen de weigering in beroep bij de rechtbank Amsterdam.",
+ "titel": "Parkeervergunning brommobiel geweigerd buiten betaald parkeergebied",
+ "kern": {
+  "zin": "De rechtbank oordeelde dat de weigering terecht was, omdat het adres buiten een gebied met vergunningen ligt.",
+  "bron": [
+   25
+  ],
+  "citaat": "het adres [adres] niet is gelegen in een gebied waarbinnen parkeervergunningen kunnen worden verleend"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner vroeg op 2 januari 2023 een parkeervergunning voor een emissieloze brommobiel aan voor een adres in Amsterdam.",
+   "bron": [
+    10
+   ],
+   "citaat": "een aanvraag ingediend voor een parkeervergunning voor emissieloze brommobielen"
+  },
+  {
+   "zin": "Het college weigerde de aanvraag, omdat het adres buiten het betaald parkeren van de gemeente viel.",
+   "bron": [
+    11
+   ],
+   "citaat": "omdat het adres waarvoor de vergunning of parkeerkaart is aangevraagd buiten"
+  },
+  {
+   "zin": "De bewoner vond dat het besluit het gelijkheidsbeginsel schendt, omdat niet alle Amsterdammers zo'n vergunning kunnen krijgen.",
+   "bron": [
+    28
+   ],
+   "citaat": "Het besluit is volgens eiseres in strijd met het gelijkheidsbeginsel"
+  },
+  {
+   "zin": "Volgens de rechtbank zijn de gevallen niet gelijk, dus het gelijkheidsbeginsel is niet geschonden.",
+   "bron": [
+    29
+   ],
+   "citaat": "dat hier geen sprake is van gelijke gevallen"
+  },
+  {
+   "zin": "Ook het verzoek om schadevergoeding werd afgewezen, omdat het besluit niet onrechtmatig was.",
+   "bron": [
+    31
+   ],
+   "citaat": "zal de rechtbank het verzoek om schadevergoeding afwijzen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de weigering blijft staan en geen schadevergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner krijgt het griffierecht niet terug en ook geen vergoeding van de proceskosten.",
+  "bron": [
+   33
+  ],
+  "citaat": "Zij krijgt ook geen vergoeding van haar proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gelijkheid",
+   "burger_zegt": "Bewoners met een vergunning kunnen overal gratis parkeren, terwijl wie buiten het gebied woont elders het dagtarief betaalt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechtbank is er geen sprake van gelijke gevallen.",
+    "bron": [
+     29
+    ],
+    "citaat": "dat hier geen sprake is van gelijke gevallen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het adres van eiseres is niet gelegen in een vergunninggebied en daarmee is haar geval niet gelijk aan het geval van de bewoner wiens adres wel is gelegen in een vergunninggebied",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De regeling moet samen met de Parkeerverordening worden gelezen, en valt onder de vergunning die overal in Amsterdam geldt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat de regelgever bewust koos voor vergunningen alleen in de vergunninggebieden.",
+    "bron": [
+     26
+    ],
+    "citaat": "Het is kennelijk de bedoeling geweest om een regeling te creëren slechts in de gebied waar betaald parkeren geldt"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dit blijkt uit de toelichting bij artikel 5 van de regeling",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als niet aan de voorwaarden van de verordening wordt voldaan, moet een vergunning worden geweigerd en is er geen ruimte voor een belangenafweging.",
+  "type": "regel",
+  "reikwijdte": "parkeervergunningen in Amsterdam waarvoor de Parkeerverordening de voorwaarden stelt",
+  "uitzondering": null,
+  "herkomst": "lokale verordening",
+  "bron": [
+   25
+  ],
+  "citaat": "heeft een dwingendrechtelijk karakter, waardoor het college geen beleids- of beoordelingsvrijheid heeft"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 32 lid 1 Parkeerverordening Amsterdam",
+  "art. 3 lid 1 Regeling Experiment stadsbrede parkeervergunningen emissieloze brommobielen",
+  "art. 8:88 lid 1 onder a Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "bestaand besluit bevestigd; geen actie voor de gemeente uit deze uitspraak",
+ "raakt": [
+  "vergunningen",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een parkeervergunning voor een emissieloze brommobiel krijgt u alleen als uw adres in een gebied met betaald parkeren ligt. Ligt uw adres daarbuiten, dan vindt de rechter de weigering terecht. Het gelijkheidsbeginsel helpt daar volgens de rechter niet tegen, dus bezwaar maken heeft op dit punt weinig kans.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,159 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2023:5954",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente (naam geanonimiseerd)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder meldde zijn auto te laat aan in de parkeer-app, waardoor er een naheffing (de rekening achteraf) volgde. Hij ging in beroep bij de Rechtbank Midden-Nederland tegen de gemeente, omdat de app-storing volgens hem niet voor zijn rekening hoorde.",
+ "titel": "Te laat in de parkeer-app: parkeerrekening blijft staan",
+ "kern": {
+  "zin": "De rechter oordeelde dat de naheffing terecht was, omdat er op het moment van de controle niet betaald was, ook al wilde de parkeerder dat wel.",
+  "bron": [
+   19
+  ],
+  "citaat": "Doorslaggevend is de vraag of er op het moment waarop de naheffingsaanslag is opgelegd feitelijk is betaald voor het parkeren"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 6 juli 2022 stond de auto in een betaalgebied, en om 15:01 uur zag de controleur dat er nog niet was aangemeld.",
+   "bron": [
+    10
+   ],
+   "citaat": "door de parkeercontroleur echter al geconstateerd dat het voertuig niet is aangemeld bij de parkeerautomaat of bij mobiel parkeren"
+  },
+  {
+   "zin": "De parkeerder zei dat de inloggegevens van de app waren verdwenen en dat hij het probeerde aan te melden.",
+   "bron": [
+    15
+   ],
+   "citaat": "Bij het openen van de app waren de inloggegevens verdwenen"
+  },
+  {
+   "zin": "De rechter zei dat de betaaltermijn meteen na het parkeren begint; hier waren dat negen minuten.",
+   "bron": [
+    17,
+    18
+   ],
+   "citaat": "Die redelijke termijn begint direct nadat de auto wordt geparkeerd"
+  },
+  {
+   "zin": "Volgens de rechter telt opzet of schuld niet mee; de bevoegdheid om een naheffing op te leggen hangt daar niet van af.",
+   "bron": [
+    19
+   ],
+   "citaat": "Opzet of schuld zijn bij het niet (tijdig) voldoen van parkeerbelasting echter geen vereiste"
+  },
+  {
+   "zin": "Doorslaggevend was of er op het moment van de naheffing feitelijk betaald was, en dat was niet zo.",
+   "bron": [
+    19
+   ],
+   "citaat": "Doorslaggevend is de vraag of er op het moment waarop de naheffingsaanslag is opgelegd feitelijk is betaald voor het parkeren"
+  },
+  {
+   "zin": "De naheffing was terecht opgelegd, dus het beroep is ongegrond.",
+   "bron": [
+    20
+   ],
+   "citaat": "De naheffingsaanslag is terecht opgelegd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; app-storing komt voor rekening van de parkeerder.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt de nageheven parkeerbelasting van € 3,50 plus € 66,50 aan kosten van de naheffing.",
+  "bron": [
+   11,
+   20
+  ],
+  "citaat": "De nageheven parkeerbelasting bedraagt € 3,50 verhoogd met € 66,50 wegens de kosten van naheffing"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De inloggegevens van de app waren weg, dus hij kon niet op tijd betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter kon een controleur een naheffing opleggen, omdat niemand in de buurt betaalde.",
+    "bron": [
+     18
+    ],
+    "citaat": "een parkeercontroleur pas overgaat tot het opleggen van een naheffingsaanslag"
+   },
+   "bruikbare_zin": {
+    "citaat": "Opzet of schuld zijn bij het niet (tijdig) voldoen van parkeerbelasting echter geen vereiste",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij had wel tijdig geprobeerd aan te melden, met een bericht aan zijn partner.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De parkeerder moet zonder onderbreking bezig zijn met betalen, en dat was hier niet het geval.",
+    "bron": [
+     17,
+     18
+    ],
+    "citaat": "Gedurende die termijn moet de parkeerder onverwijld en ononderbroken handelingen verrichten"
+   },
+   "bruikbare_zin": {
+    "citaat": "Die redelijke termijn begint direct nadat de auto wordt geparkeerd",
+    "bron": [
+     17
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor een naheffing telt niet of de parkeerder wilde betalen; wat telt is of er op dat moment feitelijk was betaald.",
+  "type": "regel",
+  "reikwijdte": "naheffing parkeerbelasting op het moment van opleggen",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   19
+  ],
+  "citaat": "Opzet of schuld zijn bij het niet (tijdig) voldoen van parkeerbelasting echter geen vereiste"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "waarneming van de parkeercontroleur",
+   "WhatsApp-berichten van de parkeerder"
+  ],
+  "wat_gaf_doorslag": "Op het moment van de naheffing was niet betaald; de WhatsApp-berichten veranderden daar niets aan."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 3 Gemeentewet",
+  "art. 225 lid 4 Gemeentewet",
+  "Parkeerverordening (lokaal)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen gemeente-actie uit deze uitspraak; de rechter eist of prijst niets voor de gemeente",
+ "raakt": [
+  "betaalapp",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een naheffing is terecht als er op het moment van de controle niet betaald was, ook als u wel van plan was te betalen. Dat de app niet werkte, telde in deze uitspraak niet als reden, omdat de betaling op dat moment gedaan moest zijn. Heeft u zoiets meegemaakt, dan kunt u bezwaar maken met bewijs van uw betaalpoging, maar de kans hangt af van de precieze feiten.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

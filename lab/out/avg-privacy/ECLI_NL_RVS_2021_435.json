@@ -1,0 +1,189 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2021:435",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "gemeente Weesp",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een inwoner van Weesp wilde zijn naam, geboortedatum en nationaliteit in de BRP (de basisregistratie met persoonsgegevens) laten wijzigen. De gemeente wees dat af en de Raad van State beoordeelt het hoger beroep.",
+ "titel": "Wijziging van BRP-gegevens afgewezen: identiteit niet bewezen",
+ "kern": {
+  "zin": "De rechter vindt dat de gemeente het verzoek terecht afwees, omdat niet kan worden vastgesteld dat de overgelegde documenten bij deze burger horen.",
+  "bron": [
+   28
+  ],
+  "citaat": "niet kan worden vastgesteld dat de overgelegde documenten betrekking hebben op [appellant]"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger werd in 2013 in de BRP ingeschreven op basis van een verklaring onder ede en vroeg in 2018 om andere gegevens.",
+   "bron": [
+    17,
+    18
+   ],
+   "citaat": "Deze gegevens zijn ontleend aan een op 12 juni 2013 door [appellant] bij de gemeente Landgraaf onder ede afgelegde verklaring"
+  },
+  {
+   "zin": "De gemeente wees het verzoek af, omdat met de documenten niet was aangetoond dat hij de persoon in die documenten is.",
+   "bron": [
+    18
+   ],
+   "citaat": "omdat met de overgelegde documenten niet is aangetoond dat [appellant] en [naam B] dezelfde persoon zijn"
+  },
+  {
+   "zin": "De burger vond dat de gemeente te veel gewicht gaf aan de manier waarop de ambassade zijn identiteit had vastgesteld.",
+   "bron": [
+    19
+   ],
+   "citaat": "te veel gewicht hebben toegekend aan de wijze waarop de Nigeriaanse ambassade zijn identiteit heeft vastgesteld"
+  },
+  {
+   "zin": "De Raad van State vindt dat een echt paspoort niet genoeg is, omdat niet duidelijk is hoe de identiteit is vastgesteld.",
+   "bron": [
+    21
+   ],
+   "citaat": "Dat het paspoort authentiek is en op zichzelf bezien een sterke bewijskracht heeft"
+  },
+  {
+   "zin": "Een beroep op artikel 8 van het EVRM helpt niet, omdat hij eerder zonder voorbehoud onder ede de eerdere naam had opgegeven.",
+   "bron": [
+    36
+   ],
+   "citaat": "ongeclausuleerd en onder ede heeft verklaard"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    38
+   ],
+   "citaat": "Het hoger beroep is ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; gegevens in BRP blijven ongewijzigd",
+ "gevolg_betrokkene": {
+  "zin": "De gegevens in de BRP blijven ongewijzigd en er is geen vergoeding van proceskosten.",
+  "bron": [
+   39
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Zijn Nigeriaanse paspoort bewijst wie hij is, dus de BRP-gegevens zijn onjuist.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Ook een echt paspoort bewijst niet genoeg als onduidelijk is hoe de identiteit is vastgesteld.",
+    "bron": [
+     21
+    ],
+    "citaat": "Dat het paspoort authentiek is en op zichzelf bezien een sterke bewijskracht heeft"
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De leeftijdsverklaring en het geboortebewijs hadden meer waarde moeten krijgen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Deze documenten hebben geen foto of biometrie, dus ze zijn niet aan hem te koppelen.",
+    "bron": [
+     28
+    ],
+    "citaat": "Die documenten bevatten geen biometrische gegevens of een foto"
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er zijn voor hem geen andere mogelijkheden om zijn identiteit aan te tonen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Pogingen die tot niets leiden, bewijzen op zichzelf niet dat de BRP-gegevens onjuist zijn.",
+    "bron": [
+     31
+    ],
+    "citaat": "Dat die pogingen tot niets hebben geleid, maakt verder niet dat"
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente had een belangenafweging moeten maken volgens artikel 8 van het EVRM.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Omdat niet met de vereiste zekerheid vaststond dat de gegevens onjuist zijn, kwam de gemeente daar niet aan toe.",
+    "bron": [
+     36
+    ],
+    "citaat": "is het college terecht niet toegekomen aan het maken van de door [appellant] bedoelde belangafweging"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Om gegevens in de BRP te wijzigen moet onomstotelijk vaststaan dat ze feitelijk onjuist zijn, en de burger moet dat bewijzen met de juiste brondocumenten.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om eenmaal in de BRP geregistreerde gegevens te wijzigen",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   20
+  ],
+  "citaat": "onomstotelijk vaststaan dat deze feitelijk onjuist zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "Nigeriaans paspoort",
+   "leeftijdsverklaring",
+   "geboortebewijs"
+  ],
+  "wat_gaf_doorslag": "Het was niet duidelijk hoe de ambassade de identiteit vaststelde, en de andere documenten hadden geen foto of biometrie."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2020:2386"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2.8 lid 2 Wet BRP",
+  "art. 8 EVRM"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij een wijzigingsverzoek of de overgelegde documenten bij de aanvrager horen, bijvoorbeeld via een foto of biometrische gegevens",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    28
+   ],
+   "citaat": "zodat daaruit niet kan worden opgemaakt dat [appellant] en [naam B] dezelfde persoon zijn"
+  },
+  {
+   "actie": "Vraag na hoe een buitenlandse instantie de identiteit heeft vastgesteld voordat u een paspoort als bewijs aanvaardt",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    21
+   ],
+   "citaat": "de wijze waarop de Nigeriaanse ambassade de identiteit van [appellant] heeft vastgesteld van belang is"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Klopt iets niet in de BRP (de basisregistratie met uw persoonsgegevens), dan moet u zelf bewijzen dat het onjuist is, en dat moet met zekerheid. Een echt paspoort is niet genoeg als niet duidelijk is hoe de gegevens daarin zijn vastgesteld en of het stuk bij u hoort. Stukken met een foto of biometrische gegevens kunnen helpen om dat te laten zien.",
+ "gemeente": "Weesp",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

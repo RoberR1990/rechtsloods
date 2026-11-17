@@ -1,0 +1,205 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:5200",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "zoekslag",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "verzoeker",
+  "wederpartij": "Uwv",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Deze zaak gaat over een verzoek om inzage in medische persoonsgegevens bij het Uwv. De burger is het niet eens met de beslissing van het Uwv en ging in hoger beroep bij de Raad van State.",
+ "titel": "Geen extra inzage in medische stukken van Uwv",
+ "kern": {
+  "zin": "De Afdeling bevestigt dat het Uwv geen extra inzage hoefde te geven, omdat niet aannemelijk is dat er nog medische persoonsgegevens in andere stukken zijn.",
+  "bron": [
+   30
+  ],
+  "citaat": "niet aannemelijk gemaakt dat het Uwv nog persoonsgegevens in andere medische stukken heeft verwerkt"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg het Uwv om inzage in zijn medische persoonsgegevens.",
+   "bron": [
+    23
+   ],
+   "citaat": "heeft gevraagd om inzage in zijn door het Uwv verwerkte persoonsgegevens in medische stukken"
+  },
+  {
+   "zin": "Het Uwv had al eerder inzage gegeven en stuurde later een kopie van de medische documenten.",
+   "bron": [
+    23
+   ],
+   "citaat": "heeft bij het besluit van 3 april 2023 een kopie verstrekt van de medische documenten"
+  },
+  {
+   "zin": "De burger vond dat hij niet alle verwerkingen had gekregen.",
+   "bron": [
+    28
+   ],
+   "citaat": "In de kern betoogt [appellant] dat hem ten onrechte geen inzage is gegeven in alle verwerkingen."
+  },
+  {
+   "zin": "De rechtbank en de Afdeling vinden dat de burger niet aannemelijk heeft gemaakt dat er nog medische stukken zijn.",
+   "bron": [
+    30
+   ],
+   "citaat": "De Afdeling kan zich vinden in het oordeel van de rechtbank"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    32
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De Afdeling bevestigt de uitspraak van de rechtbank, voor zover aangevallen."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; het Uwv hoefde geen extra inzage of schadevergoeding te geven.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen schadevergoeding; het Uwv hoeft ook geen proceskosten te betalen.",
+  "bron": [
+   30,
+   33
+  ],
+  "citaat": "bestaat verder geen aanleiding voor schadevergoeding"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Ik heb niet alle medische persoonsgegevens gekregen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger heeft niet aannemelijk gemaakt dat er nog medische persoonsgegevens in andere stukken zijn.",
+    "bron": [
+     30
+    ],
+    "citaat": "niet aannemelijk gemaakt dat het Uwv nog persoonsgegevens in andere medische stukken heeft verwerkt"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet aannemelijk gemaakt dat het Uwv nog persoonsgegevens in andere medische stukken heeft verwerkt",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "Er is niet goed genoeg gezocht; interne notities zijn niet gegeven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De interne notities bevatten geen medische informatie, dus het Uwv hoefde daarin geen inzage te geven.",
+    "bron": [
+     30
+    ],
+    "citaat": "bevatten geen medische informatie, zodat het Uwv daarin geen inzage hoefde te geven"
+   },
+   "bruikbare_zin": {
+    "citaat": "bevatten geen medische informatie, zodat het Uwv daarin geen inzage hoefde te geven",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Ik heb schade door de WIA-procedures en wil schadevergoeding.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er is geen gebrekkige besluitvorming, dus er is geen reden voor schadevergoeding.",
+    "bron": [
+     30
+    ],
+    "citaat": "geen sprake is van gebrekkige besluitvorming, bestaat verder geen aanleiding voor schadevergoeding"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen sprake is van gebrekkige besluitvorming, bestaat verder geen aanleiding voor schadevergoeding",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik wil duidelijkheid over welke stukken in andere procedures zijn gebruikt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het recht op inzage geeft geen recht op duidelijkheid over welke stukken in andere procedures zijn gebruikt.",
+    "bron": [
+     30
+    ],
+    "citaat": "niet het recht op het verkrijgen van duidelijkheid over welke (niet-)medische stukken"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet het recht op het verkrijgen van duidelijkheid over welke (niet-)medische stukken",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ook het niet-medische rapport van 4 maart 2021 moet ik kunnen inzien.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het inzageverzoek in deze procedure ging alleen over medische stukken.",
+    "bron": [
+     30
+    ],
+    "citaat": "het verzoek dat in deze procedure aan de orde is, ziet op inzage in de medische stukken"
+   },
+   "bruikbare_zin": {
+    "citaat": "het verzoek dat in deze procedure aan de orde is, ziet op inzage in de medische stukken",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het recht op inzage geeft geen recht op duidelijkheid over welke stukken in andere procedures zijn gebruikt.",
+  "type": "regel",
+  "reikwijdte": "Bij een inzageverzoek op grond van de AVG.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   30
+  ],
+  "citaat": "niet het recht op het verkrijgen van duidelijkheid over welke (niet-)medische stukken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "interne notities",
+   "inventarislijst van verstrekte kopieën"
+  ],
+  "wat_gaf_doorslag": "De interne notities bevatten geen medische informatie."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 15 AVG",
+  "art. 8:69 Awb",
+  "art. 8:77 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Als u alleen om inzage in medische gegevens vraagt, hoeft de organisatie geen andere stukken te geven. Wilt u ook niet-medische stukken zien, vraag daar dan apart om. Laat daarbij zien welke stukken u nog mist; in deze zaak kreeg de burger geen extra inzage en geen schadevergoeding.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente betrokken; wederpartij is het Uwv",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

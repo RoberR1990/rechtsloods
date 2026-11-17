@@ -1,0 +1,146 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:8032",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg in Breda een naheffing (de rekening achteraf) van 63,95 euro, omdat er niet was betaald. Hij zei dat zijn betaalpas werd geweigerd; de rechtbank Zeeland-West-Brabant vond dat geen reden om de naheffing te laten vervallen.",
+ "titel": "Kapotte betaalautomaat ontslaat parkeerder niet van betalen",
+ "kern": {
+  "zin": "De rechter oordeelde dat een defecte automaat de parkeerder niet van betalen ontslaat, en liet de naheffing staan.",
+  "bron": [
+   23
+  ],
+  "citaat": "Een defecte of onleesbare parkeerautomaat leidt er niet toe dat de parkeerder niet hoeft te betalen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 12 november 2024 controleerde een scanauto de geparkeerde auto in Breda en zag dat er niet was betaald.",
+   "bron": [
+    14,
+    15
+   ],
+   "citaat": "is door middel van een scanauto geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat de betaalpas werd geweigerd en dat de automaat beklad was.",
+   "bron": [
+    21
+   ],
+   "citaat": "dat dit niet mogelijk was omdat zijn betaalpas werd geweigerd"
+  },
+  {
+   "zin": "De gemeente vond dat de parkeerder zelf naar een andere automaat had moeten gaan of een andere betaalmethode had moeten kiezen.",
+   "bron": [
+    22
+   ],
+   "citaat": "Het komt voor rekening en risico van belanghebbende dat hij geen actie heeft ondernomen"
+  },
+  {
+   "zin": "De rechter zei dat een intentie om te betalen niet genoeg is om de naheffing te laten vervallen.",
+   "bron": [
+    25
+   ],
+   "citaat": "kan dit niet tot vernietiging van de naheffingsaanslag leiden"
+  },
+  {
+   "zin": "De rechter wees het beroep af, zodat de naheffing blijft staan zonder vergoeding van griffierecht of proceskosten.",
+   "bron": [
+    27
+   ],
+   "citaat": "Dat betekent dat de naheffingsaanslag in stand blijft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; geen griffierecht en geen proceskosten terug.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing van 63,95 euro betalen en krijgt geen griffierecht of proceskosten terug.",
+  "bron": [
+   27,
+   15
+  ],
+  "citaat": "Dat betekent dat de naheffingsaanslag in stand blijft"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De betaalpas werd geweigerd en de automaat was beklad, dus kon er niet worden betaald.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een kapotte of onleesbare automaat is geen reden om niet te betalen; de parkeerder had elders kunnen betalen.",
+    "bron": [
+     23
+    ],
+    "citaat": "Een defecte of onleesbare parkeerautomaat leidt er niet toe dat de parkeerder niet hoeft te betalen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Een defecte of onleesbare parkeerautomaat leidt er niet toe",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder wilde wel betalen en had alleen een V-pay kaart die niet werd geaccepteerd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Opzet of schuld tellen niet mee; het enkele feit dat niet is betaald, is genoeg voor een naheffing.",
+    "bron": [
+     25
+    ],
+    "citaat": "Opzet of schuld zijn bij de niet-voldoening van parkeerbelasting geen vereiste"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het enkele feit dat geen of te weinig parkeerbelasting is betaald is voldoende",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De parkeerder moet er zelf voor zorgen dat tijdig wordt betaald; een kapotte automaat ontslaat daar niet van.",
+  "type": "regel",
+  "reikwijdte": "parkeren waarbij de betaling niet lukt door een defecte of onleesbare automaat",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "Het behoort tot de verantwoordelijkheid van een parkeerder om ervoor te zorgen dat de verschuldigde parkeerbelasting tijdig"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "scanauto-controle"
+  ],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente wint op de feiten; de rechter legt de gemeente geen extra taak op",
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een naheffing is terecht als u niet op tijd hebt betaald, ook als de automaat kapot was. U had dan op een andere manier moeten betalen, bijvoorbeeld bij een andere automaat of met een app. Bezwaar maken omdat u wel wilde betalen, heeft op dit punt weinig kans.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

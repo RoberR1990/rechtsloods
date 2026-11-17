@@ -1,0 +1,143 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2022:11950",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "invordering",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeerde tegen aanmaningskosten van de gemeente Rotterdam. Bij de rechtbank Rotterdam ging het om de vraag of de naheffingsaanslag via MijnOverheid was verzonden.",
+ "titel": "Aanmaningskosten blijven: aanslag via MijnOverheid verzonden",
+ "kern": {
+  "zin": "De rechtbank oordeelde dat de naheffing via MijnOverheid was verzonden en dat een enkele ontkenning niet genoeg is.",
+  "bron": [
+   22
+  ],
+  "citaat": "De enkele ontkenning van de ontvangst is daarvoor onvoldoende"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente zette de naheffingsaanslag digitaal in de Berichtenbox van MijnOverheid.",
+   "bron": [
+    19
+   ],
+   "citaat": "dat de naheffingsaanslag in de Berichtenbox van eiser op MijnOverheid is geplaatst"
+  },
+  {
+   "zin": "De parkeerder zei dat hij niet bij MijnOverheid was aangemeld en de aanslag pas via de aanmaning kreeg.",
+   "bron": [
+    18
+   ],
+   "citaat": "Eiser stelt dat hij niet voor MijnOverheid is aangemeld"
+  },
+  {
+   "zin": "De gemeente wees op een schermprint uit het systeem van MijnOverheid.",
+   "bron": [
+    19
+   ],
+   "citaat": "wijst in dit verband op de schermprint van het MijnOverheid-systeem van verweerder"
+  },
+  {
+   "zin": "De rechtbank vond dat de gemeente met de verzendgegevens aannemelijk maakte dat de aanslag was verstuurd.",
+   "bron": [
+    22
+   ],
+   "citaat": "verweerder met de overgelegde verzendadministratie aannemelijk heeft gemaakt dat de naheffingsaanslag"
+  },
+  {
+   "zin": "De aanmaningskosten zijn terecht in rekening gebracht, en het beroep is ongegrond.",
+   "bron": [
+    23
+   ],
+   "citaat": "Uit het voorgaande volgt dat verweerder de aanmaningskosten terecht bij eiser in rekening heeft gebracht"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; aanmaningskosten blijven staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt de aanmaningskosten en krijgt geen proceskosten terug.",
+  "bron": [
+   23,
+   24
+  ],
+  "citaat": "Uit het voorgaande volgt dat verweerder de aanmaningskosten terecht bij eiser in rekening heeft gebracht"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij zegt dat hij de aanslag niet ontving, omdat hij niet voor MijnOverheid was aangemeld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond de ontkenning van de ontvangst onvoldoende, omdat er geen andere feiten waren.",
+    "bron": [
+     22
+    ],
+    "citaat": "De enkele ontkenning van de ontvangst is daarvoor onvoldoende"
+   },
+   "bruikbare_zin": {
+    "citaat": "het vorderingsnummer en de dagtekening op de schermprint overeenkomen met die op de naheffingsaanslag",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Eerst moet de gemeente aannemelijk maken dat een aanslag is verzonden; daarna moet de parkeerder feiten geven om de ontvangst te betwijfelen.",
+  "type": "regel",
+  "reikwijdte": "verzending van een naheffingsaanslag, ook via MijnOverheid",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   21
+  ],
+  "citaat": "Verweerder kan daarbij in eerste instantie volstaan met het bewijs van verzending"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verzendadministratie van de gemeente",
+   "schermprint van het MijnOverheid-systeem"
+  ],
+  "wat_gaf_doorslag": "De statuscode 'Verwerkt' en de overeenkomende nummers op de schermprint maakten de verzending aannemelijk."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2006:AZ4416"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 3:41 lid 1 Awb",
+  "art. 2:14 lid 1 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar per aanslag de verzendadministratie en een schermprint met vorderingsnummer en dagtekening.",
+   "raakt": "communicatie",
+   "bron": [
+    22
+   ],
+   "citaat": "het vorderingsnummer en de dagtekening op de schermprint overeenkomen met die"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "communicatie",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "De aanmaningskosten blijven staan als de gemeente aannemelijk maakt dat de aanslag bij u is aangekomen. Wilt u dit betwisten, dan telt alleen een concrete reden, bijvoorbeeld dat u niet bij MijnOverheid was aangemeld en dat u dat kunt aantonen. Alleen zeggen dat u het niet kreeg, is niet genoeg.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

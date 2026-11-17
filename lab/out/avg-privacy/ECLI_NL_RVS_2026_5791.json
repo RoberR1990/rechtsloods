@@ -1,0 +1,181 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:5791",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "fraude-signalering",
+ "kenmerk": "fsv",
+ "zaaktype": "schadevergoeding",
+ "partijen": {
+  "burger": "verzoeker",
+  "wederpartij": "minister van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De verzoeker vroeg de minister van Financiën om schadevergoeding omdat zijn gegevens in de Fraude Signalering Voorziening (FSV) stonden. De Raad van State oordeelt in hoger beroep dat de bestuursrechter daar niet over gaat; de burgerlijke rechter moet beslissen.",
+ "titel": "Bestuursrechter niet bevoegd voor schade door FSV-registratie",
+ "kern": {
+  "zin": "De bestuursrechter mag niet over het schadeverzoek beslissen; de rechtbank heeft zich terecht onbevoegd verklaard.",
+  "bron": [
+   27
+  ],
+  "citaat": "De rechtbank heeft zich dus terecht onbevoegd verklaard om over het verzoek om schadevergoeding te oordelen."
+ },
+ "samenvatting": [
+  {
+   "zin": "De minister van Financiën liet de verzoeker weten dat zijn persoonsgegevens in de FSV stonden.",
+   "bron": [
+    21
+   ],
+   "citaat": "De minister heeft [appellant] laten weten dat zijn persoonsgegevens in de Fraude Signalering Voorziening (FSV) waren geregistreerd."
+  },
+  {
+   "zin": "De verzoeker vroeg schadevergoeding omdat hij materiële en immateriële schade stelt.",
+   "bron": [
+    21
+   ],
+   "citaat": "Hij stelt daardoor materiële en immateriële schade te hebben geleden."
+  },
+  {
+   "zin": "De minister wees het verzoek af, omdat de verzoeker de schade en de hoogte daarvan onvoldoende had onderbouwd.",
+   "bron": [
+    22
+   ],
+   "citaat": "onvoldoende onderbouwd dat hij schade heeft geleden en hoe hoog die schade is"
+  },
+  {
+   "zin": "De rechtbank vond dat de bestuursrechter niet bevoegd was, omdat de FSV-registratie een feitelijke handeling is en geen besluit.",
+   "bron": [
+    24
+   ],
+   "citaat": "Dit is een feitelijke handeling en geen besluit in de zin van artikel 1:3 van de Awb."
+  },
+  {
+   "zin": "De Raad van State bevestigt dat en verklaart het hoger beroep ongegrond.",
+   "bron": [
+    32
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De Afdeling bevestigt de uitspraak van de rechtbank."
+  },
+  {
+   "zin": "De minister hoeft de proceskosten niet te vergoeden.",
+   "bron": [
+    33
+   ],
+   "citaat": "De minister hoeft niet de proceskosten te vergoeden."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Het hoger beroep van de verzoeker is ongegrond; de bestuursrechter is niet bevoegd.",
+ "gevolg_betrokkene": {
+  "zin": "De minister hoeft de proceskosten niet te vergoeden; de verzoeker moet voor zijn schade naar de burgerlijke rechter.",
+  "bron": [
+   33,
+   27
+  ],
+  "citaat": "De minister hoeft niet de proceskosten te vergoeden."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "motivering",
+   "burger_zegt": "De rechtbank heeft niet goed uitgelegd waarom zij onbevoegd is.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Raad van State vond dat de rechtbank terecht heeft beslist dat zij niet over het schadeverzoek mocht oordelen.",
+    "bron": [
+     27
+    ],
+    "citaat": "De rechtbank heeft zich dus terecht onbevoegd verklaard om over het verzoek om schadevergoeding te oordelen."
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank heeft zich dus terecht onbevoegd verklaard om over het verzoek om schadevergoeding te oordelen.",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Ik heb schade door de onrechtmatige registratie in de FSV.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De bestuursrechter kon niet oordelen over de inhoudelijke gronden over de gestelde schade.",
+    "bron": [
+     27
+    ],
+    "citaat": "niet kon oordelen over de gronden van [appellant]die gaan over gestelde geleden schade"
+   },
+   "bruikbare_zin": {
+    "citaat": "Daartoe is de burgerlijke rechter bevoegd.",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De rechtbank had prejudiciële vragen aan het Hof van Justitie moeten stellen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Raad van State vond dat hij niet hoefde te verwijzen naar het Hof van Justitie.",
+    "bron": [
+     30
+    ],
+    "citaat": "De Afdeling is daarom niet gehouden om zich krachtens artikel 267, derde alinea, VWEU tot het Hof te wenden"
+   },
+   "bruikbare_zin": {
+    "citaat": "De Afdeling is daarom niet gehouden om zich krachtens artikel 267, derde alinea, VWEU tot het Hof te wenden",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Over een schadeverzoek wegens een feitelijke handeling zoals een FSV-registratie beslist alleen de burgerlijke rechter.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om schadevergoeding wegens een feitelijke handeling, zoals een FSV-registratie, waar geen besluit aan de orde is.",
+  "uitzondering": "Als de bestuursrechter ook bevoegd is over het beroep tegen de gestelde schadeveroorzakende publiekrechtelijke bevoegdheid zelf.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "Uitsluitend de burgerlijke rechter is bevoegd om over het schadeverzoek te oordelen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "gegevens die de verzoeker had overgelegd"
+  ],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2024:2891",
+   "ECLI:NL:RVS:2025:5890"
+  ]
+ },
+ "wetsartikelen": [
+  "art. V lid 2 Wet nadeelcompensatie en schadevergoeding bij onrechtmatige besluiten",
+  "art. 8:73 Awb (oud)",
+  "art. 1:3 Awb",
+  "art. 267 lid 3 VWEU"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; de uitspraak gaat over de minister van Financiën",
+ "raakt": [
+  "privacy-fg",
+  "fraude-handhaving",
+  "datateam-algoritmes",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Deze uitspraak gaat niet over inzage of correctie, maar over schadevergoeding na een registratie in de Fraude Signalering Voorziening (FSV). De bestuursrechter (de rechter voor besluiten van de overheid) beslist daar niet over; u moet naar de burgerlijke rechter. De minister hoeft de proceskosten niet te betalen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente in de zaak; de minister van Financiën is partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,138 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2025:1613",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "belastingplicht",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bestuurder van het bedrijf",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Dit is een beroep tegen negen naheffingsaanslagen (de rekeningen achteraf) voor parkeerbelasting, die aan een bedrijf zijn opgelegd. Een bestuurder van dat bedrijf procedeerde zelf tegen de gemeente Amsterdam bij de rechtbank Amsterdam.",
+ "titel": "Beroep tegen parkeeraanslagen van bedrijf niet-ontvankelijk",
+ "kern": {
+  "zin": "De rechter vond niet aannemelijk dat de bestuurder de parkeerder was, dus het beroep is niet-ontvankelijk.",
+  "bron": [
+   18,
+   20
+  ],
+  "citaat": "is bovendien niet aannemelijk, omdat een groot aantal mensen gebruik kan maken van de hulpverlenersvergunning"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde negen naheffingsaanslagen op aan een bedrijf met een hulpverleningsvergunning.",
+   "bron": [
+    10,
+    16
+   ],
+   "citaat": "tegen negen aan [bedrijf] opgelegde naheffingsaanslagen in de parkeerbelasting"
+  },
+  {
+   "zin": "De beroepen zijn in naam van de bestuurder ingesteld, niet namens het bedrijf.",
+   "bron": [
+    17
+   ],
+   "citaat": "De beroepen zijn door de gemachtigde"
+  },
+  {
+   "zin": "De gemeente kon niet zien wie de feitelijke parkeerder was of wie de aanslagen betaalde.",
+   "bron": [
+    17
+   ],
+   "citaat": "heeft aangegeven ook niet te kunnen zien wie de feitelijk parkeerder is"
+  },
+  {
+   "zin": "De rechter vond niet aannemelijk dat de bestuurder de parkeerder was, omdat er veel mensen de vergunning gebruiken.",
+   "bron": [
+    18
+   ],
+   "citaat": "omdat een groot aantal mensen gebruik kan maken van de hulpverlenersvergunning"
+  },
+  {
+   "zin": "De beroepen zijn daarom niet-ontvankelijk, dus de rechter bekeek de zaken niet inhoudelijk.",
+   "bron": [
+    20
+   ],
+   "citaat": "De beroepen zijn niet-ontvankelijk. Dat betekent dat de rechtbank de zaken niet inhoudelijk beoordeelt"
+  },
+  {
+   "zin": "De bestuurder krijgt het griffierecht niet terug en ook geen vergoeding van proceskosten.",
+   "bron": [
+    20
+   ],
+   "citaat": "Hij krijgt ook geen vergoeding van zijn proceskosten"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep niet-ontvankelijk; geen griffierecht of kosten terug.",
+ "gevolg_betrokkene": {
+  "zin": "De bestuurder krijgt het griffierecht niet terug en ook geen vergoeding van proceskosten.",
+  "bron": [
+   20
+  ],
+  "citaat": "Hij krijgt ook geen vergoeding van zijn proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij stelde zelf beroep in, namens zichzelf en niet namens het bedrijf.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond niet aannemelijk dat hij de parkeerder was of de aanslagen betaalde.",
+    "bron": [
+     18
+    ],
+    "citaat": "een groot aantal mensen gebruik kan maken van de hulpverlenersvergunning"
+   },
+   "bruikbare_zin": {
+    "citaat": "een groot aantal mensen gebruik kan maken van de hulpverlenersvergunning",
+    "bron": [
+     18
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Alleen wie de aanslag krijgt, de feitelijke parkeerder of wie de aanslag betaalt, kan in beroep tegen een naheffingsaanslag parkeerbelasting.",
+  "type": "regel",
+  "reikwijdte": "beroep tegen een naheffingsaanslag parkeerbelasting",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   15
+  ],
+  "citaat": "degene aan wie de aanslag is opgelegd, de feitelijk parkeerder en degene die de belastingaanslag heeft voldaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "hulpverlenersvergunning van het bedrijf",
+   "gelijke datum en tijdstip van de naheffingen"
+  ],
+  "wat_gaf_doorslag": "Niet aannemelijk dat de bestuurder de parkeerder was of de aanslagen betaalde."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:1 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver procedurele uitspraak",
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Een rekening achteraf voor parkeren kan op naam van een bedrijf staan, terwijl een ander de auto heeft geparkeerd. Wie niet kan aantonen dat hij de parkeerder was of heeft betaald, krijgt van de rechter geen inhoudelijke beoordeling. Heeft u zelf een aanslag gekregen, dan kunt u met bewijs laten zien dat u de parkeerder was of heeft betaald; of dat helpt, is niet zeker.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,146 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2023:1447",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "laadplek",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "kentekenhouder (met gemachtigde)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg een boete van € 95 omdat hij met een auto die niet elektrisch is op een laadplek in Amersfoort stond. Hij procedeerde tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Boete voor niet-elektrische auto op laadplek blijft staan",
+ "kern": {
+  "zin": "Het hof vond de boete terecht: het onderbord met 'opladen elektrische voertuigen' geeft zowel een soort voertuig als een doel aan.",
+  "bron": [
+   30
+  ],
+  "citaat": "de tekst op het onderbord in dit geval zowel een voertuigcategorie (elektrische voertuigen) aanduidt als een doel verbindt"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete van € 95 voor parkeren op een plek voor een bepaalde groep voertuigen terwijl zijn auto daar niet toe hoorde.",
+   "bron": [
+    20
+   ],
+   "citaat": "bij inleidende beschikking een sanctie opgelegd van € 95,- voor"
+  },
+  {
+   "zin": "Zijn gemachtigde zei dat er geen bord E8 stond, dus dat de overtreding niet was gepleegd.",
+   "bron": [
+    21
+   ],
+   "citaat": "Ter plaatse was namelijk geen bord E8 aanwezig"
+  },
+  {
+   "zin": "De auto stond op een parkeerplaats met bord E4 en een onderbord voor het opladen van elektrische voertuigen, en was zelf niet elektrisch.",
+   "bron": [
+    28
+   ],
+   "citaat": "hetgeen werd aangegeven door middel van een bord E4 (parkeergelegenheid) met een onderbord"
+  },
+  {
+   "zin": "Volgens het hof kan de groep voertuigen ook op een onderbord staan, dus een bord E8 is niet nodig.",
+   "bron": [
+    29
+   ],
+   "citaat": "kan de voertuigcategorie waarvoor de betreffende parkeergelegenheid is bestemd namelijk ook worden aangegeven op een onderbord"
+  },
+  {
+   "zin": "Het hof oordeelt nu anders dan eerder: het onderbord noemt zowel een soort voertuig als een doel.",
+   "bron": [
+    30
+   ],
+   "citaat": "Anders dan het hof eerder heeft geoordeeld in vergelijkbare zaken is het hof thans van oordeel"
+  },
+  {
+   "zin": "De ambtenaar mocht kiezen tussen twee overtredingen met hetzelfde bedrag, dus het hof liet de boete zo.",
+   "bron": [
+    31
+   ],
+   "citaat": "heeft een ambtenaar een discretionaire bevoegdheid om te kiezen welke feitcode hij gebruikt"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete van € 95 blijft; geen proceskostenvergoeding",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de boete van € 95 betalen en krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   20
+  ],
+  "citaat": "bij inleidende beschikking een sanctie opgelegd van € 95,- voor"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Er stond geen bord E8 dat de plek voor een groep voertuigen aanwees, dus de overtreding is niet gepleegd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De voertuiggroep mag ook op een onderbord staan, dus een bord E8 is niet nodig.",
+    "bron": [
+     29
+    ],
+    "citaat": "kan de voertuigcategorie waarvoor de betreffende parkeergelegenheid is bestemd namelijk ook worden aangegeven op een onderbord"
+   },
+   "bruikbare_zin": {
+    "citaat": "De stelling van de gemachtigde dat feitcode R397d enkel ziet op een bord E8 vindt geen steun in het recht",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een onderbord 'opladen elektrische voertuigen' geeft een soort voertuig (elektrisch) en een doel (opladen) aan. Dan mag de ambtenaar kiezen tussen de boete voor niet tot de groep behoren (R397d) en voor een ander doel (R397ea).",
+  "type": "regel",
+  "reikwijdte": "Laadplekken met bord E4 en een onderbord voor het opladen van elektrische voertuigen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   30
+  ],
+  "citaat": "de tekst op het onderbord in dit geval zowel een voertuigcategorie (elektrische voertuigen) aanduidt als een doel verbindt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "stukken in het dossier"
+  ],
+  "wat_gaf_doorslag": "Het onderbord noemde zowel elektrische voertuigen als het opladen, en de auto was niet elektrisch."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "wijkt af",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 24 lid 1 onder d RVV 1990",
+  "bord E4 bijlage 1 RVV 1990"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet bij laadplekken een bord E4 met een duidelijk onderbord 'opladen elektrische voertuigen'.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    28
+   ],
+   "citaat": "hetgeen werd aangegeven door middel van een bord E4 (parkeergelegenheid) met een onderbord"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "scanauto-handhaving",
+  "klantcontact"
+ ],
+ "klantuitleg": "Staat u met een auto die niet elektrisch is op een plek met het bord voor het opladen van elektrische auto's, dan kunt u een boete krijgen. Dat geldt ook als er geen apart bord voor een groep voertuigen staat. Bezwaar heeft weinig kans als het onderbord duidelijk zichtbaar was.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij; boete van de officier van justitie, overtreding in Amersfoort",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

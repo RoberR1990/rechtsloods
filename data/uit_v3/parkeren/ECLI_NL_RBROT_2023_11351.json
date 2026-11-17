@@ -1,0 +1,149 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:11351",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffingsaanslag (de rekening achteraf) omdat zij voor de verkeerde zone had betaald. Zij ging daartegen in beroep bij de rechtbank Rotterdam, tegen de gemeente Rotterdam.",
+ "titel": "Verkeerde zone in de parkeerapp: de parkeerder moet zelf controleren",
+ "kern": {
+  "zin": "De rechtbank hield de rekening overeind: een verkeerd aangemelde zone komt voor rekening van de parkeerder.",
+  "bron": [
+   24
+  ],
+  "citaat": "Het onjuist aanmelden komt dus voor rekening en risico van de parkeerder."
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 6 april 2023 zag een controleur de auto in zone 10 staan zonder betaling.",
+   "bron": [
+    20
+   ],
+   "citaat": "een parkeercontroleur heeft geconstateerd dat de auto van eiseres"
+  },
+  {
+   "zin": "De parkeerder zei dat zij in zone 611 had gestaan en daar ook voor had betaald.",
+   "bron": [
+    21
+   ],
+   "citaat": "Eiseres stelt te hebben geparkeerd in zone 611, waarvoor zij ook heeft betaald."
+  },
+  {
+   "zin": "De gemeente vond dat de plek in zone 10 lag en gebruikte het scanauto-rapport als bewijs.",
+   "bron": [
+    22
+   ],
+   "citaat": "Verweerder is van oordeel dat de locatie waar eiseres geparkeerd heeft valt in zone 10"
+  },
+  {
+   "zin": "De rechtbank ging uit van het standpunt van de gemeente, omdat de parkeerder het rapport niet betwistte.",
+   "bron": [
+    23
+   ],
+   "citaat": "Eiseres heeft deze vaststelling volgend uit het HAS-rapport niet betwist."
+  },
+  {
+   "zin": "De rechter vond dat de parkeerder zelf moest nagaan of de juiste zone was ingesteld.",
+   "bron": [
+    24
+   ],
+   "citaat": "lag het op haar weg om te controleren of de parkeeractie werd gestart voor juiste zone"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Aanslag blijft staan; beroep ongegrond, geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder blijft de rekening achteraf (naheffingsaanslag) verschuldigd en krijgt geen proceskosten vergoed.",
+  "bron": [
+   25,
+   26
+  ],
+  "citaat": "Het beroep is ongegrond."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Zij had wel betaald, maar voor zone 611, en de app vulde die zone automatisch in.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Ook als de app de zone zelf invult, blijft de parkeerder verantwoordelijk voor de juiste zone.",
+    "bron": [
+     24
+    ],
+    "citaat": "Dit geldt ook wanneer een zone automatisch door een applicatie wordt ingevuld."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het onjuist aanmelden komt dus voor rekening en risico van de parkeerder.",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Zij onderbouwde met foto's van de plek dat zij in zone 611 stond.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank ging uit van de scanauto-gegevens, omdat de parkeerder de vaststelling niet betwistte.",
+    "bron": [
+     23
+    ],
+    "citaat": "Eiseres heeft deze vaststelling volgend uit het HAS-rapport niet betwist."
+   },
+   "bruikbare_zin": {
+    "citaat": "Aan de hand van deze foto’s en coördinaten kan worden vastgesteld dat eiseres stond geparkeerd in zone 10.",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder moet zelf nagaan of de juiste zone is gekozen, ook als de app die zone invult.",
+  "type": "regel",
+  "reikwijdte": "Parkeren waarbij de zone via een parkeerapp wordt aangemeld, ook als de app de zone automatisch invult.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "Volgens vaste rechtspraak heeft een parkeerder een onderzoeksplicht voorafgaand aan het parkeren"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "HAS-rapport met coördinaten",
+   "foto's van de scanauto"
+  ],
+  "wat_gaf_doorslag": "De parkeerder betwistte het HAS-rapport niet."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHAMS:2016:1211"
+  ]
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen eis of verzoek aan de gemeente in deze uitspraak; beroep alleen ongegrond verklaard",
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u via een app betaalt, bent u zelf verantwoordelijk voor de juiste zone. Een verkeerde zone komt ook dan voor uw rekening, en dan blijft de rekening voor het parkeren staan. Controleer daarom voor het betalen het zonenummer op de bebording in de straat.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

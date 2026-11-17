@@ -1,0 +1,243 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "procesvorm": "hoger beroep",
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "toepasselijkheid": "lokale verordening",
+ "ecli": "ECLI:NL:GHDHA:2025:348",
+ "sub": "bewijs-scanauto",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Delft",
+  "gemeente_is_partij": true
+ },
+ "intro": "Een parkeerder ging in hoger beroep bij het gerechtshof Den Haag tegen de gemeente Delft. Het ging om een naheffingsaanslag (een rekening achteraf) voor parkeren zonder betaling, vastgesteld met een scanauto.",
+ "titel": "Scanauto-bewijs telt; privacyfout maakt parkeerrekening niet ongeldig",
+ "kern": {
+  "zin": "De gemeente maakte met scanauto-foto's en gps-gegevens aannemelijk dat de auto zonder betaling stond; een mogelijke fout tegen de privacyregels (AVG) maakt de rekening niet ongeldig.",
+  "bron": [
+   55,
+   59
+  ],
+  "citaat": "is aannemelijk geworden dat de scanauto het kenteken van de auto op"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeercontroleur zag dat de auto geparkeerd stond zonder vergunning en zonder betaling, en de gemeente legde een naheffingsaanslag op.",
+   "bron": [
+    18
+   ],
+   "citaat": "is door de parkeercontroleur geconstateerd dat de auto zonder geldige parkeervergunning geparkeerd stond"
+  },
+  {
+   "zin": "De parkeerder en de gemeente waren het oneens over onder meer het te late stuk, de bevoegdheid, het parkeren zelf, de AVG en de duur van de procedure.",
+   "bron": [
+    36,
+    41
+   ],
+   "citaat": "de Rechtbank belanghebbendes stukken die zij binnen de tiendagentermijn heeft ontvangen terecht buiten beschouwing heeft gelaten"
+  },
+  {
+   "zin": "De rechter vond dat de gegevens van een scanauto met gps als bewijs mogen worden gebruikt.",
+   "bron": [
+    54
+   ],
+   "citaat": "niets in de weg staat aan het gebruik van deze apparatuur en de daarmee verkregen gegevens als bewijs"
+  },
+  {
+   "zin": "De foto's en gps-gegevens in het dossier waren genoeg, want de parkeerder bracht geen feiten in waardoor dat bewijs betwijfeld moest worden.",
+   "bron": [
+    55
+   ],
+   "citaat": "belanghebbende geen feiten of omstandigheden heeft aangevoerd op grond waarvan het door de Heffingsambtenaar aangevoerde bewijs betwijfeld moet worden"
+  },
+  {
+   "zin": "Een mogelijke schending van de AVG kan niet leiden tot het vernietigen van een rekening die op zichzelf terecht is opgelegd.",
+   "bron": [
+    59
+   ],
+   "citaat": "in strijd is met de AVG, niet kan leiden tot een vernietiging van de"
+  },
+  {
+   "zin": "De procedure had niet te lang geduurd, dus er kwam geen schadevergoeding.",
+   "bron": [
+    64
+   ],
+   "citaat": "De redelijke termijn is aldus niet overschreden"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Rekening blijft; AVG-klacht en schadeverzoek falen.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffingsaanslag blijft staan en de parkeerder krijgt geen schadevergoeding en geen proceskostenvergoeding.",
+  "bron": [
+   71,
+   69,
+   65
+  ],
+  "citaat": "Het Gerechtshof bevestigt de uitspraak van de Rechtbank"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De parkeerder betwistte dat hij op die plek had geparkeerd zonder te betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De parkeerder noemde geen feiten waaruit bleek dat er geen sprake was van parkeren.",
+    "bron": [
+     55
+    ],
+    "citaat": "geen feiten en omstandigheden aangevoerd waaruit volgt dat geen sprake was van parkeren"
+   },
+   "bruikbare_zin": {
+    "citaat": "niets in de weg staat aan het gebruik van deze apparatuur en de daarmee verkregen gegevens als bewijs",
+    "bron": [
+     54
+    ]
+   }
+  },
+  {
+   "arg": "privacy-kenteken",
+   "burger_zegt": "De parkeerder zei dat zijn gegevens zonder recht en zonder toestemming waren uitgewisseld, wat in strijd met de AVG zou zijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter liet in het midden of de AVG was geschonden, omdat dat de rekening niet ongedaan maakt.",
+    "bron": [
+     59
+    ],
+    "citaat": "in strijd is met de AVG, niet kan leiden tot een vernietiging van de"
+   },
+   "bruikbare_zin": {
+    "citaat": "in strijd is met de AVG, niet kan leiden tot een vernietiging van de",
+    "bron": [
+     59
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder vond dat de rechtbank zijn stuk niet buiten beschouwing mocht laten, omdat hij het op tijd had verstuurd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het gaat om de datum waarop de rechtbank het stuk ontving, niet om de verzenddatum.",
+    "bron": [
+     46
+    ],
+    "citaat": "is niet de datum van verzending beslissend voor de vraag of stukken binnen de tiendagentermijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "maar de datum van ontvangst van die stukken door de Rechtbank",
+    "bron": [
+     46
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder vond dat de rekening niet door een bevoegde persoon was opgelegd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De directeur van het bedrijf dat de naheffing afhandelt was door het college aangewezen als ambtenaar voor de heffing.",
+    "bron": [
+     48,
+     49
+    ],
+    "citaat": "aangewezen als ambtenaar belast met de heffing en invordering van parkeerbelasting in de gemeente Delft"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat de naheffingsaanslag is opgelegd door de gemeenteambtenaar, belast met de heffing van gemeentelijke belastingen, van de gemeente Delft",
+    "bron": [
+     49
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder vond dat de zaak te lang duurde en wilde schadevergoeding.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter rekende de termijnen na en vond dat de redelijke termijn niet was overschreden.",
+    "bron": [
+     64
+    ],
+    "citaat": "De redelijke termijn is aldus niet overschreden"
+   },
+   "bruikbare_zin": {
+    "citaat": "de bezwaarfase onredelijk lang heeft geduurd voor zover de duur daarvan een half jaar overschrijdt",
+    "bron": [
+     62
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Verwerkt de gemeente kentekengegevens in strijd met de AVG, dan leidt dat niet tot het vernietigen van een naheffingsaanslag die op zichzelf terecht is opgelegd.",
+  "type": "regel",
+  "reikwijdte": "Verwerking van kentekengegevens bij een op zichzelf terecht opgelegde naheffingsaanslag parkeerbelasting",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   59
+  ],
+  "citaat": "in strijd is met de AVG, niet kan leiden tot een vernietiging van de"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "twaalf foto's van de scanauto",
+   "gps-coördinaten van het gescande kenteken",
+   "kaart met de locatie van de auto",
+   "foto van bord en parkeerautomaat"
+  ],
+  "wat_gaf_doorslag": "Foto's en gps-gegevens van de scanauto lieten zien dat de auto er stond, en de parkeerder bracht daar niets tegenin."
+ },
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2021:1748",
+   "ECLI:NL:HR:2016:252"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 231 Gemeentewet",
+  "art. 225 Gemeentewet",
+  "art. 8:58 lid 1 Awb",
+  "art. 43 Wegenverkeerswet 1994",
+  "art. 8 EVRM",
+  "AVG",
+  "art. 1 onderdeel m Parkeerverordening Delft 2020"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij elke naheffing de gps-gegevens, de scanauto-foto's en de kaartlocatie vast in het dossier.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    55
+   ],
+   "citaat": "de gps-coördinaten van het gescande kenteken, de door de scanauto gemaakte foto’s"
+  },
+  {
+   "actie": "Vermeld op het aanslagbiljet dat het bedrijf de naheffing namens de gemeente afhandelt.",
+   "raakt": "bezwaar",
+   "bron": [
+    49
+   ],
+   "citaat": "de naheffingen parkeerbelasting afhandelt namens de gemeente Delft"
+  }
+ ],
+ "raakt": [
+  "bezwaar",
+  "scanauto-handhaving",
+  "privacy-woo",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een rekening achteraf voor parkeren blijft staan als de gemeente met foto's en gps-gegevens van de scanauto laat zien dat uw auto daar stond zonder betaling. Een fout tegen de privacyregels maakt de rekening volgens deze rechter niet ongeldig. Had u wel betaald, of was u een kaartje aan het kopen, laat dat dan in uw bezwaar zien met bewijs.",
+ "gemeente": "Delft",
+ "zekerheid": "middel"
+}

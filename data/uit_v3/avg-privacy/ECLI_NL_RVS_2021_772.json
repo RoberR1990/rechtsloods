@@ -1,0 +1,168 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2021:772",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "wissen",
+ "kenmerk": null,
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "verzoeker",
+  "wederpartij": "gemeente Gemert-Bakel",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De burger vroeg de gemeente Gemert-Bakel om een zin over hem van het VNG-Forum te verwijderen en om schadevergoeding. De gemeente weigerde; nu behandelt de Raad van State het hoger beroep.",
+ "titel": "Forumzin hoeft niet weg: burger is niet herkenbaar",
+ "kern": {
+  "zin": "De burger is niet herkenbaar aan de gegevens in het forumtopic, oordeelt de Raad van State.",
+  "bron": [
+   37
+  ],
+  "citaat": "is hij niet identificeerbaar op grond van de gegevens die zijn geplaatst"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een medewerker van de gemeente plaatste in 2017 een bericht op het VNG-Forum.",
+   "bron": [
+    20
+   ],
+   "citaat": "een medewerker van het college op 3 augustus 2017 de volgende tekst heeft geplaatst in een topic op het VNG-Forum"
+  },
+  {
+   "zin": "De burger vindt dat de gemeente zijn persoonsgegevens onrechtmatig heeft gebruikt.",
+   "bron": [
+    24
+   ],
+   "citaat": "Deze verwerking van zijn persoonsgegevens is volgens [appellant] onrechtmatig."
+  },
+  {
+   "zin": "De gemeente zei dat de zin geen persoonsgegevens bevat en weigerde te wissen en schade te betalen.",
+   "bron": [
+    26
+   ],
+   "citaat": "de door [appellant] bedoelde zinsnede op het VNG-Forum geen persoonsgegevens bevat"
+  },
+  {
+   "zin": "De Raad van State vindt dat de combinatie van gegevens niet specifiek genoeg is om de burger te herkennen.",
+   "bron": [
+    37
+   ],
+   "citaat": "Het beeld dat de combinatie van die gegevens oplevert, is daarvoor niet specifiek genoeg."
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond.",
+   "bron": [
+    40
+   ],
+   "citaat": "Het hoger beroep is ongegrond."
+  },
+  {
+   "zin": "Er is geen vergoeding voor proceskosten.",
+   "bron": [
+    41
+   ],
+   "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De rechter bevestigt: geen persoonsgegevens, dus geen verwijdering en geen schade.",
+ "gevolg_betrokkene": {
+  "zin": "De weigering blijft staan: geen verwijdering, geen schadevergoeding en geen proceskostenvergoeding.",
+  "bron": [
+   40,
+   41
+  ],
+  "citaat": "Het hoger beroep is ongegrond."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wissen-geen-grondslag",
+   "burger_zegt": "De gemeente heeft mijn persoonsgegevens onrechtmatig gebruikt; de zin moet daarom weg.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Raad van State vindt dat de burger niet herkenbaar is aan de gegevens in het topic.",
+    "bron": [
+     37
+    ],
+    "citaat": "is hij niet identificeerbaar op grond van de gegevens die zijn geplaatst"
+   },
+   "bruikbare_zin": {
+    "citaat": "is hij niet identificeerbaar op grond van de gegevens die zijn geplaatst",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Ik heb schade door het onrechtmatige gebruik en wil vergoeding.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter wijst de schadevergoeding af.",
+    "bron": [
+     40
+    ],
+    "citaat": "Het hoger beroep is ongegrond."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het hoger beroep is ongegrond.",
+    "bron": [
+     40
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "In dit topic is de combinatie van gegevens niet specifiek genoeg om de burger te herkennen.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Deze forumtekst en dit topic",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   37
+  ],
+  "citaat": "Het beeld dat de combinatie van die gegevens oplevert, is daarvoor niet specifiek genoeg."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "de berichten in het topic op het VNG-Forum"
+  ],
+  "wat_gaf_doorslag": "De combinatie van gegevens in het topic was niet specifiek genoeg."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:RVS:2020:900"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 17 lid 1 onder d AVG",
+  "art. 82 AVG",
+  "art. 4 lid 1 onder 1 AVG",
+  "art. 1 onder a Wbp"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Betrek bij een verzoek om gegevens te wissen ook de eerdere berichten en de context.",
+   "raakt": "privacy-fg",
+   "bron": [
+    36
+   ],
+   "citaat": "ten onrechte geen rekening heeft gehouden met de context waarin het bericht van het college is geplaatst"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "communicatie"
+ ],
+ "klantuitleg": "Als u vraagt om een bericht over u te verwijderen, moet de gemeente eerst kijken of u echt te herkennen bent in dat bericht. In deze zaak vond de rechter dat niet: anderen konden u niet aan de tekst herkennen. Daarom hoeft de gemeente de zin niet weg te halen en krijgt u geen vergoeding.",
+ "gemeente": "Gemert-Bakel",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

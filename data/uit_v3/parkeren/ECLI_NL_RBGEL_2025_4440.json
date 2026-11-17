@@ -1,0 +1,160 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBGEL:2025:4440",
+ "relevant": true,
+ "onderwerp": "parkeernormen",
+ "sub": "parkeernorm-toets",
+ "kenmerk": null,
+ "zaaktype": "omgevingsrecht",
+ "partijen": {
+  "burger": "de burgers die tegen de vergunning zijn (eisers)",
+  "wederpartij": "gemeente Wageningen",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De burgers gaan in beroep tegen de omgevingsvergunning die het college van Wageningen verleende voor een pand dat een coffeeshop wordt. De rechtbank Gelderland oordeelt over het bestemmingsplan, de welstand en de parkeerbehoefte.",
+ "titel": "Vergunning coffeeshop blijft staan; parkeerbehoefte gelijk",
+ "kern": {
+  "zin": "De rechter wees de beroepen af, omdat een coffeeshop onder detailhandel valt en de parkeerbehoefte gelijk blijft.",
+  "bron": [
+   39,
+   53
+  ],
+  "citaat": "De rechtbank oordeelt dat een coffeeshop binnen de definitie van detailhandel valt"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het college van Wageningen gaf een vergunning om een pand te verbouwen voor een coffeeshop.",
+   "bron": [
+    18
+   ],
+   "citaat": "een aan de derde-partij verleende omgevingsvergunning voor het verbouwen van een pand"
+  },
+  {
+   "zin": "De burgers vonden dat een coffeeshop onder horeca valt, en dus niet in het bestemmingsplan past.",
+   "bron": [
+    34
+   ],
+   "citaat": "Het bestemmingsplan sluit horeca in het pand uit"
+  },
+  {
+   "zin": "De burgers vonden ook dat het college de extra parkeerbehoefte onvoldoende had onderzocht.",
+   "bron": [
+    46
+   ],
+   "citaat": "de parkeerbehoefte als gevolg van de verleende omgevingsvergunning onvoldoende is onderzocht door het college"
+  },
+  {
+   "zin": "De rechter zag dat het college de parkeerbehoefte had getoetst aan de parkeernota uit 2015.",
+   "bron": [
+    48
+   ],
+   "citaat": "door het college is getoetst aan de “Nota Parkeernormen [plaats] 2015”"
+  },
+  {
+   "zin": "De rechter vond dat alleen de toename telt, en die was er niet: oud en nieuw vragen elk drie parkeerplekken.",
+   "bron": [
+    49,
+    52
+   ],
+   "citaat": "uitsluitend de toename ten opzichte van de oude situatie gerealiseerd behoeft te worden"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroepen ongegrond; vergunning blijft, geen proceskosten of griffierecht.",
+ "gevolg_betrokkene": {
+  "zin": "De vergunning blijft staan, en de burgers krijgen geen griffierecht of proceskosten terug; de schadevergoeding komt uit de andere uitspraken.",
+  "bron": [
+   58,
+   56
+  ],
+  "citaat": "Eisers krijgen daarom het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "parkeernorm-onvoldoende",
+   "burger_zegt": "De parkeerbehoefte is niet goed onderzocht; er komt extra parkeren bij.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De parkeerbehoefte blijft gelijk ten opzichte van de oude situatie.",
+    "bron": [
+     53
+    ],
+    "citaat": "Uit de voorgaande berekening blijkt dat de parkeerbehoefte gelijk blijft ten opzichte van de oude situatie"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dit betekent dat de parkeerbehoefte in zowel de oude als de nieuwe situatie 3 parkeerplaatsen betreft.",
+    "bron": [
+     52
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Een coffeeshop is horeca en past niet in het bestemmingsplan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat een coffeeshop onder detailhandel valt en niet onder horeca.",
+    "bron": [
+     39
+    ],
+    "citaat": "De rechtbank oordeelt dat een coffeeshop binnen de definitie van detailhandel valt"
+   },
+   "bruikbare_zin": {
+    "citaat": "Omdat geen dranken en etenswaren worden verstrekt voor gebruik ter plaatse kan de coffeeshop niet worden aangemerkt als horeca",
+    "bron": [
+     39
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een verbouwing telt alleen de extra parkeerbehoefte mee, niet een bestaand tekort.",
+  "type": "regel",
+  "reikwijdte": "omgevingsvergunning voor verbouw of nieuw gebruik van een bestaand pand",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   47
+  ],
+  "citaat": "alleen rekening te worden gehouden met de toename van de parkeerbehoefte"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "eigen verkeersrapport van de burgers"
+  ],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:RVS:2024:1297"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 34.1 bestemmingsplan 2e herziening"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Reken bij een verbouwing de parkeerbehoefte van de oude situatie af en toets alleen de toename aan de parkeernota.",
+   "raakt": "verordening-beleid",
+   "bron": [
+    49
+   ],
+   "citaat": "hierop mag de parkeerbehoefte van de vorige situatie (in dit geval de snackbar) in mindering worden gebracht"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "verordening-beleid",
+  "vergunningen"
+ ],
+ "klantuitleg": "Maakt u bezwaar tegen een verbouwing voor een nieuw gebruik? Bij parkeren telt dan alleen de extra parkeerbehoefte die het nieuwe gebruik brengt, niet wat er al was. Eigen cijfers over extra parkeren kunnen helpen, maar er is geen zekerheid dat de vergunning daardoor wordt ingetrokken.",
+ "gemeente": "Wageningen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,184 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOBR:2023:3427",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Valkenswaard",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "In deze zaak ging een parkeerder in beroep tegen een naheffing (de rekening achteraf) van de gemeente Valkenswaard. Zij zei bij de Rechtbank Oost-Brabant dat zij had betaald bij de parkeerautomaat.",
+ "titel": "Betaling teruggestort, parkeerder moet toch betalen",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder zelf had moeten nakijken of de betaling was gelukt, en de naheffing bleef staan.",
+  "bron": [
+   28
+  ],
+  "citaat": "Eiseres is zelf verantwoordelijk om te controleren of zij de verschuldigde parkeerbelasting daadwerkelijk heeft voldaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 7 november 2022 stond de auto van de parkeerder in Valkenswaard geparkeerd.",
+   "bron": [
+    23
+   ],
+   "citaat": "geparkeerd aan de Prinses Irene Brigadeplein in Valkenswaard"
+  },
+  {
+   "zin": "De parkeerder zei dat zij € 1,10 had betaald bij de automaat, maar het bedrag was binnen één minuut teruggestort.",
+   "bron": [
+    27
+   ],
+   "citaat": "Eiseres stelt dat zij parkeerbelasting van € 1,10 op 7 november 2022 om 13:57 uur heeft voldaan"
+  },
+  {
+   "zin": "De gemeente zei dat de automaat goed werkte en dat er geen parkeerkaartje in de auto lag.",
+   "bron": [
+    28
+   ],
+   "citaat": "bij controle is gebleken dat de parkeerautomaat ongestoord werkte"
+  },
+  {
+   "zin": "De rechter oordeelde dat de parkeerder zelf het bonnetje had moeten lezen, en dat de betaling dus niet was gedaan.",
+   "bron": [
+    28
+   ],
+   "citaat": "Eiseres is zelf verantwoordelijk om te controleren of zij de verschuldigde parkeerbelasting daadwerkelijk heeft voldaan"
+  },
+  {
+   "zin": "Het beroep is ongegrond verklaard; de naheffing blijft staan en er volgt geen vergoeding van proceskosten.",
+   "bron": [
+    31,
+    32
+   ],
+   "citaat": "moet het beroep ongegrond worden verklaard"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De naheffing blijft staan; de parkeerder verliest, zonder proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De aanslag van € 67,10 blijft staan, en de parkeerder krijgt geen proceskosten vergoed.",
+  "bron": [
+   31,
+   18,
+   32
+  ],
+  "citaat": "moet het beroep ongegrond worden verklaard"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Zij heeft wel betaald bij de automaat; het bedrag werd meteen teruggestort.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de parkeerder zelf had moeten controleren of de betaling gelukt was.",
+    "bron": [
+     28
+    ],
+    "citaat": "Eiseres is zelf verantwoordelijk om te controleren of zij de verschuldigde parkeerbelasting"
+   },
+   "bruikbare_zin": {
+    "citaat": "Eiseres is zelf verantwoordelijk om te controleren of zij de verschuldigde parkeerbelasting daadwerkelijk heeft voldaan",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De kosten van de naheffing zijn niet goed onderbouwd, dus het tarief is te hoog.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ging uit van het kostenoverzicht van de gemeente, omdat de parkeerder dat niet bestreed.",
+    "bron": [
+     30
+    ],
+    "citaat": "Eiseres heeft die onderbouwing niet verder bestreden, zodat de rechtbank van de juistheid daarvan uitgaat"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft in zijn aanvullend verweerschrift van 21 juni 2023 een kostenoverzicht aangeleverd",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De tariefstelling voor de kosten naheffing is te laat bekendgemaakt, dus de verordening is onverbindend.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter sloot zich aan bij eerdere uitspraken van andere rechtbanken die dit al hadden verworpen.",
+    "bron": [
+     29
+    ],
+    "citaat": "Diverse rechtbanken hebben deze beroepsgrond van de gemachtigde van eiseres reeds verworpen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Diverse rechtbanken hebben deze beroepsgrond van de gemachtigde van eiseres reeds verworpen",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie bij een parkeerautomaat betaalt, moet zelf controleren of de betaling is gelukt.",
+  "type": "regel",
+  "reikwijdte": "parkeerders die bij een parkeerautomaat betalen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   28
+  ],
+  "citaat": "Eiseres is zelf verantwoordelijk om te controleren of zij de verschuldigde parkeerbelasting"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van de parkeercontroleur",
+   "automaat die ongestoord werkte",
+   "geen parkeerkaartje in de auto"
+  ],
+  "wat_gaf_doorslag": "De controleur vond geen parkeerkaartje in de auto, en de parkeerder betwistte dat niet."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RBAMS:2018:4246",
+   "ECLI:NL:RBZWB:2022:7096",
+   "ECLI:NL:RBZWB:2023:842"
+  ]
+ },
+ "wetsartikelen": [
+  "Verordening parkeerbelastingen 2022 Valkenswaard",
+  "Besluit gemeentelijke parkeerbelastingen"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Onderbouw bij bezwaar tegen kosten naheffing de kostendekkendheid met een kostenoverzicht, zoals in deze zaak.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    30
+   ],
+   "citaat": "heeft in zijn aanvullend verweerschrift van 21 juni 2023 een kostenoverzicht aangeleverd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als de automaat de betaling niet heeft verwerkt, is de parkeerbelasting niet betaald, ook als het bedrag meteen terugkomt. Lees daarom altijd het bonnetje na. Bewijs van betaling, zoals een bankafschrift, kan bij bezwaar helpen.",
+ "gemeente": "Valkenswaard",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

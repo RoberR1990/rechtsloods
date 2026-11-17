@@ -1,0 +1,177 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2021:4631",
+ "relevant": true,
+ "onderwerp": "toezicht-handhaving",
+ "sub": "klacht-ap",
+ "kenmerk": null,
+ "zaaktype": "klacht-handhaving-ap",
+ "partijen": {
+  "burger": "burger (woonachtig in Ierland)",
+  "wederpartij": "Autoriteit Persoonsgegevens",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een man uit Ierland vroeg zijn bank om inzage in zijn persoonsgegevens en klaagde bij de Autoriteit Persoonsgegevens (AP) dat hij niet alles kreeg. De AP vond dat de bank genoeg had gegeven. Hij ging in beroep bij de rechtbank Den Haag; de bank deed als derde partij mee.",
+ "titel": "Klacht over inzage bij bank: rechter behandelt beroep niet",
+ "kern": {
+  "zin": "De rechter behandelt het beroep niet inhoudelijk, omdat de burger geen voldoende belang meer heeft: hij had de laatste stukken al.",
+  "bron": [
+   42
+  ],
+  "citaat": "De rechtbank komt daarom tot de conclusie dat eiser geen voldoende procesbelang heeft bij zijn beroep en het beroep om die reden niet-ontvankelijk is."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger had een hypotheek. Na betalingsachterstanden werd zijn woning geveild.",
+   "bron": [
+    22
+   ],
+   "citaat": "Deze hebben geleid tot executoriaal beslag en veiling van de woning, door Fortis ASR."
+  },
+  {
+   "zin": "Hij vroeg de bank om inzage en klaagde bij de AP dat de bank onvoldoende inzage gaf.",
+   "bron": [
+    22
+   ],
+   "citaat": "Eiser heeft bij verweerder een klacht ingediend tegen de derde partij omdat die onvoldoende voldaan heeft aan het verzoek tot inzage in zijn persoonsgegevens."
+  },
+  {
+   "zin": "De AP vond niet aannemelijk dat de bank de ontbrekende stukken nog verwerkt.",
+   "bron": [
+    23
+   ],
+   "citaat": "is niet aannemelijk geworden dat de derde partij deze stukken, in weerwil van haar verklaring, nog verwerkt"
+  },
+  {
+   "zin": "De bank zegt dat de burger misbruik van recht maakt: hij zet haar onder druk in een geschil over de veiling.",
+   "bron": [
+    35
+   ],
+   "citaat": "In reactie op het beroep van eiser heeft zij aangevoerd dat eiser misbruik maakt van recht."
+  },
+  {
+   "zin": "De rechter ziet geen misbruik van recht, ook al vindt hij het niet netjes dat de burger de bank onder druk wil zetten.",
+   "bron": [
+    40
+   ],
+   "citaat": "is niet chic, maar van onvoldoende gewicht om misbruik van recht aan te nemen"
+  },
+  {
+   "zin": "De rechter oordeelt dat de burger geen voldoende belang bij het beroep heeft, omdat hij de laatste stukken al had. Het beroep is niet-ontvankelijk (wordt niet inhoudelijk behandeld).",
+   "bron": [
+    42
+   ],
+   "citaat": "ook de laatste drie stukken die eiser stelde nog te missen, in het bezit zijn van eiser"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep niet-ontvankelijk: geen voldoende procesbelang.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen inhoudelijk oordeel en geen schadevergoeding van de bank. Er is geen proceskostenveroordeling; over griffierecht staat niets in de beslissing.",
+  "bron": [
+   48,
+   40
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Er ontbreken nog drie documenten in wat de bank heeft gegeven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt het niet onaannemelijk dat de bank alles heeft gegeven; alleen zeggen dat er stukken ontbreken is niet genoeg.",
+    "bron": [
+     45
+    ],
+    "citaat": "De enkele stelling van eiser dat er nog drie documenten ontbreken is onvoldoende om daar een ander standpunt over in te nemen."
+   },
+   "bruikbare_zin": {
+    "citaat": "De enkele stelling van eiser dat er nog drie documenten ontbreken is onvoldoende",
+    "bron": [
+     45
+    ]
+   }
+  },
+  {
+   "arg": "misbruik-recht",
+   "burger_zegt": "Zijn klacht en beroep zijn geen misbruik van recht, ook al wil hij de bank onder druk zetten (de bank zegt van wel).",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Misbruik van recht nemen we alleen aan bij zwaarwichtige gronden, zoals kwade trouw; die zijn er hier niet.",
+    "bron": [
+     39
+    ],
+    "citaat": "Daartoe zijn zwaarwichtige gronden vereist"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat het aannemen van misbruik van het recht feitelijk betekent dat een rechtsgang wordt ontzegd aan eiser en dat daar terughoudend mee om moet worden gegaan",
+    "bron": [
+     39
+    ]
+   }
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "De bank moet hem en zijn echtgenote compenseren voor schade rond de veiling.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een claim op schade tegen de bank valt buiten wat de rechter in dit beroep mag beoordelen.",
+    "bron": [
+     40
+    ],
+    "citaat": "Met zijn vorderingen die zich richten tegen de derde partij treedt eiser dus buiten de grenzen van het geschil."
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een rechtsmiddel heeft procesbelang nodig: de indiener moet met het beroep echt iets kunnen bereiken.",
+  "type": "regel",
+  "reikwijdte": "Beroep tegen een beslissing van de AP over een inzageklacht, terwijl de gevraagde stukken al in het bezit zijn van de indiener.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   42
+  ],
+  "citaat": "De achterliggende gedachte is dat de indiener van een bezwaar of (hoger) beroep het daarmee beoogde resultaat ook daadwerkelijk moet kunnen bereiken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verstrekkingen van de bank in 2018 en 2019",
+   "verklaring van de bank over bewaartermijnen",
+   "verklaring van de burger op de zitting"
+  ],
+  "wat_gaf_doorslag": "Op de zitting bleek dat de burger de laatste drie stukken al had."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2018:3873",
+   "ECLI:NL:RVS:2014:4129",
+   "ECLI:NL:RVS:2014:4135"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 12 AVG",
+  "art. 15 AVG",
+  "art. 5 lid 1 onder c AVG",
+  "art. 3:13 BW",
+  "art. 3:15 BW"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; wederpartij is de AP en een private bank",
+ "raakt": [
+  "privacy-fg",
+  "klantcontact"
+ ],
+ "klantuitleg": "Heeft u een organisatie om inzage gevraagd en vindt u dat u niet alles kreeg, dan kunt u klagen bij de Autoriteit Persoonsgegevens. In deze zaak zei de rechter dat een beroep alleen zin heeft als u er iets mee kunt bereiken; hier had de man de laatste stukken al. Wilt u in beroep, leg dan uit welke stukken u nog mist.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente partij (AP en bank)",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

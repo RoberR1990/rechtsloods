@@ -1,0 +1,166 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2025:7099",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Amsterdam een naheffingsaanslag (de rekening achteraf), omdat hij zonder betaling had geparkeerd. Hij ging naar de rechtbank Amsterdam, omdat het parkeerbord voor hem onduidelijk was.",
+ "titel": "Onduidelijk parkeerbord: rekening vernietigd, gemeente betaalt griffierecht",
+ "kern": {
+  "zin": "De gemeente had niet duidelijk genoeg op het bord gemaakt wanneer betaald moest worden, dus de naheffing is vernietigd.",
+  "bron": [
+   15
+  ],
+  "citaat": "omdat er met dit bord redelijkerwijs misverstand kan ontstaan over de vraag of parkeerbelasting is verschuldigd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde een naheffing op, omdat de parkeerder zonder betaling had geparkeerd.",
+   "bron": [
+    8
+   ],
+   "citaat": "zonder hiervoor parkeerbelasting te betalen"
+  },
+  {
+   "zin": "De parkeerder zegt dat het bord een laad- en loszone toont, waar parkeren verboden was.",
+   "bron": [
+    12
+   ],
+   "citaat": "Dit betekent dat parkeren op deze parkeerplaatsen in deze periode wettelijk verboden is"
+  },
+  {
+   "zin": "De gemeente zegt dat de parkeerder op 11 december 2024 om 17.08 uur parkeerde, buiten de zonetijden.",
+   "bron": [
+    13
+   ],
+   "citaat": "Dit was dus buiten de genoemde perioden"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente niet duidelijk genoeg was (de zogeheten informatieplicht).",
+   "bron": [
+    15,
+    14
+   ],
+   "citaat": "niet aan zijn informatieplicht heeft voldaan"
+  },
+  {
+   "zin": "De rechter vond de uitleg van de parkeerder niet onaannemelijk.",
+   "bron": [
+    15
+   ],
+   "citaat": "De rechtbank vindt de uitleg die eiser aan het parkeerbord heeft gegeven"
+  },
+  {
+   "zin": "De rechter vernietigde de naheffing en vond dat het griffierecht terug moet.",
+   "bron": [
+    20
+   ],
+   "citaat": "Aangezien eiser gelijk krijgt, moet de heffingsambtenaar het griffierecht aan hem vergoeden"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Beroep gegrond; naheffing vernietigd en griffierecht vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente betaalt de parkeerder het griffierecht van 53 euro terug.",
+  "bron": [
+   26
+  ],
+  "citaat": "het door eiser betaalde griffierecht van € 53,- aan hem vergoedt"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Het bord liet zien dat het een laad- en loszone was op die tijden.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het bord kon op meerdere manieren worden gelezen, dus de gemeente had het duidelijker moeten maken.",
+    "bron": [
+     15
+    ],
+    "citaat": "Het bord kan namelijk op verschillende manieren worden geïnterpreteerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "De gemeente Amsterdam had naar het oordeel van de rechtbank het gebod op dit bord anders kunnen weergeven",
+    "bron": [
+     15
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het bord betekende dat hier op dat tijdstip geen parkeerbelasting gold.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond de uitleg van de parkeerder niet onaannemelijk, vooral omdat de tijden naast de perioden stonden.",
+    "bron": [
+     15
+    ],
+    "citaat": "De rechtbank vindt de uitleg die eiser aan het parkeerbord heeft gegeven"
+   },
+   "bruikbare_zin": {
+    "citaat": "Hiervoor vindt de rechtbank vooral van belang dat de tijden naast de perioden staan vermeld",
+    "bron": [
+     15
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een gemeente moet duidelijk maken waar en wanneer parkeerbelasting verschuldigd is, zodat er geen misverstand kan bestaan.",
+  "type": "regel",
+  "reikwijdte": "borden en aanwijzingen voor betaald parkeren",
+  "uitzondering": "de parkeerder moet zelf voldoende onderzoeken of hij moet betalen (onderzoeksplicht)",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   14
+  ],
+  "citaat": "dat daar redelijkerwijs geen misverstand over kan bestaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "het parkeerbord zelf (afbeelding in de uitspraak)",
+   "tijdstip van het parkeren (17.08 uur)"
+  ],
+  "wat_gaf_doorslag": "De tijden staan naast de perioden, waardoor het bord voor meerdere uitleg vatbaar is."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Parkeerverordening Amsterdam"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet de tijden onder de periodes op het bord, zodat duidelijk is wanneer de laad- en loszone geldt.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    15
+   ],
+   "citaat": "de tijdstippen onder de genoemde perioden vermeld zouden staan"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar",
+  "tarief-naheffing",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als een parkeerbord niet duidelijk is over de tijden, kan de rekening voor het parkeren vervallen. De rechter vond dat in deze zaak, omdat de tijden naast de perioden stonden. Bent u het oneens, dan kan een foto van het bord en het tijdstip van uw parkeren helpen, maar dat garandeert niets.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

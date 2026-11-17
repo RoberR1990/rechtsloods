@@ -1,0 +1,130 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2024:3948",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": null,
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "minister voor Rechtsbescherming",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De burger vroeg de minister voor Rechtsbescherming om inzage in feedbackformulieren over rapportages in zijn strafzaak. De Raad van State oordeelt in hoger beroep dat de privacywet AVG hier niet geldt.",
+ "titel": "Minister mag inzage in feedbackformulieren weigeren",
+ "kern": {
+  "zin": "De Raad van State oordeelt dat de AVG niet van toepassing is, omdat de feedback dient voor de vervolging van strafbare feiten.",
+  "bron": [
+   32
+  ],
+  "citaat": "Daarmee staat de feedback ten dienste aan de vervolging van strafbare feiten."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de minister om inzage in feedbackformulieren over twee rapportages in zijn strafzaak.",
+   "bron": [
+    25
+   ],
+   "citaat": "verzocht om hem op grond van artikel 15 van de AVG inzage te geven in de feedbackformulieren"
+  },
+  {
+   "zin": "De burger vond dat de feedbackformulieren persoonsgegevens bevatten en dat de AVG daarom geldt.",
+   "bron": [
+    29
+   ],
+   "citaat": "Volgens hem is sprake van verwerking van persoonsgegevens in de zin van de AVG."
+  },
+  {
+   "zin": "De minister vond dat de AVG niet van toepassing is.",
+   "bron": [
+    25
+   ],
+   "citaat": "In het besluit van 13 maart 2020 stelt hij dat de AVG niet van toepassing is."
+  },
+  {
+   "zin": "De Raad van State oordeelt dat de AVG niet geldt, omdat de feedback dient voor de vervolging van strafbare feiten.",
+   "bron": [
+    32
+   ],
+   "citaat": "Daarmee staat de feedback ten dienste aan de vervolging van strafbare feiten."
+  },
+  {
+   "zin": "De afwijzing van het verzoek om inzage blijft daardoor in stand.",
+   "bron": [
+    41
+   ],
+   "citaat": "de afwijzing van het verzoek om inzage bij het besluit van 13 maart 2020 in stand blijft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De minister wint op de inzage; dwangsom, proceskosten en griffierecht blijven staan.",
+ "gevolg_betrokkene": {
+  "zin": "De beslissingen van de rechtbank over de dwangsommen, de proceskosten en het griffierecht blijven in stand; de burger krijgt geen inzage.",
+  "bron": [
+   40,
+   41
+  ],
+  "citaat": "de beslissingen van de rechtbank over de dwangsommen, de proceskosten en het griffierecht in stand blijven"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De feedbackformulieren bevatten mijn persoonsgegevens, dus de AVG geldt en ik heb recht op inzage.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Raad van State hoefde niet te beslissen of er persoonsgegevens zijn verwerkt, want de AVG geldt hier toch niet.",
+    "bron": [
+     32
+    ],
+    "citaat": "daargelaten de vraag of sprake is van verwerking van persoonsgegevens"
+   },
+   "bruikbare_zin": {
+    "citaat": "de AVG ingevolge artikel 2, tweede lid, aanhef en onder d, niet van toepassing",
+    "bron": [
+     32
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De AVG geldt niet voor verwerking van persoonsgegevens door bevoegde autoriteiten voor de voorkoming, het onderzoek, de opsporing en de vervolging van strafbare feiten; feedback die de vervolging dient, valt daaronder.",
+  "type": "regel",
+  "reikwijdte": "Verwerking door bevoegde autoriteiten voor strafrechtelijke doeleinden, zoals feedback in een strafzaak.",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   30,
+   32
+  ],
+  "citaat": "de AVG niet van toepassing op de verwerking van de persoonsgegevens door de bevoegde autoriteiten"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 2 lid 2 onder d AVG",
+  "art. 15 lid 1 AVG"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; de uitspraak gaat over de minister en is niet zonder meer naar de gemeente te vertalen",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "De privacywet (AVG) geldt niet altijd voor gegevens die voor een strafzaak worden gebruikt. Daarom kan de minister of de gemeente uw verzoek om inzage, correctie of verwijdering weigeren als het gaat om opsporing of vervolging. Vraagt u om inzage, kijk dan eerst waarvoor de gegevens worden gebruikt.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente in de uitspraak; de minister is partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

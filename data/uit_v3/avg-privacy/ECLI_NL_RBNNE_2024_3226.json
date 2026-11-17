@@ -1,0 +1,212 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2024:3226",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "zoekslag",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "gemeente Het Hogeland",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Deze zaak gaat over een verzoek om inzage in persoonsgegevens. De burger heeft beroep ingesteld bij de rechtbank Noord-Nederland tegen het college van burgemeester en wethouders van de gemeente Het Hogeland.",
+ "titel": "Hogere dwangsom voor late beslissing op inzageverzoek",
+ "kern": {
+  "zin": "De rechtbank stelt de dwangsom vast op € 1.442,- omdat het college te laat besliste op het bezwaar.",
+  "bron": [
+   43
+  ],
+  "citaat": "het college aan eiser de volledige dwangsom van € 1.442,- is verschuldigd."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente om inzage in zijn persoonsgegevens.",
+   "bron": [
+    11
+   ],
+   "citaat": "verzoek van eiser om inzage in zijn persoonsgegevens op grond van artikel 15"
+  },
+  {
+   "zin": "De burger vond dat de gemeente nog steeds niet alles had gegeven en niet goed had gezocht.",
+   "bron": [
+    25
+   ],
+   "citaat": "Eiser voert aan dat het college nog steeds niet heeft voldaan aan zijn inzageverzoek"
+  },
+  {
+   "zin": "De gemeente zei dat zij genoeg uitleg had gegeven over het gebruik van het persoonsgegeven in de verweerschriften.",
+   "bron": [
+    29
+   ],
+   "citaat": "hiermee een afdoende uitleg gegeven over de uitwisseling en het gebruik van het persoonsgegeven"
+  },
+  {
+   "zin": "De rechtbank vond dat de gemeente aan het inzagerecht had voldaan.",
+   "bron": [
+    30
+   ],
+   "citaat": "heeft voldaan aan het inzagerecht van eiser zoals volgt uit artikel 15 van de AVG"
+  },
+  {
+   "zin": "De rechtbank stelde de dwangsom daarom vast op € 1.442,-.",
+   "bron": [
+    54
+   ],
+   "citaat": "stelt de hoogte van de dwangsom vast op € 1.442,-"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Alleen de dwangsom en kosten veranderen; de inzage blijft zoals het was.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt een dwangsom van € 1.442,- in plaats van € 322,-; de gemeente vergoedt ook het griffierecht van € 184,- en € 20,28 aan reiskosten.",
+  "bron": [
+   54,
+   55,
+   56
+  ],
+  "citaat": "stelt de hoogte van de dwangsom vast op € 1.442,-"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Ik heb nog steeds niet alle inzage gekregen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat de gemeente aan het inzagerecht had voldaan.",
+    "bron": [
+     30
+    ],
+    "citaat": "heeft voldaan aan het inzagerecht van eiser zoals volgt uit artikel 15 van de AVG"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft voldaan aan het inzagerecht van eiser",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik wil weten hoe de gemeente aan mijn gegevens is gekomen en met welk doel.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat de burger met de stukken en de uitleg de verwerking kon controleren.",
+    "bron": [
+     30
+    ],
+    "citaat": "in staat de rechtmatigheid van die verwerking te controleren."
+   },
+   "bruikbare_zin": {
+    "citaat": "in staat de rechtmatigheid van die verwerking te controleren",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente mocht mij geen inzage geven in vertrouwelijke mediationstukken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat de burger zelf om inzage had gevraagd, dus hierover niet kon klagen.",
+    "bron": [
+     34
+    ],
+    "citaat": "Nu eiser zelf om inzage heeft verzocht"
+   },
+   "bruikbare_zin": {
+    "citaat": "Nu eiser zelf om inzage heeft verzocht",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente besliste te laat en de dwangsom is te laag.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank vond dat de termijn twaalf weken was en dat de dwangsom € 1.442,- moest zijn.",
+    "bron": [
+     43
+    ],
+    "citaat": "het college aan eiser de volledige dwangsom van € 1.442,- is verschuldigd."
+   },
+   "bruikbare_zin": {
+    "citaat": "de volledige dwangsom van € 1.442,- is verschuldigd",
+    "bron": [
+     43
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De langere termijn van twaalf weken geldt alleen als voor dat bezwaar echt advies is gevraagd aan een adviescommissie.",
+  "type": "regel",
+  "reikwijdte": "Bij de termijn voor het nemen van een besluit op bezwaar.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   41
+  ],
+  "citaat": "alleen van toepassing is voor zover ten behoeve van het nemen van een besluit op bezwaar daadwerkelijk advies is gevraagd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verweerschriften",
+   "mediationstukken",
+   "mailwisseling met de mediator",
+   "verklaring van de ouders ter zitting"
+  ],
+  "wat_gaf_doorslag": "De verklaring van de ouders dat de burger toegang had tot de verweerschriften."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 15 AVG",
+  "art. 6:20 lid 3 Awb",
+  "art. 23 AVG",
+  "art. 41 UAVG",
+  "art. 7:13 Awb",
+  "art. 7:10 lid 1 Awb",
+  "art. 4:17 Awb",
+  "art. 8:72 lid 3 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Reken de nieuwe beslistermijn na een vernietiging op dezelfde termijn als de vernietigde beslissing.",
+   "raakt": "bezwaar",
+   "bron": [
+    40
+   ],
+   "citaat": "het bestuursorgaan in beginsel binnen dezelfde termijn opnieuw dient te beslissen op het bezwaar"
+  },
+  {
+   "actie": "Verleng de termijn alleen als in dat bezwaar echt advies is gevraagd aan een adviescommissie.",
+   "raakt": "bezwaar",
+   "bron": [
+    41
+   ],
+   "citaat": "alleen van toepassing is voor zover ten behoeve van het nemen van een besluit op bezwaar daadwerkelijk advies is gevraagd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "woo-openbaarheid"
+ ],
+ "klantuitleg": "De gemeente moet u op verzoek laten weten welke persoonsgegevens zij van u heeft en u daar inzage in geven. In deze zaak vond de rechter dat de gemeente genoeg had gedaan, omdat u de stukken al via uw ouders kon bekijken. Omdat de gemeente te laat besliste, krijgt u € 1.442,- en vergoedt de gemeente uw kosten van de rechtbank (€ 184,-) en reiskosten (€ 20,28).",
+ "gemeente": "Het Hogeland",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

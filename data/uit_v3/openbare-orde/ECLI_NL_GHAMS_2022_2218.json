@@ -1,0 +1,149 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2022:2218",
+ "relevant": true,
+ "onderwerp": "strafzaken-bevelen",
+ "sub": "niet-voldoen-bevel-184",
+ "kenmerk": "vrijspraak-bevel",
+ "zaaktype": "strafzaak",
+ "partijen": {
+  "burger": "verdachte",
+  "wederpartij": "Openbaar Ministerie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Dit is een strafzaak in hoger beroep bij het gerechtshof Den Haag, dat zitting hield in Amsterdam. De verdachte stond tegenover het Openbaar Ministerie, omdat hij een noodbevel van de burgemeester van Den Haag niet zou hebben opgevolgd.",
+ "titel": "Vrijspraak: noodbevel Den Haag gold niet voor deze man",
+ "kern": {
+  "zin": "De verdachte is vrijgesproken, omdat niet bleek dat hij zich had getoond als iemand die wilde meedoen aan verstoringen van de openbare orde; het noodbevel gold dus niet voor hem.",
+  "bron": [
+   27
+  ],
+  "citaat": "Het gevolg hiervan is dat het noodbevel niet tegen de verdachte was gericht"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burgemeester van Den Haag gaf op 14 augustus 2020 een noodbevel: wie zich toonde als deelnemer aan verstoringen van de openbare orde, moest het gebied verlaten.",
+   "bron": [
+    27
+   ],
+   "citaat": "dient zich uit dit gebied te verwijderen en daarvan verwijderd te houden"
+  },
+  {
+   "zin": "De verdachte werd ervan beschuldigd dat hij op 15 augustus 2020 dit bevel om het gebied te verlaten niet had opgevolgd.",
+   "bron": [
+    19
+   ],
+   "citaat": "geen gevolg gegeven aan dit bevel of die vordering"
+  },
+  {
+   "zin": "De raadsman van de verdachte en de advocaat-generaal (het Openbaar Ministerie) vonden allebei dat het niet bewezen was.",
+   "bron": [
+    26
+   ],
+   "citaat": "niet wettig en overtuigend is bewezen hetgeen de verdachte is tenlastegelegd"
+  },
+  {
+   "zin": "De rechter zag dat de verdachte in het gebied was en het noodbevel moet hebben gehoord.",
+   "bron": [
+    27
+   ],
+   "citaat": "dat hij het noodbevel moet hebben gehoord"
+  },
+  {
+   "zin": "Maar er was alleen genoteerd dat vanuit een auto iets werd geroepen dat de agent niet kon verstaan; dat is te vaag om te spreken van meedoen aan verstoringen.",
+   "bron": [
+    27
+   ],
+   "citaat": "dat dergelijke bewoordingen te vaag zijn om te kunnen spreken van deelname aan verstoringen van de openbare orde"
+  },
+  {
+   "zin": "Daardoor was het noodbevel niet tegen hem gericht en hoefde hij het gebied niet te verlaten, dus de rechter sprak hem vrij.",
+   "bron": [
+    27,
+    32
+   ],
+   "citaat": "hij zich aldus niet uit het gebied, waar hij zich bevond, diende te verwijderen"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Vrijspraak: het bevel was niet tegen hem gericht",
+ "gevolg_betrokkene": {
+  "zin": "De verdachte wordt vrijgesproken en de eerdere strafbeschikking (een straf die het Openbaar Ministerie zonder rechter oplegde) wordt vernietigd.",
+  "bron": [
+   31,
+   32
+  ],
+  "citaat": "Vernietigt de eerder uitgevaardigde strafbeschikking d.d. 8 oktober 2020"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij moet worden vrijgesproken, omdat niet bewezen is dat hij het noodbevel overtrad.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Er was niet te zien dat hij zich had getoond als deelnemer aan verstoringen, dus het noodbevel was niet tegen hem gericht.",
+    "bron": [
+     27
+    ],
+    "citaat": "Het gevolg hiervan is dat het noodbevel niet tegen de verdachte was gericht"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft gemanifesteerd als een persoon die deel wilde nemen aan verstoringen van de openbare orde",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het noodbevel gold alleen voor wie zich toonde als deelnemer aan verstoringen; vage woorden van onbekende herkomst zijn daarvoor niet genoeg.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Alleen deze zaak: noodbevel Den Haag van 14 augustus 2020 en een proces-verbaal waarin niet stond wat de verdachte riep",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "dat dergelijke bewoordingen te vaag zijn om te kunnen spreken van deelname aan verstoringen van de openbare orde"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "proces-verbaal van aanhouding",
+   "verklaring van de agent die de aanhouding deed"
+  ],
+  "wat_gaf_doorslag": "De agent kon niet horen wat er werd geroepen, dus bleef onduidelijk of de verdachte zich als deelnemer aan verstoringen had getoond."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 175 Gemeentewet",
+  "art. 378a Wetboek van Strafvordering"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Laat de politie bij een aanhouding op grond van een noodbevel precies vastleggen wat de persoon zei of deed waaruit blijkt dat hij zich als deelnemer aan verstoringen toonde.",
+   "raakt": "handhaving-openbare-orde",
+   "bron": [
+    27
+   ],
+   "citaat": "dat dergelijke bewoordingen te vaag zijn om te kunnen spreken van deelname aan verstoringen van de openbare orde"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "handhaving-openbare-orde",
+  "veiligheidsregio-crisisbeheersing",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "Een noodbevel van de burgemeester geldt voor mensen die zich tonen als deelnemer aan verstoringen van de openbare orde. Een rechter sprak iemand vrij, omdat niet bleek dat hij zich zo had gedragen; het bevel gold dus niet voor hem. Heeft u zo'n straf gekregen, laat dan met een advocaat nakijken of er echt bewijs is dat u zich zo gedroeg.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

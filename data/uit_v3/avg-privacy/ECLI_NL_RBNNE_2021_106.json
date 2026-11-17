@@ -1,0 +1,167 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2021:106",
+ "relevant": true,
+ "onderwerp": "schade-aansprakelijkheid",
+ "sub": "immateriele-schade",
+ "kenmerk": null,
+ "zaaktype": "schadevergoeding",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Oldambt",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "anders",
+ "intro": "De burger vraagt de kantonrechter om een schadevergoeding van de gemeente Oldambt. Hij zegt dat de gemeente zijn persoonsgegevens (BSN, e-mail en telefoonnummer) onrechtmatig op de website heeft gezet.",
+ "titel": "Gemeente moet 500 euro betalen na datalek",
+ "kern": {
+  "zin": "De kantonrechter oordeelt dat de gemeente de AVG heeft geschonden en kent de burger 500 euro immateriële schadevergoeding toe.",
+  "bron": [
+   149
+  ],
+  "citaat": "zal de kantonrechter deze schadevergoeding naar billijkheid vaststellen op een bedrag van € 500,00."
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Oldambt heeft de persoonsgegevens van de burger (BSN, e-mail en telefoonnummer) meerdere keren op haar website gezet.",
+   "bron": [
+    132
+   ],
+   "citaat": "bepaalde persoonsgegevens van [eiser] zonder diens (voorafgaande) toestemming zijn gepubliceerd"
+  },
+  {
+   "zin": "De burger stelt dat de gemeente onrechtmatig heeft gehandeld en eist een vergoeding van 11.307 euro materiële schade en immateriële schade.",
+   "bron": [
+    106
+   ],
+   "citaat": "betaling van een bedrag aan materiële schadevergoeding van € 11.307,00"
+  },
+  {
+   "zin": "De gemeente betwist de schade en zegt dat de burger geen rolluiken of camera's heeft geplaatst en geen immateriële schade heeft.",
+   "bron": [
+    108
+   ],
+   "citaat": "Aan de woning van [eiser] zijn geen rolluiken of beveiligingscamera's geplaatst."
+  },
+  {
+   "zin": "De kantonrechter oordeelt dat de gemeente de AVG heeft geschonden en aansprakelijk is.",
+   "bron": [
+    112
+   ],
+   "citaat": "de gemeente met het ontstaan van genoemde datalekken de AVG heeft geschonden"
+  },
+  {
+   "zin": "De rechter wijst de materiële schade af.",
+   "bron": [
+    142
+   ],
+   "citaat": "moet de door [eiser] gevorderde vergoeding van materiële schade worden afgewezen."
+  },
+  {
+   "zin": "Wel kent de rechter 500 euro immateriële schadevergoeding toe.",
+   "bron": [
+    158
+   ],
+   "citaat": "€ 500,00 aan immateriële schadevergoeding"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Burger krijgt gelijk op immateriële schade; materiële schade wordt afgewezen.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt 500 euro immateriële schadevergoeding; de proceskosten worden gecompenseerd.",
+  "bron": [
+   158
+  ],
+  "citaat": "€ 500,00 aan immateriële schadevergoeding"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "De gemeente heeft mijn persoonsgegevens onrechtmatig gepubliceerd en daardoor heb ik schade.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De kantonrechter oordeelt dat de gemeente de AVG heeft geschonden en immateriële schadevergoeding moet betalen.",
+    "bron": [
+     149
+    ],
+    "citaat": "De persoonlijke levenssfeer van [eiser] is bij herhaling door de gemeente geschonden"
+   },
+   "bruikbare_zin": {
+    "citaat": "De persoonlijke levenssfeer van [eiser] is bij herhaling door de gemeente geschonden",
+    "bron": [
+     149
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een inbreuk op de AVG leidt niet zonder meer tot vergoedbare immateriële schade; de benadeelde moet de aantasting van zijn persoon aannemelijk maken en met concrete gegevens onderbouwen.",
+  "type": "regel",
+  "reikwijdte": "bij een verzoek om immateriële schadevergoeding na een datalek",
+  "uitzondering": "tenzij de aard en ernst van de normschending meebrengen dat de nadelige gevolgen voor de benadeelde voor de hand liggen",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   147
+  ],
+  "citaat": "De benadeelde moet de aantasting van zijn persoon aannemelijk maken en de gestelde schade met concrete gegevens onderbouwen."
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "screenshot van de website",
+   "e-mail van de gemeente"
+  ],
+  "wat_gaf_doorslag": "De herhaalde publicatie van het BSN-nummer, e-mailadres en telefoonnummer op de gemeentelijke website."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2017:2360",
+   "ECLI:EU:C:2006:461",
+   "ECLI:NL:RVS:2020:898",
+   "ECLI:NL:HR:2019:376",
+   "ECLI:NL:GHARL:2020:10721"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 82 AVG",
+  "art. 6:106 BW",
+  "art. 6:96 BW",
+  "art. 6:95 BW",
+  "art. 21 Rv",
+  "art. 3:13 BW",
+  "art. 6 lid 1 AVG",
+  "art. 4 lid 12 AVG"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer voor publicatie of een document geen BSN, e-mailadres of telefoonnummer van de aanvrager bevat.",
+   "raakt": "privacy-fg",
+   "bron": [
+    149
+   ],
+   "citaat": "het BSN-nummer, het e-mailadres en het telefoonnummer van [eiser] op de gemeentelijke website"
+  },
+  {
+   "actie": "Gebruik bij openbaarmaking alleen de publiceerbare aanvraag, die geen BSN en telefoonnummer bevat.",
+   "raakt": "ict-informatiebeveiliging",
+   "bron": [
+    28
+   ],
+   "citaat": "de publiceerbare aanvraag geen BSN-nummer en telefoonnummer van de aanvrager bevat"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "ict-informatiebeveiliging",
+  "communicatie"
+ ],
+ "klantuitleg": "De gemeente mag uw persoonsgegevens zoals BSN, e-mail en telefoonnummer niet zomaar op haar website zetten. Als dat toch gebeurt, meld het bij de gemeente en vraag om verwijdering en een vergoeding. In deze zaak kreeg de burger 500 euro voor verdriet en ongemak; de kosten voor beveiliging werden niet vergoed.",
+ "gemeente": "Oldambt",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

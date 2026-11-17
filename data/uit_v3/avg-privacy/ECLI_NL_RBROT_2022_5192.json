@@ -1,0 +1,153 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2022:5192",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": null,
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "opposant",
+  "wederpartij": "College voor de Rechten van de Mens",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "verzet",
+ "intro": "De burger heeft beroep ingesteld tegen een brief van het College voor de Rechten van de Mens over zijn persoonsgegevens. De rechtbank Rotterdam verklaarde zich eerder onbevoegd en de burger vroeg in verzet om herziening van die uitspraak.",
+ "titel": "Brief over gegevens is geen besluit",
+ "kern": {
+  "zin": "De rechter verklaart het verzet ongegrond: de brief van het College is geen besluit, dus de rechtbank was niet bevoegd.",
+  "bron": [
+   17
+  ],
+  "citaat": "Omdat de brief van verweerder van 8 juni 2021 geen besluit is"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger stelde beroep in tegen een brief van het College voor de Rechten van de Mens.",
+   "bron": [
+    6
+   ],
+   "citaat": "Opposant heeft tegen de brief van het College voor de Rechten van de Mens"
+  },
+  {
+   "zin": "De rechtbank verklaarde zich onbevoegd om van dat beroep kennis te nemen.",
+   "bron": [
+    7
+   ],
+   "citaat": "de rechtbank zich onbevoegd verklaard van dat beroep kennis te nemen"
+  },
+  {
+   "zin": "De burger voerde aan dat hij zijn AVG-rechten via de bestuursrechter moet kunnen uitoefenen.",
+   "bron": [
+    13
+   ],
+   "citaat": "dat het bestuursrecht dient te worden gevolgd als hij zijn rechten op grond van de AVG wil uitoefenen"
+  },
+  {
+   "zin": "De rechter oordeelt dat de brief geen besluit is, omdat de rechtspositie van de burger niet verandert.",
+   "bron": [
+    16
+   ],
+   "citaat": "Met deze brief is de rechtspositie van opposant niet veranderd"
+  },
+  {
+   "zin": "Het verzet is ongegrond en de eerdere uitspraak blijft in stand.",
+   "bron": [
+    19
+   ],
+   "citaat": "Het verzet is ongegrond. Dat betekent dat de buiten-zittinguitspraak in stand blijft"
+  },
+  {
+   "zin": "Voor de proceskosten bestaat geen aanleiding.",
+   "bron": [
+    20
+   ],
+   "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Verzet ongegrond: brief geen besluit, rechtbank niet bevoegd",
+ "gevolg_betrokkene": {
+  "zin": "De eerdere uitspraak blijft staan: de burger krijgt geen inhoudelijke beoordeling van zijn AVG-verzoek en geen proceskosten vergoed.",
+  "bron": [
+   19
+  ],
+  "citaat": "de buiten-zittinguitspraak in stand blijft"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het is voor mij onduidelijk waarom de twee beroepen samen zijn behandeld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter beperkt deze uitspraak tot één van de twee zaken.",
+    "bron": [
+     11
+    ],
+    "citaat": "beperkt de verzetrechter zich tot het verzet met zaaknummer ROT 21/3798"
+   },
+   "bruikbare_zin": {
+    "citaat": "beperkt de verzetrechter zich tot het verzet met zaaknummer ROT 21/3798",
+    "bron": [
+     11
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Voor mijn AVG-rechten moet de bestuursrechter toch kunnen oordelen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De brief verandert de rechtspositie niet en is daarom geen besluit waar de bestuursrechter over gaat.",
+    "bron": [
+     16
+    ],
+    "citaat": "de rechtspositie van opposant niet veranderd, zodat er geen sprake van een rechtshandeling"
+   },
+   "bruikbare_zin": {
+    "citaat": "Met deze brief is de rechtspositie van opposant niet veranderd",
+    "bron": [
+     16
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een brief waarin een organisatie alleen meedeelt wie verantwoordelijk is voor de gegevens en dat later een overzicht volgt, is geen besluit; de rechtspositie van de burger verandert daardoor niet.",
+  "type": "regel",
+  "reikwijdte": "brieven met alleen mededelingen over gegevensverwerking die de rechtspositie niet wijzigen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   16
+  ],
+  "citaat": "Met deze brief is de rechtspositie van opposant niet veranderd, zodat er geen sprake van een rechtshandeling"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 1:3 lid 1 Awb",
+  "art. 8:54 Awb",
+  "art. 10 tot en met 12 Wet College voor de rechten van de mens"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Als u bij een organisatie om uw gegevens vraagt, stuurt die soms alleen een brief met uitleg. Zo'n brief is geen officieel besluit, en dan kan de bestuursrechter er niet over oordelen. Wilt u naar de rechter, dan moet er eerst een echt besluit liggen waar u het niet mee eens bent.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

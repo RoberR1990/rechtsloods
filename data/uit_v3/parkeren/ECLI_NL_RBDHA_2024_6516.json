@@ -1,0 +1,159 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2024:6516",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "automobilist",
+  "wederpartij": "gemeente Leiden",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een automobilist kwam op tegen een naheffingsaanslag (de rekening achteraf) van de gemeente Leiden. De zaak ging naar de rechtbank Den Haag, tegen de gemeente.",
+ "titel": "Fout kostenbedrag in verordening: aanslag blijft staan",
+ "kern": {
+  "zin": "De rechter oordeelde dat de aanslag blijft staan, ook al stond er in de verordening een te hoog kostenbedrag.",
+  "bron": [
+   20
+  ],
+  "citaat": "bekent niet dat de naheffingsaanslag om die reden alsnog moet worden vernietigd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle bleek dat de auto zonder betaalde parkeerbelasting stond, waarna de gemeente 69,40 euro aan naheffing oplegde.",
+   "bron": [
+    18
+   ],
+   "citaat": "is geconstateerd dat voor de auto geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De automobilist zei dat de verordening niet geldig was.",
+   "bron": [
+    20
+   ],
+   "citaat": "De beroepsgrond van eiseres dat de Verordening onverbindend is"
+  },
+  {
+   "zin": "In het bezwaar verlaagde de gemeente de kosten al met tien cent.",
+   "bron": [
+    18
+   ],
+   "citaat": "is wel een ambtshalve vermindering verleend van € 0,10"
+  },
+  {
+   "zin": "De rechter oordeelde dat de aanslag niet vernietigd hoeft te worden, ook al stond er een te hoog bedrag in de verordening.",
+   "bron": [
+    20
+   ],
+   "citaat": "bekent niet dat de naheffingsaanslag om die reden alsnog moet worden vernietigd"
+  },
+  {
+   "zin": "De rechter zag geen reden om de gemeente proceskosten te laten betalen.",
+   "bron": [
+    23
+   ],
+   "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; kostenbedrag wel verkeerd, maar aanslag blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De aanslag blijft staan, en de automobilist krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   22,
+   23
+  ],
+  "citaat": "Gelet op wat hiervoor is overwogen is het beroep ongegrond verklaard."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De kosten zijn te hoog, want de verordening noemt een bedrag boven het maximum.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat aan de automobilist niet meer kosten zijn gevraagd dan is toegestaan.",
+    "bron": [
+     20
+    ],
+    "citaat": "dat de naheffingsaanslag om die reden alsnog moet worden vernietigd"
+   },
+   "bruikbare_zin": {
+    "citaat": "stond het de heffingsambtenaar vrij om over te gaan tot een verlaging van de naheffingsaanslag in de uitspraak op bezwaar",
+    "bron": [
+     20
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De verordening is onverbindend, omdat het bedrag er niet klopt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter wees de stelling af dat de verordening onverbindend is.",
+    "bron": [
+     20
+    ],
+    "citaat": "De beroepsgrond van eiseres dat de Verordening onverbindend is"
+   },
+   "bruikbare_zin": {
+    "citaat": "De beroepsgrond van eiseres dat de Verordening onverbindend is",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een fout bedrag in de verordening maakt de aanslag niet vanzelf ongeldig.",
+  "type": "regel",
+  "reikwijdte": "een fout bedrag in de verordening, als de gemeente de kosten in de uitspraak op bezwaar al heeft verlaagd",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   20
+  ],
+  "citaat": "bekent niet dat de naheffingsaanslag om die reden alsnog moet worden vernietigd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHDHA:2023:2043"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 Gemeentewet",
+  "art. 3, tweede lid, Besluit",
+  "Verordening parkeerbelasting gemeente Leiden"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Corrigeer het kostenbedrag in de verordening naar het wettelijke maximum van 66,50 euro.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    20
+   ],
+   "citaat": "Dat in de Verordening ten onrechte een bedrag van € 66,60 in plaats van € 66,50 staat"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "verordening-beleid"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren is terecht als de auto zonder betaling of geldige vergunning stond. Een klein fout bedrag in de verordening maakte deze rekening volgens de rechter niet ongeldig. Hebt u een ander bewijs van betaling of vergunning, dan kunt u dat bij de gemeente aanvoeren.",
+ "gemeente": "Leiden",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,143 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2022:515",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "fraude-signalering",
+ "kenmerk": "fsv",
+ "zaaktype": "fraude-algoritme",
+ "partijen": {
+  "burger": "particulier (inkomstenbelasting)",
+  "wederpartij": "inspecteur van de Belastingdienst",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger vindt dat de Belastingdienst haar aangifte niet mocht controleren, omdat haar gegevens in de fraudedatabank FSV staan. Zij procedeert tegen de inspecteur van de Belastingdienst bij het gerechtshof Den Haag, in een zaak over aftrekposten.",
+ "titel": "Staan in fraudedatabank FSV: aanslag blijft, tenzij verboden criterium",
+ "kern": {
+  "zin": "Dat de gegevens van de burger in de fraudedatabank FSV staan, leidt niet tot een lagere of vernietigde aanslag, omdat de controle niet op een verboden criterium was gebaseerd.",
+  "bron": [
+   220
+  ],
+  "citaat": "leidt om die reden niet tot een verlaging of vernietiging van de aanslag"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger nam in haar aangifte van 2013 bedragen voor alimentatiekosten en zorgkosten op, en dat leidde tot correcties.",
+   "bron": [
+    219
+   ],
+   "citaat": "heeft in de aangifte IB/PVV 2013 bedragen aan alimentatiekosten en zorgkosten opgenomen"
+  },
+  {
+   "zin": "Daarna kreeg zij de code 1043 en werden haar aangiften van latere jaren steeds uitgeworpen voor controle; waarschijnlijk kwam zij daardoor ook in de databank FSV.",
+   "bron": [
+    219
+   ],
+   "citaat": "gezien de uitworpreden voor het belastingjaar 2013 is dat waarschijnlijk de reden geweest voor opname in de databank FSV"
+  },
+  {
+   "zin": "De burger zei dat de inspecteur onrechtmatig handelde door haar aangifte te onderzoeken en vroeg het hof om onderzoek naar project 1043 en FSV.",
+   "bron": [
+    199
+   ],
+   "citaat": "de Inspecteur onrechtmatig heeft gehandeld door de aangifte van belanghebbende te onderzoeken"
+  },
+  {
+   "zin": "De rechter vond dat de controle niet gebaseerd was op een criterium dat een grondrecht schendt, zoals discriminatie.",
+   "bron": [
+    220
+   ],
+   "citaat": "niet plaatsgevonden op basis van een criterium dat jegens belanghebbende leidt tot een schending van een grondrecht"
+  },
+  {
+   "zin": "Ook voor de rest van de aftrekposten kreeg de burger geen gelijk; het hof vond de correcties terecht.",
+   "bron": [
+    212
+   ],
+   "citaat": "heeft geoordeeld dat deze terecht zijn gecorrigeerd"
+  },
+  {
+   "zin": "Het hof verklaarde het hoger beroep ongegrond.",
+   "bron": [
+    223
+   ],
+   "citaat": "Het hoger beroep is gelet op hetgeen hiervoor is overwogen ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; opname in FSV verandert de aanslag niet.",
+ "gevolg_betrokkene": {
+  "zin": "De aanslag blijft zoals de inspecteur die vaststelde en de burger krijgt geen proceskosten vergoed.",
+  "bron": [
+   225
+  ],
+  "citaat": "Het Hof ziet geen aanleiding de Inspecteur te veroordelen in de proceskosten."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Mijn gegevens staan onrechtmatig in project 1043 en de databank FSV, dus de controle en de correcties mogen niet blijven staan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dat de gegevens in FSV staan, leidt niet tot een lagere of vernietigde aanslag.",
+    "bron": [
+     220
+    ],
+    "citaat": "leidt om die reden niet tot een verlaging of vernietiging van de aanslag"
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtmatigheid van het besluit van de inspecteur om een aangifte te controleren wordt in beginsel niet aangetast door de manier waarop informatie over de belastingplichtige is verwerkt.",
+    "bron": [
+     105
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Dat de gegevens van een burger onrechtmatig zijn verwerkt, tast de rechtmatigheid van een controle in beginsel niet aan, tenzij de controle op een criterium berust dat een grondrecht schendt.",
+  "type": "regel",
+  "reikwijdte": "Belastingcontroles van aangiften waarbij de burger in een databank als FSV staat.",
+  "uitzondering": "Anders als de controle voortvloeit uit een criterium dat een grondrecht schendt, zoals discriminatie naar afkomst, geaardheid of geloofsovertuiging.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   105,
+   106,
+   220
+  ],
+  "citaat": "De rechtmatigheid van het besluit van de inspecteur om een aangifte te controleren wordt in beginsel niet aangetast door de manier waarop informatie over de belastingplichtige is verwerkt."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van de inspecteur op de zitting",
+   "brief van de inspecteur over de gegevens in project 1043 en FSV"
+  ],
+  "wat_gaf_doorslag": "De controle kwam door de aftrekposten in de aangifte van 2013, niet door een verboden criterium."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2021:1748",
+   "ECLI:NL:HR:2022:14"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 82 AVG",
+  "art. 8:88 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "fraude-handhaving",
+  "datateam-algoritmes",
+  "privacy-fg"
+ ],
+ "klantuitleg": "Staat u in een fraudesignaleringssysteem, dan verandert dat in de regel niets aan een belastingaanslag die op zichzelf klopt. Anders kan het zijn als u bent gecontroleerd op een verboden grond, zoals afkomst, geaardheid of geloofsovertuiging. Denkt u dat dit bij u speelt, noem dan concrete feiten in uw bezwaar of beroep.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente betrokken; de Belastingdienst is partij",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

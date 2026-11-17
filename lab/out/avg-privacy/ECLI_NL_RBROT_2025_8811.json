@@ -1,0 +1,177 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:8811",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "weigering-rechten-anderen",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "dagelijks bestuur van de Dienst Gezondheid & Jeugd Zuid-Holland Zuid (Veilig Thuis)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger wilde inzage in zijn gegevens in een gezinsdossier van Veilig Thuis en in de namen van medewerkers die zijn gegevens verwerkten. De dienst weigerde dit grotendeels; de burger ging in beroep bij de rechtbank Rotterdam.",
+ "titel": "Inzage in gezinsdossier mocht hier worden geweigerd",
+ "kern": {
+  "zin": "De rechter vindt dat de dienst in dit geval inzage in het gezinsdossier mocht weigeren, omdat de gegevens van verschillende personen niet te scheiden zijn en hun belangen zwaarder wegen.",
+  "bron": [
+   32
+  ],
+  "citaat": "heeft kunnen oordelen dat de blokkering van het inzagerecht van de in het gezinsdossier verwerkte persoonsgegevens van eiser proportioneel en noodzakelijk is"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg in 2023 om de namen van medewerkers, een kopie van een rectificatie-e-mail en inzage in zijn persoonsgegevens bij Veilig Thuis.",
+   "bron": [
+    19
+   ],
+   "citaat": "Eiser heeft op 15 augustus 2023 op grond van de AVG verzocht om (samengevat) de naam van de medewerker van Veilig Thuis"
+  },
+  {
+   "zin": "De dienst gaf een afschrift van de kennisgeving van rectificatie en wees de rest van het verzoek af.",
+   "bron": [
+    21
+   ],
+   "citaat": "Hierbij heeft het dagelijks bestuur een afschrift van de kennisgeving van rectificatie aan de Safegroup (gedeeltelijk) verstrekt."
+  },
+  {
+   "zin": "De burger zei dat de dienst de weigeringsgronden te strikt toepaste.",
+   "bron": [
+    24
+   ],
+   "citaat": "Eiser voert aan dat het dagelijks bestuur ten onrechte is uitgegaan van een te strikte uitleg van de gehanteerde artikelen."
+  },
+  {
+   "zin": "De rechter vindt dat de namen van medewerkers geen eigen persoonsgegevens van de burger zijn.",
+   "bron": [
+    30
+   ],
+   "citaat": "De namen van deze medewerkers hebben immers geen betrekking op eisers eigen persoonsgegevens"
+  },
+  {
+   "zin": "De rechter vindt de weigering van inzage in het gezinsdossier niet te strikt en voldoende toegelicht.",
+   "bron": [
+    32
+   ],
+   "citaat": "het dagelijks bestuur de gehanteerde beperkingsgronden niet te strikt heeft toegepast en ook afdoende heeft toegelicht"
+  },
+  {
+   "zin": "Het beroep is ongegrond, dus het besluit blijft in stand.",
+   "bron": [
+    35
+   ],
+   "citaat": "Dat betekent dat het bestreden besluit in stand blijft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; weigering inzage om rechten van anderen te beschermen blijft",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen inzage in de gevraagde gegevens en krijgt zijn griffierecht niet terug; over proceskosten zegt de uitspraak niets.",
+  "bron": [
+   35
+  ],
+  "citaat": "eiser geen inzage krijgt in de door hem gevraagde gegevens"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "weigering-rechten-anderen",
+   "burger_zegt": "De weigering is te strikt en niet concreet onderbouwd; deels inzage (met anonimiseren) had gekund.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De dienst paste de weigeringsgronden niet te strikt toe en legde voldoende uit waarom inzage niet kon.",
+    "bron": [
+     32
+    ],
+    "citaat": "het dagelijks bestuur de gehanteerde beperkingsgronden niet te strikt heeft toegepast en ook afdoende heeft toegelicht"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft kunnen oordelen dat de blokkering van het inzagerecht van de in het gezinsdossier verwerkte persoonsgegevens van eiser proportioneel en noodzakelijk is",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik wil de namen weten van de medewerkers die mijn gegevens verwerkten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De namen van medewerkers zijn geen eigen persoonsgegevens van de burger, dus hij heeft er geen recht op.",
+    "bron": [
+     30
+    ],
+    "citaat": "zodat hij geen recht heeft op het verkrijgen van die namen"
+   },
+   "bruikbare_zin": {
+    "citaat": "zou verstrekking daarvan op grond van artikel 15, vierde lid, van de AVG achterwege kunnen blijven, omdat dit afbreuk zou doen aan de (privacy)rechten en vrijheden van die medewerkers",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "motivering",
+   "burger_zegt": "De dienst heeft niet concreet uitgelegd waarom inzage de rechten van anderen te veel zou aantasten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De dienst heeft voldoende toegelicht waarom geen inzage kan worden gegeven.",
+    "bron": [
+     32
+    ],
+    "citaat": "ook afdoende heeft toegelicht dat aan eiser geen inzage kan worden gegeven in de door hem gevraagde gegevens"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "In een gezinsdossier waarin gegevens van verschillende personen zo met elkaar verweven zijn dat ze niet te scheiden zijn, mag inzage helemaal worden geweigerd om anderen te beschermen.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Gezinsdossiers van Veilig Thuis met nauw verweven gegevens van meerdere personen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   32
+  ],
+  "citaat": "De rechtbank volgt deze redenering van het dagelijks bestuur."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De gegevens van verschillende personen in het gezinsdossier zijn niet te scheiden en het belang van veiligheid en privacy weegt zwaarder."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 15 lid 4 AVG",
+  "art. 23 lid 1 onder i AVG",
+  "art. 41 lid 1 onder i UAVG",
+  "art. 5.3.2 lid 4 Wmo 2015"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Onderbouw bij het weigeren van inzage concreet welk belang van anderen, zoals een hulpvrager of medewerker, zwaarder weegt.",
+   "raakt": "privacy-fg",
+   "bron": [
+    22
+   ],
+   "citaat": "de motivering ten aanzien van de belangen van de hulpvrager en de belangen van de medewerkers van Veilig Thuis nader onderbouwd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "U heeft recht op inzage in uw eigen gegevens, maar niet als daarbij gegevens van anderen worden prijsgegeven. Zijn uw gegevens in een dossier zo met die van anderen vermengd dat ze niet te scheiden zijn, dan kon in dit geval inzage in het hele dossier worden geweigerd. Namen van medewerkers zijn geen gegevens over uzelf; bezwaar hierover heeft weinig kans.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente als partij; Dienst Gezondheid & Jeugd Zuid-Holland Zuid",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

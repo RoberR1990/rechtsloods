@@ -1,0 +1,179 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2026:8202",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Amsterdam een naheffing (de rekening achteraf) voor parkeerbelasting op 1 maart 2025. Haar bezwaar was te laat verklaard, en zij ging daartegen in beroep bij de rechtbank Amsterdam.",
+ "titel": "Procedure gewonnen op termijn, naheffing blijft staan",
+ "kern": {
+  "zin": "De rechtbank vond dat de gemeente de verzending niet kon aantonen, waardoor het bezwaar wel op tijd was; de naheffing bleef toch terecht.",
+  "bron": [
+   22,
+   29
+  ],
+  "citaat": "geen sprake van een deugdelijke verzendadministratie"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle op 1 maart 2025 bleek er geen betaling, waarna een naheffing volgde.",
+   "bron": [
+    14
+   ],
+   "citaat": "geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat zij de aanslag nooit had gekregen en dat zij via Easypark had betaald.",
+   "bron": [
+    21,
+    24
+   ],
+   "citaat": "zij de naheffingsaanslag nooit heeft ontvangen"
+  },
+  {
+   "zin": "De gemeente hield vol dat de parkeerder een verkeerde parkeerpaal had gebruikt, dus geen fout van de gemeente.",
+   "bron": [
+    25
+   ],
+   "citaat": "nu eiseres een verkeerde parkeerpaal heeft gebruikt voor de betaling van de parkeerkosten"
+  },
+  {
+   "zin": "De rechtbank vond dat de gemeente niet kon aantonen dat de aanslag was verstuurd, en dat het bezwaar dus op tijd was.",
+   "bron": [
+    22
+   ],
+   "citaat": "geen sprake van een deugdelijke verzendadministratie"
+  },
+  {
+   "zin": "Een foute zone in de app blijft het risico van de parkeerder, die zelf de bebording moet controleren.",
+   "bron": [
+    26
+   ],
+   "citaat": "voor rekening en risico komen van de parkeerder"
+  },
+  {
+   "zin": "De naheffing blijft staan, want de rechtbank oordeelde dat de aanslag terecht was opgelegd.",
+   "bron": [
+    29,
+    32
+   ],
+   "citaat": "dat de naheffingsaanslag parkeerbelasting terecht aan eiseres is opgelegd"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Gewonnen op de termijn; de naheffing blijft terecht.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan, maar de gemeente betaalt het griffierecht van 53 euro terug.",
+  "bron": [
+   32,
+   39
+  ],
+  "citaat": "moet de heffingsambtenaar het griffierecht aan eiseres vergoeden"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "Zij heeft de aanslag nooit ontvangen, dus het bezwaar kon niet te laat zijn.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank vond dat de gemeente niet had aangetoond wanneer de aanslag was bekendgemaakt.",
+    "bron": [
+     22
+    ],
+    "citaat": "dat de heffingsambtenaar niet aannemelijk heeft gemaakt dat de naheffingsaanslag op 2 mei 2025 is bekendgemaakt"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het is dan aan de heffingsambtenaar om aannemelijk te maken dat de naheffingsaanslag is verzonden.",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Zij had via Easypark betaald, en de fout zou bij de gemeente of Easypark liggen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank zag dat de parkeerder het zonenummer had kunnen controleren bij de automaat.",
+    "bron": [
+     26
+    ],
+    "citaat": "Als eiseres het zonenummer en/of de tarieven had gecontroleerd bij deze automaat"
+   },
+   "bruikbare_zin": {
+    "citaat": "voor rekening en risico komen van de parkeerder",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De automobilist moet zelf nagaan of de app en de bebording dezelfde zone tonen.",
+  "type": "regel",
+  "reikwijdte": "Parkeerders die betalen via een app en een verkeerde zone of parkeerpaal kiezen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   26
+  ],
+  "citaat": "Een parkeerder heeft een onderzoeksplicht in die zin dat hij zich"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "berichtenbox MijnOverheid (niet met stukken onderbouwd)",
+   "parkeersysteem zonder betaling",
+   "schermprint van betaalbewijs"
+  ],
+  "wat_gaf_doorslag": "De gemeente kon de verzending niet met stukken onderbouwen, dus het bezwaar was niet te laat."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:7 Awb",
+  "art. 6:11 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zorg voor een deugdelijke verzendadministratie, zodat de gemeente de verzending van een naheffing kan aantonen.",
+   "raakt": "communicatie",
+   "bron": [
+    22
+   ],
+   "citaat": "geen sprake van een deugdelijke verzendadministratie"
+  },
+  {
+   "actie": "Laat de verzending eerst onderzoeken door de juiste afdeling voordat u een bezwaar op termijn afwijst.",
+   "raakt": "bezwaar",
+   "bron": [
+    21
+   ],
+   "citaat": "Daarvoor zou er aanvullend onderzoek gedaan moeten worden door een andere afdeling"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "communicatie",
+  "betaalapp"
+ ],
+ "klantuitleg": "Of een naheffing terecht is, hangt af van of u in de juiste zone heeft betaald. Een foute zone in de app is in principe uw eigen risico, zo oordeelde de rechter. Wilt u bezwaar maken, dan kan het helpen om na te laten gaan of de aanslag goed is verzonden.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

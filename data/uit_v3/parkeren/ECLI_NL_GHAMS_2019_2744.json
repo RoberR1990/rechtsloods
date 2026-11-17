@@ -1,0 +1,175 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "reden_leeg_actie": null,
+ "dubbel_van": null,
+ "reden_gemeente_leeg": null,
+ "ecli": "ECLI:NL:GHAMS:2019:2744",
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder met elektrische auto",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder met een elektrische auto kreeg een naheffing, omdat hij aan een laadpaal stond zonder te betalen. Hij ging in hoger beroep tegen de gemeente Amsterdam bij het gerechtshof Amsterdam.",
+ "titel": "Parkeerbelasting ook verschuldigd tijdens opladen op laadplek",
+ "kern": {
+  "zin": "De rechter vond dat op een laadplek in betaald gebied parkeerbelasting verschuldigd is, want opladen is geen laden en lossen.",
+  "bron": [
+   27,
+   31
+  ],
+  "citaat": "Dit betekent echter niet dat geen parkeerbelasting is verschuldigd."
+ },
+ "samenvatting": [
+  {
+   "zin": "Een elektrische auto stond aan een laadpaal, op een plek met het bord uitsluitend opladen, zonder dat parkeerbelasting was betaald.",
+   "bron": [
+    17
+   ],
+   "citaat": "zonder dat parkeerbelasting was betaald"
+  },
+  {
+   "zin": "De parkeerder vond dat hij op deze plek mocht parkeren zonder belasting te betalen.",
+   "bron": [
+    26
+   ],
+   "citaat": "bevoegd was zijn auto te parkeren op een parkeerplaats die gemerkt was met het bord E8"
+  },
+  {
+   "zin": "De straat was door de gemeente aangewezen als plek waar alleen tegen betaling van parkeerbelasting mag worden geparkeerd.",
+   "bron": [
+    18
+   ],
+   "citaat": "aangewezen als een locatie waar alleen tegen voldoening van parkeerbelasting mag worden geparkeerd"
+  },
+  {
+   "zin": "De rechter vond dat het bord met opladen niet betekent dat er geen parkeerbelasting hoeft te worden betaald.",
+   "bron": [
+    27
+   ],
+   "citaat": "Dit betekent echter niet dat geen parkeerbelasting is verschuldigd."
+  },
+  {
+   "zin": "Opladen terwijl de bestuurder weg is, gold volgens de rechter niet als even laden of lossen.",
+   "bron": [
+    31
+   ],
+   "citaat": "bij afwezigheid van de bestuurder gedurende meerdere uren op te laden"
+  },
+  {
+   "zin": "Het hof vond de naheffing terecht en bevestigde de uitspraak van de rechtbank.",
+   "bron": [
+    35
+   ],
+   "citaat": "de heffingsambtenaar de naheffingsaanslag terecht aan belanghebbende heeft opgelegd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; opladen telt als parkeren.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan en de parkeerder krijgt geen vergoeding van proceskosten of griffierecht.",
+  "bron": [
+   33,
+   39
+  ],
+  "citaat": "Voor een proceskostenvergoeding of vergoeding van het griffierecht bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het bord uitsluitend opladen en de verkeersregels (RVV) staan toe dat ik hier zonder belasting parkeer.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat een gemeente belasting mag heffen en dat het verkeersreglement alleen verboden regelt.",
+    "bron": [
+     27
+    ],
+    "citaat": "Dit is niet in strijd met het RVV, in het bijzonder artikel 24 van het RVV"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dit betekent echter niet dat geen parkeerbelasting is verschuldigd.",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Opladen is onmiddellijk laden en lossen, en dus geen parkeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond opladen terwijl de bestuurder weg is geen onmiddellijk laden of lossen.",
+    "bron": [
+     31
+    ],
+    "citaat": "bij afwezigheid van de bestuurder gedurende meerdere uren op te laden"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "In andere gemeenten hoeft voor een auto die wordt opgeladen geen parkeerbelasting te worden betaald.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat regels in andere gemeenten niets veranderen aan de verplichting in Amsterdam.",
+    "bron": [
+     35
+    ],
+    "citaat": "in andere gemeenten dan Amsterdam voor een voertuig dat wordt opgeladen geen parkeerbelasting hoeft te worden betaald"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie een elektrische auto laat opladen terwijl hij er niet bij is, parkeert en moet parkeerbelasting betalen als de plek in betaald gebied ligt.",
+  "bron": [
+   31
+  ],
+  "citaat": "bij afwezigheid van de bestuurder gedurende meerdere uren op te laden",
+  "type": "regel",
+  "reikwijdte": "Laadplekken in betaald-parkeergebied waar de bestuurder tijdens het opladen weg is",
+  "uitzondering": "Onmiddellijk in- of uitstappen of onmiddellijk laden en lossen van zaken geldt niet als parkeren",
+  "herkomst": "oordeel rechter"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "controle door de parkeercontroleur"
+  ],
+  "wat_gaf_doorslag": "Opladen terwijl de bestuurder weg is, is geen onmiddellijk laden of lossen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 24 RVV 1990",
+  "art. 2 onder a Verordening Parkeerbelastingen 2018 Amsterdam"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Maak in de verordening en bij de laadplek duidelijk dat parkeerbelasting ook geldt tijdens het opladen.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    28
+   ],
+   "citaat": "Niet is gebleken dat in Amsterdam voor het parkeren en tegelijkertijd opladen"
+  }
+ ],
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "tarief-naheffing",
+  "bebording-verkeersbesluit"
+ ],
+ "klantuitleg": "Ook als u uw elektrische auto aan een laadpaal oplaadt, betaalt u in betaald gebied meestal gewoon voor het parkeren. Opladen telt niet als even laden of lossen. Twijfelt u, kijk dan vooraf in de regels van de gemeente en betaal bij aankomst, want bezwaar heeft op dit punt weinig kans.",
+ "gemeente": "Amsterdam",
+ "zekerheid": "hoog"
+}

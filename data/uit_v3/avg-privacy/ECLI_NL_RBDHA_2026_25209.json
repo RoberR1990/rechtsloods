@@ -1,0 +1,191 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2026:25209",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "algoritme-ai",
+ "kenmerk": null,
+ "zaaktype": "overig",
+ "partijen": {
+  "burger": "asielzoekers",
+  "wederpartij": "minister van Asiel en Migratie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Vier Turkse vrouwen en twee kinderen vroegen asiel aan en de minister van Asiel en Migratie wees die aanvragen af. De rechtbank Den Haag, zittingsplaats Haarlem, beoordeelt of dat terecht is.",
+ "titel": "Asielaanvragen terecht afgewezen; CaseMatcher geen AI",
+ "kern": {
+  "zin": "De rechtbank oordeelt dat de afwijzingen van de asielaanvragen in stand kunnen blijven.",
+  "bron": [
+   23
+  ],
+  "citaat": "De rechtbank komt in deze uitspraak tot het oordeel dat de afwijzingen van de asielaanvragen in stand kunnen blijven."
+ },
+ "samenvatting": [
+  {
+   "zin": "Vier vrouwen dienden ieder een eigen asielaanvraag in.",
+   "bron": [
+    35
+   ],
+   "citaat": "Eiseressen 1, 2, 3 en 4 hebben ieder een eigen asielaanvraag ingediend."
+  },
+  {
+   "zin": "Zij vrezen gevaar door hun Koerdische afkomst en steun aan de HDP.",
+   "bron": [
+    36
+   ],
+   "citaat": "Eisers vrezen bij terugkeer naar Turkije opnieuw in onderdrukking te leven vanwege de steun aan de HDP"
+  },
+  {
+   "zin": "De minister vindt dat eiseres 1 geen gegronde vrees voor vervolging heeft.",
+   "bron": [
+    46
+   ],
+   "citaat": "Eiseres 1 heeft niet aannemelijk gemaakt dat zij een gegronde vrees heeft voor vervolging"
+  },
+  {
+   "zin": "De rechtbank oordeelt dat CaseMatcher geen AI, complex algoritme of blackbox is.",
+   "bron": [
+    72
+   ],
+   "citaat": "De rechtbank komt tot het oordeel dat CaseMatcher geen AI-systeem. Ook is het geen complex algoritme of black box."
+  },
+  {
+   "zin": "De beroepen zijn ongegrond en eisers krijgen geen vergoeding van hun proceskosten.",
+   "bron": [
+    107
+   ],
+   "citaat": "De beroepen zijn ongegrond. Eisers krijgen geen vergoeding van hun proceskosten."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De minister won: de asielafwijzingen blijven in stand.",
+ "gevolg_betrokkene": {
+  "zin": "De beroepen zijn ongegrond en eisers krijgen geen vergoeding van hun proceskosten.",
+  "bron": [
+   107
+  ],
+  "citaat": "De beroepen zijn ongegrond. Eisers krijgen geen vergoeding van hun proceskosten."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "algoritme-niet-uitlegbaar",
+   "burger_zegt": "CaseMatcher is een AI-systeem of complex algoritme en de minister is daarover niet transparant.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank zegt dat CaseMatcher geen AI-systeem is en geen complex algoritme of blackbox.",
+    "bron": [
+     72
+    ],
+    "citaat": "De rechtbank komt tot het oordeel dat CaseMatcher geen AI-systeem. Ook is het geen complex algoritme of black box."
+   },
+   "bruikbare_zin": {
+    "citaat": "geen complex algoritme of black box",
+    "bron": [
+     72
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De besluiten zijn onzorgvuldig omdat het gebruik van CaseMatcher niet in de besluiten staat.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank zegt dat de minister niet hoeft uit te leggen hoe CaseMatcher is gebruikt.",
+    "bron": [
+     82
+    ],
+    "citaat": "Daarom is verweerder ook niet gehouden om transparant te zijn over het gebruik."
+   },
+   "bruikbare_zin": {
+    "citaat": "niet gehouden om transparant te zijn over het gebruik",
+    "bron": [
+     82
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De besluiten zijn niet ondertekend en daardoor niet controleerbaar.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank zegt dat het ontbreken van een ondertekening geen gebrek in de besluitvorming oplevert.",
+    "bron": [
+     89
+    ],
+    "citaat": "Het ontbreken van de ondertekening leidt daarnaast niet tot een gebrek in de besluitvorming"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het ontbreken van de ondertekening leidt daarnaast niet tot een gebrek in de besluitvorming",
+    "bron": [
+     89
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De minister heeft de rol van familieleden en het risico op gendergeweld bij terugkeer onvoldoende meegewogen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vindt dat de minister een juiste inschatting heeft gemaakt van het risico bij terugkeer.",
+    "bron": [
+     100
+    ],
+    "citaat": "verweerder een juiste risico-inschatting heeft gemaakt van de situatie bij terugkeer"
+   },
+   "bruikbare_zin": {
+    "citaat": "verweerder een juiste risico-inschatting heeft gemaakt van de situatie bij terugkeer",
+    "bron": [
+     100
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als een algoritme nodig was voor de motivering en het staat niet in het besluit, is er een motiverings- en zorgvuldigheidsgebrek.",
+  "type": "regel",
+  "reikwijdte": "Als een algoritme wezenlijke invloed heeft op de inhoud van een besluit.",
+  "uitzondering": "Niet als het algoritme alleen zoekresultaten toont zonder invloed op de inhoud.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   81
+  ],
+  "citaat": "als de motivering van een besluit niet tot stand had kunnen komen zonder een bepaald algoritme"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaringen van deskundigen",
+   "evaluatierapport over CaseMatcher",
+   "aanvullende informatie na de zitting"
+  ],
+  "wat_gaf_doorslag": "De technische uitleg van de minister en zijn deskundigen over CaseMatcher."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 3:46 Awb",
+  "art. 8:42 Awb",
+  "art. 30b lid 1 onder h Vw",
+  "art. 31 lid 6 Vw",
+  "art. 3 EVRM",
+  "art. 3 AI-verordening",
+  "art. 5 AI-verordening"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "datateam-algoritmes",
+  "ict-informatiebeveiliging"
+ ],
+ "klantuitleg": "Deze uitspraak gaat over asiel en over een zoeksysteem van de IND. Voor u bij de gemeente verandert niets. Denk je dat een computerprogramma uw zaak heeft bepaald, vraag dan om uitleg en bewaar de stukken.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente in de zaak; minister van Asiel en Migratie is partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

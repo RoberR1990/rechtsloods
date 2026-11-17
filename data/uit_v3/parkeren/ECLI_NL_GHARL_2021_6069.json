@@ -1,0 +1,175 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2021:6069",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (met gemachtigde)",
+  "wederpartij": "gemeente Zwolle",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder maakte bezwaar tegen een naheffingsaanslag (rekening achteraf) voor parkeerbelasting in Zwolle, maar was niet de kentekenhouder. De parkeerder ging in hoger beroep tegen de gemeente Zwolle bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Ook wie zelf parkeerde mag bezwaar maken tegen de rekening",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder, ook zonder kentekenhouder te zijn, bezwaar mocht maken; de gemeente moet opnieuw beslissen.",
+  "bron": [
+   34
+  ],
+  "citaat": "Nu vaststaat dat belanghebbende als feitelijk parkeerder het recht had bezwaar te maken, heeft de heffingsambtenaar het bezwaar ten onrechte niet-ontvankelijk verklaard"
+ },
+ "samenvatting": [
+  {
+   "zin": "De rekening was opgelegd aan de kentekenhouder, maar de gemachtigde maakte namens de parkeerder bezwaar.",
+   "bron": [
+    17
+   ],
+   "citaat": "maakt de gemachtigde namens belanghebbende bezwaar tegen de naheffingsaanslag"
+  },
+  {
+   "zin": "De gemeente vroeg twee keer om een machtiging van de kentekenhouder en verklaarde het bezwaar niet-ontvankelijk toen die niet kwam.",
+   "bron": [
+    22
+   ],
+   "citaat": "verklaart de heffingsambtenaar het bezwaar niet-ontvankelijk, omdat niet is voldaan aan het verzoek een machtiging over te leggen"
+  },
+  {
+   "zin": "De gemachtigde zei dat hij de brieven niet had gekregen en dat ze niet waren verstuurd.",
+   "bron": [
+    26
+   ],
+   "citaat": "ontkent de hiervoor onder 2.3 en 2.4 aangehaalde brieven te hebben ontvangen en betwist dat deze zijn verzonden"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente niet aannemelijk had gemaakt dat de brieven waren verstuurd, ook omdat de gemeente niet naar de zitting kwam.",
+   "bron": [
+    28
+   ],
+   "citaat": "Dat op de schermprinten een verzenddatum staat, is onvoldoende"
+  },
+  {
+   "zin": "De rechter nam aan dat de parkeerder zelf had geparkeerd en daarom bezwaar mocht maken.",
+   "bron": [
+    34
+   ],
+   "citaat": "Nu vaststaat dat belanghebbende als feitelijk parkeerder het recht had bezwaar te maken"
+  },
+  {
+   "zin": "De zaak gaat terug naar de gemeente en de gemeente betaalt de kosten en het griffierecht.",
+   "bron": [
+    38
+   ],
+   "citaat": "bepaalt het Hof dat de heffingsambtenaar aan belanghebbende het betaalde griffierecht vergoedt"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Bezwaar is ontvankelijk; over de rekening zelf is nog niet beslist.",
+ "gevolg_betrokkene": {
+  "zin": "Het bezwaar wordt alsnog inhoudelijk behandeld en de gemeente betaalt € 801 proceskosten en € 178 griffierecht (€ 47 en € 131).",
+  "bron": [
+   38,
+   40,
+   48
+  ],
+  "citaat": "bepaalt het Hof dat de heffingsambtenaar aan belanghebbende het betaalde griffierecht vergoedt"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder heeft zelf geparkeerd en mag daarom bezwaar maken, ook al was hij niet de kentekenhouder.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Een feitelijke parkeerder mag bezwaar maken, naast de kentekenhouder aan wie de rekening is opgelegd.",
+    "bron": [
+     34
+    ],
+    "citaat": "Nu vaststaat dat belanghebbende als feitelijk parkeerder het recht had bezwaar te maken"
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemachtigde heeft de brieven met het verzoek om een machtiging nooit ontvangen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente kon niet aannemelijk maken dat de brieven waren verstuurd; schermprints zonder uitleg waren niet genoeg.",
+    "bron": [
+     28
+    ],
+    "citaat": "De heffingsambtenaar heeft derhalve niet aannemelijk gemaakt dat deze brieven zijn verzonden"
+   },
+   "bruikbare_zin": {
+    "citaat": "in de brieven ten onrechte niet erop wordt gewezen dat het niet voldoen aan het verzoek ertoe kan leiden dat het bezwaar nietontvankelijk wordt verklaard",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Naast de kentekenhouder mag ook de parkeerder die het voertuig feitelijk heeft geparkeerd bezwaar maken tegen de naheffingsaanslag.",
+  "type": "regel",
+  "reikwijdte": "Naheffingsaanslag parkeerbelasting waarbij de parkeerder niet de kentekenhouder is",
+  "uitzondering": "Is niet duidelijk gemaakt in welke hoedanigheid bezwaar wordt gemaakt terwijl dat wel verwacht kon worden, dan kan het anders uitpakken.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   34
+  ],
+  "citaat": "als feitelijk parkeerder het recht had bezwaar te maken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "schermprints uit het zaaksysteem van de gemeente"
+  ],
+  "wat_gaf_doorslag": "Zonder uitleg kon uit de schermprints niet blijken dat de brieven waren verstuurd, en de gemeente kwam niet naar de zitting."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2000:AA6508",
+   "ECLI:NL:HR:2019:440",
+   "ECLI:NL:HR:2019:1175",
+   "ECLI:NL:HR:2019:1048",
+   "ECLI:NL:HR:2019:1614"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 lid 3 Gemeentewet",
+  "art. 225 lid 5 Gemeentewet",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg in een verzendadministratie vast dat en op welke datum een gewone brief is verstuurd",
+   "raakt": "bezwaar",
+   "bron": [
+    27
+   ],
+   "citaat": "kan de heffingsambtenaar dat bewijs leveren door een administratie over te leggen waaruit blijkt dat en op welke datum het stuk is verzonden"
+  },
+  {
+   "actie": "Vermeld in een brief met een verzoek om een stuk dat het bezwaar niet-ontvankelijk kan worden verklaard als niet wordt gereageerd",
+   "raakt": "bezwaar",
+   "bron": [
+    29
+   ],
+   "citaat": "in de brieven ten onrechte niet erop wordt gewezen dat het niet voldoen aan het verzoek ertoe kan leiden dat het bezwaar nietontvankelijk wordt verklaard"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Ook als u niet de kentekenhouder bent maar zelf hebt geparkeerd, mag u bezwaar maken tegen de rekening voor het parkeren. Laat in uw bezwaar duidelijk zien dat u zelf hebt geparkeerd. Vraagt de gemeente u om iets aan te vullen, reageer dan op tijd.",
+ "gemeente": "Zwolle",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

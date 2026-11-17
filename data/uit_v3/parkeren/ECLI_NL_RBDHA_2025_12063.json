@@ -1,0 +1,128 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2025:12063",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder gaat in beroep tegen de gemeente Den Haag. Het gaat om een naheffing (de rekening achteraf) van € 83,45, opgelegd omdat het verkeerde kenteken bij de bezoekersvergunning stond.",
+ "titel": "Verkeerd kenteken bij bezoekersvergunning: aanslag blijft staan",
+ "kern": {
+  "zin": "De rechter wees het beroep af, omdat het kenteken niet goed was aangemeld en de voorwaarden van de vergunning daardoor niet zijn gevolgd.",
+  "bron": [
+   18
+  ],
+  "citaat": "Daarmee is niet voldaan aan de voorwaarden van het parkeren met de bezoekersvergunning"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle bleek er geen parkeerbelasting en geen geldige vergunning te zijn, waarna een naheffing van € 83,45 volgde.",
+   "bron": [
+    14
+   ],
+   "citaat": "geen parkeerbelasting was voldaan en geen geldige parkeervergunning was aangemeld"
+  },
+  {
+   "zin": "De parkeerder zegt dat hij wel had betaald, maar dat het verkeerde kenteken voor de bezoekersvergunning was aangemeld.",
+   "bron": [
+    16
+   ],
+   "citaat": "Er is namelijk wel degelijk parkeerbelasting betaald, enkel het verkeerde kenteken stond aangemeld voor de bezoekersvergunning"
+  },
+  {
+   "zin": "De gemeente vindt dat de parkeervergunning niet goed is gebruikt, omdat de regels niet zijn gevolgd.",
+   "bron": [
+    16
+   ],
+   "citaat": "omdat de voorwaarden van de parkeervergunning niet zijn nageleefd"
+  },
+  {
+   "zin": "De rechter zegt dat een vergunning alleen geldt als alle voorwaarden zijn gevolgd, ook bij een fout kenteken.",
+   "bron": [
+    17,
+    18
+   ],
+   "citaat": "Is aan één of meer van deze voorwaarden niet voldaan, dan is geen sprake van parkeren met die vergunning"
+  },
+  {
+   "zin": "De rechter vond geen bijzonder geval, en daarom blijft de aanslag staan, ook al was de fout niet opzettelijk.",
+   "bron": [
+    19
+   ],
+   "citaat": "is van een dusdanig bijzonder geval geen sprake"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de fout met het kenteken blijft voor rekening van de parkeerder.",
+ "gevolg_betrokkene": {
+  "zin": "De aanslag van € 83,45 blijft staan, en er is geen vergoeding van proceskosten.",
+  "bron": [
+   14,
+   21,
+   23
+  ],
+  "citaat": "is aan belanghebbende een naheffingsaanslag opgelegd van € 83,45"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Er was wel betaald; alleen het verkeerde kenteken stond bij de bezoekersvergunning.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De fout bij het aanmelden van het kenteken blijft voor rekening van de parkeerder.",
+    "bron": [
+     18
+    ],
+    "citaat": "Fouten bij het aanmelden van het kenteken blijven volgens de aan de vergunning gestelde voorwaarden voor rekening van belanghebbende"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het feit dat een ander kenteken is aangemeld en dat hiermee het tegoed van die vergunning wel is verminderd, doet hieraan niet af.",
+    "bron": [
+     18
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeren met een vergunning telt pas als aan alle voorwaarden van die vergunning is voldaan.",
+  "type": "regel",
+  "reikwijdte": "parkeren met een bezoekers- of andere parkeervergunning",
+  "uitzondering": "alleen in bijzondere gevallen (overmacht) kan strikte naleving redelijkerwijs niet worden gevergd",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   17
+  ],
+  "citaat": "Is aan één of meer van deze voorwaarden niet voldaan, dan is geen sprake van parkeren met die vergunning"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen fout gemaakt; de rechter legt de fout bij de parkeerder",
+ "raakt": [
+  "bezwaar",
+  "vergunningen",
+  "klantcontact"
+ ],
+ "klantuitleg": "Heeft u wel betaald, maar stond het verkeerde kenteken bij uw bezoekersvergunning? Dan is de rekening terecht, want een vergunning geldt alleen met het juiste kenteken. Een fout bij het invoeren blijft voor uw rekening, en bezwaar daarop heeft weinig kans.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

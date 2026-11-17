@@ -1,0 +1,47 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2026:7635",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "parkeerder (woont buiten Utrecht)", "wederpartij": "Belastingsamenwerking gemeenten en hoogheemraadschap Utrecht", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Dit gaat over een naheffingsaanslag (de rekening achteraf) voor parkeren op een feestdag in Utrecht. De parkeerder procedeert tegen de belastingsamenwerking bij de rechtbank Midden-Nederland.",
+ "titel": "Betaald parkeren op feestdagen: rekening blijft staan",
+ "kern": {"zin": "De rechter vond dat de gemeente haar plicht had gedaan en dat de parkeerder zelf had moeten nagaan of hij moest betalen.", "bron": [23], "citaat": "voldoende aan de informatieplicht voldaan en eiser niet aan zijn onderzoeksplicht"},
+ "samenvatting": [
+  {"zin": "Het ging om een naheffingsaanslag omdat de parkeerder in Utrecht niet had betaald.", "bron": [10], "citaat": "naheffingsaanslag parkeerbelasting voor het parkeren van zijn auto zonder parkeerbelasting"},
+  {"zin": "Volgens hem wist hij niet dat er op feestdagen betaald moest worden.", "bron": [17], "citaat": "niet op de hoogte was van het feit dat betaald parkeren geldt op feestdagen in Utrecht"},
+  {"zin": "De gemeente wees op mediaberichten uit 2022 over het nieuwe beleid.", "bron": [18], "citaat": "De wijziging van het parkeerbeleid is via diverse media, zowel regionaal als landelijk, gepubliceerd in 2022"},
+  {"zin": "De rechter vond dat de gemeente haar plicht had gedaan en de parkeerder niet zijn onderzoek.", "bron": [23], "citaat": "voldoende aan de informatieplicht voldaan en eiser niet aan zijn onderzoeksplicht"},
+  {"zin": "Het beroep is ongegrond en de parkeerder krijgt het griffierecht niet terug.", "bron": [26], "citaat": "Eiser krijgt ook het griffierecht niet terug"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; regels waren genoeg bekend, geen proceskosten",
+ "gevolg_betrokkene": {"zin": "De naheffing blijft staan, de parkeerder krijgt het griffierecht niet terug en er komt geen proceskostenvergoeding.", "bron": [26], "citaat": "Er bestaat geen aanleiding voor een proceskostenveroordeling"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "borden-onduidelijk", "burger_zegt": "Ter plekke was niet duidelijk aangegeven dat ook op feestdagen betaald moet worden.", "oordeel": "verworpen", "waarom": {"zin": "Op de parkeerautomaat stond wel vermeld dat er op feestdagen betaald moet worden.", "bron": [23], "citaat": "Op de parkeerautomaat stond vermeld dat betaald parkeren geldt op feestdagen"}, "bruikbare_zin": {"citaat": "Op de parkeerautomaat stond vermeld dat betaald parkeren geldt op feestdagen", "bron": [23]}},
+  {"arg": "gelijkheid", "burger_zegt": "De gemeente schrapte de ene aanslag uit coulance, maar de andere niet.", "oordeel": "verworpen", "waarom": {"zin": "De rechter zag geen reden om de gemeente inconsequent te noemen.", "bron": [24], "citaat": "ziet de rechtbank geen aanleiding"}, "bruikbare_zin": {"citaat": "naheffingsaanslagen niet langer meer fysiek op een voertuig worden aangebracht", "bron": [24]}},
+  {"arg": "overig", "burger_zegt": "De wijziging van het beleid was niet op de juiste manier bekendgemaakt.", "oordeel": "verworpen", "waarom": {"zin": "De rechter stelde vast dat de gemeente het beleid op de juiste wijze bekendmaakte.", "bron": [21], "citaat": "de heffingsambtenaar de betreffende beleidswijziging op de juiste wijze bekend heeft gemaakt"}, "bruikbare_zin": {"citaat": "waaruit volgt dat er geen uitzondering bestaat voor het betaald parkeren op feestdagen", "bron": [21]}},
+  {"arg": "overig", "burger_zegt": "Hij herkende zijn naam op de aanslag niet, en het heffen van griffierecht vond hij in strijd met een verdrag.", "oordeel": "verworpen", "waarom": {"zin": "Volgens de rechter kan de parkeerder zich niet aan de regels onttrekken door zijn naam te betwisten.", "bron": [22], "citaat": "Eiser kan zich niet aan deze regelgeving onttrekken"}, "bruikbare_zin": {"citaat": "Eiser kan zich niet aan deze regelgeving onttrekken", "bron": [22]}}
+ ],
+ "rechtsregel": {"zin": "De gemeente moet op de plek zelf duidelijk maken dat parkeerbelasting verschuldigd is.", "type": "regel", "reikwijdte": "betaald parkeren op de plek zelf", "uitzondering": null, "herkomst": "oordeel rechter", "bron": [23], "citaat": "rust op de heffingsambtenaar de plicht om ter plaatse kenbaar te maken dat parkeerbelasting verschuldigd is"},
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": [], "wat_gaf_doorslag": null},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": ["Verordening parkeerbelastingen gemeente Utrecht"],
+ "actie_gemeente": [
+  {"actie": "Vermeld op de parkeerautomaat ook dat er op feestdagen betaald moet worden.", "raakt": "bebording-verkeersbesluit", "bron": [23], "citaat": "Op de parkeerautomaat stond vermeld dat betaald parkeren geldt op feestdagen"},
+  {"actie": "Bewaar bewijs van de bekendmaking via media en website, zodat u die later kunt tonen.", "raakt": "communicatie", "bron": [23], "citaat": "op de website van de gemeente aandacht besteed aan het veranderde parkeerbeleid"}
+ ],
+ "reden_leeg_actie": null,
+ "raakt": ["bezwaar", "bebording-verkeersbesluit", "communicatie", "klantcontact"],
+ "klantuitleg": "Een parkeerrekening achteraf is terecht als op de plek duidelijk stond dat u moest betalen, ook op feestdagen. In deze zaak vond de rechter dat de gemeente dat goed had gedaan en dat u zelf had moeten nakijken welke regels gelden. Twijfelt u, kijk dan vooraf op de website van de gemeente of loop even rond om te zien of er betaald moet worden.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,144 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2025:6237",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Amsterdam een naheffing, omdat er geen parkeerbelasting was betaald. Hij ging in beroep bij de rechtbank Amsterdam, die het beroep te laat vond.",
+ "titel": "Beroep niet ontvankelijk omdat het te laat was ingediend",
+ "kern": {
+  "zin": "De rechter verklaarde het beroep niet-ontvankelijk (niet inhoudelijk te toetsen), omdat het te laat was ingediend.",
+  "bron": [
+   22,
+   20
+  ],
+  "citaat": "Naar het oordeel van de rechtbank is het beroep niet-ontvankelijk"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controleur zag op 10 juli 2024 dat voor de auto van de parkeerder niets was betaald.",
+   "bron": [
+    15
+   ],
+   "citaat": "Om 13.24 uur heeft een parkeercontroleur van de gemeente Amsterdam geconstateerd dat geen parkeerbelasting was voldaan."
+  },
+  {
+   "zin": "De gemachtigde van de parkeerder zei dat de beslissing pas na een ingebrekestelling was ontvangen.",
+   "bron": [
+    18
+   ],
+   "citaat": "De gemachtigde meent dat daarom sprake is van een verschoonbare termijnoverschrijding."
+  },
+  {
+   "zin": "De gemeente vond dat de beslissing al op 4 oktober per e-mail was verzonden.",
+   "bron": [
+    19
+   ],
+   "citaat": "de uitspraak op bezwaar op 4 oktober 2024 om 19.12 uur is verzonden"
+  },
+  {
+   "zin": "De rechter zag dat de gemachtigde zelf per e-mail had gereageerd, dus de mail mocht worden gebruikt.",
+   "bron": [
+    20
+   ],
+   "citaat": "De gemachtigde heeft immers het bezwaarschrift per e-mail bij de heffingsambtenaar ingediend."
+  },
+  {
+   "zin": "Het beroep kwam dus te laat binnen; de deadline lag op 15 november 2024.",
+   "bron": [
+    20
+   ],
+   "citaat": "de termijn voor het indienen van een beroepschrift eindigde op 15 november 2024"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep niet ontvankelijk; de naheffing is niet inhoudelijk getoetst.",
+ "gevolg_betrokkene": {
+  "zin": "De zaak wordt niet inhoudelijk behandeld, dus de parkeerder krijgt geen griffierecht of proceskosten terug.",
+  "bron": [
+   22
+  ],
+  "citaat": "Voor een proceskostenvergoeding of vergoeding van het griffierecht bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "Hij kreeg de beslissing pas na de ingebrekestelling, dus de late indiening was verschoonbaar.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag geen goede reden voor de te late indiening.",
+    "bron": [
+     21
+    ],
+    "citaat": "Dat hij de uitspraak op bezwaar pas na de ingebrekestelling heeft ontvangen, is niet aannemelijk gemaakt."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het is de rechtbank niet gebleken dat eiser een goede verontschuldiging heeft",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een beroepschrift telt als op tijd als het binnen de termijn is ontvangen.",
+  "type": "regel",
+  "reikwijdte": "Beroepschriften tegen een besluit, met een termijn van zes weken.",
+  "uitzondering": "Als het te laat indienen verschoonbaar is, gaat het beroep toch door.",
+  "herkomst": "wet",
+  "bron": [
+   17
+  ],
+  "citaat": "het voor het einde van de termijn is ontvangen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verzendbewijs van de e-mail van 4 oktober 2024",
+   "e-mailcorrespondentie van de gemachtigde",
+   "ingebrekestelling van 3 januari 2025"
+  ],
+  "wat_gaf_doorslag": "Het verzendbewijs van de e-mail van 4 oktober 2024 gaf de doorslag."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:7 Awb",
+  "art. 6:8 lid 1 Awb",
+  "art. 6:9 lid 1 Awb",
+  "art. 6:11 Awb",
+  "art. 2:14 lid 1 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar bij elke beslissing het verzendbewijs, zodat u later kunt aantonen wanneer de beslissing is verstuurd.",
+   "raakt": "communicatie",
+   "bron": [
+    20
+   ],
+   "citaat": "een verzendbewijs van de e-mail van 4 oktober 2024 heeft overgelegd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "communicatie"
+ ],
+ "klantuitleg": "Deze uitspraak gaat niet over de vraag of de naheffing terecht was, want het beroep kwam te laat binnen. Alleen als u een goede reden had voor de vertraging, kan de rechter het beroep wel inhoudelijk bekijken. Bewaar daarom alle berichten en de datum waarop u een beslissing hebt ontvangen.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

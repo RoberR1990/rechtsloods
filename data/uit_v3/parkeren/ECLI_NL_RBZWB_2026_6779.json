@@ -1,0 +1,129 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:6779",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Breda een naheffingsaanslag (de rekening achteraf). Hij ging in beroep bij de rechtbank Zeeland-West-Brabant, die het beroep gegrond verklaarde.",
+ "titel": "Rekening vernietigd: gemeente diende de stukken niet in",
+ "kern": {
+  "zin": "De rechter vernietigt de rekening, omdat de gemeente de stukken van de zaak niet indiende.",
+  "bron": [
+   15
+  ],
+  "citaat": "De heffingsambtenaar heeft verzuimd de op de zaak betrekking hebbende stukken in te dienen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Breda legde een naheffing op.",
+   "bron": [
+    10
+   ],
+   "citaat": "een naheffingsaanslag parkeerbelasting met [aanslagnummer] opgelegd"
+  },
+  {
+   "zin": "De parkeerder kwam met een beroep tegen de beslissing op zijn bezwaar.",
+   "bron": [
+    9
+   ],
+   "citaat": "tegen de uitspraak op bezwaar"
+  },
+  {
+   "zin": "Volgens de rechter liet de gemeente na de stukken in te dienen, wat in strijd is met de Awb.",
+   "bron": [
+    15
+   ],
+   "citaat": "heeft verzuimd de op de zaak betrekking hebbende stukken in te dienen"
+  },
+  {
+   "zin": "De rechter vernietigt de naheffing.",
+   "bron": [
+    17
+   ],
+   "citaat": "de naheffingsaanslag parkeerbelasting wordt vernietigd"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd, omdat de gemeente de stukken niet indiende.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing is van tafel en de gemeente moet het griffierecht van 53 euro teruggeven.",
+  "bron": [
+   24
+  ],
+  "citaat": "bepaalt dat de heffingsambtenaar het griffierecht van € 53"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder stelde dat de naheffing niet klopte; het precieze standpunt staat niet in de uitspraak.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter volgt de parkeerder, omdat de gemeente de stukken niet indiende.",
+    "bron": [
+     15
+    ],
+    "citaat": "De heffingsambtenaar heeft verzuimd de op de zaak betrekking hebbende stukken in te dienen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dit levert een schending van artikel 8:42 van de Awb op",
+    "bron": [
+     15
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een gemeente moet bij een beroep de stukken van de zaak aanleveren.",
+  "type": "regel",
+  "reikwijdte": "beroep tegen een naheffing: de stukken die bij de zaak horen",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   15
+  ],
+  "citaat": "rust op de heffingsambtenaar de verplichting om de op de zaak betrekking hebbende stukken in te dienen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De gemeente diende de stukken niet in."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:42 Awb",
+  "art. 8:31 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Dien bij een beroep altijd alle stukken van de zaak op tijd in.",
+   "raakt": "bezwaar",
+   "bron": [
+    15
+   ],
+   "citaat": "De heffingsambtenaar heeft verzuimd de op de zaak betrekking hebbende stukken in te dienen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren kan worden teruggedraaid als de gemeente bij beroep de benodigde stukken niet indient. Dat zegt niets over of de rekening in het algemeen terecht is. Wilt u weten of uw rekening klopt, vraag de gemeente dan om alle stukken van uw zaak.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

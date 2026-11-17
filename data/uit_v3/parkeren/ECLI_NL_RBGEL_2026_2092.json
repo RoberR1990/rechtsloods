@@ -1,0 +1,177 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBGEL:2026:2092",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "privaat-boete-voorwaarden",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {
+  "burger": "kentekenhouder (de parkeerder)",
+  "wederpartij": "exploitant (Q-Park)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "Een parkeerbedrijf vorderde geld van een kentekenhouder, wiens auto twee keer zonder te betalen uit een garage reed. De kantonrechter van de rechtbank Gelderland behandelde dit als civiele zaak over een parkeercontract.",
+ "titel": "Treintje rijden in garage: kentekenhouder moet betalen",
+ "kern": {
+  "zin": "De kantonrechter oordeelde dat de kentekenhouder de bestuurder was, omdat hij niet genoeg bewees dat zijn broer reed.",
+  "bron": [
+   54
+  ],
+  "citaat": "Hoewel [gedaagde] meermaals stelt dat hij niet de bestuurder is geweest, overlegt [gedaagde] geen nadere onderbouwing"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 22 november 2024 reed een auto twee keer met treintje rijden de garage uit.",
+   "bron": [
+    39
+   ],
+   "citaat": "De auto heeft dit beide keren gedaan door direct achter een voorganger onder de slagboom te rijden"
+  },
+  {
+   "zin": "Het tarief verloren kaart en een schadevergoeding werden van de kentekenhouder geëist.",
+   "bron": [
+    40
+   ],
+   "citaat": "en een schadevergoeding voor de twee overtredingen"
+  },
+  {
+   "zin": "De kentekenhouder zei dat zijn broer reed, en dat er daarom geen contract met hem was.",
+   "bron": [
+    49
+   ],
+   "citaat": "niet hij maar zijn broer [naam] de bestuurder van de auto was"
+  },
+  {
+   "zin": "Het parkeerbedrijf meent dat de overtreding een tekortkoming in het contract was.",
+   "bron": [
+    47
+   ],
+   "citaat": "Primair stelt Q-Park dat [gedaagde] hiermee toerekenbaar tekort is geschoten"
+  },
+  {
+   "zin": "De rechter vond dat de kentekenhouder het vermoeden onvoldoende had weerlegd.",
+   "bron": [
+    54
+   ],
+   "citaat": "het rechtsvermoeden dat hij de bestuurder is geweest, onvoldoende gemotiveerd heeft weerlegd"
+  },
+  {
+   "zin": "De kentekenhouder moet de hoofdsom betalen, plus rente.",
+   "bron": [
+    88
+   ],
+   "citaat": "veroordeelt [gedaagde] om aan Q-Park een bedrag van"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Q-Park krijgt hoofdsom, incassokosten en proceskosten toegewezen",
+ "gevolg_betrokkene": {
+  "zin": "De kentekenhouder betaalt 797,62 euro, 119,64 euro incassokosten en 892,78 euro proceskosten, met rente.",
+  "bron": [
+   88,
+   89,
+   90
+  ],
+  "citaat": "veroordeelt [gedaagde] om aan Q-Park een bedrag van"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "privaat-voorwaarden",
+   "burger_zegt": "De algemene voorwaarden van Q-Park bevatten onredelijk bezwarende bedingen die vernietigd moeten worden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De voorwaarden zelf vond de rechter niet oneerlijk, ook niet in samenhang bezien.",
+    "bron": [
+     57
+    ],
+    "citaat": "geen bedingen bevatten die, afzonderlijk én in onderlinge samenhang bezien, oneerlijk zijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen bedingen bevatten die, afzonderlijk én in onderlinge samenhang bezien, oneerlijk zijn",
+    "bron": [
+     57
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Het bedrag van 373,81 euro is te zwaar en staat niet in verhouding.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter is hier geen sprake van een buitensporige boete.",
+    "bron": [
+     58
+    ],
+    "citaat": "Van een buitensporige boete, die naar maatstaven van redelijkheid en billijkheid onaanvaardbaar zou zijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "dient immers als prikkel tot nakoming",
+    "bron": [
+     58
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij reed niet zelf; zijn broer was de bestuurder, dus er was geen contract.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kentekenhouder had niet genoeg bewezen dat zijn broer in de auto zat.",
+    "bron": [
+     54
+    ],
+    "citaat": "overlegt [gedaagde] geen nadere onderbouwing waarmee hij aantoont dat zijn broer in de auto reed"
+   },
+   "bruikbare_zin": {
+    "citaat": "een verklaring van zijn broer",
+    "bron": [
+     54
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie met een auto een garage binnenrijdt, sluit een contract met de exploitant; de kentekenhouder wordt in beginsel als bestuurder gezien.",
+  "type": "regel",
+  "reikwijdte": "parkeergarage van een bedrijf met slagboom, waarbij de kentekenhouder zegt dat een ander reed",
+  "uitzondering": "als de kentekenhouder aantoont dat een derde in de auto reed",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   53
+  ],
+  "citaat": "Door een parkeeraccommodatie van Q-Park binnen te rijden, komt er een overeenkomst tot stand"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring van de broer",
+   "NAW-gegevens van de broer (onvoldoende)"
+  ],
+  "wat_gaf_doorslag": "Zonder verklaring van de broer en na eerdere erkenning van het bestuurderschap woog het vermoeden zwaarder."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:234 BW",
+  "art. 6:230a BW",
+  "art. 6:230b BW",
+  "art. 6:96 BW",
+  "art. 6:119 BW"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "klantcontact"
+ ],
+ "klantuitleg": "Deze zaak gaat over de garage van een bedrijf, niet over een boete van de gemeente. Het bedrijf kan het tarief verloren kaart vorderen als u zonder te betalen wegrijdt, en extra schade als die er is. Zegt u dat iemand anders reed, dan moet u dat zelf aantonen, bijvoorbeeld met een verklaring van die persoon.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente als partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

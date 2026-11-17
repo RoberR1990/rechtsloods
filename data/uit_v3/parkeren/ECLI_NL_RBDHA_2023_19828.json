@@ -1,0 +1,137 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2023:19828",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeerde bij de rechtbank Den Haag tegen de gemeente Den Haag. Het ging om een naheffing (de rekening achteraf) van 68,50 euro, omdat de auto na de toegestane tijd nog stond zonder nieuwe betaling.",
+ "titel": "Na twee uur had hij opnieuw moeten aanmelden en betalen",
+ "kern": {
+  "zin": "De rechter vindt de naheffing terecht, omdat er na de eerste periode niet opnieuw is aangemeld en betaald.",
+  "bron": [
+   23
+  ],
+  "citaat": "Nu eiser dat niet heeft gedaan, is de naheffingsaanslag terecht opgelegd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente had de straat aangewezen als plek met betaald parkeren of met vergunning.",
+   "bron": [
+    15
+   ],
+   "citaat": "Deze locatie is door het college van burgemeester en wethouders van die gemeente aangewezen"
+  },
+  {
+   "zin": "Bij een controle bleek de auto zonder vergunning te staan en was er niet betaald.",
+   "bron": [
+    16
+   ],
+   "citaat": "zonder geldige parkeervergunning geparkeerd stond en dat ook geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "Het totaalbedrag was 68,50 euro, grotendeels kosten voor de naheffing.",
+   "bron": [
+    17
+   ],
+   "citaat": "aan kosten voor de naheffing"
+  },
+  {
+   "zin": "Hij zegt dat de toegestane tijd twee uur was en dat hij die had betaald.",
+   "bron": [
+    19
+   ],
+   "citaat": "Volgens eiser mocht maximaal 120 minuten worden geparkeerd"
+  },
+  {
+   "zin": "De gemeente stelt dat aanmeldtijd en parkeertijd niet hetzelfde zijn, en dat opnieuw betalen dus nodig was.",
+   "bron": [
+    20
+   ],
+   "citaat": "Een maximale aanmeldduur is iets anders dan een maximale parkeerduur"
+  },
+  {
+   "zin": "De rechter vindt de naheffing terecht, omdat de parkeerder niet opnieuw heeft aangemeld.",
+   "bron": [
+    23
+   ],
+   "citaat": "Nu eiser dat niet heeft gedaan, is de naheffingsaanslag terecht opgelegd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing blijft staan, zonder proceskostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan en er komt geen vergoeding van proceskosten.",
+  "bron": [
+   13,
+   25
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij mocht na 120 minuten nog maar betalen en daarna niet nog een naheffing krijgen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Na de maximale aanmeldduur moest hij opnieuw aanmelden en betalen, en dat was technisch mogelijk.",
+    "bron": [
+     23
+    ],
+    "citaat": "het kenteken opnieuw moeten aanmelden en opnieuw parkeerbelasting moeten voldoen"
+   },
+   "bruikbare_zin": {
+    "citaat": "een maximale aanmeldduur iets anders is dan een maximale parkeerduur",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie na de toegestane tijd niet opnieuw aanmeldt en betaalt, krijgt alsnog een naheffing.",
+  "type": "regel",
+  "reikwijdte": "betaald parkeren met een maximale aanmeldduur",
+  "uitzondering": null,
+  "herkomst": "lokale verordening",
+  "bron": [
+   23
+  ],
+  "citaat": "het kenteken opnieuw moeten aanmelden en opnieuw parkeerbelasting moeten voldoen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "controle op 12 juni 2022 om 20.22 uur"
+  ],
+  "wat_gaf_doorslag": "Dat de parkeerder na twee uur niet opnieuw had aangemeld en betaald."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 Gemeentewet",
+  "Verordening parkeerregulering en parkeerbelasting Den Haag 2022"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver toepassing van een lokale verordening in één zaak; geen verwijt aan de gemeente",
+ "raakt": [
+  "tarief-naheffing",
+  "klantcontact"
+ ],
+ "klantuitleg": "Bij betaald parkeren met een maximale aanmeldtijd moet u na die tijd opnieuw aanmelden en betalen. Doet u dat niet, dan kan de rekening van de gemeente toch komen. Wilt u bezwaar maken, dan is bewijs van uw betaling het belangrijkst; zonder nieuwe betaling heeft bezwaar weinig kans.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

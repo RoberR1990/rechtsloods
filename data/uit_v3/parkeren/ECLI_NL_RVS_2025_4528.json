@@ -1,0 +1,175 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:4528",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Dit is een zaak tussen een bewoner en de gemeente Amsterdam over het einde van een bewonersparkeervergunning. De gemeente ging in hoger beroep bij de Raad van State, omdat zij de uitspraak van de rechtbank niet eens was.",
+ "titel": "Bewoner mag bezwaar maken als gemeente vergunning laat aflopen",
+ "kern": {
+  "zin": "De rechter besliste dat het vastleggen van de einddatum van de vergunning in het digitale overzicht een besluit is, zodat de bewoner er bezwaar tegen mocht maken.",
+  "bron": [
+   41
+  ],
+  "citaat": "Deze vaststelling is op rechtsgevolg gericht, namelijk dat de vergunning niet wordt verlengd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner had sinds 2004 een bewonersparkeervergunning in Amsterdam.",
+   "bron": [
+    21
+   ],
+   "citaat": "was tussen november 2004 en september 2020 in het bezit van een bewonersparkeervergunning"
+  },
+  {
+   "zin": "De gemeente beëindigde de vergunning in september 2020, omdat het parkeergeld niet was betaald.",
+   "bron": [
+    21
+   ],
+   "citaat": "Het college heeft deze bewonersvergunning in september 2020 gedeactiveerd omdat [wederpartij] de parkeergelden niet heeft voldaan"
+  },
+  {
+   "zin": "De bewoner maakte meerdere keren bezwaar tegen het einde van zijn vergunning.",
+   "bron": [
+    23
+   ],
+   "citaat": "[wederpartij] vanaf 23 december 2020 meerdere keren bij het college bezwaren heeft geuit tegen het eindigen van zijn bewonersvergunning"
+  },
+  {
+   "zin": "De gemeente zei dat de einddatum in het systeem maar een handeling van de computer was en geen besluit.",
+   "bron": [
+    33
+   ],
+   "citaat": "de registratie van de einddatum van de vergunning een geautomatiseerde, feitelijke handeling is"
+  },
+  {
+   "zin": "De rechter vond dat het wel een besluit is en dat de gemeente niet op het hele bezwaar had beslist.",
+   "bron": [
+    41
+   ],
+   "citaat": "Daarmee is sprake van een besluit als bedoeld in artikel 1:3 van de Awb"
+  },
+  {
+   "zin": "De gemeente moet nu opnieuw en inhoudelijk beslissen op het bezwaar van de bewoner.",
+   "bron": [
+    54
+   ],
+   "citaat": "Het college moet opnieuw - en ditmaal inhoudelijk - beslissen op het bezwaar"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Bezwaar is ontvankelijk; gemeente moet inhoudelijk opnieuw beslissen.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet opnieuw en inhoudelijk beslissen op het bezwaar van de bewoner; de gemeente betaalt € 548 griffierecht en proceskosten worden niet vergoed.",
+  "bron": [
+   54,
+   64
+  ],
+  "citaat": "Het college moet opnieuw - en ditmaal inhoudelijk - beslissen op het bezwaar"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "Mijn bezwaar was niet te laat, want ik kreeg geen apart bericht over het einde van de vergunning.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De bewoner kreeg het besluit niet apart en er stond geen bezwaarinfo bij, dus de late reactie is verschoonbaar.",
+    "bron": [
+     44
+    ],
+    "citaat": "dat besluit niet separaat aan [wederpartij] is toegezonden en in het digitale overzicht geen rechtsmiddelenclausule is opgenomen"
+   },
+   "bruikbare_zin": {
+    "citaat": "in het digitale overzicht geen rechtsmiddelenclausule is opgenomen is de termijnoverschrijding bij het maken van bezwaar verschoonbaar",
+    "bron": [
+     44
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het einde van mijn vergunning is een besluit waartegen ik bezwaar kan maken, ook al staat het alleen in mijn online account.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter zag de vastlegging van de einddatum als schriftelijk vastgelegd besluit om de vergunning niet te verlengen.",
+    "bron": [
+     41
+    ],
+    "citaat": "Hiermee is het besluit van het college om de bewonersvergunning niet te verlengen schriftelijk vastgelegd"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat de registratie van de einddatum van de vergunning in het digitale overzicht van de accountgegevens van [wederpartij] een geautomatiseerde, feitelijke handeling is, maakt dit niet anders",
+    "bron": [
+     41
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wordt in een digitaal overzicht vastgelegd dat een vergunning niet wordt verlengd, dan is dat een besluit waartegen bezwaar open staat.",
+  "type": "regel",
+  "reikwijdte": "Registratie van de einddatum van een bewonersvergunning omdat de verschuldigde parkeerbelasting niet tijdig is betaald.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   41
+  ],
+  "citaat": "Deze vaststelling is op rechtsgevolg gericht, namelijk dat de vergunning niet wordt verlengd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De vaststelling dat de vergunning niet wordt verlengd was gericht op een rechtsgevolg."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 1:3 Awb",
+  "art. 6:12 Awb",
+  "art. 8:69 lid 2 Awb",
+  "art. 27 Parkeerverordening 2013 Amsterdam",
+  "art. 38 Parkeerverordening 2013 Amsterdam"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Stuur het besluit dat een vergunning niet wordt verlengd apart naar de houder, met uitleg over bezwaar en termijn.",
+   "raakt": "bezwaar",
+   "bron": [
+    44
+   ],
+   "citaat": "dat besluit niet separaat aan [wederpartij] is toegezonden en in het digitale overzicht geen rechtsmiddelenclausule is opgenomen"
+  },
+  {
+   "actie": "Lees bezwaren tegen het einde van een vergunning ook zo, als de burger daarna een nieuwe aanvraag doet.",
+   "raakt": "bezwaar",
+   "bron": [
+    31
+   ],
+   "citaat": "bezwaren en het beroep van [wederpartij] steeds waren gericht tegen het beëindigen van zijn bewonersvergunning"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "vergunningen",
+  "communicatie",
+  "klantcontact"
+ ],
+ "klantuitleg": "Stopt uw parkeervergunning omdat het parkeergeld niet is betaald, ook als dat alleen in uw online account staat? Dan is dat een besluit van de gemeente en mag u er bezwaar tegen maken. Maak bij twijfel snel schriftelijk bezwaar en bewaar uw betaalgegevens, want de gemeente moet uw bezwaar dan echt beoordelen.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

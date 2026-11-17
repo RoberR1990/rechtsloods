@@ -1,0 +1,137 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2022:1110",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": null,
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "stichting Inlichtingenbureau",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger uit Amsterdam vroeg per e-mail om inzage in zijn persoonsgegevens bij de stichting Inlichtingenbureau. Die verwees hem naar zijn gemeente of waterschap. Hij ging in beroep bij de rechtbank Amsterdam.",
+ "titel": "Inzageverzoek bij ondersteunende stichting: rechter niet bevoegd",
+ "kern": {
+  "zin": "De rechter is niet bevoegd, want de stichting doet alleen feitelijk werk voor gemeenten en is geen zelfstandig overheidsorgaan.",
+  "bron": [
+   16
+  ],
+  "citaat": "zodat verweerder geen zelfstandig bestuursorgaan is"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de stichting per e-mail om inzage in zijn persoonsgegevens. De stichting verwees hem naar zijn gemeente of waterschap.",
+   "bron": [
+    12
+   ],
+   "citaat": "Eiser heeft op 29 december 2020 per e-mail een verzoek om inzage op grond van de AVG bij verweerder ingediend."
+  },
+  {
+   "zin": "De burger zegt dat de stichting een overheidsorgaan is, waarvoor de Awb (Algemene wet bestuursrecht) geldt.",
+   "bron": [
+    13
+   ],
+   "citaat": "dat de Awb van toepassing is en dat verweerder een bestuursorgaan is"
+  },
+  {
+   "zin": "De rechter ziet dat de stichting in opdracht van gemeenten feitelijk werk doet. De wettelijke taken blijven bij de gemeenten.",
+   "bron": [
+    16
+   ],
+   "citaat": "Wettelijke bevoegdheden en verplichtingen blijven onveranderd op de gemeenten en die derden rusten"
+  },
+  {
+   "zin": "Daarom is er geen besluit waartegen beroep kan, en is de bestuursrechter niet bevoegd.",
+   "bron": [
+    17
+   ],
+   "citaat": "De bestuursrechter van de rechtbank is kennelijk onbevoegd om van het beroepschrift van eiser kennis te nemen."
+  },
+  {
+   "zin": "De rechter wijst erop dat de burger zijn inzageverzoek bij een bestuursorgaan kan indienen. Tegen de beslissing daarop kan hij bezwaar en beroep instellen.",
+   "bron": [
+    18
+   ],
+   "citaat": "tegen een besluit dat door een bestuursorgaan op een AVG-verzoek is genomen, bezwaar kan worden gemaakt"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Rechter onbevoegd; inzageverzoek moet bij het bestuursorgaan zelf.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt via deze zaak geen inzage; hij moet zijn verzoek bij het bestuursorgaan indienen. Hij betaalt geen griffierecht en krijgt geen proceskosten vergoed.",
+  "bron": [
+   19,
+   20
+  ],
+  "citaat": "Eiser is geen griffierecht verschuldigd."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De stichting is een bestuursorgaan en verwerkt gegevens van overheidsorganen, dus de Awb geldt en hij hoeft niet bij alle overheidsorganen apart te vragen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De stichting voert feitelijk werk uit in opdracht van gemeenten, terwijl de wettelijke taken bij de gemeenten blijven.",
+    "bron": [
+     16
+    ],
+    "citaat": "Verweerder verricht – in opdracht en ten dienste van de gemeenten – feitelijke werkzaamheden."
+   },
+   "bruikbare_zin": {
+    "citaat": "Wettelijke bevoegdheden en verplichtingen blijven onveranderd op de gemeenten en die derden rusten",
+    "bron": [
+     16
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een stichting die alleen ondersteunend feitelijk werk voor gemeenten doet, is geen bestuursorgaan; er is dan geen besluit en geen beroep.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Stichting Inlichtingenbureau, die gemeentelijke sociale diensten ondersteunt bij gegevensuitwisseling.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   16
+  ],
+  "citaat": "Verweerder is belast met ondersteunende werkzaamheden voor de gegevensuitwisseling tussen gemeentelijke sociale diensten en andere instanties."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "e-mails van 29 december 2020 en 26 januari 2021",
+   "stukken van de burger"
+  ],
+  "wat_gaf_doorslag": "De stichting verricht in opdracht van gemeenten alleen feitelijke werkzaamheden."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 1:1 Awb",
+  "art. 1:3 Awb",
+  "art. 8:54 lid 1 Awb",
+  "art. 15 AVG",
+  "art. 34 Uitvoeringswet AVG",
+  "art. 35 Uitvoeringswet AVG",
+  "art. 29 Comptabiliteitswet"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Wilt u weten welke gegevens een gemeente van u heeft, dan vraagt u inzage bij de gemeente zelf. Een organisatie die alleen ondersteunend werk voor gemeenten doet, is volgens deze rechter geen zelfstandig overheidsorgaan; daar kunt u niet bij de bestuursrechter terecht. Tegen de beslissing van de gemeente op uw verzoek kunt u wel bezwaar maken en daarna in beroep gaan.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente partij (stichting Inlichtingenbureau)",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

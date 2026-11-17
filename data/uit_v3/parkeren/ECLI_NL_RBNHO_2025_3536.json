@@ -1,0 +1,168 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2025:3536",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Haarlem",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Dit gaat over een aanvraag voor een parkeervergunning voor een woning in Haarlem. De bewoner procedeert tegen het college van burgemeester en wethouders van Haarlem bij de rechtbank Noord-Holland, zittingsplaats Haarlem.",
+ "titel": "Geen parkeervergunning: garage van de woning telt als eigen parkeerplaats",
+ "kern": {
+  "zin": "De rechter vond dat het college terecht uitging van eigen parkeergelegenheid, dus de weigering blijft staan.",
+  "bron": [
+   34,
+   38
+  ],
+  "citaat": "heeft het college zich terecht op het standpunt gesteld dat ook daadwerkelijk sprake is van eigen parkeergelegenheid"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner vroeg op 1 november 2023 een parkeervergunning aan, en het college wees die af.",
+   "bron": [
+    17,
+    18
+   ],
+   "citaat": "een aanvraag ingediend voor een parkeervergunning"
+  },
+  {
+   "zin": "De bewoner vindt dat de parkeerruimte in de garage te kort is, minder dan 5 meter.",
+   "bron": [
+    31
+   ],
+   "citaat": "De aangebrachte parkeerruimte is dus kleiner dan de minimale vereiste lengte van 5 meter"
+  },
+  {
+   "zin": "Het college zei dat de garage 4,67 meter breed en 5,31 meter lang is.",
+   "bron": [
+    26
+   ],
+   "citaat": "is zijn garage 4,67 meter breed en 5,31 meter lang"
+  },
+  {
+   "zin": "De rechter vond dat de bouwverordening alleen naar de afmetingen kijkt, niet naar deuren of obstakels.",
+   "bron": [
+    34
+   ],
+   "citaat": "Artikel 2.5.30 van de bouwverordening ziet namelijk enkel op de afmetingen van de ruimte"
+  },
+  {
+   "zin": "De rechter vond de buren geen gelijke gevallen, omdat voor de woning van de bewoner de voorwaarde in de vergunning staat.",
+   "bron": [
+    39
+   ],
+   "citaat": "waarvoor expliciet in de omgevingsvergunning de voorwaarde is gesteld"
+  },
+  {
+   "zin": "De bewoner krijgt geen parkeervergunning en krijgt het griffierecht niet terug.",
+   "bron": [
+    41
+   ],
+   "citaat": "Hij krijgt ook geen vergoeding van zijn proceskosten"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond: geen parkeervergunning, de woning heeft eigen parkeergelegenheid.",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner krijgt geen parkeervergunning en krijgt het griffierecht niet terug.",
+  "bron": [
+   41
+  ],
+  "citaat": "Hij krijgt ook geen vergoeding van zijn proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gelijkheid",
+   "burger_zegt": "De vorige eigenaar en de buren kregen wel een parkeervergunning, dus ik ook.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat het college geen fout hoeft te herhalen, en dat de buren geen gelijke gevallen zijn.",
+    "bron": [
+     38,
+     39
+    ],
+    "citaat": "strekt zich echter niet zover dat het college gehouden is om een eerder gemaakte fout te herhalen"
+   },
+   "bruikbare_zin": {
+    "citaat": "strekt zich echter niet zover dat het college gehouden is om een eerder gemaakte fout te herhalen",
+    "bron": [
+     38
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik mag erop vertrouwen dat de vergunning van de vorige eigenaar blijft gelden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de vergunning van de vorige eigenaar geen toezegging aan de bewoner was.",
+    "bron": [
+     38
+    ],
+    "citaat": "De parkeervergunning van de vorige eigenaar is geen toezegging"
+   },
+   "bruikbare_zin": {
+    "citaat": "De parkeervergunning van de vorige eigenaar is geen toezegging",
+    "bron": [
+     38
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor een beroep op het vertrouwensbeginsel moet er een toezegging of andere uitlating van het college zijn.",
+  "type": "regel",
+  "reikwijdte": "beroep op het vertrouwensbeginsel bij een parkeervergunning",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   38
+  ],
+  "citaat": "toezeggingen of andere uitlatingen zijn gedaan waaruit hij redelijkerwijs kon en mocht afleiden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "omgevingsvergunning met de voorwaarde van eigen parkeren",
+   "plattegrond van de woning",
+   "advies van de parkeeradviseur"
+  ],
+  "wat_gaf_doorslag": "De afmetingen van de garage op de plattegrond en het advies van de parkeeradviseur."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 4 lid 3 parkeerverordening 2018 Haarlem",
+  "art. 2.5.30 lid 2 Haarlemse Bouwverordening"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Onderbouw bij een beroep op gelijkheid concreet waarom andere woningen niet vergelijkbaar zijn.",
+   "raakt": "vergunningen",
+   "bron": [
+    39
+   ],
+   "citaat": "Het college heeft in dit geval voldoende toegelicht dat de woningen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "vergunningen"
+ ],
+ "klantuitleg": "Heeft uw woning eigen parkeergelegenheid die aan de maten voldoet, dan krijgt u geen parkeervergunning voor de straat. Dat blijft zo, ook als de deuren de ruimte kleiner maken; dat komt voor uw rekening. Vindt u dat andere woningen wel recht hebben op een vergunning, dan moet u concreet laten zien dat die woningen vergelijkbaar zijn; of dat lukt, is niet zeker.",
+ "gemeente": "Haarlem",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,187 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "ecli": "ECLI:NL:GHDHA:2022:1701",
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Delft",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een automobilist kreeg in Delft een naheffingsaanslag (een rekening achteraf) voor parkeerbelasting. Hij ging in hoger beroep bij het gerechtshof Den Haag tegen de gemeente Delft.",
+ "titel": "Verwarrende parkeerborden in Delft: rekening achteraf vernietigd",
+ "kern": {
+  "zin": "De rechter vernietigt de naheffing, omdat de borden de parkeerder in verwarring brachten en de gemeente dat risico draagt.",
+  "bron": [
+   41
+  ],
+  "citaat": "De door de gemeente Delft gecreëerde verwarring komt in dit geval voor haar rekening en risico"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder zette zijn auto in een zone in Delft waar alleen met een vergunning of dagvergunning geparkeerd mocht worden.",
+   "bron": [
+    18
+   ],
+   "citaat": "parkeerplaatsen voor betaald parkeren waar alleen geparkeerd mag worden met een geldige parkeervergunning of een dagvergunning"
+  },
+  {
+   "zin": "De parkeerder betaalde via de app Yellowbrick € 7,98 aan parkeerbelasting.",
+   "bron": [
+    19
+   ],
+   "citaat": "Hiervoor is een bedrag van € 7,98 aan parkeerbelasting betaald"
+  },
+  {
+   "zin": "De gemeente legde een naheffing op, omdat de auto niet met een vergunning of dagvergunning stond.",
+   "bron": [
+    20
+   ],
+   "citaat": "niet is geparkeerd met een geldige parkeervergunning of een dagvergunning"
+  },
+  {
+   "zin": "De parkeerder vindt dat het parkeerregime niet duidelijk genoeg was; de gemeente vindt van wel.",
+   "bron": [
+    33
+   ],
+   "citaat": "of het op de locatie geldende parkeerregime voldoende kenbaar was"
+  },
+  {
+   "zin": "De rechter vindt aannemelijk dat de parkeerder in verwarring raakte door twee verschillende borden aan één paal en een betaalautomaat in de buurt.",
+   "bron": [
+    41
+   ],
+   "citaat": "in dit specifieke geval in verwarring is gebracht door de omstandigheid dat voorbij het parkeerbord"
+  },
+  {
+   "zin": "De naheffing is vernietigd en de gemeente moet aanmaningskosten en griffierecht vergoeden.",
+   "bron": [
+    47,
+    55
+   ],
+   "citaat": "komt het Hof tot de conclusie dat de Heffingsambtenaar de naheffingsaanslag niet terecht heeft opgelegd"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd; gemeente betaalt € 7 aanmaningskosten en € 182 griffierecht.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft de naheffing niet te betalen en krijgt € 7 aanmaningskosten en € 182 griffierecht vergoed.",
+  "bron": [
+   55
+  ],
+  "citaat": "gelast de Heffingsambtenaar aan belanghebbende een bedrag van € 7 aan aanmaningskosten en € 182 aan griffierecht"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Een bord bij de parkeerplek wees op parkeren met vergunning of betalen per uur, dus de parkeerder mocht betalen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De verwarring door de borden komt voor rekening van de gemeente.",
+    "bron": [
+     41
+    ],
+    "citaat": "De door de gemeente Delft gecreëerde verwarring komt in dit geval voor haar rekening en risico"
+   },
+   "bruikbare_zin": {
+    "citaat": "deze verwarring voorkomen had kunnen worden door het parkeerbord aan de overkant van het kruispunt te plaatsen",
+    "bron": [
+     41
+    ]
+   }
+  },
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "De parkeerder betaalde per uur via de app en de app koos zelf de (onjuiste) zone.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De uitleg over de werking van de app ondersteunt het oordeel dat de parkeerder mocht denken dat betalen kon.",
+    "bron": [
+     41
+    ],
+    "citaat": "De door belanghebbende gegeven, en onweersproken gebleven, toelichting op de werking van de app Yellowbrick"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "(Standpunt van de gemeente) Een eerdere uitspraak over een bord met een ander regime aan de achterkant moet worden gevolgd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De zaken zijn niet vergelijkbaar, dus de eerdere uitspraak geldt hier niet.",
+    "bron": [
+     44
+    ],
+    "citaat": "Het Hof oordeelt dat er dus geen sprake is van vergelijkbare gevallen"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente moet het parkeerregime met borden en aanduidingen op parkeerapparatuur voldoende duidelijk aangeven; de parkeerder moet zich ter plaatse op de hoogte stellen.",
+  "type": "regel",
+  "reikwijdte": "Parkeerlocaties waar het parkeerregime met borden en parkeerapparatuur wordt aangegeven; het wordt per geval beoordeeld",
+  "uitzondering": "De onderzoeksplicht van de parkeerder gaat niet zover dat hij om een bord heen moet lopen om de achterkant te lezen.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   38
+  ],
+  "citaat": "Van de Heffingsambtenaar mag daarentegen worden verwacht dat, onder andere door middel van bebording en aanduidingen op parkeerapparatuur"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto's en plattegronden van de parkeerder",
+   "aanwijzingsbesluit betaald parkeren Delft 2019"
+  ],
+  "wat_gaf_doorslag": "Twee verschillende borden aan één paal en een betaalautomaat in de buurt brachten de parkeerder in verwarring."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:1995:AA3126",
+   "ECLI:NL:HR:2020:1014",
+   "ECLI:NL:GHDHA:2020:860"
+  ]
+ },
+ "wetsartikelen": [
+  "Aanwijzingsbesluit betaald parkeren Delft 2019",
+  "Verordening parkeerregulering en parkeerbelasting Delft 2019"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Plaats borden met een verschillend parkeerregime zo dat duidelijk is vanaf welk punt het andere regime geldt, bijvoorbeeld aan de overkant van het kruispunt",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    41
+   ],
+   "citaat": "deze verwarring voorkomen had kunnen worden door het parkeerbord aan de overkant van het kruispunt te plaatsen"
+  },
+  {
+   "actie": "Controleer of de betaalapp op een plek met een afwijkend parkeerregime niet de verkeerde zone of het verkeerde tarief toont",
+   "raakt": "betaalapp",
+   "bron": [
+    41
+   ],
+   "citaat": "app Yellowbrick, die zelf de toepasselijke parkeerzone zoekt"
+  }
+ ],
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "betaalapp",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een rekening achteraf voor parkeren kan onterecht zijn als de borden zo verwarrend waren dat u redelijkerwijs dacht dat betalen per uur mocht. Dan ligt het risico bij de gemeente. Maak foto's van de borden en de omgeving en voeg die toe aan uw bezwaar.",
+ "gemeente": "Delft",
+ "zekerheid": "middel"
+}

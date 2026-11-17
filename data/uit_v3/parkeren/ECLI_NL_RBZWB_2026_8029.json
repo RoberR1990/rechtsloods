@@ -1,0 +1,172 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:8029",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (gemachtigd via Meesterboete.nl)",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg in Breda een naheffing (de rekening achteraf) van 55,05 euro. De gemeente vernietigde die later, maar de parkeerder kreeg daarna bij de rechtbank Zeeland-West-Brabant gelijk op kosten en een dwangsom.",
+ "titel": "Gemeente besliste te laat en betaalt kosten en extra bedrag",
+ "kern": {
+  "zin": "De rechter oordeelde dat de gemeente ten onrechte de kosten van het bezwaar niet vergoedde en te laat op het bezwaar besliste.",
+  "bron": [
+   23
+  ],
+  "citaat": "heeft de heffingsambtenaar ten onrechte geen kostenvergoeding toegekend"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde een naheffing van 55,05 euro op en vernietigde die later in het bezwaar.",
+   "bron": [
+    18,
+    19
+   ],
+   "citaat": "is aan belanghebbende een naheffingsaanslag opgelegd van € 55,05"
+  },
+  {
+   "zin": "De parkeerder vroeg om een dwangsom, omdat de gemeente niet op tijd op het bezwaar had beslist.",
+   "bron": [
+    31,
+    32
+   ],
+   "citaat": "Belanghebbende heeft verzocht om toekenning van een dwangsom wegens het niet-tijdig doen van uitspraak op bezwaar."
+  },
+  {
+   "zin": "De gemeente stuurde de gevraagde stukken niet op en verscheen niet ter zitting.",
+   "bron": [
+    26,
+    29
+   ],
+   "citaat": "De heffingsambtenaar heeft niet op deze verzoeken gereageerd."
+  },
+  {
+   "zin": "Het dossier was zo onvolledig dat de rechter op de stukken van de parkeerder afging.",
+   "bron": [
+    29
+   ],
+   "citaat": "het dossier in verregaande mate incompleet is"
+  },
+  {
+   "zin": "De rechter zei dat de gemeente een dwangsom van 1.127 euro verschuldigd is, omdat de gemeente te laat had beslist.",
+   "bron": [
+    35
+   ],
+   "citaat": "Dit betekent dat een dwangsom van € 1.127"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Parkeerder wint op kosten en late beslissing; naheffing was al weg.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet een dwangsom (geld voor te laat beslissen) van 1.127 euro betalen, en aan de parkeerder 1.133 euro proceskosten en 51 euro griffierecht vergoeden.",
+  "bron": [
+   45,
+   44,
+   43
+  ],
+  "citaat": "veroordeelt de heffingsambtenaar tot betaling van € 1.133 aan proceskosten aan belanghebbende."
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente besliste te laat op het bezwaar, en daarvoor is een dwangsom verschuldigd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De beslissing kwam te laat, want de termijn voor het bezwaar was al verstreken.",
+    "bron": [
+     32,
+     33
+    ],
+    "citaat": "Dit betekent dat het besluit niet op tijd is genomen."
+   },
+   "bruikbare_zin": {
+    "citaat": "Dit betekent dat het besluit niet op tijd is genomen.",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De kosten van de bezwaarfase moeten door de gemeente worden vergoed.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente had ten onrechte geen kosten van het bezwaar vergoed.",
+    "bron": [
+     23
+    ],
+    "citaat": "heeft de heffingsambtenaar ten onrechte geen kostenvergoeding toegekend"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft de heffingsambtenaar ten onrechte geen kostenvergoeding toegekend",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bestuursorgaan dat te laat beslist, betaalt per dag een dwangsom, maximaal 42 dagen.",
+  "type": "regel",
+  "reikwijdte": "besluiten die niet op tijd worden genomen, zoals op bezwaar",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   35
+  ],
+  "citaat": "moet het bestuursorgaan een dwangsom betalen voor elke dag dat het te laat is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "brief van 18 maart 2024",
+   "stukken van de parkeerder"
+  ],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:42 Awb",
+  "art. 8:31 Awb",
+  "art. 8:55c Awb",
+  "Besluit proceskostenvergoeding bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Reageer op verzoeken van de rechter en lever de gevraagde stukken op tijd aan.",
+   "raakt": "bezwaar",
+   "bron": [
+    26
+   ],
+   "citaat": "De heffingsambtenaar heeft niet op deze verzoeken gereageerd."
+  },
+  {
+   "actie": "Zet brieven die als ingebrekestelling kunnen gelden direct door naar de afdeling die over bezwaren gaat.",
+   "raakt": "bezwaar",
+   "bron": [
+    33
+   ],
+   "citaat": "dient voor rekening van de heffingsambtenaar te komen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar"
+ ],
+ "klantuitleg": "De gemeente heeft de naheffing al vernietigd, dus u hoeft die niet te betalen. De rechter vond dat de gemeente de kosten van het bezwaar moet vergoeden en te laat was met het besluit. Duurt een beslissing op uw bezwaar te lang, dan kunt u de gemeente schriftelijk vragen om alsnog te beslissen.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

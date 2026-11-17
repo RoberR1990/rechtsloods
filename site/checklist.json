@@ -1,0 +1,523 @@
+{
+ "_uitleg": "Per onderwerp en deel een korte lijst vragen over wat de gemeente zelf geregeld heeft. Antwoord per vraag: Op orde, Aandachtspunt of Weet niet. Elke vraag volgt uit een toetspunt en een uitspraak (bron = ECLI).",
+ "parkeren": {
+  "kenbaarheid": [
+   {
+    "vraag": "Is op elke betaalplek met een bord, markering of automaat duidelijk te zien dat er betaald moet worden?",
+    "bron": "ECLI:NL:GHSHE:2022:3104",
+    "van": "Is op de plek zelf te zien (bord, markering, automaat) dat hier betaald moet worden?"
+   },
+   {
+    "vraag": "Zijn alle borden actueel, en worden oude borden direct weggehaald?",
+    "bron": "ECLI:NL:GHARL:2016:8748",
+    "van": "Staan er borden die niet meer kloppen of weg hadden gemoeten?"
+   },
+   {
+    "vraag": "Is voor parkeerders duidelijk hoe ze moeten betalen en hoe lang dat geldt?",
+    "bron": "ECLI:NL:GHDHA:2025:321",
+    "van": "Is voor een parkeerder duidelijk hoe hij moet betalen en hoe lang dat geldt (aanmelden, parkeerduur)?"
+   },
+   {
+    "vraag": "Kunnen jullie achteraf laten zien wat er ter plekke stond?",
+    "bron": "ECLI:NL:GHAMS:2020:2176",
+    "van": "Kunnen wij achteraf laten zien wat er ter plekke stond?"
+   }
+  ],
+  "begrip-parkeren": [
+   {
+    "vraag": "Is de regel voor laadplekken in de verordening duidelijk, en kunnen jullie laten zien dat de auto was aangesloten?",
+    "bron": "ECLI:NL:HR:2022:1127",
+    "van": "Staat bij een laadplek vast dat de auto was aangesloten, en is de regel in de verordening duidelijk?"
+   }
+  ],
+  "betalen": [
+   {
+    "vraag": "Zijn tarief en zone in de app, op de automaat en op het bord hetzelfde?",
+    "bron": "ECLI:NL:HR:2020:1014",
+    "van": "Zijn tarief en zone in de app, op de automaat en op het bord hetzelfde?"
+   },
+   {
+    "vraag": "Krijgen parkeerders redelijk de tijd om na het parkeren te betalen?",
+    "bron": "ECLI:NL:GHSHE:2018:564",
+    "van": "Hoeveel tijd had de parkeerder redelijkerwijs om na het parkeren te betalen?"
+   }
+  ],
+  "bewijs-scanauto": [
+   {
+    "vraag": "Heeft jullie scanwerkwijze genoeg waarborgen voor zorgvuldige gegevens, ook voor gps?",
+    "bron": "ECLI:NL:GHAMS:2022:906",
+    "van": "Heeft onze scanwerkwijze voldoende waarborgen voor zorgvuldige gegevens, ook voor gps?"
+   },
+   {
+    "vraag": "Gebruiken jullie de scan alleen om te controleren op betalen, en niet om verplaatsingen te volgen?",
+    "bron": "ECLI:NL:GHAMS:2018:145",
+    "van": "Gebruiken we de scan alleen om te controleren op betalen, en niet om verplaatsingen te volgen?"
+   },
+   {
+    "vraag": "Kunnen jullie laten zien dat de auto geparkeerd stond, ook als een foto ontbreekt?",
+    "bron": "ECLI:NL:GHDHA:2023:399",
+    "van": "Kunnen wij laten zien dat de auto geparkeerd stond, ook als een foto ontbreekt?"
+   },
+   {
+    "vraag": "Kunnen jullie bewijzen dat een aanslag of brief echt is aangeboden of verstuurd?",
+    "bron": "ECLI:NL:HR:2024:59",
+    "van": "Kunnen wij bewijzen dat aanslag of brief daadwerkelijk is aangeboden of verstuurd?"
+   }
+  ],
+  "naheffingskosten": [
+   {
+    "vraag": "Hebben alle kostenposten in jullie raming echt met het innen van niet betaalde parkeerbelasting te maken?",
+    "bron": "ECLI:NL:HR:2026:24",
+    "van": "Hangen alle kostenposten in onze raming meer dan zijdelings samen met het innen van niet betaalde parkeerbelasting?"
+   },
+   {
+    "vraag": "Blijft het bedrag onder het lagere van het wettelijke maximum en jullie eigen kostenraming?",
+    "bron": "ECLI:NL:GHARL:2025:590",
+    "van": "Blijft het bedrag onder het lagere van het wettelijke maximum en onze eigen kostenraming?"
+   },
+   {
+    "vraag": "Staat het vaste bedrag (forfait of dagtarief) helder in de verordening?",
+    "bron": "ECLI:NL:HR:2019:56",
+    "van": "Staat het vaste bedrag (forfait of dagtarief) helder in de verordening?"
+   },
+   {
+    "vraag": "Is een nieuw maximumbedrag op tijd bekendgemaakt?",
+    "bron": "ECLI:NL:GHDHA:2023:2043",
+    "van": "Is een nieuw maximumbedrag tijdig bekendgemaakt?"
+   }
+  ],
+  "vergunning-in-betaalgebied": [
+   {
+    "vraag": "Kan een burger een vergunning of kenteken online eenvoudig en eenduidig wijzigen?",
+    "bron": "ECLI:NL:GHDHA:2019:3414",
+    "van": "Kan een burger een vergunning of kenteken online eenvoudig en eenduidig wijzigen?"
+   },
+   {
+    "vraag": "Is op de plek duidelijk wat er geldt voor vergunninghouders en hoe anderen kunnen betalen?",
+    "bron": "ECLI:NL:GHDHA:2020:860",
+    "van": "Is op de plek duidelijk wat er geldt voor vergunninghouders en hoe anderen kunnen betalen?"
+   },
+   {
+    "vraag": "Kunnen jullie aantonen dat een herinnering of beëindiging van een vergunning is verstuurd?",
+    "bron": "ECLI:NL:GHAMS:2016:4325",
+    "van": "Kunnen wij aantonen dat een herinnering of beëindiging van een vergunning is verstuurd?"
+   },
+   {
+    "vraag": "Staat in de regels dat bij meerdere kentekens het juiste kenteken vooraf geactiveerd moet zijn?",
+    "bron": "ECLI:NL:GHDHA:2023:2454",
+    "van": "Is in de regels vastgelegd dat bij meerdere kentekens het juiste kenteken vooraf geactiveerd moet zijn?"
+   }
+  ],
+  "evenredigheid": [
+   {
+    "vraag": "Is jullie coulancebeleid duidelijk, en passen jullie het steeds hetzelfde toe?",
+    "bron": "ECLI:NL:RBZWB:2024:7819",
+    "van": "Is ons coulancebeleid duidelijk en passen we het steeds hetzelfde toe?"
+   },
+   {
+    "vraag": "Voorkomen jullie dat een burger in korte tijd veel naheffingen voor hetzelfde probleem krijgt?",
+    "bron": "ECLI:NL:RBOBR:2023:119",
+    "van": "Krijgt een burger in korte tijd veel naheffingen voor hetzelfde probleem?"
+   },
+   {
+    "vraag": "Is er een duidelijke route voor maatwerk bij bijzondere persoonlijke omstandigheden, bijvoorbeeld een handicap?",
+    "bron": "ECLI:NL:RBOBR:2025:5",
+    "van": "Is er een duidelijke route voor maatwerk bij bijzondere persoonlijke omstandigheden (bijv. een handicap)?"
+   }
+  ],
+  "procedure": [
+   {
+    "vraag": "Is bij elk bezwaar duidelijk in welke hoedanigheid iemand bezwaar maakt (bestuurder of kentekenhouder)?",
+    "bron": "ECLI:NL:HR:2019:440",
+    "van": "Zegt het bezwaar duidelijk in welke hoedanigheid iemand bezwaar maakt?"
+   },
+   {
+    "vraag": "Weten jullie wanneer horen verplicht is, en wanneer jullie de stukken niet hoeven toe te sturen?",
+    "bron": "ECLI:NL:HR:2023:1107",
+    "van": "Is horen verplicht? Zo niet, hoeven we de stukken dan niet toe te sturen?"
+   },
+   {
+    "vraag": "Beslissen jullie binnen de geldende termijn, en kennen jullie de regel voor het einde van het kalenderjaar?",
+    "bron": "ECLI:NL:HR:2026:492",
+    "van": "Beslissen we binnen de geldende termijn, en kennen we de regel voor het einde van het kalenderjaar?"
+   },
+   {
+    "vraag": "Leven jullie de hoorplicht zorgvuldig na, ook bij een verzoek om telefonisch te worden gehoord?",
+    "bron": "ECLI:NL:GHSHE:2018:1685",
+    "van": "Is de hoorplicht zorgvuldig nageleefd, ook bij een verzoek om telefonisch te worden gehoord?"
+   }
+  ],
+  "belastingplicht": [],
+  "invordering": [],
+  "gehandicaptenplaats": [
+   {
+    "vraag": "Staat de boete op de juiste feitcode, en is het bedrag niet hoger dan wat is opgelegd?",
+    "bron": "ECLI:NL:GHARL:2024:3905",
+    "van": "Staat de boete op de juiste feitcode, en is het bijbehorende bedrag niet hoger dan wat is opgelegd?"
+   }
+  ],
+  "verkeersbesluit": [
+   {
+    "vraag": "Is elk verkeersbesluit concreet onderbouwd, ook als een eerder besluit wordt ingetrokken?",
+    "bron": "ECLI:NL:RVS:2026:1043",
+    "van": "Is het besluit concreet onderbouwd, ook als een eerder verkeersbesluit wordt ingetrokken?"
+   },
+   {
+    "vraag": "Zijn de belangen uit artikel 2 van de Wegenverkeerswet zichtbaar afgewogen?",
+    "bron": "ECLI:NL:RVS:2017:2451",
+    "van": "Zijn de belangen uit artikel 2 van de Wegenverkeerswet zichtbaar afgewogen?"
+   },
+   {
+    "vraag": "Is de weg feitelijk toegankelijk voor iedereen, en dus open voor openbaar verkeer?",
+    "bron": "ECLI:NL:RVS:2023:599",
+    "van": "Is de weg feitelijk toegankelijk voor iedereen, en dus open voor openbaar verkeer?"
+   }
+  ],
+  "wahv-boete": [
+   {
+    "vraag": "Gebruiken jullie de specifieke feitcode als die bestaat voor wat de parkeerder deed?",
+    "bron": "ECLI:NL:GHARL:2024:3764",
+    "van": "Bestaat er een specifieke feitcode voor wat de parkeerder deed, en is die gebruikt?"
+   },
+   {
+    "vraag": "Is elk gebied dat als erf geldt, aangeduid met bord G5?",
+    "bron": "ECLI:NL:GHARL:2023:252",
+    "van": "Is het gebied een erf met bord G5, ongeacht hoe het eruitziet?"
+   }
+  ],
+  "wegslepen": [
+   {
+    "vraag": "Kunnen jullie aantonen dat de borden en de wegsleepregeling vooraf en op de juiste plek stonden?",
+    "bron": "ECLI:NL:GHARL:2022:1009",
+    "van": "Is aantoonbaar dat de borden en de wegsleepregeling vooraf en op de juiste plek stonden?"
+   },
+   {
+    "vraag": "Klopt het bedrag dat jullie op de eigenaar verhalen?",
+    "bron": "ECLI:NL:RVS:2024:716",
+    "van": "Klopt het bedrag dat op de eigenaar wordt verhaald?"
+   }
+  ],
+  "laadplek": [
+   {
+    "vraag": "Staat op het onderbord duidelijk of de plek alleen voor elektrische voertuigen is of voor het opladen?",
+    "bron": "ECLI:NL:GHARL:2020:576",
+    "van": "Wat staat er precies op het onderbord: alleen voor elektrische voertuigen, of voor het opladen?"
+   },
+   {
+    "vraag": "Is het onderbord duidelijk genoeg, en past de feitcode bij de combinatie van voertuigcategorie en doel?",
+    "bron": "ECLI:NL:GHARL:2023:1447",
+    "van": "Is het onderbord duidelijk genoeg en past de feitcode bij de combinatie van voertuigcategorie en doel?"
+   },
+   {
+    "vraag": "Volgt de aanwijzing van de laadplek het vastgestelde beleid, en is het belang van omwonenden afgewogen?",
+    "bron": "ECLI:NL:RVS:2025:439",
+    "van": "Volgt de aanwijzing van de plek het vastgestelde beleid, en is het belang van omwonenden afgewogen?"
+   }
+  ],
+  "maximale-duur": [
+   {
+    "vraag": "Is het zonebord (E10) bereikbaar en leesbaar op de route, en is de blauwe streep herkenbaar?",
+    "bron": "ECLI:NL:GHARL:2016:8837",
+    "van": "Is het zonebord (E10) bereikbaar en leesbaar op de route, en is de blauwe streep herkenbaar?"
+   }
+  ],
+  "bewonersvergunning": [
+   {
+    "vraag": "Is in de verordening duidelijk wanneer iemand over een parkeerplaats op eigen terrein kan beschikken?",
+    "bron": "ECLI:NL:RVS:2016:327",
+    "van": "Kan de aanvrager beschikken over een parkeerplaats op eigen terrein volgens de definitie in de verordening?"
+   },
+   {
+    "vraag": "Staat elke intrekkingsgrond letterlijk in de verordening, en niet alleen het bereikte plafond?",
+    "bron": "ECLI:NL:RVS:2018:1331",
+    "van": "Staat de intrekkingsgrond letterlijk in de verordening (en niet alleen het bereikte plafond)?"
+   },
+   {
+    "vraag": "Controleren jullie of de aanvrager in de Basisregistratie Personen op het adres staat ingeschreven?",
+    "bron": "ECLI:NL:RVS:2024:4614",
+    "van": "Is de aanvrager ingeschreven in de Basisregistratie Personen op het adres?"
+   },
+   {
+    "vraag": "Vragen jullie bij een beroep op de hardheidsclausule om een persoonlijke onderbouwing, niet alleen een algemene?",
+    "bron": "ECLI:NL:RVS:2023:4237",
+    "van": "Is een beroep op de hardheidsclausule persoonlijk onderbouwd, en niet alleen algemeen?"
+   }
+  ],
+  "plafond-wachtlijst": [
+   {
+    "vraag": "Kunnen jullie aantonen dat het maximum aantal vergunningen is bereikt?",
+    "bron": "ECLI:NL:RBMNE:2020:4198",
+    "van": "Is aantoonbaar dat het maximum aantal vergunningen is bereikt?"
+   },
+   {
+    "vraag": "Hebben jullie bij een nulplafond de gevolgen voor bestaande vergunninghouders afgewogen en gemotiveerd?",
+    "bron": "ECLI:NL:RBAMS:2024:1109",
+    "van": "Zijn bij het nulplafond de gevolgen voor bestaande vergunninghouders afgewogen en gemotiveerd?"
+   },
+   {
+    "vraag": "Zijn er toezeggingen of overgangsregels die het vertrouwen van vergunninghouders beschermen?",
+    "bron": "ECLI:NL:RBAMS:2024:3929",
+    "van": "Zijn er toezeggingen of overgangsregels die het vertrouwen van vergunninghouders beschermen?"
+   },
+   {
+    "vraag": "Beslissen jullie binnen de redelijke termijn op bezwaar na plaatsing op de wachtlijst?",
+    "bron": "ECLI:NL:RBAMS:2020:4856",
+    "van": "Wordt binnen de redelijke termijn op bezwaar na plaatsing op de wachtlijst beslist?"
+   }
+  ],
+  "bezoekersregeling": [
+   {
+    "vraag": "Is in de regeling duidelijk dat de bezoekersvergunning vanaf het begin van het parkeren voor het juiste kenteken actief moet zijn?",
+    "bron": "ECLI:NL:GHARL:2023:3566",
+    "van": "Is de bezoekersvergunning vanaf het begin van het parkeren geactiveerd voor het juiste kenteken?"
+   },
+   {
+    "vraag": "Is de uitleg op de website en bij de app duidelijk genoeg over wat wel en niet mag?",
+    "bron": "ECLI:NL:RBAMS:2019:4540",
+    "van": "Is de uitleg op website en bij de app duidelijk genoeg over wat wel en niet mag?"
+   },
+   {
+    "vraag": "Behandelen jullie gelijke gevallen, zoals flats in dezelfde buurt, gelijk?",
+    "bron": "ECLI:NL:RBOBR:2019:2193",
+    "van": "Zijn gelijke gevallen (zoals flats in dezelfde buurt) gelijk behandeld?"
+   }
+  ],
+  "bedrijfsvergunning": [
+   {
+    "vraag": "Controleren jullie of een bedrijf nog aan alle voorwaarden voldoet, zoals maximum per adres en stallingsplaats?",
+    "bron": "ECLI:NL:RBAMS:2023:3051",
+    "van": "Voldoet het bedrijf nog aan alle voorwaarden voor de vergunning, zoals maximum per adres en stallingsplaats?"
+   }
+  ],
+  "gehandicaptenkaart": [
+   {
+    "vraag": "Komt het medisch advies zorgvuldig tot stand, is het inzichtelijk en zijn alle stukken ter inzage gegeven?",
+    "bron": "ECLI:NL:RBNHO:2023:5616",
+    "van": "Is het medisch advies zorgvuldig tot stand gekomen en inzichtelijk, en zijn alle stukken ter inzage gegeven?"
+   },
+   {
+    "vraag": "Is het advies onpartijdig en objectief opgesteld?",
+    "bron": "ECLI:NL:RBROT:2025:11452",
+    "van": "Is het advies onpartijdig en objectief opgesteld?"
+   },
+   {
+    "vraag": "Beoordelen jullie bij een passagierskaart of de aanvrager continu van de hulp van de bestuurder afhankelijk is?",
+    "bron": "ECLI:NL:RBROT:2025:11452",
+    "van": "Is bij een passagierskaart beoordeeld of de aanvrager continu van de hulp van de bestuurder afhankelijk is?"
+   }
+  ],
+  "ontheffing": [
+   {
+    "vraag": "Motiveren jullie een weigering of beperking van een ontheffing met een concreet algemeen belang?",
+    "bron": "ECLI:NL:RVS:2019:222",
+    "van": "Is de weigering of beperking gemotiveerd met een concreet algemeen belang?"
+   },
+   {
+    "vraag": "Is een ontheffing actueel en zichtbaar in het voertuig?",
+    "bron": "ECLI:NL:RBNHO:2022:3398",
+    "van": "Is de ontheffing actueel en zichtbaar in het voertuig?"
+   },
+   {
+    "vraag": "Onderbouwen jullie bij intrekking van een ontheffing dat het algemeen belang dit vraagt?",
+    "bron": "ECLI:NL:RBROT:2021:881",
+    "van": "Is bij intrekking onderbouwd dat het algemeen belang dit vraagt (ontheffing van rechtswege)?"
+   }
+  ],
+  "parkeernorm-toets": [
+   {
+    "vraag": "Is de norm die jullie gebruiken vastgesteld beleid (een beleidsregel) dat voor dit plan geldt?",
+    "bron": "ECLI:NL:RVS:2025:635",
+    "van": "Is de gebruikte norm vastgesteld beleid (een beleidsregel) dat voor dit plan geldt?"
+   },
+   {
+    "vraag": "Laten jullie bij een lagere norm dan gebruikelijk met cijfers of een parkeeronderzoek zien hoe die norm is bepaald?",
+    "bron": "ECLI:NL:RVS:2021:2377",
+    "van": "Is bij een lagere norm dan gebruikelijk met cijfers of een parkeeronderzoek laten zien hoe die norm is bepaald?"
+   },
+   {
+    "vraag": "Is aangetoond waar de benodigde plaatsen komen, bijvoorbeeld met tekeningen van het eigen terrein?",
+    "bron": "ECLI:NL:RVS:2018:876",
+    "van": "Is aangetoond waar de benodigde plaatsen komen, bijvoorbeeld met tekeningen van het eigen terrein?"
+   }
+  ],
+  "parkeerbeleidsregels": [
+   {
+    "vraag": "Staat in het besluit zelf uitgelegd dat het aantal parkeerplaatsen voldoet aan de geldende norm?",
+    "bron": "ECLI:NL:RBMNE:2020:5729",
+    "van": "Staat in het besluit zelf uitgelegd dat het aantal parkeerplaatsen voldoet aan de geldende norm?"
+   },
+   {
+    "vraag": "Is in het besluit duidelijk van welke oppervlakte of welk aantal woningen is uitgegaan?",
+    "bron": "ECLI:NL:RBMNE:2017:4534",
+    "van": "Is duidelijk van welke oppervlakte of welk aantal woningen is uitgegaan bij de berekening?"
+   },
+   {
+    "vraag": "Kunnen jullie aantonen dat een tekort in de openbare ruimte kan worden opgevangen?",
+    "bron": "ECLI:NL:RBGEL:2019:649",
+    "van": "Kan een tekort aantoonbaar in de openbare ruimte worden opgevangen?"
+   },
+   {
+    "vraag": "Onderzoeken jullie bij een school of een Kiss & Ride-voorziening nodig is, ook als de parkeernota alleen naar CROW verwijst?",
+    "bron": "ECLI:NL:RBLIM:2020:9216",
+    "van": "Is bij een school onderzocht of een Kiss & Ride-voorziening nodig is, ook als de parkeernota voor de norm alleen naar de CROW-regels verwijst?"
+   },
+   {
+    "vraag": "Is bij een tekort de afkoopsom voor het parkeerfonds juist berekend en afgerond volgens de verordening?",
+    "bron": "ECLI:NL:RVS:2018:3562",
+    "van": "Is bij een tekort de afkoopsom voor het parkeerfonds juist berekend en afgerond volgens de verordening?"
+   }
+  ],
+  "afwijken-norm": [
+   {
+    "vraag": "Meten jullie de echte parkeerbezetting in de omgeving, met een acceptabele loopafstand, voordat jullie van de norm afwijken?",
+    "bron": "ECLI:NL:RBAMS:2018:67",
+    "van": "Is de echte parkeerbezetting in de omgeving gemeten, met een acceptabele loopafstand, voordat van de norm wordt afgeweken?"
+   },
+   {
+    "vraag": "Wegen jullie bestaande parkeerproblemen voor buren en nabije voorzieningen mee?",
+    "bron": "ECLI:NL:RBOBR:2022:3922",
+    "van": "Zijn bestaande parkeerproblemen voor buren en nabije voorzieningen meegewogen?"
+   }
+  ],
+  "parkeerdruk-omgeving": [
+   {
+    "vraag": "Laten jullie met actuele tellingen of een parkeerdrukonderzoek zien dat de parkeerdruk aanvaardbaar blijft?",
+    "bron": "ECLI:NL:RVS:2017:1956",
+    "van": "Is met actuele tellingen of een parkeerdrukonderzoek laten zien dat de parkeerdruk aanvaardbaar blijft?"
+   },
+   {
+    "vraag": "Zijn de metingen representatief (avond, weekend) en is de loopafstand redelijk?",
+    "bron": "ECLI:NL:RBDHA:2023:1565",
+    "van": "Zijn de metingen representatief (avond, weekend) en is de loopafstand redelijk?"
+   },
+   {
+    "vraag": "Voorkomen jullie dat er dubbel wordt geteld met plaatsen van een gesloopt gebouw of van een andere vergunning?",
+    "bron": "ECLI:NL:RBLIM:2017:1250",
+    "van": "Wordt er niet dubbel geteld met plaatsen van een gesloopt gebouw of van een andere vergunning?"
+   },
+   {
+    "vraag": "Zijn de gevolgen voor verkeer en parkeerdruk goed onderzocht, ook de bezwaren van omwonenden?",
+    "bron": "ECLI:NL:RBGEL:2021:1418",
+    "van": "Zijn de gevolgen voor verkeer en parkeerdruk goed onderzocht, ook de bezwaren van omwonenden?"
+   }
+  ],
+  "omgevingsplan": [
+   {
+    "vraag": "Is de behoefte aan het parkeerterrein onderbouwd met actuele, concrete gegevens?",
+    "bron": "ECLI:NL:RVS:2018:2674",
+    "van": "Is de behoefte aan het parkeerterrein onderbouwd met actuele, concrete gegevens?"
+   },
+   {
+    "vraag": "Is het verband tussen het parkeerterrein en bestaande voorzieningen duidelijk genoeg beschreven?",
+    "bron": "ECLI:NL:RVS:2018:2674",
+    "van": "Is het verband tussen het parkeerterrein en bestaande voorzieningen duidelijk genoeg beschreven?"
+   }
+  ],
+  "fietsparkeren": [
+   {
+    "vraag": "Zijn er genoeg fietsparkeerplaatsen in het bouwplan, en zo niet: kan een voorschrift het oplossen?",
+    "bron": "ECLI:NL:RBDHA:2021:7215",
+    "van": "Zijn er genoeg fietsparkeerplaatsen in het bouwplan, en zo niet: kan een voorschrift het oplossen?"
+   }
+  ],
+  "privaat-boete-voorwaarden": [
+   {
+    "vraag": "Staat de boete in een redelijke verhouding tot de verwachte schade en het belang van de exploitant?",
+    "bron": "ECLI:NL:RBGEL:2018:1651",
+    "van": "Staat de boete in een redelijke verhouding tot de verwachte schade en het belang van de exploitant?"
+   },
+   {
+    "vraag": "Is de boete gemaximeerd, en is er duidelijk voor gewaarschuwd, bijvoorbeeld bij de ingang?",
+    "bron": "ECLI:NL:RBAMS:2016:5270",
+    "van": "Is de boete gemaximeerd en is er duidelijk voor gewaarschuwd, bijvoorbeeld bij de ingang?"
+   }
+  ],
+  "garage-exploitatie": [
+   {
+    "vraag": "Is in het contract duidelijk wanneer een beschikbaarheidsvergoeding verschuldigd is, ook als abonnementen niet worden benut?",
+    "bron": "ECLI:NL:GHAMS:2019:282",
+    "van": "Is in het contract duidelijk wanneer een beschikbaarheidsvergoeding verschuldigd is, ook als abonnementen niet worden benut?"
+   },
+   {
+    "vraag": "Is de instemming van de gemeenteraad als voorwaarde in de overeenkomst opgenomen, en is er geen vertrouwen gewekt dat de raad instemt?",
+    "bron": "ECLI:NL:RBROT:2016:7086",
+    "van": "Is de instemming van de gemeenteraad als voorwaarde in de overeenkomst opgenomen, en is er geen vertrouwen gewekt dat de raad zal instemmen?"
+   }
+  ],
+  "schade-aansprakelijkheid": [
+   {
+    "vraag": "Past het terrein bij het te verwachten gebruik, en is afgewogen welke maatregelen tegen gevaar redelijk zijn?",
+    "bron": "ECLI:NL:HR:2023:1674",
+    "van": "Past het terrein bij het te verwachten gebruik, en is afgewogen hoe groot de kans op gevaar is en welke maatregelen redelijk zijn?"
+   },
+   {
+    "vraag": "Zijn de maatregelen tegen diefstal of ongevallen redelijk voor een terrein waar bezoekers ook zelf moeten opletten?",
+    "bron": "ECLI:NL:RBAMS:2017:5266",
+    "van": "Zijn de maatregelen tegen diefstal of ongevallen redelijk voor een terrein waar bezoekers ook zelf moeten opletten?"
+   }
+  ],
+  "overig-civiel": [
+   {
+    "vraag": "Is duidelijk of het terrein een openbare weg is, zodat de eigenaar gebruik en onderhoud moet dulden?",
+    "bron": "ECLI:NL:GHARL:2023:9645",
+    "van": "Is het terrein een openbare weg, zodat de eigenaar gebruik en onderhoud moet dulden?"
+   },
+   {
+    "vraag": "Blijft de bereikbaarheid voor bewoners en bezoekers redelijk bij een slagboom of ANPR-systeem?",
+    "bron": "ECLI:NL:RBMNE:2025:565",
+    "van": "Blijft de bereikbaarheid voor bewoners en bezoekers redelijk bij een slagboom of ANPR-systeem?"
+   }
+  ],
+  "parkeerplaats-huur-vve": [],
+  "wegslepen-privaat": [],
+  "scanauto-bewijs": [
+   {
+    "vraag": "Laat jullie bewijs zien dat de auto geparkeerd stond, en niet alleen even stilstond?",
+    "bron": "ECLI:NL:RBAMS:2018:1767",
+    "van": "Laat het bewijs zien dat de auto geparkeerd stond, en niet alleen even stilstond?"
+   },
+   {
+    "vraag": "Is de locatie nauwkeurig, en wordt bij twijfel nagecontroleerd en zo nodig gecorrigeerd?",
+    "bron": "ECLI:NL:RBROT:2018:4130",
+    "van": "Is de locatie nauwkeurig, en is bij twijfel nagecontroleerd en zo nodig gecorrigeerd?"
+   },
+   {
+    "vraag": "Leggen jullie vast wie de overtreding constateerde en waar de auto stond (brondocument met kenteken en coördinaten)?",
+    "bron": "ECLI:NL:RBMNE:2022:6301",
+    "van": "Is vastgelegd wie de overtreding constateerde en waar de auto stond (brondocument met kenteken en coördinaten)?"
+   }
+  ],
+  "kentekenregistratie-avg": [
+   {
+    "vraag": "Hebben jullie onderbouwd dat kentekenverwerking nodig is, en dat een minder ingrijpend alternatief niet even geschikt is?",
+    "bron": "ECLI:NL:RVS:2026:490",
+    "van": "Heeft de gemeente onderbouwd dat kentekenverwerking nodig is, en is een genoemd minder ingrijpend alternatief (zoals een elektronische blauwe schijf) echt even geschikt?"
+   }
+  ],
+  "woo-inzage": [
+   {
+    "vraag": "Geven jullie bij een Woo-verzoek per document of passage aan welke weigeringsgrond geldt en waarom?",
+    "bron": "ECLI:NL:RBDHA:2025:13596",
+    "van": "Is voor elk document of elke passage aangegeven welke weigeringsgrond geldt en waarom?"
+   },
+   {
+    "vraag": "Is jullie mededeling dat er geen andere documenten zijn geloofwaardig en onderbouwd?",
+    "bron": "ECLI:NL:RBMNE:2024:6296",
+    "van": "Is de mededeling dat er geen andere documenten zijn geloofwaardig en onderbouwd?"
+   },
+   {
+    "vraag": "Beoordeelt het bestuursorgaan zelf een Woo-verzoek, en blijft het niet bij een uitvoerder liggen?",
+    "bron": "ECLI:NL:RBMNE:2023:4184",
+    "van": "Is het verzoek beoordeeld door het bestuursorgaan zelf, en niet alleen bij een uitvoerder blijven liggen of intern doorgestuurd?"
+   },
+   {
+    "vraag": "Nemen jullie op tijd een echte beslissing op een Woo-verzoek, binnen de redelijke termijn?",
+    "bron": "ECLI:NL:RBDHA:2025:13596",
+    "van": "Is er op tijd een echte beslissing genomen, zonder dat de redelijke termijn is overschreden?"
+   }
+  ],
+  "handhaver-bevoegdheid": [],
+  "camera-anpr": [],
+  "digitale-communicatie": []
+ }
+}

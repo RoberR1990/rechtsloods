@@ -1,0 +1,191 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2022:294",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner (parkeerder bij zijn kantoor)",
+  "wederpartij": "gemeente Delft",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder procedeert tegen de gemeente Delft over een naheffingsaanslag (een rekening achteraf) voor parkeren. Hij ging in hoger beroep bij het gerechtshof Den Haag.",
+ "titel": "Zeven minuten te laat betaald: rekening achteraf vernietigd",
+ "kern": {
+  "zin": "Het hof vond dat zeven minuten tussen parkeren en betalen hier binnen een redelijke termijn viel, dus de naheffingsaanslag was ten onrechte opgelegd.",
+  "bron": [
+   163
+  ],
+  "citaat": "De tijdspanne van circa zeven minuten valt in dit geval, gelet op de specifieke omstandigheden, binnen de redelijke termijn"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeercontroleur zag dat de auto van de parkeerder op een betaalde plek stond zonder dat er parkeerbelasting was betaald. De gemeente legde een naheffingsaanslag op van 90,50 euro.",
+   "bron": [
+    113
+   ],
+   "citaat": "Omdat er voor het parkeren van de auto geen parkeerbelasting was voldaan en er geen geldige parkeervergunning in de auto lag"
+  },
+  {
+   "zin": "De parkeerder zei dat hij na het parkeren naar kantoor liep en daar door een storing in de verbinding niet direct kon inloggen. Hij meldde het parkeren zeven minuten na de controle aan.",
+   "bron": [
+    162
+   ],
+   "citaat": "het hem na het opstarten van de computer op kantoor niet direct lukte om in te inloggen"
+  },
+  {
+   "zin": "De gemeente zei dat de website die dag niet verstoord was.",
+   "bron": [
+    162
+   ],
+   "citaat": "die dag de werking van de site als zodanig niet verstoord is geweest"
+  },
+  {
+   "zin": "Het hof vond de verklaringen van de parkeerder geloofwaardig. Het vond dat hij vanaf het begin bezig was met betalen en dat zeven minuten hier redelijk was.",
+   "bron": [
+    163
+   ],
+   "citaat": "Het Hof acht de verklaringen van belanghebbende geloofwaardig."
+  },
+  {
+   "zin": "De naheffingsaanslag is vernietigd. De gemeente moet het griffierecht van 182 euro vergoeden en de aanmaningskosten laten vervallen.",
+   "bron": [
+    164
+   ],
+   "citaat": "hij de beschikking aanmaningskosten zal vernietigen"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Rekening achteraf vernietigd vanwege betaling binnen redelijke termijn.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft de naheffingsaanslag van 90,50 euro niet te betalen, de aanmaningskosten van 7 euro vervallen en hij krijgt 182 euro griffierecht terug.",
+  "bron": [
+   174
+  ],
+  "citaat": "gelast de Heffingsambtenaar aan belanghebbende een bedrag van € 182 aan griffierecht te vergoeden"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "Door een storing in de verbinding kon hij niet direct inloggen en het parkeren aanmelden.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het hof vond aannemelijk dat hij vanaf het begin bezig was met uitvoeringshandelingen om te betalen.",
+    "bron": [
+     163
+    ],
+    "citaat": "vanaf de aanvang van het parkeren bezig is geweest met uitvoeringshandelingen om de parkeerbelasting te voldoen"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft voldoende voortvarend gehandeld door na een vergeefse inlogpoging enkele minuten later alsnog het parkeren aan te melden",
+    "bron": [
+     163
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeercontroleurs en de bezwaarbehandelaar waren niet bevoegd, bijvoorbeeld door een ontbrekende of ongeldige mandaatverlening.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente toonde met stukken aan dat de overeenkomst, de aanstelling en het mandaat in orde waren.",
+    "bron": [
+     153
+    ],
+    "citaat": "is voldoende bewijs geleverd van het bestaan van een geldige Dienstverleningsovereenkomst"
+   },
+   "bruikbare_zin": {
+    "citaat": "Voor de bekendmaking van het mandaatbesluit kan worden volstaan met een uitreiking daarvan aan de mandatarissen",
+    "bron": [
+     154
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het aanslagbiljet voldoet niet aan de eisen, omdat een handelsnaam en een andere partij op het biljet staan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Uit het biljet als geheel was duidelijk dat de gemeente Delft de naheffingsaanslag oplegde.",
+    "bron": [
+     149
+    ],
+    "citaat": "duidelijk moet zijn dat de naheffingsaanslag is opgelegd door de gemeente Delft"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat daarbij een handelsnaam is vermeld in plaats van de bedrijfsnaam",
+    "bron": [
+     149
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Zeven minuten tussen het begin van het parkeren en het aanmelden valt hier binnen de redelijke termijn die een parkeerder krijgt om te betalen.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Alleen deze zaak: een parkeerder die direct na het parkeren probeerde te betalen en door een storing te laat was.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   163
+  ],
+  "citaat": "binnen de redelijke termijn die een parkeerder moet worden gegund om de parkeerbelasting te voldoen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring van de parkeerder",
+   "aanmeldgegevens van de parkeerwebsite (11.37 uur)",
+   "loggegevens van de website"
+  ],
+  "wat_gaf_doorslag": "De korte tijd tussen parkeren en betalen en de voortvarende pogingen van de parkeerder."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:RVS:2010:BL8720"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 Gemeentewet",
+  "art. 231 Gemeentewet",
+  "art. 13 Parkeerverordening Delft 2018",
+  "art. 5 AWR",
+  "art. 10:4 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Beoordeel bij betaling kort na de controle of de parkeerder direct bezig was met betalen, voordat u de naheffing handhaaft.",
+   "raakt": "betaalapp",
+   "bron": [
+    163
+   ],
+   "citaat": "gelet op de beperkte tijd die is verstreken tussen het parkeren en het voldoen van de parkeerbelasting"
+  },
+  {
+   "actie": "Houd de dienstverleningsovereenkomst en de aanstellings- en mandaatbesluiten voor controleurs en bezwaarbehandelaars paraat om bevoegdheid te bewijzen.",
+   "raakt": "bezwaar",
+   "bron": [
+    153
+   ],
+   "citaat": "is voldoende bewijs geleverd van het bestaan van een geldige Dienstverleningsovereenkomst"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "betaalapp",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een rekening achteraf voor parkeren is niet altijd terecht als u kort na het parkeren alsnog betaalt. Dat geldt vooral als u meteen probeerde te betalen en een storing dat tegenhield. Maak in uw bezwaar duidelijk hoe laat u parkeerde, wat er misging en hoe laat u betaalde, en voeg bewijs toe zoals de aanmeldtijd.",
+ "gemeente": "Delft",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

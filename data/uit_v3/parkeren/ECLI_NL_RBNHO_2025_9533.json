@@ -1,0 +1,43 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2025:9533",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "parkeerder", "wederpartij": "gemeente Kennemerland Zuid (Gemeentebelastingen)", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder had een parkeervergunning die aan het verkeerde kenteken was gekoppeld, en kreeg daardoor vier rekeningen achteraf (naheffingen). Het beroep gaat tegen de gemeente Kennemerland Zuid; de Rechtbank Noord-Holland deed op 23 juli 2025 uitspraak.",
+ "titel": "Drie van vier rekeningen weg, de vierde blijft staan",
+ "kern": {"zin": "De rechter houdt de laatste rekening in stand, omdat de parkeerder zelf verantwoordelijk is voor het juiste kenteken.", "bron": [18], "citaat": "De rechtbank overweegt dat een automobilist zelf verantwoordelijk is voor de betaling van de verschuldigde parkeerbelasting."},
+ "samenvatting": [
+  {"zin": "Voor vier keer parkeren in april en mei 2024 kreeg de parkeerder een rekening achteraf van de gemeente.", "bron": [16], "citaat": "Ter zake van dit parkeren heeft verweerder de naheffingsaanslagen opgelegd."},
+  {"zin": "Op die dagen hoorde de vergunning bij het kenteken van een ander.", "bron": [17], "citaat": "met het kenteken van de moeder van haar schoonzoon"},
+  {"zin": "De gemeente vindt dat er dan in feite zonder vergunning werd geparkeerd, en heeft daarom rekeningen opgelegd.", "bron": [17], "citaat": "Volgens verweerder is dan in feite zonder vergunning geparkeerd"},
+  {"zin": "De rechter vindt de rekeningen strikt genomen terecht, maar wijst op het onevenwicht tussen fout en bedrag.", "bron": [18], "citaat": "Strikt genomen zijn de naheffingsaanslagen dus terecht opgelegd."},
+  {"zin": "Volgens de rechter is dat onevenwicht al hersteld door drie vernietigde rekeningen.", "bron": [18], "citaat": "Door drie van de vier naheffingsaanslagen te vernietigen heeft verweerder die wanverhouding evenwel in voldoende mate hersteld."}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; drie van vier rekeningen waren al vernietigd.",
+ "gevolg_betrokkene": {"zin": "De parkeerder moet de laatste rekening betalen; de andere drie zijn al weggehaald.", "bron": [16, 18], "citaat": "Uiteindelijk is nog één (de eerst opgelegde) naheffingsaanslag in geschil."},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "overig", "burger_zegt": "De grond van het beroep staat niet in de uitspraak; wel gaat het om vier rekeningen voor één kenteken.", "oordeel": "verworpen", "waarom": {"zin": "Volgens de rechter is het onevenwicht al hersteld door drie vernietigde rekeningen.", "bron": [18], "citaat": "Door drie van de vier naheffingsaanslagen te vernietigen heeft verweerder die wanverhouding evenwel in voldoende mate hersteld."}, "bruikbare_zin": {"citaat": "Door drie van de vier naheffingsaanslagen te vernietigen heeft verweerder die wanverhouding evenwel in voldoende mate hersteld.", "bron": [18]}}
+ ],
+ "rechtsregel": {"zin": "Een automobilist is zelf verantwoordelijk voor het betalen van de parkeerbelasting.", "type": "regel", "reikwijdte": "Parkeervergunning die niet aan het juiste kenteken is gekoppeld", "uitzondering": "Bij meerdere rekeningen uit een voortdurende gedraging kan een onevenwicht ontstaan.", "herkomst": "oordeel rechter", "bron": [18], "citaat": "De rechtbank overweegt dat een automobilist zelf verantwoordelijk is voor de betaling van de verschuldigde parkeerbelasting."},
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": [], "wat_gaf_doorslag": null},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {"actie": "Let bij meerdere rekeningen uit één fout op de verhouding met het totaalbedrag, en herstel waar nodig.", "raakt": "bezwaar", "bron": [18], "citaat": "Door drie van de vier naheffingsaanslagen te vernietigen heeft verweerder die wanverhouding evenwel in voldoende mate hersteld."}
+ ],
+ "reden_leeg_actie": null,
+ "raakt": ["bezwaar", "klantcontact"],
+ "klantuitleg": "De rechter zegt dat u zelf verantwoordelijk bent voor het kenteken dat op uw vergunning staat. De gemeente heeft drie van de vier rekeningen al geschrapt, de laatste blijft staan. Wilt u tegen een vergelijkbare rekening opkomen, dan kan bewijs helpen dat het juiste kenteken toen al op de vergunning stond.",
+ "gemeente": "Kennemerland Zuid (Gemeentebelastingen)",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

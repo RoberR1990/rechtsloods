@@ -1,0 +1,175 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:13134",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "zoekslag",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De burger vroeg de gemeente Rotterdam om inzage in zijn persoonsgegevens en is het er niet mee eens dat de gemeente zegt dat er niet meer gegevens zijn. De rechtbank Rotterdam beoordeelt zijn beroep.",
+ "titel": "Geen extra inzage: gemeente heeft genoeg gezocht",
+ "kern": {
+  "zin": "De rechtbank verklaart het beroep ongegrond, omdat de burger niet aannemelijk maakte dat de gemeente meer gegevens van hem heeft.",
+  "bron": [
+   25
+  ],
+  "citaat": "niet aannemelijk gemaakt dat het college meer op hem betrekking hebbende persoonsgegevens heeft verwerkt"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger ontdekte dat de gemeente Rotterdam op 2 juni 2022 zijn gegevens uit de BRP had ingezien.",
+   "bron": [
+    16
+   ],
+   "citaat": "op 2 juni 2022 zijn gegevens uit de Basisregistratie personen (BRP) heeft ingezien"
+  },
+  {
+   "zin": "Hij vroeg de gemeente om inzage in zijn persoonsgegevens.",
+   "bron": [
+    16
+   ],
+   "citaat": "bij het college een verzoek gedaan om inzage als bedoeld in artikel 15 van de Algemene verordening gegevensbescherming (AVG)."
+  },
+  {
+   "zin": "De burger vond dat er meer gegevens over hem moesten zijn.",
+   "bron": [
+    22
+   ],
+   "citaat": "Eiser voert, samenvattend, aan dat er meer op hem betrekking hebbende persoonsgegevens moeten zijn."
+  },
+  {
+   "zin": "De gemeente zei dat er na onderzoek geen andere gegevens van de burger waren gevonden.",
+   "bron": [
+    17
+   ],
+   "citaat": "uit de gegevens is gebleken dat er geen persoonsgegevens van eiser zijn verwerkt dan wel zijn opgeslagen, behoudens het inzageverzoek."
+  },
+  {
+   "zin": "De rechtbank vond dat de burger niet aannemelijk maakte dat er meer gegevens waren.",
+   "bron": [
+    25
+   ],
+   "citaat": "Eiser heeft naar oordeel van de rechtbank niet aannemelijk gemaakt"
+  },
+  {
+   "zin": "De gemeente hoeft geen extra gegevens te geven en de burger krijgt geen griffierecht of proceskosten terug.",
+   "bron": [
+    30
+   ],
+   "citaat": "Eiser krijgt daarom het griffierecht niet terug. Hij krijgt ook geen vergoeding van proceskosten."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De gemeente heeft genoeg gezocht; het beroep van de burger is ongegrond.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen extra inzage en krijgt het griffierecht niet terug; ook krijgt hij geen vergoeding van proceskosten.",
+  "bron": [
+   30
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug. Hij krijgt ook geen vergoeding van proceskosten."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Er zijn meer gegevens over mij dan de gemeente heeft gegeven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat de burger niet aannemelijk maakte dat er meer gegevens waren.",
+    "bron": [
+     25
+    ],
+    "citaat": "niet aannemelijk gemaakt dat het college meer op hem betrekking hebbende persoonsgegevens heeft verwerkt"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet aannemelijk gemaakt dat het college meer op hem betrekking hebbende persoonsgegevens heeft verwerkt",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "De gemeente heeft niet goed genoeg gezocht; de loggegevens worden vijf jaar bewaard.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond de stelling over vijf jaar bewaren niet onderbouwd.",
+    "bron": [
+     24
+    ],
+    "citaat": "de bewaartermijn voor log-gegevens in e-suite vijf jaar is, is daartoe onvoldoende"
+   },
+   "bruikbare_zin": {
+    "citaat": "de bewaartermijn voor log-gegevens in e-suite vijf jaar is, is daartoe onvoldoende",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het e-mailadres van de Stichting is verkeerd vermeld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente heeft uitgelegd dat het om een verschrijving ging.",
+    "bron": [
+     28
+    ],
+    "citaat": "aangegeven dat sprake is geweest van een verschrijving"
+   },
+   "bruikbare_zin": {
+    "citaat": "aangegeven dat sprake is geweest van een verschrijving",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als een organisatie na onderzoek zegt dat er niet meer gegevens zijn en die mededeling niet ongeloofwaardig is, moet de verzoeker aannemelijk maken dat er toch meer gegevens zijn.",
+  "type": "regel",
+  "reikwijdte": "Bij een inzageverzoek waarin de organisatie na onderzoek meedeelt dat er niet meer gegevens zijn en die mededeling niet ongeloofwaardig is.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   23
+  ],
+  "citaat": "degene die om deze gegevens verzoekt is om aannemelijk te maken dat er wel meer persoonsgegevens verwerkt moeten zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring van een vertegenwoordiger van het college",
+   "stelling over de bewaartermijn van loggegevens"
+  ],
+  "wat_gaf_doorslag": "De uitleg van het college over de zoekslag en het ontbreken van bewijs van de burger."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "artikel 15 Algemene verordening gegevensbescherming (AVG)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "De rechtbank keurt de zoekslag en uitleg van de gemeente goed; er is geen opdracht.",
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar",
+  "burgerzaken-brp",
+  "ict-informatiebeveiliging"
+ ],
+ "klantuitleg": "Als u om inzage vraagt, moet de gemeente goed in haar systemen zoeken. Zegt de gemeente daarna dat er niet meer gegevens zijn, dan moet u uitleggen waarom er toch meer zouden zijn; in deze zaak vond de rechter de uitleg van de gemeente geloofwaardig. U krijgt daarom geen extra inzage en geen vergoeding van kosten; bezwaar heeft alleen kans als u nieuw bewijs heeft.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

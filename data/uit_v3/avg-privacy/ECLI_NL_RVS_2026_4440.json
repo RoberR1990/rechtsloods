@@ -1,0 +1,176 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:4440",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "inwoner",
+  "wederpartij": "gemeente Maastricht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De burger vroeg de gemeente Maastricht om zijn voornaam en achternaam in de basisregistratie personen (BRP) te wijzigen. De gemeente weigerde dat, en de Raad van State beslist nu in hoger beroep of die weigering goed is.",
+ "titel": "Geen naamswijziging in BRP zonder beter bewijs",
+ "kern": {
+  "zin": "De Raad van State vindt dat de burger niet aannemelijk heeft gemaakt dat de overgelegde documenten over hem gaan.",
+  "bron": [
+   30
+  ],
+  "citaat": "[appellant] meer bewijs moet aanleveren om aannemelijk te maken dat de brondocumenten betrekking hebben op hem"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente om zijn voornaam en geslachtsnaam in de BRP te wijzigen.",
+   "bron": [
+    19
+   ],
+   "citaat": "heeft het college verzocht zijn in de brp geregistreerde voornaam en geslachtsnaam te wijzigen"
+  },
+  {
+   "zin": "Hij zei dat zijn huidige identiteit vals is en dat hij daar niet mee kan leven.",
+   "bron": [
+    19
+   ],
+   "citaat": "omdat de in de brp geregistreerde identiteit vals is en hij niet meer kan leven met deze leugen"
+  },
+  {
+   "zin": "De gemeente weigerde omdat niet zeker is dat de documenten echt bij hem horen.",
+   "bron": [
+    21
+   ],
+   "citaat": "Uit de overgelegde documenten volgt niet buiten redelijke twijfel dat de daarin vermelde persoonsgegevens juist zijn"
+  },
+  {
+   "zin": "De rechtbank en de Raad van State vinden dat hij meer bewijs moet leveren.",
+   "bron": [
+    30
+   ],
+   "citaat": "De rechtbank heeft terecht geconcludeerd dat naar de huidige stand van zaken niet is komen vast te staan"
+  },
+  {
+   "zin": "Hij krijgt geen proceskosten vergoed.",
+   "bron": [
+    33
+   ],
+   "citaat": "Het college hoeft geen proceskosten te vergoeden."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; het college hoeft geen proceskosten te vergoeden.",
+ "gevolg_betrokkene": {
+  "zin": "De weigering van de gemeente blijft staan en het college hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   32,
+   33
+  ],
+  "citaat": "Het hoger beroep is ongegrond. De Afdeling bevestigt de uitspraak van de rechtbank."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Mijn naam in de BRP is onjuist en moet worden gewijzigd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat niet vaststaat dat de documenten over de burger gaan.",
+    "bron": [
+     30
+    ],
+    "citaat": "niet is komen vast te staan dat de op de documenten vermelde gegevens betrekking hebben op [appellant]"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet is komen vast te staan dat de op de documenten vermelde gegevens betrekking hebben op [appellant]",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Mijn documenten en het rapport van Securitech bewijzen dat ik de persoon in de documenten ben.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De twee gezichtsvergelijkende rapporten sluiten niet uit dat de persoon in de documenten iemand anders is.",
+    "bron": [
+     30
+    ],
+    "citaat": "de conclusies in beide rapporten laten de mogelijkheid open dat de in de documenten genoemde persoon niet [appellant] is"
+   },
+   "bruikbare_zin": {
+    "citaat": "de conclusies in beide rapporten laten de mogelijkheid open",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het paspoort en de andere documenten zijn echt en moeten daarom genoeg bewijs zijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De documenten zijn lang geleden afgegeven, waardoor er nog twijfel blijft.",
+    "bron": [
+     30
+    ],
+    "citaat": "Het paspoort en de identiteitskaart zijn lang geleden afgegeven"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het paspoort en de identiteitskaart zijn lang geleden afgegeven",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De burger die om wijziging van de BRP vraagt, moet bewijzen dat het document waarop hij zich beroept over hem gaat.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om wijziging van identiteitsgegevens in de BRP als de gemeente gemotiveerd betwijfelt of brondocumenten op de aanvrager zien.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   30
+  ],
+  "citaat": "heeft een aanvrager de bewijslast dat het brondocument dat hij ten grondslag legt aan zijn wijzigingsverzoek betrekking heeft op hem"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "geboorteaktes",
+   "Algerijns paspoort",
+   "Algerijnse identiteitskaarten",
+   "uittreksel van een Algerijnse huwelijksakte",
+   "gezichtsvergelijkend rapport van Securitech",
+   "verklaring van Bureau Documenten van de IND"
+  ],
+  "wat_gaf_doorslag": "Het college mocht meer waarde hechten aan het rapport van Bureau Documenten; de burger gaf geen recente identiteitsdocumenten of informatie over zijn broers."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2025:4980",
+   "ECLI:NL:RVS:2022:1198",
+   "ECLI:NL:RVS:2019:1487",
+   "ECLI:NL:RVS:2023:960",
+   "ECLI:NL:RVS:2026:4332"
+  ]
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "De gemeente heeft gelijk gekregen; de uitspraak noemt geen actie die de gemeente moest nemen.",
+ "raakt": [
+  "privacy-fg",
+  "burgerzaken-brp",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "U vroeg de gemeente om uw naam in de basisregistratie personen (BRP) te wijzigen. De gemeente mag dat weigeren als zij twijfelt of de documenten echt over u gaan. U moet dan met beter bewijs komen, zoals een recent identiteitsbewijs; zonder dat blijft uw registratie hetzelfde.",
+ "gemeente": "Maastricht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

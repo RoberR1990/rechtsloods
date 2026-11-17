@@ -1,0 +1,168 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2026:2911",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "aanvrager",
+  "wederpartij": "gemeente Utrecht (college)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een aanvrager wilde een eerste bewonersparkeervergunning, maar het college van de gemeente Utrecht wees die aanvraag af. De aanvrager ging in beroep bij de rechtbank Midden-Nederland.",
+ "titel": "Afwijzing parkeervergunning gaat niet door, college moet opnieuw beslissen",
+ "kern": {
+  "zin": "De rechter zei dat het college niet goed had uitgelegd waarom een oprit van vier meter als eigen parkeerplek telt; daarom moet het college opnieuw beslissen.",
+  "bron": [
+   24,
+   29
+  ],
+  "citaat": "het college niet deugdelijk heeft gemotiveerd waarom zij een maatstaf van vier meter gebruikt"
+ },
+ "samenvatting": [
+  {
+   "zin": "Aan de aanvrager was al een tweede vergunning verleend, omdat haar oprit als eigen parkeerplek gold.",
+   "bron": [
+    18
+   ],
+   "citaat": "omdat de oprit van eiseres volgens het college als een eigen parkeervoorziening is aan te merken"
+  },
+  {
+   "zin": "De aanvrager vond dat het college niet goed had uitgelegd waarom een auto van vier meter als maatstaf geldt.",
+   "bron": [
+    20
+   ],
+   "citaat": "Eiseres vindt dat het college niet deugdelijk heeft gemotiveerd"
+  },
+  {
+   "zin": "De gemeente zei dat een gemiddelde wagen van vier meter op de oprit past.",
+   "bron": [
+    18
+   ],
+   "citaat": "Volgens het college is een gemiddelde auto vier meter lang en past dit op de oprit"
+  },
+  {
+   "zin": "De rechter zei dat een vaste werkwijze die niet in het beleid staat, steeds uitgelegd moet worden.",
+   "bron": [
+    23
+   ],
+   "citaat": "geldt als uitgangspunt dat het de toepassing daarvan steeds moet motiveren"
+  },
+  {
+   "zin": "De rechter vernietigde het besluit en gaf het college zes weken om opnieuw te beslissen.",
+   "bron": [
+    36
+   ],
+   "citaat": "binnen zes weken na de dag van verzending van deze uitspraak"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Besluit vernietigd; college moet binnen zes weken opnieuw beslissen.",
+ "gevolg_betrokkene": {
+  "zin": "De aanvrager krijgt het griffierecht (het bedrag om naar de rechter te gaan) van 53 euro terug, en het college moet opnieuw beslissen.",
+  "bron": [
+   31,
+   36,
+   37
+  ],
+  "citaat": "moet het college het griffierecht aan eiseres vergoeden"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De uitleg over de vier meter was niet goed genoeg, dus het besluit deugt niet.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond de uitleg over de vier meter niet voldoende.",
+    "bron": [
+     24
+    ],
+    "citaat": "het college niet deugdelijk heeft gemotiveerd waarom zij een maatstaf van vier meter gebruikt"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat een gemiddelde auto vier meter is en dus op de oprit van eiseres past is daarmee onvoldoende gemotiveerd.",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "gelijkheid",
+   "burger_zegt": "De buren kregen wel een eerste vergunning, dus moest zij die ook krijgen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de aanvrager niet had onderbouwd dat haar situatie gelijk was aan die van de buren.",
+    "bron": [
+     27
+    ],
+    "citaat": "Eiseres heeft namelijk niet aannemelijk gemaakt dat sprake is van gelijke gevallen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Van gelijke gevallen is daarom geen sprake.",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een vaste werkwijze die niet in het beleid staat, moet het college steeds uitleggen.",
+  "type": "regel",
+  "reikwijdte": "vaste werkwijze van een bestuursorgaan die niet in beleid staat",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "geldt als uitgangspunt dat het de toepassing daarvan steeds moet motiveren"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "foto's van de voortuin van de overburen"
+  ],
+  "wat_gaf_doorslag": "Op de zitting bleek dat de stoep bij de oprit verlaagd was, bij de buren niet."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:72, vierde lid Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Motiveer in het nieuwe besluit waarom een oprit van vier meter diep als eigen parkeerplek geldt.",
+   "raakt": "vergunningen",
+   "bron": [
+    29
+   ],
+   "citaat": "opnieuw zal moeten motiveren waarom bij toepassing van het parkeerbeleid wordt uitgegaan van een maatstaf van vier meter"
+  },
+  {
+   "actie": "Neem in het parkeerbeleid op welke afmetingen gelden voor een oprit als eigen parkeerplek.",
+   "raakt": "verordening-beleid",
+   "bron": [
+    23
+   ],
+   "citaat": "het college in haar parkeerbeleid niet heeft opgenomen welke afmetingen worden gebruikt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "vergunningen",
+  "verordening-beleid",
+  "klantcontact"
+ ],
+ "klantuitleg": "Of een afwijzing van een bewonersvergunning terecht is, hangt af van hoe de gemeente die keuze uitlegt. In deze zaak vond de rechter die uitleg niet goed genoeg, dus het college moet opnieuw beslissen. Heeft u een eigen oprit, dan kunnen maten van de oprit en de auto, met een duidelijke uitleg, helpen bij een nieuw besluit.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

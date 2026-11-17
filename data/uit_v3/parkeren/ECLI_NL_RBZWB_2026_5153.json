@@ -1,0 +1,145 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:5153",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Etten-Leur",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging in beroep tegen een naheffingsaanslag parkeerbelasting (de rekening achteraf) van de gemeente Etten-Leur. De rechtbank Zeeland-West-Brabant oordeelde of die rekening terecht was opgelegd.",
+ "titel": "Rekening voor parkeren vernietigd: bord stond pas verderop",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder niet kon zien dat hier betaald moest worden, omdat het bord pas verderop in de straat stond.",
+  "bron": [
+   28
+  ],
+  "citaat": "geen parkeerbord aan het begin van de straat staat maar pas verderop in de straat"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeercontroleur zag de auto op 4 oktober 2024 in de Stationsstraat staan zonder betaalde parkeerbelasting.",
+   "bron": [
+    19,
+    20
+   ],
+   "citaat": "is door parkeercontroleurs geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat het parkeerbord na de parkeervakken stond, dus dat hij vrij kon parkeren.",
+   "bron": [
+    26
+   ],
+   "citaat": "Het parkeerbord staat namelijk na de parkeervakken"
+  },
+  {
+   "zin": "De gemeente zei dat de hele straat betaald parkeren is en dat de parkeerder de plek had moeten nagaan.",
+   "bron": [
+    26
+   ],
+   "citaat": "de gehele Stationsstraat is aangemerkt als gebied waar tegen betaling"
+  },
+  {
+   "zin": "De rechter vond dat er geen bord was gepasseerd voordat de auto stond, dus was het niet duidelijk genoeg.",
+   "bron": [
+    28
+   ],
+   "citaat": "geen parkeerbord aan het begin van de straat staat maar pas verderop in de straat"
+  },
+  {
+   "zin": "De rechter vernietigde de uitspraak op bezwaar en de rekening, en de gemeente moet het griffierecht van 51 euro terugbetalen.",
+   "bron": [
+    36,
+    37,
+    38
+   ],
+   "citaat": "vernietigt de uitspraak op bezwaar"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Rekening vernietigd omdat het bord pas verderop stond; griffierecht terug",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft de rekening van 77,22 euro niet te betalen en krijgt het griffierecht van 51 euro terug.",
+  "bron": [
+   37,
+   20,
+   38
+  ],
+  "citaat": "vernietigt de naheffingsaanslag parkeerbelasting"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Het parkeerbord stond na de parkeervakken, dus ik kon het niet zien voordat ik parkeerde.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Omdat de straat een eenrichtingsweg is, ging de parkeerder geen bord voorbij voordat hij parkeerde.",
+    "bron": [
+     28
+    ],
+    "citaat": "geen parkeerbord aan het begin van de straat staat maar pas verderop in de straat"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen parkeerbord aan het begin van de straat staat maar pas verderop in de straat",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder moet uit borden of apparatuur bij de plek kunnen opmaken dat betaald moet worden.",
+  "type": "regel",
+  "reikwijdte": "betaald parkeren op straat: de betalingsplicht moet op de plek kenbaar zijn",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "uit borden of andere aanwijzingen bij of in de directe omgeving van de parkeerplaats"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto's van de parkeerder waar het bord staat",
+   "controle door de parkeercontroleurs"
+  ],
+  "wat_gaf_doorslag": "Foto's lieten zien dat het bord pas verderop in de straat stond."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "art. 1 lid 1 onder a Verordening parkeerbelastingen Etten-Leur 2024"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet het parkeerbord bij het begin van een eenrichtingsstraat vóór de parkeervakken, en controleer dat het daar staat.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    28
+   ],
+   "citaat": "geen parkeerbord aan het begin van de straat staat maar pas verderop in de straat"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "tarief-naheffing",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een parkeerrekening is alleen terecht als het voor u duidelijk was dat u moest betalen. In deze zaak stond het bord pas na de parkeerplek, en daarom is de rekening vernietigd. Staat bij u het bord ook pas verderop, dan kunt u bezwaar of beroep maken; dat betekent niet dat u altijd gelijk krijgt.",
+ "gemeente": "Etten-Leur",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

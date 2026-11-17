@@ -1,0 +1,156 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:6306",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Breda vijf naheffingsaanslagen (de rekeningen achteraf) voor parkeren in 2024. Hij ging naar de rechtbank Zeeland-West-Brabant om die aan te vechten.",
+ "titel": "Parkeervergunning hoorde niet bij nieuw kenteken: twee rekeningen blijven staan",
+ "kern": {
+  "zin": "Een vergunning telt alleen als parkeren met die vergunning als de vergunning aan de auto hangt en de belasting betaald is; dat was hier niet zo.",
+  "bron": [
+   26
+  ],
+  "citaat": "dan is geen sprake van parkeren met die vergunning"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde vijf naheffingen op voor parkeren in 2024.",
+   "bron": [
+    9
+   ],
+   "citaat": "naheffingsaanslagen parkeerbelasting 2024 met aanslagnummers"
+  },
+  {
+   "zin": "De parkeerder zegt dat hij na een nieuwe auto dacht dat het eerder betaalde parkeergeld gold.",
+   "bron": [
+    24
+   ],
+   "citaat": "Hij ging ervan uit dat het reeds betaalde parkeergeld automatisch zou gelden voor het nieuwe kenteken"
+  },
+  {
+   "zin": "De rechter stelt vast dat de vergunning op dat moment niet aan de nieuwe auto was gekoppeld.",
+   "bron": [
+    27
+   ],
+   "citaat": "Op het moment dat de naheffingsaanslagen parkeerbelasting werden opgelegd, was de vergunning niet gekoppeld aan de auto"
+  },
+  {
+   "zin": "Een vergunning werkt alleen als aan de voorschriften is voldaan.",
+   "bron": [
+    26
+   ],
+   "citaat": "Van parkeren met een vergunning is alleen sprake indien bij het parkeren wordt voldaan aan de voorschriften"
+  },
+  {
+   "zin": "De gemeente had drie aanslagen zelf uit coulance vernietigd.",
+   "bron": [
+    27
+   ],
+   "citaat": "uit coulance gegrond verklaard en deze aanslagen vernietigd"
+  },
+  {
+   "zin": "De twee overgebleven aanslagen blijven staan, en de beroepen zijn ongegrond.",
+   "bron": [
+    29
+   ],
+   "citaat": "Dat betekent dat de naheffingsaanslagen parkeerbelasting met aanslagnummers [aanslagnummer 1] en [aanslagnummer 5] in stand blijven"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroepen ongegrond; drie van vijf aanslagen eerder uit coulance vernietigd door gemeente.",
+ "gevolg_betrokkene": {
+  "zin": "De twee aanslagen blijven staan, en de parkeerder krijgt het griffierecht niet terug.",
+  "bron": [
+   29
+  ],
+  "citaat": "Belanghebbende krijgt daarom het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Hij dacht dat de betaalde vergunning automatisch voor het nieuwe kenteken gold.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De vergunning was niet aan de nieuwe auto gekoppeld, dus er was geen parkeren met vergunning.",
+    "bron": [
+     27
+    ],
+    "citaat": "Op het moment dat de naheffingsaanslagen parkeerbelasting werden opgelegd, was de vergunning niet gekoppeld aan de auto"
+   },
+   "bruikbare_zin": {
+    "citaat": "Van parkeren met een vergunning is alleen sprake indien bij het parkeren wordt voldaan aan de voorschriften",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij heeft al betaald, dus de parkeerbelasting was voldaan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Parkeerbelasting is meteen verschuldigd, dus later betalen maakt het niet goed.",
+    "bron": [
+     25
+    ],
+    "citaat": "parkeerbelasting direct bij aanvang van het parkeren verschuldigd is"
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank overweegt dat parkeerbelasting direct bij aanvang van het parkeren verschuldigd is",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeren met een vergunning telt alleen als aan de voorschriften is voldaan en de belasting is betaald.",
+  "type": "regel",
+  "reikwijdte": "parkeren met een parkeervergunning",
+  "uitzondering": null,
+  "herkomst": "lokale verordening",
+  "bron": [
+   26
+  ],
+  "citaat": "Van parkeren met een vergunning is alleen sprake indien bij het parkeren wordt voldaan aan de voorschriften"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "vergunning die aan het oude kenteken hing",
+   "betaalgegevens in de parkeerapp"
+  ],
+  "wat_gaf_doorslag": "De vergunning was op het moment van de aanslagen niet aan de nieuwe auto gekoppeld."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Verordening Parkeerbelastingen Breda 2024"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente kreeg gelijk; geen tekortkoming aangewezen",
+ "raakt": [
+  "klantcontact",
+  "betaalapp",
+  "vergunningen",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een parkeervergunning geldt alleen voor de auto waaraan hij is gekoppeld. Bij een nieuwe auto moet u de vergunning dus eerst aan het nieuwe kenteken koppelen. Ook als u later meteen betaalt, kan de rekening toch blijven staan, zoals in deze zaak.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

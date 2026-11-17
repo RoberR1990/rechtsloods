@@ -1,0 +1,155 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2026:3276",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "bewijs-scanauto",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging in beroep tegen een naheffing (de rekening achteraf) voor parkeerbelasting. De rechtbank Amsterdam oordeelde over dat beroep tegen de gemeente Amsterdam.",
+ "titel": "Niet op tijd betaald: parkeerrekening blijft staan",
+ "kern": {
+  "zin": "De rechter wees het beroep af, omdat de stukken lieten zien dat de auto daar stond.",
+  "bron": [
+   25
+  ],
+  "citaat": "Gezamenlijk tonen deze stukken aan dat de auto geparkeerd stond zoals vermeld in de naheffingsaanslag"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij de controle bleek dat de parkeerder niets had betaald.",
+   "bron": [
+    16
+   ],
+   "citaat": "geconstateerd dat voor de auto geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De gemeente legde daarop een naheffing van € 80,16 op.",
+   "bron": [
+    17
+   ],
+   "citaat": "is aan eiser een naheffingsaanslag parkeerbelasting opgelegd"
+  },
+  {
+   "zin": "De parkeerder vond dat de gemeente te weinig onderzoek had gedaan.",
+   "bron": [
+    23
+   ],
+   "citaat": "geen scanfoto’s, scanlogs of GPS-gegevens van de controle zijn overgelegd"
+  },
+  {
+   "zin": "De gemeente stuurde in beroep scanfoto’s en een controleoverzicht mee.",
+   "bron": [
+    25
+   ],
+   "citaat": "In beroep heeft de heffingsambtenaar verschillende stukken overgelegd, waaronder scanfoto’s"
+  },
+  {
+   "zin": "Volgens de rechter bewijzen de scanfoto’s dat de auto daadwerkelijk stond.",
+   "bron": [
+    25
+   ],
+   "citaat": "Uit de scanfoto’s blijkt dat de auto daadwerkelijk geparkeerd stond"
+  },
+  {
+   "zin": "Ook de motivering van het bezwaarbesluit vond de rechter in orde.",
+   "bron": [
+    31
+   ],
+   "citaat": "Het motiveringsbeginsel is daarom niet geschonden"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de rekening van de gemeente blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De rekening blijft staan, en de parkeerder krijgt geen griffierecht of proceskosten terug.",
+  "bron": [
+   34
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De gemeente had bij het bezwaar geen scanfoto’s, scanlogs of GPS-gegevens gestuurd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De scanfoto’s en het overzicht bewijzen dat de auto daar stond.",
+    "bron": [
+     25
+    ],
+    "citaat": "Gezamenlijk tonen deze stukken aan dat de auto geparkeerd stond zoals vermeld in de naheffingsaanslag"
+   },
+   "bruikbare_zin": {
+    "citaat": "Gezamenlijk tonen deze stukken aan dat de auto geparkeerd stond",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De uitspraak op bezwaar was niet goed genoeg gemotiveerd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente op alle bezwaarpunten had gereageerd.",
+    "bron": [
+     31
+    ],
+    "citaat": "op alle bezwaargronden heeft gereageerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "op alle bezwaargronden heeft gereageerd",
+    "bron": [
+     31
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het bestuur moet de feiten goed uitzoeken voordat het een besluit neemt.",
+  "type": "regel",
+  "reikwijdte": "Bij het opleggen van een naheffing parkeerbelasting.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "moet een bestuursorgaan de nodige kennis over de relevante feiten en de af te wegen belangen vergaren"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "scanfoto’s",
+   "overzicht ‘fine information’ met tijd, coördinaten en autokenmerken"
+  ],
+  "wat_gaf_doorslag": "De scanfoto’s en het overzicht lieten zien dat de auto daar stond."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 7:4 lid 2 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente wint; de rechter wijst geen verbeterpunt aan",
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Was er op het moment van parkeren niet betaald, dan kan de gemeente een rekening sturen; de rechter vond dat hier terecht. Wilt u bezwaar maken, heb dan bewijs dat u wel betaalde. Zonder bewijs heeft bezwaar weinig zin.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

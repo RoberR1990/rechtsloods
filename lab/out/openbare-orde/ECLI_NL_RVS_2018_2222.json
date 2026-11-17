@@ -1,0 +1,188 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2018:2222",
+ "relevant": true,
+ "onderwerp": "drugspanden",
+ "sub": "duur-evenredigheid",
+ "kenmerk": "ernstig-geval",
+ "zaaktype": "sluiting-pand",
+ "partijen": {
+  "burger": "huurder en medebewoner van een woonwagen",
+  "wederpartij": "gemeente Den Haag (burgemeester)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De burgemeester van Den Haag sloot een woonwagen voor zes maanden omdat er volgens de politie in drugs werd gehandeld. De bewoners gingen in hoger beroep bij de Raad van State.",
+ "titel": "Zes maanden sluiting woonwagen blijft in stand",
+ "kern": {
+  "zin": "De Raad van State bevestigt de sluiting van zes maanden: volgens het politieverslag was de drugshandel grootschalig en internationaal.",
+  "bron": [
+   38
+  ],
+  "citaat": "het internationale karakter en de grootschaligheid van de drugshandel"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burgemeester van Den Haag sloot de woonwagen van de bewoners voor zes maanden.",
+   "bron": [
+    21
+   ],
+   "citaat": "een sluiting van de woning voor de duur van zes maanden passend"
+  },
+  {
+   "zin": "Volgens de politie werd de woonwagen gebruikt voor grootschalige drugshandel, terwijl in de woonwagen zelf geen drugs zijn gevonden.",
+   "bron": [
+    21
+   ],
+   "citaat": "de woonwagen meer dan vermoedelijk werd gebruikt door een crimineel samenwerkingsverband voor grootschalige drugshandel"
+  },
+  {
+   "zin": "De bewoners vonden dat de burgemeester niet mocht afgaan op een verslag uit een strafrechtelijk onderzoek.",
+   "bron": [
+    26
+   ],
+   "citaat": "Het betreft hier immers een rapportage in het kader van een strafrechtelijk (voor)onderzoek."
+  },
+  {
+   "zin": "Volgens hen was zes maanden te lang, omdat het beleid uitgaat van drie maanden.",
+   "bron": [
+    32
+   ],
+   "citaat": "Volgens bestaand beleid wordt in geval van woningen een termijn van sluiting van drie maanden gehanteerd"
+  },
+  {
+   "zin": "De Raad van State zegt dat de burgemeester van het politieverslag mocht uitgaan.",
+   "bron": [
+    27
+   ],
+   "citaat": "de burgemeester heeft mogen uitgaan van de inhoud van de bestuurlijke rapportage."
+  },
+  {
+   "zin": "De ernst van de drugshandel rechtvaardigt volgens de Raad van State zes maanden sluiting.",
+   "bron": [
+    38
+   ],
+   "citaat": "een sluiting voor de duur van zes maanden gerechtvaardigd is"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; sluiting blijft, geen proceskostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "Er is geen vergoeding voor proceskosten; de sluiting van de woonwagen voor zes maanden blijft in stand.",
+  "bron": [
+   42,
+   45
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-rapportage-onvoldoende",
+   "burger_zegt": "De burgemeester mocht niet afgaan op een politieverslag uit een strafrechtelijk onderzoek.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Raad van State vindt dat de burgemeester van een politieverslag op ambtseed of ambtsbelofte mag uitgaan, tenzij de bewoners het tegendeel bewijzen.",
+    "bron": [
+     27
+    ],
+    "citaat": "mag de burgemeester in beginsel uitgaan van de juistheid van een op ambtseed of ambtsbelofte opgemaakt proces-verbaal"
+   },
+   "bruikbare_zin": {
+    "citaat": "de burgemeester heeft mogen uitgaan van de inhoud van de bestuurlijke rapportage.",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "duur-te-lang",
+   "burger_zegt": "Zes maanden sluiting is te lang; het beleid gaat uit van drie maanden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De beleidsregel staat zes maanden toe bij zware omstandigheden, zoals veel harddrugs en grootschalige handel.",
+    "bron": [
+     38
+    ],
+    "citaat": "de burgemeester in dit geval de aanwezigheid van zodanige verzwarende omstandigheden heeft mogen aannemen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Bij verzwarende omstandigheden kan de termijn verlengd worden tot zes maanden.",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "bevoegdheid-ontbreekt",
+   "burger_zegt": "De burgemeester was niet bevoegd, want er zijn geen drugs in de woonwagen gevonden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Raad van State vindt dat de burgemeester ook zonder drugs in de woonwagen mocht aannemen dat daar drugshandelingen gebeurden.",
+    "bron": [
+     29
+    ],
+    "citaat": "handelingen werden uitgevoerd die rechtstreeks tot de overdracht van de drugs hebben geleid"
+   },
+   "bruikbare_zin": {
+    "citaat": "ook al zijn geen drugs aangetroffen in de woonwagen.",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De burgemeester mag in beginsel uitgaan van de juistheid van een politieverslag op ambtseed of ambtsbelofte.",
+  "type": "regel",
+  "reikwijdte": "Bij een sluiting van een woning of lokaal op basis van een politieverslag.",
+  "uitzondering": "Als de burger met tegenbewijs komt.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   27
+  ],
+  "citaat": "tenzij tegenbewijs noopt tot afwijking van dit uitgangspunt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "bestuurlijke rapportage van de politie op ambtsbelofte",
+   "geldbedrag van € 12.500,00 in de woonwagen",
+   "drie blokken cocaïne van 1 kg in een voertuig"
+  ],
+  "wat_gaf_doorslag": "De bestuurlijke rapportage van de politie op ambtseed of ambtsbelofte."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2016:3383",
+   "ECLI:NL:RVS:2010:BN6187"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 13b lid 1 Opiumwet",
+  "Beleidsregel artikel 13b Opiumwet Den Haag"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Gebruik voor een sluiting een bestuurlijke rapportage van de politie die op ambtsbelofte is opgemaakt.",
+   "raakt": "drugsbeleid-woningsluiting",
+   "bron": [
+    27
+   ],
+   "citaat": "Dit geldt eveneens voor de op ambtsbelofte opgemaakte bestuurlijke rapportage."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "handhaving-openbare-orde",
+  "drugsbeleid-woningsluiting",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "De burgemeester mag een woning of woonwagen sluiten als een politieverslag aannemelijk maakt dat er drugs werden verkocht; drugs in de woning zelf zijn daarvoor niet altijd nodig. Volgens de beleidsregel van Den Haag is zes maanden mogelijk bij verzwarende omstandigheden, zoals veel harddrugs of grootschalige handel. Krijgt u zo'n besluit, dan helpt bewijs dat het politieverslag niet klopt; dat alleen onbekend is hoe de politie aan haar informatie kwam, is niet genoeg.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

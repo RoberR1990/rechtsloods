@@ -1,0 +1,139 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2022:6088",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "maximale-duur",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder)",
+  "wederpartij": "gemeente Amsterdam (heffingsambtenaar)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging in beroep tegen een naheffing van de gemeente Amsterdam. Bij de rechtbank Amsterdam ging het om een auto die op een parkeervak stond.",
+ "titel": "Naheffing terecht: auto stond geparkeerd, niet alleen gekeerd",
+ "kern": {
+  "zin": "De rechtbank oordeelde dat de auto geparkeerd stond, omdat stilstaan voor uitstappen niet bleek; de naheffing blijft.",
+  "bron": [
+   21,
+   23
+  ],
+  "citaat": "heeft daarom aannemelijk gemaakt dat de auto was geparkeerd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 29 december 2021 legde een scanauto vast dat de auto van de parkeerder in een parkeervak stond.",
+   "bron": [
+    19
+   ],
+   "citaat": "heeft een scanauto vastgesteld dat een auto"
+  },
+  {
+   "zin": "Volgens de gemeente kreeg de parkeerder een rekening van € 65,40.",
+   "bron": [
+    19
+   ],
+   "citaat": "heeft de heffingsambtenaar hem een naheffingsaanslag opgelegd van € 65,40"
+  },
+  {
+   "zin": "De parkeerder zei dat hij de plek alleen gebruikte om te keren.",
+   "bron": [
+    20
+   ],
+   "citaat": "gebruikte hij de parkeerplaats alleen om te keren"
+  },
+  {
+   "zin": "De gemeente zei dat de auto geparkeerd stond, en de foto's bevestigden dat.",
+   "bron": [
+    21
+   ],
+   "citaat": "heeft daarom aannemelijk gemaakt dat de auto was geparkeerd"
+  },
+  {
+   "zin": "De rechtbank vond niet gebleken dat de auto alleen stilstond om kinderen te laten uitstappen.",
+   "bron": [
+    21
+   ],
+   "citaat": "Dat eiser stilstond om zijn kinderen uit de auto te laten stappen"
+  },
+  {
+   "zin": "De rechtbank bevestigde de naheffing; de parkeerder moet betalen.",
+   "bron": [
+    23
+   ],
+   "citaat": "Dat betekent dat eiser de naheffingsaanslag parkeerbelasting moet betalen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing van € 65,40 blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing betalen en krijgt het griffierecht en de proceskosten niet terug.",
+  "bron": [
+   23
+  ],
+  "citaat": "Dat betekent dat eiser de naheffingsaanslag parkeerbelasting moet betalen"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Hij stond alleen even stil om de kinderen uit te laten stappen en keerde daarna.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond niet gebleken dat hij alleen stilstond om kinderen te laten uitstappen.",
+    "bron": [
+     21
+    ],
+    "citaat": "Dat eiser stilstond om zijn kinderen uit de auto te laten stappen"
+   },
+   "bruikbare_zin": {
+    "citaat": "De deuren en ramen van de auto zijn gesloten en de verlichting is uit",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Stilstaan voor het direct in- en uitstappen van personen telt niet als parkeren.",
+  "type": "regel",
+  "reikwijdte": "parkeerbelasting in Amsterdam: wanneer een auto als geparkeerd geldt",
+  "uitzondering": "direct in- en uitstappen of direct laden en lossen",
+  "herkomst": "lokale verordening",
+  "bron": [
+   21
+  ],
+  "citaat": "Als het laten staan gebeurt gedurende de tijd die nodig is voor het onmiddellijk in- en uitstappen van personen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto's van de scanauto",
+   "scanauto-registratie van 29 december 2021"
+  ],
+  "wat_gaf_doorslag": "De foto's lieten een geparkeerde auto zien: gesloten deuren, uit verlichting en niemand in de buurt."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 2 Verordening parkeerbelastingen Amsterdam 2021",
+  "art. 4 Verordening parkeerbelastingen Amsterdam 2021"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen fout van de gemeente; oordeel over één concrete controle",
+ "raakt": [
+  "bezwaar",
+  "scanauto-handhaving",
+  "klantcontact"
+ ],
+ "klantuitleg": "Stilstaan om kinderen uit te laten stappen telt niet als parkeren, maar alleen als dat direct gebeurt. Blijft de auto staan, dan blijft de rekening voor het parkeren staan. Bent u het oneens met de foto's, dan moet u dat met bewijs onderbouwen.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

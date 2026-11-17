@@ -1,0 +1,153 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:8719",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "bewijs-scanauto",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "kentekenhouder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een kentekenhouder kreeg twee naheffingsaanslagen (de rekening achteraf) voor parkeerbelasting in Breda. Hij ging bij de rechtbank Zeeland-West-Brabant in beroep tegen de gemeente Breda.",
+ "titel": "Verkeerde locatie op parkeerrekening: aanslagen vernietigd",
+ "kern": {
+  "zin": "De rechtbank vernietigde de aanslagen, omdat de gemeente de verkeerde locatie op de rekening had moeten opmerken.",
+  "bron": [
+   26
+  ],
+  "citaat": "De onjuiste locatievermelding dient dan ook te leiden tot vernietiging van de naheffingsaanslag"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een scanauto zag de auto twee keer stilstaan zonder dat parkeerbelasting was betaald, waarop twee naheffingen volgden.",
+   "bron": [
+    14,
+    15
+   ],
+   "citaat": "door middel van een scanauto geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De kentekenhouder zei dat de vermelde plek niet in het aanwijzingsbesluit (de lijst met aangewezen plekken) stond.",
+   "bron": [
+    20
+   ],
+   "citaat": "is volgens belanghebbende niet opgenomen in het Aanwijzingsbesluit"
+  },
+  {
+   "zin": "De gemeente Breda zei dat de vermelde naam een bijnaam was voor het parkeerterrein, en dat de GPS-gegevens klopten.",
+   "bron": [
+    21
+   ],
+   "citaat": "een informele benaming is voor het parkeerterrein aan de"
+  },
+  {
+   "zin": "Volgens de rechtbank hoort de parkeerlocatie op de aanslag, en die naam stond nergens in de regels.",
+   "bron": [
+    24,
+    25
+   ],
+   "citaat": "de locatie waar is geparkeerd een essentieel onderdeel is van het belastbare feit"
+  },
+  {
+   "zin": "De fout kwam door het systeem van de gemeente, dus het risico lag bij de gemeente.",
+   "bron": [
+    25
+   ],
+   "citaat": "dient voor rekening en risico van de heffingsambtenaar te komen"
+  },
+  {
+   "zin": "De gemeente vergoedt het griffierecht en betaalt 283,40 euro proceskosten, en de aanslagen zijn vernietigd.",
+   "bron": [
+    29,
+    35
+   ],
+   "citaat": "De totale vergoeding bedraagt € 283,40."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Beide aanslagen vernietigd; gemeente betaalt griffierecht en 283,40 euro kosten.",
+ "gevolg_betrokkene": {
+  "zin": "De kentekenhouder hoeft de twee aanslagen niet te betalen, krijgt het griffierecht terug en 283,40 euro proceskosten.",
+  "bron": [
+   29,
+   35
+  ],
+  "citaat": "De totale vergoeding bedraagt € 283,40."
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De locatie op de aanslag was een andere naam dan de straat waar de auto stond.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank zag een fout in de locatie die de gemeente bij de nacontrole had moeten zien.",
+    "bron": [
+     26
+    ],
+    "citaat": "Uit de onjuiste vermelding van de parkeerlocatie in de naheffingsaanslag blijkt dat die nacontrole niet"
+   },
+   "bruikbare_zin": {
+    "citaat": "De onjuiste locatievermelding dient dan ook te leiden tot vernietiging",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een onjuiste locatie op een aanslag leidt tot vernietiging, tenzij het om een duidelijke vergissing gaat die de kentekenhouder zelf kan zien.",
+  "type": "regel",
+  "reikwijdte": "onjuiste parkeerlocatie op een naheffingsaanslag, hier een straatnaam die niet in de verordening stond",
+  "uitzondering": "duidelijke, voor de kentekenhouder kenbare vergissing",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   26
+  ],
+  "citaat": "De onjuiste locatievermelding dient dan ook te leiden tot vernietiging"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "scanauto-registratie",
+   "GPS-coordinaten van de auto",
+   "naheffingsaanslag met de vermelde locatie"
+  ],
+  "wat_gaf_doorslag": "De verkeerde locatie op de aanslag, die de nacontrole niet had opgevangen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:1978:AX2808"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2 onder a Verordening parkeerbelastingen Breda 2025",
+  "Aanwijzingsbesluit Parkeerbelastingen Breda 2025"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij de nacontrole van scanauto-meldingen of de straatnaam op de aanslag klopt met de GPS-locatie.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    26
+   ],
+   "citaat": "bij de nacontrole ook de juistheid van de straatnaamregistratie door de scanauto na te gaan"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "scanauto-handhaving",
+  "bezwaar"
+ ],
+ "klantuitleg": "Staat op de rekening voor het parkeren een verkeerde straat, dan kan die rekening vernietigd worden. De rechter vond dat de gemeente dat bij de controle had moeten zien. Klopt de plek op uw rekening niet, dan kunt u bezwaar maken met een foto van de plek; of dat slaagt, hangt af van uw eigen situatie.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,147 @@
+{
+  "schema": "v3",
+  "ecli": "ECLI:NL:RBZWB:2025:7532",
+  "relevant": true,
+  "onderwerp": "parkeerbelasting",
+  "sub": "naheffingskosten",
+  "kenmerk": null,
+  "zaaktype": "naheffing",
+  "partijen": {
+    "burger": "parkeerder",
+    "wederpartij": "gemeente Breda",
+    "gemeente_is_partij": true
+  },
+  "procesvorm": "beroep",
+  "intro": "De gemeente Breda legde de parkeerder een naheffingsaanslag (de rekening achteraf) op voor parkeerbelasting. De parkeerder ging daartegen in beroep bij de rechtbank Zeeland-West-Brabant.",
+  "titel": "Te hoge parkeerkosten in Breda omlaag; gemeente betaalt extra",
+  "kern": {
+    "zin": "De rechter vond de kosten te hoog en verlaagde de aanslag tot 54,25 euro.",
+    "bron": [
+      24
+    ],
+    "citaat": "De rechtbank ziet aanleiding om de naheffingsaanslag te verminderen tot een bedrag van € 54,25"
+  },
+  "samenvatting": [
+    {
+      "zin": "Bij een controle bleek op 5 juni 2023 dat voor de geparkeerde auto geen parkeerbelasting was betaald.",
+      "bron": [
+        15
+      ],
+      "citaat": "Tijdens een controle op voornoemde datum en tijd is door parkeercontroleurs geconstateerd dat geen parkeerbelasting was voldaan."
+    },
+    {
+      "zin": "De gemeente legde een naheffingsaanslag op van 59,25 euro, waarvan 57,75 euro kosten.",
+      "bron": [
+        16
+      ],
+      "citaat": "een naheffingsaanslag parkeerbelasting opgelegd van € 59,25"
+    },
+    {
+      "zin": "De parkeerder vond dat er recht is op een vergoeding van de proceskosten.",
+      "bron": [
+        22
+      ],
+      "citaat": "Volgens belanghebbende bestaat recht op een vergoeding van de proceskosten."
+    },
+    {
+      "zin": "De gemeente vond dat er geen recht op proceskosten bestond.",
+      "bron": [
+        23
+      ],
+      "citaat": "De heffingsambtenaar stelt dat geen recht bestaat op een vergoeding van de proceskosten."
+    },
+    {
+      "zin": "De rechter vond dat de kosten te hoog waren en verlaagde de aanslag.",
+      "bron": [
+        24
+      ],
+      "citaat": "De rechtbank ziet aanleiding om de naheffingsaanslag te verminderen tot een bedrag van € 54,25"
+    }
+  ],
+  "uitkomst": "deels",
+  "uitkomst_toelichting": "Bedrag van de aanslag omlaag; daarnaast proceskosten en griffierecht terug",
+  "gevolg_betrokkene": {
+    "zin": "De parkeerder betaalt 54,25 euro in plaats van 59,25 euro, en de gemeente vergoedt 1.554 euro aan proceskosten en het griffierecht van 51 euro.",
+    "bron": [
+      36,
+      34,
+      35,
+      16
+    ],
+    "citaat": "veroordeelt de heffingsambtenaar tot betaling van € 1.554 aan proceskosten"
+  },
+  "steunt": "burger",
+  "bezwaargronden": [
+    {
+      "arg": "kosten-te-hoog",
+      "burger_zegt": "De kosten van de aanslag zijn te hoog, vond de parkeerder.",
+      "oordeel": "gehonoreerd",
+      "waarom": {
+        "zin": "De rechter vond dat de gemeente meer kosten vroeg dan de tarieventabel toestaat.",
+        "bron": [
+          24
+        ],
+        "citaat": "De heffingsambtenaar heeft een hoger bedrag aan kosten opgelegd dan wettelijk gezien is toegestaan."
+      },
+      "bruikbare_zin": {
+        "citaat": "een hoger bedrag aan kosten opgelegd dan wettelijk gezien is toegestaan",
+        "bron": [
+          24
+        ]
+      }
+    }
+  ],
+  "rechtsregel": {
+    "zin": "De kosten van een naheffingsaanslag mogen niet hoger zijn dan de tarieventabel van de gemeente toestaat.",
+    "type": "regel",
+    "reikwijdte": "kosten van een naheffingsaanslag parkeerbelasting in Breda volgens de tarieven 2023",
+    "uitzondering": null,
+    "herkomst": "lokale verordening",
+    "bron": [
+      24
+    ],
+    "citaat": "De heffingsambtenaar heeft een hoger bedrag aan kosten opgelegd dan wettelijk gezien is toegestaan."
+  },
+  "bewijs": {
+    "bewijslast_bij": "niet aan de orde",
+    "bewijsmiddelen": [],
+    "wat_gaf_doorslag": null
+  },
+  "toepasselijkheid": "lokale verordening",
+  "lijn": {
+    "soort": "onbekend",
+    "eerdere": []
+  },
+  "wetsartikelen": [
+    "art. 10 lid 1 Verordening parkeerbelastingen Breda 2023",
+    "onderdeel E Bijlage 1 Tarieven- en kostentabel parkeerbelastingen 2023"
+  ],
+  "actie_gemeente": [
+    {
+      "actie": "Controleer de kosten van een naheffingsaanslag met de tarieventabel voordat de aanslag wordt verstuurd.",
+      "raakt": "tarief-naheffing",
+      "bron": [
+        24
+      ],
+      "citaat": "De heffingsambtenaar heeft een hoger bedrag aan kosten opgelegd dan wettelijk gezien is toegestaan."
+    },
+    {
+      "actie": "Leg een terugbetaling van te veel geheven kosten vast in een besluit, niet alleen in een bericht.",
+      "raakt": "bezwaar",
+      "bron": [
+        23
+      ],
+      "citaat": "Het bericht aan belanghebbende dat € 5 aan kosten zal worden gerestitueerd is geen besluit"
+    }
+  ],
+  "reden_leeg_actie": null,
+  "raakt": [
+    "tarief-naheffing",
+    "bezwaar"
+  ],
+  "klantuitleg": "Een rekening voor parkeren is terecht als u niet of te weinig heeft betaald. De extra kosten daarop mogen niet hoger zijn dan de tarieven van uw gemeente toestaan. Zijn die kosten toch te hoog, dan kunt u bezwaar maken en de rekening laten controleren.",
+  "gemeente": "Breda",
+  "reden_gemeente_leeg": null,
+  "dubbel_van": null,
+  "zekerheid": "hoog"
+}

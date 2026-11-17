@@ -1,0 +1,140 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:4185",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "fraude-signalering",
+ "kenmerk": "fsv",
+ "zaaktype": "schadevergoeding",
+ "partijen": {
+  "burger": "verzoeker",
+  "wederpartij": "Belastingdienst",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "De zaak gaat tussen een burger en de Belastingdienst over schade door een registratie in het fraudesysteem FSV. De rechtbank Zeeland-West-Brabant beslist of de bestuursrechter hierover mag oordelen.",
+ "titel": "Bestuursrechter onbevoegd voor schade door FSV-registratie",
+ "kern": {
+  "zin": "De rechtbank verklaart zich onbevoegd, omdat de verwerking van persoonsgegevens een feitelijke handeling is en geen besluit.",
+  "bron": [
+   20,
+   26
+  ],
+  "citaat": "De verwerking van persoonsgegevens is een feitelijke handeling. Deze verwerking is daarom geen besluit"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger stond in het FSV-systeem van de Belastingdienst.",
+   "bron": [
+    10
+   ],
+   "citaat": "De gegevens van verzoeker stonden opgenomen in het FSV-systeem van de belastingdienst."
+  },
+  {
+   "zin": "De Belastingdienst liet hem weten dat de registratie geen gevolgen had gehad.",
+   "bron": [
+    11
+   ],
+   "citaat": "de registratie in FSV geen gevolgen heeft gehad"
+  },
+  {
+   "zin": "De burger schreef dat hij schade had geleden.",
+   "bron": [
+    12
+   ],
+   "citaat": "Verzoeker heeft met de brief van 14 juni 2023 aan de belastingdienst gesteld dat hij schade heeft geleden."
+  },
+  {
+   "zin": "De burger stelde beroep in en vroeg om schadevergoeding.",
+   "bron": [
+    15
+   ],
+   "citaat": "Verzoeker heeft beroep ingesteld tegen de brief van 13 december 2024 en verzocht om schadevergoeding."
+  },
+  {
+   "zin": "Volgens de rechtbank is alleen de burgerlijke rechter bevoegd.",
+   "bron": [
+    21
+   ],
+   "citaat": "Uitsluitend de burgerlijke rechter is bevoegd het schadeverzoek van verzoeker te beoordelen."
+  },
+  {
+   "zin": "De rechtbank verklaart zich onbevoegd.",
+   "bron": [
+    24
+   ],
+   "citaat": "De rechtbank zal zich onbevoegd verklaren."
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "De rechter mag de zaak niet behandelen; de burger moet naar de burgerlijke rechter.",
+ "gevolg_betrokkene": {
+  "zin": "De burger hoeft geen griffierecht te betalen; zijn schadeverzoek gaat naar de burgerlijke rechter.",
+  "bron": [
+   24,
+   21
+  ],
+  "citaat": "is ervan afgezien om griffierecht te heffen"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "De burger zegt dat hij schade heeft door zijn onterechte registratie in FSV.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter oordeelt niet over de schade zelf, omdat de bestuursrechter niet bevoegd is.",
+    "bron": [
+     21
+    ],
+    "citaat": "Uitsluitend de burgerlijke rechter is bevoegd het schadeverzoek van verzoeker te beoordelen."
+   },
+   "bruikbare_zin": {
+    "citaat": "Uitsluitend de burgerlijke rechter is bevoegd het schadeverzoek van verzoeker te beoordelen.",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een schadeverzoek dat is gebaseerd op de verwerking van persoonsgegevens kan niet bij de bestuursrechter worden ingediend, omdat die verwerking een feitelijke handeling is.",
+  "type": "regel",
+  "reikwijdte": "Schadeverzoeken over de verwerking van persoonsgegevens, zoals een registratie in FSV.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   20
+  ],
+  "citaat": "geen oordeel geven over de rechtmatigheid van besluiten over de vergoeding van schade"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:RVS:2024:2891"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:54 Awb",
+  "art. 1:3 lid 1 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "fraude-handhaving",
+  "datateam-algoritmes",
+  "bezwaar"
+ ],
+ "klantuitleg": "De rechter voor overheidsbesluiten mag niet beslissen over schade door een registratie in het fraudesysteem FSV. Wilt u schadevergoeding, dan moet u naar de gewone rechter. In deze zaak betaalt u geen kosten om de zaak te starten.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente betrokken; wederpartij is de Belastingdienst",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

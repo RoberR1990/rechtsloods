@@ -1,0 +1,181 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2026:22093",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "algoritme-ai",
+ "kenmerk": null,
+ "zaaktype": "overig",
+ "partijen": {
+  "burger": "asielzoeker",
+  "wederpartij": "minister van Asiel en Migratie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een asielzoeker uit Irak kreeg een afwijzing van zijn opvolgende asielaanvraag. Hij gaat bij de rechtbank Den Haag in beroep tegen de minister van Asiel en Migratie, onder meer omdat de werking van het zoekprogramma CaseMatcher niet is uitgelegd.",
+ "titel": "Besluit vernietigd: werking van zoekprogramma CaseMatcher niet uitgelegd",
+ "kern": {
+  "zin": "De rechter kan niet vaststellen dat de motivering het besluit volledig draagt, omdat de minister de werking van CaseMatcher niet heeft uitgelegd; dat is een motiveringsgebrek.",
+  "bron": [
+   40
+  ],
+  "citaat": "niet kan worden vastgesteld dat het besluit volledig wordt gedragen door de gegeven motivering"
+ },
+ "samenvatting": [
+  {
+   "zin": "De asielzoeker zegt dat hij zich van de islam heeft afgekeerd en daarom problemen verwacht in Irak.",
+   "bron": [
+    19
+   ],
+   "citaat": "dat hij zich heeft afgewend van de islam en dat hij daardoor problemen verwacht in Irak"
+  },
+  {
+   "zin": "Hij zegt dat de minister te weinig laat zien hoe CaseMatcher werkt en dat onduidelijk is wat voor algoritme dit is.",
+   "bron": [
+    23
+   ],
+   "citaat": "De minister geeft onvoldoende inzicht in de werking van CaseMatcher en tot op heden is onduidelijk wat voor soort algoritme CaseMatcher is"
+  },
+  {
+   "zin": "De minister zegt dat CaseMatcher een eenvoudige zoekmachine is en geen AI-systeem.",
+   "bron": [
+    27
+   ],
+   "citaat": "CaseMatcher een eenvoudige zoekmachine die op basis van een keyword search alleen vaststelt"
+  },
+  {
+   "zin": "De rechter heeft ondanks de verklaringen geen inzicht gekregen in de feitelijke werking van CaseMatcher.",
+   "bron": [
+    38
+   ],
+   "citaat": "De rechtbank heeft op grond van de door de minister verstrekte informatie echter geen inzicht gekregen in de feitelijke werking van CaseMatcher"
+  },
+  {
+   "zin": "Daardoor kan de rechter het besluit niet toetsen en is er een motiveringsgebrek.",
+   "bron": [
+    40
+   ],
+   "citaat": "waardoor de werking van CaseMatcher en het gebruik van het algoritme in de besluitvorming niet in rechte kan worden getoetst"
+  },
+  {
+   "zin": "De rechter vernietigt het besluit, omdat het in strijd is met de Awb.",
+   "bron": [
+    44
+   ],
+   "citaat": "De rechtbank vernietigt het bestreden besluit, omdat dit genomen is in strijd met artikel 3:2 en artikel 3:46 van de Awb"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Besluit vernietigd; de minister moet binnen zes weken opnieuw beslissen.",
+ "gevolg_betrokkene": {
+  "zin": "Het besluit is vernietigd. De minister moet binnen zes weken opnieuw beslissen en betaalt 4.203 euro aan proceskosten; de aanvraag is daarmee nog niet toegewezen.",
+  "bron": [
+   50
+  ],
+  "citaat": "binnen zes weken na de dag van bekendmaking van deze uitspraak een nieuw besluit te nemen"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "algoritme-niet-uitlegbaar",
+   "burger_zegt": "De asielzoeker zegt dat de minister onvoldoende laat zien hoe CaseMatcher werkt.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vindt dat de minister geen inzage gaf in de technische werking, zodat het algoritme niet getoetst kan worden.",
+    "bron": [
+     40
+    ],
+    "citaat": "De minister heeft echter geen inzage verschaft in de technische werking van CaseMatcher"
+   },
+   "bruikbare_zin": {
+    "citaat": "waardoor de werking van CaseMatcher en het gebruik van het algoritme in de besluitvorming niet in rechte kan worden getoetst",
+    "bron": [
+     40
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De asielzoeker zegt dat er risico op bias (vooringenomenheid) en discriminatie is bij het zoekprogramma.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Zolang niet duidelijk is of CaseMatcher een AI-systeem is, is er een zorgvuldigheidsgebrek over het risico op bias.",
+    "bron": [
+     43
+    ],
+    "citaat": "Zolang onduidelijk blijft of CaseMatcher een AI-systeem is, is eveneens sprake van een zorgvuldigheidsgebrek ten aanzien van de vraag of sprake is van bias"
+   },
+   "bruikbare_zin": {
+    "citaat": "bij een AI-systeem andere risico’s op bias ontstaan en andere maatregelen moeten worden genomen",
+    "bron": [
+     43
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De asielzoeker zegt dat de minister een verkeerd toetsingskader gebruikt voor mensen die zich van hun geloof afkeren.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter komt aan de andere beroepsgronden niet toe.",
+    "bron": [
+     41
+    ],
+    "citaat": "De rechtbank komt daarom niet toe aan de bespreking van de overige beroepsgronden"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Zolang niet vaststaat dat het vermelden van het algoritme niet nodig is voor een deugdelijke motivering, is er een motiveringsgebrek.",
+  "type": "regel",
+  "reikwijdte": "Asielbesluiten waarbij mogelijk een algoritme als CaseMatcher is gebruikt en de werking niet is uitgelegd",
+  "uitzondering": "Het gebruik hoeft niet te worden vermeld als het besluit volledig door de motivering wordt gedragen; dat kon hier niet worden vastgesteld.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   43
+  ],
+  "citaat": "zolang niet kan worden vastgesteld dat het vermelden van het algoritme nodig is om tot een deugdelijke motivering"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "expertbrieven van de asielzoeker",
+   "verklaring van een technisch expert van de minister",
+   "verklaring van de softwareleverancier",
+   "evaluatierapport over CaseMatcher"
+  ],
+  "wat_gaf_doorslag": "De minister gaf geen inzicht in de feitelijke werking van CaseMatcher, ook niet na de tussenuitspraak."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 3:2 Awb",
+  "art. 3:46 Awb",
+  "art. 8:80a Awb",
+  "art. 8:51a Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg per besluit vast of een algoritme is gebruikt, zodat u dat kunt onderbouwen als de rechter ernaar vraagt",
+   "raakt": "datateam-algoritmes",
+   "bron": [
+    36
+   ],
+   "citaat": "geen duidelijkheid is gegeven over de vraag of CaseMatcher nu wel of niet is gebruikt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "datateam-algoritmes",
+  "privacy-fg"
+ ],
+ "klantuitleg": "Deze zaak gaat over een asielbesluit van de minister en niet over een gemeente. De rechter vond dat de minister niet had uitgelegd hoe een zoekprogramma werkt dat mogelijk bij het besluit is gebruikt. Denkt u dat bij uw besluit een computerprogramma is gebruikt, dan kunt u in uw bezwaar vragen hoe dat werkt.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente betrokken; de minister is partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

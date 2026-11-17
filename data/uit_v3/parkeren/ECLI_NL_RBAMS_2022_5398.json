@@ -1,0 +1,132 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2022:5398",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeert tegen de gemeente Amsterdam over een naheffingsaanslag (de rekening achteraf) voor parkeren zonder betaling. De zaak ligt bij de Rechtbank Amsterdam.",
+ "titel": "Te laat bezwaar, dus de parkeerrekening wordt niet inhoudelijk bekeken",
+ "kern": {
+  "zin": "De rechter vindt het bezwaar te laat, want de termijn was al op 22 september 2021 afgelopen.",
+  "bron": [
+   20
+  ],
+  "citaat": "De bezwaartermijn is geëindigd op 22 september 2021"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controleur zag op 6 augustus 2021 een auto zonder betaald parkeren, waarna de gemeente de rekening achteraf (naheffingsaanslag) stuurde.",
+   "bron": [
+    15
+   ],
+   "citaat": "heeft een parkeercontroleur van de gemeente Amsterdam geconstateerd dat de auto van eiser"
+  },
+  {
+   "zin": "De parkeerder zei dat mantelzorg en een verhuizing hem tegenhielden om op tijd bezwaar te maken.",
+   "bron": [
+    21
+   ],
+   "citaat": "Eiser heeft gewezen op persoonlijke omstandigheden, te weten mantelzorg en een verhuizing"
+  },
+  {
+   "zin": "De gemeente vond het bezwaar te laat binnengekomen en behandelde het daarom niet inhoudelijk.",
+   "bron": [
+    16
+   ],
+   "citaat": "omdat dit niet tijdig is ingediend"
+  },
+  {
+   "zin": "Het bezwaar kwam pas op 18 januari 2022 binnen, terwijl de termijn al op 22 september 2021 was afgelopen.",
+   "bron": [
+    20
+   ],
+   "citaat": "De bezwaartermijn is geëindigd op 22 september 2021"
+  },
+  {
+   "zin": "De rechter vindt de late indiening niet verschoonbaar, ook niet door mantelzorg of een verhuizing.",
+   "bron": [
+    21
+   ],
+   "citaat": "ziet de rechtbank ook geen aanleiding om de termijnoverschrijding verschoonbaar te achten"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Bezwaar te laat; inhoud van de aanslag niet beoordeeld.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de parkeerder wordt de aanslag niet inhoudelijk bekeken.",
+  "bron": [
+   22
+  ],
+  "citaat": "De rechtbank komt daarom niet toe aan de gronden gericht tegen de naheffingsaanslag"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "Door mantelzorg en een verhuizing kon de parkeerder het bezwaar niet op tijd indienen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt de late indiening niet verschoonbaar, ook niet door mantelzorg of een verhuizing.",
+    "bron": [
+     21
+    ],
+    "citaat": "ziet de rechtbank ook geen aanleiding om de termijnoverschrijding verschoonbaar te achten"
+   },
+   "bruikbare_zin": {
+    "citaat": "om een gemachtigde te vragen om het bezwaarschrift namens hem in te dienen",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een te laat bezwaar blijft alleen open als de indiener geen verwijt te maken valt.",
+  "type": "regel",
+  "reikwijdte": "Bezwaar dat te laat is ingediend, bij de vraag of de termijn verschoonbaar is.",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   18
+  ],
+  "citaat": "Een bezwaarschrift dat te laat is ingediend is toch ontvankelijk als redelijkerwijs niet kan worden aangenomen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring op zitting over e-mailnotificatie Berichtenbox",
+   "persoonlijke omstandigheden (mantelzorg, verhuizing)"
+  ],
+  "wat_gaf_doorslag": "De e-mailmelding bij berichten in de Berichtenbox bepaalde het startmoment van de termijn."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:7 Awb",
+  "art. 6:8 eerste lid Awb",
+  "art. 2:17 eerste lid Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver procedurele uitspraak; geen fout van de gemeente vastgesteld",
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "communicatie"
+ ],
+ "klantuitleg": "Heeft u een rekening voor het parkeren gekregen en maakt u daar te laat bezwaar tegen, dan kijkt de rechter niet meer naar of het parkeren terecht was. Persoonlijke redenen zoals mantelzorg hebben hier niet geholpen. Zorg daarom dat u op tijd bezwaar maakt, of laat u vertegenwoordigen door een gemachtigde.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

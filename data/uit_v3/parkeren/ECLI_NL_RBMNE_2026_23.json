@@ -1,0 +1,179 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2026:23",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "particulier, met gemachtigde",
+  "wederpartij": "gemeente (heffingsambtenaar van de samenwerking BSGH)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een particulier ging in beroep tegen de uitspraak op bezwaar over een naheffingsaanslag parkeerbelasting. Bij de rechtbank Midden-Nederland ging het vooral om een dwangsom, omdat de gemeente te laat op het bezwaar besliste.",
+ "titel": "Te laat op bezwaar parkeerbelasting: dwangsom van 1.442 euro",
+ "kern": {
+  "zin": "De rechter oordeelde dat de gemeente niet kon aantonen dat de uitspraak op tijd was verstuurd, daarom moet zij een dwangsom betalen.",
+  "bron": [
+   20
+  ],
+  "citaat": "niet aannemelijk gemaakt dat de uitspraak op bezwaar van 2 februari 2023 is verzonden"
+ },
+ "samenvatting": [
+  {
+   "zin": "Na een naheffingsaanslag maakte de burger bezwaar.",
+   "bron": [
+    12
+   ],
+   "citaat": "een naheffingsaanslag in de parkeerbelasting opgelegd"
+  },
+  {
+   "zin": "De burger betwistte dat hij de uitspraak op bezwaar op tijd had ontvangen.",
+   "bron": [
+    19
+   ],
+   "citaat": "betwist in beroep dat hij de uitspraak op bezwaar van 2 februari 2023 tijdig te hebben ontvangen"
+  },
+  {
+   "zin": "De gemeente stelde dat het besluit al op 2 februari 2023 was verstuurd.",
+   "bron": [
+    19
+   ],
+   "citaat": "is op 2 februari 2023 de uitspraak op bezwaar naar de gemachtigde van eiser verzonden"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente niet op tijd had beslist.",
+   "bron": [
+    20
+   ],
+   "citaat": "de uitspraak op bezwaar ten aanzien van de naheffingsaanslag niet tijdig heeft bekendgemaakt"
+  },
+  {
+   "zin": "De gemeente moet een dwangsom van 1.442 euro betalen.",
+   "bron": [
+    22
+   ],
+   "citaat": "de maximale dwangsom van € 1.442,- is verschuldigd"
+  },
+  {
+   "zin": "De burger krijgt daarnaast het griffierecht en proceskosten terug.",
+   "bron": [
+    33,
+    34
+   ],
+   "citaat": "het griffierecht van € 51,- aan eiser moet vergoeden"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Beroep gegrond; dwangsom, griffierecht en proceskosten voor de burger.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet de burger 1.442 euro dwangsom betalen, plus 51 euro griffierecht en 633,50 euro proceskosten, met wettelijke rente.",
+  "bron": [
+   22,
+   33,
+   34,
+   35
+  ],
+  "citaat": "de maximale dwangsom van € 1.442,- is verschuldigd"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De burger zegt dat de gemeente te laat op het bezwaar besliste, dus is er een dwangsom verschuldigd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente de uitspraak niet tijdig had bekendgemaakt.",
+    "bron": [
+     20
+    ],
+    "citaat": "de uitspraak op bezwaar ten aanzien van de naheffingsaanslag niet tijdig heeft bekendgemaakt"
+   },
+   "bruikbare_zin": {
+    "citaat": "Op de heffingsambtenaar rust de bewijslast dat de uitspraak op bezwaar op de aangegeven datum daadwerkelijk is verzonden",
+    "bron": [
+     20
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De burger wil wettelijke rente over de dwangsom.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter kende de rente toe, omdat de gemeente met de betaling in verzuim was.",
+    "bron": [
+     23
+    ],
+    "citaat": "De rechtbank wijst dit toe"
+   },
+   "bruikbare_zin": {
+    "citaat": "en wettelijke rente is verschuldigd tot aan de dag van algehele voldoening",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een overheid die te laat beslist, betaalt per dag een dwangsom, maximaal 42 dagen.",
+  "type": "regel",
+  "reikwijdte": "beslistermijnen van bestuursorganen, bijvoorbeeld bij een besluit op bezwaar",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   21
+  ],
+  "citaat": "Als een bestuursorgaan een besluit niet op tijd neemt, moet het bestuursorgaan een dwangsom betalen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verzendadministratie (niet overgelegd)"
+  ],
+  "wat_gaf_doorslag": "Het ontbreken van een verzendadministratie, waardoor de verzending niet kon worden aangetoond."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2020:866"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:55c Awb",
+  "art. 4:18 Awb",
+  "art. 4:87 Awb",
+  "art. 6:119 BW",
+  "art. 8:43 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij elke uitspraak op bezwaar vast op welke datum die is verstuurd.",
+   "raakt": "bezwaar",
+   "bron": [
+    20
+   ],
+   "citaat": "een verzendadministratie over te leggen waaruit blijkt dat en op welke datum de uitspraak op bezwaar is verzonden"
+  },
+  {
+   "actie": "Neem na een ingebrekestelling binnen twee weken alsnog een besluit, anders loopt de dwangsom op.",
+   "raakt": "bezwaar",
+   "bron": [
+    19
+   ],
+   "citaat": "had na de ingebrekstelling hierdoor twee weken om"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar"
+ ],
+ "klantuitleg": "Deze uitspraak gaat niet over of de naheffing terecht was, maar over een te late beslissing op bezwaar. De rechter oordeelde dat de gemeente niet kon bewijzen dat het besluit op tijd was verstuurd, en daarom is een dwangsom verschuldigd. Heeft u te lang moeten wachten op een besluit op uw bezwaar, dan kunt u de gemeente in gebreke stellen en een dwangsom vragen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "samenwerking van gemeenten en hoogheemraadschap (BSGH); geen enkele gemeente genoemd",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,147 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:10431",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bestuurder van de auto (kentekenhouder is zijn echtgenote)",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Het gaat om een naheffing van € 52,80 voor parkeren in de Mgr. de Vetstraat in Breda. De bestuurder kwam bij de rechtbank Zeeland-West-Brabant op tegen de gemeente Breda.",
+ "titel": "Straat stond niet op de lijst: naheffing vernietigd",
+ "kern": {
+  "zin": "De rechter vernietigde de naheffing, omdat de straat niet op de lijst van het aanwijzingsbesluit stond.",
+  "bron": [
+   26
+  ],
+  "citaat": "niet vermeld staat in de lijst met straatnamen waarvoor de aanwijzing geldt"
+ },
+ "samenvatting": [
+  {
+   "zin": "Na een scanauto-controle kreeg de bestuurder een naheffing van € 52,80.",
+   "bron": [
+    17
+   ],
+   "citaat": "Naar aanleiding hiervan heeft de heffingsambtenaar een naheffingsaanslag parkeerbelasting opgelegd van € 52,80"
+  },
+  {
+   "zin": "Volgens de bestuurder was niet duidelijk dat de betaalde zone net was uitgebreid.",
+   "bron": [
+    20
+   ],
+   "citaat": "Het was hem op basis van de situatie ter plaatse niet duidelijk dat de betaald parkeerzone was uitgebreid"
+  },
+  {
+   "zin": "Volgens de rechter moest de gemeente zelf aantonen dat er een grondslag voor de heffing was.",
+   "bron": [
+    22
+   ],
+   "citaat": "De bewijslast van de bevoegdheid tot naheffen rust op de heffingsambtenaar"
+  },
+  {
+   "zin": "Het aanwijzingsbesluit noemt deze straat helemaal niet, dus de betaalplicht ontbreekt.",
+   "bron": [
+    26
+   ],
+   "citaat": "De straatnaam komt in het geheel niet voor in het Aanwijzingsbesluit parkeerbelastingen"
+  },
+  {
+   "zin": "Zonder grondslag kon de gemeente de naheffing niet langer houden.",
+   "bron": [
+    27
+   ],
+   "citaat": "Omdat een wettelijke grondslag voor het heffen van parkeerbelasting ontbreekt"
+  },
+  {
+   "zin": "De naheffing wordt vernietigd en de gemeente moet het griffierecht vergoeden.",
+   "bron": [
+    29
+   ],
+   "citaat": "Omdat het beroep gegrond is moet de heffingsambtenaar het griffierecht aan belanghebbende vergoeden"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd; griffierecht van € 53 terug, geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing van € 52,80 wordt vernietigd, zodat hij die niet hoeft te betalen.",
+  "bron": [
+   27
+  ],
+  "citaat": "De rechtbank zal deze daarom vernietigen"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Het was niet duidelijk dat de betaalde zone net was uitgebreid.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter ging niet in op de bebording, omdat de straat al niet in het besluit stond.",
+    "bron": [
+     26
+    ],
+    "citaat": "De straatnaam komt in het geheel niet voor in het Aanwijzingsbesluit parkeerbelastingen"
+   },
+   "bruikbare_zin": {
+    "citaat": "kan op zichzelf geen belastingplicht doen ontstaan",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeerbelasting kan alleen worden nageheven als een regeling op die plek en tijd van kracht is.",
+  "type": "regel",
+  "reikwijdte": "straten waarvoor geen aanwijzing bestaat",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   22
+  ],
+  "citaat": "dat op de betreffende plaats op de betreffende dag en tijd een regeling van kracht is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "Aanwijzingsbesluit parkeerbelastingen (niet door de gemeente ingebracht)",
+   "foto's van het zonebord (door de bestuurder overgelegd)"
+  ],
+  "wat_gaf_doorslag": "Dat de straat niet in het Aanwijzingsbesluit staat, zoals de rechtbank zelf vaststelde."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8 Verordening op de heffing en invordering van parkeerbelastingen 2025 (Breda)",
+  "Aanwijzingsbesluit parkeerbelastingen Breda 2025"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer per straat of die in het Aanwijzingsbesluit staat, voordat een naheffing wordt opgelegd.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    26
+   ],
+   "citaat": "niet vermeld staat in de lijst met straatnamen waarvoor de aanwijzing geldt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "bebording-verkeersbesluit",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een naheffing is alleen terecht als de straat op de lijst staat van plekken waar betaald parkeren geldt. In deze zaak stond de straat er niet op, en daarom is de naheffing ongeldig verklaard. Kijk zelf of uw straat op die lijst staat, en leg bij twijfel foto's van de borden vast.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

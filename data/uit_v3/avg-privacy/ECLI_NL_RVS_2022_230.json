@@ -1,0 +1,190 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2022:230",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "rectificatie",
+ "kenmerk": null,
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Eindhoven",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De hoogste bestuursrechter van het land (de Afdeling bestuursrechtspraak van de Raad van State) boog zich over het hoger beroep van een inwoonster van Eindhoven. Zij is het oneens met de gemeente Eindhoven over het corrigeren van haar persoonsgegevens en over schadevergoeding.",
+ "titel": "Hoger beroep van inwoonster over rectificatie en schade afgewezen",
+ "kern": {
+  "zin": "Het hoger beroep van de burger is ongegrond: de uitspraak van de rechtbank blijft staan.",
+  "bron": [
+   59
+  ],
+  "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak moet worden bevestigd."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente Eindhoven om onjuiste persoonsgegevens in brieven te corrigeren.",
+   "bron": [
+    24
+   ],
+   "citaat": "verzocht om rectificatie van haar persoonsgegevens die zijn vermeld in een brief van het college"
+  },
+  {
+   "zin": "Zij vond ook dat de gemeente haar e-mail met adres naar de buren had doorgestuurd en eiste schadevergoeding.",
+   "bron": [
+    24
+   ],
+   "citaat": "het college een mailbericht van 15 januari 2017 van haar naar derden heeft doorgestuurd, zonder haar mailadres onleesbaar te maken"
+  },
+  {
+   "zin": "De gemeente vond dat een deel van de brieven geen persoonsgegevens van de burger bevatte.",
+   "bron": [
+    28
+   ],
+   "citaat": "dat de lijst bij deze brief geen persoonsgegevens van [appellante] bevat"
+  },
+  {
+   "zin": "De rechter wijst het verzoek om schadevergoeding af.",
+   "bron": [
+    53
+   ],
+   "citaat": "De rechtbank heeft het verzoek om schadevergoeding terecht afgewezen."
+  },
+  {
+   "zin": "Het hoger beroep van de burger is ongegrond.",
+   "bron": [
+    59
+   ],
+   "citaat": "Het hoger beroep is ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De Afdeling bevestigt de uitspraak; de gemeente had op alle punten gelijk.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen schadevergoeding en de gemeente hoeft geen proceskosten te betalen.",
+  "bron": [
+   53,
+   60
+  ],
+  "citaat": "De rechtbank heeft het verzoek om schadevergoeding terecht afgewezen."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente besliste te laat op mijn verzoek om rectificatie.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente informeerde de burger binnen een maand en de gegevens werden kort daarna gecorrigeerd.",
+    "bron": [
+     35
+    ],
+    "citaat": "Daarmee heeft het college [appellante] binnen een maand geïnformeerd over het gevolg dat is gegeven aan haar verzoek."
+   },
+   "bruikbare_zin": {
+    "citaat": "Daarmee heeft het college [appellante] binnen een maand geïnformeerd over het gevolg dat is gegeven aan haar verzoek.",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Mijn gegevens in de brief van 14 november 2018 zijn onjuist en moeten worden aangepast.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat geschillen over de juistheid van zulke vermeldingen in een andere procedure thuishoren.",
+    "bron": [
+     43
+    ],
+    "citaat": "De juistheid van deze vermeldingen kan in de daarvoor bedoelde procedure aan de orde worden gesteld."
+   },
+   "bruikbare_zin": {
+    "citaat": "De juistheid van deze vermeldingen kan in de daarvoor bedoelde procedure aan de orde worden gesteld.",
+    "bron": [
+     43
+    ]
+   }
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Ik heb schade doordat de gemeente mijn e-mail met adres heeft doorgestuurd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger maakte niet aannemelijk welke nadelige gevolgen het doorsturen voor haar had.",
+    "bron": [
+     52
+    ],
+    "citaat": "Zij heeft niet aannemelijk gemaakt welke nadelige gevolgen voor haar zijn voortgevloeid uit het doorsturen van haar e-mailadres."
+   },
+   "bruikbare_zin": {
+    "citaat": "Zij heeft niet aannemelijk gemaakt welke nadelige gevolgen voor haar zijn voortgevloeid uit het doorsturen van haar e-mailadres.",
+    "bron": [
+     52
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het recht op correctie geldt niet voor indrukken, meningen en conclusies waarmee iemand het oneens is.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om rectificatie van wat eigenlijk meningen of conclusies zijn.",
+  "uitzondering": "Onjuistheden die eenvoudig en objectief vast te stellen zijn, moet de gemeente wel corrigeren.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   43,
+   42
+  ],
+  "citaat": "is niet bedoeld om indrukken, meningen, onderzoeksresultaten en conclusies waarmee betrokkene zich niet kan verenigen, te corrigeren of te verwijderen."
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "concrete gegevens over de geleden schade"
+  ],
+  "wat_gaf_doorslag": "De burger gaf geen concrete gegevens over haar schade."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2020:899"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 16 AVG",
+  "art. 12 lid 3 AVG",
+  "art. 82 AVG",
+  "art. 8 lid 1 Handvest",
+  "art. 34 Uitvoeringswet AVG"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Informeer de verzoeker binnen een maand over het gevolg van zijn AVG-verzoek.",
+   "raakt": "privacy-fg",
+   "bron": [
+    35
+   ],
+   "citaat": "Daarmee heeft het college [appellante] binnen een maand geïnformeerd over het gevolg dat is gegeven aan haar verzoek."
+  },
+  {
+   "actie": "Maak bij het doorsturen van een e-mail het e-mailadres van de afzender onleesbaar.",
+   "raakt": "ict-informatiebeveiliging",
+   "bron": [
+    48
+   ],
+   "citaat": "het doorzenden van het e-mailbericht van 15 januari 2017, zonder het e-mailadres van [appellante] onleesbaar te maken"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "ict-informatiebeveiliging",
+  "klantcontact"
+ ],
+ "klantuitleg": "De gemeente moet onjuiste gegevens corrigeren als de fout makkelijk vast te stellen is. Meningsverschillen over wat er in een brief staat, hoeft de gemeente niet te veranderen. Kreeg u schade doordat de gemeente uw gegevens verkeerd doorgaf? Dan moet u zelf met bewijs laten zien welke schade u daardoor had.",
+ "gemeente": "Eindhoven",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

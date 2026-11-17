@@ -1,0 +1,135 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2021:3777",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder uit Zaandam procedeerde tegen de gemeente Amsterdam over een naheffing (de rekening achteraf) voor parkeren zonder betaling. De rechtbank Amsterdam besliste in een enkelvoudige kamer.",
+ "titel": "Te lang bezig met betalen: rekening blijft staan",
+ "kern": {
+  "zin": "De rechter oordeelde dat de naheffing terecht is, omdat niet aannemelijk was dat de parkeerder negentien minuten met betalen bezig was.",
+  "bron": [
+   17
+  ],
+  "citaat": "dat de naheffingsaanslag terecht aan [eiser] is opgelegd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle bleek dat er geen parkeergeld was betaald, waarna de gemeente een naheffing oplegde.",
+   "bron": [
+    14
+   ],
+   "citaat": "is tijdens een controle geconstateerd dat de auto"
+  },
+  {
+   "zin": "De parkeerder meldde zich om 10:45 uur aan op de computer, nadat hij om 10:30 uur op papier was ingeschreven.",
+   "bron": [
+    15
+   ],
+   "citaat": "nadat hij zich al om 10:30 uur in een papieren register had ingeschreven"
+  },
+  {
+   "zin": "De rechter oordeelde dat een parkeerder een redelijke tijd krijgt om het betalen te regelen.",
+   "bron": [
+    16
+   ],
+   "citaat": "een parkeerder wel een redelijke tijd moet worden gegund"
+  },
+  {
+   "zin": "Uit de gegevens van de gemeente bleek dat de parkeersessie om 09:45 uur was gestart.",
+   "bron": [
+    17
+   ],
+   "citaat": "blijkt dat [eiser] de parkeersessie om 09:45 uur is gestart"
+  },
+  {
+   "zin": "De rechter vond het niet aannemelijk dat de parkeerder negentien minuten steeds met betalen bezig was.",
+   "bron": [
+    17
+   ],
+   "citaat": "Het is niet aannemelijk dat [eiser] negentien minuten steeds bezig is geweest"
+  },
+  {
+   "zin": "Het beroep is ongegrond en er is geen vergoeding van proceskosten of griffierecht.",
+   "bron": [
+    18
+   ],
+   "citaat": "Het beroep is ongegrond. Voor een proceskostenveroordeling of vergoeding van het griffierecht is geen aanleiding."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan, geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan voor de parkeerder en er is geen vergoeding van proceskosten of griffierecht.",
+  "bron": [
+   18
+  ],
+  "citaat": "Voor een proceskostenveroordeling of vergoeding van het griffierecht is geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder zegt dat hij na de controle nog bezig was met het betalen via zijn elektronische parkeerkaart.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond niet aannemelijk dat de parkeerder negentien minuten steeds met betalen bezig was.",
+    "bron": [
+     17
+    ],
+    "citaat": "Het is niet aannemelijk dat [eiser] negentien minuten steeds bezig is geweest"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dit betekent dat [eiser] de redelijke termijn heeft overschreden",
+    "bron": [
+     17
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder krijgt een redelijke tijd om te betalen, maar moet die tijd steeds met betaalhandelingen vullen.",
+  "type": "regel",
+  "reikwijdte": "parkeerders die zelf de parkeerapparatuur in werking moeten stellen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   16
+  ],
+  "citaat": "een parkeerder wel een redelijke tijd moet worden gegund om de parkeerapparatuur in werking te stellen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "gegevens van de parkeersessie",
+   "controlegegevens van de gemeente"
+  ],
+  "wat_gaf_doorslag": "Tussen de controle en het aanmelden op de computer zaten negentien minuten, en dat was niet aannemelijk 'steeds bezig met betalen'."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen actie uit deze uitspraak; de rechter oordeelde op de feiten van deze zaak",
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "U krijgt een redelijke tijd om te betalen als u net geparkeerd bent. Die tijd telt alleen mee als u de hele tijd echt met betalen bezig bent. In deze zaak zaten negentien minuten tussen de controle en het betalen, en dat vond de rechter te lang. Heeft u een soortgelijke situatie, dan kan bewijs van uw betaalpoging helpen, maar dat is geen garantie.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

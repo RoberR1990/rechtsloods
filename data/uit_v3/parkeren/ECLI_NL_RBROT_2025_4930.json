@@ -1,0 +1,167 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:4930",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rotterdam (college van burgemeester en wethouders)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner van een complex in Rotterdam kreeg geen tijdelijke parkeervergunning, terwijl een medewerker van de gemeente hem had gezegd dat hij in aanmerking kwam. Hij ging in beroep bij de rechtbank Rotterdam tegen het college van burgemeester en wethouders van de gemeente Rotterdam.",
+ "titel": "Gemeente moet toezegging respecteren: tijdelijke vergunning alsnog",
+ "kern": {
+  "zin": "De rechter vindt dat het college de aanvraag niet redelijk kon afwijzen.",
+  "bron": [
+   31
+  ],
+  "citaat": "kon het college naar het oordeel van de rechtbank niet in redelijkheid de aanvraag"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een bewoner belde de gemeente over een tijdelijke vergunning en kocht daarna een auto.",
+   "bron": [
+    18
+   ],
+   "citaat": "telefonisch contact opgenomen met de gemeente Rotterdam"
+  },
+  {
+   "zin": "De bewoner zei dat een medewerker had gezegd dat hij in aanmerking kwam, als hij een volverklaring leverde.",
+   "bron": [
+    18
+   ],
+   "citaat": "heeft verklaard dat eiser in aanmerking komt voor een parkeervergunning"
+  },
+  {
+   "zin": "De gemeente zei dat de medewerker niet bevoegd was, dus de toezegging telde niet.",
+   "bron": [
+    21
+   ],
+   "citaat": "Het college stelt dat de medewerker niet bevoegd was toezeggingen te doen"
+  },
+  {
+   "zin": "De rechter vindt dat de bewoner gerechtvaardigd op de toezegging mocht vertrouwen.",
+   "bron": [
+    25
+   ],
+   "citaat": "mocht er daarom gerechtvaardigd op vertrouwen dat zijn aanvraag"
+  },
+  {
+   "zin": "De rechter vond dat het belang van de bewoner zwaarder woog dan het belang om parkeren in het centrum te beperken.",
+   "bron": [
+    29
+   ],
+   "citaat": "dient in dit geval zwaarder te wegen dan het belang van het college"
+  },
+  {
+   "zin": "De bewoner ontvangt alsnog een tijdelijke vergunning voor het verleden; over schade wordt later apart beslist.",
+   "bron": [
+    31,
+    50
+   ],
+   "citaat": "eiser (voor het verleden) een tijdelijke parkeervergunning toegewezen krijgt vanaf 28 februari 2024"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Beroep gegrond; tijdelijke vergunning alsnog; schadeverzoek nog open.",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner ontvangt het griffierecht van € 51 terug en € 1.814 aan proceskosten; de vergunning geldt voor het verleden.",
+  "bron": [
+   31,
+   48,
+   49
+  ],
+  "citaat": "eiser (voor het verleden) een tijdelijke parkeervergunning toegewezen krijgt vanaf 28 februari 2024"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente had eerder toegezegd dat hij een vergunning zou krijgen, dus hij mag daarop vertrouwen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vindt dat de bewoner gerechtvaardigd op de toezegging mocht vertrouwen.",
+    "bron": [
+     25
+    ],
+    "citaat": "mocht er daarom gerechtvaardigd op vertrouwen dat zijn aanvraag"
+   },
+   "bruikbare_zin": {
+    "citaat": "de toezegging door slechts één medewerker is gedaan brengt de rechtbank niet tot een ander oordeel",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Hij kocht een auto op basis van de toezegging, en hoge parkeerkosten zijn te zwaar voor hem.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vindt het belang van de bewoner zwaarder dan het belang van de gemeente.",
+    "bron": [
+     29
+    ],
+    "citaat": "dient in dit geval zwaarder te wegen dan het belang van het college"
+   },
+   "bruikbare_zin": {
+    "citaat": "Niet valt in te zien hoe de belangen van het college in zodanige mate worden geschaad",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een toezegging van de overheid kan vertrouwen wekken, en dat wordt in drie stappen getoetst.",
+  "bron": [
+   22
+  ],
+  "citaat": "moeten voor een geslaagd beroep op het vertrouwensbeginsel drie stappen worden doorlopen",
+  "type": "regel",
+  "reikwijdte": "Toezeggingen van medewerkers die een burger in het vertrouwen laten dat een vergunning komt",
+  "uitzondering": "Zwaarder wegende belangen, zoals het algemeen belang of de belangen van derden",
+  "herkomst": "vaste lijn HR-RvS"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "telefoongesprek met de gemeente (door het college erkend)"
+  ],
+  "wat_gaf_doorslag": "Het college erkende het telefoongesprek, dus de toezegging stond vast."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:88 lid 1 Awb",
+  "art. 8:91 lid 1 Awb",
+  "art. 8:68 lid 1 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Maak bij een gedane toezegging de belangenafweging zichtbaar in het besluit.",
+   "raakt": "vergunningen",
+   "bron": [
+    27
+   ],
+   "citaat": "Het college dient in dat kader een belangenafweging te maken"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een toezegging van een medewerker van de gemeente kan u in vertrouwen laten handelen. In deze zaak vond de rechter dat de weigering van de vergunning niet terecht was. Heeft u zo'n toezegging, leg die dan op papier vast en bewaar bewijs; dat kan helpen, maar garandeert niets.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

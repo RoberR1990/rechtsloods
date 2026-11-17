@@ -1,0 +1,192 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:7745",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing omdat de auto in Rotterdam stond zonder genoeg parkeerbelasting. De parkeerder ging in beroep bij de rechtbank Rotterdam tegen de gemeente.",
+ "titel": "Naheffing blijft staan, maar burger krijgt proceskosten terug",
+ "kern": {
+  "zin": "De rechter vond dat de auto gewoon geparkeerd stond en niet werd geladen of gelost, dus de naheffing blijft staan.",
+  "bron": [
+   22
+  ],
+  "citaat": "Eiser heeft niet aannemelijk gemaakt dat sprake was van onmiddellijk laden en lossen."
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeercontroleur zag op 23 juli 2022 de auto in de Franselaan staan zonder genoeg betaalde parkeerbelasting.",
+   "bron": [
+    15
+   ],
+   "citaat": "stond geparkeerd aan de Franselaan in Rotterdam zonder dat voldoende parkeerbelasting was voldaan."
+  },
+  {
+   "zin": "De parkeerder vond dat er sprake was van laden en lossen, dus geen parkeren.",
+   "bron": [
+    19
+   ],
+   "citaat": "omdat sprake was van het laden en lossen van goederen met enige omvang en/of gewicht"
+  },
+  {
+   "zin": "De gemeente had foto's van een scanauto, waarop de auto op een parkeerplaats stond.",
+   "bron": [
+    22
+   ],
+   "citaat": "blijkt dat het voertuig op een parkeerplaats stond, de portieren gesloten waren"
+  },
+  {
+   "zin": "De rechter oordeelde dat de parkeerder niet aannemelijk maakte dat er werd geladen of gelost.",
+   "bron": [
+    22
+   ],
+   "citaat": "Eiser heeft niet aannemelijk gemaakt dat sprake was van onmiddellijk laden en lossen."
+  },
+  {
+   "zin": "De rechter vernietigde de niet-ontvankelijkheid van het bezwaar en besliste zelf dat de naheffing blijft staan.",
+   "bron": [
+    17,
+    27
+   ],
+   "citaat": "het bezwaarschrift van eiser wel degelijk de gronden van het bezwaar bevatte"
+  },
+  {
+   "zin": "De gemeente betaalt de parkeerder het griffierecht van 50 euro en 418,50 euro aan proceskosten.",
+   "bron": [
+    38,
+    37
+   ],
+   "citaat": "tot betaling van € 418,50 aan proceskosten aan eiser"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Naheffing blijft staan; alleen griffierecht en proceskosten gaan naar de parkeerder.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan, maar de gemeente betaalt de parkeerder het griffierecht en 418,50 euro proceskosten.",
+  "bron": [
+   38,
+   37,
+   27
+  ],
+  "citaat": "tot betaling van € 418,50 aan proceskosten aan eiser"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Het ging om laden en lossen, dus de parkeerbelasting was niet verschuldigd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag geen laden of lossen, omdat niemand bij de auto stond en de portieren dicht waren.",
+    "bron": [
+     22
+    ],
+    "citaat": "Eiser heeft niet aannemelijk gemaakt dat sprake was van onmiddellijk laden en lossen."
+   },
+   "bruikbare_zin": {
+    "citaat": "de portieren gesloten waren en niemand zich in de nabijheid van het voertuig bevond",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerbelasting is in strijd met het legaliteitsbeginsel geheven, omdat het tarief niet in een formele wet staat.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter mag niet toetsen of de Gemeentewet aan artikel 104 van de Grondwet voldoet.",
+    "bron": [
+     25
+    ],
+    "citaat": "Gelet op het toetsingsverbod van artikel 120 van de Grondwet kan de rechtbank niet beoordelen"
+   },
+   "bruikbare_zin": {
+    "citaat": "kan de rechtbank niet beoordelen of regeling van de parkeerbelasting in de Gemeentewet voldoet",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het bezwaar was ten onrechte niet-ontvankelijk verklaard.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat het bezwaarschrift wel de gronden bevatte, dus niet-ontvankelijk verklaren was fout.",
+    "bron": [
+     17
+    ],
+    "citaat": "het bezwaarschrift van eiser wel degelijk de gronden van het bezwaar bevatte"
+   },
+   "bruikbare_zin": {
+    "citaat": "het bezwaarschrift van eiser wel degelijk de gronden van het bezwaar bevatte",
+    "bron": [
+     17
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Onmiddellijk laden en lossen geldt alleen bij zware of grote zaken die niet anders vervoerd kunnen worden.",
+  "type": "regel",
+  "reikwijdte": "Stilstaan om zware of grote zaken te laden of te lossen, direct na het stilstaan.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   21
+  ],
+  "citaat": "het bij voortduring inladen of uitladen van zaken van enige omvang of enig gewicht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "scanfoto's van de scanauto"
+  ],
+  "wat_gaf_doorslag": "De foto's lieten een geparkeerde auto zien, en het laden en lossen was niet aannemelijk gemaakt."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2014:445",
+   "ECLI:NL:GHDHA:2021:2131"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 6:6 Awb",
+  "art. 8:72 lid 3 onder b Awb",
+  "art. 225 lid 8 Gemeentewet",
+  "art. 104 Grondwet",
+  "art. 120 Grondwet",
+  "art. 1 Verordening parkeerregulering en parkeerbelastingen 2022 Rotterdam"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer of een bezwaarschrift echt geen gronden bevat, voordat het niet-ontvankelijk wordt verklaard.",
+   "raakt": "bezwaar",
+   "bron": [
+    17
+   ],
+   "citaat": "het bezwaarschrift van eiser wel degelijk de gronden van het bezwaar bevatte"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Een naheffing is terecht als uw auto gewoon geparkeerd stond en u niet bezig was met laden of lossen. Laden en lossen telt alleen bij zware of grote spullen die niet op een andere manier weg kunnen. Bezwaar heeft alleen zin als u bewijs hebt, zoals foto's of getuigen, dat u echt aan het laden of lossen was.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

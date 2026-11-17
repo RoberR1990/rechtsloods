@@ -1,0 +1,129 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2026:3330",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een Wahv-boete (de boete voor fout parkeren) van 129 euro. Na het beroep bij de officier van justitie ging hij naar de rechter, die het beroep gegrond verklaarde.",
+ "titel": "Boete voor parkeerverbod vernietigd: bord ontbrak",
+ "kern": {
+  "zin": "De rechter vernietigt de boete, omdat de overtreding niet kan worden vastgesteld.",
+  "bron": [
+   21
+  ],
+  "citaat": "kan de verkeersovertreding niet worden vastgesteld"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeerder kreeg een boete voor parkeren op een plek waar een parkeerverbod gold, in Leeuwarden.",
+   "bron": [
+    10
+   ],
+   "citaat": "een voertuig parkeren waar dat niet mag (bord E1, parkeerverbod(szone))"
+  },
+  {
+   "zin": "De parkeerder zei dat een toezichthouder had gezegd dat parkeren daar werd gedoogd, en dat het bord er niet stond.",
+   "bron": [
+    18
+   ],
+   "citaat": "Dit bord is echter niet aanwezig"
+  },
+  {
+   "zin": "Volgens de officier van justitie was het gedoogbeleid niet aangetoond.",
+   "bron": [
+    19
+   ],
+   "citaat": "is niet aangetoond dat sprake is van gedoogbeleid"
+  },
+  {
+   "zin": "Volgens de rechter koos de verbalisant (de ambtenaar die de overtreding opschreef) kennelijk het verkeerde tekstblok.",
+   "bron": [
+    21
+   ],
+   "citaat": "De verbalisant heeft kennelijk het verkeerde tekstblok geselecteerd"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete vernietigd; de zekerheid krijgt de parkeerder terug.",
+ "gevolg_betrokkene": {
+  "zin": "De boete valt weg en de parkeerder krijgt de zekerheid terug die hij heeft gesteld.",
+  "bron": [
+   28
+  ],
+  "citaat": "bepaalt dat betrokkene de zekerheidstelling terugkrijgt"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Het bord dat in het zaakoverzicht staat, was er niet.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vindt dat de overtreding niet kan worden vastgesteld, omdat de boete op een niet-bestaand bord rust.",
+    "bron": [
+     21
+    ],
+    "citaat": "kan de verkeersovertreding niet worden vastgesteld"
+   },
+   "bruikbare_zin": {
+    "citaat": "de boete volgens het dossier is opgelegd op grond van een bord dat er niet staat",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Parkeren op die plek werd gedoogd, want een toezichthouder had dat twee weken eerder gezegd.",
+   "oordeel": "niet beoordeeld",
+   "waarom": null,
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een boete op een bord dat er niet staat, kan niet standhouden.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "een boete die volgens het dossier op een niet-bestaand bord rust",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "kan de verkeersovertreding niet worden vastgesteld"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "zaakoverzicht van de verbalisant",
+   "verwijzing naar een E1-bord"
+  ],
+  "wat_gaf_doorslag": "Op die plek stond geen bord, terwijl het zaakoverzicht er een noemde."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Wahv"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar"
+ ],
+ "klantuitleg": "Staat het bord waarop de boete is gebaseerd er niet, dan kan de rechter de boete vernietigen. Dat betekent niet dat u altijd gelijk krijgt. Heeft u een foto of ander bewijs dat het bord ontbrak, neem die dan mee bij een beroep.",
+ "gemeente": "Leeuwarden",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

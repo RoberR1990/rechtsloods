@@ -1,0 +1,153 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2026:1338",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder ging in hoger beroep tegen een gemeente over een naheffingsaanslag (een rekening achteraf) voor parkeerbelasting. Het gerechtshof Amsterdam oordeelde over de zaak.",
+ "titel": "Geen naheffing voor tijd waarvoor betalen niet kon",
+ "kern": {
+  "zin": "Het hof vernietigde de naheffingsaanslag, omdat de burger de belasting na het eerste uur niet op aangifte kon betalen en daarover dan ook geen naheffing mogelijk is.",
+  "bron": [
+   68
+  ],
+  "citaat": "brengt, gelet op het bepaalde in artikel 20, lid 1, AWR, mee dat daarvan ook geen naheffing mogelijk is"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger meldde zijn auto via de parkeerapp aan voor het maximum van één uur, maar de auto stond er nog om 18:55 uur; daarom volgde een naheffingsaanslag.",
+   "bron": [
+    19
+   ],
+   "citaat": "De auto stond echter tot ten minste 18:55 uur op de parkeerplaats geparkeerd"
+  },
+  {
+   "zin": "De burger zei dat betalen voor de tijd na het eerste uur niet mogelijk was en dat er dus ook geen naheffing kon komen.",
+   "bron": [
+    58
+   ],
+   "citaat": "de onmogelijkheid belasting voor de periode na het eerste uur op aangifte te voldoen is ook naheffing daarvan niet mogelijk"
+  },
+  {
+   "zin": "De gemeente zei dat er geen maximale parkeerduur gold, omdat de parkeerder telkens opnieuw een uur kon bijbetalen.",
+   "bron": [
+    59
+   ],
+   "citaat": "kan vervolgens na ommekomst van dat uur steeds (en onbeperkt) met een uur worden verlengd"
+  },
+  {
+   "zin": "Het hof vond dat betalen voor een volgend uur niet mogelijk was, omdat de wet eist dat de belasting bij de start van het parkeren op aangifte wordt betaald.",
+   "bron": [
+    67
+   ],
+   "citaat": "Het voldoen van belasting voor opvolgende tijdvakken was vervolgens voor hem niet mogelijk"
+  },
+  {
+   "zin": "Dat betalen technisch wel kon, maakte voor het hof niet uit.",
+   "bron": [
+    67
+   ],
+   "citaat": "Dat betaling technisch mogelijk was doet aan het voorgaande niet af"
+  },
+  {
+   "zin": "Het hof vernietigde de naheffingsaanslag en de uitspraak van de rechtbank.",
+   "bron": [
+    70
+   ],
+   "citaat": "De naheffingsaanslag is ten onrechte opgelegd en dient te worden vernietigd"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffingsaanslag vernietigd; gemeente betaalt € 2.534 aan kosten.",
+ "gevolg_betrokkene": {
+  "zin": "De burger hoeft de naheffingsaanslag niet te betalen en krijgt € 2.534 proceskosten, € 51 en € 143 griffierecht en wettelijke rente vergoed.",
+  "bron": [
+   77,
+   85
+  ],
+  "citaat": "Het totaal van de (proces)kostenvergoeding is daarmee € 2.534"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Na het eerste uur mocht en kon ik volgens de regels niet meer op aangifte bijbetalen, dus er kan geen naheffing komen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het hof vond dat betalen op aangifte alleen bij de start van het parkeren kon, dus voor een volgend uur was betalen niet mogelijk.",
+    "bron": [
+     67
+    ],
+    "citaat": "Het voldoen van belasting voor opvolgende tijdvakken was vervolgens voor hem niet mogelijk"
+   },
+   "bruikbare_zin": {
+    "citaat": "Parkeerbelasting mag immers enkel uit kracht van wet geheven worden",
+    "bron": [
+     67
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Kan een parkeerder de belasting voor een volgende periode niet op aangifte betalen, dan is daarover ook geen naheffing mogelijk.",
+  "type": "regel",
+  "reikwijdte": "Locaties waar de gemeente de aanmeldduur beperkt tot een uur en waar op aangifte betalen alleen bij de start van het parkeren kan.",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   68
+  ],
+  "citaat": "brengt, gelet op het bepaalde in artikel 20, lid 1, AWR, mee dat daarvan ook geen naheffing mogelijk is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "scanautocontrole om 18:55 uur",
+   "aanmelding via parkeerapp voor één uur"
+  ],
+  "wat_gaf_doorslag": "Betalen voor een volgend uur kon volgens de wet niet, dus ook geen naheffing."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 1 Gemeentewet",
+  "art. 234 Gemeentewet",
+  "art. 20 lid 1 AWR",
+  "art. 6 lid 1 Verordening parkeerbelastingen 2023",
+  "art. 8 lid 1 Verordening parkeerbelastingen 2023"
+ ],
+ "actie_gemeente": [
+  {
+   "bron": [
+    67
+   ],
+   "citaat": "Parkeerbelasting mag immers enkel uit kracht van wet geheven worden",
+   "actie": "Controleer of de verordening bij een uurslimiet een manier geeft om opnieuw te betalen die de wet erkent.",
+   "raakt": "verordening-beleid"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "verordening-beleid",
+  "betaalapp",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "In deze zaak vond de rechter dat een gemeente alleen achteraf mag laten bijbetalen voor tijd waarvoor u volgens de wet kon betalen. Gold op de plek een grens van één uur en kon u daarna niet op de gewone manier bijbetalen, dan kan de rekening achteraf onterecht zijn. Kreeg u zo'n rekening, dan kunt u bezwaar maken en uitleggen hoe de regels op die plek werkten.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

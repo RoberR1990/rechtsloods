@@ -1,0 +1,148 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2022:1773",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner wilde zijn parkeervergunning voor bedrijven omzetten naar een bewonersvergunning, maar de gemeente Amsterdam weigerde dat. De voorzieningenrechter van de rechtbank Amsterdam deed tegelijk uitspraak op het beroep en op het verzoek om een voorlopige voorziening.",
+ "titel": "Geen bewonersvergunning na verhuizing: één auto, één garage",
+ "kern": {
+  "zin": "De rechter vond dat de bewoner geen recht had op een bewonersvergunning, omdat hij één auto en één garage had.",
+  "bron": [
+   18
+  ],
+  "citaat": "Verzoeker heeft dus volgens de geldende regels geen recht op een parkeervergunning"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner vroeg de gemeente op 6 oktober 2021 om zijn parkeervergunning voor bedrijven om te zetten.",
+   "bron": [
+    16
+   ],
+   "citaat": "heeft verzoeker verweerder op 6 oktober 2021 gevraagd om zijn parkeervergunning voor bedrijven"
+  },
+  {
+   "zin": "De gemeente zei dat de bewoner niet aan de regels van de Parkeerverordening voldeed.",
+   "bron": [
+    17
+   ],
+   "citaat": "dat verzoeker niet voldoet aan de voorwaarden van de Parkeerverordening 2013"
+  },
+  {
+   "zin": "Uit het Kadaster bleek dat de bewoner meerdere woningen en garages in het gebied bezat.",
+   "bron": [
+    18
+   ],
+   "citaat": "Volgens gegevens uit het Kadaster is verzoeker eigenaar van meerdere woningen en garages"
+  },
+  {
+   "zin": "De rechter vond de weigering terecht, ook al paste de grote auto niet in de garage.",
+   "bron": [
+    18
+   ],
+   "citaat": "De omstandigheid dat de huidige auto van verzoeker te groot is voor deze garage doet hier niet aan af"
+  },
+  {
+   "zin": "Het beroep van de bewoner is ongegrond verklaard.",
+   "bron": [
+    24
+   ],
+   "citaat": "verklaart het beroep met zaaknummer AMS 22/595 ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; bewonersvergunning blijft geweigerd.",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner krijgt geen bewonersvergunning en het verzoek om een voorlopige voorziening is afgewezen.",
+  "bron": [
+   25
+  ],
+  "citaat": "wijst het verzoek om voorlopige voorziening met zaaknummer AMS 22/596 af"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Zijn auto is te groot voor de garage, dus hij kan die niet gebruiken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dat de auto niet past in de garage is voor rekening en risico van de bewoner.",
+    "bron": [
+     18
+    ],
+    "citaat": "Dat de auto niet past in de garage is een omstandigheid die voor rekening en risico van eiser komt"
+   },
+   "bruikbare_zin": {
+    "citaat": "Verweerder heeft daarom terecht de aanvraag van verzoeker voor een parkeervergunning afgewezen",
+    "bron": [
+     18
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente had de hardheidsclausule moeten toepassen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente hoefde geen aanleiding te zien om de hardheidsclausule toe te passen.",
+    "bron": [
+     18
+    ],
+    "citaat": "In het aangevoerde heeft verweerder geen aanleiding hoeven zien om de hardheidsclausule toe te passen"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen aanleiding hoeven zien om de hardheidsclausule toe te passen",
+    "bron": [
+     18
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bewoner die over een eigen parkeergelegenheid beschikt, komt niet in aanmerking voor een bewonersvergunning.",
+  "type": "regel",
+  "reikwijdte": "Aanvragen van een bewonersvergunning in Amsterdam",
+  "uitzondering": "Een hardheidsclausule kan een uitzondering geven; hier niet toegepast.",
+  "herkomst": "lokale verordening",
+  "bron": [
+   17
+  ],
+  "citaat": "Eén van de daarin genoemde voorwaarden is het niet kunnen beschikken over een eigen parkeergelegenheid"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "gegevens uit het Kadaster"
+  ],
+  "wat_gaf_doorslag": "De Kadastergegevens over meerdere woningen en garages in het vergunninggebied."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:86 Awb",
+  "Parkeerverordening 2013 Amsterdam (voorwaarden bewonersvergunning)",
+  "Uitwerkingsbesluit Parkeerverordening Amsterdam"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter zag geen fout in de weigering; geen verbetering gevraagd",
+ "raakt": [
+  "vergunningen",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een bewonersvergunning krijgt u niet als u al een eigen parkeergelegenheid heeft, ook niet als uw auto daar niet in past. De gemeente kan in bijzondere gevallen een uitzondering maken, maar daar heeft u geen recht op. Met alleen de grootte van de auto als reden heeft bezwaar weinig kans.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

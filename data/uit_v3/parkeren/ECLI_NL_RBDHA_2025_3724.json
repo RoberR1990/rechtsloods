@@ -1,0 +1,169 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2025:3724",
+ "relevant": true,
+ "onderwerp": "parkeernormen",
+ "sub": "parkeernorm-toets",
+ "kenmerk": null,
+ "zaaktype": "omgevingsrecht",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Delft",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Dit is een beroep tegen een omgevingsvergunning om een oude fietsenberging om te bouwen tot appartement in Delft. Een bewoner uit de buurt procedeert tegen het college van burgemeester en wethouders van Delft bij de rechtbank Den Haag.",
+ "titel": "Bewoner verliest: eerste beroep te laat, parkeerplekken kloppen",
+ "kern": {
+  "zin": "Het beroep tegen het eerste besluit kwam te laat binnen, en de parkeerbehoefte van 31 plekken is juist vastgesteld.",
+  "bron": [
+   24,
+   45
+  ],
+  "citaat": "De rechtbank is van oordeel dat er in dit geval geen omstandigheden zijn"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Delft gaf een omgevingsvergunning om een oude fietsenberging om te bouwen tot appartement.",
+   "bron": [
+    10
+   ],
+   "citaat": "het veranderen van een voormalige fietsenberging tot appartement"
+  },
+  {
+   "zin": "De bewoner vond dat voor de zelfstandige appartementen de gewone norm voor woningen had moeten gelden.",
+   "bron": [
+    41
+   ],
+   "citaat": "voor normale woningen met een gebruiksoppervlakte van 60-90 m2"
+  },
+  {
+   "zin": "De gemeente stelde de parkeerbehoefte vast op 31 plekken.",
+   "bron": [
+    11
+   ],
+   "citaat": "dat de parkeerbehoefte op het perceel is vastgesteld op 31 parkeerplekken"
+  },
+  {
+   "zin": "De rechter vond het eerste beroep te laat, zodat het niet-ontvankelijk is.",
+   "bron": [
+    32,
+    22
+   ],
+   "citaat": "Gelet op het voorgaande is het beroep tegen het besluit van 22 maart 2024"
+  },
+  {
+   "zin": "Het beroep tegen de wijziging over parkeren is verloren, omdat de aanleunwoningnorm mocht gelden.",
+   "bron": [
+    48,
+    45
+   ],
+   "citaat": "Het beroep tegen het wijzigingsbesluit van 6 november 2024 is ongegrond"
+  },
+  {
+   "zin": "De bewoner krijgt geen proceskosten vergoed en het griffierecht niet terug.",
+   "bron": [
+    48
+   ],
+   "citaat": "Hij krijgt ook geen vergoeding van zijn proceskosten"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep tegen eerste besluit te laat; beroep tegen wijziging ongegrond.",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner krijgt geen griffierecht en geen proceskosten terug; de vergunning blijft overeind.",
+  "bron": [
+   48,
+   40
+  ],
+  "citaat": "Hij krijgt ook geen vergoeding van zijn proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "parkeernorm-onvoldoende",
+   "burger_zegt": "Voor de zelfstandige appartementen had de gewone woningnorm moeten gelden, niet die voor aanleunwoningen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt de aanleunwoningnorm niet onjuist toegepast, gezien de opzet van de woningen.",
+    "bron": [
+     45
+    ],
+    "citaat": "Op grond van de nota geldt voor een aanleunwoning een parkeerbehoefte van 0,9"
+   },
+   "bruikbare_zin": {
+    "citaat": "het vergunnen van een extra woning leidt tot een toename van de parkeerbehoefte met één parkeerplaats",
+    "bron": [
+     45
+    ]
+   }
+  },
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "De bekendmaking had geen datum, en de gemeente schreef later dat het bezwaar op tijd was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De e-mail van de gemeente kwam na het indienen, dus die gaf geen vertrouwen over de termijn.",
+    "bron": [
+     30
+    ],
+    "citaat": "niet het vertrouwen kon ontlenen dat hij niet in verzuim is geweest"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet het vertrouwen kon ontlenen dat hij niet in verzuim is geweest",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een te laat beroep tegen het eerste besluit maakt het beroep tegen de wijziging niet automatisch te laat; dat moet apart worden beoordeeld.",
+  "type": "regel",
+  "reikwijdte": "beroep van rechtswege tegen een wijzigingsbesluit, nadat het beroep tegen het oorspronkelijke besluit niet-ontvankelijk is",
+  "uitzondering": "als het gebrek zich naar zijn aard ook tot het beroep van rechtswege uitstrekt",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   36
+  ],
+  "citaat": "niet-ontvankelijkheid van het oorspronkelijke rechtsmiddel niet de niet-ontvankelijkheid impliceert"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "parkeerdrukmeting 2023 van de gemeente"
+  ],
+  "wat_gaf_doorslag": "De bewoner maakte niet aannemelijk dat de extra woning parkeerproblemen geeft."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 7:1 Awb",
+  "art. 6:19 Awb",
+  "Nota Parkeernormen 2018"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer de besluitdatum in de officiële bekendmaking voordat die wordt gepubliceerd, zodat een verkeerde datum niet opnieuw ontstaat.",
+   "raakt": "vergunningen",
+   "bron": [
+    27
+   ],
+   "citaat": "de officiële bekendmaking met de verkeerde datum is gepubliceerd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "vergunningen",
+  "verordening-beleid"
+ ],
+ "klantuitleg": "Bij een nieuwe woning bepaalt de gemeente hoeveel parkeerplekken er nodig zijn, volgens de parkeernorm die dan geldt. Vindt u dat de gemeente de verkeerde norm gebruikt, dan kunt u bezwaar of beroep maken. Let op de termijn: die is zes weken en begint de dag na bekendmaking, en een foute datum in de publicatie maakt de termijn niet vanzelf langer.",
+ "gemeente": "Delft",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

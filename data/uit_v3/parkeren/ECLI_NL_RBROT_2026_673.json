@@ -1,0 +1,167 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2026:673",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner van een koopflat in Rotterdam vroeg een parkeervergunning voor bewoners aan, maar het college van burgemeester en wethouders weigerde die. Hij ging in beroep tegen de gemeente Rotterdam bij de rechtbank Rotterdam.",
+ "titel": "Geen bewonersvergunning, wel jaarlijkse tijdelijke vergunning",
+ "kern": {
+  "zin": "De rechtbank liet de weigering staan, omdat voor de woning een parkeerplek in een garage was aangewezen; een tijdelijke vergunning is wel mogelijk.",
+  "bron": [
+   27,
+   29
+  ],
+  "citaat": "Verweerder heeft in zoverre terecht de gevraagde parkeervergunning geweigerd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Hij vroeg in juni 2025 een parkeervergunning voor bewoners aan, omdat hij zijn auto op straat wilde parkeren.",
+   "bron": [
+    17
+   ],
+   "citaat": "heeft om die reden op 16 juni 2025 een parkeervergunning aangevraagd"
+  },
+  {
+   "zin": "Hij zei dat hij het bericht over de hoorzitting nooit had ontvangen.",
+   "bron": [
+    20
+   ],
+   "citaat": "Eiser stelt zich op het standpunt dit bericht nooit te hebben ontvangen"
+  },
+  {
+   "zin": "De gemeente wees de aanvraag af, omdat een bewoner met een eigen parkeervoorziening geen vergunning krijgt.",
+   "bron": [
+    26
+   ],
+   "citaat": "geen parkeervergunning wordt verleend als iemand woont in een gebouw met een daarbij behorende parkeervoorziening"
+  },
+  {
+   "zin": "De rechtbank vond dat voor zijn woning in een garage van het bouwplan parkeergelegenheid was aangewezen.",
+   "bron": [
+    27
+   ],
+   "citaat": "In het bouwplan is voorzien in parkeergelegenheid voor de flats in eisers bouwblok in een parkeergarage"
+  },
+  {
+   "zin": "De koopplekken in die garage waren op, maar de rechter zag daarin geen reden om de regel niet toe te passen.",
+   "bron": [
+    28
+   ],
+   "citaat": "geen aan te kopen parkeerplaatsen in de aldus aangewezen parkeervoorziening meer beschikbaar waren"
+  },
+  {
+   "zin": "De rechter vond dat een jaarlijkse tijdelijke vergunning niet onevenredig is.",
+   "bron": [
+    29
+   ],
+   "citaat": "acht de rechtbank niet onevenredig"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; weigering blijft staan, griffierecht wordt vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De weigering van de bewonersvergunning blijft staan, en hij krijgt het griffierecht van 194 euro terug.",
+  "bron": [
+   35
+  ],
+  "citaat": "bepaalt dat verweerder het door eiser betaalde griffierecht (€ 194,-) aan hem vergoedt"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "Hij is niet gehoord over zijn bezwaar, en hij heeft het bericht over de hoorzitting niet ontvangen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat het college van een hoorzitting mocht afzien, omdat hij niet binnen de termijn had gereageerd.",
+    "bron": [
+     24
+    ],
+    "citaat": "Eiser heeft niet binnen deze gegeven redelijke termijn verklaard over zijn bezwaar te willen worden gehoord"
+   },
+   "bruikbare_zin": {
+    "citaat": "Wij kunnen besluiten u niet te horen en uw bezwaar uitsluitend op de stukken te behandelen",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Het is onevenredig dat hij elk jaar opnieuw een tijdelijke vergunning moet aanvragen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond een jaarlijkse tijdelijke vergunning niet onevenredig.",
+    "bron": [
+     29
+    ],
+    "citaat": "acht de rechtbank niet onevenredig"
+   },
+   "bruikbare_zin": {
+    "citaat": "Op deze manier beoogt verweerder immers bewoners van een gebouw met een daarbij behorende parkeervoorziening te dwingen die parkeervoorziening te benutten",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bewoner van een gebouw met een eigen parkeervoorziening krijgt geen bewonersvergunning.",
+  "type": "regel",
+  "reikwijdte": "bewoners van een gebouw met een daarbij behorende parkeervoorziening",
+  "uitzondering": "wel een jaarlijkse tijdelijke vergunning na een verklaring dat de toegewezen plek vol is",
+  "herkomst": "lokale verordening",
+  "bron": [
+   26
+  ],
+  "citaat": "geen parkeervergunning wordt verleend als iemand woont in een gebouw met een daarbij behorende parkeervoorziening"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "volverklaring van de vereniging van eigenaren"
+  ],
+  "wat_gaf_doorslag": "Dat de toegewezen parkeerplaatsen vol waren, waardoor een tijdelijke vergunning mogelijk was."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 2 lid 1 onder b Uitvoeringsbesluit parkeren Rotterdam 2025",
+  "art. 2 lid 14 Uitvoeringsbesluit parkeren Rotterdam 2025",
+  "art. 7:3 Awb",
+  "art. 6:22 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer besluiten op foutieve tekst, want een fout in de motivering kostte het griffierecht.",
+   "raakt": "vergunningen",
+   "bron": [
+    31
+   ],
+   "citaat": "In de fout in de motivering van het bestreden besluit"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een bewonersvergunning krijgt u meestal niet als uw woning al een eigen parkeervoorziening heeft, zoals een garage. Is de plek in die voorziening vol, dan kunt u met een verklaring van de vereniging van eigenaren elk jaar een tijdelijke vergunning aanvragen. Dit gaat om één situatie, dus de uitkomst geldt niet zonder meer voor elke woning.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

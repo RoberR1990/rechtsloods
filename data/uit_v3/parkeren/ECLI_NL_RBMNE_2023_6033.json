@@ -1,0 +1,205 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2023:6033",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amersfoort",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing (de rekening achteraf) omdat hij zonder geldig parkeerrecht had geparkeerd in Amersfoort. Hij ging in beroep bij de Rechtbank Midden-Nederland, omdat hij het niet eens was met de beslissing op zijn bezwaar.",
+ "titel": "Formele fout bij bezwaar, maar parkeerrekening blijft staan",
+ "kern": {
+  "zin": "Het beroep was gegrond, omdat het besluit op bezwaar onbevoegd was genomen, maar de naheffing blijft in stand.",
+  "bron": [
+   38
+  ],
+  "citaat": "dat het bestreden besluit onbevoegd is genomen, gegrond verklaren en de beslissing op bezwaar vernietigen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 9 juli 2021 stond de auto van de parkeerder in Amersfoort geparkeerd zonder dat er voor die tijd betaald was.",
+   "bron": [
+    21
+   ],
+   "citaat": "zonder dat op dat tijdstip de verschuldigde parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat hij om 14:28 uur opnieuw had betaald met een nieuw, geldig parkeerrecht.",
+   "bron": [
+    27
+   ],
+   "citaat": "hij om 14:28 uur opnieuw een geldig parkeerrecht (parkeerkaart) heeft gekocht"
+  },
+  {
+   "zin": "De gemeente zei dat er geen tweede kaartje in de auto lag, en de foto's lieten dat ook zien.",
+   "bron": [
+    29
+   ],
+   "citaat": "Op de door de parkeercontroleur gemaakte foto’s is ook geen tweede kaartje te zien"
+  },
+  {
+   "zin": "De rechtbank ging uit van het proces-verbaal, dat onder ambtseed was opgemaakt.",
+   "bron": [
+    32
+   ],
+   "citaat": "Dit proces-verbaal is onder ambtseed opgemaakt"
+  },
+  {
+   "zin": "De parkeerder kreeg gelijk op één punt: het besluit op bezwaar was onbevoegd genomen.",
+   "bron": [
+    25
+   ],
+   "citaat": "Deze grond treft dan ook doel"
+  },
+  {
+   "zin": "De rechtbank liet de rechtsgevolgen van de naheffing in stand, dus de parkeerrekening blijft staan.",
+   "bron": [
+    38
+   ],
+   "citaat": "aanleiding de rechtsgevolgen van het bestreden besluit in stand te laten"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Parkeerder krijgt kosten terug; de naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de rekening blijven betalen, maar de gemeente vergoedt het griffierecht van € 50 en € 209,25 aan proceskosten.",
+  "bron": [
+   46,
+   47,
+   45
+  ],
+  "citaat": "het griffierecht van € 50,- vergoedt"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het besluit op bezwaar is door iemand zonder bevoegdheid genomen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank gaf die grond gelijk, omdat de gemeente zelf al erkende dat het besluit onbevoegd was genomen.",
+    "bron": [
+     25
+    ],
+    "citaat": "Deze grond treft dan ook doel"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat het bestreden besluit onbevoegd is genomen",
+    "bron": [
+     38
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Er lag ook een tweede, nog geldige parkeerkaart in de auto.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond de foto's duidelijk genoeg, en het proces-verbaal was onder ambtseed opgemaakt.",
+    "bron": [
+     32
+    ],
+    "citaat": "Dit proces-verbaal is onder ambtseed opgemaakt"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dit proces-verbaal is onder ambtseed opgemaakt",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Kosten in de bezwaarfase moeten worden vergoed, omdat de gemeente onrechtmatig handelde.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Die kosten krijgt hij alleen als het besluit wordt teruggedraaid wegens een fout van het bestuur; dat was hier niet het geval.",
+    "bron": [
+     31,
+     10
+    ],
+    "citaat": "voor zover het bestreden besluit wordt herroepen wegens aan het bestuursorgaan te wijten onrechtmatigheid"
+   },
+   "bruikbare_zin": {
+    "citaat": "worden de kosten in bezwaar uitsluitend vergoed op verzoek",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De gemeente had hem moeten horen over de proceskostenvergoeding.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Horen was niet nodig, omdat de gemeente het bezwaar volledig tegemoetkwam door de naheffing in te trekken.",
+    "bron": [
+     34
+    ],
+    "citaat": "kan van het horen worden afgezien indien aan het bezwaar volledig wordt tegemoet gekomen"
+   },
+   "bruikbare_zin": {
+    "citaat": "indien aan het bezwaar volledig wordt tegemoet gekomen",
+    "bron": [
+     34
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Kosten in de bezwaarfase worden alleen vergoed als het besluit wordt teruggedraaid door een fout van het bestuur.",
+  "type": "regel",
+  "reikwijdte": "proceskosten in de bezwaarfase van een besluit",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   31
+  ],
+  "citaat": "voor zover het bestreden besluit wordt herroepen wegens aan het bestuursorgaan te wijten onrechtmatigheid"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "proces-verbaal van de controleur",
+   "foto's van de parkeerkaart"
+  ],
+  "wat_gaf_doorslag": "Het proces-verbaal van de controleur en de foto's, die maar één verlopen kaart lieten zien."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 7:15 lid 2 Awb",
+  "art. 7:2 Awb",
+  "art. 7:3 onder e Awb",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer vóór een beslissing op bezwaar of de juiste persoon daarover mag beslissen.",
+   "raakt": "bezwaar",
+   "bron": [
+    38
+   ],
+   "citaat": "dat het bestreden besluit onbevoegd is genomen, gegrond verklaren en de beslissing op bezwaar vernietigen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een naheffing is terecht als er op het moment van de controle geen geldig parkeerrecht was. In deze zaak vond de rechter de foto's en het proces-verbaal genoeg, dus de rekening blijft staan. U kreeg wel kosten terug, omdat het bezwaarbesluit door iemand is genomen die daar niet over ging; heeft u een betaalbewijs van dat moment, neem dat dan mee, want dat is uw sterkste bewijs.",
+ "gemeente": "Amersfoort",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

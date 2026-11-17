@@ -1,0 +1,160 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2025:22944",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "de parkeerder",
+  "wederpartij": "gemeente Rijswijk",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder kreeg een naheffingsaanslag van 68,45 euro (de rekening achteraf), omdat hij zijn auto niet had aangemeld. Hij procedeerde tegen de gemeente Rijswijk bij de rechtbank Den Haag.",
+ "titel": "Tarief nul voor eerste uur: wel aanmelden, anders naheffing terecht",
+ "kern": {
+  "zin": "De rechter vond de naheffing terecht, omdat het tarief van nul alleen gold als de auto was aangemeld.",
+  "bron": [
+   24
+  ],
+  "citaat": "de expliciete voorwaarde in de Verordening dat een aanmeldhandeling moet zijn verricht"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij de controle stond de auto op een gewone parkeerplaats in Rijswijk, en de parkeerbelasting was niet betaald.",
+   "bron": [
+    21
+   ],
+   "citaat": "dat de auto van belanghebbende ten tijde van de controle geparkeerd stond op een reguliere parkeerplaats"
+  },
+  {
+   "zin": "Hij zei dat hij minder dan een uur had geparkeerd, en dat de app het eerste uur niet liet betalen.",
+   "bron": [
+    18
+   ],
+   "citaat": "Belanghebbende heeft verklaard dat hij minder dan een uur heeft geparkeerd"
+  },
+  {
+   "zin": "Volgens de gemeente telde het nultarief pas als de auto was aangemeld.",
+   "bron": [
+    19
+   ],
+   "citaat": "maar dat de auto ten behoeve van het parkeren wel dient te worden aangemeld"
+  },
+  {
+   "zin": "De rechter vond de aanmelding een voorwaarde uit de verordening, dus de naheffing bleef terecht.",
+   "bron": [
+    24
+   ],
+   "citaat": "de expliciete voorwaarde in de Verordening dat een aanmeldhandeling moet zijn verricht"
+  },
+  {
+   "zin": "De parkeerder moet de naheffing van 68,45 euro betalen.",
+   "bron": [
+    15
+   ],
+   "citaat": "een naheffingsaanslag opgelegd van € 68,45, bestaande uit € 2,15 aan parkeerbelasting"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; geen vergoeding van proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing van 68,45 euro betalen en krijgt geen proceskosten terug.",
+  "bron": [
+   15,
+   30
+  ],
+  "citaat": "een naheffingsaanslag opgelegd van € 68,45, bestaande uit € 2,15 aan parkeerbelasting"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij stond minder dan een uur en de app rekende het eerste uur niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat het nultarief alleen gold als de auto was aangemeld.",
+    "bron": [
+     24
+    ],
+    "citaat": "de expliciete voorwaarde in de Verordening dat een aanmeldhandeling moet zijn verricht"
+   },
+   "bruikbare_zin": {
+    "citaat": "geldt dus de expliciete voorwaarde in de Verordening dat een aanmeldhandeling moet zijn verricht",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "De voorwaarde blijkt niet uit de borden en de parkeerapp.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de bebording bij de inrit en de app duidelijk maakten welke regels golden.",
+    "bron": [
+     26
+    ],
+    "citaat": "Uit de bebording nabij de inrit naar het parkeerterrein blijkt namelijk welke gebiedscode"
+   },
+   "bruikbare_zin": {
+    "citaat": "valt logischerwijs uit de Easypark-app af te leiden dat een parkeeractie moet worden gestart",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het tarief van nul voor het eerste uur geldt alleen als het kenteken is aangemeld.",
+  "type": "regel",
+  "reikwijdte": "parkeren met tarief nul voor het eerste uur in Rijswijk",
+  "uitzondering": null,
+  "herkomst": "lokale verordening",
+  "bron": [
+   23
+  ],
+  "citaat": "als het kenteken is aangemeld via parkeerapparatuur"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "tarieventabel bij de Verordening",
+   "bebording nabij de inrit",
+   "Easypark-app"
+  ],
+  "wat_gaf_doorslag": "Dat de auto niet op de voorgeschreven wijze was aangemeld."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Verordening parkeerregulering en parkeerbelastingen Rijswijk"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Houd de bebording bij de inrit van de parkeerplaats actueel, want die maakte hier de regels duidelijk.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    26
+   ],
+   "citaat": "Uit de bebording nabij de inrit naar het parkeerterrein blijkt namelijk welke gebiedscode"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "betaalapp",
+  "tarief-naheffing",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een naheffing van 68,45 euro blijft staan als u uw auto niet heeft aangemeld, ook als het eerste uur geen kosten heeft. De rechter zei dat de regels op de borden en in de app duidelijk waren. Denkt u dat de regels niet duidelijk waren, dan kunt u bezwaar maken met foto's van de borden en de app, maar het is niet zeker dat dat helpt.",
+ "gemeente": "Rijswijk",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

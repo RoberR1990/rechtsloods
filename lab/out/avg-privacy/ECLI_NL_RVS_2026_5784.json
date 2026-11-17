@@ -1,0 +1,178 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:5784",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "fraude-signalering",
+ "kenmerk": "fsv",
+ "zaaktype": "fraude-algoritme",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "minister van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De burger kreeg een brief van de minister van Financiën over zijn gegevens in de Fraude Signalering Voorziening (FSV). Hij is het daarmee oneens en ging in hoger beroep bij de Raad van State.",
+ "titel": "Brief over FSV is geen besluit",
+ "kern": {
+  "zin": "De Raad van State beslist dat de brief over de FSV geen besluit is, omdat die alleen informatie geeft en geen rechtsgevolg heeft.",
+  "bron": [
+   24
+  ],
+  "citaat": "De brief is niet gericht op rechtsgevolg."
+ },
+ "samenvatting": [
+  {
+   "zin": "De minister liet de burger per brief van 4 augustus 2023 weten dat zijn gegevens in de FSV stonden.",
+   "bron": [
+    19
+   ],
+   "citaat": "De minister heeft [appellant] bij brief van 4 augustus 2023 laten weten dat zijn persoonsgegevens in de FSV stonden."
+  },
+  {
+   "zin": "De minister verklaarde het bezwaar van de burger niet-ontvankelijk.",
+   "bron": [
+    21
+   ],
+   "citaat": "De minister heeft het door [appellant] tegen de brief van 4 augustus 2023 gemaakte bezwaar kennelijk niet-ontvankelijk verklaard."
+  },
+  {
+   "zin": "De burger zei dat de brief nadelige gevolgen had, doordat de minister de onjuiste informatie uit de brief aan latere besluiten ten grondslag heeft gelegd.",
+   "bron": [
+    23
+   ],
+   "citaat": "Doordat de minister de onjuiste informatie uit voornoemde brief aan latere besluiten ten grondslag heeft gelegd"
+  },
+  {
+   "zin": "De Raad van State zegt dat onjuiste informatie de brief niet tot besluit maakt.",
+   "bron": [
+    24
+   ],
+   "citaat": "leidt, zoals de rechtbank terecht heeft overwogen, er niet toe dat de brief daarom wel rechtsgevolg heeft"
+  },
+  {
+   "zin": "Omdat de brief geen besluit is, hoeft de minister geen dwangsom te betalen.",
+   "bron": [
+    24
+   ],
+   "citaat": "is de minister op grond van artikel 4:17, vijfde lid, onder c, van de Awb geen dwangsom aan hem verschuldigd"
+  },
+  {
+   "zin": "Het hoger beroep van de burger faalt.",
+   "bron": [
+    26
+   ],
+   "citaat": "Het hoger beroep is ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De burger verliest: de brief is geen besluit en er is geen dwangsom.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen dwangsom van de minister.",
+  "bron": [
+   24
+  ],
+  "citaat": "geen dwangsom aan hem verschuldigd"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De brief is een besluit, omdat de informatie over de FSV in latere besluiten is gebruikt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De brief is geen besluit volgens de wet, omdat hij niet op een rechtsgevolg is gericht.",
+    "bron": [
+     24
+    ],
+    "citaat": "Met de rechtbank is de Afdeling van oordeel dat de brief van 4 augustus 2023 geen besluit is"
+   },
+   "bruikbare_zin": {
+    "citaat": "De brief is niet gericht op rechtsgevolg.",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "De informatie dat er maar twee FSV-registraties op mijn naam staan is onjuist en heeft mij benadeeld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Ook als de informatie onjuist is, maakt dat de brief niet tot een besluit.",
+    "bron": [
+     24
+    ],
+    "citaat": "leidt, zoals de rechtbank terecht heeft overwogen, er niet toe dat de brief daarom wel rechtsgevolg heeft"
+   },
+   "bruikbare_zin": {
+    "citaat": "leidt, zoals de rechtbank terecht heeft overwogen, er niet toe dat de brief daarom wel rechtsgevolg heeft",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De minister moet een dwangsom betalen omdat hij te laat op mijn bezwaar besliste.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Omdat de brief geen besluit is, geldt de dwangsomregel niet.",
+    "bron": [
+     24
+    ],
+    "citaat": "Nu de brief waartegen [appellant] bezwaar heeft gemaakt geen besluit is"
+   },
+   "bruikbare_zin": {
+    "citaat": "is de minister op grond van artikel 4:17, vijfde lid, onder c, van de Awb geen dwangsom aan hem verschuldigd",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een brief die alleen informatie geeft en niet is gericht op een rechtsgevolg, is geen besluit.",
+  "type": "regel",
+  "reikwijdte": "Brieven van een bestuursorgaan over een registratie die alleen informatie geven.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "De brief is niet gericht op rechtsgevolg."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "de brief van 4 augustus 2023",
+   "de afsluitende brief van 19 augustus 2023"
+  ],
+  "wat_gaf_doorslag": "De tekst van de brief: die geeft alleen informatie en is niet gericht op een rechtsgevolg."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:RVS:2025:2730"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1:3, eerste lid, Awb",
+  "art. 4:17, vijfde lid, onder c, Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "Geen gemeente betrokken; de wederpartij is de minister van Financiën.",
+ "raakt": [
+  "fraude-handhaving",
+  "datateam-algoritmes",
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "De rechter zegt dat een brief met alleen informatie geen officiële beslissing is. Daarom hoeft de minister geen extra bedrag te betalen. Als u het niet eens bent met een latere officiële beslissing die op die brief is gebaseerd, kunt u tegen die beslissing wel bezwaar maken.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente betrokken; de minister van Financiën is partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

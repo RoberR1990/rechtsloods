@@ -1,0 +1,161 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2021:149",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "gemeente Nieuwegein",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een vrouw wil dat de gemeente Nieuwegein haar gegevens in de BRP (het bevolkingsregister) wijzigt. De rechtbank Midden-Nederland beslist of de gemeente dat verzoek mocht afwijzen.",
+ "titel": "Wijziging BRP-gegevens terecht afgewezen",
+ "kern": {
+  "zin": "De rechter vindt dat de gemeente het verzoek mocht afwijzen, omdat de overgelegde documenten niet onomstotelijk aantonen dat de gegevens onjuist zijn.",
+  "bron": [
+   52
+  ],
+  "citaat": "verweerder terecht heeft geconcludeerd dat eiseres met de overgelegde (bron)documenten geen onomstotelijk bewijs heeft geleverd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De vrouw staat sinds 1995 in de BRP ingeschreven onder een andere naam en geboortedatum dan zij zegt.",
+   "bron": [
+    17
+   ],
+   "citaat": "Zij is op 28 mei 1995 in de brp ingeschreven als [A] , geboren [1970]"
+  },
+  {
+   "zin": "Zij vroeg de gemeente om haar gegevens te wijzigen en legde daarvoor verschillende Chinese documenten over.",
+   "bron": [
+    18
+   ],
+   "citaat": "Eiseres heeft bij haar verzoek de volgende brondocumenten overgelegd:"
+  },
+  {
+   "zin": "De gemeente wees het verzoek af, omdat de documenten niet onomstotelijk aantonen dat de gegevens onjuist zijn.",
+   "bron": [
+    29
+   ],
+   "citaat": "Verweerder heeft het verzoek afgewezen, omdat eiseres met de overgelegde brondocumenten niet onomstotelijk heeft aangetoond"
+  },
+  {
+   "zin": "De rechter geeft de gemeente gelijk: de documenten zijn geen sluitend bewijs.",
+   "bron": [
+    52
+   ],
+   "citaat": "verweerder terecht heeft geconcludeerd dat eiseres met de overgelegde (bron)documenten geen onomstotelijk bewijs heeft geleverd"
+  },
+  {
+   "zin": "Het beroep is ongegrond en er komt geen vergoeding voor proceskosten.",
+   "bron": [
+    56
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond: de gemeente mocht de wijziging weigeren",
+ "gevolg_betrokkene": {
+  "zin": "Haar gegevens in de BRP blijven ongewijzigd en zij krijgt geen vergoeding voor de kosten.",
+  "bron": [
+   54
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Mijn gegevens in de BRP zijn onjuist; het paspoort en de andere documenten tonen mijn echte identiteit aan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de documenten niet onomstotelijk bewijzen dat de gegevens feitelijk onjuist zijn.",
+    "bron": [
+     52
+    ],
+    "citaat": "verweerder terecht heeft geconcludeerd dat eiseres met de overgelegde (bron)documenten geen onomstotelijk bewijs heeft geleverd"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen onomstotelijk bewijs heeft geleverd",
+    "bron": [
+     52
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ook niet-gelegaliseerde documenten moet de gemeente meewegen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter volgt de gemeente: zonder vertaling en legalisatie kan de gemeente de inhoud niet controleren.",
+    "bron": [
+     45
+    ],
+    "citaat": "De agrarische hukou en de medische geboorteakte zijn niet vertaald en niet gelegaliseerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet vertaald en niet gelegaliseerd",
+    "bron": [
+     45
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor het wijzigen van gegevens die al in de BRP staan, moet onomstotelijk vaststaan dat ze feitelijk onjuist zijn.",
+  "type": "regel",
+  "reikwijdte": "Wijziging van gegevens die al in de BRP zijn opgenomen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   33
+  ],
+  "citaat": "zal gelet op het systeem van de Wet brp onomstotelijk moeten vaststaan dat deze feitelijk onjuist zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "Chinees paspoort",
+   "verblijfsvergunning",
+   "PSB-verklaring van de hukou",
+   "gelegaliseerde notariële verklaring",
+   "Chinese identiteitskaart uit 1988",
+   "DNA-verwantschapsonderzoek",
+   "gezichtsvergelijkingsonderzoek"
+  ],
+  "wat_gaf_doorslag": "De documenten waren niet gelegaliseerd of vertaald en misten gegevens van de vader, waardoor de identiteit niet vast te stellen was."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 2.8, tweede lid, Wet brp"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij een buitenlands paspoort om het eerdere paspoort als brondocument.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    35
+   ],
+   "citaat": "Verweerder heeft daarom van eiseres mogen vragen om haar eerdere paspoort over te leggen."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "bezwaar"
+ ],
+ "klantuitleg": "De gemeente mag uw gegevens in de BRP alleen wijzigen als u met sterke, gelegaliseerde documenten aantoont dat ze echt onjuist zijn. Losse, niet-gelegaliseerde papieren en een DNA-test alleen zijn daarvoor meestal niet genoeg. Wilt u toch wijziging, vraag dan bij de gemeente welke officiële documenten nodig zijn.",
+ "gemeente": "Nieuwegein",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,139 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2016:1349",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg een naheffingsaanslag (de rekening achteraf) van de gemeente Rotterdam, omdat hij niet had betaald. Hij ging in hoger beroep bij het gerechtshof Den Haag, omdat hij geen parkeerautomaat kon vinden.",
+ "titel": "Geen automaat gevonden: kosten van de naheffing vervallen",
+ "kern": {
+  "zin": "Het hof vindt dat de parkeerder niet eindeloos hoefde te zoeken naar een automaat, dus de kosten van de naheffing vervallen.",
+  "bron": [
+   42
+  ],
+  "citaat": "niet gehouden tot het ondernemen van een dergelijke in tijd en afstand onbeperkte zoektocht"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder zette zijn auto neer bij Diergaarde Blijdorp en wist dat hij moest betalen.",
+   "bron": [
+    27
+   ],
+   "citaat": "Niet in geschil is dat belanghebbende ter zake van het parkeren op de parkeerplek parkeerbelasting verschuldigd was"
+  },
+  {
+   "zin": "Vanaf de plek was geen automaat te zien. Een bord wees naar een zijstraat, maar daar stond geen vervolgbord.",
+   "bron": [
+    20
+   ],
+   "citaat": "Aan het einde van de [B] staat geen bord met een aanwijzing hoe men (verder) dient te lopen"
+  },
+  {
+   "zin": "De parkeerder zocht minstens tien minuten, zonder succes. De gemeente zei dat hij moest blijven zoeken tot hij een automaat vond.",
+   "bron": [
+    43
+   ],
+   "citaat": "ten minste tien minuten naar een parkeerautomaat heeft gezocht"
+  },
+  {
+   "zin": "Het hof vindt aannemelijk dat hij geen automaat kon vinden en dat hij niet eindeloos hoefde te zoeken.",
+   "bron": [
+    42
+   ],
+   "citaat": "geen parkeerautomaat heeft kunnen vinden"
+  },
+  {
+   "zin": "De parkeerbelasting van 1,67 euro blijft staan, maar de kosten van 58 euro vervallen en de gemeente betaalt het griffierecht terug.",
+   "bron": [
+    44
+   ],
+   "citaat": "had moeten afzien van het in rekening brengen van kosten ter zake van het opleggen van de naheffingsaanslag"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Kosten van 58 euro vervallen; de belasting van 1,67 euro blijft.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt alleen 1,67 euro en krijgt 168 euro aan griffierecht terug van de gemeente.",
+  "bron": [
+   54
+  ],
+  "citaat": "vermindert de naheffingsaanslag met het bedrag van de kosten van de naheffingsaanslag tot € 1,67;"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Ik zag geen automaat en er stonden geen borden die de weg ernaartoe lieten zien.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Zonder voldoende aanwijzingen hoefde de parkeerder niet onbeperkt naar een automaat te blijven zoeken.",
+    "bron": [
+     42
+    ],
+    "citaat": "niet gehouden tot het ondernemen van een dergelijke in tijd en afstand onbeperkte zoektocht naar een parkeerautomaat"
+   },
+   "bruikbare_zin": {
+    "citaat": "gedaan wat hij onder de gegeven omstandigheden gehouden was te doen",
+    "bron": [
+     43
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie geen automaat kan vinden omdat de aanwijzingen ontbreken, hoeft niet onbeperkt te zoeken; na een redelijke zoektocht vervalt de kostenopslag.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Situatie waarin een bord naar een automaat verwijst, maar het vervolg ontbreekt en geen automaat zichtbaar is.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   42
+  ],
+  "citaat": "niet gehouden tot het ondernemen van een dergelijke in tijd en afstand onbeperkte zoektocht naar een parkeerautomaat"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van de parkeerder",
+   "overzicht van 273 betalingen"
+  ],
+  "wat_gaf_doorslag": "De parkeerder zocht minstens tien minuten en de gemeente sprak dat niet tegen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Parkeerbelastingverordening Rotterdam"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet bij elke verwijzing naar een parkeerautomaat ook de vervolgroute op borden, tot bij de automaat",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    20
+   ],
+   "citaat": "Aan het einde van de [B] staat geen bord met een aanwijzing hoe men (verder) dient te lopen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "tarief-naheffing",
+  "bezwaar"
+ ],
+ "klantuitleg": "U moet betalen voor het parkeren. Kunt u geen automaat vinden omdat de borden de weg niet goed wijzen, dan hoeft u niet eindeloos te zoeken, en kunnen de extra kosten vervallen. Vertel in uw bezwaar hoe lang u zocht en welke borden ontbraken.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

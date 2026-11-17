@@ -1,0 +1,180 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2019:3848",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": null,
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "ouders van een aanvrager van beschermd wonen",
+  "wederpartij": "GGD Flevoland (dagelijks bestuur)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Twee ouders tegen het dagelijks bestuur van GGD Flevoland bij de Raad van State. Ze vroegen inzage in hun eigen gegevens in het dossier van hun zoon, dat de GGD had gemaakt voor een advies aan de gemeente Almere.",
+ "titel": "Ouders krijgen geen inzage in dossier van hun zoon bij GGD",
+ "kern": {
+  "zin": "De GGD is zelf verantwoordelijk voor het dossier bij haar advies aan de gemeente, en dat dossier was inmiddels vernietigd.",
+  "bron": [
+   32
+  ],
+  "citaat": "heeft GGD Flevoland de zeggenschap over de voorbereiding en de inhoud van het advies"
+ },
+ "samenvatting": [
+  {
+   "zin": "De zoon van de ouders vroeg beschermd wonen aan, zonder dat de ouders dat wisten.",
+   "bron": [
+    23
+   ],
+   "citaat": "Deze aanvraag heeft hij buiten medeweten van zijn ouders gedaan"
+  },
+  {
+   "zin": "De GGD wees het verzoek van de ouders om inzage af, omdat het een medisch dossier van de zoon was waarvoor hij geen toestemming gaf.",
+   "bron": [
+    24
+   ],
+   "citaat": "heeft het dagelijks bestuur dat verzoek afgewezen, omdat het dossier van [persoon] een medisch dossier is"
+  },
+  {
+   "zin": "De ouders vonden dat niet de GGD, maar het college van Almere verantwoordelijk is, omdat de GGD maar een ingehuurde adviseur was.",
+   "bron": [
+    31
+   ],
+   "citaat": "GGD Flevoland is slechts een door het college ingehuurde adviseur"
+  },
+  {
+   "zin": "De rechter vond de GGD verantwoordelijk, omdat de gemeente alleen het advies krijgt en niet het dossier.",
+   "bron": [
+    32
+   ],
+   "citaat": "Het college heeft alleen de beschikking over het advies."
+  },
+  {
+   "zin": "Het dossier was op verzoek van de zoon vernietigd en de rechter had geen reden om daaraan te twijfelen.",
+   "bron": [
+    36
+   ],
+   "citaat": "ziet de Afdeling geen aanleiding om te twijfelen aan deze mededeling"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    40
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd voor zover aangevallen."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Geen inzage; GGD zelf verantwoordelijk; geen proceskosten",
+ "gevolg_betrokkene": {
+  "zin": "De ouders krijgen geen inzage omdat het dossier is vernietigd en geen schadevergoeding; proceskosten worden niet vergoed.",
+  "bron": [
+   40,
+   28,
+   41
+  ],
+  "citaat": "Het hoger beroep is ongegrond."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het college van Almere is verantwoordelijk voor de gegevens, niet de GGD.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De GGD bepaalt zelf het advies en houdt het dossier; de gemeente krijgt alleen het advies.",
+    "bron": [
+     32
+    ],
+    "citaat": "Het college heeft alleen de beschikking over het advies."
+   },
+   "bruikbare_zin": {
+    "citaat": "sluit de Avg niet uit dat meerdere overheidsinstanties verwerkingsverantwoordelijk kunnen zijn",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het is niet bewezen dat het dossier is vernietigd; de rechtbank had stukken moeten opvragen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter had geen reden om te twijfelen aan de mededeling van de GGD.",
+    "bron": [
+     36
+    ],
+    "citaat": "ziet de Afdeling geen aanleiding om te twijfelen aan deze mededeling"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De vernietiging van het dossier was een onbevoegd besluit en veroorzaakte hun schade.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De vernietiging van het dossier is geen besluit waartegen het beroep van rechtswege ook gericht was.",
+    "bron": [
+     37
+    ],
+    "citaat": "is dan ook, anders dan [appellanten] veronderstellen, niet een besluit in de zin van artikel 6:19 van de Awb"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een organisatie die zelfstandig een dossier voor een advies opbouwt en houdt, is zelf verantwoordelijk voor de gegevens daarin, ook als het advies naar een gemeente gaat.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Adviesdossier van de GGD bij een indicatie voor beschermd wonen (Wmo 2015).",
+  "uitzondering": "Verwerkt de gemeente zelf ook gegevens van de burger, dan kan de burger daar apart om inzage vragen.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   32
+  ],
+  "citaat": "heeft GGD Flevoland de zeggenschap over de voorbereiding en de inhoud van het advies"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "brief van het dagelijks bestuur van 6 september 2018 over de vernietiging van het dossier"
+  ],
+  "wat_gaf_doorslag": "De GGD had zeggenschap over het dossier en het dossier was vernietigd."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 4 onder 7 AVG",
+  "art. 15 AVG",
+  "art. 34 UAVG",
+  "art. 2.3.2 Wmo 2015",
+  "art. 5.1.1 Wmo 2015",
+  "art. 6:19 Awb",
+  "art. 7:457 BW",
+  "art. 8:88 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Wijs een burger die inzage vraagt ook op andere organisaties die zijn gegevens kunnen verwerken, zoals de gemeente zelf.",
+   "raakt": "privacy-fg",
+   "bron": [
+    32
+   ],
+   "citaat": "staat het hun vrij om, zoals ook de rechtbank heeft overwogen, bij het college een verzoek om inzage in te dienen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een organisatie die zelf een dossier over iemand opbouwt, is zelf verantwoordelijk voor de gegevens daarin. U kunt vragen welke gegevens over uzelf zijn verwerkt, maar u krijgt niet vanzelf het hele dossier van een ander. Heeft ook de gemeente gegevens over u, dan kunt u bij de gemeente zelf om inzage vragen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "wederpartij is de GGD, geen gemeente; de gemeente Almere vroeg het advies",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

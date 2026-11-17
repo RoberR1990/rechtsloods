@@ -1,0 +1,150 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "ecli": "ECLI:NL:GHSHE:2018:2708",
+ "onderwerp": "parkeerbelasting",
+ "sub": "bewijs-scanauto",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder uit Duitsland",
+  "wederpartij": "gemeente Eindhoven",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder uit Duitsland kreeg in Eindhoven een naheffingsaanslag (een rekening achteraf voor te weinig betaald parkeren). Hij ging in hoger beroep tegen de gemeente Eindhoven bij het gerechtshof 's-Hertogenbosch.",
+ "titel": "Kopie van parkeerkaartje is te weinig bewijs van betalen",
+ "kern": {
+  "zin": "Het hof vond dat een achteraf getoonde kopie van een parkeerkaartje niet genoeg bewijst dat de parkeerder had betaald, dus de naheffing bleef staan.",
+  "bron": [
+   48
+  ],
+  "citaat": "Met het enkel overleggen van een kopie van een parkeerkaartje heeft belanghebbende onvoldoende aannemelijk gemaakt"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controleur van de gemeente Eindhoven zag geen parkeerkaartje achter de voorruit en legde een naheffing op van € 63,20.",
+   "bron": [
+    23
+   ],
+   "citaat": "geconstateerd dat achter de voorruit geen parkeerkaartje zichtbaar was"
+  },
+  {
+   "zin": "De parkeerder stuurde een kopie van zijn kaartje en zei dat de controleur het kaartje waarschijnlijk niet had gezien.",
+   "bron": [
+    26
+   ],
+   "citaat": "Waarschijnlijk heeft bovengenoemde parkeer wachter mijn ticket niet achter de voorruit"
+  },
+  {
+   "zin": "Later zei hij dat het kaartje bij het dichtgooien van de deur op zijn deurmat was gevallen.",
+   "bron": [
+    31
+   ],
+   "citaat": "mijn ticket is met dichtgooiend van de deur op mijn deurmat gevallen"
+  },
+  {
+   "zin": "De gemeente liet vijf foto's van het dashboard en de auto zien, waarop geen kaartje te zien is.",
+   "bron": [
+    47
+   ],
+   "citaat": "heeft vijf foto’s van het dashboard en het voertuig ten tijde van de controle overgelegd"
+  },
+  {
+   "zin": "Volgens het hof maakte de parkeerder met alleen een kopie niet aannemelijk dat hij had betaald, en zijn twee verhalen over het kaartje klopten niet met elkaar.",
+   "bron": [
+    48
+   ],
+   "citaat": "onvoldoende aannemelijk gemaakt dat hij de door hem verschuldigde parkeerbelasting heeft betaald"
+  },
+  {
+   "zin": "Het hoger beroep was daarom ongegrond (niet geslaagd) en de naheffing bleef staan.",
+   "bron": [
+    49
+   ],
+   "citaat": "van oordeel dat de naheffingsaanslag terecht is opgelegd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing terecht; kopie van kaartje bewees betaling niet.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing van € 63,20 betalen en krijgt geen vergoeding van proceskosten of terugbetaling van griffierecht.",
+  "bron": [
+   55,
+   23,
+   53
+  ],
+  "citaat": "geen termen aanwezig voor een veroordeling in de proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder zei dat hij wel had betaald en dat zijn kaartje op de deurmat was gevallen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een achteraf getoonde kopie bewijst niet dat het kaartje ook echt op dat moment was gekocht.",
+    "bron": [
+     48
+    ],
+    "citaat": "niet valt uit te sluiten dat een kaartje dat achteraf is overgelegd ook achteraf is verkregen"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet valt uit te sluiten dat een kaartje dat achteraf is overgelegd ook achteraf is verkregen",
+    "bron": [
+     48
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De verklaring van een controleur dat er geen geldig kaartje lag, is meestal genoeg, maar de parkeerder mag het tegendeel bewijzen.",
+  "type": "regel",
+  "reikwijdte": "Naheffing parkeerbelasting waarbij de controleur geen geldig parkeerkaartje zag",
+  "uitzondering": "De parkeerder kan tegenbewijs leveren en de rechter waardeert dat vrij.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   46
+  ],
+  "citaat": "kan in het algemeen toereikend worden geacht, maar geldt niet als onweerlegbaar bewijs"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "vijf foto's van het dashboard en de auto",
+   "verklaring van de parkeercontroleur",
+   "kopie van parkeerkaartje (parkeerder)"
+  ],
+  "wat_gaf_doorslag": "De parkeerder gaf alleen een kopie en zijn twee verklaringen over het kaartje pasten niet bij elkaar."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Verordening op de heffing en de invordering van parkeerbelastingen 2016 Eindhoven",
+  "art. 8:75 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Maak bij elke controle foto's van het dashboard en de auto en bewaar die voor een eventueel bezwaar",
+   "raakt": "bezwaar",
+   "bron": [
+    47
+   ],
+   "citaat": "heeft vijf foto’s van het dashboard en het voertuig ten tijde van de controle overgelegd"
+  }
+ ],
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Een naheffing is terecht als de controleur geen geldig kaartje zag en u niet kunt laten zien dat u echt had betaald. Een kopie die u achteraf stuurt, is daarvoor meestal te weinig. Bewaar uw betaalbewijs of een foto van het kaartje achter de voorruit en maak er bezwaar mee.",
+ "gemeente": "Eindhoven",
+ "zekerheid": "middel"
+}

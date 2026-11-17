@@ -1,0 +1,175 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2024:3929",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bedrijfsvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bedrijf in Amsterdam kreeg zijn bedrijfsparkeervergunning ingetrokken door de gemeente. Het bedrijf ging in beroep bij de rechtbank Amsterdam.",
+ "titel": "Gemeente mag parkeervergunning niet intrekken door eerdere toezegging",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente in 2015 een duidelijke toezegging deed, dus de intrekking kon niet blijven staan.",
+  "bron": [
+   37
+  ],
+  "citaat": "De rechtbank is van oordeel dat het beroep van eiseres op het vertrouwensbeginsel slaagt."
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente trok de bedrijfsparkeervergunning van het bedrijf in per 1 maart 2023.",
+   "bron": [
+    10
+   ],
+   "citaat": "het intrekken van haar bedrijfs(parkeer)vergunning per 1 maart 2023"
+  },
+  {
+   "zin": "De gemeente liet het nulplafond (geen vergunningen mogelijk voor bedrijven) los, maar hield een tweede reden: het bedrijf kan een stallingsplaats gebruiken.",
+   "bron": [
+    26
+   ],
+   "citaat": "Eiseres kan namelijk beschikken over een stallingsplaats die in mindering moet worden gebracht"
+  },
+  {
+   "zin": "Het bedrijf zei dat het geen stallingsplaats heeft, omdat het de berging als opslag gebruikt.",
+   "bron": [
+    27
+   ],
+   "citaat": "waardoor zij de berging is gaan gebruiken als opslag"
+  },
+  {
+   "zin": "De rechter vond dat de berging wel telt als stallingsplaats, omdat het Kadaster dat laat zien.",
+   "bron": [
+    29
+   ],
+   "citaat": "nu de mogelijkheid om de ruimte als stallingsplaats te gebruiken uit het Kadaster blijkt"
+  },
+  {
+   "zin": "Toch won het bedrijf: de gemeente had in 2015 met een beslissing op bezwaar een duidelijke toezegging gedaan.",
+   "bron": [
+    34
+   ],
+   "citaat": "een concrete ondubbelzinnige toezegging heeft gedaan waaraan rechtens de verwachting kon worden verleend"
+  },
+  {
+   "zin": "De rechter vernietigde het besluit van de gemeente, dus het bedrijf kreeg gelijk.",
+   "bron": [
+    39
+   ],
+   "citaat": "Dit betekent dat eiseres gelijk krijgt."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Intrekking vernietigd wegens vertrouwensbeginsel; kosten voor de gemeente.",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrijf houdt zijn vergunning en krijgt griffierecht (184 euro) en proceskosten (1.750 euro) vergoed.",
+  "bron": [
+   46,
+   41
+  ],
+  "citaat": "herroept het besluit van 2 december 2021"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het bedrijf heeft geen stallingsplaats, want de berging is opslag geworden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De berging is bedoeld als stallingsplaats, ook als het bedrijf haar anders gebruikt.",
+    "bron": [
+     29
+    ],
+    "citaat": "laat onverlet dat deze is bestemd om als stallingsplaats van een voertuig te dienen"
+   },
+   "bruikbare_zin": {
+    "citaat": "de mogelijkheid om de ruimte als stallingsplaats te gebruiken uit het Kadaster blijkt",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente had in 2015 al beslist dat de vergunning bleef; intrekken schendt het vertrouwen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De beslissing op bezwaar uit 2015 was een duidelijke toezegging zonder einddatum.",
+    "bron": [
+     34
+    ],
+    "citaat": "een concrete ondubbelzinnige toezegging heeft gedaan waaraan rechtens de verwachting kon worden verleend"
+   },
+   "bruikbare_zin": {
+    "citaat": "een concrete ondubbelzinnige toezegging heeft gedaan",
+    "bron": [
+     34
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij de vraag of er een stallingsplaats is, telt vooral waarvoor de ruimte bedoeld is, niet de maat.",
+  "type": "regel",
+  "reikwijdte": "Vergunningen waarbij een stallingsplaats meetelt",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   28
+  ],
+  "citaat": "doorslaggevende betekenis toekomt aan de bestemming of bedoeling van de ruimte"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "Kadaster",
+   "beslissing op bezwaar van 24 februari 2015",
+   "overgangsregeling uit 2011"
+  ],
+  "wat_gaf_doorslag": "De beslissing op bezwaar uit 2015 was een duidelijke toezegging die onbeperkt gold."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Parkeerverordening Amsterdam 2013",
+  "art. 8:72 lid 3 aanhef en onder b Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer voor u een vergunning intrekt of een eerdere beslissing op bezwaar een toezegging bevat",
+   "raakt": "vergunningen",
+   "bron": [
+    34
+   ],
+   "citaat": "een concrete ondubbelzinnige toezegging heeft gedaan waaraan rechtens de verwachting kon worden verleend"
+  },
+  {
+   "actie": "Gebruik het Kadaster om te laten zien dat een ruimte als stallingsplaats bestemd is",
+   "raakt": "vergunningen",
+   "bron": [
+    29
+   ],
+   "citaat": "nu de mogelijkheid om de ruimte als stallingsplaats te gebruiken uit het Kadaster blijkt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "verordening-beleid"
+ ],
+ "klantuitleg": "Heeft de gemeente u eerder duidelijk schriftelijk iets toegezegd over uw vergunning, dan kan zij dat later niet zomaar terugdraaien. Een berging die bedoeld is voor een auto, kan wel meetellen, ook als u er spullen in bewaart. Vraag bij twijfel om advies.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

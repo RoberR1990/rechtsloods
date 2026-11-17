@@ -1,0 +1,586 @@
+[
+ {
+  "slug": "parkeren",
+  "label": "Parkeren",
+  "feed": "feeds/parkeren.xml",
+  "n": 3477,
+  "subs": [
+   {
+    "o": "parkeerverbod",
+    "s": "wahv-boete",
+    "label": "Boete foutparkeren (Wahv)",
+    "feed": "feeds/parkeren/parkeerverbod--wahv-boete.xml",
+    "n": 456,
+    "laatste": "2026-10-21"
+   },
+   {
+    "o": "parkeerbelasting",
+    "s": "betalen",
+    "label": "Betalen: app, automaat defect, verkeerde zone of kenteken",
+    "feed": "feeds/parkeren/parkeerbelasting--betalen.xml",
+    "n": 351,
+    "laatste": "2026-11-02"
+   },
+   {
+    "o": "parkeerbelasting",
+    "s": "procedure",
+    "label": "Procedure (termijnen, ontvankelijkheid, proceskosten, AI-stukken)",
+    "feed": "feeds/parkeren/parkeerbelasting--procedure.xml",
+    "n": 295,
+    "laatste": "2026-10-27"
+   },
+   {
+    "o": "parkeernormen",
+    "s": "parkeernorm-toets",
+    "label": "Toetsing aan parkeernorm of parkeerbehoefte",
+    "feed": "feeds/parkeren/parkeernormen--parkeernorm-toets.xml",
+    "n": 234,
+    "laatste": "2026-10-14"
+   },
+   {
+    "o": "parkeerbelasting",
+    "s": "naheffingskosten",
+    "label": "Hoogte naheffingskosten en tarieven",
+    "feed": "feeds/parkeren/parkeerbelasting--naheffingskosten.xml",
+    "n": 186,
+    "laatste": "2026-09-08"
+   },
+   {
+    "o": "parkeerbelasting",
+    "s": "begrip-parkeren",
+    "label": "Was het parkeren? (in-/uitstappen, laden/lossen, kort stilstaan)",
+    "feed": "feeds/parkeren/parkeerbelasting--begrip-parkeren.xml",
+    "n": 181,
+    "laatste": "2026-11-02"
+   },
+   {
+    "o": "parkeerbelasting",
+    "s": "kenbaarheid",
+    "label": "Kenbaarheid betaald parkeren (borden, automaat, markering)",
+    "feed": "feeds/parkeren/parkeerbelasting--kenbaarheid.xml",
+    "n": 181,
+    "laatste": "2026-10-27"
+   },
+   {
+    "o": "vergunningen",
+    "s": "bewonersvergunning",
+    "label": "Bewonersvergunning (recht op, weigering, intrekking)",
+    "feed": "feeds/parkeren/vergunningen--bewonersvergunning.xml",
+    "n": 178,
+    "laatste": "2026-10-28"
+   },
+   {
+    "o": "garages-privaat",
+    "s": "privaat-boete-voorwaarden",
+    "label": "Boetes en voorwaarden op privaat terrein",
+    "feed": "feeds/parkeren/garages-privaat--privaat-boete-voorwaarden.xml",
+    "n": 164,
+    "laatste": "2026-10-07"
+   },
+   {
+    "o": "parkeerbelasting",
+    "s": "vergunning-in-betaalgebied",
+    "label": "Vergunning of ontheffing in betaald gebied",
+    "feed": "feeds/parkeren/parkeerbelasting--vergunning-in-betaalgebied.xml",
+    "n": 138,
+    "laatste": "2026-11-02"
+   },
+   {
+    "o": "vergunningen",
+    "s": "gehandicaptenkaart",
+    "label": "Gehandicaptenparkeerkaart aanvragen (medische keuring)",
+    "feed": "feeds/parkeren/vergunningen--gehandicaptenkaart.xml",
+    "n": 133,
+    "laatste": "2026-10-22"
+   },
+   {
+    "o": "parkeerverbod",
+    "s": "gehandicaptenplaats",
+    "label": "Gehandicaptenparkeerplaats (gebruik, toewijzing)",
+    "feed": "feeds/parkeren/parkeerverbod--gehandicaptenplaats.xml",
+    "n": 123,
+    "laatste": "2026-08-27"
+   },
+   {
+    "o": "parkeerverbod",
+    "s": "verkeersbesluit",
+    "label": "Verkeersbesluit (parkeerplaatsen aanwijzen, opheffen, verbod)",
+    "feed": "feeds/parkeren/parkeerverbod--verkeersbesluit.xml",
+    "n": 108,
+    "laatste": "2026-11-02"
+   },
+   {
+    "o": "garages-privaat",
+    "s": "parkeerplaats-huur-vve",
+    "label": "Huur, koop en VvE-parkeerplaatsen",
+    "feed": "feeds/parkeren/garages-privaat--parkeerplaats-huur-vve.xml",
+    "n": 78,
+    "laatste": "2026-10-06"
+   },
+   {
+    "o": "parkeernormen",
+    "s": "omgevingsplan",
+    "label": "Bestemmingsplan of omgevingsplan",
+    "feed": "feeds/parkeren/parkeernormen--omgevingsplan.xml",
+    "n": 68,
+    "laatste": "2026-10-13"
+   },
+   {
+    "o": "parkeerbelasting",
+    "s": "bewijs-scanauto",
+    "label": "Bewijs en controle (scanauto, foto's, handhaver)",
+    "feed": "feeds/parkeren/parkeerbelasting--bewijs-scanauto.xml",
+    "n": 55,
+    "laatste": "2026-09-30"
+   },
+   {
+    "o": "parkeerbelasting",
+    "s": "invordering",
+    "label": "Invordering en aanmaningskosten",
+    "feed": "feeds/parkeren/parkeerbelasting--invordering.xml",
+    "n": 54,
+    "laatste": "2026-09-08"
+   },
+   {
+    "o": "parkeernormen",
+    "s": "parkeerdruk-omgeving",
+    "label": "Parkeerdruk en hinder voor de buurt",
+    "feed": "feeds/parkeren/parkeernormen--parkeerdruk-omgeving.xml",
+    "n": 52,
+    "laatste": "2026-10-07"
+   },
+   {
+    "o": "parkeerbelasting",
+    "s": "evenredigheid",
+    "label": "Evenredigheid, coulance, hardheid",
+    "feed": "feeds/parkeren/parkeerbelasting--evenredigheid.xml",
+    "n": 49,
+    "laatste": "2026-10-27"
+   },
+   {
+    "o": "parkeerverbod",
+    "s": "laadplek",
+    "label": "Laadpaal- en doelgroepparkeerplaatsen",
+    "feed": "feeds/parkeren/parkeerverbod--laadplek.xml",
+    "n": 47,
+    "laatste": "2026-10-16"
+   },
+   {
+    "o": "parkeerverbod",
+    "s": "maximale-duur",
+    "label": "Maximale parkeerduur en blauwe zone",
+    "feed": "feeds/parkeren/parkeerverbod--maximale-duur.xml",
+    "n": 40,
+    "laatste": "2026-01-29"
+   },
+   {
+    "o": "parkeerverbod",
+    "s": "wegslepen",
+    "label": "Wegslepen en bestuursdwang",
+    "feed": "feeds/parkeren/parkeerverbod--wegslepen.xml",
+    "n": 34,
+    "laatste": "2026-08-12"
+   },
+   {
+    "o": "garages-privaat",
+    "s": "schade-aansprakelijkheid",
+    "label": "Schade en aansprakelijkheid in garages",
+    "feed": "feeds/parkeren/garages-privaat--schade-aansprakelijkheid.xml",
+    "n": 34,
+    "laatste": "2026-05-19"
+   },
+   {
+    "o": "vergunningen",
+    "s": "ontheffing",
+    "label": "Ontheffingen en bijzondere vergunningen",
+    "feed": "feeds/parkeren/vergunningen--ontheffing.xml",
+    "n": 29,
+    "laatste": "2026-08-24"
+   },
+   {
+    "o": "parkeerbelasting",
+    "s": "belastingplicht",
+    "label": "Wie moet betalen (kentekenhouder, huurder, lease)",
+    "feed": "feeds/parkeren/parkeerbelasting--belastingplicht.xml",
+    "n": 28,
+    "laatste": "2026-05-22"
+   },
+   {
+    "o": "vergunningen",
+    "s": "plafond-wachtlijst",
+    "label": "Vergunningplafond en wachtlijst",
+    "feed": "feeds/parkeren/vergunningen--plafond-wachtlijst.xml",
+    "n": 27,
+    "laatste": "2026-08-17"
+   },
+   {
+    "o": "garages-privaat",
+    "s": "garage-exploitatie",
+    "label": "Exploitatie, huur en aanbesteding van garages",
+    "feed": "feeds/parkeren/garages-privaat--garage-exploitatie.xml",
+    "n": 27,
+    "laatste": "2025-05-06"
+   },
+   {
+    "o": "vergunningen",
+    "s": "bedrijfsvergunning",
+    "label": "Bedrijfs- en zorgvergunning",
+    "feed": "feeds/parkeren/vergunningen--bedrijfsvergunning.xml",
+    "n": 22,
+    "laatste": "2026-04-26"
+   },
+   {
+    "o": "parkeernormen",
+    "s": "afwijken-norm",
+    "label": "Afwijken van de norm (mobiliteitsconcepten, deelauto's)",
+    "feed": "feeds/parkeren/parkeernormen--afwijken-norm.xml",
+    "n": 18,
+    "laatste": "2026-08-05"
+   },
+   {
+    "o": "garages-privaat",
+    "s": "overig-civiel",
+    "label": "Overige civiele zaken",
+    "feed": "feeds/parkeren/garages-privaat--overig-civiel.xml",
+    "n": 16,
+    "laatste": "2026-04-15"
+   },
+   {
+    "o": "vergunningen",
+    "s": "bezoekersregeling",
+    "label": "Bezoekersparkeren en bezoekersvergunning",
+    "feed": "feeds/parkeren/vergunningen--bezoekersregeling.xml",
+    "n": 13,
+    "laatste": "2024-12-17"
+   },
+   {
+    "o": "handhaving-privacy",
+    "s": "handhaver-bevoegdheid",
+    "label": "Bevoegdheid en werkwijze handhavers",
+    "feed": "feeds/parkeren/handhaving-privacy--handhaver-bevoegdheid.xml",
+    "n": 8,
+    "laatste": "2026-09-08"
+   },
+   {
+    "o": "handhaving-privacy",
+    "s": "woo-inzage",
+    "label": "Woo- en inzageverzoeken",
+    "feed": "feeds/parkeren/handhaving-privacy--woo-inzage.xml",
+    "n": 8,
+    "laatste": "2026-02-25"
+   },
+   {
+    "o": "handhaving-privacy",
+    "s": "kentekenregistratie-avg",
+    "label": "Kentekenregistratie en AVG",
+    "feed": "feeds/parkeren/handhaving-privacy--kentekenregistratie-avg.xml",
+    "n": 8,
+    "laatste": "2026-01-28"
+   },
+   {
+    "o": "parkeernormen",
+    "s": "parkeerbeleidsregels",
+    "label": "Parkeerbeleidsregels en nota parkeernormen",
+    "feed": "feeds/parkeren/parkeernormen--parkeerbeleidsregels.xml",
+    "n": 8,
+    "laatste": "2025-12-15"
+   },
+   {
+    "o": "handhaving-privacy",
+    "s": "scanauto-bewijs",
+    "label": "Scanauto en bewijs",
+    "feed": "feeds/parkeren/handhaving-privacy--scanauto-bewijs.xml",
+    "n": 8,
+    "laatste": "2024-11-19"
+   },
+   {
+    "o": "parkeerbelasting",
+    "s": "overig",
+    "label": "overig",
+    "feed": "feeds/parkeren/parkeerbelasting--overig.xml",
+    "n": 6,
+    "laatste": "2026-09-11"
+   },
+   {
+    "o": "parkeernormen",
+    "s": "overig",
+    "label": "overig",
+    "feed": "feeds/parkeren/parkeernormen--overig.xml",
+    "n": 4,
+    "laatste": "2026-06-10"
+   },
+   {
+    "o": "vergunningen",
+    "s": "overig",
+    "label": "overig",
+    "feed": "feeds/parkeren/vergunningen--overig.xml",
+    "n": 3,
+    "laatste": "2026-05-01"
+   },
+   {
+    "o": "garages-privaat",
+    "s": "wegslepen-privaat",
+    "label": "Wegslepen of blokkeren op privaat terrein",
+    "feed": "feeds/parkeren/garages-privaat--wegslepen-privaat.xml",
+    "n": 3,
+    "laatste": "2024-12-19"
+   },
+   {
+    "o": "parkeerverbod",
+    "s": "overig",
+    "label": "overig",
+    "feed": "feeds/parkeren/parkeerverbod--overig.xml",
+    "n": 2,
+    "laatste": "2024-03-27"
+   }
+  ]
+ },
+ {
+  "slug": "openbare-orde",
+  "label": "Openbare orde, drugspanden en Bibob",
+  "feed": "feeds/openbare-orde.xml",
+  "n": 250,
+  "subs": [
+   {
+    "o": "strafzaken-bevelen",
+    "s": "niet-voldoen-bevel-184",
+    "label": "Gebiedsverbod of bevel niet opgevolgd",
+    "feed": "feeds/openbare-orde/strafzaken-bevelen--niet-voldoen-bevel-184.xml",
+    "n": 64,
+    "laatste": "2026-09-25"
+   },
+   {
+    "o": "strafzaken-bevelen",
+    "s": "vrijheidsbeperkende-maatregel",
+    "label": "Gebiedsverbod als straf of maatregel (rechter legt op)",
+    "feed": "feeds/openbare-orde/strafzaken-bevelen--vrijheidsbeperkende-maatregel.xml",
+    "n": 30,
+    "laatste": "2026-07-17"
+   },
+   {
+    "o": "strafzaken-bevelen",
+    "s": "noodbevel-demonstratie-strafrecht",
+    "label": "Noodbevel bij demonstratie (o.a. Museumplein)",
+    "feed": "feeds/openbare-orde/strafzaken-bevelen--noodbevel-demonstratie-strafrecht.xml",
+    "n": 25,
+    "laatste": "2026-10-15"
+   },
+   {
+    "o": "drugspanden",
+    "s": "bevoegdheid-13b",
+    "label": "Mocht de burgemeester sluiten? (bevoegdheid)",
+    "feed": "feeds/openbare-orde/drugspanden--bevoegdheid-13b.xml",
+    "n": 23,
+    "laatste": "2026-10-12"
+   },
+   {
+    "o": "bibob",
+    "s": "bibob-inkoop-civiel",
+    "label": "Bibob bij inkoop, subsidie of civiele procedure",
+    "feed": "feeds/openbare-orde/bibob--bibob-inkoop-civiel.xml",
+    "n": 10,
+    "laatste": "2026-07-14"
+   },
+   {
+    "o": "drugspanden",
+    "s": "duur-evenredigheid",
+    "label": "Duur en evenredigheid van de sluiting",
+    "feed": "feeds/openbare-orde/drugspanden--duur-evenredigheid.xml",
+    "n": 10,
+    "laatste": "2026-03-31"
+   },
+   {
+    "o": "drugspanden",
+    "s": "bewijs-rapportage",
+    "label": "Bewijs en bestuurlijke rapportage (politie)",
+    "feed": "feeds/openbare-orde/drugspanden--bewijs-rapportage.xml",
+    "n": 9,
+    "laatste": "2026-10-07"
+   },
+   {
+    "o": "burgemeester-bevoegdheden",
+    "s": "noodbevel-175",
+    "label": "Noodbevel (direct bevel bij ernstige wanorde)",
+    "feed": "feeds/openbare-orde/burgemeester-bevoegdheden--noodbevel-175.xml",
+    "n": 9,
+    "laatste": "2026-10-07"
+   },
+   {
+    "o": "strafzaken-bevelen",
+    "s": "gebiedsverbod-bijzaak",
+    "label": "Strafzaak waarin het gebiedsverbod een bijzaak is",
+    "feed": "feeds/openbare-orde/strafzaken-bevelen--gebiedsverbod-bijzaak.xml",
+    "n": 9,
+    "laatste": "2025-07-21"
+   },
+   {
+    "o": "drugspanden",
+    "s": "eigenaar-verhuurder",
+    "label": "Eigenaar, verhuurder en huurder: wie is verantwoordelijk?",
+    "feed": "feeds/openbare-orde/drugspanden--eigenaar-verhuurder.xml",
+    "n": 7,
+    "laatste": "2026-09-09"
+   },
+   {
+    "o": "drugspanden",
+    "s": "gevolgen-bewoners",
+    "label": "Gevolgen voor bewoners (kinderen, gezondheid, woonruimte)",
+    "feed": "feeds/openbare-orde/drugspanden--gevolgen-bewoners.xml",
+    "n": 7,
+    "laatste": "2025-01-29"
+   },
+   {
+    "o": "burgemeester-bevoegdheden",
+    "s": "gebiedsverbod-172a",
+    "label": "Gebiedsverbod of verblijfsontzegging (bestuurlijk)",
+    "feed": "feeds/openbare-orde/burgemeester-bevoegdheden--gebiedsverbod-172a.xml",
+    "n": 6,
+    "laatste": "2026-05-13"
+   },
+   {
+    "o": "drugspanden",
+    "s": "vovo-procedure",
+    "label": "Spoed en procedure (voorlopige voorziening)",
+    "feed": "feeds/openbare-orde/drugspanden--vovo-procedure.xml",
+    "n": 5,
+    "laatste": "2026-06-18"
+   },
+   {
+    "o": "bibob",
+    "s": "gevaar-gronden",
+    "label": "Ernstig gevaar van misbruik: weigeren of intrekken",
+    "feed": "feeds/openbare-orde/bibob--gevaar-gronden.xml",
+    "n": 5,
+    "laatste": "2025-11-12"
+   },
+   {
+    "o": "bibob",
+    "s": "bureau-advies",
+    "label": "Advies van Landelijk Bureau Bibob en politie-informatie (RIEC)",
+    "feed": "feeds/openbare-orde/bibob--bureau-advies.xml",
+    "n": 5,
+    "laatste": "2024-08-13"
+   },
+   {
+    "o": "strafzaken-bevelen",
+    "s": "gedragsaanwijzing",
+    "label": "Gedragsaanwijzing en voorwaarden bij vrijlating",
+    "feed": "feeds/openbare-orde/strafzaken-bevelen--gedragsaanwijzing.xml",
+    "n": 3,
+    "laatste": "2026-07-22"
+   },
+   {
+    "o": "bibob",
+    "s": "feiten-relaties",
+    "label": "Feiten en relaties: levensgedrag en samenhang",
+    "feed": "feeds/openbare-orde/bibob--feiten-relaties.xml",
+    "n": 3,
+    "laatste": "2026-05-13"
+   },
+   {
+    "o": "burgemeester-bevoegdheden",
+    "s": "noodverordening-176",
+    "label": "Noodverordening (o.a. corona)",
+    "feed": "feeds/openbare-orde/burgemeester-bevoegdheden--noodverordening-176.xml",
+    "n": 3,
+    "laatste": "2026-03-04"
+   },
+   {
+    "o": "drugspanden",
+    "s": "vorm-reikwijdte",
+    "label": "Wat wordt gesloten? (woning, pand, bijgebouw, standplaats)",
+    "feed": "feeds/openbare-orde/drugspanden--vorm-reikwijdte.xml",
+    "n": 3,
+    "laatste": "2019-08-28"
+   },
+   {
+    "o": "drugspanden",
+    "s": "overig",
+    "label": "overig",
+    "feed": "feeds/openbare-orde/drugspanden--overig.xml",
+    "n": 2,
+    "laatste": "2026-06-17"
+   },
+   {
+    "o": "apv-vergunningen",
+    "s": "alcohol-horecawet",
+    "label": "Alcohol: vergunning Drank- en Horecawet",
+    "feed": "feeds/openbare-orde/apv-vergunningen--alcohol-horecawet.xml",
+    "n": 2,
+    "laatste": "2023-03-01"
+   },
+   {
+    "o": "drugspanden",
+    "s": "waarschuwing-beleid",
+    "label": "Waarschuwing en beleidsregels van de gemeente",
+    "feed": "feeds/openbare-orde/drugspanden--waarschuwing-beleid.xml",
+    "n": 2,
+    "laatste": "2020-03-18"
+   },
+   {
+    "o": "bibob",
+    "s": "informatieplicht",
+    "label": "Vragen en antwoorden: wat moet de aanvrager aanleveren?",
+    "feed": "feeds/openbare-orde/bibob--informatieplicht.xml",
+    "n": 1,
+    "laatste": "2026-05-13"
+   },
+   {
+    "o": "burgemeester-bevoegdheden",
+    "s": "belanghebbende-procesbelang",
+    "label": "Wie mag procederen en is er nog belang?",
+    "feed": "feeds/openbare-orde/burgemeester-bevoegdheden--belanghebbende-procesbelang.xml",
+    "n": 1,
+    "laatste": "2025-03-19"
+   },
+   {
+    "o": "apv-vergunningen",
+    "s": "apv-handhaving",
+    "label": "Handhaving van APV-regels (last onder dwangsom of bestuursdwang)",
+    "feed": "feeds/openbare-orde/apv-vergunningen--apv-handhaving.xml",
+    "n": 1,
+    "laatste": "2024-12-04"
+   },
+   {
+    "o": "burgemeester-bevoegdheden",
+    "s": "bevoegdheid-bewijs-algemeen",
+    "label": "Verstoring van de openbare orde: algemene bevoegdheid en bewijs",
+    "feed": "feeds/openbare-orde/burgemeester-bevoegdheden--bevoegdheid-bewijs-algemeen.xml",
+    "n": 1,
+    "laatste": "2024-12-04"
+   },
+   {
+    "o": "bibob",
+    "s": "bibob-evenredigheid-procedure",
+    "label": "Evenredigheid, zorgvuldigheid en procedure",
+    "feed": "feeds/openbare-orde/bibob--bibob-evenredigheid-procedure.xml",
+    "n": 1,
+    "laatste": "2024-02-21"
+   },
+   {
+    "o": "strafzaken-bevelen",
+    "s": "noodverordening-strafbaar",
+    "label": "Overtreding noodverordening (corona) strafrechtelijk",
+    "feed": "feeds/openbare-orde/strafzaken-bevelen--noodverordening-strafbaar.xml",
+    "n": 1,
+    "laatste": "2021-09-27"
+   },
+   {
+    "o": "strafzaken-bevelen",
+    "s": "overig",
+    "label": "overig",
+    "feed": "feeds/openbare-orde/strafzaken-bevelen--overig.xml",
+    "n": 1,
+    "laatste": "2020-10-08"
+   },
+   {
+    "o": "apv-vergunningen",
+    "s": "coffeeshop",
+    "label": "Coffeeshop: exploitatie en gedoogbeleid",
+    "feed": "feeds/openbare-orde/apv-vergunningen--coffeeshop.xml",
+    "n": 1,
+    "laatste": "2020-02-12"
+   }
+  ]
+ }
+]

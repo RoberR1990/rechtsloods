@@ -1,0 +1,195 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:4527",
+ "relevant": true,
+ "onderwerp": "toezicht-handhaving",
+ "sub": "klacht-ap",
+ "kenmerk": null,
+ "zaaktype": "klacht-handhaving-ap",
+ "partijen": {
+  "burger": "voormalig werknemer",
+  "wederpartij": "Autoriteit Persoonsgegevens",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een voormalig werknemer klaagde bij de Autoriteit Persoonsgegevens (AP) over de verwerking van zijn gegevens door zijn oude werkgever. De rechtbank vond zijn beroep te laat, en hij ging in hoger beroep bij de Raad van State.",
+ "titel": "Beroep niet te laat, maar AP mocht klacht laten liggen",
+ "kern": {
+  "zin": "De rechter vond de burger niet verwijtbaar te laat, maar de AP mocht de klacht afwijzen zonder nader onderzoek.",
+  "bron": [
+   50
+  ],
+  "citaat": "Het voorgaande leidt ertoe dat de AP de klacht van [appellant] heeft mogen afwijzen zonder over te gaan tot nader onderzoek."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger diende drie klachten in bij de AP over de verwerking van zijn gegevens door zijn oude werkgever.",
+   "bron": [
+    20
+   ],
+   "citaat": "drie klachten ingediend bij de AP over de verwerking van persoonsgegevens door Prime Vision"
+  },
+  {
+   "zin": "De AP besloot de derde klacht niet verder te onderzoeken, omdat die niet aan haar prioriteringscriteria voldeed.",
+   "bron": [
+    20
+   ],
+   "citaat": "omdat de klacht niet voldoet aan de prioriteringscriteria voor klachtenonderzoek"
+  },
+  {
+   "zin": "De burger zei dat hij het besluit niet had ontvangen, omdat hij geen afhaalbericht van PostNL kreeg.",
+   "bron": [
+    22
+   ],
+   "citaat": "omdat hij geen afhaalbericht van PostNL heeft ontvangen"
+  },
+  {
+   "zin": "De rechter volgde hem daarin, mede door de recente problemen met aangetekende post.",
+   "bron": [
+    36
+   ],
+   "citaat": "Daarmee heeft [appellant] het vermoeden van regelmatige bezorging ontzenuwd"
+  },
+  {
+   "zin": "Daardoor was zijn beroep binnen zes weken na kennisname en dus niet verwijtbaar te laat.",
+   "bron": [
+    38
+   ],
+   "citaat": "Dat is binnen zes weken nadat hij van het besluit op de hoogte is gesteld en dus niet verwijtbaar te laat."
+  },
+  {
+   "zin": "Inhoudelijk mocht de AP de klacht afwijzen, omdat zij zelf mag kiezen welke klachten zij onderzoekt.",
+   "bron": [
+    50
+   ],
+   "citaat": "Het voorgaande leidt ertoe dat de AP de klacht van [appellant] heeft mogen afwijzen zonder over te gaan tot nader onderzoek."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ontvankelijk, maar AP mocht afzien van onderzoek; griffierecht terug",
+ "gevolg_betrokkene": {
+  "zin": "De AP onderzoekt de klacht niet verder, maar moet het griffierecht van € 274,00 terugbetalen; proceskosten krijgt de burger niet.",
+  "bron": [
+   64,
+   58
+  ],
+  "citaat": "het door hem betaalde griffierecht van € 274,00"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "Het besluit is niet goed bekendgemaakt, dus zijn beroep was niet te laat.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het beroep kwam binnen zes weken nadat hij het besluit kende.",
+    "bron": [
+     38
+    ],
+    "citaat": "Dat is binnen zes weken nadat hij van het besluit op de hoogte is gesteld"
+   },
+   "bruikbare_zin": {
+    "citaat": "dus niet verwijtbaar te laat",
+    "bron": [
+     38
+    ]
+   }
+  },
+  {
+   "arg": "ap-onderzoek-onvoldoende",
+   "burger_zegt": "De onrechtmatigheid is eenvoudig vast te stellen, dus de AP had moeten optreden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dat de gegevens afwijken van de schikking is op zichzelf niet genoeg om een overtreding vast te stellen.",
+    "bron": [
+     47
+    ],
+    "citaat": "niet voldoende is om een overtreding van de AVG vast te stellen"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet voldoende is om een overtreding van de AVG vast te stellen",
+    "bron": [
+     47
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De AP stelde zich partijdig op.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De AP nam geen standpunt in over een overtreding en was niet partijdig.",
+    "bron": [
+     47
+    ],
+    "citaat": "De AP heeft zich daarbij niet partijdig opgesteld."
+   }
+  },
+  {
+   "arg": "motivering",
+   "burger_zegt": "De AP besliste niet volledig op zijn bezwaar en negeerde feitelijke onjuistheden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De AP heeft de gestelde onjuiste feiten niet aan haar besluit ten grondslag gelegd.",
+    "bron": [
+     52
+    ],
+    "citaat": "De AP heeft de gestelde onjuiste feiten namelijk niet aan haar besluitvorming ten grondslag gelegd."
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De AP heeft ruimte om te bepalen welke klachten zij verder onderzoekt, en mag daarbij kijken naar schade, maatschappelijk belang en doeltreffendheid.",
+  "type": "regel",
+  "reikwijdte": "Klachten bij de AP waarvoor nader onderzoek nodig is",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   49
+  ],
+  "citaat": "Verder heeft de AP beleidsruimte bij het bepalen welke klachten zich lenen voor nader onderzoek."
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "Track & trace-overzicht van PostNL",
+   "verklaring dat geen afhaalbericht is ontvangen"
+  ],
+  "wat_gaf_doorslag": "Door de recente problemen met aangetekende post volgde de rechter de burger dat er geen afhaalbericht kwam."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2023:84",
+   "ECLI:NL:RVS:2024:1406",
+   "ECLI:NL:RVS:2023:4624"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 3:41 lid 1 Awb",
+  "art. 8:116 Awb",
+  "art. 58 lid 2 sub c AVG",
+  "Beleidsregels prioritering klachtenonderzoek AP"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zie een te late bezwaar of beroep niet meteen als verwijtbaar als de burger met feiten betwijfelt dat het aangetekende besluit is aangeboden.",
+   "raakt": "bezwaar",
+   "bron": [
+    35
+   ],
+   "citaat": "Voldoende is dat belanghebbende feiten en omstandigheden aanvoert op grond waarvan redelijkerwijs kan worden betwijfeld of het stuk is ontvangen of aangeboden"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "privacy-fg"
+ ],
+ "klantuitleg": "Komt u te laat met bezwaar of beroep omdat u een aangetekende brief niet hebt gekregen, dan kan dat toch nog goed uitpakken als u feiten aanvoert waarom u geen afhaalbericht kreeg. De AP hoeft niet elke klacht helemaal uit te zoeken en kiest zelf waar zij tijd in stopt. Twijfelt u over de termijn, dien dan zo snel mogelijk, in elk geval binnen zes weken nadat u het besluit kent, uw bezwaar of beroep in.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente betrokken",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,161 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2025:4391",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een Wahv-boete (boete op grond van de wet voor verkeersboetes) van € 119,00 voor dubbel parkeren in Groningen. Via haar gemachtigde ging zij in beroep bij de kantonrechter tegen de officier van justitie.",
+ "titel": "Boete dubbel parkeren blijft; bord 'Eigen weg' maakte niets uit",
+ "kern": {
+  "zin": "De kantonrechter vond dat de weg voor het verkeer openstond, dus dubbel parkeren was hier niet toegestaan.",
+  "bron": [
+   27
+  ],
+  "citaat": "Er is dus sprake van een voor het openbaar verkeer openstaande weg."
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete van € 119,00 voor dubbel parkeren.",
+   "bron": [
+    11
+   ],
+   "citaat": "De opgelegde boete bedraagt € 119,00 (inclusief administratiekosten)."
+  },
+  {
+   "zin": "Haar gemachtigde zei dat de parkeerder de gedraging ontkende en aan het laden en lossen was.",
+   "bron": [
+    19
+   ],
+   "citaat": "Gemachtigde voert aan dat betrokkene de gedraging ontkent"
+  },
+  {
+   "zin": "De officier van justitie vond dat het dubbel parkeren kon worden vastgesteld.",
+   "bron": [
+    20
+   ],
+   "citaat": "De vertegenwoordigster vindt dat het dubbel parkeren kan worden vastgesteld"
+  },
+  {
+   "zin": "De kantonrechter vond de stelling van laden en lossen onvoldoende, omdat de verbalisant tien minuten geen activiteit zag.",
+   "bron": [
+    25
+   ],
+   "citaat": "De enkele stelling dat sprake was van laden en lossen, is onvoldoende om dit aannemelijk te maken."
+  },
+  {
+   "zin": "Het bord 'Eigen weg' veranderde niets, want de weg was niet afgesloten.",
+   "bron": [
+    27
+   ],
+   "citaat": "De plaatsing van dit bord maakt immers niet dat de toegang feitelijk onmogelijk is gemaakt."
+  },
+  {
+   "zin": "De kantonrechter zag geen reden om de boete te verlagen en kende geen proceskosten toe.",
+   "bron": [
+    28
+   ],
+   "citaat": "Voor een proceskostenvergoeding bestaat geen aanleiding."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; boete van € 119,00 blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de boete van € 119,00 betalen en krijgt geen proceskostenvergoeding.",
+  "bron": [
+   28,
+   11
+  ],
+  "citaat": "Voor een proceskostenvergoeding bestaat geen aanleiding."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Zij zegt dat zij bezig was met laden en lossen en haar auto even stil zette.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de kantonrechter maakte de stelling van laden en lossen niets aannemelijk.",
+    "bron": [
+     25
+    ],
+    "citaat": "De enkele stelling dat sprake was van laden en lossen, is onvoldoende om dit aannemelijk te maken."
+   },
+   "bruikbare_zin": {
+    "citaat": "De enkele stelling dat sprake was van laden en lossen, is onvoldoende",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Zij vindt het vreemd dat er op een privéterrein een boete wordt gegeven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat het terrein in feite voor het verkeer openstond, dus gelden hier de verkeersregels.",
+    "bron": [
+     27
+    ],
+    "citaat": "Er is dus sprake van een voor het openbaar verkeer openstaande weg."
+   },
+   "bruikbare_zin": {
+    "citaat": "is beslissend of het feitelijk voor het openbaar verkeer openstaat",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Of een terrein voor het verkeer openstaat, hangt af van de feiten, bijvoorbeeld of de eigenaar het gebruik door het verkeer duldt.",
+  "type": "regel",
+  "reikwijdte": "terreinen die feitelijk voor iedereen toegankelijk zijn, ook met een privébord",
+  "uitzondering": "als de toegang feitelijk onmogelijk is gemaakt",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   26
+  ],
+  "citaat": "is beslissend of het feitelijk voor het openbaar verkeer openstaat"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring van de verbalisant in het zaakoverzicht",
+   "aanvullend proces-verbaal",
+   "foto's van de overtreding"
+  ],
+  "wat_gaf_doorslag": "De verklaring van de verbalisant dat er tien minuten geen activiteit was, gaf de doorslag."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:GHARL:2019:8307",
+   "ECLI:NL:GHARL:2019:7859",
+   "ECLI:NL:GHARL:2022:10767"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1 RVV 1990",
+  "art. 1 lid 1 onder b WVW 1994"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "klantcontact"
+ ],
+ "klantuitleg": "Dubbel parkeren is niet toegestaan op een plek die feitelijk voor het verkeer openstaat. Een bord als 'Eigen weg' verandert daar niets aan, zolang de plek voor iedereen toegankelijk is. Zegt u dat u aan het laden en lossen was, dan moet u dat aannemelijk maken; alleen zeggen is niet genoeg.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente partij; de officier van justitie beslist",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

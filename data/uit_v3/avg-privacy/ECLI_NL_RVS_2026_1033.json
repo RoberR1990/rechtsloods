@@ -1,0 +1,151 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:1033",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "weigering-rechten-anderen",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "particulier",
+  "wederpartij": "minister van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger wilde van de minister van Financiën weten wie de Belastingdienst onjuiste medische gegevens over hem had gegeven. Hij stelde beroep in bij de Raad van State tegen het nieuwe besluit van de minister, dat de naam van die persoon niet noemde.",
+ "titel": "Naam van informant blijft geheim om privacy van die persoon",
+ "kern": {
+  "zin": "De Raad van State vond dat de minister de naam van de bron mocht weigeren, omdat de privacy van die persoon zwaarder woog dan het inzagerecht van de burger.",
+  "bron": [
+   25
+  ],
+  "citaat": "dat het belang van de bescherming van rechten en vrijheden van de persoon, wiens naam het betreft, zwaarder weegt"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de minister om inzage in zijn gegevens, omdat hij vermoedde dat de Belastingdienst zijn gegevens onrechtmatig aan anderen had gegeven.",
+   "bron": [
+    16
+   ],
+   "citaat": "omdat hij vermoedt dat de Belastingdienst onrechtmatig zijn gegevens heeft verstrekt aan derden"
+  },
+  {
+   "zin": "Een eerdere uitspraak zei dat de minister de bron van de gegevens in beginsel moest noemen, maar dat het inzagerecht mag worden beperkt als dat goed wordt uitgelegd.",
+   "bron": [
+    19
+   ],
+   "citaat": "Weliswaar biedt artikel 41 van de Uitvoeringswet AVG een grondslag om het inzagerecht te beperken"
+  },
+  {
+   "zin": "De minister gaf meer gegevens, maar weigerde de naam van de bron omdat dat de privacy van die persoon zou aantasten.",
+   "bron": [
+    22
+   ],
+   "citaat": "Kennisneming van de naam van de derde zal volgens de minister leiden tot aantasting van het belang van eerbiediging van diens persoonlijke levenssfeer"
+  },
+  {
+   "zin": "De burger vond dat iemand die te kwader trouw is niet beschermd hoeft te worden en dat zijn belang bij waarheidsvinding zwaarder weegt.",
+   "bron": [
+    24
+   ],
+   "citaat": "dat de minister niet mocht weigeren de naam te verstrekken van degene die onjuiste medische gegevens"
+  },
+  {
+   "zin": "De Raad van State vond dat het recht op inzage de rechten en vrijheden van anderen niet mag schaden, en dat de belangen tegen elkaar moeten worden afgewogen.",
+   "bron": [
+    25
+   ],
+   "citaat": "moeten de betrokken rechten tegen elkaar worden afgewogen"
+  },
+  {
+   "zin": "Klachten over hoe de Belastingdienst met de gezondheid van de burger omging, bespreekt de Raad van State niet, want het geschil gaat alleen over inzage.",
+   "bron": [
+    27
+   ],
+   "citaat": "Het geschil in deze zaak gaat alleen over het verzoek"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naam van de bron mocht worden geweigerd.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt de naam van de bron niet te weten en geen vergoeding van proceskosten.",
+  "bron": [
+   30
+  ],
+  "citaat": "De minister hoeft geen proceskosten te vergoeden"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "weigering-rechten-anderen",
+   "burger_zegt": "De naam van wie onjuiste medische gegevens doorgaf, moet genoemd worden: wie te kwader trouw is, hoeft niet beschermd te worden en waarheidsvinding weegt zwaarder.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het inzagerecht doet geen afbreuk aan de rechten en vrijheden van anderen, en bij strijd moeten de belangen worden afgewogen.",
+    "bron": [
+     25
+    ],
+    "citaat": "het recht op inzage in de eigen persoonsgegevens geen afbreuk doet aan de rechten en vrijheden van anderen"
+   },
+   "bruikbare_zin": {
+    "citaat": "moeten de betrokken rechten tegen elkaar worden afgewogen",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het recht op inzage doet geen afbreuk aan de rechten en vrijheden van anderen; bij strijd moeten de rechten tegen elkaar worden afgewogen.",
+  "type": "regel",
+  "reikwijdte": "Inzageverzoeken waarbij de gegevens ook de privacy van een andere persoon raken, zoals de naam van een bron.",
+  "uitzondering": "Het inzagerecht mag alleen worden beperkt als de organisatie motiveert waarom dat noodzakelijk en evenredig is.",
+  "herkomst": "wet",
+  "bron": [
+   25
+  ],
+  "citaat": "moeten de betrokken rechten tegen elkaar worden afgewogen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "bericht van 19 november 2014",
+   "verslagen van het overleg (TPO-verslagen)"
+  ],
+  "wat_gaf_doorslag": "De privacy van de persoon wiens naam het is, woog zwaarder dan het belang van de burger bij waarheidsvinding."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2023:394"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 12 AVG",
+  "art. 15 lid 1 onder g AVG",
+  "art. 15 lid 4 AVG",
+  "art. 23 lid 1 onder i AVG",
+  "art. 41 lid 1 onder i UAVG"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij het weigeren of weglakken van de naam van een derde vast waarom dat noodzakelijk en evenredig is, en weeg de belangen af.",
+   "raakt": "privacy-fg",
+   "bron": [
+    19
+   ],
+   "citaat": "dan moet de minister motiveren waarom dit noodzakelijk en evenredig is"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "U heeft recht op inzage in uw eigen gegevens, maar niet op alles wat de privacy van een ander raakt, zoals de naam van iemand die informatie over u heeft doorgegeven. De organisatie moet de belangen afwegen en moet uitleggen waarom zij een naam niet noemt. Vindt u de uitleg onvoldoende, dan kunt u bezwaar maken en vragen hoe de afweging is gemaakt.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij (minister van Financiën)",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,186 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2016:3305",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Noordoostpolder",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De burger vroeg de gemeente Noordoostpolder om zijn naam in de BRP (basisregistratie personen) te veranderen. De gemeente wees dat af; de Raad van State besliste in hoger beroep of dat terecht was.",
+ "titel": "Gemeente mag vasthouden aan naam uit paspoort",
+ "kern": {
+  "zin": "De rechter bevestigt dat de gemeente de naam in de BRP niet hoeft te wijzigen, omdat de burger niet onomstotelijk heeft bewezen dat de gegevens onjuist zijn.",
+  "bron": [
+   38
+  ],
+  "citaat": "moet worden vastgehouden aan de in de brp opgenomen persoonsgegevens"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger wilde dat de gemeente zijn naam in de BRP veranderde.",
+   "bron": [
+    21
+   ],
+   "citaat": "om zijn persoonsgegevens in de brp te wijzigen"
+  },
+  {
+   "zin": "Hij legde bij zijn verzoek een Chinese identiteitskaart over.",
+   "bron": [
+    22
+   ],
+   "citaat": "Bij dit verzoek heeft hij een Chinese identiteitskaart overgelegd."
+  },
+  {
+   "zin": "De gemeente wees het verzoek af: het paspoort is recenter dan de identiteitskaart.",
+   "bron": [
+    23
+   ],
+   "citaat": "Het Chinese paspoort is het meest actuele document"
+  },
+  {
+   "zin": "De rechter zegt dat gegevens in de BRP alleen worden gewijzigd als onomstotelijk vaststaat dat ze onjuist zijn.",
+   "bron": [
+    37
+   ],
+   "citaat": "onomstotelijk moeten vaststaan dat deze feitelijk onjuist zijn"
+  },
+  {
+   "zin": "De rechter oordeelt dat de burger dit niet heeft bewezen en bevestigt de beslissing.",
+   "bron": [
+    38
+   ],
+   "citaat": "niet onomstotelijk is komen vast te staan dat de in de brp geregistreerde gegevens feitelijk onjuist zijn"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De gemeente hoefde de naam in de BRP niet te wijzigen; het hoger beroep faalt.",
+ "gevolg_betrokkene": {
+  "zin": "Zijn naam in de BRP blijft zoals die in het paspoort staat en hij krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   41,
+   42
+  ],
+  "citaat": "De uitspraak, voor zover aangevallen, dient te worden bevestigd."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Mijn naam in de BRP is onjuist en moet worden veranderd in de Oeigoerse spelling.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat niet onomstotelijk vaststaat dat de gegevens in de BRP feitelijk onjuist zijn.",
+    "bron": [
+     38
+    ],
+    "citaat": "niet onomstotelijk is komen vast te staan dat de in de brp geregistreerde gegevens feitelijk onjuist zijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "onomstotelijk moeten vaststaan dat deze feitelijk onjuist zijn",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "motivering",
+   "burger_zegt": "De gemeente heeft het besluit slecht uitgelegd: de HUP zijn maar richtlijnen en het NVVB-advies is geen deugdelijk deskundigenadvies.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter laat deze punten onbesproken omdat ze niet nodig zijn voor zijn oordeel.",
+    "bron": [
+     38
+    ],
+    "citaat": "behoeft gelet op het vorenstaande geen bespreking"
+   },
+   "bruikbare_zin": {
+    "citaat": "behoeft gelet op het vorenstaande geen bespreking",
+    "bron": [
+     38
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Door van het paspoort uit te gaan kan hij zijn geboortenaam niet dragen; dat is onevenredig en in strijd met zijn privéleven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter oordeelt dat de beslissing niet in strijd is met het recht op eerbiediging van het privéleven en niet onevenredig is.",
+    "bron": [
+     39
+    ],
+    "citaat": "niet in strijd met het recht op eerbiediging van het privéleven, en derhalve ook niet disproportioneel"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet in strijd met het recht op eerbiediging van het privéleven",
+    "bron": [
+     39
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Gegevens die eenmaal in de BRP staan, worden alleen gewijzigd als onomstotelijk vaststaat dat ze feitelijk onjuist zijn.",
+  "type": "regel",
+  "reikwijdte": "wijziging van eenmaal in de BRP opgenomen persoonsgegevens",
+  "uitzondering": "Als met documenten onomstotelijk blijkt dat de gegevens onjuist zijn, moet de gemeente ze wel wijzigen.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   37
+  ],
+  "citaat": "onomstotelijk moeten vaststaan dat deze feitelijk onjuist zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "Chinees paspoort",
+   "Chinese identiteitskaart"
+  ],
+  "wat_gaf_doorslag": "Het paspoort was recenter dan de identiteitskaart en de burger toonde de onjuistheid niet onomstotelijk aan."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2016:2251"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2.8, tweede lid, aanhef en onder d, Wet brp",
+  "art. 8 EVRM"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Wijs een verzoek om de BRP te wijzigen af als de burger niet onomstotelijk aantoont dat de gegevens onjuist zijn.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    37
+   ],
+   "citaat": "onomstotelijk moeten vaststaan dat deze feitelijk onjuist zijn"
+  },
+  {
+   "actie": "Kies bij documenten van gelijke rangorde het meest recente document.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    38
+   ],
+   "citaat": "Het paspoort is voorts van recentere datum."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "privacy-fg"
+ ],
+ "klantuitleg": "Wilt u dat de gemeente uw gegevens in de BRP (de officiële lijst met uw persoonsgegevens) verandert? Dan moet u met documenten heel duidelijk maken dat die gegevens echt fout zijn. Een andere spelling van uw naam is daarvoor niet genoeg, en de gemeente kijkt ook welk document het nieuwst is. Laat u goed informeren voordat u bezwaar maakt.",
+ "gemeente": "Noordoostpolder",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

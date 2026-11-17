@@ -1,0 +1,158 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2016:702",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Arnhem",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Deze zaak gaat over een man die zijn gegevens in de BRP (de gemeentelijke basisadministratie) wil laten veranderen. Hij stond in hoger beroep tegen de gemeente Arnhem bij de Raad van State.",
+ "titel": "Geen wijziging van BRP-gegevens zonder hard bewijs",
+ "kern": {
+  "zin": "De rechter besliste dat de gemeente de gegevens niet hoefde te wijzigen, omdat niet onomstotelijk vaststond dat de oude gegevens onjuist waren.",
+  "bron": [
+   33
+  ],
+  "citaat": "niet onomstotelijk is komen vast te staan dat de in de brp geregistreerde persoonsgegevens feitelijk onjuist zijn"
+ },
+ "samenvatting": [
+  {
+   "zin": "[appellant] staat sinds 2008 in de BRP met gegevens uit een Afghaanse identiteitskaart (taskera).",
+   "bron": [
+    20
+   ],
+   "citaat": "Deze gegevens zijn destijds ontleend aan een door hem overgelegde Afghaanse identiteitskaart, een zogeheten taskera."
+  },
+  {
+   "zin": "Hij vroeg de gemeente in december 2013 om zijn naam, geboortedatum en geboorteplaats te wijzigen.",
+   "bron": [
+    21
+   ],
+   "citaat": "Bij brief van 16 december 2013 heeft [appellant] het college verzocht zijn gegevens te veranderen"
+  },
+  {
+   "zin": "De gemeente wees dat af, omdat niet duidelijk was waarom de gegevens in het nieuwe document anders waren.",
+   "bron": [
+    22
+   ],
+   "citaat": "dat niet duidelijk is op basis waarvan de persoonsgegevens in de nieuwe taskera zijn gewijzigd"
+  },
+  {
+   "zin": "De rechter vond dat een nieuw gelegaliseerd document niet automatisch betrouwbaarder is.",
+   "bron": [
+    31
+   ],
+   "citaat": "leidt er derhalve niet toe dat deze van een hogere rang is dan de oude taskera"
+  },
+  {
+   "zin": "Omdat het bewijs ontbrak, bleef het verzoek afgewezen en het hoger beroep ongegrond.",
+   "bron": [
+    35
+   ],
+   "citaat": "Het hoger beroep is ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; gegevens blijven ongewijzigd, geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "Hij krijgt geen vergoeding voor de kosten van de procedure en zijn gegevens in de BRP blijven ongewijzigd.",
+  "bron": [
+   36
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Hij stelt dat de gegevens in de BRP onjuist zijn en aangepast moeten worden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat niet onomstotelijk vaststond dat de oude gegevens feitelijk onjuist waren.",
+    "bron": [
+     33
+    ],
+    "citaat": "niet onomstotelijk is komen vast te staan dat de in de brp geregistreerde persoonsgegevens feitelijk onjuist zijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het bewijs dat eenmaal in de brp opgenomen gegevens feitelijk onjuist zijn, kan alleen maar worden geleverd door overlegging van de juiste brondocumenten.",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De nieuwe taskera met legalisatiestempels en het paspoort bewijzen dat de oude gegevens onjuist zijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Legalisatie maakt het nieuwe document niet van een hogere rang dan het oude document.",
+    "bron": [
+     31
+    ],
+    "citaat": "leidt er derhalve niet toe dat deze van een hogere rang is dan de oude taskera"
+   },
+   "bruikbare_zin": {
+    "citaat": "is het niet relevant of het document gelegaliseerd is of dat een ander document is bijgevoegd",
+    "bron": [
+     31
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Om gegevens in de BRP te wijzigen moet onomstotelijk vaststaan dat de oude gegevens feitelijk onjuist zijn; dat bewijs lever je met de juiste brondocumenten.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om wijziging van gegevens die al in de BRP staan, ook als die uit een buitenlands document komen.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   30
+  ],
+  "citaat": "zal gelet op het systeem van de Wet brp onomstotelijk moeten vaststaan dat deze feitelijk onjuist zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "nieuwe taskera",
+   "Afghaans paspoort",
+   "brief van de Afghaanse ambassade",
+   "documentenonderzoeken van Bureau Documenten"
+  ],
+  "wat_gaf_doorslag": "Het ontbreken van een afschrift uit het Afghaanse bevolkingsregister."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 2.8 lid 2 Wet brp"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij een verzoek om wijziging van buitenlandse gegevens om controleerbaar bewijs, zoals een afschrift uit het buitenlandse bevolkingsregister, als de juistheid van het nieuwe document niet te controleren is.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    33
+   ],
+   "citaat": "het college hierdoor niet kan controleren of de door [appellant] geschetste gang van zaken juist is"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "privacy-fg"
+ ],
+ "klantuitleg": "Wilt u gegevens in de BRP (de gemeentelijke basisadministratie) laten veranderen? Dan moet u met controleerbaar bewijs laten zien dat de oude gegevens echt fout zijn. Een buitenlands document met stempels is niet genoeg als de gemeente de juistheid ervan niet kan controleren; bezwaar heeft dan weinig kans.",
+ "gemeente": "Arnhem",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

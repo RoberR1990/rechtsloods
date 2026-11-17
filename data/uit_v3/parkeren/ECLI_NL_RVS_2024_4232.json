@@ -1,0 +1,166 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2024:4232",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bewoners",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Twee bewoners van Amsterdam kregen geen parkeervergunning, omdat zij drie garageboxen in het vergunningengebied hebben. Zij gingen in hoger beroep bij de Raad van State tegen de gemeente.",
+ "titel": "Garageboxen gaan af van het aantal bewonersvergunningen",
+ "kern": {
+  "zin": "De Raad van State bevestigde dat de gemeente geen rekening hoefde te houden met de omstandigheden van de bewoners, omdat de verordening dwingend is.",
+  "bron": [
+   26
+  ],
+  "citaat": "De rechtbank heeft duidelijk uitgelegd waarom met die omstandigheden geen rekening kan worden gehouden"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het adres van de bewoners heeft een maximum van twee bewonersvergunningen.",
+   "bron": [
+    23
+   ],
+   "citaat": "kent een maximum van twee bewonersvergunningen per adres"
+  },
+  {
+   "zin": "De gemeente wees de aanvraag af, omdat de verordening zegt dat stallingsplaatsen van het aantal vergunningen worden afgetrokken.",
+   "bron": [
+    23
+   ],
+   "citaat": "stallingsplaatsen dienen te worden afgetrokken van het aantal te verlenen vergunningen"
+  },
+  {
+   "zin": "De bewoners zeiden dat de garageboxen als opslag dienen, dat de boxen hoge kosten waren en dat buren in dezelfde situatie wel een vergunning hebben.",
+   "bron": [
+    25
+   ],
+   "citaat": "dat de garageboxen worden gebruikt als opslagruimte"
+  },
+  {
+   "zin": "De rechtbank vond dat de verordening dwingend is en dat er geen ruimte was om hun omstandigheden mee te wegen.",
+   "bron": [
+    24
+   ],
+   "citaat": "er geen ruimte is om de door [appellanten] aangevoerde omstandigheden mee te wegen"
+  },
+  {
+   "zin": "De Raad van State onderschreef die uitleg en vond ook het beroep op gelijke behandeling en op de hardheidsclausule (uitzondering bij een schrijnende situatie) overtuigend weerlegd.",
+   "bron": [
+    26
+   ],
+   "citaat": "De Afdeling onderschrijft deze uitleg"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Afwijzing blijft staan; garageboxen tellen mee.",
+ "gevolg_betrokkene": {
+  "zin": "De bewoners krijgen de gevraagde vergunning niet en de gemeente hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   27
+  ],
+  "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak moet worden bevestigd"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De garageboxen worden als opslag gebruikt, twee staan op naam van de zoons en de vergunning is ook nodig voor boodschappen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De verordening is dwingend, dus er was geen ruimte om deze omstandigheden mee te wegen.",
+    "bron": [
+     24
+    ],
+    "citaat": "er geen ruimte is om de door [appellanten] aangevoerde omstandigheden mee te wegen"
+   },
+   "bruikbare_zin": {
+    "citaat": "er geen ruimte is om de door [appellanten] aangevoerde omstandigheden mee te wegen",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "gelijkheid",
+   "burger_zegt": "Buurtbewoners in dezelfde situatie hebben wel een parkeervergunning.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Voor schending van het gelijkheidsbeginsel was geen concrete onderbouwing gegeven.",
+    "bron": [
+     24
+    ],
+    "citaat": "daarvoor geen concrete onderbouwing is gegeven"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente had de hardheidsclausule moeten toepassen, mede door de hoge kosten van de garageboxen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er was geen schrijnende situatie die aanleiding gaf de hardheidsclausule toe te passen.",
+    "bron": [
+     24
+    ],
+    "citaat": "geen sprake van een schrijnende situatie die voor het college aanleiding had moeten zijn"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het aantal stallingsplaatsen wordt afgetrokken van het aantal bewonersvergunningen dat kan worden verleend.",
+  "type": "regel",
+  "reikwijdte": "Adressen in een vergunningengebied met een maximum aantal bewonersvergunningen en stallingsplaatsen (garageboxen) in dat gebied, onder de Amsterdamse Parkeerverordening 2013.",
+  "uitzondering": "De hardheidsclausule bij een schrijnende situatie.",
+  "herkomst": "lokale verordening",
+  "bron": [
+   24
+  ],
+  "citaat": "De regel dat het aantal stallingsplaatsen moet worden afgetrokken van de vergunningen die verleend kunnen worden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "bestemmingsplan: de boxen zijn stallingsplaatsen"
+  ],
+  "wat_gaf_doorslag": "Uit het bestemmingsplan volgt dat de garageboxen stallingsplaatsen zijn."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Parkeerverordening 2013 Amsterdam (aftrek stallingsplaatsen)"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Trek stallingsplaatsen af van het aantal bewonersvergunningen, ook als de garagebox als opslag wordt gebruikt, en kijk apart of er een schrijnende situatie is.",
+   "raakt": "vergunningen",
+   "bron": [
+    23,
+    25,
+    26
+   ],
+   "citaat": "stallingsplaatsen dienen te worden afgetrokken van het aantal te verlenen vergunningen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "verordening-beleid",
+  "bezwaar"
+ ],
+ "klantuitleg": "Heeft u een garagebox of stallingsplaats in uw vergunningengebied, dan kan de gemeente die aftrekken van het aantal parkeervergunningen voor uw adres. In deze zaak maakte het niet uit dat de box als opslag werd gebruikt. Wilt u bezwaar maken, onderbouw dan concreet waarom uw situatie schrijnend is of waarom anderen anders worden behandeld.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

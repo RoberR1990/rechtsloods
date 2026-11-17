@@ -1,0 +1,153 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2024:1616",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een pakketbezorger kreeg van de gemeente Rotterdam een rekening achteraf voor parkeren. De gemeente ging in hoger beroep bij het gerechtshof Den Haag, nadat de rechtbank de bezorger gelijk had gegeven.",
+ "titel": "Pakketbezorger hoeft niet te betalen tijdens bezorgronde",
+ "kern": {
+  "zin": "Het hof vond dat de bezorger aan het laden en lossen was, omdat alle pakketten samen te groot waren om anders dan met de auto te bezorgen.",
+  "bron": [
+   53
+  ],
+  "citaat": "is het totaal van de pakketten die belanghebbende die dag moest bezorgen van zodanige omvang of gewicht"
+ },
+ "samenvatting": [
+  {
+   "zin": "De auto van een pakketbezorger stond 's avonds op een betaalde parkeerplek in Rotterdam, en de scanauto zag dat er niet was betaald.",
+   "bron": [
+    24
+   ],
+   "citaat": "Tijdens een controle met behulp van een scanauto is geconstateerd dat op de genoemde datum"
+  },
+  {
+   "zin": "De bezorger zei dat hij alleen stilstond om pakketten te laden en te lossen; hij had die dag 89 pakketten te bezorgen.",
+   "bron": [
+    52
+   ],
+   "citaat": "89 pakketten heeft opgehaald om deze in verschillende straten"
+  },
+  {
+   "zin": "De gemeente zei dat het per adres bekeken moet worden en dat de pakketten per adres niet zwaar of groot genoeg waren.",
+   "bron": [
+    51
+   ],
+   "citaat": "Heffingsambtenaar stelt zich op het standpunt dat geen sprake is van"
+  },
+  {
+   "zin": "Het hof keek naar alle pakketten van die dag samen en vond dat die niet of lastig anders dan met de auto te bezorgen waren.",
+   "bron": [
+    53
+   ],
+   "citaat": "Hoewel zou kunnen worden betoogd dat de pakketten per stuk wellicht van enigszins beperkte omvang"
+  },
+  {
+   "zin": "Het hof vond ook dat de gemeente niet aannemelijk had gemaakt dat een andere manier van vervoer kon.",
+   "bron": [
+    53
+   ],
+   "citaat": "heeft de Heffingsambtenaar niet aannemelijk gemaakt dat een andere wijze van vervoer dan per auto mogelijk was"
+  },
+  {
+   "zin": "Daarom hoefde de bezorger geen parkeerbelasting te betalen en bleef de uitspraak van de rechtbank staan.",
+   "bron": [
+    54,
+    61
+   ],
+   "citaat": "geen parkeerbelasting was verschuldigd"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Het hoger beroep van de gemeente is ongegrond; de naheffing blijft vernietigd.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening achteraf vervalt, en de gemeente moet het griffierecht van € 548 betalen.",
+  "bron": [
+   62
+  ],
+  "citaat": "gelast dat van de Heffingsambtenaar een griffierecht geheven wordt van € 548"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Ik stond alleen stil om pakketten te laden en te lossen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het hof zei dat van een pakketbezorger niet kan worden gevraagd dat hij per adres de pakketten bij het distributiecentrum ophaalt.",
+    "bron": [
+     53
+    ],
+    "citaat": "kan van een pakketbezorger redelijkerwijs niet worden verlangd dat hij per bezorgadres"
+   },
+   "bruikbare_zin": {
+    "citaat": "kan van een pakketbezorger redelijkerwijs niet worden verlangd dat hij per bezorgadres de aldaar te bezorgen pakketten ophaalt",
+    "bron": [
+     53
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Of iemand onmiddellijk laadt en lost, wordt niet per parkeermoment of per bezorgadres bekeken, maar op basis van alle goederen die bezorgd moeten worden.",
+  "type": "regel",
+  "reikwijdte": "Bezorgers die op een rit veel pakketten leveren en tijdens het bezorgen stilstaan op een betaalde parkeerplek",
+  "uitzondering": "Niet aannemelijk dat een ander vervoermiddel dan de auto mogelijk was",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   53
+  ],
+  "citaat": "per parkeerincident of bezorgadres moet worden beoordeeld"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring van de bezorger op de zitting",
+   "rittenoverzicht",
+   "magneetbord op de auto"
+  ],
+  "wat_gaf_doorslag": "Het grote aantal pakketten (89) en hun totale omvang op die dag."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2014:445",
+   "ECLI:NL:HR:1999:AA2760"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "art. 1 Verordening parkeerregulering en parkeerbelastingen 2022 Rotterdam",
+  "art. 5 Verordening parkeerregulering en parkeerbelastingen 2022 Rotterdam"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Beoordeel bij een pakketbezorger het laden en lossen op basis van alle pakketten van die rit, niet per adres",
+   "raakt": "bezwaar",
+   "bron": [
+    53
+   ],
+   "citaat": "per parkeerincident of bezorgadres moet worden beoordeeld"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "scanauto-handhaving",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Als u pakketten bezorgt en daarvoor kort stilstaat, telt dat als laden en lossen. Dan hoeft u geen parkeergeld te betalen, want de rechter kijkt naar alle pakketten van uw hele rit. Bezwaar tegen een rekening achteraf kan zin hebben als u kunt laten zien hoeveel pakketten u die dag bezorgde, bijvoorbeeld met een rittenoverzicht.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

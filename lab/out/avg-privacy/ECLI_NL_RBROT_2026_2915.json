@@ -1,0 +1,146 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2026:2915",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "kopie-stukken",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "verzoeker",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "voorlopige voorziening",
+ "intro": "De verzoeker vroeg de gemeente Rotterdam om inzage in zijn persoonsgegevens en in zijn dossier. Hij is het niet eens met wat hij kreeg en vroeg de rechter om een snelle beslissing (voorlopige voorziening).",
+ "titel": "Geen spoed: verzoek om inzage afgewezen",
+ "kern": {
+  "zin": "De rechter wijst het verzoek af, omdat de verzoeker niet genoeg liet zien dat hij haast had.",
+  "bron": [
+   17
+  ],
+  "citaat": "De voorzieningenrechter is van oordeel dat verzoeker het spoedeisend belang onvoldoende aannemelijk heeft gemaakt."
+ },
+ "samenvatting": [
+  {
+   "zin": "De verzoeker vroeg op 28 november 2025 inzage in zijn persoonsgegevens en in zijn dossier.",
+   "bron": [
+    9
+   ],
+   "citaat": "Verzoeker heeft op 28 november 2025 verzocht om inzage in de over hem verwerkte persoonsgegevens en om inzage in zijn dossier."
+  },
+  {
+   "zin": "De gemeente gaf hem op 18 december 2025 een kopie van zijn Wmo-dossier.",
+   "bron": [
+    14
+   ],
+   "citaat": "het college, op grond van de Wet maatschappelijke ondersteuning 2015, aan verzoeker een kopie van zijn dossier verstrekt"
+  },
+  {
+   "zin": "De verzoeker vond dat hij niet alles kreeg en maakte bezwaar.",
+   "bron": [
+    14
+   ],
+   "citaat": "Verzoeker is het niet eens met de afhandeling van zijn verzoek."
+  },
+  {
+   "zin": "Een voorlopige voorziening kan alleen als er echte spoed is.",
+   "bron": [
+    15
+   ],
+   "citaat": "Een voorlopige voorziening kan alleen worden getroffen als er een spoedeisend belang is"
+  },
+  {
+   "zin": "De rechter wijst het verzoek af en er is geen vergoeding van kosten.",
+   "bron": [
+    19
+   ],
+   "citaat": "De voorzieningenrechter wijst het verzoek af. Voor een proceskostenveroordeling bestaat geen aanleiding."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Geen spoedeisend belang; rechter wijst verzoek af",
+ "gevolg_betrokkene": {
+  "zin": "De rechter wijst het verzoek af en vergoedt geen kosten.",
+  "bron": [
+   19
+  ],
+  "citaat": "De voorzieningenrechter wijst het verzoek af"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "De verzoeker vindt dat de kopie van zijn dossier niet volledig is.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt in deze procedure niet aannemelijk dat het dossier onvolledig was.",
+    "bron": [
+     17
+    ],
+    "citaat": "oordeelt de voorzieningenrechter dat dit in deze procedure niet aannemelijk is geworden"
+   },
+   "bruikbare_zin": {
+    "citaat": "de op 18 december 2025 ontvangen kopie van zijn Wmo-dossier onvolledig is",
+    "bron": [
+     17
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De verzoeker wil een gedetailleerd overzicht van alle activiteiten en een volledige reconstructie.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat het inzagerecht op grond van de AVG daar niet voor is bedoeld.",
+    "bron": [
+     17
+    ],
+    "citaat": "daarvoor is het inzagerecht op grond van de AVG niet bedoeld"
+   },
+   "bruikbare_zin": {
+    "citaat": "daarvoor is het inzagerecht op grond van de AVG niet bedoeld",
+    "bron": [
+     17
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een voorlopige voorziening kan alleen worden getroffen als er een spoedeisend belang is.",
+  "type": "regel",
+  "reikwijdte": "bij een verzoek om een voorlopige voorziening in een bezwaar- of beroepsprocedure",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   15
+  ],
+  "citaat": "Een voorlopige voorziening kan alleen worden getroffen als er een spoedeisend belang is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Niet gebleken is dat er al een zittingsdatum bij de Centrale Raad van Beroep bekend is."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Algemene Verordening Gegevensbescherming (AVG)",
+  "Wet maatschappelijke ondersteuning 2015"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver procesuele spoeduitspraak; geen inhoudelijk oordeel over de inzage",
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "De gemeente moet u op verzoek laten zien welke persoonsgegevens zij over u heeft. Zij hoeft geen gedetailleerd verslag te geven van alles wat zij deed. In deze zaak kreeg u geen snelle behandeling, omdat u niet liet zien waarom u niet op de gewone bezwaarprocedure kon wachten.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "laag"
+}

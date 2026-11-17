@@ -1,0 +1,41 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2020:1457",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "overig-civiel",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "bewoner", "wederpartij": "inspecteur van de Belastingdienst", "gemeente_is_partij": false},
+ "procesvorm": "beroep",
+ "intro": "Een bewoner kreeg naheffingen motorrijtuigenbelasting omdat zijn auto op een privéparkeerterrein bij zijn woning stond. Hij ging in beroep bij de rechtbank Zeeland-West-Brabant tegen de inspecteur van de Belastingdienst.",
+ "titel": "Privéparkeerterrein is geen openbare weg: naheffing motorrijtuigenbelasting vernietigd",
+ "kern": {"zin": "De rechter vond het parkeerterrein geen openbare weg, dus de naheffingen werden vernietigd.", "bron": [42], "citaat": "niet als weg in de zin van artikel 5 Wet MRB moet worden aangemerkt"},
+ "samenvatting": [
+  {"zin": "De inspecteur zag het parkeren op het terrein bij het woonadres als schending van de schorsingsvoorwaarden.", "bron": [31], "citaat": "De inspecteur heeft dit aangemerkt als een schending van de schorsingsvoorwaarden"},
+  {"zin": "De bewoner stelde dat het parkeerterrein geen openbare weg is, maar gewoon privéterrein.", "bron": [35], "citaat": "Belanghebbende stelt dat het parkeerterrein geen onderdeel is van de openbare weg, maar een privéterrein."},
+  {"zin": "De inspecteur zei dat er toch een openbare weg was, omdat niet was gebleken van belemmeringen voor vrije toegang.", "bron": [35], "citaat": "niet gebleken is dat er belemmeringen zijn waaruit zou volgen"},
+  {"zin": "De rechter oordeelde dat de inspecteur niet liet zien dat het terrein open stond voor openbaar verkeer.", "bron": [41], "citaat": "De rechtbank is van oordeel dat de inspecteur niet aannemelijk maakt dat het parkeerterrein voor het openbaar rijverkeer openstaat"},
+  {"zin": "De rechter vernietigde de naheffingsaanslagen.", "bron": [23], "citaat": "vernietigt de naheffingsaanslagen"}
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Beroepen gegrond; naheffingen en boete vernietigd",
+ "gevolg_betrokkene": {"zin": "De bewoner krijgt twee keer 47 euro griffierecht terug van de inspecteur.", "bron": [25], "citaat": "de door belanghebbende betaalde griffierechten van € 47"},
+ "steunt": null,
+ "bezwaargronden": [
+  {"arg": "overig", "burger_zegt": "Het terrein is privé en staat niet open voor het openbaar verkeer, dus geen weg in de zin van de Wet MRB.", "oordeel": "gehonoreerd", "waarom": {"zin": "De rechter vond het terrein niet als weg aan te merken en dus vervielen de naheffingen.", "bron": [42], "citaat": "niet als weg in de zin van artikel 5 Wet MRB moet worden aangemerkt"}, "bruikbare_zin": {"citaat": "De inspecteur heeft geen verdere feiten en omstandigheden aangevoerd die tot het oordeel kunnen leiden dat het terrein voor het openbaar rijverkeer openstaat.", "bron": [41]}}
+ ],
+ "rechtsregel": {"zin": "Bij een privéterrein is beslissend of het feitelijk voor het openbaar verkeer openstaat, bijvoorbeeld doordat de eigenaar gebruik duldt.", "type": "regel", "reikwijdte": "privéterreinen waarvan wordt beweerd dat het een weg in de zin van de Wet MRB is", "uitzondering": null, "herkomst": "vaste lijn HR-RvS", "bron": [40], "citaat": "is beslissend of het terrein feitelijk voor het openbaar rijverkeer openstaat"},
+ "bewijs": {"bewijslast_bij": "wederpartij", "bewijsmiddelen": ["foto's van het terrein", "voorschriften over het gebruik van het terrein", "bebording"], "wat_gaf_doorslag": "De inspecteur maakte niet aannemelijk dat het terrein voor openbaar verkeer openstaat."},
+ "toepasselijkheid": "landelijk",
+ "lijn": {"soort": "bevestigt", "eerdere": ["ECLI:NL:HR:2007:BA4801"]},
+ "wetsartikelen": ["art. 5 Wet MRB", "art. 35 Wet op de motorrijtuigenbelasting 1994"],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": ["bezwaar"],
+ "klantuitleg": "Staat uw auto op een privéterrein? Dan is dat in de regel geen openbare weg, en dan kan een naheffing motorrijtuigenbelasting vervallen. Of het terrein open staat voor het openbaar verkeer hangt af van de feiten, zoals een afscheiding, borden en of de eigenaar gebruik duldt.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente; zaak over een rijksbelasting",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

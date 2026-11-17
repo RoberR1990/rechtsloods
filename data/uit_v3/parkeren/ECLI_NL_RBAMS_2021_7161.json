@@ -1,0 +1,138 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2021:7161",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam (heffingsambtenaar)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg in Amsterdam een naheffing, omdat zij in de verkeerde zone was aangemeld. Zij procedeerde tegen de heffingsambtenaar van de gemeente Amsterdam bij de rechtbank Amsterdam, om vergoeding van de proceskosten.",
+ "titel": "Amsterdam: betaald in verkeerde zone, proceskosten voor parkeerder toegekend",
+ "kern": {
+  "zin": "De rechter oordeelde dat de gemeente de betaling eerder had moeten controleren, dus de proceskosten moeten worden vergoed.",
+  "bron": [
+   19
+  ],
+  "citaat": "was het onzorgvuldig om dit niet te raadplegen alvorens de aanslag op te leggen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde een naheffing op, omdat de parkeerder geen parkeergeld zou hebben betaald.",
+   "bron": [
+    16
+   ],
+   "citaat": "had aan [eiseres] een naheffingsaanslag opgelegd, omdat [eiseres] parkeerde zonder parkeergeld te betalen"
+  },
+  {
+   "zin": "Later bleek dat zij wel had betaald, en de gemeente vernietigde de aanslag na bezwaar.",
+   "bron": [
+    16
+   ],
+   "citaat": "omdat gebleken was dat [eiseres] toch voldoende parkeergeld had betaald"
+  },
+  {
+   "zin": "De parkeerder vond dat de gemeente zorgvuldiger had moeten zijn en daarom de proceskosten moest vergoeden.",
+   "bron": [
+    17
+   ],
+   "citaat": "had de heffingsambtenaar al voor het opleggen van de naheffingsaanslag gezien"
+  },
+  {
+   "zin": "De gemeente vond dat de fout bij de parkeerder lag, door de verkeerde aanmelding.",
+   "bron": [
+    18
+   ],
+   "citaat": "het opleggen van de naheffingsaanslag het gevolg is van een onjuiste aanmelding door [eiseres]"
+  },
+  {
+   "zin": "De rechter vond het onzorgvuldig dat de gemeente de betaling niet had geraadpleegd voordat zij de aanslag oplegde.",
+   "bron": [
+    19
+   ],
+   "citaat": "was het onzorgvuldig om dit niet te raadplegen alvorens de aanslag op te leggen"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Naheffing al vernietigd; alleen proceskosten voor de parkeerder.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt de proceskosten van bezwaar en beroep en het griffierecht van 49 euro terug van de gemeente.",
+  "bron": [
+   21,
+   28
+  ],
+  "citaat": "de heffingsambtenaar de proceskosten van [eiseres] in bezwaar én beroep moet vergoeden"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Ik had wel betaald, maar in de verkeerde zone; de gemeente had dat moeten zien.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond het onzorgvuldig dat de gemeente het systeem niet raadpleegde voordat zij de aanslag oplegde.",
+    "bron": [
+     19
+    ],
+    "citaat": "was het onzorgvuldig om dit niet te raadplegen alvorens de aanslag op te leggen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het raadplegen van het systeem is ook niet zo tijdsintensief, dat dit niet van de heffingsambtenaar mag worden verwacht",
+    "bron": [
+     19
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Zit de betaling al in het systeem, dan moet de gemeente dat controleren voordat zij een naheffing oplegt.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "deze zaak: de betaling was in het systeem zichtbaar en de zone was verkeerd",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "over informatie beschikte of redelijkerwijs kon beschikken waaruit volgt dat [eiseres] parkeerbelasting had voldaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring van de gemachtigde van de heffingsambtenaar ter zitting",
+   "informatie in het systeem over de betaling"
+  ],
+  "wat_gaf_doorslag": "De gemachtigde gaf ter zitting toe dat de betaling in het systeem zichtbaar was."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Raadpleeg de betaalgegevens in het systeem voordat u een naheffing oplegt, zeker bij een verkeerde zone.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    19
+   ],
+   "citaat": "was het onzorgvuldig om dit niet te raadplegen alvorens de aanslag op te leggen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u wel had betaald, maar in de verkeerde zone, kan de gemeente de naheffing vernietigen. In deze zaak vond de rechter dat de gemeente de betaling had moeten zien voordat zij de naheffing oplegde. Heeft u dat ook, dan helpt het om de betaling te laten zien; of u kosten terugkrijgt, hangt af van de beoordeling door de gemeente en de rechter.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

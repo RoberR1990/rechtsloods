@@ -1,0 +1,137 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2026:664",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Almere",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffingsaanslag (de rekening achteraf), omdat er op dat moment niets was betaald. Zij ging tegen de gemeente Almere in beroep bij de rechtbank Midden-Nederland en beriep zich daarbij op overmacht (een noodsituatie waardoor zij niet kon betalen).",
+ "titel": "Spoedgeval op het werk ontsloeg de parkeerder niet van betalen",
+ "kern": {
+  "zin": "De rechter vindt dat het spoedgeval geen overmacht was, dus de naheffing blijft staan.",
+  "bron": [
+   25
+  ],
+  "citaat": "De omstandigheden die eiseres daarover heeft aangevoerd, vallen daar naar het oordeel van de rechtbank niet onder"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente zette een naheffing op de auto, omdat er voor het parkeren in Almere niets was betaald.",
+   "bron": [
+    20
+   ],
+   "citaat": "stond geparkeerd zonder dat de verschuldigde parkeerbelasting was betaald"
+  },
+  {
+   "zin": "De parkeerder beroept zich op een spoedgeval op haar werk, waardoor zij haar parkeerapp niet aanzette.",
+   "bron": [
+    23
+   ],
+   "citaat": "Hierdoor is eiseres vergeten haar parkeerapp aan te zetten"
+  },
+  {
+   "zin": "De gemeente vindt dat een ambulance dan logischer was geweest.",
+   "bron": [
+    24
+   ],
+   "citaat": "Daarnaast zou het logisch zijn om medische hulp van bijvoorbeeld een ambulance in te schakelen"
+  },
+  {
+   "zin": "Alleen een situatie waarin iemand echt niet kan betalen telt als overmacht, en dat zag de rechter hier niet.",
+   "bron": [
+    25
+   ],
+   "citaat": "waardoor iemand absoluut, feitelijk en fysiek, verhinderd is om de volgens de wet verschuldigde belasting te betalen"
+  },
+  {
+   "zin": "De rechter vond dat de parkeerder de app gewoon had kunnen gebruiken.",
+   "bron": [
+    25
+   ],
+   "citaat": "eiseres had voldoende mogelijkheid om bijvoorbeeld een parkeerapp te gebruiken"
+  },
+  {
+   "zin": "De naheffing blijft daardoor overeind, en de parkeerder krijgt geen griffierecht of proceskosten terug.",
+   "bron": [
+    27
+   ],
+   "citaat": "Daarom blijft de uitspraak op bezwaar in stand"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing blijft staan en er is geen geld terug.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing betalen en krijgt geen griffierecht of proceskosten terug.",
+  "bron": [
+   27
+  ],
+  "citaat": "Eiser krijgt geen vergoeding van het griffierecht en de proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overmacht-medisch",
+   "burger_zegt": "Zij zegt dat er een spoedgeval was en dat zij daardoor haar parkeerapp niet heeft aangezet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de aangevoerde omstandigheden niet onder overmacht vallen.",
+    "bron": [
+     25
+    ],
+    "citaat": "De omstandigheden die eiseres daarover heeft aangevoerd, vallen daar naar het oordeel van de rechtbank niet onder"
+   },
+   "bruikbare_zin": {
+    "citaat": "eiseres had voldoende mogelijkheid om bijvoorbeeld een parkeerapp te gebruiken",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een beroep op overmacht slaagt pas bij een echte, lichamelijke onmogelijkheid om te betalen.",
+  "type": "regel",
+  "reikwijdte": "parkeerbelasting bij persoonlijke omstandigheden die betalen onmogelijk maken",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "waardoor iemand absoluut, feitelijk en fysiek, verhinderd is om de volgens de wet verschuldigde belasting te betalen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring van de parkeerder over het spoedgeval"
+  ],
+  "wat_gaf_doorslag": "De rechter oordeelde dat de aangevoerde omstandigheden niet onder overmacht vallen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 1 Gemeentewet",
+  "parkeerverordening Almere"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente wint op bestaand beleid; geen nieuwe actie uit deze uitspraak",
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een spoedgeval of een vergeten parkeerapp maakt de parkeerrekening in deze zaak niet ongedaan. Alleen als u echt niet kon betalen, bijvoorbeeld bij een echte noodsituatie, telt dat als overmacht. Wilt u dat aanvoeren, dan helpt bewijs dat u op dat moment echt niet kon betalen.",
+ "gemeente": "Almere",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

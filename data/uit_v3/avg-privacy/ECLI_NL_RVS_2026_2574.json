@@ -1,0 +1,171 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:2574",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "gelakt",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "jachtaktehouder",
+  "wederpartij": "korpschef van politie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Twee jagers vroegen de korpschef van politie om inzage in hun persoonsgegevens uit de e-screener, een verplichte digitale vragenlijst bij de verlenging van hun jachtakte. De korpschef gaf maar een deel, en de Raad van State moest oordelen of dat genoeg was.",
+ "titel": "Politie moet alle antwoorden uit de vragenlijst geven",
+ "kern": {
+  "zin": "De korpschef van politie is verwerkingsverantwoordelijke voor de e-screener en moet volledige inzage geven in de antwoorden en de weging daarvan.",
+  "bron": [
+   39
+  ],
+  "citaat": "de korpschef niet op juiste wijze aan de inzageverzoeken heeft voldaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "Twee jagers vroegen de korpschef van politie om inzage in hun gegevens die zijn verwerkt in de e-screener bij de verlenging van hun jachtakte.",
+   "bron": [
+    25
+   ],
+   "citaat": "verzocht om inzage in de persoonsgegevens die over hen zijn verwerkt in het kader van de e-screener"
+  },
+  {
+   "zin": "Zij vonden dat de korpschef verwerkingsverantwoordelijke is voor alle gegevens in de e-screener, dus ook voor de antwoorden en de weging.",
+   "bron": [
+    28
+   ],
+   "citaat": "betogen dat de rechtbank ten onrechte heeft geoordeeld dat de korpschef geen verwerkingsverantwoordelijke"
+  },
+  {
+   "zin": "De korpschef stelde dat de minister verwerkingsverantwoordelijke is voor de antwoorden en de weging, en dat hij zelf niet over die gegevens beschikt.",
+   "bron": [
+    31
+   ],
+   "citaat": "de minister de verwerkingsverantwoordelijke is voor de verwerking van de antwoorden op de gestelde vragen in de e-screener"
+  },
+  {
+   "zin": "De Raad van State oordeelde dat de korpschef en de minister allebei verwerkingsverantwoordelijke zijn en dat de korpschef een nieuw besluit moet nemen.",
+   "bron": [
+    38
+   ],
+   "citaat": "de korpschef en de minister allebei als zelfstandig verwerkingsverantwoordelijke in de zin van artikel 4"
+  },
+  {
+   "zin": "De korpschef moet het verzoek om inzage in de antwoorden en de weging van de e-screener inhoudelijk beoordelen.",
+   "bron": [
+    46
+   ],
+   "citaat": "het verzoek om inzage in de antwoorden van [appellant sub 1A] en [appellant sub 1B]"
+  },
+  {
+   "zin": "Ook moet hij ingaan op de vraag of sprake is van automatische besluitvorming en profilering.",
+   "bron": [
+    46
+   ],
+   "citaat": "moet de korpschef ingaan op de vraag of sprake is van automatische besluitvorming"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Hoger beroep gegrond; korpschef moet volledige inzage geven en nieuwe besluiten nemen.",
+ "gevolg_betrokkene": {
+  "zin": "De korpschef moet alsnog inhoudelijk beslissen op het inzageverzoek en de proceskosten (€ 3.736 en € 666) en het griffierecht (€ 635) vergoeden.",
+  "bron": [
+   46,
+   56,
+   57,
+   58
+  ],
+  "citaat": "De korpschef moet een nieuw besluit nemen op de bezwaren van [appellant sub 1A] en [appellant sub 1B]."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Ik heb alleen het klantnummer en de uitslag gekregen, niet de antwoorden op de vragen en de weging daarvan.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De korpschef had niet alleen de uitslag mogen geven; hij had ook inzage moeten geven in de antwoorden en de weging.",
+    "bron": [
+     39
+    ],
+    "citaat": "de korpschef alleen inzage heeft gegeven in de uitslag van de e-screener en geen informatie heeft gegeven"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet op juiste wijze aan de inzageverzoeken heeft voldaan",
+    "bron": [
+     39
+    ]
+   }
+  },
+  {
+   "arg": "algoritme-niet-uitlegbaar",
+   "burger_zegt": "De korpschef is niet ingegaan op mijn verzoek om informatie over profilering en automatische besluitvorming.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De korpschef had moeten ingaan op de vraag of sprake is van automatische besluitvorming en profilering.",
+    "bron": [
+     46
+    ],
+    "citaat": "de korpschef ingaan op de vraag of sprake is van automatische besluitvorming en de mate waarin sprake is van profilering"
+   },
+   "bruikbare_zin": {
+    "citaat": "ingaan op de vraag of sprake is van automatische besluitvorming",
+    "bron": [
+     46
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als een overheidsinstantie een wettelijke taak heeft en feitelijk toegang heeft tot de gegevens, is zij verwerkingsverantwoordelijke.",
+  "type": "regel",
+  "reikwijdte": "Ook kunnen twee overheidsinstanties allebei zelfstandig verwerkingsverantwoordelijke zijn, zodat de burger bij beide zijn rechten kan uitoefenen.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   36,
+   38
+  ],
+  "citaat": "de korpschef ook de mogelijkheid heeft om toegang te krijgen tot de ingevulde antwoorden van de e-screener van een betrokkene"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van de korpschef ter zitting",
+   "het participanten-ID (sleutel)"
+  ],
+  "wat_gaf_doorslag": "De korpschef verklaarde op de zitting dat hij de sleutel heeft om de gegevens bij Ipsos op te vragen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:EU:C:2024:7",
+   "ECLI:EU:C:2024:214",
+   "ECLI:EU:C:2019:629",
+   "ECLI:NL:RBZWB:2023:4266"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 4 lid 7 AVG",
+  "art. 15 AVG",
+  "art. 15 lid 1 onder h AVG",
+  "art. 26 AVG",
+  "art. 3.28 Wet natuurbescherming",
+  "art. 27 Politiewet 2012",
+  "art. 6a Wet wapens en munitie",
+  "art. 8:113 lid 2 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "Gemeente is geen partij; de zaak gaat over de korpschef van politie en de specifieke actie over de e-screener geldt niet voor gemeenten.",
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Als u inzage vraagt in uw gegevens, moet de gemeente u alles geven wat zij over u gebruikt, ook als de gegevens via een ander systeem zijn gemaakt. De gemeente blijft verantwoordelijk als zij zelf toegang heeft tot die gegevens. U kunt zo'n verzoek bij verschillende organisaties doen; krijgt u niet alles, dan kunt u bezwaar maken.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente; de korpschef van politie is partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

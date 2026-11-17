@@ -1,0 +1,162 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2026:22096",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "algoritme-ai",
+ "kenmerk": null,
+ "zaaktype": "overig",
+ "partijen": {
+  "burger": "asielzoeker",
+  "wederpartij": "minister van Asiel en Migratie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "De rechtbank Den Haag, zittingsplaats Groningen, oordeelt over het beroep van een asielzoeker tegen de minister van Asiel en Migratie. De minister nam de asielaanvraag niet in behandeling; de asielzoeker vindt dat het besluit niet genoeg uitlegt of het systeem CaseMatcher AI is.",
+ "titel": "Asielbesluit vernietigd om onduidelijkheid over CaseMatcher",
+ "kern": {
+  "zin": "De rechtbank vernietigt het besluit wegens een motiveringsgebrek: de werking van CaseMatcher is niet inzichtelijk en daardoor niet goed te toetsen.",
+  "bron": [
+   52
+  ],
+  "citaat": "Daarmee is sprake van een motiveringsgebrek."
+ },
+ "samenvatting": [
+  {
+   "zin": "De asielzoeker vroeg een verblijfsvergunning asiel aan en de minister nam die aanvraag niet in behandeling.",
+   "bron": [
+    12
+   ],
+   "citaat": "De minister heeft deze aanvraag met het bestreden besluit van 22 april 2025 niet in behandeling genomen"
+  },
+  {
+   "zin": "De asielzoeker vindt dat het besluit onvoldoende transparant is.",
+   "bron": [
+    28
+   ],
+   "citaat": "de besluitvorming onvoldoende transparant, inzichtelijk en controleerbaar is."
+  },
+  {
+   "zin": "De minister zegt dat in deze zaak geen gebruik is gemaakt van CaseMatcher.",
+   "bron": [
+    33
+   ],
+   "citaat": "in de onderhavige zaak geen gebruik is gemaakt van CaseMatcher."
+  },
+  {
+   "zin": "Volgens de minister is CaseMatcher geen AI-systeem.",
+   "bron": [
+    34
+   ],
+   "citaat": "maar dat het geen AI-systeem is."
+  },
+  {
+   "zin": "De rechtbank vindt dat de minister zijn stelling dat CaseMatcher niet is gebruikt niet met stukken heeft onderbouwd.",
+   "bron": [
+    48
+   ],
+   "citaat": "de minister zijn stelling dat geen gebruik is gemaakt van CaseMatcher niet nader heeft onderbouwd"
+  },
+  {
+   "zin": "De rechtbank vernietigt het bestreden besluit.",
+   "bron": [
+    56
+   ],
+   "citaat": "De rechtbank vernietigt het bestreden besluit"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Het besluit wordt vernietigd; de minister moet opnieuw op de aanvraag beslissen.",
+ "gevolg_betrokkene": {
+  "zin": "De asielzoeker krijgt binnen zes weken een nieuwe beslissing op zijn aanvraag en de minister moet € 2.802,- aan proceskosten betalen.",
+  "bron": [
+   56,
+   57
+  ],
+  "citaat": "De rechtbank geeft de minister een termijn van zes weken om opnieuw op de aanvraag te beslissen."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "algoritme-niet-uitlegbaar",
+   "burger_zegt": "Het systeem CaseMatcher is niet genoeg uit te leggen of te controleren.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank kan de werking van CaseMatcher niet toetsen, omdat de minister geen inzicht geeft in het algoritme.",
+    "bron": [
+     52
+    ],
+    "citaat": "waardoor de werking van CaseMatcher en het gebruik van het algoritme in de besluitvorming niet in rechte kan worden getoetst"
+   },
+   "bruikbare_zin": {
+    "citaat": "waardoor de werking van CaseMatcher en het gebruik van het algoritme in de besluitvorming niet in rechte kan worden getoetst",
+    "bron": [
+     52
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er is geen regeling voor het gebruik van CaseMatcher of AI door de minister.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechtbank komt niet toe aan de andere beroepsgronden.",
+    "bron": [
+     53
+    ],
+    "citaat": "De rechtbank komt daarom niet toe aan de bespreking van de overige beroepsgronden."
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank komt daarom niet toe aan de bespreking van de overige beroepsgronden.",
+    "bron": [
+     53
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de rechter om inzicht in documenten vraagt, moet de overheid daar open over zijn; anders kan het besluit niet goed worden getoetst.",
+  "type": "regel",
+  "reikwijdte": "Als de rechter om inzicht vraagt in documenten, vooral in asielzaken.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   52
+  ],
+  "citaat": "de minister daar transparant in moet zijn."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "drie expertrapporten",
+   "verklaringen van een technisch expert",
+   "screenshots van een e-learning"
+  ],
+  "wat_gaf_doorslag": "De minister onderbouwde met geen stukken dat CaseMatcher niet is gebruikt."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 3:2 Awb",
+  "art. 3:46 Awb",
+  "art. 8:80a Awb",
+  "art. 8:51a Awb",
+  "art. 18 Dublinverordening"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "datateam-algoritmes",
+  "ict-informatiebeveiliging",
+  "communicatie"
+ ],
+ "klantuitleg": "De rechter zegt: als de overheid een computerprogramma gebruikt bij een besluit, moet zij kunnen uitleggen hoe dat programma werkt. Kan zij dat niet, dan kun je het besluit niet goed controleren en moet het opnieuw. Voor u betekent dit: vraag om uitleg over het systeem; geeft de overheid die niet, dan is dat een punt voor bezwaar.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente; de minister van Asiel en Migratie is partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

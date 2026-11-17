@@ -1,0 +1,165 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2024:3763",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing van € 75,40 in Amsterdam. Hij ging in beroep tegen de gemeente Amsterdam bij de rechtbank Amsterdam.",
+ "titel": "Naheffing vernietigd: automaten waren te ver weg",
+ "kern": {
+  "zin": "De rechter vindt de naheffing niet terecht, omdat de gemeente niet voldoende had gemaakt dat er betaald moest worden.",
+  "bron": [
+   21,
+   28
+  ],
+  "citaat": "dat verweerder niet voldoende aan zijn informatieplicht heeft voldaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde een naheffing (de rekening achteraf) van € 75,40 op.",
+   "bron": [
+    15
+   ],
+   "citaat": "is aan eiseres de naheffingsaanslag van € 75,40 opgelegd"
+  },
+  {
+   "zin": "De parkeerder vond dat er geen bord was dat betalen aangaf en geen automaat in de buurt.",
+   "bron": [
+    17
+   ],
+   "citaat": "er staat geen enkele betaalautomaat in de buurt volgens eiseres"
+  },
+  {
+   "zin": "De gemeente vond dat er genoeg automaten in de buurt waren.",
+   "bron": [
+    16
+   ],
+   "citaat": "Ook zijn er volgens verweerder genoeg parkeerautomaten in de buurt"
+  },
+  {
+   "zin": "De rechter zag dat de automaten aan die kant van de straat grotendeels niet te bereiken waren.",
+   "bron": [
+    21
+   ],
+   "citaat": "de parkeerautomaten die wel aan dezelfde kant van de straat staan grotendeels niet te bereiken zijn"
+  },
+  {
+   "zin": "De rechter oordeelde dat de gemeente haar informatieplicht niet goed had nagekomen.",
+   "bron": [
+    21
+   ],
+   "citaat": "dat verweerder niet voldoende aan zijn informatieplicht heeft voldaan"
+  },
+  {
+   "zin": "De rechter herriep de naheffing; de gemeente moet het griffierecht van € 50 vergoeden.",
+   "bron": [
+    28,
+    23
+   ],
+   "citaat": "herroept de naheffingsaanslag en bepaalt dat deze uitspraak in de plaats treedt"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing herroepen; griffierecht terug; geen proceskosten",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft de naheffing van € 75,40 niet te betalen.",
+  "bron": [
+   28
+  ],
+  "citaat": "herroept de naheffingsaanslag en bepaalt dat deze uitspraak in de plaats treedt"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Het bord zei gratis en niet dat er betaald moest worden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag dat het woord gratis niet op het bord stond en de parkeerder gaf dat toe.",
+    "bron": [
+     18
+    ],
+    "citaat": "Eiseres geeft toe dat zij dat niet goed heeft gelezen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Eiseres geeft toe dat zij dat niet goed heeft gelezen",
+    "bron": [
+     18
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er was geen betaalautomaat in de buurt die bereikbaar was.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond de automaten aan die kant van de straat niet bereikbaar.",
+    "bron": [
+     21
+    ],
+    "citaat": "de parkeerautomaten die wel aan dezelfde kant van de straat staan grotendeels niet te bereiken zijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "de parkeerautomaten die wel aan dezelfde kant van de straat staan grotendeels niet te bereiken zijn",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente moet ter plaatse duidelijk maken dat er parkeerbelasting verschuldigd is.",
+  "type": "regel",
+  "reikwijdte": "Naheffingen voor parkeerbelasting in Amsterdam",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "de plicht om ter plaatse kenbaar te maken dat parkeerbelasting verschuldigd is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "stratenregister",
+   "Google Maps",
+   "kaartje van de gemeente"
+  ],
+  "wat_gaf_doorslag": "De eerstvolgende automaat aan de eigen kant was ver weg en niet te zien."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer of de automaten bij een zone bereikbaar zijn voordat u een naheffing oplegt.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    21
+   ],
+   "citaat": "de parkeerautomaten die wel aan dezelfde kant van de straat staan grotendeels niet te bereiken zijn"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "bebording-verkeersbesluit",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "De rekening voor het parkeren is terecht als er echt niet betaald is en de gemeente duidelijk heeft gemaakt dat betalen moest. In deze zaak was de automaat te ver weg, dus de rekening is weggehaald. Wilt u bezwaar maken, leg dan vast wat er op het bord stond en waar de dichtstbijzijnde automaat was.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

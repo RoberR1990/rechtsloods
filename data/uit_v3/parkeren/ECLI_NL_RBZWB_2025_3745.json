@@ -1,0 +1,126 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:3745",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeert bij de rechtbank Zeeland-West-Brabant tegen de gemeente Breda over een naheffing (de rekening achteraf) voor parkeerbelasting. Het gaat om een betaling via een parkeerapp die een verkeerde zone koos.",
+ "titel": "Verkeerde zone via app: rekening voor parkeren blijft",
+ "kern": {
+  "zin": "De rechter oordeelde dat de fout in de zone bij de parkeerder ligt.",
+  "bron": [
+   25
+  ],
+  "citaat": "ontslaat de parkeerder niet van zijn onderzoeksplicht"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 16 oktober 2024 zag een scanauto in Breda dat er geen parkeerbelasting was betaald.",
+   "bron": [
+    15
+   ],
+   "citaat": "geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zegt via een app te hebben betaald, maar de app koos automatisch een andere zone.",
+   "bron": [
+    21
+   ],
+   "citaat": "De app vult hierbij automatisch de parkeerzone in"
+  },
+  {
+   "zin": "De gemeente wijst erop dat de andere zone een lager tarief heeft, dus er is niet volledig betaald.",
+   "bron": [
+    22
+   ],
+   "citaat": "Bovendien geldt in parkeerzone 21888 een lager parkeertarief"
+  },
+  {
+   "zin": "De rechter vindt dat de parkeerder zelf moet nagaan of de juiste zone is gekozen.",
+   "bron": [
+    25
+   ],
+   "citaat": "Volgens vaste rechtspraak wordt van een parkeerder verwacht dat hij controleert of de verschuldigde parkeerbelasting is voldaan"
+  },
+  {
+   "zin": "De aanslag houdt stand, en het griffierecht wordt niet teruggegeven.",
+   "bron": [
+    27
+   ],
+   "citaat": "Dit betekent dat de naheffingsaanslag parkeerbelasting terecht is opgelegd en gehandhaafd blijft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; aanslag blijft, geen griffierecht of kosten terug.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder houdt de aanslag van 63,15 euro, en geen griffierecht of kosten komen terug.",
+  "bron": [
+   27,
+   16
+  ],
+  "citaat": "Dit betekent dat de naheffingsaanslag parkeerbelasting terecht is opgelegd en gehandhaafd blijft"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "De parkeerder heeft via de parkeerapp betaald, en de app vulde automatisch de verkeerde zone in.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat de onderzoeksplicht bij de parkeerder blijft, ook bij een app.",
+    "bron": [
+     25
+    ],
+    "citaat": "ontslaat de parkeerder niet van zijn onderzoeksplicht"
+   },
+   "bruikbare_zin": {
+    "citaat": "Bij gebruik van een app behoort het tot de verantwoordelijkheid van een parkeerder om de juiste zone te selecteren",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie via een app betaalt, moet zelf nagaan of de zone klopt, ook als de app die al invult.",
+  "type": "regel",
+  "reikwijdte": "parkeren met een app die de zone automatisch invult",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "ontslaat de parkeerder niet van zijn onderzoeksplicht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter ziet geen fout bij de gemeente; geen actie nodig",
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "betaalapp"
+ ],
+ "klantuitleg": "De rechter vond dat u zelf moet controleren of de juiste zone is gekozen, ook als uw app die al invult. Daardoor blijft de rekening voor het parkeren staan, en het griffierecht krijgt u niet terug. Bij een verkeerde zone via de app heeft bezwaar weinig kans, tenzij de gemeente zelf een fout maakte.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

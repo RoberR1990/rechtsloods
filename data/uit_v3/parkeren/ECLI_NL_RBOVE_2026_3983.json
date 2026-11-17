@@ -1,0 +1,149 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2026:3983",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Zwolle",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Zwolle een naheffingsaanslag (de rekening achteraf) van 80 euro. Hij ging in beroep bij de rechtbank Overijssel, omdat hij volgens zijn zeggen na het eerste uur niet opnieuw hoefde te betalen.",
+ "titel": "Niet opnieuw betaald na het uur: rekening blijft staan",
+ "kern": {
+  "zin": "De rechter vindt de rekening terecht, omdat de parkeerder wist dat hij na de betaalde tijd opnieuw moest betalen.",
+  "bron": [
+   31
+  ],
+  "citaat": "opnieuw parkeerbelasting moest voldoen krachtens informatie op de betreffende parkeerautomaat"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controleur stelde vast dat er op 17 november 2024 geen geldig parkeerrecht meer gold voor de auto.",
+   "bron": [
+    17
+   ],
+   "citaat": "is geconstateerd dat voor de auto op dat tijdstip niet langer een geldig parkeerrecht bestond"
+  },
+  {
+   "zin": "Volgens de parkeerder hoefde hij na het eerste uur niet opnieuw te betalen.",
+   "bron": [
+    23
+   ],
+   "citaat": "niet gehouden om ook in de periode na afloop van het eerste uur"
+  },
+  {
+   "zin": "Volgens de gemeente is de korte betaaltijd bedoeld om auto’s uit de binnenstad te weren.",
+   "bron": [
+    32
+   ],
+   "citaat": "om auto’s te weren uit de binnenstad"
+  },
+  {
+   "zin": "Volgens de rechter moest de parkeerder na het verstrijken van de betaaltijd opnieuw betalen.",
+   "bron": [
+    34
+   ],
+   "citaat": "Na het verstrijken van een gemaximeerde parkeerbetaaltermijn"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de rekening van 80 euro blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening van 80 euro blijft staan, en de parkeerder krijgt het griffierecht niet terug.",
+  "bron": [
+   39
+  ],
+  "citaat": "krijgt daarom het griffierecht niet terug en evenmin een vergoeding van proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "De borden, de automaat en de app zeiden niet duidelijk dat de betaaltijd na één uur eindigt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt de informatie op de automaat helder en begrijpelijk.",
+    "bron": [
+     33
+    ],
+    "citaat": "De informatie is helder en begrijpelijk"
+   },
+   "bruikbare_zin": {
+    "citaat": "Die informatie staat kort en bondig (en volledig) op de parkeerautomaat",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De Verordening maakt de parkeerduur in de praktijk maximaal, dus hoefde hij na het uur niet opnieuw te betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter was na het uur hooguit een vervolgaangifte nodig.",
+    "bron": [
+     35
+    ],
+    "citaat": "maar eventueel en hooguit slechts gehouden tot een vervolgaangifte"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat het parkeersysteem gemaximeerde betaaltijdvakken kent",
+    "bron": [
+     35
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Na een nieuwe betaling begint een nieuwe parkeertijd, ook als de auto niet is verplaatst.",
+  "type": "regel",
+  "reikwijdte": "parkeerzones met een maximale betaaltijd van één of twee uur",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   34
+  ],
+  "citaat": "Na een hernieuwde betaling vangt een nieuwe parkeerduur aan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 Gemeentewet",
+  "art. 234 Gemeentewet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Houd de informatie op de parkeerautomaat over de betaaltijd kort en volledig, zoals die nu is.",
+   "raakt": "betaalapp",
+   "bron": [
+    33
+   ],
+   "citaat": "Die informatie staat kort en bondig (en volledig) op de parkeerautomaat"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "tarief-naheffing",
+  "betaalapp"
+ ],
+ "klantuitleg": "Staat op de automaat dat u na de betaalde tijd opnieuw moet betalen, dan is de rekening terecht als u dat niet doet. Het maakt daarbij niet uit of u dat wist. Denkt u dat de informatie niet klopte, maak dan een foto van het bord of de automaat en vraag de gemeente om een toelichting.",
+ "gemeente": "Zwolle",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

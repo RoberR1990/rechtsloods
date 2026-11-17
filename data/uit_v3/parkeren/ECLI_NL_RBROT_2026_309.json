@@ -1,0 +1,146 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2026:309",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (vaste berijder van een leasewagen)",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een vaste berijder van een leasewagen, de parkeerder, vocht bij de rechtbank Rotterdam een naheffing (de rekening achteraf) van de gemeente Rotterdam aan. Het ging om een auto met een bezoekersvergunning die niet goed was aangemeld.",
+ "titel": "Bezoekersvergunning niet goed aangemeld: rekening blijft staan",
+ "kern": {
+  "zin": "De rechter legde de fout bij het aanmelden bij de parkeerder zelf.",
+  "bron": [
+   25
+  ],
+  "citaat": "Fouten bij het aan- of afmelden blijven volgens de aan de vergunning gestelde voorwaarden voor rekening van eiseres"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controle op 9 januari 2024 wees uit dat er in Rotterdam niet was betaald.",
+   "bron": [
+    15
+   ],
+   "citaat": "Op 9 januari 2024 om 20:34 uur heeft een parkeercontroleur geconstateerd dat"
+  },
+  {
+   "zin": "Volgens de parkeerder had zij wel een vergunning, maar die was niet goed aangemeld.",
+   "bron": [
+    22
+   ],
+   "citaat": "Eiseres beschikt over een bezoekersvergunning"
+  },
+  {
+   "zin": "De rechter zag geen betaling via de vergunning en ook niet op een andere manier.",
+   "bron": [
+    23
+   ],
+   "citaat": "Vast staat ook dat eiseres via de bezoekersvergunning niet bleek aangemeld"
+  },
+  {
+   "zin": "Een storing van de app was niet onderbouwd, dus die rekende de rechter niet mee.",
+   "bron": [
+    24
+   ],
+   "citaat": "Dat sprake was van een storing in of slecht functioneren van de bezoekersapp is door eiseres slechts geopperd"
+  },
+  {
+   "zin": "Voor de parkeerder houdt het op: de rekening blijft staan.",
+   "bron": [
+    29
+   ],
+   "citaat": "Dat betekent dat de naheffingsaanslag gehandhaafd blijft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; aanslag van 77,24 euro blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De aanslag van 77,24 euro, op naam van de leasemaatschappij, blijft staan, en de parkeerder krijgt het griffierecht niet terug.",
+  "bron": [
+   29,
+   16
+  ],
+  "citaat": "Eiseres krijgt daarom het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Zij had een bezoekersvergunning, maar meldde zich per abuis niet goed aan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter legde die fout bij de parkeerder zelf neer.",
+    "bron": [
+     25
+    ],
+    "citaat": "Fouten bij het aan- of afmelden blijven volgens de aan de vergunning gestelde voorwaarden voor rekening van eiseres"
+   },
+   "bruikbare_zin": {
+    "citaat": "Er moet dan op een andere wijze parkeerbelasting worden voldaan.",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De bezoekersapp van de gemeente werkt vaker niet goed, zo stelde zij.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag geen reden om van een storing uit te gaan, omdat dat niet was onderbouwd.",
+    "bron": [
+     24
+    ],
+    "citaat": "is op geen enkele wijze onderbouwd of aannemelijk gemaakt"
+   },
+   "bruikbare_zin": {
+    "citaat": "is op geen enkele wijze onderbouwd of aannemelijk gemaakt",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een vergunning helpt alleen als je op het moment van parkeren alle voorwaarden volgt.",
+  "type": "regel",
+  "reikwijdte": "parkeren met een bezoekers- of andere vergunning in betaald gebied",
+  "uitzondering": "acute noodsituatie waardoor betalen niet mogelijk was (persoonlijke omstandigheden spelen in beginsel geen rol)",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "Van parkeren met een vergunning is alleen sprake, als bij het parkeren wordt voldaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "onderbouwing van een storing in de bezoekersapp"
+  ],
+  "wat_gaf_doorslag": "De storing van de app was alleen geopperd en niet onderbouwd."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter ging niet uit van een storing van de bezoekersapp; geen actie uit deze uitspraak",
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "vergunningen"
+ ],
+ "klantuitleg": "Heeft u een bezoekersvergunning, dan moet u die zelf goed aanmelden, ook via de app. Doet u dat niet goed, dan geldt de vergunning niet en moet u op een andere manier parkeerbelasting betalen. Een storing van de app moet u zelf onderbouwen, anders telt die niet mee; bewaar daarom bewijs van uw aanmelding.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

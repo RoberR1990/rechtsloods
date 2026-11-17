@@ -1,0 +1,173 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2019:663",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner met bewonersvergunning",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bewoner met een bewonersvergunning kreeg van de gemeente Amsterdam een naheffing voor parkeerbelasting (de rekening achteraf). Zij ging in hoger beroep bij het gerechtshof Amsterdam.",
+ "titel": "Vergunning gold pas na kentekenwijziging; naheffing blijft staan",
+ "kern": {
+  "zin": "De rechter vond de naheffing terecht, omdat de vergunning bij de controle nog op het andere kenteken stond.",
+  "bron": [
+   71
+  ],
+  "citaat": "leidt tot het oordeel dat de naheffingsaanslag terecht is opgelegd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeercontroleur zag de auto geparkeerd staan zonder geldig parkeerrecht.",
+   "bron": [
+    26
+   ],
+   "citaat": "geen geldig parkeerrecht voor de auto stond geregistreerd"
+  },
+  {
+   "zin": "De bewoner zei dat zij de vergunning al had omgezet naar dit kenteken en dat de verwerking pas een dag later was gebeurd.",
+   "bron": [
+    69
+   ],
+   "citaat": "de vergunning reeds omgezet had van het kenteken"
+  },
+  {
+   "zin": "De gemeente betwistte dat en liet in een klantoverzicht zien dat de wijziging pas de dag erna was gedaan.",
+   "bron": [
+    69
+   ],
+   "citaat": "gezien de gemotiveerde betwisting door de heffingsambtenaar"
+  },
+  {
+   "zin": "De rechter geloofde de bewoner niet, ook niet haar beroep op een verklaring dat de vergunning drie maanden gold.",
+   "bron": [
+    70
+   ],
+   "citaat": "Belanghebbende was er van op de hoogte dat zij slechts recht had op een vergunning voor één voertuig"
+  },
+  {
+   "zin": "De rechter bevestigde de uitspraak van de rechtbank en kende geen kostenvergoeding toe.",
+   "bron": [
+    77
+   ],
+   "citaat": "Het Hof bevestigt de uitspraak van de rechtbank"
+  },
+  {
+   "zin": "Wel hoefde de bewoner geen griffierecht te betalen voor het hoger beroep, omdat zij het niet kon betalen.",
+   "bron": [
+    65
+   ],
+   "citaat": "hetgeen meebrengt dat zij geen griffierecht hoeft te betalen voor de behandeling van haar hoger beroep"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; alleen vrijstelling van griffierecht in hoger beroep.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan en er is geen kostenvergoeding; de bewoner hoeft wel geen griffierecht te betalen voor het hoger beroep.",
+  "bron": [
+   71,
+   75,
+   65
+  ],
+  "citaat": "leidt tot het oordeel dat de naheffingsaanslag terecht is opgelegd"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Zij had de vergunning al omgezet naar het nieuwe kenteken, maar de gemeente verwerkte dat pas een dag later.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens het klantoverzicht stond de vergunning bij de controle nog op het andere kenteken.",
+    "bron": [
+     69
+    ],
+    "citaat": "gekoppeld was aan het kenteken"
+   },
+   "bruikbare_zin": {
+    "citaat": "was dientengevolge pas vanaf 15 juni 2016 om 12:05:19 geldig",
+    "bron": [
+     69
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Zij mocht erop vertrouwen dat de vergunning nog geldig was voor het kenteken, omdat zij een verklaring kreeg dat die drie maanden gold.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Zij wist dat zij maar recht had op een vergunning voor één voertuig, en had het kenteken vaker gewisseld.",
+    "bron": [
+     70
+    ],
+    "citaat": "Belanghebbende was er van op de hoogte dat zij slechts recht had op een vergunning voor één voertuig"
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Zij kon het griffierecht niet betalen (betalingsonmacht).",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Zij maakte aannemelijk dat zij het griffierecht niet kon betalen, dus zij hoefde het niet te betalen.",
+    "bron": [
+     65
+    ],
+    "citaat": "terecht een beroep doet op betalingsonmacht"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een vergunning geldt voor een nieuw kenteken pas vanaf het moment waarop de wijziging in het systeem is verwerkt.",
+  "bron": [
+   69
+  ],
+  "citaat": "was dientengevolge pas vanaf 15 juni 2016 om 12:05:19 geldig",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Alleen deze zaak: vergunning waarvan het kenteken kort voor de controle was omgezet, volgens het klantoverzicht van de gemeente",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "klantoverzicht van de gemeente met tijden van kentekenwijziging"
+  ],
+  "wat_gaf_doorslag": "Het klantoverzicht liet zien dat de vergunning pas na de controle op het nieuwe kenteken stond."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2015:354"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:75 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar in het klantoverzicht het tijdstip van elke kentekenwijziging van een vergunning, zodat u dat bij bezwaar kunt laten zien.",
+   "raakt": "vergunningen",
+   "bron": [
+    69
+   ],
+   "citaat": "Uit het klantoverzicht van de heffingsambtenaar"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een bewonersvergunning geldt voor één kenteken tegelijk en voor een nieuw kenteken pas vanaf het moment dat de wijziging is verwerkt. Stond uw auto er eerder zonder geldige vergunning, dan is de naheffing terecht. Wijzigt u het kenteken, controleer dan eerst of de wijziging is verwerkt voordat u parkeert.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

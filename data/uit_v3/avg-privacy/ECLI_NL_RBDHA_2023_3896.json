@@ -1,0 +1,136 @@
+{
+ "ecli": "ECLI:NL:RBDHA:2023:3896",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "zoekslag",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger (kreeg brieven met code 1043)",
+  "wederpartij": "minister van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger vroeg de minister van Financiën (Belastingdienst) om inzage in zijn gegevens in de Fraude Signalering Voorziening (FSV). Hij vond dat er meer gegevens waren en ging in beroep bij de rechtbank Den Haag.",
+ "titel": "Burger moet aannemelijk maken dat er meer gegevens zijn dan getoond",
+ "kern": {
+  "zin": "De rechter geloofde de uitleg van de minister dat de burger in de latere jaren niet in de FSV stond, en verklaarde het beroep ongegrond.",
+  "bron": [
+   23
+  ],
+  "citaat": "De rechtbank acht deze verklaring van verweerder niet ongeloofwaardig"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg inzage in zijn gegevens in het FSV van de Belastingdienst.",
+   "bron": [
+    16
+   ],
+   "citaat": "Eiser heeft verzocht om inzage in zijn persoonsgegevens die in het systeem FSV van de Belastingdienst staan geregistreerd"
+  },
+  {
+   "zin": "De minister stelde vast dat de burger in 2011, 2013 en 2014 in het FSV stond en gaf inzage.",
+   "bron": [
+    18
+   ],
+   "citaat": "Verweerder heeft vastgesteld dat eiser in de jaren 2011, 2013 en 2014 in het FSV is geregistreerd"
+  },
+  {
+   "zin": "De burger zei dat hij ook in 2015 tot en met 2020 in het FSV stond.",
+   "bron": [
+    20
+   ],
+   "citaat": "Hij geeft aan dat hij ook in de jaren 2015 t/m 2020 in het FSV is geregistreerd"
+  },
+  {
+   "zin": "De minister zei dat code 1043 op de brieven niet betekent dat iemand in het FSV staat, maar dat de aangifte handmatig wordt bekeken.",
+   "bron": [
+    23
+   ],
+   "citaat": "niet betekent dat hij in het FSV is geregistreerd"
+  },
+  {
+   "zin": "De rechter vond dat de burger geen andere feiten had genoemd en dat zijn registratie in andere jaren niet genoeg was.",
+   "bron": [
+    23
+   ],
+   "citaat": "Het enkele feit dat hij in de jaren 2011, 2013 en 2014 wel in het FSV is geregistreerd, is hiervoor niet voldoende"
+  },
+  {
+   "zin": "Het beroep is ongegrond en de burger krijgt zijn kosten niet vergoed.",
+   "bron": [
+    24
+   ],
+   "citaat": "Het beroep is ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; geen extra inzage en geen kostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen extra inzage over 2015 tot en met 2020 en zijn kosten voor de procedure worden niet vergoed.",
+  "bron": [
+   24
+  ],
+  "citaat": "Verweerder hoeft de kosten die eiser heeft gemaakt voor deze procedure niet te vergoeden"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "De burger zegt dat hij ook in 2015 tot en met 2020 in het FSV stond en dat hij daarover inzage wil.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de uitleg over code 1043 niet ongeloofwaardig en de burger bracht geen verdere feiten naar voren.",
+    "bron": [
+     23
+    ],
+    "citaat": "Eiser heeft geen verdere feiten en omstandigheden aangedragen die, ondanks deze verklaring van verweerder, aannemelijk maken"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet ongeloofwaardig heeft medegedeeld dat er niet meer persoonsgegevens zijn",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de organisatie onderzoek heeft gedaan en niet ongeloofwaardig zegt dat er niet meer gegevens zijn, moet de burger aannemelijk maken dat die er wel zijn.",
+  "type": "regel",
+  "reikwijdte": "Inzageverzoeken waarbij de burger zegt dat er meer persoonsgegevens zijn dan getoond",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   22
+  ],
+  "citaat": "aannemelijk moet maken dat er wel meer persoonsgegevens zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "uitleg van de minister over code 1043",
+   "eerdere uitspraak van de rechtbank van 20 oktober 2022"
+  ],
+  "wat_gaf_doorslag": "De burger bracht geen verdere feiten naar voren naast zijn registratie in 2011, 2013 en 2014."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar",
+  "fraude-handhaving"
+ ],
+ "klantuitleg": "Denkt u dat een organisatie meer gegevens over u heeft dan zij laat zien? Dan moet u dat aannemelijk maken, nadat zij heeft gezocht en heeft uitgelegd dat er niet meer zijn. Een eerdere registratie of een code op een brief is daarvoor niet altijd genoeg; noem daarom concrete feiten in uw bezwaar.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente is geen partij",
+ "dubbel_van": null,
+ "zekerheid": "middel",
+ "schema": "v3"
+}

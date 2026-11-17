@@ -1,0 +1,159 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:5787",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "fraude-signalering",
+ "kenmerk": "fsv",
+ "zaaktype": "fraude-algoritme",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "minister van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De minister van Financiën vond dat een brief over een registratie in de FSV (fraudesysteem) geen besluit was. De burger ging in hoger beroep naar de Raad van State.",
+ "titel": "Brief over FSV-registratie is wel een besluit",
+ "kern": {
+  "zin": "De Raad van State beslist dat de afsluitende brief over de FSV een besluit is, dus de minister moet opnieuw op het bezwaar beslissen.",
+  "bron": [
+   27
+  ],
+  "citaat": "de afsluitende brief een besluit is in de zin van artikel 1:3"
+ },
+ "samenvatting": [
+  {
+   "zin": "De minister liet de burger in 2021 weten dat zijn gegevens in de FSV stonden.",
+   "bron": [
+    21
+   ],
+   "citaat": "bij brief van 27 mei 2021 laten weten dat zijn persoonsgegevens in de FSV stonden"
+  },
+  {
+   "zin": "Daarna kreeg hij een afsluitende brief: hij kwam niet in aanmerking voor een financiële tegemoetkoming.",
+   "bron": [
+    21
+   ],
+   "citaat": "via de zogenoemde afsluitende brief laten weten dat [appellant] niet in aanmerking komt voor een financiële tegemoetkoming"
+  },
+  {
+   "zin": "De minister verklaarde het bezwaar niet-ontvankelijk omdat de brief alleen informatie zou geven.",
+   "bron": [
+    21
+   ],
+   "citaat": "Volgens de minister is de afsluitende brief enkel informatief van aard en dus geen besluit"
+  },
+  {
+   "zin": "De rechtbank oordeelde dat de brief geen besluit is, zodat bezwaar niet mogelijk was.",
+   "bron": [
+    24
+   ],
+   "citaat": "Omdat de afsluitende brief geen besluit is, is het niet mogelijk daartegen bezwaar te maken."
+  },
+  {
+   "zin": "De Raad van State oordeelt anders: de brief is wel een besluit, dus de minister moet een nieuw besluit nemen.",
+   "bron": [
+    27
+   ],
+   "citaat": "De minister zal een nieuw besluit moeten nemen op het bezwaar van [appellant]."
+  },
+  {
+   "zin": "De Raad verklaart het hoger beroep gegrond en vernietigt de uitspraak van de rechtbank.",
+   "bron": [
+    30
+   ],
+   "citaat": "Het hoger beroep is gegrond. De Afdeling vernietigt de uitspraak van de rechtbank."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "De brief is een besluit; de minister moet opnieuw beslissen.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen vergoeding van proceskosten; de minister moet wel binnen twaalf weken opnieuw beslissen op het bezwaar en het dwangsomverzoek.",
+  "bron": [
+   32,
+   30
+  ],
+  "citaat": "Van proceskosten die voor vergoeding in aanmerking komen, is niet gebleken."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De afsluitende brief is wel een besluit, dus mijn bezwaar had behandeld moeten worden.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De Raad van State vindt dat de brief wel een besluit is, dus het bezwaar was ten onrechte niet-ontvankelijk.",
+    "bron": [
+     27
+    ],
+    "citaat": "Dit betoog slaagt. De Afdeling verwijst daarvoor naar haar uitspraak van 18 juni 2025"
+   },
+   "bruikbare_zin": {
+    "citaat": "de afsluitende brief een besluit is in de zin van artikel 1:3",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De minister besliste te laat, dus ik heb recht op een dwangsom.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De Raad beslist niet of er een dwangsom moet worden betaald; de minister moet daarop nog beslissen.",
+    "bron": [
+     28
+    ],
+    "citaat": "De minister zal ook nog moeten besluiten op het verzoek om een dwangsom."
+   },
+   "bruikbare_zin": {
+    "citaat": "De minister zal ook nog moeten besluiten op het verzoek om een dwangsom.",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De afsluitende brief over een registratie in de FSV is een besluit in de zin van artikel 1:3 van de Awb.",
+  "type": "regel",
+  "reikwijdte": "Afsluitende brieven over een registratie in de FSV.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "de afsluitende brief een besluit is in de zin van artikel 1:3"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2025:2730"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1:3 lid 1 Awb",
+  "art. 7:1 Awb",
+  "art. 8:1 Awb",
+  "art. 8:113 lid 2 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "De minister van Financiën is partij; deze uitspraak gaat niet over gemeentelijk beleid.",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "fraude-handhaving",
+  "datateam-algoritmes"
+ ],
+ "klantuitleg": "De Raad van State zegt dat de brief over uw registratie in het fraudesysteem FSV een besluit is. Daardoor had u daartegen bezwaar kunnen maken. De minister moet nu opnieuw naar uw bezwaar kijken en beslissen of u een dwangsom (een bedrag bij te laat beslissen) krijgt.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "De minister van Financiën is partij; geen gemeente.",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

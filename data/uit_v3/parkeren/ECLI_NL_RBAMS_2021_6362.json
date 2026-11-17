@@ -1,0 +1,140 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2021:6362",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "vergunninghouder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De vergunninghouder kreeg van de gemeente Amsterdam drie naheffingen (de rekening achteraf), omdat er zonder betaling was geparkeerd. De vergunninghouder ging in beroep bij de rechtbank Amsterdam tegen die naheffingen.",
+ "titel": "Parkeervergunning was geldig tot opzegdatum; naheffingen blijven staan",
+ "kern": {
+  "zin": "De rechtbank oordeelde dat de vergunning geldig was tot de opzegdatum die de vergunninghouder zelf koos, dus de naheffingen waren terecht.",
+  "bron": [
+   16
+  ],
+  "citaat": "geldig was tot en met de opzegdatum 16 maart 2021"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle op 18, 19 en 20 maart 2021 bleek een auto drie keer geparkeerd zonder betaalde parkeerbelasting.",
+   "bron": [
+    14
+   ],
+   "citaat": "zonder dat hiervoor parkeerbelasting was betaald"
+  },
+  {
+   "zin": "De vergunninghouder ging ervan uit dat de vergunning tot en met 31 maart 2021 geldig bleef.",
+   "bron": [
+    15
+   ],
+   "citaat": "is er toen van uitgegaan dat hij tot en met 31 maart 2021 met deze parkeervergunning kon parkeren"
+  },
+  {
+   "zin": "De gemeente legde een screenshot van de website over, waarop stond dat de vergunning geldig was tot de opzegdatum.",
+   "bron": [
+    16
+   ],
+   "citaat": "Ook heeft de heffingsambtenaar een screenshot van de tekst op de website overgelegd"
+  },
+  {
+   "zin": "De rechtbank vond de stelling over een latere opzegdatum niet onderbouwd en zag geen aanwijzing ervoor.",
+   "bron": [
+    16
+   ],
+   "citaat": "er bestaat verder ook geen aanwijzing voor"
+  },
+  {
+   "zin": "De rechtbank verklaart de beroepen ongegrond, dus de naheffingen blijven staan.",
+   "bron": [
+    20
+   ],
+   "citaat": "De rechtbank verklaart de beroepen ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Drie naheffingen blijven staan; de opzegdatum van de vergunning telt.",
+ "gevolg_betrokkene": {
+  "zin": "De vergunninghouder moet de drie naheffingen betalen, want de beroepen zijn ongegrond.",
+  "bron": [
+   20
+  ],
+  "citaat": "De rechtbank verklaart de beroepen ongegrond."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De opzegging zou pas per 1 april ingaan, dus de vergunning was nog geldig tot 31 maart.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond de stelling over 1 april niet onderbouwd, dus de vergunning eindigde op de opzegdatum.",
+    "bron": [
+     16
+    ],
+    "citaat": "Dat op de website van de gemeente te lezen was dat de opzegging pas per 1 april 2021 zou ingaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "Hier staat dat de parkeervergunning geldig is tot en met de opzegdatum en niet tot en met de betaaldatum",
+    "bron": [
+     16
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij kreeg nooit een bevestiging van de gemeente over de opzegging.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank zag dat de vergunninghouder zelf de opzegdatum in het systeem moest bevestigen.",
+    "bron": [
+     16
+    ],
+    "citaat": "Daarna dient de vergunninghouder in een nieuw scherm de door hem gekozen opzegdatum te bevestigen"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij online opzeggen kiest de vergunninghouder zelf de einddatum, en die datum is het einde van de vergunning.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Online opzegging van een parkeervergunning bij de gemeente Amsterdam, zoals in deze zaak.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   16
+  ],
+  "citaat": "Dit kan per direct zijn of een datum in de toekomst"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "screenshot van de website van de gemeente",
+   "overzicht van de schermen bij online opzegging"
+  ],
+  "wat_gaf_doorslag": "De stelling dat de opzegging pas per 1 april zou ingaan was niet onderbouwd."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver feitelijke uitspraak over de opzegstappen; geen nieuwe actie uit de tekst af te leiden",
+ "raakt": [
+  "vergunningen",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een naheffing is terecht als er op dat moment geen geldige vergunning of betaling was. Een vergunning stopt op de opzegdatum die u zelf kiest in het online scherm, niet op de datum waarop u betaalt. Heeft u een bevestiging of schermafbeelding van de opzegging, dan kan dat helpen bij een bezwaar.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

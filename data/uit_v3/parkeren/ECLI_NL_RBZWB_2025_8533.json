@@ -1,0 +1,141 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:8533",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder met gemachtigde",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder met een gemachtigde gaat in beroep tegen de heffingsambtenaar van Breda. De naheffing was al vernietigd; het ging nog om een vergoeding van proceskosten in de bezwaarfase.",
+ "titel": "Proceskosten voor parkeerder na onrechtmatige naheffing",
+ "kern": {
+  "zin": "De rechtbank vond dat de gemeente ten onrechte geen proceskosten gaf, omdat de naheffing door een onrechtmatigheid was vernietigd.",
+  "bron": [
+   36
+  ],
+  "citaat": "is het naar het oordeel van de rechtbank te wijten aan een onrechtmatigheid"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een naheffing van 63,15 euro, omdat er geen betaling was gedaan.",
+   "bron": [
+    23
+   ],
+   "citaat": "een naheffingsaanslag parkeerbelasting opgelegd van € 63,15"
+  },
+  {
+   "zin": "In bezwaar legde de parkeerder een overzicht voor met een parkeeractie op dezelfde dag.",
+   "bron": [
+    24
+   ],
+   "citaat": "een parkeeractie vermeld staat met het [kenteken] op 1 februari 2024"
+  },
+  {
+   "zin": "De gemeente zei dat de naheffing uit coulance was vernietigd, dus zonder kosten.",
+   "bron": [
+    32
+   ],
+   "citaat": "De naheffingsaanslag is op grond van coulance vernietigd"
+  },
+  {
+   "zin": "De rechtbank vond dat de vernietiging niet uit coulance was gebeurd.",
+   "bron": [
+    35
+   ],
+   "citaat": "De vernietiging heeft dus niet plaatsgevonden uit coulance"
+  },
+  {
+   "zin": "De gemeente moet 647 euro aan kosten van de bezwaarfase vergoeden.",
+   "bron": [
+    37
+   ],
+   "citaat": "de door een derde beroepsmatig verleende rechtsbijstand in de bezwaarfase vast op € 647"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Alleen proceskosten en griffierecht; de naheffing was al vernietigd.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente betaalt 647 euro voor de bezwaarfase, 453,50 euro voor het beroep en 51 euro griffierecht.",
+  "bron": [
+   37,
+   40,
+   47
+  ],
+  "citaat": "de door een derde beroepsmatig verleende rechtsbijstand in de bezwaarfase vast op € 647"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder had de auto op tijd aangemeld, en de gemeente had hem een redelijke termijn moeten geven.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank vond dat de parkeerder een redelijke termijn had moeten krijgen en dat dit een onrechtmatigheid was.",
+    "bron": [
+     34
+    ],
+    "citaat": "een parkeerder een redelijke termijn moet worden gegund voor het verrichten van uitvoeringshandelingen"
+   },
+   "bruikbare_zin": {
+    "citaat": "een parkeerder een redelijke termijn moet worden gegund voor het verrichten van uitvoeringshandelingen",
+    "bron": [
+     34
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeerbelasting is meteen verschuldigd, maar de parkeerder houdt recht op een redelijke termijn om te betalen.",
+  "type": "regel",
+  "reikwijdte": "parkeerbelasting; aanmelding na het parkeren (bezoekersvergunning)",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   34
+  ],
+  "citaat": "een parkeerder een redelijke termijn moet worden gegund voor het verrichten van uitvoeringshandelingen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "overzicht van verworven rechten",
+   "parkeerhistorie van de aanbieder"
+  ],
+  "wat_gaf_doorslag": "De heffingsambtenaar had de stelling van de parkeerder onvoldoende weersproken."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 7:15 lid 2 Awb",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Geef de parkeerder bij een niet-aangemelde parkeeractie een redelijke termijn om te betalen, voordat u een naheffing oplegt.",
+   "raakt": "betaalapp",
+   "bron": [
+    34
+   ],
+   "citaat": "een parkeerder een redelijke termijn moet worden gegund voor het verrichten van uitvoeringshandelingen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "betaalapp"
+ ],
+ "klantuitleg": "Of de naheffing terecht is, hangt af van de feiten en van de tijd die u had om te betalen. In deze zaak vond de rechter dat de gemeente de kosten van de bezwaarfase moet vergoeden. Bewaar bij een aanmelding de bevestiging en de parkeerhistorie; dat helpt bij bezwaar.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

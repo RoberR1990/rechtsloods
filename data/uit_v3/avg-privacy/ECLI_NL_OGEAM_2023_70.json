@@ -1,0 +1,154 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:OGEAM:2023:70",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "minister van Algemene Zaken van Sint Maarten",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "De burger wil dat zijn nationaliteit in de basisadministratie als 'staatloos' wordt geregistreerd. Hij procedeert tegen de minister van Algemene Zaken van Sint Maarten bij het Gerecht in eerste aanleg van Sint Maarten.",
+ "titel": "Staatloos registreren kan alleen als het zeker is",
+ "kern": {
+  "zin": "De rechter verklaart het beroep ongegrond: de nationaliteit kan alleen van onbekend naar staatloos als zeker is dat geen enkele staat de burger als onderdaan ziet.",
+  "bron": [
+   35
+  ],
+  "citaat": "de registratie van de nationaliteit alleen kan worden gewijzigd van onbekend in staatloos als onomstotelijk vaststaat"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger is geboren op Sint Maarten en woont daar sinds zijn geboorte.",
+   "bron": [
+    22
+   ],
+   "citaat": "en is sinds zijn geboorte woonachtig op Sint Maarten"
+  },
+  {
+   "zin": "De minister veranderde zijn nationaliteit eerst van Nederlands naar Burger van Trinidad en Tobago.",
+   "bron": [
+    27
+   ],
+   "citaat": "de Nederlandse nationaliteit te wijzigen in die van Burger van Trinidad en Tobago"
+  },
+  {
+   "zin": "Daarna verklaarde de minister het bezwaar deels gegrond en zette de status op 'onbekend'.",
+   "bron": [
+    28
+   ],
+   "citaat": "het bezwaarschrift hiertegen van eiser gedeeltelijk gegrond verklaard"
+  },
+  {
+   "zin": "De burger wilde dat de basisadministratie hem als 'staatloos' registreerde, omdat hij geen nationaliteit van Trinidad kan krijgen.",
+   "bron": [
+    34
+   ],
+   "citaat": "dat eiser niet de nationaliteit van Trinidad kan verkrijgen"
+  },
+  {
+   "zin": "De rechter oordeelt dat de minister terecht 'onbekend' registreert: de burger heeft geen documenten overgelegd waaruit zeker blijkt dat hij niet de nationaliteit van Trinidad heeft.",
+   "bron": [
+    35
+   ],
+   "citaat": "niet over de nationaliteit van Trinidad kan beschikken"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De rechter wijst het beroep af; de registratie 'onbekend' blijft.",
+ "gevolg_betrokkene": {
+  "zin": "De basisadministratie blijft zijn nationaliteit als 'onbekend' vermelden.",
+  "bron": [
+   36
+  ],
+  "citaat": "verweerder terecht de toegekende status van onbekend geregistreerd."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Mijn nationaliteit moet in de basisadministratie als 'staatloos' staan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat niet zeker is dat de burger geen nationaliteit van Trinidad heeft.",
+    "bron": [
+     35
+    ],
+    "citaat": "niet is uitgesloten dat eiser de nationaliteit van Trinidad heeft op grond van de Trinidadiaanse nationaliteit van zijn moeder"
+   },
+   "bruikbare_zin": {
+    "citaat": "de registratie van de nationaliteit alleen kan worden gewijzigd van onbekend in staatloos als onomstotelijk vaststaat",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De minister moet zelf onderzoeken of ik staatloos ben.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de minister dat niet hoeft te doen; de burger moet zelf de documenten regelen.",
+    "bron": [
+     35
+    ],
+    "citaat": "Het is aan eiser de benodigde documenten zelf te achterhalen."
+   },
+   "bruikbare_zin": {
+    "citaat": "niet op de weg ligt van verweerder om te onderzoeken of eiser staatloos is",
+    "bron": [
+     35
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De registratie van de nationaliteit kan alleen van onbekend naar staatloos als zeker vaststaat dat geen enkele staat de persoon als onderdaan ziet.",
+  "type": "regel",
+  "reikwijdte": "Wijziging van de nationaliteit in de basisadministratie naar 'staatloos'.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   35
+  ],
+  "citaat": "de registratie van de nationaliteit alleen kan worden gewijzigd van onbekend in staatloos als onomstotelijk vaststaat"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "geen documenten waaruit staatloosheid zeker blijkt"
+  ],
+  "wat_gaf_doorslag": "De burger had geen documenten waaruit zeker bleek dat hij staatloos is."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag de burger zelf de documenten te leveren waaruit staatloosheid zeker blijkt.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    35
+   ],
+   "citaat": "Het is aan eiser de benodigde documenten zelf te achterhalen."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Als de overheid uw nationaliteit als 'onbekend' registreert, kan dat alleen veranderen in 'staatloos' als u met documenten zeker maakt dat geen enkel land u als zijn burger ziet. De overheid hoeft zelf niet uit te zoeken of u staatloos bent; u moet die documenten zelf leveren. Zonder zulke documenten houdt de registratie 'onbekend' stand.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente in deze zaak; wederpartij is de minister van Algemene Zaken van Sint Maarten",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

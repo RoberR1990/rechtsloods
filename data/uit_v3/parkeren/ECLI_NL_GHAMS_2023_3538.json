@@ -1,0 +1,172 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2023:3538",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bestuurder van de auto (broer van de kentekenhouder)",
+  "wederpartij": "gemeente (heffingsambtenaar)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een man maakte bezwaar tegen een naheffingsaanslag (een rekening achteraf) die op naam van zijn zus stond, en vroeg een dwangsom omdat de gemeente te laat beslistte. Hij ging in hoger beroep tegen de gemeente bij het gerechtshof Amsterdam.",
+ "titel": "Geen dwangsom bij bezwaar tegen parkeerrekening van een ander",
+ "kern": {
+  "zin": "Het hof wijst de dwangsom af, omdat de man niet aannemelijk maakte dat hij zelf parkeerde of betaalde. Hij heeft dus geen eigen belang bij de aanslag.",
+  "bron": [
+   47
+  ],
+  "citaat": "appellant geen belanghebbende bij de naheffingsaanslag is en reeds om die reden geen recht heeft op een dwangsom"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een naheffingsaanslag werd opgelegd aan de eigenaar van een auto, omdat voor het parkeren geen of te weinig was betaald.",
+   "bron": [
+    22
+   ],
+   "citaat": "voor het op 13 september 2021 parkeren van een auto terwijl daarvoor geen of te weinig parkeerbelasting was betaald"
+  },
+  {
+   "zin": "De man maakte ook bezwaar en stelde de gemeente in gebreke, omdat er geen uitspraak kwam.",
+   "bron": [
+    23
+   ],
+   "citaat": "ook bezwaar ingediend tegen de naheffingsaanslag"
+  },
+  {
+   "zin": "De man zei dat hij die dag reed en zijn zus had gevraagd hem aan te melden via de bezoekersapp.",
+   "bron": [
+    29
+   ],
+   "citaat": "reed die dag en heeft aan zijn zus gevraagd om hem aan te melden via de bezoekersapp"
+  },
+  {
+   "zin": "De gemeente vond dat er geen dwangsom was verschuldigd, omdat de man geen eigen belang bij de aanslag had.",
+   "bron": [
+    39
+   ],
+   "citaat": "geen dwangsom verschuldigd is omdat eiser geen rechtens relevant belang heeft bij de naheffingsaanslag"
+  },
+  {
+   "zin": "Het hof vond de verklaring van de man ongeloofwaardig. De zus had zelf geschreven dat zij betaald had, met schermprints van de parkeerapp.",
+   "bron": [
+    46
+   ],
+   "citaat": "acht het Hof de stelling van appellant ongeloofwaardig dat voor het parkeren van de auto een bezoekerspas van"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond. De man heeft geen eigen belang bij de aanslag en dus geen recht op een dwangsom.",
+   "bron": [
+    47
+   ],
+   "citaat": "geen recht heeft op een dwangsom"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; geen dwangsom omdat hij geen eigen belang heeft.",
+ "gevolg_betrokkene": {
+  "zin": "De man krijgt geen dwangsom en geen vergoeding van proceskosten.",
+  "bron": [
+   47,
+   52
+  ],
+  "citaat": "geen recht heeft op een dwangsom (artikel 4:17, lid 6, onder b, Awb)"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente beslistte te laat op zijn bezwaar, dus hij heeft recht op een dwangsom.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Wie geen eigen belang heeft bij de aanslag, heeft geen recht op een dwangsom.",
+    "bron": [
+     47
+    ],
+    "citaat": "appellant geen belanghebbende bij de naheffingsaanslag is en reeds om die reden geen recht heeft op een dwangsom"
+   },
+   "bruikbare_zin": {
+    "citaat": "appellant geen belanghebbende bij de naheffingsaanslag is en reeds om die reden geen recht heeft op een dwangsom",
+    "bron": [
+     47
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij reed zelf en was dus belanghebbende, want hij liet zijn zus de auto aanmelden met haar bezoekerspas.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De man maakte niet aannemelijk dat hij de bestuurder was of zelf betaalde.",
+    "bron": [
+     45
+    ],
+    "citaat": "nu niet aannemelijk is geworden dat hij de feitelijk bestuurder van de auto van"
+   },
+   "bruikbare_zin": {
+    "citaat": "Nergens blijkt uit dat (ook) appellant belang heeft bij de onderhavige naheffingsaanslag parkeerbelasting",
+    "bron": [
+     45
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie bezwaar maakt tegen een aanslag van een ander moet aannemelijk maken dat hij zelf bestuurder was of betaalde. Lukt dat niet, dan heeft hij geen eigen belang en geen recht op een dwangsom.",
+  "type": "regel",
+  "reikwijdte": "Een ander dan degene aan wie de naheffingsaanslag is opgelegd die bezwaar maakt en een dwangsom vraagt.",
+  "uitzondering": "Een geloofwaardige verklaring of bewijs dat hij zelf reed of betaalde.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   45
+  ],
+  "citaat": "nu niet aannemelijk is geworden dat hij de feitelijk bestuurder van de auto van"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "bezwaarschrift van de kentekenhouder",
+   "schermprints van de parkeerapp",
+   "verklaring van de gemachtigde ter zitting"
+  ],
+  "wat_gaf_doorslag": "De kentekenhouder schreef zelf dat zij had betaald, en de verklaring met schermprints paste niet bij het verhaal van de man."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHAMS:2019:3266"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1:2 lid 1 Awb",
+  "art. 4:17 lid 6 onder b Awb",
+  "art. 26a lid 1 onder c AWR",
+  "art. 8:69 Awb",
+  "art. 6:22 Awb",
+  "art. 8:75 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij bezwaar van iemand anders dan de kentekenhouder om bewijs dat hij zelf reed of betaalde, voordat u een dwangsom toekent.",
+   "raakt": "bezwaar",
+   "bron": [
+    45
+   ],
+   "citaat": "nu niet aannemelijk is geworden dat hij de feitelijk bestuurder van de auto van"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "betaalapp"
+ ],
+ "klantuitleg": "Maakt u bezwaar tegen een parkeerrekening die op naam van iemand anders staat, dan moet u kunnen laten zien dat u zelf reed of betaalde. Lukt dat niet, dan heeft u geen recht op een vergoeding als de gemeente te laat beslist. Laat de kentekenhouder daarom zelf bezwaar maken, of leg betaalbewijs en een verklaring voor.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

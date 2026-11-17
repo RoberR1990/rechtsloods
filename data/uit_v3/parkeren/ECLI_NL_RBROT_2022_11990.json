@@ -1,0 +1,138 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2022:11990",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "privaat-boete-voorwaarden",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {
+  "burger": "kentekenhouder",
+  "wederpartij": "exploitant (Q-Park)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "Q-Park, een exploitant van een parkeergarage, vordert betaling van de kentekenhouder van een auto. De auto verliet de garage zonder te betalen; de kantonrechter van de rechtbank Rotterdam oordeelde.",
+ "titel": "Kentekenhouder moet betalen na treintje rijden in garage",
+ "kern": {
+  "zin": "De kantonrechter gaf Q-Park gelijk, omdat de kentekenhouder niet voldoende had bewezen dat hij niet reed.",
+  "bron": [
+   43
+  ],
+  "citaat": "heeft dus geen vervolg gegeven aan zijn betoog dat hij de bestuurder niet is geweest"
+ },
+ "samenvatting": [
+  {
+   "zin": "Vaststaat dat de auto twee keer treintje is gereden bij het verlaten van de garage.",
+   "bron": [
+    41
+   ],
+   "citaat": "Als onbetwist staat vast dat met de auto waarvan"
+  },
+  {
+   "zin": "Q-Park vorderde in totaal € 873,93, met rente.",
+   "bron": [
+    34
+   ],
+   "citaat": "[gedaagde01] te veroordelen aan haar te betalen € 873,93 met rente"
+  },
+  {
+   "zin": "De kentekenhouder zei dat hij in het buitenland zat en dus niet reed.",
+   "bron": [
+    39
+   ],
+   "citaat": "omdat hij in het buitenland verbleef op 22 maart en 23 maart 2021"
+  },
+  {
+   "zin": "De rechter vond dat hij het vermoeden niet weerlegde.",
+   "bron": [
+    43
+   ],
+   "citaat": "heeft dus geen vervolg gegeven aan zijn betoog dat hij de bestuurder niet is geweest"
+  },
+  {
+   "zin": "De bedragen waren volgens de rechter niet onredelijk voor zo’n overtreding.",
+   "bron": [
+    45
+   ],
+   "citaat": "staan de gevorderde bedragen in redelijke verhouding tot de gedraging"
+  },
+  {
+   "zin": "De kentekenhouder moet ook de proceskosten betalen.",
+   "bron": [
+    55
+   ],
+   "citaat": "veroordeelt [gedaagde01] in de proceskosten, aan de kant van Q-Park tot vandaag vastgesteld"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Q-Park krijgt betaling; vermoeden van bestuurder niet weerlegd",
+ "gevolg_betrokkene": {
+  "zin": "De kentekenhouder moet € 873,93 betalen, plus proceskosten van € 683,99 en wettelijke rente.",
+  "bron": [
+   54,
+   55
+  ],
+  "citaat": "veroordeelt [gedaagde01] om aan Q-Park te betalen € 873,93 aan aanvullende schadevergoeding"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik was niet de bestuurder, want ik was in het buitenland toen de auto de garage verliet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat hij het vermoeden niet weerlegde, omdat hij zijn verweer niet doorzette.",
+    "bron": [
+     43
+    ],
+    "citaat": "heeft dus geen vervolg gegeven aan zijn betoog dat hij de bestuurder niet is geweest"
+   },
+   "bruikbare_zin": {
+    "citaat": "Er is immers niet gebleken dat [gedaagde01] zelf gebruik heeft gemaakt van het vliegticket",
+    "bron": [
+     42
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie kentekenhouder is, wordt vermoed de bestuurder te zijn geweest; dat vermoeden moet hij weerleggen.",
+  "type": "regel",
+  "reikwijdte": "kentekenhouder van een auto die zonder betaling een parkeergarage verlaat",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   42
+  ],
+  "citaat": "Dat vermoeden kan [gedaagde01] weerleggen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "camerabeelden van de garage",
+   "kopie van een elektronisch vliegticket"
+  ],
+  "wat_gaf_doorslag": "Het vliegticket bewees niet dat de kentekenhouder zelf reisde, dus het vermoeden bleef staan."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 150 Rv",
+  "art. 6:96 lid 5 BW",
+  "art. 6:119 BW"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u kentekenhouder bent, kan de parkeergarage u aanspreken voor een vertrek zonder betaling, ook als u zelf niet reed. Wilt u dat weerleggen, dan moet u concreet laten zien wie er reed; een kopie van een vliegticket was hier te weinig. Een betwisting van de bedragen heeft hier weinig kans gehad, omdat de rechter die redelijk vond.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij (privaat geschil)",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

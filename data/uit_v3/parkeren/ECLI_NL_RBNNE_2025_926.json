@@ -1,0 +1,182 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2025:926",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "gemachtigde-bureau (namens de parkeerder)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder kreeg een boete van 119 euro voor parkeren op een parkeerverbod in Groningen. Een gemachtigd bureau ging namens de parkeerder in beroep tegen de officier van justitie, bij de kantonrechter van de rechtbank Noord-Nederland.",
+ "titel": "Hoorplicht geschonden, maar boete blijft staan",
+ "kern": {
+  "zin": "De kantonrechter vernietigde de beslissing van de officier wegens schending van de hoorplicht, maar liet de boete van 119 euro staan.",
+  "bron": [
+   17,
+   35
+  ],
+  "citaat": "De beslissing van de officier van justitie wordt in verband met de schending van de hoorplicht vernietigd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 23 juni 2023 kreeg de parkeerder een boete van 119 euro voor parkeren op een parkeerverbod.",
+   "bron": [
+    14
+   ],
+   "citaat": "verricht op 23 juni 2023 om 20:49 uur aan de Concourslaan te Groningen"
+  },
+  {
+   "zin": "Het bureau stelde dat de parkeerder niet is gehoord, wat tegen artikel 7:2 van de Awb ingaat.",
+   "bron": [
+    23
+   ],
+   "citaat": "nu betrokkene in strijd met artikel 7:2 van de Awb niet is gehoord"
+  },
+  {
+   "zin": "De vertegenwoordiger van de officier erkende dat de hoorplicht was geschonden, maar wilde de boete niet verlagen.",
+   "bron": [
+    24
+   ],
+   "citaat": "dat er wel sprake is van schending van de hoorplicht, maar dat niet tot een matiging"
+  },
+  {
+   "zin": "De kantonrechter vernietigde de beslissing van de officier, maar zag geen aanleiding de sanctie te verlagen.",
+   "bron": [
+    25
+   ],
+   "citaat": "Hij ziet echter geen aanleiding de sanctie te matigen"
+  },
+  {
+   "zin": "Het beroep tegen de inleidende beschikking is ongegrond, dus de boete blijft staan.",
+   "bron": [
+    35,
+    32
+   ],
+   "citaat": "verklaart het beroep tegen de inleidende beschikking ongegrond"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beslissing OM vernietigd wegens hoorfout; boete blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De boete van 119 euro blijft staan, en er is geen vergoeding van proceskosten.",
+  "bron": [
+   32,
+   35
+  ],
+  "citaat": "Voor een proceskostenvergoeding bestaat geen aanleiding"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De parkeerder is niet gehoord, ook niet via het gemachtigde bureau.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de hoorplicht is geschonden, omdat niemand is gehoord of telefonisch gesproken.",
+    "bron": [
+     25
+    ],
+    "citaat": "er sprake is van schending van de hoorplicht"
+   },
+   "bruikbare_zin": {
+    "citaat": "nu er geen hoorzitting heeft plaatsgevonden en gemachtigde evenmin in de gelegenheid is gesteld telefonisch te worden gehoord",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De machtiging via een app en een keten van bedrijven is niet in orde; het bureau mag de parkeerder niet vertegenwoordigen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter vond de machtiging via de app en de keten van bedrijven toch in orde.",
+    "bron": [
+     21
+    ],
+    "citaat": "De kantonrechter komt tot de conclusie dat betrokkene mag worden vertegenwoordigd"
+   },
+   "bruikbare_zin": {
+    "citaat": "Gebleken is dat betrokkene, via een app die toegang geeft tot een internetsite",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De zonebebording E1 stond er niet, althans niet op de dag zelf; de aanrijroute ontbreekt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de zonebebording er wel stond en dat het missen daarvan voor de parkeerder zelf is.",
+    "bron": [
+     30
+    ],
+    "citaat": "was voorzien van duidelijke en deugdelijke zonebebording E1"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat betrokkene de bebording mogelijk heeft gemist, is een omstandigheid die voor zijn eigen rekening en risico dient te komen",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Zonebebording die zes maanden voor en na de overtreding stond, maakt de overtreding bewijsbaar.",
+  "type": "regel",
+  "reikwijdte": "parkeerverbod met zonebebording E1 in Wahv-zaken",
+  "uitzondering": "bij een langere periode zijn nadere stukken nodig dat het bord niet is verwijderd of vervangen",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   28
+  ],
+  "citaat": "kan de gedraging met een voldoende mate van zekerheid worden vastgesteld"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto's van Google Maps",
+   "e-mail van de gemeente Groningen over de borden"
+  ],
+  "wat_gaf_doorslag": "De foto's en de e-mail van de gemeente lieten zien dat het zonebord er op de dag stond."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHARL:2022:7804",
+   "ECLI:NL:GHARL:2023:6930",
+   "ECLI:NL:GHARL:2024:9537"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:2 Awb",
+  "Wahv"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg per zonebord vast wanneer het is geplaatst, vervangen of verwijderd, zodat dat bij beroep als bewijs kan dienen.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    28
+   ],
+   "citaat": "na verificatie van daarvoor beschikbare bronnen is gebleken dat dit bord in de tussentijd niet is verwijderd of is vervangen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "bebording-verkeersbesluit"
+ ],
+ "klantuitleg": "Bij een parkeerverbod telt vooral of het verkeersbord er aantoonbaar stond. In deze zaak vond de rechter dat het bord er stond, en bleef de boete staan, ook al had de officier de parkeerder niet laten horen. Wilt u in beroep, doe dat op tijd en laat u goed vertegenwoordigen; of u gelijk krijgt, is niet zeker.",
+ "gemeente": "Groningen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

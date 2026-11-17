@@ -1,0 +1,144 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2021:2381",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (particulier)",
+  "wederpartij": "gemeente Amersfoort (heffingsambtenaar van de gemeente)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeert tegen de gemeente Amersfoort over een naheffing (de rekening achteraf) voor parkeerbelasting. De rechtbank Midden-Nederland oordeelde dat de beslissing op het bezwaar door een medewerker van een uitvoerder was genomen zonder geldig mandaat.",
+ "titel": "Bezwaar opnieuw nodig: beslissing door medewerker zonder geldig mandaat",
+ "kern": {
+  "zin": "De rechter vernietigde de beslissing op bezwaar, omdat het mandaat niet op de juiste manier bekendgemaakt was.",
+  "bron": [
+   23
+  ],
+  "citaat": "Omdat het mandaatbesluit niet overeenkomstig artikel 3:42 van de Awb is bekendgemaakt"
+ },
+ "samenvatting": [
+  {
+   "zin": "Zijn auto stond in Amersfoort te lang geparkeerd, en daarom kwam er een naheffing van € 65,40.",
+   "bron": [
+    10
+   ],
+   "citaat": "Daarom is aan eiser een naheffingsaanslag parkeerbelasting opgelegd van € 65,40"
+  },
+  {
+   "zin": "Hij vond de naheffing onterecht: volgens de ParkMobile-factuur stond hij maar 59 minuten.",
+   "bron": [
+    15
+   ],
+   "citaat": "Uit de factuur van ParkMobile blijkt dat hij 59 minuten heeft geparkeerd"
+  },
+  {
+   "zin": "De gemeente zei dat er wel een intern mandaat was, maar dat dit niet openbaar was gemaakt.",
+   "bron": [
+    22
+   ],
+   "citaat": "Verder heeft verweerder verklaard dat het mandaatbesluit niet is gepubliceerd"
+  },
+  {
+   "zin": "De rechtbank oordeelde dat het mandaat niet in werking was getreden, dus de beslissing op bezwaar was onbevoegd.",
+   "bron": [
+    23
+   ],
+   "citaat": "Omdat het mandaatbesluit niet overeenkomstig artikel 3:42 van de Awb is bekendgemaakt"
+  },
+  {
+   "zin": "De gemeente moet binnen zes weken een nieuw besluit nemen en het griffierecht van € 47,00 terugbetalen; verletkosten krijgt de parkeerder niet.",
+   "bron": [
+    36,
+    37,
+    31
+   ],
+   "citaat": "draagt verweerder op binnen zes weken na de dag van verzending van deze uitspraak"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Procedureel gewonnen: bezwaarbeslissing vernietigd, nieuw besluit nodig; naheffing niet beoordeeld",
+ "gevolg_betrokkene": {
+  "zin": "Het bezwaar wordt opnieuw beoordeeld en het griffierecht van € 47,00 wordt terugbetaald; de verletkosten niet.",
+  "bron": [
+   36,
+   37,
+   31
+  ],
+  "citaat": "draagt verweerder op binnen zes weken na de dag van verzending van deze uitspraak"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Uit de ParkMobile-factuur zou blijken dat hij binnen de 60 minuten bleef.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter kwam niet aan dit verweer toe, omdat zij eerst het formele punt van bevoegdheid beoordeelde.",
+    "bron": [
+     16
+    ],
+    "citaat": "De rechtbank zal in deze zaak eerst uit zichzelf (ambtshalve) een formeel punt moeten beoordelen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Uit de factuur van ParkMobile blijkt dat hij 59 minuten heeft geparkeerd",
+    "bron": [
+     15
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een intern mandaat werkt niet als het niet volgens de bekendmakingsregels van de Awb is openbaar gemaakt.",
+  "type": "regel",
+  "reikwijdte": "mandaatbesluiten van algemene strekking; een brief aan de gemandateerde volstaat niet",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "een mandaatbesluit bekend moet worden gemaakt overeenkomstig artikel 3:42 van de Algemene wet bestuursrecht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "ParkMobile-factuur (door de parkeerder)",
+   "aanwijzings- en mandaatbesluit (door de gemeente overgelegd)"
+  ],
+  "wat_gaf_doorslag": "Het intern mandaatbesluit was niet bekendgemaakt, dus niet in werking getreden."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 231 lid 2 onder b Gemeentewet",
+  "art. 3:42 Awb",
+  "Aanwijzings- en mandaatbesluit gemeentelijke belastingambtenaren 2019 (Amersfoort)"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Maak een mandaatbesluit voor bezwaarbeslissingen bekend zoals artikel 3:42 Awb voorschrijft, voordat een medewerker erop beslist.",
+   "raakt": "bezwaar",
+   "bron": [
+    23
+   ],
+   "citaat": "een mandaatbesluit bekend moet worden gemaakt overeenkomstig artikel 3:42 van de Algemene wet bestuursrecht"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "De rechter heeft het besluit op uw bezwaar vernietigd, omdat de medewerker die het nam geen geldige volmacht had. De gemeente moet opnieuw over uw bezwaar beslissen en het bedrag voor de rechtszaak (€ 47,00) krijgt u terug. Of de rekening voor het parkeren terecht is, heeft de rechter nog niet beoordeeld; een factuur van uw betaling helpt u daarbij.",
+ "gemeente": "Amersfoort",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

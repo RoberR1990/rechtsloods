@@ -1,0 +1,154 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2018:1451",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een gezin uit Rotterdam wilde dat de gemeente hun gegevens in de basisregistratie personen (BRP, het bevolkingsregister) aanpaste. Volgens het gezin staan de juiste gegevens in Iraakse documenten. De gemeente weigerde dat en de Raad van State moest oordelen of die weigering klopt.",
+ "titel": "Gemeente hoeft gegevens in basisregistratie niet te wijzigen",
+ "kern": {
+  "zin": "De rechter vindt dat niet vaststaat dat de gegevens in de basisregistratie onjuist zijn, dus de gemeente hoefde niets aan te passen.",
+  "bron": [
+   27
+  ],
+  "citaat": "staat niet onomstotelijk vast dat de in de brp geregistreerde gegevens feitelijk onjuist zijn"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het gezin staat in de basisregistratie met gegevens die zijn gebaseerd op verklaringen onder ede, omdat er geen brondocumenten waren.",
+   "bron": [
+    19
+   ],
+   "citaat": "Deze gegevens zijn, bij het ontbreken van brondocumenten, ontleend aan een door [appellant A] afgelegde verklaring onder ede"
+  },
+  {
+   "zin": "Het gezin vroeg de gemeente om die gegevens te wijzigen op basis van Iraakse documenten.",
+   "bron": [
+    23
+   ],
+   "citaat": "Bij het verzoek heeft [appellant A] van deze personen Iraakse uittreksels uit het geboorte- en bevolkingsregister overgelegd"
+  },
+  {
+   "zin": "De gemeente weigerde, omdat niet zeker is dat de documenten echt over het gezin gaan.",
+   "bron": [
+    24
+   ],
+   "citaat": "niet met zekerheid kan worden vastgesteld dat de in de overgelegde documenten vermelde persoonsgegevens aan het gezin toebehoren"
+  },
+  {
+   "zin": "Het gezin vond dat de rechtbank bij twijfel een onderzoek in Irak had moeten laten doen.",
+   "bron": [
+    25
+   ],
+   "citaat": "de rechtbank had bij twijfel een verificatieonderzoek in het land van herkomst moeten laten uitvoeren"
+  },
+  {
+   "zin": "De Raad van State vindt dat het gezin niet heeft aangetoond dat de oude gegevens onjuist zijn en bevestigt de uitspraak.",
+   "bron": [
+    31
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep van het gezin ongegrond; gegevens blijven staan",
+ "gevolg_betrokkene": {
+  "zin": "De gegevens van het gezin in de basisregistratie blijven zoals ze zijn en er wordt geen vergoeding van kosten gegeven.",
+  "bron": [
+   31
+  ],
+  "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Onze gegevens in de basisregistratie zijn onjuist en moeten worden aangepast.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat niet vaststaat dat de gegevens in de basisregistratie echt fout zijn.",
+    "bron": [
+     27
+    ],
+    "citaat": "staat niet onomstotelijk vast dat de in de brp geregistreerde gegevens feitelijk onjuist zijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "staat niet onomstotelijk vast dat de in de brp geregistreerde gegevens feitelijk onjuist zijn",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De rechter had bij twijfel een onderzoek in Irak moeten laten doen naar de documenten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Zo'n onderzoek geeft volgens de rechter geen zekerheid dat de documenten over het gezin gaan.",
+    "bron": [
+     27
+    ],
+    "citaat": "Een dergelijk onderzoek biedt geen uitsluitsel dat de in de documenten vermelde persoonsgegevens toebehoren aan het gezin"
+   },
+   "bruikbare_zin": {
+    "citaat": "Een dergelijk onderzoek biedt geen uitsluitsel",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor het wijzigen van gegevens in de basisregistratie moet vaststaan dat de gegevens echt onjuist zijn.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken tot wijziging van gegevens die al in de basisregistratie staan",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   26
+  ],
+  "citaat": "onomstotelijk vaststaan dat de gegevens onjuist zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "Iraakse uittreksels uit het geboorte- en bevolkingsregister",
+   "Iraakse identiteitskaarten",
+   "Iraaks militair boekje",
+   "nationaliteitsverklaringen",
+   "Iraakse huwelijksakte"
+  ],
+  "wat_gaf_doorslag": "De documenten gaven geen duidelijkheid dat ze over het gezin gaan."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2016:232",
+   "ECLI:NL:RVS:2016:305"
+  ]
+ },
+ "wetsartikelen": [
+  "Wet basisregistratie persoonsgegevens"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "De gemeente won deze zaak; de rechter noemt geen actie of verbetering.",
+ "raakt": [
+  "burgerzaken-brp",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "U wilt dat de gemeente uw gegevens in de basisregistratie personen aanpast. Dat lukt alleen als u goed aantoont dat uw oude gegevens echt onjuist zijn. Documenten uit het buitenland zijn alleen genoeg als duidelijk is dat ze over u gaan.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

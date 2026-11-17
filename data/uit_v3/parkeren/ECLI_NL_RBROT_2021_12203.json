@@ -1,0 +1,172 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2021:12203",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "bewijs-scanauto",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder)",
+  "wederpartij": "gemeente Rotterdam (directeur gemeentebelastingen)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder kreeg een naheffing omdat zijn auto zonder betaling in een betaald parkeergebied stond. Hij ging in beroep bij de rechtbank Rotterdam tegen de gemeente Rotterdam.",
+ "titel": "Naheffing terecht: kenteken niet aangemeld met bezoekersvergunning",
+ "kern": {
+  "zin": "De rechter bevestigde de naheffing, want de parkeerder had niet betaald en zijn kenteken niet aangemeld.",
+  "bron": [
+   32
+  ],
+  "citaat": "Dat eiser niet heeft betaald, staat voor de rechtbank vast"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde de parkeerder een naheffing op, omdat zijn auto op 9 november 2019 zonder betaling in een betaald gebied stond.",
+   "bron": [
+    19
+   ],
+   "citaat": "terwijl er geen of niet voldoende parkeerbelasting was betaald"
+  },
+  {
+   "zin": "De parkeerder zei dat hij had betaald, een bezoekersvergunning had en zijn kenteken niet kon invoeren door een storing.",
+   "bron": [
+    20
+   ],
+   "citaat": "dat hij wel parkeerbelasting had betaald, dat hij beschikte over een bezoekersparkeervergunning"
+  },
+  {
+   "zin": "De gemeente gaf toe dat er door een technische fout geen foto's van de scanauto waren bewaard.",
+   "bron": [
+    23
+   ],
+   "citaat": "Verweerder heeft erkend dat door een technische omissie"
+  },
+  {
+   "zin": "De rechter vond dat de HAS-gegevens genoeg waren om aannemelijk te maken dat de auto in die straat stond.",
+   "bron": [
+    25
+   ],
+   "citaat": "maakt verweerder naar het oordeel van de rechtbank al aannemelijk"
+  },
+  {
+   "zin": "De rechter zag geen storing en vond dat de parkeerder zijn kenteken niet had aangemeld.",
+   "bron": [
+    32
+   ],
+   "citaat": "niet aannemelijk dat het bezoekersparkeersysteem een storing had"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; schadevergoeding over de duur afgewezen",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder blijft de naheffing verschuldigd en krijgt geen schadevergoeding.",
+  "bron": [
+   39
+  ],
+  "citaat": "wijst het verzoek om schadevergoeding af"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Zonder foto's van de scanauto kan de gemeente niet bewijzen dat zijn auto in de straat stond.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de HAS-gegevens met toelichting voldoende om aannemelijk te maken dat de auto er stond.",
+    "bron": [
+     25
+    ],
+    "citaat": "maakt verweerder naar het oordeel van de rechtbank al aannemelijk dat eisers auto in de betreffende straat stond geparkeerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "Met de HAS-gegevens",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "Hij wilde zijn kenteken aanmelden, maar een storing in het systeem maakte dat onmogelijk.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag geen storing en vond dat de parkeerder niet had laten zien dat aanmelden op geen enkele manier lukte.",
+    "bron": [
+     32
+    ],
+    "citaat": "niet aannemelijk dat het bezoekersparkeersysteem een storing had"
+   },
+   "bruikbare_zin": {
+    "citaat": "Hoe dan ook geldt dat, als aanmelding in het bezoekerssysteem op alle mogelijke manieren niet lukte",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente mocht geen naheffing opleggen, omdat hij de belasting wel had betaald (artikel 20 Awr).",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat artikel 20 Awr hier niet geldt, omdat het om een bezoekersvergunning gaat en de aanmelding ontbrak.",
+    "bron": [
+     31
+    ],
+    "citaat": "Het beroep dat eiser doet op artikel 20 van de Awr gaat niet op"
+   },
+   "bruikbare_zin": {
+    "citaat": "is niet voldaan aan alle voorwaarden waaronder de parkeervergunning is verleend",
+    "bron": [
+     31
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een naheffing op basis van vastgestelde scanauto-feiten hoeft de gemeente geen inzage in haar software te geven.",
+  "type": "regel",
+  "reikwijdte": "Naheffing van niet betaalde parkeerbelasting op basis van scanauto-feiten zoals datum, tijd, straat en kenteken.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   28
+  ],
+  "citaat": "Het gaat daarbij om vaststelling van feiten en niet om aannames"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "HAS-gegevens (datum, tijd, straat, kenteken)",
+   "toelichting bij overzicht uit overtredingssysteem"
+  ],
+  "wat_gaf_doorslag": "De HAS-gegevens met toelichting maakten aannemelijk dat de auto er stond, zonder foto's."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:1997:AA3336"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 Gemeentewet",
+  "art. 225 Gemeentewet",
+  "art. 2 Besluit gemeentelijke parkeerbelastingen",
+  "art. 20 Awr"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "Rechter vond het besluit juist; geen eis of verwijt aan de gemeente.",
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "scanauto-handhaving",
+  "betaalapp"
+ ],
+ "klantuitleg": "Lukt het aanmelden van uw kenteken niet, betaal dan toch gewoon de parkeerbelasting. In deze zaak was een storing niet aannemelijk gemaakt, dus de naheffing bleef staan. Bezwaar heeft alleen zin als u bewijs heeft dat de storing er echt was; dat geeft geen garantie.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

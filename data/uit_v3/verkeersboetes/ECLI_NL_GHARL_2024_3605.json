@@ -1,0 +1,161 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2024:3605",
+ "relevant": true,
+ "kenmerk": "redelijke-termijn",
+ "procesvorm": "hoger beroep",
+ "steunt": null,
+ "toepasselijkheid": "landelijk",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente is geen partij; de officier van justitie beslist (Wahv)",
+ "dubbel_van": null,
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "onderwerp": "bewijs-en-aansprakelijkheid",
+ "sub": "hoogte-evenredigheid",
+ "zaaktype": "procedure-proceskosten",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "intro": "Een bedrijf met een gemachtigde (een no cure no pay-bureau) vocht een boete aan en vond dat de zaak te lang duurde. Het bedrijf ging in hoger beroep tegen de officier van justitie (CJIB) bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Te lange procedure: boete 25 procent lager en proceskosten vergoed",
+ "kern": {
+  "zin": "Het hof matigt de boete met 25 procent, omdat de kantonrechter dat vanwege de te lange duur had moeten doen, en kent ook proceskosten toe.",
+  "bron": [
+   31
+  ],
+  "citaat": "de inleidende beschikking moeten wijzigen door het bedrag van de sanctie te matigen met 25 %"
+ },
+ "samenvatting": [
+  {
+   "zin": "De boete werd op 4 maart 2021 verstuurd en de kantonrechter besliste pas op 30 oktober 2023.",
+   "bron": [
+    25
+   ],
+   "citaat": "De kantonrechter heeft eerst op 30 oktober 2023 op het beroep beslist."
+  },
+  {
+   "zin": "De burger zei dat de kantonrechter niet inging op de te lange duur van de zaak.",
+   "bron": [
+    18
+   ],
+   "citaat": "De kantonrechter is niet op deze beroepsgrond ingegaan"
+  },
+  {
+   "zin": "De kantonrechter wilde geen proceskosten toekennen, omdat bureaus die veel standaardberoepen indienen de vertraging deels zelf veroorzaken.",
+   "bron": [
+    20
+   ],
+   "citaat": "Zogenoemde no cure no pay-bureaus, waaronder de gemachtigde in onderhavige zaak, dienen grote hoeveelheden Mulderberoepen in"
+  },
+  {
+   "zin": "Het hof vond de redelijke termijn in eerste aanleg overschreden en zei dat de kantonrechter de boete had moeten verlagen met 25 procent.",
+   "bron": [
+    31
+   ],
+   "citaat": "de inleidende beschikking moeten wijzigen door het bedrag van de sanctie te matigen met 25 %"
+  },
+  {
+   "zin": "Het hof zei dat de kantonrechter de boete niet mocht laten afhangen van de vraag of er dan proceskosten moeten worden betaald.",
+   "bron": [
+    30
+   ],
+   "citaat": "Dit kennelijke oordeel van de kantonrechter vindt geen steun in het recht."
+  },
+  {
+   "zin": "Het hof zag geen reden om proceskosten te weigeren, ook al gaat het om een no cure no pay-bureau.",
+   "bron": [
+    37
+   ],
+   "citaat": "Er zijn geen redenen om af te zien van toekenning van een proceskostenvergoeding."
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Boete verlaagd naar € 85,50; proceskosten € 1.312,50 vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De boete wordt verlaagd naar € 85,50, te veel betaalde zekerheid wordt terugbetaald en de advocaat-generaal betaalt € 1.312,50 aan proceskosten; kosten van het administratief beroep worden niet vergoed.",
+  "bron": [
+   47,
+   48,
+   49,
+   50
+  ],
+  "citaat": "wijzigt de inleidende beschikking, in zoverre dat het bedrag van de sanctie wordt gewijzigd in"
+ },
+ "bezwaargronden": [
+  {
+   "arg": "redelijke-termijn",
+   "burger_zegt": "De zaak duurde te lang en de kantonrechter ging daar niet op in.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De redelijke termijn is in eerste aanleg overschreden.",
+    "bron": [
+     25
+    ],
+    "citaat": "De redelijke termijn van berechting als bedoeld in artikel 6, eerste lid, van het EVRM is in eerste aanleg overschreden."
+   },
+   "bruikbare_zin": {
+    "citaat": "de inleidende beschikking moeten wijzigen door het bedrag van de sanctie te matigen met 25 %",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "proceskosten",
+   "burger_zegt": "De kantonrechter had proceskosten moeten toekennen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Er is geen reden om de proceskosten te weigeren.",
+    "bron": [
+     37
+    ],
+    "citaat": "Er zijn geen redenen om af te zien van toekenning van een proceskostenvergoeding."
+   },
+   "bruikbare_zin": {
+    "citaat": "betreft niet een op deze zaak toegespitste overweging maar een meer algemene, niet nader uitgewerkte, verzuchting",
+    "bron": [
+     37
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wordt de redelijke termijn overschreden, dan wordt de boete in beginsel met 25 procent verlaagd.",
+  "type": "regel",
+  "reikwijdte": "Wahv-zaken waarin de redelijke termijn in eerste aanleg of hoger beroep is overschreden.",
+  "uitzondering": "De termijn kan langer zijn als de duur in overwegende mate aan de burger of zijn gemachtigde is toe te rekenen.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   29
+  ],
+  "citaat": "in die procedure is of had moeten worden vastgesteld in beginsel wordt gematigd met 25%"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De termijn tussen verzending van de boete en de uitspraak was langer dan twee jaar en vier maanden."
+ },
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHARL:2023:6369",
+   "ECLI:NL:GHARL:2020:3336",
+   "ECLI:NL:GHARL:2024:656"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 6 lid 1 EVRM",
+  "art. 13a Wahv",
+  "art. 9 lid 2 Wahv",
+  "art. 11 Wahv"
+ ],
+ "raakt": [
+  "bezwaar",
+  "juridische-zaken"
+ ],
+ "klantuitleg": "Duurt een zaak bij de rechter te lang, dan wordt de boete in principe 25 procent lager, tenzij u of uw gemachtigde de vertraging grotendeels zelf veroorzaakte. Dan kunnen ook de kosten van de rechtszaak worden vergoed, ook als een no cure no pay-bureau voor u optrad. Is uw zaak lang blijven liggen, zeg dat dan duidelijk in uw beroep.",
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,162 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2025:3039",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "bewijs-scanauto",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing (de rekening achteraf) omdat hij zonder betaling parkeerde met een kenteken dat niet op zijn vergunning stond. Hij ging bij de rechtbank Amsterdam in beroep tegen de gemeente Amsterdam.",
+ "titel": "Gehandicaptenkaart alleen is niet genoeg; kenteken moet op vergunning",
+ "kern": {
+  "zin": "De parkeervergunning gold niet, omdat het kenteken niet was aangemeld, dus blijft de naheffing staan.",
+  "bron": [
+   22
+  ],
+  "citaat": "Nu eiser geparkeerd heeft zonder het kenteken van de auto aan te melden op zijn parkeervergunning"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeerder zette zijn auto op 22 november 2023 om 6.53 uur in Amsterdam neer.",
+   "bron": [
+    17
+   ],
+   "citaat": "omstreeks 6.53 uur geparkeerd ter hoogte van de [adres] in Amsterdam"
+  },
+  {
+   "zin": "De parkeerder zei dat zijn gehandicaptenkaart genoeg was en dat het kenteken daarop niet hoefde.",
+   "bron": [
+    18
+   ],
+   "citaat": "Eiser voert aan dat hij beschikt over een invalidenparkeerkaart"
+  },
+  {
+   "zin": "Volgens de gemeente was er niet betaald en stond het kenteken niet op de vergunning.",
+   "bron": [
+    19
+   ],
+   "citaat": "dat er geen of te weinig parkeerbelasting is betaald voor het parkeren"
+  },
+  {
+   "zin": "De rechter oordeelde dat de vergunning niet gold, omdat het kenteken niet was aangemeld.",
+   "bron": [
+    22
+   ],
+   "citaat": "Nu eiser geparkeerd heeft zonder het kenteken van de auto aan te melden op zijn parkeervergunning"
+  },
+  {
+   "zin": "Een Europese gehandicaptenkaart alleen was op dat tijdstip niet genoeg om er te parkeren.",
+   "bron": [
+    21
+   ],
+   "citaat": "Parkeren met alleen een Europese gehandicaptenparkeerkaart (invalidenkaart) was op dat tijdstip niet mogelijk"
+  },
+  {
+   "zin": "De rechter wees de zaak af, dus de parkeerder kon niet op gelijk rekenen.",
+   "bron": [
+    27
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan, geen vergoeding van proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "Zijn naheffing blijft staan en het griffierecht komt niet terug.",
+  "bron": [
+   25
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Zijn invalidenkaart was genoeg; hij kon het kenteken niet aan de kaart koppelen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het kenteken had op de parkeervergunning moeten staan, niet op de kaart.",
+    "bron": [
+     21
+    ],
+    "citaat": "indien hij het [kentekennummer 1] had aangemeld op zijn parkeervergunning"
+   },
+   "bruikbare_zin": {
+    "citaat": "Eiser hoefde dus niet, zoals hij veronderstelt, het kenteken te koppelen aan zijn Europese gehandicaptenparkeerkaart",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "gehandicaptenkaart",
+   "burger_zegt": "Hij had een gehandicaptenkaart, dus hij mocht op die plek staan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een gehandicaptenkaart alleen maakte het parkeren niet vergund.",
+    "bron": [
+     21
+    ],
+    "citaat": "Parkeren met alleen een Europese gehandicaptenparkeerkaart (invalidenkaart) was op dat tijdstip niet mogelijk"
+   },
+   "bruikbare_zin": {
+    "citaat": "Parkeren met alleen een Europese gehandicaptenparkeerkaart (invalidenkaart) was op dat tijdstip niet mogelijk",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeren telt alleen als parkeren met een vergunning als aan de voorwaarden van die vergunning is voldaan.",
+  "type": "regel",
+  "reikwijdte": "parkeren met een vergunning, met de voorwaarden van die vergunning",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   22
+  ],
+  "citaat": "alleen sprake van parkeren met een vergunning als is voldaan aan de voorwaarden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "bord ter plekke met het tijdvak",
+   "kenteken van de vergunning"
+  ],
+  "wat_gaf_doorslag": "Het kenteken was niet aangemeld op de vergunning."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Maak in uitleg over de gehandicaptenvergunning duidelijk dat het kenteken per parkeeractie moet worden aangemeld.",
+   "raakt": "klantcontact",
+   "bron": [
+    19
+   ],
+   "citaat": "maar dan moet deze wel voor elke afzonderlijke parkeeractie aangemeld worden"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren is terecht als u niet had betaald en ook geen geldige vergunning gebruikte. Met alleen een gehandicaptenkaart mag u op dat tijdstip hier niet gratis staan. Heeft u een vergunning voor gehandicapte bezoekers, meld dan het kenteken aan; bezwaar heeft weinig kans als dat niet is gebeurd.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

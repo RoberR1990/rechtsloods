@@ -1,0 +1,176 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2023:3903",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder)",
+  "wederpartij": "gemeente Goes (heffingsambtenaar)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing van de gemeente Goes en ging daartegen in beroep bij de rechtbank Zeeland-West-Brabant. Het ging om de kostenvergoeding voor het bezwaar, want de naheffing zelf was al vernietigd.",
+ "titel": "Naheffing al vernietigd; geen kostenvergoeding voor bezwaar",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente terecht geen kostenvergoeding gaf, omdat de naheffing alleen om een verkeerd kenteken is vernietigd.",
+  "bron": [
+   29,
+   19
+  ],
+  "citaat": "De heffingsambtenaar heeft het verzoek om een kostenvergoeding voor de bezwaarfase dan ook terecht afgewezen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controleur zag dat er voor de auto geen parkeerbelasting was betaald, waarna de gemeente een naheffing oplegde.",
+   "bron": [
+    15
+   ],
+   "citaat": "geconstateerd dat voor de auto geen parkeerbelasting is voldaan"
+  },
+  {
+   "zin": "De parkeerder liet in het bezwaar een screenshot zien van een betaling, maar die was voor een ander kenteken.",
+   "bron": [
+    18
+   ],
+   "citaat": "heeft in de bezwaarfase een screenshot overlegd"
+  },
+  {
+   "zin": "De gemeente zei dat de parkeerder een verkeerd kenteken in de app had ingevoerd.",
+   "bron": [
+    19
+   ],
+   "citaat": "een onjuist kenteken in de parkeerapplicatie heeft aangemeld"
+  },
+  {
+   "zin": "De rechter zei dat de naheffing alleen om die reden is vernietigd, dus de kostenvergoeding bleef terecht geweigerd.",
+   "bron": [
+    29
+   ],
+   "citaat": "de naheffingsaanslag uitsluitend om die reden is vernietigd"
+  },
+  {
+   "zin": "De rechter vond dat horen niet nodig was, omdat de parkeerder niet meer kon krijgen dan die vernietiging.",
+   "bron": [
+    24
+   ],
+   "citaat": "kon immers niet meer bereiken met dan vernietiging van de naheffingsaanslag"
+  },
+  {
+   "zin": "Het beroep is ongegrond, dus de parkeerder krijgt het griffierecht niet terug.",
+   "bron": [
+    31
+   ],
+   "citaat": "krijgt daarom het griffierecht niet terug"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep ongegrond; alleen over kostenvergoeding bezwaar, naheffing al vernietigd.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt geen kostenvergoeding voor het bezwaar en het griffierecht niet terug; de naheffing is wel weg.",
+  "bron": [
+   29,
+   31
+  ],
+  "citaat": "De heffingsambtenaar heeft het verzoek om een kostenvergoeding voor de bezwaarfase dan ook terecht afgewezen"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "De parkeerder zei dat hij had betaald en dat de naheffing dus niet terecht was.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter zei dat de naheffing alleen om het kenteken is vernietigd, en dat dit de parkeerder niet meer oplevert.",
+    "bron": [
+     29
+    ],
+    "citaat": "de naheffingsaanslag uitsluitend om die reden is vernietigd"
+   },
+   "bruikbare_zin": {
+    "citaat": "de naheffingsaanslag uitsluitend om die reden is vernietigd",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De parkeerder vond dat de gemeente hem niet had gehoord en de beslissing niet goed had gemotiveerd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat er geen sprake was van een schending van het motiveringsbeginsel, omdat de overige gronden niet meer nodig waren.",
+    "bron": [
+     26
+    ],
+    "citaat": "Van een schending van het motiveringsbeginsel is geen sprake"
+   },
+   "bruikbare_zin": {
+    "citaat": "Van een schending van het motiveringsbeginsel is geen sprake",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder vond dat de kosten in de verordening boven het wettelijk maximum liggen en dat de naheffing daarom weg moest.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat dit niet tot een ander oordeel leidde, omdat de betwisting door de gemeente zwaar woog.",
+    "bron": [
+     29
+    ],
+    "citaat": "leidt, mede gelet op de betwisting hiervan door de heffingsambtenaar in beroep, niet tot een ander oordeel"
+   },
+   "bruikbare_zin": {
+    "citaat": "mede gelet op de betwisting hiervan door de heffingsambtenaar in beroep",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een kostenvergoeding voor het bezwaar krijgt de parkeerder alleen als de gemeente onrechtmatig handelde.",
+  "type": "regel",
+  "reikwijdte": "Kostenvergoeding in de bezwaarfase van een naheffing, alleen op verzoek",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   28
+  ],
+  "citaat": "wordt herroepen wegens een aan het bestuursorgaan te wijten onrechtmatigheid"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "screenshot van de betaling in de bezwaarfase"
+  ],
+  "wat_gaf_doorslag": "Het verkeerde kenteken in de app; de naheffing is daarom op die grond vernietigd."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 7:3 aanhef en letter e Awb",
+  "art. 7:15 lid 2 Awb",
+  "Verordening parkeerregulering en parkeerbelasting Goes 2022"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter volgde de gemeente; geen tekortkoming aangewezen, de vernietiging volgde uit het kenteken",
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "betaalapp"
+ ],
+ "klantuitleg": "Heeft u via de app een verkeerd kenteken ingevoerd, dan kan de naheffing toch vervallen als u de belasting wel had betaald. Dat hangt wel af van de feiten en geldt niet automatisch. Een vergoeding van uw bezwaarkosten krijgt u alleen als de gemeente zelf onrechtmatig handelde.",
+ "gemeente": "Goes",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

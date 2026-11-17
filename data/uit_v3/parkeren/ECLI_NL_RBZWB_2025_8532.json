@@ -1,0 +1,139 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:8532",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "bewijs-scanauto",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (zakelijk account)",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing van 62,80 euro van de heffingsambtenaar van Breda en ging daartegen in beroep. Bij de rechtbank Zeeland-West-Brabant gaat het om de vraag of de parkeerder de auto had aangemeld.",
+ "titel": "Naheffing vernietigd: parkeerder had zich via app aangemeld",
+ "kern": {
+  "zin": "De rechtbank vond de naheffing ten onrechte opgelegd, omdat de gemeente de aanmelding onvoldoende had weersproken.",
+  "bron": [
+   34
+  ],
+  "citaat": "heeft hij de stelling van belanghebbende onvoldoende weersproken"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 13 juni 2024 stond de auto van de parkeerder in Breda op een plek met betaald parkeren.",
+   "bron": [
+    18
+   ],
+   "citaat": "Op deze locatie mag alleen tegen betaling van parkeerbelasting worden geparkeerd"
+  },
+  {
+   "zin": "De naheffing bedroeg 62,80 euro, omdat er geen betaling was gedaan.",
+   "bron": [
+    20
+   ],
+   "citaat": "een naheffingsaanslag parkeerbelasting opgelegd van € 62,80"
+  },
+  {
+   "zin": "De parkeerder zegt dat zij de auto via 2Park had aangemeld.",
+   "bron": [
+    33
+   ],
+   "citaat": "zij haar auto op dat moment wel, via 2Park, had aangemeld"
+  },
+  {
+   "zin": "De gemeente kwam niet naar de zitting en legde de controle niet uit.",
+   "bron": [
+    34
+   ],
+   "citaat": "niet ter zitting is verschenen en aldus niet heeft toegelicht op welke wijze de controle is uitgevoerd"
+  },
+  {
+   "zin": "De rechtbank oordeelde dat de naheffing ten onrechte was opgelegd.",
+   "bron": [
+    34
+   ],
+   "citaat": "de naheffingsaanslag ten onrechte is opgelegd"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd en griffierecht terug; de parkeerder had zich aangemeld.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing van 62,80 euro is weg, en de gemeente betaalt het griffierecht van 51 euro terug.",
+  "bron": [
+   36,
+   37,
+   43
+  ],
+  "citaat": "de uitspraak op bezwaar en de naheffingsaanslag vernietigen"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De parkeerder had de auto via 2Park aangemeld, en de gemeente kon dat niet weerleggen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank vond dat de gemeente de stelling van de parkeerder niet had weersproken.",
+    "bron": [
+     34
+    ],
+    "citaat": "heeft hij de stelling van belanghebbende onvoldoende weersproken"
+   },
+   "bruikbare_zin": {
+    "citaat": "onduidelijk is gebleven hoe dat kan als die parkeeractie wel wordt vermeld in de parkeerhistorie van 2Park",
+    "bron": [
+     34
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "In deze zaak had de gemeente de aanmelding via het zakelijke account niet voldoende tegengesproken.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "zakelijk parkeeraccount met meerdere kentekens; alleen deze zaak",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   34
+  ],
+  "citaat": "heeft hij de stelling van belanghebbende onvoldoende weersproken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "screenshot van de e-mail van 2Park",
+   "overzicht van verworven rechten",
+   "parkeerhistorie"
+  ],
+  "wat_gaf_doorslag": "De gemeente kon niet uitleggen waarom de aanmelding wel in de parkeerhistorie stond, maar niet in haar overzicht."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Zoek bij een betwiste aanmelding de parkeerhistorie op en leg uit waarom die niet in uw overzicht staat.",
+   "raakt": "betaalapp",
+   "bron": [
+    34
+   ],
+   "citaat": "onduidelijk is gebleven hoe dat kan als die parkeeractie wel wordt vermeld in de parkeerhistorie van 2Park"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "betaalapp"
+ ],
+ "klantuitleg": "Een naheffing is terecht als er niet is betaald of aangemeld, maar in deze zaak vond de rechter dat de gemeente de aanmelding niet goed had weersproken. Heeft u een aanmelding via een app, bewaar dan de bevestiging en de parkeerhistorie, want die helpen bij bezwaar.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

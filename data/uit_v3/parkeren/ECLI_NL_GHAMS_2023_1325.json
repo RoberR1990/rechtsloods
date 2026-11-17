@@ -1,0 +1,181 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2023:1325",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner met parkeervergunning",
+  "wederpartij": "gemeente (geanonimiseerd)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bewoner kreeg een naheffingsaanslag (rekening achteraf) voor parkeren, terwijl hij een bewonersvergunning had voor zijn oude auto. Hij ging in hoger beroep tegen de gemeente bij het gerechtshof Amsterdam.",
+ "titel": "Naheffing blijft: vergunning gold nog voor het oude kenteken",
+ "kern": {
+  "zin": "Omdat de bewoner het nieuwe kenteken niet had doorgegeven, gold de vergunning niet en was de naheffing terecht.",
+  "bron": [
+   52
+  ],
+  "citaat": "was dan ook geen sprake van parkeren met vergunning"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner had een digitale bewonersvergunning voor het kenteken van zijn oude auto.",
+   "bron": [
+    41
+   ],
+   "citaat": "Deze parkeervergunning was per 1 januari 2021 aan eiser verleend voor zijn oude auto"
+  },
+  {
+   "zin": "Zijn poging om het kenteken te wijzigen mislukte, en hij probeerde het daarna niet opnieuw.",
+   "bron": [
+    41
+   ],
+   "citaat": "Mogelijk door problemen met zijn wifi-verbinding kon eiser echter niet op bevestigen drukken"
+  },
+  {
+   "zin": "De bewoner vond de naheffing onredelijk en wilde dat die uit coulance werd vernietigd.",
+   "bron": [
+    41
+   ],
+   "citaat": "is eiser van mening dat de naheffingsaanslag ten onrechte is opgelegd en daarom uit coulance dient te worden vernietigd"
+  },
+  {
+   "zin": "De rechtbank oordeelde dat een voorwaarde van de vergunning is dat het kenteken bij de gemeente is opgegeven.",
+   "bron": [
+    52
+   ],
+   "citaat": "dat het kenteken waarmee wordt geparkeerd is opgegeven bij de gemeente"
+  },
+  {
+   "zin": "Het hof vond dat de rechtbank op goede gronden een juiste beslissing had genomen.",
+   "bron": [
+    59
+   ],
+   "citaat": "De rechtbank heeft naar het oordeel van het Hof op goede gronden een juiste beslissing genomen."
+  },
+  {
+   "zin": "Het hof begreep het bezwaar van de bewoner, maar mocht de naheffing niet om coulance vernietigen.",
+   "bron": [
+    60
+   ],
+   "citaat": "Het Hof is echter niet bevoegd de naheffingsaanslag om die reden, of anderszins om redenen van coulance te vernietigen."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; de naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan en de bewoner krijgt geen schadevergoeding van € 74 en geen kostenvergoeding.",
+  "bron": [
+   62,
+   55
+  ],
+  "citaat": "Voor een kostenvergoeding bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Ik had een betaalde vergunning, maar mijn poging om het kenteken te wijzigen mislukte door problemen met mijn wifi.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het kenteken was niet gewijzigd, dus er werd niet geparkeerd met de vergunning.",
+    "bron": [
+     52
+    ],
+    "citaat": "was dan ook geen sprake van parkeren met vergunning"
+   },
+   "bruikbare_zin": {
+    "citaat": "dient voor zijn rekening en risico te blijven",
+    "bron": [
+     52
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De naheffing is onredelijk: ik had voor het hele jaar betaald en had nog maar één auto op mijn naam.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof begrijpt dit, maar mag de naheffing niet om coulance vernietigen.",
+    "bron": [
+     60
+    ],
+    "citaat": "Het Hof is echter niet bevoegd de naheffingsaanslag om die reden, of anderszins om redenen van coulance te vernietigen."
+   },
+   "bruikbare_zin": {
+    "citaat": "niet bevoegd de naheffingsaanslag om die reden, of anderszins om redenen van coulance te vernietigen",
+    "bron": [
+     60
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik wil € 74 schadevergoeding voor de tijd die het aanvechten van de naheffing kostte.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Omdat het beroep ongegrond is, is er geen recht op schadevergoeding.",
+    "bron": [
+     55
+    ],
+    "citaat": "Aangezien het beroep ongegrond is, heeft eiser geen recht op (materiële) schadevergoeding."
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeren met een digitale bewonersvergunning kan alleen als aan de voorwaarden is voldaan, zoals het opgeven van het kenteken; anders geldt het gewone tarief.",
+  "type": "regel",
+  "reikwijdte": "Digitale bewonersvergunning waarbij het kenteken bij de gemeente moet zijn opgegeven.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   51
+  ],
+  "citaat": "parkeren met een digitale bewonersvergunning alleen sprake is als bij het parkeren wordt voldaan aan de voorwaarden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "brief van de gemeente over de vergunning",
+   "gegevens van de RDW over kentekens"
+  ],
+  "wat_gaf_doorslag": "De aanvraag om het kenteken te wijzigen was niet afgerond toen de naheffing werd opgelegd."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:1997:AA3336"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 5 lid 4 Verordening parkeerbelastingen 2021 van de gemeente"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij een bezwaar over een digitale vergunning of het kenteken waarmee is geparkeerd op dat moment was doorgegeven.",
+   "raakt": "bezwaar",
+   "bron": [
+    52
+   ],
+   "citaat": "één van de voorwaarden om rechtsgeldig met een digitale bewonersparkeervergunning te parkeren is dat het kenteken"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "tarief-naheffing",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Heeft u een digitale parkeervergunning, dan geldt die alleen voor het kenteken dat u bij de gemeente hebt opgegeven. Parkeert u met een ander kenteken, dan telt dat als parkeren zonder vergunning en kan een naheffing (rekening achteraf) volgen. Geef een nieuw kenteken daarom meteen door en controleer of u de bevestiging hebt ontvangen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

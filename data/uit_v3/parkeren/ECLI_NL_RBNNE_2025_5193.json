@@ -1,0 +1,154 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2025:5193",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een boete voor stilstaan op het trottoir. Hij ging in beroep bij de kantonrechter van de rechtbank Noord-Nederland, tegen de beslissing van de officier van justitie.",
+ "titel": "Boete voor stilstaan op het trottoir blijft staan",
+ "kern": {
+  "zin": "De kantonrechter verklaarde het beroep ongegrond, omdat de auto niet op een parkeervak stond.",
+  "bron": [
+   25
+  ],
+  "citaat": "het gedeelte waar betrokkene stond niet is voorzien van donkergekleurde bestrating"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 11 december 2023 werd de auto op de Brink in Beilen op het trottoir gecontroleerd.",
+   "bron": [
+    12
+   ],
+   "citaat": "verricht op 11 december 2023, om 11:28 uur"
+  },
+  {
+   "zin": "De parkeerder zei dat de plek een p-zone was en dat de boete daarom onterecht was.",
+   "bron": [
+    21
+   ],
+   "citaat": "Betrokkene voert aan dat de pleeglocatie een p-zone is"
+  },
+  {
+   "zin": "De vertegenwoordiger van de officier van justitie vond dat het beroep ongegrond moest worden verklaard.",
+   "bron": [
+    22
+   ],
+   "citaat": "stelt zich op het standpunt dat het beroep ongegrond verklaard moet worden"
+  },
+  {
+   "zin": "De kantonrechter zag op de foto van de overtreding dat de auto buiten het parkeervak stond.",
+   "bron": [
+    25
+   ],
+   "citaat": "het gedeelte waar betrokkene stond niet is voorzien van donkergekleurde bestrating"
+  },
+  {
+   "zin": "De kantonrechter zag geen reden om de boete te matigen.",
+   "bron": [
+    26
+   ],
+   "citaat": "De kantonrechter ziet geen aanleiding om de boete te matigen"
+  },
+  {
+   "zin": "Dat veel mensen daar parkeren, betekent niet dat het mag.",
+   "bron": [
+    26
+   ],
+   "citaat": "Het feit dat veel mensen op de pleeglocatie parkeren betekent niet dat het mag"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de boete van 119 euro blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van 119 euro blijft staan.",
+  "bron": [
+   26
+  ],
+  "citaat": "De kantonrechter ziet geen aanleiding om de boete te matigen"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "De plek was volgens hem een p-zone, dus de boete was onterecht.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De foto van de overtreding laat zien dat het stuk waar de auto stond geen parkeervak was.",
+    "bron": [
+     25
+    ],
+    "citaat": "het gedeelte waar betrokkene stond niet is voorzien van donkergekleurde bestrating"
+   },
+   "bruikbare_zin": {
+    "citaat": "het gedeelte waar betrokkene stond niet is voorzien van donkergekleurde bestrating",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Op die plek worden altijd auto's geparkeerd, dus het kan niet fout zijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dat veel mensen daar parkeren, betekent niet dat het mag.",
+    "bron": [
+     26
+    ],
+    "citaat": "Het feit dat veel mensen op de pleeglocatie parkeren betekent niet dat het mag"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het feit dat veel mensen op de pleeglocatie parkeren betekent niet dat het mag",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "In Wahv-zaken is de verklaring van de verbalisant in beginsel voldoende om de overtreding vast te stellen.",
+  "type": "regel",
+  "reikwijdte": "Wahv-boetes voor verkeersovertredingen",
+  "uitzondering": "concrete omstandigheden die twijfel geven",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "In zaken op grond van de Wahv is de verklaring van de verbalisant in het zaakoverzicht in beginsel voldoende"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring verbalisant in het zaakoverzicht",
+   "foto van de overtreding",
+   "Google Maps-beelden"
+  ],
+  "wat_gaf_doorslag": "De foto van de overtreding liet zien dat de auto niet op een parkeervak stond."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Wahv"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; Wahv-boete door de officier van justitie",
+ "raakt": [
+  "klantcontact"
+ ],
+ "klantuitleg": "Een boete voor stilstaan op het trottoir blijft staan als uit de foto's blijkt dat de plek geen parkeervak is. Dat andere mensen er ook staan, maakt de boete niet ongeldig. Heeft u bewijs dat de plek wel een parkeervak was, dan kan dat helpen; zonder zulk bewijs is de kans klein.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "niet in de uitspraak genoemd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,179 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2016:3373",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": null,
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "oud-medewerker",
+  "wederpartij": "gemeente Nederweert",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een oud-medewerker van de gemeente Nederweert vroeg om een kopie van een advies over zijn ontslag. De gemeente weigerde dat en de Raad van State oordeelt in hoger beroep of dat goed was.",
+ "titel": "Advies over ontslag valt niet onder de Wbp",
+ "kern": {
+  "zin": "De Raad van State bevestigt dat de gemeente het verzoek om een kopie van het advies mocht weigeren, omdat de Wbp niet geldt voor dit losse papieren advies.",
+  "bron": [
+   38
+  ],
+  "citaat": "is deze wet daarom niet van toepassing op het advies"
+ },
+ "samenvatting": [
+  {
+   "zin": "De oud-medewerker vroeg om een kopie van een advies over zijn ontslag.",
+   "bron": [
+    19
+   ],
+   "citaat": "verzocht om verstrekking van een afschrift van het advies"
+  },
+  {
+   "zin": "De gemeente weigerde dat verzoek.",
+   "bron": [
+    20
+   ],
+   "citaat": "Bij het besluit van 28 april 2015 heeft het college het verzoek afgewezen."
+  },
+  {
+   "zin": "De oud-medewerker vindt dat het advies in zijn dossier zit en dat de Wbp daarom geldt.",
+   "bron": [
+    21
+   ],
+   "citaat": "het advies van Capra in een dossier is opgenomen"
+  },
+  {
+   "zin": "De rechtbank vond de motivering van de gemeente ondeugdelijk en vernietigde het besluit.",
+   "bron": [
+    20
+   ],
+   "citaat": "De rechtbank heeft de motivering van de afwijzing ondeugdelijk geacht en het besluit daarom vernietigd."
+  },
+  {
+   "zin": "Toch liet de rechtbank de weigering in stand, omdat het advies volgens haar geen bestand is.",
+   "bron": [
+    20
+   ],
+   "citaat": "het advies van Capra geen deel uitmaakt van een bestand als bedoeld in de Wbp"
+  },
+  {
+   "zin": "De Raad van State bevestigt dat: de Wbp geldt niet voor dit losse papieren advies.",
+   "bron": [
+    38
+   ],
+   "citaat": "is deze wet daarom niet van toepassing op het advies"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De gemeente mocht het verzoek om het advies weigeren.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen kopie van het advies en moet zijn eigen proceskosten betalen.",
+  "bron": [
+   40,
+   42
+  ],
+  "citaat": "de rechtbank met juistheid geoordeeld dat het college het verzoek van [appellant] moest afwijzen"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kopie-stukken",
+   "burger_zegt": "Ik wil een kopie van het advies zelf.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter oordeelt dat het advies geen deel uitmaakt van een bestand, zodat de Wbp niet geldt.",
+    "bron": [
+     38
+    ],
+    "citaat": "maakt het advies geen deel uit van een bestand"
+   },
+   "bruikbare_zin": {
+    "citaat": "maakt het advies geen deel uit van een bestand",
+    "bron": [
+     38
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het advies zit in mijn dossier en valt daarom onder de Wbp.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter oordeelt dat het advies zelf geen bestand is in de zin van de Wbp.",
+    "bron": [
+     38
+    ],
+    "citaat": "het advies zelf geen bestand in de zin van artikel 1"
+   },
+   "bruikbare_zin": {
+    "citaat": "het advies zelf geen bestand in de zin van artikel 1",
+    "bron": [
+     38
+    ]
+   }
+  },
+  {
+   "arg": "geheimhouding-onterecht",
+   "burger_zegt": "De gemeente heeft geen belang dat geheimhouding rechtvaardigt.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter zegt dat dit belang niet uitmaakt voor de vraag of de Wbp van toepassing is.",
+    "bron": [
+     39
+    ],
+    "citaat": "niet relevant om te bepalen of deze wet van toepassing is"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet relevant om te bepalen of deze wet van toepassing is",
+    "bron": [
+     39
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een verzoek op grond van de Wbp om niet-geautomatiseerde persoonsgegevens moeten die gegevens in een samenhangend en systematisch toegankelijk bestand zitten.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken op grond van de Wbp om niet-geautomatiseerde persoonsgegevens.",
+  "uitzondering": "Voor geautomatiseerde gegevens is niet van belang of ze in een bestand zijn opgenomen.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   37
+  ],
+  "citaat": "moet het daarbij gaan om een samenhangend geheel dat systematisch toegankelijk is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van de burger dat hij zijn personeelsdossier drie keer heeft ingezien",
+   "toelichting van de gemeente dat het advies in een kluis van de personeelsafdeling ligt"
+  ],
+  "wat_gaf_doorslag": "De verklaring van de burger dat hij het advies niet in zijn personeelsdossier aantrof."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2014:2594"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1, aanhef en onder c, Wbp",
+  "art. 2, lid 1, Wbp",
+  "art. 35 Wbp",
+  "art. 8:29, lid 5, Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "De uitspraak bevestigt de afwijzing; de rechter noemt geen concrete tekortkoming of opdracht voor de gemeente.",
+ "raakt": [
+  "privacy-fg",
+  "hr-personeel",
+  "bezwaar"
+ ],
+ "klantuitleg": "De gemeente hoeft u geen kopie te geven van een advies over uw ontslag als dat advies alleen over u gaat en los in een kluis ligt. De privacywet geldt dan niet, omdat het advies geen geordende verzameling gegevens is. Via deze privacywet krijgt u het stuk dus niet; u kunt het via een andere weg proberen.",
+ "gemeente": "Nederweert",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

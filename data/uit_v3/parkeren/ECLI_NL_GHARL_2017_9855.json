@@ -1,0 +1,158 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "dubbel_van": null,
+ "ecli": "ECLI:NL:GHARL:2017:9855",
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "kentekenhouder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een kentekenhouder kreeg een boete van € 90 voor parkeren in een parkeerverbodszone in Hengelo. De burger gaat in hoger beroep bij het gerechtshof Arnhem-Leeuwarden tegen de officier van justitie.",
+ "titel": "Betaald parkeerkaartje helpt niet als u buiten de parkeervakken staat",
+ "kern": {
+  "zin": "Het hof vond dat een parkeerkaartje in een betaald parkeren zone alleen geldt binnen de aangewezen parkeervakken.",
+  "bron": [
+   32
+  ],
+  "citaat": "Dit betekent dat slechts parkeren binnen de daartoe aangewezen parkeervakken"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger kreeg een boete van € 90 voor parkeren in een parkeerverbodszone aan de Smutsstraat.",
+   "bron": [
+    18
+   ],
+   "citaat": "een administratieve sanctie van € 90,- opgelegd"
+  },
+  {
+   "zin": "De burger zegt dat de kantonrechter zich ten onrechte op een foto van een andere straat baseerde en dat hij wel een parkeerkaartje had gekocht.",
+   "bron": [
+    19
+   ],
+   "citaat": "De betrokkene heeft verder aangevoerd dat hij wel een parkeerkaartje heeft gekocht"
+  },
+  {
+   "zin": "Volgens de verklaring van de handhaver (verbalisant) stond de auto niet op een aangegeven parkeerplaats of parkeervak.",
+   "bron": [
+    30
+   ],
+   "citaat": "Het voertuig stond niet op een als zodanig aangegeven parkeerplaats cq parkeervak."
+  },
+  {
+   "zin": "Het hof geeft de burger gelijk dat die foto van een andere straat alleen niet genoeg bewijst.",
+   "bron": [
+    31
+   ],
+   "citaat": "deze afbeelding op zichzelf niet de conclusie kan rechtvaardigen"
+  },
+  {
+   "zin": "Maar de verklaring van de handhaver was genoeg, en met een parkeerkaartje mag u alleen in de aangewezen vakken staan.",
+   "bron": [
+    32
+   ],
+   "citaat": "Dit betekent dat slechts parkeren binnen de daartoe aangewezen parkeervakken"
+  },
+  {
+   "zin": "Het hof bevestigt de beslissing van de kantonrechter.",
+   "bron": [
+    33
+   ],
+   "citaat": "zal het hof de beslissing van de kantonrechter bevestigen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete van € 90 blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De burger moet de boete van € 90 betalen, ook al had hij een parkeerkaartje gekocht.",
+  "bron": [
+   32
+  ],
+  "citaat": "Derhalve is de sanctie terecht opgelegd"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De foto in het dossier laat een andere straat zien, dus de zone geldt hier niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De foto bewees dat niet alleen, maar de verklaring van de handhaver was genoeg om vast te stellen dat hier een parkeerverbodszone geldt.",
+    "bron": [
+     32
+    ],
+    "citaat": "op basis van de verklaring van de verbalisant voldoende is komen vast te staan"
+   },
+   "bruikbare_zin": {
+    "citaat": "op basis van de verklaring van de verbalisant voldoende is komen vast te staan",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik had een parkeerkaartje gekocht voor de betaald parkeren zone.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het parkeerkaartje geeft alleen recht om in de aangewezen vakken te staan; de burger betwistte niet dat hij daarbuiten stond.",
+    "bron": [
+     32
+    ],
+    "citaat": "De omstandigheid dat de betrokkene een parkeerkaartje had gekocht, doet daaraan niet af"
+   },
+   "bruikbare_zin": {
+    "citaat": "doet daaraan niet af",
+    "bron": [
+     32
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "In een parkeerverbodszone met betaald parkeren is parkeren alleen toegestaan in de aangewezen vakken; een parkeerkaartje geeft geen recht om daarbuiten te staan.",
+  "type": "regel",
+  "reikwijdte": "Parkeerverbodszone (bord E1 met 'zone') met betaald parkeren",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   32
+  ],
+  "citaat": "het parkeren op daartoe bestemde weggedeelten een uitzondering is op het algehele parkeerverbod van het bord E1"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van de verbalisant",
+   "Google Streetview-afbeelding (niet beslissend)"
+  ],
+  "wat_gaf_doorslag": "De verklaring van de handhaver en het feit dat de burger niet betwistte dat hij buiten de vakken stond."
+ },
+ "toepasselijkheid": "landelijk",
+ "wetsartikelen": [
+  "art. 62 RVV 1990",
+  "art. 65 RVV 1990",
+  "art. 66 RVV 1990",
+  "bord E1 RVV 1990"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; boete is van de officier van justitie",
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "bebording-verkeersbesluit"
+ ],
+ "klantuitleg": "Een parkeerkaartje in een betaald parkeren zone geldt alleen als u in een aangewezen parkeervak staat. Staat u erbuiten, dan kunt u een boete krijgen, ook als u hebt betaald. Bezwaar heeft weinig kans als u niet kunt laten zien dat u wel in een vak stond.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij (officier van justitie)",
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,170 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "reden_leeg_actie": null,
+ "dubbel_van": null,
+ "reden_gemeente_leeg": null,
+ "ecli": "ECLI:NL:GHAMS:2016:313",
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder betaalde via een parkeerapp per vergissing voor een zone in Rotterdam, terwijl hij in Amsterdam stond. Hij ging in hoger beroep tegen de gemeente Amsterdam bij het gerechtshof Amsterdam.",
+ "titel": "Verkeerde zone ingetoetst: rekening achteraf blijft staan",
+ "kern": {
+  "zin": "Het hof vond dat wie een zone van een andere gemeente intoetst, niet heeft betaald aan de gemeente waar hij staat, zodat de naheffing terecht was.",
+  "bron": [
+   43
+  ],
+  "citaat": "Dat eiser een verkeerde parkeerzone heeft ingetoetst, die ook nog eens is gelegen in een andere gemeente, komt voor zijn risico"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder meldde zijn auto telefonisch aan voor parkeren, maar toetste per vergissing een zone in Rotterdam in.",
+   "bron": [
+    21
+   ],
+   "citaat": "per abuis, de verkeerde tariefzone ingetoetst, te weten zone 1013"
+  },
+  {
+   "zin": "Een controleur legde in Amsterdam een naheffingsaanslag (rekening achteraf) op van € 4 plus € 55,90 kosten.",
+   "bron": [
+    22
+   ],
+   "citaat": "heeft hij de Naheffingsaanslag (ten bedrage van € 4, exclusief kosten van € 55,90) opgelegd"
+  },
+  {
+   "zin": "De parkeerder zei dat hij had betaald, dat de kosten van € 55,90 veel te hoog waren bij een tekort van € 1,50, en dat de kentekenjurisprudentie gold.",
+   "bron": [
+    40
+   ],
+   "citaat": "Verder heeft eiser aangevoerd dat een boete van € 55,90 disproportioneel is"
+  },
+  {
+   "zin": "Het hof volgde de rechtbank: de parkeerder had niet aan Amsterdam betaald en de fout kwam voor zijn risico.",
+   "bron": [
+    43
+   ],
+   "citaat": "Dat eiser een verkeerde parkeerzone heeft ingetoetst, die ook nog eens is gelegen in een andere gemeente, komt voor zijn risico"
+  },
+  {
+   "zin": "De kosten van € 55,90 lagen onder het wettelijke maximum van € 56 en de parkeerder maakte niet aannemelijk dat er te veel kosten waren berekend.",
+   "bron": [
+    47
+   ],
+   "citaat": "belanghebbende niet gesteld heeft, noch aannemelijk heeft gemaakt"
+  },
+  {
+   "zin": "Het hof vond het hoger beroep ongegrond en bevestigde de uitspraak van de rechtbank.",
+   "bron": [
+    49
+   ],
+   "citaat": "dat het hoger beroep ongegrond is en dat de uitspraak van de rechtbank dient te worden bevestigd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; betaling aan andere gemeente telt niet.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffingsaanslag blijft staan: € 4 parkeerbelasting plus € 55,90 kosten, en hij krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   22,
+   51
+  ],
+  "citaat": "ten bedrage van € 4, exclusief kosten van € 55,90"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Ik heb wel parkeerbelasting betaald, alleen in de verkeerde zone, en het verschil van € 1,50 heb ik daarna bijbetaald.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De betaling ging naar Rotterdam en niet naar Amsterdam waar de auto stond; de kentekenjurisprudentie gaat alleen over betaling aan de juiste gemeente met een fout kenteken.",
+    "bron": [
+     44
+    ],
+    "citaat": "In dit geval heeft eiser geen parkeerbelasting betaald aan de gemeente Amsterdam"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat de oorzaak daarvan is gelegen in een menselijke fout van eiser, makat dat niet anders",
+    "bron": [
+     43
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De kosten van € 55,90 zijn veel te hoog voor een tekort van € 1,50.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kosten lagen onder het wettelijke maximum van € 56 en meer kosten dan toegestaan waren niet aannemelijk gemaakt.",
+    "bron": [
+     45
+    ],
+    "citaat": "De hier in rekening gebrachte kosten (€ 55,90) liggen onder dat maximum"
+   },
+   "bruikbare_zin": {
+    "citaat": "De hier in rekening gebrachte kosten (€ 55,90) liggen onder dat maximum",
+    "bron": [
+     45
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De parkeerbelasting moet worden betaald aan de gemeente waar de auto staat.",
+  "type": "regel",
+  "reikwijdte": "Parkeren op een plek waar de gemeente parkeerbelasting heft.",
+  "uitzondering": "De kentekenjurisprudentie van de rechtbank geldt wel als aannemelijk is dat aan de juiste gemeente is betaald met een fout of ontbrekend kenteken.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   42
+  ],
+  "citaat": "De parkeerbelasting dient dan ook betaald te worden aan de gemeente waarin wordt geparkeerd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "registratie van de parkeeractie bij Parkline"
+  ],
+  "wat_gaf_doorslag": "De parkeeractie was geregistreerd voor een zone in Rotterdam en niet voor de plek in Amsterdam."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 234 lid 2 onder a Gemeentewet",
+  "art. 234 lid 5 Gemeentewet",
+  "art. 234 lid 6 Gemeentewet",
+  "art. 6 Parkeerverordening Parkeerbelastingen 2013 Amsterdam",
+  "art. 3 lid 1 Besluit gemeentelijke parkeerbelastingen",
+  "art. 6:9 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Houd de kosten van een naheffingsaanslag onder het wettelijke maximum.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    45
+   ],
+   "citaat": "Met ingang van 1 januari 2013 is dat maximum vastgesteld op € 56"
+  }
+ ],
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "betaalapp",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Toetst u in de app of per telefoon een verkeerde zone in, of een zone van een andere gemeente, dan telt dat niet als betaald voor de plek waar u staat. Dan kan de gemeente een rekening achteraf sturen, ook als het tekort klein is. Controleer daarom vooraf de zone; bezwaar heeft weinig kans als dat de enige reden is.",
+ "gemeente": "Amsterdam",
+ "zekerheid": "hoog"
+}

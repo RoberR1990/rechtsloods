@@ -1,0 +1,139 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2024:5363",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder kreeg een naheffing van € 60,05 in Breda en ging in beroep tegen de heffingsambtenaar van de gemeente Breda. De rechtbank Zeeland-West-Brabant oordeelde in een enkelvoudige kamer.",
+ "titel": "Bankafschrift bewijst geen betaling parkeren; naheffing blijft",
+ "kern": {
+  "zin": "De rechter vond niet aannemelijk dat de parkeerder had betaald; het bankafschrift hoorde bij een bowlingcentrum.",
+  "bron": [
+   27
+  ],
+  "citaat": "dat het overgelegde bankafschrift van belanghebbende ziet op een betaling"
+ },
+ "samenvatting": [
+  {
+   "zin": "De auto van de parkeerder stond op 13 februari 2023 in Breda aan het Chasséveld, zonder betaalde parkeerbelasting.",
+   "bron": [
+    14
+   ],
+   "citaat": "Tijdens een controle op voornoemde datum en tijd is door parkeercontroleurs geconstateerd dat geen parkeerbelasting was voldaan."
+  },
+  {
+   "zin": "De gemeente legde een naheffing op van € 60,05, waarvan € 57,75 aan kosten.",
+   "bron": [
+    15
+   ],
+   "citaat": "is aan belanghebbende een naheffingsaanslag parkeerbelasting opgelegd van € 60,05"
+  },
+  {
+   "zin": "De parkeerder zei dat hij had betaald en legde een bankafschrift over.",
+   "bron": [
+    22
+   ],
+   "citaat": "Belanghebbende voert aan dat hij de parkeerbelasting wel heeft betaald"
+  },
+  {
+   "zin": "De gemeente zegt dat het afschrift niet van de automaat in Breda kan komen.",
+   "bron": [
+    24
+   ],
+   "citaat": "niet afkomstig kan zijn van een parkeerautomaat in Breda"
+  },
+  {
+   "zin": "Volgens de rechter veranderde een betaling elders niets aan de naheffing.",
+   "bron": [
+    28
+   ],
+   "citaat": "Een betaalbewijs voor een andere parkeervoorziening maakt dat niet anders"
+  },
+  {
+   "zin": "De rechter wees het beroep af en de naheffing blijft staan.",
+   "bron": [
+    30
+   ],
+   "citaat": "Dit betekent dat de naheffingsaanslag parkeerbelasting terecht is opgelegd en gehandhaafd blijft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing van € 60,05 blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing van € 60,05 blijft staan en het griffierecht wordt niet vergoed.",
+  "bron": [
+   31,
+   30
+  ],
+  "citaat": "Omdat het beroep ongegrond is, krijgt belanghebbende zijn griffierecht niet vergoed"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder zegt dat hij de parkeerbelasting wel heeft betaald, met een bankafschrift als bewijs.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond het bankafschrift geen bewijs van betaling voor deze parkeerplek.",
+    "bron": [
+     27
+    ],
+    "citaat": "dat het overgelegde bankafschrift van belanghebbende ziet op een betaling"
+   },
+   "bruikbare_zin": {
+    "citaat": "Een betaalbewijs voor een andere parkeervoorziening maakt dat niet anders",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een betaalbewijs van een andere parkeerplek telt niet als betaling voor deze plek.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "dit bankafschrift van een bowlingcentrum; geen algemene regel",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   28
+  ],
+  "citaat": "Een betaalbewijs voor een andere parkeervoorziening maakt dat niet anders"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "bankafschrift van de parkeerder",
+   "betaaltekst van de parkeerautomaat volgens de gemeente"
+  ],
+  "wat_gaf_doorslag": "Het bankafschrift hoorde bij een bowlingcentrum en niet bij het parkeren."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "art. 1 onder a Verordening heffing en invordering parkeerbelastingen 2023 Breda"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver feitelijke vraag of betaling is gedaan; geen gebrek bij de gemeente benoemd",
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een naheffing blijft staan als niet aannemelijk is dat u voor precies deze plek heeft betaald. Een bankafschrift van een ander bedrijf telt daarvoor niet. Heeft u betaald, zoek dan het betaalbewijs van de automaat of de app voor dit kenteken en deze plek.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

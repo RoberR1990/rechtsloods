@@ -1,0 +1,176 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2025:5885",
+ "relevant": true,
+ "kenmerk": "leasebrieven",
+ "procesvorm": "hoger beroep",
+ "steunt": null,
+ "toepasselijkheid": "landelijk",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente is geen partij; de officier van justitie beslist (Wahv)",
+ "dubbel_van": null,
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "onderwerp": "procedure-beroep",
+ "sub": "machtiging",
+ "zaaktype": "verkeersgedrag",
+ "partijen": {
+  "burger": "bedrijf (leasemaatschappij)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "intro": "Een leasebedrijf kreeg als kentekenhouder een boete voor niet rechts rijden op de A4. Het bedrijf ging via een bureau in hoger beroep tegen de officier van justitie (CJIB) bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Beroep ten onrechte niet-ontvankelijk; boete 25 procent lager",
+ "kern": {
+  "zin": "Het hof zegt dat het beroep wel behandeld moest worden en verlaagt de boete met 25 procent omdat de zaak in eerste aanleg te lang duurde.",
+  "bron": [
+   35
+  ],
+  "citaat": "zal het hof het bedrag van de sanctie matigen met 25 procent"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger (een leasebedrijf) kreeg als kentekenhouder een boete van € 150 voor niet zoveel mogelijk rechts houden op de A4 bij Schipluiden.",
+   "bron": [
+    28
+   ],
+   "citaat": "Deze gedraging zou zijn verricht op 5 november 2021 om 8.04 uur op de Rijksweg A4 in Schipluiden"
+  },
+  {
+   "zin": "De kantonrechter verklaarde het beroep niet-ontvankelijk (niet in behandeling genomen), omdat er geen goede machtiging zou zijn.",
+   "bron": [
+    20
+   ],
+   "citaat": "omdat- kortgezegd - geen deugdelijke machtiging is overgelegd"
+  },
+  {
+   "zin": "Het hof vond de brief van het leasebedrijf genoeg en zei dat het beroep dus ten onrechte niet werd behandeld.",
+   "bron": [
+    26
+   ],
+   "citaat": "De kantonrechter heeft het beroep dan ook ten onrechte niet-ontvankelijk verklaard."
+  },
+  {
+   "zin": "De gemachtigde zei dat de boete niet aan de kentekenhouder mocht, omdat de agenten de bestuurder konden aanhouden.",
+   "bron": [
+    29
+   ],
+   "citaat": "omdat er een reële mogelijkheid was tot staandehouding van de bestuurder van het voertuig"
+  },
+  {
+   "zin": "Het hof vond dat de agenten de bestuurder niet hoefden aan te houden, want ze volgden een auto die te hard reed.",
+   "bron": [
+    34
+   ],
+   "citaat": "dat er geen reële mogelijkheid was tot staandehouding van de bestuurder"
+  },
+  {
+   "zin": "Omdat de zaak bij de kantonrechter te lang duurde, verlaagt het hof de boete met 25 procent.",
+   "bron": [
+    35
+   ],
+   "citaat": "Gelet hierop zal het hof het bedrag van de sanctie matigen met 25 procent"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Boete verlaagd van € 150 naar € 112,50 door te lange procedure.",
+ "gevolg_betrokkene": {
+  "zin": "De boete wordt € 112,50 in plaats van € 150 en de advocaat-generaal (vertegenwoordiger van de officier van justitie) betaalt € 1.020,38 aan proceskosten.",
+  "bron": [
+   44,
+   46
+  ],
+  "citaat": "wijzigt de inleidende beschikking in zoverre dat het bedrag van de sanctie wordt gewijzigd in € 112,50"
+ },
+ "bezwaargronden": [
+  {
+   "arg": "machtiging-gemachtigde",
+   "burger_zegt": "De brief van het leasebedrijf laat genoeg zien dat de gemachtigde mag optreden.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Er kon redelijkerwijs niet worden getwijfeld aan de brief, dus een uittreksel uit het Handelsregister was niet nodig.",
+    "bron": [
+     26
+    ],
+    "citaat": "De kantonrechter heeft in redelijkheid niet deze brief ontoereikend kunnen achten"
+   },
+   "bruikbare_zin": {
+    "citaat": "De kantonrechter heeft in redelijkheid niet deze brief ontoereikend kunnen achten",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "niet-staande-gehouden",
+   "burger_zegt": "De boete had aan de bestuurder moeten gaan, want staandehouden was mogelijk.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De agenten volgden een snelheidsovertreder, dus er was geen reële mogelijkheid om de bestuurder aan te houden.",
+    "bron": [
+     34
+    ],
+    "citaat": "dat er geen reële mogelijkheid was tot staandehouding van de bestuurder"
+   },
+   "bruikbare_zin": {
+    "citaat": "te bepalen aan welke staaandehouding prioriteit gegeven wordt",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "redelijke-termijn",
+   "burger_zegt": "De burger voerde dit niet aan; het hof stelde de overschrijding zelf vast.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De zaak duurde in eerste aanleg te lang, dus de boete wordt met 25 procent verlaagd.",
+    "bron": [
+     35
+    ],
+    "citaat": "zal het hof het bedrag van de sanctie matigen met 25 procent"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wordt de redelijke termijn in eerste aanleg overschreden, dan verlaagt het hof de boete met 25 procent.",
+  "type": "regel",
+  "reikwijdte": "Wahv-zaken waarin de redelijke termijn van berechting is overschreden.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   35
+  ],
+  "citaat": "zal het hof het bedrag van de sanctie matigen met 25 procent"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "zaakoverzicht met verklaring van de ambtenaren",
+   "brief van het leasebedrijf aan de berijder"
+  ],
+  "wat_gaf_doorslag": "De ambtenaren volgden een auto die te hard reed, daarom was staandehouden niet reëel mogelijk."
+ },
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHARL:2023:6369",
+   "ECLI:NL:GHARL:2021:3239",
+   "ECLI:NL:GHARL:2025:5551"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 5 Wahv",
+  "art. 9 lid 1 Wahv",
+  "art. 8:24 lid 2 Awb",
+  "art. 6 lid 1 EVRM",
+  "art. 13a Wahv",
+  "art. 11 Wahv"
+ ],
+ "raakt": [
+  "bezwaar",
+  "juridische-zaken"
+ ],
+ "klantuitleg": "Laat u een bureau of gemachtigde optreden voor uw bedrijf, stuur dan een machtiging van het bedrijf mee; een brief van het leasebedrijf kan genoeg zijn. Als de handhavers de bestuurder niet konden aanhouden, mag de boete naar de eigenaar op het kenteken. Duurt de zaak te lang, dan kan de rechter de boete met een kwart verlagen.",
+ "zekerheid": "hoog"
+}

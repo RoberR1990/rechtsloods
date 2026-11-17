@@ -1,0 +1,177 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:1288",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda (heffingsambtenaar)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg in Breda een naheffing (de rekening achteraf), omdat hij zich niet meteen via de parkeerapp had aangemeld. Hij ging in beroep tegen de heffingsambtenaar van de gemeente Breda bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Aanmelden 13 minuten na parkeren: parkeerder moet betalen",
+ "kern": {
+  "zin": "Een extra tijd van tien minuten om te betalen was al voorbij, dus de naheffing (de rekening achteraf) is terecht.",
+  "bron": [
+   27
+  ],
+  "citaat": "Daarmee is de redelijke termijn verstreken"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle zagen parkeercontroleurs dat er niet betaald was.",
+   "bron": [
+    16
+   ],
+   "citaat": "geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zegt dat hij op bezoek was en het aanmelden daardoor niet op tijd lukte.",
+   "bron": [
+    26
+   ],
+   "citaat": "Hij diende zich aan te melden via de vergunninghouder bij wie hij op bezoek was"
+  },
+  {
+   "zin": "Volgens de gemeente geldt in Breda een extra termijn van tien minuten om te betalen.",
+   "bron": [
+    27
+   ],
+   "citaat": "een coulanceregeling van 10 minuten wordt gehanteerd bij betaald parkeren"
+  },
+  {
+   "zin": "De rechter oordeelt dat de tijd van tien minuten voorbij was.",
+   "bron": [
+    27
+   ],
+   "citaat": "tussen het moment van parkeren en de aanmelding via de parkeerapp 13 minuten zijn verstreken"
+  },
+  {
+   "zin": "Ook proceskosten krijgt de parkeerder niet vergoed.",
+   "bron": [
+    32
+   ],
+   "citaat": "Hij krijgt ook geen vergoeding van zijn proceskosten"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing van 52,80 euro blijft staan; geen griffierecht terug.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de parkeerder blijft de naheffing van 52,80 euro staan, en het griffierecht krijgt hij niet terug.",
+  "bron": [
+   17,
+   32
+  ],
+  "citaat": "bestaande uit een bedrag aan belasting van € 1,80 en € 51,00 aan kosten van de naheffingsaanslag"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder zegt dat hij op bezoek was en door omstandigheden niet op tijd kon aanmelden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat deze omstandigheden voor rekening van de parkeerder zelf zijn.",
+    "bron": [
+     27
+    ],
+    "citaat": "komt voor zijn eigen rekening en risico"
+   },
+   "bruikbare_zin": {
+    "citaat": "De naheffingsaanslag is daarom terecht opgelegd",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "privacy-kenteken",
+   "burger_zegt": "De gemeente zou privégegevens zonder toestemming hebben gedeeld met een commerciële partij.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Twee bedrijven handelen namens de gemeente, dus er is volgens de rechter geen ongeoorloofd delen van gegevens.",
+    "bron": [
+     28
+    ],
+    "citaat": "verrichten werkzaamheden in het kader van de uitvoering en handhaving van parkeerbeleid"
+   },
+   "bruikbare_zin": {
+    "citaat": "Invoned en P1 On Street Management B.V. optreden namens de gemeente op basis van een mandaatregeling",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder zegt dat hij drie keer heeft betaald.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Zonder betaalbewijzen kan de rechter die drie betalingen niet vaststellen.",
+    "bron": [
+     29
+    ],
+    "citaat": "heeft geen (betaal)bewijzen daarvan overgelegd"
+   },
+   "bruikbare_zin": {
+    "citaat": "ligt het op de weg van de gemeente om dat bedrag als nog terug te storten",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie parkeert, moet meteen betalen; een redelijke termijn is wel toegestaan.",
+  "type": "regel",
+  "reikwijdte": "betaald parkeren: betalen of aanmelden direct na aanvang van het parkeren",
+  "uitzondering": "een redelijke termijn om te betalen (in Breda tien minuten)",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "dat op grond van vaste jurisprudentie de parkeerbelasting terstond na aanvang van het parkeren dient te worden voldaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "controle van parkeercontroleurs (17 februari 2025, 18:29 uur)",
+   "aanmelding in de parkeerapp (18:42 uur)"
+  ],
+  "wat_gaf_doorslag": "De tijd van 13 minuten tussen parkeren en aanmelden, langer dan de tien minuten coulance."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "vaste jurisprudentie over betalen bij aanvang van het parkeren",
+  "coulanceregeling gemeente Breda (10 minuten)"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij dubbele betalingen of het bedrag is teruggestort; het ligt op de gemeente om dat na te gaan.",
+   "raakt": "betaalapp",
+   "bron": [
+    29
+   ],
+   "citaat": "ligt het op de weg van de gemeente om dat bedrag als nog terug te storten"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "privacy-woo"
+ ],
+ "klantuitleg": "In Breda hebt u na het parkeren tien minuten de tijd om via de app te betalen. Is die tijd voorbij, dan is de rekening voor het parkeren terecht, ook als u een goede reden had. Denkt u al betaald te hebben, dan helpt een betaalbewijs; zonder bewijs heeft bezwaar weinig kans.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

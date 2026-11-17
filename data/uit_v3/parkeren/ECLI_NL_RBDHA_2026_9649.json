@@ -1,0 +1,139 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2026:9649",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "invordering",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (particulier)",
+  "wederpartij": "gemeente Den Haag (invordering)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Den Haag aanmaningskosten van 9 euro, omdat een naheffing niet was betaald. De parkeerder ging in beroep bij de rechtbank Den Haag.",
+ "titel": "Verzendbewijs telt: aanmaningskosten van 9 euro blijven",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente met de verzendadministratie aannemelijk maakte dat de naheffing op het juiste adres was verstuurd, dus de aanmaningskosten zijn terecht.",
+  "bron": [
+   19
+  ],
+  "citaat": "De enkele ontkenning van de ontvangst van de naheffingsaanslag op dit adres ontzenuwt het vermoeden van ontvangst niet"
+ },
+ "samenvatting": [
+  {
+   "zin": "Omdat de parkeerder geen bezwaar had gemaakt, stond de naheffing vast; alleen de aanmaning was nog in geschil.",
+   "bron": [
+    16
+   ],
+   "citaat": "Eiser heeft geen bezwaar gemaakt tegen de naheffingsaanslag, waardoor deze inmiddels in rechte vaststaat"
+  },
+  {
+   "zin": "De parkeerder zei dat de aanmaning ten onrechte was gestuurd, omdat de naheffing niet goed was bekendgemaakt.",
+   "bron": [
+    17
+   ],
+   "citaat": "ten onrechte een aanmaning gestuurd wegens het niet-betalen van de naheffingsaanslag"
+  },
+  {
+   "zin": "De gemeente legde een verzendadministratie over als bewijs van verzending naar het juiste adres.",
+   "bron": [
+    19
+   ],
+   "citaat": "de door hem overgelegde verzendadministratie"
+  },
+  {
+   "zin": "De rechter oordeelde dat een blote ontkenning van ontvangst het vermoeden niet wegneemt.",
+   "bron": [
+    19
+   ],
+   "citaat": "De enkele ontkenning van de ontvangst van de naheffingsaanslag op dit adres ontzenuwt het vermoeden van ontvangst niet"
+  },
+  {
+   "zin": "Het beroep is afgewezen en de aanmaningskosten van 9 euro blijven staan.",
+   "bron": [
+    25
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; aanmaningskosten van 9 euro blijven staan.",
+ "gevolg_betrokkene": {
+  "zin": "De aanmaningskosten van 9 euro blijven staan; een vergoeding van proceskosten is er niet.",
+  "bron": [
+   25,
+   23
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De naheffing is niet op de juiste manier bekendgemaakt, dus er mocht geen aanmaning komen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Daarmee ontstaat voor de rechter een vermoeden dat de naheffing is ontvangen.",
+    "bron": [
+     19
+    ],
+    "citaat": "Daarmee ontstaat een vermoeden van ontvangst van de naheffingsaanslag"
+   },
+   "bruikbare_zin": {
+    "citaat": "het vermoeden van ontvangst of aanbieding van de stukken op dat adres rechtvaardigt",
+    "bron": [
+     19
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij verzending per post mag de gemeente uitgaan van ontvangst op het juiste adres.",
+  "type": "regel",
+  "reikwijdte": "naheffingen en aanmaningen die per post naar het adres van de geadresseerde zijn gestuurd",
+  "uitzondering": "een enkele ontkenning van ontvangst is niet genoeg",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "het vermoeden van ontvangst of aanbieding van de stukken op dat adres rechtvaardigt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verzendadministratie"
+  ],
+  "wat_gaf_doorslag": "De verzendadministratie maakte aannemelijk dat de naheffing op het juiste adres is verstuurd."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:GHDHA:2025:2419"
+  ]
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar de verzendadministratie bij elke naheffing en aanmaning, zodat verzending op het juiste adres aantoonbaar is.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    19
+   ],
+   "citaat": "de door hem overgelegde verzendadministratie"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "klantcontact"
+ ],
+ "klantuitleg": "Hebt u een aanmaning gekregen voor een niet betaalde parkeerrekening, dan kan de gemeente extra kosten rekenen als de brief op het juiste adres is verstuurd. Zegt u de brief nooit te hebben ontvangen, dan helpt dat op zichzelf niet; de gemeente hoeft alleen aan te tonen dat de brief goed is verstuurd. Heeft u andere bewijzen, zoals een verhuizing of een ander adres, dan kunt u die aanleveren.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

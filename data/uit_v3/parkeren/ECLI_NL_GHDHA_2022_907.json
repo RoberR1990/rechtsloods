@@ -1,0 +1,195 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2022:907",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder, met gemachtigde",
+  "wederpartij": "gemeente Delft",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder in Delft kreeg een naheffingsaanslag (een rekening achteraf) voor parkeren zonder te betalen. Hij ging in hoger beroep bij het gerechtshof Den Haag tegen de gemeente Delft over de kosten van zijn bezwaar tegen een dwangsom (een bedrag per dag dat de gemeente te laat is).",
+ "titel": "Parkeerder krijgt proceskosten na te late beslissing van Delft",
+ "kern": {
+  "zin": "Het hof beslist dat Delft proceskosten moet vergoeden voor het bezwaar tegen de dwangsom, omdat die klachten bij de zaak over de naheffing horen.",
+  "bron": [
+   69
+  ],
+  "citaat": "Op grond van het bepaalde in artikel 7:15, lid 2 en 3, Awb had een proceskostenvergoeding moeten worden toegekend"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeercontroleur stelde vast dat niet was betaald; de parkeerder kreeg een naheffingsaanslag van € 64,20.",
+   "bron": [
+    19
+   ],
+   "citaat": "is aan belanghebbende een naheffingsaanslag ten bedrage van € 64,20 opgelegd"
+  },
+  {
+   "zin": "De parkeerder maakte bezwaar en stelde de gemeente in gebreke omdat een beslissing uitbleef.",
+   "bron": [
+    21
+   ],
+   "citaat": "heeft belanghebbende de Heffingsambtenaar in gebreke gesteld wegens het uitblijven van een beslissing op bezwaar"
+  },
+  {
+   "zin": "De gemeente vond dat de parkeerder niet voor een proceskostenvergoeding in aanmerking kwam.",
+   "bron": [
+    32
+   ],
+   "citaat": "belanghebbende niet voor een proceskostenvergoeding in aanmerking komt"
+  },
+  {
+   "zin": "De rechtbank liet de naheffing in stand, ook al had de gemeente de parkeerder niet gehoord, en wilde de kosten van het bezwaar tegen de dwangsom niet beoordelen.",
+   "bron": [
+    51,
+    45,
+    38
+   ],
+   "citaat": "de rechtsgevolgen van de vernietigde uitspraak op bezwaar in stand blijven"
+  },
+  {
+   "zin": "Het hof vond dat de rechtbank dit had moeten beoordelen en kent zelf € 134,50 toe voor het bezwaar tegen de dwangsom.",
+   "bron": [
+    67,
+    69
+   ],
+   "citaat": "Met de afwijzing van het verzoek in rechtsoverweging 7 van haar uitspraak heeft de Rechtbank dit miskend"
+  },
+  {
+   "zin": "Voor het hoger beroep komt daar € 379,50 aan proceskosten en € 134 griffierecht bij.",
+   "bron": [
+    73,
+    74
+   ],
+   "citaat": "kosten van hoger beroep stelt het Hof vast op € 379,50"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Alleen proceskosten en griffierecht; de naheffing zelf blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet in totaal € 514 aan proceskosten en € 134 griffierecht vergoeden; de naheffing van € 64,20 blijft staan.",
+  "bron": [
+   78,
+   79,
+   51
+  ],
+  "citaat": "veroordeelt de Heffingsambtenaar in de proceskosten van belanghebbende tot een bedrag van in totaal € 514"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Op de plek was niet duidelijk dat daar betaald moest worden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat een parkeerder die de duidelijk zichtbare borden mist, dat zelf moet dragen.",
+    "bron": [
+     50
+    ],
+    "citaat": "het missen van de aanwezige en vanaf de parkeerplaats van de auto duidelijk zichtbare bebording"
+   },
+   "bruikbare_zin": {
+    "citaat": "een omstandigheid die voor rekening en risico van eiser moet blijven",
+    "bron": [
+     50
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "Hij had gevraagd om gehoord te worden, maar is niet gehoord vóór de beslissing op bezwaar.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank vond dat de gemeente de hoorplicht had geschonden; dat had geen gevolgen voor de naheffing.",
+    "bron": [
+     45
+    ],
+    "citaat": "is de rechtbank van oordeel dat verweerder niet voldaan heeft aan de hoorplicht"
+   },
+   "bruikbare_zin": {
+    "citaat": "mocht verweerder volgens vaste jurisprudentie niet afleiden dat eiser (stilzwijgend) afstand deed van het recht om te worden gehoord",
+    "bron": [
+     45
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente besliste te laat; de dwangsom moest voor negen dagen zijn, en hij wilde zijn proceskosten vergoed zien.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente had bij het bezwaar tegen de dwangsom een proceskostenvergoeding moeten toekennen.",
+    "bron": [
+     69
+    ],
+    "citaat": "Op grond van het bepaalde in artikel 7:15, lid 2 en 3, Awb had een proceskostenvergoeding moeten worden toegekend"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Klachten over een dwangsom wegens te late beslissing op bezwaar horen bij het beroep tegen de naheffing; de rechter moet ze daar meenemen.",
+  "type": "regel",
+  "reikwijdte": "Beroep tegen een naheffingsaanslag waarbij de gemeente te laat besliste op bezwaar en een dwangsom is vastgesteld",
+  "uitzondering": "De rechter mag de beslissing over de hoogte van de dwangsom naar een ander orgaan verwijzen als dat gewenst is.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   67
+  ],
+  "citaat": "worden geacht deel uit te maken van het beroep inzake (het niet of niet tijdig nemen van) die beslissing"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2019:787"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 4:18 Awb",
+  "art. 4:19 Awb",
+  "art. 7:15 lid 2 en 3 Awb",
+  "art. 8:75 Awb",
+  "art. 7:3 Awb",
+  "art. 8:72 lid 3 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Ken bij een gegrond bezwaar tegen een dwangsombeschikking meteen een proceskostenvergoeding toe als de burger daarom heeft gevraagd",
+   "raakt": "bezwaar",
+   "bron": [
+    69
+   ],
+   "citaat": "Op grond van het bepaalde in artikel 7:15, lid 2 en 3, Awb had een proceskostenvergoeding moeten worden toegekend"
+  },
+  {
+   "actie": "Hoor de burger die in zijn bezwaarschrift om een hoorzitting vroeg, ook als hij niet reageert op uw uitnodiging",
+   "raakt": "bezwaar",
+   "bron": [
+    45
+   ],
+   "citaat": "mocht verweerder volgens vaste jurisprudentie niet afleiden dat eiser (stilzwijgend) afstand deed van het recht om te worden gehoord"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "klantcontact"
+ ],
+ "klantuitleg": "Maakt u bezwaar tegen een parkeerrekening en beslist de gemeente niet op tijd, dan kan zij u een dwangsom (een bedrag per dag te laat) moeten betalen. Wint u een bezwaar over die dwangsom, dan kan de gemeente ook uw proceskosten moeten vergoeden; de parkeerrekening zelf blijft staan als de borden duidelijk waren. Wilt u gehoord worden, vraag dat dan duidelijk in uw bezwaarschrift.",
+ "gemeente": "Delft",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

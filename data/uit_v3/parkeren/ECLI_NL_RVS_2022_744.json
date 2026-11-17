@@ -1,0 +1,182 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2022:744",
+ "relevant": true,
+ "onderwerp": "parkeernormen",
+ "sub": "parkeerdruk-omgeving",
+ "kenmerk": null,
+ "zaaktype": "omgevingsrecht",
+ "partijen": {
+  "burger": "bewoonster",
+  "wederpartij": "gemeenteraad De Bilt",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "voorlopige voorziening",
+ "intro": "Een bewoonster uit Bilthoven wilde dat een bouwplan met 30 woningen tijdelijk werd stilgelegd, onder meer door de extra parkeerdruk. Ze vroeg dat aan de voorzieningenrechter van de Raad van State, tegen de gemeenteraad van De Bilt.",
+ "titel": "Bouwplan met 30 woningen voorlopig niet stilgelegd om parkeerdruk",
+ "kern": {
+  "zin": "De voorzieningenrechter wees het verzoek voorlopig af, omdat uit het parkeeronderzoek bleek dat de extra parkeerdruk geen probleem wordt.",
+  "bron": [
+   35
+  ],
+  "citaat": "de extra vraag naar 9 openbare parkeerplaatsen in de buurt niet zal leiden tot een problematische parkeerdruk"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het plan is een appartementencomplex met 30 woningen en 28 parkeerplaatsen op het eigen terrein.",
+   "bron": [
+    22
+   ],
+   "citaat": "Het plan voorziet in de bouw van een appartementencomplex met 30 woningen"
+  },
+  {
+   "zin": "De bewoonster zei dat er 37 parkeerplaatsen nodig zijn en maar 28 komen, wat de parkeerdruk in de buurt verhoogt.",
+   "bron": [
+    34
+   ],
+   "citaat": "voor het appartementencomplex 37 parkeerplaatsen nodig zijn, terwijl er maar 28 parkeerplaatsen"
+  },
+  {
+   "zin": "De gemeenteraad zei dat het parkeeronderzoek in een groot gebied rond het plan is gedaan.",
+   "bron": [
+    36
+   ],
+   "citaat": "het parkeeronderzoek is verricht in een vrij groot gebied rondom het plangebied"
+  },
+  {
+   "zin": "De rechter vond dat de extra vraag leidt tot een parkeerdruk van 60%, terwijl de parkeerdruk pas vanaf 85% overdag onaanvaardbaar is.",
+   "bron": [
+    35
+   ],
+   "citaat": "Het zou namelijk leiden tot een parkeerdruk van 60% op het drukste moment"
+  },
+  {
+   "zin": "De planregels over parkeren kunnen volgens de rechter onzeker zijn, maar dat is makkelijk te herstellen en geen reden om het plan stil te leggen.",
+   "bron": [
+    58
+   ],
+   "citaat": "Een eventueel gebrek op dit punt is namelijk eenvoudig te herstellen"
+  },
+  {
+   "zin": "Het verzoek om het plan stil te leggen werd afgewezen.",
+   "bron": [
+    64
+   ],
+   "citaat": "Het verzoek wordt afgewezen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Verzoek tot schorsing afgewezen; voorlopig oordeel, bodemzaak volgt",
+ "gevolg_betrokkene": {
+  "zin": "Het plan blijft voorlopig gelden, de bewoonster krijgt geen proceskosten vergoed en de bodemzaak beslist later over het plan zelf.",
+  "bron": [
+   64,
+   65
+  ],
+  "citaat": "Het verzoek wordt afgewezen"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "parkeernorm-onvoldoende",
+   "burger_zegt": "Er zijn 37 parkeerplaatsen nodig maar er komen er 28, dus de parkeerdruk in de buurt wordt te hoog.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het parkeeronderzoek liet zien dat de extra vraag naar 9 openbare plaatsen niet tot een problematische parkeerdruk leidt.",
+    "bron": [
+     35
+    ],
+    "citaat": "de extra vraag naar 9 openbare parkeerplaatsen in de buurt niet zal leiden tot een problematische parkeerdruk"
+   },
+   "bruikbare_zin": {
+    "citaat": "de parkeerdruk pas onaanvaardbaar hoog is vanaf 85% overdag",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het parkeeronderzoek is niet representatief, omdat het is gedaan op een dag met een parkeerverbod door de weekmarkt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag geen reden om aan te nemen dat het onderzoek niet representatief was, omdat het in een groot gebied is gedaan.",
+    "bron": [
+     36
+    ],
+    "citaat": "het parkeeronderzoek is verricht in een vrij groot gebied rondom het plangebied"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De planregels over parkeren spreken elkaar tegen, omdat de parkeerkwestie met twee verschillende maatstaven wordt beoordeeld.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter vond het niet uitgesloten dat de regels onzeker zijn, maar zag daarin geen reden om het plan stil te leggen.",
+    "bron": [
+     58
+    ],
+    "citaat": "Een eventueel gebrek op dit punt is namelijk eenvoudig te herstellen"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerdruk van 60% op het drukste moment is aanvaardbaar, want pas vanaf 85% overdag is de parkeerdruk onaanvaardbaar hoog.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Alleen dit bouwplan en deze buurt in Bilthoven; voorlopig oordeel van de voorzieningenrechter",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   35
+  ],
+  "citaat": "de parkeerdruk pas onaanvaardbaar hoog is vanaf 85% overdag"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "parkeeronderzoek (parkeerbalans) van een onderzoeksbureau",
+   "zienswijzennota van de gemeenteraad"
+  ],
+  "wat_gaf_doorslag": "Het parkeeronderzoek liet een parkeerdruk van 60% zien, onder de grens van 85%."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:81 Awb",
+  "art. 8.4 Wet ruimtelijke ordening",
+  "art. 7.2.1 planregels bestemmingsplan Melkweg 3 Bilthoven"
+ ],
+ "actie_gemeente": [
+  {
+   "bron": [
+    36
+   ],
+   "citaat": "het parkeeronderzoek is verricht in een vrij groot gebied rondom het plangebied",
+   "raakt": "verordening-beleid",
+   "actie": "Laat het parkeeronderzoek uitvoeren in een groot gebied rondom het bouwplan."
+  },
+  {
+   "bron": [
+    58
+   ],
+   "citaat": "rechtsonzeker zijn of in strijd zijn met de zorgvuldigheid",
+   "raakt": "verordening-beleid",
+   "actie": "Formuleer parkeerregels in een bestemmingsplan eenduidig, zodat niet twee maatstaven naast elkaar staan."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "verordening-beleid",
+  "bezwaar"
+ ],
+ "klantuitleg": "Komen er in uw buurt woningen met minder parkeerplaatsen dan u nodig vindt, dan kijkt de rechter naar een parkeeronderzoek. Blijft de drukte daarin onder de grens van 85%, dan was dat in deze zaak geen reden om het plan stil te leggen; dit oordeel is voorlopig. Wilt u bezwaar maken, leg dan uit waarom het onderzoek niet klopt.",
+ "gemeente": "De Bilt",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

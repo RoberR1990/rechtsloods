@@ -1,0 +1,187 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2023:147",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Arnhem",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder ging in hoger beroep tegen de gemeente Arnhem over een naheffingsaanslag (de rekening achteraf) voor parkeren. Het gerechtshof Arnhem-Leeuwarden moest beslissen of de vergunning gold voor de auto, terwijl bij het doorgeven van het kenteken een verkeerde datum was ingevuld.",
+ "titel": "Verkeerde datum bij kentekenwijziging: parkeerrekening blijft staan",
+ "kern": {
+  "zin": "Het hof vond de rekening terecht, omdat de vergunning op het moment van parkeren nog niet voor deze auto gold.",
+  "bron": [
+   51
+  ],
+  "citaat": "maakt niet dat een parkeervergunning voor de Skoda geldig was op het moment van parkeren"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger parkeerde zijn auto in Arnhem op een plek waar je parkeerbelasting moet betalen.",
+   "bron": [
+    16
+   ],
+   "citaat": "Deze locatie is door het college van burgemeester en wethouders aangewezen als een plaats waar tegen betaling van parkeerbelasting mag worden geparkeerd."
+  },
+  {
+   "zin": "De gemeente legde een naheffingsaanslag op, omdat voor de auto niet was betaald.",
+   "bron": [
+    17
+   ],
+   "citaat": "De controleambtenaar heeft geconstateerd dat voor het parkeren van de Skoda geen parkeerbelasting was voldaan."
+  },
+  {
+   "zin": "De burger gaf toe dat hij bij de kentekenwijziging van zijn bedrijfsvergunning per ongeluk de verkeerde datum had ingevuld. Hij vroeg om coulance (mildheid).",
+   "bron": [
+    32
+   ],
+   "citaat": "Helaas is per abuis de verkeerde datum ingevoerd."
+  },
+  {
+   "zin": "De burger vond ook dat de gemeente hem had moeten horen. De gemeente vond de zaak duidelijk en hoorde hem niet.",
+   "bron": [
+    45
+   ],
+   "citaat": "hij terecht van het horen heeft afgezien, omdat voor hem de zaak helder was"
+  },
+  {
+   "zin": "Het hof oordeelde dat de foute datum de vergunning niet geldig maakte op het moment van parkeren.",
+   "bron": [
+    51
+   ],
+   "citaat": "maakt niet dat een parkeervergunning voor de Skoda geldig was op het moment van parkeren"
+  },
+  {
+   "zin": "Het hof vond dat de gemeente niet hoefde te horen, omdat het bezwaar kennelijk ongegrond was. Het hof bevestigde de uitspraak van de rechtbank.",
+   "bron": [
+    47
+   ],
+   "citaat": "kon de heffingsambtenaar onder deze omstandigheden afzien van het horen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; naheffingsaanslag blijft staan, geen kostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De burger moet de naheffingsaanslag betalen en krijgt geen vergoeding van griffierecht of proceskosten.",
+  "bron": [
+   58
+  ],
+  "citaat": "Het Hof ziet dan ook geen reden om belanghebbende een proceskostenvergoeding of vergoeding van het griffierecht toe te kennen."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Ik heb per ongeluk de verkeerde ingangsdatum van de kentekenwijziging ingevuld; mijn vergunning had moeten gelden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een foute datum in het digitale loket maakt de vergunning niet geldig op het moment van parkeren.",
+    "bron": [
+     51
+    ],
+    "citaat": "Voor de Skoda was op het moment van parkeren geen parkeervergunning geldig."
+   },
+   "bruikbare_zin": {
+    "citaat": "Voor de Skoda was op het moment van parkeren geen parkeervergunning geldig.",
+    "bron": [
+     51
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De gemeente had mij moeten horen, want ik had daarom gevraagd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er was geen ruzie over de feiten of de hoogte, dus het bezwaar was kennelijk ongegrond en horen hoefde niet.",
+    "bron": [
+     47
+    ],
+    "citaat": "Naar het oordeel van het Hof kon de heffingsambtenaar onder deze omstandigheden afzien van het horen"
+   },
+   "bruikbare_zin": {
+    "citaat": "omdat het bezwaarschrift kennelijk ongegrond was",
+    "bron": [
+     47
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De beslissing op bezwaar is niet goed uitgelegd: de gemeente noemde de geschonden voorwaarde en de reden om niet te horen niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente mocht de reden om niet te horen ook later, in beroep, nog uitleggen.",
+    "bron": [
+     57
+    ],
+    "citaat": "ook in beroep voor het eerst mag motiveren waarom hij van het horen heeft afgezien"
+   },
+   "bruikbare_zin": {
+    "citaat": "ook in beroep voor het eerst mag motiveren waarom hij van het horen heeft afgezien",
+    "bron": [
+     57
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een foute ingangsdatum bij een kentekenwijziging in het digitale loket maakt de vergunning niet eerder geldig.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Bedrijfsvergunning waarbij het kenteken via het digitale loket tijdelijk wordt gewijzigd",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   51
+  ],
+  "citaat": "maakt niet dat een parkeervergunning voor de Skoda geldig was op het moment van parkeren"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "gegevens uit het digitale parkeerloket",
+   "verklaring controleambtenaar"
+  ],
+  "wat_gaf_doorslag": "De kentekenwijziging ging pas op 9 november in, dus op 3 november gold de vergunning niet voor deze auto."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2008:BD9477"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2 Parkeerverordening 2020 Arnhem",
+  "art. 25 AWR",
+  "art. 7:3 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg vast waarom u afziet van horen, desnoods pas in het verweerschrift.",
+   "raakt": "bezwaar",
+   "bron": [
+    57
+   ],
+   "citaat": "ook in beroep voor het eerst mag motiveren waarom hij van het horen heeft afgezien"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "vergunningen",
+  "verordening-beleid"
+ ],
+ "klantuitleg": "Een parkeervergunning geldt alleen voor het kenteken en vanaf het moment dat u in het loket hebt ingevuld. Is de ingangsdatum fout, dan telt de parkeerrekening toch. Bezwaar heeft weinig kans als u alleen zegt dat u een fout maakte.",
+ "gemeente": "Arnhem",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

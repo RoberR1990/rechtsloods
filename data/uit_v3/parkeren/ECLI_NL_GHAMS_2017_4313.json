@@ -1,0 +1,181 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2017:4313",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg in Amsterdam een naheffingsaanslag (een rekening achteraf) voor niet betaald parkeren. Hij zei dat hij aan het laden en lossen was en ging in hoger beroep tegen de gemeente bij het gerechtshof Amsterdam.",
+ "titel": "Rekening achteraf blijft: laden en lossen niet aangetoond",
+ "kern": {
+  "zin": "Het hof vindt de rekening achteraf terecht, omdat de parkeerder niet aannemelijk maakte dat hij aan het laden en lossen was.",
+  "bron": [
+   102
+  ],
+  "citaat": "belanghebbende niet aan zijn onder 5.2.1 bedoelde bewijslast heeft voldaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een auto stond op 7 juni 2015 om 15:44 uur op een betaalde plek en er was geen geldig parkeerbewijs.",
+   "bron": [
+    22
+   ],
+   "citaat": "Op 7 juni 2015 omstreeks 15:44 uur stond de auto van eiser"
+  },
+  {
+   "zin": "De parkeerder zei dat hij kort stilstond om muziekinstrumenten te laden of te lossen.",
+   "bron": [
+    72
+   ],
+   "citaat": "een korte tijd stilstaan voor het onmiddellijk laden of lossen van goederen"
+  },
+  {
+   "zin": "De gemeente zei dat de controleurs geen laden of lossen zagen en niemand zagen in- of uitstappen.",
+   "bron": [
+    98
+   ],
+   "citaat": "geen onmiddellijke laad- en losactiviteiten waargenomen en geen personen zien in- of uitstappen"
+  },
+  {
+   "zin": "De rechter vond dat de parkeerder onvoldoende uitlegde waarom hij zijn instrumenten met de auto moest brengen.",
+   "bron": [
+    100
+   ],
+   "citaat": "niet kan worden afgeleid dat de muziekinstrumenten"
+  },
+  {
+   "zin": "De auto stond dus geparkeerd en de rekening achteraf is terecht opgelegd.",
+   "bron": [
+    111
+   ],
+   "citaat": "De Naheffingsaanslag is derhalve terecht opgelegd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Rekening achteraf blijft staan; geen kostenvergoeding",
+ "gevolg_betrokkene": {
+  "zin": "De rekening achteraf van € 58,90 blijft staan en de parkeerder krijgt geen vergoeding van zijn kosten.",
+  "bron": [
+   111,
+   22,
+   115
+  ],
+  "citaat": "De Naheffingsaanslag is derhalve terecht opgelegd"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "De parkeerder zegt dat hij kort stilstond om muziekinstrumenten uit te laden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De parkeerder moet bewijzen dat hij aan het laden en lossen was en dat deed hij niet.",
+    "bron": [
+     102
+    ],
+    "citaat": "belanghebbende niet aan zijn onder 5.2.1 bedoelde bewijslast heeft voldaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "Belanghebbende heeft onvoldoende feiten en omstandigheden gesteld die de conclusie rechtvaardigen dat sprake was van onmiddellijk laden en lossen",
+    "bron": [
+     93
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De parkeerder zegt dat de auto op de stoep stond en dat de scanauto niet is gecontroleerd door een handhaver.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De scangegevens en de controle ter plaatse laten zien dat de auto niet op de stoep stond.",
+    "bron": [
+     85
+    ],
+    "citaat": "bij de nacontrole om 15:51 bleek"
+   },
+   "bruikbare_zin": {
+    "citaat": "de scanauto de Auto van belanghebbende omstreeks 15:44 op de Locatie ter hoogte van huisnummer [nummer] gescand heeft",
+    "bron": [
+     85
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De parkeerder zegt dat er van het telefonisch horen geen verslag is gemaakt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Uit de beslissing op bezwaar blijkt genoeg wat er tijdens het horen is besproken.",
+    "bron": [
+     110
+    ],
+    "citaat": "Een afzonderlijk verslag was derhalve niet nodig"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Onmiddellijk laden en lossen is het bij voortduring in- of uitladen van zaken van enige omvang of gewicht, direct nadat het voertuig stilstaat.",
+  "type": "regel",
+  "reikwijdte": "Beroep op laden en lossen om geen parkeerbelasting te hoeven betalen; de parkeerder moet dit aannemelijk maken",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   92
+  ],
+  "citaat": "het bij voortduring inladen of uitladen van zaken van enige omvang of enig gewicht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "scanoverzicht",
+   "scanfoto",
+   "verklaring controleurs",
+   "stukken over het optreden van de parkeerder"
+  ],
+  "wat_gaf_doorslag": "De controleurs zagen op het controlemoment geen laden of lossen en de parkeerder maakte niet aannemelijk dat zijn instrumenten per auto moesten komen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2014:445"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2 Verordening Parkeerbelastingen 2016 Amsterdam",
+  "art. 4 Verordening Parkeerbelastingen 2015-II Amsterdam",
+  "art. 225 Gemeentewet",
+  "art. 7:4 Awb",
+  "art. 7:7 Awb",
+  "art. 7:9 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg vast wat de controleur bij de controle ter plaatse zag, en bewaar het scanoverzicht en de foto bij het dossier.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    85
+   ],
+   "citaat": "bij de nacontrole om 15:51 bleek"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Staat uw auto even stil om spullen in of uit te laden, dan hoeft u niet te betalen. U moet dan wel aannemelijk maken dat het om zware of grote spullen gaat die u niet makkelijk op een andere manier kunt brengen, en dat u ze direct laadt of lost. Maakt u bezwaar, stuur dan bewijs mee, zoals foto's, een bon of een verklaring.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

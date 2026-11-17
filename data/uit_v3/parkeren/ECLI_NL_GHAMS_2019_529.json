@@ -1,0 +1,192 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2019:529",
+ "relevant": true,
+ "onderwerp": "handhaving-privacy",
+ "sub": "kentekenregistratie-avg",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder)",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder uit Amsterdam procedeert tegen de gemeente Amsterdam over een naheffingsaanslag (de rekening achteraf) voor parkeerbelasting. Het gerechtshof Amsterdam beslist in hoger beroep of kentekenparkeren en alleen elektronisch betalen mogen.",
+ "titel": "Amsterdam mag kenteken scannen en contant betalen uitsluiten",
+ "kern": {
+  "zin": "Het hof vond dat kentekenparkeren en het uitsluiten van contant betalen niet in strijd zijn met het privéleven of het Besluit, dus de naheffing bleef staan.",
+  "bron": [
+   89
+  ],
+  "citaat": "niet in strijd komt met artikel 8 EVRM"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een auto stond geparkeerd waar parkeerbelasting verschuldigd was, maar er was geen parkeerrecht gekocht.",
+   "bron": [
+    20
+   ],
+   "citaat": "Voor de auto was geen parkeerrecht gekocht."
+  },
+  {
+   "zin": "De parkeerder vond het systeem van kentekenparkeren in strijd met het recht op privéleven en met het Besluit gemeentelijke parkeerbelastingen.",
+   "bron": [
+    26
+   ],
+   "citaat": "in strijd is met artikel 8 van het Europees Verdrag inzake de rechten van de mens"
+  },
+  {
+   "zin": "De gemeente zei dat er prepaid creditcards te koop zijn waarmee zonder gebonden bankrekening betaald kan worden.",
+   "bron": [
+    35
+   ],
+   "citaat": "Verweerder heeft zich op het standpunt gesteld dat er prepaid creditcards te koop zijn die niet-rekeninggebonden zijn"
+  },
+  {
+   "zin": "Het hof vond dat de gemeente contant betalen niet mogelijk hoeft te maken.",
+   "bron": [
+    60
+   ],
+   "citaat": "geen rechtsregel brengt met zich dat de (gemeentelijke) overheid verplicht is bij de betaling van parkeerbelasting betaling met contant geld mogelijk te maken"
+  },
+  {
+   "zin": "Het hof vond dat het scannen van kentekens hier geen verboden inbreuk op het privéleven is.",
+   "bron": [
+    79
+   ],
+   "citaat": "Het Hof komt voor het onderhavige geval tot het oordeel dat zich geen verboden inmenging heeft voorgedaan"
+  },
+  {
+   "zin": "Het hoger beroep van de parkeerder faalt en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    91
+   ],
+   "citaat": "Het vorenstaande leidt tot de slotsom dat het hoger beroep van belanghebbende ongegrond is."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; de naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffingsaanslag blijft staan en de parkeerder krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   93
+  ],
+  "citaat": "Het Hof acht geen termen aanwezig voor een veroordeling in de kosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "privacy-kenteken",
+   "burger_zegt": "Het scannen en registreren van kentekens is een verboden inbreuk op het privéleven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De scanauto-controle is een waarneming in de publieke ruimte en de gegevens worden versleuteld en kort bewaard.",
+    "bron": [
+     79
+    ],
+    "citaat": "De controles door middel van scanauto’s zijn aan te merken als waarnemingen in de publieke ruimte"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het Hof heeft geen reden eraan te twijfelen dat deze door de heffingsambtenaar aangevoerde procedure ook in het onderhavige jaar werd toegepast",
+    "bron": [
+     81
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Parkeerbelasting moet ook contant betaald kunnen worden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Geen rechtsregel verplicht een gemeente om contant betalen van parkeerbelasting mogelijk te maken.",
+    "bron": [
+     60
+    ],
+    "citaat": "geen rechtsregel brengt met zich dat de (gemeentelijke) overheid verplicht is bij de betaling van parkeerbelasting betaling met contant geld mogelijk te maken"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De prepaid creditcards zijn niet anoniem en duur, dus de gemeente voldoet niet aan het Besluit.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er zijn genoeg verkooppunten van prepaid kaarten zonder gebonden bankrekening, dus de gemeente voldoet aan het Besluit.",
+    "bron": [
+     61
+    ],
+    "citaat": "voldoende mogelijkheden worden geboden om een parkeerrecht aan te schaffen, zodat voldaan wordt aan artikel 1a van het Besluit"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een gemeente hoeft contant betalen van parkeerbelasting niet mogelijk te maken; verplicht elektronisch betalen mag.",
+  "type": "regel",
+  "reikwijdte": "Gemeentelijke parkeerbelasting; hier getoetst bij kentekenparkeren in Amsterdam.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   60
+  ],
+  "citaat": "Betaling van die belasting mag worden beperkt tot de elektronische weg"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "uitdraai website Servicehuis",
+   "privacyreglement van de gemeente",
+   "beschrijving van de werkwijze door de gemeente"
+  ],
+  "wat_gaf_doorslag": "De gemeente liet zien dat kentekens versleuteld en kort bewaard worden; de parkeerder maakte het tegendeel niet aannemelijk."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2005:AR8903",
+   "ECLI:NL:HR:2016:1210",
+   "ECLI:NL:HR:2017:288",
+   "ECLI:NL:GHAMS:2016:146",
+   "ECLI:NL:GHAMS:2017:5030"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8 EVRM",
+  "art. 18 EVRM",
+  "art. 1a Besluit gemeentelijke parkeerbelastingen",
+  "art. 231 lid 1 Gemeentewet",
+  "art. 47 AWR"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Versleutel gescande kentekens en verwijder de gegevens na 48 uur als er is betaald",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    80
+   ],
+   "citaat": "worden de ingevoerde versleutelde kentekengegevens na 48 uur verwijderd"
+  },
+  {
+   "actie": "Zorg dat prepaid betaalkaarten zonder gebonden bankrekening op genoeg plekken in de stad te koop zijn",
+   "raakt": "betaalapp",
+   "bron": [
+    61
+   ],
+   "citaat": "welke in Grenswisselkantoren, 25 Primera winkels en meer dan 20 vestigingen van supermarkt Albert Heijn binnen Amsterdam verkrijgbaar zijn"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "scanauto-handhaving",
+  "privacy-woo",
+  "betaalapp",
+  "bezwaar"
+ ],
+ "klantuitleg": "Als u geen parkeerrecht hebt gekocht, is de rekening voor het parkeren in principe terecht. Het hof vond het niet verboden dat de gemeente uw kenteken scant en alleen elektronisch laat betalen. Bezwaar op grond van privacy of contant betalen heeft daarom weinig kans.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,180 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOBR:2024:2623",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "rectificatie",
+ "kenmerk": null,
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Eindhoven (burgemeester)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner vraagt de gemeente Eindhoven om informatie over meldingen over haar en om haar adres uit een openbaar overzicht te halen. Zij gaat in beroep bij de rechtbank Oost-Brabant tegen de burgemeester.",
+ "titel": "Adres in lijst met meldingen kan een persoonsgegeven zijn",
+ "kern": {
+  "zin": "De rechtbank vernietigt het besluit, omdat een adres in een overzicht met overlastmeldingen een persoonsgegeven kan zijn en de gemeente dat niet zorgvuldig heeft beoordeeld.",
+  "bron": [
+   51
+  ],
+  "citaat": "Het bestreden besluit is op dat onderdeel in strijd met artikel 3:2 van de Awb onvoldoende zorgvuldig tot stand gekomen."
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner vroeg de gemeente om informatie over meldingen over haar, en kreeg een overzicht waarin namen van melders waren weggelakt.",
+   "bron": [
+    11
+   ],
+   "citaat": "besloten een (al eerder verstrekt) overzicht ‘Meldingen woonoverlast 9 juni 2020 en 15 en 21 juli 2021’ (overzicht Meldingen) openbaar te maken"
+  },
+  {
+   "zin": "De bewoner zei dat haar adres bij een melding over een dorre boom willekeurig was gebruikt en daar weg moest.",
+   "bron": [
+    36
+   ],
+   "citaat": "Zij stelt dat de boom niet voor haar huis staat"
+  },
+  {
+   "zin": "De gemeente zei dat het adres alleen een plek voor een boom aanduidde en geen persoonsgegeven was.",
+   "bron": [
+    38
+   ],
+   "citaat": "Het gaat in dit geval om een adres dat is gebruikt als locatieaanduiding voor een boom."
+  },
+  {
+   "zin": "De rechter oordeelde dat het adres hier wel een persoonsgegeven is, omdat het via het Kadaster en Google makkelijk naar de bewoner leidt.",
+   "bron": [
+    40
+   ],
+   "citaat": "is sprake van een identificator als bedoeld in artikel 4 van de AVG"
+  },
+  {
+   "zin": "De rechter vond de weigering om de namen van melders te geven wel terecht.",
+   "bron": [
+    34
+   ],
+   "citaat": "heeft de burgemeester de openbaarmaking van het overzicht Meldingen gedeeltelijk mogen weigeren"
+  },
+  {
+   "zin": "De gemeente moet binnen zes weken opnieuw beslissen, het griffierecht van 184 euro vergoeden en 15 euro proceskosten betalen; het verzoek om schadevergoeding is afgewezen.",
+   "bron": [
+    60
+   ],
+   "citaat": "bepaalt dat het college het griffierecht van"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Besluit over het adres vernietigd; weigering namen melders en schadevergoeding afgewezen",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet opnieuw beslissen over het adres, vergoedt 184 euro griffierecht en 15 euro reiskosten; schadevergoeding krijgt de bewoner niet.",
+  "bron": [
+   59
+  ],
+  "citaat": "draagt de burgemeester op binnen zes weken na de dag van verzending van deze uitspraak een nieuw besluit te nemen"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Mijn adres is willekeurig bij een melding gebruikt en moet uit het overzicht worden gehaald.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het adres is een persoonsgegeven, dus de gemeente had dit zorgvuldiger moeten beoordelen.",
+    "bron": [
+     41
+    ],
+    "citaat": "Het bestreden besluit is dan ook genomen in strijd met artikel 3:2 van Awb."
+   },
+   "bruikbare_zin": {
+    "citaat": "is sprake van een identificator als bedoeld in artikel 4 van de AVG",
+    "bron": [
+     40
+    ]
+   }
+  },
+  {
+   "arg": "geheimhouding-onterecht",
+   "burger_zegt": "De namen van de melders mogen niet worden weggelakt, want ik heb die nodig voor een rechtsvordering of aangifte.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het persoonlijke belang van de bewoner telt hier niet; de melders mogen anoniem blijven.",
+    "bron": [
+     33
+    ],
+    "citaat": "Dat individuele belang van eiseres is in het kader van de beoordeling of dit overzicht Meldingen volledig openbaar gemaakt moet worden, niet van belang."
+   },
+   "bruikbare_zin": {
+    "citaat": "melders erop moeten erop kunnen vertrouwen dat hun anonimiteit",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "De gemeente deelde mijn informatie zonder toestemming met juridische zaken en moet schade vergoeden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De bewoner onderbouwde de schade niet en noemde geen bedrag.",
+    "bron": [
+     48
+    ],
+    "citaat": "eiseres geen enkele onderbouwing heeft gegeven van de door haar geleden schade"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een adres van een object is op zichzelf geen persoonsgegeven, maar wel als het een identificeerbaar persoon aanwijst.",
+  "type": "regel",
+  "reikwijdte": "Adressen in openbaar gemaakte overzichten (bijvoorbeeld meldingen), als de persoon er makkelijk mee te vinden is via bijvoorbeeld Kadaster of Google",
+  "uitzondering": "Een adres dat alleen een object aanduidt en niet naar een persoon leidt is geen persoonsgegeven",
+  "herkomst": "wet",
+  "bron": [
+   40
+  ],
+  "citaat": "het adres van een object, in dit geval ter aanduiding van een dorre boom, op zichzelf geen persoonsgegeven is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "gegevens uit het Kadaster",
+   "zoekresultaat op Google"
+  ],
+  "wat_gaf_doorslag": "Via het Kadaster en Google is het adres eenvoudig te herleiden tot de bewoner."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 4 lid 1 AVG",
+  "art. 3:2 Awb",
+  "art. 5.1 lid 2 onder e Woo",
+  "art. 6:106 BW",
+  "art. 8:72 lid 4 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij een Woo-overzicht of een adres via bijvoorbeeld Kadaster of Google naar een persoon leidt, voordat je het openbaar maakt of een verzoek om verwijdering weigert",
+   "raakt": "woo-openbaarheid",
+   "bron": [
+    40
+   ],
+   "citaat": "Nu het bijvoorbeeld via het Kadaster vrij eenvoudig is om te achterhalen wie de eigenaar van het pand"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "woo-openbaarheid",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een adres in een lijst met meldingen kan een persoonsgegeven zijn, als u er makkelijk mee te vinden bent. De gemeente moet dan zorgvuldig kijken of het adres weg moet. Vraagt u om verwijdering, leg dan uit waarom het adres naar u leidt.",
+ "gemeente": "Eindhoven",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

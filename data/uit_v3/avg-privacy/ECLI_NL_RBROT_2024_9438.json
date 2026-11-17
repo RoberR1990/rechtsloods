@@ -1,0 +1,200 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2024:9438",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "weigering-rechten-anderen",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "verzoeker",
+  "wederpartij": "College voor de Rechten van de Mens",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Deze zaak gaat over een verzoek om inzage in persoonsgegevens op grond van de AVG. De verzoeker stelt beroep in tegen het College voor de Rechten van de Mens bij de rechtbank Rotterdam.",
+ "titel": "Beroep om inzage en namen ongegrond",
+ "kern": {
+  "zin": "De rechtbank verklaart het beroep ongegrond, omdat de verzoeker niet aannemelijk heeft gemaakt dat het overzicht onvolledig is.",
+  "bron": [
+   23
+  ],
+  "citaat": "eiser niet aannemelijk gemaakt dat het verstrekte meta-dataoverzicht onvolledig is"
+ },
+ "samenvatting": [
+  {
+   "zin": "De verzoeker vroeg het College voor de Rechten van de Mens om een overzicht van al zijn gegevens.",
+   "bron": [
+    15
+   ],
+   "citaat": "Eiser verzoekt om een overzicht van al zijn persoons- en zaaksgegevens"
+  },
+  {
+   "zin": "Het College gaf hem een metadata-overzicht van zijn persoons- en zaakgegevens.",
+   "bron": [
+    16
+   ],
+   "citaat": "verweerder een metadata-overzicht van de persoons- en zaakgegevens van eiser aan hem verstrekt"
+  },
+  {
+   "zin": "De verzoeker vond dat overzicht niet volledig.",
+   "bron": [
+    20
+   ],
+   "citaat": "Eiser voert in beroep aan dat het aan hem verstrekte overzicht niet volledig is."
+  },
+  {
+   "zin": "Hij wilde ook de namen van de medewerkers.",
+   "bron": [
+    25
+   ],
+   "citaat": "Eiser stelt dat hij ten onrechte niet de namen heeft gekregen"
+  },
+  {
+   "zin": "De rechtbank ziet geen reden om te twijfelen aan de volledigheid van het overzicht.",
+   "bron": [
+    22
+   ],
+   "citaat": "geen reden om aan te nemen dat verweerder niet in alle persoonsgegevens van eiser inzage heeft gegeven"
+  },
+  {
+   "zin": "De rechtbank zegt dat de namen van medewerkers niet hoeven te worden gegeven.",
+   "bron": [
+    29
+   ],
+   "citaat": "Verweerder hoefde dus niet de namen van de medewerkers aan eiser te verstrekken."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De rechter verklaart het beroep ongegrond; de verzoeker krijgt geen gelijk.",
+ "gevolg_betrokkene": {
+  "zin": "De verzoeker krijgt het griffierecht niet terug en geen vergoeding van proceskosten.",
+  "bron": [
+   38
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug. Hij krijgt ook geen vergoeding van zijn proceskosten."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Het overzicht dat ik kreeg is niet volledig.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vindt dat de verzoeker niet aannemelijk heeft gemaakt dat het overzicht onvolledig is.",
+    "bron": [
+     23
+    ],
+    "citaat": "eiser niet aannemelijk gemaakt dat het verstrekte meta-dataoverzicht onvolledig is"
+   },
+   "bruikbare_zin": {
+    "citaat": "eiser niet aannemelijk gemaakt dat het verstrekte meta-dataoverzicht onvolledig is",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "weigering-rechten-anderen",
+   "burger_zegt": "Ik heb recht op de namen van de medewerkers om te controleren of mijn gegevens goed zijn verwerkt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank zegt dat de namen van medewerkers geen persoonsgegevens van de verzoeker zijn.",
+    "bron": [
+     26
+    ],
+    "citaat": "zijn de namen van de medewerkers van verweerder niet aan te merken als persoonsgegevens van eiser"
+   },
+   "bruikbare_zin": {
+    "citaat": "zijn de namen van de medewerkers van verweerder niet aan te merken als persoonsgegevens van eiser",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "motivering",
+   "burger_zegt": "Ik ben in bezwaar ten onrechte niet gehoord.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vindt dat het College de verzoeker in bezwaar niet hoefde te horen.",
+    "bron": [
+     33
+    ],
+    "citaat": "Verweerder hoefde eiser dus niet te horen in bezwaar."
+   },
+   "bruikbare_zin": {
+    "citaat": "Verweerder hoefde eiser dus niet te horen in bezwaar.",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "Het College heeft te laat beslist en moet een dwangsom betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank ziet niet dat het College te laat heeft beslist.",
+    "bron": [
+     36
+    ],
+    "citaat": "Niet is gebleken dat verweerder niet tijdig op het verzoek van eiser heeft beslist."
+   },
+   "bruikbare_zin": {
+    "citaat": "Niet is gebleken dat verweerder niet tijdig op het verzoek van eiser heeft beslist.",
+    "bron": [
+     36
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Namen van medewerkers van de organisatie zijn geen persoonsgegevens van de verzoeker.",
+  "type": "regel",
+  "reikwijdte": "bij een inzageverzoek op grond van de AVG",
+  "uitzondering": "Als de namen wel aan de gegevens van de verzoeker zijn gekoppeld, kan de organisatie ze weglaten om de privacy van de medewerkers te beschermen.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   26
+  ],
+  "citaat": "De namen van de medewerkers van verweerder vallen namelijk niet onder ‘informatie over een geïdentificeerde of identificeerbare natuurlijke persoon’"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "lijst en tabel met ontbrekende persoonsgegevens"
+  ],
+  "wat_gaf_doorslag": "De mededeling van het College dat het overzicht volledig is, vond de rechtbank niet ongeloofwaardig."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2021:1331",
+   "ECLI:EU:C:2023:3"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 15 AVG",
+  "art. 15 lid 3 AVG",
+  "art. 15 lid 4 AVG",
+  "art. 4 lid 1 AVG",
+  "art. 32 lid 4 AVG",
+  "art. 7:3 Awb",
+  "art. 7:3 onder b Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar",
+  "ict-informatiebeveiliging"
+ ],
+ "klantuitleg": "U vroeg om een overzicht van de gegevens over u. De rechter zegt dat het overzicht dat u kreeg volledig is en dat u de namen van medewerkers niet hoeft te krijgen. Als u vindt dat er gegevens missen, laat dan duidelijk zien dat die gegevens er volgens u wel zijn.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente; wederpartij is College voor de Rechten van de Mens",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

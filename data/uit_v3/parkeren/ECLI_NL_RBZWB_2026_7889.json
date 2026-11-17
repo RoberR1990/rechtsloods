@@ -1,0 +1,148 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:7889",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Tilburg",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder procedeert tegen de gemeente Tilburg bij de rechtbank Zeeland-West-Brabant. Het gaat om een naheffing (de rekening achteraf), omdat hij in de parkeerapp de verkeerde zone koos.",
+ "titel": "Verkeerde zone in parkeerapp: te weinig betaald, rekening blijft",
+ "kern": {
+  "zin": "De rechter vindt dat de parkeerder zelf moet nagaan welke zone geldt, dus de verkeerde keuze blijft voor zijn rekening.",
+  "bron": [
+   25
+  ],
+  "citaat": "Het lag namelijk op de weg van belanghebbende om te onderzoeken binnen welke parkeerzone hij parkeerde"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 9 november 2025 werd de auto van de parkeerder in zone 51340 aangetroffen, zonder betaling voor die zone.",
+   "bron": [
+    18
+   ],
+   "citaat": "geconstateerd dat de auto geparkeerd stond in parkeerzone 51340"
+  },
+  {
+   "zin": "De parkeerder zegt dat hij bij het invoeren in de app niet doorhad dat zijn auto in een andere zone stond.",
+   "bron": [
+    21
+   ],
+   "citaat": "hij heeft zich bij het activeren van de parkeerapp niet gerealiseerd dat de auto"
+  },
+  {
+   "zin": "De gemeente vindt dat er te weinig is betaald, omdat de verkeerde zone in de app stond.",
+   "bron": [
+    28
+   ],
+   "citaat": "dat hij, doordat hij in de parkeerapp de verkeerde parkeerzone heeft aangemeld, te weinig parkeerbelasting heeft betaald"
+  },
+  {
+   "zin": "De rechter vindt de uitleg van de gemeente op het bezwaar goed genoeg.",
+   "bron": [
+    28
+   ],
+   "citaat": "de heffingsambtenaar de motiveringsplicht niet heeft geschonden, omdat de heffingsambtenaar zijn uitspraak op bezwaar voldoende heeft toegelicht"
+  },
+  {
+   "zin": "Het beroep wordt afgewezen, en het griffierecht (de rechtbankkosten) blijft bij de parkeerder.",
+   "bron": [
+    32
+   ],
+   "citaat": "krijgt belanghebbende het griffierecht niet terug"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing van € 52,43 blijft.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing houdt stand, en het griffierecht komt niet terug.",
+  "bron": [
+   32
+  ],
+  "citaat": "Dat betekent dat de naheffingsaanslag parkeerbelasting in stand blijft"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij betaalde wel, maar bij het activeren van de app koos hij per vergissing een andere zone.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een fout zonenummer in de app is voor de parkeerder zelf.",
+    "bron": [
+     23
+    ],
+    "citaat": "Het foutief invoeren van een parkeerzone in een parkeerapp komt dan ook voor rekening en risico van een belanghebbende"
+   },
+   "bruikbare_zin": {
+    "citaat": "De bebording is leidend als het gaat om de zone-codes, niet de informatie in de parkeerapp",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De uitspraak op bezwaar was te summier, en er was geen hoorgesprek.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een hoorgesprek volgt alleen op verzoek van de parkeerder, en die vroeg er niet om.",
+    "bron": [
+     29
+    ],
+    "citaat": "Een belanghebbende wordt alleen gehoord op zijn verzoek"
+   },
+   "bruikbare_zin": {
+    "citaat": "Een belanghebbende wordt alleen gehoord op zijn verzoek",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie parkeert moet de borden met zonecodes naast de app leggen; bij een verschil telt de bebording.",
+  "type": "regel",
+  "reikwijdte": "betaald parkeren met een parkeerapp in Tilburg",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "rust op de parkeerder de verplichting om de ter plaatse beschikbare informatie over zone-codes"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "screenshot van de parkeerapp",
+   "gegevens van de scanauto-controle"
+  ],
+  "wat_gaf_doorslag": "De screenshot zelf waarschuwde voor een onnauwkeurig GPS-signaal, en de parkeerder moest ter plaatse controleren."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Gemeentewet (heffing van parkeerbelasting)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen bruikbare actie; de rechter legt het risico bij de parkeerder",
+ "raakt": [
+  "betaalapp",
+  "bebording-verkeersbesluit",
+  "bezwaar"
+ ],
+ "klantuitleg": "Kiest u in de parkeerapp een andere zone dan op de borden staat, dan hebt u te weinig betaald. Dat geldt ook als u wel hebt betaald, want de borden bij de parkeerplek tellen zwaarder dan de app. Wilt u bezwaar maken, bewaar dan een screenshot en controleer de zone ter plaatse; een fout in de app blijft in zo'n geval voor uw eigen rekening.",
+ "gemeente": "Tilburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

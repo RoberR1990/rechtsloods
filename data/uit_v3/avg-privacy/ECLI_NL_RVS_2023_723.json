@@ -1,0 +1,153 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2023:723",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "wissen",
+ "kenmerk": null,
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "gemeente Dordrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger vroeg de gemeente Dordrecht om al zijn persoonsgegevens te wissen. Hij ging in hoger beroep bij de Raad van State, omdat hij geld wilde voor de te lange duur van de procedure bij de rechtbank.",
+ "titel": "Geen schadevergoeding voor lange procedure als burger die zelf vertraagde",
+ "kern": {
+  "zin": "De Raad van State gaf geen schadevergoeding, omdat de burger zelf de afhandeling van de zaak bij de rechtbank belemmerde.",
+  "bron": [
+   28
+  ],
+  "citaat": "heeft [appellant] de voortgang en tijdige afdoening van de beroepsprocedure belemmerd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente om zijn persoonsgegevens te wissen, maar de gemeente nam het verzoek niet in behandeling.",
+   "bron": [
+    21
+   ],
+   "citaat": "al zijn persoonsgegevens te verwijderen uit hun systemen"
+  },
+  {
+   "zin": "De gemeente vond dat de burger zich niet in persoon had gelegitimeerd.",
+   "bron": [
+    21
+   ],
+   "citaat": "omdat [appellant] zich niet in persoon binnen de gestelde termijn heeft gelegitimeerd"
+  },
+  {
+   "zin": "De rechtbank vond dat een kopie van het paspoort genoeg was en droeg de gemeente op een nieuw besluit te nemen.",
+   "bron": [
+    21
+   ],
+   "citaat": "de overgelegde kopie van zijn paspoort genoeg was om zijn identiteit te controleren"
+  },
+  {
+   "zin": "In hoger beroep zei de burger dat hij schadevergoeding wilde omdat de redelijke termijn was overschreden.",
+   "bron": [
+    24
+   ],
+   "citaat": "dat hij recht heeft op een schadevergoeding door overschrijding van de redelijke termijn"
+  },
+  {
+   "zin": "De Raad van State vond dat de burger de procedure zelf vertraagde en wees dit af.",
+   "bron": [
+    28
+   ],
+   "citaat": "Gelet op deze gang van zaken heeft [appellant] de voortgang en tijdige afdoening van de beroepsprocedure belemmerd"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Het hoger beroep ging alleen over de duur van de procedure; geen schadevergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen schadevergoeding voor de duur van de procedure en de gemeente hoeft geen proceskosten te betalen.",
+  "bron": [
+   32,
+   31
+  ],
+  "citaat": "Het college hoeft geen proceskosten te vergoeden"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De procedure bij de rechtbank duurde te lang en daarom krijgt de burger schadevergoeding.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger heeft de procedure zelf vertraagd, dus de rechter wees de vergoeding af.",
+    "bron": [
+     28
+    ],
+    "citaat": "Bovendien waren er in het jaar 2020 enkele maanden geen zittingen mogelijk door het coronavirus"
+   },
+   "bruikbare_zin": {
+    "citaat": "de ingewikkeldheid van de zaak, de wijze waarop de zaak door het bestuursorgaan en de rechter is behandeld",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "proceskosten",
+   "burger_zegt": "De burger wilde een vergoeding van proceskosten voor de bezwaarprocedure.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De burger trok deze grond tijdens de zitting in.",
+    "bron": [
+     23
+    ],
+    "citaat": "heeft [appellant] de grond over een proceskostenvergoeding voor de bezwaarprocedure ingetrokken"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Of de redelijke termijn is overschreden, hangt af van de omstandigheden, zoals hoe ingewikkeld de zaak is en hoe de burger zich in de procedure gedroeg.",
+  "type": "regel",
+  "reikwijdte": "Beoordeling van te lange duur van bezwaar en beroep, met als uitgangspunt een half jaar voor bezwaar en anderhalf jaar voor de rechtbank",
+  "uitzondering": "Bijzondere omstandigheden, zoals gedrag van de burger of het coronavirus, kunnen de termijn verlengen.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   25
+  ],
+  "citaat": "De vraag of de redelijke termijn is overschreden, wordt beoordeeld aan de hand van de omstandigheden van het geval"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "brieven en faxberichten uit het procesdossier"
+  ],
+  "wat_gaf_doorslag": "De burger belemmerde zelf de voortgang, onder meer door niet te reageren op aanmaningen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2022:1704"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:27 lid 1 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer eerst of een kopie van het paspoort genoeg is om de identiteit vast te stellen, voordat u een AVG-verzoek buiten behandeling stelt",
+   "raakt": "privacy-fg",
+   "bron": [
+    21
+   ],
+   "citaat": "de overgelegde kopie van zijn paspoort genoeg was om zijn identiteit te controleren"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u de gemeente vraagt om uw gegevens te wissen, kan de gemeente uw identiteit controleren. Een kopie van uw paspoort kan daarvoor genoeg zijn. Duurt een rechtszaak lang, dan kunt u een vergoeding krijgen, maar niet als u de zaak zelf vertraagt.",
+ "gemeente": "Dordrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

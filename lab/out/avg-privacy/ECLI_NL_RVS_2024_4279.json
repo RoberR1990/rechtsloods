@@ -1,0 +1,163 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2024:4279",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "zoekslag",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "minister van Asiel en Migratie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "De minister van Asiel en Migratie heeft een man inzage gegeven in zijn persoonsgegevens, maar de man vindt dat nog steeds te veel is weggelakt en dat niet alles is gegeven. De Raad van State beoordeelt zijn beroep.",
+ "titel": "Beroep over inzage in persoonsgegevens ongegrond",
+ "kern": {
+  "zin": "De rechter vindt dat de minister genoeg heeft gezocht en dat de man niet aannemelijk heeft gemaakt dat er meer gegevens zijn.",
+  "bron": [
+   37
+  ],
+  "citaat": "Naar het oordeel van de Afdeling heeft [appellant] niet aannemelijk gemaakt dat er nog meer persoonsgegevens onder de staatssecretaris berusten."
+ },
+ "samenvatting": [
+  {
+   "zin": "De man vroeg de minister om inzage in persoonsgegevens die de IND over hem heeft.",
+   "bron": [
+    27
+   ],
+   "citaat": "verzocht om inzage in de persoonsgegevens die door de Immigratie- en Naturalisatiedienst"
+  },
+  {
+   "zin": "De minister gaf een overzicht en gelakte kopieën van documenten.",
+   "bron": [
+    27
+   ],
+   "citaat": "Daarnaast heeft de staatssecretaris de taalanalyse ongelakt verstrekt en de gelakte kopieën van documenten waarin persoonsgegevens zijn verwerkt."
+  },
+  {
+   "zin": "De man zei dat te veel was weggelakt en dat niet alle interne communicatie was gegeven.",
+   "bron": [
+    35
+   ],
+   "citaat": "Ook stelt [appellant] dat nog steeds niet alle gegevens met betrekking tot de interne communicatie"
+  },
+  {
+   "zin": "De minister zei dat alle persoonsgegevens binnen het verzoek aan de man zijn verstrekt.",
+   "bron": [
+    37
+   ],
+   "citaat": "dat alle persoonsgegevens die onder de reikwijdte van het AVG-verzoek vallen aan [appellant] zijn verstrekt"
+  },
+  {
+   "zin": "De rechter bekeek de geheime stukken en zag daarin geen persoonsgegevens.",
+   "bron": [
+    39
+   ],
+   "citaat": "De Afdeling heeft de geheime stukken bekeken en is van oordeel dat daarin geen persoonsgegevens zijn gelakt."
+  },
+  {
+   "zin": "De rechter vond de zoektocht geloofwaardig en verklaarde het beroep ongegrond.",
+   "bron": [
+    37,
+    42
+   ],
+   "citaat": "Deze toelichting van de staatssecretaris komt de Afdeling niet ongeloofwaardig voor."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De rechter vindt dat de minister genoeg heeft gezocht en niet te veel heeft weggelakt.",
+ "gevolg_betrokkene": {
+  "zin": "Het besluit van 8 juli 2024 blijft staan en hij krijgt geen proceskosten vergoed.",
+  "bron": [
+   42,
+   43
+  ],
+  "citaat": "Het beroep is ongegrond. Dit betekent dat het nieuwe besluit van de staatssecretaris van 8 juli 2024 stand houdt."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "geheimhouding-onterecht",
+   "burger_zegt": "Er is te veel weggelakt, waardoor ik niet kan controleren of ik alle gegevens heb.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter bekeek de geheime stukken en vond dat er geen persoonsgegevens waren weggelakt.",
+    "bron": [
+     39
+    ],
+    "citaat": "De Afdeling heeft de geheime stukken bekeken en is van oordeel dat daarin geen persoonsgegevens zijn gelakt."
+   },
+   "bruikbare_zin": {
+    "citaat": "daarin geen persoonsgegevens zijn gelakt",
+    "bron": [
+     39
+    ]
+   }
+  },
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "Er is niet goed genoeg gezocht; er is nog meer interne correspondentie en een logboek van TOELT.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de uitleg over de zoektocht geloofwaardig en vond dat de man niet aannemelijk maakte dat er meer stukken zijn.",
+    "bron": [
+     37
+    ],
+    "citaat": "Naar het oordeel van de Afdeling heeft [appellant] niet aannemelijk gemaakt dat er nog meer persoonsgegevens onder de staatssecretaris berusten."
+   },
+   "bruikbare_zin": {
+    "citaat": "niet aannemelijk gemaakt dat er nog meer persoonsgegevens onder de staatssecretaris berusten",
+    "bron": [
+     37
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de overheid na onderzoek zegt dat een document er niet is, en dat is geloofwaardig, moet de verzoeker aannemelijk maken dat het document er toch is.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om inzage of informatie waarin de overheid zegt dat een document niet of niet meer bestaat.",
+  "uitzondering": "Als de mededeling van de overheid ongeloofwaardig is.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   36
+  ],
+  "citaat": "het in beginsel aan degene die om informatie verzoekt is om aannemelijk te maken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "de e-mails",
+   "de geheime stukken",
+   "de toelichting van de minister over de zoektocht"
+  ],
+  "wat_gaf_doorslag": "De rechter vond de uitleg van de minister over de zoektocht geloofwaardig."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2024:1040"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 12 AVG",
+  "art. 15 lid 1 AVG",
+  "art. 7:12 Awb",
+  "art. 8:113 lid 2 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; de uitspraak gaat over de IND en de minister",
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "U vroeg om inzage in de gegevens over u. De rechter vindt dat de minister genoeg heeft gezocht en dat er in de weggelakte stukken geen gegevens over u zitten. Denkt u dat er toch meer stukken zijn, dan moet u uitleggen waarom dat zo is.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente; de zaak gaat over de IND en de minister",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

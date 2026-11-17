@@ -1,0 +1,158 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2026:8425",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder gaat in beroep tegen een naheffing (de rekening achteraf) voor parkeerbelasting in Amsterdam. De tegenpartij is de gemeente Amsterdam. De zaak ligt bij de rechtbank Amsterdam.",
+ "titel": "Kenteken te laat aangemeld bij bezoekersvergunning: naheffing blijft",
+ "kern": {
+  "zin": "De rechtbank liet de naheffing staan, omdat de aanmelding op de bezoekersvergunning 19 minuten na de controle kwam, en dat was te laat.",
+  "bron": [
+   25,
+   24
+  ],
+  "citaat": "De rechtbank overweegt dat eiser niet onverwijld uitvoeringshandelingen heeft verricht"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 25 augustus 2025 stelde een parkeercontroleur om 10:58 uur vast dat er niet was betaald.",
+   "bron": [
+    20
+   ],
+   "citaat": "Om 10:58 uur heeft een parkeercontroleur van de gemeente Amsterdam geconstateerd dat geen parkeerbelasting was voldaan."
+  },
+  {
+   "zin": "De parkeerder zegt waarschijnlijk via een bezoekersvergunning te hebben betaald en wijst op bankafschriften.",
+   "bron": [
+    21
+   ],
+   "citaat": "Eiser verwijst daarbij naar verschillende bankafschriften van die dag."
+  },
+  {
+   "zin": "De gemeente zei dat zij 10 minuten als redelijke tijd hanteert, en dat de aanmelding 19 minuten na de scan kwam.",
+   "bron": [
+    23
+   ],
+   "citaat": "Volgens het beleid van de gemeente Amsterdam heeft een burger op het moment van parkeren 10 minuten de tijd"
+  },
+  {
+   "zin": "De rechtbank oordeelde dat de betaling niet onverwijld en onafgebroken gebeurde, dus de naheffing bleef staan.",
+   "bron": [
+    25
+   ],
+   "citaat": "De rechtbank overweegt dat eiser niet onverwijld uitvoeringshandelingen heeft verricht"
+  },
+  {
+   "zin": "Het beroep is ongegrond; de parkeerder krijgt het griffierecht niet terug en geen proceskostenvergoeding.",
+   "bron": [
+    28
+   ],
+   "citaat": "Eiser krijgt daarom het griffierecht niet terug."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan, geen griffierecht terug.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan en de parkeerder krijgt het griffierecht niet terug, ook geen proceskosten.",
+  "bron": [
+   28
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Hij heeft waarschijnlijk via zijn bezoekersvergunning betaald.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De parkeerder moest zelf zorgen dat hij op tijd betaalde, en de aanmelding kwam te laat.",
+    "bron": [
+     25
+    ],
+    "citaat": "De rechtbank overweegt dat eiser niet onverwijld uitvoeringshandelingen heeft verricht"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het behoort tot de verantwoordelijkheid van een parkeerder om ervoor te zorgen dat de verschuldigde parkeerbelasting",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Hij kan de parkeerhistorie van een bezoeker niet inzien en dus niet bewijzen dat hij betaalde.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dat het bewijs lastig is, maakt de naheffing niet ongeldig.",
+    "bron": [
+     26
+    ],
+    "citaat": "Dit maakt echter niet dat de naheffingsaanslag niet opgelegd had mogen worden."
+   },
+   "bruikbare_zin": {
+    "citaat": "het merkwaardig is dat het voor een bezoeker niet mogelijk is om de eigen parkeerhistorie",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder krijgt een redelijke tijd om te betalen, maar moet daarna onverwijld en onafgebroken handelen.",
+  "type": "regel",
+  "reikwijdte": "parkeerders die bij aanvang van het parkeren nog niet hebben betaald",
+  "uitzondering": "de redelijke tijd hangt af van de omstandigheden",
+  "herkomst": "wet",
+  "bron": [
+   24
+  ],
+  "citaat": "Wel dient de parkeerder onverwijld en onafgebroken uitvoeringshandelingen te verrichten om de verschuldigde belasting te betalen."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "bankafschriften van de dag",
+   "tijdstip van aanmelding op de bezoekersvergunning"
+  ],
+  "wat_gaf_doorslag": "De aanmelding kwam 19 minuten na de scan, en dat was te laat."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 234 lid 2 onder a Gemeentewet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Onderzoek of bezoekers hun eigen parkeerhistorie op de bezoekersvergunning kunnen inzien.",
+   "raakt": "vergunningen",
+   "bron": [
+    26
+   ],
+   "citaat": "het merkwaardig is dat het voor een bezoeker niet mogelijk is om de eigen parkeerhistorie"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "vergunningen",
+  "klantcontact"
+ ],
+ "klantuitleg": "Het kenteken op de bezoekersvergunning moet u meteen bij aanvang van het parkeren aanmelden, en daarvoor krijgt u maar een korte, redelijke tijd. Heeft u wel betaald maar het kenteken te laat aangemeld, dan kan de rekening voor het parkeren toch terecht zijn, ook als u bankafschriften heeft. Wilt u bezwaar maken, let dan op het exacte moment van aanmelden, want dat telt; in deze zaak was de aanmelding te laat.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

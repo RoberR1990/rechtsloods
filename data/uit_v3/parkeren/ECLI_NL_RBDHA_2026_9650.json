@@ -1,0 +1,149 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2026:9650",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Delft",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffingsaanslag (de rekening achteraf) van 65 euro, omdat hij in Delft niet had betaald voor het parkeren. Hij ging in beroep bij de rechtbank Den Haag tegen de heffingsambtenaar van de gemeente Delft.",
+ "titel": "Parkeerrekening terecht: parkeerder moest zelf andere automaat zoeken",
+ "kern": {
+  "zin": "De rechter vond de rekening terecht, omdat de parkeerder zelf een andere automaat had moeten zoeken.",
+  "bron": [
+   26
+  ],
+  "citaat": "lag het op de weg van eiser om"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle bleek voor de auto niets betaald, waarna de gemeente 65 euro vroeg.",
+   "bron": [
+    17,
+    18
+   ],
+   "citaat": "Tijdens de controle op voormeld tijdstip is geconstateerd dat voor de auto geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat twee automaten in de buurt kapot waren en dat hij geen andere had gevonden.",
+   "bron": [
+    22
+   ],
+   "citaat": "volgens hem defect waren en hij geen andere parkeerautomaten in de omgeving heeft gevonden"
+  },
+  {
+   "zin": "Er waren volgens de gemeente drie andere automaten in de buurt.",
+   "bron": [
+    23
+   ],
+   "citaat": "Verweerder heeft gewezen op drie andere parkeerautomaten, gelegen op een afstand van 250 tot 290 meter vanaf de locatie"
+  },
+  {
+   "zin": "De rechter legde de zoektocht naar een andere automaat bij de parkeerder.",
+   "bron": [
+    26
+   ],
+   "citaat": "lag het op de weg van eiser om"
+  },
+  {
+   "zin": "Dat hij geen mobiele telefoon had, veranderde daar niets aan.",
+   "bron": [
+    26
+   ],
+   "citaat": "Dat hij bij de zoektocht geen gebruik kon maken van een mobiele telefoon maakt deze conclusie niet anders"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing van 65 euro blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de 65 euro betalen en krijgt geen vergoeding voor de proceskosten.",
+  "bron": [
+   29,
+   31
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De automaten in de buurt waren kapot, dus kon hij niet betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat hij een andere automaat had moeten proberen te vinden.",
+    "bron": [
+     26
+    ],
+    "citaat": "te proberen een andere parkeerautomaat te vinden"
+   },
+   "bruikbare_zin": {
+    "citaat": "Als de desbetreffende parkeerautomaat niet naar behoren werkte",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij voelt zich gediscrimineerd, omdat hij geen mobiele telefoon heeft om te betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het ontbreken van een telefoon veranderde voor de rechter niets.",
+    "bron": [
+     26
+    ],
+    "citaat": "Dat hij bij de zoektocht geen gebruik kon maken van een mobiele telefoon"
+   },
+   "bruikbare_zin": {
+    "citaat": "maakt deze conclusie niet anders",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder moet zich vooraf op de hoogte stellen van de betaalplicht; dat komt voor zijn rekening.",
+  "type": "regel",
+  "reikwijdte": "parkeerbelasting die ter plaatse moet worden betaald",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "Een parkeerder heeft een onderzoeksplicht in die zin dat hij zich"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "overzicht van de heffingsambtenaar met nabijgelegen automaten",
+   "transactieoverzicht van andere automaten",
+   "kaarten met de locaties van de automaten"
+  ],
+  "wat_gaf_doorslag": "Het overzicht van de heffingsambtenaar liet zien dat er meerdere nabijgelegen automaten waren."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter stelt geen eisen aan de gemeente; zuiver oordeel over deze zaak",
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Is de betaalautomaat bij u in de buurt kapot, dan moet u zelf een andere automaat zoeken om te betalen. Een rekening voor het parkeren kan dan toch blijven staan, ook als u geen mobiele telefoon heeft. Wilt u bezwaar maken, neem dan bewijs mee van de kapotte automaten en van de andere automaten in de buurt; winnen is niet zeker.",
+ "gemeente": "Delft",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

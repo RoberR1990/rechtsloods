@@ -1,0 +1,145 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2023:3668",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Schouwen-Duiveland",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing (de rekening achteraf) van € 69,15, omdat er niet was betaald. Hij ging in beroep bij de rechtbank Zeeland-West-Brabant tegen de gemeente Schouwen-Duiveland.",
+ "titel": "Parkeerautomaat defect: betalen blijft toch de plicht",
+ "kern": {
+  "zin": "De rechter oordeelde dat de parkeerder zelf de gevolgen draagt, omdat hij op een andere manier had kunnen betalen.",
+  "bron": [
+   24
+  ],
+  "citaat": "De gevolgen van de keuze de verschuldigde parkeerbelasting in het geheel niet te voldoen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een auto stond op 4 juni 2022 in Renesse zonder dat de parkeerbelasting was betaald.",
+   "bron": [
+    17
+   ],
+   "citaat": "stond op 4 juni 2022 omstreeks 14:38 uur geparkeerd aan de Rampweg te Renesse."
+  },
+  {
+   "zin": "De parkeerder zei dat de automaat defect was en dat hij met zijn pinpas niet kon betalen.",
+   "bron": [
+    21
+   ],
+   "citaat": "dat de aanwezige parkeerautomaat defect was en dat hij niet met een betaalpas kon betalen"
+  },
+  {
+   "zin": "De gemeente betwistte dat er die dag een storing was en wees op andere manieren om te betalen.",
+   "bron": [
+    23
+   ],
+   "citaat": "heeft betwist dat er op de betreffende dag een storing is geweest"
+  },
+  {
+   "zin": "De rechter vond dat een defecte automaat de betalingsplicht niet opheft, omdat er andere betaalmanieren waren.",
+   "bron": [
+    24
+   ],
+   "citaat": "dan nog ontslaat deze omstandigheid naar het oordeel van de rechtbank"
+  },
+  {
+   "zin": "De afwijzing betekent dat de naheffing blijft staan.",
+   "bron": [
+    28
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; griffierecht niet terug en geen proceskostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt het griffierecht niet terug en ook geen vergoeding voor zijn proceskosten.",
+  "bron": [
+   26
+  ],
+  "citaat": "Hij krijgt ook geen vergoeding van zijn proceskosten."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De parkeerautomaat was defect en de betaalpas werkte niet, dus hij kon niet betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat ook bij een defecte automaat betaald moest worden, want er waren andere manieren om te betalen.",
+    "bron": [
+     24
+    ],
+    "citaat": "dan nog ontslaat deze omstandigheid naar het oordeel van de rechtbank"
+   },
+   "bruikbare_zin": {
+    "citaat": "door betaling per pinpas bij een andere parkeerautomaat",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De uitspraak op bezwaar is door iemand zonder bevoegdheid genomen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het aanwijzingsbesluit liet zien dat de gemeente wel bevoegd was.",
+    "bron": [
+     22
+    ],
+    "citaat": "De stelling dat de uitspraak op bezwaar onbevoegd is genomen slaagt niet."
+   },
+   "bruikbare_zin": {
+    "citaat": "In beroep heeft de heffingsambtenaar het Aanwijzingsbesluit heffingsambtenaar, gemeente Schouwen-Duiveland overgelegd.",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een defecte parkeerautomaat ontslaat de parkeerder niet van betalen, als er andere manieren waren om te betalen.",
+  "type": "regel",
+  "reikwijdte": "parkeerders bij een defecte automaat, als er andere betaalmanieren waren",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "dan nog ontslaat deze omstandigheid naar het oordeel van de rechtbank"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "getuigenverklaring over de automaat",
+   "aanwijzingsbesluit heffingsambtenaar"
+  ],
+  "wat_gaf_doorslag": "De andere betaalmanieren maakten de defecte automaat niet doorslaggevend."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver feitelijk oordeel over betalen; geen tekortkoming van de gemeente vastgesteld",
+ "raakt": [
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een defecte parkeerautomaat betekent niet vanzelf dat u niet hoeft te betalen. De rechter vond dat u op een andere manier had kunnen betalen, zoals met de app, contant of met de pinpas bij een andere automaat. Bewaar bewijs van een storing, zoals een foto of een verklaring, maar weet dat dit op zichzelf weinig kans geeft als er andere betaalmanieren waren.",
+ "gemeente": "Schouwen-Duiveland",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

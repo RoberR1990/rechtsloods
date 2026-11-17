@@ -1,0 +1,155 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2025:8815",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "automobilist (parkeerder)",
+  "wederpartij": "gemeente Amsterdam (heffingsambtenaar)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een automobilist kreeg een naheffingsaanslag (de rekening achteraf) voor parkeren zonder betaling in Amsterdam. Hij ging in beroep tegen de heffingsambtenaar van de gemeente Amsterdam.",
+ "titel": "Naheffing terecht: betaald parkeren was kenbaar genoeg",
+ "kern": {
+  "zin": "Het betaald parkeren was voor de parkeerder kenbaar genoeg, dus de naheffing is terecht.",
+  "bron": [
+   22
+  ],
+  "citaat": "Het was daarom aan eiser om onderzoek te doen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 19 april 2025 kreeg een automobilist een naheffingsaanslag voor parkeren zonder betaling in Amsterdam.",
+   "bron": [
+    9
+   ],
+   "citaat": "zonder dat daarvoor parkeergeld was betaald"
+  },
+  {
+   "zin": "De automobilist zegt dat hij zijn parkeerschijf goed zichtbaar had neergelegd en dat er geen duidelijke borden waren.",
+   "bron": [
+    16
+   ],
+   "citaat": "parkeerschijf duidelijk zichtbaar op het dashboard geplaatst"
+  },
+  {
+   "zin": "Volgens de gemeente zijn er foto's die het betaald parkeren aantonen.",
+   "bron": [
+    17
+   ],
+   "citaat": "ten tijde van het opleggen van de boete"
+  },
+  {
+   "zin": "De rechtbank vindt dat borden in de buurt genoeg zijn en dat de parkeerder zelf moest onderzoeken waar hij stond.",
+   "bron": [
+    22
+   ],
+   "citaat": "Het was daarom aan eiser om onderzoek te doen"
+  },
+  {
+   "zin": "De naheffing blijft staan, en de automobilist krijgt geen geld terug voor het griffierecht of de proceskosten.",
+   "bron": [
+    24
+   ],
+   "citaat": "Hij krijgt ook geen vergoeding van zijn proceskosten"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; geen griffierecht of proceskosten terug.",
+ "gevolg_betrokkene": {
+  "zin": "De automobilist moet de naheffing betalen en krijgt het griffierecht niet terug.",
+  "bron": [
+   24
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Hij zag geen borden of automaat, en de blauwe lijnen waren volgens hem weg.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Op de foto's blijft de blauwe markering staan, dus dit argument vervalt.",
+    "bron": [
+     20
+    ],
+    "citaat": "niet dat de blauwe markering verwijderd is"
+   },
+   "bruikbare_zin": {
+    "citaat": "Daarbij wordt van de parkeerder verwacht dat hij even rondloopt",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij legde een parkeerschijf met aankomsttijd 9.45 uur neer en stuurde foto's mee.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een gemiste onderzoeksplicht valt volledig bij de parkeerder.",
+    "bron": [
+     22
+    ],
+    "citaat": "komt voor zijn rekening en risico"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het was daarom aan eiser om onderzoek te doen",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een gemeente maakt betaald parkeren kenbaar met borden in de directe omgeving van de plek.",
+  "type": "regel",
+  "reikwijdte": "betaald parkeren op de openbare weg met borden",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   18
+  ],
+  "citaat": "Dit kan door middel van borden in de directe omgeving van de parkeerplaats"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto's van de scanauto",
+   "foto's van de borden en blauwe markering"
+  ],
+  "wat_gaf_doorslag": "De foto's gaven de doorslag: de auto stond aan een kant waar betaald parkeren gold."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij elke handhaving de borden, markering en parkeerstand vast op foto's.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    20
+   ],
+   "citaat": "Op de zitting is gekeken naar de foto"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "scanauto-handhaving",
+  "bebording-verkeersbesluit"
+ ],
+ "klantuitleg": "Bij betaald parkeren moet u de borden in de buurt volgen, ook als u de blauwe markering niet ziet. Kijk zelf goed rond of zoek op internet voordat u parkeert, want dat wordt van u verwacht. Heeft u zo'n naheffing gekregen, dan helpt bewijs dat borden of markering ontbraken.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

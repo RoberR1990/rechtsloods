@@ -1,0 +1,161 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2023:1535",
+ "relevant": true,
+ "onderwerp": "toezicht-handhaving",
+ "sub": "handhavingsverzoek",
+ "kenmerk": null,
+ "zaaktype": "klacht-handhaving-ap",
+ "partijen": {
+  "burger": "vader",
+  "wederpartij": "Autoriteit Persoonsgegevens",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een vader vroeg de Autoriteit Persoonsgegevens om handhavend op te treden tegen jeugdhulpinstelling SaVe, omdat hij niet het volledige dossier over hem en zijn kinderen had gekregen. De Raad van State beoordeelde in hoger beroep het oordeel van de rechtbank Midden-Nederland over de afwijzing van dat verzoek.",
+ "titel": "Geen handhaving door AP in jeugdzorgdossier",
+ "kern": {
+  "zin": "De Raad van State bevestigde het oordeel van de rechtbank en verklaarde het hoger beroep en het beroep tegen het nieuwe besluit ongegrond.",
+  "bron": [
+   52
+  ],
+  "citaat": "Het hoger beroep en het beroep tegen het besluit van 22 april 2021 zijn ongegrond"
+ },
+ "samenvatting": [
+  {
+   "zin": "De vader vroeg jeugdhulpinstelling SaVe om inzage in het volledige dossier dat het van hem en zijn kinderen had.",
+   "bron": [
+    22
+   ],
+   "citaat": "[appellant] heeft SaVe verzocht om inzage in het volledige dossier dat het van hem en de kinderen heeft"
+  },
+  {
+   "zin": "Volgens de vader gaf SaVe niet alles en daarom vroeg hij de Autoriteit Persoonsgegevens om handhaving.",
+   "bron": [
+    22
+   ],
+   "citaat": "Daarom heeft hij de AP verzocht om handhavend op te treden tegen SaVe"
+  },
+  {
+   "zin": "De Autoriteit Persoonsgegevens wees dat verzoek af, omdat zij geen overtreding van het inzagerecht zag.",
+   "bron": [
+    23
+   ],
+   "citaat": "omdat geen overtreding van het inzagerecht is geconstateerd"
+  },
+  {
+   "zin": "De rechtbank vond het onderzoek voor één periode te mager en droeg de AP op meer onderzoek te doen.",
+   "bron": [
+    27
+   ],
+   "citaat": "De rechtbank heeft het beroep gegrond verklaard en de AP opgedragen nader onderzoek te doen"
+  },
+  {
+   "zin": "Na dat extra onderzoek oordeelde de Raad van State dat drie later gevonden e-mails niet genoeg zijn om een overtreding aan te nemen.",
+   "bron": [
+    49
+   ],
+   "citaat": "Uit het enkele feit dat SaVe achteraf ontdekt dat drie e-mails niet eerder waren overgelegd"
+  },
+  {
+   "zin": "De hogere rechter bevestigde daarom het oordeel van de rechtbank.",
+   "bron": [
+    52
+   ],
+   "citaat": "De uitspraak van de rechtbank, voor zover aangevallen, moet worden bevestigd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep en beroep tegen nieuw besluit ongegrond; AP hoeft niet te handhaven.",
+ "gevolg_betrokkene": {
+  "zin": "De vader krijgt geen handhaving tegen SaVe en de AP vergoedt geen proceskosten.",
+  "bron": [
+   53
+  ],
+  "citaat": "De AP hoeft geen proceskosten te vergoeden"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "ap-onderzoek-onvoldoende",
+   "burger_zegt": "De AP had moeten handhaven, want SaVe gaf gegevens uit 2016 en 2017 niet allemaal, zoals uitnodigingen, plannen van aanpak en drie e-mails.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Handhaving komt pas in een latere fase; het later vinden van drie e-mails maakt niet dat de AP eerder had moeten ingrijpen.",
+    "bron": [
+     49
+    ],
+    "citaat": "Omdat handhaving pas aan de orde is in fase IV van de vaste werkwijze van de AP"
+   },
+   "bruikbare_zin": {
+    "citaat": "Omdat handhaving pas aan de orde is in fase IV van de vaste werkwijze van de AP",
+    "bron": [
+     49
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij had ook recht op inzage in de gegevens van zijn kinderen uit de periode dat zijn gezag was geschorst.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Als het gezag geschorst is, kan de ouder het gezag niet uitoefenen en geldt het inzagerecht in de gegevens van het kind niet.",
+    "bron": [
+     33
+    ],
+    "citaat": "Op het moment dat het gezag van [appellant] was geschorst, kon hij het gezag over de kinderen niet uitoefenen"
+   },
+   "bruikbare_zin": {
+    "citaat": "kon hij het gezag over de kinderen niet uitoefenen",
+    "bron": [
+     33
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De AP mag een klacht in fase I afdoen met een kort bureauonderzoek en afgaan op de mededelingen van de organisatie als de burger al veel stukken heeft gekregen; de burger moet dan zelf een concreet aanknopingspunt geven voor een mogelijke overtreding.",
+  "type": "regel",
+  "reikwijdte": "AVG-klachten die de AP in fase I met een globaal bureauonderzoek afdoet",
+  "uitzondering": "als de burger een concreet aanknopingspunt geeft dat op een mogelijke overtreding wijst",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   44
+  ],
+  "citaat": "het op de weg van [appellant] lag om een aanknopingspunt te leveren voor zijn stelling"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "mededelingen van SaVe",
+   "de aan de vader verstrekte stukken"
+  ],
+  "wat_gaf_doorslag": "Dat de vader al veel stukken had gekregen en geen concreet aanknopingspunt gaf voor ontbrekende gegevens."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2017:2555"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7.3.15 lid 1 en 2 Jeugdwet",
+  "art. 7.3.10 Jeugdwet",
+  "art. 15 lid 1 AVG",
+  "art. 57 lid 1 AVG",
+  "art. 58 lid 1 AVG",
+  "art. 77 lid 1 AVG"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; zaak gaat over de Autoriteit Persoonsgegevens en een jeugdhulpinstelling",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Hebt u gevraagd welke gegevens een instantie van u heeft, dan hebt u meestal recht op inzage. Over gegevens van uw kind waarover u het gezag niet kon uitoefenen, mag de instantie inzage weigeren. Wilt u dat de Autoriteit Persoonsgegevens ingrijpt, geef dan concrete voorbeelden van wat er ontbreekt; zonder zo'n concreet voorbeeld hoeft zij niet op te treden.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente in de zaak; wederpartij is de Autoriteit Persoonsgegevens",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

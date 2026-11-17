@@ -1,0 +1,136 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2023:9040",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Het Openbaar Ministerie legde een parkeerder een verkeersboete op voor parkeren op een plek voor laden en lossen. De parkeerder ging in beroep bij de kantonrechter in Alkmaar.",
+ "titel": "Boete vernietigd: de verklaring van de agent was te kort",
+ "kern": {
+  "zin": "De rechter vernietigde de boete, omdat de verklaring van de agent te kort was tegenover het verweer.",
+  "bron": [
+   16
+  ],
+  "citaat": "de verklaring van de verbalisant tegenover het verweer van betrokkene erg summier is"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete voor parkeren op een plek om direct te laden en lossen.",
+   "bron": [
+    13
+   ],
+   "citaat": "parkeren op een gelegenheid voor onmiddellijk laden en lossen van goederen"
+  },
+  {
+   "zin": "De parkeerder zei dat hij zijn baas hielp verhuizen.",
+   "bron": [
+    14
+   ],
+   "citaat": "dat hij zijn baas aan het meehelpen was om te verhuizen"
+  },
+  {
+   "zin": "De officier van justitie vond de boete niet meer te verdedigen.",
+   "bron": [
+    15
+   ],
+   "citaat": "heeft op de zitting meegedeeld de beslissing en het standpunt niet te handhaven"
+  },
+  {
+   "zin": "De rechter gaf de parkeerder het voordeel van de twijfel.",
+   "bron": [
+    16
+   ],
+   "citaat": "Betrokkene krijgt het voordeel van de twijfel"
+  },
+  {
+   "zin": "Volgens de rechter had de officier van justitie om een aanvullend verslag van de agent moeten vragen.",
+   "bron": [
+    16
+   ],
+   "citaat": "Het lag op de weg van de officier van justitie om naar aanleiding van het verweer"
+  },
+  {
+   "zin": "De boete vervalt en de zekerheid die hij betaalde, komt terug.",
+   "bron": [
+    22
+   ],
+   "citaat": "het bedrag dat betrokkene als zekerheidstelling heeft betaald"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete vernietigd, omdat het bewijs van de agent te mager was.",
+ "gevolg_betrokkene": {
+  "zin": "De boete vervalt en de parkeerder krijgt het bedrag van zijn zekerheid terug.",
+  "bron": [
+   22
+  ],
+  "citaat": "het bedrag dat betrokkene als zekerheidstelling heeft betaald"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Hij stond alleen even stil om zijn baas te helpen verhuizen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond de verklaring van de agent te kort, dus de twijfel ging naar de parkeerder.",
+    "bron": [
+     16
+    ],
+    "citaat": "de verklaring van de verbalisant tegenover het verweer van betrokkene erg summier is"
+   },
+   "bruikbare_zin": {
+    "citaat": "Betrokkene krijgt het voordeel van de twijfel",
+    "bron": [
+     16
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het Openbaar Ministerie moet om een aanvullend verslag van de agent vragen als de burger een verweer geeft.",
+  "type": "regel",
+  "reikwijdte": "WAHV-zaken waarin de burger een verweer voert tegen het proces-verbaal",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   16
+  ],
+  "citaat": "Het lag op de weg van de officier van justitie om naar aanleiding van het verweer"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring van de verbalisant",
+   "geen foto's ter ondersteuning"
+  ],
+  "wat_gaf_doorslag": "De korte verklaring van de agent, zonder foto's, kon het verweer niet weerleggen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 9 WAHV",
+  "art. 14 WAHV"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Een boete voor laden en lossen kan worden vernietigd als het bewijs van de handhaver te kort is. Dat gebeurde hier, omdat de verklaring van de agent niet werd aangevuld toen de parkeerder zich verweerde. Wilt u zich verweren, lever dan vroeg uw uitleg en bewijs aan, zoals foto's.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente in de tekst; boete van het Openbaar Ministerie",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

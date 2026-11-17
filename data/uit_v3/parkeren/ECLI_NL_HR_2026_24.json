@@ -1,0 +1,199 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:HR:2026:24",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder)",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "cassatie",
+ "intro": "Een parkeerder in Den Haag kreeg een naheffingsaanslag (een rekening achteraf) voor niet betaalde parkeerbelasting. Hij vond de kosten van die rekening te hoog en ging in cassatie bij de Hoge Raad tegen de gemeente Den Haag.",
+ "titel": "Rekening achteraf voor parkeren: gemeente mag automaatkosten meerekenen",
+ "kern": {
+  "zin": "De Hoge Raad vond dat de gemeente de kosten van parkeerautomaten en parkeerapps mocht meerekenen in de kosten van de rekening achteraf.",
+  "bron": [
+   72
+  ],
+  "citaat": "de toerekening daarvan aan de inning van niet-betaalde parkeerbelasting is geoorloofd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle met een scanauto bleek dat de parkeerbelasting voor de auto niet was betaald, en de gemeente legde een rekening achteraf op.",
+   "bron": [
+    15
+   ],
+   "citaat": "Bij een controle met een scanauto is geconstateerd dat de daardoor verschuldigde parkeerbelasting niet is voldaan"
+  },
+  {
+   "zin": "De rekening was 67,30 euro: 2 euro parkeerbelasting en 65,30 euro kosten voor het opleggen.",
+   "bron": [
+    16
+   ],
+   "citaat": "Het op de naheffingsaanslag te betalen bedrag is € 67,30"
+  },
+  {
+   "zin": "De parkeerder vond dat de kosten van parkeerautomaten en parkeerapps niet in de rekening mochten.",
+   "bron": [
+    57
+   ],
+   "citaat": "dat de kosten van parkeerautomaten en parkeerapps niet mogen worden doorberekend"
+  },
+  {
+   "zin": "De gemeente zei dat de parkeerautomaten en de parkeerapp rechtstreeks zijn gekoppeld aan de systemen voor de scanauto's.",
+   "bron": [
+    50
+   ],
+   "citaat": "de huidige parkeerautomaten en ook de parkeerapp in een rechtstreekse verbinding staan met de centrale systemen"
+  },
+  {
+   "zin": "De Hoge Raad vond dat die kosten genoeg met de inning van niet betaalde parkeerbelasting te maken hebben om mee te rekenen.",
+   "bron": [
+    72
+   ],
+   "citaat": "de toerekening daarvan aan de inning van niet-betaalde parkeerbelasting is geoorloofd"
+  },
+  {
+   "zin": "De Hoge Raad vond ook dat het niet uitmaakt dat het maximumbedrag precies op 1 september is bekendgemaakt.",
+   "bron": [
+    55
+   ],
+   "citaat": "en daarom een fatale datum zou zijn, is onjuist"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Cassatieberoep ongegrond; rekening van 67,30 euro blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening van 67,30 euro blijft staan en er is geen veroordeling in de proceskosten.",
+  "bron": [
+   82,
+   16,
+   80
+  ],
+  "citaat": "De Hoge Raad verklaart het beroep in cassatie ongegrond"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "Kosten van parkeerautomaten, parkeerapps en invordering mogen niet in de kosten van de rekening achteraf worden gerekend.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Kosten die meer dan zijdelings met de inning samenhangen, mogen worden meegerekend.",
+    "bron": [
+     72
+    ],
+    "citaat": "de toerekening daarvan aan de inning van niet-betaalde parkeerbelasting is geoorloofd"
+   },
+   "bruikbare_zin": {
+    "citaat": "Vereist is slechts dat de kosten meer dan zijdelings daarmee samenhangen",
+    "bron": [
+     70
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het maximumbedrag is te laat bekendgemaakt, dus de verordening geldt niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De datum van bekendmaking is geen vaste grens die de burger beschermt.",
+    "bron": [
+     55
+    ],
+    "citaat": "en daarom een fatale datum zou zijn, is onjuist"
+   },
+   "bruikbare_zin": {
+    "citaat": "en daarom een fatale datum zou zijn, is onjuist",
+    "bron": [
+     55
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente mocht bij de berekening niet alleen uitgaan van het aantal aanslagen dat ze kan innen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente hoeft alleen te rekenen met aanslagen die ze kan innen.",
+    "bron": [
+     76
+    ],
+    "citaat": "daarbij slechts rekening hoeft te houden met inbare naheffingsaanslagen"
+   },
+   "bruikbare_zin": {
+    "citaat": "daarbij slechts rekening hoeft te houden met inbare naheffingsaanslagen",
+    "bron": [
+     76
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een gemeente mag kosten doorberekenen bij een naheffing als ze meer dan zijdelings samenhangen met het innen van niet betaalde parkeerbelasting.",
+  "type": "regel",
+  "reikwijdte": "Kosten die gemeenten doorberekenen bij een naheffingsaanslag parkeerbelasting, binnen de kostencomponenten van artikel 2 Besluit gemeentelijke parkeerbelastingen",
+  "uitzondering": "Geen samenhang als de kosten geheel of nagenoeg geheel andere doelen dienen. Ook geen kosten verhalen die de gemeente al op een andere manier terugkrijgt",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   70
+  ],
+  "citaat": "Vereist is slechts dat de kosten meer dan zijdelings daarmee samenhangen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "kostenonderbouwing van de gemeente per kostensoort",
+   "controle met scanauto"
+  ],
+  "wat_gaf_doorslag": "De kosten van parkeerautomaten en parkeerapps hangen meer dan zijdelings samen met de inning, en de raming mag uitgaan van inbare aanslagen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:HR:2014:777",
+   "ECLI:NL:HR:2009:BI1968",
+   "ECLI:NL:HR:2012:BU7248"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 lid 5 en 6 Gemeentewet",
+  "art. 2 Besluit gemeentelijke parkeerbelastingen",
+  "art. 3 lid 2 Besluit gemeentelijke parkeerbelastingen",
+  "art. 11 Verordening parkeerbelastingen Den Haag 2021"
+ ],
+ "actie_gemeente": [
+  {
+   "bron": [
+    67
+   ],
+   "citaat": "dat op jaarbasis niet meer kosten worden verhaald dan het geraamde totaalbedrag van de in het eerste lid bedoelde kosten",
+   "actie": "Onderbouw het tarief voor de kosten van de rekening achteraf met een kostenoverzicht en reken per jaar niet meer kosten door dan u raamt.",
+   "raakt": "tarief-naheffing"
+  },
+  {
+   "bron": [
+    71
+   ],
+   "citaat": "voor zover die kosten niet op de gemeente drukken doordat zij die reeds op andere wijze verhaalt",
+   "actie": "Reken geen kosten door die u al op een andere manier terugkrijgt.",
+   "raakt": "tarief-naheffing"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "verordening-beleid",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Bij een rekening achteraf voor parkeren betaalt u de parkeerbelasting en ook de kosten voor het opleggen ervan. De gemeente mag in die kosten een deel van de parkeerautomaten, de parkeerapp en het innen meenemen, tot het wettelijke maximum voor dat jaar. Vindt u het bedrag te hoog, vraag dan de gemeente om haar kostenberekening en kijk of het bedrag onder dat maximum blijft.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

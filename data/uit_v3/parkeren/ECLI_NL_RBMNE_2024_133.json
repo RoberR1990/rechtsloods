@@ -1,0 +1,43 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2024:133",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "parkeerder", "wederpartij": "Belastingsamenwerking gemeenten & hoogheemraadschap Utrecht", "gemeente_is_partij": false},
+ "procesvorm": "beroep",
+ "intro": "Dit gaat over twee naheffingen voor parkeerbelasting. Een parkeerder ging in beroep bij de rechtbank Midden-Nederland tegen de belastingsamenwerking, die het bezwaar niet-ontvankelijk had verklaard.",
+ "titel": "Naheffing al vernietigd, dus geen belang meer bij beroep",
+ "kern": {"zin": "De rechter verklaarde het beroep niet-ontvankelijk, omdat er geen procesbelang meer was.", "bron": [24], "citaat": "Daarmee is tijdens de beroepsprocedure het procesbelang komen te vervallen"},
+ "samenvatting": [
+  {"zin": "Een parkeerder kreeg twee naheffingen, gedateerd 25 mei 2021.", "bron": [11], "citaat": "De dagtekening van de naheffingsaanslagen is 25 mei 2021"},
+  {"zin": "De parkeerder maakte pas op 23 juli 2021 bezwaar en zei de eerste aanslag nooit te hebben gekregen.", "bron": [11, 27], "citaat": "Eiser heeft op 23 juli 2021 bezwaar gemaakt tegen de aanslagen"},
+  {"zin": "Volgens de belastingsamenwerking is het geen boete maar een belasting.", "bron": [20], "citaat": "niet gaat om een boete maar om parkeerbelasting"},
+  {"zin": "De rechter zag dat de aanslag al weg was, en dus geen belang meer.", "bron": [24], "citaat": "De rechtbank is van oordeel dat eiser geen procesbelang meer heeft"},
+  {"zin": "Er komt geen proceskostenvergoeding en ook geen vergoeding voor verletkosten.", "bron": [30, 28], "citaat": "De heffingsambtenaar hoeft geen proceskosten te vergoeden"}
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Niet-ontvankelijk: geen inhoudelijke beoordeling en geen vergoeding.",
+ "gevolg_betrokkene": {"zin": "Het griffierecht is al terugbetaald, maar proceskosten en verletkosten krijgt de parkeerder niet.", "bron": [30, 17, 28], "citaat": "De heffingsambtenaar hoeft geen proceskosten te vergoeden"},
+ "steunt": null,
+ "bezwaargronden": [
+  {"arg": "overig", "burger_zegt": "De termijn waarbinnen de belastingsamenwerking nog een naheffing mag opleggen, is onredelijk.", "oordeel": "niet beoordeeld", "waarom": {"zin": "Die grond werd op de zitting ingetrokken, dus de rechter oordeelde er niet over.", "bron": [21], "citaat": "Na een debat hierover op de zitting heeft eiser deze beroepsgrond ingetrokken"}, "bruikbare_zin": {"citaat": "Na een debat hierover op de zitting heeft eiser deze beroepsgrond ingetrokken", "bron": [21]}},
+  {"arg": "termijn-verschoonbaar", "burger_zegt": "De eerste aanslag kwam nooit bij hem aan, dus zijn bezwaar was niet te laat.", "oordeel": "niet beoordeeld", "waarom": {"zin": "De gemeente had moeten vragen waarom het bezwaar te laat kwam.", "bron": [27], "citaat": "wat de reden van het te late bezwaar was"}, "bruikbare_zin": {"citaat": "wat de reden van het te late bezwaar was", "bron": [27]}},
+  {"arg": "overig", "burger_zegt": "Hij wil een vergoeding voor verletkosten, onder meer voor het schrijven van zijn bezwaar en beroep.", "oordeel": "verworpen", "waarom": {"zin": "Kosten voor het schrijven van bezwaar- en beroepsbrieven tellen niet mee.", "bron": [28], "citaat": "komen deze kosten niet voor vergoeding in aanmerking"}, "bruikbare_zin": {"citaat": "komen deze kosten niet voor vergoeding in aanmerking", "bron": [28]}}
+ ],
+ "rechtsregel": {"zin": "Een louter principieel belang geeft geen recht om door te procederen.", "type": "regel", "reikwijdte": "beroep nadat de aanslag tijdens de procedure is vernietigd", "uitzondering": null, "herkomst": "vaste lijn HR-RvS", "bron": [23], "citaat": "eerst sprake is van (voldoende) procesbelang indien het aanwenden van een rechtsmiddel"},
+ "bewijs": {"bewijslast_bij": "burger", "bewijsmiddelen": [], "wat_gaf_doorslag": "Er was geen bewijs van inkomstenverlies."},
+ "toepasselijkheid": "landelijk",
+ "lijn": {"soort": "bevestigt", "eerdere": ["ECLI:NL:HR:2017:392", "ECLI:NL:HR:2016:2082"]},
+ "wetsartikelen": [],
+ "actie_gemeente": [{"actie": "Vraag bij een te laat bezwaar na waarom het te laat is ingediend.", "raakt": "bezwaar", "bron": [27], "citaat": "wat de reden van het te late bezwaar was"}],
+ "reden_leeg_actie": null,
+ "raakt": ["bezwaar", "tarief-naheffing", "klantcontact"],
+ "klantuitleg": "Is de naheffing al vernietigd, dan heeft een beroep vaak geen zin meer. Een vergoeding voor uw tijd krijgt u alleen als u echte kosten kunt aantonen. Wilt u bezwaar maken, houd dan de bezwaartermijn goed in de gaten.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente in tekst; heffing door Belastingsamenwerking gemeenten & hoogheemraadschap Utrecht",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

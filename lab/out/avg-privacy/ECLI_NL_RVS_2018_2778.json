@@ -1,0 +1,141 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2018:2778",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": null,
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "gemachtigde",
+  "wederpartij": "Belastingdienst",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Deze zaak gaat over een hoger beroep bij de Raad van State. Een gemachtigde stelde hoger beroep in tegen een uitspraak over een verzoek aan de Belastingdienst om documenten en correctie van persoonsgegevens.",
+ "titel": "Hoger beroep van gemachtigde niet-ontvankelijk",
+ "kern": {
+  "zin": "De Raad van State verklaart het hoger beroep niet-ontvankelijk, omdat de gemachtigde het zelf instelde en niet namens de verzoeker.",
+  "bron": [
+   21
+  ],
+  "citaat": "De Afdeling stelt evenwel vast dat [appellant] het hoger beroep niet namens [verzoeker] heeft ingesteld"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij de rechtbank trad de gemachtigde op voor de verzoeker.",
+   "bron": [
+    21
+   ],
+   "citaat": "Bij de rechtbank heeft [appellant] opgetreden als gemachtigde van [verzoeker]."
+  },
+  {
+   "zin": "De gemachtigde stelde zelf hoger beroep in, niet namens de verzoeker.",
+   "bron": [
+    21
+   ],
+   "citaat": "De Afdeling stelt evenwel vast dat [appellant] het hoger beroep niet namens [verzoeker] heeft ingesteld"
+  },
+  {
+   "zin": "Op de zitting zei de gemachtigde dat hij namens de verzoeker hoger beroep wilde instellen.",
+   "bron": [
+    22
+   ],
+   "citaat": "Ter zitting heeft [appellant] toegelicht dat hij heeft bedoeld namens [verzoeker] hoger beroep in te stellen"
+  },
+  {
+   "zin": "De Raad van State oordeelde dat de naam van de verzoeker niet vóór het einde van de termijn bekend was.",
+   "bron": [
+    22
+   ],
+   "citaat": "de identiteit van [verzoeker] voor de Afdeling niet kenbaar was voor afloop van de hogerberoepstermijn"
+  },
+  {
+   "zin": "Daarom was het hoger beroep niet-ontvankelijk.",
+   "bron": [
+    23
+   ],
+   "citaat": "Het hoger beroep is niet-ontvankelijk."
+  },
+  {
+   "zin": "Er kwam geen vergoeding voor proceskosten.",
+   "bron": [
+    24
+   ],
+   "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Het hoger beroep is niet-ontvankelijk; er is geen inhoudelijk oordeel.",
+ "gevolg_betrokkene": {
+  "zin": "Het hoger beroep gaat niet door en er komt geen vergoeding voor proceskosten.",
+  "bron": [
+   23,
+   24
+  ],
+  "citaat": "Het hoger beroep is niet-ontvankelijk."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik wilde hoger beroep instellen namens de verzoeker, niet voor mezelf.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De naam van de verzoeker was niet vóór het einde van de hogerberoepstermijn bekend.",
+    "bron": [
+     22
+    ],
+    "citaat": "de identiteit van [verzoeker] voor de Afdeling niet kenbaar was voor afloop van de hogerberoepstermijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "de identiteit van [verzoeker] voor de Afdeling niet kenbaar was voor afloop van de hogerberoepstermijn",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als iemand namens een ander beroep of hoger beroep instelt, moet de naam van die ander vóór het einde van de termijn bekend zijn.",
+  "type": "regel",
+  "reikwijdte": "Hoger beroep en beroep waarbij een gemachtigde optreedt.",
+  "uitzondering": "Een volmacht die later wordt overgelegd, verandert dat niet.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   22
+  ],
+  "citaat": "de identiteit van degene namens wie beroep wordt ingesteld, voor afloop van de hogerberoepstermijn kenbaar moet zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "volmacht"
+  ],
+  "wat_gaf_doorslag": "De identiteit van de verzoeker was niet op tijd bekend."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 36 Wet bescherming persoonsgegevens",
+  "art. 8:1 Awb",
+  "art. 6:7 Awb",
+  "art. 6:11 Awb",
+  "art. 1:2 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "communicatie"
+ ],
+ "klantuitleg": "Deze uitspraak gaat niet over de vraag of u inzage of correctie krijgt. De zaak stopte door een punt van de procedure: als iemand voor u een zaak start, moet uw naam al vóór het einde van de termijn bekend zijn. Laat dat dus meteen duidelijk maken; een bewijs van toestemming dat later komt, helpt dan niet.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente; Belastingdienst is partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,153 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:8913",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder)",
+  "wederpartij": "gemeente Tilburg",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffingsaanslag (de rekening achteraf) van € 49,93, omdat er in Tilburg geen parkeerbelasting was betaald. Hij zei dat de betaalautomaten kapot waren en ging daarom tegen de gemeente Tilburg in beroep bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Niet bewezen dat automaat kapot was: rekening blijft staan",
+ "kern": {
+  "zin": "De rechter vond de storing niet bewezen, en zei dat een defecte automaat de betaalplicht niet ophief.",
+  "bron": [
+   23,
+   24
+  ],
+  "citaat": "niet aannemelijk heeft gemaakt dat sprake is geweest van een storing"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een scanauto zag op 14 juli 2025 in Tilburg dat er geen parkeerbelasting was betaald voor de auto van de parkeerder.",
+   "bron": [
+    17,
+    18
+   ],
+   "citaat": "geparkeerd aan de [straat] te Tilburg"
+  },
+  {
+   "zin": "De gemeente legde een naheffing op van € 49,93, waarvan € 48,93 kosten.",
+   "bron": [
+    18
+   ],
+   "citaat": "naheffingsaanslag parkeerbelasting opgelegd van € 49,93"
+  },
+  {
+   "zin": "De parkeerder zei dat de betaalautomaten defect waren en dat hij een storingsmedewerker had gebeld.",
+   "bron": [
+    20
+   ],
+   "citaat": "dat de aanwezige betaalautomaten defect waren"
+  },
+  {
+   "zin": "De gemeente betwistte dat er die dag een storing was en zei dat het telefoontje nergens uit bleek.",
+   "bron": [
+    21
+   ],
+   "citaat": "betwist dat er op de betreffende dag een storing is geweest"
+  },
+  {
+   "zin": "De rechter vond de storing niet bewezen en zei dat er andere manieren waren om te betalen, dus de betaalplicht bleef.",
+   "bron": [
+    23,
+    24
+   ],
+   "citaat": "niet aannemelijk heeft gemaakt dat sprake is geweest van een storing"
+  },
+  {
+   "zin": "De naheffing blijft staan en de parkeerder krijgt het griffierecht niet terug.",
+   "bron": [
+    29
+   ],
+   "citaat": "krijgt belanghebbende het griffierecht niet terug"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan, geen griffierecht terug.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet € 49,93 betalen en krijgt geen griffierecht of proceskosten terug.",
+  "bron": [
+   18,
+   29
+  ],
+  "citaat": "naheffingsaanslag parkeerbelasting opgelegd van € 49,93"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De betaalautomaten waren defect, en hij heeft het storingsnummer gebeld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de storing en het telefoontje niet bewezen.",
+    "bron": [
+     23
+    ],
+    "citaat": "niet aannemelijk heeft gemaakt dat sprake is geweest van een storing"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet aannemelijk heeft gemaakt dat sprake is geweest van een storing",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij herinnert zich dat een storingsmedewerker een slagboom opende, zodat hij kon wegrijden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag dat dit verhaal niet past bij een weg zonder slagbomen.",
+    "bron": [
+     23
+    ],
+    "citaat": "een openbare weg is waar geen slagbomen aanwezig zijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "een openbare weg is waar geen slagbomen aanwezig zijn",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een defecte automaat ontslaat de parkeerder niet van de betaling, want er zijn andere manieren om te betalen.",
+  "type": "regel",
+  "reikwijdte": "parkeren waarbij de automaat niet werkt en er andere betaalmogelijkheden waren",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "dan nog ontslaat deze omstandigheid belanghebbende niet van zijn betalingsverplichting"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De parkeerder kon de storing en het telefoontje niet aantonen tegenover het verweer van de gemeente."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen tekortkoming van de gemeente; storing niet aangetoond",
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren blijft meestal staan als er niet is betaald, ook als de automaat kapot was. Er waren andere manieren om te betalen, zoals de app of contant, en daarom telde de storing niet mee. Wilt u later een storing aantonen, bewaar dan bewijs zoals een melding of een foto.",
+ "gemeente": "Tilburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

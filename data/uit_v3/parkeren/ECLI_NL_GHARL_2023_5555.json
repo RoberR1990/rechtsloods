@@ -1,0 +1,189 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2023:5555",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "kentekenhouder (met gemachtigde)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een kentekenhouder kreeg in Rotterdam een boete omdat zijn voertuig hoger was dan 2,4 meter en op een verboden plek stond. Hij ging in hoger beroep tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Boete voor te hoog voertuig in Rotterdam blijft staan",
+ "kern": {
+  "zin": "Het hof laat de boete staan, omdat de meting van de handhaver met een rolmaat niet is weerlegd.",
+  "bron": [
+   31
+  ],
+  "citaat": "De ambtenaar heeft de hoogte van het voertuig met een rolmaat opgemeten"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete van 95 euro, omdat zijn voertuig hoger was dan 2,4 meter en in Rotterdam stond op een plaats waar dat niet mag.",
+   "bron": [
+    18
+   ],
+   "citaat": "bij inleidende beschikking een sanctie opgelegd van € 95,-"
+  },
+  {
+   "zin": "De parkeerder zei dat zijn voertuig niet hoger is dan 2,4 meter.",
+   "bron": [
+    19
+   ],
+   "citaat": "De betrokkene betwist dat het voertuig hoger is dan 2,4 meter"
+  },
+  {
+   "zin": "De handhaver mat het voertuig op met een rolmaat en kwam uit op ongeveer 2,50 meter.",
+   "bron": [
+    21
+   ],
+   "citaat": "Na het opmeten middels mijn rolmaat zag ik dat het bovengenoemde motorvoertuig circa 2,50 meter hoog was"
+  },
+  {
+   "zin": "Het hof stelde vast dat het voertuig stond in een gebied dat de gemeente had aangewezen.",
+   "bron": [
+    30
+   ],
+   "citaat": "geparkeerd stond op een plaats die is aangewezen ingevolge artikel 5.8, eerste lid"
+  },
+  {
+   "zin": "Volgens het hof gaf de simpele stelling van de parkeerder geen reden om aan de meting te twijfelen.",
+   "bron": [
+    31
+   ],
+   "citaat": "geen aanleiding om aan de door de ambtenaar uitgevoerde meting te twijfelen"
+  },
+  {
+   "zin": "Het hof bevestigde daarom de beslissing van de kantonrechter.",
+   "bron": [
+    32
+   ],
+   "citaat": "dat de kantonrechter het beroep terecht ongegrond heeft verklaard en dat het hof die beslissing zal bevestigen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete van 95 euro blijft; meting door handhaver niet weerlegd",
+ "gevolg_betrokkene": {
+  "zin": "De boete van 95 euro blijft staan en de parkeerder krijgt geen vergoeding van zijn proceskosten.",
+  "bron": [
+   32
+  ],
+  "citaat": "Aanleiding voor het toekennen van een proceskostenvergoeding is er niet"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De meting van de handhaver klopt niet; het voertuig is niet hoger dan 2,4 meter.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De parkeerder bracht geen stukken in om de hoogte van het voertuig te weerleggen.",
+    "bron": [
+     31
+    ],
+    "citaat": "De betrokkene heeft niet met stukken of anderszins aannemelijk gemaakt"
+   },
+   "bruikbare_zin": {
+    "citaat": "De ambtenaar heeft de hoogte van het voertuig met een rolmaat opgemeten",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "In de beschikking staat niet duidelijk welk voorschrift van de APV (plaatselijke regels) is overtreden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het was voor de parkeerder duidelijk genoeg welke regels de boete onderbouwden.",
+    "bron": [
+     30
+    ],
+    "citaat": "was het voor de betrokkene voldoende duidelijk welke regelgeving aan de administratieve sanctie ten grondslag ligt"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er is een aanwijzingsbesluit nodig om de overtreding vast te stellen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het voertuig stond in een gebied dat is aangewezen volgens de APV.",
+    "bron": [
+     30
+    ],
+    "citaat": "geparkeerd stond op een plaats die is aangewezen ingevolge artikel 5.8, eerste lid"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er is de verkeerde feitcode gebruikt; het had R414C moeten zijn omdat het voertuig in een woonwijk stond.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Feitcode R414C gaat over hinder voor bewoners, terwijl het hier om een aangewezen gebied gaat.",
+    "bron": [
+     30
+    ],
+    "citaat": "Laatstgenoemde feitcode ziet op hinder als bedoeld in artikel 5.8, eerste lid, onder b"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een simpele stelling dat een voertuig lager is, is geen reden om te twijfelen aan een meting met een rolmaat door de handhaver.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Alleen voor deze meting van de voertuighoogte in het aangewezen gebied IJsselmonde",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   31
+  ],
+  "citaat": "geen aanleiding om aan de door de ambtenaar uitgevoerde meting te twijfelen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring van de handhaver",
+   "aanvullend proces-verbaal",
+   "foto's van de bebording"
+  ],
+  "wat_gaf_doorslag": "De meting met een rolmaat stond vast en de parkeerder bracht geen stukken in."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 5:8 lid 1 APV Rotterdam 2012",
+  "art. 6 Algemeen aanwijzingsbesluit gebied IJsselmonde",
+  "Wahv"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Noteer bij een overtreding van de hoogtegrens de meting met rolmaat in het proces-verbaal en voeg foto's van de bebording toe",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    21
+   ],
+   "citaat": "Na het opmeten middels mijn rolmaat zag ik dat het bovengenoemde motorvoertuig circa 2,50 meter hoog was"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "scanauto-handhaving",
+  "bebording-verkeersbesluit",
+  "verordening-beleid"
+ ],
+ "klantuitleg": "Een voertuig hoger dan 2,4 meter mag in gebieden die de gemeente daarvoor heeft aangewezen niet geparkeerd staan. Meet de handhaver uw voertuig op, dan volgt de rechter die meting, tenzij u met stukken laat zien dat het lager is. Bezwaar heeft alleen zin als u dat kunt aantonen of als het gebied niet is aangewezen.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

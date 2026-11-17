@@ -1,0 +1,152 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2023:21970",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (de bestuurder van de auto)",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeert tegen de gemeente Den Haag over een naheffing parkeerbelasting (de rekening achteraf). De rechtbank Den Haag besliste of die naheffing terecht was.",
+ "titel": "Bezoeker meldde kenteken 19 minuten te laat aan",
+ "kern": {
+  "zin": "De rechter liet de naheffing staan, omdat de aanmelding te lang na de controle kwam.",
+  "bron": [
+   23
+  ],
+  "citaat": "Tussen de controle en het aanmelden van de auto zijn 19 minuten verstreken"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controle stelde vast dat er geen parkeerbelasting was betaald en geen vergunning was aangemeld.",
+   "bron": [
+    17
+   ],
+   "citaat": "geconstateerd dat voor de auto geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder stelde dat hij al binnen was toen de aanmelding alsnog gebeurde.",
+   "bron": [
+    19
+   ],
+   "citaat": "heeft de ex-partner dit om 17:44 uur alsnog gedaan"
+  },
+  {
+   "zin": "De gemeente vond dat er geen reden was om de naheffing te vernietigen, ook niet uit coulance.",
+   "bron": [
+    24
+   ],
+   "citaat": "heeft verweerder gesteld in de onderhavige omstandigheden geen aanleiding te zien de naheffingsaanslag te vernietigen"
+  },
+  {
+   "zin": "De rechter vond dat de parkeerder en zijn ex-partner niet bleven bezig met betalen of aanmelden.",
+   "bron": [
+    23
+   ],
+   "citaat": "kan niet worden geoordeeld dat eiser (en zijn ex-partner) bij voortduring bezig zijn geweest met uitvoeringshandelingen"
+  },
+  {
+   "zin": "Daarmee bleef de naheffing staan.",
+   "bron": [
+    26,
+    27
+   ],
+   "citaat": "is het beroep ongegrond verklaard"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing van 68,50 euro blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt de naheffing van 68,50 euro en krijgt geen proceskosten vergoed.",
+  "bron": [
+   27,
+   17,
+   26
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overmacht-medisch",
+   "burger_zegt": "Hij stelde dat er overmacht was, omdat zijn ex-partner ernstig ziek is en hij boodschappen bracht.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Overmacht geldt alleen in bijzondere gevallen, en die situatie was hier niet aan de orde.",
+    "bron": [
+     25
+    ],
+    "citaat": "Slechts in bijzondere gevallen kan strikte naleving van de regels"
+   },
+   "bruikbare_zin": {
+    "citaat": "Parkeerbelasting is voorts een zogenoemde objectieve belasting",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij vroeg om coulance vanwege de medische situatie van zijn ex-partner.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter kon de vraag om coulance niet toetsen, omdat de hardheidsclausule daarbuiten valt.",
+    "bron": [
+     24
+    ],
+    "citaat": "niet aan de beoordeling van de rechtbank is onderworpen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Nu toepassing van de hardheidsclausule van artikel 63",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder krijgt wel tijd om te betalen, maar die stappen moeten meteen na het parkeren beginnen.",
+  "type": "regel",
+  "reikwijdte": "Betaald parkeren en bezoekersregeling: de tijd die je hebt om te betalen of aan te melden.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   22
+  ],
+  "citaat": "De uitvoeringshandelingen moeten voorts onverwijld nadat de auto is geparkeerd worden gestart"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "controle door de handhaver",
+   "tijdstip van de aanmelding (17:44 uur)"
+  ],
+  "wat_gaf_doorslag": "De 19 minuten tussen de controle en de aanmelding."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 63 Algemene wet inzake rijksbelastingen"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen tekortkoming van de gemeente; de rechter bevestigt bestaande regels",
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "vergunningen",
+  "klantcontact"
+ ],
+ "klantuitleg": "Het kenteken van uw bezoeker moet u meteen na het parkeren aanmelden of betalen. Blijft u daarmee te lang wachten, dan krijgt u een rekening achteraf, ook als de reden begrijpelijk is. Bezwaar heeft alleen kans als u kunt laten zien dat u direct bezig was met aanmelden of betalen.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

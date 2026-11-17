@@ -1,0 +1,169 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2022:6553",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing (de rekening achteraf) die zij volgens haar niet digitaal had gekregen. Zij procedeerde tegen de gemeente Rotterdam bij de rechtbank Rotterdam.",
+ "titel": "Naheffing blijft staan, wel proceskosten vergoed",
+ "kern": {
+  "zin": "De rechtbank vond de late bezwaartermijn verschoonbaar, maar de naheffing bleef staan.",
+  "bron": [
+   22,
+   26
+  ],
+  "citaat": "De rechtbank acht de termijnoverschrijding verschoonbaar"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 21 maart 2020 zag een parkeercontroleur haar auto in de Allard Piersonstraat zonder betaling.",
+   "bron": [
+    15
+   ],
+   "citaat": "heeft een parkeercontroleur geconstateerd dat de auto van eiseres"
+  },
+  {
+   "zin": "De parkeerder zei dat zij de naheffing niet digitaal had ontvangen en pas later een brief kreeg.",
+   "bron": [
+    17
+   ],
+   "citaat": "dat zij de naheffing van 2 april 2020 niet digitaal heeft gekregen"
+  },
+  {
+   "zin": "De gemeente wees erop dat zij digitale post had gekozen, dus termijnen gaan voor haar rekening.",
+   "bron": [
+    18
+   ],
+   "citaat": "Termijnoverschrijdingen komen voor rekening en risico van eiseres"
+  },
+  {
+   "zin": "De rechtbank vond de late bezwaartermijn verschoonbaar, omdat niet vaststond dat zij akkoord was met ontvangst zonder melding.",
+   "bron": [
+    22
+   ],
+   "citaat": "Nu niet is vast te komen staan of eiseres akkoord was met het ontvangen van stukken"
+  },
+  {
+   "zin": "De rechtbank oordeelde toch dat de naheffing terecht was opgelegd.",
+   "bron": [
+    25
+   ],
+   "citaat": "De naheffingsaanslag is terecht opgelegd."
+  },
+  {
+   "zin": "De uitspraak op bezwaar is vernietigd, maar de naheffing blijft staan en de gemeente vergoedt de kosten.",
+   "bron": [
+    26
+   ],
+   "citaat": "de rechtsgevolgen van het vernietigde bestreden besluit in stand blijven"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Termijn verschoonbaar en kosten vergoed; naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan, maar de gemeente vergoedt € 102,82 proceskosten en het griffierecht (de beroepskosten) van € 49.",
+  "bron": [
+   31
+  ],
+  "citaat": "veroordeelt verweerder in de proceskosten van eiseres tot een bedrag van"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "Zij kreeg de naheffing niet digitaal en raakte pas later via een brief op de hoogte.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente kon de late indiening niet aan haar tegenwerpen.",
+    "bron": [
+     22
+    ],
+    "citaat": "kan de overschrijding van de bezwaartermijn niet aan eiseres worden tegengeworpen"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat de overheid bij gebruik van de Berichtenbox zonder notificatie voldoende zekerstelt",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De foto is niet in Rotterdam genomen, en het is niet zeker dat haar witte bus op de foto staat.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Haar ontkenning weegt volgens de rechtbank te licht tegen het HAS-rapport en de toelichting.",
+    "bron": [
+     25
+    ],
+    "citaat": "legt tegenover het HAS-rapport en de ter zitting gegeven toelichting van verweerder onvoldoende gewicht in de schaal"
+   },
+   "bruikbare_zin": {
+    "citaat": "Ook het typevoertuig (witte bus) komt overeen met het voertuig van eiseres",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De overheid moet goed nagaan of de burger wel of geen melding wil bij de Berichtenbox.",
+  "type": "regel",
+  "reikwijdte": "berichten in de Berichtenbox zonder e-mailmelding",
+  "uitzondering": "als vaststaat dat de burger akkoord ging met ontvangst zonder melding",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   22
+  ],
+  "citaat": "dat de overheid bij gebruik van de Berichtenbox zonder notificatie voldoende zekerstelt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "MijnOverheid-instelling van de burger",
+   "HAS-rapport met foto's"
+  ],
+  "wat_gaf_doorslag": "Niet vaststaan dat de burger akkoord ging met de Berichtenbox zonder melding."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:CRVB:2021:2174"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 6:7 Awb",
+  "art. 6:11 Awb",
+  "art. 2:14 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij digitale post vast of de burger melding per mail wil, en leg dat schriftelijk vast.",
+   "raakt": "bezwaar",
+   "bron": [
+    22
+   ],
+   "citaat": "dat de overheid bij gebruik van de Berichtenbox zonder notificatie voldoende zekerstelt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "communicatie"
+ ],
+ "klantuitleg": "Bent u een melding in de Berichtenbox niet tijdig tegengekomen, dan kan uw late bezwaar toch worden behandeld. Over de inhoud van de rekening oordeelde de rechter anders: de foto's van de gemeente telden zwaarder dan de ontkenning. Wilt u bezwaar maken, let dan op de digitale post en houd de termijn van zes weken goed in de gaten.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,146 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOBR:2024:529",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Eindhoven (heffingsambtenaar)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing (de rekening achteraf) omdat hij een verkeerde zonecode invoerde in een parkeerapp. Hij vindt dat de gemeente de app had moeten laten werken, en de rechtbank Oost-Brabant beslist.",
+ "titel": "Verkeerde parkeercode in app is voor eigen rekening",
+ "kern": {
+  "zin": "De rechter vindt dat de fout in de app voor de parkeerder zelf is, dus de rekening blijft staan.",
+  "bron": [
+   19
+  ],
+  "citaat": "Dat eiser verkeerde data invoert in een parkeerapp moet voor zijn rekening en risico blijven"
+ },
+ "samenvatting": [
+  {
+   "zin": "Zijn auto stond in Eindhoven geparkeerd en de parkeerbelasting was nog niet betaald.",
+   "bron": [
+    15
+   ],
+   "citaat": "Eiser had op de hiervoor genoemde momenten de verschuldigde parkeerbelasting niet voldaan"
+  },
+  {
+   "zin": "Hij betaalde via de app Stadsparkeren, maar voerde een verkeerde zonecode in.",
+   "bron": [
+    17
+   ],
+   "citaat": "maar in plaats van de juiste code 5114 heeft hij 15114 ingevoerd"
+  },
+  {
+   "zin": "Hij vindt dat de gemeente zorg moet dragen dat de digitale app goed werkt.",
+   "bron": [
+    18
+   ],
+   "citaat": "Eiser vindt het een taak van de gemeente dat de lokale digitale infrastructuur niet wordt gestoord"
+  },
+  {
+   "zin": "De rechter wijst dat af, want de gemeente heeft zo'n zorgplicht niet.",
+   "bron": [
+    18
+   ],
+   "citaat": "De rechtbank volgt eiser hierin niet"
+  },
+  {
+   "zin": "Volgens de rechter is het geen boete, dus de kosten kunnen niet worden gematigd.",
+   "bron": [
+    20
+   ],
+   "citaat": "is geen sprake van een boete en kan de rechtbank de kosten naheffing ook (los daarvan) niet matigen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing betalen, want de gemeente hield die terecht overeind.",
+  "bron": [
+   22,
+   23
+  ],
+  "citaat": "de heffingsambtenaar de naheffingsaanslag parkeerbelasting van 18 juli 2023 bij de bestreden uitspraak op bezwaar terecht heeft gehandhaafd"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij zegt dat hij wel wilde betalen, maar dat dit via een verkeerde zonecode ging.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat betalen aan de verkeerde gemeente telt als niet betaald.",
+    "bron": [
+     19
+    ],
+    "citaat": "Het betalen van parkeerbelasting aan de verkeerde gemeente betekent dat geen parkeerbelasting"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat eiser verkeerde data invoert in een parkeerapp moet voor zijn rekening en risico blijven",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "Hij vindt dat het een boete is en vraagt de rechter die te matigen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat dit geen boete is, en dat matigen niet kan.",
+    "bron": [
+     20
+    ],
+    "citaat": "Zolang de Hoge Raad die vragen nog niet heeft beantwoord"
+   },
+   "bruikbare_zin": {
+    "citaat": "Zolang de Hoge Raad die vragen nog niet heeft beantwoord, is genoemde lijn in de rechtspraak wat ze is",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Fouten bij het invoeren in een parkeerapp komen voor rekening van de parkeerder.",
+  "type": "regel",
+  "reikwijdte": "Digitaal betalen van parkeerbelasting; geen zorgplicht van de gemeente voor de digitale infrastructuur.",
+  "uitzondering": "Mogelijk anders als de Hoge Raad de kosten als boete ziet; dat is nog niet beslist.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "Dat eiser verkeerde data invoert in een parkeerapp moet voor zijn rekening en risico blijven"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De parkeerder betaalde aan de verkeerde gemeente, dus niet aan de juiste."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RBOBR:2023:5711"
+  ]
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen gemeentelijke tekortkoming vastgesteld; geen actie uit deze uitspraak",
+ "raakt": [
+  "betaalapp",
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Als u een verkeerde parkeercode invoert, telt dat voor de gemeente als niet betaald. Dat geldt ook als u wel wilde betalen; de rechter vindt de fout dan voor uw rekening. Controleer vooraf de juiste zonecode, want uw wens om te betalen is op zich niet genoeg.",
+ "gemeente": "Eindhoven",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

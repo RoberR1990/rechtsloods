@@ -1,0 +1,44 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2026:4742",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "parkeerder", "wederpartij": "gemeente Deventer (via de belastingsamenwerking)", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Dit gaat over een naheffingsaanslag (de rekening achteraf) voor parkeren aan de Boxbergerweg in Deventer. De parkeerder procedeert tegen de belastingsamenwerking bij de rechtbank Overijssel.",
+ "titel": "Parkeerrekening blijft staan: borden waren duidelijk genoeg",
+ "kern": {"zin": "Volgens de rechter waren de borden en automaten in de buurt duidelijk genoeg, en moest de parkeerder zelf beter zoeken.", "bron": [24, 25], "citaat": "heeft aangetoond dat op verschillende plekken langs de Boxbergerweg borden aanwezig zijn"},
+ "samenvatting": [
+  {"zin": "Een controle stelde vast dat de auto aan de Boxbergerweg stond zonder geldig parkeerrecht.", "bron": [15], "citaat": "geconstateerd dat voor de auto geen geldig parkeerrecht bestond"},
+  {"zin": "De parkeerder zei dat er vrachtwagens voor de borden stonden, zodat hij die niet kon zien.", "bron": [19], "citaat": "omdat er die avond op meerdere plekken vrachtwagens voor de borden stonden"},
+  {"zin": "De gemeente legde foto's van zes borden over, samen met een kaart van de automaten.", "bron": [21], "citaat": "een kaart met daarop de locaties van meerdere parkeerautomaten aan de Boxbergerweg"},
+  {"zin": "Volgens de rechter was het voor de parkeerder duidelijk genoeg dat hier betaald moest worden.", "bron": [24], "citaat": "Daarom is de rechtbank van oordeel dat de heffingsambtenaar voldoende duidelijk heeft gemaakt"},
+  {"zin": "De rechter vond dat de parkeerder zich via een korte wandeling had moeten informeren.", "bron": [25], "citaat": "Van belanghebbende mag worden verwacht dat hij enige inspanning verricht"},
+  {"zin": "De naheffing blijft staan en de burger krijgt het griffierecht niet terug.", "bron": [27], "citaat": "Belanghebbende krijgt daarom het door hem betaalde griffierecht niet terug"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; borden en automaten waren voldoende zichtbaar",
+ "gevolg_betrokkene": {"zin": "De naheffing blijft staan en de parkeerder krijgt het griffierecht niet terug.", "bron": [27], "citaat": "Belanghebbende krijgt daarom het door hem betaalde griffierecht niet terug"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "borden-onduidelijk", "burger_zegt": "De borden waren niet te zien door vrachtwagens die er voor stonden.", "oordeel": "verworpen", "waarom": {"zin": "Volgens de rechter veranderde het zicht door de vrachtwagens niets aan de kenbaarheid.", "bron": [25], "citaat": "Dat parkeerborden door stilstaande vrachtwagens niet te zien waren"}, "bruikbare_zin": {"citaat": "op verschillende plekken aan de Boxbergerweg door middel van borden duidelijk kenbaar gemaakt", "bron": [25]}}
+ ],
+ "rechtsregel": {"zin": "De gemeente moet op de plek duidelijk maken dat er betaald moet worden, bijvoorbeeld met borden.", "type": "regel", "reikwijdte": "betaald parkeren op openbare plekken", "uitzondering": null, "herkomst": "oordeel rechter", "bron": [22], "citaat": "Van de heffingsambtenaar mag worden verwacht dat, bijvoorbeeld door middel van duidelijke bebording"},
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": ["foto's van zes borden", "kaart met parkeerautomaten"], "wat_gaf_doorslag": "De borden en de automaten in de buurt waren volgens de rechter voldoende duidelijk."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {"actie": "Leg bij betaald parkeren vast met foto's en een kaart welke borden en automaten op de plek staan.", "raakt": "bebording-verkeersbesluit", "bron": [21], "citaat": "een kaart met daarop de locaties van meerdere parkeerautomaten aan de Boxbergerweg"}
+ ],
+ "reden_leeg_actie": null,
+ "raakt": ["bezwaar", "bebording-verkeersbesluit", "klantcontact"],
+ "klantuitleg": "Een parkeerrekening achteraf is alleen terecht als de parkeerregels op die plek duidelijk genoeg waren. In deze zaak vond de rechter dat de borden en automaten in de buurt duidelijk genoeg waren, ook al stonden er vrachtwagens voor. Wilt u bezwaar maken, leg de plek dan goed vast met foto's; dat geeft niet automatisch gelijk.",
+ "gemeente": "Deventer",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

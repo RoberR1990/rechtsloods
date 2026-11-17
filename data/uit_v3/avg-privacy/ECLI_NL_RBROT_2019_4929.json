@@ -1,0 +1,205 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2019:4929",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "weigering-rechten-anderen",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "medewerker",
+  "wederpartij": "gemeente (naam onbekend)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Deze zaak gaat over een medewerker die documenten wilde van een onderzoek naar ongewenst gedrag bij de gemeente. De rechtbank Rotterdam beslist of de gemeente die documenten mocht weigeren.",
+ "titel": "Gemeente moet inzage per document beter uitleggen",
+ "kern": {
+  "zin": "De rechtbank vindt dat de gemeente de weigering van veel documenten niet goed heeft uitgelegd en laat haar opnieuw beslissen.",
+  "bron": [
+   28
+  ],
+  "citaat": "verweerder opdragen om een nieuwe beslissing te nemen op het bezwaar van eiser"
+ },
+ "samenvatting": [
+  {
+   "zin": "De zaak gaat over een rapport en een dossier over meldingen van ongewenst gedrag bij de gemeente.",
+   "bron": [
+    16
+   ],
+   "citaat": "meldingen over ongewenst gedrag bij de Gemeente [naam gemeente]"
+  },
+  {
+   "zin": "De burger wilde de stukken hebben om zich te verdedigen in de procedure over zijn ontslag.",
+   "bron": [
+    23
+   ],
+   "citaat": "eiser zich afdoende kon voorbereiden op zijn verdediging in de procedure met betrekking tot zijn ontslag"
+  },
+  {
+   "zin": "De gemeente weigerde een groot deel van de documenten.",
+   "bron": [
+    19
+   ],
+   "citaat": "De overige documenten worden niet aan eiser verstrekt."
+  },
+  {
+   "zin": "De rechtbank vindt dat de gemeente de weigering niet volledig goed heeft uitgelegd.",
+   "bron": [
+    21
+   ],
+   "citaat": "Naar het oordeel van de rechtbank is verweerder hierin niet volledig geslaagd."
+  },
+  {
+   "zin": "De rechtbank vernietigt het besluit voor veel documenten en de gemeente moet opnieuw beslissen.",
+   "bron": [
+    28
+   ],
+   "citaat": "verweerder opdragen om een nieuwe beslissing te nemen op het bezwaar van eiser"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Veel documenten: besluit vernietigd; één document mocht de gemeente weigeren.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet opnieuw beslissen over de nog geweigerde documenten; de burger krijgt € 170 griffierecht terug.",
+  "bron": [
+   28,
+   32
+  ],
+  "citaat": "verweerder opdragen om een nieuwe beslissing te nemen op het bezwaar van eiser"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Ik heb niet alle documenten gekregen die ik heb gevraagd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank oordeelt dat de gemeente de weigering niet volledig goed heeft uitgelegd.",
+    "bron": [
+     21
+    ],
+    "citaat": "Naar het oordeel van de rechtbank is verweerder hierin niet volledig geslaagd."
+   },
+   "bruikbare_zin": {
+    "citaat": "verweerder hierin niet volledig geslaagd",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "weigering-rechten-anderen",
+   "burger_zegt": "De privacy van anderen is geen reden om alles te weigeren.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank wijst erop dat meerdere medewerkers geen bezwaar hadden tegen het geven van hun verklaring.",
+    "bron": [
+     23
+    ],
+    "citaat": "meerdere medewerkers hebben verklaard geen bezwaar te hebben tegen het verstrekken van hun verklaring aan eiser"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen bezwaar te hebben tegen het verstrekken van hun verklaring aan eiser",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "geheimhouding-onterecht",
+   "burger_zegt": "Interne notities zijn ook persoonsgegevens en mogen niet zomaar worden achtergehouden.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank zegt dat het begrip persoonsgegeven ruim moet worden uitgelegd.",
+    "bron": [
+     24
+    ],
+    "citaat": "het begrip persoonsgegeven ruim dient te worden uitgelegd"
+   },
+   "bruikbare_zin": {
+    "citaat": "het begrip persoonsgegeven ruim dient te worden uitgelegd",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "motivering",
+   "burger_zegt": "De gemeente heeft niet goed uitgelegd waarom zij de documenten niet geeft.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank zegt dat de gemeente het besluit niet goed heeft uitgelegd, ook niet na herstel.",
+    "bron": [
+     28
+    ],
+    "citaat": "verweerder er tot tweemaal toe niet in is geslaagd het bestreden besluit deugdelijk te motiveren"
+   },
+   "bruikbare_zin": {
+    "citaat": "het bestreden besluit deugdelijk te motiveren",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente moet per document uitleggen waarom zij een document niet verstrekt.",
+  "type": "regel",
+  "reikwijdte": "Bij een inzageverzoek in een onderzoeksdossier.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   17
+  ],
+  "citaat": "diende verweerder per deel van de eindconclusie en het onderzoeksdossier te motiveren waarom wordt geweigerd de documenten te verstrekken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "inventarislijst",
+   "verklaringen van medewerkers",
+   "eerdere inzage in het dossier"
+  ],
+  "wat_gaf_doorslag": "De gemeente gaf geen goede uitleg per document; eerdere inzage en het ontbreken van bezwaar van medewerkers speelden mee."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:EU:C:2017:994"
+  ]
+ },
+ "wetsartikelen": [
+  "Wet bescherming persoonsgegevens (Wbp)"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Maak een inventarislijst van de documenten en leg per document uit waarom u het niet geeft.",
+   "raakt": "privacy-fg",
+   "bron": [
+    17
+   ],
+   "citaat": "diende verweerder een inventarislijst op te stellen van de documenten"
+  },
+  {
+   "actie": "Betrek bij de weigering of de mensen die verklaringen hebben afgelegd bezwaar hebben.",
+   "raakt": "hr-personeel",
+   "bron": [
+    23
+   ],
+   "citaat": "meerdere medewerkers hebben verklaard geen bezwaar te hebben tegen het verstrekken van hun verklaring aan eiser"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "hr-personeel"
+ ],
+ "klantuitleg": "U wilde documenten uit een onderzoek naar ongewenst gedrag hebben. De gemeente mag niet zomaar alles weigeren: zij moet per document uitleggen waarom u het niet krijgt. Vraag bij zo'n weigering om een lijst en om uitleg per document; als privacy van anderen echt in gevaar is, moet de gemeente ook dat per stuk uitleggen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

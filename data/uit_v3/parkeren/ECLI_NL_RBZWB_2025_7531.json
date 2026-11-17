@@ -1,0 +1,141 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:7531",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "invordering",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeert tegen de gemeente Breda over een dwangbevel (de betaalaanmaning met extra kosten) na een naheffing voor parkeerbelasting. De rechtbank Zeeland-West-Brabant beslist of het dwangbevel terecht is opgelegd.",
+ "titel": "Gemeente kon niet bewijzen dat de aanmaning was verstuurd",
+ "kern": {
+  "zin": "De rechter vernietigde de uitspraak op bezwaar, omdat de gemeente niet aannemelijk kon maken dat de aanmaning was verstuurd.",
+  "bron": [
+   33
+  ],
+  "citaat": "heeft de invorderingsambtenaar niet aannemelijk gemaakt dat de naheffingsaanslag en de aanmaning zijn verzonden"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeerder kreeg een naheffing (de rekening achteraf) van € 54,25 na een controle op 20 november 2023.",
+   "bron": [
+    16,
+    17
+   ],
+   "citaat": "is door parkeercontroleurs geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zegt dat hij de rekening en de herinnering nooit heeft ontvangen.",
+   "bron": [
+    31
+   ],
+   "citaat": "de naheffingsaanslag parkeerbelasting en de aanmaning niet te hebben ontvangen"
+  },
+  {
+   "zin": "De gemeente vindt dat er geen reden is om de bezorging te betwijfelen.",
+   "bron": [
+    31
+   ],
+   "citaat": "er onvoldoende reden is om te twijfelen aan de juiste bezorging van de post"
+  },
+  {
+   "zin": "Volgens de rechter lag de bewijslast van de verzending bij de gemeente, en die bewijslast is niet gehaald.",
+   "bron": [
+    32,
+    33
+   ],
+   "citaat": "is het aan de invorderingsambtenaar om de verzending daarvan aannemelijk te maken"
+  },
+  {
+   "zin": "In deze procedure ging het niet over de rekening zelf.",
+   "bron": [
+    35
+   ],
+   "citaat": "De inhoud van de naheffingsaanslag stond in beroep niet inhoudelijk ter discussie"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Dwangbevel ten onrechte; de rekening zelf bleef buiten de beoordeling.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de parkeerder betekent dit dat de gemeente opnieuw moet beslissen en het griffierecht en € 1.230,50 aan proceskosten moet betalen.",
+  "bron": [
+   36,
+   37
+  ],
+  "citaat": "dat de heffingsambtenaar een nieuw besluit moet nemen met inachtneming van deze uitspraak"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder heeft de aanslag en de aanmaning nooit ontvangen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente niet kon aantonen dat de stukken waren verzonden.",
+    "bron": [
+     33
+    ],
+    "citaat": "heeft de invorderingsambtenaar niet aannemelijk gemaakt dat de naheffingsaanslag en de aanmaning zijn verzonden"
+   },
+   "bruikbare_zin": {
+    "citaat": "is het aan de invorderingsambtenaar om de verzending daarvan aannemelijk te maken",
+    "bron": [
+     32
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een dwangbevel mag pas worden opgelegd als de aanmaningstermijn is verstreken en niet is betaald.",
+  "type": "regel",
+  "reikwijdte": "dwangbevel na een niet betaalde naheffing",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   30
+  ],
+  "citaat": "Een dwangbevel kan worden opgelegd indien niet volledig betaald is na het verstrijken van de aanmaningstermijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verzendadministratie (ontbreekt)"
+  ],
+  "wat_gaf_doorslag": "De gemeente had geen verzendadministratie, dus de verzending bleef niet aannemelijk."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 1:3 Awb",
+  "art. 8:72 vierde lid Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar een verzendadministratie, zodat de gemeente de verzending van een aanmaning kan aantonen.",
+   "raakt": "bezwaar",
+   "bron": [
+    32
+   ],
+   "citaat": "De invorderingsambtenaar kan geen verzendadministratie overleggen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Een dwangbevel (de betaalaanmaning met extra kosten) mag niet worden opgelegd als de gemeente niet kan aantonen dat u de rekening en de herinnering heeft gekregen. In deze zaak kon de gemeente dat niet aantonen, en daarom vernietigde de rechter de uitspraak op bezwaar. Heeft u een rekening of herinnering niet ontvangen, meld dat dan in uw bezwaar; de gemeente moet dan bewijzen dat de post wel is verstuurd.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

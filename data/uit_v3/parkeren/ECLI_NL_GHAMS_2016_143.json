@@ -1,0 +1,150 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2016:143",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "bewijs-scanauto",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "kentekenhouder",
+  "wederpartij": "gemeente Beverwijk",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een autobezitter kreeg een naheffing voor parkeren in Beverwijk en zegt dat haar auto daar niet stond. Zij gaat in hoger beroep tegen de gemeente Beverwijk bij het gerechtshof Amsterdam.",
+ "titel": "Auto stond volgens bezitter niet in Beverwijk: naheffing blijft staan",
+ "kern": {
+  "zin": "De rechter vindt het niet aannemelijk dat de controleur zich vergiste, dus de naheffing blijft staan.",
+  "bron": [
+   48
+  ],
+  "citaat": "Het Hof acht derhalve niet aannemelijk dat de parkeercontroleur zich heeft vergist"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controleur zag op 18 juni 2014 een auto in Beverwijk staan zonder geldig parkeerkaartje en de eigenaar kreeg een naheffing.",
+   "bron": [
+    21
+   ],
+   "citaat": "stond geparkeerd zonder dat in de auto een geldig parkeerkaartje aanwezig was"
+  },
+  {
+   "zin": "De eigenaar zei dat haar auto op dat moment niet in Beverwijk was.",
+   "bron": [
+    44
+   ],
+   "citaat": "omdat haar auto zich ten tijde van het opleggen van de naheffingsaanslag niet in Beverwijk bevond"
+  },
+  {
+   "zin": "De gemeente geloofde de controleur.",
+   "bron": [
+    46
+   ],
+   "citaat": "hij geloof hecht aan de verklaring van de parkeercontroleur"
+  },
+  {
+   "zin": "De rechter vindt niet aannemelijk dat de controleur zich vergiste.",
+   "bron": [
+    48
+   ],
+   "citaat": "Het Hof acht derhalve niet aannemelijk dat de parkeercontroleur zich heeft vergist"
+  },
+  {
+   "zin": "Ook een andere auto met hetzelfde kenteken vindt de rechter niet aannemelijk.",
+   "bron": [
+    48
+   ],
+   "citaat": "evenmin aannemelijk acht dat sprake zou zijn geweest van een andere auto dan die van belanghebbende"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond.",
+   "bron": [
+    50
+   ],
+   "citaat": "het hoger beroep van belanghebbende ongegrond is"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; geen vergoeding van proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan en de eigenaar krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   52
+  ],
+  "citaat": "geen termen aanwezig voor een kostenveroordeling"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Mijn auto stond niet in Beverwijk en de controleur heeft een verkeerd kenteken genoteerd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt het niet aannemelijk dat de controleur zich heeft vergist.",
+    "bron": [
+     48
+    ],
+    "citaat": "Het Hof acht derhalve niet aannemelijk dat de parkeercontroleur zich heeft vergist"
+   },
+   "bruikbare_zin": {
+    "bron": [
+     48
+    ],
+    "citaat": "niet aannemelijk dat de parkeercontroleur zich heeft vergist"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Is niet aannemelijk dat de controleur zich vergiste of dat een andere auto met hetzelfde kenteken er stond, dan blijft de kentekenhouder de parkeerder.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Alleen deze zaak: de gegevens van de controleur kwamen overeen met de gegevens van de auto",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   48
+  ],
+  "citaat": "evenmin aannemelijk acht dat sprake zou zijn geweest van een andere auto dan die van belanghebbende"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring parkeercontroleur",
+   "RDW-gegevens over merk en kleur",
+   "verklaring zus van de eigenaar"
+  ],
+  "wat_gaf_doorslag": "Kenteken, merk en kleur klopten met de notitie van de controleur en er was geen teken van een andere auto met hetzelfde kenteken."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 5 Gemeentewet",
+  "art. 234 lid 7 Gemeentewet",
+  "art. 6:7 Awb",
+  "Verordening Parkeerbelastingen 2014 Beverwijk"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Noteer bij een handmatig opgemaakte naheffing naast het kenteken ook merk en kleur van de auto.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    21
+   ],
+   "citaat": "In een ter zake handmatig door de parkeercontroleur opgemaakt document staat onder meer vermeld"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "scanauto-handhaving",
+  "klantcontact"
+ ],
+ "klantuitleg": "Zegt u dat uw auto niet op de plek stond, dan moet u dat aannemelijk maken. In deze zaak geloofde de rechter de controleur, omdat kenteken, merk en kleur klopten en er geen teken was van een andere auto met hetzelfde kenteken. Bezwaar heeft meer kans als u kunt laten zien waar de auto die dag echt was.",
+ "gemeente": "Beverwijk",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

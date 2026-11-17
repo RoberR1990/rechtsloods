@@ -1,0 +1,168 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBGEL:2021:5866",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Arnhem",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Arnhem een naheffing (de rekening achteraf), omdat de parkeerbelasting niet direct was betaald. De parkeerder ging in beroep bij de rechtbank Gelderland tegen die naheffing en vroeg ook om een schadevergoeding.",
+ "titel": "Naheffing blijft: defecte parkeerautomaat of geen muntgeld is geen excuus",
+ "kern": {
+  "zin": "De rechtbank oordeelde dat een defecte automaat of geen muntgeld de naheffing niet tegenhoudt, dus de parkeerbelasting was terecht nageheven.",
+  "bron": [
+   37
+  ],
+  "citaat": "Volgens vaste rechtspraak staat die enkele omstandigheid niet eraan in de weg dat verweerder de verschuldigde parkeerbelasting naheft"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controleur zag op 16 september 2017 een auto staan zonder betaalde parkeerbelasting.",
+   "bron": [
+    20
+   ],
+   "citaat": "geparkeerd stond zonder dat de verschuldigde parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat de pinbetaling herhaaldelijk een foutmelding gaf en dat er geen tweede automaat stond.",
+   "bron": [
+    22
+   ],
+   "citaat": "Wel heeft eiser zijn best gedaan om met zijn pinpas bij de parkeerautomaat te betalen, maar dat leverde herhaaldelijk een foutmelding op"
+  },
+  {
+   "zin": "De gemeente vond dat de parkeerder meteen moest betalen en geen zwaarwegende reden had om dat niet te doen.",
+   "bron": [
+    23
+   ],
+   "citaat": "Verweerder stelt dat eiser meteen parkeerbelasting verschuldigd was toen hij de auto parkeerde"
+  },
+  {
+   "zin": "De rechtbank zei dat een defecte automaat de naheffing niet tegenhoudt, en dat geen muntgeld op risico van de parkeerder komt.",
+   "bron": [
+    37
+   ],
+   "citaat": "Volgens vaste rechtspraak staat die enkele omstandigheid niet eraan in de weg dat verweerder de verschuldigde parkeerbelasting naheft"
+  },
+  {
+   "zin": "De rechtbank wees het verzoek om schadevergoeding af, ook al constateerde zij dat de procedure te lang duurde.",
+   "bron": [
+    47
+   ],
+   "citaat": "Het verzoek om schadevergoeding zal worden afgewezen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft; termijn overschreden, maar geen schadevergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan en de parkeerder krijgt geen schadevergoeding.",
+  "bron": [
+   49
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De pinbetaling bij de automaat gaf steeds een foutmelding, dus de automaat was defect.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank zei dat een defecte automaat niet genoeg is om de naheffing te voorkomen.",
+    "bron": [
+     37
+    ],
+    "citaat": "Volgens vaste rechtspraak staat die enkele omstandigheid niet eraan in de weg dat verweerder de verschuldigde parkeerbelasting naheft"
+   },
+   "bruikbare_zin": {
+    "citaat": "Volgens vaste rechtspraak staat die enkele omstandigheid niet eraan in de weg",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er was geen muntgeld en er stond geen tweede automaat in de buurt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank zei dat het ontbreken van muntgeld voor rekening en risico van de parkeerder komt.",
+    "bron": [
+     37
+    ],
+    "citaat": "De omstandigheid dat eiser geen muntgeld bij zich had, komt voor zijn rekening en risico"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De procedure duurde te lang, dus er is recht op schadevergoeding.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank constateerde dat de redelijke termijn was overschreden, maar kende geen geld toe.",
+    "bron": [
+     47
+    ],
+    "citaat": "De rechtbank zal volstaan met de enkele constatering dat de redelijke termijn is overschreden"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Geld wisselen om parkeerbelasting te betalen telt niet als betalen bij het begin van het parkeren.",
+  "type": "regel",
+  "reikwijdte": "Voldoen van parkeerbelasting bij de aanvang van het parkeren, volgens artikel 234 Gemeentewet.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   35
+  ],
+  "citaat": "Uit jurisprudentie van de Hoge Raad volgt dat het wisselen van geld om parkeerbelasting te voldoen niet een handeling is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De rechtbank zag geen zwaarwegende reden om van de hoofdregel af te wijken."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2005:AU5160",
+   "ECLI:NL:HR:2016:252",
+   "ECLI:NL:HR:2017:292"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 lid 2 onder a Gemeentewet",
+  "art. 2 en art. 5 Verordening Parkeren en Parkeerbelastingen 2017 Arnhem",
+  "art. 6:106 en 6:95 BW"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaak de doorlooptijd van bezwaar- en beroepszaken, zodat een zaak niet langer dan twee jaar duurt.",
+   "raakt": "bezwaar",
+   "bron": [
+    40
+   ],
+   "citaat": "grotendeels door verweerder is veroorzaakt door te lang talmen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een defecte automaat of geen muntgeld is volgens de rechter niet genoeg om de naheffing te laten vervallen. Betaal daarom meteen bij het begin van het parkeren, via de app of een ander betaalmiddel. Lukt dat niet, dan heeft bezwaar op dit punt weinig kans.",
+ "gemeente": "Arnhem",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

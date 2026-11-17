@@ -1,0 +1,189 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "dubbel_van": null,
+ "ecli": "ECLI:NL:GHDHA:2021:2134",
+ "onderwerp": "parkeerbelasting",
+ "sub": "evenredigheid",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg in Den Haag een naheffingsaanslag (de rekening achteraf) omdat zijn betaalde parkeertijd verlopen was. Hij ging in hoger beroep tegen de gemeente Den Haag bij het gerechtshof Den Haag.",
+ "titel": "Schuilen voor de regen is geen reden om niet te betalen",
+ "kern": {
+  "zin": "De rechter vond de naheffing terecht, omdat schuilen voor regen geen overmacht (een noodsituatie) is.",
+  "bron": [
+   37
+  ],
+  "citaat": "Het Hof is daarom van oordeel dat van overmacht geen sprake is."
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder had betaald voor parkeren tot 17.16 uur.",
+   "bron": [
+    19
+   ],
+   "citaat": "een parkeerrecht op 22 december 2019 van 15:16 tot 17:16 uur"
+  },
+  {
+   "zin": "Om 17.27 uur stond zijn auto er nog en was er geen geldig parkeerrecht meer.",
+   "bron": [
+    20
+   ],
+   "citaat": "is om 17:27 uur geconstateerd dat de auto van belanghebbende geparkeerd stond zonder geldig parkeerrecht"
+  },
+  {
+   "zin": "De parkeerder zei dat hij door een zware regenbui niet op tijd bij de parkeerautomaat kon zijn.",
+   "bron": [
+    36
+   ],
+   "citaat": "wegens het schuilen voor een heftige regenbui niet tijdig bij de parkeerautomaat terug kon komen"
+  },
+  {
+   "zin": "De gemeente zei dat de scanauto de overschrijding van 11 minuten had vastgesteld.",
+   "bron": [
+    24
+   ],
+   "citaat": "geconstateerd dat de parkeertijd met 11 minuten was overschreden"
+  },
+  {
+   "zin": "Het hof vond regen geen overmacht, omdat regen niet levensbedreigend is.",
+   "bron": [
+    37
+   ],
+   "citaat": "regenval op zich, ook voor iemand met een hogere leeftijd, niet levensbedreigend"
+  },
+  {
+   "zin": "Ook de vaste naheffing voor één uur was niet te hoog, al had de parkeerder een deel van dat uur betaald.",
+   "bron": [
+    39
+   ],
+   "citaat": "standaard een forfaitair bedrag gelijk aan de verschuldigde parkeerbelasting voor een uur in rekening te brengen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing terecht; geen overmacht door regen",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing betalen en krijgt geen proceskosten vergoed.",
+  "bron": [
+   41,
+   43
+  ],
+  "citaat": "Het Hof ziet geen aanleiding voor een veroordeling in de proceskosten."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overmacht-medisch",
+   "burger_zegt": "Hij moest schuilen voor heftige regen en kon daardoor niet op tijd bijbetalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Regen is niet levensbedreigend en met regenkleding of een paraplu had hij naar de automaat gekund.",
+    "bron": [
+     37
+    ],
+    "citaat": "regenval op zich, ook voor iemand met een hogere leeftijd, niet levensbedreigend"
+   },
+   "bruikbare_zin": {
+    "citaat": "regenval op zich, ook voor iemand met een hogere leeftijd, niet levensbedreigend",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De naheffing is te hoog, omdat hij voor een deel van het uur al betaald had.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente mag standaard het bedrag voor een uur opleggen, ongeacht wat al betaald is.",
+    "bron": [
+     39
+    ],
+    "citaat": "standaard een forfaitair bedrag gelijk aan de verschuldigde parkeerbelasting voor een uur in rekening te brengen"
+   },
+   "bruikbare_zin": {
+    "citaat": "standaard een forfaitair bedrag gelijk aan de verschuldigde parkeerbelasting voor een uur in rekening te brengen",
+    "bron": [
+     39
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het controlesysteem is bedoeld om de parkeeropbrengst te maximaliseren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dat streven is niet onderbouwd en neemt de bevoegdheid om na te heffen niet weg.",
+    "bron": [
+     38
+    ],
+    "citaat": "zou dat enkele streven, dat belanghebbende niet heeft onderbouwd, niet tot gevolg hebben"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeerbelasting is een objectieve belasting: bewust of onbewust niet betalen maakt niet uit, behalve bij een acute noodsituatie van uitzonderlijke aard.",
+  "type": "regel",
+  "reikwijdte": "Alle naheffingen parkeerbelasting",
+  "uitzondering": "Overmacht: een acute noodsituatie van uitzonderlijk en buitengewoon karakter",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   37
+  ],
+  "citaat": "de parkeerbelasting een objectieve belasting is, waarbij opzet en schuld geen rol spelen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "scanauto",
+   "betaalgegevens parkeerautomaat en app"
+  ],
+  "wat_gaf_doorslag": "Regen was geen gevaar voor de gezondheid en regenkleding of een paraplu was een optie."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2019:56"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 lid 3 Gemeentewet",
+  "art. 6 lid 1 Verordening parkeerbelastingen 2008 Den Haag"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij een naheffing het vaste bedrag voor één uur op, ook als de parkeerder een deel van dat uur betaalde.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    39
+   ],
+   "citaat": "standaard een forfaitair bedrag gelijk aan de verschuldigde parkeerbelasting voor een uur in rekening te brengen"
+  },
+  {
+   "actie": "Leg vast hoe de controleroute wordt bepaald en dat die de controle gelijkmatig over de stad spreidt.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    38
+   ],
+   "citaat": "de controle gelijkmatiger over de stad wordt gespreid"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "tarief-naheffing",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Loopt uw betaalde parkeertijd af en staat uw auto er dan nog, dan kunt u een rekening achteraf krijgen. Schuilen voor de regen is geen geldige reden om niet te betalen. Alleen bij een echte noodsituatie, zoals gevaar voor uw gezondheid, kan een uitzondering gelden; heeft u zo'n reden, leg die dan uit en bewijs die in uw bezwaar.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,207 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2022:56",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Den Haag twee naheffingsaanslagen (rekeningen achteraf) voor parkeerbelasting. Hij ging in hoger beroep bij het gerechtshof Den Haag.",
+ "titel": "Even stilstaan om te bellen telt ook als parkeren",
+ "kern": {
+  "zin": "Het hof vond de borden duidelijk genoeg en zei dat stilstaan om te bellen ook parkeren is; beide rekeningen bleven staan.",
+  "bron": [
+   42
+  ],
+  "citaat": "het stilzetten van een auto om een telefoongesprek te voeren op een parkeerplaats moet worden aangemerkt als parkeren"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een scanauto zag op twee momenten dat voor de auto van de parkeerder geen parkeerbelasting was betaald en geen vergunning was aangemeld, waarna de gemeente twee naheffingsaanslagen oplegde.",
+   "bron": [
+    19
+   ],
+   "citaat": "door een scanauto geconstateerd dat voor de auto geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat in de ene straat niet duidelijk was aangegeven dat het een betaald parkeergebied was, en dat hij op de andere plek maar kort stilstond om te bellen.",
+   "bron": [
+    24
+   ],
+   "citaat": "Eiser heeft gesteld dat in de [straat 1] niet duidelijk was aangegeven dat sprake van een betaald parkeerzone"
+  },
+  {
+   "zin": "De gemeente zei dat bij alle toegangswegen zoneborden stonden en dat binnen de zone herhalingsborden hingen.",
+   "bron": [
+    24
+   ],
+   "citaat": "aan alle toegangswegen naar de [straat 1] zoneborden staan die aangeven dat men een betaald parkeerzone binnenrijdt"
+  },
+  {
+   "zin": "Het hof vond dat de regels op die plek duidelijk genoeg waren en sloot daarbij aan bij de rechtbank.",
+   "bron": [
+    24,
+    38
+   ],
+   "citaat": "dat de regels omtrent de verschuldigdheid van parkeerbelasting zoals die op de locatie gelden voor eiser redelijkerwijs voldoende duidelijk waren"
+  },
+  {
+   "zin": "Volgens het hof telt stilstaan om te bellen als parkeren, ook als het kort duurt, en een automaat die geen bedrag onder tien cent aanneemt verandert dat niet.",
+   "bron": [
+    42
+   ],
+   "citaat": "dat de parkeerautomaat niet de mogelijkheid biedt om een lager bedrag dan tien cent in te werpen"
+  },
+  {
+   "zin": "Het hof bevestigde de uitspraak van de rechtbank, dus beide naheffingsaanslagen bleven staan en er kwam geen vergoeding van proceskosten.",
+   "bron": [
+    50,
+    48
+   ],
+   "citaat": "Het Gerechtshof bevestigt de uitspraak van de Rechtbank"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beide naheffingen blijven staan; geen proceskostenveroordeling.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet beide naheffingsaanslagen betalen en krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   50,
+   48
+  ],
+  "citaat": "Het Gerechtshof bevestigt de uitspraak van de Rechtbank"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "In de ene straat was niet duidelijk aangegeven dat het betaald parkeren was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er stonden zoneborden bij de toegangswegen en een herhalingsbord vlak bij de auto, dus de regels waren duidelijk genoeg.",
+    "bron": [
+     24,
+     38
+    ],
+    "citaat": "dat de regels omtrent de verschuldigdheid van parkeerbelasting zoals die op de locatie gelden voor eiser redelijkerwijs voldoende duidelijk waren"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat de regels omtrent de verschuldigdheid van parkeerbelasting zoals die op de locatie gelden voor eiser redelijkerwijs voldoende duidelijk waren",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "De parkeerder stond maar twee tot drie minuten stil om te bellen en de motor draaide.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Stilzetten om te bellen op een parkeerplaats is parkeren, ook als het maar kort duurt.",
+    "bron": [
+     42
+    ],
+    "citaat": "ook als dat telefoongesprek en het in verband hiermee stilstaan van de auto slechts korte tijd heeft geduurd"
+   },
+   "bruikbare_zin": {
+    "citaat": "het stilzetten van een auto om een telefoongesprek te voeren op een parkeerplaats moet worden aangemerkt als parkeren",
+    "bron": [
+     42
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De omschrijving van parkeren in de gemeentelijke verordening is onduidelijker dan die in de verkeersregels.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De omschrijving in de Gemeentewet is een op een overgenomen in de verordening, dus er is geen relevante onduidelijkheid.",
+    "bron": [
+     40
+    ],
+    "citaat": "Van enige relevante onduidelijkheid kan dan ook geen sprake zijn"
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerautomaat laat geen bedrag onder tien cent toe, dus voor een paar minuten kon hij niet betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dat de automaat geen lager bedrag aanneemt, ontslaat niet van betalen; al bij drie minuten is tien cent verschuldigd.",
+    "bron": [
+     42
+    ],
+    "citaat": "Bij een parkeerduur van drie minuten is al een bedrag van tien cent aan parkeerbelasting verschuldigd"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie een auto stilzet op een parkeerplaats om te bellen, parkeert, ook als dat maar kort duurt.",
+  "type": "regel",
+  "reikwijdte": "Alle betaald-parkeergebieden waar de verordening parkeren omschrijft als het laten staan van een voertuig.",
+  "uitzondering": "Onmiddellijk in- of uitstappen van personen en onmiddellijk laden of lossen van zaken telt niet als parkeren.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   42
+  ],
+  "citaat": "het stilzetten van een auto om een telefoongesprek te voeren op een parkeerplaats moet worden aangemerkt als parkeren"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "scanauto-controle",
+   "zoneborden bij de toegangswegen",
+   "herhalingsbord vlak bij de auto"
+  ],
+  "wat_gaf_doorslag": "Niet in geschil was dat de auto stilstond zonder dat iemand in- of uitstapte of werd geladen of gelost."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:1995:AA3126",
+   "ECLI:NL:GHAMS:2019:2491"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "art. 1 onder d Verordening parkeerbelastingen 2008 Den Haag",
+  "art. 1 lid 2 RVV 1990"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet zoneborden bij alle toegangswegen van een betaald-parkeerzone en herhalingsborden binnen de zone.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    24
+   ],
+   "citaat": "aan alle toegangswegen naar de [straat 1] zoneborden staan die aangeven dat men een betaald parkeerzone binnenrijdt"
+  },
+  {
+   "actie": "Leg per locatie vast welk herhalingsbord het dichtst bij de geparkeerde auto staat, zodat u dat bij bezwaar kunt laten zien.",
+   "raakt": "bezwaar",
+   "bron": [
+    24
+   ],
+   "citaat": "Een van de herhalingsborden heeft vlakbij de auto gestaan"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "bebording-verkeersbesluit",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Ook als u maar even stilstaat om te bellen, telt dat als parkeren en moet u betalen, behalve als u alleen in- of uitstapt of laadt en lost. Dat een automaat geen bedragen onder tien cent aanneemt, is geen reden om niet te betalen. Bezwaar heeft op deze punten weinig kans, maar wel als u kunt laten zien dat er op uw plek echt geen duidelijke borden stonden.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

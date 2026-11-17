@@ -1,0 +1,181 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2023:6960",
+ "relevant": true,
+ "onderwerp": "schade-aansprakelijkheid",
+ "sub": "immateriele-schade",
+ "kenmerk": null,
+ "zaaktype": "schadevergoeding",
+ "partijen": {
+  "burger": "twee inwoners",
+  "wederpartij": "de burgemeester van een gemeente (naam niet genoemd)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "anders",
+ "intro": "Twee inwoners vroegen de rechtbank Midden-Nederland om schadevergoeding van de burgemeester. Zij vonden dat zij ten onrechte waren geplaatst in de persoonsgerichte aanpak (een aanpak voor mensen die herhaaldelijk overlast geven).",
+ "titel": "Onrechtmatig in persoonsgerichte aanpak, maar geen schadevergoeding",
+ "kern": {
+  "zin": "De verwerking van de gegevens was onrechtmatig, maar de rechter wees de schadevergoeding af omdat de inwoners hun schade niet aantoonden.",
+  "bron": [
+   31
+  ],
+  "citaat": "Eisers hebben onvoldoende aannemelijk gemaakt dat in hun geval sprake is van schade"
+ },
+ "samenvatting": [
+  {
+   "zin": "De inwoners vroegen schadevergoeding omdat de burgemeester hen in de persoonsgerichte aanpak had geplaatst.",
+   "bron": [
+    11
+   ],
+   "citaat": "Zij vinden dat de burgemeester de AVG heeft geschonden door hen te plaatsen in de persoonsgerichte aanpak (pga)."
+  },
+  {
+   "zin": "De rechter vond dat de burgemeester de waarborgen uit het privacyreglement niet goed had gevolgd.",
+   "bron": [
+    28
+   ],
+   "citaat": "de burgemeester onvoldoende de waarborgen van artikel 2, tweede lid, van het Privacyreglement in acht heeft genomen"
+  },
+  {
+   "zin": "In het dossier stonden niet twee politieregistraties in de twaalf maanden daarvoor, en het bleek niet wie had besloten om hen te plaatsen.",
+   "bron": [
+    28
+   ],
+   "citaat": "in het dossier heeft de rechtbank niet minimaal twee politieregistraties in de afgelopen twaalf maanden voorafgaand aan de pga-melding aangetroffen"
+  },
+  {
+   "zin": "Een schending van de AVG is op zichzelf niet genoeg voor schadevergoeding.",
+   "bron": [
+    30
+   ],
+   "citaat": "een inbreuk op de bepalingen van deze verordening op zich niet volstaat voor de toekenning van een recht op schadevergoeding"
+  },
+  {
+   "zin": "De inwoners noemden verlies van vertrouwen in de overheid, maar dat was voor de rechter onvoldoende om schade aannemelijk te maken.",
+   "bron": [
+    31
+   ],
+   "citaat": "Zij benoemen het verlies van vertrouwen in de overheid en in de hulpverlening/zorg, maar dat is onvoldoende"
+  },
+  {
+   "zin": "Het verzoek is afgewezen; de inwoners krijgen hun griffierecht niet terug.",
+   "bron": [
+    33
+   ],
+   "citaat": "Eisers krijgen daarom het griffierecht niet terug."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Verwerking onrechtmatig, maar schade niet aangetoond",
+ "gevolg_betrokkene": {
+  "zin": "De inwoners krijgen geen schadevergoeding, hun griffierecht niet terug en geen vergoeding van proceskosten.",
+  "bron": [
+   33
+  ],
+  "citaat": "Het verzoek om schadevergoeding wordt afgewezen."
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "geen-wettelijke-grondslag",
+   "burger_zegt": "De burgemeester had hen niet mogen plaatsen in de aanpak en hun gegevens niet mogen verwerken.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat er onvoldoende grondslag (noodzaak) was om hun gegevens te verwerken.",
+    "bron": [
+     28
+    ],
+    "citaat": "De rechtbank moet het er daarom voor houden dat er onvoldoende grondslag (noodzaak) was om de persoonsgegevens van eisers te verwerken"
+   }
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Zij hadden immateriële schade door de plaatsing in de aanpak.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De inwoners moeten bewijzen dat en hoe erg de schending schade veroorzaakte, en dat deden zij niet.",
+    "bron": [
+     31
+    ],
+    "citaat": "Eisers moeten dus bewijzen dat en in welke mate de schending van de AVG schade heeft veroorzaakt."
+   },
+   "bruikbare_zin": {
+    "citaat": "Eisers hebben niet geconcretiseerd waaruit hun schade bestaat.",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het verlies van vertrouwen in de overheid en het niet kunnen controleren van gegevens is zelf al schade (zoals in een Europese zaak).",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "In hun zaak waren de gegevens niet gedeeld met andere partners dan de partners van de aanpak.",
+    "bron": [
+     31
+    ],
+    "citaat": "niet gebleken is dat persoonsgegevens zijn gedeeld met andere partners dan de partners van het pga"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een schending van de AVG geeft niet automatisch recht op schadevergoeding: de burger moet schade en het verband met de schending aantonen.",
+  "type": "regel",
+  "reikwijdte": "Verzoek om immateriële schadevergoeding op grond van art. 82 AVG tegen een bestuursorgaan",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   30
+  ],
+  "citaat": "een inbreuk op de bepalingen van deze verordening op zich niet volstaat voor de toekenning van een recht op schadevergoeding"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De inwoners maakten niet concreet waaruit hun schade bestond."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 82 AVG",
+  "art. 34 UAVG",
+  "art. 8:88 Awb",
+  "art. 6 lid 1 onder e AVG",
+  "art. 5 lid 1 onder b AVG",
+  "art. 172 Gemeentewet",
+  "art. 2 lid 2 Privacyreglement Lokale Persoonsgerichte aanpak",
+  "art. 8:29 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij plaatsing in een persoonsgerichte aanpak vast dat er minimaal twee politieregistraties in de afgelopen twaalf maanden zijn.",
+   "raakt": "privacy-fg",
+   "bron": [
+    28
+   ],
+   "citaat": "in het dossier heeft de rechtbank niet minimaal twee politieregistraties in de afgelopen twaalf maanden voorafgaand aan de pga-melding aangetroffen"
+  },
+  {
+   "actie": "Leg vast wie heeft besloten om iemand in de aanpak te plaatsen en hoe die afweging is gemaakt.",
+   "raakt": "privacy-fg",
+   "bron": [
+    28
+   ],
+   "citaat": "door wie en hoe de afweging is gemaakt om eisers ook daadwerkelijk in de pga te plaatsen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Heeft de gemeente uw gegevens onrechtmatig gebruikt, dan krijgt u daarvoor niet automatisch een schadevergoeding. U moet zelf laten zien welke schade u hebt en dat die door het onrechtmatige gebruik komt; alleen zeggen dat u het vertrouwen kwijt bent, is niet genoeg. Wilt u schadevergoeding vragen, onderbouw uw schade dan zo concreet mogelijk.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

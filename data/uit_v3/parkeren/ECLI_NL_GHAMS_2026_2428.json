@@ -1,0 +1,180 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2026:2428",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente (niet genoemd)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder en de gemeente procederen over een naheffingsaanslag (een rekening achteraf) voor parkeren. De gemeente ging in hoger beroep bij het Gerechtshof Amsterdam tegen een uitspraak van de rechtbank Noord-Holland.",
+ "titel": "Parkeerapp: controleer zelf of de gekozen zone klopt",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder zelf moest controleren of de zone in de parkeerapp klopte met de plek waar hij stond, dus de rekening achteraf mocht blijven staan, maar iets lager.",
+  "bron": [
+   40
+  ],
+  "citaat": "Van hem kan echter wel worden gevergd dat hij verifieert of de door zijn mobiele telefoon weergegeven locatie overeenkomt"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder betaalde met een parkeerapp € 1,17 voor een zone met een tarief van € 2,50 per uur.",
+   "bron": [
+    22
+   ],
+   "citaat": "met behulp van de parkeerapplicatie van [bedrijf] € 1,17 parkeerbelasting betaald voor parkeren tot 20:40 uur"
+  },
+  {
+   "zin": "Een scanauto zag dat de auto in een andere zone stond, en de gemeente legde een naheffingsaanslag van € 80,70 op.",
+   "bron": [
+    23
+   ],
+   "citaat": "werd met behulp van een scanauto geconstateerd dat de auto stond geparkeerd in zone"
+  },
+  {
+   "zin": "De parkeerder zei dat hij de zone koos die de app zelf voorstelde.",
+   "bron": [
+    35
+   ],
+   "citaat": "heeft aangemeld in de parkeerzone die de parkeerapplicatie van [bedrijf] automatisch suggereerde"
+  },
+  {
+   "zin": "De gemeente zei dat zij de juiste zones en tarieven aan de app had doorgegeven en geen invloed had op de zone die de app koos.",
+   "bron": [
+    34
+   ],
+   "citaat": "de juiste gegevens omtrent de afbakening van de parkeerzones en de geldende tarieven ten behoeve van de parkeerapplicaties"
+  },
+  {
+   "zin": "De rechter vond dat de parkeerder niet genoeg had gecontroleerd, want hij koos gewoon de bovenste zone uit de lijst.",
+   "bron": [
+    41
+   ],
+   "citaat": "Hiermee heeft hij naar het oordeel van het Hof niet voldaan aan de op hem rustende onderzoeksplicht"
+  },
+  {
+   "zin": "De rechter liet wel het al betaalde bedrag van € 1,17 aftrekken van de naheffing.",
+   "bron": [
+    42
+   ],
+   "citaat": "zonder dat daarbij rekening is gehouden met het bedrag (€ 1,17) dat belanghebbende weldegelijk voldaan heeft"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Gemeente wint de hoofdzaak; naheffing gaat € 1,17 omlaag, plus € 9,22 reiskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffingsaanslag gaat van € 80,70 naar € 79,53, de gemeente moet € 9,22 reiskosten betalen en het griffierecht van € 51 blijft vergoed.",
+  "bron": [
+   51,
+   52,
+   50,
+   18
+  ],
+  "citaat": "vermindert de naheffingsaanslag met € 1,17 tot € 79,53, en"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Ik heb betaald voor de zone die de app voorstelde; een verkeerde zone is niet mijn schuld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De parkeerder moet nagaan of de locatie in de app klopt met de plek waar hij echt staat.",
+    "bron": [
+     41
+    ],
+    "citaat": "Hij had de plattegrond in de parkeerapplicatie moeten raadplegen en moeten verifiëren"
+   },
+   "bruikbare_zin": {
+    "citaat": "Hij had de plattegrond in de parkeerapplicatie moeten raadplegen en moeten verifiëren",
+    "bron": [
+     41
+    ]
+   }
+  },
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De app gaf een verkeerde zone en de gemeente moet bewijzen dat de app betrouwbaar is.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een verkeerde zone komt hier door de GPS van de telefoon, niet door de werking van de app.",
+    "bron": [
+     39
+    ],
+    "citaat": "niet zozeer de werking van de parkeerapplicatie die de onjuiste suggestie veroorzaakt"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet zozeer de werking van de parkeerapplicatie die de onjuiste suggestie veroorzaakt",
+    "bron": [
+     39
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Kiest een parkeerder in de app een verkeerde zone doordat de GPS van de telefoon afwijkt, en controleert hij dat niet, dan komt dat voor zijn rekening.",
+  "type": "regel",
+  "reikwijdte": "Parkeerders die met een parkeerapp betalen en een zone kiezen die de app voorstelt op basis van de GPS van de telefoon",
+  "uitzondering": "Anders als de verkeerde zone komt door iets wat de gemeente moet dragen, zoals een onjuist getekende zonegrens in de app",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   40
+  ],
+  "citaat": "Doet hij dat niet, dan dienen de gevolgen daarvan voor zijn rekening te komen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "foto's van de scanauto",
+   "tarieventabel bij de parkeerbelastingverordening",
+   "verklaring van de parkeerder op de zitting"
+  ],
+  "wat_gaf_doorslag": "De parkeerder koos de bovenste zone uit de lijst zonder te controleren of die klopte."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:HR:2020:1014"
+  ]
+ },
+ "wetsartikelen": [
+  "Verordening parkeerbelastingen 2024 (bijlage 1, tarieventabel)",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg vast dat u de juiste zone-indeling en tarieven aan de aanbieders van parkeerapps hebt doorgegeven.",
+   "raakt": "betaalapp",
+   "bron": [
+    37
+   ],
+   "citaat": "De heffingsambtenaar heeft onweersproken gesteld dat de juiste zone-indeling en tarieven ten behoeve van de parkeerapplicatie zijn verstrekt"
+  },
+  {
+   "actie": "Trek bij een naheffing het bedrag dat de parkeerder al via de app betaalde af van de verschuldigde belasting.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    42
+   ],
+   "citaat": "zonder dat daarbij rekening is gehouden met het bedrag (€ 1,17) dat belanghebbende weldegelijk voldaan heeft"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "betaalapp",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Betaalt u met een parkeerapp, dan moet u zelf nagaan of de zone in de app klopt met de plek waar uw auto staat. Kiest u een verkeerde zone doordat de GPS van uw telefoon afwijkt, dan kan de gemeente het tekort alsnog vragen; wat u al betaalde, gaat er wel af. Bezwaar heeft vooral zin als de zonegrens in de app zelf fout was of als u kunt laten zien dat u de plek wel hebt gecontroleerd.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

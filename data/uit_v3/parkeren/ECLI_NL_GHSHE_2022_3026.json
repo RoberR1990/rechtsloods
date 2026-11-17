@@ -1,0 +1,175 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "reden_leeg_actie": null,
+ "ecli": "ECLI:NL:GHSHE:2022:3026",
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Tilburg",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "In Tilburg werkte een parkeerautomaat niet en de parkeerder betaalde daarna niet op een andere manier. De rechtbank vernietigde de naheffing; de gemeente ging in hoger beroep bij het gerechtshof 's-Hertogenbosch.",
+ "titel": "Kapotte automaat: parkeerder moet zoeken naar andere betaalmogelijkheid",
+ "kern": {
+  "zin": "De gemeente won, want bij een kapotte automaat moet de parkeerder zich inspannen om op een andere manier te betalen.",
+  "bron": [
+   33
+  ],
+  "citaat": "De parkeerder heeft op dit punt dus een zekere inspanningsverplichting"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder wilde op 18 december 2019 in Tilburg met zijn bankpas betalen, maar de automaat had een storing.",
+   "bron": [
+    20
+   ],
+   "citaat": "heeft getracht met een bankpas de parkeerbelasting te voldoen bij een parkeerautomaat met nummer 92"
+  },
+  {
+   "zin": "Hij betaalde ook niet op een andere manier en kreeg een naheffingsaanslag.",
+   "bron": [
+    20
+   ],
+   "citaat": "Belanghebbende heeft de parkeerbelasting evenmin op een andere manier voldaan"
+  },
+  {
+   "zin": "De rechtbank vernietigde de naheffing; de gemeente ging in hoger beroep en de parkeerder wilde dat de rechtbankuitspraak bleef staan.",
+   "bron": [
+    25
+   ],
+   "citaat": "De heffingsambtenaar concludeert tot vernietiging van de uitspraak van de rechtbank"
+  },
+  {
+   "zin": "De rechtbank vond dat bij een kapotte automaat op of bij de automaat moet staan waar de parkeerder wel kan betalen.",
+   "bron": [
+    29
+   ],
+   "citaat": "er aanwijzingen op of bij de parkeerautomaat vermeld moeten staan over hoe en waar de parkeerder dan de parkeerbelasting kan betalen"
+  },
+  {
+   "zin": "Het hof vond dat dit geen algemene regel is: de parkeerder moet nagaan of hij op een andere manier kan betalen, bijvoorbeeld bij een andere automaat.",
+   "bron": [
+    33
+   ],
+   "citaat": "zal hij moeten nagaan of hij de verschuldigde parkeerbelasting op een andere manier kan voldoen"
+  },
+  {
+   "zin": "De parkeerder had niet genoeg gedaan, want een andere automaat stond dichtbij; het hoger beroep van de gemeente slaagde.",
+   "bron": [
+    36
+   ],
+   "citaat": "zodanig dichtbij ligt dat van belanghebbende gevergd kon worden dat hij aldaar in de omgeving had gekeken"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep van de gemeente slaagt; naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffingsaanslag blijft staan en het verzoek om schadevergoeding is afgewezen; er is geen proceskostenveroordeling.",
+  "bron": [
+   43
+  ],
+  "citaat": "Het hof oordeelt dat er geen redenen zijn voor een veroordeling in de proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De automaat had een storing en ik had geen geschikte app, dus ik kon niet betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De parkeerder moest eerst nagaan of hij op een andere manier kon betalen, en maakte niet aannemelijk dat hij genoeg had gedaan.",
+    "bron": [
+     34
+    ],
+    "citaat": "belanghebbende niet aannemelijk heeft gemaakt dat hij voldoende inspanningen heeft gedaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "zal hij moeten nagaan of hij de verschuldigde parkeerbelasting op een andere manier kan voldoen",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Op de automaat stond niet waar andere automaten waren en het storingsnummer was niet bereikbaar.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De andere automaat lag zo dichtbij dat de parkeerder die had moeten zien als hij had gezocht.",
+    "bron": [
+     36
+    ],
+    "citaat": "zodanig dichtbij ligt dat van belanghebbende gevergd kon worden dat hij aldaar in de omgeving had gekeken"
+   },
+   "bruikbare_zin": {
+    "citaat": "De aan- of afwezigheid van dergelijke aanwijzingen kan wel een element zijn bij de beoordeling",
+    "bron": [
+     32
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een kapotte automaat moet de parkeerder zich redelijk inspannen om op een andere manier te betalen, bijvoorbeeld bij een andere automaat.",
+  "type": "regel",
+  "reikwijdte": "Kapotte automaat waarbij een andere automaat of mobiel parkeren beschikbaar is, maar de parkeerder geen geschikte app heeft.",
+  "uitzondering": "Ontbrekende aanwijzingen op de automaat en een onbereikbaar storingsnummer kunnen meewegen bij de vraag of de parkeerder genoeg deed.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   33
+  ],
+  "citaat": "zal hij moeten nagaan of hij de verschuldigde parkeerbelasting op een andere manier kan voldoen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "kaart met de plaats van parkeerautomaten",
+   "overzicht van storingsmeldingen en klantcontacten",
+   "verklaring van de parkeerder ter zitting"
+  ],
+  "wat_gaf_doorslag": "Een andere automaat stond dichtbij en de parkeerder had niet genoeg gezocht."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:GHAMS:2021:1918",
+   "ECLI:NL:HR:1995:AA3117",
+   "ECLI:NL:GHDHA:2016:1349"
+  ]
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Breng een kaart in met de plaats van alle parkeerautomaten, om te laten zien dat een andere automaat dichtbij stond.",
+   "raakt": "bezwaar",
+   "bron": [
+    22
+   ],
+   "citaat": "een uitdraai van een kaart (hierna: de kaart) ingebracht van waar parkeerautomaten gesitueerd zijn"
+  },
+  {
+   "actie": "Bewaar overzichten van storingsmeldingen en klantcontacten per automaat, zodat u kunt laten zien welke automaten werkten.",
+   "raakt": "bezwaar",
+   "bron": [
+    38
+   ],
+   "citaat": "overzichten van (storings)meldingen en contacten met de klantenservice op (onder meer) 18 december 2019"
+  }
+ ],
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "Is de parkeerautomaat kapot, dan moet u meestal toch betalen. U moet eerst proberen op een andere manier te betalen, bijvoorbeeld bij een andere automaat in de buurt. Bezwaar heeft vooral zin als u kunt laten zien dat u echt hebt gezocht en geen andere betaalmogelijkheid had.",
+ "gemeente": "Tilburg",
+ "zekerheid": "middel"
+}

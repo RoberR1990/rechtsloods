@@ -1,0 +1,151 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2021:612",
+ "relevant": true,
+ "onderwerp": "parkeernormen",
+ "sub": "parkeernorm-toets",
+ "kenmerk": null,
+ "zaaktype": "omgevingsrecht",
+ "partijen": {
+  "burger": "eigenaar van de bijgebouwen",
+  "wederpartij": "gemeente Hilversum",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een eigenaar wilde twee bijgebouwen in Hilversum verbouwen tot appartementen en vroeg daarvoor een vergunning aan. De rechtbank Midden-Nederland oordeelde over het beroep tegen de weigering van de gemeente Hilversum.",
+ "titel": "Weigering appartementen terecht: parkeerplaatsen niet getekend",
+ "kern": {
+  "zin": "De rechtbank vond de weigering terecht, omdat de parkeerplaatsen niet op de tekeningen stonden.",
+  "bron": [
+   26
+  ],
+  "citaat": "Deze staan nergens vermeld en zijn ook niet ingetekend op de bouwtekeningen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente weigerde de vergunning, omdat de verbouwing volgens haar in strijd was met het bestemmingsplan.",
+   "bron": [
+    17
+   ],
+   "citaat": "Volgens verweerder is de verbouwing waarop deze aanvraag ziet in strijd met het bestemmingsplan"
+  },
+  {
+   "zin": "De eigenaar stelde dat de gemeente al via een ander bouwplan van de parkeerplaatsen wist.",
+   "bron": [
+    25
+   ],
+   "citaat": "Volgens eiser was verweerder echter al via een andere weg op de hoogte"
+  },
+  {
+   "zin": "De rechtbank vond dat de gemeente alleen mag beslissen op de aanvraag zoals die er ligt.",
+   "bron": [
+    26
+   ],
+   "citaat": "Verweerder moet immers beslissen op de aanvraag zoals deze voorligt"
+  },
+  {
+   "zin": "Over het gelijkheidsbeginsel volgde de rechtbank de uitleg van de gemeente.",
+   "bron": [
+    29
+   ],
+   "citaat": "De rechtbank kan deze uitleg van verweerder volgen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Weigering van de eerste aanvraag bleef staan; later wel vergunning.",
+ "gevolg_betrokkene": {
+  "zin": "De eigenaar krijgt geen gelijk, maar kreeg na een nieuwe aanvraag later alsnog een vergunning.",
+  "bron": [
+   26,
+   14
+  ],
+  "citaat": "de vergunning mogen weigeren wegens het niet voldoen aan de eisen"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gelijkheid",
+   "burger_zegt": "Een naastgelegen perceel kreeg wel een vergunning, dus gelijke behandeling was niet gegeven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank volgde de uitleg van de gemeente en vond het beroep op gelijkheid niet terecht.",
+    "bron": [
+     29
+    ],
+    "citaat": "De rechtbank kan deze uitleg van verweerder volgen"
+   },
+   "bruikbare_zin": {
+    "citaat": "het grootste gedeelte van het bouwproject gelegen binnen de bestemming",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerplaatsen waren al bekend bij de gemeente, dus die hoefden niet opnieuw op de tekening.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat de gemeente op de aanvraag moest beslissen zoals die er lag.",
+    "bron": [
+     26
+    ],
+    "citaat": "Verweerder moet immers beslissen op de aanvraag zoals deze voorligt"
+   },
+   "bruikbare_zin": {
+    "citaat": "Verweerder moet immers beslissen op de aanvraag zoals deze voorligt",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een gemeente beslist op de aanvraag zoals die ligt; wat zij elders al weet, telt niet mee.",
+  "type": "regel",
+  "reikwijdte": "vergunningaanvragen waarbij de tekeningen ontbrekende parkeerplaatsen, buitenruimte of berging niet tonen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   26
+  ],
+  "citaat": "Verweerder moet immers beslissen op de aanvraag zoals deze voorligt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "bouwtekeningen van de aanvraag",
+   "verklaring van de gemeente ter zitting"
+  ],
+  "wat_gaf_doorslag": "Op de tekeningen stonden geen parkeerplaatsen, buitenruimte of berging."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 32.5 planregels bestemmingsplan Bosdrift 2013",
+  "art. 2.12 Wabo"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij elke aanvraag voor meervoudige bewoning om tekeningen met parkeerplaatsen, buitenruimte en berging.",
+   "raakt": "vergunningen",
+   "bron": [
+    26
+   ],
+   "citaat": "meerdere malen gevraagd is naar tekeningen waaruit wel zou blijken dat voorzien werd in voldoende parkeerplaatsen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een vergunning kan worden geweigerd als de tekeningen de verplichte parkeerplaatsen, buitenruimte en berging niet laten zien. Dat de gemeente elders al van die plekken wist, telt volgens de rechter niet mee. Heeft u zo'n weigering gekregen, dan kunt u met een compleet bouwplan opnieuw aanvragen.",
+ "gemeente": "Hilversum",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

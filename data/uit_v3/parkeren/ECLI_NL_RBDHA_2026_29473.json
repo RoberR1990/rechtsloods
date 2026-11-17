@@ -1,0 +1,150 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2026:29473",
+ "relevant": true,
+ "kenmerk": null,
+ "dubbel_van": null,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "bestuurder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bestuurder kreeg een Wahv-boete (een vaste boete voor fout parkeren) van € 129 voor dubbel parkeren op 27 februari 2025. Via het bureau Verkeersboete.nl ging de zaak naar de kantonrechter van de rechtbank Den Haag, tegen het openbaar ministerie.",
+ "titel": "Boete dubbel parkeren vernietigd: geen foto's van de gedraging",
+ "kern": {
+  "zin": "Zonder foto's van de gedraging is de boete voor dubbel parkeren van tafel.",
+  "bron": [
+   23
+  ],
+  "citaat": "De kantonrechter kan de gedraging niet vaststellen en de boete dient dan ook te worden vernietigd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een bestuurder kreeg een boete van € 129 voor dubbel parkeren op 27 februari 2025.",
+   "bron": [
+    16
+   ],
+   "citaat": "wegens een voertuig dubbel parkeren op 27 februari 2025"
+  },
+  {
+   "zin": "De gemachtigde stelt dat er op die plek helemaal geen ruimte is om te parkeren.",
+   "bron": [
+    18
+   ],
+   "citaat": "omdat er geen parkeervakken zijn"
+  },
+  {
+   "zin": "Het openbaar ministerie vond de boete terecht, omdat de verbalisant (de ambtenaar die de overtreding vaststelde) ter plaatse was.",
+   "bron": [
+    19
+   ],
+   "citaat": "dat de verbalisant ter plaatse aanwezig was"
+  },
+  {
+   "zin": "Volgens de rechter kon de overtreding niet worden bewezen zonder foto's.",
+   "bron": [
+    23
+   ],
+   "citaat": "Bij gebrek aan foto’s van de gedraging valt daarom niet in te zien"
+  },
+  {
+   "zin": "Het openbaar ministerie moet de proceskosten van € 400 betalen en het bedrag dat als zekerheid was betaald, teruggeven.",
+   "bron": [
+    38,
+    39
+   ],
+   "citaat": "veroordeelt de officier van justitie tot het vergoeden van de proceskosten"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete vernietigd; proceskosten van € 400 en zekerheid terug",
+ "gevolg_betrokkene": {
+  "zin": "De bestuurder hoeft de boete van € 129 niet te betalen en krijgt € 400 aan proceskosten.",
+  "bron": [
+   35,
+   38,
+   39
+  ],
+  "citaat": "vernietigt de beslissing van de officier van justitie"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Er zijn geen foto's van de gedraging, dus het bewijs klopt niet.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Zonder foto's kon de kantonrechter niet vaststellen hoe de auto had gestaan.",
+    "bron": [
+     23
+    ],
+    "citaat": "Bij gebrek aan foto’s van de gedraging valt daarom niet in te zien"
+   },
+   "bruikbare_zin": {
+    "citaat": "De kantonrechter kan de gedraging niet vaststellen",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Op die plek is helemaal geen parkeerplek, dus dubbel parkeren kan daar niet.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter zag dat op die plek geen parkeergelegenheid was.",
+    "bron": [
+     23
+    ],
+    "citaat": "Op de pleeglocatie is geen parkeergelegenheid aanwezig"
+   },
+   "bruikbare_zin": {
+    "citaat": "Op de pleeglocatie is geen parkeergelegenheid aanwezig",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Zonder foto's lukt het niet om dubbel parkeren vast te stellen.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "dubbel parkeren op een plek zonder parkeervakken, zonder foto's van de gedraging",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "De kantonrechter kan de gedraging niet vaststellen en de boete dient dan ook te worden vernietigd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring van de verbalisant (ter plaatse aanwezig)",
+   "ontbrekende foto's van de gedraging"
+  ],
+  "wat_gaf_doorslag": "Zonder foto's van de gedraging kon de kantonrechter die niet vaststellen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 13a lid 2 onder a Wahv",
+  "Besluit proceskosten bestuursrecht (Bpb)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "U kreeg een boete voor dubbel parkeren, terwijl er geen foto's waren van wat er gebeurde. De rechter vond dat de overtreding daardoor niet vast te stellen was, en haalde de boete weg. Heeft u zo'n boete, kijk dan naar het bewijs, zoals foto's; of dat helpt, hangt af van de zaak.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "niet in de tekst genoemd",
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,170 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2016:1156",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De vrouw wil dat de gemeente Rotterdam haar gegevens in de BRP (het bevolkingsregister) wijzigt. De rechtbank Rotterdam beslist over haar beroep tegen de weigering van de gemeente.",
+ "titel": "Geen wijziging BRP-gegevens zonder overtuigend bewijs",
+ "kern": {
+  "zin": "De rechtbank oordeelt dat de vrouw niet onomstotelijk aantoont dat de BRP-gegevens onjuist zijn, zodat haar beroep niet slaagt.",
+  "bron": [
+   49
+  ],
+  "citaat": "Met hetgeen eiseres in beroep heeft aangevoerd, toont zij niet onomstotelijk aan dat de geregistreerde gegevens onjuist zijn."
+ },
+ "samenvatting": [
+  {
+   "zin": "De vrouw staat in de BRP van de gemeente Rotterdam ingeschreven.",
+   "bron": [
+    15
+   ],
+   "citaat": "Eiseres staat in de BRP van de gemeente Rotterdam ingeschreven als [eiseres]"
+  },
+  {
+   "zin": "Zij vroeg de gemeente op 5 maart 2015 om haar persoonsgegevens in de BRP te wijzigen.",
+   "bron": [
+    21
+   ],
+   "citaat": "op 5 maart 2015 verweerder verzocht haar persoonsgegevens in de BRP te wijzigen"
+  },
+  {
+   "zin": "De vrouw vindt dat haar documenten genoeg zijn om haar identiteit vast te stellen.",
+   "bron": [
+    23
+   ],
+   "citaat": "Eiseres voert als beroepsgrond aan dat de door haar overgelegde documenten voldoende zijn om haar identiteit vast te stellen."
+  },
+  {
+   "zin": "De gemeente vindt dat niet onomstotelijk vaststaat dat de gegevens in het Iraanse geboortebewijs bij de vrouw horen.",
+   "bron": [
+    22
+   ],
+   "citaat": "niet onomstotelijk vaststaat dat de vermelde persoonsgegevens in het overgelegde Iraanse geboortebewijs (shenasnameh) aan eiseres toebehoren."
+  },
+  {
+   "zin": "De rechtbank volgt de gemeente: de documenten van de vrouw tonen onvoldoende dat ze op haar betrekking hebben.",
+   "bron": [
+    25
+   ],
+   "citaat": "de door eiseres overgelegde documenten onvoldoende aantonen dat deze betrekking hebben op eiseres"
+  },
+  {
+   "zin": "De rechtbank verklaart het beroep ongegrond.",
+   "bron": [
+    53
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De gemeente hoeft de BRP-gegevens niet te wijzigen; het beroep is ongegrond.",
+ "gevolg_betrokkene": {
+  "zin": "De vrouw moet haar eigen kosten dragen; de rechtbank ziet geen aanleiding voor een vergoeding.",
+  "bron": [
+   51
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Mijn gegevens zijn onjuist; de overgelegde documenten bewijzen dat.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vindt dat de vrouw met haar stukken niet onomstotelijk aantoont dat de gegevens onjuist zijn.",
+    "bron": [
+     49
+    ],
+    "citaat": "Met hetgeen eiseres in beroep heeft aangevoerd, toont zij niet onomstotelijk aan dat de geregistreerde gegevens onjuist zijn."
+   },
+   "bruikbare_zin": {
+    "citaat": "toont zij niet onomstotelijk aan dat de geregistreerde gegevens onjuist zijn",
+    "bron": [
+     49
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente mag mijn bewijsaanbod en DNA-onderzoek niet zonder meer weigeren.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank zegt dat het standpunt van de gemeente op dit punt geen stand houdt.",
+    "bron": [
+     35
+    ],
+    "citaat": "Naar het oordeel van de rechtbank kan het standpunt van verweerder voor dat onderdeel geen stand houden."
+   },
+   "bruikbare_zin": {
+    "citaat": "kan het standpunt van verweerder voor dat onderdeel geen stand houden",
+    "bron": [
+     35
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor het wijzigen van al geregistreerde BRP-gegevens moet onomstotelijk vaststaan dat die gegevens feitelijk onjuist zijn.",
+  "type": "regel",
+  "reikwijdte": "Bij een verzoek om al geregistreerde BRP-gegevens te wijzigen.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   24
+  ],
+  "citaat": "zal gelet op het systeem van de Wet BRP onomstotelijk moeten vaststaan dat deze feitelijk onjuist zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "geboorteakte",
+   "vertaling van de geboorteakte",
+   "DNA-uitslag",
+   "akten van geboortemelding",
+   "huwelijksregistratie"
+  ],
+  "wat_gaf_doorslag": "De documenten gingen over een andere naam en toonden niet dat die persoon de vrouw is."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2015:478",
+   "ECLI:NL:RVS:2014:2668"
+  ]
+ },
+ "wetsartikelen": [
+  "Wet BRP"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Weiger een verzoek om alle BRP-gegevens te wijzigen niet zonder meer; onderzoek of de oude en nieuwe gegevens op dezelfde persoon zien.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    35
+   ],
+   "citaat": "Naar het oordeel van de rechtbank kan het standpunt van verweerder voor dat onderdeel geen stand houden."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Uw gegevens in het bevolkingsregister blijven staan als u niet overtuigend bewijst dat ze onjuist zijn. De gemeente hoeft dan niet te wijzigen. Met bewijs uit uw land van herkomst van vóór uw komst naar Nederland maakt u meer kans; u kunt later een nieuw verzoek doen.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

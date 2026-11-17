@@ -1,0 +1,146 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2022:4758",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "bewijs-scanauto",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing (de rekening achteraf) voor een auto die volgens hem alleen even stilstond om iemand uit te laten stappen. Hij procedeerde tegen de gemeente Amsterdam bij de rechtbank Amsterdam.",
+ "titel": "Scanfoto toont stilstand; uitstappen niet aannemelijk gemaakt",
+ "kern": {
+  "zin": "De rechtbank oordeelde dat de parkeerder niet aannemelijk maakte dat iemand was uitgestapt, dus hij moest betalen.",
+  "bron": [
+   22
+  ],
+  "citaat": "het uitstappen van een persoon niet aannemelijk is gemaakt"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het parkeervak was betaald, en de parkeerder kreeg daarom een naheffing.",
+   "bron": [
+    19
+   ],
+   "citaat": "moet voor parkeren betaald worden"
+  },
+  {
+   "zin": "De parkeerder stelde dat iemand was uitgestapt en dat de foto's maar één seconde besloegen.",
+   "bron": [
+    20
+   ],
+   "citaat": "maar enkel gesteld dat iemand is uitgestapt"
+  },
+  {
+   "zin": "Op de scanfoto's stond de auto stil, met dichte deuren en zonder mensen erbij.",
+   "bron": [
+    20
+   ],
+   "citaat": "De auto staat stil op een parkeerplek, de deuren zijn dicht"
+  },
+  {
+   "zin": "De rechtbank oordeelde dat ook kort stilzetten van de auto als parkeren geldt.",
+   "bron": [
+    21
+   ],
+   "citaat": "ook het voor zeer korte tijd stilzetten van de auto"
+  },
+  {
+   "zin": "Omdat het uitstappen niet aannemelijk was gemaakt, bleef de naheffing terecht staan.",
+   "bron": [
+    22
+   ],
+   "citaat": "De naheffingsaanslag is terecht opgelegd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet betalen en krijgt het griffierecht (de beroepskosten) niet terug.",
+  "bron": [
+   22,
+   23
+  ],
+  "citaat": "De naheffingsaanslag is terecht opgelegd."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Hij liet iemand uitstappen en deed daarna handelingen om weg te rijden, dus hij stond niet geparkeerd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Ook de handelingen om weg te rijden laten volgens de rechtbank zien dat hij parkeerde.",
+    "bron": [
+     21
+    ],
+    "citaat": "Naar het oordeel van de rechtbank blijkt ook daaruit dat sprake was van parkeren"
+   },
+   "bruikbare_zin": {
+    "citaat": "het voor zeer korte tijd stilzetten van de auto",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De foto's zijn binnen één seconde gemaakt, dus ze laten niet zien dat hij stilstond.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Twee foto's van de scanauto laten zien dat de auto op dezelfde plek bleef staan.",
+    "bron": [
+     20
+    ],
+    "citaat": "de positie van eisers auto in het parkeervak is in het voorbij rijden van de scanauto niet gewijzigd"
+   },
+   "bruikbare_zin": {
+    "citaat": "de positie van eisers auto in het parkeervak is in het voorbij rijden van de scanauto niet gewijzigd",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder die blijft staan, ook zonder uit te stappen, betaalt in beginsel parkeerbelasting.",
+  "type": "regel",
+  "reikwijdte": "stilstaan met de auto op een betaald parkeervak",
+  "uitzondering": "onmiddellijk in- en uitstappen of onmiddellijk laden en lossen; de bewijslast ligt bij wie zich daarop beroept",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "Het stilstaan, ook zonder de auto te verlaten, moet in beginsel als parkeren worden aangemerkt."
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "scanfoto's",
+   "stelling van de parkeerder zonder onderbouwing"
+  ],
+  "wat_gaf_doorslag": "De scanfoto's lieten geen uitstappende persoon zien, en de stelling bleef onderbouwd ontbreken."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente wint; scanfoto's voldoende, geen tekortkoming van de gemeente",
+ "raakt": [
+  "bezwaar",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Stilstaan op een betaald vak telt als parkeren, ook als u de auto niet verlaat. Alleen echt in- en uitstappen valt daar niet onder, en dan ligt de bewijslast bij u. Heeft u iemand laten uitstappen, verzamel dan bewijs daarvan, want een blote bewering helpt niet.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

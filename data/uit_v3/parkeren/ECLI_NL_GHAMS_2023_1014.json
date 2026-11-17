@@ -1,0 +1,198 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "dubbel_van": null,
+ "ecli": "ECLI:NL:GHAMS:2023:1014",
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg in Amsterdam een rekening achteraf (naheffingsaanslag) omdat de scanauto haar stilstaande auto zag zonder betaald parkeren. Zij ging tegen de gemeente in hoger beroep bij het gerechtshof Amsterdam.",
+ "titel": "Rekening voor parkeren blijft: laden en lossen niet aannemelijk gemaakt",
+ "kern": {
+  "zin": "Het hof vond de rekening terecht, omdat de parkeerder niet aannemelijk maakte dat zij aan het laden of lossen was.",
+  "bron": [
+   61
+  ],
+  "citaat": "Belanghebbende is in die bewijslast niet geslaagd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De scanauto zag de auto stilstaan zonder betaald parkeren en de gemeente legde een rekening achteraf op.",
+   "bron": [
+    22
+   ],
+   "citaat": "Een scanauto heeft de auto van belanghebbende om 19.33 uur stilstaand aangetroffen"
+  },
+  {
+   "zin": "De parkeerder zei dat ze een zware barbecue aan het uitladen was en dat het dus geen parkeren was.",
+   "bron": [
+    55
+   ],
+   "citaat": "Belanghebbende betoogt dat de naheffingsaanslag parkeerbelasting ten onrechte is opgelegd"
+  },
+  {
+   "zin": "De gemeente vond dat op de foto's geen laden of lossen te zien was en dat de parkeerder dit moest aantonen.",
+   "bron": [
+    56
+   ],
+   "citaat": "De heffingsambtenaar stelt dat op de foto’s geen aanwijzing zichtbaar is"
+  },
+  {
+   "zin": "Het hof zag op de scanfoto's gesloten deuren, een gesloten kofferbak en niemand bij de auto.",
+   "bron": [
+    59
+   ],
+   "citaat": "dat de auto van belanghebbende stil staat met gesloten deuren en een gesloten kofferbak"
+  },
+  {
+   "zin": "Het hof vond de uitleg van de parkeerder tegenstrijdig en niet genoeg voor laden en lossen.",
+   "bron": [
+    61
+   ],
+   "citaat": "tegenstrijdige en inconsistente verklaringen zijn gegeven over de omstandigheden rondom het verhuizen van de barbecue"
+  },
+  {
+   "zin": "De gemeente mocht volgens het hof het tarief van één uur parkeren in rekening brengen, dus het beroep faalde.",
+   "bron": [
+    75
+   ],
+   "citaat": "Ook in de onderhavige Verordening en in de daarvan deel uitmakende tarieventabel"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Rekening terecht; laden en lossen niet aannemelijk gemaakt.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening achteraf blijft staan en de parkeerder krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   81,
+   79
+  ],
+  "citaat": "Het Hof bevestigt de uitspraak van de rechtbank"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Ik was een zware barbecue aan het uitladen, dus het was geen parkeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De parkeerder moest laden of lossen aannemelijk maken en zij gaf tegenstrijdige verklaringen.",
+    "bron": [
+     61
+    ],
+    "citaat": "Belanghebbende is in die bewijslast niet geslaagd"
+   },
+   "bruikbare_zin": {
+    "citaat": "Aanwijzingen die duiden op of een laad- of losbeweging zijn hierop niet zichtbaar",
+    "bron": [
+     59
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De gemeente controleert niet zorgvuldig; een tweede controle was nodig.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De werkwijze van de gemeente met scanauto's bevat voldoende waarborgen om aannemelijk te maken dat er geparkeerd werd.",
+    "bron": [
+     59
+    ],
+    "citaat": "de werkwijze van de gemeente Amsterdam bij de controle op het betalen van parkeerbelasting"
+   },
+   "bruikbare_zin": {
+    "citaat": "voldoet als uitgangspunt om aannemelijk te maken dat zich een belastbaar feit heeft voorgedaan",
+    "bron": [
+     59
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De gemeente mocht niet een vast bedrag voor één uur parkeren navorderen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Uit de verordening en de tarieventabel blijkt dat naar één uur parkeren wordt nageheven; dat hoeft niet uitdrukkelijk te zijn gekozen.",
+    "bron": [
+     75
+    ],
+    "citaat": "uit de verordening en de daarvan deel uitmakende tarieventabel kenbaar is dat de naheffing op forfaitaire wijze plaatsvindt"
+   },
+   "bruikbare_zin": {
+    "citaat": "Voldoende is dat uit de verordening en de daarvan deel uitmakende tarieventabel kenbaar is dat de naheffing op forfaitaire wijze plaatsvindt",
+    "bron": [
+     75
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Laat de gemeente met scanfoto's zien dat een auto stilstond zonder betaald parkeren, dan moet de parkeerder aannemelijk maken dat het alleen om laden of lossen ging.",
+  "type": "regel",
+  "reikwijdte": "Naheffing parkeerbelasting op basis van scanfoto's van een stilstaande auto zonder zichtbare laad- of losbeweging",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   60
+  ],
+  "citaat": "rust op belanghebbende de bewijslast om vervolgens de feiten en omstandigheden te stellen en bij betwisting aannemelijk te maken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "foto's van de scanauto",
+   "verklaring van de parkeerder ter zitting"
+  ],
+  "wat_gaf_doorslag": "De parkeerder gaf tegenstrijdige verklaringen over het tijdstip van het verhuizen van de barbecue."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHAMS:2022:906",
+   "ECLI:NL:HR:2019:56"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 lid 3 Gemeentewet",
+  "art. 225 Gemeentewet",
+  "art. 2 onder a Verordening parkeerbelastingen Amsterdam 2021",
+  "art. 8:75 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar bij elke scancontrole foto's die laten zien of deuren en kofferbak dicht zijn en of er iemand bij de auto staat.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    59
+   ],
+   "citaat": "dat de auto van belanghebbende stil staat met gesloten deuren en een gesloten kofferbak"
+  },
+  {
+   "actie": "Zet in de verordening en tarieventabel duidelijk dat wordt nageheven over een parkeerduur van één uur.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    75
+   ],
+   "citaat": "uit de verordening en de daarvan deel uitmakende tarieventabel kenbaar is dat de naheffing op forfaitaire wijze plaatsvindt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "tarief-naheffing",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Een rekening voor parkeren is terecht als uit de scanfoto's blijkt dat de auto stilstond zonder betaald parkeren. Zegt u dat u aan het laden of lossen was, dan moet u dat zelf aannemelijk maken. Bezwaar heeft meer kans als u bewijs hebt, zoals foto's of een duidelijke verklaring van het moment zelf.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,181 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:3833",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner kreeg een naheffingsaanslag parkeerbelasting (de rekening achteraf) van € 63,15, omdat er in Breda geen parkeerbelasting was betaald. De bewoner ging in beroep tegen de gemeente Breda bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Naheffing Breda blijft staan: betaling niet aannemelijk gemaakt",
+ "kern": {
+  "zin": "De rechter vindt de naheffing terecht, omdat niet aannemelijk is dat de bewoner tijdig heeft betaald.",
+  "bron": [
+   30
+  ],
+  "citaat": "waarvan niet aannemelijk is geworden dat deze tijdig is betaald"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controle in Breda trof op 24 augustus 2024 een auto aan waarvoor geen parkeerbelasting was betaald.",
+   "bron": [
+    16
+   ],
+   "citaat": "Tijdens een controle op voornoemde datum en tijd is door parkeercontroleurs geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De bewoner zei dat hij niet wist dat het parkeerbeleid was veranderd, en dat zijn vriend de auto was vergeten aan te melden.",
+   "bron": [
+    23,
+    24
+   ],
+   "citaat": "dat hij zich er niet van bewust was dat het parkeerbeleid was gewijzigd"
+  },
+  {
+   "zin": "De gemeente hield vol dat er aan de randen van alle betaalzones borden staan.",
+   "bron": [
+    25
+   ],
+   "citaat": "dat aan de randen van alle gebieden waarin betaald parkeren geldt zoneborden zijn geplaatst"
+  },
+  {
+   "zin": "De rechter vond dat de bewoner had moeten opletten op borden en parkeerautomaten.",
+   "bron": [
+    25
+   ],
+   "citaat": "Van belanghebbende mag worden verwacht dat hij oplet"
+  },
+  {
+   "zin": "De aanmelding van de bezoekersregeling kwam te laat, want de auto stond al om 14:30 uur geparkeerd.",
+   "bron": [
+    27,
+    28
+   ],
+   "citaat": "de auto pas om 15:22 uur is aangemeld"
+  },
+  {
+   "zin": "De rechter zei dat het beroep ongegrond is en dat de naheffing blijft staan.",
+   "bron": [
+    32
+   ],
+   "citaat": "Dat betekent dat de naheffingsaanslag parkeerbelasting terecht is opgelegd en gehandhaafd blijft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing van € 63,15 blijft staan, en het griffierecht (het bedrag om de rechter in te schakelen) wordt niet terugbetaald.",
+  "bron": [
+   32,
+   33,
+   17
+  ],
+  "citaat": "Dat betekent dat de naheffingsaanslag parkeerbelasting terecht is opgelegd en gehandhaafd blijft"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "De borden hingen boven verkeershoogte en er was geen automaat zichtbaar.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat voldoende duidelijk was dat er betaald moest worden.",
+    "bron": [
+     25
+    ],
+    "citaat": "Gelet hierop was naar het oordeel van de rechtbank voldoende duidelijk dat voor het parkeren betaald diende te worden"
+   },
+   "bruikbare_zin": {
+    "citaat": "Voorbij deze borden is parkeerbelasting verschuldigd zolang er geen eindbord wordt gepasseerd",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "De vriend had de auto niet op tijd via de bezoekersregeling aangemeld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de aanmelding niet binnen de gegunde termijn was gedaan.",
+    "bron": [
+     28
+    ],
+    "citaat": "kan niet worden gezegd dat (de vriend van) belanghebbende die aanmelding heeft gedaan binnen de termijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "een parkeerder een redelijke termijn moet worden gegund voor het verrichten van uitvoeringshandelingen",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De naheffing is onevenredig hoog vergeleken met de belasting die verschuldigd was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de kosten niet onredelijk, omdat ze binnen het wettelijke maximum blijven.",
+    "bron": [
+     29
+    ],
+    "citaat": "Dat de gemeente dit bedrag in rekening heeft gebracht, acht de rechtbank dan ook niet onredelijk of disproportioneel"
+   },
+   "bruikbare_zin": {
+    "citaat": "Voor de kosten die in rekening gebracht mogen worden, is een maximum kostentarief bepaald van € 61,65",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder krijgt na het parkeren een redelijke termijn om de parkeerapparatuur in werking te stellen.",
+  "type": "regel",
+  "reikwijdte": "betaald parkeren waarbij betaling via een parkeerautomaat of mobiel communicatiemiddel kan",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   26
+  ],
+  "citaat": "Die redelijke termijn begint direct nadat de auto wordt geparkeerd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "afschrift van de parkeeracties en betalingen",
+   "controle door parkeercontroleurs"
+  ],
+  "wat_gaf_doorslag": "Het afschrift liet zien dat de auto pas om 15:22 uur was aangemeld."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225, tweede lid, Gemeentewet",
+  "art. 234, vijfde lid, Gemeentewet",
+  "art. 1 onder a Verordening op de heffing en invordering van parkeerbelastingen 2024 (Breda)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter vond bebording en termijnen in orde; geen gebrek bij de gemeente aangewezen",
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "tarief-naheffing",
+  "bebording-verkeersbesluit",
+  "betaalapp"
+ ],
+ "klantuitleg": "De rekening voor het parkeren blijft staan als u niet op tijd hebt betaald en dat niet kunt aantonen. In deze zaak was de aanmelding van uw bezoeker te laat, en vond de rechter dat u had moeten opletten op de borden. Hebt u bewijs dat u wel op tijd betaalde, zoals een afschrift van de parkeeracties, dan kan dat helpen.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

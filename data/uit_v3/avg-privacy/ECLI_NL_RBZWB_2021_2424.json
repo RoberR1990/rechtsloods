@@ -1,0 +1,183 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2021:2424",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": null,
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "verzoeker",
+  "wederpartij": "gemeente Tholen",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De burger vroeg de gemeente Tholen om inzage in zijn persoonsgegevens. Het college nam het verzoek niet in behandeling en de burger ging naar de rechter.",
+ "titel": "Inzage geweigerd: identiteit niet vastgesteld",
+ "kern": {
+  "zin": "De rechter vernietigt het besluit, maar wijst het inzageverzoek af omdat de identiteit van de burger niet vaststond.",
+  "bron": [
+   38
+  ],
+  "citaat": "is het beroep gegrond en zal het bestreden besluit worden vernietigd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente of er persoonsgegevens over hem worden verwerkt en wilde daar inzage in.",
+   "bron": [
+    14
+   ],
+   "citaat": "verzocht om hem uitsluitsel te geven of er hem betreffende persoonsgegevens bij de gemeente Tholen worden verwerkt"
+  },
+  {
+   "zin": "De gemeente verwees hem eerst naar de gemeente waar hij staat ingeschreven.",
+   "bron": [
+    15
+   ],
+   "citaat": "dat eiser zich dient te wenden tot de gemeente waar hij als ingezetene staat ingeschreven"
+  },
+  {
+   "zin": "Daarna vroeg de gemeente hem om zich via DigiD of in het gemeentehuis te identificeren.",
+   "bron": [
+    17
+   ],
+   "citaat": "de aanvraag via DigiD in te dienen of om zich in het gemeentehuis te komen identificeren"
+  },
+  {
+   "zin": "Het college nam zijn verzoek om inzage niet in behandeling omdat zijn identiteit niet vaststond.",
+   "bron": [
+    36
+   ],
+   "citaat": "de aanvraag van eiser om inzage in zijn persoonsgegeven niet in behandeling genomen"
+  },
+  {
+   "zin": "De rechter oordeelt dat de gemeente dit pas deed nadat de beslistermijn al voorbij was.",
+   "bron": [
+    37
+   ],
+   "citaat": "verzoek tot aanvulling van de aanvraag is pas na het verlopen van de beslistermijn gedaan"
+  },
+  {
+   "zin": "De rechter vernietigt het besluit, maar wijst het verzoek om inzage af.",
+   "bron": [
+    38
+   ],
+   "citaat": "zal de rechtbank bepalen dat de aanvraag wordt afgewezen"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Besluit vernietigd, maar verzoek om inzage afgewezen.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen inzage: zijn verzoek wordt afgewezen; hij is vrijgesteld van griffierecht en krijgt geen proceskostenvergoeding.",
+  "bron": [
+   44,
+   39
+  ],
+  "citaat": "bepaalt dat de aanvraag van eiser van 18 augustus 2020 wordt afgewezen"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente heeft te laat beslist op mijn verzoek.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De brief van 26 september 2020 was geen geldige ingebrekestelling, dus het beroep tegen het niet tijdig beslissen kon niet worden behandeld.",
+    "bron": [
+     33
+    ],
+    "citaat": "Omdat de brief van 26 september 2020 niet kan worden aangemerkt als een ingebrekestelling"
+   },
+   "bruikbare_zin": {
+    "citaat": "Omdat de brief van 26 september 2020 niet kan worden aangemerkt als een ingebrekestelling",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het besluit om mijn inzageverzoek niet in behandeling te nemen is onjuist.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente was na het verlopen van de beslistermijn niet meer bevoegd het verzoek buiten behandeling te stellen.",
+    "bron": [
+     37
+    ],
+    "citaat": "niet meer bevoegd om de aanvraag met toepassing van artikel 4:5, eerste lid, van de Awb buiten behandeling te stellen"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet meer bevoegd om de aanvraag met toepassing van artikel 4:5, eerste lid, van de Awb buiten behandeling te stellen",
+    "bron": [
+     37
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Na het verlopen van de beslistermijn mag de gemeente een verzoek niet meer buiten behandeling stellen; dan moet zij inhoudelijk beslissen.",
+  "type": "regel",
+  "reikwijdte": "AVG-verzoeken waarbij de gemeente pas na de beslistermijn om identificatie vraagt",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   37
+  ],
+  "citaat": "niet meer bevoegd om de aanvraag met toepassing van artikel 4:5, eerste lid, van de Awb buiten behandeling te stellen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "DigiD",
+   "identificatie in het gemeentehuis",
+   "brief van 18 augustus 2020"
+  ],
+  "wat_gaf_doorslag": "Het ontbreken van een verifieerbare identificatie van de burger."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2014:4682",
+   "ECLI:NL:RVS:2020:291"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 12 lid 3 AVG",
+  "art. 12 lid 6 AVG",
+  "art. 4:15 Awb",
+  "art. 4:5 lid 1 Awb",
+  "art. 4:17 lid 3 Awb",
+  "art. 6:12 lid 2 Awb",
+  "art. 6:20 lid 3 Awb",
+  "art. 8:55c Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag om identificatie binnen de beslistermijn van één maand, niet pas daarna.",
+   "raakt": "privacy-fg",
+   "bron": [
+    37
+   ],
+   "citaat": "verzoek tot aanvulling van de aanvraag is pas na het verlopen van de beslistermijn gedaan"
+  },
+  {
+   "actie": "Beslis na het verlopen van de termijn inhoudelijk op het verzoek in plaats van het buiten behandeling te stellen.",
+   "raakt": "privacy-fg",
+   "bron": [
+    37
+   ],
+   "citaat": "In dat geval is een inhoudelijke beslissing op de aanvraag aangewezen."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "klantcontact"
+ ],
+ "klantuitleg": "U vroeg de gemeente om inzage in uw persoonsgegevens, maar u had zich niet op een controleerbare manier geïdentificeerd. Daarom mag de gemeente uw verzoek afwijzen. Wilt u inzage, dien de aanvraag dan in met DigiD of laat u identificeren in het gemeentehuis.",
+ "gemeente": "Tholen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,160 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHSHE:2016:2686",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Oisterwijk",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg in Oisterwijk een naheffingsaanslag (rekening achteraf) voor parkeerbelasting. Zij ging in hoger beroep tegen de gemeente bij het gerechtshof 's-Hertogenbosch.",
+ "titel": "Parkeerder meldde zich binnen een minuut: rekening vervalt",
+ "kern": {
+  "zin": "De rechter vernietigt de rekening achteraf, omdat de parkeerder in minder dan een minuut begon met betalen.",
+  "bron": [
+   34
+  ],
+  "citaat": "De conclusie van het Hof is dan ook dat de naheffingsaanslag ten onrechte aan belanghebbende is opgelegd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeercontroleur legde om 17:16 uur een naheffingsaanslag op, terwijl de auto om 17:15 uur nog niet was aangemeld.",
+   "bron": [
+    31
+   ],
+   "citaat": "De parkeercontroleur heeft om 17:16 uur de naheffingsaanslag opgelegd"
+  },
+  {
+   "zin": "De parkeerder zei dat het zonenummerbord vanuit de auto niet goed leesbaar was en dat zij direct naar een winkel in de buurt liep om te betalen.",
+   "bron": [
+    32
+   ],
+   "citaat": "dat het bord, waarop het voor het gsm-parkeren benodigde zonenummer is vermeld, vanuit de auto niet goed zichtbaar"
+  },
+  {
+   "zin": "De gemeente vond het niet aannemelijk dat zij meteen na het uitstappen begon met betalen, omdat er bijna een minuut verstreek.",
+   "bron": [
+    33
+   ],
+   "citaat": "het niet aannemelijk dat belanghebbende na het verlaten van de auto onmiddellijk is aangevangen"
+  },
+  {
+   "zin": "De rechter vond de tijd tussen parkeren en aanmelden te kort om te zeggen dat de parkeerder talmde.",
+   "bron": [
+    34
+   ],
+   "citaat": "Die tijdspanne is naar het oordeel van het Hof dermate kort, dat niet aannemelijk is dat belanghebbende"
+  },
+  {
+   "zin": "De rechter geeft geen vergoeding voor de advocaat in hoger beroep, omdat de advocaat de echtgenoot is en niet bleek dat zij hem moest betalen.",
+   "bron": [
+    36
+   ],
+   "citaat": "niet aannemelijk gemaakt dat op haar een verplichting rust of zal komen te rusten om kosten"
+  },
+  {
+   "zin": "Kosten van een kantoorgenoot van de echtgenoot in de bezwaarfase worden wel vergoed.",
+   "bron": [
+    36
+   ],
+   "citaat": "gedurende de bezwaarfase komen wél voor vergoeding in aanmerking"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffingsaanslag vernietigd; griffierecht en bezwaarkosten terug.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening achteraf vervalt, de gemeente betaalt € 168 griffierecht terug en vergoedt € 246 aan bezwaarkosten; voor de advocaat in hoger beroep is geen vergoeding.",
+  "bron": [
+   26,
+   25,
+   24
+  ],
+  "citaat": "veroordeelt de Heffingsambtenaar in de kosten van het bezwaar aan de zijde van belanghebbende"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder zegt dat zij direct na het parkeren is begonnen met betalen en daarom geen rekening achteraf hoeft te krijgen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De tijd tussen parkeren en beginnen met aanmelden was maximaal 58 seconden, te kort om te zeggen dat zij talmde.",
+    "bron": [
+     34
+    ],
+    "citaat": "Die tijdspanne is naar het oordeel van het Hof dermate kort, dat niet aannemelijk is dat belanghebbende"
+   },
+   "bruikbare_zin": {
+    "citaat": "Voor die handelingen heeft belanghebbende maximaal 58 seconden de tijd gehad",
+    "bron": [
+     34
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie direct na het parkeren naar een dichtbij gelegen plek loopt om te betalen, begint nog 'onverwijld' met betalen.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Parkeerder die binnen ongeveer een minuut na het parkeren naar een plek op enkele meters loopt om via de app te betalen, bij donker, koud en regenachtig weer met een kind",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   34
+  ],
+  "citaat": "mede gegeven het feit dat het donker en koud was en het regende"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring van de parkeerder",
+   "tijdstip van aanmelden in de app (17:15:28 uur)",
+   "waarneming van de parkeercontroleur"
+  ],
+  "wat_gaf_doorslag": "De tijd tussen parkeren en beginnen met betalen was hoogstens 58 seconden."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:HR:2012:BY0531"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:75 Awb",
+  "art. 1 Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij een naheffing vast hoe laat de auto is geparkeerd, zodat u kunt aantonen hoe lang de parkeerder wachtte met betalen.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    34
+   ],
+   "citaat": "Voor die handelingen heeft belanghebbende maximaal 58 seconden de tijd gehad"
+  },
+  {
+   "actie": "Controleer of zonenummerborden vanuit de auto goed leesbaar zijn.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    32
+   ],
+   "citaat": "vanuit de auto niet goed zichtbaar dan wel leesbaar is"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "bebording-verkeersbesluit"
+ ],
+ "klantuitleg": "Als u direct na het parkeren begint met betalen, kan een rekening achteraf onterecht zijn. Een kleine vertraging, zoals even met een kind naar een winkel lopen, hoeft niet te betekenen dat u te laat bent. Maak bezwaar en leg uit wat u deed en hoe laat; bewaar het tijdstip van uw aanmelding in de app.",
+ "gemeente": "Oisterwijk",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

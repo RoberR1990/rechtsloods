@@ -1,0 +1,158 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:5939",
+ "relevant": true,
+ "onderwerp": "toezicht-handhaving",
+ "sub": "klacht-ap",
+ "kenmerk": null,
+ "zaaktype": "klacht-handhaving-ap",
+ "partijen": {
+  "burger": "de burger",
+  "wederpartij": "Autoriteit Persoonsgegevens",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De burger heeft hoger beroep ingesteld tegen de uitspraak van de rechtbank over haar klacht tegen ManpowerGroup. De Autoriteit Persoonsgegevens wil sommige stukken geheim houden en de Raad van State beslist of dat mag.",
+ "titel": "Deels geen geheimhouding van privacy-stukken",
+ "kern": {
+  "zin": "De Raad van State wijst geheimhouding van de eerste en laatste bladzijde van het beveiligingsbeleid af; de rest mag geheim blijven.",
+  "bron": [
+   34,
+   36
+  ],
+  "citaat": "wijst het verzoek af wat betreft de eerste en laatste bladzijde van het document ManpowerGoup’s Information Security Policy"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de Autoriteit Persoonsgegevens om op te treden tegen Jefferson Wells, een onderdeel van ManpowerGroup.",
+   "bron": [
+    17
+   ],
+   "citaat": "heeft de AP gevraagd om handhavend op te treden tegen Jefferson Wells B.V."
+  },
+  {
+   "zin": "Zij vond dat het systeem FlexService haar privacy onvoldoende beschermt.",
+   "bron": [
+    17
+   ],
+   "citaat": "Zij vindt dat het door MPG gebruikte systeem FlexService onvoldoende haar privacy beschermt."
+  },
+  {
+   "zin": "De AP onderzocht de maatregelen van MPG en wees de klacht daarna af.",
+   "bron": [
+    17
+   ],
+   "citaat": "Na het onderzoek heeft de AP de klacht afgewezen."
+  },
+  {
+   "zin": "De AP vroeg de Raad van State om de ongeschoonde bijlage 1 en bijlage 2 alleen aan de Afdeling te laten zien.",
+   "bron": [
+    19
+   ],
+   "citaat": "alleen de Afdeling van de ongeschoonde bijlage 1 en van bijlage 2 kennis zal nemen"
+  },
+  {
+   "zin": "De burger vond dat de AP het verzoek beter per stuk had moeten uitleggen.",
+   "bron": [
+    21
+   ],
+   "citaat": "De AP had bovendien per passage moeten motiveren."
+  },
+  {
+   "zin": "De Raad van State wijst geheimhouding van de eerste en laatste bladzijde af, maar voor de rest mag het geheim blijven.",
+   "bron": [
+    34,
+    36
+   ],
+   "citaat": "wijst het verzoek af wat betreft de eerste en laatste bladzijde van het document ManpowerGoup’s Information Security Policy"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Geheimhouding eerste en laatste bladzijde afgewezen; overige stukken mochten geheim blijven.",
+ "gevolg_betrokkene": {
+  "zin": "De AP moet binnen 14 dagen een geschoonde versie van het beveiligingsbeleid naar de Afdeling en de burger sturen.",
+  "bron": [
+   35
+  ],
+  "citaat": "een geschoonde versie van dit document aan de Afdeling en de andere partij toe te sturen"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "motivering",
+   "burger_zegt": "De AP heeft niet concreet genoeg uitgelegd waarom de stukken geheim moeten blijven.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De Raad van State beslist op basis van een eigen afweging van belangen.",
+    "bron": [
+     23
+    ],
+    "citaat": "Deze beslissing vergt een afweging van belangen."
+   },
+   "bruikbare_zin": {
+    "citaat": "De AP had bovendien per passage moeten motiveren.",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "geheimhouding-onterecht",
+   "burger_zegt": "Zij vindt dat de geheimhouding van de stukken te ver gaat.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De Raad van State wijst het verzoek af voor de eerste en laatste bladzijde.",
+    "bron": [
+     34
+    ],
+    "citaat": "wijst het verzoek af wat betreft de eerste en laatste bladzijde van het document ManpowerGoup’s Information Security Policy"
+   },
+   "bruikbare_zin": {
+    "citaat": "wijst het verzoek af wat betreft de eerste en laatste bladzijde van het document ManpowerGoup’s Information Security Policy",
+    "bron": [
+     34
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij geheimhouding weegt de rechter het belang van gelijke informatie af tegen het belang dat openbaarmaking niet te veel schaadt.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken op grond van artikel 8:29, derde lid, Awb.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "Deze beslissing vergt een afweging van belangen."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "ongeschoonde bijlage 1",
+   "bijlage 2",
+   "Information Security Policy"
+  ],
+  "wat_gaf_doorslag": "De Afdeling oordeelde dat de eerste en laatste bladzijde van het beveiligingsbeleid niet geheim mochten blijven."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:29 lid 3 Awb",
+  "art. 8:29 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "Geen gemeente is partij; de uitspraak gaat over de Autoriteit Persoonsgegevens en een privaat bedrijf.",
+ "raakt": [
+  "privacy-fg",
+  "ict-informatiebeveiliging"
+ ],
+ "klantuitleg": "Deze uitspraak gaat niet over een gemeente, maar over een klacht bij de Autoriteit Persoonsgegevens tegen een privaat bedrijf. De rechter besliste alleen welke stukken geheim mochten blijven. Over uw inzage, correctie of verwijdering bij de gemeente zegt deze uitspraak niets.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente in deze zaak",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

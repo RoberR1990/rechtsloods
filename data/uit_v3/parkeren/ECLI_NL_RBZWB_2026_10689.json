@@ -1,0 +1,42 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:10689",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "bedrijf, vergunninghouder", "wederpartij": "gemeente Breda", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Een vergunninghouder kreeg een naheffing voor parkeren in Breda. Hij ging in beroep bij de rechtbank Zeeland-West-Brabant en zei dat hij het kenteken per abuis niet had gewijzigd.",
+ "titel": "Verkeerd kenteken op vergunning: naheffing blijft",
+ "kern": {"zin": "Het juiste kenteken was niet aangemeld, dus de naheffing blijft staan.", "bron": [22], "citaat": "niet het juiste kenteken op de vergunning had aangemeld en daarom parkeerbelasting verschuldigd was"},
+ "samenvatting": [
+  {"zin": "Bij een controle in Breda, op 21 juni 2024, bleek er geen parkeerbelasting te zijn betaald.", "bron": [16], "citaat": "Tijdens een controle op voornoemde datum en tijdstip is geconstateerd dat geen parkeerbelasting was voldaan"},
+  {"zin": "Hij zegt dat hij het kenteken per abuis niet heeft gewijzigd naar de auto van die dag.", "bron": [19], "citaat": "per abuis niet het kenteken heeft gewijzigd naar het kenteken van de auto"},
+  {"zin": "Volgens de gemeente kon de vergunning niet worden gebruikt, omdat het kenteken niet actief was aangemeld.", "bron": [20], "citaat": "omdat op het controlemoment geen actieve aanmelding van het onderhavige kenteken aanwezig was"},
+  {"zin": "Het verkeerde kenteken stond vast, en daarom bleef de naheffing overeind.", "bron": [22], "citaat": "niet het juiste kenteken op de vergunning had aangemeld en daarom parkeerbelasting verschuldigd was"},
+  {"zin": "De naheffing blijft staan en hij krijgt geen griffierecht of proceskosten terug.", "bron": [24], "citaat": "Dat betekent dat de naheffingsaanslag gehandhaafd blijft"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; kenteken niet juist aangemeld, naheffing blijft",
+ "gevolg_betrokkene": {"zin": "De naheffing blijft staan en hij krijgt geen griffierecht of proceskosten terug.", "bron": [24], "citaat": "Hij krijgt ook geen vergoeding van zijn proceskosten"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "vergunning-niet-geactiveerd", "burger_zegt": "Hij heeft het kenteken per abuis niet op de vergunning gewijzigd.", "oordeel": "verworpen", "waarom": {"zin": "De rechter vond dat het juiste kenteken moest worden geselecteerd, en dat hij daarop al eerder was gewezen.", "bron": [21], "citaat": "dat het juiste kenteken moet worden geselecteerd"}, "bruikbare_zin": {"citaat": "kan worden gewijzigd middels een applicatie (app)", "bron": [18]}},
+  {"arg": "overig", "burger_zegt": "Eerder is een naheffing na bezwaar al vernietigd, dus dat moet nu ook.", "oordeel": "verworpen", "waarom": {"zin": "Een eerdere vernietiging telt niet mee, want de rechter beoordeelt alleen deze naheffing.", "bron": [21], "citaat": "is voor de beoordeling dan ook niet van belang"}, "bruikbare_zin": {"citaat": "zij zich in deze procedure dient te beperken tot de voorliggende naheffingsaanslag", "bron": [21]}}
+ ],
+ "rechtsregel": {"zin": "Parkeerbelasting is een objectieve belasting; opzet, schuld of intentie spelen geen rol.", "type": "regel", "reikwijdte": "naheffingsaanslagen parkeerbelasting, ook als de fout onbewust was", "uitzondering": null, "herkomst": "oordeel rechter", "bron": [22], "citaat": "De parkeerbelasting is geen boete, maar een objectieve belasting, waarbij opzet, schuld of intentie geen rol spelen"},
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": [], "wat_gaf_doorslag": null},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": [],
+ "actie_gemeente": [{"actie": "Wijs vergunninghouders bij de vergunning erop dat het juiste kenteken moet worden geselecteerd.", "raakt": "vergunningen", "bron": [21], "citaat": "dat het juiste kenteken moet worden geselecteerd"}],
+ "reden_leeg_actie": null,
+ "raakt": ["bezwaar", "vergunningen", "betaalapp", "klantcontact"],
+ "klantuitleg": "Heeft u een vergunning, dan moet het kenteken dat u in de app zet kloppen met de auto die u gebruikt. Is dat niet gebeurd, dan bent u parkeerbelasting verschuldigd, ook als het een vergissing was. Controleer daarom het kenteken in de app voordat u gaat parkeren.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

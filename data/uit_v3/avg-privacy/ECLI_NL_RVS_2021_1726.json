@@ -1,0 +1,169 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2021:1726",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "verzoeker",
+  "wederpartij": "gemeente Súdwest-Fryslân",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De man vroeg de gemeente om zijn gegevens in de basisregistratie personen (BRP) te wijzigen. De gemeente weigerde, en de Raad van State beslist nu in hoger beroep.",
+ "titel": "Wijziging BRP afgewezen: documenten zijn tegenstrijdig",
+ "kern": {
+  "zin": "De Raad van State bevestigt dat de gemeente de wijziging mocht weigeren, omdat de documenten tegenstrijdig zijn.",
+  "bron": [
+   37
+  ],
+  "citaat": "De geconstateerde verschillen zorgen voor twijfel over de inhoud van de documenten."
+ },
+ "samenvatting": [
+  {
+   "zin": "De man stond sinds 2000 in de BRP na een verklaring onder ede.",
+   "bron": [
+    19
+   ],
+   "citaat": "[appellant] is in 2000 in de brp ingeschreven op basis van een op 18 september 2000"
+  },
+  {
+   "zin": "Hij wilde een andere naam, geboortedatum en andere ouders in de BRP.",
+   "bron": [
+    20
+   ],
+   "citaat": "Hij wil geregistreerd worden als [naam], geboren op [geboortedatum] 1976 in Fuzhou, China."
+  },
+  {
+   "zin": "De gemeente wees dat af omdat volgens haar niet zeker is dat de gegevens fout zijn.",
+   "bron": [
+    30
+   ],
+   "citaat": "afgewezen omdat niet onomstotelijk is komen vast te staan dat de gegevens"
+  },
+  {
+   "zin": "De Raad van State vindt dat de documenten tegenstrijdig zijn en geen zekerheid geven.",
+   "bron": [
+    37
+   ],
+   "citaat": "De geconstateerde verschillen zorgen voor twijfel over de inhoud van de documenten."
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond.",
+   "bron": [
+    43
+   ],
+   "citaat": "Het hoger beroep is ongegrond."
+  },
+  {
+   "zin": "De gemeente hoeft geen proceskosten te vergoeden.",
+   "bron": [
+    44
+   ],
+   "citaat": "Het college hoeft geen proceskosten te vergoeden."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De gemeente mag de wijziging weigeren; het hoger beroep faalt.",
+ "gevolg_betrokkene": {
+  "zin": "De afwijzing van de wijziging blijft staan; hij krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   43,
+   44
+  ],
+  "citaat": "Het hoger beroep is ongegrond."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Zijn gegevens in de BRP zijn onjuist en moeten worden veranderd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De documenten bevatten tegenstrijdigheden, zodat niet zeker is dat ze bij hem horen.",
+    "bron": [
+     37
+    ],
+    "citaat": "De geconstateerde verschillen zorgen voor twijfel over de inhoud van de documenten."
+   },
+   "bruikbare_zin": {
+    "citaat": "niet kan worden vastgesteld dat de hierin vermelde persoonsgegevens aan [appellant] toebehoren",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De foto's op de documenten laten zien dat het om dezelfde persoon gaat.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De foto's kunnen van dezelfde persoon zijn, maar dat zegt niet dat die persoon hem is.",
+    "bron": [
+     41
+    ],
+    "citaat": "wil nog niet zeggen dat de identiteit ook aan [appellant] toebehoort"
+   },
+   "bruikbare_zin": {
+    "citaat": "wil nog niet zeggen dat de identiteit ook aan [appellant] toebehoort",
+    "bron": [
+     41
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor wijziging van BRP-gegevens moet onomstotelijk vaststaan dat ze feitelijk onjuist zijn.",
+  "type": "regel",
+  "reikwijdte": "Bij een verzoek om al in de BRP opgenomen gegevens te wijzigen.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   35
+  ],
+  "citaat": "onomstotelijk moeten vaststaan dat deze feitelijk onjuist zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "Chinees paspoort",
+   "notariële verklaring van geboorte",
+   "hukou",
+   "verklaringen van het PSB",
+   "schooldiploma",
+   "fotovergelijking-onderzoek"
+  ],
+  "wat_gaf_doorslag": "De tegenstrijdigheden in de documenten over de gezinssamenstelling en de geboortedatum van de moeder."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2017:2799"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2.8, tweede lid, onder e, Wet brp"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij een verzoek om BRP-wijziging of de overgelegde documenten onderling kloppen.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    37
+   ],
+   "citaat": "De geconstateerde verschillen zorgen voor twijfel over de inhoud van de documenten."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp"
+ ],
+ "klantuitleg": "U wilt uw gegevens in de basisregistratie personen laten veranderen. Dat kan alleen als u met sterke documenten laat zien dat de gegevens echt fout zijn. Zijn de documenten tegenstrijdig, dan mag de gemeente de wijziging weigeren.",
+ "gemeente": "Súdwest-Fryslân",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

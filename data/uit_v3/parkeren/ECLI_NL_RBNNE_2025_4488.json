@@ -1,0 +1,190 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2025:4488",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een Wahv-boete (boete op grond van de wet voor verkeersboetes) van € 119,00 voor parkeren in een parkeerverbodszone in Drachten. Via een gemachtigde ging de parkeerder in beroep bij de kantonrechter tegen de officier van justitie.",
+ "titel": "Boete parkeerverbod verlaagd, maar parkeren stond vast",
+ "kern": {
+  "zin": "De kantonrechter vond het parkeren vaststaan, maar verlaagde de boete tot € 70,88 omdat de procedure te lang duurde.",
+  "bron": [
+   19,
+   22
+  ],
+  "citaat": "Daarmee is de gedraging komen vast te staan."
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete van € 119,00 voor parkeren in een parkeerverbodszone in Drachten.",
+   "bron": [
+    11
+   ],
+   "citaat": "De opgelegde boete bedraagt € 119,00 (inclusief administratiekosten)."
+  },
+  {
+   "zin": "De gemachtigde zei dat de parkeerder aan het laden en lossen was en dat de hoorplicht was geschonden.",
+   "bron": [
+    16
+   ],
+   "citaat": "Gemachtigde voert aan dat betrokkene aan het laden en lossen was"
+  },
+  {
+   "zin": "De officier van justitie vond dat het beroep ongegrond moest worden verklaard.",
+   "bron": [
+    17
+   ],
+   "citaat": "De vertegenwoordigster is van mening dat het beroep ongegrond moet worden verklaard."
+  },
+  {
+   "zin": "De kantonrechter vond dat het verbod niet alleen voor de rijbaan geldt.",
+   "bron": [
+    19
+   ],
+   "citaat": "Het parkeerverbod is anders dan gemachtigde meent niet alleen van toepassing op de rijbaan."
+  },
+  {
+   "zin": "De vertegenwoordigster van de officier van justitie voerde zelf aan dat de hoorplicht was geschonden; daarom verlaagde de kantonrechter de boete met 25%.",
+   "bron": [
+    21
+   ],
+   "citaat": "De vertegenwoordigster heeft op de zitting aangevoerd dat de officier van justitie de hoorplicht heeft geschonden."
+  },
+  {
+   "zin": "Daarna verlaagde de kantonrechter de boete nog eens met 25%, omdat de procedure te lang duurde.",
+   "bron": [
+    22
+   ],
+   "citaat": "omdat de redelijke termijn is geschonden"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Boete omlaag naar € 70,88; het parkeren blijft vaststaan.",
+ "gevolg_betrokkene": {
+  "zin": "De boete wordt € 70,88 in plaats van € 119,00, en de officier van justitie betaalt € 226,75 aan proceskosten.",
+  "bron": [
+   22,
+   11,
+   24
+  ],
+  "citaat": "tot € 70,88 (inclusief administratiekosten)"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Zijn gemachtigde zegt dat de parkeerder aan het laden en lossen was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de kantonrechter had de gemachtigde onvoldoende bewijs dat de parkeerder aan het laden en lossen was.",
+    "bron": [
+     19
+    ],
+    "citaat": "Gemachtigde heeft onvoldoende aannemelijk gemaakt dat betrokkene aan het laden en lossen was."
+   },
+   "bruikbare_zin": {
+    "citaat": "dat gedurende een tijd van ongeveer vijftien minuten geen activiteit bij het voertuig plaatsvond",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Het E1-bord geldt alleen voor de rijbaan, niet voor de strook waar de auto stond.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter vindt dat het verbod niet alleen op de rijbaan slaat.",
+    "bron": [
+     19
+    ],
+    "citaat": "Het parkeerverbod is anders dan gemachtigde meent niet alleen van toepassing op de rijbaan."
+   },
+   "bruikbare_zin": {
+    "citaat": "Binnen een parkeerverbodszone mag alleen op (evident) daarvoor bestemde weggedeelten worden geparkeerd",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "Zijn gemachtigde zegt dat de hoorplicht is geschonden.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De kantonrechter vond daarin reden om de boete met 25% te verlagen.",
+    "bron": [
+     21
+    ],
+    "citaat": "De kantonrechter ziet hierin aanleiding om de boete te matigen met 25%"
+   },
+   "bruikbare_zin": {
+    "citaat": "ziet hierin aanleiding om de boete te matigen met 25%",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Binnen een parkeerverbodszone mag alleen op daarvoor bestemde weggedeelten worden geparkeerd.",
+  "type": "regel",
+  "reikwijdte": "parkeerverbodszone (bord E1)",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "Binnen een parkeerverbodszone mag alleen op (evident) daarvoor bestemde weggedeelten worden geparkeerd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring van de verbalisant in het zaakoverzicht",
+   "beweringen van de gemachtigde over laden en lossen"
+  ],
+  "wat_gaf_doorslag": "Dat er ongeveer vijftien minuten geen activiteit bij de auto was, woog zwaarder dan het beroep op laden en lossen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:GHARL:2016:3927",
+   "ECLI:NL:GHARL:2023:6756",
+   "ECLI:NL:GHARL:2020:2795",
+   "ECLI:NL:GHARL:2025:2852"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 13a lid 2 onder a Wahv",
+  "art. 6 lid 1 EVRM"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Maak laad- en losstroken binnen parkeerverbodszones duidelijk herkenbaar, zodat blijkt waar niet geparkeerd mag.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    19
+   ],
+   "citaat": "De strook waarop betrokkene zijn auto heeft geparkeerd, was bestemd voor laden en lossen en niet voor parkeren"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een boete voor parkeren in een parkeerverbodszone is terecht als het verbod duidelijk geldt. Zegt u dat u aan het laden en lossen was, dan moet u dat aannemelijk maken, bijvoorbeeld met bewijs. Duurde de procedure erg lang, dan kan de boete omlaag gaan, zoals hier gebeurde.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente partij; de officier van justitie beslist",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

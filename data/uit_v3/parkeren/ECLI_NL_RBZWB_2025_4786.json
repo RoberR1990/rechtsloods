@@ -1,0 +1,45 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:4786",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "parkeerder", "wederpartij": "gemeente Tilburg (heffingsambtenaar)", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging in beroep tegen een rekening achteraf voor parkeerbelasting (de naheffing) van de gemeente Tilburg. De Rechtbank Zeeland-West-Brabant deed op 23 juli 2025 uitspraak, zonder zitting.",
+ "titel": "Verkeerde parkeerzone betaald: rekening blijft staan",
+ "kern": {"zin": "De rechter laat de rekening staan, want de parkeerder moest zelf nagaan in welke zone hij stond.", "bron": [26], "citaat": "te onderzoeken binnen welke zone hij parkeerde"},
+ "samenvatting": [
+  {"zin": "Een scanauto zag op 13 oktober 2023 dat voor de geparkeerde auto in Tilburg geen belasting was betaald.", "bron": [14], "citaat": "Tijdens een controle op voornoemde datum en tijd is door de scanauto geconstateerd dat geen parkeerbelasting was voldaan."},
+  {"zin": "De rekening was 54,77 euro: 1 euro belasting en 53,77 euro kosten.", "bron": [15], "citaat": "bestaande uit een bedrag aan belasting van € 1,00 en € 53,77 aan kosten"},
+  {"zin": "Bij het bezwaar bleek de gemeente dat de parkeerder een andere zone had aangemeld dan waar de auto stond.", "bron": [16], "citaat": "het kenteken voor een zone had aangemeld, waar de auto niet stond geparkeerd."},
+  {"zin": "De parkeerder vindt dat het bedrag dat hij te weinig betaalde, niet in verhouding staat tot de rekening.", "bron": [23], "citaat": "Het minimale bedrag aan parkeerbelasting dat is misgelopen staat niet in verhouding"},
+  {"zin": "De rechter legt het risico van de verkeerde zone bij de parkeerder.", "bron": [26], "citaat": "Het lag namelijk op zijn weg om voorafgaande of bij aanvang van het parkeren te onderzoeken"},
+  {"zin": "Het beroep is ongegrond, dus de rekening blijft staan en de parkeerder krijgt geen geld terug.", "bron": [33, 34], "citaat": "Dit betekent dat de naheffingsaanslag parkeerbelasting terecht is opgelegd en gehandhaafd blijft."}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; verkeerde zone gekozen, de extra belasting blijft staan.",
+ "gevolg_betrokkene": {"zin": "De parkeerder moet de rekening betalen en krijgt het griffierecht niet vergoed.", "bron": [33, 34], "citaat": "Dit betekent dat de naheffingsaanslag parkeerbelasting terecht is opgelegd en gehandhaafd blijft."},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "wel-betaald-fout-zone-kenteken", "burger_zegt": "Hij heeft wel betaald, maar voor een verkeerde zone, en het misgelopen bedrag is klein.", "oordeel": "verworpen", "waarom": {"zin": "De rechter zegt dat de parkeerder zelf moest uitzoeken in welke zone hij stond, dus de fout blijft bij hem.", "bron": [26], "citaat": "te onderzoeken binnen welke zone hij parkeerde"}, "bruikbare_zin": {"citaat": "De rechtbank is van oordeel dat dit voor risico van belanghebbende moet blijven.", "bron": [26]}},
+  {"arg": "onevenredig", "burger_zegt": "Het misgelopen bedrag staat niet in verhouding tot de rekening.", "oordeel": "verworpen", "waarom": {"zin": "De rechter vindt geen bijzondere omstandigheden die de naheffing onredelijk maken.", "bron": [31], "citaat": "Het beroep op het evenredigheidsbeginsel slaagt daarom niet."}, "bruikbare_zin": {"citaat": "Het beroep op het evenredigheidsbeginsel slaagt daarom niet.", "bron": [31]}}
+ ],
+ "rechtsregel": {"zin": "Een naheffing is een besluit zonder ruimte: als er een belastbaar feit is, moet er betaald worden.", "type": "regel", "reikwijdte": "Naheffingsaanslag parkeerbelasting bij een belastbaar feit", "uitzondering": "Niet als de parkeerder niet redelijk kon betalen, of bij een acute noodsituatie of onvoorziene omstandigheden.", "herkomst": "oordeel rechter", "bron": [28], "citaat": "Volgens vaste rechtspraak is de naheffingsaanslag een gebonden beschikking"},
+ "bewijs": {"bewijslast_bij": "wederpartij", "bewijsmiddelen": ["scanauto-controle", "bebording van de zones"], "wat_gaf_doorslag": "Dat de zones duidelijk met bebording waren aangegeven, zoals de gemeente aannemelijk maakte."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": ["art. 225 lid 2 Gemeentewet", "art. 1 onder a Verordening parkeerbelastingen 2023 Tilburg"],
+ "actie_gemeente": [
+  {"actie": "Leg vast dat de zone-bebording duidelijk was, want daarop steunt het bewijs bij een naheffing.", "raakt": "bebording-verkeersbesluit", "bron": [26], "citaat": "aannemelijk gemaakt dat de verschillende zones duidelijk met bebording waren aangeven"}
+ ],
+ "reden_leeg_actie": null,
+ "raakt": ["bezwaar", "betaalapp", "bebording-verkeersbesluit"],
+ "klantuitleg": "U had uw kenteken in een andere zone aangemeld dan waar de auto stond, daardoor kwam er een rekening. De rechter zegt dat het uw verantwoordelijkheid is om de juiste zone te kiezen, ook als u wel betaalde. Bezwaar op dit punt heeft weinig kans, tenzij u kunt laten zien dat de bebording onduidelijk was.",
+ "gemeente": "Tilburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

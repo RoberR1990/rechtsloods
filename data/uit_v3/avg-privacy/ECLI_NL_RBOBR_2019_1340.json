@@ -1,0 +1,175 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOBR:2019:1340",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "gemeente Deurne",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een man vroeg de gemeente Deurne om zijn geboortegegevens in de BRP te wijzigen. De gemeente weigerde, en de man ging naar de rechtbank Oost-Brabant.",
+ "titel": "Gemeente Deurne moet BRP-verzoek opnieuw onderzoeken",
+ "kern": {
+  "zin": "De rechtbank vernietigt de afwijzing, omdat de gemeente de documenten niet goed genoeg heeft onderzocht.",
+  "bron": [
+   75
+  ],
+  "citaat": "Verweerder had nader onderzoek moeten doen naar de legalisatie en de inhoud van de door eiser overgelegde documenten"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente Deurne in 2017 om zijn gegevens in de BRP te wijzigen.",
+   "bron": [
+    20
+   ],
+   "citaat": "Eiser heeft verweerder op 28 juni 2017 gevraagd om zijn gegevens"
+  },
+  {
+   "zin": "Hij stuurde onder meer Chinese papieren en een DNA-rapport mee.",
+   "bron": [
+    28
+   ],
+   "citaat": "Een DNA-onderzoeksrapport, opgemaakt op 23 maart 2018 door Verilabs te Leiden."
+  },
+  {
+   "zin": "De gemeente vond dat de papieren niet aantonen dat ze bij hem horen.",
+   "bron": [
+    29
+   ],
+   "citaat": "Uit de documenten die eiser heeft overgelegd, valt niet op te maken dat deze documenten hem betreffen."
+  },
+  {
+   "zin": "De rechtbank vond het DNA-rapport wel betrouwbaar.",
+   "bron": [
+    44
+   ],
+   "citaat": "De rechtbank gaat dan ook uit van de juistheid van de uitkomsten van het DNA-onderzoeksrapport."
+  },
+  {
+   "zin": "De rechtbank vernietigde de afwijzing en de gemeente moet een nieuw besluit nemen.",
+   "bron": [
+    82
+   ],
+   "citaat": "Verweerder zal een nieuw besluit moeten nemen met inachtneming van deze uitspraak."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "De afwijzing is vernietigd; de gemeente moet opnieuw beslissen.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet binnen zes weken opnieuw beslissen; het griffierecht van € 170 en de proceskosten van € 1.024 worden vergoed.",
+  "bron": [
+   89,
+   90,
+   91
+  ],
+  "citaat": "bepaalt dat verweerder binnen zes weken een nieuw besluit dient te nemen"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Mijn gegevens in de BRP zijn onjuist en moeten worden aangepast.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank verklaart het beroep gegrond en laat de gemeente opnieuw beslissen.",
+    "bron": [
+     82
+    ],
+    "citaat": "De rechtbank komt tot het oordeel dat het beroep van eiser gegrond is."
+   },
+   "bruikbare_zin": {
+    "citaat": "Verweerder zal een nieuw besluit moeten nemen met inachtneming van deze uitspraak.",
+    "bron": [
+     82
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente heeft mijn buitenlandse papieren en het DNA-rapport niet goed onderzocht.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank vond dat de gemeente nader onderzoek had moeten doen naar de legalisatie en de inhoud van de documenten.",
+    "bron": [
+     75
+    ],
+    "citaat": "Verweerder had nader onderzoek moeten doen naar de legalisatie en de inhoud van de door eiser overgelegde documenten"
+   },
+   "bruikbare_zin": {
+    "citaat": "Verweerder had nader onderzoek moeten doen naar de legalisatie en de inhoud van de door eiser overgelegde documenten",
+    "bron": [
+     75
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Uitkomsten van een DNA-onderzoek kunnen dienen als aanvullend bewijs dat originele brondocumenten bij de burger horen.",
+  "type": "regel",
+  "reikwijdte": "Bij een verzoek om BRP-wijziging met buitenlandse brondocumenten en DNA-onderzoek.",
+  "uitzondering": "DNA-onderzoek bewijst niet wie iemand zelf is, alleen wie de biologische ouders zijn.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   46
+  ],
+  "citaat": "Volgens vaste jurisprudentie van de Afdeling kunnen uitkomsten van een DNA-onderzoek echter wel dienen als aanvullend bewijs"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "Chinees paspoort",
+   "verlopen Chinees paspoort",
+   "notariële geboorteakte",
+   "hukou",
+   "DNA-onderzoeksrapport"
+  ],
+  "wat_gaf_doorslag": "Het DNA-onderzoeksrapport en de gelegaliseerde papieren."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2016:3014",
+   "ECLI:NL:RVS:2019:233",
+   "ECLI:NL:RVS:2018:2839",
+   "ECLI:NL:RVS:2018:2910"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2:58, eerste lid, Wet BRP",
+  "art. 2:8, tweede lid, Wet BRP"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Doe nader onderzoek naar de legalisatie en de inhoud van overgelegde buitenlandse documenten.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    75
+   ],
+   "citaat": "Verweerder had nader onderzoek moeten doen naar de legalisatie en de inhoud van de door eiser overgelegde documenten"
+  },
+  {
+   "actie": "Laat de originaliteit van overgelegde paspoorten onderzoeken.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    51
+   ],
+   "citaat": "De rechtbank oordeelt dat verweerder dan ook ten onrechte niet onderzocht of de paspoorten van eiser originelen betreffen."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "privacy-fg"
+ ],
+ "klantuitleg": "Uw gegevens in de basisregistratie (BRP) moeten kloppen. Als u denkt dat ze fout zijn, kunt u de gemeente vragen ze te wijzigen. De gemeente moet dan goed onderzoek doen naar uw papieren en een DNA-rapport; als ze dat niet doet, moet ze opnieuw beslissen.",
+ "gemeente": "Deurne",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

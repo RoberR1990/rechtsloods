@@ -1,0 +1,149 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:HR:2019:56",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Hilversum",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "cassatie",
+ "intro": "Een parkeerder kreeg in Hilversum een naheffing (een rekening achteraf) voor parkeerbelasting, omdat zijn auto drie minuten langer stond dan hij had betaald. De gemeente ging in cassatie bij de Hoge Raad tegen de parkeerder, nadat de rechtbank en het hof de naheffing hadden verlaagd.",
+ "titel": "Naheffing parkeren mag over een vol uur berekend worden",
+ "kern": {
+  "zin": "De Hoge Raad vindt dat de gemeente de naheffing terecht over een vol uur parkeren mocht berekenen, omdat de verordening daarvoor kiest.",
+  "bron": [
+   19
+  ],
+  "citaat": "De heffingsambtenaar heeft dus terecht de naheffingsaanslag berekend over een parkeerduur van een uur."
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder zette zijn auto in Hilversum op een plek met betaald parkeren en betaalde € 1 bij de automaat.",
+   "bron": [
+    11
+   ],
+   "citaat": "Bij een parkeerautomaat heeft belanghebbende € 1 parkeerbelasting betaald"
+  },
+  {
+   "zin": "Bij de controle om 14.24 uur stond de auto er nog, terwijl de betaalde tijd om 14.21 uur eindigde. De gemeente legde een naheffing op van € 63,50.",
+   "bron": [
+    12
+   ],
+   "citaat": "Aan belanghebbende is een naheffingsaanslag parkeerbelasting opgelegd van € 63,50"
+  },
+  {
+   "zin": "De rechtbank verlaagde de naheffing met € 1, omdat de parkeerder al een deel had betaald. Het hof vond dat de naheffing naar evenredigheid omlaag moest als de te betalen periode korter dan een uur was.",
+   "bron": [
+    13
+   ],
+   "citaat": "De Rechtbank heeft de naheffingsaanslag met € 1 verminderd"
+  },
+  {
+   "zin": "De gemeente vond dat het bedrag gelijk is aan het tarief voor één uur parkeren, tenzij een langere parkeerduur aannemelijk is.",
+   "bron": [
+    14
+   ],
+   "citaat": "het na te heffen bedrag volgens artikel 234, lid 3, Gemeentewet gelijk is aan het tarief voor één uur parkeren"
+  },
+  {
+   "zin": "De Hoge Raad oordeelde dat de wet een vast bedrag over een uur toestaat. De naheffing hoeft dus niet beperkt te blijven tot het te weinig betaalde bedrag.",
+   "bron": [
+    17
+   ],
+   "citaat": "de naheffing niet behoeft te worden beperkt tot de te weinig betaalde belasting"
+  },
+  {
+   "zin": "De Hoge Raad vernietigde de uitspraken van het hof en de rechtbank en verklaarde het beroep van de parkeerder ongegrond. De naheffing blijft dus staan.",
+   "bron": [
+    27
+   ],
+   "citaat": "verklaart het tegen de uitspraak van de heffingsambtenaar ingestelde beroep ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing van € 63,50 blijft staan; hoger beroep van de gemeente slaagt.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing van € 63,50 betalen, zonder aftrek van de € 1 die hij al betaalde; er volgt geen veroordeling in de proceskosten.",
+  "bron": [
+   27,
+   22
+  ],
+  "citaat": "verklaart het tegen de uitspraak van de heffingsambtenaar ingestelde beroep ongegrond."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De naheffing moet lager, omdat ik al € 1 had betaald en de periode korter dan een uur was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De verordening kiest ervoor om vast over een uur na te heffen, dus de berekening over een uur was juist.",
+    "bron": [
+     19
+    ],
+    "citaat": "In de toepasselijke verordening is ervoor gekozen forfaitair op basis van een parkeerduur van een uur na te heffen."
+   },
+   "bruikbare_zin": {
+    "citaat": "forfaitair wordt nageheven op basis van een parkeerduur van een uur",
+    "bron": [
+     17
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een naheffing parkeerbelasting wordt berekend over een uur, tenzij aannemelijk is dat de auto langer dan een uur zonder betaling stond; de gemeente mag in de verordening voor dit vaste uur kiezen.",
+  "type": "regel",
+  "reikwijdte": "Naheffing parkeerbelasting in gemeenten waarvan de verordening vast over een uur naheft.",
+  "uitzondering": "Is aannemelijk dat de auto langer dan een uur zonder betaling stond, dan geldt die langere duur.",
+  "herkomst": "wet",
+  "bron": [
+   17
+  ],
+  "citaat": "naheffingsaanslag in de parkeerbelasting wordt berekend over een parkeerduur van een uur"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "betaalbewijs van de automaat (13.58 tot 14.21 uur)",
+   "tijdstip van de controle (14.24 uur)"
+  ],
+  "wat_gaf_doorslag": "De verordening kiest voor een vast bedrag over één uur."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 234 lid 3 Gemeentewet",
+  "art. 20 lid 1 AWR"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg in de parkeerverordening vast dat wordt nageheven over een vast uur, als u die keuze wilt maken",
+   "raakt": "verordening-beleid",
+   "bron": [
+    19
+   ],
+   "citaat": "In de toepasselijke verordening is ervoor gekozen forfaitair op basis van een parkeerduur van een uur na te heffen."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "verordening-beleid",
+  "tarief-naheffing",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Stond uw auto langer dan u betaald had, dan mag de gemeente een rekening achteraf sturen, ook als het maar een paar minuten scheelt. Die rekening is vaak berekend over een vol uur parkeren, als de regels van de gemeente dat zo bepalen. Bezwaar heeft weinig kans als u alleen zegt dat u kort te laat was; wel kunt u laten zien dat u wel genoeg had betaald.",
+ "gemeente": "Hilversum",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

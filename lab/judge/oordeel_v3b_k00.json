@@ -1,0 +1,83 @@
+[
+ {
+  "item": "u1",
+  "A": {
+   "oordeel": "goed",
+   "fouten": []
+  },
+  "B": {
+   "oordeel": "klein",
+   "fouten": [
+    "bewijslast_bij burger niet in uitspraak genoemd",
+    "wetsartikel 7:1 Awb niet relevant voor kern",
+    "rechtsregel zegt kenteken-koppeling telt, uitspraak zegt objectieve belasting"
+   ]
+  },
+  "voorkeur": "A",
+  "waarom": "A volgt de uitspraak nauwkeurig, ook gps-argument en coulance; B heeft kleine onnauwkeurigheden en ruis."
+ },
+ {
+  "item": "u2",
+  "A": {
+   "oordeel": "goed",
+   "fouten": []
+  },
+  "B": {
+   "oordeel": "klein",
+   "fouten": [
+    "wetsartikelen over beroepstermijn niet relevant",
+    "tweede bezwaargrond is rechtsregel, niet door burger aangevoerd"
+   ]
+  },
+  "voorkeur": "A",
+  "waarom": "Beide juist qua uitkomst; A heeft concretere acties en geen ruis in wetsartikelen of dubbele gronden."
+ },
+ {
+  "item": "u3",
+  "A": {
+   "oordeel": "goed",
+   "fouten": []
+  },
+  "B": {
+   "oordeel": "klein",
+   "fouten": [
+    "placeholder [plaats] in uitvoer",
+    "uitzondering en doorslaggevende reden ontbreken"
+   ]
+  },
+  "voorkeur": "A",
+  "waarom": "A vermeldt uitzondering en doorslag; B laat die leeg en laat placeholders staan."
+ },
+ {
+  "item": "u4",
+  "A": {
+   "oordeel": "goed",
+   "fouten": []
+  },
+  "B": {
+   "oordeel": "klein",
+   "fouten": [
+    "sub betalen past minder dan kenbaarheid",
+    "voorbeeld foto van bord is niet uit uitspraak",
+    "automaat voldoende duidelijk is aanname"
+   ]
+  },
+  "voorkeur": "A",
+  "waarom": "A kiest passender sub, noemt uitzondering totale maximumduur; B is iets te algemeen."
+ },
+ {
+  "item": "u5",
+  "A": {
+   "oordeel": "klein",
+   "fouten": [
+    "gehonoreerde ontruimingsbescherming ontbreekt als bezwaargrond"
+   ]
+  },
+  "B": {
+   "oordeel": "goed",
+   "fouten": []
+  },
+  "voorkeur": "B",
+  "waarom": "B legt ook de gehonoreerde ontruimingsbescherming en proceskosten vast; A mist dat deel van de uitkomst."
+ }
+]

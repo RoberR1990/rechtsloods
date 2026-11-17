@@ -1,0 +1,128 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2026:2561",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "Regionale Belastingsamenwerking DOWR",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een rekening voor parkeren in Deventer en maakte daartegen bezwaar. De rechtbank Overijssel besliste over het beroep tegen de beslissing van DOWR, die het bezwaar te laat vond.",
+ "titel": "Te laat bezwaar tegen parkeerrekening telt niet mee",
+ "kern": {
+  "zin": "De rechter vond het bezwaar te laat, omdat de aanslag al onder de ruitenwisser lag, en de termijn niet verschoonbaar was.",
+  "bron": [
+   26
+  ],
+  "citaat": "dat hij reeds op of omstreeks 24 januari 2025 beschikte over de naheffingsaanslag onder de ruitenwisser"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeerder kreeg een rekening voor parkeren in Deventer, met de kennisgeving van 24 januari 2025.",
+   "bron": [
+    17
+   ],
+   "citaat": "Op 24 januari 2025 om 16.56 uur stond de auto met kenteken [kenteken] geparkeerd aan de Hofstraat te Deventer."
+  },
+  {
+   "zin": "Hij zei dat hij de aanslag pas op 4 maart 2025 had ontvangen, dus het bezwaar was op tijd.",
+   "bron": [
+    25
+   ],
+   "citaat": "dat hij de aanslag op 4 maart 2025 heeft ontvangen"
+  },
+  {
+   "zin": "De wederpartij, DOWR, zei dat het bezwaar pas op 13 april 2025 binnenkwam, na de termijn.",
+   "bron": [
+    24
+   ],
+   "citaat": "het bezwaarschrift is op 13 april 2025, buiten de wettelijke termijn van zes weken, ontvangen."
+  },
+  {
+   "zin": "De rechter oordeelde dat de parkeerder de aanslag al had en het bezwaar daarom te laat was.",
+   "bron": [
+    26
+   ],
+   "citaat": "dat hij reeds op of omstreeks 24 januari 2025 beschikte over de naheffingsaanslag onder de ruitenwisser"
+  },
+  {
+   "zin": "Er waren geen bijzondere omstandigheden, dus het beroep was ongegrond.",
+   "bron": [
+    28
+   ],
+   "citaat": "Die omstandigheden zijn gesteld noch gebleken."
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep ongegrond: bezwaar te laat; de inhoud is niet beoordeeld.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt het griffierecht niet terug en geen proceskostenvergoeding.",
+  "bron": [
+   31
+  ],
+  "citaat": "Hij krijgt ook geen vergoeding van zijn proceskosten."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "Hij zegt dat hij de aanslag pas op 4 maart 2025 kreeg, dus het bezwaar was op tijd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er waren geen bijzondere omstandigheden die de late indiening verschoonbaar maakten.",
+    "bron": [
+     28
+    ],
+    "citaat": "Die omstandigheden zijn gesteld noch gebleken."
+   },
+   "bruikbare_zin": {
+    "citaat": "volstaat niet om de verstreken bezwaartermijn veilig te stellen",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een te laat bezwaar wordt niet-ontvankelijk verklaard, tenzij de termijn verschoonbaar is.",
+  "type": "regel",
+  "reikwijdte": "Bezwaar dat na de termijn van zes weken is ingediend",
+  "uitzondering": "Verschoonbare termijnoverschrijding door bijzondere omstandigheden",
+  "herkomst": "wet",
+  "bron": [
+   27
+  ],
+  "citaat": "Als een bezwaar te laat is ingediend, moet het bestuursorgaan het bezwaarschrift niet-ontvankelijk verklaren"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "naheffingsaanslag onder de ruitenwisser",
+   "foto's van het geparkeerde voertuig",
+   "bezwaarschrift met ontvangstdatum"
+  ],
+  "wat_gaf_doorslag": "Dat de aanslag al op 24 januari onder de ruitenwisser lag, gaf de doorslag."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "Zuiver procedureel oordeel over de bezwaartermijn; geen tekortkoming van de gemeente genoemd.",
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een bezwaar moet binnen zes weken na de aanslag binnen zijn. Hier lag de aanslag al onder de ruitenwisser, en daarom telde de termijn vanaf dat moment. Heeft u zo'n aanslag gekregen, wacht dan niet af en maak snel bezwaar.",
+ "gemeente": "Deventer",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,151 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2023:7024",
+ "relevant": true,
+ "onderwerp": "schade-aansprakelijkheid",
+ "sub": "dwangsom-niet-tijdig",
+ "kenmerk": null,
+ "zaaktype": "niet-tijdig-beslissen",
+ "toepasselijkheid": "rijk",
+ "dubbel_van": null,
+ "reden_gemeente_leeg": "geen gemeente is partij (korpschef van politie)",
+ "zekerheid": "hoog",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "korpschef van politie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger vroeg de korpschef van de politie om inzage in zijn persoonsgegevens. De korpschef besliste volgens hem te laat, daarom ging hij in beroep bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Te late beslissing: beroep niet-ontvankelijk, maar griffierecht terug",
+ "kern": {
+  "zin": "De rechter verklaarde het beroep niet-ontvankelijk omdat de burger geen belang meer had, maar de korpschef moet het griffierecht vergoeden.",
+  "bron": [
+   15
+  ],
+  "citaat": "Omdat het besluit genomen is na het instellen van het beroep moet de korpschef wel het griffierecht aan eiser vergoeden"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg op 20 januari 2023 om inzage in zijn persoonsgegevens; volgens hem besliste de korpschef niet op tijd.",
+   "bron": [
+    8
+   ],
+   "citaat": "de korpschef volgens hem niet op tijd heeft beslist op de aanvraag van 20 januari 2023"
+  },
+  {
+   "zin": "Partijen vonden dat de beslistermijn was verstreken; de burger had rechtsgeldig beroep ingesteld.",
+   "bron": [
+    12
+   ],
+   "citaat": "Partijen zijn het erover eens dat de beslistermijn voor de aanvraag was verstreken"
+  },
+  {
+   "zin": "Na het beroep nam de korpschef op 11 juli 2023 alsnog een besluit, waar de burger zich in kon vinden.",
+   "bron": [
+    13
+   ],
+   "citaat": "na het instellen van het beroep op 11 juli 2023 alsnog een besluit heeft genomen"
+  },
+  {
+   "zin": "De burger vroeg de rechter om de dwangsom vast te stellen, maar de korpschef had de maximale dwangsom van € 1.442 al vastgesteld.",
+   "bron": [
+    14
+   ],
+   "citaat": "de maximale dwangsom van € 1.442,- al heeft vastgesteld"
+  },
+  {
+   "zin": "Daarom had de burger geen belang meer en was het beroep niet-ontvankelijk.",
+   "bron": [
+    15
+   ],
+   "citaat": "Het beroep is daarom kennelijk niet-ontvankelijk"
+  },
+  {
+   "zin": "Kosten voor juridisch advies (€ 137,50) werden niet vergoed, omdat de burger het beroepschrift zelf indiende.",
+   "bron": [
+    16
+   ],
+   "citaat": "Het beroepschrift is niet door een gemachtigde ingediend, maar door eiser zelf"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep niet-ontvankelijk; alleen griffierecht wordt vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt het griffierecht van € 184 terug, maar geen vergoeding van € 137,50 voor juridisch advies; de dwangsom van € 1.442 was al vastgesteld.",
+  "bron": [
+   20
+  ],
+  "citaat": "het griffierecht van € 184,- aan eiser moet vergoeden"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De korpschef besliste te laat, dus de verbeurde dwangsom moet worden vastgesteld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De korpschef had de maximale dwangsom al vastgesteld, dus de burger had geen belang meer bij het beroep.",
+    "bron": [
+     14
+    ],
+    "citaat": "de maximale dwangsom van € 1.442,- al heeft vastgesteld"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "proceskosten",
+   "burger_zegt": "De kosten voor juridisch advies (€ 137,50) moeten worden vergoed.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Deze kosten komen volgens het Besluit proceskosten bestuursrecht niet voor vergoeding in aanmerking.",
+    "bron": [
+     16
+    ],
+    "citaat": "deze kosten gelet op het Besluit proceskosten bestuursrecht niet voor vergoeding in aanmerking komen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het beroepschrift is niet door een gemachtigde ingediend, maar door eiser zelf",
+    "bron": [
+     16
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Komt het besluit pas na het instellen van het beroep tegen niet op tijd beslissen, dan moet het bestuursorgaan het griffierecht vergoeden.",
+  "type": "regel",
+  "reikwijdte": "Beroep tegen niet op tijd beslissen, als het besluit na het beroep komt",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   15
+  ],
+  "citaat": "Omdat het besluit genomen is na het instellen van het beroep moet de korpschef wel het griffierecht aan eiser vergoeden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "besluit van de korpschef van 11 juli 2023"
+  ],
+  "wat_gaf_doorslag": "De korpschef had de maximale dwangsom al vastgesteld, dus de burger had geen belang meer."
+ },
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:12 Awb",
+  "art. 8:54 Awb",
+  "Besluit proceskosten bestuursrecht",
+  "AVG"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Beslist een organisatie te laat op uw verzoek om inzage, dan kunt u in beroep gaan nadat u een duidelijke brief heeft gestuurd. Beslist de organisatie daarna alsnog en is de dwangsom (geld bij een te late beslissing) al vastgesteld, dan heeft het beroep geen zin meer. U krijgt dan wel het griffierecht terug, maar kosten voor juridisch advies worden niet vergoed als u het beroep zelf indient.",
+ "gemeente": null
+}

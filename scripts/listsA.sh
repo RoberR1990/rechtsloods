@@ -1,0 +1,1 @@
+for y in 2016 2017 2018 2019 2020 2021 2022; do for s in bestuursrecht_belastingrecht:bel bestuursrecht:best strafrecht:straf; do python3 scripts/feed.py "http://psi.rechtspraak.nl/rechtsgebied#${s%%:*}" $y-01-01 $y-12-31 data/feeds/${s##*:}$y.json; done; done; echo KLAAR

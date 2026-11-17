@@ -1,0 +1,164 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2026:5272",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "samenwerking Deventer, Olst-Wijhe en Raalte (gemeenten)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing van 79,80 euro, omdat zijn betaling bij de automaat niet was afgerond. Hij ging in beroep bij de rechtbank Overijssel tegen de samenwerking van de gemeenten Deventer, Olst-Wijhe en Raalte.",
+ "titel": "Betaling bij automaat mislukt: naheffing blijft, beroep ongegrond",
+ "kern": {
+  "zin": "De rechter vond de naheffing terecht, omdat de betaling bij de automaat naar alle waarschijnlijkheid niet was voltooid.",
+  "bron": [
+   39
+  ],
+  "citaat": "voldoende aannemelijk gemaakt dat belanghebbende uiteindelijk de verschuldigde parkeerbelasting niet heeft voldaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "Na een controle kreeg de parkeerder een naheffing van 79,80 euro (de rekening achteraf).",
+   "bron": [
+    16
+   ],
+   "citaat": "Aan belanghebbende is een naheffingsaanslag van € 79,80 opgelegd"
+  },
+  {
+   "zin": "De parkeerder zei dat hij te goeder trouw had betaald, met Apple Pay op 19 juli om 11.54 uur.",
+   "bron": [
+    20
+   ],
+   "citaat": "Hij heeft te goeder trouw voor het parkeren betaald"
+  },
+  {
+   "zin": "De samenwerking zegt dat de betaling niet is afgerond: de status was onvolledig en de bank had die ingetrokken.",
+   "bron": [
+    22
+   ],
+   "citaat": "Onderzoek heeft geleerd dat de door belanghebbende gestarte transactie onvolledig is geweest"
+  },
+  {
+   "zin": "Volgens de rechter komt het zonder printbewijs voor de parkeerder zelf.",
+   "bron": [
+    41
+   ],
+   "citaat": "dient voor zijn rekening en risico te blijven"
+  },
+  {
+   "zin": "De rechter vond de naheffing dus terecht opgelegd.",
+   "bron": [
+    42
+   ],
+   "citaat": "is dan ook terecht aan belanghebbende opgelegd"
+  },
+  {
+   "zin": "Het griffierecht gaat dus niet terug naar de parkeerder.",
+   "bron": [
+    44
+   ],
+   "citaat": "krijgt daarom zijn griffierecht niet terug"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan, ook griffierecht niet terug.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de parkeerder betekent dit dat de naheffing van 79,80 euro blijft staan en dat het griffierecht niet wordt terugbetaald.",
+  "bron": [
+   44
+  ],
+  "citaat": "krijgt daarom zijn griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "Hij kan niet verantwoordelijk worden gehouden voor niet-werkende betaalsystemen bij de gemeente.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het niet printen van een bewijs komt volgens de rechter voor zijn rekening.",
+    "bron": [
+     41
+    ],
+    "citaat": "dient voor zijn rekening en risico te blijven"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het had op de weg van belanghebbende gelegen om de gehele transactie op het scherm van de parkeerautomaat te volgen",
+    "bron": [
+     40
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij heeft te goeder trouw betaald, met een bankafschrijving als bewijs.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter was er een mislukte banktransactie, ook al stond er een afschrijving.",
+    "bron": [
+     39
+    ],
+    "citaat": "dat belanghebbende uiteindelijk de verschuldigde parkeerbelasting niet heeft voldaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat de transactie uiteindelijk niet is voltooid",
+    "bron": [
+     39
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor een naheffing telt alleen of de belasting is betaald, en niet of de parkeerder te goeder trouw was.",
+  "type": "regel",
+  "reikwijdte": "Naheffing parkeerbelasting bij te weinig of niet betaalde belasting",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   27
+  ],
+  "citaat": "Opzet of schuld zijn daarom bij de niet-voldoening van parkeerbelasting geen vereiste"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "overzicht van de mislukte banktransactie in het verweerschrift",
+   "bankafschrijving van de parkeerder"
+  ],
+  "wat_gaf_doorslag": "Het overzicht van de mislukte banktransactie op het tijdstip van de betaling."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 20, eerste lid, Algemene wet inzake rijksbelastingen",
+  "art. 231, eerste lid, Gemeentewet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet bij elke parkeerautomaat de waarschuwing om het betaalmiddel minimaal 8 seconden bij de automaat te houden.",
+   "raakt": "betaalapp",
+   "bron": [
+    21
+   ],
+   "citaat": "De onderhavige parkeerautomaat had die waarschuwing niet"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "betaalapp",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren is terecht als de betaling bij de automaat niet is afgerond, ook als u dat niet doorhad. Let daarom op het scherm en vraag een transactiebewijs, want dat laat zien dat u heeft betaald. Dat garandeert niet dat een bezwaar slaagt.",
+ "gemeente": "Deventer",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

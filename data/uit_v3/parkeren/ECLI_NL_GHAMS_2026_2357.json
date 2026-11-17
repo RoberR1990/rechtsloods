@@ -1,0 +1,150 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2026:2357",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "invordering",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (met een gemachtigde)",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg € 9 aanmaningskosten (extra kosten voor een betalingsherinnering) voor een rekening voor parkeren die hij niet betaalde. Hij ging in hoger beroep tegen de gemeente Amsterdam bij het gerechtshof Amsterdam.",
+ "titel": "Aanmaningskosten terecht: de rekening stond al in MijnOverheid",
+ "kern": {
+  "zin": "Het hof vond de € 9 aanmaningskosten terecht, omdat de rekening in de berichtenbox MijnOverheid was geplaatst en de parkeerder die had geopend.",
+  "bron": [
+   48
+  ],
+  "citaat": "Verzending en ontvangst van een notificatiebericht zijn geen vereisten voor de bekendmaking"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een naheffingsaanslag (de rekening achteraf) voor parkeren op 8 maart 2024 zonder te betalen.",
+   "bron": [
+    22
+   ],
+   "citaat": "zonder dat de daartoe verschuldigde parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "Hij betaalde niet, waarna de gemeente hem aanmaande en € 9 aanmaningskosten rekende (brief van 23 mei 2024).",
+   "bron": [
+    22
+   ],
+   "citaat": "heeft de invorderingsambtenaar hem daartoe bij brief aangemaand en daarbij € 9 aan aanmaningskosten in rekening gebracht"
+  },
+  {
+   "zin": "De parkeerder vond dat die kosten niet terecht waren; daarover ging het hoger beroep.",
+   "bron": [
+    45
+   ],
+   "citaat": "In hoger beroep is in geschil of belanghebbende terecht aanmaningskosten in rekening zijn gebracht."
+  },
+  {
+   "zin": "De gemeente haalde gegevens op bij Logius (de beheerder van MijnOverheid): het bericht werd op 12 maart 2024 geplaatst en pas op 26 maart 2024 geopend.",
+   "bron": [
+    49
+   ],
+   "citaat": "het op 12 maart 2024 in de berichtenbox geplaatste bericht (de naheffingsaanslag) op 26 maart 2024 is geopend"
+  },
+  {
+   "zin": "De gemachtigde van de parkeerder suggereerde dat de gemeente die gegevens achteraf kon veranderen, maar het hof vond dat onaannemelijk.",
+   "bron": [
+    49
+   ],
+   "citaat": "gegevens zoals weergegeven onder 2.3 met terugwerkende kracht door de invorderingsambtenaar kunnen worden gewijzigd of gemanipuleerd"
+  },
+  {
+   "zin": "Het hof bevestigde de uitspraak van de rechtbank; de aanmaningskosten blijven staan.",
+   "bron": [
+    58
+   ],
+   "citaat": "Het Hof bevestigt de uitspraak van de rechtbank."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Aanmaningskosten van € 9 terecht; hoger beroep slaagt niet",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de € 9 aanmaningskosten betalen en krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   56
+  ],
+  "citaat": "Het Hof ziet geen reden voor een kostenveroordeling."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente toont niet aan dat de rekening bekend is gemaakt; de gegevens van de gemeente kunnen achteraf zijn aangepast.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof vond het onaannemelijk dat de gemeente de gegevens met terugwerkende kracht kon wijzigen.",
+    "bron": [
+     49
+    ],
+    "citaat": "gegevens zoals weergegeven onder 2.3 met terugwerkende kracht door de invorderingsambtenaar kunnen worden gewijzigd of gemanipuleerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "Verzending en ontvangst van een notificatiebericht zijn geen vereisten voor de bekendmaking",
+    "bron": [
+     48
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Staat de rekening in de berichtenbox MijnOverheid van iemand die die box heeft aangezet, dan is die bekendgemaakt; het sturen of ontvangen van een e-mailmelding is daarvoor niet nodig.",
+  "type": "regel",
+  "reikwijdte": "Naheffingsaanslag parkeerbelasting en aanmaningskosten bij burgers die zich voor de berichtenbox MijnOverheid hebben aangemeld",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   48
+  ],
+  "citaat": "Verzending en ontvangst van een notificatiebericht zijn geen vereisten voor de bekendmaking"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "gegevens van Logius met tijdstippen van plaatsing en opening van het bericht"
+  ],
+  "wat_gaf_doorslag": "Het bericht in de berichtenbox werd veertien dagen na plaatsing geopend."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2026:734",
+   "ECLI:NL:PHR:2026:152"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2:17 lid 1 Awb",
+  "art. 3:41 lid 1 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij Logius de gegevens over plaatsing en opening van het bericht op en bewaar die in het dossier",
+   "raakt": "bezwaar",
+   "bron": [
+    49
+   ],
+   "citaat": "met overlegging van de onder 2.3 vermelde gegevens aannemelijk heeft gemaakt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "tarief-naheffing",
+  "communicatie"
+ ],
+ "klantuitleg": "Heeft u de berichtenbox van MijnOverheid aangezet, dan geldt de rekening voor het parkeren als bekend zodra die daar staat. Het maakt dan niet uit of u ook een e-mailmelding kreeg. Betaalt u niet op tijd, dan mag de gemeente € 9 aanmaningskosten rekenen; bezwaar heeft weinig kans als blijkt dat u het bericht zelf opende.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

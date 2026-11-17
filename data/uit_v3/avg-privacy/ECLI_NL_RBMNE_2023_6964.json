@@ -1,0 +1,209 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2023:6964",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "kopie-stukken",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "medewerker",
+  "wederpartij": "universiteit",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "De rechtbank beoordeelt twee beroepen van een medewerker tegen de universiteit over inzage in zijn gegevens na een datalek bij een leverancier. De universiteit had op het verzoek beslist; de rechtbank wijst het beroep daarover af en verklaart het beroep over te laat beslissen niet-ontvankelijk.",
+ "titel": "Inzage na datalek was voldoende; beroep ongegrond",
+ "kern": {
+  "zin": "De rechtbank verklaart het beroep ongegrond omdat de klachten van de medewerker niet slagen.",
+  "bron": [
+   43
+  ],
+  "citaat": "Omdat de beroepsgronden niet slagen is het beroep ongegrond."
+ },
+ "samenvatting": [
+  {
+   "zin": "Er was een datalek bij een leverancier van de universiteit.",
+   "bron": [
+    10
+   ],
+   "citaat": "het op 17 augustus 2020 gemelde datalek bij [leverancier]"
+  },
+  {
+   "zin": "De medewerker wilde een volledig overzicht van de gegevens die bij de hackers terecht waren gekomen.",
+   "bron": [
+    15
+   ],
+   "citaat": "de verstrekking van een volledig overzicht van de gegevens die in handen zijn gekomen van de hackers"
+  },
+  {
+   "zin": "De universiteit zei dat zij niet op alle vragen was ingegaan en gaf later alsnog een overzicht van ontvangers.",
+   "bron": [
+    17
+   ],
+   "citaat": "Het college had inzage moeten geven in de (categorieën) van ontvangers van zijn persoonsgegevens"
+  },
+  {
+   "zin": "De rechtbank vindt dat de universiteit genoeg inzage heeft gegeven in de gegevens en doelen.",
+   "bron": [
+    37
+   ],
+   "citaat": "Naar het oordeel van de rechtbank heeft het college met het besluit van 30 november 2020 aan het voorgaande voldaan."
+  },
+  {
+   "zin": "Het beroep over te laat beslissen is niet-ontvankelijk omdat de besluiten al waren genomen.",
+   "bron": [
+    50
+   ],
+   "citaat": "De rechtbank is daarom van oordeel dat het beroep niet-ontvankelijk is wegens het ontbreken van procesbelang."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beide beroepen falen; de universiteit hoeft niets extra te doen.",
+ "gevolg_betrokkene": {
+  "zin": "De medewerker krijgt geen gelijk en geen vergoeding van proceskosten.",
+  "bron": [
+   43
+  ],
+  "citaat": "Omdat de beroepsgronden niet slagen is het beroep ongegrond. Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Ik heb geen volledige inzage gekregen in de herkomst en juistheid van mijn gegevens.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vindt dat de universiteit met het besluit van 30 november 2020 genoeg inzage heeft gegeven.",
+    "bron": [
+     37
+    ],
+    "citaat": "Naar het oordeel van de rechtbank heeft het college met het besluit van 30 november 2020 aan het voorgaande voldaan."
+   },
+   "bruikbare_zin": {
+    "citaat": "Daarbij heeft het college per persoonsgegeven het doel van de verwerking beschreven.",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "kopie-stukken",
+   "burger_zegt": "Ik wil de stukken zelf zien, niet alleen een uitdraai van gegevens.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De universiteit hoeft geen kopie van de documenten zelf te geven.",
+    "bron": [
+     36
+    ],
+    "citaat": "betekent niet dat een bestuursorgaan verplicht is een kopie te verstrekken van de documenten waarin die persoonsgegevens voorkomen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het doel van artikel 15 van de AVG is dat betrokkene zich van de verwerking op de hoogte kan stellen",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Mijn BSN en mijn functie staan onjuist of onduidelijk in de gegevens.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Voor correctie moet de medewerker een apart verzoek doen op grond van artikel 16 van de AVG.",
+    "bron": [
+     37
+    ],
+    "citaat": "kan hij een correctieverzoek doen op grond van artikel 16 van de AVG"
+   },
+   "bruikbare_zin": {
+    "citaat": "kan hij een correctieverzoek doen op grond van artikel 16 van de AVG",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De universiteit mocht niet een tweede inzagebesluit nemen naast het eerste besluit.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank ziet geen dubbele besluiten, maar een aanvulling op het eerste besluit.",
+    "bron": [
+     39
+    ],
+    "citaat": "Er is geen sprake van dubbele besluiten zoals eiser stelt, maar van een aanvulling."
+   },
+   "bruikbare_zin": {
+    "citaat": "Er is geen sprake van dubbele besluiten zoals eiser stelt, maar van een aanvulling.",
+    "bron": [
+     39
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De universiteit heeft een besluit toegezegd, maar dat besluit is nooit genomen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vindt dat het beroep niet-ontvankelijk is omdat de besluiten al waren genomen.",
+    "bron": [
+     50
+    ],
+    "citaat": "De rechtbank is daarom van oordeel dat het beroep niet-ontvankelijk is wegens het ontbreken van procesbelang."
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank is daarom van oordeel dat het beroep niet-ontvankelijk is wegens het ontbreken van procesbelang.",
+    "bron": [
+     50
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een verzoek om inzage op grond van artikel 15 AVG geeft recht op een kopie van persoonsgegevens, niet op een kopie van de documenten zelf.",
+  "type": "regel",
+  "reikwijdte": "Bij een inzageverzoek op grond van artikel 15 AVG; niet bij een verzoek om kopieën van documenten.",
+  "uitzondering": "Als de gekozen vorm niet voldoet aan het doel van artikel 15 AVG.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   36
+  ],
+  "citaat": "betekent niet dat een bestuursorgaan verplicht is een kopie te verstrekken van de documenten waarin die persoonsgegevens voorkomen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "uitdraai van persoonsgegevens",
+   "brief van 17 augustus 2020"
+  ],
+  "wat_gaf_doorslag": "De uitdraai waarop het BSN-nummer niet stond."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:RVS:2021:452",
+   "ECLI:NL:RVS:2023:3067"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 15 AVG",
+  "art. 15 lid 3 AVG",
+  "art. 16 AVG",
+  "art. 1:3 Awb",
+  "art. 6:20 lid 4 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "ict-informatiebeveiliging"
+ ],
+ "klantuitleg": "Na een datalek moet de universiteit u laten zien welke gegevens van u bij de hacker terechtkwamen en wat zij daarmee deed. Zij hoeft u niet de stukken zelf te geven; een overzicht met doelen en aan wie gegevens zijn gegeven kan genoeg zijn. Vindt u dat er fouten in uw gegevens staan, vraag dan apart om correctie; in deze zaak kreeg de klager geen gelijk.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente; universiteit is partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

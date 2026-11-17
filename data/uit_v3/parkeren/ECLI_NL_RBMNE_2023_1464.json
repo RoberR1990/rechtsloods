@@ -1,0 +1,175 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2023:1464",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Utrecht (via de Belastingsamenwerking)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeert tegen de gemeente Utrecht over een naheffing (de rekening achteraf) van 68,42 euro. De zaak ligt bij de Rechtbank Midden-Nederland, die het beroep ongegrond verklaart.",
+ "titel": "Betaald parkeren was duidelijk; rekening blijft staan",
+ "kern": {
+  "zin": "De rechter vindt de bebording bij de opritten helder genoeg, dus de naheffing blijft.",
+  "bron": [
+   20
+  ],
+  "citaat": "is bij de opritten duidelijk zichtbaar dat het een betaaldparkeerzone is"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde de parkeerder op 10 oktober 2021 een naheffing van 68,42 euro op.",
+   "bron": [
+    10
+   ],
+   "citaat": "een naheffingsaanslag parkeerbelasting opgelegd van € 68,42"
+  },
+  {
+   "zin": "De parkeerder vond de locatie onduidelijk en betaalde 4 euro bij de bioscoop, in de veronderstelling dat dat genoeg was.",
+   "bron": [
+    19
+   ],
+   "citaat": "en € 4,- betaald aan de bioscoop in de veronderstelling dat hij parkeerbelasting heeft voldaan"
+  },
+  {
+   "zin": "De rechter vindt dat een parkeerder bij het begin van het parkeren zelf moet nagaan of er betaald moet worden.",
+   "bron": [
+    20
+   ],
+   "citaat": "mag van eiser als parkeerder verwacht worden dat hij bij aanvang van het parkeren voldoende onderzoekt"
+  },
+  {
+   "zin": "Een te late beslissing op bezwaar leidt niet vanzelf tot vernietiging.",
+   "bron": [
+    18
+   ],
+   "citaat": "zijn geen fatale termijnen, maar termijnen van orde"
+  },
+  {
+   "zin": "De parkeerder krijgt het griffierecht (het bedrag voor de rechter) niet terug.",
+   "bron": [
+    23
+   ],
+   "citaat": "Eiser krijgt daarom het griffierecht niet terug"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft, griffierecht niet terug.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing van 68,42 euro betalen en krijgt het griffierecht niet terug.",
+  "bron": [
+   23,
+   10
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "De parkeerlocatie was onduidelijk en de garage was niet toegankelijk.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt de bebording bij de opritten helder genoeg, dus deze klacht faalt.",
+    "bron": [
+     20
+    ],
+    "citaat": "is bij de opritten duidelijk zichtbaar dat het een betaaldparkeerzone is"
+   },
+   "bruikbare_zin": {
+    "citaat": "Er kan redelijkerwijs geen misverstand bestaan over de verschuldigdheid van de parkeerbelasting",
+    "bron": [
+     20
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij betaalde bij de bioscoop in de veronderstelling dat dat voldoende was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een verkeerde aanname over de kaart maakt de naheffing niet ongeldig.",
+    "bron": [
+     21
+    ],
+    "citaat": "Dit misverstand betekent echter niet dat verweerder de verschuldigde parkeerbelasting via de naheffingsaanslag mag naheffen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dit misverstand betekent echter niet dat verweerder de verschuldigde parkeerbelasting",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente besliste te laat op het bezwaar.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een te late beslissing leidt niet automatisch tot vernietiging van het besluit.",
+    "bron": [
+     18
+    ],
+    "citaat": "zijn geen fatale termijnen, maar termijnen van orde"
+   },
+   "bruikbare_zin": {
+    "citaat": "Overschrijding van de termijnen betekent daarom niet dat de beslissing op bezwaar reeds op die grond voor vernietiging in aanmerking komt",
+    "bron": [
+     18
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente moet parkeerders goed informeren over de plekken waar betaald moet worden.",
+  "bron": [
+   20
+  ],
+  "citaat": "Op verweerder rust de plicht om parkeerders deugdelijk te informeren",
+  "type": "regel",
+  "reikwijdte": "betaald parkeren: bebording en informatie over de locaties",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "bebording betaald parkeren bij de opritten",
+   "informatie over betaald parkeren in Utrecht"
+  ],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 7:10 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet bij betaald parkeren duidelijk neer dat een kaart van een parkeergarage niet geldt voor straatparkeren.",
+   "raakt": "communicatie",
+   "bron": [
+    21
+   ],
+   "citaat": "een uitrijkaart voor de parkeergarage Leidsche Rijn Centrum gekocht in de veronderstelling"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "communicatie"
+ ],
+ "klantuitleg": "Bij betaald parkeren moet u betalen, ook als u de regels niet direct ziet. Een kaart van een parkeergarage betaalt niet vanzelf het parkeren op straat, dus controleer dat voordat u weggaat. Bezwaar maken omdat de borden onduidelijk waren, heeft weinig kans als de borden duidelijk zijn.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

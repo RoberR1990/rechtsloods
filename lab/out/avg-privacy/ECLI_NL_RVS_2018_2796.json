@@ -1,0 +1,190 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2018:2796",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De vrouw wilde haar gegevens in de basisregistratie personen (BRP) laten veranderen, maar de gemeente Den Haag weigerde dat. De Raad van State oordeelde in hoger beroep dat de gemeente dat mocht weigeren.",
+ "titel": "Geen wijziging van BRP-gegevens zonder onomstotelijk bewijs",
+ "kern": {
+  "zin": "De Raad van State vindt dat de gemeente de BRP-gegevens terecht niet wijzigt, omdat de vrouw niet onomstotelijk heeft aangetoond dat de huidige gegevens onjuist zijn.",
+  "bron": [
+   32
+  ],
+  "citaat": "niet onomstotelijk heeft aangetoond dat de thans in de brp opgenomen gegevens onjuist zijn"
+ },
+ "samenvatting": [
+  {
+   "zin": "De vrouw vroeg de gemeente om haar naam, geboorteplaats en nationaliteit in de BRP te veranderen.",
+   "bron": [
+    20
+   ],
+   "citaat": "verzocht om haar gegevens te wijzigen in [voornaam] [..] [appellante], geboren in Takoradi (Ghana), van Ghanese nationaliteit"
+  },
+  {
+   "zin": "De vrouw zei dat zij met een verklaring van de Togolese ambassade genoeg bewijs had dat de gegevens over haar nationaliteit niet klopten.",
+   "bron": [
+    26
+   ],
+   "citaat": "met de verklaring van de Togolese ambassade onomstotelijk heeft aangetoond dat zij niet de Togolese nationaliteit heeft"
+  },
+  {
+   "zin": "Het college zei dat niet vast te stellen was of de huidige gegevens onjuist zijn en of de nieuwe gegevens wel juist zijn en bij haar horen.",
+   "bron": [
+    22
+   ],
+   "citaat": "niet kan worden vastgesteld of de thans geregistreerde persoonsgegevens onjuist zijn"
+  },
+  {
+   "zin": "De Raad van State oordeelde dat de vrouw niet onomstotelijk had bewezen dat haar gegevens in de BRP onjuist zijn.",
+   "bron": [
+    32
+   ],
+   "citaat": "niet onomstotelijk heeft aangetoond dat de thans in de brp opgenomen gegevens onjuist zijn"
+  },
+  {
+   "zin": "Het hoger beroep van de vrouw faalt en de eerdere uitspraak blijft staan.",
+   "bron": [
+    34
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De gemeente hoeft de BRP-gegevens niet te wijzigen.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de vrouw verandert er niets: haar verzoek blijft afgewezen en zij krijgt geen proceskosten vergoed.",
+  "bron": [
+   32
+  ],
+  "citaat": "Het college heeft terecht geweigerd de brp op de door [appellante] gewenste wijze te wijzigen"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Mijn gegevens in de BRP zijn onjuist en moeten worden aangepast.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "In de BRP staat niet dat zij de Togolese nationaliteit heeft, maar dat haar nationaliteit onbekend is.",
+    "bron": [
+     28
+    ],
+    "citaat": "in de brp niet opgenomen dat zij de Togolese nationaliteit heeft"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet onomstotelijk heeft aangetoond dat de thans in de brp opgenomen gegevens onjuist zijn",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente had onderzoek moeten doen naar de brongegevens van mijn paspoort.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Raad van State ziet niet in hoe nader onderzoek naar het paspoort de gemeente verder had kunnen helpen.",
+    "bron": [
+     30
+    ],
+    "citaat": "Niet valt in te zien hoe nader onderzoek naar het overgelegde Ghanese paspoort het college had kunnen leiden"
+   },
+   "bruikbare_zin": {
+    "citaat": "Niet valt in te zien hoe nader onderzoek naar het overgelegde Ghanese paspoort het college had kunnen leiden",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente had een lichtere toets moeten doen bij mijn verzoek.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De eerdere uitspraak waar zij naar verwijst leidt niet tot een lichtere toets in dit geval.",
+    "bron": [
+     31
+    ],
+    "citaat": "niet de conclusie verbonden dat het college in dit geval een lichtere toets had moeten verrichten"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet de conclusie verbonden dat het college in dit geval een lichtere toets had moeten verrichten",
+    "bron": [
+     31
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor het wijzigen van gegevens in de BRP moet onomstotelijk vaststaan dat de gegevens onjuist zijn.",
+  "type": "regel",
+  "reikwijdte": "Bij een verzoek om gegevens in de BRP te wijzigen.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   27
+  ],
+  "citaat": "onomstotelijk vaststaan dat de gegevens onjuist zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "kopie inschrijving Ghanese geboorteregister",
+   "Ghanees paspoort",
+   "verklaring Togolese ambassade"
+  ],
+  "wat_gaf_doorslag": "De documenten waren echt, maar niet aannemelijk was dat ze op de vrouw betrekking hadden."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2016:232",
+   "ECLI:NL:RVS:2016:305",
+   "ECLI:NL:RVS:2016:1584",
+   "ECLI:NL:RVS:2015:2229"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2.17 Wet brp"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Blijf bij een verzoek om BRP-wijziging de strenge toets gebruiken: wijzig alleen als onomstotelijk vaststaat dat de gegevens onjuist zijn.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    27
+   ],
+   "citaat": "onomstotelijk vaststaan dat de gegevens onjuist zijn"
+  },
+  {
+   "actie": "Controleer bij nieuwe documenten of de voornaam, geboorteplaats, het geboorteland en de namen van de ouders overeenkomen met de BRP.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    29
+   ],
+   "citaat": "de voornaam, de geboorteplaats en het geboorteland van [appellante] alsmede de namen van haar ouders op die documenten afwijken"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "De gemeente mag uw gegevens in de BRP pas aanpassen als heel zeker is dat de oude gegevens fout zijn. Dat was hier niet zo. Wilt u toch een aanpassing vragen, laat dan documenten zien die duidelijk bij u horen en leg uit waarom de oude gegevens niet kloppen.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

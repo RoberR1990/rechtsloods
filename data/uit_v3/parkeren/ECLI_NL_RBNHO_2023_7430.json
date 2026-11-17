@@ -1,0 +1,171 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2023:7430",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een boete omdat zijn motorvoertuig op een blauwe streep stond zonder duidelijk geplaatste parkeerschijf. Hij ging via zijn gemachtigde in beroep bij de kantonrechter van de rechtbank Noord-Holland, tegen de officier van justitie.",
+ "titel": "Boete blijft staan, ook al werd de parkeerder niet gehoord",
+ "kern": {
+  "zin": "De kantonrechter vernietigde het besluit van de officier, omdat de parkeerder niet fysiek was gehoord, maar verlaagde de boete niet.",
+  "bron": [
+   22,
+   23
+  ],
+  "citaat": "De gemachtigde en betrokkene zijn namelijk niet ‘fysiek’ gehoord door de officier van justitie."
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete voor het staan op een blauwe streep zonder duidelijk geplaatste parkeerschijf.",
+   "bron": [
+    15
+   ],
+   "citaat": "motorvoertuig op meer dan twee wielen parkeren bij blauwe streep"
+  },
+  {
+   "zin": "De parkeerder vroeg om een verlaging van 25%, omdat hij niet was gehoord.",
+   "bron": [
+    21
+   ],
+   "citaat": "De gemachtigde van betrokkene heeft gesteld dat de boete moet worden verlaagd met 25%"
+  },
+  {
+   "zin": "De officier wilde de beslissing handhaven en het beroep ongegrond laten verklaren.",
+   "bron": [
+    19
+   ],
+   "citaat": "heeft de kantonrechter verzocht om het beroep ongegrond te verklaren."
+  },
+  {
+   "zin": "De kantonrechter oordeelde dat de hoorplicht was geschonden en vernietigde daarom het besluit van de officier.",
+   "bron": [
+    22
+   ],
+   "citaat": "Het beroep is daarom gegrond en de beslissing van de officier van justitie zal worden vernietigd"
+  },
+  {
+   "zin": "De boete bleef staan, omdat de parkeerder een gemachtigde had en dus anders zat dan in de zaak van het hof.",
+   "bron": [
+    23
+   ],
+   "citaat": "In dit geval gaat het niet om een betrokkene die zonder professioneel gemachtigde in beroep is gegaan"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Hoorplicht geschonden, maar boete blijft staan en geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de parkeerder blijft de boete staan, zonder vergoeding van proceskosten.",
+  "bron": [
+   31,
+   33
+  ],
+  "citaat": "De boete is dus terecht opgelegd."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De parkeerder is niet gehoord door de officier van justitie.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De kantonrechter vond dat de parkeerder niet fysiek was gehoord en dat er geen toestemming was om dat achterwege te laten.",
+    "bron": [
+     22
+    ],
+    "citaat": "Er is ook geen toestemming gegeven om daarvan af te zien."
+   },
+   "bruikbare_zin": {
+    "citaat": "De gemachtigde en betrokkene zijn namelijk niet ‘fysiek’ gehoord door de officier van justitie.",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De boete moet met 25% omlaag, omdat de parkeerder niet is gehoord.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter zag geen reden om de boete te verlagen, omdat de parkeerder een gemachtigde had.",
+    "bron": [
+     23
+    ],
+    "citaat": "In dit geval gaat het niet om een betrokkene die zonder professioneel gemachtigde in beroep is gegaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "Bovendien is die gemachtigde door de officier van justitie in de gelegenheid gesteld om telefonisch te worden gehoord",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er was geen akte van beëdiging van de verbalisant en de functionaris had geen mandaat om te beëdigen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter zag geen aanleiding om te twijfelen aan de bevoegdheid van de ambtenaar.",
+    "bron": [
+     25
+    ],
+    "citaat": "doet een dergelijke twijfel niet ontstaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "De enkele omstandigheid dat de gemachtigde de akte van beëdiging van de betreffende ambtenaar niet heeft kunnen achterhalen",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een verklaring van de verbalisant, met foto's erbij, was hier genoeg om de gedraging te bewijzen.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "deze zaak: aanvullende verklaring van de verbalisant met foto's",
+  "uitzondering": "als de parkeerder feiten aanvoert die twijfel wekken",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   31
+  ],
+  "citaat": "Betrokkene heeft onvoldoende feiten en omstandigheden aangevoerd die aanleiding geven om te twijfelen aan de verklaring van de verbalisant."
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "aanvullende verklaring verbalisant",
+   "foto's"
+  ],
+  "wat_gaf_doorslag": "De verklaring van de verbalisant, met foto's, was voldoende; de parkeerder wekte geen twijfel."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "wijkt af",
+  "eerdere": [
+   "ECLI:NL:GHARL:2022:9934",
+   "ECLI:NL:GHARL:2019:10797",
+   "ECLI:NL:GHARL:2020:3336"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 9 WAHV",
+  "art. 14 WAHV"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "klantcontact"
+ ],
+ "klantuitleg": "Een boete is terecht als de parkeerder de regels heeft overtreden en de controleur dat kan aantonen. Een fout bij het horen leidt niet altijd tot een lagere boete, omdat de rechter naar de hele situatie kijkt. Heeft u een bewijs dat twijfel wekt over de verklaring van de controleur, dan kan beroep zin hebben.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente partij; boete door officier van justitie",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

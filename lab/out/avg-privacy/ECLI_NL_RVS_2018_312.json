@@ -1,0 +1,173 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2018:312",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "zoekslag",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "minister van Justitie en Veiligheid",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De burger vroeg de minister om inzage in alle persoonsgegevens en correspondentie over hem. De minister vond niets en de burger ging in hoger beroep bij de Raad van State.",
+ "titel": "Zoekactie naar persoonsgegevens was zorgvuldig genoeg",
+ "kern": {
+  "zin": "De Raad van State vindt dat de minister zorgvuldig genoeg heeft gezocht en dat de burger niet aannemelijk maakte dat er toch correspondentie was.",
+  "bron": [
+   40
+  ],
+  "citaat": "heeft de rechtbank, gelet op deze toelichting, terecht geoordeeld dat het onderzoek zorgvuldig is geweest"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de minister om alle informatie en correspondentie over hem.",
+   "bron": [
+    19
+   ],
+   "citaat": "verzoek op grond van artikel 35, eerste lid, van de Wbp"
+  },
+  {
+   "zin": "De minister zei dat hij die correspondentie niet had gevonden.",
+   "bron": [
+    22
+   ],
+   "citaat": "geen correspondentie in het door het ministerie gebruikte postregistratiesysteem Digijust"
+  },
+  {
+   "zin": "De burger vond dat ongeloofwaardig en dat er niet goed was gezocht.",
+   "bron": [
+    23
+   ],
+   "citaat": "dat de enkele mededeling van de minister dat hij bedoelde correspondentie niet heeft aangetroffen ongeloofwaardig is"
+  },
+  {
+   "zin": "De rechter vond dat de minister zorgvuldig had gezocht.",
+   "bron": [
+    40
+   ],
+   "citaat": "terecht geoordeeld dat het onderzoek zorgvuldig is geweest"
+  },
+  {
+   "zin": "Het hoger beroep van de burger is ongegrond.",
+   "bron": [
+    46
+   ],
+   "citaat": "Het hoger beroep is ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; de uitspraak blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "Het hoger beroep is ongegrond en de burger krijgt geen proceskosten vergoed.",
+  "bron": [
+   47
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "Er is niet goed genoeg gezocht in de systemen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De minister heeft uitgelegd dat in meerdere systemen en e-mailboxen is gezocht, en de rechter vond dat genoeg.",
+    "bron": [
+     40
+    ],
+    "citaat": "het onderzoek naar de verwerkte persoonsgegevens van [appellant] is verricht door daartoe bevoegde personen"
+   },
+   "bruikbare_zin": {
+    "citaat": "het onderzoek naar de verwerkte persoonsgegevens van [appellant] is verricht door daartoe bevoegde personen",
+    "bron": [
+     40
+    ]
+   }
+  },
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Ik heb niet alles gekregen wat ik vroeg.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger maakte niet aannemelijk dat er toch gegevens zijn verwerkt.",
+    "bron": [
+     41
+    ],
+    "citaat": "heeft [appellant] niet aannemelijk gemaakt dat desondanks persoonsgegevens zijn verwerkt"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft [appellant] niet aannemelijk gemaakt dat desondanks persoonsgegevens zijn verwerkt",
+    "bron": [
+     41
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De rechtbank was partijdig.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag geen bewijs dat de rechtbank partijdig was.",
+    "bron": [
+     30
+    ],
+    "citaat": "is het de Afdeling niet gebleken dat de rechtbank niet onpartijdig is geweest"
+   },
+   "bruikbare_zin": {
+    "citaat": "is het de Afdeling niet gebleken dat de rechtbank niet onpartijdig is geweest",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Zegt een bestuursorgaan dat een document er na onderzoek niet is en is dat niet ongeloofwaardig, dan moet de verzoeker zelf aannemelijk maken dat het document er toch is.",
+  "type": "regel",
+  "reikwijdte": "Inzageverzoeken waarbij het bestuursorgaan zegt dat een document niet onder hem berust.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   39
+  ],
+  "citaat": "wanneer een bestuursorgaan stelt dat na onderzoek is gebleken dat een bepaald document niet of niet meer onder hem berust"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "toelichting van de minister ter zitting",
+   "zoektermen in de systemen"
+  ],
+  "wat_gaf_doorslag": "De toelichting van de minister dat in meerdere systemen en e-mailboxen is gezocht."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2013:121",
+   "ECLI:NL:RVS:2016:788"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1 Wbp",
+  "art. 35 lid 1 Wbp",
+  "art. 35 lid 2 Wbp",
+  "art. 35 lid 4 Wbp",
+  "art. 45 Wbp",
+  "art. 6 EVRM"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Als u vraagt welke gegevens de overheid over u heeft, moet zij goed in alle systemen zoeken. Zegt zij dat er niets is, dan moet u zelf aannemelijk maken dat er toch iets is. In deze zaak vond de rechter dat de minister genoeg had gezocht, dus u moet met duidelijke aanwijzingen komen als u vindt dat er wel iets is.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "minister is partij, geen gemeente",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

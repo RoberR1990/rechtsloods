@@ -1,0 +1,157 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2021:9428",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging in beroep tegen een Wahv-boete (de wet voor verkeersovertredingen) voor parkeren in een parkeerverbodszone met bord E1. De kantonrechter bij de rechtbank Noord-Holland vond de boete terecht.",
+ "titel": "Parkeren buiten de vakken: boete terecht, overmacht niet geaccepteerd",
+ "kern": {
+  "zin": "De kantonrechter oordeelde dat de auto buiten de vakken stond en dat overmacht hier niet telt, omdat de parkeerder het anders had kunnen oplossen.",
+  "bron": [
+   16
+  ],
+  "citaat": "Het beroep op overmacht slaagt niet, nu betrokkene dit anders kon en had moeten oplossen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete voor parkeren in strijd met een parkeerverbod.",
+   "bron": [
+    14
+   ],
+   "citaat": "parkeren in strijd met parkeerverbod/parkeerverbodszone (bord E1)"
+  },
+  {
+   "zin": "De parkeerder was het niet eens met de boete van de officier van justitie.",
+   "bron": [
+    15
+   ],
+   "citaat": "Betrokkene is het niet eens met de beslissing van de officier van justitie"
+  },
+  {
+   "zin": "De kantonrechter vertrouwde op de verklaring van de verbalisant over de auto buiten de vakken.",
+   "bron": [
+    16
+   ],
+   "citaat": "met name uit de verklaring van de verbalisant"
+  },
+  {
+   "zin": "Het wegbrengen van boodschappen telt niet als laden en lossen.",
+   "bron": [
+    16
+   ],
+   "citaat": "valt niet onder laden en lossen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete blijft staan; overmacht en laden en lossen niet erkend.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de boete betalen, zonder matiging en zonder proceskosten.",
+  "bron": [
+   17,
+   18
+  ],
+  "citaat": "De boete is dus terecht opgelegd"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "De parkeerder zei dat hij boodschappen naar een woning bracht, dus laden en lossen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter zag geen laden en lossen, omdat de verbalisant tien minuten keek en niets zag gebeuren.",
+    "bron": [
+     16
+    ],
+    "citaat": "er geen laad- en losactiviteiten zijn waargenomen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Boodschappen wegbrengen naar een woning, zoals betrokkene aangeeft, valt niet onder laden en lossen",
+    "bron": [
+     16
+    ]
+   }
+  },
+  {
+   "arg": "overmacht-medisch",
+   "burger_zegt": "Door overmacht kon de parkeerder niet beter parkeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter vond dat de parkeerder het anders had kunnen oplossen.",
+    "bron": [
+     16
+    ],
+    "citaat": "nu betrokkene dit anders kon en had moeten oplossen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het beroep op overmacht slaagt niet",
+    "bron": [
+     16
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De boete was te hoog en moest worden gematigd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter zag geen reden om de boete te matigen.",
+    "bron": [
+     17
+    ],
+    "citaat": "ziet in hetgeen betrokkene heeft aangevoerd ook geen reden om de boete te matigen"
+   },
+   "bruikbare_zin": {
+    "citaat": "ziet in hetgeen betrokkene heeft aangevoerd ook geen reden om de boete te matigen",
+    "bron": [
+     17
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeren mag alleen in de daartoe bestemde vakken, of stilstaan bij laden en lossen.",
+  "type": "regel",
+  "reikwijdte": "parkeerverbodszone met bord E1 en vakken op de weg",
+  "uitzondering": "stilstaan bij laden en lossen; boodschappen naar een woning vallen daar niet onder",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   16
+  ],
+  "citaat": "Het is toegestaan om te parkeren in de daartoe bestemde vakken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring verbalisant"
+  ],
+  "wat_gaf_doorslag": "De verklaring van de verbalisant over de tien minuten waarneming."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 9 WAHV"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "klantcontact"
+ ],
+ "klantuitleg": "Een boete is terecht als uw auto buiten de aangegeven vakken stond en u niet aan een uitzondering voldeed. Boodschappen naar een woning brengen telt niet als laden en lossen, en een beperkt aanbod van parkeerplaatsen is geen geldige reden om buiten de vakken te parkeren. Heeft u een echte noodsituatie, dan helpt alleen bewijs; zonder bewijs heeft bezwaar op dit punt weinig kans.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "niet genoemd in de uitspraak",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

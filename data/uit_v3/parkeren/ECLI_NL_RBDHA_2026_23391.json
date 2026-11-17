@@ -1,0 +1,129 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2026:23391",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "privaat-boete-voorwaarden",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {
+  "burger": "kentekenhouder (particulier)",
+  "wederpartij": "exploitant (Q-Park)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "De exploitant Q-Park vorderde bij de kantonrechter van de rechtbank Den Haag geld van de kentekenhouder. Het ging om een uitrit zonder betaling, waarbij de auto direct achter een andere auto onder de slagboom door reed.",
+ "titel": "Geen betaling aan Q-Park: de kentekenhouder reed niet zelf",
+ "kern": {
+  "zin": "De vordering werd afgewezen, omdat de kentekenhouder onderbouwde dat een ander reed.",
+  "bron": [
+   45,
+   47
+  ],
+  "citaat": "is van oordeel dat in deze zaak voldoende onderbouwd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 11 november 2025 reed de auto zonder geldig parkeerbewijs de garage uit.",
+   "bron": [
+    31
+   ],
+   "citaat": "zonder gebruikmaking van een geldig parkeerbewijs"
+  },
+  {
+   "zin": "Q-Park eiste € 442,07 van de kentekenhouder.",
+   "bron": [
+    33
+   ],
+   "citaat": "veroordeelt tot betaling van € 442,07"
+  },
+  {
+   "zin": "De kentekenhouder zei dat een ander de auto bestuurde.",
+   "bron": [
+    43
+   ],
+   "citaat": "heeft [gedaagde] aangevoerd dat niet zij maar"
+  },
+  {
+   "zin": "Het vermoeden over de bestuurder valt weg zodra de stelling goed is onderbouwd.",
+   "bron": [
+    44
+   ],
+   "citaat": "Als echter voldoende onderbouwd gesteld wordt dat de kentekenhouder niet de bestuurder is geweest"
+  },
+  {
+   "zin": "Volgens de kantonrechter gaf Q-Park zelf toe dat een ander had gereden.",
+   "bron": [
+    45
+   ],
+   "citaat": "Hiermee heeft Q-Park naar het oordeel van de kantonrechter erkend dat"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Vordering afgewezen; Q-Park betaalt proceskosten van € 50",
+ "gevolg_betrokkene": {
+  "zin": "Het tarief van € 2,00 en de schadevergoeding van € 382,41 vallen weg, en Q-Park betaalt € 50,00 proceskosten.",
+  "bron": [
+   47,
+   58
+  ],
+  "citaat": "hoeft het tarief voor een verloren parkeerkaart van € 2,00"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Niet zij maar een ander reed de auto, en dat is ter zitting bevestigd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De kantonrechter vond dat de kentekenhouder genoeg had onderbouwd dat een ander reed.",
+    "bron": [
+     45
+    ],
+    "citaat": "is van oordeel dat in deze zaak voldoende onderbouwd"
+   },
+   "bruikbare_zin": {
+    "citaat": "De vordering van Q-park kan dan niet worden gegrond op de stelling",
+    "bron": [
+     45
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie kentekenhouder is, wordt vermoed de bestuurder te zijn, maar dat vermoeden kan worden weerlegd.",
+  "type": "regel",
+  "reikwijdte": "vorderingen tegen de kentekenhouder van een auto die de garage verliet",
+  "uitzondering": "als voldoende is onderbouwd dat de kentekenhouder niet de bestuurder was",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   44
+  ],
+  "citaat": "vermoeden rechtvaardigt dat de kentekenhouder ook de bestuurder was"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring van de kentekenhouder",
+   "verklaring van de bestuurder ter zitting"
+  ],
+  "wat_gaf_doorslag": "De gemachtigde van Q-Park zei ter zitting dat zij een andere partij had gedagvaard."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 5.5 algemene voorwaarden Q-Park",
+  "Richtlijn 93/13/EG (oneerlijke bedingen)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [],
+ "klantuitleg": "Staat de auto op uw naam, dan wordt vaak gedacht dat u ook de bestuurder was. Kunt u goed aantonen dat iemand anders reed, dan hoeft u misschien niet te betalen. Dit gaat over een private parkeergarage, dus de gemeente speelt hierin geen rol.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

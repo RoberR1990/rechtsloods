@@ -1,0 +1,181 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2020:900",
+ "relevant": true,
+ "onderwerp": "schade-aansprakelijkheid",
+ "sub": "immateriele-schade",
+ "kenmerk": null,
+ "zaaktype": "schadevergoeding",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "gemeente Borsele",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger wilde € 7.500 schadevergoeding van de gemeente Borsele, omdat zijn naam op een besloten forum voor gemeenten stond. De Raad van State beslist als eerste en enige rechter.",
+ "titel": "Naam op gemeenteforum: geen schadevergoeding zonder onderbouwing",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente niet onrechtmatig handelde en dat de burger zijn schade niet onderbouwde.",
+  "bron": [
+   93
+  ],
+  "citaat": "In deze zaak beslist de Afdeling dat [appellant] geen aanspraak kan maken op een schadevergoeding"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een medewerker van de gemeente zette twee berichten over een Wob-verzoek van de burger op het VNG-Forum.",
+   "bron": [
+    28
+   ],
+   "citaat": "een medewerker van de gemeente twee berichten over een verzoek van [appellant] op grond van de Wob, heeft geplaatst op het VNG-Forum"
+  },
+  {
+   "zin": "De burger zei dat hij de controle over zijn persoonsgegevens verloor en vroeg € 7.500 schadevergoeding.",
+   "bron": [
+    36
+   ],
+   "citaat": "Hij stelt immateriële schade te hebben geleden, omdat hij de controle over zijn persoonsgegevens heeft verloren"
+  },
+  {
+   "zin": "De gemeente zei dat artikel 82 van de AVG geen eigen grondslag voor schadevergoeding geeft.",
+   "bron": [
+    38
+   ],
+   "citaat": "Het college stelt dat artikel 82 van de AVG geen zelfstandige grondslag biedt voor vergoeding van schade"
+  },
+  {
+   "zin": "De rechter vond het noemen van de naam nodig en evenredig om misbruik van de Wob tegen te gaan.",
+   "bron": [
+    62
+   ],
+   "citaat": "Het doel van de verwerking staat in verhouding tot de inbreuk op de privacy van [appellant] en kon niet met minder ingrijpende middelen worden bereikt"
+  },
+  {
+   "zin": "De burger maakte niet aannemelijk dat het te late informeren hem persoonlijk had getroffen.",
+   "bron": [
+    85
+   ],
+   "citaat": "heeft niet aannemelijk gemaakt dat het niet tijdig volledig informeren over de verwerking van persoonsgegevens heeft geleid tot de aantasting van de persoon"
+  },
+  {
+   "zin": "Het verzoek om schadevergoeding is afgewezen.",
+   "bron": [
+    89
+   ],
+   "citaat": "Het verzoek om schadevergoeding wordt afgewezen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Schadeverzoek afgewezen; wel proceskosten en griffierecht vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen schadevergoeding, maar de gemeente betaalt € 262,50 proceskosten en € 174 griffierecht; eerder kreeg hij al € 512 voor zijn bezwaarschrift.",
+  "bron": [
+   98,
+   99,
+   30
+  ],
+  "citaat": "tot een bedrag van € 262,50 (zegge tweehonderdtweeënzestig euro en vijftig cent)"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Het plaatsen van mijn naam op het forum was onrechtmatig en heeft mij schade gedaan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het noemen van de naam was nodig om misbruik van de Wob na te gaan en kon niet minder ingrijpend.",
+    "bron": [
+     62
+    ],
+    "citaat": "Het vermelden van de naam van [appellant] was noodzakelijk, omdat alleen op die manier kon worden nagegaan of hij bij meerdere gemeenten Wob-verzoeken had ingediend"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het was evenmin bovenmatig om deze gegevens te delen op het VNG-Forum",
+    "bron": [
+     62
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente informeerde mij te laat over de verwerking; dat is zelf al immateriële schade.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een inbreuk op de AVG betekent niet zonder meer schade; de burger moest die met concrete gegevens onderbouwen.",
+    "bron": [
+     81
+    ],
+    "citaat": "Er is geen grond voor het oordeel dat een inbreuk op de AVG zonder meer een aantasting van de integriteit van een persoon impliceert"
+   },
+   "bruikbare_zin": {
+    "citaat": "de aantasting in zijn persoon moet bewijzen en de door hem geleden schade met concrete gegevens moet onderbouwen",
+    "bron": [
+     84
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een inbreuk op de AVG geeft niet automatisch recht op schadevergoeding; de burger moet de schade met concrete gegevens onderbouwen.",
+  "type": "regel",
+  "reikwijdte": "Immateriële schade door onrechtmatige verwerking door een bestuursorgaan (art. 82 AVG)",
+  "uitzondering": "Onderbouwing is niet nodig als de nadelige gevolgen door de aard en ernst van de normschending voor de hand liggen.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   81
+  ],
+  "citaat": "Er is geen grond voor het oordeel dat een inbreuk op de AVG zonder meer een aantasting van de integriteit van een persoon impliceert en daarmee tot vergoedbare schade leidt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De burger onderbouwde zijn schade niet met concrete gegevens en de naam op het forum was niet onrechtmatig."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2010:BN4952",
+   "ECLI:NL:HR:2019:376",
+   "ECLI:NL:HR:2019:793",
+   "ECLI:NL:HR:2019:1278"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 82 AVG",
+  "art. 6 lid 1 onder e AVG",
+  "art. 8:88 Awb",
+  "art. 34 Uitvoeringswet AVG",
+  "art. 6:106 BW",
+  "art. 8 onder e Wbp"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Geef een intern overlegplatform alleen open voor medewerkers met een functie die erbij hoort.",
+   "raakt": "privacy-fg",
+   "bron": [
+    62
+   ],
+   "citaat": "hadden voor het onderdeel Wob/gemeenten van het VNG-Forum alleen degenen toegang die een specifieke functie hebben, gerelateerd aan de behandeling van Wob-verzoeken"
+  },
+  {
+   "actie": "Geef op een inzageverzoek op tijd een volledig overzicht van de verwerkte gegevens.",
+   "raakt": "klantcontact",
+   "bron": [
+    65
+   ],
+   "citaat": "staat vast dat het college niet tijdig een overzicht heeft verstrekt van de op het VNG-Forum geplaatste gegevens"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "woo-openbaarheid",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een inbreuk op uw privacy betekent niet automatisch dat u schadevergoeding krijgt. U moet zelf laten zien welke schade u hebt, met concrete gegevens, bijvoorbeeld geestelijk letsel. Vraagt u schadevergoeding, leg dan precies uit en onderbouw wat u is overkomen.",
+ "gemeente": "Borsele",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

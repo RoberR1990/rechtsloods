@@ -1,0 +1,143 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2025:7418",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente (heffing via de Belastingsamenwerking gemeenten & hoogheemraadschap Utrecht)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeert tegen een naheffing parkeerbelasting, het bedrag dat achteraf wordt gevraagd. Het gaat tegen de gemeente bij de rechtbank Midden-Nederland, zittingsplaats Utrecht.",
+ "titel": "Parkeerder moet betalen: defecte automaat is geen geldige reden",
+ "kern": {
+  "zin": "Volgens de rechter telt een kapotte automaat niet als geldige reden om niet te betalen, dus het beroep faalt.",
+  "bron": [
+   19
+  ],
+  "citaat": "Een defecte parkeerautomaat is geen geldige reden om geen parkeerbelasting te hoeven voldoen."
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde een naheffing op omdat de auto op 31 december 2023 in Utrecht stond zonder betaling.",
+   "bron": [
+    16
+   ],
+   "citaat": "op 31 december 2023 om 10:37 uur aan het Smaragdplein in Utrecht stond geparkeerd zonder dat"
+  },
+  {
+   "zin": "Volgens de parkeerder was de automaat op die dag niet in orde.",
+   "bron": [
+    17
+   ],
+   "citaat": "de parkeerautomaat op het Smaragdplein defect was op 31 december 2023"
+  },
+  {
+   "zin": "Volgens de gemeente stonden er twee automaten in de buurt, en er was op die dag geen storing gemeld.",
+   "bron": [
+    18
+   ],
+   "citaat": "Daar blijkt niet uit dat er op die dag een storing is geregistreerd"
+  },
+  {
+   "zin": "De rechter vond dat de parkeerder geen controleerbaar bewijs van een storing had.",
+   "bron": [
+    19
+   ],
+   "citaat": "Eiser heeft geen objectief, verifieerbaar bewijs overlegd waaruit blijkt dat er ten tijde van de poging"
+  },
+  {
+   "zin": "De rechter wijst erop dat de parkeerder ook via een andere automaat of een app had kunnen betalen.",
+   "bron": [
+    19
+   ],
+   "citaat": "Eiser had de parkeerbelasting op een andere manier kunnen voldoen, bijvoorbeeld door betaling bij een andere parkeerautomaat"
+  },
+  {
+   "zin": "Ook proceskosten vergoedt de rechter niet.",
+   "bron": [
+    21
+   ],
+   "citaat": "Hij krijgt ook geen vergoeding van zijn proceskosten."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; defecte automaat niet aangetoond, betaling elders mogelijk",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan, het griffierecht gaat niet terug en de proceskosten worden niet vergoed.",
+  "bron": [
+   21
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug. Hij krijgt ook geen vergoeding van zijn proceskosten."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "Hij vindt dat hij niet hoefde te betalen, omdat de automaat op die dag kapot was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag geen bewijs van een storing en vond dat de parkeerder op een andere manier had kunnen betalen.",
+    "bron": [
+     19
+    ],
+    "citaat": "Eiser heeft geen objectief, verifieerbaar bewijs overlegd waaruit blijkt dat er ten tijde van de poging"
+   },
+   "bruikbare_zin": {
+    "citaat": "Een defecte parkeerautomaat is geen geldige reden om geen parkeerbelasting te hoeven voldoen.",
+    "bron": [
+     19
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De parkeerder draagt zelf de zorg dat betaling op tijd is, van het begin tot het eind van het parkeren.",
+  "type": "regel",
+  "reikwijdte": "parkeren op een betaald parkeerplaats",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "Het behoort tot de verantwoordelijkheid van een parkeerder om ervoor te zorgen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "overzicht van parkeertransacties en storingen"
+  ],
+  "wat_gaf_doorslag": "De parkeerder had geen bewijs dat de automaat op dat moment kapot was."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij een bezwaar over een storing het overzicht van transacties en storingen van de betreffende automaat over.",
+   "raakt": "bezwaar",
+   "bron": [
+    18
+   ],
+   "citaat": "De heffingsambtenaar heeft een overzicht overgelegd van de parkeertransacties en eventuele storingen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een naheffing blijft staan als u niet kunt aantonen dat de automaat kapot was. U moet zelf op tijd betalen, bijvoorbeeld met een app of bij een andere automaat. Heeft u bewijs van een storing, zoals een foto of melding, dan kan dat helpen; zonder bewijs heeft bezwaar weinig kans.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "samenwerking van gemeenten; geen enkele gemeente genoemd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

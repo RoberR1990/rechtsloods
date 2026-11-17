@@ -1,0 +1,134 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2023:6865",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente (heffingsambtenaar van de Belastingsamenwerking)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing parkeerbelasting, omdat zijn auto pas later was aangemeld. Hij ging naar de rechtbank Midden-Nederland, tegen de heffingsambtenaar van de Belastingsamenwerking gemeenten.",
+ "titel": "Parkeerapp werkte niet: risico ligt bij de parkeerder",
+ "kern": {
+  "zin": "Een kapotte app kwam volgens de rechter voor rekening van de parkeerder, dus de naheffing blijft staan.",
+  "bron": [
+   18
+  ],
+  "citaat": "komt naar het oordeel van de rechtbank voor rekening en risico van eiser"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 30 juni 2022 kreeg de parkeerder op de Amsterdamsestraatweg een naheffing.",
+   "bron": [
+    15
+   ],
+   "citaat": "Om 10.49 uur is de naheffingsaanslag parkeerbelasting opgelegd"
+  },
+  {
+   "zin": "De parkeerder zei dat zijn parkeerapp niet werkte en dat hij niet kon betalen bij de automaat.",
+   "bron": [
+    16
+   ],
+   "citaat": "omdat zijn parkeerapplicatie niet werkte en hij ook niet heeft kunnen betalen bij de parkeerautomaat"
+  },
+  {
+   "zin": "De gemeente zei dat er drie automaten in de buurt waren en dat geen daarvan kapot was.",
+   "bron": [
+    17
+   ],
+   "citaat": "dat geen sprake is geweest van één of meer defecte automaten"
+  },
+  {
+   "zin": "Volgens de rechter hoort het op tijd betalen bij de verantwoordelijkheid van de parkeerder.",
+   "bron": [
+    18
+   ],
+   "citaat": "Het behoort tot de verantwoordelijkheid van een parkeerder om ervoor te zorgen dat de verschuldigde parkeerbelasting"
+  },
+  {
+   "zin": "Transactiegegevens lieten zien dat bij de dichtstbijzijnde automaten met pin betaald kon worden.",
+   "bron": [
+    18
+   ],
+   "citaat": "blijkt namelijk dat er ook (zeer) dicht rond het tijdstip van parkeren van eiser met succes pinbetalingen zijn verricht"
+  },
+  {
+   "zin": "De naheffing blijft staan en het beroep is ongegrond.",
+   "bron": [
+    19
+   ],
+   "citaat": "Het beroep is ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan, geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt de naheffing van 71,03 euro en krijgt zijn griffierecht niet terug.",
+  "bron": [
+   20,
+   10
+  ],
+  "citaat": "Omdat eiser geen gelijk krijgt, krijgt hij ook zijn griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "Zijn parkeerapp werkte niet en hij kon ook niet bij de automaat betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter was niet gebleken dat de automaten in de omgeving kapot waren.",
+    "bron": [
+     18
+    ],
+    "citaat": "Dat de parkeerautomaat in de omgeving niet werkte, is niet gebleken"
+   },
+   "bruikbare_zin": {
+    "citaat": "blijkt namelijk dat er ook (zeer) dicht rond het tijdstip van parkeren van eiser met succes pinbetalingen zijn verricht",
+    "bron": [
+     18
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder moet zelf zorgen dat de parkeerbelasting op tijd is betaald.",
+  "type": "regel",
+  "reikwijdte": "Betalen van parkeerbelasting als de app of de automaat van de parkeerder niet werkt.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   18
+  ],
+  "citaat": "om ervoor te zorgen dat de verschuldigde parkeerbelasting"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "transactiegegevens van drie dichtstbijzijnde parkeerautomaten"
+  ],
+  "wat_gaf_doorslag": "Pinbetalingen bij de dichtstbijzijnde automaten rond het moment van parkeren; de parkeerder had niet gekeken of die automaten werkten."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente wint; geen tekort in de werkwijze van de gemeente gevonden",
+ "raakt": [
+  "betaalapp",
+  "bezwaar"
+ ],
+ "klantuitleg": "Werkt de parkeerapp niet, dan moet u op een andere manier betalen, bijvoorbeeld bij een andere automaat. De rechter vond dat dit uw verantwoordelijkheid is, ook als de app het laat afweten. Wilt u bezwaar maken, dan helpt bewijs dat de automaten in de buurt echt niet werkten; dat is hier niet gebleken.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "niet in de tekst genoemd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

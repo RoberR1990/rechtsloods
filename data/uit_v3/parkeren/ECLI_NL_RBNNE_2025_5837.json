@@ -1,0 +1,129 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2025:5837",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "laadplek",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "bedrijf (leasemaatschappij)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een leasebedrijf kreeg een boete voor parkeren op een laadplek in Groningen. Het bedrijf procedeerde bij de kantonrechter van de rechtbank Noord-Nederland tegen de officier van justitie.",
+ "titel": "Boete laadplek blijft staan ondanks laadpaalstoring",
+ "kern": {
+  "zin": "De rechter houdt de boete overeind, omdat een losse uitleg over een storing niet genoeg is.",
+  "bron": [
+   21
+  ],
+  "citaat": "De enkele verklaring van betrokkene, dat er een storing zou zijn geweest, is hiervoor onvoldoende"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het leasebedrijf kreeg een boete van € 129,00 voor parkeren op een plek die voor andere voertuigen bedoeld was.",
+   "bron": [
+    11
+   ],
+   "citaat": "De opgelegde boete bedraagt € 129,00 (inclusief administratiekosten)."
+  },
+  {
+   "zin": "Het leasebedrijf stelt dat de auto elektrisch was en dat de laadpaal vaak kapot was.",
+   "bron": [
+    17
+   ],
+   "citaat": "heeft de laadpaal meerdere keren voor langere tijd een storing gehad"
+  },
+  {
+   "zin": "De officier van justitie vindt dat het beroep moet worden afgewezen.",
+   "bron": [
+    18
+   ],
+   "citaat": "dat het beroep ongegrond moet worden verklaard"
+  },
+  {
+   "zin": "Volgens de rechter is er geen reden om de boete te verlagen of te schrappen.",
+   "bron": [
+    21
+   ],
+   "citaat": "ziet geen aanleiding om de boete te matigen of te vernietigen"
+  },
+  {
+   "zin": "De rechter zegt dat het bedrijf verder weg had kunnen parkeren, waar dat wel mocht.",
+   "bron": [
+    21
+   ],
+   "citaat": "op een locatie verder weg te parkeren, waar dat wel was toegestaan"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; boete van € 129,00 blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "Het leasebedrijf moet de boete van € 129,00 betalen.",
+  "bron": [
+   11,
+   23
+  ],
+  "citaat": "De opgelegde boete bedraagt € 129,00 (inclusief administratiekosten)."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De laadpaal had vaak een storing, dus de laadplek was volgens het bedrijf een gewone parkeerplek.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat een storing de laadplek niet tot gewone parkeerplek maakt.",
+    "bron": [
+     21
+    ],
+    "citaat": "betekent dit niet dat de laadplek vanaf dat moment verandert in een normale parkeerplek"
+   },
+   "bruikbare_zin": {
+    "citaat": "betekent dit niet dat de laadplek vanaf dat moment verandert in een normale parkeerplek",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Alleen een verklaring over een storing haalt de boete niet weg.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "boetes voor parkeren op een laadplek waar de laadpaal kapot zou zijn",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "De enkele verklaring van betrokkene, dat er een storing zou zijn geweest, is hiervoor onvoldoende"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring van het bedrijf over de storing"
+  ],
+  "wat_gaf_doorslag": "Het bedrijf had niet aannemelijk gemaakt dat het niet anders kon parkeren."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Wahv"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "standaard Wahv-zaak zonder nieuw punt voor de gemeente",
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een boete voor parkeren op een laadplek blijft staan als u alleen zegt dat de laadpaal kapot was. De rechter vond dat hier niet genoeg. Heeft u bewijs van een storing, zoals een melding of foto, dan kunt u dat bij bezwaar of beroep inbrengen.",
+ "gemeente": "Groningen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

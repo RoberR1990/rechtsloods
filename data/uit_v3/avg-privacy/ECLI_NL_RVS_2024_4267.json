@@ -1,0 +1,147 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2024:4267",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": null,
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "verzoeker",
+  "wederpartij": "minister van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Deze zaak gaat over een verzoek om inzage in persoonsgegevens. De verzoeker is het niet eens met de minister van Financiën en gaat in hoger beroep bij de Raad van State.",
+ "titel": "Raad: minister gaf genoeg adres, beroep faalt",
+ "kern": {
+  "zin": "De Raad van State vindt dat de minister met het verstrekken van het adres genoeg heeft gedaan aan het inzageverzoek.",
+  "bron": [
+   19
+  ],
+  "citaat": "De rechtbank heeft terecht geoordeeld dat de minister daarmee heeft voldaan aan het AVG-verzoek."
+ },
+ "samenvatting": [
+  {
+   "zin": "De verzoeker vroeg de minister van Financiën om inzage in zijn adresgegevens.",
+   "bron": [
+    17
+   ],
+   "citaat": "Bij brief van 25 januari 2021 heeft [appellant] de minister verzocht om inzage in zijn persoonsgegevens"
+  },
+  {
+   "zin": "De minister gaf het adres zoals hij dat zelf gebruikt.",
+   "bron": [
+    17
+   ],
+   "citaat": "heeft de minister het adres van [appellant] verstrekt met de schrijfwijze zoals de minister deze hanteert"
+  },
+  {
+   "zin": "De verzoeker zegt dat er verschillende registraties van zijn woonadres bestaan en dat de gegevens niet kloppen.",
+   "bron": [
+    18
+   ],
+   "citaat": "Volgens [appellant] bestaan in de computersystemen van de overheid een aantal verschillende registraties van zijn woonadres"
+  },
+  {
+   "zin": "De Raad van State vindt dat het verzoek alleen over het adres ging, niet over de afmetingen van het perceel.",
+   "bron": [
+    19
+   ],
+   "citaat": "Het verzoek van [appellant] gaat niet over gegevens waaruit de afmetingen van het perceel kunnen blijken."
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    21
+   ],
+   "citaat": "De aangevallen uitspraak moet worden bevestigd."
+  },
+  {
+   "zin": "De minister hoeft geen proceskosten te vergoeden.",
+   "bron": [
+    22
+   ],
+   "citaat": "De minister hoeft geen proceskosten te vergoeden."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De burger verliest het hoger beroep; de eerdere uitspraak blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen proceskostenvergoeding van de minister.",
+  "bron": [
+   22
+  ],
+  "citaat": "De minister hoeft geen proceskosten te vergoeden."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "De minister heeft mijn adresgegevens uit een verouderde registratie gegeven; die kloppen niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het inzageverzoek ging alleen over het adres en niet over de afmetingen van het perceel.",
+    "bron": [
+     19
+    ],
+    "citaat": "Het verzoek van [appellant] gaat niet over gegevens waaruit de afmetingen van het perceel kunnen blijken."
+   },
+   "bruikbare_zin": {
+    "citaat": "kan hij een verzoek daartoe richten tot het college van burgemeester en wethouders van de gemeente Tilburg.",
+    "bron": [
+     19
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een inzageverzoek gaat alleen over de gegevens die zijn gevraagd; de afmetingen van het perceel hoorden daar niet bij.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Deze zaak over inzage in adresgegevens.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "Het verzoek van [appellant] gaat niet over gegevens waaruit de afmetingen van het perceel kunnen blijken."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "brief met inzageverzoek",
+   "besluit van de minister",
+   "BRP"
+  ],
+  "wat_gaf_doorslag": "De rechter vond dat het verzoek alleen over het adres ging, niet over de afmetingen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 15 Algemene verordening persoonsgegevens"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Neem een verzoek om correctie van de afmetingen van een woning in de BRP in behandeling.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    19
+   ],
+   "citaat": "kan hij een verzoek daartoe richten tot het college van burgemeester en wethouders van de gemeente Tilburg."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "privacy-fg",
+  "klantcontact"
+ ],
+ "klantuitleg": "U vroeg om inzage in uw adresgegevens. De minister gaf het adres dat hij zelf gebruikt; de rechter vond dat genoeg. Wilt u de grootte van uw woning in de basisregistratie laten aanpassen, dan moet u bij de gemeente zijn.",
+ "gemeente": "Tilburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

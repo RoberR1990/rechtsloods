@@ -1,0 +1,163 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2024:5103",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (betaalde via een app)",
+  "wederpartij": "gemeente Breda (heffingsambtenaar)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeerde tegen de heffingsambtenaar van de gemeente Breda over een naheffing parkeerbelasting. Hij had via een parkeerapp de verkeerde zone gekozen, en de rechtbank Zeeland-West-Brabant besliste dat die fout voor zijn rekening komt.",
+ "titel": "Verkeerde zone in parkeerapp komt voor rekening parkeerder",
+ "kern": {
+  "zin": "De rechtbank hield de naheffing in stand, omdat de bebording telt voor de zonecode en de fout in de app voor rekening van de parkeerder komt.",
+  "bron": [
+   25
+  ],
+  "citaat": "De bebording is leidend als het gaat om de zonecodes, niet de informatie in de app."
+ },
+ "samenvatting": [
+  {
+   "zin": "Een scanauto zag de auto in zone 21910 staan, zonder dat daarvoor was betaald.",
+   "bron": [
+    16
+   ],
+   "citaat": "en dat de daarvoor verschuldigde parkeerbelasting niet was voldaan"
+  },
+  {
+   "zin": "De parkeerder had wel betaald, maar voor zone 21911 via een app.",
+   "bron": [
+    17
+   ],
+   "citaat": "Hij heeft € 3,30 aan parkeerbelasting voldaan voor zonenummer 21911"
+  },
+  {
+   "zin": "De parkeerder zei dat de app die andere zone als dichtstbijzijnde aanwees en dat de instructies onduidelijk waren.",
+   "bron": [
+    22
+   ],
+   "citaat": "de onduidelijke situatie ter plekke en de onduidelijke instructies in de app"
+  },
+  {
+   "zin": "De gemeente vond dat het betalen voor een andere zone voor rekening van de parkeerder bleef.",
+   "bron": [
+    23
+   ],
+   "citaat": "is een omstandigheid die voor rekening en risico van belanghebbende dient te blijven"
+  },
+  {
+   "zin": "De rechtbank oordeelde dat van de parkeerder mag worden verwacht dat hij zelf nagaat welke zone geldt, en dat het betalen van een andere zone daar niets aan verandert.",
+   "bron": [
+    25,
+    26
+   ],
+   "citaat": "van een weggebruiker mag worden verwacht dat hij zichzelf op de hoogte stelt van het parkeerregime"
+  },
+  {
+   "zin": "De rechtbank vond daarom de naheffing terecht en het beroep ongegrond.",
+   "bron": [
+    29
+   ],
+   "citaat": "Dat betekent dat de naheffingsaanslag terecht is opgelegd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing blijft staan, zonder proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing van € 54,25 betalen en krijgt het griffierecht niet terug.",
+  "bron": [
+   29,
+   16
+  ],
+  "citaat": "Belanghebbende krijgt daarom het griffierecht niet terug."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij heeft wel betaald, maar voor een andere zone.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat de parkeerder zelf moest controleren welke zone op de bebording stond.",
+    "bron": [
+     25
+    ],
+    "citaat": "Voor een dergelijk geval rust op de parkeerder de verplichting om de ter plaatse beschikbare informatie over zone-codes"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft belanghebbende zich onvoldoende ingespannen om te verifiëren welke zone-code van toepassing was",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij wilde de parkeerbelasting wel betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond zijn bedoeling niet van belang, gelet op het objectieve karakter van de belasting.",
+    "bron": [
+     27
+    ],
+    "citaat": "de intentie van belanghebbende is gelet op het objectieve karakter van de belasting niet van belang"
+   },
+   "bruikbare_zin": {
+    "citaat": "de intentie van belanghebbende is gelet op het objectieve karakter van de belasting niet van belang",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder moet zelf nagaan welke zone geldt, ook als hij een app gebruikt.",
+  "type": "regel",
+  "reikwijdte": "Parkeren via een app, waarbij de zonecode op de bebording leidend is",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "Deze onderzoeksplicht is ook van toepassing indien gebruik wordt gemaakt van een app."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "scanauto-controle",
+   "betaling via de app voor zone 21911"
+  ],
+  "wat_gaf_doorslag": "De bebording was leidend voor de zonecode, niet de app."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer of de zones in de parkeerapp overeenkomen met de bebording, want de bebording telt.",
+   "raakt": "betaalapp",
+   "bron": [
+    25
+   ],
+   "citaat": "De bebording is leidend als het gaat om de zonecodes, niet de informatie in de app."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "betaalapp",
+  "bezwaar"
+ ],
+ "klantuitleg": "Bij betalen via een app telt de zonecode op de bebording, niet wat de app aanwijst. Betaalt u voor een andere zone, dan kan de rekening achteraf toch blijven staan, ook als u wel betaalde. Denkt u dat uw situatie anders was, dan kunt u bezwaar maken met bewijs.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

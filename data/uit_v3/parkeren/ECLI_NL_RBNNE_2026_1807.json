@@ -1,0 +1,168 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2026:1807",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder)",
+  "wederpartij": "gemeente Leeuwarden",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeerde bij de rechtbank Noord-Nederland tegen het bezwaar van de gemeente Leeuwarden over een naheffing. Vooral de kosten van 76,70 euro op de naheffing waren het punt.",
+ "titel": "Naheffing blijft; gemeente betaalt wel de proceskosten",
+ "kern": {
+  "zin": "De kosten waren terecht, want de gemeente bewees in beroep alsnog dat het bedrag klopte.",
+  "bron": [
+   50
+  ],
+  "citaat": "heeft de heffingsambtenaar, naar het oordeel van de rechtbank, aan die bewijslast voldaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde een naheffing op omdat de auto in Leeuwarden zonder betaling stond.",
+   "bron": [
+    22
+   ],
+   "citaat": "stond geparkeerd terwijl daarvoor geen parkeerbelasting was betaald"
+  },
+  {
+   "zin": "De parkeerder vond dat de gemeente geen kosten mocht rekenen, omdat de raming later was gemaakt.",
+   "bron": [
+    29
+   ],
+   "citaat": "omdat de raming na de vaststelling van het kostenbedrag is opgesteld"
+  },
+  {
+   "zin": "Volgens de gemeente hoeft er niet elk jaar een nieuw kostenbesluit te komen.",
+   "bron": [
+    30
+   ],
+   "citaat": "het niet verplicht is om jaarlijks een nieuw kostenbesluit te nemen op basis van nieuwe ramingen"
+  },
+  {
+   "zin": "De bewijslast over de kosten ligt volgens de rechter bij de gemeente.",
+   "bron": [
+    49
+   ],
+   "citaat": "rust op de gemeente de bewijslast dat aan die eis is voldaan"
+  },
+  {
+   "zin": "De rechter vond de motivering van het bezwaar tekortschieten, maar liet dat passeren.",
+   "bron": [
+    53,
+    54
+   ],
+   "citaat": "Omdat die onderbouwing op 2023 ziet, kan deze motivering de beslissing niet dragen"
+  },
+  {
+   "zin": "De gemeente betaalt het griffierecht van 53 euro terug en 1.868 euro proceskosten.",
+   "bron": [
+    59
+   ],
+   "citaat": "Eiser krijgt ook een vergoeding van zijn proceskosten"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Alleen proceskosten gaan naar de parkeerder; naheffing blijft",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt de naheffing van 77,90 euro, maar krijgt proceskosten en griffierecht terug.",
+  "bron": [
+   59,
+   58
+  ],
+  "citaat": "Eiser krijgt ook een vergoeding van zijn proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De kosten van 76,70 euro mogen niet, want de raming is achteraf gemaakt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente later aantoonde dat de kosten niet te hoog waren.",
+    "bron": [
+     50
+    ],
+    "citaat": "heeft de heffingsambtenaar, naar het oordeel van de rechtbank, aan die bewijslast voldaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft de heffingsambtenaar, naar het oordeel van de rechtbank, aan die bewijslast voldaan",
+    "bron": [
+     50
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De onderbouwing van de kosten in het bezwaar klopt niet en is onvoldoende gemotiveerd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond de motivering van het bezwaar gebrekkig, maar passeerde dat.",
+    "bron": [
+     53
+    ],
+    "citaat": "De rechtbank is van oordeel dat er sprake is van een schending van het motiveringsbeginsel"
+   },
+   "bruikbare_zin": {
+    "citaat": "Met toepassing van artikel 6:22 van de Algemene wet bestuursrecht zal de rechtbank dit gebrek",
+    "bron": [
+     54
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Kosten per jaar mogen niet hoger zijn dan de raming voor dat jaar.",
+  "type": "regel",
+  "reikwijdte": "Naheffingskosten parkeerbelasting die de raad niet voor dat jaar heeft geraamd.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   49
+  ],
+  "citaat": "Wel vloeit uit het Besluit voort dat het in enig jaar geldende kostenbedrag niet mag overtreffen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "onderbouwing van de kosten per jaar",
+   "raming in het verweerschrift"
+  ],
+  "wat_gaf_doorslag": "De raming die de gemeente in beroep overlegde."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 2 lid 2 Besluit gemeentelijke parkeerbelasting",
+  "art. 3 lid 1 Besluit gemeentelijke parkeerbelasting",
+  "art. 9 lid 1 Verordening Parkeerbelastingen Leeuwarden 2024",
+  "art. 6:22 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet de onderbouwing van de kosten van het juiste jaar in het besluit op bezwaar.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    53
+   ],
+   "citaat": "Omdat die onderbouwing op 2023 ziet, kan deze motivering de beslissing niet dragen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar"
+ ],
+ "klantuitleg": "De kosten op de rekening voor het parkeren moeten passen bij een raming van dat jaar. In deze zaak kon de gemeente dat later alsnog onderbouwen, waardoor de kosten bleven staan. Vraag bij bezwaar om de onderbouwing van het juiste jaar.",
+ "gemeente": "Leeuwarden",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

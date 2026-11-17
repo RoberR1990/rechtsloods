@@ -1,0 +1,152 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "dubbel_van": null,
+ "ecli": "ECLI:NL:HR:2016:316",
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "cassatie",
+ "intro": "Een parkeerder betaalde via een parkeerapp, maar gaf het kenteken van haar eigen auto op in plaats van dat van de geparkeerde auto. De gemeente Amsterdam legde een naheffingsaanslag (rekening achteraf) op en ging in cassatie bij de Hoge Raad nadat het hof de parkeerder gelijk gaf.",
+ "titel": "Wel betaald, verkeerd kenteken: gemeente mag geen rekening achteraf sturen",
+ "kern": {
+  "zin": "De Hoge Raad vond dat de gemeente niet mag naheffen als de parkeerbelasting wel is betaald, ook al is het verkeerde kenteken opgegeven.",
+  "bron": [
+   21
+  ],
+  "citaat": "brengt de toepassing van artikel 20 AWR mee dat naheffing niet mogelijk is"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder parkeerde de auto van haar vriend in Amsterdam en betaalde via een parkeerapp, maar gaf het kenteken van haar eigen auto op.",
+   "bron": [
+    13
+   ],
+   "citaat": "abusievelijk het kenteken van haar eigen auto, de Daihatsu, via een applicatie op haar mobiele telefoon"
+  },
+  {
+   "zin": "De gemeente vond na controle dat voor de geparkeerde auto niet was betaald en legde een rekening achteraf op.",
+   "bron": [
+    15
+   ],
+   "citaat": "heeft de heffingsambtenaar geconcludeerd dat voor de geparkeerde Honda geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "Het hof vond dat naheffen niet mocht, omdat de belasting voor dit parkeren wel was betaald.",
+   "bron": [
+    17
+   ],
+   "citaat": "geoordeeld dat de belasting voor het parkeren van de Honda op aangifte is voldaan"
+  },
+  {
+   "zin": "De gemeente zei in cassatie dat de parkeerder niet voor de geparkeerde auto had betaald.",
+   "bron": [
+    18
+   ],
+   "citaat": "geen parkeerbelasting voor de geparkeerde auto, de Honda, heeft voldaan"
+  },
+  {
+   "zin": "De Hoge Raad vond dat vaststond dat de verschuldigde belasting was betaald, dus naheffen kon niet.",
+   "bron": [
+    21
+   ],
+   "citaat": "brengt de toepassing van artikel 20 AWR mee dat naheffing niet mogelijk is"
+  },
+  {
+   "zin": "De Hoge Raad wees het beroep van de gemeente af.",
+   "bron": [
+    25
+   ],
+   "citaat": "De Hoge Raad verklaart het beroep in cassatie ongegrond"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing niet mogelijk als de verschuldigde belasting wel is betaald.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft de rekening achteraf niet te betalen; de gemeente betaalt € 497 griffierecht en er is geen proceskostenveroordeling.",
+  "bron": [
+   21,
+   27,
+   23
+  ],
+  "citaat": "brengt de toepassing van artikel 20 AWR mee dat naheffing niet mogelijk is"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Ik heb wel voor dit parkeren betaald en gaf alleen een verkeerd kenteken op.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Omdat de belasting voor dit parkeren was betaald, mocht de gemeente niet naheffen.",
+    "bron": [
+     21
+    ],
+    "citaat": "brengt de toepassing van artikel 20 AWR mee dat naheffing niet mogelijk is"
+   },
+   "bruikbare_zin": {
+    "citaat": "doet daaraan niet af dat belanghebbende niet op de voorgeschreven wijze aangifte heeft gedaan",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Is de verschuldigde parkeerbelasting voor dit parkeren betaald, dan mag de gemeente niet naheffen, ook niet als het kenteken verkeerd is opgegeven.",
+  "type": "regel",
+  "reikwijdte": "Parkeerbelasting die vaststaand is betaald, maar niet op de voorgeschreven wijze (bijvoorbeeld met een verkeerd kenteken) is opgegeven",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   21
+  ],
+  "citaat": "brengt de toepassing van artikel 20 AWR mee dat naheffing niet mogelijk is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "afrekening van de parkeerapp"
+  ],
+  "wat_gaf_doorslag": "Vast stond dat de verschuldigde belasting voor dit parkeren was betaald."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:1997:AA3200"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 20 AWR",
+  "art. 231 lid 1 Gemeentewet",
+  "art. 234 lid 2 Gemeentewet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg geen naheffing op als vaststaat dat voor dit parkeren is betaald, ook al is het kenteken verkeerd ingevoerd.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    21
+   ],
+   "citaat": "brengt de toepassing van artikel 20 AWR mee dat naheffing niet mogelijk is"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "Hebt u voor dit parkeren wel betaald, maar per ongeluk een verkeerd kenteken ingevoerd? Dan mag de gemeente u geen rekening achteraf sturen. Maak bezwaar en stuur uw betaalbewijs of de afrekening van de parkeerapp mee.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "zekerheid": "hoog"
+}

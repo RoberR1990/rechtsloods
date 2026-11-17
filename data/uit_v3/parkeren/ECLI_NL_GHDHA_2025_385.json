@@ -1,0 +1,196 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "procesvorm": "hoger beroep",
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "toepasselijkheid": "lokale verordening",
+ "ecli": "ECLI:NL:GHDHA:2025:385",
+ "sub": "procedure",
+ "partijen": {
+  "burger": "parkeerder (met gemachtigde)",
+  "wederpartij": "gemeente Leiden",
+  "gemeente_is_partij": true
+ },
+ "intro": "Een parkeerder ging in hoger beroep bij het gerechtshof Den Haag tegen de gemeente Leiden. Het ging om een naheffingsaanslag (de rekening achteraf) en om de vraag of het beroep bij de rechtbank op tijd was.",
+ "titel": "Te laat beroep na e-mail met beslissing: niet behandeld",
+ "kern": {
+  "zin": "De beslissing op bezwaar was goed per e-mail bekendgemaakt; het beroep kwam te laat zonder goede reden, dus de rechter keek niet naar de inhoud (niet-ontvankelijk).",
+  "bron": [
+   67
+  ],
+  "citaat": "Dit betekent dat de Rechtbank het beroep terecht niet-ontvankelijk heeft verklaard"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder maakte op 12 juni 2022 via DigiD online bezwaar en gaf zijn e-mailadres op; de gemeente stuurde haar beslissing twee dagen later naar dat adres.",
+   "bron": [
+    22,
+    23
+   ],
+   "citaat": "via een zogenoemde DigiD aanmelding bezwaar gemaakt tegen de naheffingsaanslag"
+  },
+  {
+   "zin": "Op 21 november 2022 diende zijn gemachtigde opnieuw een bezwaarschrift in, veel later dan zes weken na de beslissing.",
+   "bron": [
+    24
+   ],
+   "citaat": "Op 21 november 2022 heeft de gemachtigde van belanghebbende via digitale weg een bezwaarschrift tegen de naheffingsaanslag ingediend"
+  },
+  {
+   "zin": "De parkeerder zei dat hij de beslissing niet had ontvangen en nooit toestemming had gegeven voor e-mail.",
+   "bron": [
+    58
+   ],
+   "citaat": "belanghebbende nooit toestemming heeft gegeven om te corresponderen per e-mail"
+  },
+  {
+   "zin": "De gemeente zei dat bezwaarschriften die online binnenkomen ook online worden afgehandeld en dat de parkeerder had kunnen melden dat hij geen e-mail wilde.",
+   "bron": [
+    59
+   ],
+   "citaat": "alle bezwaarschriften die via digitale weg werden ingezonden, ook via digitale weg werden afgehandeld"
+  },
+  {
+   "zin": "De rechter vond dat de parkeerder met zijn gedrag had laten blijken dat hij per e-mail bereikbaar was, en dat de beslissing dus goed was bekendgemaakt.",
+   "bron": [
+    62
+   ],
+   "citaat": "heeft kunnen afleiden dat belanghebbende kenbaar heeft gemaakt dat hij langs elektronische weg voldoende bereikbaar is"
+  },
+  {
+   "zin": "De enkele stelling dat hij de e-mail niet had ontvangen was niet genoeg; andere redenen voor het te late beroep noemde hij niet.",
+   "bron": [
+    67
+   ],
+   "citaat": "De enkele blote stelling van belanghebbende dat hij de uitspraak op bezwaar niet heeft ontvangen"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep te laat en niet verschoonbaar; inhoud is niet beoordeeld.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening van € 69,40 blijft staan, want de rechter keek niet naar de inhoud, en de parkeerder krijgt geen proceskostenvergoeding.",
+  "bron": [
+   69,
+   21,
+   73
+  ],
+  "citaat": "staat in de weg aan een inhoudelijke beoordeling van de zaak"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "De parkeerder zei dat hij de beslissing van 14 juni 2022 niet had ontvangen, dus dat hij niet te laat was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Alleen zeggen dat je de e-mail niet kreeg, was niet genoeg, zeker omdat hij de ontvangstbevestiging per e-mail wel kreeg.",
+    "bron": [
+     67
+    ],
+    "citaat": "De enkele blote stelling van belanghebbende dat hij de uitspraak op bezwaar niet heeft ontvangen"
+   },
+   "bruikbare_zin": {
+    "citaat": "is onvoldoende om het vermoeden van ontvangst te ontzenuwen",
+    "bron": [
+     67
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder zei dat een beslissing per e-mail niet telde, omdat hij daarvoor nooit toestemming had gegeven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Wie online bezwaar maakt, zijn e-mailadres opgeeft en niet zegt dat e-mail niet mag, is voldoende per e-mail bereikbaar.",
+    "bron": [
+     62
+    ],
+    "citaat": "heeft kunnen afleiden dat belanghebbende kenbaar heeft gemaakt dat hij langs elektronische weg voldoende bereikbaar is"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet te kennen gegeven geen verdere correspondentie via de digitale weg te willen ontvangen",
+    "bron": [
+     62
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De kosten van € 66,60 zouden boven het wettelijke maximum liggen, dus de aanslag moest omlaag.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "Omdat het beroep te laat was, werd dit niet beoordeeld.",
+    "bron": [
+     69
+    ],
+    "citaat": "staat in de weg aan een inhoudelijke beoordeling van de zaak"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bestuursorgaan mag een beslissing per e-mail sturen als de burger langs die weg bereikbaar is; daarvoor is geen uitdrukkelijke toestemming nodig, het kan ook blijken uit wat de burger doet.",
+  "type": "regel",
+  "reikwijdte": "Beslissing op bezwaar na een online ingediend bezwaar met e-mailadres, zonder dat de burger bezwaar maakt tegen e-mail",
+  "uitzondering": "Als de burger laat weten niet via e-mail bereikbaar te zijn.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   61
+  ],
+  "citaat": "heeft een bestuursorgaan geen expliciete toestemming nodig om berichten elektronisch te versturen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "schermafdruk van de verzonden e-mail met de beslissing",
+   "ontvangstbevestiging per e-mail"
+  ],
+  "wat_gaf_doorslag": "Bewijs van verzending en de wel ontvangen ontvangstbevestiging maakten de ontvangst aannemelijk."
+ },
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2018:1967",
+   "ECLI:NL:HR:2006:AZ4416"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2:14 Awb",
+  "art. 3:41 Awb",
+  "art. 7:12 Awb",
+  "art. 6:11 Awb",
+  "art. 6:9 Awb",
+  "art. 26c AWR"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar een schermafdruk van de verzonden e-mail met de beslissing op bezwaar als bewijs van verzending.",
+   "raakt": "bezwaar",
+   "bron": [
+    67
+   ],
+   "citaat": "Hierbij kan de Heffingsambtenaar in eerste instantie volstaan met het bewijs van verzending naar het juiste adres"
+  },
+  {
+   "actie": "Stuur een bezwaarschrift dat na de beslissing op bezwaar binnenkomt door aan de rechtbank als beroepschrift.",
+   "raakt": "bezwaar",
+   "bron": [
+    64
+   ],
+   "citaat": "door de Heffingsambtenaar doorgezonden moeten worden aan de Rechtbank ter behandeling als beroep"
+  }
+ ],
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "communicatie"
+ ],
+ "klantuitleg": "Als u online bezwaar maakt en uw e-mailadres invult, mag de gemeente de beslissing naar dat e-mailadres sturen. Daarna loopt een termijn van zes weken om bij de rechter in beroep te gaan. Wilt u geen e-mail ontvangen, meld dat dan meteen; zonder goede reden voor te laat beroep kijkt de rechter niet naar de inhoud.",
+ "gemeente": "Leiden",
+ "zekerheid": "hoog"
+}

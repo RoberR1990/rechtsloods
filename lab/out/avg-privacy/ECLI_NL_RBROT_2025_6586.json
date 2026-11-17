@@ -1,0 +1,174 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:6586",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "weigering-rechten-anderen",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "vader",
+  "wederpartij": "gemeente Zwijndrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "voorlopige voorziening",
+ "intro": "Deze zaak gaat over een vader die inzage wil in de persoonsgegevens van zijn kinderen. Hij vraagt de voorzieningenrechter van de Rechtbank Rotterdam om een snelle tijdelijke beslissing tegen het college van Zwijndrecht.",
+ "titel": "Geen snelle inzage in gegevens van kinderen",
+ "kern": {
+  "zin": "De voorzieningenrechter wijst het verzoek af, omdat directe inzage niet meer terug te draaien is.",
+  "bron": [
+   27
+  ],
+  "citaat": "Toewijzing van het verzoek zou een onomkeerbare situatie opleveren."
+ },
+ "samenvatting": [
+  {
+   "zin": "De vader wil volledige inzage in alle persoonsgegevens van zijn kinderen.",
+   "bron": [
+    23
+   ],
+   "citaat": "per direct volledige inzage te geven in alle persoonsgegevens van zijn kinderen"
+  },
+  {
+   "zin": "De vader heeft moeite met de summiere motivering van het besluit.",
+   "bron": [
+    27
+   ],
+   "citaat": "verzoeker moeite heeft met de summiere motivering van het besluit"
+  },
+  {
+   "zin": "Het college vindt dat de inzage niet opweegt tegen de belangen van de moeder.",
+   "bron": [
+    22
+   ],
+   "citaat": "de gewenste inzage in de persoonsgegevens van de kinderen van verzoeker niet op tegen de belangen van de moeder"
+  },
+  {
+   "zin": "De voorzieningenrechter wijst het verzoek af omdat directe inzage niet terug te draaien is.",
+   "bron": [
+    27
+   ],
+   "citaat": "Toewijzing van het verzoek zou een onomkeerbare situatie opleveren."
+  },
+  {
+   "zin": "De vader krijgt nu geen inzage; het college kan de motivering in bezwaar of beroep aanvullen.",
+   "bron": [
+    27
+   ],
+   "citaat": "Het college kan in bezwaar dan wel in beroep"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De rechter wijst de snelle inzage af.",
+ "gevolg_betrokkene": {
+  "zin": "De vader krijgt nu geen inzage; er komt geen vergoeding van proceskosten.",
+  "bron": [
+   30
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Ik wil volledige inzage in alle persoonsgegevens van mijn kinderen.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter wijst het verzoek af omdat directe inzage niet terug te draaien is.",
+    "bron": [
+     27
+    ],
+    "citaat": "Alleen al hierom ligt toewijzing van het verzoek niet voor de hand."
+   },
+   "bruikbare_zin": {
+    "citaat": "Alleen al hierom ligt toewijzing van het verzoek niet voor de hand.",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "weigering-rechten-anderen",
+   "burger_zegt": "De weigering klopt niet, want ik heb gezag over mijn kinderen.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter zegt dat het gezag niet ter discussie staat, maar wijst het verzoek toch af.",
+    "bron": [
+     27
+    ],
+    "citaat": "Hoewel niet ter discussie staat dat verzoeker (mede) het gezag heeft over de kinderen"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet ter discussie staat dat verzoeker (mede) het gezag heeft over de kinderen",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "motivering",
+   "burger_zegt": "Het besluit is niet goed uitgelegd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter begrijpt dat de motivering kort is, maar het college mag die in bezwaar of beroep aanvullen.",
+    "bron": [
+     27
+    ],
+    "citaat": "Het college kan in bezwaar dan wel in beroep"
+   },
+   "bruikbare_zin": {
+    "citaat": "de motivering nader aanvullen",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een voorlopige voorziening kan alleen als een onmiddellijke maatregel nodig is en de normale procedure niet kan worden afgewacht.",
+  "type": "regel",
+  "reikwijdte": "bij een verzoek om een voorlopige voorziening in een AVG-zaak",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   26
+  ],
+  "citaat": "Toewijzing van een verzoek om een voorlopige voorziening is alleen mogelijk als een onmiddellijke maatregel noodzakelijk is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Dat inzage in de gegevens niet meer terug te draaien is."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 15 AVG",
+  "art. 23 lid 1 onder i AVG",
+  "art. 8:29 lid 1 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vul de motivering van de weigering aan in de bezwaar- of beroepsprocedure.",
+   "raakt": "bezwaar",
+   "bron": [
+    27
+   ],
+   "citaat": "Het college kan in bezwaar dan wel in beroep"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u inzage vraagt in gegevens van uw kinderen, kan de gemeente dat weigeren als de rechten van de andere ouder in gevaar komen. In deze zaak wilde de vader dat snel via de rechter regelen, maar dat mocht niet omdat de informatie dan niet meer terug te halen is. U kunt beter eerst bezwaar maken en de gemeente vragen de reden van de weigering beter uit te leggen.",
+ "gemeente": "Zwijndrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,157 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2022:2099",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam (heffingsambtenaar)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffingsaanslag (de rekening achteraf) omdat zij niet betaalde voor parkeren in de Calandstraat. Zij ging in beroep bij de rechtbank Rotterdam, tegen de heffingsambtenaar van de gemeente Rotterdam.",
+ "titel": "Geen bewezen storing: parkeerder moest alsnog betalen",
+ "kern": {
+  "zin": "De rechter vond de naheffing terecht, omdat de parkeerder niet aannemelijk maakte dat betalen onmogelijk was.",
+  "bron": [
+   25
+  ],
+  "citaat": "Eiseres maakt niet aannemelijk dat het op de desbetreffende dag onmogelijk was om aan de parkeerbelasting te voldoen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeercontroleur zag op 22 juli 2020 de auto zonder betaling staan in de Calandstraat.",
+   "bron": [
+    16
+   ],
+   "citaat": "Op 22 juli 2020 om 10:48 uur heeft een parkeercontroleur geconstateerd dat de auto van eiseres"
+  },
+  {
+   "zin": "De parkeerder zei dat de bezoekersapp op die dag een storing had, waardoor zij de auto niet kon aanmelden.",
+   "bron": [
+    17
+   ],
+   "citaat": "Zij kon de auto niet aanmelden vanwege een storing in de bezoekersparkeerapplicatie"
+  },
+  {
+   "zin": "De gemeente zei dat er die dag geen storing bekend was.",
+   "bron": [
+    18
+   ],
+   "citaat": "Er is geen storing met betrekking tot de applicatie bekend op de desbetreffende dag"
+  },
+  {
+   "zin": "Ook via de website of telefoon kon de parkeerder betalen, zo oordeelde de rechter.",
+   "bron": [
+    25
+   ],
+   "citaat": "Nu ook via de website van verweerder en telefonisch aan de betaalplicht kon worden voldaan"
+  },
+  {
+   "zin": "Dat de gemeente te laat op het bezwaar besliste, maakte de uitspraak niet onrechtmatig.",
+   "bron": [
+    26
+   ],
+   "citaat": "Het overschrijden van het wettelijk termijn maakt niet dat de uitspraak op bezwaar in beginsel onrechtmatig is"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; storing niet aangetoond, rekening blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de rekening voor het parkeren betalen, want het beroep is afgewezen.",
+  "bron": [
+   30
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De bezoekersapp had een storing, daardoor kon de auto niet worden aangemeld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de storing niet bewezen, omdat de parkeerder daar geen stukken bij voegde.",
+    "bron": [
+     25
+    ],
+    "citaat": "Dat er sprake was van een storing in de bezoekersparkeerapplicatie onderbouwt zij niet met stukken"
+   },
+   "bruikbare_zin": {
+    "citaat": "Uit de overgelegde stukken blijkt dat er geen storing is gemeld op de desbetreffende dag",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente besliste te laat op het bezwaar.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Te laat beslissen maakt de uitspraak niet onrechtmatig; hier was geen ingebrekestelling verstuurd.",
+    "bron": [
+     26
+    ],
+    "citaat": "Het overschrijden van het wettelijk termijn maakt niet dat de uitspraak op bezwaar in beginsel onrechtmatig is"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het overschrijden van het wettelijk termijn maakt niet dat de uitspraak op bezwaar in beginsel onrechtmatig is",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij aanvang van het parkeren moet de parkeerder meteen handelen om de parkeerbelasting te betalen.",
+  "type": "regel",
+  "reikwijdte": "Parkeerbelasting in Rotterdam: betaling moet bij aanvang van het parkeren gebeuren.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "Volgens vaste jurisprudentie moeten bij aanvang van het parkeren onverwijld handelingen worden verricht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "scanauto-waarneming van 22 juli 2020",
+   "storingadministratie 2020 van de gemeente"
+  ],
+  "wat_gaf_doorslag": "Geen storing gemeld op die dag, en betalen via website of telefoon was ook mogelijk."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 9 lid 2 Verordening parkeerregulering en parkeerbelastingen 2020 Rotterdam",
+  "art. 225 lid 2 Gemeentewet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Beslis bezwaren binnen de wettelijke termijn, zodat er geen ingebrekestelling en dwangsom nodig zijn.",
+   "raakt": "bezwaar",
+   "bron": [
+    26
+   ],
+   "citaat": "is het bestuursorgaan een dwangsom verschuldigd voor iedere dag dat het in gebreke is"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "betaalapp"
+ ],
+ "klantuitleg": "Parkeerbelasting moet u meteen betalen bij het begin van het parkeren, ook als de app niet werkt. Kan de app niet, dan kunt u ook via de website of telefonisch betalen of uw auto aanmelden. Heeft u een storing gehad, bewaar dan bewijs daarvan; zonder bewijs heeft bezwaar op dit punt weinig kans.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

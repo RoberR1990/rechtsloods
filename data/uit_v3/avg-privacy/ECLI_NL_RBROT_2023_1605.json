@@ -1,0 +1,156 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:1605",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": null,
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "verzoeker (particulier)",
+  "wederpartij": "UWV (Raad van bestuur)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een man vraagt het UWV om inzage in zijn handhavingsdossier uit 2007 en 2008. Hij gaat in beroep bij de rechtbank Rotterdam, nadat het UWV zijn bezwaar niet-ontvankelijk verklaarde.",
+ "titel": "Verzoek om eigen dossier is een AVG-verzoek met bezwaarmogelijkheid",
+ "kern": {
+  "zin": "De rechtbank vindt dat een verzoek om inzage in eigen gegevens een AVG-verzoek is, waartegen bezwaar kan, maar wijst de inzage toch af omdat de stukken zijn vernietigd.",
+  "bron": [
+   25
+  ],
+  "citaat": "Een beslissing op zo’n verzoek is op basis van artikel 34 van de UAVG een besluit in de zin van de Awb."
+ },
+ "samenvatting": [
+  {
+   "zin": "De man vroeg in januari 2022 op grond van de Wob om inzage in zijn handhavingsdossier over 2007-2008.",
+   "bron": [
+    10
+   ],
+   "citaat": "om inzage in zijn (handhavings)dossier over de jaren 2007-2008"
+  },
+  {
+   "zin": "Het UWV schreef dat het niet aan het verzoek kon voldoen en verklaarde het bezwaar niet-ontvankelijk, omdat de brief geen besluit zou zijn.",
+   "bron": [
+    12
+   ],
+   "citaat": "het bezwaar van eiser (tegen de brief van 18 januari 2022) niet-ontvankelijk verklaard"
+  },
+  {
+   "zin": "De rechter zei dat de man om inzage in zijn persoonsgegevens vroeg en dat het een AVG-verzoek is; het UWV had het bezwaar dus niet niet-ontvankelijk mogen verklaren.",
+   "bron": [
+    25
+   ],
+   "citaat": "Verweerder heeft eisers bezwaar daarom ten onrechte niet-ontvankelijk verklaard."
+  },
+  {
+   "zin": "De rechter beslist zelf over het bezwaar en vindt het ongegrond: de dossierstukken zijn na de wettelijke bewaartermijn vernietigd.",
+   "bron": [
+    26
+   ],
+   "citaat": "vanwege het verstrijken van de wettelijk voorgeschreven bewaartermijn, zijn vernietigd"
+  },
+  {
+   "zin": "De man maakte niet aannemelijk dat het UWV meer stukken zou moeten hebben.",
+   "bron": [
+    26
+   ],
+   "citaat": "Eiser heeft niet aannemelijk gemaakt dat verweerder meer dossierstukken zou moeten hebben"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep gegrond op procedurepunt; inzage blijft geweigerd, griffierecht terug",
+ "gevolg_betrokkene": {
+  "zin": "De man krijgt zijn dossier niet, maar het UWV moet het griffierecht van 50 euro vergoeden; proceskosten zijn er niet.",
+  "bron": [
+   22
+  ],
+  "citaat": "bepaalt dat verweerder het griffierecht van € 50,- aan eiser moet vergoeden"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De brief van het UWV over mijn inzageverzoek is wel een besluit, dus mijn bezwaar moet worden behandeld.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Een beslissing op een AVG-inzageverzoek is een besluit, dus bezwaar kon.",
+    "bron": [
+     25
+    ],
+    "citaat": "Dit betekent dat de brief van verweerder van 18 januari 2022 een Awb-besluit is, waartegen bezwaar kon worden gemaakt."
+   },
+   "bruikbare_zin": {
+    "citaat": "Een beslissing op zo’n verzoek is op basis van artikel 34 van de UAVG een besluit in de zin van de Awb.",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Ik wil inzage in mijn handhavingsdossier uit 2007 en 2008.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De stukken zijn door de bewaartermijn vernietigd en de man maakte niet aannemelijk dat er meer zijn.",
+    "bron": [
+     26
+    ],
+    "citaat": "Eiser heeft niet aannemelijk gemaakt dat verweerder meer dossierstukken zou moeten hebben dan de stukken die in beroep al zijn overgelegd."
+   },
+   "bruikbare_zin": {
+    "citaat": "vanwege het verstrijken van de wettelijk voorgeschreven bewaartermijn, zijn vernietigd en daarmee dus niet kunnen worden verstrekt",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een verzoek om inzage in eigen gegevens is een AVG-verzoek, ook als iemand de Wob noemt; de beslissing erop is een besluit waartegen bezwaar kan.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om inzage in de eigen persoonsgegevens bij een bestuursorgaan, ook als het verzoek onder een andere wet is ingediend",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   25
+  ],
+  "citaat": "Een beslissing op zo’n verzoek is op basis van artikel 34 van de UAVG een besluit in de zin van de Awb."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De stukken waren na de bewaartermijn vernietigd en de man maakte niet aannemelijk dat er meer stukken zijn."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 15 AVG",
+  "art. 34 UAVG",
+  "art. 8:72 lid 3 onder b Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Behandel een verzoek om het eigen dossier als AVG-inzageverzoek, ook als de Wob wordt genoemd, en neem er een besluit met bezwaarmogelijkheid op",
+   "raakt": "privacy-fg",
+   "bron": [
+    25
+   ],
+   "citaat": "Een beslissing op zo’n verzoek is op basis van artikel 34 van de UAVG een besluit in de zin van de Awb."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "woo-openbaarheid",
+  "bezwaar"
+ ],
+ "klantuitleg": "Vraagt u om uw eigen gegevens, dan is dat een inzageverzoek volgens de AVG, ook als u de Wob noemt. Tegen het antwoord kunt u bezwaar maken. Zijn oude stukken na de wettelijke bewaartermijn vernietigd, dan kan de organisatie ze niet meer geven.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "UWV is partij; geen gemeente",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

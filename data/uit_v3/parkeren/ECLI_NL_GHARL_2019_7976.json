@@ -1,0 +1,151 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2019:7976",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bedrijf kreeg als kentekenhouder een boete van € 140 omdat zijn voertuig het verkeer zou hinderen. Het bedrijf ging in hoger beroep tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Boete op kenteken vervalt: bestuurder had aangesproken moeten worden",
+ "kern": {
+  "zin": "De rechter vernietigt de boete, omdat de handhaver de bestuurder kon aanspreken en de boete dus niet op kenteken mocht uitschrijven.",
+  "bron": [
+   34
+  ],
+  "citaat": "Aldus bestond een reële mogelijkheid tot staandehouding van de bestuurder en is de sanctie ten onrechte op kenteken uitgeschreven"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het bedrijf kreeg als kentekenhouder een boete van € 140 voor een voertuig dat het verkeer zou hinderen in Schiedam.",
+   "bron": [
+    20
+   ],
+   "citaat": "aan de betrokkene als kentekenhouder een administratieve sanctie van € 140,- opgelegd"
+  },
+  {
+   "zin": "Het bedrijf zei dat de bestuurder had moeten worden aangesproken: hij was erbij en staat zelfs op een foto.",
+   "bron": [
+    21
+   ],
+   "citaat": "De bestuurder heeft het voertuig geen moment uit het oog verloren en staat zelfs op een van de foto's van de gedraging."
+  },
+  {
+   "zin": "De handhaver schreef dat er een man kwam aanlopen die zei dat hij aan het laden en lossen was, toen de bon al was uitgeprint.",
+   "bron": [
+    26
+   ],
+   "citaat": "Ik had de bon al uitgeprint, daarom is het niet op naam uitgeschreven."
+  },
+  {
+   "zin": "De rechter zegt dat een handhaver de bestuurder moet aanspreken als die zich meldt voordat alle gegevens zijn genoteerd.",
+   "bron": [
+    33
+   ],
+   "citaat": "de ambtenaar tot staandehouding ter vaststelling van de identiteit van de bestuurder dient over te gaan"
+  },
+  {
+   "zin": "De handhaver was in zijn twee verklaringen niet duidelijk over wie de man was en wanneer het contact plaatsvond, dus werd de boete ten onrechte op kenteken gegeven.",
+   "bron": [
+    34
+   ],
+   "citaat": "Nu de ambtenaar niet eenduidig verklaart of hij deze man al dan niet als bestuurder aanmerkte"
+  },
+  {
+   "zin": "De boete en de beslissing van de officier van justitie zijn vernietigd en het bedrijf krijgt € 1.152 aan proceskosten.",
+   "bron": [
+    36
+   ],
+   "citaat": "Aldus zal het hof de advocaat-generaal veroordelen in de kosten tot een bedrag van € 1.152,-."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete vernietigd; handhaver moest bestuurder aanspreken.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 140 vervalt, het betaalde zekerheidsbedrag komt terug en het bedrijf krijgt € 1.152 aan proceskosten.",
+  "bron": [
+   41,
+   42,
+   43
+  ],
+  "citaat": "vernietigt de beslissing van de officier van justitie, alsmede de beschikking"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De bestuurder was erbij en had moeten worden aangesproken; de boete mocht niet op kenteken.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Er was een reële mogelijkheid om de bestuurder aan te spreken, dus de boete is ten onrechte op kenteken uitgeschreven.",
+    "bron": [
+     34
+    ],
+    "citaat": "Aldus bestond een reële mogelijkheid tot staandehouding van de bestuurder en is de sanctie ten onrechte op kenteken uitgeschreven"
+   },
+   "bruikbare_zin": {
+    "citaat": "de sanctie ten onrechte op kenteken uitgeschreven",
+    "bron": [
+     34
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Komt de bestuurder bij een parkeerovertreding naar de handhaver voordat die alle gegevens heeft genoteerd, dan moet de handhaver hem staande houden en mag de boete niet zomaar op kenteken.",
+  "type": "regel",
+  "reikwijdte": "Parkeerovertredingen waarbij de handhaver de vermoedelijke bestuurder tegenkomt voordat alle gegevens zijn genoteerd",
+  "uitzondering": "Blijkt niet dat de staande gehouden persoon de overtreding deed, dan kan de boete wel naar de kentekenhouder.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   33
+  ],
+  "citaat": "indien bij een parkeerovertreding de identiteit van de bestuurder die het voertuig geparkeerd heeft aanstonds vast te stellen is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "processen-verbaal van de handhaver",
+   "foto's van de gedraging"
+  ],
+  "wat_gaf_doorslag": "De handhaver verklaarde niet eenduidig of de man de bestuurder was en wanneer het contact was."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2000:ZD1735",
+   "ECLI:NL:GHARL:2017:4935"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 5 Wahv",
+  "art. 2 lid 3 Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Laat handhavers de bestuurder staande houden als die zich meldt voordat alle gegevens zijn genoteerd, en laat ze dit moment vastleggen.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    33
+   ],
+   "citaat": "Van de ambtenaar mag dan worden verlangd dat hij tot staandehouding overgaat"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "scanauto-handhaving",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een boete op kenteken is niet terecht als u of de bestuurder de handhaver aansprak voordat die alles had genoteerd, want dan moet de handhaver de bestuurder eerst staande houden. Blijkt dan niet dat die persoon het deed, dan kan de boete toch naar de kentekenhouder. Bij bezwaar helpt het als u kunt laten zien wanneer en door wie de handhaver is aangesproken.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "Wahv-zaak; gemeente geen partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

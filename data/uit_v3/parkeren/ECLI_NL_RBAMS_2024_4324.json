@@ -1,0 +1,141 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2024:4324",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner uit Amsterdam vraagt de rechter een brief van de gemeente te toetsen, waarin een verzoek om terugbetaling van parkeergeld is afgewezen. Tegenpartij is de gemeente Amsterdam (de heffingsambtenaar); de zaak ligt bij de bestuursrechter van de rechtbank Amsterdam.",
+ "titel": "Bestuursrechter onbevoegd: restitutie parkeergeld niet via beroep",
+ "kern": {
+  "zin": "De bestuursrechter is onbevoegd, omdat tegen de weigering om parkeergeld terug te betalen geen beroep openstaat.",
+  "bron": [
+   19
+  ],
+  "citaat": "tegen de beslissing op het verzoek van eiseres om restitutie van het parkeergeld geen beroep open"
+ },
+ "samenvatting": [
+  {
+   "zin": "De adreswijziging voor de parkeervergunning duurde 35 werkdagen, terwijl de gemeente tien werkdagen had genoemd.",
+   "bron": [
+    17
+   ],
+   "citaat": "De adreswijziging van de parkeervergunning heeft uiteindelijk 35 werkdagen geduurd"
+  },
+  {
+   "zin": "De bewoner moest in die periode ongeveer 900 euro aan parkeerkosten betalen en wil dat terug.",
+   "bron": [
+    17
+   ],
+   "citaat": "Eiseres voert aan dat zij ongeveer € 900,- aan parkeerkosten heeft moet betalen"
+  },
+  {
+   "zin": "De gemeente vond dat tegen de brief geen beroep openstond.",
+   "bron": [
+    18
+   ],
+   "citaat": "Volgens de heffingsambtenaar staat geen beroep open tegen de brief van 10 november 2023"
+  },
+  {
+   "zin": "De gemeente vernietigde in die periode enkele naheffingen uit eigen beweging.",
+   "bron": [
+    18
+   ],
+   "citaat": "om de opgelegde naheffingsaanslagen in deze periode ambtshalve te vernietigen"
+  },
+  {
+   "zin": "De bestuursrechter zegt zich onbevoegd en wijst de bewoner naar de burgerlijke rechter.",
+   "bron": [
+    20
+   ],
+   "citaat": "De bestuursrechter is in dit geval onbevoegd om kennis te nemen van het beroep"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Bestuursrechter onbevoegd; griffierecht terug, verzoek om restitutie niet beoordeeld.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de bewoner betekent dit dat de zaak bij de burgerlijke rechter moet worden begonnen, en het griffierecht krijgt zij terug.",
+  "bron": [
+   20,
+   19
+  ],
+  "citaat": "Het door haar betaalde griffierecht zal worden terugbetaald"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De trage adreswijziging kostte haar parkeergeld; zij wil dat terug.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De bestuursrechter kon het verzoek om restitutie niet beoordelen, omdat hij onbevoegd is.",
+    "bron": [
+     19
+    ],
+    "citaat": "tegen de beslissing op het verzoek van eiseres om restitutie van het parkeergeld geen beroep open"
+   },
+   "bruikbare_zin": {
+    "citaat": "dient zij dit bij de burgerlijke rechter aanhangig te maken",
+    "bron": [
+     19
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Tegen een beslissing op een verzoek om restitutie van parkeergeld kan geen beroep bij de bestuursrechter worden ingesteld.",
+  "bron": [
+   19
+  ],
+  "citaat": "In de tweede bijlage bij de Algemene wet bestuursrecht is deze mogelijkheid namelijk uitgesloten",
+  "type": "regel",
+  "reikwijdte": "verzoeken om restitutie van parkeergeld",
+  "uitzondering": null,
+  "herkomst": "wet"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "adreswijziging van 31 mei 2023",
+   "brief van 10 november 2023"
+  ],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:71 Awb",
+  "tweede bijlage bij de Awb",
+  "Verordening Parkeerbelastingen 2023 Amsterdam"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Breng de situatie van bewoners met een trage adreswijziging onder de aandacht bij de medewerkers die over restitutie beslissen.",
+   "raakt": "klantcontact",
+   "bron": [
+    18
+   ],
+   "citaat": "de situatie van eiseres nogmaals onder de aandacht te brengen bij de medewerkers die gaan over beslissingen over restitutieverzoeken"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "klantcontact",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Tegen een afwijzing van een verzoek om parkeergeld terug kunt u bij de bestuursrechter niet in beroep. Wilt u het toch voorleggen, dan kan dat bij de burgerlijke rechter, vaak met hulp van een advocaat. Dat kan ook nadat de gemeente het verzoek opnieuw heeft bekeken.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

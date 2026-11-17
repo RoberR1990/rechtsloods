@@ -1,0 +1,156 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:10048",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "privaat-boete-voorwaarden",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {
+  "burger": "bewoner (motorrijder)",
+  "wederpartij": "exploitant (Q-Park Operations Netherlands B.V.)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "Een bewoner reed met zijn motor de parkeergarage uit zonder te betalen. Het bedrijf Q-Park eiste betaling van de bewoner bij de kantonrechter van de rechtbank Rotterdam, locatie Dordrecht.",
+ "titel": "Motor zonder betaling uit garage: bewoner moet Q-Park betalen",
+ "kern": {
+  "zin": "De kantonrechter oordeelde dat de bewoner moest betalen, omdat het in de garage rijden een parkeerovereenkomst was en de voorwaarden niet oneerlijk waren.",
+  "bron": [
+   29,
+   32
+  ],
+  "citaat": "Door de parkeergarage in te rijden heeft [gedaagde] een (parkeer)overeenkomst met Q-Park gesloten"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner verliet de garage op 22 oktober 2024 met zijn motor zonder te betalen.",
+   "bron": [
+    29
+   ],
+   "citaat": "door om de slagboom heen te rijden"
+  },
+  {
+   "zin": "Het bedrijf vroeg betaling van € 4,50 voor een verloren kaart en € 373,81 aan schade.",
+   "bron": [
+    25
+   ],
+   "citaat": "het tarief voor een verloren parkeerkaart"
+  },
+  {
+   "zin": "De bewoner stelde dat hij geen schade veroorzaakte, omdat de motor niet in een vak stond.",
+   "bron": [
+    26
+   ],
+   "citaat": "De motor staat niet in een parkeervak"
+  },
+  {
+   "zin": "De rechter vond dat betalen ook geldt buiten een parkeervak, omdat de garage dan toch wordt gebruikt.",
+   "bron": [
+    30
+   ],
+   "citaat": "Ook wanneer er buiten een parkeervak wordt geparkeerd, dient er te worden betaald"
+  },
+  {
+   "zin": "De voorwaarden waarop de schade was gebaseerd, bleken niet oneerlijk, dus de kantonrechter wees de bedragen toe.",
+   "bron": [
+    32
+   ],
+   "citaat": "is naar het oordeel van de kantonrechter niet oneerlijk"
+  },
+  {
+   "zin": "Ook de incassokosten van € 56,75 werden toegewezen en de proceskosten kwamen op € 460,78.",
+   "bron": [
+    37,
+    40
+   ],
+   "citaat": "De incassokosten van € 56,75 worden toegewezen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Q-Park krijgt betaling van bedragen en kosten toegewezen.",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner moet in totaal € 435,06 betalen met rente, plus € 460,78 aan proceskosten.",
+  "bron": [
+   46,
+   48
+  ],
+  "citaat": "veroordeelt [gedaagde] om aan Q-Park te betalen € 435,06"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "privaat-voorwaarden",
+   "burger_zegt": "Hij hoeft niet te betalen, omdat hij geen parkeerplek gebruikt en Q-Park dus geen schade lijdt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Ook buiten een vak moet er betaald worden, omdat de garage dan toch wordt gebruikt.",
+    "bron": [
+     30
+    ],
+    "citaat": "Ook wanneer er buiten een parkeervak wordt geparkeerd, dient er te worden betaald"
+   },
+   "bruikbare_zin": {
+    "citaat": "Er wordt immers gebruik gemaakt van de parkeergarage",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er was een afspraak over het parkeren van de motor, omdat hij er al dertien jaar staat.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Die afspraak was niet voldoende onderbouwd.",
+    "bron": [
+     30
+    ],
+    "citaat": "Voor zover [gedaagde] bedoeld heeft te stellen dat hij een afspraak heeft met Q-Park"
+   },
+   "bruikbare_zin": {
+    "citaat": "betekent niet dat hij niet hoeft te betalen",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie een parkeergarage in rijdt, sluit een parkeerovereenkomst en aanvaardt daarmee de algemene voorwaarden.",
+  "type": "regel",
+  "reikwijdte": "parkeergarages met een bord bij de ingang over tarieven en voorwaarden",
+  "uitzondering": "een aantoonbare afspraak met de exploitant",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   29
+  ],
+  "citaat": "Door de parkeergarage in te rijden heeft [gedaagde] een (parkeer)overeenkomst met Q-Park gesloten"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Er was geen onderbouwde afspraak met Q-Park over het parkeren van de motor."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:96 BW",
+  "art. 6:83 b BW",
+  "art. 6:119 BW",
+  "art. 237 Rv",
+  "art. 233 Rv",
+  "art. 5.7 algemene voorwaarden Q-Park"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [],
+ "klantuitleg": "Heeft u een motor of auto in een parkeergarage gezet zonder te betalen, dan kan de exploitant de kosten en schade bij u vorderen. Ook buiten een parkeervak moet u betalen als u de garage gebruikt. Wilt u dit betwisten, dan moet u een afspraak met de exploitant kunnen aantonen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente partij",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

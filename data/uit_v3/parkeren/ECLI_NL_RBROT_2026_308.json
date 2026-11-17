@@ -1,0 +1,140 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2026:308",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder vocht bij de rechtbank Rotterdam een naheffing (de rekening achteraf) van de gemeente Rotterdam aan. Het ging om een auto die in november 2022 stond geparkeerd zonder betaalde parkeerbelasting.",
+ "titel": "Parkeerrekening blijft staan: laden en lossen niet bewezen",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder niet bewees dat hij bezig was met laden of lossen.",
+  "bron": [
+   27
+  ],
+  "citaat": "heeft eiser niet aannemelijk gemaakt dat ten tijde van de controle"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 4 november 2022 werd de auto van de parkeerder zonder betaling in Rotterdam gezien.",
+   "bron": [
+    16
+   ],
+   "citaat": "Op 4 november 2022 om 21:13 uur is geconstateerd dat de auto van eiser"
+  },
+  {
+   "zin": "Volgens de parkeerder ging het om een korte stop bij het ophalen van zuivel.",
+   "bron": [
+    22
+   ],
+   "citaat": "Volgens eiser stond de auto slechts enkele minuten geparkeerd"
+  },
+  {
+   "zin": "Volgens de gemeente was er gewoon geparkeerd, en de foto's bewezen dat.",
+   "bron": [
+    23
+   ],
+   "citaat": "De heffingsambtenaar verwijst naar de overgelegde scanfoto’s."
+  },
+  {
+   "zin": "De rechter vond de verklaring van de broer en de foto niet genoeg.",
+   "bron": [
+    27
+   ],
+   "citaat": "de verklaring van de broer van eiser op zichzelf onvoldoende bewijs"
+  },
+  {
+   "zin": "De parkeerder verliest in deze zaak en de rekening blijft staan.",
+   "bron": [
+    33
+   ],
+   "citaat": "Dat betekent dat de naheffingsaanslag gehandhaafd blijft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing van € 68,30 blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De rekening van 68,30 euro blijft staan, en de parkeerder krijgt het griffierecht niet terug.",
+  "bron": [
+   33,
+   17
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Hij zegt dat hij maar even stilstond om iets te laden of te lossen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat er geen bon of ander objectief stuk was om zijn verhaal te steunen.",
+    "bron": [
+     27
+    ],
+    "citaat": "Enige ondersteunende documentatie, zoals een bon of ander objectief stuk, ontbreekt."
+   },
+   "bruikbare_zin": {
+    "citaat": "Ook kan op grond hiervan niet worden vastgesteld dat sprake is geweest van goederen van enig gewicht of omvang",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeren is stilstaan langer dan nodig voor direct in- of uitstappen of direct laden en lossen van zaken.",
+  "type": "regel",
+  "reikwijdte": "het begrip parkeren in de parkeerbelasting",
+  "uitzondering": "direct in- en uitstappen en direct laden en lossen van zaken van enige omvang of enig gewicht",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "gedurende een aaneengesloten periode doen of laten staan van een voertuig"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring van de broer",
+   "foto van een melkdoos",
+   "scanfoto's van de controle"
+  ],
+  "wat_gaf_doorslag": "Het ontbreken van objectief bewijs, zoals een bon, gaf de doorslag."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 7:12 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Benoem in een uitspraak op bezwaar de gronden van de burger en de rechtspraak waarop je beslissing rust.",
+   "raakt": "bezwaar",
+   "bron": [
+    31
+   ],
+   "citaat": "In de uitspraak op bezwaar heeft de heffingsambtenaar de gronden van eiser benoemd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Als u parkeert zonder de parkeerbelasting te betalen, krijgt u een rekening, ook als u dat niet bedoelde. Alleen even stilstaan om te laden of te lossen telt niet als parkeren, maar dan moet u dat wel met bewijs kunnen laten zien. Bewaar daarom een bon of ander objectief stuk, want een verklaring van iemand anders is op zichzelf niet genoeg.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

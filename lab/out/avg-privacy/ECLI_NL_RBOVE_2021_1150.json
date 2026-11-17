@@ -1,0 +1,178 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2021:1150",
+ "relevant": true,
+ "onderwerp": "rechtmatige-verwerking",
+ "sub": "grondslag",
+ "kenmerk": "publieke-taak",
+ "zaaktype": "overig",
+ "partijen": {
+  "burger": "aanvrager ToZo-uitkering",
+  "wederpartij": "gemeente Hengelo",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "voorlopige voorziening",
+ "intro": "De aanvrager van een ToZo-uitkering stapte naar de rechtbank omdat hij wilde dat de gemeente Hengelo en de ROZ-groep stopten met het delen van zijn persoonsgegevens. De voorzieningenrechter van de rechtbank Overijssel besliste op zijn beroep en op zijn verzoek om een voorlopige voorziening.",
+ "titel": "Rechter: verwerking ToZo-gegevens is toegestaan",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente een gerechtvaardigd belang had bij het verwerken van de ToZo-gegevens van de aanvrager, dus het beroep faalt.",
+  "bron": [
+   50
+  ],
+  "citaat": "een gerechtvaardigd belang bij het verzamelen van de persoonsgegevens van elke aanvrager"
+ },
+ "samenvatting": [
+  {
+   "zin": "De aanvrager stelde dat de ROZ-groep bij de verwerking van zijn ToZo-aanvraag zijn persoonsgegevens had verwerkt.",
+   "bron": [
+    18
+   ],
+   "citaat": "de ROZ-groep bij de verwerking van zijn ToZo-aanvraag zijn persoonsgegevens"
+  },
+  {
+   "zin": "Hij vond dat de ROZ-groep zijn gegevens had verspreid in strijd met de AVG.",
+   "bron": [
+    18
+   ],
+   "citaat": "zijn persoonsgegevens in strijd met artikel 5, lid 1, aanhef en onder c, van de AVG heeft verspreid"
+  },
+  {
+   "zin": "Hij zei ook dat de ROZ-groep nooit toestemming had gevraagd en dat hij die niet had gegeven.",
+   "bron": [
+    20
+   ],
+   "citaat": "daarvoor nooit toestemming heeft gevraagd en eiser die toestemming ook niet heeft verleend"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente een gerechtvaardigd belang had bij het verzamelen van de gegevens.",
+   "bron": [
+    50
+   ],
+   "citaat": "een gerechtvaardigd belang bij het verzamelen van de persoonsgegevens van elke aanvrager"
+  },
+  {
+   "zin": "De rechter vond dat het belang van de gemeente zwaarder woog dan het belang van de aanvrager.",
+   "bron": [
+    52
+   ],
+   "citaat": "het gerechtvaardigde belang van de beide colleges zwaarder weegt dan het belang van eiser"
+  },
+  {
+   "zin": "Daarom verklaarde de rechter het beroep ongegrond; voor een proceskostenvergoeding zag hij geen aanleiding.",
+   "bron": [
+    56,
+    58
+   ],
+   "citaat": "Het beroep wordt daarom ongegrond verklaard"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De rechter volgt de gemeente; de verwerking was rechtmatig en nodig.",
+ "gevolg_betrokkene": {
+  "zin": "De aanvrager verliest zijn beroep en krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   56,
+   58
+  ],
+  "citaat": "Het beroep wordt daarom ongegrond verklaard"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "te-veel-gegevens",
+   "burger_zegt": "De ROZ-groep gebruikte meer persoonsgegevens dan nodig voor mijn aanvraag.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de gegevens nodig waren om de aanvraag te beoordelen en de uitkering te kunnen uitkeren.",
+    "bron": [
+     50
+    ],
+    "citaat": "Daarvoor is het noodzakelijk dat de aanvrager kan worden geïdentificeerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "Daarvoor is het noodzakelijk dat de aanvrager kan worden geïdentificeerd zodat zijn recht op die uitkering kan worden getoetst",
+    "bron": [
+     50
+    ]
+   }
+  },
+  {
+   "arg": "delen-met-derden",
+   "burger_zegt": "Mijn gegevens zijn zonder reden gedeeld met de gemeente Oldenzaal, de gemeente Hengelo en de rechtbank.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeenten en de rechtbank geen onbevoegde derden waren.",
+    "bron": [
+     51
+    ],
+    "citaat": "niet als onbevoegde derden kunnen worden beschouwd"
+   },
+   "bruikbare_zin": {
+    "citaat": "het college van burgemeester en wethouders van Oldenzaal en verweerder niet als onbevoegde derden kunnen worden beschouwd",
+    "bron": [
+     51
+    ]
+   }
+  },
+  {
+   "arg": "geen-wettelijke-grondslag",
+   "burger_zegt": "De ROZ-groep had geen grondslag om mijn gegevens te verwerken, want ik heb geen toestemming gegeven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat toestemming niet nodig was omdat de verwerking ook op een andere grondslag kon rusten.",
+    "bron": [
+     53
+    ],
+    "citaat": "als aan een van de andere daarin gegeven voorwaarden is voldaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat eiser hiervoor geen toestemming heeft verleend maakt dat niet anders",
+    "bron": [
+     53
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Toestemming van de burger is niet nodig als de verwerking op een andere wettelijke grondslag rust.",
+  "type": "regel",
+  "reikwijdte": "Bij verwerking van persoonsgegevens door een overheidsorgaan dat voor de verwerking een andere grondslag uit artikel 6 AVG heeft.",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   53
+  ],
+  "citaat": "ook rechtmatig te achten als aan een van de andere daarin gegeven voorwaarden is voldaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De rechter vond dat de aanvrager zijn bezwaren niet aannemelijk had gemaakt."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:86 Awb",
+  "art. 4 AVG",
+  "art. 5 lid 1 onder c AVG",
+  "art. 6 lid 1 AVG",
+  "art. 17 lid 1 onder c AVG",
+  "art. 18 lid 1 onder d AVG",
+  "art. 21 lid 1 AVG"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "De rechter keurt de bestaande verwerking goed; hij noemt geen tekortkoming of opdracht.",
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "De gemeente mag uw persoonsgegevens gebruiken om te beoordelen of u een ToZo-uitkering krijgt. Zij mag die gegevens ook met een andere gemeente en met de rechter delen als dat nodig is voor die beoordeling. Uw toestemming is daarvoor niet nodig; als u het er niet mee eens bent, kunt u dat laten toetsen, maar in deze zaak vond de rechter het delen terecht.",
+ "gemeente": "Hengelo",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

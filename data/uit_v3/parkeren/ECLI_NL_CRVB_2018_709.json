@@ -1,0 +1,150 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:CRVB:2018:709",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "gehandicaptenkaart",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bewoner met een gehandicaptenparkeerkaart",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een inwoner van Den Haag kreeg geen nieuwe gehandicaptenparkeerkaart als bestuurder. Daardoor werd ook zijn bewonersparkeervergunning voor gehandicapten ingetrokken. Hij ging in hoger beroep tegen de gemeente bij de Centrale Raad van Beroep.",
+ "titel": "Geen nieuwe gehandicaptenparkeerkaart: loopafstand was verbeterd",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente de kaart terecht niet verlengde, omdat de keuringsarts had gezien dat de burger 100 meter kon lopen.",
+  "bron": [
+   24
+  ],
+  "citaat": "Het sociaal medisch advies van 25 februari 2015 bevat voldoende informatie om de conclusie te dragen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente gaf de burger eerst voor een jaar een gehandicaptenparkeerkaart als bestuurder.",
+   "bron": [
+    16
+   ],
+   "citaat": "Het college heeft bij besluit van 12 februari 2015 aan appellant een gehandicaptenparkeerkaart voor een bestuurder toegekend"
+  },
+  {
+   "zin": "Een nieuwe aanvraag werd afgewezen en zijn bewonersparkeervergunning voor gehandicapten werd ingetrokken.",
+   "bron": [
+    18
+   ],
+   "citaat": "heeft het college de bewonersparkeervergunning gehandicapten van appellant ingetrokken"
+  },
+  {
+   "zin": "De burger zei dat zijn gezondheid juist slechter was geworden en dat de arts niet had uitgelegd waarom de loopafstand was verbeterd.",
+   "bron": [
+    21
+   ],
+   "citaat": "De keuringsarts heeft niet gemotiveerd waarom de loopafstand van appellant in vergelijking met een jaar eerder is toegenomen"
+  },
+  {
+   "zin": "De gemeente had een advies van de keuringsarts, die de burger had onderzocht en had zien lopen.",
+   "bron": [
+    20
+   ],
+   "citaat": "het lopen van appellant heeft geobserveerd na afloop van het spreekuurcontact"
+  },
+  {
+   "zin": "De rechter vond het advies voldoende om te concluderen dat hij nu 100 meter kon lopen en dat hij het tegendeel niet met medische stukken had aangetoond.",
+   "bron": [
+    24
+   ],
+   "citaat": "Appellant heeft niet met medische stukken onderbouwd dat zijn medische situatie is verslechterd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; geen kaart, vergunning blijft ingetrokken.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen nieuwe gehandicaptenparkeerkaart als bestuurder en zijn bewonersparkeervergunning voor gehandicapten blijft ingetrokken; er is geen proceskostenvergoeding.",
+  "bron": [
+   28
+  ],
+  "citaat": "De Centrale Raad van Beroep bevestigt de aangevallen uitspraak"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het medisch advies van het ene jaar komt niet overeen met dat van het jaar daarvoor, terwijl zijn gezondheid slechter werd; de arts moet dat extra goed uitleggen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het advies bevatte genoeg informatie om te concluderen dat hij nu 100 meter kon lopen; hij toonde met medische stukken geen verslechtering aan.",
+    "bron": [
+     24
+    ],
+    "citaat": "Appellant heeft niet met medische stukken onderbouwd dat zijn medische situatie is verslechterd"
+   },
+   "bruikbare_zin": {
+    "citaat": "Appellant heeft niet met medische stukken onderbouwd dat zijn medische situatie is verslechterd",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De bewonersparkeervergunning voor gehandicapten is ten onrechte ingetrokken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Omdat de kaart terecht niet is verlengd, mocht de vergunning worden ingetrokken.",
+    "bron": [
+     20
+    ],
+    "citaat": "faalt het betoog van appellant dat het college de bewonersparkeervergunning gehandicapten ten onrechte heeft ingetrokken"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een keuringsarts mag op basis van onderzoek en observatie vaststellen dat de loopafstand is verbeterd; wie het tegendeel stelt, moet dat met medische stukken onderbouwen.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Alleen deze aanvraag, waarbij een eerder advies verbetering van de loopafstand mogelijk achtte.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "Appellant heeft niet met medische stukken onderbouwd dat zijn medische situatie is verslechterd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "sociaal medisch advies van de GGD",
+   "onderzoek en observatie door de keuringsarts"
+  ],
+  "wat_gaf_doorslag": "De arts zag de burger daadwerkelijk lopen en de burger bracht geen medische stukken in."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Laat de keuringsarts de loopafstand zelf observeren en leg die observatie vast in het medisch advies",
+   "raakt": "vergunningen",
+   "bron": [
+    24
+   ],
+   "citaat": "dat hij appellant daadwerkelijk een stuk heeft zien lopen, waarbij hij ook heeft geobserveerd hoe appellant zich voortbeweegt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Of u een gehandicaptenparkeerkaart krijgt, hangt af van het advies van de keuringsarts over hoe ver u kunt lopen. Kon u eerder minder ver lopen, dan kan de arts nu toch vinden dat het beter gaat. Vindt u dat uw situatie slechter is, geef dan medische stukken van uw eigen arts mee bij uw bezwaar.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,148 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2021:926",
+ "relevant": true,
+ "onderwerp": "toezicht-handhaving",
+ "sub": "klacht-ap",
+ "kenmerk": null,
+ "zaaktype": "overig",
+ "partijen": {
+  "burger": "bedrijf (boekingsplatform)",
+  "wederpartij": "Autoriteit Persoonsgegevens",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een boekingsbedrijf uit Amsterdam wilde dat de Autoriteit Persoonsgegevens (AP) vooraf meekeek naar het doorgeven van gegevens aan Spaanse autoriteiten. Het bedrijf procedeert tegen de AP bij de rechtbank Amsterdam.",
+ "titel": "Nederlandse privacytoezichthouder niet bevoegd bij Spaanse wettelijke plicht",
+ "kern": {
+  "zin": "De rechter vond dat de AP niet bevoegd is, omdat de tekst van de AVG ook geldt voor bedrijven die gegevens verwerken op grond van een wettelijke plicht.",
+  "bron": [
+   40
+  ],
+  "citaat": "Verweerder heeft terecht geoordeeld dat hij niet bevoegd is om het verzoek van eiseres"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het bedrijf wil gegevens van verhuurders en boekers in Spanje verzamelen en doorgeven aan de Spaanse autoriteiten en vroeg de AP om een voorafgaande raadpleging (vooraf advies).",
+   "bron": [
+    16
+   ],
+   "citaat": "Die verstrekking vindt plaats op grond van Spaanse fiscale rapportageverplichtingen"
+  },
+  {
+   "zin": "De AP vond dat de Spaanse toezichthouder bevoegd is en niet zij.",
+   "bron": [
+    17
+   ],
+   "citaat": "Verweerder heeft zich op het standpunt gesteld dat niet hij, maar de Spaanse toezichthouder bevoegd is"
+  },
+  {
+   "zin": "Het bedrijf vond dat de AP de regel over bevoegdheid te strikt uitlegt.",
+   "bron": [
+    19
+   ],
+   "citaat": "dat verweerder een te strikte uitleg geeft aan artikel 55, tweede lid, van de AVG"
+  },
+  {
+   "zin": "De rechter keek naar de letterlijke tekst van de regel, die spreekt over particuliere organen in het algemeen.",
+   "bron": [
+    30
+   ],
+   "citaat": "de letterlijke tekst van artikel 55, tweede lid, van de AVG uitgaat van ‘particuliere organen’"
+  },
+  {
+   "zin": "Ook een Spaans koninklijk besluit telt als wettelijke verplichting; het hoeft geen wet in formele zin te zijn.",
+   "bron": [
+    36
+   ],
+   "citaat": "volgt niet dat onder het begrip ‘wettelijke verplichting’ alleen een wet in formele zin dient te worden verstaan"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; AP is niet bevoegd",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrijf kan voor deze raadpleging niet bij de AP terecht. Proceskosten en griffierecht krijgt het niet vergoed.",
+  "bron": [
+   42
+  ],
+  "citaat": "Voor een proceskostenveroordeling of vergoeding van het griffierecht bestaat geen aanleiding"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De regel over bevoegdheid geldt alleen voor bedrijven die in het algemeen belang werken; dat doet het bedrijf niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De tekst van de regel is duidelijk en spreekt van particuliere organen, ook als die niet in het algemeen belang optreden.",
+    "bron": [
+     30
+    ],
+    "citaat": "Alleen al om reden van rechtszekerheid dient een duidelijke bepaling als zodanig te worden toegepast"
+   },
+   "bruikbare_zin": {
+    "citaat": "Alleen al om reden van rechtszekerheid dient een duidelijke bepaling als zodanig te worden toegepast",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De Nederlandse uitvoeringswet verbiedt het verzamelen van nationale identificatienummers, dus de AP moet beslissen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De AVG wordt zelfstandig uitgelegd en is het toetsingskader; de Nederlandse uitvoeringswet is dat niet.",
+    "bron": [
+     37
+    ],
+    "citaat": "Het toetsingskader is de AVG en niet de UAVG zoals eiseres stelt"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het toetsingskader is de AVG en niet de UAVG",
+    "bron": [
+     37
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij verwerking op grond van een wettelijke verplichting is alleen de toezichthouder van de betrokken lidstaat bevoegd, ook voor bedrijven die niet in het algemeen belang handelen.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om voorafgaande raadpleging over verwerking op grond van een wettelijke plicht uit een ander EU-land",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   30
+  ],
+  "citaat": "de letterlijke tekst van artikel 55, tweede lid, van de AVG uitgaat van ‘particuliere organen’"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De tekst van de regel is duidelijk en de overwegingen in de considerans veranderen dat niet."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 55 lid 2 AVG",
+  "art. 56 AVG",
+  "art. 6 lid 1 onder c AVG",
+  "art. 6 lid 3 AVG",
+  "art. 36 lid 1 AVG",
+  "UAVG"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg"
+ ],
+ "klantuitleg": "Moet een bedrijf gegevens doorgeven op grond van een wet uit een ander EU-land, dan beslist soms de toezichthouder van dat land en niet de Nederlandse. De rechter vond dat de Nederlandse toezichthouder dit zo mocht zien. Gaat uw vraag hierover, verwijs dan naar de toezichthouder van het land waarvan de wet komt.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

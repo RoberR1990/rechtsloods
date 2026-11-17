@@ -1,0 +1,179 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2022:3424",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kwam in beroep bij de kantonrechter van de rechtbank Noord-Holland tegen een Wahv-boete (boete voor foutparkeren) van de officier van justitie. Het ging om parkeren op een plaats voor onmiddellijk laden en lossen, waar volgens de handhaver ongeveer 10 minuten niets gebeurde.",
+ "titel": "Tien minuten zonder laden: boete terecht, maar gehalveerd",
+ "kern": {
+  "zin": "De boete was terecht, omdat er ongeveer 10 minuten niets gebeurde, maar de kantonrechter halveerde die vanwege de bijzondere omstandigheden.",
+  "bron": [
+   16,
+   17
+  ],
+  "citaat": "Nu er ongeveer 10 minuten geen activiteit rondom het voertuig heeft plaatsgevonden is de boete dus terecht opgelegd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een voertuig stond op een plaats bestemd voor onmiddellijk laden en lossen, en de officier van justitie legde daarvoor een boete op.",
+   "bron": [
+    13,
+    14
+   ],
+   "citaat": "een voertuig parkeren op een plaats bestemd voor onmiddellijk laden en lossen van goederen"
+  },
+  {
+   "zin": "De parkeerder zei dat hij een vrouw naar haar appartement had gebracht, wat maximaal 10 minuten duurde.",
+   "bron": [
+    14
+   ],
+   "citaat": "dat dit maximaal 10 minuten heeft geduurd"
+  },
+  {
+   "zin": "Hij wist volgens zichzelf niet dat er een minimale of maximale tijd geldt voor laden en lossen.",
+   "bron": [
+    14
+   ],
+   "citaat": "Betrokkene geeft verder aan dat hij niet wist dat er een minimale of maximale tijd staat voor laden en lossen"
+  },
+  {
+   "zin": "De handhaver zag ongeveer 10 minuten geen laden of lossen, en de kantonrechter vond dat voldoende bewezen.",
+   "bron": [
+    15,
+    16
+   ],
+   "citaat": "Ik heb gedurende een tijd van ongeveer 10 minuten geen activiteit rond het voertuig waargenomen"
+  },
+  {
+   "zin": "De kantonrechter vond de boete terecht, maar zag bij wijze van uitzondering aanleiding om te matigen.",
+   "bron": [
+    17
+   ],
+   "citaat": "bij wijze van eenmalige uitzondering echter wel aanleiding om de boete te matigen"
+  },
+  {
+   "zin": "De boete wordt gehalveerd tot 50 euro, en het teveel betaalde aan zekerheid krijgt de parkeerder terug.",
+   "bron": [
+    22,
+    23
+   ],
+   "citaat": "de boete wordt gematigd tot een bedrag van € 50,00"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Boete terecht, maar gehalveerd tot 50 euro vanwege bijzondere omstandigheden.",
+ "gevolg_betrokkene": {
+  "zin": "De boete wordt 50 euro, met de administratiekosten, en het teveel betaalde aan zekerheid krijgt de parkeerder terug.",
+  "bron": [
+   22,
+   23
+  ],
+  "citaat": "de boete wordt gematigd tot een bedrag van € 50,00"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Hij heeft een vrouw naar haar appartement gebracht, en dat duurde maximaal 10 minuten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de kantonrechter was er ongeveer 10 minuten geen laden, lossen of in- en uitstappen.",
+    "bron": [
+     16,
+     15
+    ],
+    "citaat": "Nu er ongeveer 10 minuten geen activiteit rondom het voertuig heeft plaatsgevonden"
+   },
+   "bruikbare_zin": {
+    "citaat": "maar of er daadwerkelijk wordt geladen en gelost",
+    "bron": [
+     16
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Het was onverantwoord om een vrouw van 90 jaar achter te laten om een parkeerplek te zoeken.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De kantonrechter zag in de omstandigheden aanleiding om de boete te matigen, en dat eenmalig.",
+    "bron": [
+     17
+    ],
+    "citaat": "bij wijze van eenmalige uitzondering echter wel aanleiding om de boete te matigen"
+   },
+   "bruikbare_zin": {
+    "citaat": "vanwege de omstandigheden in dit bijzondere geval",
+    "bron": [
+     17
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij wist niet dat er een minimale of maximale tijd geldt voor laden en lossen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de kantonrechter telt niet de stilstand, maar of er echt geladen of gelost wordt.",
+    "bron": [
+     16
+    ],
+    "citaat": "anders dan de betrokkene kennelijk meent, derhalve niet beslissend of het motorrijtuig stilstaat"
+   },
+   "bruikbare_zin": {
+    "citaat": "maar of er daadwerkelijk wordt geladen en gelost",
+    "bron": [
+     16
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Onmiddellijk laden en lossen betekent dat er direct na het stilstaan daadwerkelijk wordt geladen of gelost, of iemand in- of uitstapt.",
+  "type": "regel",
+  "reikwijdte": "parkeren op een plaats voor onmiddellijk laden en lossen",
+  "uitzondering": "in bijzondere omstandigheden kan de boete eenmalig worden gematigd",
+  "herkomst": "wet",
+  "bron": [
+   16
+  ],
+  "citaat": "het onmiddellijk nadat het voertuig tot stilstand is gebracht bij voortduring in- en uitladen van goederen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring van de verbalisant",
+   "dossierstukken"
+  ],
+  "wat_gaf_doorslag": "De verklaring van de verbalisant dat er ongeveer 10 minuten geen activiteit was."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 9 WAHV",
+  "Reglement verkeersregels en verkeerstekens 1990"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Staat u op een laad- en losplaats zonder dat er geladen, gelost of iemand in- of uitgestapt wordt, dan kan de boete terecht zijn. Hoe lang u stilstaat is niet doorslaggevend; het gaat erom of er daadwerkelijk iets gebeurt. Bijzondere omstandigheden kunnen tot een lagere boete leiden, maar daar kunt u niet op rekenen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente genoemd; boete van officier van justitie",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

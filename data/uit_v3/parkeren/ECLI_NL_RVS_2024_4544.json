@@ -1,0 +1,167 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "ecli": "ECLI:NL:RVS:2024:4544",
+ "onderwerp": "parkeerverbod",
+ "sub": "laadplek",
+ "zaaktype": "verkeersbesluit",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Almere",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bewoner van Almere maakte bezwaar tegen twee nieuwe parkeerplaatsen voor het opladen van elektrische auto's. De bewoner ging in hoger beroep tegen de gemeente Almere bij de Raad van State (de hoogste bestuursrechter).",
+ "titel": "Bewoner te ver van laadplekken: bezwaar komt niet aan bod",
+ "kern": {
+  "zin": "De Raad van State vond dat de bewoner te weinig anders is dan andere weggebruikers om bezwaar te mogen maken.",
+  "bron": [
+   29
+  ],
+  "citaat": "zijn belang zich onvoldoende onderscheidt van andere weggebruikers, zodat hij geen belanghebbende is"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente wees in 2022 twee parkeerplaatsen aan voor het opladen van elektrische voertuigen.",
+   "bron": [
+    19
+   ],
+   "citaat": "twee parkeerplaatsen ter hoogte van de [locatie 2] in Almere zijn aangewezen voor het opladen van elektrische voertuigen"
+  },
+  {
+   "zin": "De bewoner zei dat hij altijd langs de laadplaatsen moet rijden en dat de laadplaatsen onveilig zijn.",
+   "bron": [
+    28
+   ],
+   "citaat": "altijd door de Puerto Ricostraat moet uitrijden en de laadplaatsen een onveilige verkeerssituatie veroorzaken"
+  },
+  {
+   "zin": "De gemeente nam het bezwaar niet in behandeling: de bewoner had geen zicht op de laadpaal en woonde ver weg.",
+   "bron": [
+    20
+   ],
+   "citaat": "geen zicht heeft op de laadpaal, dat de afstand tussen zijn woonadres en de laadpaal meer dan 200 meter is"
+  },
+  {
+   "zin": "Volgens de Raad van State mag alleen bezwaar maken wie een bijzonder, eigen belang heeft bij een verkeersbesluit.",
+   "bron": [
+    27
+   ],
+   "citaat": "een persoon slechts belanghebbende bij een verkeersbesluit is indien hij of zij een bijzonder, individueel belang heeft"
+  },
+  {
+   "zin": "De laadplaatsen liggen niet vlak bij de woning en de bewoner liet niet zien dat de parkeerdruk was gestegen.",
+   "bron": [
+    28
+   ],
+   "citaat": "niet in de onmiddellijke nabijheid van de woning van [appellant] zijn gelegen"
+  },
+  {
+   "zin": "De Raad van State bevestigde de uitspraak van de rechtbank.",
+   "bron": [
+    30
+   ],
+   "citaat": "Het hoger beroep is ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Bezwaar niet behandeld: belang onvoldoende anders dan dat van andere weggebruikers.",
+ "gevolg_betrokkene": {
+  "zin": "De laadplaatsen blijven en de bewoner krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   31
+  ],
+  "citaat": "Het college hoeft geen proceskosten te vergoeden."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik kan bezwaar maken, omdat ik binnen 250 meter loopafstand van de laadplaatsen woon.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Wonen binnen de afstand die de gemeente gebruikt voor het aanvragen van laadplaatsen is niet genoeg om bezwaar te mogen maken.",
+    "bron": [
+     28
+    ],
+    "citaat": "binnen de door het college gehanteerde afstand van 250 meter (loopafstand) vanaf de laadplaatsen woont"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het bijzonder individueel belang dat [appellant] stelt te hebben bij het verkeersbesluit onderscheidt zich in onvoldoende mate van dat van andere weggebruikers",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "belangenafweging-verkeersbesluit",
+   "burger_zegt": "De laadplaatsen zorgen voor meer parkeerdruk en een onveilige verkeerssituatie.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De Raad van State keek hier alleen naar of de bewoner bezwaar mag maken en vond de gestegen parkeerdruk niet aannemelijk gemaakt.",
+    "bron": [
+     28
+    ],
+    "citaat": "Verder heeft hij niet aannemelijk gemaakt dat de parkeerdruk in de Jamaicastraat als gevolg van het besluit is toegenomen"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een verkeersbesluit mag alleen iemand met een bijzonder, eigen belang dat zich duidelijk onderscheidt van andere weggebruikers bezwaar en beroep instellen.",
+  "type": "regel",
+  "reikwijdte": "Bezwaar en beroep tegen verkeersbesluiten, zoals het aanwijzen van parkeerplaatsen voor laden.",
+  "uitzondering": "Per geval wordt gekeken wiens belang rechtstreeks is betrokken; nabijheid, zicht en parkeerdruk spelen mee.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   27
+  ],
+  "citaat": "een persoon slechts belanghebbende bij een verkeersbesluit is indien hij of zij een bijzonder, individueel belang heeft"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De afstand tot de laadplaatsen, geen zicht erop en geen aangetoonde toename van de parkeerdruk."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2012:BX2597",
+   "ECLI:NL:RVS:2018:506",
+   "ECLI:NL:RVS:2020:1541"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1:2 lid 1 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij bezwaar tegen een verkeersbesluit vast hoe ver de bezwaarmaker woont en of hij zicht heeft op de plek.",
+   "raakt": "bezwaar",
+   "bron": [
+    28
+   ],
+   "citaat": "niet in de onmiddellijke nabijheid van de woning van [appellant] zijn gelegen"
+  },
+  {
+   "actie": "Gebruik de loopafstand voor het aanvragen van laadplaatsen niet als grens voor wie bezwaar mag maken.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    28
+   ],
+   "citaat": "Het college heeft toegelicht dat deze afstand alleen wordt gehanteerd bij het aanvragen van laadplaatsen"
+  }
+ ],
+ "raakt": [
+  "bezwaar",
+  "bebording-verkeersbesluit"
+ ],
+ "klantuitleg": "Tegen een besluit over parkeerplaatsen kunt u alleen bezwaar maken als het u zelf bijzonder raakt, anders dan andere weggebruikers. Woont u ver weg, ziet u de plek niet vanuit uw woning en neemt de parkeerdruk niet aantoonbaar toe, dan wordt uw bezwaar niet inhoudelijk behandeld. Heeft u wel echt last, beschrijf dan precies hoe dichtbij u woont en wat u merkt.",
+ "gemeente": "Almere",
+ "zekerheid": "hoog"
+}

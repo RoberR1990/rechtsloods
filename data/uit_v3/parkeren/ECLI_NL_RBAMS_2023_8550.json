@@ -1,0 +1,155 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2023:8550",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een garage in Amsterdam ging in beroep tegen een naheffingsaanslag voor parkeerbelasting. Tegenpartij is de gemeente Amsterdam. De zaak werd behandeld door de rechtbank Amsterdam.",
+ "titel": "Korte stop zonder in- en uitstappen: toch parkeergeld verschuldigd",
+ "kern": {
+  "zin": "De rechtbank oordeelde dat de garage parkeergeld moest betalen, omdat er geen echt in- en uitstappen was.",
+  "bron": [
+   19
+  ],
+  "citaat": "Onder het onmiddellijk- in en laten uitstappen van personen kunnen alleen handelingen worden verstaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeercontroleur zag een camper staan zonder betaalde parkeerbelasting.",
+   "bron": [
+    15
+   ],
+   "citaat": "heeft een parkeercontroleur van de gemeente Amsterdam geconstateerd dat de auto met kenteken"
+  },
+  {
+   "zin": "De garage stelde dat de camper er maar twee minuten stond.",
+   "bron": [
+    16
+   ],
+   "citaat": "De camper heeft maximaal twee minuten op de parkeerplaats gestaan, aldus eiseres."
+  },
+  {
+   "zin": "Beide partijen erkenden dat hier normaal parkeergeld geldt en dat die niet is betaald.",
+   "bron": [
+    17
+   ],
+   "citaat": "Partijen zijn het met elkaar eens dat de camper op een parkeerplaats stond"
+  },
+  {
+   "zin": "De rechtbank oordeelde dat er geen echt in- en uitstappen was, want de deuren op de scanfoto's waren dicht.",
+   "bron": [
+    19
+   ],
+   "citaat": "is namelijk te zien dat de deuren van de camper dicht waren"
+  },
+  {
+   "zin": "Het beroep is ongegrond en de garage krijgt het griffierecht niet terug.",
+   "bron": [
+    21
+   ],
+   "citaat": "De heffingsambtenaar hoeft het door eiseres betaalde griffierecht niet te vergoeden."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Garage verliest; parkeergeld is verschuldigd, geen griffierecht terug",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan en de garage krijgt het griffierecht niet terug.",
+  "bron": [
+   21
+  ],
+  "citaat": "De heffingsambtenaar hoeft het door eiseres betaalde griffierecht niet te vergoeden."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "De camper stond maar kort op de plek, dus er was geen parkeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank zei dat alleen echte handelingen van in- en uitstappen tellen, en dat de duur geen rol speelt.",
+    "bron": [
+     19
+    ],
+    "citaat": "Hoe lang (of kort) de camper op de parkeerplaats heeft gestaan, speelt daarbij geen rol."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het noteren van wat er aan de [merk] moest gebeuren, is geen handeling die onder een daadwerkelijk in- en uitstappen valt.",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Er had een nacontrole moeten komen, want de camper was al weg.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank zei dat een nacontrole alleen nodig is als er bijzonderheden op de foto's staan, en die waren er niet.",
+    "bron": [
+     20
+    ],
+    "citaat": "zijn er geen bijzonderheden naar aanleiding waarvan een nacontrole had moeten plaatsvinden"
+   },
+   "bruikbare_zin": {
+    "citaat": "een nacontrole alleen plaatsvindt als er bijzonderheden op de foto’s te zien zijn",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Alleen een echt in- en uitstappen geldt als uitzondering op betalen; het enkel noteren van werk telt niet mee.",
+  "type": "regel",
+  "reikwijdte": "situaties waarin een parkeerder zich beroept op in- en uitstappen om niet te betalen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "Onder het onmiddellijk- in en laten uitstappen van personen kunnen alleen handelingen worden verstaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "foto's van de scanauto",
+   "verklaring van de garage"
+  ],
+  "wat_gaf_doorslag": "De foto's lieten dichte deuren en geen personen zien."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij elke nacontrole vast of er bijzonderheden op de scanfoto's staan.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    20
+   ],
+   "citaat": "dat een nacontrole alleen plaatsvindt als er bijzonderheden op de foto’s te zien zijn"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "scanauto-handhaving",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u alleen even stilstaat zonder dat iemand echt in- of uitstapt, dan moet u in deze situatie toch betalen. De rechter keek naar de foto's: dichte deuren en niemand te zien betekende dat er geen in- of uitstappen was. Heeft u bewijs dat er wel iemand is in- of uitgestapt, zoals foto's of getuigen, dan kan bezwaar zinvol zijn.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

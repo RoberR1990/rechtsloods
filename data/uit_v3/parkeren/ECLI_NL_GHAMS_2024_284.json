@@ -1,0 +1,167 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2024:284",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "particulier",
+  "wederpartij": "gemeente (naam geanonimiseerd)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een vader kreeg een naheffingsaanslag (een rekening achteraf) omdat hij op een betaalde plek stond zonder te betalen. Hij ging in hoger beroep bij het Gerechtshof Amsterdam tegen de gemeente.",
+ "titel": "Even kleding afgeven is geen laden en lossen",
+ "kern": {
+  "zin": "Het hof vindt dat een tas met kleding en toiletartikelen afgeven geen laden en lossen is, dus moet de burger de parkeerbelasting betalen.",
+  "bron": [
+   37
+  ],
+  "citaat": "heeft geparkeerd op een fiscale parkeerplaats zonder de daarvoor verschuldigde parkeerbelasting te voldoen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Volgens een controle met de scanauto stond de auto op een betaalde plek en was er niet betaald.",
+   "bron": [
+    18
+   ],
+   "citaat": "Tijdens een controle uitgevoerd met behulp van een scanauto is geconstateerd dat voor het parkeren van de auto"
+  },
+  {
+   "zin": "De burger zei dat hij laadde of loste: hij gaf zijn dochter een tas met kleding en toiletartikelen.",
+   "bron": [
+    20
+   ],
+   "citaat": "Op het desbetreffende tijdstip heb ik een tas met kleding en toiletartikelen afgegeven aan mijn dochter."
+  },
+  {
+   "zin": "De gemeente vond dat de betaalplicht ontstaat zodra de auto geparkeerd staat, ook bij kort parkeren.",
+   "bron": [
+    21
+   ],
+   "citaat": "de verplichting om parkeerbelasting te betalen ontstaat zodra de auto wordt geparkeerd"
+  },
+  {
+   "zin": "Het hof vond niet aannemelijk dat er spullen van enige omvang of enig gewicht werden uitgeladen.",
+   "bron": [
+    36
+   ],
+   "citaat": "niet aannemelijk dat belanghebbende zaken van enige omvang of enig gewicht heeft uitgeladen"
+  },
+  {
+   "zin": "Omdat de burger zelf vertelde dat hij daar stond, hoefde het hof niet te kijken of de scanauto-gegevens rechtmatig waren verkregen.",
+   "bron": [
+    37
+   ],
+   "citaat": "komt het Hof daarom niet toe aan een beoordeling"
+  },
+  {
+   "zin": "Het hoger beroep van de burger slaagt niet en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    39
+   ],
+   "citaat": "het hoger beroep van belanghebbende geen doel treft en dat de uitspraak van de rechtbank dient te worden bevestigd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Aanslag blijft staan; geen laden en lossen en geen proceskosten",
+ "gevolg_betrokkene": {
+  "zin": "De burger moet de rekening achteraf betalen en krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   43,
+   41
+  ],
+  "citaat": "Het Hof bevestigt de uitspraak van de Rechtbank."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "De burger zei dat hij alleen kort stilstond om spullen af te geven (laden en lossen).",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Kleding en toiletartikelen zijn geen goederen van enige omvang of gewicht.",
+    "bron": [
+     36
+    ],
+    "citaat": "niet aannemelijk dat belanghebbende zaken van enige omvang of enig gewicht heeft uitgeladen"
+   },
+   "bruikbare_zin": {
+    "citaat": "bij voortduring inladen of uitladen van goederen van enige omvang of enig gewicht",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "privacy-kenteken",
+   "burger_zegt": "De burger zei dat de scanauto-foto's onrechtmatig zijn verkregen (AVG en EVRM).",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "Omdat vaststond dat er geparkeerd was zonder te betalen, kwam het hof hier niet aan toe.",
+    "bron": [
+     37
+    ],
+    "citaat": "komt het Hof daarom niet toe aan een beoordeling"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Onmiddellijk laden en lossen is het onafgebroken in- of uitladen van goederen van enige omvang of enig gewicht, onmiddellijk na het stilzetten en zolang dat nodig is.",
+  "type": "regel",
+  "reikwijdte": "Betaald parkeren: wat telt als onmiddellijk laden en lossen",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   36
+  ],
+  "citaat": "bij voortduring inladen of uitladen van goederen van enige omvang of enig gewicht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "eigen toelichting in het bezwaarschrift",
+   "scanauto-controle"
+  ],
+  "wat_gaf_doorslag": "De eigen toelichting van de burger in het bezwaarschrift liet zien dat hij geparkeerd had zonder te betalen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:1999:AA2760",
+   "ECLI:NL:HR:2020:639"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "art. 234 Gemeentewet",
+  "art. 1 onder m Verordening parkeerbelastingen 2022",
+  "art. 6 lid 1 onder e AVG",
+  "art. 8 EVRM"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg in het bezwaardossier vast wat de parkeerder zelf verklaart over wat hij deed; een feit dat niet wordt bestreden hoeft u niet apart te bewijzen.",
+   "raakt": "bezwaar",
+   "bron": [
+    37
+   ],
+   "citaat": "Van een niet bestreden feit hoeft de heffingsambtenaar geen bewijs bij te brengen."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Zet u uw auto op een betaalde plek, dan moet u betalen, ook als u maar kort blijft staan. Alleen direct in- of uitstappen of echt laden en lossen van spullen met enige omvang of gewicht telt als uitzondering; een tas met kleding afgeven valt daar niet onder. Wilt u bezwaar maken, onderbouw dan waarom u echt aan het laden of lossen was, want zonder die onderbouwing heeft bezwaar weinig kans.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,163 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:CRVB:2019:3085",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "fraude-signalering",
+ "kenmerk": "delen-gegevens",
+ "zaaktype": "fraude-algoritme",
+ "partijen": {
+  "burger": "bijstandsontvanger",
+  "wederpartij": "gemeente Leidschendam-Voorburg",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De gemeente Leidschendam-Voorburg herzag de bijstand van een vrouw, omdat uit overheidsgegevens bleek dat zij inkomsten had die zij niet opgaf. Zij ging in hoger beroep bij de Centrale Raad van Beroep.",
+ "titel": "Gemeente mag in beginsel uitgaan van loongegevens van de overheid",
+ "kern": {
+  "zin": "De Centrale Raad van Beroep vindt dat de gemeente met de gegevens uit Suwinet en de looninformatie aannemelijk maakte dat de burger inkomsten had.",
+  "bron": [
+   18
+  ],
+  "citaat": "Het college heeft met de gegevens uit Suwinet en de looninformatie van de werkgever aannemelijk gemaakt"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente herzag de bijstand over drie maanden in 2016, omdat gegevens van de Belastingdienst en werkgevers inkomsten lieten zien.",
+   "bron": [
+    15
+   ],
+   "citaat": "omdat uit gegevens van de Belastingdienst (via Suwinet) en uit de looninformatie van twee werkgevers bleek"
+  },
+  {
+   "zin": "De burger zei dat zij niet voor een van die werkgevers had gewerkt.",
+   "bron": [
+    16
+   ],
+   "citaat": "heeft gesteld dat zij geen werkzaamheden voor werkgever"
+  },
+  {
+   "zin": "De rechter oordeelde dat de gemeente in beginsel mag uitgaan van de juistheid van loongegevens in Suwinet.",
+   "bron": [
+    17
+   ],
+   "citaat": "mag het college in beginsel uitgaan van de juistheid van gegevens over verloonde arbeid"
+  },
+  {
+   "zin": "Voor de stelling dat de werkgever misbruik van haar persoonsgegevens maakte, leverde de burger geen begin van bewijs.",
+   "bron": [
+    17
+   ],
+   "citaat": "heeft appellante geen begin van bewijs geleverd"
+  },
+  {
+   "zin": "Omdat zij de inkomsten niet had gemeld, schond zij haar inlichtingenplicht.",
+   "bron": [
+    18
+   ],
+   "citaat": "heeft daardoor de op haar rustende inlichtingenverplichting geschonden"
+  },
+  {
+   "zin": "Het hoger beroep slaagt daarom niet.",
+   "bron": [
+    19
+   ],
+   "citaat": "Dit betekent dat het hoger beroep niet slaagt"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; herziening van de bijstand blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De herziening van de bijstand over de periode 1 juli tot en met 30 september 2016 blijft staan en proceskosten worden niet vergoed.",
+  "bron": [
+   18,
+   20
+  ],
+  "citaat": "Het college was dan ook gehouden de bijstand in de te beoordelen periode te herzien"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente maakte niet aannemelijk dat ik werkte, want er zijn geen salarisspecificaties.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gegevens in Suwinet komen overeen met de looninformatie die de gemeente bij de werkgever opvroeg.",
+    "bron": [
+     17
+    ],
+    "citaat": "De gegevens in Suwinet komen ook overeen met de door het college bij de werkgever opgevraagde looninformatie"
+   },
+   "bruikbare_zin": {
+    "citaat": "mag het college in beginsel uitgaan van de juistheid van gegevens over verloonde arbeid opgenomen in Suwinet",
+    "bron": [
+     17
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De werkgever heeft misbruik gemaakt van mijn persoonsgegevens.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger leverde hiervoor geen begin van bewijs.",
+    "bron": [
+     17
+    ],
+    "citaat": "heeft appellante geen begin van bewijs geleverd"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft appellante geen begin van bewijs geleverd",
+    "bron": [
+     17
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente mag in beginsel uitgaan van de juistheid van loongegevens in Suwinet; een enkele stelling dat de werkgever zich niet aan zijn plichten hield, is niet genoeg om ze onjuist te noemen.",
+  "type": "regel",
+  "reikwijdte": "Gegevens over verloonde arbeid in Suwinet bij een herziening van de bijstand",
+  "uitzondering": "Het woord 'in beginsel' laat ruimte voor tegenbewijs; een enkele stelling is niet genoeg",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   17
+  ],
+  "citaat": "mag het college in beginsel uitgaan van de juistheid van gegevens over verloonde arbeid opgenomen in Suwinet"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "gegevens uit Suwinet",
+   "looninformatie van de werkgever",
+   "verklaring van de burger dat zij had gesolliciteerd en meegelopen"
+  ],
+  "wat_gaf_doorslag": "De Suwinet-gegevens kwamen overeen met de looninformatie van de werkgever."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Vergelijk gegevens uit Suwinet met looninformatie die u bij de werkgever opvraagt, voordat u de bijstand herziet.",
+   "raakt": "fraude-handhaving",
+   "bron": [
+    17
+   ],
+   "citaat": "De gegevens in Suwinet komen ook overeen met de door het college bij de werkgever opgevraagde looninformatie"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "fraude-handhaving",
+  "privacy-fg"
+ ],
+ "klantuitleg": "Een gemeente mag bij een controle in beginsel uitgaan van loongegevens die in Suwinet (een koppeling van overheidsgegevens) staan. Zegt u dat deze gegevens niet kloppen of dat iemand uw gegevens misbruikte, dan is alleen die bewering niet genoeg; u moet er aanwijzingen voor aandragen. Inkomsten uit werk moet u aan de gemeente doorgeven.",
+ "gemeente": "Leidschendam-Voorburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

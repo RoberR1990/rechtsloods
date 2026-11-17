@@ -1,0 +1,157 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:4141",
+ "relevant": true,
+ "onderwerp": "politie-justitie",
+ "sub": "wpg-inzage",
+ "kenmerk": null,
+ "zaaktype": "politiegegevens",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "korpschef van politie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bewoner wil weten waarom de politie zijn gegevens in de BRP (de basisregistratie van inwoners) meer dan achthonderd keer opvroeg. De politie wees dat af en ging in hoger beroep bij de Raad van State.",
+ "titel": "Politie moet beter uitleggen waarom zij de BRP raadpleegde",
+ "kern": {
+  "zin": "De politie heeft niet duidelijk gemaakt wanneer zij gericht en wanneer automatisch in de BRP keek, dus het eerste afwijzende besluit blijft vernietigd.",
+  "bron": [
+   30
+  ],
+  "citaat": "onvoldoende inzichtelijk gemaakt wanneer een bevraging gericht en wanneer automatisch heeft plaatsgevonden"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner vroeg om inzage, omdat de politie zijn gegevens volgens hem veel vaker in de BRP had bekeken dan hij begreep.",
+   "bron": [
+    21
+   ],
+   "citaat": "in de periode van 2018 tot en met 19 mei 2022 meer dan achthonderd keer geraadpleegd"
+  },
+  {
+   "zin": "De politie wees dit af, omdat er geen achthonderd documenten bestaan.",
+   "bron": [
+    22
+   ],
+   "citaat": "Omdat er daarom geen achthonderd documenten zijn, kan de korpschef niet voldoen aan het verzoek"
+  },
+  {
+   "zin": "De rechtbank vond dat de politie niet had onderbouwd waarom er geen gegevens zouden zijn, en vernietigde het besluit.",
+   "bron": [
+    23
+   ],
+   "citaat": "Zonder enige nadere motivering en onderbouwing is volgens de rechtbank niet aannemelijk dat er geen gegevens beschikbaar zijn."
+  },
+  {
+   "zin": "De Raad van State vond dat de politie niet duidelijk had gemaakt wanneer een bevraging gericht of automatisch was, en bevestigde dit.",
+   "bron": [
+    30
+   ],
+   "citaat": "De rechtbank heeft dat besluit daarom terecht vernietigd"
+  },
+  {
+   "zin": "Tegen het nieuwe afwijzende besluit van 23 mei 2024 voerde de bewoner geen gronden aan, dus dat beroep faalde.",
+   "bron": [
+    35
+   ],
+   "citaat": "Het van rechtswege ontstane beroep van [wederpartij] tegen het besluit van 23 mei 2024 is daarom ongegrond"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Eerste besluit bleef vernietigd; beroep tegen het nieuwe besluit ongegrond.",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner krijgt € 45,25 aan reiskosten vergoed en de politie betaalt € 559,00 griffierecht.",
+  "bron": [
+   43
+  ],
+  "citaat": "tot een bedrag van € 45,25, toe te rekenen aan reiskosten"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Zijn verzoek ging over alle keren dat de politie de BRP raadpleegde, gericht en automatisch.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het verzoek ging over alle bevragingen, want de bewoner kon niet weten dat de politie onderscheid maakte.",
+    "bron": [
+     30
+    ],
+    "citaat": "niet weten dat er een onderscheid werd gemaakt tussen gerichte en automatische bevragingen"
+   },
+   "bruikbare_zin": {
+    "citaat": "onvoldoende inzichtelijk gemaakt wanneer een bevraging gericht en wanneer automatisch heeft plaatsgevonden",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "motivering",
+   "burger_zegt": "De politie heeft niet uitgelegd waarom van gerichte bevragingen geen gegevens zouden zijn.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De politie moet beter onderbouwen waarom er geen gegevens van gerichte bevragingen zijn.",
+    "bron": [
+     30
+    ],
+    "citaat": "de korpschef nader moet onderbouwen waarom niet aannemelijk is dat er geen gegevens van de gerichte bevragingen beschikbaar zijn"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij wilde ook de MEOS-bevragingen en een onafhankelijke persoon die in de politiesystemen kijkt.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "Dit viel buiten wat de Raad van State in dit hoger beroep kon beoordelen.",
+    "bron": [
+     35
+    ],
+    "citaat": "omdat het buiten de omvang van het hoger beroep valt"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een inzageverzoek over BRP-bevragingen door de politie omvat zowel gerichte als automatische bevragingen.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Uitleg van dit ene inzageverzoek; de bewoner kon het onderscheid tussen gericht en automatisch niet kennen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   30
+  ],
+  "citaat": "niet weten dat er een onderscheid werd gemaakt tussen gerichte en automatische bevragingen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "uitleg van de politie over de werking van de BRP-koppeling"
+  ],
+  "wat_gaf_doorslag": "De politie maakte niet duidelijk wanneer een bevraging gericht of automatisch was."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 25 Wpg",
+  "art. 6:24 Awb",
+  "art. 6:19 lid 1 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; zaak over de politie onder de Wet politiegegevens, niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Vraagt u om inzage in uw gegevens, dan moet de organisatie uw vraag ruim lezen. Zegt zij dat er niets te laten zien is, dan moet zij dat goed uitleggen. Krijgt u een afwijzing zonder goede uitleg, dan kunt u bezwaar maken.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente niet betrokken; wederpartij is de politie",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

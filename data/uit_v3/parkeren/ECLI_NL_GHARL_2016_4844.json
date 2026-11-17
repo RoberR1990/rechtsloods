@@ -1,0 +1,162 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2016:4844",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Amersfoort",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg een naheffingsaanslag (een rekening achteraf) voor parkeerbelasting van de gemeente Amersfoort. Hij ging in hoger beroep bij het gerechtshof, omdat de gemeente hem in bezwaar niet had gehoord.",
+ "titel": "Gemeente moet parkeerder alsnog horen na bezwaar tegen naheffing",
+ "kern": {
+  "zin": "Het hof vond dat de gemeente de parkeerder in bezwaar had moeten horen, omdat partijen het oneens waren over de feiten.",
+  "bron": [
+   28
+  ],
+  "citaat": "kan de mogelijkheid om in beroep inhoudelijke gronden aan te voeren geen vervanging vormen voor de inhoudelijke heroverweging"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder maakte bezwaar tegen de naheffing en vroeg in zijn bezwaarschrift om een hoorzitting.",
+   "bron": [
+    18
+   ],
+   "citaat": "In het bezwaarschrift heeft de gemachtigde van belanghebbende verzocht om te worden gehoord."
+  },
+  {
+   "zin": "Hij zei dat hij alleen even laadde en loste, en dus niet parkeerde.",
+   "bron": [
+    27
+   ],
+   "citaat": "sprake was van laden en lossen gedurende één à twee minuten en niet van parkeren"
+  },
+  {
+   "zin": "De gemeente volgde dat niet, mede op basis van een verklaring van de parkeercontroleur, en hield geen hoorzitting.",
+   "bron": [
+    27
+   ],
+   "citaat": "mede onder verwijzing naar een verklaring van de parkeercontroleur"
+  },
+  {
+   "zin": "De rechtbank zei dat de parkeerder niet was benadeeld, omdat hij zijn bezwaren in beroep kon uitleggen.",
+   "bron": [
+    26
+   ],
+   "citaat": "Belanghebbende had in beroep zijn bezwaren schriftelijk uiteen kunnen zetten en mondeling kunnen toelichten."
+  },
+  {
+   "zin": "Het hof oordeelde anders: partijen verschillen van mening over de feiten, dus het niet horen heeft de parkeerder benadeeld.",
+   "bron": [
+    27
+   ],
+   "citaat": "In zodanig geval kan niet worden gezegd dat belanghebbende niet is benadeeld door het achterwege blijven van een hoorzitting"
+  },
+  {
+   "zin": "Het hof stuurde de zaak terug naar de gemeente, die de parkeerder alsnog moet horen.",
+   "bron": [
+    29
+   ],
+   "citaat": "in de gelegenheid stellen om te worden gehoord"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Hoorplicht geschonden; de gemeente moet opnieuw beslissen na een hoorzitting.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet de parkeerder alsnog horen en opnieuw beslissen; de naheffing is dus nog niet van tafel. De gemeente betaalt € 496 proceskosten voor beroep en hoger beroep.",
+  "bron": [
+   38,
+   32
+  ],
+  "citaat": "wijst de zaak terug naar de heffingsambtenaar om belanghebbende in de gelegenheid te stellen om te worden gehoord"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De gemeente heeft mij niet gehoord, terwijl ik daar in mijn bezwaarschrift om vroeg.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Omdat partijen het oneens waren over de feiten, was de parkeerder benadeeld door het ontbreken van een hoorzitting.",
+    "bron": [
+     27
+    ],
+    "citaat": "In zodanig geval kan niet worden gezegd dat belanghebbende niet is benadeeld door het achterwege blijven van een hoorzitting"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen inhoudelijke gronden aan te voeren",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Ik stond één à twee minuten stil om te laden en te lossen en heb niet geparkeerd.",
+   "oordeel": "niet beoordeeld",
+   "waarom": null,
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een gemiste hoorzitting in bezwaar wordt niet goedgemaakt doordat de burger in beroep zijn gronden kan aanvoeren.",
+  "type": "regel",
+  "reikwijdte": "Bezwaar waarin de burger om een hoorzitting vroeg en partijen het oneens zijn over de feiten.",
+  "uitzondering": "Is de burger niet benadeeld, dan kan de rechter het gebrek laten passeren (art. 6:22 Awb).",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   28
+  ],
+  "citaat": "geen vervanging vormen voor de inhoudelijke heroverweging die in de bezwaarfase van het bestuursorgaan wordt verwacht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van de parkeercontroleur"
+  ],
+  "wat_gaf_doorslag": "Partijen verschilden van mening over de feiten, dus het niet horen benadeelde de parkeerder."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2003:AF7495"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 6:22 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Nodig de burger uit voor een hoorzitting als hij daar in het bezwaarschrift om vraagt en de feiten omstreden zijn",
+   "raakt": "bezwaar",
+   "bron": [
+    19
+   ],
+   "citaat": "In de bezwaarfase heeft geen hoorgesprek plaatsgevonden."
+  },
+  {
+   "actie": "Laat de burger reageren op een verklaring van de parkeercontroleur voordat de gemeente op het bezwaar beslist",
+   "raakt": "bezwaar",
+   "bron": [
+    28
+   ],
+   "citaat": "in de bezwaarfase bovendien de gelegenheid is onthouden om te reageren op de verklaring van de parkeercontroleur"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Vraagt u in uw bezwaarschrift om een hoorzitting, dan moet de gemeente u in principe horen, zeker als u en de gemeente het niet eens zijn over wat er is gebeurd. Gebeurt dat niet, dan kan de rechter de beslissing laten vernietigen en moet de gemeente opnieuw beslissen. Vraag dus altijd schriftelijk om gehoord te worden en bewaar uw bewijs, bijvoorbeeld foto's van het even laden en lossen.",
+ "gemeente": "Amersfoort",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

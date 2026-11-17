@@ -1,0 +1,138 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2026:2855",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Hilversum",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder kreeg een naheffingsaanslag parkeerbelasting (de rekening achteraf voor parkeren) van de gemeente Hilversum. Na bezwaar werd die aanslag ingetrokken, maar de parkeerder procedeerde nog over proceskosten tegen de gemeente bij de rechtbank Midden-Nederland.",
+ "titel": "Beroep ongegrond: geen proceskosten voor de parkeerder",
+ "kern": {
+  "zin": "De rechter vond geen proceskosten nodig, omdat de gemeente niet ernstig onzorgvuldig had gehandeld.",
+  "bron": [
+   21
+  ],
+  "citaat": "Dat is hier niet het geval"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde een naheffingsaanslag parkeerbelasting op.",
+   "bron": [
+    12
+   ],
+   "citaat": "een naheffingsaanslag parkeerbelasting opgelegd met aanslagnummer"
+  },
+  {
+   "zin": "De parkeerder vond dat hij recht had op proceskosten in de bezwaarfase, omdat de gemeente volgens hem onrechtmatig handelde.",
+   "bron": [
+    17
+   ],
+   "citaat": "er recht bestond op proceskostenvergoeding in de bezwaarfase"
+  },
+  {
+   "zin": "De gemeente zei dat de parkeerkaart niet zichtbaar was, en dat de foto's van de controle dat lieten zien.",
+   "bron": [
+    18
+   ],
+   "citaat": "blijkt uit de overgelegde foto's van de parkeercontrole"
+  },
+  {
+   "zin": "De rechter zei dat onrechtmatig handelen op zichzelf niet genoeg is voor proceskosten.",
+   "bron": [
+    20
+   ],
+   "citaat": "Het is niet voldoende dat het bestreden besluit onrechtmatig is"
+  },
+  {
+   "zin": "De rechter vond dat er hier geen ernstige onzorgvuldigheid was.",
+   "bron": [
+    21
+   ],
+   "citaat": "Dat is hier niet het geval"
+  },
+  {
+   "zin": "De parkeerder krijgt geen proceskosten en het betaalde griffierecht niet terug.",
+   "bron": [
+    23
+   ],
+   "citaat": "hij krijgt ook het door hem betaalde griffierecht niet terug"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep ongegrond; geen proceskosten, griffierecht niet terug",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt geen proceskosten vergoed en het griffierecht wordt niet teruggegeven.",
+  "bron": [
+   23,
+   25
+  ],
+  "citaat": "hij krijgt ook het door hem betaalde griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder vond dat de gemeente onrechtmatig had gehandeld, en dat hij daarom proceskosten in de bezwaarfase krijgt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente niet ernstig onzorgvuldig was, en gaf daarom geen proceskosten.",
+    "bron": [
+     21
+    ],
+    "citaat": "Dat is hier niet het geval"
+   },
+   "bruikbare_zin": {
+    "citaat": "het bestreden besluit door ernstige onzorgvuldigheid in strijd met het recht is genomen",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente moet proceskosten in bezwaar alleen vergoeden als het besluit door ernstige onzorgvuldigheid in strijd met het recht is genomen.",
+  "type": "regel",
+  "reikwijdte": "proceskostenvergoeding in de bezwaarfase",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   20
+  ],
+  "citaat": "het bestreden besluit door ernstige onzorgvuldigheid in strijd met het recht is genomen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "foto's van de parkeercontrole",
+   "brondocument waarin de parkeerkaart niet zichtbaar is"
+  ],
+  "wat_gaf_doorslag": "De foto's lieten zien dat de parkeerkaart niet zichtbaar was, dus geen ernstige onzorgvuldigheid."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 2 Aanwijzingsbesluit Parkeren 2023"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver procedurele uitspraak over proceskosten; gemeente geen fout vastgesteld",
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een naheffing is terecht als de parkeerkaart niet zichtbaar achter de voorruit lag, en dat kan blijken uit foto's van de controle. In deze zaak trok de gemeente de aanslag zelf in, en kreeg u geen proceskosten omdat er geen ernstige fout was. Twijfelt u aan een naheffing, dan is bewijs dat uw kaart goed lag het belangrijkst, al is ook dan niets zeker.",
+ "gemeente": "Hilversum",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

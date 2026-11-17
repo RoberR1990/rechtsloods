@@ -1,0 +1,170 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "steunt": null,
+ "dubbel_van": null,
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij",
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "ecli": "ECLI:NL:RVS:2026:5335",
+ "onderwerp": "politie-justitie",
+ "sub": "wpg-correctie",
+ "zaaktype": "politiegegevens",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "korpschef van politie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger wilde dat de politie zijn gegevens uit twee meldingen over een demonstratie verwijderde. Hij ging in hoger beroep tegen de korpschef van politie bij de Raad van State.",
+ "titel": "Politie hoeft gegevens uit demonstratiemeldingen niet te wissen",
+ "kern": {
+  "zin": "De Afdeling oordeelt dat het in dit geval nodig was om de gegevens in de meldingen te verwerken voor de politietaak.",
+  "bron": [
+   31
+  ],
+  "citaat": "het verwerken van de persoonsgegevens in de mutaties in dit geval noodzakelijk was voor de uitvoering van de dagelijkse politietaak"
+ },
+ "samenvatting": [
+  {
+   "zin": "In 2021 was de burger bij een niet aangemelde tegendemonstratie in Utrecht en moest hij daarna zijn identiteitsgegevens aan de politie geven.",
+   "bron": [
+    22
+   ],
+   "citaat": "was bij de demonstratie aanwezig en is na afloop daarvan om zijn identiteitsgegevens gevraagd door de politie"
+  },
+  {
+   "zin": "De korpschef (de leiding van de politie) weigerde de gegevens te verwijderen, omdat de politie ze nodig heeft voor haar informatiepositie.",
+   "bron": [
+    24
+   ],
+   "citaat": "het verzoek om verwijdering van de persoonsgegevens afgewezen, omdat de gegevens noodzakelijk zijn voor de informatiepositie van de politie"
+  },
+  {
+   "zin": "De burger zei dat de politie de gegevens in de meldingen niet nodig had.",
+   "bron": [
+    28
+   ],
+   "citaat": "het voor de politie niet noodzakelijk is om persoonsgegevens te verwerken in de mutaties"
+  },
+  {
+   "zin": "De rechter vond dat de gegevens van belang kunnen zijn voor de politie bij latere, soortgelijke demonstraties.",
+   "bron": [
+    31
+   ],
+   "citaat": "De persoonsgegevens kunnen van belang zijn voor het handelen van de politie bij toekomstige soortgelijke demonstraties"
+  },
+  {
+   "zin": "De rechter wees ook het verzoek om extra schadevergoeding voor een te lange procedure af.",
+   "bron": [
+    38
+   ],
+   "citaat": "nu deze heeft plaatsgevonden binnen dezelfde periode, geen aanvullende schadevergoeding meer toegekend"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    39
+   ],
+   "citaat": "Het hoger beroep is ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; gegevens blijven staan, geen extra schadevergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De gegevens blijven in de politiemeldingen staan en de burger krijgt geen extra schadevergoeding.",
+  "bron": [
+   39
+  ],
+  "citaat": "Het verzoek om schadevergoeding wegens overschrijding van de redelijke termijn wordt afgewezen"
+ },
+ "bezwaargronden": [
+  {
+   "arg": "te-veel-gegevens",
+   "burger_zegt": "De politie had de namen niet nodig om de inzet en risico's van een demonstratie in te schatten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Zonder de gegevens zijn de meldingen volgens de korpschef niet goed te begrijpen.",
+    "bron": [
+     31
+    ],
+    "citaat": "Zonder deze gegevens zouden de mutaties niet goed te duiden zijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "Verwijdering van de persoonsgegevens uit de mutaties kan in dat geval de informatiepositie van de politie ondermijnen",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "doelbinding",
+   "burger_zegt": "De politie vroeg de gegevens voor een dreigbrief van de burgemeester en niet voor haar informatiepositie.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dat de grondslag voor het vragen van de gegevens onduidelijk was, maakt het opnemen in de meldingen niet onrechtmatig.",
+    "bron": [
+     33
+    ],
+    "citaat": "niet dat de verwerking van de persoonsgegevens in de mutaties op zichzelf ook onrechtmatig was"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet wegneemt dat er een grondslag was om de persoonsgegevens in mutaties op te nemen",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij vroeg schadevergoeding omdat de zaak te lang duurde.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Voor dezelfde periode kreeg hij al een bedrag in een andere zaak.",
+    "bron": [
+     38
+    ],
+    "citaat": "nu deze heeft plaatsgevonden binnen dezelfde periode, geen aanvullende schadevergoeding meer toegekend"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Politie mag persoonsgegevens in een melding zetten als dat nodig is voor de politietaak, bijvoorbeeld om te weten wie er bij een incident was.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Meldingen over deze demonstratie; oordeel over de feiten van deze zaak",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   31
+  ],
+  "citaat": "het verwerken van de persoonsgegevens in de mutaties in dit geval noodzakelijk was voor de uitvoering van de dagelijkse politietaak"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "toelichting van de korpschef op de zitting"
+  ],
+  "wat_gaf_doorslag": "De korpschef legde uit dat de meldingen zonder deze gegevens niet goed te begrijpen zijn."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2024:4765",
+   "ECLI:NL:RVS:2025:2542"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 28 lid 2 Wpg",
+  "art. 8 lid 1 Wpg"
+ ],
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Als u bij een demonstratie was, mag de politie uw naam in een melding bewaren als dat nodig is voor haar taak. Dat gold in deze zaak ook voor een demonstratie die niet was aangemeld. Wilt u uw gegevens laten wissen, dan helpt het als u kunt laten zien dat ze onjuist of niet nodig zijn.",
+ "zekerheid": "middel"
+}

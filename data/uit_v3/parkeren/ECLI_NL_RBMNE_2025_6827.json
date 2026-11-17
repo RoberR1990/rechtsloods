@@ -1,0 +1,165 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2025:6827",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Utrecht (via Belastingsamenwerking)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeerde tegen de gemeente over de vergoeding van zijn juridische hulp in bezwaar en beroep (de proceskosten). Het ging om een naheffing (de rekening achteraf) voor parkeerbelasting; de rechtbank Midden-Nederland besliste daarover.",
+ "titel": "Parkeerder krijgt hogere vergoeding voor juridische hulp in bezwaar",
+ "kern": {
+  "zin": "De rechter oordeelde dat in de bezwaarfase 647 euro per punt moet gelden, en dat de gemeente te laag had gerekend.",
+  "bron": [
+   19
+  ],
+  "citaat": "een waarde per punt moet worden gehanteerd van € 647,-"
+ },
+ "samenvatting": [
+  {
+   "zin": "In het bezwaar liet de gemeente na de vergoeding voor juridische hulp vast te stellen.",
+   "bron": [
+    11
+   ],
+   "citaat": "heeft nagelaten de proceskostenvergoeding vast te stellen"
+  },
+  {
+   "zin": "De parkeerder vond dat de gemeente met 310 euro per punt te laag had gerekend.",
+   "bron": [
+    17
+   ],
+   "citaat": "onterecht uitgegaan van een waarde van € 310,- per punt"
+  },
+  {
+   "zin": "De gemeente hield vast aan 310 euro per punt, met een weging van 0,5.",
+   "bron": [
+    18
+   ],
+   "citaat": "vermenigvuldigd met wegingsfactor 0,5 voor het gewicht van de zaak"
+  },
+  {
+   "zin": "De rechter oordeelde dat in de bezwaarfase 647 euro per punt geldt, gelijk aan andere bestuurszaken.",
+   "bron": [
+    19
+   ],
+   "citaat": "net als bij andere bestuursrechtelijke zaken een waarde per punt moet worden gehanteerd van € 647,-"
+  },
+  {
+   "zin": "De gemeente moet 910,41 euro aan juridische kosten betalen en het griffierecht (het bedrag om naar de rechter te gaan) van 51 euro terugbetalen.",
+   "bron": [
+    40,
+    41,
+    30
+   ],
+   "citaat": "veroordeelt de heffingsambtenaar in de proceskosten van eiser tot een bedrag van"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Alleen vergoeding van proceskosten en griffierecht; de naheffing zelf stond niet ter discussie.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt 910,41 euro juridische kosten en 51 euro griffierecht terug van de gemeente.",
+  "bron": [
+   40,
+   41,
+   30
+  ],
+  "citaat": "veroordeelt de heffingsambtenaar in de proceskosten van eiser tot een bedrag van"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "gelijkheid",
+   "burger_zegt": "Belastingzaken moeten in de bezwaarfase dezelfde waarde per punt krijgen als andere zaken.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Volgens de rechter is een lagere waarde per punt in belastingzaken in de bezwaarfase niet toegestaan.",
+    "bron": [
+     19
+    ],
+    "citaat": "de lagere waarde per punt in zaken met betrekking tot de heffing van belastingen"
+   },
+   "bruikbare_zin": {
+    "citaat": "in de bezwaarfase in strijd is met het discriminatieverbod",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "In beroep hoort de weging licht te zijn, en de repliek moet worden vergoed.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vergoedt de repliek, omdat de rechtbank zelf om die repliek had gevraagd.",
+    "bron": [
+     24
+    ],
+    "citaat": "De rechtbank kent een vergoeding toe voor het indienen van een repliek"
+   },
+   "bruikbare_zin": {
+    "citaat": "omdat dit op verzoek van de rechtbank is gedaan",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij belastingzaken geldt in de bezwaarfase een waarde per punt die gelijk is aan die van andere bestuursrechtelijke zaken.",
+  "type": "regel",
+  "reikwijdte": "proceskostenvergoeding in de bezwaarfase bij belastingzaken",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "net als bij andere bestuursrechtelijke zaken een waarde per punt moet worden gehanteerd van € 647,-"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 3, tweede lid, Besluit proceskosten bestuursrecht",
+  "art. 30a, vierde lid, Wet WOZ"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Stel bij belastingzaken in de bezwaarfase de vergoeding vast met 647 euro per punt.",
+   "raakt": "bezwaar",
+   "bron": [
+    19
+   ],
+   "citaat": "een waarde per punt moet worden gehanteerd van € 647,-"
+  },
+  {
+   "actie": "Vermeld in een uitspraak op bezwaar welke proceshandelingen vergoed worden en welke weging geldt.",
+   "raakt": "bezwaar",
+   "bron": [
+    18
+   ],
+   "citaat": "niet vermeld welke proceshandelingen voor vergoeding in aanmerking komen en welke wegingsfactor daarbij wordt gehanteerd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar"
+ ],
+ "klantuitleg": "Deze uitspraak gaat niet over de vraag of een naheffing terecht is, maar over het bedrag van de vergoeding voor juridische hulp. De rechter vond dat in het bezwaar een hoger bedrag per punt had moeten gelden, en dat de gemeente dit moet betalen. Als u bezwaar maakt met hulp van een bureau, vraag dan na welk bedrag per onderdeel is vastgesteld.",
+ "gemeente": "Utrecht (via Belastingsamenwerking)",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

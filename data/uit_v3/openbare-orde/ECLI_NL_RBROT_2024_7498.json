@@ -1,0 +1,196 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2024:7498",
+ "relevant": true,
+ "onderwerp": "drugspanden",
+ "sub": "waarschuwing-beleid",
+ "kenmerk": "waarschuwing-eerst",
+ "zaaktype": "sluiting-pand",
+ "partijen": {
+  "burger": "huurder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "voorlopige voorziening",
+ "intro": "De burgemeester van Rotterdam wil de woning van een huurder drie maanden sluiten, omdat er drugs en spullen voor drugshandel zijn gevonden. De huurder vraagt de voorzieningenrechter van de rechtbank Rotterdam om dat voorlopig te stoppen.",
+ "titel": "Rechter laat sluiting woning wegens drugs voorlopig doorgaan",
+ "kern": {
+  "zin": "De voorzieningenrechter wijst het verzoek af: de burgemeester mocht de woning sluiten omdat dit een ernstig geval was.",
+  "bron": [
+   42
+  ],
+  "citaat": "de burgemeester de noodzaak tot sluiting van de woning aanwezig heeft mogen achten"
+ },
+ "samenvatting": [
+  {
+   "zin": "De politie vond in de woning van de huurder 8,6 gram heroïne.",
+   "bron": [
+    17
+   ],
+   "citaat": "de politie heeft in zijn woning 8,6 gram heroïne aangetroffen"
+  },
+  {
+   "zin": "Ook vond de politie documenten over drugs en € 6.275 aan contant geld; in de berging lagen mallen om drugs te persen.",
+   "bron": [
+    16
+   ],
+   "citaat": "documenten gevonden over het bewerken en verwerken van drugs, en een geldbedrag van € 6.275,-"
+  },
+  {
+   "zin": "De burgemeester besloot de woning drie maanden te sluiten vanwege een overtreding van de Opiumwet.",
+   "bron": [
+    11
+   ],
+   "citaat": "heeft de burgemeester verzoekers woning gesloten voor drie maanden vanwege een overtreding van de Opiumwet"
+  },
+  {
+   "zin": "De huurder vond dat een waarschuwing genoeg had moeten zijn, omdat er geen loop naar de woning was en geen overlast.",
+   "bron": [
+    37
+   ],
+   "citaat": "Verzoeker vindt dat de burgemeester had kunnen volstaan met het geven van een waarschuwing."
+  },
+  {
+   "zin": "De rechter vond dit een ernstig geval, dus de burgemeester hoefde niet met een waarschuwing te volstaan.",
+   "bron": [
+    42
+   ],
+   "citaat": "hij niet gehouden was om met een minder ingrijpend middel te volstaan"
+  },
+  {
+   "zin": "Ook de gevolgen van de sluiting vond de rechter niet onevenwichtig, dus het verzoek is afgewezen.",
+   "bron": [
+    46
+   ],
+   "citaat": "De voorzieningenrechter vindt de gevolgen van de sluiting in dit geval niet onevenwichtig."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De rechter wijst het verzoek af; de sluiting mag doorgaan.",
+ "gevolg_betrokkene": {
+  "zin": "De woning hoeft niet open te blijven en de huurder krijgt geen vergoeding van griffierecht of proceskosten.",
+  "bron": [
+   48
+  ],
+  "citaat": "de burgemeester niet gehouden is om verzoekers woning open te houden"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "waarschuwing-eerst",
+   "burger_zegt": "Een waarschuwing had genoeg moeten zijn, want er was geen loop naar de woning en geen overlast.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dit een ernstig geval, zodat de burgemeester niet met een waarschuwing hoefde te volstaan.",
+    "bron": [
+     42
+    ],
+    "citaat": "hij niet gehouden was om met een minder ingrijpend middel te volstaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet gehouden was om met een minder ingrijpend middel te volstaan",
+    "bron": [
+     42
+    ]
+   }
+  },
+  {
+   "arg": "eigen-gebruik-kleine-hoeveelheid",
+   "burger_zegt": "Er is maar een kleine hoeveelheid harddrugs gevonden, dus sluiting is te zwaar.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kleine hoeveelheid alleen is niet genoeg voor sluiting, maar de andere omstandigheden maken er samen een ernstig geval van.",
+    "bron": [
+     40
+    ],
+    "citaat": "De aangetroffen hoeveelheid harddrugs is niet zodanig dat alleen daarom al sluiting van de woning gerechtvaardigd is"
+   },
+   "bruikbare_zin": {
+    "citaat": "Feitelijke handel in of vanuit de woning kan worden aangenomen op grond van het in de woning aantreffen van attributen die te relateren zijn aan drugshandel",
+    "bron": [
+     40
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De sluiting is onevenredig zwaar omdat de woningcorporatie de huur wil beëindigen en hij geen andere woonruimte heeft.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de gevolgen groot, maar die komen door de eigen keuzes van de huurder; hij kan met zijn bedrijf andere woonruimte betalen.",
+    "bron": [
+     46
+    ],
+    "citaat": "Dit zijn echter gevolgen die verzoeker zelf moet dragen, gelet op de keuzes die hij zelf heeft gemaakt."
+   },
+   "bruikbare_zin": {
+    "citaat": "gevolgen die verzoeker zelf moet dragen, gelet op de keuzes die hij zelf heeft gemaakt",
+    "bron": [
+     46
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een eerste overtreding volstaat in beginsel een waarschuwing; in ernstige gevallen mag de burgemeester direct sluiten.",
+  "type": "regel",
+  "reikwijdte": "Een eerste overtreding van artikel 13b, eerste lid, Opiumwet in een woning.",
+  "uitzondering": "In ernstige gevallen mag worden afgeweken, bijvoorbeeld bij een handelshoeveelheid harddrugs, handel in of vanuit de woning en een kwetsbare woonwijk.",
+  "herkomst": "wet",
+  "bron": [
+   38
+  ],
+  "citaat": "bij een eerste overtreding nog niet tot sluiting van de woning dient te worden overgegaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "bestuurlijke rapportage van de politie",
+   "aangetroffen heroïne",
+   "documenten over drugs",
+   "contant geld",
+   "mallen in de berging",
+   "anonieme tip"
+  ],
+  "wat_gaf_doorslag": "De vondst van documenten, contant geld en mallen, samen met de verdenkingen en de kwetsbare wijk."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 13b lid 1 Opiumwet",
+  "Beleidslijn bestuurlijke handhaving artikel 13b Opiumwet Rotterdam 2022"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Onderbouw een sluiting na een kleine hoeveelheid harddrugs met aanwijzingen voor handel: attributen, contant geld, verdenkingen en de ligging in een kwetsbare wijk.",
+   "raakt": "drugsbeleid-woningsluiting",
+   "bron": [
+    40
+   ],
+   "citaat": "Feitelijke handel in of vanuit de woning kan worden aangenomen op grond van het in de woning aantreffen van attributen die te relateren zijn aan drugshandel"
+  },
+  {
+   "actie": "Onderbouw bij de evenwichtigheid dat de huurder zelf verwijtbaar is en weeg mee of hij zelf andere woonruimte kan vinden.",
+   "raakt": "drugsbeleid-woningsluiting",
+   "bron": [
+    46
+   ],
+   "citaat": "heeft verzoeker een eigen bedrijf, zodat aannemelijk is dat hij over voldoende inkomsten beschikt om andere woonruimte te vinden"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "handhaving-openbare-orde",
+  "drugsbeleid-woningsluiting",
+  "woningcorporaties-verhuurders",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "De burgemeester mag uw woning sluiten als er harddrugs in zijn gevonden. Bij een eerste keer volstaat in principe een waarschuwing, maar bij een ernstig geval, bijvoorbeeld bij tekenen van handel of in een kwetsbare wijk, mag de burgemeester direct sluiten. Bent u het er niet mee eens, dan kunt u bezwaar maken; de rechter keek ook of u zelf iets te verwijten viel en of u elders kon wonen.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

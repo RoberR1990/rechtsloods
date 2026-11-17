@@ -1,0 +1,172 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2024:834",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (bewoner)",
+  "wederpartij": "gemeente Vlaardingen",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg in Vlaardingen een naheffingsaanslag (een rekening achteraf) omdat hij te laat zou hebben betaald. De gemeente Vlaardingen ging in hoger beroep bij het gerechtshof Den Haag tegen de uitspraak van de rechtbank Rotterdam.",
+ "titel": "Parkeerder probeerde direct te betalen: naheffing Vlaardingen vervalt",
+ "kern": {
+  "zin": "De rechter vond de naheffing onterecht: de parkeerder probeerde direct te betalen en liep daarvoor naar een kantoor 70 meter verderop om de parkeerapp te gebruiken.",
+  "bron": [
+   58
+  ],
+  "citaat": "aangezien hij dat deed met het primaire oogmerk om aldaar de parkeerapp in werking te stellen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeercontroleur zag op 20 september 2022 in Vlaardingen dat voor de auto geen parkeerbelasting was betaald, waarna de gemeente een naheffingsaanslag oplegde.",
+   "bron": [
+    26
+   ],
+   "citaat": "heeft een parkeercontroleur om 12:07:34 uur geconstateerd dat voor de auto geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat zijn parkeerapp eerst niet werkte en dat hij meteen naar het kantoor van zijn advocaat liep, waar hij wel kon betalen.",
+   "bron": [
+    56
+   ],
+   "citaat": "Nadat het aanmelden via zijn parkeerapp niet lukte, is hij meteen naar het kantoor van zijn advocaat gelopen"
+  },
+  {
+   "zin": "De gemeente vond dat de parkeerder niet onverwijld en ononderbroken had geprobeerd te betalen.",
+   "bron": [
+    55
+   ],
+   "citaat": "De Heffingsambtenaar stelt dat belanghebbende niet onverwijld en ononderbroken uitvoeringshandelingen heeft verricht."
+  },
+  {
+   "zin": "Volgens vaste rechtspraak moet de parkeerbelasting bij het begin van het parkeren worden betaald, maar de parkeerder krijgt daar redelijke tijd voor.",
+   "bron": [
+    53
+   ],
+   "citaat": "Aan degene die parkeert moet een zekere redelijke tijd worden gelaten"
+  },
+  {
+   "zin": "De rechter vond dat de parkeerder vanaf het begin onverwijld en ononderbroken bezig was met betalen, en dat de 70 meter naar het kantoor dat niet veranderde.",
+   "bron": [
+    58
+   ],
+   "citaat": "belanghebbende vanaf de aanvang van het parkeren onverwijld en ononderbroken handelingen heeft verricht gericht op het betalen"
+  },
+  {
+   "zin": "De naheffing is dus ten onrechte opgelegd en het hoger beroep van de gemeente is ongegrond.",
+   "bron": [
+    59
+   ],
+   "citaat": "De conclusie is dat de naheffingsaanslag ten onrechte is opgelegd."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing blijft vernietigd; gemeente betaalt proceskosten en griffierecht.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffingsaanslag blijft vernietigd en de gemeente betaalt 437,50 euro proceskosten in hoger beroep en 548 euro griffierecht, na eerder 50 euro griffierecht aan de parkeerder te hebben vergoed.",
+  "bron": [
+   63,
+   64,
+   21,
+   19
+  ],
+  "citaat": "te veroordelen in de door belanghebbende gemaakte proceskosten in hoger beroep"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De parkeerapp werkte eerst niet; hij liep meteen naar het kantoor van zijn advocaat en kon daar binnen enkele minuten betalen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De parkeerder was vanaf het begin onverwijld en ononderbroken bezig met betalen, ook toen hij naar het kantoor liep.",
+    "bron": [
+     58
+    ],
+    "citaat": "belanghebbende vanaf de aanvang van het parkeren onverwijld en ononderbroken handelingen heeft verricht gericht op het betalen"
+   },
+   "bruikbare_zin": {
+    "citaat": "vanaf de aanvang van het parkeren onverwijld en ononderbroken handelingen heeft verricht gericht op het betalen van de verschuldigde parkeerbelasting",
+    "bron": [
+     58
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De controleur zag hem niet omdat hij al binnen was bij zijn advocaat toen hij betaalde.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De parkeerder hoeft tijdens het betalen niet zichtbaar bij de auto te blijven staan.",
+    "bron": [
+     57
+    ],
+    "citaat": "niet vereist is dat gedurende de betalingshandeling de parkeerder zich steeds zichtbaar bij de auto moet opstellen"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet vereist is dat gedurende de betalingshandeling de parkeerder zich steeds zichtbaar bij de auto moet opstellen",
+    "bron": [
+     57
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeerbelasting moet bij het begin van het parkeren worden betaald, maar de parkeerder krijgt redelijke tijd om te betalen, ook via een app.",
+  "type": "regel",
+  "reikwijdte": "Betalen met parkeerapp of automaat in gemeenten waar bij aanvang van het parkeren moet worden betaald, als de parkeerder direct en zonder onderbreking bezig is met betalen.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   53
+  ],
+  "citaat": "Aan degene die parkeert moet een zekere redelijke tijd worden gelaten"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto's van de parkeercontroleur met de tijden 12:07 en 12:08",
+   "aanmelding in de parkeerapp om 12:09",
+   "verklaring van de parkeerder op de zitting"
+  ],
+  "wat_gaf_doorslag": "De parkeerder bevestigde onweersproken dat hij meteen na het parkeren probeerde te betalen en daarna direct naar het kantoor liep."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 234 Gemeentewet",
+  "art. 5 lid 1 Verordening parkeerbelastingen Vlaardingen 2022-1",
+  "art. 6 lid 1 Verordening parkeerbelastingen Vlaardingen 2022-1",
+  "art. 3 lid 1 Aanwijzingsbesluit betaald parkeren Vlaardingen 2020-1",
+  "art. 8:75 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij bezwaar of de parkeerder direct na het parkeren bezig was met betalen en eis niet dat hij tijdens het betalen zichtbaar bij de auto blijft.",
+   "raakt": "bezwaar",
+   "bron": [
+    57
+   ],
+   "citaat": "niet vereist is dat gedurende de betalingshandeling de parkeerder zich steeds zichtbaar bij de auto moet opstellen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "Volgens deze uitspraak is een naheffing niet terecht als u direct na het parkeren onafgebroken bezig bent met betalen, ook als uw parkeerapp eerst niet werkt en u het ergens anders opnieuw probeert. U hoeft daarbij niet zichtbaar bij uw auto te blijven. Kreeg u een naheffing terwijl u meteen probeerde te betalen, dan kan bezwaar zin hebben; bewaar bewijs zoals het tijdstip van uw aanmelding in de app.",
+ "gemeente": "Vlaardingen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

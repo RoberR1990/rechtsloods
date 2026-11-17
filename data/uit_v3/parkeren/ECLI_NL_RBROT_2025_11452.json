@@ -1,0 +1,148 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:11452",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "gehandicaptenkaart",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "inwoner met een loopbeperking",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een inwoner met een loopbeperking vroeg een Europese gehandicaptenparkeerkaart voor een passagier aan. De gemeente Rotterdam, via het college van burgemeester en wethouders, wees die aanvraag af; de rechtbank Rotterdam oordeelde.",
+ "titel": "Parkeerkaart voor passagier geweigerd: de inwoner krijgt geen gelijk",
+ "kern": {
+  "zin": "De rechter oordeelde dat de passagier niet continu begeleid hoeft te worden, dus de weigering blijft.",
+  "bron": [
+   30,
+   23
+  ],
+  "citaat": "dat zij ook niet volledig rolstoelafhankelijk is"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het ging om een Europese gehandicaptenparkeerkaart voor een passagier, die de gemeente weigerde.",
+   "bron": [
+    10
+   ],
+   "citaat": "Europese gehandicaptenparkeerkaart (gehandicaptenparkeerkaart) voor een passagier"
+  },
+  {
+   "zin": "De inwoner vond dat zij van deur tot deur continu afhankelijk is van hulp van de bestuurder.",
+   "bron": [
+    26
+   ],
+   "citaat": "dat zij wel van deur tot deur continu afhankelijk is van hulp van de bestuurder"
+  },
+  {
+   "zin": "De gemeente vroeg een onafhankelijk medisch advies aan bij het team Sociaal Medische Advisering.",
+   "bron": [
+    18
+   ],
+   "citaat": "het team Sociaal Medische Advisering (SMA) gevraagd een onafhankelijk medisch advies uit te brengen"
+  },
+  {
+   "zin": "De rechter vond dat de medische adviezen objectief en inzichtelijk waren, dus de gemeente mocht erop vertrouwen.",
+   "bron": [
+    28
+   ],
+   "citaat": "mits dat advies op een onpartijdige, objectieve en inzichtelijke wijze is opgesteld"
+  },
+  {
+   "zin": "De inwoner krijgt de kaart niet, ook geen griffierecht terug en geen proceskosten.",
+   "bron": [
+    33
+   ],
+   "citaat": "Zij krijgt ook geen vergoeding van haar proceskosten."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Kaart blijft geweigerd; inwoner kan niet aantonen dat zij continu hulp nodig heeft.",
+ "gevolg_betrokkene": {
+  "zin": "De inwoner krijgt de kaart niet en ook geen vergoeding van de proceskosten.",
+  "bron": [
+   33
+  ],
+  "citaat": "Zij krijgt ook geen vergoeding van haar proceskosten."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het medisch advies uit de eerste fase had niet mogen gelden; er had een nieuwe keuring moeten komen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente de medische adviezen mocht gebruiken en geen nieuwe keuring hoefde te laten doen.",
+    "bron": [
+     30
+    ],
+    "citaat": "heeft geen aanleiding hoeven zien om de continue afhankelijkheid nogmaals te laten beoordelen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het college mocht uitgaan van de medische adviezen",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het toetsingskader was onduidelijk, en in bezwaar werd de lat ineens hoger gelegd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de voorwaarde in de Richtlijn duidelijk genoeg, dus de lat werd niet hoger gelegd.",
+    "bron": [
+     29
+    ],
+    "citaat": "In de Richtlijn is concreet en helder uiteengezet wat wordt verstaan onder de voorwaarde"
+   },
+   "bruikbare_zin": {
+    "citaat": "In de Richtlijn is concreet en helder uiteengezet",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een medisch advies mag een gemeente gebruiken, als het onpartijdig, objectief en inzichtelijk is opgesteld.",
+  "type": "regel",
+  "reikwijdte": "medische adviezen die de gemeente bij een aanvraag betrekt",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   28
+  ],
+  "citaat": "mits dat advies op een onpartijdige, objectieve en inzichtelijke wijze is opgesteld"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "medisch advies van de arts",
+   "verslag van de hoorzitting in bezwaar"
+  ],
+  "wat_gaf_doorslag": "Het medisch oordeel over de continue afhankelijkheid, dat de rechter niet betwijfelde."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 1 lid 1 onder b Regeling gehandicaptenparkeerkaart 2013"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver toetsing aan landelijke regels; geen nieuwe taak voor de gemeente",
+ "raakt": [
+  "vergunningen",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een passagierskaart krijgt u alleen als de passagier niet even alleen kan blijven. Kan de passagier na het afzetten zelf wachten, dan wordt de kaart in deze zaak geweigerd. Heeft u medische stukken die laten zien dat u wel continu begeleiding nodig hebt, dan kunt u die aanbieden; zonder die stukken is de kans klein.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

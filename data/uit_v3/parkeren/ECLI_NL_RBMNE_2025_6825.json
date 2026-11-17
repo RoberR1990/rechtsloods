@@ -1,0 +1,158 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2025:6825",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Utrecht (via Belastingsamenwerking)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeerde tegen de gemeente over een naheffing (de rekening achteraf) van 78,33 euro voor parkeerbelasting. De rechtbank Midden-Nederland besliste over het beroep.",
+ "titel": "Rekening voor het parkeren blijft staan; auto stond al eerder",
+ "kern": {
+  "zin": "De rechter vond de rekening terecht, omdat de gemeente voldoende liet zien dat de auto al eerder stond.",
+  "bron": [
+   21
+  ],
+  "citaat": "voldoende concreet gemaakt dat de verklaring van eiser niet kan kloppen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een scanauto legde op 29 maart 2023 om 22:57 uur vast dat de auto stond zonder betaling.",
+   "bron": [
+    15
+   ],
+   "citaat": "Op 29 maart 2023 om 22:57 uur heeft een scanauto vastgesteld"
+  },
+  {
+   "zin": "De parkeerder zei dat hij net was geparkeerd en te weinig tijd kreeg om te betalen.",
+   "bron": [
+    19
+   ],
+   "citaat": "hem geen redelijke termijn is gegund om de parkeerbelasting te voldoen"
+  },
+  {
+   "zin": "De gemeente zei dat de auto al langer stond en dat er niet is geprobeerd te betalen.",
+   "bron": [
+    20
+   ],
+   "citaat": "dat er geen poging is ondernomen om parkeerbelasting te betalen"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente met foto's en eerdere naheffingen concreet had gemaakt dat de verklaring niet klopte.",
+   "bron": [
+    21
+   ],
+   "citaat": "voldoende concreet gemaakt dat de verklaring van eiser niet kan kloppen"
+  },
+  {
+   "zin": "Er komt geen griffierecht (het bedrag om naar de rechter te gaan) terug voor de parkeerder.",
+   "bron": [
+    23
+   ],
+   "citaat": "Eiser krijgt daarom het griffierecht niet terug"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; de parkeerder krijgt geen griffierecht terug.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening van 78,33 euro blijft staan, en het griffierecht komt niet terug.",
+  "bron": [
+   23,
+   15
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij had te weinig tijd om te betalen, en bij de automaat kon na 23:00 uur niet meer worden betaald.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter begint de redelijke betaaltermijn meteen na het parkeren.",
+    "bron": [
+     21
+    ],
+    "citaat": "Die redelijke termijn begint direct nadat de auto wordt geparkeerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "Die redelijke termijn begint direct nadat de auto wordt geparkeerd",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De gemeente moet zelf bewijzen dat hij eerder was gaan staan en dat hij niet wilde betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente met de foto en eerdere naheffingen voldoende had aangetoond dat de verklaring niet kon kloppen.",
+    "bron": [
+     21
+    ],
+    "citaat": "voldoende concreet gemaakt dat de verklaring van eiser niet kan kloppen"
+   },
+   "bruikbare_zin": {
+    "citaat": "de eerdere opgelegde naheffingsaanslagen en de toelichting op het feit dat betalen",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder krijgt na het parkeren een redelijke termijn om de automaat in werking te stellen en te betalen.",
+  "type": "regel",
+  "reikwijdte": "parkeerbelasting, betaling direct na het parkeren",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "Uit vaste rechtspraak volgt ook dat een parkeerder een redelijke termijn moeten worden gegund"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "scanauto-foto's",
+   "foto van de straat richting de parkeerautomaat",
+   "overzicht eerdere naheffingen",
+   "e-mail over betalen bij de automaat"
+  ],
+  "wat_gaf_doorslag": "De foto van de straat en de eerdere naheffingen maakten concreet dat de verklaring niet kon kloppen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar bij een naheffing de scanauto-foto's en het overzicht van eerdere naheffingen als bewijs.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    21
+   ],
+   "citaat": "de eerdere opgelegde naheffingsaanslagen en de toelichting op het feit dat betalen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "scanauto-handhaving",
+  "betaalapp"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren blijft staan als de gemeente laat zien dat u na het parkeren niet op tijd betaalde. In deze zaak vond de rechter dat uw auto al eerder stond dan de tijd die u opgaf. Heeft u bewijs dat uw auto later is geparkeerd, zoals een betaalbewijs of een foto van het scherm, dan kan bezwaar zin hebben; zonder bewijs is de kans klein.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

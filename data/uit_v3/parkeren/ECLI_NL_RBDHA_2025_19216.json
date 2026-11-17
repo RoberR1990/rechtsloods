@@ -1,0 +1,156 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2025:19216",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (kreeg de naheffing)",
+  "wederpartij": "gemeente Leiden",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder kreeg van de gemeente Leiden een naheffingsaanslag parkeerbelasting (de rekening achteraf voor het parkeren) met € 70 aan kosten. De parkeerder ging in beroep bij de rechtbank Den Haag, omdat die kosten volgens hem te hoog waren.",
+ "titel": "Kosten van de rekening achteraf waren niet te hoog",
+ "kern": {
+  "zin": "De rechter vond de kosten van € 70 niet te hoog, omdat de gemeente lager rekende dan haar eigen raming van € 102,26.",
+  "bron": [
+   44
+  ],
+  "citaat": "de gemeente Leiden de kosten ter zake van het opleggen van een naheffingsaanslag parkeerbelasting aanzienlijk lager heeft vastgesteld"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente rekende € 70 aan kosten door bij de naheffing.",
+   "bron": [
+    18
+   ],
+   "citaat": "is € 70 aan kosten in rekening gebracht ter zake van het opleggen van de naheffingsaanslag"
+  },
+  {
+   "zin": "De parkeerder zei dat een aantal kostenposten niet bij de naheffing horen.",
+   "bron": [
+    28
+   ],
+   "citaat": "De volgende kostenposten kunnen niet worden aangemerkt als kosten die verband houden met de naheffingsaanslag"
+  },
+  {
+   "zin": "De gemeente zei dat de kosten wel klopten en gaf per onderdeel uitleg.",
+   "bron": [
+    32
+   ],
+   "citaat": "heeft per bestreden onderdeel van de kostenraming een toelichting gegeven"
+  },
+  {
+   "zin": "De rechter vond dat de betwiste posten meer dan zijdelings bij de inning horen.",
+   "bron": [
+    41
+   ],
+   "citaat": "houden de vier betwiste kostenposten meer dan slechts zijdelings verband met de inning van niet-betaalde parkeerbelasting"
+  },
+  {
+   "zin": "De rechtbank verklaarde het beroep ongegrond.",
+   "bron": [
+    45
+   ],
+   "citaat": "Gelet op wat hiervoor is overwogen, is het beroep ongegrond verklaard"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; kosten van € 70 blijven staan",
+ "gevolg_betrokkene": {
+  "zin": "De kosten van € 70 blijven staan en er is geen vergoeding van proceskosten.",
+  "bron": [
+   47
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De kosten zijn te hoog, omdat posten niet bij de naheffing horen en de overhead te hoog is.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter hangen de betwiste posten meer dan zijdelings samen met de inning.",
+    "bron": [
+     41
+    ],
+    "citaat": "houden de vier betwiste kostenposten meer dan slechts zijdelings verband met de inning van niet-betaalde parkeerbelasting"
+   },
+   "bruikbare_zin": {
+    "citaat": "meer dan slechts zijdelings verband met de inning van niet-betaalde parkeerbelasting",
+    "bron": [
+     41
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het geraamde aantal van 30.000 naheffingen is niet reëel gebleken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond het aantal van 30.000 naheffingen in redelijkheid te schatten.",
+    "bron": [
+     43
+    ],
+    "citaat": "kon het aantal naheffingsaanslagen in redelijkheid worden geraamd op 30.000"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een gemeente kan kosten die voor minstens 10% samenhangen met de inning volledig doorberekenen.",
+  "type": "regel",
+  "reikwijdte": "kosten van een naheffing parkeerbelasting (artikel 2 van het Besluit)",
+  "uitzondering": "kosten die geheel of nagenoeg andere doelen dienen, of die al op een andere manier worden verhaald",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   40
+  ],
+  "citaat": "ingeval de kosten voor tenminste 10% samenhangen, ze volledig mogen worden toegerekend"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "kostenraming 2024 van de gemeente",
+   "toelichting van de gemeente per kostenpost"
+  ],
+  "wat_gaf_doorslag": "De gemeente rekende € 70, terwijl de eigen raming € 102,26 was; dat maakte de kosten niet te hoog."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHAMS:2024:1370"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 Gemeentewet",
+  "art. 2 Besluit gemeentelijke parkeerbelastingen",
+  "art. 3 Besluit gemeentelijke parkeerbelastingen",
+  "Tarieven- en kostentabel Verordening parkeerbelastingen Leiden 2024"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Geef per kostenpost een toelichting bij de kostenraming, zodat die uitleg standhoudt in beroep.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    32
+   ],
+   "citaat": "heeft per bestreden onderdeel van de kostenraming een toelichting gegeven"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar"
+ ],
+ "klantuitleg": "De rechter vond de kosten van € 70 bij deze naheffing niet te hoog, omdat de gemeente lager rekende dan haar eigen raming. In deze zaak ging het alleen om de hoogte van de kosten, niet om de vraag of de naheffing zelf terecht was. Vindt u de kosten te hoog, vraag de gemeente dan om de berekening per kostenpost; bezwaar heeft weinig kans als de gemeente de kosten goed onderbouwt.",
+ "gemeente": "Leiden",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

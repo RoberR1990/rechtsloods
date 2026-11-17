@@ -1,0 +1,143 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2024:10339",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "gehandicaptenkaart",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "aanvrager",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een aanvrager wilde zijn Europese gehandicaptenparkeerkaart laten verlengen. De gemeente Den Haag wees dat af, en de rechtbank Den Haag oordeelde in beroep dat die afwijzing blijft staan.",
+ "titel": "Gehandicaptenparkeerkaart niet verlengd na medisch onderzoek",
+ "kern": {
+  "zin": "De rechter vond de afwijzing terecht, omdat de GGD-arts geen langdurige loopbeperking vond.",
+  "bron": [
+   29
+  ],
+  "citaat": "De rechtbank is van oordeel dat de GGD-arts op deze wijze inzichtelijk heeft gemaakt"
+ },
+ "samenvatting": [
+  {
+   "zin": "De GGD-arts vond na onderzoek dat hij meer dan 100 meter kon lopen.",
+   "bron": [
+    17
+   ],
+   "citaat": "dat eiser in staat wordt geacht meer dan 100 meter te lopen"
+  },
+  {
+   "zin": "Hij vond het medisch advies niet zorgvuldig, omdat er volgens hem geen lichamelijk onderzoek was.",
+   "bron": [
+    21
+   ],
+   "citaat": "dat het SMA onzorgvuldig is opgesteld omdat er geen lichamelijk onderzoek heeft plaatsgevonden"
+  },
+  {
+   "zin": "De gemeente hield de afwijzing bij bezwaar overeind.",
+   "bron": [
+    20
+   ],
+   "citaat": "heeft verweerder, overeenkomstig het advies van de Adviescommissie bezwaarschriften"
+  },
+  {
+   "zin": "De rechter vond dat er tijdens het intakegesprek wel lichamelijk is onderzocht.",
+   "bron": [
+    28
+   ],
+   "citaat": "Tijdens het intakegesprek met de GGD-arts is een lichamelijk onderzoek gedaan"
+  },
+  {
+   "zin": "De rechter wees het beroep af; de afwijzing blijft dus staan.",
+   "bron": [
+    34
+   ],
+   "citaat": "Dit betekent dat de afwijzing van de aanvraag in stand blijft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de afwijzing van de kaart blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De afwijzing blijft staan, dus hij krijgt geen gehandicaptenparkeerkaart en geen proceskosten.",
+  "bron": [
+   34
+  ],
+  "citaat": "Dit betekent dat de afwijzing van de aanvraag in stand blijft"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij zegt dat het medisch advies onzorgvuldig is en dat hij niet lichamelijk is onderzocht.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond het advies zorgvuldig genoeg, omdat er wel een lichamelijk onderzoek was.",
+    "bron": [
+     28
+    ],
+    "citaat": "Met hetgeen eiser verder heeft gesteld is niet aangetoond dat het onderzoek gebrekkig is geweest"
+   },
+   "bruikbare_zin": {
+    "citaat": "Tijdens het intakegesprek met de GGD-arts is een lichamelijk onderzoek gedaan",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een gemeente mag op een medisch advies vertrouwen, tenzij er concrete reden is om eraan te twijfelen.",
+  "type": "regel",
+  "reikwijdte": "besluiten die op een onderzoek van een adviseur berusten, zoals een medisch advies",
+  "uitzondering": "concrete aanknopingspunten voor twijfel aan de juistheid of volledigheid van het advies",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "in beginsel van de juistheid van een advies uitgaan, tenzij concrete aanknopingspunten bestaan voor twijfel"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "brieven van behandelaars",
+   "MRI-onderzoek",
+   "röntgenfoto",
+   "medisch advies van de GGD-arts"
+  ],
+  "wat_gaf_doorslag": "Er kwam geen onafhankelijk tegenadvies, en de extra stukken veranderden het oordeel van de GGD-arts niet."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 49 BABW",
+  "art. 1 Regeling gehandicaptenparkeerkaart",
+  "art. 2 Regeling gehandicaptenparkeerkaart",
+  "art. 3:9 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Neem in het medisch advies op welke onderzoeken zijn gedaan, zoals het lichamelijk onderzoek en contact met behandelaars.",
+   "raakt": "vergunningen",
+   "bron": [
+    28
+   ],
+   "citaat": "Tijdens het intakegesprek met de GGD-arts is een lichamelijk onderzoek gedaan"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een gehandicaptenparkeerkaart krijgt u alleen als vaststaat dat u door een langdurige loopbeperking niet zelfstandig 100 meter kunt lopen. In deze zaak vond de rechter dat de arts zorgvuldig had gekeken en dat de afwijzing terecht was. Heeft u nieuwe medische gegevens, laat ze dan beoordelen; zonder onafhankelijk tegenadvies is bezwaar op dit punt lastig.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

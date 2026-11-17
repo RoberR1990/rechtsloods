@@ -1,0 +1,159 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2020:2256",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "wissen",
+ "kenmerk": "archief",
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "raad voor rechtsbijstand",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "De burger vroeg de raad voor rechtsbijstand om een woord over haar gezondheid uit een aanvraagformulier te wissen. De rechter in Rotterdam oordeelt dat het beroep gegrond is.",
+ "titel": "Rechter: raad moet gezondheidswoord wissen",
+ "kern": {
+  "zin": "De rechter verklaart het beroep gegrond en vernietigt het besluit, omdat de raad het verzoek om het woord te wissen alsnog moet toewijzen.",
+  "bron": [
+   25
+  ],
+  "citaat": "Uit het voorgaande volgt ook dat het verzoek van eiseres alsnog zal moeten worden toegewezen."
+ },
+ "samenvatting": [
+  {
+   "zin": "De advocaat van de burger schreef bij de aanvraag iets over haar gemoedstoestand op het formulier.",
+   "bron": [
+    16
+   ],
+   "citaat": "In het aanvraagformulier is vermeld dat eiseres [gemoedstoestand] is geweest."
+  },
+  {
+   "zin": "De burger vroeg de raad om het woord over haar gezondheid te wissen.",
+   "bron": [
+    19
+   ],
+   "citaat": "In een brief van 16 september 2018 heeft eiseres verweerder verzocht de in het aanvraagformulier vermelde ‘gezondheidsschade’ te wissen."
+  },
+  {
+   "zin": "De raad vond eerst dat hij de gegevens tien jaar moest bewaren.",
+   "bron": [
+    20
+   ],
+   "citaat": "Op grond van het Basisselectiedocument krachtens de Archiefwet geldt een bewaarplicht van tien jaar."
+  },
+  {
+   "zin": "De rechter oordeelt dat het verzoek van de burger om te wissen moet worden toegewezen.",
+   "bron": [
+    25
+   ],
+   "citaat": "Uit het voorgaande volgt ook dat het verzoek van eiseres alsnog zal moeten worden toegewezen."
+  },
+  {
+   "zin": "De raad moet binnen twee weken opnieuw beslissen.",
+   "bron": [
+    32
+   ],
+   "citaat": "draagt verweerder op binnen twee weken na verzending van deze uitspraak een nieuwe beslissing op bezwaar te nemen"
+  },
+  {
+   "zin": "De burger krijgt het griffierecht van € 174 terug.",
+   "bron": [
+    33
+   ],
+   "citaat": "bepaalt dat verweerder aan eiseres het betaalde griffierecht van € 174,-- vergoedt."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "De raad moet het woord wissen; de burger krijgt griffierecht terug.",
+ "gevolg_betrokkene": {
+  "zin": "De raad moet het woord uit het formulier en de systemen verwijderen; de burger krijgt € 174 griffierecht terug.",
+  "bron": [
+   25,
+   33
+  ],
+  "citaat": "Verweerder zal immers zelf het woord ‘ [gemoedstoestand] ’ uit het aanvraagformulier en uit zijn systemen moeten verwijderen."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "wissen-geen-grondslag",
+   "burger_zegt": "Het woord over mijn gezondheid hoeft niet bewaard te blijven; het moet weg.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter draagt de raad op het verzoek alsnog toe te wijzen en het woord te verwijderen.",
+    "bron": [
+     25
+    ],
+    "citaat": "het verzoek van eiseres alsnog zal moeten worden toegewezen"
+   },
+   "bruikbare_zin": {
+    "citaat": "het verzoek van eiseres alsnog zal moeten worden toegewezen",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "gevoelige-gegevens",
+   "burger_zegt": "Mijn advocaat heeft zonder mijn toestemming privacygevoelige informatie over mijn gezondheid op het formulier gezet.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter hoeft hier niet over te beslissen, omdat de raad het verzoek om te wissen alsnog toewijst.",
+    "bron": [
+     24
+    ],
+    "citaat": "geen goede reden om het verzoek van eiseres af te wijzen"
+   },
+   "bruikbare_zin": {
+    "citaat": "zonder haar toestemming privacygevoelige informatie over haar gezondheid op het aanvraagformulier heeft vermeld",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Iemand mag vragen om zijn persoonsgegevens te laten wissen; de organisatie moet dat zonder onredelijke vertraging doen als een van de wettelijke gevallen geldt.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om wissing van persoonsgegevens op grond van de AVG.",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   22
+  ],
+  "citaat": "heeft een betrokkene het recht van de verwerkingsverantwoordelijke zonder onredelijke vertraging wissing van hem betreffende persoonsgegevens te verkrijgen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "aanvraagformulier",
+   "brief van 16 september 2018",
+   "standpunt van de raad ter zitting"
+  ],
+  "wat_gaf_doorslag": "De raad wijzigde zijn standpunt en vond geen goede reden meer om het verzoek af te wijzen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 17 lid 1 AVG",
+  "art. 6 lid 1 onder e AVG",
+  "art. 24 lid 3 Wet op de rechtsbijstand"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "ict-informatiebeveiliging"
+ ],
+ "klantuitleg": "U kunt een organisatie vragen om een gegeven over u te laten wissen. De rechter vond hier dat de raad voor rechtsbijstand geen goede reden had om dat te weigeren. De organisatie moet het gegeven dan zelf uit haar systemen halen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente als partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

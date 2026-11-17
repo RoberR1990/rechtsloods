@@ -1,0 +1,160 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:10381",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder)",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffingsaanslag, omdat de auto zonder betaling stond geparkeerd. De parkeerder ging in beroep bij de rechtbank Rotterdam, omdat de kosten van de naheffing te hoog zouden zijn.",
+ "titel": "Naheffingskosten van € 66,50 niet te hoog; beroep ongegrond",
+ "kern": {
+  "zin": "De rechter vond dat de kosten van de naheffing mogen worden doorberekend, omdat ze samenhangen met de inning.",
+  "bron": [
+   50
+  ],
+  "citaat": "de in de kostenonderbouwing genoemde kosten samenhangen met de inning van niet betaalde parkeerbelastingen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeercontroleur zag de auto op 15 februari 2022 zonder betaling staan.",
+   "bron": [
+    19
+   ],
+   "citaat": "een parkeercontroleur heeft geconstateerd dat de auto van eiser"
+  },
+  {
+   "zin": "De parkeerder vond dat het maximumbedrag van € 66,50 te laat bekend was gemaakt.",
+   "bron": [
+    21
+   ],
+   "citaat": "Het maximale bedrag aan kosten van € 66,50 is in 2021 pas bekend gemaakt"
+  },
+  {
+   "zin": "De parkeerder vond dat sommige kostenposten niet bij een naheffing horen.",
+   "bron": [
+    26
+   ],
+   "citaat": "Ten onrechte zijn verschillende kostenposten meegenomen in de berekening"
+  },
+  {
+   "zin": "De gemeente zei dat de posten samenhangen met het innen van niet betaalde parkeerbelasting.",
+   "bron": [
+    37
+   ],
+   "citaat": "kosten zijn die samenhangen met de inning van niet betaalde parkeerbelasting"
+  },
+  {
+   "zin": "De rechter vond ook de raming voor niet-geïnde naheffingen toelaatbaar.",
+   "bron": [
+    51
+   ],
+   "citaat": "deze kosten samenhangen met de inning van niet betaalde parkeerbelastingen"
+  },
+  {
+   "zin": "Het beroep is ongegrond; de naheffing blijft staan.",
+   "bron": [
+    55
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; kosten van € 66,50 blijven staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing betalen en krijgt geen proceskosten vergoed.",
+  "bron": [
+   53
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De kosten van de naheffing zijn te hoog, omdat sommige posten niet bij de inning horen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de posten samenhangen met de inning, dus de kosten mogen worden verhaald.",
+    "bron": [
+     50
+    ],
+    "citaat": "de in de kostenonderbouwing genoemde kosten samenhangen met de inning van niet betaalde parkeerbelastingen"
+   },
+   "bruikbare_zin": {
+    "citaat": "kunnen kosten die samenhangen met de inning van niet betaalde parkeerbelastingen",
+    "bron": [
+     50
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het maximumbedrag is te laat bekendgemaakt, dus de kosten zijn te hoog.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de late bekendmaking geen gevolgen had voor de verordening.",
+    "bron": [
+     22
+    ],
+    "citaat": "De omstandigheid dat het maximale bedrag te laat bekend is gemaakt"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft naar het oordeel van de rechtbank geen gevolgen",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Gemeenten mogen kosten van de naheffing doorberekenen als die samenhangen met het innen van niet betaalde parkeerbelasting.",
+  "type": "regel",
+  "reikwijdte": "kostenposten voor parkeerinfrastructuur, personeel en informatievoorziening, ook als ze niet alleen voor de inning zijn gemaakt",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   50
+  ],
+  "citaat": "kunnen kosten die samenhangen met de inning van niet betaalde parkeerbelastingen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "kostenonderbouwing naheffingsaanslag parkeerbelasting 2022"
+  ],
+  "wat_gaf_doorslag": "De toelichting van de gemeente op de kostenposten gaf de doorslag."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RBDHA:2022:11871",
+   "ECLI:NL:RBAMS:2022:7481"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 lid 6 Gemeentewet",
+  "art. 2 Besluit gemeentelijke parkeerbelastingen (Bgpb)",
+  "art. 3 lid 2 Bgpb",
+  "art. 8:69a Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente won; geen tekortkoming die de rechter noemt",
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "De rechter vond de kosten van deze naheffing toegestaan, omdat ze samenhangen met het innen van de parkeerbelasting. Vindt u de kosten te hoog, dan kunt u in bezwaar aangeven welke posten volgens u niet bij het innen horen. Lukt dat niet, dan blijft de naheffing met de kosten staan.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,226 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2021:3168",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "overzicht-doelen-ontvangers",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "gemeenschappelijk belastingkantoor GBLT (samenwerking van gemeenten)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger vroeg een gemeenschappelijk belastingkantoor om inzage in zijn persoonsgegevens, nadat een brief naar zijn oude adres was gestuurd. Hij procedeert tegen het dagelijks bestuur van belastingkantoor GBLT bij de rechtbank Overijssel.",
+ "titel": "Burger moet zelf aannemelijk maken dat meer gegevens zijn gedeeld",
+ "kern": {
+  "zin": "De rechter wijst het beroep af, omdat de burger niet aannemelijk maakte dat het belastingkantoor meer gegevens aan anderen gaf dan het meldde.",
+  "bron": [
+   65
+  ],
+  "citaat": "Het enkele vermoeden dat mogelijk vaker (of meer) persoonsgegevens aan derden zijn verstrekt, is in dit kader onvoldoende"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het belastingkantoor stuurde een brief per abuis naar het oude adres van de burger.",
+   "bron": [
+    17
+   ],
+   "citaat": "heeft verweerder een aan eiser gerichte brief verzonden naar eisers oude woonadres"
+  },
+  {
+   "zin": "De burger zegt dat hij geen volledige inzage kreeg in zijn gegevens die aan anderen zijn gegeven.",
+   "bron": [
+    61
+   ],
+   "citaat": "geen volledige inzage heeft gegeven in de hem betreffende persoonsgegevens die aan derden zijn verstrekt"
+  },
+  {
+   "zin": "Het belastingkantoor zegt dat het alle gegevens heeft gegeven die de AVG vraagt.",
+   "bron": [
+    62
+   ],
+   "citaat": "dat hij alle informatie heeft verstrekt die hij op grond van artikel 15"
+  },
+  {
+   "zin": "De rechter vindt dat de burger zelf aannemelijk moet maken dat er meer gegevens zijn verstrekt, en dat lukte niet.",
+   "bron": [
+    65
+   ],
+   "citaat": "Het is daarom aan eiser om aannemelijk te maken dat er meer persoonsgegevens zijn verstrekt"
+  },
+  {
+   "zin": "De rechter wijst ook de schadevergoeding af, omdat de burger zijn schade niet onderbouwde.",
+   "bron": [
+    101
+   ],
+   "citaat": "eiser niet aannemelijk heeft gemaakt dat hij materiële of immateriële schade heeft geleden"
+  },
+  {
+   "zin": "Het beroep is dus ongegrond.",
+   "bron": [
+    105
+   ],
+   "citaat": "Het voorgaande brengt de rechtbank tot de conclusie dat het beroep ongegrond is"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; geen schadevergoeding en geen dwangsom",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen schadevergoeding, geen dwangsom en geen vergoeding van proceskosten.",
+  "bron": [
+   106,
+   109
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Ik kreeg geen volledig overzicht van welke gegevens aan wie zijn verstrekt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een vermoeden dat meer gegevens zijn verstrekt is niet genoeg; de burger moet dat aannemelijk maken.",
+    "bron": [
+     65
+    ],
+    "citaat": "Het enkele vermoeden dat mogelijk vaker (of meer) persoonsgegevens aan derden zijn verstrekt, is in dit kader onvoldoende"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het enkele vermoeden dat mogelijk vaker (of meer) persoonsgegevens aan derden zijn verstrekt, is in dit kader onvoldoende",
+    "bron": [
+     65
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "Het belastingkantoor besliste te laat op mijn verzoek en mijn bezwaar, dus ik krijg een dwangsom.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het besluit kwam binnen twee weken na de ingebrekestelling, en de ingebrekestelling bij het bezwaar was te vroeg.",
+    "bron": [
+     92
+    ],
+    "citaat": "heeft verweerder zich terecht op het standpunt gesteld dat geen dwangsom is verschuldigd"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Mijn e-mailadres mocht niet zonder mijn toestemming voor klantonderzoek worden gebruikt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het belastingkantoor wiste het e-mailadres voor dat doel en stopte de verwerking; daarmee voldeed het aan de AVG.",
+    "bron": [
+     72
+    ],
+    "citaat": "heeft verweerder naar het oordeel van de rechtbank voldaan aan de verplichtingen die op hem rusten"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Ik heb schade door het verstrekken van mijn gegevens aan anderen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger onderbouwde zijn schade niet en er zijn geen aanwijzingen dat de gegevens zijn misbruikt.",
+    "bron": [
+     101
+    ],
+    "citaat": "Er zijn geen aanwijzingen dat de gegevens zijn misbruikt"
+   },
+   "bruikbare_zin": {
+    "citaat": "Er zijn geen aanwijzingen dat de gegevens zijn misbruikt",
+    "bron": [
+     101
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er ontbreken stukken en de geluidsopname van de hoorzitting mocht niet worden vernietigd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het belastingkantoor mocht de opname maken en na het schriftelijke verslag vernietigen, omdat alle deelnemers daarmee instemden.",
+    "bron": [
+     48
+    ],
+    "citaat": "was verweerder naar het oordeel van de rechtbank bevoegd een geluidsopname te maken"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Is de mededeling van het bestuursorgaan dat het niet meer gegevens aan anderen gaf niet ongeloofwaardig, dan moet de burger aannemelijk maken dat er meer gegevens zijn verstrekt.",
+  "type": "regel",
+  "reikwijdte": "Inzageverzoek waarbij het bestuursorgaan stelt dat het alle verstrekkingen aan anderen heeft gemeld",
+  "uitzondering": "Niet als de mededeling van het bestuursorgaan ongeloofwaardig is",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   65
+  ],
+  "citaat": "Het is daarom aan eiser om aannemelijk te maken dat er meer persoonsgegevens zijn verstrekt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "overzicht van verzonden schriftelijke documenten",
+   "schermafdrukken van het computersysteem",
+   "brief van het belastingkantoor van 12 november 2020"
+  ],
+  "wat_gaf_doorslag": "Het vermoeden van de burger was niet genoeg; het belastingkantoor liet zien dat het verkeerd geadresseerde hoorverslag alleen per e-mail naar de burger ging."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2021:675",
+   "ECLI:NL:RVS:2020:899",
+   "ECLI:NL:RVS:2018:3392",
+   "ECLI:NL:CRVB:2014:1459",
+   "ECLI:NL:RVS:2019:698"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 15 AVG",
+  "art. 17 lid 1 AVG",
+  "art. 21 lid 1 AVG",
+  "art. 82 AVG",
+  "art. 4:17 Awb",
+  "art. 7:5 Awb",
+  "art. 7:10 Awb",
+  "art. 8:88 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Wis het e-mailadres voor het doel waartegen de burger bezwaar maakt en stop die verwerking, ook als u de verwerking zelf rechtmatig vindt",
+   "raakt": "privacy-fg",
+   "bron": [
+    72
+   ],
+   "citaat": "Desalniettemin heeft verweerder naar aanleiding van dit bezwaar het door KCM gebruikte e-mailadres gewist"
+  },
+  {
+   "actie": "Meld bij een inzageverzoek per gegeven aan welke ontvangers het is verstrekt en met welk doel",
+   "raakt": "privacy-fg",
+   "bron": [
+    23
+   ],
+   "citaat": "Verweerder heeft aangegeven welke eiser betreffende persoonsgegevens zijn verstrekt aan welke ontvangers"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "U mag vragen welke gegevens de gemeente van u heeft, aan wie ze zijn gegeven en waarom. Denkt u dat er meer gegevens zijn verstrekt dan de gemeente meldt, laat dan zien waarom; alleen een vermoeden is niet genoeg. Maakt u bezwaar tegen het gebruik van uw gegevens voor een bepaald doel, dan kan de gemeente ze voor dat doel wissen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeenschappelijke regeling van gemeenten; geen afzonderlijke gemeente genoemd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

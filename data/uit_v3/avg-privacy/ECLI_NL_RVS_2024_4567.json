@@ -1,0 +1,178 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2024:4567",
+ "relevant": true,
+ "onderwerp": "schade-aansprakelijkheid",
+ "sub": "dwangsom-niet-tijdig",
+ "kenmerk": null,
+ "zaaktype": "niet-tijdig-beslissen",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "gemeente Westland (het college)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger vroeg de gemeente Westland om inzage in haar persoonsgegevens en vond dat de gemeente een dwangsom (een bedrag voor elke dag te laat) moest betalen. Zij ging in hoger beroep bij de Raad van State tegen het college van de gemeente, nadat de rechtbank Den Haag haar beroep ongegrond verklaarde.",
+ "titel": "Geen vergoeding voor te late beslissing: besluit was wel ontvangen",
+ "kern": {
+  "zin": "De Raad van State vond dat de burger het besluit had ontvangen, zodat het college op tijd had beslist en geen dwangsommen verschuldigd was.",
+  "bron": [
+   23
+  ],
+  "citaat": "terecht heeft geoordeeld dat het besluit door [appellante] is ontvangen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg op 30 juli 2018 om inzage in haar persoonsgegevens op grond van de AVG.",
+   "bron": [
+    21
+   ],
+   "citaat": "een inzageverzoek op grond van de Algemene Verordening Gegevensbescherming (hierna: AVG) dat [appellante] op 30 juli 2018 heeft gedaan"
+  },
+  {
+   "zin": "Zij stelde het college in gebreke, waardoor het college 14 dagen kreeg om te beslissen zonder een dwangsom te verbeuren.",
+   "bron": [
+    21
+   ],
+   "citaat": "Hierdoor is een termijn van 14 dagen ingegaan om te beslissen zonder een dwangsom te verbeuren"
+  },
+  {
+   "zin": "Het college stelde het verzoek binnen die termijn buiten behandeling.",
+   "bron": [
+    21
+   ],
+   "citaat": "Het college heeft bij besluit van 26 september 2018, dus binnen deze termijn, het verzoek buiten behandeling gesteld"
+  },
+  {
+   "zin": "In hoger beroep zei de burger dat zij dit besluit niet had ontvangen en dat het college dus dwangsommen had verbeurd.",
+   "bron": [
+    22
+   ],
+   "citaat": "betoogt in hoger beroep dat zij het besluit niet heeft ontvangen"
+  },
+  {
+   "zin": "De Raad van State vond dat stukken lieten zien dat het besluit was ontvangen en dat ontvangst door haar advocaat telt als ontvangst door haar.",
+   "bron": [
+    24
+   ],
+   "citaat": "ontvangst door de gemachtigde geldt als ontvangst door [appellante]"
+  },
+  {
+   "zin": "Daarom heeft het college binnen de termijn beslist en geen dwangsommen verbeurd.",
+   "bron": [
+    26
+   ],
+   "citaat": "Daarmee heeft het college geen dwangsommen verbeurd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; geen dwangsom verbeurd",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen dwangsom en het college hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   28,
+   26
+  ],
+  "citaat": "Het college hoeft geen proceskosten te vergoeden"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "Ik heb het besluit niet ontvangen, dus het college heeft te laat beslist en dwangsommen verbeurd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Alleen zeggen dat zij het besluit niet ontving, was niet genoeg, omdat stukken het tegendeel lieten zien.",
+    "bron": [
+     24
+    ],
+    "citaat": "volstaat de enkele stelling van [appellante] in hoger beroep dat zij het besluit tot buitenbehandelingstelling toch niet heeft ontvangen"
+   },
+   "bruikbare_zin": {
+    "citaat": "de ontvangst van het besluit op geen enkel eerder moment van de rechtsgang is betwist",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het college moet bewijzen dat het besluit is verstuurd, en dat is niet gelukt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Omdat het aannemelijk is dat het besluit is ontvangen, speelt de verzendadministratie van het college geen rol.",
+    "bron": [
+     25
+    ],
+    "citaat": "is de discussie of het college een verzendadministratie heeft waaruit blijkt dat en wanneer het besluit tot buitenbehandelingstelling is verstuurd, niet relevant"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Mijn advocaat ontving het besluit wel, maar ik persoonlijk niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het besluit mocht naar de gemachtigde worden gestuurd en die ontvangst telt als ontvangst door de burger.",
+    "bron": [
+     24
+    ],
+    "citaat": "het besluit aan haar gemachtigde mocht worden verzonden en ontvangst door de gemachtigde geldt als ontvangst door [appellante]"
+   },
+   "bruikbare_zin": {
+    "citaat": "ontvangst door de gemachtigde geldt als ontvangst door [appellante]",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een besluit mag aan de gemachtigde van de burger worden gestuurd; ontvangst door de gemachtigde telt als ontvangst door de burger.",
+  "type": "regel",
+  "reikwijdte": "Besluiten die naar de gemachtigde van de burger zijn gestuurd",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "het besluit aan haar gemachtigde mocht worden verzonden en ontvangst door de gemachtigde geldt als ontvangst door [appellante]"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "derde ingebrekestelling van de toenmalige advocaat van 6 december 2018",
+   "zittingsaantekeningen van de rechtbank",
+   "pleitnota van de gemachtigde in beroep"
+  ],
+  "wat_gaf_doorslag": "De ontvangst was eerder in de procedure nooit betwist en stukken lieten zien dat het besluit was ontvangen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:67 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Stuur een besluit aan de gemachtigde van de burger als die het verzoek namens de burger doet.",
+   "raakt": "bezwaar",
+   "bron": [
+    24
+   ],
+   "citaat": "het besluit aan haar gemachtigde mocht worden verzonden en ontvangst door de gemachtigde geldt als ontvangst door [appellante]"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Vraagt u om inzage in uw gegevens en krijgt u geen antwoord, dan kunt u de gemeente in gebreke stellen (een officiële laatste waarschuwing). Beslist de gemeente daarna binnen de gestelde termijn, bijvoorbeeld door het verzoek buiten behandeling te stellen, dan krijgt u geen dwangsom. Zegt u later dat u het besluit nooit kreeg, onderbouw dat dan goed, want ontvangst door uw advocaat telt ook als ontvangst door u.",
+ "gemeente": "Westland",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

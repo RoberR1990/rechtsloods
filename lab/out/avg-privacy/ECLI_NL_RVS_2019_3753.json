@@ -1,0 +1,192 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2019:3753",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "informatieplicht",
+ "kenmerk": null,
+ "zaaktype": "klacht-handhaving-ap",
+ "partijen": {
+  "burger": "oud-medewerker van een gemeente",
+  "wederpartij": "Autoriteit Persoonsgegevens",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een oud-medewerker van gemeente Nederweert tegen de Autoriteit Persoonsgegevens (AP) bij de Raad van State. Hij wilde dat de AP optrad omdat het college een brief over hem naar de raad stuurde, nog onder de oude privacywet (Wbp).",
+ "titel": "Brief met persoonsgegevens naar gemeenteraad mocht, AP hoefde niet op te treden",
+ "kern": {
+  "zin": "De AP mocht niet optreden, omdat de gemeente de oude privacywet (Wbp) niet had overtreden.",
+  "bron": [
+   28
+  ],
+  "citaat": "de AP niet bevoegd was om tot handhaving over te gaan omdat de Wbp niet is overtreden"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger werkte vroeger bij de gemeente Nederweert en werd in 2009 ontslagen.",
+   "bron": [
+    19
+   ],
+   "citaat": "In het jaar 2009 is hij ontslagen"
+  },
+  {
+   "zin": "Het college stuurde de raad een brief met de redenen voor het ontslag. In die brief stonden persoonsgegevens van de burger.",
+   "bron": [
+    21
+   ],
+   "citaat": "heeft het college op de brief van [appellant] gereageerd en de redenen om tot ontslag over te gaan toegelicht"
+  },
+  {
+   "zin": "De burger vroeg de AP om te handhaven, omdat in de brief fouten stonden en hij geen afschrift kreeg.",
+   "bron": [
+    22
+   ],
+   "citaat": "omdat in de brief van het college feitelijke onjuistheden staan"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente de burger niet apart hoefde te informeren, omdat hij zelf de raad had geschreven.",
+   "bron": [
+    34
+   ],
+   "citaat": "dat [appellant] zelf het initiatief heeft genomen om de raad, door middel van zijn brief van 28 augustus 2009"
+  },
+  {
+   "zin": "De brief gaf volgens de rechter vooral de eigen kijk van het college weer, niet onjuiste feiten.",
+   "bron": [
+    35
+   ],
+   "citaat": "stelt de brief een andere beleving van de gang van zaken tegenover de wijze waarop"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de eerdere uitspraak blijft staan.",
+   "bron": [
+    39
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "AP hoefde niet te handhaven; geen proceskosten",
+ "gevolg_betrokkene": {
+  "zin": "De AP hoeft niet op te treden en de burger krijgt geen proceskosten vergoed.",
+  "bron": [
+   39,
+   40
+  ],
+  "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente had mij moeten melden dat de brief met mijn gegevens naar de raad ging.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente mocht aannemen dat de burger het al wist, omdat hij zelf de raad had aangeschreven.",
+    "bron": [
+     34
+    ],
+    "citaat": "Gelet hierop heeft de AP zich terecht op het standpunt gesteld dat deze uitzondering van toepassing is."
+   },
+   "bruikbare_zin": {
+    "citaat": "van toepassing is op gevallen waarin de verantwoordelijke mag aannemen dat de betrokkene op de hoogte is",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "De brief van het college bevat veel feitelijke onjuistheden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De brief gaf vooral de beleving van het college weer en dat is geen weergave van feiten.",
+    "bron": [
+     35
+    ],
+    "citaat": "betekent daarom, anders dan [appellant] stelt, niet dat de brief feitelijke onjuistheden bevat"
+   },
+   "bruikbare_zin": {
+    "citaat": "gaat het niet om een weergave van feiten",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De brief kwam niet van het hele college en de wethouders moesten als getuigen worden gehoord.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De brief was ondertekend door de burgemeester en de secretaris en er was geen reden te denken dat het college hem niet kende.",
+    "bron": [
+     36
+    ],
+    "citaat": "Er bestaat geen aanleiding voor de veronderstelling dat de collegeleden geen kennis hebben genomen van de brief."
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een organisatie hoeft iemand niet apart te informeren over gegevens die zij van een ander krijgt, als zij mag aannemen dat die persoon het al weet.",
+  "type": "regel",
+  "reikwijdte": "Informatieplicht bij gegevens die niet bij de burger zelf zijn verkregen (art. 34 Wbp).",
+  "uitzondering": "De organisatie mag niet zonder meer aannemen dat de burger het weet; dat hangt af van de omstandigheden.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   34,
+   33
+  ],
+  "citaat": "van toepassing is op gevallen waarin de verantwoordelijke mag aannemen dat de betrokkene op de hoogte is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "brief van het college van 15 september 2009",
+   "brief van de burger van 28 augustus 2009"
+  ],
+  "wat_gaf_doorslag": "De burger had zelf de raad geschreven en gevraagd om zijn controlerende taak uit te voeren."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6 Wbp",
+  "art. 8 onder e Wbp",
+  "art. 33 Wbp",
+  "art. 34 Wbp",
+  "art. 65 Wbp",
+  "art. 59a Gemeentewet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg vast waarom de raad een stuk met persoonsgegevens nodig heeft voor zijn controlerende taak.",
+   "raakt": "privacy-fg",
+   "bron": [
+    29
+   ],
+   "citaat": "voor de raad noodzakelijk was om zijn controlerende taak goed te vervullen"
+  },
+  {
+   "actie": "Controleer of de burger zelf het initiatief nam, want dan hoeft u hem niet apart te informeren.",
+   "raakt": "privacy-fg",
+   "bron": [
+    34
+   ],
+   "citaat": "dat [appellant] zelf het initiatief heeft genomen om de raad, door middel van zijn brief van 28 augustus 2009"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "hr-personeel",
+  "klantcontact"
+ ],
+ "klantuitleg": "Krijgt de gemeente gegevens over u van iemand anders, dan moet zij u dat meestal laten weten. Dat hoeft niet als u al weet dat uw gegevens worden gebruikt, bijvoorbeeld omdat u zelf de aanleiding gaf. Wilt u weten welke gegevens de gemeente van u heeft, dan kunt u om inzage vragen.",
+ "gemeente": "Nederweert",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

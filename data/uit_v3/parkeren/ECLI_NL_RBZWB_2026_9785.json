@@ -1,0 +1,153 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:9785",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (bezoeker met bezoekersregeling)",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder gaat in beroep tegen een naheffing van de gemeente Breda, omdat hij met een bezoekersregeling op een straat stond waar die niet gold. De zaak ligt bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Bezoekersregeling gold niet voor deze straat; naheffing blijft staan",
+ "kern": {
+  "zin": "De rechter vindt dat de parkeerder had kunnen weten dat de bezoekersregeling op deze straat niet gold; geen opzet maakt de belasting niet vervallen.",
+  "bron": [
+   22
+  ],
+  "citaat": "Het lag op de weg van belanghebbende om zich voorafgaand aan het parkeren ervan op de hoogte te stellen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 7 mei 2025 stond een auto in Breda geparkeerd zonder dat parkeerbelasting was betaald.",
+   "bron": [
+    15
+   ],
+   "citaat": "Tijdens een controle op voornoemde datum en tijd is geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zegt dat hij met een geldige bezoekersregeling via de parkeerapp heeft betaald.",
+   "bron": [
+    20
+   ],
+   "citaat": "gebruik te hebben gemaakt van een geldige bezoekersregeling via de parkeerapp"
+  },
+  {
+   "zin": "De gemeente stelt dat de bezoekersregeling strikt gebiedsgebonden is.",
+   "bron": [
+    21
+   ],
+   "citaat": "De heffingsambtenaar stelt dat de bezoekersregeling strikt gebiedsgebonden is"
+  },
+  {
+   "zin": "De rechter vindt dat er geen gerechtvaardigd vertrouwen was, omdat de informatie wel kenbaar was.",
+   "bron": [
+    22
+   ],
+   "citaat": "Van enig gerechtvaardigd vertrouwen kan dan ook geen sprake zijn"
+  },
+  {
+   "zin": "Dat de parkeerder geen opzet had, maakt de belasting volgens de rechter niet vervallen.",
+   "bron": [
+    22
+   ],
+   "citaat": "maakt niet dat daarmee de belastingplicht tot het betalen van parkeerbelasting komt te vervallen"
+  },
+  {
+   "zin": "Het beroep is ongegrond: de naheffing blijft staan en het griffierecht wordt niet terugbetaald.",
+   "bron": [
+    25
+   ],
+   "citaat": "Dat betekent dat de naheffingsaanslag gehandhaafd blijft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan; geen griffierecht of proceskosten terug.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de parkeerder betekent dit dat de naheffing blijft staan en dat hij het griffierecht niet terugkrijgt.",
+  "bron": [
+   25
+  ],
+  "citaat": "Dat betekent dat de naheffingsaanslag gehandhaafd blijft"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij heeft via de parkeerapp met een geldige bezoekersregeling betaald; de voorlichting was onduidelijk.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de gebieden voor de bezoekersregeling kenbaar waren en dat hij zich had moeten informeren.",
+    "bron": [
+     22
+    ],
+    "citaat": "Het lag op de weg van belanghebbende om zich voorafgaand aan het parkeren ervan op de hoogte te stellen"
+   },
+   "bruikbare_zin": {
+    "citaat": "volgt uit de informatie die bij het verlenen van de vergunning wordt verstrekt en de informatie die op de website van de gemeente Breda is gepubliceerd",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De hoogte van de naheffing staat op gespannen voet met het proportionaliteitsbeginsel; een waarschuwing was passender.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ziet geen schending van het proportionaliteitsbeginsel, omdat de naheffing ook de verwerkingskosten dekt.",
+    "bron": [
+     22
+    ],
+    "citaat": "Van een schending van het proportionaliteitsbeginsel is dan ook geen sprake"
+   },
+   "bruikbare_zin": {
+    "citaat": "De kosten van de naheffingsaanslag bestaan naast de te weinig betaalde parkeerbelasting uit de kosten voor de verwerking en het opleggen van de naheffingsaanslag",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeerbelasting is een objectieve belasting; opzet of schuld van de parkeerder telt daarbij niet mee.",
+  "type": "regel",
+  "reikwijdte": "parkeerbelasting en naheffingen bij niet (juist) betaald parkeren",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   22
+  ],
+  "citaat": "De rechtbank overweegt voorts dat de parkeerbelasting een objectieve belasting is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "informatie bij het verlenen van de bezoekersvergunning",
+   "website van de gemeente Breda"
+  ],
+  "wat_gaf_doorslag": "Die informatie maakte duidelijk waar de bezoekersregeling gold, en de parkeerder had die niet nagekeken."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter ziet geen tekortkoming van de gemeente; de voorlichting was voldoende",
+ "raakt": [
+  "betaalapp",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een bezoekersregeling geldt alleen voor de gebieden die daarbij staan, en die vindt u op de website van de gemeente. Parkeert u buiten die gebieden, dan blijft u parkeerbelasting verschuldigd, ook als u een geldige regeling had. Twijfelt u over een gebied, dan kunt u dat vooraf nakijken, want de rechter vond dat dit op de weg van de parkeerder ligt.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

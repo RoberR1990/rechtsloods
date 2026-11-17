@@ -1,0 +1,141 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:11775",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder procedeerde bij de rechtbank Rotterdam tegen de gemeente Rotterdam. Het ging om de vraag of de naheffing van € 73,38 terecht was opgelegd, terwijl de parkeerder een betaalbewijs had.",
+ "titel": "Betaalbewijs woog te licht; naheffing blijft staan",
+ "kern": {
+  "zin": "De rechter vond het betaalbewijs te weinig waard, omdat de betaling niet in de systemen terug te vinden was.",
+  "bron": [
+   23
+  ],
+  "citaat": "legt het betaalbewijs van eiseres onvoldoende gewicht in de schaal"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 18 januari 2024 zag een parkeercontroleur de auto van de parkeerder in Rotterdam zonder betaling staan, en de gemeente legde een naheffing van € 73,38 op.",
+   "bron": [
+    15,
+    16
+   ],
+   "citaat": "geparkeerd stond in de Bergse Dorpsstraat in Rotterdam zonder dat er aan de betaalplicht was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat zij wel had betaald, met een betaalbewijs voor zone 811.",
+   "bron": [
+    21,
+    22
+   ],
+   "citaat": "Eiseres beschikt over een betaalbewijs waaruit blijkt dat zij wel parkeergeld heeft betaald"
+  },
+  {
+   "zin": "De gemeente zocht de betaling na bij de betaalpartijen en vond geen parkeeracties.",
+   "bron": [
+    23
+   ],
+   "citaat": "Hieruit zijn geen parkeeracties naar voren gekomen"
+  },
+  {
+   "zin": "De rechter vond dat het betaalbewijs te weinig gewicht had, zeker omdat de parkeerder niet aanwezig was om de situatie toe te lichten.",
+   "bron": [
+    23
+   ],
+   "citaat": "legt het betaalbewijs van eiseres onvoldoende gewicht in de schaal"
+  },
+  {
+   "zin": "De rechter gaf daarom de gemeente gelijk: het beroep is ongegrond.",
+   "bron": [
+    25
+   ],
+   "citaat": "Dat betekent dat eiseres de naheffingsaanslag moet betalen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; betaalbewijs telde niet mee, geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing van € 73,38 betalen en krijgt het griffierecht niet terug, ook geen proceskosten.",
+  "bron": [
+   25,
+   16
+  ],
+  "citaat": "Eiseres krijgt daarom het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "De parkeerder had wel betaald, met een betaalbewijs.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond het betaalbewijs onvoldoende, omdat de betaling niet in de systemen terug te vinden was.",
+    "bron": [
+     23
+    ],
+    "citaat": "legt het betaalbewijs van eiseres onvoldoende gewicht in de schaal"
+   },
+   "bruikbare_zin": {
+    "citaat": "de parkeeractie uit het betaalbewijs van eiseres niet teruggevonden kan worden in de systemen",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een betaling hoort in de systemen terug te komen als je zoekt op datum en kenteken.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "deze zaak: betaling niet terug te vinden in de gemeentelijke systemen en de parkeerder niet aanwezig op de zitting",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "Wanneer er wordt gezocht op datum en kenteken zou iedere parkeeractie binnen de gemeente moeten verschijnen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "betaalbewijs als bijlage bij het beroepschrift",
+   "e-mails van de betaalpartijen bij het verweerschrift"
+  ],
+  "wat_gaf_doorslag": "De gemeente vond de betaling niet terug in de systemen, waardoor het betaalbewijs te weinig woog."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:36c lid 2 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zoek bij een betwiste betaling bij alle betaalpartijen op datum en kenteken, ook op het foutieve kenteken, en noteer de uitkomst in het dossier.",
+   "raakt": "betaalapp",
+   "bron": [
+    23
+   ],
+   "citaat": "nagekeken bij Yellowbrick, Easypark en Parkmobile, voor zowel het foutieve kenteken"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "betaalapp",
+  "bezwaar"
+ ],
+ "klantuitleg": "Uw betaling was in deze zaak niet terug te vinden bij de betaalpartijen, daarom bleef de rekening voor het parkeren staan. Of een rekening terecht is, hangt af van of uw betaling op de juiste datum en met het juiste kenteken is geregistreerd. Hebt u betaald, vraag dan meteen om het betaalbewijs met datum, tijd, zone en kenteken en neem contact op met de gemeente; of dat helpt, is niet zeker.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

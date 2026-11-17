@@ -1,0 +1,148 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2026:2692",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Zwolle",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder kreeg van de gemeente Zwolle een naheffing van 82,10 euro, omdat de parkeeractie in de app te laat was hervat. De parkeerder ging in beroep bij de rechtbank Overijssel.",
+ "titel": "Extra parkeerrekening bleef staan: app te laat hervat",
+ "kern": {
+  "zin": "De rechter vond de naheffing terecht, omdat een parkeeractie die na een onderbreking wordt hervat niet opnieuw een redelijke termijn krijgt.",
+  "bron": [
+   22,
+   20
+  ],
+  "citaat": "De parkeerder krijgt dan niet nogmaals een redelijke termijn om de parkeerapparatuur in werking te stellen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 9 mei 2025 stond de auto om 16:01 uur geparkeerd zonder aangifte, en de gemeente legde een naheffing (de rekening achteraf) van 82,10 euro op.",
+   "bron": [
+    17,
+    10
+   ],
+   "citaat": "Op dat moment was niet aan de aangifteplicht parkeerbelastingen voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat een afspraak uitliep, waardoor de app pas om 16:02 uur kon worden hervat, en vroeg om coulance (een kleine uitzondering).",
+   "bron": [
+    18
+   ],
+   "citaat": "dat zij een afspraak had die uitliep"
+  },
+  {
+   "zin": "De gemeente liet weten geen coulance toe te passen.",
+   "bron": [
+    19
+   ],
+   "citaat": "dat geen coulance wordt toegepast"
+  },
+  {
+   "zin": "De rechter ziet de naheffing als belasting en niet als straf, en vond de hoogte daarom niet buitenproportioneel.",
+   "bron": [
+    20
+   ],
+   "citaat": "Dit is geen buitenproportionele reactie"
+  },
+  {
+   "zin": "Het beroep is ongegrond, dus de naheffing blijft staan en het griffierecht komt niet terug.",
+   "bron": [
+    24
+   ],
+   "citaat": "Dat betekent dat de naheffingsaanslag in stand blijft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing van 82,10 euro blijft staan, en het griffierecht en de proceskosten worden niet vergoed.",
+  "bron": [
+   24
+  ],
+  "citaat": "Dat betekent dat de naheffingsaanslag in stand blijft"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De naheffing is buitenproportioneel voor een korte overschrijding van enkele minuten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de naheffing geen buitenproportionele reactie, maar een doorberekening van kosten.",
+    "bron": [
+     20
+    ],
+    "citaat": "Dit is geen buitenproportionele reactie"
+   },
+   "bruikbare_zin": {
+    "citaat": "een (door)berekening van gemaakte en door de gemeenteraad jaarlijks vastgestelde kosten",
+    "bron": [
+     20
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er zou een marge van enkele minuten moeten gelden bij het controleren van betalingen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat een verlengde parkeeractie niet opnieuw een redelijke termijn krijgt.",
+    "bron": [
+     22
+    ],
+    "citaat": "De parkeerder krijgt dan niet nogmaals een redelijke termijn om de parkeerapparatuur in werking te stellen"
+   },
+   "bruikbare_zin": {
+    "citaat": "wordt men geacht dit tijdig te doen",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie parkeert, moet meteen bij aanvang betalen; alleen bij de eerste start krijgt die parkeerder een redelijke termijn.",
+  "type": "regel",
+  "reikwijdte": "parkeerbelasting betaald via een parkeerapp",
+  "uitzondering": "In uitzonderlijke gevallen, zoals een acute medische noodsituatie, geldt dit niet.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "Die redelijke termijn begint direct nadat de auto wordt geparkeerd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "betaalhistorie in de parkeerapp (14:57 tot 15:57 en 16:02 tot 16:07 uur)"
+  ],
+  "wat_gaf_doorslag": "De late hervatting van de parkeeractie; de rechter zag geen uitzonderlijke omstandigheid."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter wees geen fout in het besluit of het beleid aan",
+ "raakt": [
+  "betaalapp",
+  "tarief-naheffing",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren is terecht als de parkeeractie niet op tijd is gestart of hervat. Dat geldt ook bij een korte overschrijding van enkele minuten. Bezwaar heeft alleen weinig kans, tenzij er een uitzonderlijke situatie was, zoals een acute medische noodsituatie.",
+ "gemeente": "Zwolle",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

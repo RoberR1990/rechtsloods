@@ -1,0 +1,154 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOBR:2025:5020",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "Belastingsamenwerking Oost-Brabant",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder met een werkgeversvergunning kreeg een naheffingsaanslag parkeerbelasting (de rekening achteraf), omdat hij zijn parkeeractie niet in de parkeerapp had aangemeld. Hij ging in beroep bij de Rechtbank Oost-Brabant, die het beroep ongegrond verklaarde.",
+ "titel": "Vergeten parkeeractie aan te melden: vergunning niet geldig",
+ "kern": {
+  "zin": "De rechter hield de naheffing in stand: zonder aanmelding in de app was de vergunning niet geldig.",
+  "bron": [
+   26
+  ],
+  "citaat": "het niet registreren van een parkeeractie in de parkeerapp 2Park betekent dat de vergunning niet geldig is"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeercontroleur zag op 3 maart 2025 een auto zonder geldig parkeerbewijs.",
+   "bron": [
+    17
+   ],
+   "citaat": "geconstateerd dat de auto geparkeerd stond zonder een geldig parkeerbewijs"
+  },
+  {
+   "zin": "De parkeerder zei dat hij door een telefoontje was afgeleid en de app vergat.",
+   "bron": [
+    24
+   ],
+   "citaat": "Daardoor was eiser afgeleid en vergat hij zijn parkeeractie in de app aan te melden"
+  },
+  {
+   "zin": "Volgens de parkeerder had zijn werkgever toch al betaald, dus was er geen schade.",
+   "bron": [
+    24
+   ],
+   "citaat": "omdat zijn werkgever hoe dan ook heeft betaald voor de parkeervergunning"
+  },
+  {
+   "zin": "De wederpartij verwees naar de Hoge Raad: zonder juiste aanmelding telt de vergunning niet.",
+   "bron": [
+    26
+   ],
+   "citaat": "wijst terecht op rechtspraak van de Hoge Raad"
+  },
+  {
+   "zin": "De rechter oordeelde dat de vergunning niet gold en dat de parkeerder al bij aankomst had moeten betalen.",
+   "bron": [
+    26
+   ],
+   "citaat": "had hij bij aanvang van het parkeren parkeergeld moeten betalen"
+  },
+  {
+   "zin": "De rechter zag geen ruimte om de naheffing om persoonlijke redenen te verlagen.",
+   "bron": [
+    27
+   ],
+   "citaat": "geen ruimte om vanwege persoonlijke omstandigheden de naheffingsaanslag te matigen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; vergunning niet geldig, geen griffierecht terug.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan en de parkeerder krijgt het griffierecht niet terug.",
+  "bron": [
+   30
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "De vergunning van zijn werkgever gold volgens hem ook zonder aanmelding.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Zonder aanmelding in de app is de vergunning niet geldig, dus moest hij betalen.",
+    "bron": [
+     26
+    ],
+    "citaat": "het niet registreren van een parkeeractie in de parkeerapp 2Park betekent dat de vergunning niet geldig is"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft geparkeerd zonder daarbij gebruik te maken van een (geldige) vergunning",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Hij vroeg coulance, omdat hij zich vaak wel had aangemeld en de werkgever al had betaald.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Persoonlijke omstandigheden tellen volgens de rechter niet mee om de naheffing te verlagen, tenzij iemand echt niet kon betalen.",
+    "bron": [
+     27
+    ],
+    "citaat": "geen ruimte om vanwege persoonlijke omstandigheden de naheffingsaanslag te matigen"
+   },
+   "bruikbare_zin": {
+    "citaat": "is die dat juridisch gezien niet en kan die daar ook niet mee worden gelijkgesteld",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een vergunning die de voorwaarden niet volgt, geldt niet als vergunning voor dat parkeren.",
+  "type": "regel",
+  "reikwijdte": "parkeren met een vergunning waarvan de voorwaarden niet zijn nagekomen",
+  "uitzondering": "een uitzonderlijk geval waarin de parkeerder niet redelijkerwijs kon betalen",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   26,
+   27
+  ],
+  "citaat": "geen sprake is van parkeren met een parkeervergunning op het moment dat niet wordt voldaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "waarneming van de parkeercontroleur",
+   "vergunningsvoorwaarden (aanmelden via 2Park)"
+  ],
+  "wat_gaf_doorslag": "Dat de parkeerder de aanmeldvoorwaarde kende en de parkeeractie niet had aangemeld."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "uitspraak bevestigt bestaande regels; geen actie voor gemeente",
+ "raakt": [
+  "vergunningen",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als uw werkgever een parkeervergunning heeft, moet u uw parkeeractie zelf in de app aanmelden; anders is de vergunning niet geldig. Een drukke ochtend of een bedrag dat de werkgever al betaalde, maakt dat niet anders. Heeft u de parkeeractie vergeten, dan blijft de rekening meestal voor u; bezwaar heeft dan weinig kans.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente genoemd; heffing door Belastingsamenwerking Oost-Brabant",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,142 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2024:3441",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (particulier)",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder procedeert tegen de gemeente Breda over een naheffing (de rekening achteraf) van € 59,25. De rechtbank Zeeland-West-Brabant beoordeelt het beroep op de stukken, zonder zitting.",
+ "titel": "Verkeerde parkeerzone betaald: rekening blijft staan",
+ "kern": {
+  "zin": "De rechtbank vindt dat de parkeerder zelf het risico van de verkeerde zone draagt, dus de naheffing blijft staan.",
+  "bron": [
+   28,
+   30
+  ],
+  "citaat": "Het geparkeerd staan in een verkeerde zone blijft voor rekening en risico van belanghebbende"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Breda legde de parkeerder een naheffing van € 59,25 op, omdat er niet was betaald.",
+   "bron": [
+    14,
+    15
+   ],
+   "citaat": "door parkeercontroleurs geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zegt dat de parkeerapp niet duidelijk maakt welk zonenummer hij moet kiezen.",
+   "bron": [
+    22
+   ],
+   "citaat": "Uit de parkeerapplicatie valt niet te herleiden welk zonenummer er geselecteerd dient te worden"
+  },
+  {
+   "zin": "De parkeerder betaalde in zone 21900, die goedkoper is dan zone 21885 waar hij stond.",
+   "bron": [
+    28
+   ],
+   "citaat": "Het tarief in zone 21900 is namelijk lager dan het tarief van de wel van toepassing zijnde zone"
+  },
+  {
+   "zin": "De rechtbank vindt dat hij te weinig heeft betaald en dat het risico van de verkeerde zone bij hem ligt.",
+   "bron": [
+    28
+   ],
+   "citaat": "Naar het oordeel van de rechtbank heeft belanghebbende te weinig parkeerbelasting betaald"
+  },
+  {
+   "zin": "De rechtbank zegt dat de goede bedoelingen van de parkeerder niet tot vernietiging leiden.",
+   "bron": [
+    28
+   ],
+   "citaat": "kan zijn standpunt niet leiden tot vernietiging van de naheffingsaanslag"
+  },
+  {
+   "zin": "De naheffing blijft daarom staan, en de parkeerder krijgt zijn griffierecht niet vergoed.",
+   "bron": [
+    31
+   ],
+   "citaat": "Omdat het beroep ongegrond is, krijgt belanghebbende zijn griffierecht niet vergoed"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; wie in de verkeerde zone parkeert, betaalt zelf.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing van € 59,25 blijft staan, en de parkeerder krijgt zijn griffierecht niet vergoed.",
+  "bron": [
+   30,
+   31
+  ],
+  "citaat": "Dit betekent dat de naheffingsaanslag parkeerbelasting terecht is opgelegd en gehandhaafd blijft"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerapp liet niet zien welk zonenummer hij moest kiezen, en hij had de zones wel nagekeken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vindt dat de parkeerder zelf had moeten uitzoeken welke zone gold.",
+    "bron": [
+     28
+    ],
+    "citaat": "Het lag namelijk op zijn weg om voorafgaande of bij aanvang van het parkeren te onderzoeken"
+   },
+   "bruikbare_zin": {
+    "citaat": "blijft voor rekening en risico van belanghebbende",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie in de verkeerde zone parkeert, draagt zelf het risico; de parkeerder moet vooraf controleren welke zone geldt.",
+  "type": "regel",
+  "reikwijdte": "Parkeerders die een zone of tarief verkeerd kiezen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   28
+  ],
+  "citaat": "Het geparkeerd staan in een verkeerde zone blijft voor rekening en risico van belanghebbende"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "screenshot van de aanmelding in de parkeerapp"
+  ],
+  "wat_gaf_doorslag": "De screenshot liet zien dat hij in een andere zone had betaald."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "art. 1 onder a Verordening heffing en invordering parkeerbelastingen 2023",
+  "art. 2 Verordening Breda",
+  "art. 1 Aanwijzingsbesluit parkeren Breda 2022"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter spreekt zich niet uit over de zonekeuze in de app; geen gebrek bij de gemeente vastgesteld",
+ "raakt": [
+  "betaalapp",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u in de parkeerapp een andere zone kiest dan de zone waar u staat, kan de rekening voor het parkeren toch blijven staan. U bent zelf verantwoordelijk om vooraf te controleren welke zone geldt. Wilt u bezwaar maken, dan helpt een screenshot van uw aanmelding in de app, maar goede bedoelingen alleen zijn niet genoeg.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

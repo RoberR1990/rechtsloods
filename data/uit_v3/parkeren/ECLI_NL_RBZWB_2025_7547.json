@@ -1,0 +1,154 @@
+{
+  "schema": "v3",
+  "ecli": "ECLI:NL:RBZWB:2025:7547",
+  "relevant": true,
+  "onderwerp": "parkeerbelasting",
+  "sub": "betalen",
+  "kenmerk": null,
+  "zaaktype": "naheffing",
+  "partijen": {
+    "burger": "parkeerder",
+    "wederpartij": "gemeente Breda",
+    "gemeente_is_partij": true
+  },
+  "procesvorm": "beroep",
+  "intro": "De gemeente Breda legde de parkeerder een naheffingsaanslag (de rekening achteraf) op voor parkeerbelasting. De parkeerder ging daartegen in beroep bij de rechtbank Zeeland-West-Brabant.",
+  "titel": "Betaald bij andere parkeerplek: rekening blijft staan",
+  "kern": {
+    "zin": "De rechter vond dat betalen voor een garage die niet van de gemeente is niet telt, dus de aanslag blijft staan.",
+    "bron": [
+      25
+    ],
+    "citaat": "Bij deze betaling is echter geen parkeerbelasting voldaan aangezien de parkeergarage niet tot de gemeente behoort."
+  },
+  "samenvatting": [
+    {
+      "zin": "Bij een controle op 28 mei 2024 bleek dat voor de geparkeerde auto geen parkeerbelasting was betaald.",
+      "bron": [
+        14
+      ],
+      "citaat": "Tijdens een controle op voornoemde datum en tijd is door parkeercontroleurs geconstateerd dat geen parkeerbelasting was voldaan."
+    },
+    {
+      "zin": "De gemeente legde een naheffingsaanslag op van 63,95 euro.",
+      "bron": [
+        15
+      ],
+      "citaat": "een naheffingsaanslag parkeerbelasting opgelegd van € 63,95"
+    },
+    {
+      "zin": "De parkeerder zei dat de automaten slecht werkten en dat er daarom met een app is betaald.",
+      "bron": [
+        22
+      ],
+      "citaat": "Belanghebbende voert aan dat de parkeerautomaten zeer slecht werkten"
+    },
+    {
+      "zin": "De rechter zag dat er via de app was betaald, maar voor een parkeergarage die niet van de gemeente is.",
+      "bron": [
+        25
+      ],
+      "citaat": "De rechtbank stelt vast dat belanghebbende via de Q-Park app betaald heeft voor parkeren in de parkeergarage"
+    },
+    {
+      "zin": "Een kapotte automaat maakt betalen niet overbodig, vond de rechter.",
+      "bron": [
+        26
+      ],
+      "citaat": "Een defecte parkeerautomaat leidt er niet toe dat de parkeerder niet hoeft te betalen"
+    }
+  ],
+  "uitkomst": "wederpartij wint",
+  "uitkomst_toelichting": "Beroep ongegrond; aanslag blijft staan, geen proceskosten",
+  "gevolg_betrokkene": {
+    "zin": "De parkeerder houdt de aanslag van 63,95 euro en krijgt geen griffierecht en geen proceskosten terug.",
+    "bron": [
+      28,
+      15
+    ],
+    "citaat": "Belanghebbende krijgt daarom het griffierecht niet terug."
+  },
+  "steunt": "gemeente",
+  "bezwaargronden": [
+    {
+      "arg": "app-automaat-werkte-niet",
+      "burger_zegt": "De parkeerautomaten werkten slecht, dus is de app gebruikt.",
+      "oordeel": "verworpen",
+      "waarom": {
+        "zin": "Een defecte automaat maakt de betaalplicht niet weg; de parkeerder moet zich dan toch inspannen om te betalen.",
+        "bron": [
+          26
+        ],
+        "citaat": "Een defecte parkeerautomaat leidt er niet toe dat de parkeerder niet hoeft te betalen"
+      },
+      "bruikbare_zin": {
+        "citaat": "van de parkeerder enige inspanning mag worden verwacht om de parkeerbelasting alsnog te voldoen",
+        "bron": [
+          26
+        ]
+      }
+    },
+    {
+      "arg": "wel-betaald-fout-zone-kenteken",
+      "burger_zegt": "Er is wel betaald, via de Q-Park app.",
+      "oordeel": "verworpen",
+      "waarom": {
+        "zin": "De rechter zag de app-betaling als betaling voor een andere plek, dus die telt niet mee.",
+        "bron": [
+          25
+        ],
+        "citaat": "Bij deze betaling is echter geen parkeerbelasting voldaan aangezien de parkeergarage niet tot de gemeente behoort."
+      },
+      "bruikbare_zin": {
+        "citaat": "De parkeerplaats waar belanghebbende heeft geparkeerd, behoort wel tot de gemeente.",
+        "bron": [
+          25
+        ]
+      }
+    }
+  ],
+  "rechtsregel": {
+    "zin": "Wie een app gebruikt, moet zelf nagaan of de betaling bij de juiste parkeerplek hoort.",
+    "type": "regel",
+    "reikwijdte": "betaling via een app voor een andere parkeerlocatie dan waar de auto staat",
+    "uitzondering": null,
+    "herkomst": "oordeel rechter",
+    "bron": [
+      25
+    ],
+    "citaat": "Het nalaten van die controle komt voor rekening en risico van de parkeerder."
+  },
+  "bewijs": {
+    "bewijslast_bij": "niet aan de orde",
+    "bewijsmiddelen": [
+      "digitale informatie uit de app"
+    ],
+    "wat_gaf_doorslag": {
+      "zin": "Uit de app bleek dat er voor een parkeergarage is betaald, niet voor de straat.",
+      "bron": [
+        25
+      ],
+      "citaat": "De rechtbank stelt vast dat belanghebbende via de Q-Park app betaald heeft voor parkeren in de parkeergarage"
+    }
+  },
+  "toepasselijkheid": "lokale verordening",
+  "lijn": {
+    "soort": "bevestigt",
+    "eerdere": []
+  },
+  "wetsartikelen": [
+    "art. 225 lid 2 Gemeentewet",
+    "art. 1 onder a Verordening op de heffing en invordering van parkeerbelastingen 2024"
+  ],
+  "actie_gemeente": [],
+  "reden_leeg_actie": "zuiver oordeel over betalen door de parkeerder; geen actie voor de gemeente",
+  "raakt": [
+    "betaalapp",
+    "bezwaar"
+  ],
+  "klantuitleg": "Een rekening voor parkeren is terecht als u niet of niet genoeg heeft betaald, ook als u via een app betaalde voor een andere plek. Een kapotte automaat betekent niet dat u niet hoeft te betalen. Controleer daarom altijd of de app de juiste plek en zone toont voordat u betaalt.",
+  "gemeente": "Breda",
+  "reden_gemeente_leeg": null,
+  "dubbel_van": null,
+  "zekerheid": "hoog"
+}

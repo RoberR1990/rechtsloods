@@ -1,0 +1,165 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2022:367",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Weesp",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeert tegen de gemeente Weesp over twee rekeningen voor het parkeren van dezelfde auto, kort na elkaar over middernacht. De rechtbank Midden-Nederland beslist in deze bestuursrechtelijke zaak.",
+ "titel": "Kosten over de datumgrens: beroep tegen tweede rekening verloren",
+ "kern": {
+  "zin": "De rechter vond dat de datum telt als kalenderdag en niet als periode van 24 uur, dus de tweede rekening blijft staan.",
+  "bron": [
+   20
+  ],
+  "citaat": "naar het algemeen spraakgebruik verwijst ook die term allereerst naar het begrip kalenderdag"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 16 en 17 juli 2021 stond de auto zonder betaling op het P+R-terrein in Weesp.",
+   "bron": [
+    17
+   ],
+   "citaat": "Er was op beide tijdstippen geen parkeerbelasting voldaan"
+  },
+  {
+   "zin": "De parkeerder vond dat de gemeente de kosten van 65,30 euro maar één keer per 24 uur mag rekenen.",
+   "bron": [
+    18
+   ],
+   "citaat": "Eiser voert aan dat hem slechts eenmaal het kostenbedrag van € 65,30 in rekening kan worden gebracht"
+  },
+  {
+   "zin": "De gemeente hield vast aan de Gemeentewet, die kosten maximaal eenmaal per kalenderdag toestaat.",
+   "bron": [
+    19
+   ],
+   "citaat": "Ten aanzien van hetzelfde voertuig worden per aaneengesloten periode de kosten niet vaker dan eenmaal per kalenderdag in rekening gebracht"
+  },
+  {
+   "zin": "De rechter vond dat 'dag' gewoon een kalenderdag is, geen periode van 24 uur.",
+   "bron": [
+    20
+   ],
+   "citaat": "naar het algemeen spraakgebruik verwijst ook die term allereerst naar het begrip kalenderdag"
+  },
+  {
+   "zin": "Volgens de rechter heeft de wetgever het gevolg van die datumgrens kennelijk aanvaard.",
+   "bron": [
+    20
+   ],
+   "citaat": "zijn door de wetgever kennelijk geaccepteerd"
+  },
+  {
+   "zin": "De rechtbank verklaart het beroep ongegrond en kent geen proceskosten toe.",
+   "bron": [
+    25,
+    23
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; tweede kostenpost blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De tweede naheffing blijft staan, dus de parkeerder betaalt die volledig.",
+  "bron": [
+   25
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De gemeente mag de kosten van 65,30 euro maar één keer per 24 uur rekenen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat 'dag' in de wet een kalenderdag is en geen periode van 24 uur.",
+    "bron": [
+     20
+    ],
+    "citaat": "naar het algemeen spraakgebruik verwijst ook die term allereerst naar het begrip kalenderdag"
+   },
+   "bruikbare_zin": {
+    "citaat": "De tekst kan bij eiser niet het vertrouwen hebben gewekt",
+    "bron": [
+     20
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De rechtbank moet de gemeente opdragen de tekst van de Gemeentewet te wijzigen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat de Gemeentewet een landelijke regeling is en dat de rechter niet bepaalt welke regels de overheid maakt.",
+    "bron": [
+     22
+    ],
+    "citaat": "Het is bovendien niet de taak van de rechtbank om voor te schrijven welke wetten en regels de overheid moet uitvaardigen"
+   },
+   "bruikbare_zin": {
+    "citaat": "De Gemeentewet is een regeling van de landelijke wetgever en niet van de gemeente",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een gemeente mag voor dezelfde auto niet vaker dan eens per kalenderdag kosten rekenen.",
+  "type": "regel",
+  "reikwijdte": "kosten bij naheffingsaanslagen voor dezelfde auto binnen een aaneengesloten periode",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   19
+  ],
+  "citaat": "Ten aanzien van hetzelfde voertuig worden per aaneengesloten periode de kosten niet vaker dan eenmaal per kalenderdag in rekening gebracht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "scantijden 16 juli 2021 om 16:39 uur en 17 juli 2021 om 2:25 uur",
+   "tekst op de website van de uitvoerder"
+  ],
+  "wat_gaf_doorslag": "De wettelijke term kalenderdag woog zwaarder dan de tekst op de website."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 234 lid 5 Gemeentewet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Maak op de website duidelijk dat 'dag' een kalenderdag is en niet een periode van 24 uur.",
+   "raakt": "communicatie",
+   "bron": [
+    20
+   ],
+   "citaat": "De tekst op de site waarin het begrip “dag” wordt gebruikt is weliswaar minder eenduidig"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "communicatie",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Deze zaak gaat over twee kosten voor één auto, die vlak na middernacht zijn gerekend. De rekening voor het parkeren mag per dag van 0 tot 24 uur maar één keer worden berekend; omdat het om twee verschillende dagen ging, was de tweede kostenpost in deze zaak terecht. Krijgt u zo'n dubbele rekening, controleer dan de tijden van de scans en de datum.",
+ "gemeente": "Weesp",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

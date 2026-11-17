@@ -1,0 +1,179 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:2423",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Haarlem",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bewoner van Haarlem ging in hoger beroep tegen de gemeente, omdat hij geen parkeervergunning kreeg. De Raad van State oordeelde over de zaak.",
+ "titel": "Geen parkeervergunning als uw woning een eigen garage heeft",
+ "kern": {
+  "zin": "De Raad van State vond de weigering terecht, omdat de bewoner een eigen garagebox heeft en niet aannemelijk maakte dat daar geen normale auto in past.",
+  "bron": [
+   32
+  ],
+  "citaat": "heeft niet aannemelijk gemaakt dat in de garagebox geen normauto kan worden geparkeerd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner vroeg op 1 november 2023 een parkeervergunning aan; de gemeente wees dat af.",
+   "bron": [
+    20
+   ],
+   "citaat": "Het college heeft deze aanvraag op 1 november 2023 afgewezen en is hier met het besluit van 18 juni 2024 bij gebleven"
+  },
+  {
+   "zin": "De gemeente vond dat de bewoner een eigen parkeerplaats heeft en daarom geen vergunning kan krijgen.",
+   "bron": [
+    22
+   ],
+   "citaat": "omdat hij over een eigen parkeerplaats beschikt in de zin van de Parkeerverordening 2018 Gemeente Haarlem"
+  },
+  {
+   "zin": "De bewoner zei dat zijn garage te klein is door de naar binnen draaiende deuren en de scheidingswand.",
+   "bron": [
+    31
+   ],
+   "citaat": "beperken de naar binnendraaiende deuren en de scheidingswand de beschikbare ruimte zodanig"
+  },
+  {
+   "zin": "Hij zei ook dat hij op een vergunning mocht rekenen, omdat de vorige eigenaar zes jaar een vergunning had.",
+   "bron": [
+    31
+   ],
+   "citaat": "Het college heeft immers aan de vorige eigenaar gedurende zes jaar een parkeervergunning verstrekt"
+  },
+  {
+   "zin": "De Raad van State vond dat vaststaat dat de woning een garagebox heeft waar een normale auto in past, en de bewoner maakte het tegendeel niet aannemelijk.",
+   "bron": [
+    32
+   ],
+   "citaat": "heeft niet aannemelijk gemaakt dat in de garagebox geen normauto kan worden geparkeerd"
+  },
+  {
+   "zin": "De gemeente hoeft een eerdere fout niet te herhalen, dus het hoger beroep is ongegrond.",
+   "bron": [
+    34
+   ],
+   "citaat": "Het is vaste rechtspraak van de Afdeling dat het vertrouwensbeginsel niet zo ver strekt dat het bestuursorgaan een gemaakte fout"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Weigering van de parkeervergunning blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner krijgt de parkeervergunning niet en krijgt ook geen proceskosten vergoed.",
+  "bron": [
+   37,
+   38
+  ],
+  "citaat": "De Afdeling bevestigt de uitspraak van de rechtbank"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Mijn garage is te klein voor een auto, omdat de deuren naar binnen opengaan en er een scheidingswand staat.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ging uit van de bouwtekening met een normale auto en vond dat de bewoner het tegendeel niet aannemelijk maakte.",
+    "bron": [
+     32
+    ],
+    "citaat": "heeft niet aannemelijk gemaakt dat in de garagebox geen normauto kan worden geparkeerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft niet aannemelijk gemaakt dat in de garagebox geen normauto kan worden geparkeerd",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik mocht erop vertrouwen dat ik een vergunning kreeg, want de vorige eigenaar had er zes jaar een.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het vertrouwensbeginsel dwingt de gemeente niet om een eerder gemaakte fout te blijven herhalen.",
+    "bron": [
+     34
+    ],
+    "citaat": "Het is vaste rechtspraak van de Afdeling dat het vertrouwensbeginsel niet zo ver strekt dat het bestuursorgaan een gemaakte fout"
+   },
+   "bruikbare_zin": {
+    "citaat": "het vertrouwensbeginsel niet zo ver strekt dat het bestuursorgaan een gemaakte fout moet blijven herhalen",
+    "bron": [
+     34
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Staat op de goedgekeurde bouwtekening een normale auto in de garagebox, dan heeft de woning eigen parkeergelegenheid.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Woningen waarvan de omgevingsvergunning onherroepelijk is en waarvan de bouwtekening een normale auto in de garagebox toont.",
+  "uitzondering": "De aanvrager kan aannemelijk maken dat er toch geen normale auto in de garagebox past.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   32
+  ],
+  "citaat": "Uit de bouwtekening, waarop een normauto ingetekend staat, volgt dat de woning beschikt over een parkeergelegenheid op eigen terrein"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "bouwtekening met normale auto",
+   "onherroepelijke omgevingsvergunning"
+  ],
+  "wat_gaf_doorslag": "De bewoner maakte niet aannemelijk dat er geen normale auto in de garagebox past."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2025:5868"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 4 lid 3 sub a onder ii Parkeerverordening 2018 Haarlem",
+  "art. 4 lid 3 sub f Parkeerverordening 2018 Haarlem",
+  "art. 1 sub k Parkeerverordening 2018 Haarlem",
+  "art. 2.5.30 lid 2 Haarlemse Bouwverordening"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Toets een aanvraag aan de goedgekeurde bouwtekening: staat daarop een normale auto in de garagebox, dan heeft de aanvrager eigen parkeergelegenheid.",
+   "raakt": "vergunningen",
+   "bron": [
+    32
+   ],
+   "citaat": "Uit de bouwtekening, waarop een normauto ingetekend staat"
+  },
+  {
+   "actie": "Leg aan een nieuwe eigenaar uit dat een vergunning van de vorige eigenaar geen recht geeft op een nieuwe vergunning.",
+   "raakt": "klantcontact",
+   "bron": [
+    34
+   ],
+   "citaat": "het vertrouwensbeginsel niet zo ver strekt dat het bestuursorgaan een gemaakte fout moet blijven herhalen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "klantcontact",
+  "verordening-beleid"
+ ],
+ "klantuitleg": "Heeft uw woning een eigen garage of parkeerplek waar een normale auto in past, dan krijgt u in Haarlem geen parkeervergunning voor de straat. Dat de vorige eigenaar wel een vergunning had, helpt niet als die vergunning ten onrechte was verleend. Vindt u uw garage echt te klein, dan helpt het als u met metingen aantoont dat er geen normale auto in past.",
+ "gemeente": "Haarlem",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,243 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2023:1716",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "verzoeker",
+  "wederpartij": "gemeente Horst aan de Maas",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De burger vroeg de gemeente Horst aan de Maas om zijn naam en geboortedatum in de basisregistratie personen (BRP) te veranderen. De gemeente weigerde dat, en de Raad van State beslist nu in hoger beroep of die weigering klopt.",
+ "titel": "Naam en geboortedatum in bevolkingsregister blijven gelijk",
+ "kern": {
+  "zin": "De Raad van State bevestigt de afwijzing omdat niet zeker is dat de documenten bij de burger horen.",
+  "bron": [
+   58
+  ],
+  "citaat": "Uit het voorgaande volgt dat het verband tussen [appellant] en de brondocumenten niet kan worden gelegd."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger wilde zijn naam en geboortedatum in de BRP laten veranderen.",
+   "bron": [
+    19
+   ],
+   "citaat": "[appellant] heeft het college verzocht om zijn gegevens te wijzigen in [naam 2], geboren op [geboortedatum 2] 1985 in Bagdad, Irak."
+  },
+  {
+   "zin": "Hij stuurde een paspoort en identiteitskaart mee waarop de gewenste gegevens staan.",
+   "bron": [
+    40
+   ],
+   "citaat": "Het door [appellant] overgelegde paspoort en de identiteitskaart vermelden de gegevens waar het verzoek om wijziging over gaat."
+  },
+  {
+   "zin": "De gemeente wees het verzoek af omdat ze twijfelt of de documenten bij hem horen.",
+   "bron": [
+    28
+   ],
+   "citaat": "Het college twijfelt niet aan de echtheid van de overgelegde documenten, maar wel of deze betrekking hebben op [appellant]"
+  },
+  {
+   "zin": "De Raad van State zegt dat een paspoort een brondocument kan zijn.",
+   "bron": [
+    40
+   ],
+   "citaat": "De rechtbank heeft ten onrechte overwogen dat een paspoort geen brondocument is."
+  },
+  {
+   "zin": "Toch kan het verband tussen de burger en de documenten niet worden gelegd.",
+   "bron": [
+    58
+   ],
+   "citaat": "Uit het voorgaande volgt dat het verband tussen [appellant] en de brondocumenten niet kan worden gelegd."
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond.",
+   "bron": [
+    64
+   ],
+   "citaat": "Het hoger beroep van [appellant] is ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De rechter bevestigt de afwijzing; de gegevens in de basisregistratie blijven gelijk.",
+ "gevolg_betrokkene": {
+  "zin": "Zijn naam en geboortedatum in de BRP blijven ongewijzigd en hij krijgt geen proceskosten vergoed.",
+  "bron": [
+   64,
+   65
+  ],
+  "citaat": "Het hoger beroep van [appellant] is ongegrond."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Zijn naam en geboortedatum in de BRP zijn onjuist en moeten worden aangepast.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat het verband tussen de burger en de documenten te onzeker is.",
+    "bron": [
+     58
+    ],
+    "citaat": "Uit het voorgaande volgt dat het verband tussen [appellant] en de brondocumenten niet kan worden gelegd."
+   },
+   "bruikbare_zin": {
+    "citaat": "het verband tussen [appellant] en de brondocumenten niet kan worden gelegd",
+    "bron": [
+     58
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Zijn familieleden mochten hun BRP-gegevens wel laten aanpassen, dus hij ook.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat een wijziging bij familie in een andere gemeente niet helpt als de Wet BRP zich tegen wijziging verzet.",
+    "bron": [
+     61
+    ],
+    "citaat": "Wijziging van zijn persoonsgegevens zou daarom in strijd zijn met de Wet brp."
+   },
+   "bruikbare_zin": {
+    "citaat": "kan er daarom niet toe leiden dat de persoonsgegevens van [appellant] toch gewijzigd worden",
+    "bron": [
+     61
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De rechtbank mocht niet oordelen over de betrouwbaarheid van het DNA-onderzoek, want de gemeente had dat niet aangevoerd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat de rechtbank niet buiten het geschil is getreden.",
+    "bron": [
+     55
+    ],
+    "citaat": "De rechtbank is niet buiten de omvang van het geding getreden."
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank is niet buiten de omvang van het geding getreden.",
+    "bron": [
+     55
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De rechter moet uitgaan van de juistheid van een echt paspoort.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De Raad van State zegt dat de rechtbank het paspoort ten onrechte geen brondocument vond.",
+    "bron": [
+     40
+    ],
+    "citaat": "De rechtbank heeft ten onrechte overwogen dat een paspoort geen brondocument is."
+   },
+   "bruikbare_zin": {
+    "citaat": "kan een paspoort een brondocument zijn als bedoeld in artikel 2.8, tweede lid, onder d, van de Wet brp",
+    "bron": [
+     40
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De verschillende schrijfwijzen van namen maken niet dat de documenten niet bij hem horen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat niet duidelijk is welke schrijfwijze de juiste is.",
+    "bron": [
+     52
+    ],
+    "citaat": "is niet duidelijk welke schrijfwijze nu de juiste is"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet duidelijk welke schrijfwijze nu de juiste is",
+    "bron": [
+     52
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor een wijziging van de basisregistratie personen moet buiten redelijke twijfel vaststaan dat de gegevens uit de documenten juist zijn.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om persoonsgegevens in de basisregistratie personen te wijzigen.",
+  "uitzondering": "Als aannemelijk is dat de gegevens onjuist zijn of geen behoorlijk onderzoek is gedaan, worden geen gegevens aan het document ontleend.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   37
+  ],
+  "citaat": "buiten redelijke twijfel uit de overgelegde brondocumenten"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "paspoort",
+   "identiteitskaart",
+   "uittreksels burgerlijke stand",
+   "DNA-onderzoek",
+   "gezichtsvergelijkende onderzoeken",
+   "voornemen IND"
+  ],
+  "wat_gaf_doorslag": "Het ontbreken van een duidelijk verband tussen de documenten en de burger."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2022:1198",
+   "ECLI:NL:RVS:2019:233",
+   "ECLI:NL:RVS:2016:926",
+   "ECLI:NL:RVS:2016:927",
+   "ECLI:NL:RVS:2016:928"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2.8 lid 2 onder d Wet brp",
+  "art. 2.8 lid 2 Wet brp",
+  "art. 2.10 lid 3 Wet brp",
+  "art. 2.58 lid 1 Wet brp",
+  "art. 16 AVG",
+  "art. 17 lid 1 onder d AVG"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Behandel een echt bevonden paspoort als brondocument.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    40
+   ],
+   "citaat": "Het paspoort en de identiteitskaart moeten in dit geval daarom worden aangemerkt als een brondocument"
+  },
+  {
+   "actie": "Onderbouw twijfel aan een paspoort concreet.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    44
+   ],
+   "citaat": "Het is aan het college om een eventuele betwisting daarvan concreet te onderbouwen."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "De gemeente mag uw naam en geboortedatum in de basisregistratie personen alleen veranderen als echt zeker is dat de nieuwe gegevens bij u horen. Dat is hier niet gelukt, ook al waren sommige documenten echt. Wilt u toch een wijziging, stuur dan documenten die duidelijk bij u horen en waar geen twijfel over bestaat.",
+ "gemeente": "Horst aan de Maas",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

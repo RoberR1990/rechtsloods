@@ -1,0 +1,161 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2026:2964",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "particuliere parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner kreeg een Wahv-boete van € 129 voor parkeren in een parkeerverbodszone. Hij ging tegen de beslissing van de officier van justitie in beroep bij de kantonrechter van de rechtbank Noord-Nederland.",
+ "titel": "Boete vernietigd; niet bewezen dat hij buiten het vak stond",
+ "kern": {
+  "zin": "De kantonrechter vernietigde de boete, omdat niet vast stond dat de bewoner buiten een officieel parkeervak stond.",
+  "bron": [
+   27
+  ],
+  "citaat": "Dit maakt dat de gedraging niet kan worden vastgesteld en dat de boete ten onrechte aan betrokkene is opgelegd."
+ },
+ "samenvatting": [
+  {
+   "zin": "Een Wahv-boete van € 129 volgde voor parkeren in een parkeerverbodszone.",
+   "bron": [
+    10
+   ],
+   "citaat": "De opgelegde boete bedraagt € 129,00 (inclusief administratiekosten)."
+  },
+  {
+   "zin": "De bewoner zei dat hij binnen een officieel parkeervak stond.",
+   "bron": [
+    17
+   ],
+   "citaat": "Betrokkene heeft aangevoerd dat hij binnen zo’n officieel parkeervak geparkeerd stond"
+  },
+  {
+   "zin": "De vertegenwoordigster van de officier van justitie liet via Google Maps zien dat de toegangswegen de E1-zone hadden.",
+   "bron": [
+    25
+   ],
+   "citaat": "door middel van Google Maps inzichtelijk gemaakt dat de toegangswegen"
+  },
+  {
+   "zin": "De rechter vond aannemelijk dat er op die plek zestien parkeerplaatsen waren.",
+   "bron": [
+    26
+   ],
+   "citaat": "aan de hand van de stukken van de gemeente Súdwest-Fryslân, aannemelijk heeft gemaakt dat"
+  },
+  {
+   "zin": "De boete wordt vernietigd en de bewoner krijgt het bedrag van de zekerheid terug.",
+   "bron": [
+    30
+   ],
+   "citaat": "bepaalt dat betrokkene het bedrag van de zekerheidstelling terugkrijgt"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete vernietigd; het bedrag van de zekerheid wordt terugbetaald.",
+ "gevolg_betrokkene": {
+  "zin": "De boete wordt vernietigd en de bewoner krijgt het bedrag van de zekerheid terug.",
+  "bron": [
+   30
+  ],
+  "citaat": "bepaalt dat betrokkene het bedrag van de zekerheidstelling terugkrijgt"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Het dichtstbijzijnde E1-bord staat meer dan honderd meter weg en heeft geen duidelijke relatie met de binnenstad.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat er geen eigen E1-bord bij het parkeerpunt hoeft te staan.",
+    "bron": [
+     25
+    ],
+    "citaat": "er hoeft niet een specifiek bord E1 te staan bij de plek"
+   },
+   "bruikbare_zin": {
+    "citaat": "er hoeft niet een specifiek bord E1 te staan bij de plek waar",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Hij stond binnen een officieel parkeervak, dus de boete is ten onrechte opgelegd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de verbalisant niet aangaf dat de bewoner buiten een parkeervak stond.",
+    "bron": [
+     27
+    ],
+    "citaat": "nu deze in zijn verklaring niet aangeeft dat betrokkene binnen een parkeerverbodszone buiten een officieel parkeervak geparkeerd stond"
+   },
+   "bruikbare_zin": {
+    "citaat": "de gedraging niet kan worden vastgesteld",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een verklaring van de handhaver is in een Wahv-zaak in beginsel genoeg, tenzij er concrete twijfel is.",
+  "type": "regel",
+  "reikwijdte": "Wahv-zaken over de vraag of een verkeersovertreding vaststaat.",
+  "uitzondering": "Concrete omstandigheden die twijfel geven.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "tenzij concrete omstandigheden worden aangevoerd die aanleiding geven tot twijfel"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring van de verbalisant in het zaakoverzicht",
+   "foto's van de gedraging",
+   "Google Maps",
+   "plattegrond uit 2023 en stukken van de gemeente"
+  ],
+  "wat_gaf_doorslag": "De verbalisant gaf niet aan dat de bewoner buiten een officieel parkeervak stond."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Wahv",
+  "art. 65 lid 3 RVV 1990",
+  "art. 66 RVV 1990"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Laat de handhaver in het zaakoverzicht vastleggen of het voertuig buiten een officieel vak stond.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    27
+   ],
+   "citaat": "nu deze in zijn verklaring niet aangeeft dat betrokkene"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "scanauto-handhaving",
+  "bebording-verkeersbesluit"
+ ],
+ "klantuitleg": "Een boete voor fout parkeren kan alleen standhouden als duidelijk is dat u op die plek niet mocht staan. Hier was dat niet duidelijk genoeg, dus de boete is vernietigd en het bedrag dat u als borg heeft betaald krijgt u terug. Heeft u stukken, zoals een plattegrond of een bewijs van een toegewezen vak, neem die mee; dat helpt bij een bezwaar of beroep, al ligt de uitkomst niet vast.",
+ "gemeente": "Súdwest-Fryslân",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,165 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2018:4909",
+ "relevant": true,
+ "onderwerp": "rechtmatige-verwerking",
+ "sub": "verstrekking-derden",
+ "kenmerk": null,
+ "zaaktype": "overig",
+ "partijen": {
+  "burger": "verzoekster",
+  "wederpartij": "gemeente Stadskanaal",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "voorlopige voorziening",
+ "intro": "De burgemeester van Stadskanaal stuurde een brief dat hij extra op een vrouw gaat letten, samen met politie en de woningbouwvereniging. De vrouw is het daarmee oneens en vroeg de voorzieningenrechter van de rechtbank Noord-Nederland om een voorlopige voorziening (een snelle tijdelijke beslissing).",
+ "titel": "Brief over persoonsgerichte aanpak is geen besluit",
+ "kern": {
+  "zin": "De rechter beslist dat de brief geen besluit is, omdat de brief geen rechtsgevolgen heeft.",
+  "bron": [
+   22
+  ],
+  "citaat": "De voorzieningenrechter beantwoordt die vraag ontkennend omdat de brief geen rechtgevolgen heeft."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burgemeester van Stadskanaal stuurde op 11 oktober 2018 een brief over een persoonsgerichte aanpak.",
+   "bron": [
+    20
+   ],
+   "citaat": "Bij brief van 11 oktober 2018 heeft verweerder aan verzoekster kenbaar gemaakt over te gaan tot een persoonsgerichte aanpak."
+  },
+  {
+   "zin": "De vrouw was het daarmee oneens, maakte bezwaar en vroeg de rechter om een voorlopige voorziening.",
+   "bron": [
+    21
+   ],
+   "citaat": "Verzoekster heeft bezwaar gemaakt. Zij heeft de voorzieningenrechter verzocht om een voorlopige voorziening te treffen."
+  },
+  {
+   "zin": "De rechter oordeelt dat de brief geen besluit is, omdat de brief geen rechtsgevolgen heeft.",
+   "bron": [
+    22
+   ],
+   "citaat": "De voorzieningenrechter beantwoordt die vraag ontkennend omdat de brief geen rechtgevolgen heeft."
+  },
+  {
+   "zin": "Daarom heeft een bezwaar tegen de brief geen redelijke kans van slagen.",
+   "bron": [
+    25
+   ],
+   "citaat": "heeft het bezwaarschrift geen redelijke kans van slagen"
+  },
+  {
+   "zin": "Voor het verwerken van haar persoonsgegevens kan de vrouw een klacht indienen bij de Autoriteit Persoonsgegevens.",
+   "bron": [
+    23
+   ],
+   "citaat": "kan zij een klacht indienen bij de Autoriteit Persoonsgegevens"
+  },
+  {
+   "zin": "De rechter wijst het verzoek af en er is geen vergoeding voor proceskosten.",
+   "bron": [
+    25
+   ],
+   "citaat": "Evenmin bestaat aanleiding voor een proceskostenveroordeling."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De rechter wijst het verzoek af; de brief is geen besluit.",
+ "gevolg_betrokkene": {
+  "zin": "De vrouw kan tegen de brief geen bezwaar maken en krijgt geen proceskosten vergoed.",
+  "bron": [
+   25
+  ],
+  "citaat": "heeft het bezwaarschrift geen redelijke kans van slagen"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De brief over de persoonsgerichte aanpak is een besluit, dus ik kan daartegen bezwaar maken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de brief geen besluit is omdat de brief geen rechtsgevolgen heeft.",
+    "bron": [
+     22
+    ],
+    "citaat": "De voorzieningenrechter beantwoordt die vraag ontkennend omdat de brief geen rechtgevolgen heeft."
+   },
+   "bruikbare_zin": {
+    "citaat": "de brief geen rechtgevolgen heeft",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "delen-met-derden",
+   "burger_zegt": "De gemeente deelt mijn gegevens met de politie en de woningbouwvereniging en dat mag niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat de brief ook op dit punt geen besluit is; voor klachten over de gegevens kan de vrouw naar de Autoriteit Persoonsgegevens.",
+    "bron": [
+     23
+    ],
+    "citaat": "de brief ook in zoverre geen besluit behelst als bedoeld in artikel 1:3 van de Awb"
+   },
+   "bruikbare_zin": {
+    "citaat": "de brief ook in zoverre geen besluit behelst",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een brief waarin de gemeente aankondigt extra op iemand te letten is geen besluit als de brief geen rechtsgevolgen heeft.",
+  "type": "regel",
+  "reikwijdte": "Brieven over een persoonsgerichte aanpak zonder rechtsgevolgen.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   22
+  ],
+  "citaat": "De voorzieningenrechter beantwoordt die vraag ontkennend omdat de brief geen rechtgevolgen heeft."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2018:3484"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1:3 Awb",
+  "art. 8:81 Awb",
+  "art. 21 AVG"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Wijs de burger in de brief op de mogelijkheid om een klacht in te dienen bij de Autoriteit Persoonsgegevens of bezwaar te maken op grond van artikel 21 van de AVG.",
+   "raakt": "klantcontact",
+   "bron": [
+    23
+   ],
+   "citaat": "kan zij een klacht indienen bij de Autoriteit Persoonsgegevens"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "De gemeente mag u een brief sturen dat zij extra op u let. Dat is geen officieel besluit, dus u kunt daartegen geen bezwaar maken. Bent u het niet eens met hoe de gemeente uw gegevens gebruikt, dan kunt u een klacht indienen bij de Autoriteit Persoonsgegevens of bezwaar maken volgens de privacywet (AVG).",
+ "gemeente": "Stadskanaal",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

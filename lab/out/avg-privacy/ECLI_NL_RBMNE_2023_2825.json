@@ -1,0 +1,160 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2023:2825",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "informatieplicht",
+ "kenmerk": null,
+ "zaaktype": "niet-tijdig-beslissen",
+ "partijen": {
+  "burger": "persoon met een aanvraag bij de universiteit",
+  "wederpartij": "het College van Bestuur van de Universiteit Utrecht",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een persoon ging in beroep omdat de Universiteit Utrecht niet op tijd zou hebben beslist op zijn verzoek. De rechtbank Midden-Nederland oordeelde zonder zitting.",
+ "titel": "Beroep te vroeg: de beslistermijn was nog niet voorbij",
+ "kern": {
+  "zin": "De rechter wees het beroep af zonder het inhoudelijk te bekijken, omdat de beslistermijn nog liep toen de burger het college in gebreke stelde.",
+  "bron": [
+   20
+  ],
+  "citaat": "Het beroep is daarom kennelijk niet-ontvankelijk."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger ging in beroep omdat het college volgens hem niet op tijd had beslist op zijn aanvraag van 9 januari 2023.",
+   "bron": [
+    9
+   ],
+   "citaat": "het beroep dat eiser heeft ingesteld omdat het college volgens hem niet op tijd heeft beslist"
+  },
+  {
+   "zin": "Het college verlengde de beslistermijn bij brief van 10 februari 2023, waardoor die op 13 april 2023 eindigde.",
+   "bron": [
+    15
+   ],
+   "citaat": "Dat heeft het college in deze zaak bij brief van 10 februari 2023 gedaan"
+  },
+  {
+   "zin": "De burger zei dat het college zijn verzoek al op 9 januari had ontvangen en dus te laat was met verlengen.",
+   "bron": [
+    16
+   ],
+   "citaat": "dat het niet mogelijk is dat het college zijn verzoek pas op 13 januari 2023 heeft ontvangen"
+  },
+  {
+   "zin": "De rechter volgde dat niet: het college liet zien dat het verzoek op 13 januari was gestempeld, dus de verlenging was op tijd.",
+   "bron": [
+    16
+   ],
+   "citaat": "Hiermee heeft het college aannemelijk gemaakt dat zij het verzoek op 13 januari 2023 ontvangen heeft."
+  },
+  {
+   "zin": "Ook mocht het college het verzoek als ingewikkeld zien en de termijn verlengen.",
+   "bron": [
+    17
+   ],
+   "citaat": "Aan verweerder komt beoordelingsvrijheid toe om een verzoek als complex aan te merken."
+  },
+  {
+   "zin": "De burger stelde het college op 13 februari 2023 in gebreke, maar toen was de termijn nog niet voorbij.",
+   "bron": [
+    18
+   ],
+   "citaat": "Op dat moment was de beslistermijn nog niet verstreken."
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep te vroeg; zaak niet inhoudelijk beoordeeld",
+ "gevolg_betrokkene": {
+  "zin": "Het beroep wordt niet inhoudelijk behandeld; niemand wordt veroordeeld in de proceskosten.",
+  "bron": [
+   23,
+   22
+  ],
+  "citaat": "Voor een proceskostenveroordeling voor het college bestaat ook geen aanleiding."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "Het college was te laat met het verlengen van de beslistermijn, want hij gaf zijn verzoek al op 9 januari af.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het college liet zien dat het verzoek op 13 januari 2023 was gestempeld.",
+    "bron": [
+     16
+    ],
+    "citaat": "Hiermee heeft het college aannemelijk gemaakt dat zij het verzoek op 13 januari 2023 ontvangen heeft."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het college heeft het verzoek van eiser overgelegd met hierop de datum van 13 januari 2023 gestempeld.",
+    "bron": [
+     16
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het college had niet onderbouwd waarom het een complexe zaak was, dus de verlenging was niet geldig.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het college heeft beoordelingsvrijheid om een verzoek als complex aan te merken.",
+    "bron": [
+     17
+    ],
+    "citaat": "Aan verweerder komt beoordelingsvrijheid toe om een verzoek als complex aan te merken."
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie het bestuursorgaan te vroeg in gebreke stelt, kan niet in beroep wegens niet op tijd beslissen: het beroep is dan niet-ontvankelijk.",
+  "type": "regel",
+  "reikwijdte": "Beroep omdat een bestuursorgaan niet op tijd beslist op een aanvraag of bezwaar",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   14
+  ],
+  "citaat": "Als de betrokkene de ingebrekestelling te vroeg stuurt, is het beroep niet-ontvankelijk."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "gestempelde ontvangstdatum op het verzoek",
+   "brief van het college waarin de termijn werd verlengd"
+  ],
+  "wat_gaf_doorslag": "De ingebrekestelling kwam voordat de verlengde beslistermijn voorbij was."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 12 lid 3 AVG",
+  "art. 8:54 Awb",
+  "art. 6:12 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg de ontvangstdatum van een AVG-verzoek vast, bijvoorbeeld met een stempel, en verleng de beslistermijn schriftelijk binnen een maand na ontvangst.",
+   "raakt": "privacy-fg",
+   "bron": [
+    16
+   ],
+   "citaat": "Het college heeft het verzoek van eiser overgelegd met hierop de datum van 13 januari 2023 gestempeld."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een organisatie mag de termijn voor uw verzoek met twee maanden verlengen als het verzoek ingewikkeld is, en moet dat binnen een maand laten weten. U kunt pas naar de rechter als die termijn voorbij is en u de organisatie schriftelijk twee weken extra tijd hebt gegeven. Kijk dus eerst op welke datum de organisatie uw verzoek heeft ontvangen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente is geen partij (universiteit)",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

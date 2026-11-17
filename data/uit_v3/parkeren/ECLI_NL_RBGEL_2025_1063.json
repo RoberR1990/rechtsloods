@@ -1,0 +1,187 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBGEL:2025:1063",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Arnhem",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een rekening voor het parkeren omdat hij via zijn parkeerapp voor de verkeerde parkeerzone had betaald. Hij ging daartegen in beroep bij de rechtbank Gelderland, tegen de gemeente Arnhem.",
+ "titel": "Verkeerde parkeerzone betaald via app: toch alsnog betalen",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder voor de verkeerde zone had betaald, en dat een fout van de app niet was onderbouwd.",
+  "bron": [
+   31
+  ],
+  "citaat": "Dus belanghebbende heeft betaald voor de verkeerde zone"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde de parkeerder een rekening van 76,30 euro op, omdat hij voor de verkeerde zone had betaald.",
+   "bron": [
+    21
+   ],
+   "citaat": "heeft belanghebbende daarom een naheffingsaanslag parkeerbelasting opgelegd van € 76,30"
+  },
+  {
+   "zin": "De parkeerder zei dat hij via de parkeerapp had betaald voor een zone waar die straat volgens hem bij hoorde.",
+   "bron": [
+    28
+   ],
+   "citaat": "daar hoort ook de [locatie 1] bij"
+  },
+  {
+   "zin": "Zijn gemachtigde stelde dat de app een fout bevatte en dat die fout aan de gemeente was toe te rekenen.",
+   "bron": [
+    30
+   ],
+   "citaat": "is dit toerekenbaar aan de heffingsambtenaar, omdat de heffingsambtenaar de parkeerapp toestaat"
+  },
+  {
+   "zin": "De gemeente zei dat hij op de plek met de app de juiste zonecode zag.",
+   "bron": [
+    32
+   ],
+   "citaat": "dat hij toen de juiste zone code te zien kreeg"
+  },
+  {
+   "zin": "De rechter vond de stelling van een fout in de app niet onderbouwd, en de verkeerde zone blijft voor de parkeerder.",
+   "bron": [
+    31
+   ],
+   "citaat": "De stelling van de gemachtigde dat er sprake is van een fout van [app 2] is niet onderbouwd"
+  },
+  {
+   "zin": "De parkeerder krijgt het griffierecht niet terug en ook geen vergoeding van proceskosten.",
+   "bron": [
+    38
+   ],
+   "citaat": "Belanghebbende krijgt daarom het griffierecht niet terug"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de rekening van 76,30 euro blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening blijft staan en het griffierecht komt niet terug.",
+  "bron": [
+   37
+  ],
+  "citaat": "De naheffingsaanslag parkeerbelasting is terecht opgelegd"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De parkeerapp gaf een fout, en die fout is aan de gemeente toe te rekenen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag geen fout van de app die aan de gemeente is toe te rekenen.",
+    "bron": [
+     32
+    ],
+    "citaat": "Van een aan de heffingsambtenaar toerekenbare fout kan bij deze stand van zaken dan ook geen sprake zijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "Van een aan de heffingsambtenaar toerekenbare fout kan bij deze stand van zaken dan ook geen sprake zijn",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij heeft betaald via de app, dus de rekening voor het parkeren is niet terecht.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag dat hij voor de verkeerde zone had betaald, en dat dat de rekening mogelijk maakte.",
+    "bron": [
+     31
+    ],
+    "citaat": "Dus belanghebbende heeft betaald voor de verkeerde zone"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dus belanghebbende heeft betaald voor de verkeerde zone, waardoor een naheffingsaanslag kon worden opgelegd",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het betaalde bedrag voor de andere zone moet van de rekening worden afgetrokken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat betaling voor de verkeerde zone niet van de rekening wordt afgetrokken.",
+    "bron": [
+     35
+    ],
+    "citaat": "De aanslag hoeft dus niet te worden verlaagd met het bedrag dat voor de verkeerde zone is betaald"
+   },
+   "bruikbare_zin": {
+    "citaat": "De aanslag hoeft dus niet te worden verlaagd met het bedrag dat voor de verkeerde zone is betaald",
+    "bron": [
+     35
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Betaling voor de verkeerde zone wordt niet van de rekening voor het parkeren afgetrokken.",
+  "type": "regel",
+  "reikwijdte": "Parkeerder die voor een andere zone heeft betaald dan waar de auto stond.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   35
+  ],
+  "citaat": "De aanslag hoeft dus niet te worden verlaagd met het bedrag dat voor de verkeerde zone is betaald"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "test met de app op de plek (heffingsambtenaar)",
+   "eigen verklaring van de parkeerder"
+  ],
+  "wat_gaf_doorslag": "De parkeerder maakte niet duidelijk wat de app toonde, en de test op de plek liet de juiste zone zien."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2019:56",
+   "ECLI:NL:GHAMS:2024:979"
+  ]
+ },
+ "wetsartikelen": [
+  "Verordening parkeren en parkeerbelasting 2023 Arnhem",
+  "Uitwerkingsbesluit 2023 Arnhem (gebiedentabel)",
+  "HR 18-1-2019, ECLI:NL:HR:2019:56"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Test bij een betwiste betaling de app zelf op de plek, zoals de heffingsambtenaar hier deed.",
+   "raakt": "betaalapp",
+   "bron": [
+    32
+   ],
+   "citaat": "dat hij toen de juiste zone code te zien kreeg"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "betaalapp",
+  "bezwaar"
+ ],
+ "klantuitleg": "Betaalt u voor de verkeerde zone, dan kan er alsnog een rekening voor het parkeren komen, ook als u via een app betaalde. Alleen als u kunt laten zien dat de app een verkeerde zone toonde, kan dat helpen. Leg daarom vast wat de app op het moment van parkeren toonde; een garantie op succes is dat niet.",
+ "gemeente": "Arnhem",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

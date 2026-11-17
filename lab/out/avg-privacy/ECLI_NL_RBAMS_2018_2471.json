@@ -1,0 +1,163 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2018:2471",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "informatieplicht",
+ "kenmerk": null,
+ "zaaktype": "overig",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger uit Amsterdam kreeg een brief van de gemeente over de Treiteraanpak (een aanpak tegen intimidatie in de buurt). Hij maakte bezwaar tegen die brief. De gemeente nam het bezwaar niet in behandeling. Hij ging daarom in beroep bij de rechtbank Amsterdam.",
+ "titel": "Brief over gegevensdeling en onderzoek: geen bezwaar mogelijk",
+ "kern": {
+  "zin": "De rechter vindt dat een brief die alleen een onderzoek en gegevensuitwisseling aankondigt geen besluit is, dus de gemeente nam het bezwaar terecht niet in behandeling.",
+  "bron": [
+   46
+  ],
+  "citaat": "Verweerder heeft eisers bezwaar tegen die brief daarom terecht niet-ontvankelijk verklaard."
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente stuurde de burger een brief. Daarin stond dat er meldingen over hem waren en dat een onderzoek was gestart.",
+   "bron": [
+    19
+   ],
+   "citaat": "Het stadsdeel Zuidoost heeft meldingen over u ontvangen."
+  },
+  {
+   "zin": "De burger zegt dat de brief hem al als dader bestempelt en zijn positie verandert.",
+   "bron": [
+    29
+   ],
+   "citaat": "Eiser wordt hiermee al voordat een onderzoek heeft plaatsgevonden als dader bestempeld."
+  },
+  {
+   "zin": "De gemeente zegt dat de brief alleen meldt dat gegevens worden uitgewisseld.",
+   "bron": [
+    34
+   ],
+   "citaat": "om eiser ervan op de hoogte te stellen dat gegevensuitwisseling plaatsvindt"
+  },
+  {
+   "zin": "De rechter oordeelt dat de aankondiging van de gegevensuitwisseling geen recht of plicht doet ontstaan of verdwijnen.",
+   "bron": [
+    45
+   ],
+   "citaat": "De aankondiging dat gegevensuitwisseling zal plaatsvinden, is er namelijk niet op gericht een recht of verplichting te doen ontstaan of teniet te doen."
+  },
+  {
+   "zin": "De burger kan wel naar de civiele rechter of de Autoriteit Persoonsgegevens stappen en zijn rechten op inzage en wijziging gebruiken.",
+   "bron": [
+    47
+   ],
+   "citaat": "neemt immers niet weg dat eiser zich kan wenden tot de civiele rechter of de Autoriteit Persoonsgegevens"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de brief is geen besluit, bezwaar terecht niet-ontvankelijk.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen inhoudelijke behandeling van zijn bezwaar, geen proceskosten en geen griffierecht terug; later bleek dat hij niet als dader is aangemerkt.",
+  "bron": [
+   49,
+   36
+  ],
+  "citaat": "Voor een proceskostenveroordeling of vergoeding van het griffierecht bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De brief is een besluit, want hij wordt als dader bestempeld en zijn rechtspositie verandert.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ziet de aankondiging van het onderzoek als een feitelijke mededeling zonder rechtsgevolg.",
+    "bron": [
+     43
+    ],
+    "citaat": "is naar het oordeel van de rechtbank een feitelijke mededeling die niet is gericht op rechtsgevolg"
+   },
+   "bruikbare_zin": {
+    "citaat": "De aankondiging dat een onderzoek wordt gestart, is naar het oordeel van de rechtbank een feitelijke mededeling",
+    "bron": [
+     43
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij moet rechtsbescherming krijgen tegen de brief.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Ook zonder bezwaar kan de burger naar de civiele rechter of de Autoriteit Persoonsgegevens, en inzage of wijziging vragen.",
+    "bron": [
+     47
+    ],
+    "citaat": "neemt immers niet weg dat eiser zich kan wenden tot de civiele rechter of de Autoriteit Persoonsgegevens"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat tegen de brief van 2 februari 2017 geen rechtsgang bij de bestuursrechter openstaat",
+    "bron": [
+     47
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Tegen een mededeling over gegevensverwerking (art. 33 en 34 Wbp) staan geen bezwaar en beroep open.",
+  "type": "regel",
+  "reikwijdte": "Een brief van de gemeente die alleen meldt dat gegevens worden uitgewisseld en dat een onderzoek start (oude wet Wbp).",
+  "uitzondering": "Een beslissing op een verzoek om inzage of wijziging (art. 35 en 36 Wbp) geldt wel als besluit.",
+  "herkomst": "wet",
+  "bron": [
+   46
+  ],
+  "citaat": "Evenmin is er een andere wettelijke bepaling aan te wijzen op grond waarvan tegen een mededeling als bedoeld in de artikelen 33 en 34 van de Wbp bezwaar en beroep open staat."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "brief van 2 februari 2017",
+   "toelichting van de gemeente op de zitting"
+  ],
+  "wat_gaf_doorslag": "De brief kondigde alleen een onderzoek en gegevensuitwisseling aan, zonder rechtsgevolg."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 1:3 lid 1 Awb",
+  "art. 33 Wbp",
+  "art. 34 Wbp",
+  "art. 35 Wbp",
+  "art. 36 Wbp",
+  "art. 45 Wbp"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Geef een brief die alleen informeert een passende titel, zoals notificatiebrief in plaats van waarschuwingsbrief.",
+   "raakt": "communicatie",
+   "bron": [
+    36
+   ],
+   "citaat": "daar had ‘notificatiebrief’ moeten staan"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "communicatie"
+ ],
+ "klantuitleg": "Een brief van de gemeente die alleen meldt dat er een onderzoek start en dat gegevens worden uitgewisseld, is volgens deze rechter geen besluit. U kunt daar dus geen bezwaar tegen maken. U kunt wel vragen welke gegevens de gemeente van u heeft en om aanpassing, of een klacht indienen bij de Autoriteit Persoonsgegevens.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

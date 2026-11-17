@@ -1,0 +1,155 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOBR:2025:4860",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Eindhoven",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffingsaanslag (de rekening achteraf) in Eindhoven, omdat zij niet op tijd had betaald. Zij ging in beroep bij de rechtbank Oost-Brabant, tegen de gemeente Eindhoven.",
+ "titel": "Parkeerrekening blijft staan: app pas na de controle gestart",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder genoeg tijd had om te betalen, dus de rekening blijft staan.",
+  "bron": [
+   24
+  ],
+  "citaat": "eiseres ook voldoende tijd is gegund om de parkeerapparatuur"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeercontroleur zag de auto om ongeveer 10:23 uur staan zonder geldig parkeerbewijs.",
+   "bron": [
+    18
+   ],
+   "citaat": "omstreeks 10:23 uur geconstateerd dat de auto van eiseres geparkeerd stond zonder een geldig parkeerbewijs"
+  },
+  {
+   "zin": "De gemachtigde van de parkeerder zei dat het niet duidelijk was dat hier parkeerbelasting gold.",
+   "bron": [
+    23
+   ],
+   "citaat": "dat onduidelijk was dat ter plaatse parkeerbelasting verschuldigd was"
+  },
+  {
+   "zin": "De parkeerder zei dat zij nog bezig was de app te activeren toen de rekening werd opgelegd.",
+   "bron": [
+    25
+   ],
+   "citaat": "dat zij in haar auto nog bezig was de parkeerapp in werking te stellen"
+  },
+  {
+   "zin": "De gemeente vond vijf minuten redelijk, en de rechter volgde dat.",
+   "bron": [
+    24
+   ],
+   "citaat": "De heffingsambtenaar vindt dat voor een geval als dit een termijn van vijf minuten redelijk is"
+  },
+  {
+   "zin": "De rechter ging ervan uit dat de vrouw op de scanautofoto de parkeerder was.",
+   "bron": [
+    25
+   ],
+   "citaat": "De rechtbank gaat ervan uit dat deze vrouw eiseres is."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; rekening blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt het griffierecht niet terug en geen proceskosten.",
+  "bron": [
+   29
+  ],
+  "citaat": "Eiseres krijgt daarom het griffierecht niet terug."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Het was niet duidelijk dat hier parkeerbelasting verschuldigd was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de parkeerautomaat naast de plek voldoende duidelijk.",
+    "bron": [
+     23
+    ],
+    "citaat": "Reeds uit de aanwezigheid van een parkeerautomaat nabij de parkeerplaats kan de verplichting om parkeerbelasting te voldoen voldoende blijken"
+   },
+   "bruikbare_zin": {
+    "citaat": "In dit geval stond de parkeerautomaat voldoende nabij de parkeerplaats van eiseres zodat uit de aanwezigheid daarvan voor haar voldoende duidelijk kon zijn",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Zij was nog in de auto bezig de parkeerapp te activeren toen de controle plaatsvond.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat haar betoog over de app in de auto niet klopte, gelet op de foto’s.",
+    "bron": [
+     25
+    ],
+    "citaat": "Het betoog van eiseres dat zij in haar auto nog bezig was de parkeerapp in werking te stellen"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Na het parkeren moet u zonder onderbreking bezig zijn met betalen of met aanmelden.",
+  "type": "regel",
+  "reikwijdte": "betaald parkeren, tot de betaling of aanmelding is afgerond",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "eiseres onverwijld na het parkeren voortdurend uitvoeringshandelingen moet verrichten"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "scanautofoto van 10:23 uur",
+   "foto van de parkeercontroleur",
+   "parkeerbevestiging van de app"
+  ],
+  "wat_gaf_doorslag": "De scanautofoto van 10:23 uur, met een vrouw in de auto, gaf de doorslag."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Verordening parkeerbelastingen 2024 (aanwijzing parkeerplaats)",
+  "art. 8:42 lid 1 Awb",
+  "art. 7:4 Awb (niet van toepassing in beroep)"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar scanautofoto’s met tijdstip in het dossier, want die maakten het verschil.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    25
+   ],
+   "citaat": "In het dossier zitten foto’s die gemaakt zijn vanuit de scanauto om 10:23 uur"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "scanauto-handhaving",
+  "betaalapp"
+ ],
+ "klantuitleg": "Staat u op een betaald parkeervak, dan moet u meteen betalen of de app starten. Staat er een parkeerautomaat in de buurt, dan mag de gemeente ervan uitgaan dat u wist dat u moest betalen. Wilt u bezwaar maken, dan helpt het om het tijdstip van betalen met een bevestiging aan te tonen.",
+ "gemeente": "Eindhoven",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

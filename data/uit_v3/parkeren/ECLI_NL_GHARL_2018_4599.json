@@ -1,0 +1,157 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2018:4599",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg een boete voor stilstaan op het Plein in Den Haag, op een plek met een stilstaanverbod. Hij ging tegen de officier van justitie in hoger beroep bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Boete voor stilstaan blijft, ook met gehandicaptenkaart",
+ "kern": {
+  "zin": "Het hof vond dat het verbod ook op het Plein gold en dat een gehandicaptenkaart geen uitzondering geeft op een stilstaanverbod.",
+  "bron": [
+   30
+  ],
+  "citaat": "Het verbod stil te staan gold dus ook voor de betrokkene."
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete van € 90 voor stilstaan in strijd met een stilstaanverbod (bord E2) op het Plein in Den Haag.",
+   "bron": [
+    22
+   ],
+   "citaat": "bij inleidende beschikking een administratieve sanctie van € 90,- opgelegd"
+  },
+  {
+   "zin": "De parkeerder zei dat het bord in een andere straat stond en op het Plein niet gold, en dat zijn gehandicaptenkaart goed zichtbaar lag.",
+   "bron": [
+    23
+   ],
+   "citaat": "Het bord E2 in de Lange Houtstraat heeft geen werking aan het Plein"
+  },
+  {
+   "zin": "De handhaver zag dat de auto een gehandicaptenkaart had, maar buiten de vakken stond.",
+   "bron": [
+    26
+   ],
+   "citaat": "Betrokken voertuig was voorzien van een invalideparkeerkaart, maar stond buiten deze vakken geparkeerd."
+  },
+  {
+   "zin": "De rechter vond dat het bord voor het hele wegvak gold, want er was geen zijweg of ander bord dat het verbod ophief.",
+   "bron": [
+    29
+   ],
+   "citaat": "De werking van het bord E2 was dus niet opgeheven."
+  },
+  {
+   "zin": "Een gehandicaptenkaart geeft volgens de rechter wel een uitzondering op een parkeerverbod, maar niet op een stilstaanverbod.",
+   "bron": [
+    30
+   ],
+   "citaat": "geen uitzondering gemaakt op het verbod stil te staan"
+  },
+  {
+   "zin": "Het hof liet de beslissing van de rechter in eerste aanleg staan, met betere redenen.",
+   "bron": [
+    36
+   ],
+   "citaat": "bevestigt de beslissing van de kantonrechter met verbetering van gronden"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete van € 90 blijft; de rechter in eerste aanleg motiveerde te beperkt",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 90 blijft staan.",
+  "bron": [
+   36
+  ],
+  "citaat": "bevestigt de beslissing van de kantonrechter met verbetering van gronden"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het bord E2 stond in een andere straat en gold niet op het Plein.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het bord gold voor het hele wegvak, ook na een bocht en bij een andere straatnaam.",
+    "bron": [
+     29
+    ],
+    "citaat": "De werking van het bord E2 was dus niet opgeheven."
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat het gedeelte van het wegvak waar het voertuig van de betrokkene heeft stilgestaan een andere straatnaam heeft",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "gehandicaptenkaart",
+   "burger_zegt": "Zijn gehandicaptenkaart lag goed zichtbaar achter de voorruit.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Voor een stilstaanverbod bestaat geen uitzondering voor houders van een gehandicaptenkaart.",
+    "bron": [
+     30
+    ],
+    "citaat": "geen uitzondering gemaakt op het verbod stil te staan"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen uitzondering gemaakt op het verbod stil te staan",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bord E2 geldt voor het hele wegvak tot de volgende zijweg of een bord dat het verbod opheft.",
+  "type": "regel",
+  "reikwijdte": "Stilstaanverbod (bord E2) op een wegvak, ook als de straatnaam verandert of de weg een bocht maakt",
+  "uitzondering": "Een zijweg of een bord dat de werking opheft",
+  "herkomst": "wet",
+  "bron": [
+   28
+  ],
+  "citaat": "Het bord E2 blijft derhalve van kracht tot in ieder geval de volgende zijweg"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring handhaver",
+   "dossier met de bebording ter plekke",
+   "erkenning door de parkeerder dat de auto buiten de vakken stond"
+  ],
+  "wat_gaf_doorslag": "Er was geen zijweg of bord dat het verbod ophief, en de parkeerder gaf toe dat hij buiten de vakken stond."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Wahv",
+  "Uitvoeringsvoorschriften BABW inzake verkeerstekens (bord E2)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "bebording-verkeersbesluit"
+ ],
+ "klantuitleg": "Een bord met een stilstaanverbod geldt voor het hele stuk weg tot de eerste zijstraat of een bord dat het verbod opheft, ook als de straatnaam verandert of de weg een bocht maakt. Bij een stilstaanverbod helpt een gehandicaptenkaart niet, anders dan bij een parkeerverbod. Bezwaar heeft alleen zin als er echt een zijstraat of bord tussen stond; maak daar foto's van.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

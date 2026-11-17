@@ -1,0 +1,175 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2025:5809",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner kreeg een boete voor parkeren op een parkeerplaats voor vergunninghouders. Hij ging in beroep bij de kantonrechter van de rechtbank Noord-Nederland, tegen de beslissing van de officier van justitie.",
+ "titel": "Boete voor vergunningparkeren tot nul gematigd",
+ "kern": {
+  "zin": "De kantonrechter matigde de boete tot nul, omdat een aantekening van handhaving bij het kenteken aannemelijk was.",
+  "bron": [
+   24
+  ],
+  "citaat": "Wel ziet de kantonrechter in dit geval aanleiding om de boete te matigen tot nul"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 19 februari 2024 kreeg de bewoner een boete voor parkeren op een plek voor vergunninghouders.",
+   "bron": [
+    10
+   ],
+   "citaat": "parkeren op parkeerplaats vergunninghouders (bord E9) zonder vergunning voor dat voertuig"
+  },
+  {
+   "zin": "De bewoner zei dat hij een geldige vergunning had en dacht dat hij daar mocht staan.",
+   "bron": [
+    18
+   ],
+   "citaat": "Hij voert aan dat hij in het bezit is van een geldige vergunning"
+  },
+  {
+   "zin": "De vertegenwoordigster van de officier van justitie vond dat de boete terecht was opgelegd.",
+   "bron": [
+    19
+   ],
+   "citaat": "stelt zich dan ook op het standpunt dat de boete terecht is opgelegd"
+  },
+  {
+   "zin": "De kantonrechter vond de overtreding vaststaan, omdat de vergunning niet geldig was voor die parkeerplaats.",
+   "bron": [
+    23
+   ],
+   "citaat": "niet geldig was voor het parkeren op de parkeerplaats"
+  },
+  {
+   "zin": "Toch matigde de kantonrechter de boete tot nul, omdat hij het aannemelijk vond dat handhaving een aantekening had gemaakt.",
+   "bron": [
+    24
+   ],
+   "citaat": "Hij vindt het aannemelijk dat betrokkene destijds een aantekening van de handhaving"
+  },
+  {
+   "zin": "De rechter bepaalde ook dat de parkeerder het bedrag van de zekerheidstelling terugkrijgt.",
+   "bron": [
+    30
+   ],
+   "citaat": "bepaalt dat betrokkene het bedrag van de zekerheidstelling terugkrijgt"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Beroep gegrond; boete tot nul gematigd en zekerheid terug.",
+ "gevolg_betrokkene": {
+  "zin": "Er hoeft geen boete van 119 euro meer betaald te worden, en de zekerheid krijgt u terug.",
+  "bron": [
+   24,
+   10,
+   30
+  ],
+  "citaat": "Wel ziet de kantonrechter in dit geval aanleiding om de boete te matigen tot nul"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij had een geldige vergunning en mocht dus op die plek staan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De vergunning was niet geldig voor die parkeerplaats, omdat hij een ander type had.",
+    "bron": [
+     23
+    ],
+    "citaat": "Betrokkene had een ander type vergunning, namelijk een vergunning voor betaald parkeren"
+   },
+   "bruikbare_zin": {
+    "citaat": "Betrokkene had een ander type vergunning, namelijk een vergunning voor betaald parkeren",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Handhaving had een aantekening bij zijn kenteken gemaakt, dus hij mocht daar staan.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De kantonrechter vond het aannemelijk dat handhaving een aantekening bij het kenteken had gemaakt.",
+    "bron": [
+     24
+    ],
+    "citaat": "Hij vindt het aannemelijk dat betrokkene destijds een aantekening van de handhaving"
+   },
+   "bruikbare_zin": {
+    "citaat": "Hij vindt het aannemelijk dat betrokkene destijds een aantekening van de handhaving",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "gelijkheid",
+   "burger_zegt": "De tweede boete is wel geseponeerd en de eerste niet; dat vindt hij niet consistent.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De kantonrechter hield mee dat de tweede boete wel is geseponeerd.",
+    "bron": [
+     24
+    ],
+    "citaat": "De kantonrechter neemt hierbij ook in aanmerking dat de tweede boete van betrokkene is geseponeerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "De kantonrechter neemt hierbij ook in aanmerking dat de tweede boete van betrokkene is geseponeerd",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een vergunning voor betaald parkeren geldt niet voor een parkeerplaats voor vergunninghouders.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "deze zaak: vergunning voor betaald parkeren op een parkeerplaats voor vergunninghouders",
+  "uitzondering": "aantekening van handhaving bij het kenteken",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "Betrokkene had een ander type vergunning, namelijk een vergunning voor betaald parkeren"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring verbalisant in het zaakoverzicht",
+   "stuk van de gemeente over de vergunning",
+   "aantekening van handhaving bij het kenteken"
+  ],
+  "wat_gaf_doorslag": "De aantekening van handhaving bij het kenteken maakte aannemelijk dat hij mocht staan."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Wahv"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; de kritiek op het procesverloop richt zich ook op de CVOM",
+ "raakt": [
+  "klantcontact",
+  "privacy-woo"
+ ],
+ "klantuitleg": "Een boete voor parkeren zonder de juiste vergunning kan lager worden als handhaving zelf had laten staan. In deze zaak lukte dat omdat er een aantekening bij het kenteken was. Controleer daarom eerst of uw vergunning voor die plek geldt, want zonder zo'n aantekening is de kans op een lagere boete klein.",
+ "gemeente": "Leeuwarden",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

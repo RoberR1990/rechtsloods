@@ -1,0 +1,147 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2022:5960",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing voor een auto op de Noordschans in Rotterdam en maakte daartegen bezwaar. De parkeerder procedeert tegen de gemeente Rotterdam bij de rechtbank Rotterdam.",
+ "titel": "Bezwaarbesluit vernietigd omdat parkeerder niet gehoord werd",
+ "kern": {
+  "zin": "De rechtbank vernietigde het bezwaarbesluit, omdat de gemeente de parkeerder ten onrechte niet had gehoord.",
+  "bron": [
+   31,
+   18
+  ],
+  "citaat": "Dat verweerder van het horen in bezwaar heeft afgezien"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een auto stond in oktober 2020 op de Noordschans zonder betaalde parkeerbelasting en kreeg een naheffing.",
+   "bron": [
+    26,
+    27
+   ],
+   "citaat": "Op 1 oktober 2020 om 10:27 uur stond het voertuig met kenteken"
+  },
+  {
+   "zin": "De parkeerder maakte bezwaar en vroeg om telefonisch gehoord te worden.",
+   "bron": [
+    27
+   ],
+   "citaat": "heeft eiser(es) bezwaar gemaakt en verzocht om (telefonisch) te worden gehoord"
+  },
+  {
+   "zin": "De gemeente besliste op het bezwaar zonder de parkeerder te horen.",
+   "bron": [
+    29
+   ],
+   "citaat": "uitspraak op het bezwaar gedaan, zonder eiser(es) te hebben gehoord"
+  },
+  {
+   "zin": "Volgens het besluit was de beslistermijn verdaagd, dus de ingebrekestelling was te vroeg.",
+   "bron": [
+    31
+   ],
+   "citaat": "vermeldt dat de beslistermijn is verdaagd tot 11 februari 2021"
+  },
+  {
+   "zin": "De rechtbank oordeelde dat de hoorplicht was geschonden, omdat er nog tijd was om te horen.",
+   "bron": [
+    31
+   ],
+   "citaat": "leidt tot het oordeel dat de hoorplicht is geschonden"
+  },
+  {
+   "zin": "De gemeente moet de parkeerder alsnog horen en opnieuw op het bezwaar beslissen.",
+   "bron": [
+    19,
+    20
+   ],
+   "citaat": "wijst de zaak terug naar verweerder om eiser(es) in de gelegenheid te stellen om te worden gehoord"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Procedureel gewonnen: zaak terug naar de gemeente om te horen",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet de parkeerder alsnog horen, en het griffierecht van 49 euro en 133,94 euro proceskosten vergoeden.",
+  "bron": [
+   21,
+   22
+  ],
+  "citaat": "draagt verweerder op het betaalde griffierecht van € 49,- aan eiser(es) te vergoeden"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De gemeente heeft de parkeerder niet gehoord, terwijl om een gehoor was gevraagd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank vond dat de hoorplicht is geschonden, omdat er tot 11 februari 2021 nog ruimte was om te horen.",
+    "bron": [
+     31
+    ],
+    "citaat": "leidt tot het oordeel dat de hoorplicht is geschonden"
+   },
+   "bruikbare_zin": {
+    "citaat": "ondanks dat er tot 11 februari 2021 nog voldoende ruimte was om eiser(es) binnen een redelijke termijn te horen",
+    "bron": [
+     31
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als er nog genoeg tijd is om iemand te horen, mag het bestuur het horen niet overslaan.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Bezwaar met verzoek om gehoord te worden, met een verdaagde beslistermijn",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   31
+  ],
+  "citaat": "dat er tot 11 februari 2021 nog voldoende ruimte was om eiser(es) binnen een redelijke termijn te horen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:41 lid 3 Awb",
+  "art. 3 Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij elk bezwaar met een gehoorverzoek na of er nog tijd is om te horen, voordat u besluit.",
+   "raakt": "bezwaar",
+   "bron": [
+    31
+   ],
+   "citaat": "Dat verweerder van het horen in bezwaar heeft afgezien"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u om een gehoor heeft gevraagd in uw bezwaar en dat is niet gebeurd, kan dat een reden zijn om in beroep te gaan. De gemeente moet u dan alsnog horen en opnieuw beslissen. Of uw naheffing daarmee verandert, is niet zeker.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

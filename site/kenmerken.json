@@ -1,0 +1,19 @@
+{
+ "_uitleg": "Per domein: situaties die wel of niet bij een gemeente spelen. Elke situatie verwijst naar sub-onderwerpen uit taxonomie.json. Subs die nergens genoemd worden, zijn altijd relevant. Een domein zonder lijst krijgt automatisch één situatie per onderwerp.",
+ "parkeren": [
+  {"id":"betaald","label":"Betaald parkeren op straat","uitleg":"Parkeerautomaten of betalen met een app, bijvoorbeeld in het centrum of een winkelstraat.","subs":["kenbaarheid","begrip-parkeren","betalen","naheffingskosten","belastingplicht","evenredigheid","invordering","vergunning-in-betaalgebied"]},
+  {"id":"scanauto","label":"Scanauto of digitale handhaving","uitleg":"Controle op kenteken met een scanauto of camera's.","subs":["bewijs-scanauto","scanauto-bewijs","kentekenregistratie-avg","camera-anpr","digitale-communicatie"]},
+  {"id":"laden-lossen","label":"Laden en lossen, kort stilstaan","uitleg":"Discussies over in- en uitstappen, bezorgen of even stilstaan.","subs":["begrip-parkeren"]},
+  {"id":"wahv","label":"Boetes voor foutparkeren","uitleg":"Handhavers (boa's) schrijven boetes uit voor parkeren waar het niet mag.","subs":["wahv-boete","handhaver-bevoegdheid"]},
+  {"id":"bewoners","label":"Bewonersvergunningen","uitleg":"Bewoners kunnen een parkeervergunning aanvragen.","subs":["bewonersvergunning"]},
+  {"id":"wachtlijst","label":"Vergunningplafond of wachtlijst","uitleg":"Er is een maximum aantal vergunningen per gebied.","subs":["plafond-wachtlijst"]},
+  {"id":"bezoekers","label":"Bezoekersparkeren","uitleg":"Een bezoekersregeling of bezoekersvergunning.","subs":["bezoekersregeling"]},
+  {"id":"bedrijf","label":"Bedrijfs- en zorgvergunningen, ontheffingen","uitleg":"Vergunningen voor bedrijven, zorgverleners of bijzondere gevallen.","subs":["bedrijfsvergunning","ontheffing"]},
+  {"id":"blauwe-zone","label":"Blauwe zone of maximale parkeerduur","uitleg":"Parkeren met een parkeerschijf of een tijdslimiet.","subs":["maximale-duur"]},
+  {"id":"gehandicapt","label":"Gehandicaptenparkeren","uitleg":"Gehandicaptenparkeerplaatsen en -kaarten.","subs":["gehandicaptenplaats","gehandicaptenkaart"]},
+  {"id":"laadpalen","label":"Laadpalen en doelgroepplaatsen","uitleg":"Plaatsen alleen voor elektrisch laden, deelauto's of andere doelgroepen.","subs":["laadplek"]},
+  {"id":"wegslepen","label":"Wegslepen","uitleg":"Auto's wegslepen of blokkeren.","subs":["wegslepen","wegslepen-privaat"]},
+  {"id":"garages","label":"Eigen parkeergarages","uitleg":"De gemeente heeft of verhuurt garages.","subs":["garage-exploitatie","schade-aansprakelijkheid"]},
+  {"id":"normen","label":"Parkeernormen bij bouwplannen","uitleg":"Parkeereisen toetsen bij vergunningen voor nieuwbouw.","subs":["parkeernorm-toets","parkeerbeleidsregels","afwijken-norm","parkeerdruk-omgeving","omgevingsplan","fietsparkeren"]}
+ ]
+}

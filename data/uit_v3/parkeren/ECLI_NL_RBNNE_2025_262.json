@@ -1,0 +1,142 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2025:262",
+ "relevant": true,
+ "onderwerp": "parkeernormen",
+ "sub": "parkeernorm-toets",
+ "kenmerk": null,
+ "zaaktype": "omgevingsrecht",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Tynaarlo",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner procedeerde tegen de gemeente Tynaarlo over een vergunning voor de verbouwing van een oude melkfabriek. De zaak lag bij de rechtbank Noord-Nederland, zittingsplaats Groningen.",
+ "titel": "Beroep tegen vergunning melkfabriek ongegrond",
+ "kern": {
+  "zin": "De rechtbank verklaarde het beroep ongegrond: het college mocht de vergunning verlenen, ook wat het parkeren betreft.",
+  "bron": [
+   72,
+   61
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het college gaf een vergunning om een oude melkfabriek te verbouwen tot 18 woningen.",
+   "bron": [
+    13
+   ],
+   "citaat": "voor het verbouwen van een oude melkfabriek tot 18 wooneenheden"
+  },
+  {
+   "zin": "De bewoner vond dat het college het parkeren te weinig had onderzocht.",
+   "bron": [
+    55
+   ],
+   "citaat": "Eiser betoogt dat het college het aspect parkeren onvoldoende heeft onderzocht"
+  },
+  {
+   "zin": "Het college zei dat de parkeerbehoefte op eigen terrein kon worden opgevangen.",
+   "bron": [
+    57
+   ],
+   "citaat": "Het college heeft op basis van deze parkeerberekening geconcludeerd"
+  },
+  {
+   "zin": "De rechtbank zag geen reden om de parkeertoets af te keuren, en de onderkant van de CROW-bandbreedte mocht als uitgangspunt.",
+   "bron": [
+    59
+   ],
+   "citaat": "mocht worden uitgegaan van de onderkant van de bandbreedte"
+  },
+  {
+   "zin": "Het beroep is verworpen en de bewoner krijgt het griffierecht niet terug.",
+   "bron": [
+    70
+   ],
+   "citaat": "Eiser krijgt daarom het griffierecht niet terug"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; vergunning blijft staan, geen kosten terug.",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner krijgt geen griffierecht terug en de vergunning blijft staan.",
+  "bron": [
+   70
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "parkeernorm-onvoldoende",
+   "burger_zegt": "De parkeertoets is niet deugdelijk en er is te weinig parkeerruimte op eigen terrein.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank zag geen grond om de parkeertoets niet deugdelijk te vinden.",
+    "bron": [
+     59
+    ],
+    "citaat": "Ook in zoverre ziet de rechtbank geen grond voor het oordeel dat de parkeertoets niet deugdelijk is"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat in de parkeerbehoefte van het project kan worden voorzien op eigen terrein",
+    "bron": [
+     61
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "In deze zaak mocht het college bij de parkeertoets uitgaan van de onderkant van de CROW-bandbreedte.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "parkeertoets voor dit project met kleine woningen in bestaande bebouwing",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   59
+  ],
+  "citaat": "mocht worden uitgegaan van de onderkant van de bandbreedte in de parkeerkencijfers van de CROW"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "eigen parkeerberekening van de bewoner",
+   "CROW-parkeerberekening van de vergunninghouder"
+  ],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 2.12 Wabo",
+  "art. 4 bijlage II Bor",
+  "art. 5.20 Bor",
+  "art. 8:69a Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg in de parkeertoets vast waarom de onderkant van de CROW-bandbreedte past, bijvoorbeeld door de woningmaat.",
+   "raakt": "verordening-beleid",
+   "bron": [
+    59
+   ],
+   "citaat": "Het college heeft toegelicht dat bij de parkeertoets rekening is gehouden met de grootte van de vergunde woningen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "verordening-beleid",
+  "vergunningen"
+ ],
+ "klantuitleg": "Deze uitspraak gaat over een vergunning voor het verbouwen van een gebouw, niet over een boete. De rechter vond de parkeerberekening goed genoeg en liet de vergunning staan. Heeft u bezwaar tegen een parkeerberekening, dan helpt het om precies aan te geven welke cijfers u onjuist vindt.",
+ "gemeente": "Tynaarlo",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

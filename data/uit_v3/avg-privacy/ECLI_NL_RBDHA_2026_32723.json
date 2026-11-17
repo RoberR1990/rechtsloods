@@ -1,0 +1,161 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2026:32723",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "algoritme-ai",
+ "kenmerk": null,
+ "zaaktype": "overig",
+ "partijen": {
+  "burger": "asielzoekster",
+  "wederpartij": "minister van Asiel en Migratie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een asielzoekster gaat in beroep tegen de minister van Asiel en Migratie bij de rechtbank Den Haag. De minister nam haar aanvraag niet in behandeling, omdat Tsjechië verantwoordelijk is; zij vindt onder meer dat de minister niet openlijk was over een computerprogramma (CaseMatcher).",
+ "titel": "Zoekprogramma CaseMatcher is geen AI; melden hoeft niet",
+ "kern": {
+  "zin": "De rechtbank verklaart het beroep ongegrond en oordeelt dat CaseMatcher een simpel zoekprogramma is, dus de minister hoeft het gebruik ervan niet in het besluit te melden.",
+  "bron": [
+   29
+  ],
+  "citaat": "dat CaseMatcher geen AI, complex algoritme of blackbox is"
+ },
+ "samenvatting": [
+  {
+   "zin": "De minister vroeg Tsjechië de asielaanvraag over te nemen en Tsjechië ging akkoord.",
+   "bron": [
+    23
+   ],
+   "citaat": "Nederland bij Tsjechië een verzoek om overname gedaan volgens artikel 12, tweede lid, van de Dublinverordening"
+  },
+  {
+   "zin": "De burger zegt dat het besluit onzorgvuldig is, omdat de minister niet open was over het gebruik van CaseMatcher, ChatIND en chatbot Robin.",
+   "bron": [
+    28
+   ],
+   "citaat": "omdat de minister niet transparant is geweest over het gebruik van CaseMatcher, ChatIND en chatbot Robin"
+  },
+  {
+   "zin": "De minister gaf een schriftelijke verklaring van de beslisambtenaar over het gebruik van deze systemen.",
+   "bron": [
+    29
+   ],
+   "citaat": "de minister een schriftelijke verklaring heeft overgelegd van de betreffende beslisambtenaar"
+  },
+  {
+   "zin": "De rechtbank gaat ervan uit dat CaseMatcher is gebruikt, maar ziet er niet meer in dan een simpel zoekprogramma.",
+   "bron": [
+    29
+   ],
+   "citaat": "Er is geen reden om aan te nemen dat CaseMatcher meer dan een simpele zoekfunctionaliteit betreft."
+  },
+  {
+   "zin": "Daarom hoeft de minister het gebruik van CaseMatcher niet in zijn besluiten te melden.",
+   "bron": [
+    29
+   ],
+   "citaat": "Daarom is de minister niet gehouden om het gebruik van CaseMatcher te vermelden in zijn besluiten"
+  },
+  {
+   "zin": "De rechtbank verklaart het beroep ongegrond.",
+   "bron": [
+    43
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; het besluit blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "Het besluit blijft staan: de aanvraag wordt niet in behandeling genomen en de burger krijgt geen proceskosten vergoed. Over griffierecht of andere bedragen zegt de uitspraak niets.",
+  "bron": [
+   41
+  ],
+  "citaat": "Eiseres krijgt geen vergoeding van haar proceskosten."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "algoritme-niet-uitlegbaar",
+   "burger_zegt": "De minister was niet open over het gebruik van CaseMatcher en andere systemen; dat geeft risico op blind vertrouwen op de computer (automation bias).",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "CaseMatcher is volgens de rechtbank geen AI, complex algoritme of blackbox, dus melden is niet nodig.",
+    "bron": [
+     29
+    ],
+    "citaat": "dat CaseMatcher geen AI, complex algoritme of blackbox is"
+   },
+   "bruikbare_zin": {
+    "citaat": "Daarom is de minister niet gehouden om het gebruik van CaseMatcher te vermelden in zijn besluiten",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het besluit is niet door een bevoegde ambtenaar genomen en dat is niet te controleren (art. 22 AVG).",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vindt voldoende inzichtelijk dat de beslisambtenaar bevoegd was.",
+    "bron": [
+     26
+    ],
+    "citaat": "acht de rechtbank voldoende inzichtelijk dat de beslisambtenaar bevoegd was het bestreden besluit te nemen"
+   },
+   "bruikbare_zin": {
+    "citaat": "acht de rechtbank voldoende inzichtelijk dat de beslisambtenaar bevoegd was het bestreden besluit te nemen",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een computerprogramma dat alleen zoekt, met vaste beslisregels, en de besluitvorming niet stuurt, is geen AI of blackbox; het gebruik hoeft dan niet in het besluit te staan.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Alleen het zoekprogramma CaseMatcher bij asielbesluiten van de minister",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   29
+  ],
+  "citaat": "Het betreft een computerprogramma dat de minister kan gebruiken bij zijn besluiten op asielaanvragen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "schriftelijke verklaring van de beslisambtenaar",
+   "screenshot van INDIGO"
+  ],
+  "wat_gaf_doorslag": "De rechtbank ging ervan uit dat CaseMatcher is gebruikt, maar vond het programma een simpele zoekfunctie."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RBDHA:2026:25209"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 22 AVG",
+  "art. 12 lid 2 Dublinverordening",
+  "art. 17 lid 1 Dublinverordening",
+  "art. 3 EVRM",
+  "art. 4 Handvest EU",
+  "art. 84 lid 2 AMbV"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "datateam-algoritmes",
+  "privacy-fg"
+ ],
+ "klantuitleg": "Een overheid hoeft niet altijd te melden dat een computerprogramma is gebruikt. Dat gold hier voor een programma dat alleen zoekt, terwijl een medewerker beslist. Denkt u dat een computer over u heeft beslist, vraag de organisatie dan hoe het besluit tot stand is gekomen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente betrokken; de minister van Asiel en Migratie is partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

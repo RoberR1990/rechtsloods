@@ -1,0 +1,164 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:2915",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "inwoner",
+  "wederpartij": "gemeente Eindhoven",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Deze zaak gaat over een verzoek om de gegevens van een inwoner in de basisregistratie personen te wijzigen. De inwoner stapte naar de Raad van State omdat de gemeente Eindhoven haar verzoek had afgewezen.",
+ "titel": "Gemeente moet nieuw besluit nemen over gegevens van inwoner",
+ "kern": {
+  "zin": "De Raad van State vindt dat de identiteit van de ouders van de inwoner buiten redelijke twijfel juist is, dus moet de gemeente opnieuw beslissen.",
+  "bron": [
+   31
+  ],
+  "citaat": "Uit deze uitspraken volgt dus dat de gestelde identiteit van de ouders van [appellante] buiten redelijke twijfel juist is."
+ },
+ "samenvatting": [
+  {
+   "zin": "De inwoner staat in de basisregistratie personen (brp) met gegevens uit haar geboorteakte.",
+   "bron": [
+    21
+   ],
+   "citaat": "Deze gegevens zijn ontleend aan haar geboorteakte."
+  },
+  {
+   "zin": "Zij vroeg de gemeente om die gegevens te wijzigen, omdat haar ouders volgens haar een valse identiteit hebben aangenomen.",
+   "bron": [
+    21
+   ],
+   "citaat": "haar ouders een valse identiteit hebben aangenomen"
+  },
+  {
+   "zin": "De gemeente wees het verzoek af.",
+   "bron": [
+    25
+   ],
+   "citaat": "Het college heeft het verzoek afgewezen."
+  },
+  {
+   "zin": "Volgens de gemeente boden de stukken van de ouders te weinig aanknopingspunten.",
+   "bron": [
+    25
+   ],
+   "citaat": "bieden de documenten die door de ouders van [appellante] zijn overgelegd, onvoldoende aanknopingspunten"
+  },
+  {
+   "zin": "De Raad van State oordeelt dat de identiteit van de ouders buiten redelijke twijfel juist is en dat de gemeente opnieuw moet beslissen.",
+   "bron": [
+    31
+   ],
+   "citaat": "Uit deze uitspraken volgt dus dat de gestelde identiteit van de ouders van [appellante] buiten redelijke twijfel juist is."
+  },
+  {
+   "zin": "De gemeente moet de proceskosten van € 3736,00 en het griffierecht van € 455,00 vergoeden.",
+   "bron": [
+    44,
+    45
+   ],
+   "citaat": "tot een bedrag van €3736,00"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "De gemeente moet opnieuw beslissen op het verzoek van de inwoner.",
+ "gevolg_betrokkene": {
+  "zin": "De inwoner krijgt € 3736,00 proceskosten en € 455,00 griffierecht van de gemeente.",
+  "bron": [
+   44,
+   45
+  ],
+  "citaat": "tot een bedrag van €3736,00"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Mijn gegevens in de basisregistratie personen zijn onjuist en moeten worden aangepast.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De Raad van State vindt dat de gemeente opnieuw moet beslissen.",
+    "bron": [
+     31
+    ],
+    "citaat": "moet het college een nieuw besluit op het bezwaar van [appellante] nemen."
+   },
+   "bruikbare_zin": {
+    "citaat": "Uit deze uitspraken volgt dus dat de gestelde identiteit van de ouders van [appellante] buiten redelijke twijfel juist is.",
+    "bron": [
+     31
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De identiteit van de ouders van de inwoner staat buiten redelijke twijfel vast.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Deze zaak over de basisregistratie personen van de inwoner",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   31
+  ],
+  "citaat": "Uit deze uitspraken volgt dus dat de gestelde identiteit van de ouders van [appellante] buiten redelijke twijfel juist is."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "geboorteakte",
+   "verblijfsvergunning",
+   "brondocumenten van de ouders",
+   "uitspraken over de ouders"
+  ],
+  "wat_gaf_doorslag": "De uitspraken van de Afdeling over de ouders van de inwoner."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2025:4980",
+   "ECLI:NL:RVS:2026:2794",
+   "ECLI:NL:RVS:2026:2795"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2.58 Wet brp",
+  "art. 7:12 lid 1 Awb",
+  "art. 8:113 lid 2 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Neem binnen zes weken een nieuw besluit.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    42
+   ],
+   "citaat": "binnen zes weken na verzending van deze uitspraak met inachtneming van hetgeen daarin is overwogen een nieuw besluit te nemen"
+  },
+  {
+   "actie": "Betrek de uitspraken over de ouders bij de nieuwe beoordeling.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    31
+   ],
+   "citaat": "Uit deze uitspraken volgt dus dat de gestelde identiteit van de ouders van [appellante] buiten redelijke twijfel juist is."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "bezwaar",
+  "privacy-fg"
+ ],
+ "klantuitleg": "Als uw gegevens in de basisregistratie personen (BRP) volgens u niet kloppen, kan de gemeente dat onderzoeken. In deze zaak moest de gemeente opnieuw kijken omdat de gegevens van de ouders juist bleken. De gemeente mag een verzoek weigeren als er te weinig bewijs is.",
+ "gemeente": "Eindhoven",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

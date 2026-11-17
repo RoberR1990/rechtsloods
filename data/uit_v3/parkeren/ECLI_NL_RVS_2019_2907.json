@@ -1,0 +1,198 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "reden_leeg_actie": null,
+ "ecli": "ECLI:NL:RVS:2019:2907",
+ "onderwerp": "parkeernormen",
+ "sub": "parkeernorm-toets",
+ "zaaktype": "omgevingsrecht",
+ "partijen": {
+  "burger": "omwonenden",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Omwonenden in Amsterdam waren tegen een omgevingsvergunning (toestemming om te bouwen) voor 24 woningen met een parkeerkelder. Zij gingen in hoger beroep bij de Raad van State tegen de gemeente.",
+ "titel": "Parkeerkelder bij 24 nieuwe woningen: vergunning blijft staan",
+ "kern": {
+  "zin": "De rechter vond dat de aanvraag niet in strijd was met het parkeerbeleid en dat de vergunning mocht blijven staan.",
+  "bron": [
+   35
+  ],
+  "citaat": "Er bestaat dan ook geen grond voor het oordeel dat de aanvraag voor de tweede fase in strijd is met het parkeerbeleid"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente gaf een omgevingsvergunning voor 24 woningen en een parkeerkelder, als tweede fase van een groter bouwproject.",
+   "bron": [
+    18
+   ],
+   "citaat": "ziet onder meer op het oprichten van een gebouw met 24 woningen en een parkeerkelder"
+  },
+  {
+   "zin": "De omwonenden waren bang voor minder woongenot en voor schade aan hun woningen door de parkeerkelder.",
+   "bron": [
+    19
+   ],
+   "citaat": "omdat zij vrezen voor aantasting van hun woongenot en beschadiging van hun woningen als gevolg van de bouw van de parkeerkelder"
+  },
+  {
+   "zin": "Zij zeiden ook dat de aanvraag voor de tweede fase los van de eerste fase moest worden beoordeeld.",
+   "bron": [
+    33
+   ],
+   "citaat": "moet de aanvraag voor de tweede fase volgens [appellant] en anderen zelfstandig worden beoordeeld"
+  },
+  {
+   "zin": "De rechter vond dat de Nota Parkeernormen Auto hier niet gold, omdat de aanvraag eerder was ingediend dan de nota gold.",
+   "bron": [
+    35
+   ],
+   "citaat": "De Nota Parkeernormen Auto is niet van toepassing op deze aanvraag"
+  },
+  {
+   "zin": "Volgens de rechter had de gemeente genoeg rekening gehouden met de risico's, omdat er rapporten, advies en voorschriften waren.",
+   "bron": [
+    51
+   ],
+   "citaat": "heeft het college zich in redelijkheid op het standpunt kunnen stellen dat de risico’s aanvaardbaar klein zijn"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    60
+   ],
+   "citaat": "Het hoger beroep is ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De vergunning voor woningen en parkeerkelder blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De vergunning voor de 24 woningen en de parkeerkelder blijft staan en er volgt geen veroordeling in proceskosten.",
+  "bron": [
+   64,
+   61
+  ],
+  "citaat": "bevestigt de uitspraak van de rechtbank, voor zover aangevallen"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeenteraad moest een verklaring van geen bedenkingen (een toestemming vooraf) geven, want het raadsbesluit dat dat niet nodig maakt is verouderd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het oude raadsbesluit gold nog, omdat het nooit was ingetrokken.",
+    "bron": [
+     29
+    ],
+    "citaat": "De rechtbank heeft echter terecht geconcludeerd dat het besluit nog gold ten tijde van de vergunningverlening, aangezien het nooit is ingetrokken"
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De aanvraag voor de tweede fase hoort los te worden getoetst en past dan niet bij de regel van één parkeerplaats per woning.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er is geen regel die verbiedt dat de tweede fase ook parkeerplaatsen voor woningen van de eerste fase bevat.",
+    "bron": [
+     35
+    ],
+    "citaat": "er geen rechtsregel is die het verbiedt om in de aanvraag voor de tweede fase tevens te voorzien in een parkeerkelder"
+   },
+   "bruikbare_zin": {
+    "citaat": "er geen rechtsregel is die het verbiedt om in de aanvraag voor de tweede fase tevens te voorzien in een parkeerkelder",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De bouw van de parkeerkelder is ingrijpend en de gevolgen voor het grondwater en de woningen zijn onbekend.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente had voldoende rekening gehouden met de risico's, door rapporten, advies van Waternet en voorschriften.",
+    "bron": [
+     51
+    ],
+    "citaat": "heeft het college voldoende rekening gehouden met de risico's van het bouwplan en de belangen van omwonenden"
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De bouw geeft onevenredige gevolgen voor het woon- en leefklimaat, zoals lichtverlies en meer geluid.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er zijn geen wettelijke normen voor een minimum aantal zonuren en de gemeente heeft hier beleidsruimte.",
+    "bron": [
+     56
+    ],
+    "citaat": "er geen wettelijke normen voor een minimumaantal zonuren per dag in een woning bestaan"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bouwproject in twee fases met aparte aanvragen mag in de tweede aanvraag ook parkeerplaatsen voor woningen van de eerste fase bevatten.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Bouwproject in twee fases met aparte aanvragen, waarbij de aanvraag is ingediend voordat de Nota Parkeernormen Auto gold",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   35
+  ],
+  "citaat": "er geen rechtsregel is die het verbiedt om in de aanvraag voor de tweede fase tevens te voorzien in een parkeerkelder"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "geotechnisch en geohydrologisch onderzoek",
+   "advies van Waternet",
+   "bezonningsstudie",
+   "geluidsrapport"
+  ],
+  "wat_gaf_doorslag": "De omwonenden brachten geen concrete bezwaren tegen de rapporten in."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2014:3207",
+   "ECLI:NL:RVS:2018:1515"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2.1 lid 1 onder a en c Wabo",
+  "art. 2.12 lid 1 onder a sub 3 Wabo",
+  "art. 6.5 Bor",
+  "Nota Parkeernormen Auto Amsterdam"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Toets een aanvraag aan de parkeernormen die golden toen de aanvraag werd ingediend.",
+   "raakt": "verordening-beleid",
+   "bron": [
+    35
+   ],
+   "citaat": "de aanvraag moet worden getoetst aan de aan de nota voorafgaande parkeernormen"
+  },
+  {
+   "actie": "Vraag bij een parkeerkelder advies aan de waterbeheerder en verbind voorschriften aan de vergunning.",
+   "raakt": "vergunningen",
+   "bron": [
+    45
+   ],
+   "citaat": "Waternet heeft per e-mail van 18 augustus 2017 advies uitgebracht over het bouwplan"
+  }
+ ],
+ "raakt": [
+  "vergunningen",
+  "verordening-beleid"
+ ],
+ "klantuitleg": "Woont u naast een bouwplan met een parkeerkelder, dan kijkt de rechter of de gemeente de risico's goed heeft onderzocht en de parkeernormen van die tijd heeft gebruikt. Zijn er onderzoeken en voorschriften, dan is bezwaar meestal weinig kansrijk. Het helpt als u concrete bezwaren tegen de onderzoeksrapporten kunt noemen.",
+ "gemeente": "Amsterdam",
+ "zekerheid": "hoog"
+}

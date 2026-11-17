@@ -1,0 +1,132 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2026:3709",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een Wahv-boete (een boete voor kleine verkeersovertredingen) van € 129. Hij kwam in beroep tegen de officier van justitie, bij de kantonrechter van de rechtbank Noord-Nederland.",
+ "titel": "Boete vernietigd: overtreding kon niet worden vastgesteld",
+ "kern": {
+  "zin": "De rechter vernietigde de boete, omdat niet vastgesteld kon worden dat de parkeerder de regel overtrad.",
+  "bron": [
+   25
+  ],
+  "citaat": "De kantonrechter ziet aanleiding om de boete te vernietigen, omdat de verkeersovertreding niet vastgesteld kan worden"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een Wahv-boete van € 129 voor parkeren in een parkeerverbodszone.",
+   "bron": [
+    11
+   ],
+   "citaat": "De opgelegde boete bedraagt € 129,00 (inclusief administratiekosten)"
+  },
+  {
+   "zin": "De parkeerder zei dat het verbod alleen voor fietsers gold.",
+   "bron": [
+    18
+   ],
+   "citaat": "De parkeerverbodszone geldt alleen voor fietsers"
+  },
+  {
+   "zin": "De officier van justitie gaf toe dat de parkeerder in de buitenste ring stond, waar het verbod niet gold.",
+   "bron": [
+    19
+   ],
+   "citaat": "Het parkeerverbod geldt alleen voor de binnenste ring"
+  },
+  {
+   "zin": "De rechter vernietigde de boete, omdat de overtreding niet vast te stellen was.",
+   "bron": [
+    25
+   ],
+   "citaat": "De kantonrechter ziet aanleiding om de boete te vernietigen"
+  },
+  {
+   "zin": "De officier van justitie moet de verletkosten van € 100 betalen.",
+   "bron": [
+    27
+   ],
+   "citaat": "Deze voert aan dat hij € 100,00 aan verletkosten heeft gemaakt"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete vernietigd; officier moet € 100 proceskosten betalen",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 129 vervalt, de zekerheid komt terug en de officier betaalt € 100 aan proceskosten.",
+  "bron": [
+   27,
+   30,
+   34,
+   35
+  ],
+  "citaat": "Deze voert aan dat hij € 100,00 aan verletkosten heeft gemaakt"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "De parkeerder zei dat het bord geen geldig verkeersbord was en dat de zone alleen voor fietsers gold.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond de overtreding niet vastgesteld, omdat het verbod alleen de binnenste ring betrof.",
+    "bron": [
+     25
+    ],
+    "citaat": "De kantonrechter ziet aanleiding om de boete te vernietigen"
+   },
+   "bruikbare_zin": {
+    "citaat": "omdat het parkeerverbod alleen geldt voor de binnenste ring",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het zaakoverzicht van de handhaver telt als bewijs, tenzij er concrete twijfel is.",
+  "type": "regel",
+  "reikwijdte": "Wahv-zaken over een vastgestelde verkeersovertreding",
+  "uitzondering": "concrete omstandigheden die aanleiding geven tot twijfel",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "in beginsel voldoende voor het vaststellen van de verkeersovertreding"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring van de handhaver in het zaakoverzicht"
+  ],
+  "wat_gaf_doorslag": "De officier van justitie erkende dat het verbod alleen de binnenste ring betrof; de gemeente bevestigde dat."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Wahv"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "De boete is in deze zaak ongeldig verklaard, omdat niet vast te stellen was dat u de regel overtrad. Volgens de zitting gold het verbod op die plek niet. Twijfelt u aan een boete, dan kunnen foto's van de plek en het bord helpen, maar elke zaak wordt apart bekeken.",
+ "gemeente": "Groningen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,178 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2026:569",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "privaat-boete-voorwaarden",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {
+  "burger": "parkeerder (gedaagde)",
+  "wederpartij": "exploitant (Q-Park)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "Een parkeerder reed in Hengelo met een “treintje” (achter iemand aan de slagboom door, zonder te betalen) uit een parkeergarage. Q-Park, de exploitant van die garage, eiste bij de kantonrechter van de rechtbank Overijssel een vast tarief en een schadevergoeding.",
+ "titel": "Treintje rijden uit garage: vaste schadevergoeding toegewezen",
+ "kern": {
+  "zin": "De rechter vond de vaste schadevergoeding van 382,41 euro redelijk en wees die toe.",
+  "bron": [
+   52
+  ],
+  "citaat": "Dit gefixeerde bedrag komt de kantonrechter niet onredelijk voor"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeerder reed op 23 maart 2025 de garage Hengelo-de Brink uit zonder te betalen.",
+   "bron": [
+    24
+   ],
+   "citaat": "heeft op 23 maart 2025 gebruik gemaakt van de parkeergarage"
+  },
+  {
+   "zin": "Volgens de parkeerder liet de betaalautomaat het afweten en was hij tot dat rijden gedwongen.",
+   "bron": [
+    55
+   ],
+   "citaat": "Hij kon het verschuldigde parkeertarief niet betalen omdat het betaalsysteem niet werkte"
+  },
+  {
+   "zin": "Q-Park vorderde het tarief voor een verloren kaart van 12 euro plus 382,41 euro schadevergoeding.",
+   "bron": [
+    34
+   ],
+   "citaat": "het geldende tarief voor een verloren kaart van € 12,00 en een (aanvullende) schadevergoeding van € 382,41"
+  },
+  {
+   "zin": "De rechter vond het bord bij de inrit goed zichtbaar en de voorwaarden dus van toepassing.",
+   "bron": [
+    44
+   ],
+   "citaat": "het informatiebord met de verwijzing naar de algemene voorwaarden op een locatie staat die goed zichtbaar is"
+  },
+  {
+   "zin": "De vaste vergoeding vond de rechter niet onredelijk, al mag ze afschrikken.",
+   "bron": [
+    52
+   ],
+   "citaat": "Dit gefixeerde bedrag komt de kantonrechter niet onredelijk voor"
+  },
+  {
+   "zin": "De parkeerder moet de hoofdsom betalen, met incassokosten en proceskosten erbij.",
+   "bron": [
+    81
+   ],
+   "citaat": "veroordeelt [gedaagde] om aan Q-Park te betalen een bedrag van € 394,41"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Q-Park krijgt de vaste schadevergoeding, incasso en kosten",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet 394,41 euro betalen, plus 59,16 euro incassokosten en 460,78 euro proceskosten.",
+  "bron": [
+   81,
+   82,
+   83
+  ],
+  "citaat": "veroordeelt [gedaagde] om aan Q-Park te betalen een bedrag van € 394,41"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "privaat-voorwaarden",
+   "burger_zegt": "De voorwaarden waren niet goed zichtbaar en hij kon ze niet lezen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter wees het beroep op vernietiging van de voorwaarden af.",
+    "bron": [
+     46
+    ],
+    "citaat": "het beroep van [gedaagde] op vernietiging slaagt niet"
+   },
+   "bruikbare_zin": {
+    "citaat": "De algemene voorwaarden maken dus deel uit van de gesloten parkeerovereenkomst",
+    "bron": [
+     46
+    ]
+   }
+  },
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De betaalautomaat had een storing, waardoor hij niet kon betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de storing niet onderbouwd en de loggegevens spraken dat tegen.",
+    "bron": [
+     55
+    ],
+    "citaat": "gemotiveerd weersproken dat er een storing was"
+   },
+   "bruikbare_zin": {
+    "citaat": "omdat [gedaagde] onvoldoende feiten en omstandigheden heeft gesteld ter onderbouwing van zijn verweer",
+    "bron": [
+     55
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Het gevorderde bedrag is buiten proportie.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag geen reden om het bedrag te verlagen.",
+    "bron": [
+     52
+    ],
+    "citaat": "ziet geen aanleiding om het bedrag te matigen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Bovendien staat het in redelijke verhouding tot de belangen van Q-Park",
+    "bron": [
+     52
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een vast schadebedrag mag alleen omlaag als het uitpakt als buitensporig en onaanvaardbaar.",
+  "type": "regel",
+  "reikwijdte": "vaste schadevergoedingsbedingen in parkeerovereenkomsten",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   52
+  ],
+  "citaat": "alleen aan de orde als toepassing van het beding"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "loggegevens van de betaalautomaat",
+   "camerabeelden",
+   "sommatiebrieven"
+  ],
+  "wat_gaf_doorslag": "De loggegevens spraken de storing tegen en de parkeerder gaf te weinig concrete feiten."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:230c BW",
+  "art. 6:233 sub b BW",
+  "art. 6:94 lid 1 BW",
+  "art. 6:119 BW"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "klantcontact",
+  "betaalapp"
+ ],
+ "klantuitleg": "Bij een privé parkeergarage gelden de voorwaarden die bij de inrit op het bord staan, ook als u die niet leest. Achter iemand aan de slagboom door zonder te betalen kan u het tarief voor een verloren kaart en een vaste schadevergoeding kosten. Wilt u een storing aanvoeren, dan moet u die concreet onderbouwen, want een algemene klacht volstaat niet.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij (privaat garage)",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

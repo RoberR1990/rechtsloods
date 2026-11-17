@@ -1,0 +1,175 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2022:4502",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "zoekslag",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "Minister van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "De burger vroeg de Minister van Financiën om inzage in zijn gegevens in de Fraude Signalering Voorziening (FSV). De rechtbank Noord-Nederland beoordeelt of de Minister genoeg informatie heeft gegeven.",
+ "titel": "Geen extra inzage in FSV-gegevens",
+ "kern": {
+  "zin": "De rechtbank vindt dat de burger niet aannemelijk heeft gemaakt dat er meer persoonsgegevens zijn dan de Minister gaf.",
+  "bron": [
+   26
+  ],
+  "citaat": "heeft eiser onvoldoende aannemelijk gemaakt dat er meer persoonsgegevens zijn dan die verweerder heeft verstrekt."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de Minister van Financiën om inzage in zijn gegevens in de FSV.",
+   "bron": [
+    11
+   ],
+   "citaat": "verzoek om inzage in de Fraude Signalering Voorziening (FSV)"
+  },
+  {
+   "zin": "De Minister gaf een overzicht van de persoonsgegevens van de burger die in de FSV stonden.",
+   "bron": [
+    11
+   ],
+   "citaat": "aan eiser een overzicht gegeven van zijn persoonsgegevens die in de FSV stonden."
+  },
+  {
+   "zin": "De burger dacht dat er meer informatie was dan hij had gekregen.",
+   "bron": [
+    23
+   ],
+   "citaat": "Ook denkt hij dat er meer informatie moet zijn dan de Minister hem heeft verstrekt."
+  },
+  {
+   "zin": "De Minister zei dat hij niet meer gegevens had, omdat die gegevens er niet zijn.",
+   "bron": [
+    24
+   ],
+   "citaat": "dat aan het verzoek van eiser om meer gegevens te verstrekken uit de FSV niet kan worden voldaan"
+  },
+  {
+   "zin": "De rechtbank vond dat de burger niet aannemelijk maakte dat er meer gegevens waren.",
+   "bron": [
+    26
+   ],
+   "citaat": "heeft eiser onvoldoende aannemelijk gemaakt dat er meer persoonsgegevens zijn dan die verweerder heeft verstrekt."
+  },
+  {
+   "zin": "De burger krijgt het griffierecht niet terug en ook geen vergoeding van zijn proceskosten.",
+   "bron": [
+    30
+   ],
+   "citaat": "Eiser krijgt daarom het griffierecht niet terug. Hij krijgt ook geen vergoeding van zijn proceskosten."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De rechtbank verklaart het beroep ongegrond; de burger verliest.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt het griffierecht niet terug en ook geen vergoeding van zijn proceskosten.",
+  "bron": [
+   30
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug. Hij krijgt ook geen vergoeding van zijn proceskosten."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "Er moet meer informatie zijn dan ik heb gekregen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Alleen een vermoeden dat er meer informatie is, is niet genoeg.",
+    "bron": [
+     26
+    ],
+    "citaat": "Alleen eisers vermoeden dat er meer informatie moet zijn, is niet voldoende om anders te oordelen."
+   },
+   "bruikbare_zin": {
+    "citaat": "Alleen eisers vermoeden dat er meer informatie moet zijn, is niet voldoende om anders te oordelen.",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik denk dat mijn gegevens met die van iemand anders zijn verwisseld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een persoonsverwisseling betekent niet dat de Minister te weinig informatie gaf.",
+    "bron": [
+     27
+    ],
+    "citaat": "kan evenmin leiden tot de conclusie dat de Minister te weinig informatie heeft verstrekt"
+   },
+   "bruikbare_zin": {
+    "citaat": "kan evenmin leiden tot de conclusie dat de Minister te weinig informatie heeft verstrekt",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Ik heb schade door mijn opname in de FSV.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De vraag of de opname onrechtmatig was, ligt niet in deze zaak voor.",
+    "bron": [
+     21
+    ],
+    "citaat": "ligt dus niet ter beantwoording voor"
+   },
+   "bruikbare_zin": {
+    "citaat": "ligt dus niet ter beantwoording voor",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de organisatie onderzoek deed en geloofwaardig zegt dat er niet meer gegevens zijn, moet de burger aannemelijk maken dat er toch meer zijn.",
+  "type": "regel",
+  "reikwijdte": "Bij een inzageverzoek onder de AVG als de organisatie zegt dat er niet meer gegevens zijn.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "indien het bestuursorgaan onderzoek naar die gegevens heeft gedaan en niet ongeloofwaardig heeft medegedeeld"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "overzicht van FSV-gegevens",
+   "brief van de Minister",
+   "informatie uit Dagboek PIT"
+  ],
+  "wat_gaf_doorslag": "De Minister deed onderzoek en zei geloofwaardig dat er niet meer gegevens waren; de burger gaf vooral een vermoeden."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 15 AVG"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "fraude-handhaving",
+  "datateam-algoritmes"
+ ],
+ "klantuitleg": "U vroeg de Minister om inzage in uw gegevens. Als de organisatie goed heeft gezocht en geloofwaardig zegt dat er niet meer gegevens zijn, hoeft zij niet meer te geven. Alleen een vermoeden dat er meer is, is niet genoeg; wilt u meer inzage, laat dan met feiten zien waar die extra gegevens zouden moeten staan.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente in de zaak; de Minister van Financiën is partij",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

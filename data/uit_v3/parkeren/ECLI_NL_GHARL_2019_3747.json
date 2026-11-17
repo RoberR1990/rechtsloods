@@ -1,0 +1,153 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2019:3747",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "gehandicaptenplaats",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "kentekenhouder (met gemachtigde)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een kentekenhouder kreeg een boete van € 370 voor parkeren op een gehandicaptenparkeerplaats in Amsterdam. Hij ging in hoger beroep tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Boete vervalt: onduidelijke aantekening handhaver bewijst parkeren niet",
+ "kern": {
+  "zin": "De rechter vernietigde de boete, omdat de aantekening van de handhaver te onduidelijk was om vast te stellen dat de auto geparkeerd stond.",
+  "bron": [
+   27
+  ],
+  "citaat": "De verklaring van de ambtenaar bevat derhalve onvoldoende informatie om te kunnen vaststellen dat de gedraging is verricht."
+ },
+ "samenvatting": [
+  {
+   "zin": "De kentekenhouder kreeg een boete van € 370 voor parkeren op een gehandicaptenparkeerplaats die voor een ander voertuig was bestemd.",
+   "bron": [
+    22
+   ],
+   "citaat": "Deze gedraging zou zijn verricht op 16 augustus 2015 om 00:30 uur op de Trompenburgstraat te Amsterdam"
+  },
+  {
+   "zin": "De kentekenhouder zei dat hij niet parkeerde, maar heel kort stilstond om zware huisraad in en uit te laden.",
+   "bron": [
+    21
+   ],
+   "citaat": "geen sprake was van parkeren maar zeer kort stilstaan teneinde zware en omvangrijke huisraad te laden en te lossen"
+  },
+  {
+   "zin": "De kantonrechter (de rechter in eerste aanleg) vond eerst dat de boete terecht was.",
+   "bron": [
+    15
+   ],
+   "citaat": "het beroep tegen de inleidende beschikking ongegrond verklaard"
+  },
+  {
+   "zin": "De rechter in hoger beroep begreep de aantekening van de handhaver niet en zag daarin niet hoe was vastgesteld dat de auto geparkeerd stond.",
+   "bron": [
+    27
+   ],
+   "citaat": "kan daaruit niet blijken hoe is vastgesteld dat sprake was van parkeren"
+  },
+  {
+   "zin": "Daarom was niet bewezen dat de overtreding was begaan en werd de boete vernietigd.",
+   "bron": [
+    28
+   ],
+   "citaat": "Gelet op het voorgaande is niet komen vast te staan dat de gedraging is verricht."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete vernietigd; geld terug en proceskosten vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De boete vervalt, de betaalde zekerheid krijgt de kentekenhouder terug en hij krijgt € 512 aan proceskosten vergoed.",
+  "bron": [
+   34,
+   35
+  ],
+  "citaat": "door de advocaat-generaal aan hem wordt gerestitueerd"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Er is niets in het dossier dat de inhoud van het zaakoverzicht (het overzicht van de handhaver) ondersteunt.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De aantekening was onbegrijpelijk, dus het parkeren was niet vast te stellen.",
+    "bron": [
+     27
+    ],
+    "citaat": "De rest van de toelichting is onbegrijpelijk"
+   },
+   "bruikbare_zin": {
+    "citaat": "De verklaring van de ambtenaar bevat derhalve onvoldoende informatie om te kunnen vaststellen dat de gedraging is verricht",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Hij stond maar heel kort stil om huisraad te laden en te lossen.",
+   "oordeel": "niet beoordeeld",
+   "waarom": null,
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Het was niet duidelijk of het bord voor de plek voor of na het bord gold.",
+   "oordeel": "niet beoordeeld",
+   "waarom": null,
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een aantekening van de handhaver die niet te begrijpen is, kan niet laten zien hoe is vastgesteld dat er geparkeerd werd.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Zaakoverzicht met onbegrijpelijke afkortingen en zonder uitleg hoe het parkeren is vastgesteld",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "kan daaruit niet blijken hoe is vastgesteld dat sprake was van parkeren"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "zaakoverzicht met opmerkingen van de handhaver"
+  ],
+  "wat_gaf_doorslag": "De opmerkingen van de handhaver waren onbegrijpelijk en er was geen extra proces-verbaal."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 26 RVV 1990",
+  "art. 11 Wahv"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Laat handhavers in het zaakoverzicht in gewone woorden opschrijven hoe zij zagen dat een auto geparkeerd stond",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    27
+   ],
+   "citaat": "kan daaruit niet blijken hoe is vastgesteld dat sprake was van parkeren"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "scanauto-handhaving",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een boete blijft alleen staan als duidelijk is opgeschreven hoe de handhaver zag dat u geparkeerd stond. Zijn de aantekeningen onbegrijpelijk, dan kan de boete vervallen. Vraag in uw bezwaar om het dossier en kijk of dit helder is vastgelegd.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

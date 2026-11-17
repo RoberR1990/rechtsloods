@@ -1,0 +1,158 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:3682",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "wissen",
+ "kenmerk": null,
+ "zaaktype": "klacht-handhaving-ap",
+ "partijen": {
+  "burger": "patiënt van een zorginstelling",
+  "wederpartij": "Autoriteit Persoonsgegevens",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een patiënt wilde dat een zorginstelling de aantekening over haar verwijderverzoek ook wiste. Ze vroeg de Autoriteit Persoonsgegevens (AP) om in te grijpen en ging in hoger beroep bij de Raad van State.",
+ "titel": "Aantekening over verwijderverzoek mocht blijven staan",
+ "kern": {
+  "zin": "De rechter vond dat de zorginstelling de aantekening mocht bewaren, dus de AP hoefde niet in te grijpen.",
+  "bron": [
+   52
+  ],
+  "citaat": "GGNet was daarom niet verplicht het verzoek om wissing van de aantekening op grond van artikel 17 van de AVG te honoreren."
+ },
+ "samenvatting": [
+  {
+   "zin": "De zorginstelling wiste het medisch dossier op verzoek van de burger, maar maakte wel een aantekening van dat verzoek.",
+   "bron": [
+    24
+   ],
+   "citaat": "GGNet heeft een aantekening gemaakt van het verwijderverzoek."
+  },
+  {
+   "zin": "De burger vroeg de AP om in te grijpen tegen het bewaren van die aantekening.",
+   "bron": [
+    23
+   ],
+   "citaat": "verzoek bij de AP ingediend om handhavend op te treden tegen GGNet"
+  },
+  {
+   "zin": "De AP vond dat de zorginstelling de aantekening mocht bewaren.",
+   "bron": [
+    38
+   ],
+   "citaat": "De AP stelt zich op het standpunt dat de aantekening van het verwijderverzoek mag worden bewaard"
+  },
+  {
+   "zin": "De rechter oordeelde dat de zorginstelling een wettelijke plicht heeft om een dossier bij te houden en dat de aantekening daarvoor nodig was.",
+   "bron": [
+    50
+   ],
+   "citaat": "heeft GGnet de noodzaak om de aantekening van het verwijderverzoek vast te leggen, voldoende onderbouwd"
+  },
+  {
+   "zin": "Zonder overtreding kon de AP niet ingrijpen, en het hoger beroep van de burger faalde.",
+   "bron": [
+    55
+   ],
+   "citaat": "De AP kon dan ook niet handhavend optreden."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "AP mocht afzien van handhaving; de aantekening mocht blijven bestaan",
+ "gevolg_betrokkene": {
+  "zin": "De aantekening blijft bij de zorginstelling bewaard en de burger krijgt geen proceskosten vergoed.",
+  "bron": [
+   52,
+   59
+  ],
+  "citaat": "GGNet de aantekening van het verwijderverzoek mocht blijven bewaren"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "wissen-geen-grondslag",
+   "burger_zegt": "De aantekening is niet nodig voor het beheer van de zorg en moet weg.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De aantekening was nodig voor de dossierplicht en om verantwoording af te leggen aan toezichthouders.",
+    "bron": [
+     52
+    ],
+    "citaat": "Ook de bewaring van de gegevens is noodzakelijk met het oog op de dossierplicht van GGnet"
+   },
+   "bruikbare_zin": {
+    "citaat": "noodzakelijk met het oog op de dossierplicht van GGnet en met het oog op de verantwoording naar de toezichthouder",
+    "bron": [
+     52
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er was geen behandelovereenkomst, dus er geldt ook geen dossierplicht.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Door de aard van het intakegesprek gold de dossierplicht wel.",
+    "bron": [
+     50
+    ],
+    "citaat": "is de dossierplicht in dit geval van toepassing"
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De AP wekte het vertrouwen dat de aantekening zou worden verwijderd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Zonder overtreding kan de AP niet handhaven, ook niet als zij vertrouwen zou hebben gewekt.",
+    "bron": [
+     55
+    ],
+    "citaat": "vast staat dat er zonder overtreding niet kan worden gehandhaafd"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Gegevens die rechtmatig zijn opgeslagen mogen in beginsel bewaard blijven zolang dat nodig is voor het doel.",
+  "type": "regel",
+  "reikwijdte": "Bewaren van gegevens die rechtmatig zijn opgeslagen, bijvoorbeeld door een wettelijke dossierplicht",
+  "uitzondering": "Na verloop van tijd kan de eis van zo min mogelijk gegevens bewaren onmogelijk maken.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   51
+  ],
+  "citaat": "Een rechtmatige opslag van gegevens geeft in beginsel een grondslag voor de bewaring van die gegevens"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "aard van het intakegesprek"
+  ],
+  "wat_gaf_doorslag": "De wettelijke dossierplicht en de verantwoording aan toezichthouders."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 17 lid 3 sub c AVG",
+  "art. 9 lid 2 sub h AVG",
+  "art. 5 lid 1 sub c AVG",
+  "art. 6 lid 1 sub f AVG",
+  "art. 7:446 BW",
+  "art. 7:454 lid 1 BW"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een organisatie hoeft een aantekening over uw verzoek om gegevens te wissen niet altijd te verwijderen. Dat kan als de wet haar verplicht een dossier bij te houden en zij zich moet kunnen verantwoorden. Vraag bij een wisverzoek dus ook op welke wettelijke plicht het bewaren van gegevens steunt.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente betrokken",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,177 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2025:4512",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder procedeerde bij de kantonrechter van de rechtbank Noord-Nederland tegen de officier van justitie. Het ging om een boete van € 119,00 voor parkeren voor een inrit, opgelegd op grond van de Wahv (de wet voor boetes bij verkeersovertredingen).",
+ "titel": "Foutparkeren voor inrit blijft boete; toestemming wijkagent niet aannemelijk gemaakt",
+ "kern": {
+  "zin": "De kantonrechter vond dat het verbod om voor een inrit te parkeren absoluut is, dus de boete blijft staan.",
+  "bron": [
+   26
+  ],
+  "citaat": "Het verbod om te parkeren voor een inrit of uitrit is absoluut"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 10 november 2023 kreeg de parkeerder een boete van € 119,00 voor parkeren voor een inrit.",
+   "bron": [
+    11
+   ],
+   "citaat": "De opgelegde boete bedraagt € 119,00 (inclusief administratiekosten)"
+  },
+  {
+   "zin": "De parkeerder zei dat hij alleen even een tv uitlaadde en dat de wijkagent toestemming gaf om daar te parkeren.",
+   "bron": [
+    19
+   ],
+   "citaat": "De wijkagent heeft toestemming gegeven om daar te parkeren vanwege parkeerproblematiek in de straat"
+  },
+  {
+   "zin": "De officier van justitie vond dat er geen sprake was van laden en lossen, en dat de toestemming niet aannemelijk was.",
+   "bron": [
+    20
+   ],
+   "citaat": "De vertegenwoordigster vindt dat geen sprake was van laden en lossen"
+  },
+  {
+   "zin": "De kantonrechter ging uit van het verslag van de handhaver: ongeveer 10 minuten geen activiteit, dus parkeren en geen laden.",
+   "bron": [
+    24
+   ],
+   "citaat": "gedurende een tijd van ongeveer 10 minuten geen activiteit met betrekking tot het voertuig plaatsvond"
+  },
+  {
+   "zin": "De kantonrechter vond de toestemming van de wijkagent niet genoeg aannemelijk, omdat de agent niet kwam en er geen verklaring was.",
+   "bron": [
+    27
+   ],
+   "citaat": "Het bestaan van een afspraak in vorengenoemde zin is daarom niet voldoende aannemelijk gemaakt"
+  },
+  {
+   "zin": "De kantonrechter liet de boete staan en wees het verzoek om proceskosten af.",
+   "bron": [
+    34
+   ],
+   "citaat": "wijst het verzoek om proceskostenvergoeding af"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; boete blijft staan, geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de boete van € 119,00 betalen en krijgt geen proceskosten.",
+  "bron": [
+   34,
+   11
+  ],
+  "citaat": "wijst het verzoek om proceskostenvergoeding af"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De parkeerder ontkent dat hij zo stond geparkeerd en betwist de bewijsmiddelen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter vond de ontkenning zonder onderbouwing te weinig om twijfel te zaaien aan het zaakoverzicht.",
+    "bron": [
+     23
+    ],
+    "citaat": "is naar oordeel van de kantonrechter onvoldoende om te leiden tot twijfel aan de gegevens in het zaakoverzicht"
+   },
+   "bruikbare_zin": {
+    "citaat": "onvoldoende om te leiden tot twijfel aan de gegevens in het zaakoverzicht",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "gelijkheid",
+   "burger_zegt": "Drie andere voertuigen die voor garagedeuren stonden, zijn niet beboet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter zei dat het niet uitmaakt of andere voertuigen wel of niet zijn beboet.",
+    "bron": [
+     28
+    ],
+    "citaat": "Of andere voertuigen wel of niet zijn beboet, maakt in dezen ook niet uit"
+   },
+   "bruikbare_zin": {
+    "citaat": "Opsporingsambtenaren hebben een discretionaire bevoegdheid",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De garagedeur wordt niet meer gebruikt en er was geen hinder.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter zei dat concrete hinder niet van belang is voor de boete.",
+    "bron": [
+     26
+    ],
+    "citaat": "Ook is niet van belang of concreet hinder is veroorzaakt"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het verbod om te parkeren voor een inrit of uitrit is absoluut",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeren voor een inrit of uitrit is altijd verboden, ook met toestemming of zonder hinder.",
+  "type": "regel",
+  "reikwijdte": "parkeren voor een inrit of uitrit (Wahv-code R397B)",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   26
+  ],
+  "citaat": "Het verbod om te parkeren voor een inrit of uitrit is absoluut"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "zaakoverzicht van de handhaver",
+   "verklaring van de wijkagent (niet overgelegd)"
+  ],
+  "wat_gaf_doorslag": "Het zaakoverzicht bleef overeind; de ontkenning was niet onderbouwd."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:HR:1999:AA2760",
+   "ECLI:NL:GHARL:2021:409"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 12 lid 3 Wahv",
+  "Wahv-code R397B"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "klantcontact",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "U mag voor een inrit of uitrit niet parkeren, ook niet met toestemming of zonder hinder; daarom bleef de boete staan. Toestemming van bijvoorbeeld een wijkagent moet u kunnen aantonen, met een getuige of een schriftelijke verklaring. Denkt u dat de boete ten onrechte is, dan helpt zulk bewijs; of het dan anders uitpakt, is niet zeker.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

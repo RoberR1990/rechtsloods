@@ -1,0 +1,156 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2026:1198",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente (heffingsambtenaar Belastingsamenwerking)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder kreeg een naheffingsaanslag parkeerbelasting (de rekening achteraf) en maakte bezwaar. Daarna ging de parkeerder in beroep bij de rechtbank Midden-Nederland, tegen de heffingsambtenaar van de gemeente.",
+ "titel": "Gemeente besliste te laat op bezwaar; parkeerder krijgt vergoeding",
+ "kern": {
+  "zin": "De rechter oordeelde dat de beslistermijn niet was opgeschort, dus de gemeente moet een dwangsom betalen (een boete voor te laat beslissen).",
+  "bron": [
+   26
+  ],
+  "citaat": "de beslistermijn voor het doen van uitspraak op bezwaar niet is opgeschort"
+ },
+ "samenvatting": [
+  {
+   "zin": "In juli 2023 kreeg de parkeerder een naheffingsaanslag van de gemeente.",
+   "bron": [
+    11
+   ],
+   "citaat": "Op 26 juli 2023 is aan eiser een naheffingsaanslag parkeerbelasting opgelegd"
+  },
+  {
+   "zin": "De parkeerder zei dat de beslistermijn niet was opgeschort.",
+   "bron": [
+    22
+   ],
+   "citaat": "Eiser voert aan dat de beslistermijn niet is opgeschort"
+  },
+  {
+   "zin": "De gemeente zei dat de parkeerder met een bericht al uitstel had gegeven.",
+   "bron": [
+    23
+   ],
+   "citaat": "stelt daarbij dat met het bericht van 8 april 2024 door eiser uitstel is verleend"
+  },
+  {
+   "zin": "De rechter zag in het bericht van 8 april geen uitdrukkelijke toestemming voor uitstel.",
+   "bron": [
+    24
+   ],
+   "citaat": "In het bericht van 8 april 2024 valt een dergelijke expliciete instemming van eiser met uitstel echter niet te lezen"
+  },
+  {
+   "zin": "Over 42 dagen is een dwangsom verschuldigd.",
+   "bron": [
+    26
+   ],
+   "citaat": "dus dwangsom is verschuldigd over 42 dagen"
+  },
+  {
+   "zin": "De gemeente betaalt daarnaast het griffierecht en de proceskosten terug.",
+   "bron": [
+    29
+   ],
+   "citaat": "moet de heffingsambtenaar het door eiser betaalde griffierecht vergoeden"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep gegrond; alleen dwangsom en proceskosten, geen inhoudelijk gelijk.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente betaalt een dwangsom van 1.442 euro, plus 51 euro griffierecht en 633,50 euro proceskosten.",
+  "bron": [
+   34,
+   33,
+   35
+  ],
+  "citaat": "stelt de door de heffingsambtenaar te betalen dwangsom vast op € 1.442,-"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De beslistermijn is niet opgeschort, dus de gemeente besliste te laat.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Daarom is over 42 dagen dwangsom verschuldigd.",
+    "bron": [
+     26
+    ],
+    "citaat": "de beslistermijn voor het doen van uitspraak op bezwaar niet is opgeschort"
+   },
+   "bruikbare_zin": {
+    "citaat": "instemming met uitstel niet kan worden verondersteld maar dat die expliciet moet worden gegeven",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Uitstel van de beslistermijn telt alleen als de burger daar uitdrukkelijk mee instemt.",
+  "type": "regel",
+  "reikwijdte": "beslistermijn op bezwaar, als de heffingsambtenaar uitstel wil",
+  "uitzondering": "wettelijke procedurevoorschriften (art. 7:10 lid 4 sub c Awb), die hier niet werden aanvaard",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "instemming met uitstel niet kan worden verondersteld maar dat die expliciet moet worden gegeven"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "bericht van 8 april 2024"
+  ],
+  "wat_gaf_doorslag": "Het bericht van 8 april 2024 bevatte geen uitdrukkelijke instemming met uitstel."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 7:10 Awb",
+  "art. 7:10 lid 4 sub c Awb",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag om uitstel van de beslistermijn alleen met uitdrukkelijke instemming van de burger.",
+   "raakt": "bezwaar",
+   "bron": [
+    24
+   ],
+   "citaat": "instemming met uitstel niet kan worden verondersteld"
+  },
+  {
+   "actie": "Voer een beroep op uitstel wegens een hoorzitting tijdig aan, niet pas ter zitting.",
+   "raakt": "bezwaar",
+   "bron": [
+    25
+   ],
+   "citaat": "De rechtbank stelt voorop dat de heffingsambtenaar dit standpunt niet eerder dan de zitting heeft ingenomen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "De naheffing zelf is al door de gemeente vernietigd, uit coulance. Het punt hier was dat de gemeente te laat besliste; stemde u niet uitdrukkelijk in met uitstel, dan kan een dwangsom gelden. Bekijk uw brieven en data, en vraag bij twijfel advies aan.",
+ "gemeente": "Belastingsamenwerking gemeente en hoogheemraadschap Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,156 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:8030",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg in Breda een naheffing (de rekening achteraf) van 53,70 euro, omdat de betaling op een ander kenteken stond. In beroep bij de rechtbank Zeeland-West-Brabant legde de parkeerder een betalingsbewijs over.",
+ "titel": "Betaling aannemelijk, ook met verkeerd kenteken: rekening vervalt",
+ "kern": {
+  "zin": "De rechter vond het aannemelijk dat de parkeerder had betaald, en daarom kon er geen naheffing komen.",
+  "bron": [
+   25
+  ],
+  "citaat": "brengt artikel 20 van de Algemene wet inzake rijksbelastingen mee dat naheffing niet mogelijk is"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 10 juli 2025 zag een scanauto in Breda dat er bij een geparkeerde auto niet was betaald.",
+   "bron": [
+    16
+   ],
+   "citaat": "geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De gemeente legde daarna een naheffing op van 53,70 euro.",
+   "bron": [
+    17
+   ],
+   "citaat": "een naheffingsaanslag opgelegd van € 53,70"
+  },
+  {
+   "zin": "De parkeerder vond de naheffing onterecht en legde een betalingsbewijs over.",
+   "bron": [
+    23
+   ],
+   "citaat": "Belanghebbende voert aan dat de naheffingsaanslag ten onrechte aan haar is opgelegd"
+  },
+  {
+   "zin": "De gemeente betwistte dat het bewijs op het moment van parkeren liet zien dat er was betaald.",
+   "bron": [
+    24
+   ],
+   "citaat": "betwist dat het door belanghebbende overgelegde betalingsbewijs aannemelijk maakt"
+  },
+  {
+   "zin": "De rechter vond het betalingsbewijs toch aannemelijk en vernietigde daardoor de naheffing.",
+   "bron": [
+    25
+   ],
+   "citaat": "Het door belanghebbende overgelegde betalingsbewijs toont aan dat via een online parkeerapplicatie"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd; griffierecht komt terug, verder geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft de naheffing van 53,70 euro niet te betalen en krijgt het griffierecht van 53 euro terug.",
+  "bron": [
+   36,
+   17
+  ],
+  "citaat": "bepaalt dat de heffingsambtenaar het griffierecht van € 53,- aan belanghebbende moet vergoeden"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "De parkeerder had wel betaald, maar met een ander kenteken ingevoerd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Volgens vaste rechtspraak mag bij een verkeerd kenteken geen naheffing volgen als er wel is betaald.",
+    "bron": [
+     25
+    ],
+    "citaat": "bestaat in het geval voldoende parkeerbelasting is voldaan, maar daarbij een onjuist kenteken is ingevoerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet de mogelijkheid om een naheffingsaanslag op te leggen",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het betalingsbewijs mocht ook in beroep nog worden ingebracht.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter zei dat partijen in het belastingrecht in elke fase bewijs mogen inbrengen.",
+    "bron": [
+     25
+    ],
+    "citaat": "in het belastingrecht het partijen vrij staat om in iedere stand van het geding bewijsstukken te overleggen"
+   },
+   "bruikbare_zin": {
+    "citaat": "in het belastingrecht het partijen vrij staat om in iedere stand van het geding bewijsstukken te overleggen",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Is er aannemelijk genoeg betaald, dan mag er geen naheffing komen, ook niet bij een verkeerd kenteken.",
+  "type": "regel",
+  "reikwijdte": "betaald parkeren met een verkeerd ingevoerd kenteken",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   25
+  ],
+  "citaat": "Volgens vaste rechtspraak bestaat in het geval voldoende parkeerbelasting is voldaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "betalingsbewijs van de parkeerapp"
+  ],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 20 Algemene wet inzake rijksbelastingen"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg geen naheffing op als er toch is betaald, ook niet bij een verkeerd kenteken.",
+   "raakt": "betaalapp",
+   "bron": [
+    25
+   ],
+   "citaat": "niet de mogelijkheid om een naheffingsaanslag op te leggen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "betaalapp"
+ ],
+ "klantuitleg": "Een naheffing is niet terecht als aannemelijk is dat u al had betaald, ook met een verkeerd kenteken. Bewaar daarom uw betalingsbewijs goed. Met dat bewijs kan bezwaar of beroep kans maken.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

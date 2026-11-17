@@ -1,0 +1,186 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:3386",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg in Breda een naheffingsaanslag (de rekening achteraf), omdat hij te weinig had betaald. De rechtbank Zeeland-West-Brabant, zittingsplaats Breda, oordeelde over het beroep.",
+ "titel": "Te weinig betaald: kosten te hoog, aanslag grotendeels blijft",
+ "kern": {
+  "zin": "De rechter vindt de aanslag terecht, maar de kosten waren te hoog en gaan omlaag.",
+  "bron": [
+   43,
+   20
+  ],
+  "citaat": "Dit betekent dat er € 5,00 teveel aan kosten van de naheffingsaanslag in rekening zijn gebracht"
+ },
+ "samenvatting": [
+  {
+   "zin": "Handhavers zagen bij een controle dat de parkeerbelasting niet was betaald.",
+   "bron": [
+    16
+   ],
+   "citaat": "Tijdens een controle op voornoemde datum en tijd is door parkeercontroleurs geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "Hij wilde betalen via de app, maar die gaf een melding dat gratis parkeren kon.",
+   "bron": [
+    32
+   ],
+   "citaat": "omdat de parkeerapplicatie met een melding aangaf dat op de betreffende parkeerlocatie mogelijk gratis geparkeerd kon worden"
+  },
+  {
+   "zin": "De rechter vindt dat de parkeerder zelf moet nagaan of en wat betaald parkeren geldt.",
+   "bron": [
+    37
+   ],
+   "citaat": "van een weggebruiker mag worden verwacht dat hij zich op de hoogte stelt"
+  },
+  {
+   "zin": "Wat de parkeerder wilde, weegt bij parkeerbelasting niet mee.",
+   "bron": [
+    35
+   ],
+   "citaat": "de parkeerbelasting een objectieve belasting is, waarbij opzet, schuld of intentie geen rol spelen"
+  },
+  {
+   "zin": "Het kostenbedrag op de aanslag was 5 euro te hoog berekend.",
+   "bron": [
+    43
+   ],
+   "citaat": "terwijl op de naheffingsaanslag hiervoor een bedrag van € 57,75 staat vermeld"
+  },
+  {
+   "zin": "De aanslag komt daardoor op 54,25 euro uit.",
+   "bron": [
+    51
+   ],
+   "citaat": "vermindert de naheffingsaanslag parkeerbelasting tot € 54,25"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Aanslag blijft; kosten vijf euro te hoog, dus verlaagd",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt in totaal 54,25 euro en krijgt het griffierecht van 50 euro terug.",
+  "bron": [
+   51,
+   52
+  ],
+  "citaat": "vermindert de naheffingsaanslag parkeerbelasting tot € 54,25"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De parkeerapp gaf een verkeerde melding over gratis parkeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de parkeerder zelf moet nagaan of betaald parkeren geldt, ook bij een app.",
+    "bron": [
+     37
+    ],
+    "citaat": "Deze onderzoeksplicht is ook van toepassing indien gebruik wordt gemaakt van een parkeerapp"
+   },
+   "bruikbare_zin": {
+    "citaat": "Deze onderzoeksplicht is ook van toepassing indien gebruik wordt gemaakt van een parkeerapp",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De naheffing van ruim 59 euro staat niet in verhouding tot de fout.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vindt dat de kosten 5 euro te hoog zijn berekend.",
+    "bron": [
+     43
+    ],
+    "citaat": "Dit betekent dat er € 5,00 teveel aan kosten van de naheffingsaanslag in rekening zijn gebracht"
+   },
+   "bruikbare_zin": {
+    "citaat": "terwijl op de naheffingsaanslag hiervoor een bedrag van € 57,75 staat vermeld",
+    "bron": [
+     43
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Een aanslag van 59,25 euro staat niet in verhouding tot de vergissing.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat opzet of intentie bij parkeerbelasting geen rol spelen.",
+    "bron": [
+     35
+    ],
+    "citaat": "de parkeerbelasting een objectieve belasting is, waarbij opzet, schuld of intentie geen rol spelen"
+   },
+   "bruikbare_zin": {
+    "citaat": "de parkeerbelasting een objectieve belasting is",
+    "bron": [
+     35
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wat iemand wilde of bedoelde, weegt bij parkeerbelasting niet mee.",
+  "type": "regel",
+  "reikwijdte": "alle naheffingen van parkeerbelasting",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   35
+  ],
+  "citaat": "de parkeerbelasting een objectieve belasting is, waarbij opzet, schuld of intentie geen rol spelen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "controle door parkeercontroleurs",
+   "melding van de parkeerapp"
+  ],
+  "wat_gaf_doorslag": "Het eigen onderzoek van de parkeerder woog zwaarder dan de app-melding."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "art. 234 lid 3 Gemeentewet",
+  "art. 10 lid 1 Verordening heffing en invordering parkeerbelastingen 2023"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer of het kostenbedrag op de aanslag overeenkomt met de tarieventabel.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    43
+   ],
+   "citaat": "terwijl op de naheffingsaanslag hiervoor een bedrag van € 57,75 staat vermeld"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar",
+  "betaalapp"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren blijft staan als u niet of te weinig hebt betaald, ook als de app iets anders aangaf. Een melding van de app over gratis parkeren ontslaat u niet van de plicht om zelf na te gaan of betaald parkeren geldt. Controleer daarom de borden op straat voordat u parkeert.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,149 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2025:10507",
+ "relevant": true,
+ "kenmerk": null,
+ "dubbel_van": null,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing (de rekening achteraf) voor parkeren in Amsterdam, omdat hij niet op tijd had betaald. Hij ging in beroep bij de rechtbank Amsterdam, die oordeelde dat de rekening terecht was.",
+ "titel": "Te laat betaald na parkeren: de rekening blijft staan",
+ "kern": {
+  "zin": "De rechter vond de rekening terecht: de betaling kwam te laat, en de wil om te betalen telt niet mee.",
+  "bron": [
+   19,
+   20
+  ],
+  "citaat": "Daarmee is de redelijke termijn overschreden."
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde een naheffing op, omdat de auto op 18 april 2025 zonder betaalde parkeerbelasting stond.",
+   "bron": [
+    14
+   ],
+   "citaat": "zonder dat parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat hij nog in de auto zat en de parkeerapp probeerde te activeren.",
+   "bron": [
+    17
+   ],
+   "citaat": "Hij stelt dat hij tijdens de controle nog in de auto zat"
+  },
+  {
+   "zin": "De gemeente zei dat het kenteken pas later was aangemeld, om 10.51 uur.",
+   "bron": [
+    19
+   ],
+   "citaat": "pas om 10.51 uur is aangemeld"
+  },
+  {
+   "zin": "De rechter oordeelde dat de wil om te betalen niet telt, omdat parkeerbelasting geen boete is.",
+   "bron": [
+    20
+   ],
+   "citaat": "Parkeerbelasting is een zogenoemde objectieve belasting en geen boete."
+  },
+  {
+   "zin": "De rekening blijft staan en de parkeerder krijgt het griffierecht (de kosten van het beroep) niet terug.",
+   "bron": [
+    22
+   ],
+   "citaat": "Eiser krijgt daarom het griffierecht niet terug."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de rekening blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening blijft staan en de parkeerder krijgt het griffierecht (de kosten van het beroep) niet terug.",
+  "bron": [
+   22
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij zat in de auto en startte de parkeerapp binnen een redelijke aanmeldtijd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat het verschil van één uur en zeven minuten tussen controle en aanmelding te lang was.",
+    "bron": [
+     19
+    ],
+    "citaat": "Het verschil tussen de constatering en de aanmelding is dus één uur en zeven minuten."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het verschil tussen de constatering en de aanmelding is dus één uur en zeven minuten.",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij wilde betalen en wilde geen belasting ontwijken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat de wil om te betalen niet telt, omdat parkeerbelasting geen boete is.",
+    "bron": [
+     20
+    ],
+    "citaat": "Dit betekent dat het niet van belang is dat eiser wel de intentie had om te betalen."
+   },
+   "bruikbare_zin": {
+    "citaat": "Parkeerbelasting is een zogenoemde objectieve belasting en geen boete.",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder krijgt een redelijke termijn om te betalen, maar die termijn is meestal niet langer dan tien minuten.",
+  "type": "regel",
+  "reikwijdte": "Parkeren in Amsterdam waarvoor parkeerbelasting verschuldigd is",
+  "uitzondering": "De lengte van de termijn hangt af van de omstandigheden van het geval.",
+  "herkomst": "lokale verordening",
+  "bron": [
+   18
+  ],
+  "citaat": "In het algemeen is deze termijn echter niet langer dan tien minuten."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "parkeersysteem (moment van aanmelding van het kenteken)",
+   "betaalbewijs van de parkeerder"
+  ],
+  "wat_gaf_doorslag": "Het moment van aanmelding in het parkeersysteem, dat later was dan de controle."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 1.6 lid 2 Parkeerverordening Amsterdam 2025"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "Rechter eiste niets van de gemeente; de rekening was terecht.",
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "betaalapp"
+ ],
+ "klantuitleg": "De rekening voor het parkeren is terecht als u niet op tijd betaalt, ook als u wel van plan was te betalen. In Amsterdam geldt daarvoor meestal een korte termijn, niet langer dan tien minuten. Heeft u te laat betaald, dan heeft bezwaar op dit punt weinig kans.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "zekerheid": "hoog"
+}

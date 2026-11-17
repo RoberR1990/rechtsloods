@@ -1,0 +1,151 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2026:9026",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Zaanstad",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing in Zaandam, omdat voor zijn auto niet was betaald. Hij procedeert tegen de gemeente Zaanstad bij de rechtbank Noord-Holland.",
+ "titel": "Naheffing terecht: korte stop was toch parkeren",
+ "kern": {
+  "zin": "De rechter vond de naheffing terecht: twee minuten stilstaan is parkeren, en de parkeerder had nog tijd om te betalen.",
+  "bron": [
+   24,
+   25
+  ],
+  "citaat": "De rechtbank is van oordeel dat ook het gedurende twee minuten stilstaan van een voertuig"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle in Zaandam bleek er geen geldig parkeerrecht voor de auto te zijn.",
+   "bron": [
+    17
+   ],
+   "citaat": "De parkeercontroleur heeft geconstateerd dat voor de auto geen geldig parkeerrecht was betaald"
+  },
+  {
+   "zin": "De parkeerder vindt de aanslag onterecht: hij zat nog in de auto en probeerde de parkeerapp te starten.",
+   "bron": [
+    19
+   ],
+   "citaat": "op het moment dat de scanauto voorbij reed nog in de auto zat"
+  },
+  {
+   "zin": "De gemeente stelt dat de parkeerder niet in het Nationaal Parkeer Register stond aangemeld.",
+   "bron": [
+    20
+   ],
+   "citaat": "nooit is aangemeld in het Nationaal Parkeer Register"
+  },
+  {
+   "zin": "De rechter vindt dat ook twee minuten stilstaan onder parkeren valt.",
+   "bron": [
+    24
+   ],
+   "citaat": "De rechtbank is van oordeel dat ook het gedurende twee minuten stilstaan van een voertuig"
+  },
+  {
+   "zin": "Na het wegrijden van de scanauto had de parkeerder nog kunnen betalen, dus het beroep is ongegrond.",
+   "bron": [
+    25
+   ],
+   "citaat": "Ook nadat belanghebbende de scanauto had zien wegrijden, had hij nog parkeerbelasting kunnen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan, geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan en de parkeerder krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   30,
+   28
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Hij stond maar kort stil en was bezig de parkeerapp te activeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat twee minuten stilstaan ook parkeren is en dat daarna nog tijd was om te betalen.",
+    "bron": [
+     24,
+     25
+    ],
+    "citaat": "De rechtbank is van oordeel dat ook het gedurende twee minuten stilstaan van een voertuig"
+   },
+   "bruikbare_zin": {
+    "citaat": "Ook nadat belanghebbende de scanauto had zien wegrijden, had hij nog parkeerbelasting kunnen",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "Hij kreeg de parkeerapp niet aan de praat.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de parkeerder ook daarna nog had kunnen betalen en dat niet heeft gedaan.",
+    "bron": [
+     25
+    ],
+    "citaat": "Belanghebbende heeft dit niet gedaan en is weggereden zonder parkeerbelasting te voldoen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het lukte hem niet om de parkeerapp te activeren",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeren is elk langer stilstaan van een voertuig dan nodig is om in- of uit te stappen, te laden of te lossen.",
+  "type": "regel",
+  "reikwijdte": "openbare terreinen en wegdelen in de gemeente waar staan niet wettelijk verboden is",
+  "uitzondering": "in- of uitstappen en laden of lossen (direct)",
+  "herkomst": "lokale verordening",
+  "bron": [
+   23
+  ],
+  "citaat": "het gedurende een aaneengesloten periode doen of laten staan van een voertuig"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "controle van de parkeercontroleur",
+   "Nationaal Parkeer Register (niet aangemeld)"
+  ],
+  "wat_gaf_doorslag": "Onweersproken bleef dat de parkeerder niet in het register stond aangemeld."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Verordening parkeerbelasting Zaanstad 2025 (definitie parkeren)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente won; rechter noemt geen tekortkoming die de gemeente moet herstellen",
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "betaalapp"
+ ],
+ "klantuitleg": "Een naheffing is terecht als er niet op tijd is betaald, ook bij een korte stop. De rechter vond in deze zaak dat er na het wegrijden van de scanauto nog tijd was om te betalen. Lukte betalen niet door een storing in de app, dan kunt u dat met bewijs onderbouwen, maar de kans is klein als u daarna nog had kunnen betalen.",
+ "gemeente": "Zaanstad",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

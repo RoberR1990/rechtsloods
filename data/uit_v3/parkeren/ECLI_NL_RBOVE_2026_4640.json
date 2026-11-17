@@ -1,0 +1,161 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2026:4640",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Zwolle",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg in Zwolle een naheffing (de rekening achteraf) van € 82,10, omdat hij na 60 minuten niet opnieuw had betaald. De rechtbank Overijssel besliste in beroep dat de rekening terecht is opgelegd.",
+ "titel": "Parkeerder betaalde maar één uur; rekening blijft staan",
+ "kern": {
+  "zin": "De rechter vond de rekening terecht, omdat de parkeerder niet aantoonde dat de app onjuiste informatie gaf.",
+  "bron": [
+   41,
+   36
+  ],
+  "citaat": "Gelet op het voorgaande is de naheffingsaanslag parkeerbelasting terecht opgelegd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controleur trof op 2 mei 2025 de auto van de parkeerder aan op een betaalplek zonder geldig parkeerrecht.",
+   "bron": [
+    17
+   ],
+   "citaat": "tijdens een parkeercontrole aan de Potgietersingel te Zwolle dat daar een blauwe auto"
+  },
+  {
+   "zin": "De gemachtigde zei dat de parkeerapp de parkeerder niet op de maximale betaalduur wees.",
+   "bron": [
+    19
+   ],
+   "citaat": "bij het gebruik van de parkeerapp niet daarop werd gewezen"
+  },
+  {
+   "zin": "De gemeente vond dat de informatie over de regels wel duidelijk genoeg was.",
+   "bron": [
+    24
+   ],
+   "citaat": "dat aan het kenbaarheidsvereiste en de informatieplicht is voldaan"
+  },
+  {
+   "zin": "De rechter oordeelde dat de parkeerder de maximale tijd in de app had kunnen zien.",
+   "bron": [
+    36
+   ],
+   "citaat": "heeft de gemachtigde niet voldoende gemotiveerd betwist dat belanghebbende bij gebruikmaking van de Q-Park app"
+  },
+  {
+   "zin": "De parkeerder moet de rekening zelf betalen; het griffierecht en de proceskosten vallen weg.",
+   "bron": [
+    43
+   ],
+   "citaat": "Belanghebbende krijgt het griffierecht niet terug en evenmin vergoeding van proceskosten"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; geen bewijs dat app onjuiste informatie gaf",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt de rekening van € 82,10 en mist daarnaast het griffierecht (de kosten om beroep in te stellen) en de proceskosten.",
+  "bron": [
+   43,
+   17
+  ],
+  "citaat": "Belanghebbende krijgt het griffierecht niet terug en evenmin vergoeding van proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Er was geen bebording of parkeerzuil met de maximale duur van één uur te zien.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter keek naar de app, niet apart naar de borden.",
+    "bron": [
+     36
+    ],
+    "citaat": "bij gebruikmaking van de Q-Park app en invoering van de juiste parkeerzone"
+   },
+   "bruikbare_zin": {
+    "citaat": "de maximale betaaltermijn van 60 minuten was aangegeven",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De app gaf onvolledige of onjuiste informatie over de maximale betaalduur.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond te weinig gegevens om te oordelen dat de app onjuiste informatie gaf.",
+    "bron": [
+     39
+    ],
+    "citaat": "Daarmee zijn onvoldoende gegevens aangedragen om te oordelen dat"
+   },
+   "bruikbare_zin": {
+    "citaat": "onvoldoende gegevens aangedragen om te oordelen",
+    "bron": [
+     39
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Foute informatie uit een door de gemeente toegestane parkeerapp komt voor rekening van de gemeente.",
+  "type": "regel",
+  "reikwijdte": "betaling via een door de gemeente toegestane parkeerapp waarmee een overeenkomst is gesloten",
+  "uitzondering": "als niet is aangetoond dat de app onjuiste of onvolledige gegevens gaf",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   34
+  ],
+  "citaat": "behoren de gevolgen van onbetrouwbare informatie, verstrekt in door gemeenten toegestane parkeerapps"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "kwitantie van de parkeertransactie"
+  ],
+  "wat_gaf_doorslag": "De kwitantie liet alleen één uurtarief zien, niet een fout in de app."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RBOVE:2025:7023",
+   "ECLI:NL:RBOVE:2026:3983"
+  ]
+ },
+ "wetsartikelen": [
+  "Tarieventabel Verordening Parkeerbelastingen Zwolle 2025, zone 1",
+  "Aanwijzingsbesluit parkeerbelastingen Zwolle 2025, bijlage I onder 1b"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer of de parkeerapp de maximale betaalduur juist toont, want anders is aan de informatieplicht niet voldaan.",
+   "raakt": "betaalapp",
+   "bron": [
+    33
+   ],
+   "citaat": "Wanneer bij betaling middels een parkeerapp onjuiste gegevens worden verstrekt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "betaalapp",
+  "bezwaar"
+ ],
+ "klantuitleg": "Parkeert u met een parkeerapp en blijft u langer dan de betaaltijd, dan kan de gemeente de rekening achteraf sturen. Wilt u dat niet, zet dan een melding aan in de app, zodat u weet wanneer de betaaltijd bijna om is. Wilt u bezwaar maken met een fout in de app, dan moet u dat ook met gegevens aantonen.",
+ "gemeente": "Zwolle",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,132 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOBR:2026:5160",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente 's-Hertogenbosch",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "anders",
+ "intro": "De bewoner vroeg de rechtbank Oost-Brabant om schadevergoeding van de gemeente 's-Hertogenbosch. Het ging om de huur van een garage, nadat een parkeervergunning voor de auto van de bewoner was ingetrokken.",
+ "titel": "Geen schadevergoeding voor garagehuur na ingetrokken vergunning",
+ "kern": {
+  "zin": "De rechter wees het verzoek af, omdat de bewoner niet aannemelijk maakte dat de garagehuur nodig was.",
+  "bron": [
+   29
+  ],
+  "citaat": "Naar het oordeel van de rechtbank is verzoekster er dan ook niet in geslaagd om aannemelijk te maken"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner eiste 800 euro voor de huur van een garage na het intrekken van de vergunning.",
+   "bron": [
+    10
+   ],
+   "citaat": "De gestelde schade is € 800,- voor de huur van een garage"
+  },
+  {
+   "zin": "Volgens de bewoner moest zij de kosten maken, omdat er in de buurt weinig parkeerplekken waren.",
+   "bron": [
+    27
+   ],
+   "citaat": "Verzoekster stelt zich op het standpunt dat zij genoodzaakt was om kosten te maken"
+  },
+  {
+   "zin": "De gemeente vond dat de garagehuur niet nodig was, omdat gratis parkeren dichtbij mogelijk was.",
+   "bron": [
+    28
+   ],
+   "citaat": "Het college stelt zich op het standpunt dat verzoekster geen kosten had hoeven maken"
+  },
+  {
+   "zin": "De rechter vond het te vroeg om al een vaste garage te huren, zolang de bezwaarprocedure liep.",
+   "bron": [
+    29
+   ],
+   "citaat": "De rechtbank volgt het college in zijn standpunt dat het niet noodzakelijk was om vooruitlopend"
+  },
+  {
+   "zin": "Het verzoek is afgewezen; de bewoner betaalt de garagehuur zelf.",
+   "bron": [
+    31
+   ],
+   "citaat": "Uit het voorgaande volgt dat het verzoek om schadevergoeding wordt afgewezen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Schadevergoeding afgewezen; besluit onrechtmatig, maar garagekosten niet het gevolg",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner draagt de garagehuur zelf, en het griffierecht (de kosten om de rechter in te schakelen) gaat verloren.",
+  "bron": [
+   31
+  ],
+  "citaat": "Verzoekster krijgt dan ook het betaalde griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De garage was nodig, want er was schaarste aan parkeerplekken en de verlengingen kwamen vlak voor het einde.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de kosten niet nodig, omdat gratis parkeren dichtbij mogelijk was.",
+    "bron": [
+     29
+    ],
+    "citaat": "De rechtbank volgt het college in zijn standpunt dat het niet noodzakelijk was om vooruitlopend"
+   },
+   "bruikbare_zin": {
+    "citaat": "het huren van een garage als meer permanente oplossing in deze zaak geen schade is",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Kosten die vooruitlopend op een mogelijk definitief besluit worden gemaakt, zijn in dit geval niet het gevolg van dat besluit.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "schadevergoeding voor garagehuur tijdens een bezwaarprocedure over een ingetrokken parkeervergunning",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   29
+  ],
+  "citaat": "het huren van een garage als meer permanente oplossing in deze zaak geen schade is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verlengingen van de parkeervergunning",
+   "mededelingen van de bewoner ter zitting"
+  ],
+  "wat_gaf_doorslag": "De bewoner kon niet aannemelijk maken dat de garagehuur noodzakelijk was."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:RVS:2019:1824",
+   "ECLI:NL:RVS:2022:436"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:90 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver schadeoordeel; de rechter eiste geen gemeentelijke actie",
+ "raakt": [
+  "vergunningen",
+  "bezwaar"
+ ],
+ "klantuitleg": "Is uw parkeervergunning ingetrokken en huurt u daarna een garage, dan krijgt u die huur niet automatisch terug van de gemeente. De rechter vond dat de garage niet nodig was, omdat u tijdens de bezwaarprocedure gratis kon parkeren. Wilt u later schade vergoed krijgen, dan moet u goed laten zien waarom de kosten echt nodig waren.",
+ "gemeente": "'s-Hertogenbosch",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

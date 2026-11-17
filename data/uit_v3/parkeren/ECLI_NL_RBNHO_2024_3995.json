@@ -1,0 +1,128 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2024:3995",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Zaanstad",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder ging in beroep tegen de gemeente Zaanstad bij de Rechtbank Noord-Holland. Het ging alleen om de hoogte van de proceskostenvergoeding in de bezwaarfase.",
+ "titel": "Bezwaarkosten: standaardbezwaar krijgt lage vergoeding",
+ "kern": {
+  "zin": "De rechter vond de lage rekenfactor van 0,25 terecht, omdat het bezwaar een standaardbrief was met weinig werk.",
+  "bron": [
+   31
+  ],
+  "citaat": "dat verweerder terecht de wegingsfactor van 0,25 heeft toegepast"
+ },
+ "samenvatting": [
+  {
+   "zin": "Na het bezwaar kreeg de parkeerder van de gemeente 74 euro aan proceskosten voor de gemachtigde.",
+   "bron": [
+    19
+   ],
+   "citaat": "heeft verweerder aan eiser een proceskostenvergoeding toegekend"
+  },
+  {
+   "zin": "De parkeerder vond dat de vergoeding met een factor van 0,5 had moeten worden berekend.",
+   "bron": [
+    21
+   ],
+   "citaat": "Eiser stelt zich op het standpunt dat de proceskostenvergoeding had moeten worden berekend naar een wegingsfactor van 0,5"
+  },
+  {
+   "zin": "De gemeente zei dat de factor van 0,25 klopte, omdat het werk van de gemachtigde beperkt was.",
+   "bron": [
+    23
+   ],
+   "citaat": "Verweerder stelt zich op het standpunt dat terecht de wegingsfactor van 0,25 is toegepast"
+  },
+  {
+   "zin": "De rechter vond dat het standaardbezwaar weinig werk was, dus de lage vergoeding klopt.",
+   "bron": [
+    31
+   ],
+   "citaat": "Het indienen van het bezwaarschrift kan dus weinig meer hebben omvat"
+  },
+  {
+   "zin": "Het beroep is ongegrond, dus de proceskosten blijven bij de lage vergoeding.",
+   "bron": [
+    35
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Alleen de hoogte van de proceskosten; de gemeente houdt gelijk.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt geen extra proceskosten voor de beroepsfase.",
+  "bron": [
+   33
+  ],
+  "citaat": "Voor een proceskostenveroordeling is geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De vergoeding had op 0,5 moeten staan, want het richtsnoer van de hoven geldt voor parkeerzaken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat het richtsnoer geen algemene regel is, dus de zaak moet per geval worden bekeken.",
+    "bron": [
+     26
+    ],
+    "citaat": "uit het richtsnoer van de gerechtshoven niet de algemene rechtsregel kan worden afgeleid"
+   },
+   "bruikbare_zin": {
+    "citaat": "de bewerkelijkheid van de zaak en daarmee de werkbelasting van de rechtsbijstandverlener bepalend",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij de vergoeding telt hoeveel werk de gemachtigde echt heeft gedaan, niet een vast richtsnoer.",
+  "type": "regel",
+  "reikwijdte": "proceskosten in bezwaar als een gemachtigde werkt aan een parkeerbelastingzaak",
+  "uitzondering": "het richtsnoer van de hoven is geen plicht, zegt de rechter",
+  "herkomst": "wet",
+  "bron": [
+   30
+  ],
+  "citaat": "de bewerkelijkheid van de zaak en daarmee de werkbelasting van de rechtsbijstandverlener bepalend"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:GHARL:2021:10307",
+   "ECLI:NL:GHSHE:2021:3315"
+  ]
+ },
+ "wetsartikelen": [
+  "Bpb, bijlage onderdeel C1 (Besluit proceskosten bestuursrecht)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver procedurele uitspraak; de gemeente volgde de regels",
+ "raakt": [
+  "bezwaar"
+ ],
+ "klantuitleg": "De vergoeding voor een gemachtigde hangt af van hoeveel werk er echt was. Bij een standaardbezwaar was er volgens de rechter weinig werk, dus is de lage vergoeding terecht. Wilt u meer vergoeding, dan moet u kunnen laten zien dat er echt meer werk nodig was.",
+ "gemeente": "Zaanstad",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

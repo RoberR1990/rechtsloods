@@ -1,0 +1,142 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:7855",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Tilburg",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder procedeert tegen de gemeente Tilburg bij de rechtbank Zeeland-West-Brabant. Het gaat om een naheffing (de rekening achteraf) voor parkeren op 9 december 2024. De parkeerder zegt dat zijn vergunning gewoon was verlengd.",
+ "titel": "Parkeervergunning te laat betaald: rekening blijft staan",
+ "kern": {
+  "zin": "De rechter zegt dat de vergunning op de dag van het parkeren nog niet geldig was, doordat de betaling pas later was verwerkt.",
+  "bron": [
+   28
+  ],
+  "citaat": "Naar het oordeel van de rechtbank volgt daaruit dat de parkeervergunning op de datum van parkeren niet geldig was."
+ },
+ "samenvatting": [
+  {
+   "zin": "De auto van de parkeerder werd op 9 december 2024 rond 10.02 uur zonder betaalde parkeerbelasting aangetroffen.",
+   "bron": [
+    15
+   ],
+   "citaat": "stond op 9 december 2024 omstreeks 10:02 uur geparkeerd"
+  },
+  {
+   "zin": "Volgens de parkeerder is zijn vergunning elk jaar op tijd verlengd en betaald.",
+   "bron": [
+    24
+   ],
+   "citaat": "dat hij zijn parkeervergunning jaarlijks verlengt en direct betaalt na ontvangst van de acceptgiro"
+  },
+  {
+   "zin": "Uit stukken van de gemeente blijkt dat de verwerking van een betaling twee werkdagen kost.",
+   "bron": [
+    28
+   ],
+   "citaat": "voor de verwerking van de betaling van (de verlenging van) een vergunning twee werkdagen gemoeid zijn"
+  },
+  {
+   "zin": "De rechter vindt dat het beroep niet slaagt en dat de naheffing terecht is opgelegd.",
+   "bron": [
+    30
+   ],
+   "citaat": "De naheffingsaanslag parkeerbelasting is terecht opgelegd"
+  },
+  {
+   "zin": "De kosten van de rechtbank, het griffierecht, blijven bij de parkeerder.",
+   "bron": [
+    32
+   ],
+   "citaat": "Belanghebbende krijgt daarom het griffierecht niet terug"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de parkeerder houdt de naheffing stand, en het griffierecht blijft verloren.",
+  "bron": [
+   32
+  ],
+  "citaat": "Dit betekent dat de naheffingsaanslag gehandhaafd blijft"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "De vergunning was elk jaar op tijd verlengd en betaald.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Te laat overgemaakt geld is voor de parkeerder zelf een risico.",
+    "bron": [
+     29
+    ],
+    "citaat": "het niet tijdig overschrijven van het voor de parkeervergunning verschuldigde bedrag voor rekening van belanghebbende komt"
+   },
+   "bruikbare_zin": {
+    "citaat": "is zelf verantwoordelijk voor de tijdige betaling",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een vergunning telt alleen als de verschuldigde belasting ook echt is betaald en de voorwaarden kloppen.",
+  "type": "regel",
+  "reikwijdte": "parkeren met een gemeentelijke vergunning",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "Van parkeren met een vergunning is alleen sprake indien bij het parkeren wordt voldaan aan de voorschriften"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van de parkeerder over de betaaldatum",
+   "verklaring van de gemeente over de betaaldatum",
+   "stukken van de gemeente over de verwerkingstijd"
+  ],
+  "wat_gaf_doorslag": "De verklaring van de gemeente over de betaaldatum, samen met de verwerkingstijd van twee werkdagen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225, tweede lid, Gemeentewet",
+  "art. 1 Verordening heffing en invordering parkeerbelastingen Tilburg 2024",
+  "art. 8 Verordening heffing en invordering parkeerbelastingen Tilburg 2024"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vermeld bij elke verlenging van een parkeervergunning dat de betaling pas na verwerking geldt.",
+   "raakt": "vergunningen",
+   "bron": [
+    28
+   ],
+   "citaat": "voor de verwerking van de betaling van (de verlenging van) een vergunning twee werkdagen gemoeid zijn"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Uw parkeervergunning geldt pas als de betaling is verwerkt, en dat kan twee werkdagen duren. Parkeert u in die periode zonder betaalde parkeerbelasting, dan krijgt u de rekening voor het parkeren achteraf. Bewaar daarom bewijs van de betaaldatum en let op of uw vergunning op tijd actief is, want een te late betaling komt voor uw eigen rekening.",
+ "gemeente": "Tilburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

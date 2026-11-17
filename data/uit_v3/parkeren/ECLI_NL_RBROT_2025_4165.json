@@ -1,0 +1,134 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:4165",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "privaat-boete-voorwaarden",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {
+  "burger": "kentekenhouder (automobilist)",
+  "wederpartij": "exploitant (Q-Park)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "Parkeergarage-exploitant Q-Park vorderde geld omdat een auto zonder betalen de garage had verlaten. De kantonrechter van de rechtbank Rotterdam oordeelde over dit privaat geschil tussen de garage en de kentekenhouder.",
+ "titel": "Geen betaling na treintje rijden: niet vast wie reed",
+ "kern": {
+  "zin": "De kantonrechter wees de vordering af, omdat niet vast kwam te staan dat de kentekenhouder zelf de auto bestuurde.",
+  "bron": [
+   30
+  ],
+  "citaat": "De kantonrechter komt daarom tot het oordeel dat niet is komen vast te staan dat"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 19 april 2024 zou de auto de garage in Amsterdam zonder betalen hebben verlaten, volgens Q-Park.",
+   "bron": [
+    23
+   ],
+   "citaat": "Volgens Q-Park heeft [gedaagde] de parkeerfaciliteit verlaten zonder te betalen"
+  },
+  {
+   "zin": "Zij erkent kentekenhouder te zijn, maar zegt dat haar ex-partner de auto die dag reed.",
+   "bron": [
+    24
+   ],
+   "citaat": "Volgens [gedaagde] had zij haar auto op de betreffende dag uitgeleend aan haar ex-partner"
+  },
+  {
+   "zin": "Q-Park redeneert dat de kentekenhouder vermoedelijk de bestuurder was.",
+   "bron": [
+    29
+   ],
+   "citaat": "zij wordt vermoed de bestuurder van de auto te zijn geweest"
+  },
+  {
+   "zin": "Volgens de rechter is dat vermoeden met een e-mail van de werkelijke bestuurder weerlegd.",
+   "bron": [
+    29
+   ],
+   "citaat": "De kantonrechter is van oordeel dat [gedaagde] dit vermoeden voldoende heeft weerlegd"
+  },
+  {
+   "zin": "De garage moet de kentekenhouder daarnaast 50 euro aan onkosten vergoeden.",
+   "bron": [
+    37
+   ],
+   "citaat": "Q-Park moet [gedaagde] een onkostenvergoeding van € 50,00 betalen"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Vordering afgewezen; garage betaalt 50 euro onkosten",
+ "gevolg_betrokkene": {
+  "zin": "De kentekenhouder hoeft het tarief van 40,50 euro en de schadevergoeding van 373,81 euro niet te betalen, ook geen rente of incassokosten.",
+  "bron": [
+   34,
+   36,
+   37
+  ],
+  "citaat": "De vordering wordt daarom afgewezen"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Zij was niet de bestuurder; haar ex-partner reed de auto op die dag en zij sloot geen parkeerovereenkomst.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond niet vast dat de kentekenhouder als bestuurder een parkeerovereenkomst had gesloten.",
+    "bron": [
+     30
+    ],
+    "citaat": "De kantonrechter komt daarom tot het oordeel dat niet is komen vast te staan dat"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het is niet vast komen te staan dat tussen partijen een parkeerovereenkomst tot stand is gekomen",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie als bestuurder met de auto een garage inrijdt, wordt partij bij de parkeerovereenkomst.",
+  "type": "regel",
+  "reikwijdte": "parkeerovereenkomst bij een garage met toegangspoort en zichtbare tarieven",
+  "uitzondering": "het vermoeden dat de kentekenhouder de bestuurder was, kan worden weerlegd",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   28
+  ],
+  "citaat": "De bestuurder van de auto is derhalve de contractspartij van Q-Park"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "e-mail van de werkelijke bestuurder",
+   "aanmaningen zonder bewijs van ontvangst"
+  ],
+  "wat_gaf_doorslag": "De e-mail van de werkelijke bestuurder, die Q-Park niet betwistte, maakte het verschil."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 150 Rv",
+  "art. 237 Rv",
+  "art. 238 Rv",
+  "art. 3:37 lid 3 BW",
+  "art. 3 Wet griffierechten burgerlijke zaken"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "klantcontact"
+ ],
+ "klantuitleg": "Een parkeergarage kan het tarief voor een verloren kaart vragen van wie de garage zonder betalen verlaat. In deze zaak wees de rechter de vordering af, omdat niet vast stond dat u zelf reed. Heeft u bewijs dat iemand anders reed, neem dat dan mee in uw reactie aan de garage; of dat helpt, is niet zeker.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente partij; privaat geschil",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

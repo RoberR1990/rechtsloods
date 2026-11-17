@@ -1,0 +1,156 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:313",
+ "relevant": true,
+ "onderwerp": "politie-justitie",
+ "sub": "wpg-inzage",
+ "kenmerk": null,
+ "zaaktype": "politiegegevens",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "minister van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een man wilde alle politiegegevens inzien die de Fiscale inlichtingen- en opsporingsdienst (FIOD) over hem had. Hij procedeerde tegen de minister van Financiën; de Raad van State beslist in hoger beroep.",
+ "titel": "Geen extra gegevens: zoeken door de minister was genoeg",
+ "kern": {
+  "zin": "De Raad van State vond dat de burger niet aannemelijk maakte dat er meer gegevens waren dan de minister gaf.",
+  "bron": [
+   31
+  ],
+  "citaat": "heeft niet aannemelijk gemaakt dat er toch meer informatie onder de minister berust"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg om kennisname van alle gegevens die over hem verwerkt zijn.",
+   "bron": [
+    20
+   ],
+   "citaat": "heeft een verzoek om kennisname van zijn persoonsgegevens gedaan"
+  },
+  {
+   "zin": "De burger zei dat de FIOD veel meer gegevens had dan de minister gaf.",
+   "bron": [
+    20
+   ],
+   "citaat": "Er zijn veel meer persoonsgegevens bij de Fiscale"
+  },
+  {
+   "zin": "De minister zocht in het systeem van de FIOD en de Belastingdienst en gaf alles wat daar stond.",
+   "bron": [
+    31
+   ],
+   "citaat": "heeft de minister een zoekslag uitgevoerd binnen het systeem Beheer van Relaties"
+  },
+  {
+   "zin": "De rechter liet de nieuwe argumenten van de burger buiten beschouwing, omdat hij ze pas op de zitting noemde.",
+   "bron": [
+    26
+   ],
+   "citaat": "buiten beschouwing heeft kunnen laten wegens strijd met de goede procesorde"
+  },
+  {
+   "zin": "De rechter vond het verhaal van de minister niet ongeloofwaardig en de burger bewees niets anders.",
+   "bron": [
+    31
+   ],
+   "citaat": "De Afdeling acht het standpunt van de minister dat hij alle persoonsgegevens"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; geen extra gegevens en geen proceskosten",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen extra gegevens en geen vergoeding van proceskosten.",
+  "bron": [
+   34,
+   35
+  ],
+  "citaat": "Het hoger beroep is ongegrond."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "Er zijn veel meer gegevens bij de FIOD bekend dan de minister heeft gegeven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De minister zocht in het systeem met alle persoons- en adresgegevens en het onderzoek Krefeld viel onder de politie.",
+    "bron": [
+     31
+    ],
+    "citaat": "heeft niet aannemelijk gemaakt dat er toch meer informatie onder de minister berust"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft niet aannemelijk gemaakt dat er toch meer informatie onder de minister berust",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De rechtbank had de nieuwe argumenten van de zitting moeten meenemen en de zaak moeten aanhouden, omdat het vakantie was en hij vastzat.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de verwijzing naar de vakantieperiode te vaag en niet genoeg om de zaak aan te houden.",
+    "bron": [
+     26
+    ],
+    "citaat": "buiten beschouwing heeft kunnen laten wegens strijd met de goede procesorde"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Zegt een bestuursorgaan na onderzoek dat een document niet bij hem berust en klinkt dat niet ongeloofwaardig, dan moet de burger aannemelijk maken dat het er toch is.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om documenten of gegevens waarvan het bestuursorgaan zegt dat het die niet (meer) heeft",
+  "uitzondering": "Als de mededeling van het bestuursorgaan ongeloofwaardig voorkomt",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   30
+  ],
+  "citaat": "in beginsel aan degene is die om informatie verzoekt om aannemelijk te maken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "zoekslag in het systeem Beheer van Relaties",
+   "uitleg van de minister over wie verantwoordelijk is voor onderzoek Krefeld"
+  ],
+  "wat_gaf_doorslag": "De burger maakte niet aannemelijk dat er meer gegevens waren dan de minister had gegeven."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2023:3461",
+   "ECLI:NL:RVS:2017:397"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 25 Wpg",
+  "art. 6:19 Awb",
+  "art. 8:58 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg vast in welke systemen u hebt gezocht en waarom daar niet meer gegevens zijn dan u hebt gegeven",
+   "raakt": "privacy-fg",
+   "bron": [
+    31
+   ],
+   "citaat": "heeft de minister een zoekslag uitgevoerd binnen het systeem Beheer van Relaties"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Zegt een organisatie na zoeken dat een stuk er niet is en klinkt dat geloofwaardig, dan moet u zelf laten zien dat het stuk er toch is. Houd er rekening mee dat nieuwe argumenten die u te laat noemt, buiten beschouwing kunnen blijven. Denkt u dat er meer gegevens zijn, noem dan op tijd en met duidelijke redenen wat u mist.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente is geen partij (minister van Financiën)",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

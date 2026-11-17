@@ -1,0 +1,173 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2017:2605",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Zaanstad",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder uit Zaanstad kreeg een rekening achteraf (naheffingsaanslag) voor parkeren zonder te betalen. Hij zegt dat hij aan het laden en lossen was, en gaat in hoger beroep bij het gerechtshof Amsterdam tegen de gemeente.",
+ "titel": "Laden en lossen: parkeerder moet zijn verhaal concreet maken",
+ "kern": {
+  "zin": "Het hof vindt dat de auto geparkeerd stond, omdat de parkeerder zijn bewering over laden en lossen niet concreet maakte.",
+  "bron": [
+   54
+  ],
+  "citaat": "nu belanghebbende haar blote stelling dat sprake was van laden en lossen niet nader heeft geconcretiseerd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeercontroleur zag dat er voor de stilstaande auto geen parkeerbelasting was betaald en legde een naheffing op.",
+   "bron": [
+    20
+   ],
+   "citaat": "Omdat er geen parkeerbelasting was voldaan heeft de parkeercontroleur de onderhavige naheffingsaanslag opgelegd"
+  },
+  {
+   "zin": "De parkeerder zegt dat hij niet parkeerde maar goederen laadde of loste.",
+   "bron": [
+    52
+   ],
+   "citaat": "geen sprake was van parkeren maar van laden en lossen van goederen"
+  },
+  {
+   "zin": "De gemeente wijst erop dat de parkeerder niet in de auto zat en dat er geen laden en lossen was te zien.",
+   "bron": [
+    53
+   ],
+   "citaat": "dat belanghebbende niet in de auto zat, dat geen sprake was van laden en lossen"
+  },
+  {
+   "zin": "Het hof ziet op de foto's een lege auto met gesloten portieren en geen activiteit.",
+   "bron": [
+    54
+   ],
+   "citaat": "de auto leeg is en de portieren zijn gesloten"
+  },
+  {
+   "zin": "Wie zegt dat hij aan het laden of lossen was, moet minstens uitleggen welke feiten en omstandigheden daarop wijzen, en dat deed de parkeerder niet.",
+   "bron": [
+    54
+   ],
+   "citaat": "op zijn minst kan worden gevergd dat hij nader concretiseert wat de redengevende feiten en omstandigheden waren"
+  },
+  {
+   "zin": "Dat de gemeente een verklaring van de controleur niet vooraf liet inzien, heeft geen gevolgen, omdat de parkeerder tijdens het hoorgesprek wel op de inhoud kon reageren.",
+   "bron": [
+    57
+   ],
+   "citaat": "De waarheidsvinding is aldus niet op relevante wijze geschaad"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; laden en lossen niet onderbouwd.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing van € 61 betalen en krijgt geen proceskosten vergoed.",
+  "bron": [
+   39,
+   61
+  ],
+  "citaat": "naheffingsaanslag parkeerbelasting ten bedrage van € 61 (€ 2 aan parkeerbelasting en € 59 aan naheffingskosten)"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Er was geen sprake van parkeren maar van onmiddellijk laden en lossen van goederen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De parkeerder maakte zijn bewering niet concreet, dus het hof gaat ervan uit dat de auto geparkeerd stond.",
+    "bron": [
+     54
+    ],
+    "citaat": "moet het ervoor gehouden worden dat de auto op het genoemde tijdstip geparkeerd stond"
+   },
+   "bruikbare_zin": {
+    "citaat": "op zijn minst kan worden gevergd dat hij nader concretiseert wat de redengevende feiten en omstandigheden waren",
+    "bron": [
+     54
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De gemeente liet de verklaring van de controleur niet voor het hoorgesprek inzien.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De parkeerder kon tijdens het hoorgesprek op het bestaan en de inhoud van de verklaring reageren.",
+    "bron": [
+     57
+    ],
+    "citaat": "De waarheidsvinding is aldus niet op relevante wijze geschaad"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie zegt dat hij aan het laden of lossen was, moet minstens concreet maken welke feiten en omstandigheden daarop wijzen.",
+  "type": "regel",
+  "reikwijdte": "Parkeerders die zich bij een naheffing beroepen op onmiddellijk laden en lossen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   54
+  ],
+  "citaat": "op zijn minst kan worden gevergd dat hij nader concretiseert wat de redengevende feiten en omstandigheden waren"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "foto's van de stilstaande auto",
+   "brondocument",
+   "verklaring parkeercontroleur"
+  ],
+  "wat_gaf_doorslag": "De parkeerder maakte zijn beroep op laden en lossen niet concreet."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2014:445",
+   "ECLI:NL:HR:1999:AA2760"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1 lid 1 Verordening parkeerbelastingen 2015 Zaanstad",
+  "art. 7:9 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg met foto's vast dat de auto leeg is en de portieren dicht zijn.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    54
+   ],
+   "citaat": "de auto leeg is en de portieren zijn gesloten"
+  },
+  {
+   "actie": "Leg alle stukken, ook verklaringen van de controleur, voor het hoorgesprek ter inzage.",
+   "raakt": "bezwaar",
+   "bron": [
+    57
+   ],
+   "citaat": "niet alle op de zaak betrekking hebbende stukken voorafgaand aan het horen ter inzage zijn gelegd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "tarief-naheffing",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Staat uw auto leeg en dicht in een betaald parkeervak, dan geldt dat als parkeren. Zegt u dat u aan het laden of lossen was, dan moet u concreet uitleggen wat u deed, welke spullen het waren en hoe lang het duurde. Heeft u bewijs, zoals een bon, foto of verklaring, voeg dat dan toe aan uw bezwaar.",
+ "gemeente": "Zaanstad",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,221 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBGEL:2023:1646",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "kopie-stukken",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "minister van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "De burger vroeg de minister van Financiën om inzage in zijn gegevens in het fraudesysteem FSV. De rechtbank Gelderland oordeelt dat het beroep van de burger ongegrond is.",
+ "titel": "Geen inzage in risicoprofiel van fraude systeem",
+ "kern": {
+  "zin": "De rechtbank verklaart het beroep ongegrond, omdat een risicoprofiel niet is te herleiden tot de burger en daarom geen persoonsgegeven is.",
+  "bron": [
+   47
+  ],
+  "citaat": "niet is te herleiden tot de persoon van eiser en daarom niet als een persoonsgegeven is aan te merken"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de minister van Financiën om informatie over zijn gegevens in de Fraude Signalering Voorziening (FSV).",
+   "bron": [
+    17
+   ],
+   "citaat": "Daarom heeft hij de minister met een beroep op de AVG om informatie verzocht."
+  },
+  {
+   "zin": "De minister gaf de naam, voornaam en het BSN van de burger.",
+   "bron": [
+    21
+   ],
+   "citaat": "Het betrof de naam, voornaam en het BSN van eiser."
+  },
+  {
+   "zin": "Volgens de minister is een risicoprofiel geen persoonsgegeven.",
+   "bron": [
+    21
+   ],
+   "citaat": "stelt de minister dat die gegevens geen persoonsgegevens zijn als bedoeld in de AVG"
+  },
+  {
+   "zin": "De burger vond dat hij te weinig informatie had gekregen en wilde ook een schermafbeelding.",
+   "bron": [
+    37
+   ],
+   "citaat": "Eiser meent dat door de minister in vergelijkbare gevallen in het kader van een AVG-inzageverzoek schermafbeeldingen zijn verstrekt."
+  },
+  {
+   "zin": "De rechtbank oordeelt dat een risicoprofiel niet te herleiden is tot de burger.",
+   "bron": [
+    47
+   ],
+   "citaat": "niet is te herleiden tot de persoon van eiser en daarom niet als een persoonsgegeven is aan te merken"
+  },
+  {
+   "zin": "Het beroep is ongegrond: de burger krijgt het griffierecht niet terug en geen vergoeding van proceskosten.",
+   "bron": [
+    54
+   ],
+   "citaat": "Eiser krijgt daarom het griffierecht niet terug. Hij krijgt ook geen vergoeding van zijn proceskosten."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De burger verliest: geen inzage in het risicoprofiel en geen vergoeding van kosten.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen inzage in de risicoprofielen en moet het griffierecht en zijn eigen proceskosten zelf dragen.",
+  "bron": [
+   54
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug. Hij krijgt ook geen vergoeding van zijn proceskosten."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Ik heb alleen mijn naam, voornaam en BSN gekregen, maar niet de reden en andere informatie.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank gaat ervan uit dat de minister zich terecht op de uitzonderingsgrond beroept, omdat de burger geen toestemming gaf voor geheime stukken.",
+    "bron": [
+     30
+    ],
+    "citaat": "Dit betekent dat de rechtbank er van uitgaat dat de minister zich terecht op de uitzonderingsgrond beroept."
+   },
+   "bruikbare_zin": {
+    "citaat": "de rechtbank er van uitgaat dat de minister zich terecht op de uitzonderingsgrond beroept",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "De zoekslag levert maar één treffer op, terwijl de minister zegt dat er misschien meer is.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank kan niet vaststellen of de zoekslag onvolledig was, omdat de burger geen toestemming gaf voor geheime stukken.",
+    "bron": [
+     30
+    ],
+    "citaat": "de rechtbank niet in staat is om vast te stellen of de minister terecht een beroep doet"
+   },
+   "bruikbare_zin": {
+    "citaat": "de rechtbank niet in staat is om vast te stellen of de minister terecht een beroep doet",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "kopie-stukken",
+   "burger_zegt": "Ik wil een schermafbeelding van mijn gegevens, zoals in andere gevallen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De wet verplicht de overheid niet om een kopie van de documenten zelf te geven.",
+    "bron": [
+     38
+    ],
+    "citaat": "betekent dus niet dat een bestuursorgaan verplicht is een kopie te verstrekken van de documenten"
+   },
+   "bruikbare_zin": {
+    "citaat": "betekent dus niet dat een bestuursorgaan verplicht is een kopie te verstrekken van de documenten",
+    "bron": [
+     38
+    ]
+   }
+  },
+  {
+   "arg": "algoritme-niet-uitlegbaar",
+   "burger_zegt": "De minister heeft niet goed uitgelegd of het systeem is gebruikt voor automatische besluiten of profilering.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vindt het standpunt van de minister geloofwaardig en de burger heeft het tegendeel niet aannemelijk gemaakt.",
+    "bron": [
+     42
+    ],
+    "citaat": "Het is dan aan eiser om het tegendeel aannemelijk te maken. Dat heeft hij niet gedaan."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het standpunt van de minister is daarmee niet ongeloofwaardig.",
+    "bron": [
+     42
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De minister heeft de beslistermijn ten onrechte verlengd, want mijn verzoek was niet complex.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vindt de uitleg van de minister over de complexiteit niet onbegrijpelijk.",
+    "bron": [
+     52
+    ],
+    "citaat": "Die toelichting acht de rechtbank niet onbegrijpelijk."
+   },
+   "bruikbare_zin": {
+    "citaat": "Die toelichting acht de rechtbank niet onbegrijpelijk.",
+    "bron": [
+     52
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een risicoprofiel of risicokwalificatie is geen persoonsgegeven als het niet te herleiden is tot een persoon.",
+  "type": "regel",
+  "reikwijdte": "Bij inzageverzoeken over risicoprofielen of -kwalificaties die niet tot een persoon zijn te herleiden.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   47
+  ],
+  "citaat": "niet is te herleiden tot de persoon van eiser en daarom niet als een persoonsgegeven is aan te merken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "rapport van KPMG van 10 juli 2020",
+   "toelichting van de minister ter zitting",
+   "stukken onder geheimhouding als bedoeld in artikel 8:29 Awb"
+  ],
+  "wat_gaf_doorslag": "Dat eiser geen toestemming gaf om de geheime stukken te bekijken, waardoor de rechtbank aannam dat de uitzondering terecht was."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2023:394"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 4 aanhef en onder 1 AVG",
+  "art. 15 lid 1 AVG",
+  "art. 15 lid 3 AVG",
+  "art. 15 lid 1 onder h AVG",
+  "art. 20 AVG",
+  "art. 22 leden 1 en 4 AVG",
+  "art. 41 UAVG",
+  "art. 8:29 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "woo-openbaarheid",
+  "fraude-handhaving",
+  "datateam-algoritmes"
+ ],
+ "klantuitleg": "Deze zaak ging over de Belastingdienst, niet over een gemeente. De rechter zegt dat een risicoprofiel (een algemeen beeld van een risico) geen gegeven over u als persoon is, dus daarover hoeft u geen inzage te krijgen. Wilt u toch inzage, vraag dan om uw eigen gegevens; als u weigert dat de rechter geheime stukken bekijkt, mag de overheid zeggen dat zij niets hoeft te geven.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "minister van Financiën is partij, geen gemeente",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

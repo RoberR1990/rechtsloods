@@ -1,0 +1,158 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2024:6903",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder procedeerde bij de rechtbank Zeeland-West-Brabant tegen de gemeente Breda. Het ging om een naheffingsaanslag (de rekening achteraf) parkeerbelasting, omdat hij in de verkeerde zone had betaald.",
+ "titel": "Verkeerde zone in app: rekening terecht, kosten te hoog",
+ "kern": {
+  "zin": "De rechter vond de rekening terecht, maar de kosten waren te hoog.",
+  "bron": [
+   18
+  ],
+  "citaat": "is de aanslag parkeerbelasting terecht opgelegd maar slaagt het beroep"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een naheffingsaanslag (de rekening achteraf) van € 59,25.",
+   "bron": [
+    15
+   ],
+   "citaat": "is aan belanghebbende een naheffingsaanslag parkeerbelasting opgelegd van € 59,25"
+  },
+  {
+   "zin": "Volgens de parkeerder had hij de auto per abuis in de verkeerde zone aangemeld, en beide zones kostten hetzelfde.",
+   "bron": [
+    22
+   ],
+   "citaat": "per abuis aangemeld in de verkeerde parkeerzone"
+  },
+  {
+   "zin": "De gemeente vond het bezwaar niet gegrond.",
+   "bron": [
+    10
+   ],
+   "citaat": "heeft het bezwaar van belanghebbende ongegrond verklaard"
+  },
+  {
+   "zin": "De rechter vond dat de parkeerder zelf het risico droeg van de foute zone-invoer.",
+   "bron": [
+    26
+   ],
+   "citaat": "het foutief invoeren van de gebiedscode in de parkeerapp voor rekening en risico is van belanghebbende"
+  },
+  {
+   "zin": "De rechter verlaagde de aanslag tot € 54,25.",
+   "bron": [
+    35
+   ],
+   "citaat": "vermindert de naheffingsaanslag parkeerbelasting tot € 54,25"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Naheffing blijft, maar de kosten gaan omlaag naar € 54,25.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt het griffierecht van € 50 van de gemeente terug.",
+  "bron": [
+   36
+  ],
+  "citaat": "het griffierecht van € 50 aan belanghebbende moet vergoeden"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij had betaald, maar via de app in de verkeerde zone; volgens hem gold in beide zones hetzelfde tarief.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter legde de verantwoordelijkheid bij de parkeerder, die zelf had moeten nagaan welke zone gold.",
+    "bron": [
+     26
+    ],
+    "citaat": "Het lag op de weg van belanghebbende om voorafgaand of bij aanvang van het parkeren te onderzoeken"
+   },
+   "bruikbare_zin": {
+    "citaat": "het foutief invoeren van de gebiedscode in de parkeerapp voor rekening en risico is van belanghebbende",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De kosten van de naheffing waren te hoog.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente € 57,75 ten onrechte had gerekend; het juiste bedrag was € 52,75.",
+    "bron": [
+     28
+    ],
+    "citaat": "een tarief van € 57,75 in rekening is gebracht"
+   },
+   "bruikbare_zin": {
+    "citaat": "de heffingsambtenaar € 52,75 in rekening mag brengen",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een weggebruiker moet zelf nagaan welk parkeerregime op de plek geldt, ook als hij een parkeerapp gebruikt.",
+  "type": "regel",
+  "reikwijdte": "parkeren in betaald gebied, ook via een parkeerapp",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   26
+  ],
+  "citaat": "Deze onderzoeksplicht is ook van toepassing indien gebruik wordt gemaakt van een parkeerapp"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "controle door parkeercontroleurs"
+  ],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "art. 10 lid 1 Verordening parkeerbelastingen Breda 2023",
+  "art. 2 onder a Verordening parkeerbelastingen Breda 2023"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer of de kosten van een naheffing gelijk zijn aan de tabel in de verordening; hier was dat € 52,75, niet € 57,75.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    28
+   ],
+   "citaat": "de heffingsambtenaar € 52,75 in rekening mag brengen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar",
+  "betaalapp"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren is meestal terecht als u in de verkeerde zone hebt betaald, ook als de app die zone aangaf. In deze zaak was de rekening terecht, maar de kosten waren te hoog en zijn omlaag gebracht. Bezwaar heeft alleen zin als u kunt laten zien dat u de juiste zone had gekozen of dat de kosten niet kloppen.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

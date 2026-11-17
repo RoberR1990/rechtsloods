@@ -1,0 +1,207 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:5083",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "rectificatie",
+ "kenmerk": null,
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "minister van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De burger vroeg de Belastingdienst om een bedrag in zijn gegevens te corrigeren. De minister van Financiën wees dat af en de Raad van State oordeelt nu in hoger beroep over die afwijzing.",
+ "titel": "Geen correctie van een betwist bedrag in de belastinggegevens",
+ "kern": {
+  "zin": "De Raad van State zegt dat het bedrag wel een gegeven over de burger kan zijn, maar dat correctie niet kan omdat de juistheid niet eenvoudig en objectief vaststaat.",
+  "bron": [
+   37
+  ],
+  "citaat": "De onjuistheden moeten wel eenvoudig en objectief zijn vast te stellen."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger heeft al jaren geschillen met de Belastingdienst over een oude belastingschuld.",
+   "bron": [
+    20
+   ],
+   "citaat": "heeft al jarenlang geschillen met de Belastingdienst over kwesties die samenhangen met een uit 2005 daterend faillissement"
+  },
+  {
+   "zin": "Hij zegt dat hij € 2.268.901 heeft betaald en € 845.571 te veel.",
+   "bron": [
+    20
+   ],
+   "citaat": "dat hij € 2.268.901 heeft betaald en dus € 845.571 teveel heeft betaald."
+  },
+  {
+   "zin": "De minister wees het verzoek af omdat het niet bij de doelen van de privacyregels zou passen.",
+   "bron": [
+    21
+   ],
+   "citaat": "het verzoek afgewezen omdat het niet strookt met de doelstellingen van AVG"
+  },
+  {
+   "zin": "De rechtbank verklaarde het beroep ongegrond.",
+   "bron": [
+    24
+   ],
+   "citaat": "De rechtbank heeft het door [appellant] daartegen ingestelde beroep ongegrond verklaard."
+  },
+  {
+   "zin": "De Raad van State vindt wel dat een bedrag een persoonsgegeven kan zijn.",
+   "bron": [
+    37
+   ],
+   "citaat": "de rechtbank ten onrechte heeft overwogen dat een bedrag geen persoonsgegeven kan zijn"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond.",
+   "bron": [
+    51
+   ],
+   "citaat": "Het hoger beroep is ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De minister wint; de burger krijgt geen correctie.",
+ "gevolg_betrokkene": {
+  "zin": "Het hoger beroep is ongegrond, dus het bedrag blijft staan, en de minister hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   51,
+   52
+  ],
+  "citaat": "Het hoger beroep is ongegrond."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De minister heeft niet alle stukken aan de rechter gegeven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gevraagde stukken gingen over een fiscaal geschil en waren niet nodig voor deze zaak.",
+    "bron": [
+     33
+    ],
+    "citaat": "Die stukken kunnen niet van belang zijn voor de beslechting van dit geschil."
+   },
+   "bruikbare_zin": {
+    "citaat": "Die stukken kunnen niet van belang zijn voor de beslechting van dit geschil.",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Het bedrag is een gegeven over mij en moet worden aangevuld of gecorrigeerd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat correctie alleen kan als de fout eenvoudig en objectief vaststaat; dat is hier niet zo.",
+    "bron": [
+     37
+    ],
+    "citaat": "het bedrag niet voor rectificatie in de zin van artikel 16 van de AVG in aanmerking komt"
+   },
+   "bruikbare_zin": {
+    "citaat": "het bedrag niet voor rectificatie in de zin van artikel 16 van de AVG in aanmerking komt",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "motivering",
+   "burger_zegt": "Het besluit op bezwaar is niet goed uitgelegd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het ontbreken van een oordeel over het belang leidt niet tot vernietiging van de uitspraak van de rechtbank.",
+    "bron": [
+     42
+    ],
+    "citaat": "leidt dat niet tot vernietiging van de uitspraak van de rechtbank"
+   },
+   "bruikbare_zin": {
+    "citaat": "leidt dat niet tot vernietiging van de uitspraak van de rechtbank",
+    "bron": [
+     42
+    ]
+   }
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Ik wil schadevergoeding omdat de Belastingdienst onrechtmatig handelde.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De bestuursrechter kan geen schadevergoeding geven als het beroep ongegrond wordt verklaard.",
+    "bron": [
+     48
+    ],
+    "citaat": "de bestuursrechter geen mogelijkheid biedt om schadevergoeding toe te kennen"
+   },
+   "bruikbare_zin": {
+    "citaat": "de bestuursrechter geen mogelijkheid biedt om schadevergoeding toe te kennen",
+    "bron": [
+     48
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een verzoek om correctie of aanvulling van persoonsgegevens op grond van de AVG kan alleen als de onjuistheid eenvoudig en objectief vaststaat; het recht is niet bedoeld om betwiste meningen of conclusies te veranderen.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om correctie of aanvulling van persoonsgegevens onder de AVG.",
+  "uitzondering": "Als in een andere procedure vaststaat dat het gegeven feitelijk bestaat, kan een verzoek om aanvulling wel aan de orde zijn.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   37
+  ],
+  "citaat": "De onjuistheden moeten wel eenvoudig en objectief zijn vast te stellen."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "brief van 7 juli 2022",
+   "brochure van de Belastingdienst",
+   "werkinstructie van de minister",
+   "vaststellingsovereenkomst uit 2006"
+  ],
+  "wat_gaf_doorslag": "De Belastingdienst had een ander oordeel over de fiscale duiding van het bedrag, waardoor de juistheid niet eenvoudig en objectief vaststond."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2025:1969",
+   "ECLI:NL:RVS:2023:3067",
+   "ECLI:NL:RVS:2023:2006",
+   "ECLI:NL:RVS:2020:1375",
+   "ECLI:EU:C:2017:994"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 4 lid 1 AVG",
+  "art. 5 lid 1 sub d AVG",
+  "art. 16 AVG",
+  "art. 82 AVG",
+  "art. 8:42 lid 1 Awb",
+  "art. 8:73 lid 1 Awb (oud)",
+  "art. 8:88 Awb",
+  "art. 1:3 lid 1 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; de zaak gaat over de minister van Financiën en de Belastingdienst",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "U vroeg om een bedrag in uw gegevens te laten aanpassen. De rechter zegt dat een bedrag op zich wel een gegeven over u kan zijn, maar dat u het niet via de privacyregels kunt laten aanpassen als de juistheid niet simpel en objectief vaststaat. Gaat het om een meningsverschil over de belastingregels, dan moet u dat in de belastingprocedure of bij de burgerlijke rechter oplossen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente in de zaak; de minister van Financiën is partij",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

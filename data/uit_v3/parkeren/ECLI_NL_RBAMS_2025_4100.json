@@ -1,0 +1,42 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2025:4100",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {"burger": "bewoner", "wederpartij": "gemeente Amsterdam (het college)", "gemeente_is_partij": true},
+ "procesvorm": "voorlopige voorziening",
+ "intro": "Een bewoner vroeg om een voorlopige voorziening: een tijdelijke maatregel tot het bezwaar klaar is. Zijn aanvraag voor een tweede bewonersparkeervergunning was afgewezen, en hij procedeerde daarover tegen het college van de gemeente Amsterdam bij de rechtbank Amsterdam.",
+ "titel": "College reageerde niet: bewoner krijgt tijdelijk gelijk",
+ "kern": {"zin": "De rechter vond dat het college niet zorgvuldig handelde, en wees de tijdelijke voorziening toe.", "bron": [33], "citaat": "Daardoor handelde het college in strijd met het zorgvuldigheidsbeginsel."},
+ "samenvatting": [
+  {"zin": "Het college wees de tweede bewonersvergunning af omdat de bewoner al een plek had om te stallen.", "bron": [22], "citaat": "de bewonersvergunning is afgewezen omdat verzoeker op zijn adres over een stallingsplaats beschikt"},
+  {"zin": "De bewoner zei dat zijn oprit een voortuin is en dat de buren wel een tweede vergunning kregen.", "bron": [24], "citaat": "De oprit kwalificeert namelijk als voortuin."},
+  {"zin": "Het college zei dat de bewoner zijn auto op de oprit kon parkeren.", "bron": [22], "citaat": "Hij heeft namelijk een oprit voor zijn deur waar hij zijn auto kan parkeren."},
+  {"zin": "De rechter vond dat het college op de e-mails had moeten reageren en dat dit niet gebeurde.", "bron": [29], "citaat": "het op de weg van het college had gelegen om in ieder geval te reageren op e-mails van verzoeker"},
+  {"zin": "Tot zes weken na het besluit op bezwaar moet de bewoner worden behandeld alsof hij de vergunning heeft.", "bron": [33], "citaat": "tot zes weken na de beslissing op bezwaar moet worden behandeld als ware hij in het bezit van een bewonersvergunning"}
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Voorlopige voorziening toegewezen; geen oordeel over de vergunning zelf.",
+ "gevolg_betrokkene": {"zin": "De bewoner wordt tijdelijk behandeld alsof hij de vergunning heeft, en krijgt het griffierecht van 194 euro terug.", "bron": [33, 40], "citaat": "Dit betekent dat verzoeker tot zes weken na de beslissing op bezwaar moet worden behandeld"},
+ "steunt": "burger",
+ "bezwaargronden": [
+  {"arg": "hoorplicht-motivering", "burger_zegt": "Het college legde niet uit waarom er een stallingsplaats was en reageerde niet op zijn vragen.", "oordeel": "gehonoreerd", "waarom": {"zin": "De rechter vond dat het college niet duidelijk had uitgelegd waarom en niet had gereageerd.", "bron": [32], "citaat": "Van een bestuursorgaan mag worden verwacht dat zij een duidelijke uitleg geeft waarom een aanvraag wordt afgewezen"}, "bruikbare_zin": {"citaat": "dat zij reageert indien een burger veelvuldig verzoekt om een toelichting", "bron": [32]}},
+  {"arg": "gelijkheid", "burger_zegt": "De buren hebben een vergelijkbare voortuin en kregen wel een tweede vergunning.", "oordeel": "niet beoordeeld", "waarom": {"zin": "De rechter beoordeelt dit nu niet; dat komt in de bezwaarfase aan bod.", "bron": [26], "citaat": "komen in de bezwaarfase aan de orde"}, "bruikbare_zin": {"citaat": "Het college is ook niet ingegaan op verzoekers argument dat de buren een vergelijkbare voortuin hebben", "bron": [27]}}
+ ],
+ "rechtsregel": {"zin": "Van een bestuursorgaan mag worden verwacht dat het bij een afwijzing duidelijk uitlegt waarom.", "type": "regel", "reikwijdte": "afwijzing van een aanvraag die voor een burger persoonlijk is", "uitzondering": null, "herkomst": "oordeel rechter", "bron": [32], "citaat": "Van een bestuursorgaan mag worden verwacht dat zij een duidelijke uitleg geeft waarom een aanvraag wordt afgewezen"},
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": ["e-mails en telefonische pogingen van de bewoner", "korte schriftelijke reactie van het college"], "wat_gaf_doorslag": "Het college reageerde niet op de e-mails en vragen van de bewoner."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": ["art. 8:81 Awb", "zorgvuldigheidsbeginsel"],
+ "actie_gemeente": [{"actie": "Reageer op e-mails en telefonische vragen van burgers, en leg bij een afwijzing duidelijk uit waarom.", "raakt": "klantcontact", "bron": [29], "citaat": "Door in elk geval te reageren kan het college een hoop ergernis wegnemen"}],
+ "reden_leeg_actie": null,
+ "raakt": ["vergunningen", "klantcontact", "bezwaar"],
+ "klantuitleg": "Als uw aanvraag is afgewezen, heeft de gemeente een duidelijke uitleg aan u verschuldigd. Reageert de gemeente daar niet op, dan kan een rechter een tijdelijke oplossing geven, zoals hier. Vraag daarom schriftelijk om een toelichting en bewaar al uw e-mails.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

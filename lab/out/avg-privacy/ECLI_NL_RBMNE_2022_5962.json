@@ -1,0 +1,193 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2022:5962",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "misbruik-herhaald",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "persoon met een personeelsdossier",
+  "wederpartij": "het college (organisatie niet genoemd)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een persoon vroeg een organisatie om alle informatie over de verwerking van zijn personeelsdossier. De organisatie weigerde, en hij ging naar de rechtbank Midden-Nederland.",
+ "titel": "Weigering van inzage als 'herhaald verzoek' was niet goed uitgelegd",
+ "kern": {
+  "zin": "De rechter vernietigde het besluit, omdat het college niet goed had uitgelegd waarom het verzoek buitensporig of herhaald zou zijn.",
+  "bron": [
+   46
+  ],
+  "citaat": "De rechtbank verklaart daarom het beroep gegrond en vernietigt het besluit op bezwaar."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger meldde dat zijn personeelsdossier kwijt was en vroeg om alle informatie over de verwerking van zijn gegevens.",
+   "bron": [
+    10
+   ],
+   "citaat": "alle informatie over de gegevensverwerking die verband houdt met zijn personeelsdossier"
+  },
+  {
+   "zin": "Het college weigerde, omdat het verzoek buitensporig zou zijn: de burger had het al vaker gevraagd.",
+   "bron": [
+    30
+   ],
+   "citaat": "vanwege het repetitieve karakter van de verzoeken van eiser"
+  },
+  {
+   "zin": "De burger vond dat zijn eerdere verzoeken niet hetzelfde waren als dit verzoek.",
+   "bron": [
+    30
+   ],
+   "citaat": "stelt dat eerdere verzoeken die hij heeft gedaan niet hetzelfde zijn als het verzoek van 31 januari 2022"
+  },
+  {
+   "zin": "De rechter vond dat het college niet had uitgelegd om welke eerdere verzoeken het ging en waarom dit verzoek daardoor buitensporig was.",
+   "bron": [
+    33
+   ],
+   "citaat": "Er wordt echter niet duidelijk gemaakt om welke eerdere verzoeken het gaat"
+  },
+  {
+   "zin": "De namen van personen die het dossier raadpleegden hoefde het college niet te geven, want de AVG geeft daar geen grondslag voor.",
+   "bron": [
+    43
+   ],
+   "citaat": "Artikel 15 van de AVG biedt geen grondslag voor het verstrekken van persoonsgegevens van derden."
+  },
+  {
+   "zin": "Over de informatie over raadplegingen had het college niet uitgelegd waarom die niet gegeven kon worden, dus het besluit werd vernietigd.",
+   "bron": [
+    44
+   ],
+   "citaat": "Het college heeft in het besluit op bezwaar niet toegelicht waarom dit verzoek"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Besluit vernietigd wegens slechte uitleg; namen van anderen blijven geweigerd",
+ "gevolg_betrokkene": {
+  "zin": "Het college moet opnieuw beslissen op het bezwaar, de burger krijgt € 184 griffierecht terug en geen proceskostenvergoeding; de namen van anderen krijgt hij niet.",
+  "bron": [
+   47,
+   48,
+   54,
+   43
+  ],
+  "citaat": "het college binnen de wettelijke beslistermijn opnieuw op het bezwaar moet beslissen"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "misbruik-recht",
+   "burger_zegt": "Zijn eerdere verzoeken zijn niet hetzelfde als het verzoek van 31 januari 2022.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het college onderbouwde niet dat en waarom het verzoek herhaald en buitensporig was.",
+    "bron": [
+     33
+    ],
+    "citaat": "Het besluit op bezwaar is daarmee onvoldoende gemotiveerd."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het is aan het college om aan te tonen dat er sprake is van een kennelijk ongegrond of buitensporig verzoek",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "motivering",
+   "burger_zegt": "Het college legde niet uit waarom de informatie over raadplegingen niet gegeven kon worden.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het college had dat in het besluit op bezwaar niet toegelicht.",
+    "bron": [
+     44
+    ],
+    "citaat": "Het college heeft in het besluit op bezwaar niet toegelicht waarom dit verzoek vanwege het bepaalde in artikel 15, vierde lid, van de AVG niet kan worden ingewilligd."
+   }
+  },
+  {
+   "arg": "weigering-rechten-anderen",
+   "burger_zegt": "Hij wilde ook de namen van personen die zijn dossier raadpleegden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De AVG geeft geen grondslag om persoonsgegevens van anderen te verstrekken.",
+    "bron": [
+     43
+    ],
+    "citaat": "Artikel 15 van de AVG biedt geen grondslag voor het verstrekken van persoonsgegevens van derden."
+   },
+   "bruikbare_zin": {
+    "citaat": "Artikel 15 van de AVG biedt geen grondslag voor het verstrekken van persoonsgegevens van derden.",
+    "bron": [
+     43
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "Het college besliste niet op tijd op zijn bezwaar.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger stelde het college te vroeg in gebreke, dus het beroep tegen het niet op tijd beslissen kon niet.",
+    "bron": [
+     25
+    ],
+    "citaat": "De ingebrekestelling is prematuur."
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wil een organisatie een inzageverzoek weigeren omdat het buitensporig of herhaald is, dan moet zij dat zelf aantonen en goed uitleggen.",
+  "type": "regel",
+  "reikwijdte": "Verzoek om inzage op grond van art. 15 AVG dat de organisatie weigert als buitensporig of herhaald",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   32
+  ],
+  "citaat": "Het is aan het college om aan te tonen dat er sprake is van een kennelijk ongegrond of buitensporig verzoek"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Het college legde niet uit om welke eerdere verzoeken het ging."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 15 AVG",
+  "art. 12 lid 5 onder b AVG",
+  "art. 4:6 Awb",
+  "art. 7:12 lid 1 Awb",
+  "art. 6:22 Awb",
+  "art. 6:20 lid 3 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij een weigering van een inzageverzoek als herhaald uit om welke eerdere verzoeken het gaat en waarom dit verzoek daardoor buitensporig is.",
+   "raakt": "privacy-fg",
+   "bron": [
+    33
+   ],
+   "citaat": "Er wordt echter niet duidelijk gemaakt om welke eerdere verzoeken het gaat"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "hr-personeel"
+ ],
+ "klantuitleg": "Een organisatie mag een verzoek om uw gegevens te zien alleen weigeren omdat het te veel of herhaald is als zij goed uitlegt om welke eerdere verzoeken het gaat. De namen van andere mensen die in uw dossier hebben gekeken, krijgt u niet. Legt de organisatie een weigering niet duidelijk uit, dan heeft bezwaar zin.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

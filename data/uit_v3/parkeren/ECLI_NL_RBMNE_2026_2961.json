@@ -1,0 +1,147 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2026:2961",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "schade-aansprakelijkheid",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "exploitant (Q-Park Operations Netherlands B.V.)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "De exploitant van een parkeergarage vorderde schadevergoeding van een parkeerder voor een vernielde slagboom. De kantonrechter van de rechtbank Midden-Nederland wees de vordering af.",
+ "titel": "Parkeerder hoeft schade aan slagboom niet te betalen",
+ "kern": {
+  "zin": "De kantonrechter wees de vordering af, omdat de parkeerder de schade niet had veroorzaakt.",
+  "bron": [
+   33,
+   34
+  ],
+  "citaat": "De schade die Q-park lijdt, is niet door [gedaagde] veroorzaakt."
+ },
+ "samenvatting": [
+  {
+   "zin": "De exploitant wil ruim 1.490 euro schadevergoeding voor een kapotte slagboom.",
+   "bron": [
+    30
+   ],
+   "citaat": "Q-park vordert van [gedaagde] betaling van een schadebedrag van € 1.491,55 inclusief kosten"
+  },
+  {
+   "zin": "De parkeerder zegt dat hij de slagboom niet heeft vernield.",
+   "bron": [
+    30
+   ],
+   "citaat": "[gedaagde] vindt dat hij niet hoeft te betalen, omdat hij niet degene is die de slagboom heeft vernield"
+  },
+  {
+   "zin": "De exploitant beroept zich op een contractuele regel over schade die de parkeerder veroorzaakt.",
+   "bron": [
+    33
+   ],
+   "citaat": "De contractuele bepaling waarnaar Q-park verwijst, bepaalt dat [gedaagde] aansprakelijk is voor alle schade"
+  },
+  {
+   "zin": "De kantonrechter ziet geen contractuele of groepsaansprakelijkheid bij de parkeerder.",
+   "bron": [
+    33,
+    34
+   ],
+   "citaat": "Die situatie doet zich hier niet voor."
+  },
+  {
+   "zin": "Q-Park moet binnen veertien dagen 542,50 euro proceskosten betalen.",
+   "bron": [
+    51
+   ],
+   "citaat": "veroordeelt Q-Park in de proceskosten van € 542,50, te betalen binnen veertien dagen na aanschrijving daartoe"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Vordering van 1.491,55 euro afgewezen; exploitant betaalt proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder wordt niet aangesproken op de schade en krijgt zijn proceskosten vergoed.",
+  "bron": [
+   32
+  ],
+  "citaat": "Hij hoeft niets te betalen aan Q-park en Q-park moet zijn proceskosten vergoeden"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder zegt dat hij de slagboom niet heeft vernield.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De kantonrechter oordeelt dat de schade niet door de parkeerder is veroorzaakt.",
+    "bron": [
+     33
+    ],
+    "citaat": "De schade die Q-park lijdt, is niet door [gedaagde] veroorzaakt."
+   },
+   "bruikbare_zin": {
+    "citaat": "Hij heeft de slagboom niet vernield.",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder had geen bijdrage aan de vernieling en kon die niet tegenhouden.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Volgens de kantonrechter was de parkeerder ook niet aansprakelijk op grond van groepsaansprakelijkheid.",
+    "bron": [
+     34
+    ],
+    "citaat": "Ook is [gedaagde] niet aansprakelijk tegenover Q-park voor de schade op grond van groepsaansprakelijkheid"
+   },
+   "bruikbare_zin": {
+    "citaat": "[gedaagde] had dus geen bijdrage aan de vernieling",
+    "bron": [
+     34
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "In deze zaak had de parkeerder geen bijdrage aan de vernieling en kon hij die niet tegenhouden.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "slagboom vernield door een ander terwijl de parkeerder niet in beeld was",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   34
+  ],
+  "citaat": "had dus geen bijdrage aan de vernieling en had [A] daar niet van kunnen weerhouden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "camerabeelden van de parkeergarage"
+  ],
+  "wat_gaf_doorslag": "Op de camerabeelden is de parkeerder niet zichtbaar op het moment van de vernieling."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:166 BW"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "klantcontact"
+ ],
+ "klantuitleg": "Als de parkeergarage u aanspreekt voor schade aan een slagboom, hoeft u niet automatisch te betalen. In deze zaak oordeelde de rechter dat de parkeerder de schade niet had veroorzaakt en niet aansprakelijk was. Of u in uw eigen situatie hetzelfde krijgt, hangt van de feiten af, en camerabeelden kunnen daarbij een rol spelen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente betrokken",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

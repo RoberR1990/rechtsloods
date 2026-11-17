@@ -1,0 +1,193 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2026:2813",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (met gemachtigde)",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder ging in hoger beroep tegen de gemeente Amsterdam. Zijn bezwaar tegen een naheffing (de rekening achteraf voor onbetaald parkeren) was te laat; het gerechtshof Amsterdam besliste over de gevolgen daarvan.",
+ "titel": "Bezwaar te laat: geen kostenvergoeding, ook al is de bon vernietigd",
+ "kern": {
+  "zin": "Het bezwaar was te laat, dus de gemeente hoefde de bezwaarkosten niet te vergoeden, ook al vernietigde zij de naheffing uit zichzelf.",
+  "bron": [
+   30
+  ],
+  "citaat": "Het Hof komt tot de conclusie dat het bezwaar terecht niet-ontvankelijk is verklaard wegens termijnoverschrijding"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente ontving het bezwaarschrift vijf dagen na het einde van de bezwaartermijn en verklaarde het bezwaar niet-ontvankelijk (niet behandeld).",
+   "bron": [
+    21
+   ],
+   "citaat": "na afloop van de bezwaartermijn, die eindigde op vrijdag 9 februari 2024, door hem is ontvangen"
+  },
+  {
+   "zin": "De burger vond dat de gemeente hem in bezwaar had moeten horen en vroeg om terugverwijzing.",
+   "bron": [
+    25
+   ],
+   "citaat": "meent dat hierdoor de hoorplicht is geschonden en verzoekt het Hof de zaak terug te verwijzen"
+  },
+  {
+   "zin": "De gemeente zag de brief als verzoek om de naheffing uit zichzelf te verminderen en vernietigde de naheffing.",
+   "bron": [
+    23
+   ],
+   "citaat": "is aan dat verzoek tegemoet gekomen door de naheffingsaanslag te vernietigen"
+  },
+  {
+   "zin": "Het Hof vond dat de burger moest bewijzen dat hij het bezwaarschrift eerder op de post deed dan het poststempel liet zien.",
+   "bron": [
+    21
+   ],
+   "citaat": "draagt hij voor de uitzondering op dit uitgangspunt de bewijslast"
+  },
+  {
+   "zin": "Het Hof vond dat de gemeente van horen mocht afzien, omdat zij het bezwaar volledig inwilligde.",
+   "bron": [
+    26
+   ],
+   "citaat": "mocht de heffingsambtenaar dan ook van het horen afzien"
+  },
+  {
+   "zin": "De gemeente hoefde de kosten van bezwaar niet te vergoeden; het Hof bevestigde de uitspraak van de rechtbank.",
+   "bron": [
+    30
+   ],
+   "citaat": "Daarom heeft de heffingsambtenaar terecht geen vergoeding toegekend van de kosten in bezwaar"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing al vernietigd; verzoeken om kosten en schade afgewezen.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing is al vernietigd, dus de burger hoeft niet te betalen, maar hij krijgt geen kostenvergoeding en geen vergoeding van immateriële schade (schade aan gevoelens of ongemak).",
+  "bron": [
+   30,
+   31,
+   36,
+   37
+  ],
+  "citaat": "Daarom heeft de heffingsambtenaar terecht geen vergoeding toegekend van de kosten in bezwaar"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "Mijn bezwaar was te laat, maar dat was verschoonbaar en de gemeente had dat moeten uitzoeken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger bracht geen feiten of bewijs in om te laten zien dat te laat indienen te verontschuldigen was.",
+    "bron": [
+     30
+    ],
+    "citaat": "Hiermee heeft belanghebbende niet voldaan aan de op hem rustende bewijslast van die verschoonbaarheid"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het is dan wel van belang dat hij daarbij feiten en omstandigheden stelt",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De gemeente heeft mij in bezwaar niet gehoord, terwijl ik daarom had gevraagd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente wilde het bezwaar volledig inwilligen en mocht daarom van horen afzien.",
+    "bron": [
+     26
+    ],
+    "citaat": "om volledig tegemoet komt aan het bezwaar tegen de naheffingsaanslag kon hij van horen afzien"
+   },
+   "bruikbare_zin": {
+    "citaat": "kon hij van horen afzien",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik heb recht op vergoeding van proceskosten en van immateriële schade.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het Hof zag geen reden om schade te vergoeden.",
+    "bron": [
+     31
+    ],
+    "citaat": "Ook ziet het Hof geen termen voor het toekennen van de door belanghebbende gevraagde vergoeding van immateriële schade"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bezwaarschrift geldt als op de post gedaan op de dag van het poststempel; wie zegt dat hij het eerder verstuurde, moet dat bewijzen.",
+  "type": "regel",
+  "reikwijdte": "Bezwaarschriften die na afloop van de termijn binnenkomen en waarbij de regel van een week extra (art. 6:9 lid 2 Awb) wordt ingeroepen.",
+  "uitzondering": "De burger kan bewijzen dat hij het bezwaarschrift eerder op de post deed.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   21
+  ],
+  "citaat": "terpostbezorging heeft plaatsgevonden op de dag waarop het desbetreffende poststuk door het postvervoerbedrijf is afgestempeld"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "poststempel",
+   "datum van ontvangst van het bezwaarschrift"
+  ],
+  "wat_gaf_doorslag": "De burger bracht niets in om te laten zien dat hij het bezwaarschrift al op 9 februari 2024 op de post deed."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2011:BP2138",
+   "ECLI:NL:HR:2019:1619",
+   "ECLI:NL:HR:2013:CA3934"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 6:9 lid 2 Awb",
+  "art. 6:11 Awb",
+  "art. 7:2 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vermeld in de uitspraak op bezwaar dat u een te laat bezwaar als verzoek om vermindering behandelt en de naheffing daarom vernietigt.",
+   "raakt": "bezwaar",
+   "bron": [
+    23
+   ],
+   "citaat": "Dit heeft hij in zijn uitspraak op het bezwaar ook vermeld"
+  },
+  {
+   "actie": "Leg bij een te laat bezwaar vast wat het poststempel zegt; die datum geldt als dag van posten.",
+   "raakt": "bezwaar",
+   "bron": [
+    21
+   ],
+   "citaat": "terpostbezorging heeft plaatsgevonden op de dag waarop het desbetreffende poststuk door het postvervoerbedrijf is afgestempeld"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een bezwaarschrift moet op tijd binnen zijn; het poststempel geldt als de dag waarop u het op de post deed. Ook als de gemeente de bon daarna toch intrekt, krijgt u dan meestal geen kosten vergoed. Dien bezwaar daarom op tijd in en geef bij een late indiening meteen de reden en het bewijs waarom u te laat was.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,140 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2025:4299",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Het gaat om een Wahv-boete van 119 euro voor parkeren bij een blauwe streep zonder parkeerschijf. De parkeerder is het niet eens met de boete en gaat bij de kantonrechter in beroep tegen de officier van justitie.",
+ "titel": "Boete vernietigd na mogelijke fout van de gemeente bij vergunning",
+ "kern": {
+  "zin": "De rechter oordeelde dat de overtreding niet vaststaat, omdat er twijfel is aan de juistheid van de boete.",
+  "bron": [
+   19
+  ],
+  "citaat": "Daarmee is twijfel ontstaan aan de juistheid van de boete."
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeerder kreeg een boete omdat hij op een blauwe streep stond zonder parkeerschijf.",
+   "bron": [
+    10
+   ],
+   "citaat": "motorvoertuig op meer dan twee wielen parkeren bij blauwe streep"
+  },
+  {
+   "zin": "Volgens de parkeerder had de gemeente haar betaling per vergissing voor het verkeerde jaar gerekend.",
+   "bron": [
+    16
+   ],
+   "citaat": "de gemeente haar betaling in 2024 per abuis als een betaling voor 2023 heeft aangemerkt"
+  },
+  {
+   "zin": "De officier van justitie vond dat de e-mail van de gemeente niet genoeg bewees dat er een ontheffing gold.",
+   "bron": [
+    17
+   ],
+   "citaat": "niet voldoende aannemelijk heeft gemaakt dat sprake was van een ontheffing"
+  },
+  {
+   "zin": "De rechter zag in de e-mail dat er bij de gemeente kennelijk iets misging en twijfelde daardoor aan de boete.",
+   "bron": [
+    19
+   ],
+   "citaat": "Uit de door haar overgelegde e-mail blijkt dat er bij de gemeente kennelijk iets fout is gegaan"
+  },
+  {
+   "zin": "De boete vervalt en de gestorte zekerheid moet terug naar de parkeerder.",
+   "bron": [
+    22,
+    26
+   ],
+   "citaat": "verklaart het beroep tegen de beslissing van de officier van justitie gegrond"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Beroep gegrond; boete vernietigd omdat twijfel bestaat over de gemeentefout.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft de boete van 119 euro niet te betalen en krijgt de zekerheid terug.",
+  "bron": [
+   22,
+   26
+  ],
+  "citaat": "verklaart het beroep tegen de beslissing van de officier van justitie gegrond"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "De gemeente heeft mijn betaling voor het verkeerde jaar gerekend, waardoor mijn ontheffing niet actief werd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat er bij de gemeente iets fout was gegaan, zodat de boete twijfelachtig is.",
+    "bron": [
+     19
+    ],
+    "citaat": "Daarmee is twijfel ontstaan aan de juistheid van de boete."
+   },
+   "bruikbare_zin": {
+    "citaat": "al dan niet na een correctie met terugwerkende kracht door de gemeente had betrokkene tóch een vergunning voor 2024",
+    "bron": [
+     19
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Twijfel over een fout van de gemeente kan maken dat een parkeerovertreding niet vaststaat.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "alleen als uit de stukken blijkt dat de gemeente in deze zaak een fout maakte",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "De kantonrechter oordeelt daarom dat de verkeersovertreding niet kan worden vastgesteld"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "e-mail van de gemeente"
+  ],
+  "wat_gaf_doorslag": "De e-mail van de gemeente, waaruit bleek dat er iets fout was gegaan."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Wahv"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij betalingen of het juiste jaar van de ontheffing is gekoppeld, voordat een boete wordt opgelegd.",
+   "raakt": "vergunningen",
+   "bron": [
+    19
+   ],
+   "citaat": "al dan niet na een correctie met terugwerkende kracht door de gemeente"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een boete is niet terecht als er twijfel is of u op dat moment een vergunning had. Heeft de gemeente bij uw betaling een fout gemaakt, dan kan de rechter de boete daarom vernietigen. Heeft u schriftelijk bewijs van de gemeente, zoals een e-mail, neem dat dan mee; iedere zaak wordt wel apart beoordeeld.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

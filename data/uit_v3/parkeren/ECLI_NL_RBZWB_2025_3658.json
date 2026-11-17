@@ -1,0 +1,127 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:3658",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (via een gemachtigde)",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder gaat via een gemachtigde in beroep tegen de gemeente Breda over een naheffing (de rekening achteraf) voor parkeerbelasting. De rechtbank Zeeland-West-Brabant oordeelt eerst of het beroep wel mag worden behandeld.",
+ "titel": "Beroep stopt op formele grond: geen geldige machtiging",
+ "kern": {
+  "zin": "De rechter ging niet inhoudelijk in op de aanslag, omdat de gemachtigde geen geldige machtiging had overgelegd.",
+  "bron": [
+   19
+  ],
+  "citaat": "De rechtbank constateert dat geen geldige machtiging in het dossier zit"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde de parkeerder een naheffing op voor de parkeerbelasting.",
+   "bron": [
+    10
+   ],
+   "citaat": "heeft aan belanghebbende een naheffingsaanslag parkeerbelasting met [aanslagnummer] opgelegd"
+  },
+  {
+   "zin": "De parkeerder ging in beroep tegen de afwijzing van het bezwaar.",
+   "bron": [
+    9,
+    11
+   ],
+   "citaat": "beoordeelt de rechtbank het beroep van belanghebbende tegen de uitspraak op bezwaar"
+  },
+  {
+   "zin": "De gemeente reageerde op het beroep met een verweerschrift.",
+   "bron": [
+    12
+   ],
+   "citaat": "heeft op het beroep gereageerd met een verweerschrift"
+  },
+  {
+   "zin": "De rechter gaf de gemachtigde de kans om een machtiging in te dienen, maar er kwam geen reactie.",
+   "bron": [
+    14,
+    19
+   ],
+   "citaat": "in de gelegenheid gesteld om uiterlijk 29 mei 2025 een geldige machtiging over te leggen"
+  },
+  {
+   "zin": "De rechter verklaarde het beroep niet-ontvankelijk, dus er komt geen proceskostenvergoeding en geen griffierecht terug.",
+   "bron": [
+    21
+   ],
+   "citaat": "krijgt belanghebbende geen vergoeding van zijn proceskosten en krijgt hij ook het griffierecht niet terug"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep niet-ontvankelijk; geen proceskosten en het griffierecht komt niet terug.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan, en de parkeerder krijgt geen proceskosten en het griffierecht niet terug.",
+  "bron": [
+   21,
+   23
+  ],
+  "citaat": "krijgt belanghebbende geen vergoeding van zijn proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De inhoudelijke gronden van de parkeerder zijn niet beoordeeld.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter ging niet inhoudelijk in op het beroep.",
+    "bron": [
+     21
+    ],
+    "citaat": "De rechtbank beoordeelt de zaak dus niet inhoudelijk"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dit betekent dat het beroep niet-ontvankelijk is.",
+    "bron": [
+     19
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie namens een ander beroep instelt, moet een machtiging tonen, anders kan het beroep niet-ontvankelijk worden verklaard.",
+  "type": "regel",
+  "reikwijdte": "beroep ingesteld namens een ander (gemachtigde)",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   18
+  ],
+  "citaat": "Als dat niet gebeurt, kan de rechtbank het beroep niet-ontvankelijk verklaren"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver procedurele uitspraak",
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een beroep bij de rechter moet door iemand die namens u handelt met een geldige machtiging. Ontbreekt die, dan wordt het beroep niet inhoudelijk bekeken, en krijgt u geen proceskosten of griffierecht terug. Wilt u dat de rechter over de rekening van het parkeren oordeelt, dan moet de machtiging op tijd en goed zijn ingediend.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

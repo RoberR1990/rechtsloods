@@ -1,0 +1,169 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "ecli": "ECLI:NL:GHDHA:2025:359",
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder ging in hoger beroep bij het Gerechtshof Den Haag tegen de gemeente Den Haag. Het ging om een naheffingsaanslag (de rekening achteraf) voor parkeerbelasting.",
+ "titel": "Betaald parkeren was duidelijk genoeg: rekening achteraf blijft staan",
+ "kern": {
+  "zin": "Het hof vond dat het betaald parkeren op de plek voldoende duidelijk was, ook voor wie de borden onderweg niet zag.",
+  "bron": [
+   35
+  ],
+  "citaat": "het voor belanghebbende met enig onderzoek voldoende duidelijk had kunnen zijn wat het parkeerregime is"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 19 september 2022 stond de auto van de parkeerder in Den Haag; de controleur zag dat niet was betaald en dat er geen vergunning was.",
+   "bron": [
+    18
+   ],
+   "citaat": "geconstateerd dat ten aanzien van de auto geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat hij afging op een bord aan het begin van een andere straat, waarop betaald parkeren pas vanaf 18:00 uur stond, en dat de regels ter plekke niet duidelijk waren.",
+   "bron": [
+    30
+   ],
+   "citaat": "Derhalve is het standpunt van belanghebbende dat het geldende parkeerregime ter plekke niet voldoende kenbaar was"
+  },
+  {
+   "zin": "De gemeente zei dat vlak bij de plek duidelijk stond welke regels golden en dat de parkeerder niet zomaar mocht aannemen dat het andere bord ook daar gold.",
+   "bron": [
+    31
+   ],
+   "citaat": "direct in de nabijheid van de parkeerlocatie het geldende parkeerregime voldoende duidelijk is aangegeven"
+  },
+  {
+   "zin": "Het hof vond dat de gemeente kon aantonen dat de regels duidelijk waren, omdat de parkeerder vier borden passeerde en nergens een bord stond dat de zone eindigde.",
+   "bron": [
+    34
+   ],
+   "citaat": "de Heffingsambtenaar heeft voldaan aan de op hem rustende bewijslast"
+  },
+  {
+   "zin": "Volgens het hof had de parkeerder met wat onderzoek, bijvoorbeeld bij de parkeerautomaat, kunnen zien welke tijden golden.",
+   "bron": [
+    35
+   ],
+   "citaat": "Zonder nader onderzoek had belanghebbende niet zonder meer mogen aannemen dat het parkeerregime"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond: de rechtbank had gelijk en de rekening achteraf blijft staan.",
+   "bron": [
+    41
+   ],
+   "citaat": "Het Gerechtshof bevestigt de uitspraak van de Rechtbank."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hof bevestigt: parkeerregime was voldoende duidelijk",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffingsaanslag betalen en krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   39
+  ],
+  "citaat": "Het Hof ziet geen aanleiding voor een proceskostenvergoeding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Het bord aan het begin van de andere straat zei 18:00-24:00 uur en de borden bij de plek waren niet duidelijk.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De parkeerder passeerde vier borden met de juiste tijden en er stond geen bord dat de zone eindigde.",
+    "bron": [
+     34
+    ],
+    "citaat": "Belanghebbende heeft niet betwist dat hij de vier parkeerborden op het [straat 2]"
+   },
+   "bruikbare_zin": {
+    "citaat": "Zonder nader onderzoek had belanghebbende niet zonder meer mogen aannemen dat het parkeerregime",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Op het herhalingsbord bij de straat ontbrak een zonecode en stonden geen tijden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof vond het niet van belang dat zonecodes kunnen verschillen of ontbreken op dat bord.",
+    "bron": [
+     35
+    ],
+    "citaat": "acht het Hof verder niet van belang dat de zonecodenummers binnen één parkeerzone kunnen verschillen"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeerbelasting is verschuldigd als apparatuur of borden bij of vlakbij de plek zo duidelijk zijn dat daarover redelijkerwijs geen misverstand kan bestaan; dat wordt per geval beoordeeld.",
+  "type": "regel",
+  "reikwijdte": "Alle plekken met betaald parkeren waar de parkeerder zegt dat de regels niet duidelijk waren",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   32
+  ],
+  "citaat": "omtrent de verschuldigdheid van parkeerbelasting voor die plaats redelijkerwijs geen misverstand kan bestaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto's van de bebording",
+   "Google Maps en Streetview",
+   "parkeerautomaat met borden met tijden"
+  ],
+  "wat_gaf_doorslag": "Er waren vier borden op de aanrijroute en geen bord dat de zone liet eindigen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:1995:AA3126",
+   "ECLI:NL:GHAMS:2016:1211"
+  ]
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Plaats bij elke parkeerautomaat aan beide kanten een bord met de geldende parkeertijden",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    35
+   ],
+   "citaat": "Bij de betreffende parkeerautomaat is aan weerszijden een parkeerbord geplaatst waar de van toepassing zijnde parkeertijden op staan"
+  },
+  {
+   "actie": "Zorg dat bij elke plek waar een ander regime begint een bord staat dat de zone eindigt of verandert",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    34
+   ],
+   "citaat": "geen sprake van een \"einde zone\"-bord of een ander bord waaruit zou blijken"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "bebording-verkeersbesluit"
+ ],
+ "klantuitleg": "Een rekening voor parkeren die u achteraf krijgt, klopt als op de plek duidelijk was dat u moest betalen. Dat hoeft niet bij elk bord vlak naast uw auto te blijken: ook borden op de route ernaartoe tellen mee als nergens staat dat de zone eindigt. Twijfelt u over de regels, loop dan naar de parkeerautomaat; bezwaar heeft vooral zin als u kunt laten zien dat borden ontbraken of een ander regime aangaven.",
+ "gemeente": "Den Haag",
+ "zekerheid": "hoog"
+}

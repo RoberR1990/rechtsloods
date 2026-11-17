@@ -1,0 +1,169 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2026:4547",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder (gemachtigd via Verkeersboete.nl)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een Wahv-boete (een administratieve verkeersboete) van 129 euro voor parkeren op een plek voor vergunninghouders zonder geldige vergunning. De officier van justitie hield de boete in stand, en de kantonrechter van de rechtbank Noord-Nederland matigde die daarna tot nul.",
+ "titel": "Boete voor parkeren zonder geldige vergunning gematigd tot nul",
+ "kern": {
+  "zin": "De rechter matigde de boete tot nul, mede omdat op dezelfde plek al twee andere boetes waren opgelegd.",
+  "bron": [
+   24
+  ],
+  "citaat": "aan betrokkene twee andere boetes zijn opgelegd op dezelfde pleeglocatie"
+ },
+ "samenvatting": [
+  {
+   "zin": "De boete van 129 euro was opgelegd voor parkeren op een plek voor vergunninghouders zonder geldige vergunning.",
+   "bron": [
+    11
+   ],
+   "citaat": "parkeren op een parkeerplaats voor vergunninghouders zonder (de juiste) vergunning"
+  },
+  {
+   "zin": "Het beroep bij de officier van justitie werd afgewezen, waarna de gemachtigde naar de kantonrechter ging.",
+   "bron": [
+    12
+   ],
+   "citaat": "Tegen die beslissing heeft gemachtigde beroep ingesteld bij de kantonrechter."
+  },
+  {
+   "zin": "De gemachtigde voerde aan dat de parkeerder in korte tijd meerdere boetes kreeg en dat de vergunning niet was verlengd.",
+   "bron": [
+    19
+   ],
+   "citaat": "aan betrokkene in een zeer kort tijdbestek meerdere boetes zijn opgelegd"
+  },
+  {
+   "zin": "De vertegenwoordiger van de officier van justitie vond dat de parkeerder zelf moet opletten waar hij parkeert.",
+   "bron": [
+    20
+   ],
+   "citaat": "het op elk moment dat betrokkene beslist ergens te parkeren zijn verantwoordelijkheid is"
+  },
+  {
+   "zin": "De kantonrechter vond dat de boete tot nul moest worden gematigd, omdat er op dezelfde plek al twee andere boetes waren.",
+   "bron": [
+    24
+   ],
+   "citaat": "ziet de kantonrechter aanleiding om de boete te matigen tot nihil"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete tot nul gematigd; officier van justitie betaalt proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft de boete van 129 euro niet te betalen, krijgt 233,50 euro proceskosten vergoed en het bedrag van de zekerheidstelling terug.",
+  "bron": [
+   36,
+   34,
+   35,
+   11
+  ],
+  "citaat": "veroordeelt de officier van justitie in de proceskosten van betrokkene van € 233,50"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De boete is onevenredig, en de totale som van boetes staat niet in verhouding tot het doel.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter matigde de boete tot nul, mede omdat er op dezelfde plek al andere boetes waren opgelegd.",
+    "bron": [
+     24
+    ],
+    "citaat": "ziet de kantonrechter aanleiding om de boete te matigen tot nihil"
+   },
+   "bruikbare_zin": {
+    "citaat": "aan betrokkene twee andere boetes zijn opgelegd op dezelfde pleeglocatie",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "De eerste boete kwam niet aan en de vergunning was niet automatisch verlengd.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter noemde wel dat de boete pas op 25 februari 2025 is verzonden, als onderdeel van de afweging.",
+    "bron": [
+     24
+    ],
+    "citaat": "dat deze boete pas is verzonden op 25 februari 2025"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat deze boete pas is verzonden op 25 februari 2025",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De overtreding, de bevoegdheid van de opsteller en de bewijsmiddelen werden betwist.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Omdat de gemachtigde de overtreding niet meer betwistte, stond die vast.",
+    "bron": [
+     23
+    ],
+    "citaat": "Daarmee is de verkeersovertreding komen vast te staan."
+   },
+   "bruikbare_zin": {
+    "citaat": "Gemachtigde betwist de verkeersovertreding niet.",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het feit dat op dezelfde plek al twee andere boetes waren opgelegd, telde mee bij het matigen van de boete.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "alleen als op dezelfde plek al andere boetes zijn opgelegd waartegen geen beroep is ingesteld",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "Daarbij is relevant dat aan betrokkene twee andere boetes zijn opgelegd op dezelfde pleeglocatie"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "zaakoverzicht",
+   "verklaring van de parkeerder"
+  ],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 13a tweede lid onder a Wahv",
+  "art. 13a vijfde lid Wahv"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een boete is terecht als u op een plek voor vergunninghouders staat zonder geldige vergunning. In deze zaak is de boete tot nul verlaagd, omdat er op dezelfde plek al twee andere boetes waren opgelegd. Controleer uw vergunning daarom op tijd op de einddatum, want een matiging wordt niet altijd toegekend.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

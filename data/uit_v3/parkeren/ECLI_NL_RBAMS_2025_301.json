@@ -1,0 +1,173 @@
+{
+  "schema": "v3",
+  "ecli": "ECLI:NL:RBAMS:2025:301",
+  "relevant": true,
+  "onderwerp": "vergunningen",
+  "sub": "gehandicaptenkaart",
+  "kenmerk": null,
+  "zaaktype": "vergunning",
+  "partijen": {
+    "burger": "aanvrager",
+    "wederpartij": "gemeente Amsterdam",
+    "gemeente_is_partij": true
+  },
+  "procesvorm": "beroep",
+  "intro": "Een aanvrager procedeerde tegen het college van burgemeester en wethouders van Amsterdam. Het college had haar aanvraag voor een gehandicaptenparkeerkaart (GPK) afgewezen, en de rechtbank Amsterdam oordeelde over het beroep.",
+  "titel": "Afwijzing gehandicaptenparkeerkaart blijft staan na medisch advies",
+  "kern": {
+    "zin": "De rechter oordeelde dat het college op de GGD-adviezen mocht afgaan en dat de aanvrager dat niet weerlegde.",
+    "bron": [
+      28
+    ],
+    "citaat": "Het college mocht bij de beoordeling van de aanvraag van eiseres uitgaan van de medische adviezen van de GGD"
+  },
+  "samenvatting": [
+    {
+      "zin": "Het college wees de aanvraag af, omdat de GGD-adviezen zeiden dat zij niet aan de criteria voldeed.",
+      "bron": [
+        11
+      ],
+      "citaat": "Uit de gevraagde adviezen van de GGD blijkt namelijk dat eiseres niet voldoet aan de criteria"
+    },
+    {
+      "zin": "De aanvrager zei dat zij meer hulp nodig had dan de GGD vond en niet 100 meter kon lopen.",
+      "bron": [
+        31
+      ],
+      "citaat": "niet in staat is om zelfstandig of met de gebruikelijke loophulpmiddelen meer dan 100 meter aan een stuk te lopen"
+    },
+    {
+      "zin": "Volgens de GGD-adviezen kan de aanvrager meer dan 100 meter lopen, met hulpmiddelen.",
+      "bron": [
+        12
+      ],
+      "citaat": "De geschatte loopafstand is meer dan 100 meter"
+    },
+    {
+      "zin": "De rechter vond dat de aanvrager met medische stukken niet uitlegde waarom de GGD het fout had.",
+      "bron": [
+        33
+      ],
+      "citaat": "dat zij niet uitlegt waarom daaruit volgt dat de GGD-artsen haar loopbeperking verkeerd hebben beoordeeld"
+    },
+    {
+      "zin": "Voor de passagierskaart vond de rechter het bewijs van deur-tot-deur-hulp niet geleverd.",
+      "bron": [
+        39
+      ],
+      "citaat": "eiseres heeft niet met medische stukken onderbouwd dat zij van deur tot deur continu afhankelijk"
+    },
+    {
+      "zin": "Het beroep werd ongegrond verklaard, dus de aanvrager krijgt het griffierecht niet terug.",
+      "bron": [
+        42
+      ],
+      "citaat": "Eiseres krijgt daarom het griffierecht niet terug"
+    }
+  ],
+  "uitkomst": "wederpartij wint",
+  "uitkomst_toelichting": "Beroep ongegrond; afwijzing van de kaart blijft staan.",
+  "gevolg_betrokkene": {
+    "zin": "De aanvrager krijgt geen gehandicaptenparkeerkaart, en het griffierecht krijgt zij ook niet terug.",
+    "bron": [
+      42
+    ],
+    "citaat": "Eiseres krijgt daarom het griffierecht niet terug"
+  },
+  "steunt": "gemeente",
+  "bezwaargronden": [
+    {
+      "arg": "overig",
+      "burger_zegt": "Zij is enorm hulpbehoevend en kan niet 100 meter lopen, volgens de brieven van haar behandelaars.",
+      "oordeel": "verworpen",
+      "waarom": {
+        "zin": "De rechter vond dat de medische informatie niet uitlegde waarom het GGD-advies niet deugt.",
+        "bron": [
+          34
+        ],
+        "citaat": "eiseres onvoldoende met medische stukken heeft onderbouwd waarom het advies van de GGD niet deugt"
+      },
+      "bruikbare_zin": {
+        "citaat": "maar die dateert van ruim na de beslissing op bezwaar",
+        "bron": [
+          33
+        ]
+      }
+    },
+    {
+      "arg": "overig",
+      "burger_zegt": "Zij is bang om alleen te vallen en heeft daarom begeleiding nodig.",
+      "oordeel": "verworpen",
+      "waarom": {
+        "zin": "De rechter vond niet aangetoond dat zij medisch niet alleen kon wachten.",
+        "bron": [
+          39
+        ],
+        "citaat": "om medische redenen niet in staat is om even alleen te wachten"
+      },
+      "bruikbare_zin": {
+        "citaat": "uit de medische stukken niet kan worden afgeleid dat eiseres hierdoor",
+        "bron": [
+          39
+        ]
+      }
+    },
+    {
+      "arg": "overig",
+      "burger_zegt": "De GGD is niet onafhankelijk, want zij valt onder de gemeente.",
+      "oordeel": "verworpen",
+      "waarom": {
+        "zin": "De rechter vond die stelling alleen niet genoeg om aan de adviezen te twijfelen.",
+        "bron": [
+          27
+        ],
+        "citaat": "De enkele stelling dat sprake is van partijdigheid en geen onafhankelijke advisering door de GGD"
+      },
+      "bruikbare_zin": {
+        "citaat": "is onvoldoende voor de conclusie dat de adviezen van de GGD",
+        "bron": [
+          27
+        ]
+      }
+    }
+  ],
+  "rechtsregel": {
+    "zin": "Het college mag op een zorgvuldig medisch advies afgaan; de aanvrager moet met stukken aantonen dat het niet klopt.",
+    "type": "regel",
+    "reikwijdte": "medisch advies bij aanvragen voor een gehandicaptenparkeerkaart",
+    "uitzondering": null,
+    "herkomst": "vaste lijn HR-RvS",
+    "bron": [
+      23
+    ],
+    "citaat": "mag het college zich bij het nemen van besluiten baseren op een medisch advies"
+  },
+  "bewijs": {
+    "bewijslast_bij": "burger",
+    "bewijsmiddelen": [
+      "GGD-adviezen",
+      "brieven van behandelaars (één na het besluit op bezwaar)"
+    ],
+    "wat_gaf_doorslag": "De medische stukken legden niet uit waarom de GGD-artsen de loopbeperking verkeerd beoordeelden."
+  },
+  "toepasselijkheid": "landelijk",
+  "lijn": {
+    "soort": "bevestigt",
+    "eerdere": []
+  },
+  "wetsartikelen": [
+    "art. 1 lid 1 onder a Regeling gehandicaptenparkeerkaart",
+    "art. 1 lid 1 onder b Regeling gehandicaptenparkeerkaart"
+  ],
+  "actie_gemeente": [],
+  "reden_leeg_actie": "geen tekortkoming van het college vastgesteld; college mocht op GGD-adviezen afgaan",
+  "raakt": [
+    "vergunningen",
+    "bezwaar"
+  ],
+  "klantuitleg": "Voor een gehandicaptenparkeerkaart moet u met medische stukken aantonen dat u niet 100 meter zonder hulp of hulpmiddelen kunt lopen. De gemeente mag het advies van de GGD volgen, en een brief die pas na het besluit komt, telt in deze zaak niet mee. Wilt u bezwaar of beroep, leg dan uit waarom het GGD-advies niet klopt en onderbouw dat met recente medische stukken.",
+  "gemeente": "Amsterdam",
+  "reden_gemeente_leeg": null,
+  "dubbel_van": null,
+  "zekerheid": "hoog"
+}

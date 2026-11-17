@@ -1,0 +1,167 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2019:7859",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bedrijf kreeg een boete van 90 euro omdat zijn auto in Maastricht in een straat stond die was afgesloten, met een uitzondering voor laden en lossen. Het bedrijf ging in hoger beroep tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Boete voor auto in afgesloten straat: dit was geen laden en lossen",
+ "kern": {
+  "zin": "Het hof vond dat er geen sprake was van laden en lossen maar van parkeren, omdat tien minuten niets bij de auto gebeurde.",
+  "bron": [
+   32
+  ],
+  "citaat": "Voorgaande houdt in dat geen sprake was van laden en lossen, maar van parkeren."
+ },
+ "samenvatting": [
+  {
+   "zin": "Het bedrijf kreeg een boete van 90 euro omdat zijn auto stond in een straat die was afgesloten voor voertuigen.",
+   "bron": [
+    19
+   ],
+   "citaat": "bij inleidende beschikking een administratieve sanctie van € 90,- opgelegd"
+  },
+  {
+   "zin": "Het bedrijf zei dat de auto er stond om zware spullen te lossen, wat volgens het onderbord mocht.",
+   "bron": [
+    20
+   ],
+   "citaat": "dit was ter gelegenheid van het laden en lossen van goederen, hetgeen volgens de op het onderbord geldende uitzondering geoorloofd is"
+  },
+  {
+   "zin": "De handhaver verklaarde dat hij tien minuten geen activiteiten bij de auto zag en geen bestuurder.",
+   "bron": [
+    28
+   ],
+   "citaat": "Ik heb gedurende 10 minuten geen activiteiten waargenomen rondom het voertuig."
+  },
+  {
+   "zin": "Het hof zei dat laden en lossen betekent dat er direct en aan één stuk door wordt geladen of gelost.",
+   "bron": [
+    26
+   ],
+   "citaat": "bij voortduring inladen of uitladen van goederen van enige omvang of enig gewicht, gedurende de tijd die daarvoor nodig is"
+  },
+  {
+   "zin": "Het hof zag niet in waarom de zware spullen niet bij de ingang konden worden neergezet, waarna de auto kon worden verplaatst.",
+   "bron": [
+    30
+   ],
+   "citaat": "om de zware spullen voor de ingang van het wooncomplex neer te zetten, het voertuig daarna te verplaatsen en te parkeren"
+  },
+  {
+   "zin": "De boete blijft staan, want het hof zag parkeren en geen laden en lossen.",
+   "bron": [
+    33
+   ],
+   "citaat": "de kantonrechter een juiste beslissing heeft genomen door het beroep van de betrokkene ongegrond te verklaren"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete van 90 euro blijft; laden en lossen niet aannemelijk gemaakt.",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrijf moet de boete van 90 euro betalen.",
+  "bron": [
+   19
+  ],
+  "citaat": "bij inleidende beschikking een administratieve sanctie van € 90,- opgelegd"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "De auto stond er alleen om zware spullen te laden en te lossen, met de alarmlichten aan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Tien minuten werd bij de auto niets gedaan, dus er was geen sprake van direct en doorlopend laden of lossen.",
+    "bron": [
+     29
+    ],
+    "citaat": "dat niet, onmiddellijk nadat het voertuig tot stilstand was gebracht, bij voortduring goederen zijn in- of uitgeladen"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat tien minuten geen activiteiten rondom het voertuig zijn waargenomen",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De handhaver had het parkeren moeten beboeten en niet het rijden in strijd met de afsluiting.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Of de afsluiting is overtreden hangt hier juist af van de vraag of er is geparkeerd of geladen en gelost.",
+    "bron": [
+     32
+    ],
+    "citaat": "houdt in de onderhavige zaak immers verband met de vraag of sprake is van parkeren dan wel van laden en/of lossen"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Laden en lossen betekent direct na het stilstaan en doorlopend goederen laden of lossen, zo lang als daarvoor nodig is.",
+  "type": "regel",
+  "reikwijdte": "Uitzondering voor laden en lossen bij een afgesloten weg of parkeerverbod.",
+  "uitzondering": "Het mag langer duren als aannemelijk wordt gemaakt dat er meer tijd nodig was.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   26
+  ],
+  "citaat": "bij voortduring inladen of uitladen van goederen van enige omvang of enig gewicht, gedurende de tijd die daarvoor nodig is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring van de handhaver op ambtseed",
+   "verklaring van de gemachtigde"
+  ],
+  "wat_gaf_doorslag": "Tien minuten geen activiteit bij de auto en geen uitleg waarom de spullen niet bij de ingang konden worden neergezet."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:1999:AA2760",
+   "ECLI:NL:HR:1975:AJ4297",
+   "ECLI:NL:GHARL:2015:7639",
+   "ECLI:NL:GHARL:2019:3877"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 62 RVV 1990",
+  "art. 67 lid 1 onder a RVV 1990",
+  "art. 1 RVV 1990 (parkeren)",
+  "bord C1 bijlage 1 RVV 1990"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij een boete rond laden en lossen vast hoe lang de auto stilstond en of er activiteit bij de auto was",
+   "raakt": "bezwaar",
+   "bron": [
+    28
+   ],
+   "citaat": "Ik heb gedurende 10 minuten geen activiteiten waargenomen rondom het voertuig."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "bebording-verkeersbesluit"
+ ],
+ "klantuitleg": "Staat er bij een afgesloten straat een bord met 'laden en lossen toegestaan', dan mag u er alleen even staan terwijl u direct en doorlopend laadt of lost. Staat de auto langer stil zonder dat er iets gebeurt, dan geldt dat als parkeren en kunt u een boete krijgen. Bezwaar heeft meer kans als u kunt laten zien dat het laden en lossen echt aan één stuk doorging en niet korter kon.",
+ "gemeente": "Maastricht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

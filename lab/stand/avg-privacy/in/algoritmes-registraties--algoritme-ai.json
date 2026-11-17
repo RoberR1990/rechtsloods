@@ -1,0 +1,170 @@
+{
+ "slug": "avg-privacy",
+ "onderwerp": "algoritmes-registraties",
+ "sub": "algoritme-ai",
+ "label": "Algoritme, AI of besluit door een computer",
+ "onderwerp_label": "Algoritmes, fraudesystemen en basisregistraties",
+ "modus": "vol",
+ "n_uitspraken": 9,
+ "n_laag2": 9,
+ "uitkomsten": {
+  "wederpartij wint": 5,
+  "burger wint": 3,
+  "alleen procedure": 1
+ },
+ "kaarten": [
+  {
+   "ecli": "ECLI:NL:RBDHA:2026:21749",
+   "instantie": "Rechtbank Den Haag",
+   "niveau": "Rechtbank",
+   "datum": "2026-07-29",
+   "uitkomst": "wederpartij wint",
+   "titel": "Gebruik van VisualDoc hoefde niet in het besluit te staan",
+   "kern": {
+    "zin": "De minister hoefde het gebruik van VisualDoc niet te vermelden, omdat mensen de echtheid van de documenten beoordeelden; dat kan veranderen als het systeem meer gaat doen.",
+    "citaat": "de minister niet gehouden is het gebruik van VisualDoc, zoals het op dit moment functioneert, in de besluitvorming te vermelden"
+   },
+   "rechtsregel": {
+    "zin": "De minister hoeft het gebruik van VisualDoc niet in het besluit te vermelden zolang mensen de echtheid van documenten beoordelen en het systeem alleen helpt bij herkenning.",
+    "citaat": "de minister niet gehouden is het gebruik van VisualDoc, zoals het op dit moment functioneert, in de besluitvorming te vermelden",
+    "reikwijdte": "VisualDoc zoals het nu werkt: alleen documentherkenning, echtheid door mensen beoordeeld"
+   }
+  },
+  {
+   "ecli": "ECLI:NL:RBDHA:2026:22093",
+   "instantie": "Rechtbank Den Haag",
+   "niveau": "Rechtbank",
+   "datum": "2026-08-07",
+   "uitkomst": "burger wint",
+   "titel": "Besluit vernietigd: werking van zoekprogramma CaseMatcher niet uitgelegd",
+   "kern": {
+    "zin": "De rechter kan niet vaststellen dat de motivering het besluit volledig draagt, omdat de minister de werking van CaseMatcher niet heeft uitgelegd; dat is een motiveringsgebrek.",
+    "citaat": "niet kan worden vastgesteld dat het besluit volledig wordt gedragen door de gegeven motivering"
+   },
+   "rechtsregel": {
+    "zin": "Zolang niet vaststaat dat het vermelden van het algoritme niet nodig is voor een deugdelijke motivering, is er een motiveringsgebrek.",
+    "citaat": "zolang niet kan worden vastgesteld dat het vermelden van het algoritme nodig is om tot een deugdelijke motivering",
+    "reikwijdte": "Asielbesluiten waarbij mogelijk een algoritme als CaseMatcher is gebruikt en de werking niet is uitgelegd"
+   }
+  },
+  {
+   "ecli": "ECLI:NL:RBDHA:2026:22096",
+   "instantie": "Rechtbank Den Haag",
+   "niveau": "Rechtbank",
+   "datum": "2026-08-07",
+   "uitkomst": "burger wint",
+   "titel": "Asielbesluit vernietigd om onduidelijkheid over CaseMatcher",
+   "kern": {
+    "zin": "De rechtbank vernietigt het besluit wegens een motiveringsgebrek: de werking van CaseMatcher is niet inzichtelijk en daardoor niet goed te toetsen.",
+    "citaat": "Daarmee is sprake van een motiveringsgebrek."
+   },
+   "rechtsregel": {
+    "zin": "Als de rechter om inzicht in documenten vraagt, moet de overheid daar open over zijn; anders kan het besluit niet goed worden getoetst.",
+    "citaat": "de minister daar transparant in moet zijn.",
+    "reikwijdte": "Als de rechter om inzicht vraagt in documenten, vooral in asielzaken."
+   }
+  },
+  {
+   "ecli": "ECLI:NL:RBDHA:2026:25209",
+   "instantie": "Rechtbank Den Haag",
+   "niveau": "Rechtbank",
+   "datum": "2026-09-02",
+   "uitkomst": "wederpartij wint",
+   "titel": "Asielaanvragen terecht afgewezen; CaseMatcher geen AI",
+   "kern": {
+    "zin": "De rechtbank oordeelt dat de afwijzingen van de asielaanvragen in stand kunnen blijven.",
+    "citaat": "De rechtbank komt in deze uitspraak tot het oordeel dat de afwijzingen van de asielaanvragen in stand kunnen blijven."
+   },
+   "rechtsregel": {
+    "zin": "Als een algoritme nodig was voor de motivering en het staat niet in het besluit, is er een motiverings- en zorgvuldigheidsgebrek.",
+    "citaat": "als de motivering van een besluit niet tot stand had kunnen komen zonder een bepaald algoritme",
+    "reikwijdte": "Als een algoritme wezenlijke invloed heeft op de inhoud van een besluit."
+   }
+  },
+  {
+   "ecli": "ECLI:NL:RBDHA:2026:3264",
+   "instantie": "Rechtbank Den Haag",
+   "niveau": "Rechtbank",
+   "datum": "2026-02-19",
+   "uitkomst": "alleen procedure",
+   "titel": "Rechter laat minister stukken over algoritme geheimhouden",
+   "kern": {
+    "zin": "De rechtbank wijst het verzoek van de minister toe: alleen de rechtbank ziet de gelakte persoonsgegevens en twee adviezen, omdat privacy hier zwaarder weegt dan het belang van de burger.",
+    "citaat": "weegt het belang van eerbiediging van de persoonlijke levenssfeer in dit geval zwaarder dan het belang van eiseres"
+   },
+   "rechtsregel": {
+    "zin": "Bij een verzoek om stukken alleen aan de rechter te laten zien is een verwijzing naar de Woo niet genoeg; er is een aparte toets nodig of er gewichtige redenen zijn.",
+    "citaat": "Voor de toepassing van artikel 8:29 van de Awb is een afzonderlijke toets vereist of gewichtige redenen als bedoeld in dit artikel aanwezig zijn.",
+    "reikwijdte": "Verzoeken om beperkte kennisneming van stukken (art. 8:29 Awb) in een bestuursrechtelijke zaak"
+   }
+  },
+  {
+   "ecli": "ECLI:NL:RBDHA:2026:32723",
+   "instantie": "Rechtbank Den Haag",
+   "niveau": "Rechtbank",
+   "datum": "2026-11-05",
+   "uitkomst": "wederpartij wint",
+   "titel": "Zoekprogramma CaseMatcher is geen AI; melden hoeft niet",
+   "kern": {
+    "zin": "De rechtbank verklaart het beroep ongegrond en oordeelt dat CaseMatcher een simpel zoekprogramma is, dus de minister hoeft het gebruik ervan niet in het besluit te melden.",
+    "citaat": "dat CaseMatcher geen AI, complex algoritme of blackbox is"
+   },
+   "rechtsregel": {
+    "zin": "Een computerprogramma dat alleen zoekt, met vaste beslisregels, en de besluitvorming niet stuurt, is geen AI of blackbox; het gebruik hoeft dan niet in het besluit te staan.",
+    "citaat": "Het betreft een computerprogramma dat de minister kan gebruiken bij zijn besluiten op asielaanvragen",
+    "reikwijdte": "Alleen het zoekprogramma CaseMatcher bij asielbesluiten van de minister"
+   }
+  },
+  {
+   "ecli": "ECLI:NL:RBDHA:2026:9326",
+   "instantie": "Rechtbank Den Haag",
+   "niveau": "Rechtbank",
+   "datum": "2026-04-16",
+   "uitkomst": "burger wint",
+   "titel": "Rechter vernietigt asielafwijzingen om algoritme en motivering",
+   "kern": {
+    "zin": "De rechtbank zag een motiveringsgebrek omdat niet duidelijk was of Case Matcher is gebruikt.",
+    "citaat": "De rechtbank concludeert dan ook dat reeds hierom sprake is van een motiveringsgebrek in de bestreden besluiten."
+   },
+   "rechtsregel": {
+    "zin": "Totdat Case Matcher inhoudelijk is getoetst, moet de minister in de besluitvorming vermelden of hij het algoritme gebruikt.",
+    "citaat": "in de besluitvorming het gebruik moet vermelden als zij in een zaak gebruik maakt van Case Matcher",
+    "reikwijdte": "Asielzaken waarin de minister mogelijk Case Matcher gebruikt, totdat de rechter het algoritme inhoudelijk heeft getoetst."
+   }
+  },
+  {
+   "ecli": "ECLI:NL:RBDHA:2025:13378",
+   "instantie": "Rechtbank Den Haag",
+   "niveau": "Rechtbank",
+   "datum": "2025-07-22",
+   "uitkomst": "wederpartij wint",
+   "titel": "Visum geweigerd; claim over discriminerend algoritme niet onderbouwd",
+   "kern": {
+    "zin": "De rechter vindt de stelling dat het algoritme discrimineert niet onderbouwd, en de afwijzing van het visum blijft staan.",
+    "citaat": "De rechtbank volgt eisers niet in de enkele stelling dat in de BAO discriminerende componenten zijn verwerkt"
+   },
+   "rechtsregel": {
+    "zin": "Alleen zeggen dat een algoritme discrimineert is niet genoeg als de minister dat met uitleg en rapporten weerspreekt en de burger daar niet op ingaat.",
+    "citaat": "Ook zijn eisers niet ingegaan op de motivering van de minister in het verweerschrift",
+    "reikwijdte": "Visumbesluiten waarbij het algoritme BAO is gebruikt en de stelling over discriminatie niet is onderbouwd"
+   }
+  },
+  {
+   "ecli": "ECLI:NL:GHDHA:2023:683",
+   "instantie": "Gerechtshof Den Haag",
+   "niveau": "Hof",
+   "datum": "2023-01-24",
+   "uitkomst": "wederpartij wint",
+   "titel": "WOZ-waarde blijft staan; AVG-klacht moet naar Autoriteit Persoonsgegevens",
+   "kern": {
+    "zin": "Het hof liet de WOZ-waarden staan en zei dat een klacht over strijd met de AVG geen beroepsgrond is in deze zaak maar bij de Autoriteit Persoonsgegevens thuishoort; verder zag het geen onrechtmatig handelen.",
+    "citaat": "Belanghebbende dient zich daarvoor te wenden tot de Autoriteit Persoonsgegevens"
+   },
+   "rechtsregel": {
+    "zin": "Een stelling dat een WOZ-beschikking of aanslag in strijd is met de AVG kan niet als beroepsgrond worden behandeld; de burger moet zich tot de Autoriteit Persoonsgegevens wenden.",
+    "citaat": "Belanghebbende dient zich daarvoor te wenden tot de Autoriteit Persoonsgegevens",
+    "reikwijdte": "Beroep tegen WOZ-beschikkingen en aanslagen onroerendezaakbelasting waarin de burger zich op de AVG beroept"
+   }
+  }
+ ]
+}

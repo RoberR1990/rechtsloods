@@ -1,0 +1,143 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2023:2589",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "kentekenhouder, met gemachtigde",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een autobezitter kreeg een boete van € 150 omdat zijn auto in Amsterdam de andere auto's in haakse parkeervakken blokkeerde. Hij ging tegen de officier van justitie in hoger beroep bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Haakse parkeervakken blokkeren is geen dubbel parkeren",
+ "kern": {
+  "zin": "Het hof vond dat het blokkeren van haakse parkeervakken geen dubbel parkeren is, maar wel hinder, dus de boete voor hinder bleef staan.",
+  "bron": [
+   26
+  ],
+  "citaat": "de wijze waarop het voertuig van de betrokkene geparkeerd stond niet aan te merken als dubbel parkeren"
+ },
+ "samenvatting": [
+  {
+   "zin": "De autobezitter kreeg een boete van € 150 voor het laten staan van een auto waardoor het verkeer werd gehinderd.",
+   "bron": [
+    18
+   ],
+   "citaat": "bij inleidende beschikking een sanctie opgelegd van € 150,-"
+  },
+  {
+   "zin": "De handhaver schreef dat de auto voor de parkeervakken stond en dat de geparkeerde auto's daardoor niet weg konden rijden.",
+   "bron": [
+    23
+   ],
+   "citaat": "Ik zag dat deze voertuigen niet uit de vakken weg konden rijden."
+  },
+  {
+   "zin": "De gemachtigde van de autobezitter zei dat de verkeerde boetecode was gebruikt en dat het dubbel parkeren was, met een lagere boete.",
+   "bron": [
+    19
+   ],
+   "citaat": "stelt zich op het standpunt dat een onjuiste feitcode is toegepast"
+  },
+  {
+   "zin": "De autobezitter ontkende niet dat de andere auto's hinder hadden bij het wegrijden.",
+   "bron": [
+    25
+   ],
+   "citaat": "de wijze van parkeren andere voertuigen hinderde bij het wegrijden uit een parkeervak"
+  },
+  {
+   "zin": "Het hof zei dat dubbel parkeren alleen is als een auto parallel aan een parkeervak staat, en dat was hier niet zo.",
+   "bron": [
+    26
+   ],
+   "citaat": "Van dubbel parkeren is sprake wanneer een voertuig parallel aan een parkeervak wordt geparkeerd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete voor hinder blijft; geen dubbel parkeren, geen proceskostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 150 blijft staan en de autobezitter krijgt geen vergoeding van zijn proceskosten.",
+  "bron": [
+   27,
+   18,
+   31
+  ],
+  "citaat": "Gelet op het voorgaande zal de beslissing van de kantonrechter worden bevestigd"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Er is de verkeerde boetecode gebruikt: het is dubbel parkeren, dat kost minder.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dubbel parkeren is alleen als een auto parallel aan een parkeervak staat; een auto voor haakse vakken valt daar niet onder.",
+    "bron": [
+     26
+    ],
+    "citaat": "Van dubbel parkeren is sprake wanneer een voertuig parallel aan een parkeervak wordt geparkeerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "Van dubbel parkeren is sprake wanneer een voertuig parallel aan een parkeervak wordt geparkeerd",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een auto die voor haakse parkeervakken staat, parkeert niet dubbel; als andere auto's hinder hebben, geldt de algemene hinderregel van artikel 5 van de Wegenverkeerswet.",
+  "type": "regel",
+  "reikwijdte": "Auto's die haakse parkeervakken blokkeren, zodat andere auto's niet weg kunnen.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   26
+  ],
+  "citaat": "Van dubbel parkeren is sprake wanneer een voertuig parallel aan een parkeervak wordt geparkeerd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van de handhaver in het zaakoverzicht",
+   "foto van de handhaver"
+  ],
+  "wat_gaf_doorslag": "De hinder voor de geparkeerde auto's werd niet betwist."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHARL:2017:4754"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 5 Wegenverkeerswet 1994",
+  "art. 24 lid 3 Reglement verkeersregels en verkeerstekens 1990"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Schrijf bij een auto die haakse parkeervakken blokkeert op welke auto's niet weg konden en leg dat vast met een foto.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    23
+   ],
+   "citaat": "Ik zag dat deze voertuigen niet uit de vakken weg konden rijden."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "scanauto-handhaving",
+  "bezwaar"
+ ],
+ "klantuitleg": "Wie met de auto voor haakse parkeervakken staat en andere auto's blokkeert, kan een boete voor hinder krijgen. Dat is iets anders dan dubbel parkeren. Gaat u in bezwaar, laat dan zien dat niemand hinder had.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

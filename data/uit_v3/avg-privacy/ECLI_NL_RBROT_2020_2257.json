@@ -1,0 +1,193 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2020:2257",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "wissen",
+ "kenmerk": "archief",
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "bestuur van de raad voor rechtsbijstand",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "De burger vroeg het bestuur van de raad voor rechtsbijstand om vonnissen uit zijn systemen te verwijderen. De rechtbank Rotterdam moest beoordelen of dat verzoek had moeten worden toegewezen.",
+ "titel": "Rechtbank: raad voor rechtsbijstand moet vonnissen wissen",
+ "kern": {
+  "zin": "De rechtbank vindt dat het bestuur de vonnissen onrechtmatig bewaart en het verzoek om ze te wissen had moeten toewijzen.",
+  "bron": [
+   30
+  ],
+  "citaat": "verweerder het verzoek van eiseres tot gegevenswissing op grond van artikel 17 van de AVG had moeten toewijzen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg het bestuur van de raad voor rechtsbijstand om vonnissen uit de systemen te verwijderen.",
+   "bron": [
+    18
+   ],
+   "citaat": "heeft eiseres verweerder verzocht de bij de toevoegingsaanvragen gevoegde vonnissen uit de systemen van verweerder te wissen"
+  },
+  {
+   "zin": "Zij zei dat de vonnissen zonder haar toestemming waren toegevoegd en privacygevoelige informatie bevatten, waaronder gezondheidsgegevens.",
+   "bron": [
+    20
+   ],
+   "citaat": "De vonnissen zijn zonder toestemming van eiseres bij de toevoegingsaanvragen gevoegd."
+  },
+  {
+   "zin": "Het bestuur zei dat het de vonnissen nodig had om de aanvragen te beoordelen.",
+   "bron": [
+    19
+   ],
+   "citaat": "Voor de beoordeling van toevoegingsaanvragen moet de rechtsbijstandverlener namens de rechtzoekende de nodige informatie verstrekken"
+  },
+  {
+   "zin": "Het bestuur zei ook dat de vonnissen tien jaar bewaard moesten blijven.",
+   "bron": [
+    19
+   ],
+   "citaat": "Op grond van het Basisselectiedocument krachtens de Archiefwet geldt een bewaarplicht van tien jaar."
+  },
+  {
+   "zin": "De rechtbank oordeelde dat de verwerking van de persoonsgegevens onrechtmatig was.",
+   "bron": [
+    28
+   ],
+   "citaat": "de verwerking van de in de vonnissen opgenomen persoonsgegevens onrechtmatig is"
+  },
+  {
+   "zin": "Het bestuur moet binnen twee weken een nieuwe beslissing nemen.",
+   "bron": [
+    40
+   ],
+   "citaat": "draagt verweerder op binnen twee weken na verzending van deze uitspraak een nieuwe beslissing op bezwaar te nemen"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Rechtbank vernietigt besluit; verzoek om vonnissen te wissen had moeten worden toegewezen.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt het griffierecht van 174 euro terug en het bestuur moet binnen twee weken opnieuw beslissen.",
+  "bron": [
+   41,
+   40
+  ],
+  "citaat": "bepaalt dat verweerder aan eiseres het betaalde griffierecht van € 174,-- vergoedt."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "geen-wettelijke-grondslag",
+   "burger_zegt": "Er was geen wettelijke grond om de vonnissen te bewaren.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank vond dat artikel 24 van de Wet op de rechtsbijstand geen duidelijke grondslag gaf voor het bewaren van de vonnissen.",
+    "bron": [
+     25
+    ],
+    "citaat": "niet een toereikende rechtsgrond is als hiervoor in 5.3 bedoeld"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet is voldaan aan de hiervoor in 5.3 vermelde voorwaarden voor verwerking van persoonsgegevens",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "wissen-geen-grondslag",
+   "burger_zegt": "Er is geen goede reden om de vonnissen tien jaar te bewaren; ze moeten weg.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank vond de Archiefwet geen toereikende grondslag voor de bewaartermijn van tien jaar.",
+    "bron": [
+     32
+    ],
+    "citaat": "Dit is echter geen toereikende grondslag voor de bewaartermijn van tien jaar"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen toereikende grondslag voor de bewaartermijn van tien jaar",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "gevoelige-gegevens",
+   "burger_zegt": "De vonnissen bevatten gezondheidsgegevens die niet verwerkt mochten worden.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank oordeelde dat de bijzondere persoonsgegevens in de vonnissen onrechtmatig waren verwerkt.",
+    "bron": [
+     31
+    ],
+    "citaat": "verwerking van de in de vonnissen opgenomen bijzondere persoonsgegevens (ook om deze reden) onrechtmatig is"
+   },
+   "bruikbare_zin": {
+    "citaat": "Op grond van artikel 9, eerste lid, van de AVG is verwerking van bijzondere persoonsgegevens verboden",
+    "bron": [
+     31
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een wettelijke grondslag voor het verwerken van persoonsgegevens moet duidelijk en nauwkeurig zijn en voorspelbaar voor de burger; een algemene bepaling is niet genoeg.",
+  "type": "regel",
+  "reikwijdte": "Verwerking van persoonsgegevens door een overheidsorgaan op grond van een taak van algemeen belang.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "duidelijk en nauwkeurig zijn, en de toepassing daarvan moet voorspelbaar zijn voor degenen op wie deze van toepassing is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "de drie vonnissen",
+   "de toevoegingsaanvragen",
+   "het beleid en de werkinstructies van het bestuur"
+  ],
+  "wat_gaf_doorslag": "De rechtbank vond geen duidelijke wettelijke grondslag en geen geldige toestemming voor het bewaren."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2017:2232"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 17 lid 1 AVG",
+  "art. 6 lid 1 onder e AVG",
+  "art. 6 lid 3 AVG",
+  "art. 7 lid 3 AVG",
+  "art. 9 lid 1 AVG",
+  "art. 5 lid 1 onder c AVG",
+  "art. 24 lid 3 Wet op de rechtsbijstand",
+  "Archiefwet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zorg dat een bewaarplicht op grond van de Archiefwet pas gaat gelden als de verwerking zelf volgens de AVG rechtmatig is.",
+   "raakt": "privacy-fg",
+   "bron": [
+    32
+   ],
+   "citaat": "aan de bewaarplicht op grond van de Archiefwet pas wordt toegekomen als gegevens in overeenstemming met de AVG worden verwerkt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "ict-informatiebeveiliging"
+ ],
+ "klantuitleg": "Als u vraagt om uw gegevens te laten wissen, moet de organisatie eerst kijken of ze een duidelijke wettelijke reden heeft om ze te bewaren. Is die reden er niet, dan moet ze uw gegevens wissen. In deze zaak had het bestuur geen goede reden en moet het binnen twee weken opnieuw beslissen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente partij; wederpartij is het bestuur van de raad voor rechtsbijstand",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

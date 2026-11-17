@@ -1,0 +1,175 @@
+{
+  "schema": "v3",
+  "ecli": "ECLI:NL:RBZWB:2025:7533",
+  "relevant": true,
+  "onderwerp": "parkeerbelasting",
+  "sub": "procedure",
+  "kenmerk": null,
+  "zaaktype": "naheffing",
+  "partijen": {
+    "burger": "parkeerder",
+    "wederpartij": "gemeente Tilburg",
+    "gemeente_is_partij": true
+  },
+  "procesvorm": "beroep",
+  "intro": "De gemeente Tilburg legde de parkeerder een naheffingsaanslag (de rekening achteraf) op, en zei dat het bezwaar te laat was. De parkeerder ging daarop in beroep bij de rechtbank Zeeland-West-Brabant.",
+  "titel": "Bezwaar was wel op tijd, maar de rekening blijft staan",
+  "kern": {
+    "zin": "De rechter vond het bezwaar op tijd, omdat de gemeente niet kon aantonen dat de aanslag al was verstuurd; de aanslag bleef wel staan.",
+    "bron": [
+      26,
+      36
+    ],
+    "citaat": "De heffingsambtenaar heeft naar het oordeel van de rechtbank niet aannemelijk gemaakt"
+  },
+  "samenvatting": [
+    {
+      "zin": "Tijdens een controle op 1 juli 2023 bleek dat voor de geparkeerde auto geen parkeerbelasting was betaald.",
+      "bron": [
+        16
+      ],
+      "citaat": "Tijdens een controle op voornoemde datum en tijd is door parkeercontroleurs geconstateerd dat geen parkeerbelasting was voldaan."
+    },
+    {
+      "zin": "De gemeente legde een naheffingsaanslag op van 54,77 euro.",
+      "bron": [
+        17
+      ],
+      "citaat": "een naheffingsaanslag parkeerbelasting opgelegd van € 54,77"
+    },
+    {
+      "zin": "De parkeerder zei de aanslag niet te hebben ontvangen en pas later bezwaar te hebben gemaakt.",
+      "bron": [
+        24
+      ],
+      "citaat": "Belanghebbende stelt de naheffingsaanslag echter niet ontvangen te hebben."
+    },
+    {
+      "zin": "De gemeente wees op een systeemuitdraai als bewijs dat de aanslag al op 3 juli 2023 was verstuurd.",
+      "bron": [
+        25
+      ],
+      "citaat": "uit de systeemuitdraai blijkt dat de naheffingsaanslag op 3 juli 2023 is verzonden"
+    },
+    {
+      "zin": "De rechter vond dat de gemeente niet kon aantonen dat de aanslag was verstuurd, dus het bezwaar was tijdig.",
+      "bron": [
+        26
+      ],
+      "citaat": "De heffingsambtenaar heeft naar het oordeel van de rechtbank niet aannemelijk gemaakt"
+    },
+    {
+      "zin": "De rechter oordeelde dat de aanslag terecht bleef, omdat voor het eerste kwartier niet was betaald.",
+      "bron": [
+        34
+      ],
+      "citaat": "De naheffingsaanslag is daarom terecht opgelegd."
+    }
+  ],
+  "uitkomst": "alleen procedure",
+  "uitkomst_toelichting": "Bezwaar was wel tijdig; aanslag blijft staan, alleen griffierecht terug",
+  "gevolg_betrokkene": {
+    "zin": "De aanslag blijft staan; de gemeente betaalt wel het griffierecht van 50 euro terug, en proceskosten krijgt de parkeerder niet.",
+    "bron": [
+      43,
+      42,
+      37
+    ],
+    "citaat": "bepaalt dat de heffingsambtenaar het griffierecht van € 50 aan belanghebbende moet vergoeden"
+  },
+  "steunt": "gemeente",
+  "bezwaargronden": [
+    {
+      "arg": "overig",
+      "burger_zegt": "De aanslag was niet ontvangen, dus het bezwaar kwam niet te laat.",
+      "oordeel": "gehonoreerd",
+      "waarom": {
+        "zin": "De rechter vond het bezwaar tijdig, omdat de gemeente niet aannemelijk maakte dat de aanslag al was verstuurd.",
+        "bron": [
+          26
+        ],
+        "citaat": "Het bezwaarschrift is dus tijdig ingediend."
+      },
+      "bruikbare_zin": {
+        "citaat": "Het ligt op de weg van de heffingsambtenaar om de verzending van de naheffingsaanslag aannemelijk te maken.",
+        "bron": [
+          24
+        ]
+      }
+    },
+    {
+      "arg": "wel-betaald-fout-zone-kenteken",
+      "burger_zegt": "Via de parkeerapp was wel betaald.",
+      "oordeel": "verworpen",
+      "waarom": {
+        "zin": "De rechter vond dat de parkeerder voor de verkeerde zone had betaald, en dat daarom te weinig is betaald.",
+        "bron": [
+          34
+        ],
+        "citaat": "Belanghebbende heeft niet voldoende parkeerbelasting betaald omdat niet betaald is voor het eerste kwartier."
+      },
+      "bruikbare_zin": {
+        "citaat": "Belanghebbende betwist echter niet dat het voertuig was aangemeld voor de verkeerde zone.",
+        "bron": [
+          33
+        ]
+      }
+    }
+  ],
+  "rechtsregel": {
+    "zin": "De gemeente moet zelf aantonen dat een naheffingsaanslag is verstuurd.",
+    "type": "regel",
+    "reikwijdte": "wanneer de gemeente de verzending van een naheffingsaanslag moet aantonen",
+    "uitzondering": null,
+    "herkomst": "oordeel rechter",
+    "bron": [
+      24
+    ],
+    "citaat": "Het ligt op de weg van de heffingsambtenaar om de verzending van de naheffingsaanslag aannemelijk te maken."
+  },
+  "bewijs": {
+    "bewijslast_bij": "wederpartij",
+    "bewijsmiddelen": [
+      "systeemuitdraai",
+      "aanmaning",
+      "schermafdruk van de parkeerapp"
+    ],
+    "wat_gaf_doorslag": {
+      "zin": "De systeemuitdraai bevatte geen verzendadministratie, dus de verzending was niet aangetoond.",
+      "bron": [
+        26
+      ],
+      "citaat": "De systeemuitdraai bevat geen verzendadministratie"
+    }
+  },
+  "toepasselijkheid": "lokale verordening",
+  "lijn": {
+    "soort": "onbekend",
+    "eerdere": []
+  },
+  "wetsartikelen": [
+    "art. 225 lid 2 Gemeentewet",
+    "art. 1 onder a Verordening op de heffing en invordering van parkeerbelastingen 2023",
+    "art. 8:72 lid 3 onder a Awb"
+  ],
+  "actie_gemeente": [
+    {
+      "actie": "Bewaar bij een naheffingsaanslag een verzendadministratie, zodat u de verzending kunt aantonen.",
+      "raakt": "bezwaar",
+      "bron": [
+        26
+      ],
+      "citaat": "De systeemuitdraai bevat geen verzendadministratie"
+    }
+  ],
+  "reden_leeg_actie": null,
+  "raakt": [
+    "bezwaar",
+    "betaalapp"
+  ],
+  "klantuitleg": "Een rekening voor parkeren is terecht als u niet of te weinig hebt betaald, ook als u met een app betaalde voor een andere zone. Hebt u de rekening niet ontvangen, bewaar dan alles wat dat laat zien. De gemeente moet dan zelf kunnen aantonen dat de rekening wel is verstuurd.",
+  "gemeente": "Tilburg",
+  "reden_gemeente_leeg": null,
+  "dubbel_van": null,
+  "zekerheid": "middel"
+}

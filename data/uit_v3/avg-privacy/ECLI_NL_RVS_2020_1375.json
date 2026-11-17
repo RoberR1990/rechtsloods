@@ -1,0 +1,172 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2020:1375",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "beperking-bezwaar",
+ "kenmerk": null,
+ "zaaktype": "overig",
+ "partijen": {
+  "burger": "huurder",
+  "wederpartij": "minister van Financiën (Belastingdienst)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een huurder ging tegen de minister van Financiën in hoger beroep, nadat de Belastingdienst inkomensverklaringen aan zijn verhuurder had gegeven. Het ging bij de Raad van State om zijn verzet tegen die verstrekking en om een toegekende schadevergoeding.",
+ "titel": "Verzet tegen gebruik van gegevens faalt zonder persoonlijke omstandigheden",
+ "kern": {
+  "zin": "De rechter wijst het verzet af en vernietigt de schadevergoeding van € 554,10: schade kan hier alleen bij de gewone rechter worden gevraagd.",
+  "bron": [
+   45
+  ],
+  "citaat": "uitsluitend een vordering bij de burgerlijke rechter kan instellen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De Belastingdienst gaf op verzoek van een woningcorporatie verklaringen over het huishoudinkomen van de bewoners af, waarna de huur werd verhoogd.",
+   "bron": [
+    27
+   ],
+   "citaat": "op verzoek van woningcorporatie De Alliantie, verklaringen over het huishoudinkomen van de bewoners"
+  },
+  {
+   "zin": "De burger tekende verzet aan tegen die verstrekking, omdat hij vond dat de Belastingdienst zijn geheimhoudingsplicht schond.",
+   "bron": [
+    27
+   ],
+   "citaat": "Hij acht die verstrekkingen in strijd met de geheimhoudingsplicht"
+  },
+  {
+   "zin": "De minister wees het verzet af, omdat de verwerking al was afgerond en verzet dus niet meer zinvol was.",
+   "bron": [
+    28
+   ],
+   "citaat": "omdat de verwerkingen over de jaren 2013, 2014 en 2015 waren afgerond"
+  },
+  {
+   "zin": "De rechter vond het verzet ongegrond, maar om een andere reden: de burger noemde geen bijzondere persoonlijke omstandigheden, alleen dat de verwerking onrechtmatig was.",
+   "bron": [
+    33
+   ],
+   "citaat": "of degene die verzet doet zodanige bijzondere persoonlijke omstandigheden aan zijn verzet ten grondslag heeft gelegd"
+  },
+  {
+   "zin": "De rechtbank had de minister € 554,10 schadevergoeding laten betalen, maar dat was ten onrechte.",
+   "bron": [
+    45
+   ],
+   "citaat": "De rechtbank heeft de minister derhalve ten onrechte veroordeeld tot vergoeding van de schade"
+  },
+  {
+   "zin": "Voor schade kan de burger alleen naar de gewone (burgerlijke) rechter.",
+   "bron": [
+    45
+   ],
+   "citaat": "uitsluitend een vordering bij de burgerlijke rechter kan instellen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Verzet ongegrond; toegekende schade van € 554,10 vervalt; alleen gewone rechter",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt de € 554,10 schadevergoeding niet, ook de vergoeding van griffierecht en proceskosten uit de eerdere uitspraak vervalt, en voor zijn schade kan hij alleen naar de gewone rechter.",
+  "bron": [
+   45,
+   47,
+   48
+  ],
+  "citaat": "uitsluitend een vordering bij de burgerlijke rechter kan instellen"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Mijn verzet kon niet worden afgewezen omdat de verwerking al klaar was; verzet kan altijd en was nog zinvol.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het verzet slaagt niet, omdat de burger alleen zei dat de verwerking onrechtmatig was en geen bijzondere persoonlijke omstandigheden noemde.",
+    "bron": [
+     33
+    ],
+    "citaat": "het betoog dat de minister de gegevens onrechtmatig verwerkt heeft geen betrekking heeft op persoonlijke omstandigheden"
+   },
+   "bruikbare_zin": {
+    "citaat": "zodanige bijzondere persoonlijke omstandigheden aan zijn verzet ten grondslag heeft gelegd dat een rechtmatige gegevensverwerking daarom beëindigd moet worden",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Mijn brief had ook als verzoek om mijn gegevens te verbeteren of te verwijderen moeten worden behandeld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De brief noemde zichzelf bezwaar of verzet en bevatte geen verzoek om gegevens te verbeteren of te verwijderen.",
+    "bron": [
+     35
+    ],
+    "citaat": "bevat deze brief geen verzoek aan de minister om persoonsgegevens"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Ik heb schade door de onrechtmatige verstrekking van mijn inkomensgegevens.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De bestuursrechter kan de minister hier niet tot schadevergoeding veroordelen; de burger moet naar de gewone rechter.",
+    "bron": [
+     45
+    ],
+    "citaat": "de bestuursrechter niet de mogelijkheid biedt de minister in dit geval tot schadevergoeding te veroordelen"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Verzet tegen een verwerking is alleen gerechtvaardigd als de burger bijzondere persoonlijke omstandigheden noemt; zeggen dat de verwerking onrechtmatig is, is daarvoor niet genoeg.",
+  "type": "regel",
+  "reikwijdte": "Verzet op grond van art. 40 Wbp tegen verwerking op grond van art. 8 onder e of f Wbp (oude recht, voor de AVG).",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   33
+  ],
+  "citaat": "of degene die verzet doet zodanige bijzondere persoonlijke omstandigheden aan zijn verzet ten grondslag heeft gelegd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De burger noemde alleen onrechtmatigheid en geen bijzondere persoonlijke omstandigheden."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2019:4270",
+   "ECLI:NL:RVS:2019:4443",
+   "ECLI:NL:RVS:2018:2751",
+   "ECLI:NL:RVS:2016:253"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 40 Wbp",
+  "art. 36 Wbp",
+  "art. 8 onder e en f Wbp",
+  "art. 8:73 Awb (oud)",
+  "art. 8:88 Awb",
+  "art. 67 Awr",
+  "art. IV en V Wns"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; Rijk en oude privacywet, niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een organisatie hoeft het gebruik van uw gegevens niet te stoppen alleen omdat u zegt dat het niet mocht. Volgens de oude privacywet moet u bij verzet (bezwaar tegen het gebruik van uw gegevens) bijzondere omstandigheden noemen die met uzelf te maken hebben. Wilt u schade vergoed krijgen voor gegevens van de Belastingdienst, dan moet u naar de gewone rechter.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij (minister van Financiën)",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

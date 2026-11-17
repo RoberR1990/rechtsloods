@@ -1,0 +1,157 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2018:2435",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De gemeente Rotterdam stopte in 2012 met het bijhouden van de persoonslijst van een inwoner in de basisregistratie (Brp). De man vroeg later om herstel en stapte naar de rechter; de Raad van State oordeelt nu in hoger beroep.",
+ "titel": "Geen herstel basisregistratie zonder nieuwe feiten",
+ "kern": {
+  "zin": "De hoogste rechter vindt dat de gemeente het verzoek om herstel van de registratie mocht afwijzen, omdat er geen nieuwe feiten zijn.",
+  "bron": [
+   25
+  ],
+  "citaat": "Voor het oordeel dat het college opnieuw onderzoek had moeten verrichten naar de feitelijke verblijfplaats van [appellant] bestaat geen grond."
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente stopte in 2012 met het bijhouden van de persoonslijst van de man in de basisregistratie.",
+   "bron": [
+    19
+   ],
+   "citaat": "het bijhouden van de persoonslijst van [appellant] op grond van de Wet gemeentelijke basisadministratie persoonsgegevens"
+  },
+  {
+   "zin": "In 2016 vroeg de man om zijn registratie te herstellen, omdat hij nooit uit Nederland zou zijn vertrokken.",
+   "bron": [
+    19
+   ],
+   "citaat": "Bij brief van 24 oktober 2016 heeft [appellant] het college verzocht om zijn registratie in de Brp te herstellen"
+  },
+  {
+   "zin": "De gemeente zei dat er geen nieuwe feiten of omstandigheden waren om op het oude besluit terug te komen.",
+   "bron": [
+    20
+   ],
+   "citaat": "dat niet is gebleken van nieuwe feiten of omstandigheden"
+  },
+  {
+   "zin": "De rechtbank en de Raad van State vonden dat de gemeente het verzoek daarom mocht afwijzen.",
+   "bron": [
+    25
+   ],
+   "citaat": "De rechtbank heeft terecht overwogen dat het verzoek van [appellant] een verzoek is om terug te komen op het besluit van 6 december 2012."
+  },
+  {
+   "zin": "De man krijgt geen vergoeding van zijn kosten.",
+   "bron": [
+    28
+   ],
+   "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De gemeente mocht het herhaalde verzoek afwijzen.",
+ "gevolg_betrokkene": {
+  "zin": "De man staat sinds 9 december 2016 weer in de basisregistratie, maar hij krijgt geen vergoeding van zijn kosten in deze zaak.",
+  "bron": [
+   21
+  ],
+  "citaat": "is gebleken dat [appellant] sinds 9 december 2016 in de Brp is geregistreerd"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "De gemeente had opnieuw onderzoek moeten doen naar waar hij echt verbleef.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente had dat onderzoek al voor het besluit van 2012 gedaan en had daarna nog in de systemen gezocht.",
+    "bron": [
+     25
+    ],
+    "citaat": "Het college heeft dat onderzoek reeds voor het besluit van 6 december 2012 verricht"
+   },
+   "bruikbare_zin": {
+    "citaat": "in de computersystemen te hebben gezocht naar een ander adres van [appellant], maar dat geen ander adres bekend was",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij heeft de brief van 29 oktober 2012 nooit ontvangen, dus de gemeente mocht niet afwijzen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De brief ging naar het adres waar hij toen stond ingeschreven; dat hij daar niet meer woonde komt voor zijn eigen risico.",
+    "bron": [
+     25
+    ],
+    "citaat": "Dat hij die brief niet heeft ontvangen, omdat hij op dat adres niet meer verbleef, komt voor zijn rekening en risico."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het college heeft die brief gestuurd naar het adres waarop [appellant] op dat moment stond ingeschreven in de Brp.",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als iemand vraagt om terug te komen op een eerder besluit, mag de gemeente dat afwijzen onder verwijzing naar dat eerdere besluit als er geen nieuwe feiten of omstandigheden zijn.",
+  "type": "regel",
+  "reikwijdte": "verzoeken om terug te komen op een besluit dat al definitief is",
+  "uitzondering": "tenzij de afwijzing evident onredelijk is",
+  "herkomst": "wet",
+  "bron": [
+   24
+  ],
+  "citaat": "als er geen nieuw gebleken feiten of veranderde omstandigheden zijn, de herhaalde aanvraag af te wijzen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "brief van 29 oktober 2012",
+   "beschikking van de Immigratie- en Naturalisatiedienst van 18 oktober 2016"
+  ],
+  "wat_gaf_doorslag": "De gemeente had in de systemen gezocht en vond geen ander adres van de man."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 4:6 lid 2 Awb",
+  "Wet basisregistratie personen",
+  "Wet gemeentelijke basisadministratie persoonsgegevens"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg vast dat je in de systemen hebt gezocht naar een ander adres en dat er geen ander adres bekend was.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    25
+   ],
+   "citaat": "in de computersystemen te hebben gezocht naar een ander adres van [appellant], maar dat geen ander adres bekend was"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp"
+ ],
+ "klantuitleg": "Als u het niet eens bent met wat de gemeente over u in de basisregistratie heeft opgenomen, kunt u om herstel vragen. Maar is daar al eerder definitief over beslist, dan moet u nieuwe feiten laten zien. Zonder nieuwe feiten wijst de gemeente uw verzoek af en krijgt u geen vergoeding van kosten.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

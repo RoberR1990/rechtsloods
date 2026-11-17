@@ -1,0 +1,190 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2022:508",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Delft",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg in Delft een naheffingsaanslag (een rekening achteraf) omdat hij zonder vergunning in een vergunninggebied stond. Hij ging in hoger beroep bij het gerechtshof Den Haag tegen de gemeente Delft.",
+ "titel": "Rekening achteraf voor parkeren zonder vergunning in Delft terecht",
+ "kern": {
+  "zin": "Het hof vond de rekening achteraf terecht: de gemeente rekende één uur en het tarief van € 30 is op dit woonerf niet onredelijk.",
+  "bron": [
+   36
+  ],
+  "citaat": "is een tarief van € 30 per dag of een gedeelte hiervan op zichzelf bezien geoorloofd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder parkeerde op 6 maart 2020 in een straat in Delft en meldde zijn parkeeractie aan via Yellowbrick.",
+   "bron": [
+    18
+   ],
+   "citaat": "Belanghebbende heeft zijn parkeeractie aangemeld via Yellowbrick voor zonenummer"
+  },
+  {
+   "zin": "Bij een scancontrole bleek dat er geen geldige vergunning of dagvergunning was, daarom kreeg hij de naheffingsaanslag.",
+   "bron": [
+    19
+   ],
+   "citaat": "geen sprake was van parkeren met een geldige parkeervergunning of dagparkeervergunning"
+  },
+  {
+   "zin": "De parkeerder vond dat de gemeente een uurtarief had moeten rekenen in plaats van een dagtarief en dat er een parkeerverbod gold.",
+   "bron": [
+    32
+   ],
+   "citaat": "omdat door de Heffingsambtenaar een dagtarief, in plaats van een uurtarief, in rekening is gebracht"
+  },
+  {
+   "zin": "De gemeente vond dat de aanslag klopte en dat het tarief redelijk was.",
+   "bron": [
+    27
+   ],
+   "citaat": "De Heffingsambtenaar beantwoordt de eerste vraag ontkennend en de tweede bevestigend"
+  },
+  {
+   "zin": "Het hof zei dat er geen absoluut parkeerverbod gold, omdat parkeren met een (dag)vergunning was toegestaan.",
+   "bron": [
+    34
+   ],
+   "citaat": "Er geldt immers ter plaatse geen absoluut parkeerverbod, op basis waarvan parkeren onder alle omstandigheden is verboden"
+  },
+  {
+   "zin": "Het hof zag dat de aanslag over één uur was berekend en dat dit mocht.",
+   "bron": [
+    36
+   ],
+   "citaat": "Aangezien de naheffingsaanslag is opgelegd naar het tarief voor een uur parkeren"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Aanslag blijft staan; hoger beroep ongegrond, geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffingsaanslag blijft staan en de gemeente hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   37,
+   40
+  ],
+  "citaat": "de naheffingsaanslag terecht en naar het juiste bedrag aan belanghebbende heeft opgelegd"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Een tarief van € 30 voor één uur parkeren is niet redelijk.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof vond het tarief op dit woonerf niet onredelijk of willekeurig, omdat de ruimte voor bewoners en hun bezoekers beschikbaar moet blijven.",
+    "bron": [
+     36
+    ],
+    "citaat": "Onder deze omstandigheden kan dit tarief niet worden gekenschetst als onredelijk of willekeurig"
+   },
+   "bruikbare_zin": {
+    "citaat": "Onder deze omstandigheden kan dit tarief niet worden gekenschetst als onredelijk of willekeurig",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente mag geen dagtarief naheffen, want de wet zegt dat het een uurtarief moet zijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De aanslag was berekend over één uur, en dat is wat de wet voorschrijft.",
+    "bron": [
+     36
+    ],
+    "citaat": "Aangezien de naheffingsaanslag is opgelegd naar het tarief voor een uur parkeren"
+   },
+   "bruikbare_zin": {
+    "citaat": "Gelet op artikel 234, lid 3, van de Gemeentewet wordt een naheffingsaanslag berekend over een parkeerduur van een uur",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er gold een parkeerverbod, dus er kon geen parkeerbelasting worden geheven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Parkeren was toegestaan met een (dag)vergunning, dus er gold geen absoluut verbod.",
+    "bron": [
+     34
+    ],
+    "citaat": "Parkeren is toegestaan met een (dag)vergunning, en belanghebbende had zich deze tegen betaling kunnen aanschaffen"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een naheffingsaanslag wordt berekend over een parkeerduur van een uur, tenzij aannemelijk is dat de auto langer dan een uur zonder betaling stond.",
+  "type": "regel",
+  "reikwijdte": "Naheffingsaanslagen parkeerbelasting op grond van art. 234 lid 3 Gemeentewet.",
+  "uitzondering": "Is aannemelijk dat de auto langer dan een uur zonder betaling stond, dan mag over die langere duur worden nageheven.",
+  "herkomst": "wet",
+  "bron": [
+   36
+  ],
+  "citaat": "wordt een naheffingsaanslag berekend over een parkeerduur van een uur, tenzij aannemelijk is dat"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "scancontrole"
+  ],
+  "wat_gaf_doorslag": "Partijen waren het eens dat de parkeerplek voldoende kenbaar was; de vraag ging alleen over tarief en parkeerverbod."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 234 lid 3 Gemeentewet",
+  "art. 225 lid 2 Gemeentewet",
+  "Parkeerverordening Delft 2019",
+  "Tarieventabel Verordening parkeerregulering en parkeerbelasting Delft 2019",
+  "Aanwijzingsbesluit betaald parkeren Delft 2019"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Onderbouw een hoog tarief in een vergunninggebied met de schaarse parkeerruimte voor bewoners en hun bezoekers.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    36
+   ],
+   "citaat": "de parkeerruimte op dit woonerf beschikbaar wil houden voor de bewoners en hun bezoekers"
+  },
+  {
+   "actie": "Bereken de naheffing over één uur, tenzij u kunt aantonen dat de auto langer dan een uur zonder betaling stond.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    36
+   ],
+   "citaat": "Aangezien de naheffingsaanslag is opgelegd naar het tarief voor een uur parkeren"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "verordening-beleid",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "In een straat voor vergunninghouders mag de gemeente een hoog tarief vragen als u zonder vergunning parkeert. De rekening achteraf wordt dan over één uur berekend. Bezwaar alleen tegen het hoge bedrag heeft weinig kans; bewijs dat u wel een vergunning had, helpt wel.",
+ "gemeente": "Delft",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

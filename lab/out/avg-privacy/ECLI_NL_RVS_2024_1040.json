@@ -1,0 +1,207 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2024:1040",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "zoekslag",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "moeder",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een moeder uit Den Haag vroeg de gemeente om inzage in alle documenten met gegevens van haar kinderen. Zij ging in hoger beroep bij de Raad van State, omdat zij vond dat zij niet alles had gekregen.",
+ "titel": "Gemeente vernietigde mailboxen onrechtmatig bij inzageverzoek",
+ "kern": {
+  "zin": "De gemeente heeft mailboxen verwijderd die zij had moeten bewaren; dat is onrechtmatig, maar de gegevens komen niet terug.",
+  "bron": [
+   53
+  ],
+  "citaat": "de mailboxen niet hadden mogen worden vernietigd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De vrouw vroeg de gemeente Den Haag om inzage in alle documenten met gegevens van haar kinderen.",
+   "bron": [
+    24
+   ],
+   "citaat": "inzage in alle documentatie waarin persoonsgegevens van haar kinderen zijn verwerkt"
+  },
+  {
+   "zin": "Zij vindt dat de gemeente meer documenten heeft dan zij heeft gekregen.",
+   "bron": [
+    24
+   ],
+   "citaat": "beschikt het college over meer documenten dan waarvan zij inzage heeft gehad"
+  },
+  {
+   "zin": "De gemeente heeft op de zitting uitgelegd hoe zij heeft gezocht.",
+   "bron": [
+    43
+   ],
+   "citaat": "Het college heeft op de zitting nader toegelicht hoe de zoekslag precies heeft plaatsgevonden"
+  },
+  {
+   "zin": "De rechter vindt dat de vrouw niet aannemelijk heeft gemaakt dat er meer stukken zijn.",
+   "bron": [
+    44
+   ],
+   "citaat": "niet aannemelijk gemaakt dat er, in tegenstelling tot de uitkomsten van het onderzoek van het college"
+  },
+  {
+   "zin": "Maar de gemeente heeft wel mailboxen verwijderd die zij had moeten bewaren.",
+   "bron": [
+    53
+   ],
+   "citaat": "de mailboxen niet hadden mogen worden vernietigd"
+  },
+  {
+   "zin": "De gegevens komen niet terug, en de gemeente moet de kosten van het hoger beroep (€ 1.750) en het griffierecht (€ 274) betalen.",
+   "bron": [
+    65
+   ],
+   "citaat": "proceskosten tot een bedrag van € 1.750,00"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Gelijk op de verwijderde mailboxen, maar de gegevens komen niet terug.",
+ "gevolg_betrokkene": {
+  "zin": "Zij krijgt geen extra documenten, maar de gemeente moet haar proceskosten van € 1.750 en het griffierecht van € 274 betalen.",
+  "bron": [
+   65,
+   66
+  ],
+  "citaat": "proceskosten tot een bedrag van € 1.750,00"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Ik heb niet alle documenten gekregen; de gemeente heeft meer stukken over mijn kinderen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de vrouw niet aannemelijk heeft gemaakt dat de gemeente meer documenten heeft dan zij al had gekregen.",
+    "bron": [
+     44
+    ],
+    "citaat": "niet aannemelijk gemaakt dat er, in tegenstelling tot de uitkomsten van het onderzoek van het college"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet aannemelijk gemaakt dat er, in tegenstelling tot de uitkomsten van het onderzoek van het college",
+    "bron": [
+     44
+    ]
+   }
+  },
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "De gemeente heeft niet laten zien hoe zij heeft gezocht, dus ik kan niet controleren of zij wel genoeg heeft gedaan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente heeft op de zitting uitgelegd hoe zij heeft gezocht, en de rechter vindt dat voldoende.",
+    "bron": [
+     44
+    ],
+    "citaat": "De Afdeling acht voldoende aannemelijk dat het college inzage heeft gegeven in de nog beschikbare documenten"
+   },
+   "bruikbare_zin": {
+    "citaat": "De Afdeling acht voldoende aannemelijk dat het college inzage heeft gegeven in de nog beschikbare documenten",
+    "bron": [
+     44
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De persoonlijke mailboxen van de jeugdregisseurs zijn verwijderd, terwijl daar gegevens van mijn kinderen in kunnen hebben gestaan.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente heeft zelf gezegd dat de mailboxen niet verwijderd mochten worden. Daarom is het besluit op dit punt onrechtmatig.",
+    "bron": [
+     53
+    ],
+    "citaat": "de mailboxen niet hadden mogen worden vernietigd"
+   },
+   "bruikbare_zin": {
+    "citaat": "de mailboxen niet hadden mogen worden vernietigd",
+    "bron": [
+     53
+    ]
+   }
+  },
+  {
+   "arg": "motivering",
+   "burger_zegt": "De gemeente gaf geen uitleg waarom e-mails over intern overleg niet werden gegeven.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "Die stukken zijn later alsnog gestuurd, dus deze vraag hoeft niet meer beantwoord te worden.",
+    "bron": [
+     48
+    ],
+    "citaat": "Nu vaststaat dat de stukken ten behoeve van het intern overleg wel zijn toegezonden"
+   },
+   "bruikbare_zin": {
+    "citaat": "Nu vaststaat dat de stukken ten behoeve van het intern overleg wel zijn toegezonden",
+    "bron": [
+     48
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de gemeente zegt dat een document er niet (meer) is en dat is geloofwaardig, moet de burger aannemelijk maken dat het document er toch is.",
+  "type": "regel",
+  "reikwijdte": "Inzageverzoeken waarbij het bestuursorgaan zegt dat een bepaald document niet of niet meer aanwezig is.",
+  "uitzondering": "Als de mededeling van de gemeente niet geloofwaardig is, geldt deze verdeling niet.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   33
+  ],
+  "citaat": "stelt dat na onderzoek is gebleken dat een bepaald document niet of niet meer onder hem berust"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "e-mails uit 2017 en 2018",
+   "toelichting van de gemeente op de zitting"
+  ],
+  "wat_gaf_doorslag": "De toelichting van de gemeente op de zitting over de zoekslag en over de verwijderde mailboxen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2021:452",
+   "ECLI:NL:RVS:2009:BJ8916",
+   "ECLI:NL:RVS:2020:1342"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 15 AVG",
+  "art. 3:46 Awb",
+  "art. 8:72, derde lid, Awb",
+  "Archiefwet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Verwijder persoonlijke mailboxen van medewerkers die weggaan niet zolang niet is gecheckt of er persoonsgegevens in staan.",
+   "raakt": "ict-informatiebeveiliging",
+   "bron": [
+    53
+   ],
+   "citaat": "de mailboxen niet hadden mogen worden vernietigd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "ict-informatiebeveiliging"
+ ],
+ "klantuitleg": "Als u inzage vraagt in uw gegevens, moet de gemeente goed zoeken in haar systemen. U moet zelf aannemelijk maken dat er nog stukken zijn die u niet heeft gekregen, dus zeg zo concreet mogelijk welke stukken u mist en waarom u denkt dat ze bestaan. Zijn mailboxen van medewerkers verwijderd terwijl daar gegevens in stonden, dan is dat onrechtmatig, maar gegevens die niet meer terug te halen zijn hoeft de gemeente niet opnieuw te geven.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

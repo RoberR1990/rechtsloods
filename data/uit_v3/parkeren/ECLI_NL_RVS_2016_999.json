@@ -1,0 +1,203 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "dubbel_van": null,
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": null,
+ "kenmerk": null,
+ "ecli": "ECLI:NL:RVS:2016:999",
+ "onderwerp": "vergunningen",
+ "sub": "bedrijfsvergunning",
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een holding in Amsterdam ging in hoger beroep tegen de gemeente Amsterdam, die haar bedrijfsparkeervergunning had ingetrokken. De Raad van State (de hoogste bestuursrechter) besliste.",
+ "titel": "Twee verbonden bedrijven krijgen samen één bedrijfsparkeervergunning",
+ "kern": {
+  "zin": "De holding en het andere bedrijf zijn in wezen één bedrijf, dus de gemeente mocht de vergunning intrekken.",
+  "bron": [
+   33
+  ],
+  "citaat": "De voorzieningenrechter is het college terecht gevolgd in zijn standpunt dat beide bedrijven in wezen één bedrijf zijn"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente trok de vergunning van de holding in, omdat de holding en een ander bedrijf in wezen één bedrijf zijn.",
+   "bron": [
+    18
+   ],
+   "citaat": "Beide bedrijven zijn gevestigd in aaneengesloten bebouwing en zijn in wezen één bedrijf"
+  },
+  {
+   "zin": "De holding zei dat hetzelfde belastingconsulentennummer alleen laat zien dat dezelfde consulent hun belastingzaken doet.",
+   "bron": [
+    31
+   ],
+   "citaat": "bewijst slechts dat hun belastingzaken door dezelfde belastingconsulent worden gedaan"
+  },
+  {
+   "zin": "De gemeente zei dat bedrijven in aaneengesloten bebouwing als één bedrijf gelden en dat zij ook naar de juridische constructie kijkt.",
+   "bron": [
+    32
+   ],
+   "citaat": "bedrijven worden beschouwd als één bedrijf, indien gevestigd in aaneengesloten bebouwing"
+  },
+  {
+   "zin": "De rechter vond het belangrijk dat de holding bestuurder en enig aandeelhouder van het andere bedrijf is.",
+   "bron": [
+    33
+   ],
+   "citaat": "de holding niet heeft bestreden dat zij bestuurder is"
+  },
+  {
+   "zin": "Het vertrouwen op jarenlange verlenging hielp niet, want stilzwijgende verlenging geeft geen zekerheid voor de toekomst.",
+   "bron": [
+    35
+   ],
+   "citaat": "niet op kon vertrouwen ook in de toekomst steeds over de aan haar verleende bedrijfsparkeervergunning"
+  },
+  {
+   "zin": "Ook de hardheidsclausule (een uitzondering voor heel ernstige gevallen) werd niet toegepast.",
+   "bron": [
+    40
+   ],
+   "citaat": "het de hardheidsclausule uitsluitend toepast in schrijnende gevallen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Het hoger beroep van het bedrijf faalt; de intrekking blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De vergunning van de holding blijft ingetrokken; samen met het andere bedrijf is er recht op één vergunning, en er komt geen proceskostenvergoeding.",
+  "bron": [
+   42,
+   43
+  ],
+  "citaat": "Het hoger beroep is ongegrond"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De twee bedrijven zijn niet één bedrijf.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Gebruik van hetzelfde belastingconsulentennummer is een belangrijke aanwijzing dat de bedrijven verweven zijn.",
+    "bron": [
+     33
+    ],
+    "citaat": "Het gebruik van hetzelfde belastingconsulentennummer is derhalve een belangrijke aanwijzing"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het gebruik van hetzelfde belastingconsulentennummer is derhalve een belangrijke aanwijzing voor de verwevenheid van de beide bedrijven",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De holding mocht erop vertrouwen dat de vergunning bleef, omdat deze jarenlang werd verlengd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Stilzwijgende verlengingen geven geen recht om te vertrouwen op voortzetting.",
+    "bron": [
+     35
+    ],
+    "citaat": "niet op kon vertrouwen ook in de toekomst steeds over de aan haar verleende bedrijfsparkeervergunning"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er geldt overgangsrecht, dus de hardheidsclausule moet worden toegepast.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De holding onderbouwde niet dat overgangsrecht van toepassing is.",
+    "bron": [
+     37
+    ],
+    "citaat": "geen grond bestaat voor toepassing van de hardheidsclausule"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De hogere parkeerkosten en de leeftijd en gezondheid van de directeur vragen om toepassing van de hardheidsclausule.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente past de hardheidsclausule alleen toe in schrijnende gevallen en zo'n geval was er niet.",
+    "bron": [
+     40
+    ],
+    "citaat": "het de hardheidsclausule uitsluitend toepast in schrijnende gevallen"
+   },
+   "bruikbare_zin": {
+    "citaat": "het de hardheidsclausule uitsluitend toepast in schrijnende gevallen",
+    "bron": [
+     40
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bedrijven in aaneengesloten bebouwing, waarvan de een bestuurder is van de ander, kunnen als één bedrijf gelden.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Bedrijven in aaneengesloten bebouwing waarbij de holding bestuurder en enig aandeelhouder van het andere bedrijf is",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   33
+  ],
+  "citaat": "de holding niet heeft bestreden dat zij bestuurder is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "uittreksel Kamer van Koophandel",
+   "gelijk belastingconsulentennummer"
+  ],
+  "wat_gaf_doorslag": "De holding is bestuurder en enig aandeelhouder van het andere bedrijf."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 1 aanhef en onder b Parkeerverordening 2013 Amsterdam",
+  "art. 27 lid 2 en 6 Parkeerverordening 2013 Amsterdam",
+  "art. 37 lid 1 onder c Parkeerverordening 2013 Amsterdam",
+  "art. 40 Parkeerverordening 2013 Amsterdam",
+  "art. 10 lid 1 onder a Uitwerkingsbesluit Parkeren stadsdeel Zuid 2014"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij het intrekken vast welke feiten laten zien dat bedrijven één bedrijf zijn, zoals bestuurder, aandeelhouder en een gedeeld consulentennummer.",
+   "raakt": "vergunningen",
+   "bron": [
+    33
+   ],
+   "citaat": "blijkens een uittreksel van de Kamer van Koophandel enig aandeelhouder van"
+  },
+  {
+   "actie": "Pas de hardheidsclausule alleen toe in heel ernstige gevallen en leg die lijn met de schaarste aan parkeerplaatsen schriftelijk vast.",
+   "raakt": "verordening-beleid",
+   "bron": [
+    40
+   ],
+   "citaat": "het de hardheidsclausule uitsluitend toepast in schrijnende gevallen"
+  }
+ ],
+ "raakt": [
+  "vergunningen",
+  "verordening-beleid",
+  "bezwaar"
+ ],
+ "klantuitleg": "Hoort uw bedrijf bij een ander bedrijf, bijvoorbeeld door dezelfde bestuurder of aandeelhouder? Dan kan de gemeente die bedrijven samen als één bedrijf zien en krijgt u samen maar het aantal vergunningen waar één bedrijf recht op heeft. Bezwaar heeft weinig kans, tenzij u kunt laten zien dat de bedrijven echt gescheiden zijn.",
+ "gemeente": "Amsterdam",
+ "zekerheid": "hoog"
+}

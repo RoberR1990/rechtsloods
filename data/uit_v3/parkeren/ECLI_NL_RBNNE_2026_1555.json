@@ -1,0 +1,161 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2026:1555",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een Wahv-boete (een boete voor kleine verkeersovertredingen) van 119 euro voor parkeren in een parkeerverbodszone in Groningen. Hij ging bij de kantonrechter van de rechtbank Noord-Nederland in beroep tegen de officier van justitie.",
+ "titel": "Boete parkeerverbodszone vernietigd: zonebord op route niet bewezen",
+ "kern": {
+  "zin": "De kantonrechter vernietigde de boete, omdat niet met zekerheid vaststond dat er op de gereden route een zonebord stond.",
+  "bron": [
+   26
+  ],
+  "citaat": "Daarom kan niet met zekerheid worden vastgesteld dat"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 20 januari 2024 kreeg de parkeerder een boete van 119 euro voor parkeren in een parkeerverbodszone in Groningen.",
+   "bron": [
+    10
+   ],
+   "citaat": "De opgelegde boete bedraagt € 119,00 (inclusief administratiekosten)"
+  },
+  {
+   "zin": "Zijn gemachtigde zei dat er geen E1-bord met zonale werking was gepasseerd.",
+   "bron": [
+    17
+   ],
+   "citaat": "geen E1-bebording met zonale werking is gepasseerd"
+  },
+  {
+   "zin": "De vertegenwoordigster van de officier van justitie zei dat de route langs de Meeuwerderbaan liep.",
+   "bron": [
+    18
+   ],
+   "citaat": "niet mogelijk is om op de eindbestemming te komen zonder langs de Meeuwerderbaan te rijden"
+  },
+  {
+   "zin": "De kantonrechter vond de route via de Meeuwerderweg aannemelijk, en over het bord daar was geen informatie.",
+   "bron": [
+    26
+   ],
+   "citaat": "Er is echter geen nadere informatie over het bord op de Meeuwerderweg beschikbaar"
+  },
+  {
+   "zin": "De boete is vernietigd en de officier van justitie moet 400 euro proceskosten betalen.",
+   "bron": [
+    38
+   ],
+   "citaat": "veroordeelt de officier van justitie in de proceskosten van betrokkene"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete vernietigd; officier van justitie betaalt 400 euro proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van 119 euro vervalt, de zekerheid komt terug en de officier van justitie betaalt 400 euro proceskosten.",
+  "bron": [
+   33,
+   34,
+   37,
+   38
+  ],
+  "citaat": "verklaart het beroep tegen de beslissing van de officier van justitie gegrond"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Er was geen E1-bord op de route die hij reed.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De overtreding kan niet worden vastgesteld, omdat niet met zekerheid vaststaat dat er een E1-zone op de gereden route was.",
+    "bron": [
+     26
+    ],
+    "citaat": "Daarom kan niet met zekerheid worden vastgesteld dat"
+   },
+   "bruikbare_zin": {
+    "citaat": "kan niet met zekerheid worden vastgesteld dat, ten tijde van het vaststellen van de verkeersovertreding",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De bevoegdheid van de verbalisant en de gebruikte bewijsmiddelen waren niet goed.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De enkele, niet-onderbouwde betwisting was onvoldoende om twijfel te zaaien aan het zaakoverzicht.",
+    "bron": [
+     21
+    ],
+    "citaat": "onvoldoende is om te leiden tot twijfel aan de gegevens in het zaakoverzicht"
+   },
+   "bruikbare_zin": {
+    "citaat": "de enkele, niet-onderbouwde betwisting van de bevoegdheid van de verbalisant",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een Wahv-boete is de verklaring van de verbalisant in beginsel genoeg, tenzij er concrete twijfel is.",
+  "type": "regel",
+  "reikwijdte": "zaken op grond van de Wahv",
+  "uitzondering": "concrete omstandigheden die aanleiding geven tot twijfel",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   22
+  ],
+  "citaat": "In zaken op grond van de Wahv is de verklaring van de verbalisant in het zaakoverzicht in beginsel voldoende"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring verbalisant in het zaakoverzicht",
+   "stukken van de gemeente over het bord",
+   "rijroute van de parkeerder"
+  ],
+  "wat_gaf_doorslag": "De stukken lieten alleen het E1-bord op de Meeuwerderbaan zien, niet op de gereden route."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 13a Wahv",
+  "art. 4 onder a Wet herwaardering proceskostenvergoedingen WOZ en bpm"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij een zone met veel toegangswegen vast dat het zonebord ook op de route stond die de parkeerder reed, met stukken uit de zes maanden rond de overtreding.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    24
+   ],
+   "citaat": "uit nadere stukken moet blijken dat op de route die betrokkene heeft afgelegd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een verkeersboete voor parkeren in een zone kan komen te vervallen als niet vaststaat dat het bord op uw route stond. Dat moet blijken uit stukken van de gemeente, niet alleen uit de verklaring van de handhaver. Heeft u een boete die u niet terecht vindt, bewaar dan foto's of een beschrijving van de weg die u reed.",
+ "gemeente": "Groningen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

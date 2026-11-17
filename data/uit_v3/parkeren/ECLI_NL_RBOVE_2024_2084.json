@@ -1,0 +1,132 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2024:2084",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bedrijf dat voertuigen verhuurt ging in beroep tegen een parkeerboete bij de Rechtbank Overijssel. De officier van justitie vond dat de boete terecht was.",
+ "titel": "Verhuurder moet boete betalen: huur was al voorbij",
+ "kern": {
+  "zin": "De kantonrechter vond dat het bedrijf zich niet kan beroepen op de regel voor verhuurde auto's, omdat de huur al was geëindigd.",
+  "bron": [
+   27
+  ],
+  "citaat": "Hieruit volgt dat betrokkene geen beroep kan doen op het bepaalde in artikel 8 WAHV"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het bedrijf kreeg een boete (sanctie) van 70 euro plus 9 euro administratiekosten voor een gedraging in Zwolle.",
+   "bron": [
+    16
+   ],
+   "citaat": "Aan de betrokkene is een sanctie van€ 70,00 vermeerderd met€ 9,00 administratiekosten opgelegd"
+  },
+  {
+   "zin": "De gemachtigde van het bedrijf zei dat de overtreding niet tijdens de huur was.",
+   "bron": [
+    17
+   ],
+   "citaat": "dat de gedraging niet is verricht ten tijde van de huur"
+  },
+  {
+   "zin": "De officier van justitie vond dat het beroep ongegrond moest worden verklaard.",
+   "bron": [
+    14
+   ],
+   "citaat": "dat het beroep ongegrond moet worden verklaard"
+  },
+  {
+   "zin": "De kantonrechter zag dat de huur al was afgelopen voordat de overtreding werd vastgesteld.",
+   "bron": [
+    27
+   ],
+   "citaat": "In casu is de huurperiode derhalve al geëindigd voordat de gedraging is geconstateerd"
+  },
+  {
+   "zin": "Het beroep is ongegrond, dus de vraag om proceskosten is afgewezen.",
+   "bron": [
+    28
+   ],
+   "citaat": "Omdat het beroep ongegrond wordt verklaard, zal het verzoek om vergoeding van proceskosten worden afgewezen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; boete blijft staan, proceskosten niet vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De boete blijft staan en het bedrijf krijgt geen proceskosten vergoed.",
+  "bron": [
+   31
+  ],
+  "citaat": "verklaart het beroep tegen de beslissing van de officier van justitie ongegrond; wijst de proceskostenvergoeding af"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De overtreding gebeurde niet tijdens de huur, dus het bedrijf hoeft de boete niet te betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter vond dat het bedrijf zich niet op die regel kan beroepen.",
+    "bron": [
+     27
+    ],
+    "citaat": "Hieruit volgt dat betrokkene geen beroep kan doen op het bepaalde in artikel 8 WAHV"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het voertuig staat de huurder daarna kennelijk niet meer ter beschikking",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het moment van de overtreding is het moment waarop die werd geconstateerd.",
+  "type": "regel",
+  "reikwijdte": "parkeerboetes (Wahv) en het moment van de gedraging",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "op grond waarvan het tijdstip van constateren van een gedraging geldt als het moment van gedraging"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "tripreceipt van het voertuig",
+   "algemene voorwaarden van het bedrijf"
+  ],
+  "wat_gaf_doorslag": "Het tripreceipt liet zien dat het voertuig om 10:44 uur was achtergelaten, voor de constatering."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHARL:2022:11123"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8 Wahv",
+  "art. 7:201 BW"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Of een parkeerboete terecht is, hangt af van wat er op het moment van de controle gold. Bij een verhuurd voertuig telt het moment van de constatering. Heeft u bewijs, zoals een tripbewijs, neem dat dan mee bij uw beroep.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "niet genoemd in de uitspraak; wederpartij is de officier van justitie",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

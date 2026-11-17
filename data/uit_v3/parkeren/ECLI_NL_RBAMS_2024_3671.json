@@ -1,0 +1,192 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2024:3671",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder met elektrische auto",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder met een elektrische auto kreeg in Amsterdam een naheffing (de rekening achteraf), omdat zij op een laadplek had geparkeerd zonder te betalen. Zij ging in beroep bij de rechtbank Amsterdam tegen de gemeente Amsterdam.",
+ "titel": "Laadplek in betaald gebied: borden waren genoeg, rekening blijft staan",
+ "kern": {
+  "zin": "De rechter oordeelde dat een laadpaal de plicht om te betalen niet opheft.",
+  "bron": [
+   19
+  ],
+  "citaat": "in beginsel niet van de plicht ontslaat om parkeerbelasting te betalen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controleur zag op 13 mei 2023 dat er in Amsterdam niets was betaald.",
+   "bron": [
+    14
+   ],
+   "citaat": "heeft een parkeercontroleur van de gemeente Amsterdam geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "Volgens de parkeerder was niet duidelijk dat zij moest betalen, omdat de app het gebied niet herkende.",
+   "bron": [
+    15
+   ],
+   "citaat": "De dichtstbijzijnde parkeerautomaat was onvindbaar en de parkeerapp van Flitsmeister herkende het gebied niet"
+  },
+  {
+   "zin": "De gemeente zei dat de plek volgens het besluit betaald parkeergebied is.",
+   "bron": [
+    16
+   ],
+   "citaat": "is volgens het uitvoerings- en aanwijzingsbesluit parkeerbelasting Amsterdam 2023"
+  },
+  {
+   "zin": "Volgens de rechter heeft de gemeente met de borden en de automaat aan de kenbaarheid voldaan.",
+   "bron": [
+    18
+   ],
+   "citaat": "De heffingsambtenaar heeft daarmee naar het oordeel van de rechtbank voldaan aan het kenbaarheidsvereiste"
+  },
+  {
+   "zin": "Volgens de rechter valt een fout in de parkeerapp voor rekening van de parkeerder.",
+   "bron": [
+    20
+   ],
+   "citaat": "het gebruik van een parkeerapplicatie voor rekening en risico komt van de parkeerder"
+  },
+  {
+   "zin": "Wie niet via het kenteken betaalt, moet zelf aantonen dat er op een andere manier is betaald.",
+   "bron": [
+    21
+   ],
+   "citaat": "De bewijslast rust in deze situatie dus op de parkeerder"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de parkeerder moet de naheffing betalen.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing betalen en krijgt het griffierecht niet vergoed.",
+  "bron": [
+   24
+  ],
+  "citaat": "Voor vergoeding van het griffierecht bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Het blauwe bord met een pijl naar de automaat en de betaalpas was volgens haar niet te herkennen als betaalbord.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de borden op de foto's gewone verkeersborden die duidelijk een betaalzone aangaven.",
+    "bron": [
+     18
+    ],
+    "citaat": "zijn de beide borden waarvan verweerder foto's heeft overgelegd gebruikelijke verkeersborden"
+   },
+   "bruikbare_zin": {
+    "citaat": "waarmee voldoende duidelijk een betaald parkeren zone wordt aangegeven",
+    "bron": [
+     18
+    ]
+   }
+  },
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De parkeerapp herkende het gebied niet en de automaat was niet te vinden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter mag een parkeerder niet zonder meer op de juistheid van de app vertrouwen.",
+    "bron": [
+     20
+    ],
+    "citaat": "Een parkeerder kan niet zonder meer uitgaan van de juistheid van de parkeerapplicatie"
+   },
+   "bruikbare_zin": {
+    "citaat": "Zijn onderzoeksplicht houdt ook in dat hij controleert of deze informatie juist is",
+    "bron": [
+     20
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Andere laadpalen waren vol of kapot, dus zij kon alleen op deze laadplek staan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat andere volle of kapotte laadpalen de betaalplicht niet opheffen.",
+    "bron": [
+     19
+    ],
+    "citaat": "ontslaan eiseres niet van de verplichting om parkeerbelasting te betalen"
+   },
+   "bruikbare_zin": {
+    "citaat": "in beginsel niet van de plicht ontslaat om parkeerbelasting te betalen",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Zij had mogelijk een kaartje zonder kenteken achter de voorruit gelegd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat een parkeerder in beginsel moet betalen op de voorgeschreven wijze, met het kenteken.",
+    "bron": [
+     21
+    ],
+    "citaat": "een parkeerder in beginsel aangifte moet doen op de voorgeschreven wijze"
+   },
+   "bruikbare_zin": {
+    "citaat": "De bewijslast rust in deze situatie dus op de parkeerder",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie parkeert moet vooraf nagaan of er betaald moet worden; dat hoort bij de onderzoeksplicht.",
+  "type": "regel",
+  "reikwijdte": "parkeerders in een betaald-parkeergebied",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   17
+  ],
+  "citaat": "een parkeerder een onderzoeksplicht heeft in die zin dat hij zich"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "foto's van de borden",
+   "afstand tot de parkeerautomaat (130 meter)"
+  ],
+  "wat_gaf_doorslag": "Eiseres had niet onderbouwd dat zij op een andere manier had betaald."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Uitvoerings- en aanwijzingsbesluit parkeerbelasting Amsterdam 2023"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen tekortkoming van de gemeente gevonden; de rechter zag borden en automaat als voldoende",
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "bebording-verkeersbesluit",
+  "klantcontact"
+ ],
+ "klantuitleg": "De rekening voor het parkeren blijft staan als er in de buurt borden en een automaat stonden die betaald parkeren duidelijk maakten. Een laadpaal of een volle laadplek maakt daarbij niet uit, en een app die het gebied niet herkent is in de regel uw eigen verantwoordelijkheid. Heeft u een bezwaar, controleer dan vooraf zelf de borden en de automaat, en bewaar bewijs van uw betaling, want zonder dat is de kans klein.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

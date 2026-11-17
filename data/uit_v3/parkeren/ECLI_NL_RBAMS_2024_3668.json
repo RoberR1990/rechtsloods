@@ -1,0 +1,150 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2024:3668",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amstelveen",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg in Amstelveen een naheffing (de rekening achteraf), omdat hij in een duurdere zone had geparkeerd dan waarvoor hij in de app had betaald. Hij ging in beroep bij de rechtbank Amsterdam tegen de gemeente Amstelveen.",
+ "titel": "Verkeerde zone in parkeerapp: rekening blijft staan",
+ "kern": {
+  "zin": "De rechter oordeelde dat het risico van een foute zone in de app bij de parkeerder ligt, en dat de naheffing blijft staan.",
+  "bron": [
+   18
+  ],
+  "citaat": "gebruik van een parkeerapplicatie en eventuele foutieve gegevens die hierin zijn vermeld voor rekening en risico komen van de parkeerder"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controleur zag op 4 augustus 2023 dat er te weinig parkeergeld was betaald.",
+   "bron": [
+    14
+   ],
+   "citaat": "heeft een parkeercontroleur van de gemeente Amstelveen geconstateerd dat geen of te weinig parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zegt dat hij bij het betalen per ongeluk een andere zone koos in de app.",
+   "bron": [
+    15
+   ],
+   "citaat": "Per vergissing heeft hij een verkeerde parkeerzone aangeklikt in de Yellowbrick-app"
+  },
+  {
+   "zin": "De gemeente zei dat de parkeerder zelf moest controleren of de app de juiste zone en het juiste tarief aangaf.",
+   "bron": [
+    16
+   ],
+   "citaat": "het de eigen verantwoordelijkheid is van de parkeerder om te controleren of deze via de app betaalt"
+  },
+  {
+   "zin": "Volgens de rechter had de parkeerder bij de automaat in de buurt de juiste zone kunnen nagaan.",
+   "bron": [
+    18
+   ],
+   "citaat": "had gecontroleerd bij deze automaat, dan had eiser geweten dat hij in een andere zone stond"
+  },
+  {
+   "zin": "De rechter oordeelde dat de naheffing van 88,50 euro terecht was opgelegd.",
+   "bron": [
+    21
+   ],
+   "citaat": "terecht aan eiser een naheffingsaanslag heeft opgelegd ter hoogte van € 88,50"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing van 88,50 euro blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing van 88,50 euro betalen en krijgt het griffierecht niet vergoed.",
+  "bron": [
+   21
+  ],
+  "citaat": "terecht aan eiser een naheffingsaanslag heeft opgelegd ter hoogte van € 88,50"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij heeft wel betaald, maar per vergissing voor een verkeerde zone.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Bij parkeerbelasting tellen opzet en schuld niet mee, dus een goede bedoeling helpt niet.",
+    "bron": [
+     19
+    ],
+    "citaat": "Parkeerbelasting is een objectieve belasting, waarbij opzet en schuld geen rol spelen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Parkeerbelasting is een objectieve belasting",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "Hij wil het prijsverschil tussen de zones betalen en niet de volle naheffing.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het al betaalde parkeergeld mag niet worden verrekend; de wet laat dat niet toe.",
+    "bron": [
+     20
+    ],
+    "citaat": "De wet biedt geen ruimte om het wel betaalde parkeergeld hiermee te verrekenen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Voor de kosten die in rekening gebracht mogen worden is in de wet een maximum opgenomen",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder mag niet alleen op de parkeerapp vertrouwen; hij moet zelf nagaan of die klopt.",
+  "type": "regel",
+  "reikwijdte": "parkeerders die via een parkeerapp betalen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   18
+  ],
+  "citaat": "kan hij niet alleen afgaan op informatie in de parkeerapp"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "plattegrond van de omgeving",
+   "de parkeerzone waar de auto stond (niet in geschil)"
+  ],
+  "wat_gaf_doorslag": "De plattegrond liet zien dat een parkeerautomaat zeer dichtbij stond."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 234, vierde lid, Gemeentewet",
+  "geldende parkeerverordening gemeente Amstelveen"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen tekortkoming van de gemeente gevonden; de rechter oordeelde over het risico van de parkeerder",
+ "raakt": [
+  "betaalapp",
+  "bezwaar",
+  "tarief-naheffing",
+  "klantcontact"
+ ],
+ "klantuitleg": "De rekening voor het parkeren blijft staan als u de juiste zone had kunnen zien, bijvoorbeeld bij de automaat in de buurt. Een verkeerde zone in de app is in zulke gevallen uw eigen risico, ook als u per vergissing koos. Een bezwaar heeft op dit punt weinig kans, tenzij u kunt laten zien dat de app of de automaat de zone verkeerd aangaf.",
+ "gemeente": "Amstelveen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

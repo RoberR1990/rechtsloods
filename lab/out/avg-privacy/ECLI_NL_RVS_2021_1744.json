@@ -1,0 +1,207 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2021:1744",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": null,
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Leeuwarden",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De burger vroeg de gemeente Leeuwarden om inzage in gegevens van de afvalcontainers bij zijn huis. De Raad van State beslist in hoger beroep of de gemeente eerst om een duidelijke identificatie mocht vragen.",
+ "titel": "Gemeente mag eerst om identificatie vragen",
+ "kern": {
+  "zin": "De gemeente mocht het inzageverzoek buiten behandeling laten, omdat zij terecht twijfelde aan de identiteit van de verzoeker.",
+  "bron": [
+   42
+  ],
+  "citaat": "het college het verzoek van [appellant] buiten behandeling heeft mogen laten"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger stuurde een verzoek om inzage in gegevens over de afvalcontainers bij zijn huis.",
+   "bron": [
+    22
+   ],
+   "citaat": "inzage in de registratie, verwerking en opslag van gegevens afkomstig van de gechipte afvalcontainers"
+  },
+  {
+   "zin": "De gemeente vond het verzoek onduidelijk ondertekend en vroeg hem om via DigiD of aan de balie te laten zien wie hij was.",
+   "bron": [
+    34
+   ],
+   "citaat": "het verzoek online en ondertekend met zijn DigiD in te dienen of zich op het gemeentehuis te legitimeren"
+  },
+  {
+   "zin": "De burger zei dat de gemeente niet hoefde te twijfelen aan zijn identiteit en dat de eis om DigiD of legitimatie te veel was.",
+   "bron": [
+    37
+   ],
+   "citaat": "in dit geval een buitenproportionele manier is om zijn identiteit vast te stellen"
+  },
+  {
+   "zin": "De gemeente zei dat zij bij AVG-verzoeken altijd via DigiD of legitimatie de identiteit controleert om te voorkomen dat gegevens bij de verkeerde persoon komen.",
+   "bron": [
+    35
+   ],
+   "citaat": "via DigiD moet indienen dan wel zich in persoon aan de balie moet legitimeren"
+  },
+  {
+   "zin": "De Raad van State bevestigt dat oordeel en het hoger beroep is ongegrond.",
+   "bron": [
+    49
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De rechter geeft de gemeente gelijk: het verzoek mocht buiten behandeling blijven.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen inzage en de gemeente hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   50
+  ],
+  "citaat": "Het college hoeft geen proceskosten te vergoeden."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente hoefde niet te twijfelen aan mijn identiteit.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt de twijfel wel terecht, onder meer door de manier waarop het verzoek was ondertekend.",
+    "bron": [
+     42
+    ],
+    "citaat": "met reden heeft getwijfeld aan de identiteit van [appellant]"
+   },
+   "bruikbare_zin": {
+    "citaat": "met reden heeft getwijfeld aan de identiteit van [appellant]",
+    "bron": [
+     42
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het is te veel gevraagd om via DigiD of met een paspoort langs te komen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dit niet te veel gevraagd, omdat de burger geen belemmering heeft genoemd.",
+    "bron": [
+     46
+    ],
+    "citaat": "niet gesteld dat er voor hem een objectieve belemmering is"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet gesteld dat er voor hem een objectieve belemmering is",
+    "bron": [
+     46
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er is geen wettelijke plicht om mij te laten identificeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat de gemeente op grond van de AVG om extra informatie mag vragen als er twijfel is.",
+    "bron": [
+     41
+    ],
+    "citaat": "mag om aanvullende informatie gevraagd worden"
+   },
+   "bruikbare_zin": {
+    "citaat": "mag om aanvullende informatie gevraagd worden",
+    "bron": [
+     41
+    ]
+   }
+  },
+  {
+   "arg": "motivering",
+   "burger_zegt": "De rechtbank heeft haar uitspraak niet goed uitgelegd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter verwerpt alle argumenten en bevestigt de uitspraak.",
+    "bron": [
+     49
+    ],
+    "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het hoger beroep is ongegrond.",
+    "bron": [
+     49
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als er reden is om te twijfelen aan de identiteit van iemand die om inzage vraagt, mag de gemeente om extra informatie vragen om de identiteit te bevestigen.",
+  "type": "regel",
+  "reikwijdte": "bij een inzageverzoek op grond van de AVG als de identiteit van de verzoeker onzeker is",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   41
+  ],
+  "citaat": "Als reden bestaat om te twijfelen aan de identiteit, mag om aanvullende informatie gevraagd worden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "Brp-gegevens",
+   "manier van ondertekening van het verzoek",
+   "reactie op identificatieverzoek"
+  ],
+  "wat_gaf_doorslag": "De manier waarop het verzoek was ondertekend en dat de burger niet reageerde op het verzoek om identificatie."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2020:2927"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 15 lid 1 AVG",
+  "art. 12 lid 6 AVG",
+  "art. 4:5 lid 1 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij twijfel over de identiteit om DigiD of legitimatie aan de balie.",
+   "raakt": "privacy-fg",
+   "bron": [
+    34
+   ],
+   "citaat": "het verzoek online en ondertekend met zijn DigiD in te dienen of zich op het gemeentehuis te legitimeren"
+  },
+  {
+   "actie": "Laat het verzoek buiten behandeling als de verzoeker niet reageert op het identificatieverzoek.",
+   "raakt": "privacy-fg",
+   "bron": [
+    42
+   ],
+   "citaat": "het college het verzoek van [appellant] buiten behandeling heeft mogen laten"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "burgerzaken-brp",
+  "bezwaar"
+ ],
+ "klantuitleg": "Als u wilt weten welke gegevens de gemeente over u heeft, moet u zich wel duidelijk kunnen identificeren. Twijfelt de gemeente of u het wel echt bent, dan mag zij om extra bewijs vragen, zoals inloggen met DigiD of langskomen met een paspoort. Reageert u daar niet op, dan mag de gemeente uw verzoek laten liggen.",
+ "gemeente": "Leeuwarden",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,128 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2024:8091",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Tilburg (heffingsambtenaar)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeert bij de rechtbank Zeeland-West-Brabant tegen de gemeente Tilburg. Zij kreeg een naheffing (de rekening achteraf), omdat zij haar kenteken in de verkeerde parkeerzone had aangemeld.",
+ "titel": "Verkeerde zone in parkeerapp: rekening blijft staan",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder zelf verantwoordelijk was voor de juiste zone, dus de rekening bleef staan.",
+  "bron": [
+   23
+  ],
+  "citaat": "het tot de verantwoordelijkheid van een parkeerder om de juiste zone te selecteren"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een scanauto zag bij een controle in Tilburg dat er geen parkeergeld was betaald.",
+   "bron": [
+    16
+   ],
+   "citaat": "is door middel van een scanauto geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "Zij vond dat zij had betaald, en dat de app de zone zelf goed had ingevuld.",
+   "bron": [
+    19
+   ],
+   "citaat": "de verschuldigde parkeerbelasting te hebben voldaan via een app van Parkmobile"
+  },
+  {
+   "zin": "De gemeente zei dat borden en het automaatscherm duidelijk genoeg waren over het dagtarief.",
+   "bron": [
+    20
+   ],
+   "citaat": "uit de zoneborden en het display van de parkeerautomaat voldoende duidelijk is"
+  },
+  {
+   "zin": "De rechter zei dat de parkeerder niet van de controleplicht af was, ook niet door de app.",
+   "bron": [
+    23
+   ],
+   "citaat": "ontslaat de parkeerder niet van zijn onderzoeksplicht"
+  },
+  {
+   "zin": "De rekening blijft staan en het griffierecht blijft voor haar.",
+   "bron": [
+    26
+   ],
+   "citaat": "Belanghebbende krijgt daarom het griffierecht niet terug"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; rekening van € 55,97 blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet € 55,97 betalen, waarvan € 2,20 belasting en € 53,77 kosten.",
+  "bron": [
+   17
+  ],
+  "citaat": "bestaande uit een bedrag aan belasting van € 2,20 en € 53,77 aan kosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Zij heeft via de app betaald, en de app vulde de zone automatisch in.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de parkeerder het kenteken in de verkeerde zone had aangemeld.",
+    "bron": [
+     23
+    ],
+    "citaat": "Het kenteken van belanghebbende was dus niet in de juiste zone aangemeld"
+   },
+   "bruikbare_zin": {
+    "citaat": "ontslaat de parkeerder niet van zijn onderzoeksplicht",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De parkeerder heeft zelf de taak om te checken of het parkeergeld klopt, ook bij een app die de zone al invult.",
+  "type": "regel",
+  "reikwijdte": "Parkeren via app of automaat; de parkeerder controleert de gekozen zone en het betaalde bedrag",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "wordt van een parkeerder verwacht dat hij controleert of de verschuldigde parkeerbelasting is voldaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "scanauto-constatering",
+   "zoneaanduiding bij de borden en de automaat"
+  ],
+  "wat_gaf_doorslag": "De zone waarin het kenteken was aangemeld, was niet de juiste zone."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen eis of aanwijzing van de rechter; gemeente kreeg gelijk op de feiten",
+ "raakt": [
+  "tarief-naheffing",
+  "betaalapp",
+  "bezwaar"
+ ],
+ "klantuitleg": "Hebt u een parkeerapp gebruikt, dan moet u zelf controleren of u de juiste zone hebt gekozen, ook als de app die al invult. Als de zone of het kenteken niet klopt, mag de gemeente de rekening voor het parkeren toch sturen, ook als dat per ongeluk ging. Vindt u dat de borden of de app u hebben misleid, dan kunt u dat met foto's onderbouwen, al helpt dat alleen als de situatie echt onduidelijk was.",
+ "gemeente": "Tilburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

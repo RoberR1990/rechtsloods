@@ -1,0 +1,161 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2022:10767",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder (via gemachtigde)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg een boete van € 95 voor parkeren in een parkeerverbodzone in Eindhoven. Hij ging in hoger beroep tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Open hek: privéterrein telt als openbare weg bij parkeerverbod",
+ "kern": {
+  "zin": "Het hof vindt dat een privéterrein met een open hek feitelijk openstaat voor het verkeer, dus het parkeerverbod geldt daar ook.",
+  "bron": [
+   35
+  ],
+  "citaat": "Zolang dat toegangshek niet daadwerkelijk is afgesloten wordt aan weggebruikers de toegang tot dat terrein feitelijk niet ontzegd."
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete van € 95 voor parkeren in strijd met een parkeerverbodzone in Eindhoven.",
+   "bron": [
+    20
+   ],
+   "citaat": "bij inleidende beschikking een sanctie opgelegd van € 95,- voor"
+  },
+  {
+   "zin": "De parkeerder zei dat de auto op het privéterrein van een school stond, waar de zone niet geldt.",
+   "bron": [
+    21
+   ],
+   "citaat": "Het voertuig stond geparkeerd in een vak op het privéterrein van TIO Hogeschool Eindhoven."
+  },
+  {
+   "zin": "De handhaver zag dat het hek van het terrein openstond.",
+   "bron": [
+    29
+   ],
+   "citaat": "Ik zag dat het hekwerk open stond van het terrein."
+  },
+  {
+   "zin": "Het hof zegt dat het erom gaat of het terrein feitelijk openstaat voor het verkeer.",
+   "bron": [
+    34
+   ],
+   "citaat": "is beslissend of het terrein feitelijk voor het openbaar verkeer openstaat"
+  },
+  {
+   "zin": "Omdat het hek openstond, was het terrein een openbare weg en gelden de verkeersregels daar ook.",
+   "bron": [
+    36
+   ],
+   "citaat": "moet worden aangemerkt als een voor het openbaar verkeer openstaande weg"
+  },
+  {
+   "zin": "Het hof bevestigt de beslissing en wijst het verzoek om proceskosten af.",
+   "bron": [
+    38
+   ],
+   "citaat": "Gelet op het voorgaande heeft de kantonrechter het beroep terecht ongegrond verklaard."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete blijft staan; open hek betekent openbare weg.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 95 blijft staan en de parkeerder krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   38,
+   20
+  ],
+  "citaat": "Gelet op het voorgaande heeft de kantonrechter het beroep terecht ongegrond verklaard."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het terrein is privé en normaal afgesloten, dus de parkeerverbodzone geldt daar niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een hek dat openstaat, ontzegt weggebruikers de toegang niet feitelijk.",
+    "bron": [
+     35
+    ],
+    "citaat": "Zolang dat toegangshek niet daadwerkelijk is afgesloten wordt aan weggebruikers de toegang tot dat terrein feitelijk niet ontzegd."
+   },
+   "bruikbare_zin": {
+    "citaat": "Zolang dat toegangshek niet daadwerkelijk is afgesloten wordt aan weggebruikers de toegang tot dat terrein feitelijk niet ontzegd.",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het open hek op de foto van Google Maps was een uitzondering door werkzaamheden; meestal was het hek dicht.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof heeft geen reden om te twijfelen dat het hek open stond toen de handhaver kwam.",
+    "bron": [
+     35
+    ],
+    "citaat": "geen aanleiding om er aan te twijfelen dat het hek op het moment van het constateren van de gedraging geopend was"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een privéterrein is een openbare weg als het feitelijk openstaat voor het openbaar verkeer; dan gelden de verkeersregels daar ook.",
+  "type": "regel",
+  "reikwijdte": "Privéterreinen waar een verkeersverbod wordt gehandhaafd.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   34
+  ],
+  "citaat": "is beslissend of het terrein feitelijk voor het openbaar verkeer openstaat"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaringen van de handhaver op ambtsbelofte",
+   "foto's in het dossier",
+   "proces-verbaal van bevindingen"
+  ],
+  "wat_gaf_doorslag": "De handhaver verklaarde dat het hek openstond en de parkeerder gaf geen reden om dat te betwijfelen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 1 Wegenverkeerswet 1994",
+  "art. 3 Wahv"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij een boete op privéterrein vast of het hek openstaat, met foto's en een verklaring van de handhaver.",
+   "raakt": "bezwaar",
+   "bron": [
+    35
+   ],
+   "citaat": "Uit de verklaringen van de ambtenaar blijkt dat het hek op het moment van de constatering open stond."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Staat uw auto op een privéterrein met een hek dat openstaat, dan kan dat terrein toch als openbare weg tellen. Dan gelden de parkeerregels van de straat daar ook. Wilt u de boete betwisten, laat dan zien dat het hek echt dicht was, bijvoorbeeld met foto's van die dag.",
+ "gemeente": "Eindhoven",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

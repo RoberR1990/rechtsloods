@@ -1,0 +1,188 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2026:2433",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Zandvoort",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder en de gemeente Zandvoort procederen over een naheffingsaanslag (een rekening achteraf) voor parkeren. De parkeerder had per ongeluk in de buurgemeente Bloemendaal betaald. De gemeente ging in hoger beroep bij het Gerechtshof Amsterdam.",
+ "titel": "Per ongeluk in de buurgemeente betaald: toch een naheffing",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder zelf moest controleren of de app de juiste zone koos, dus de rekening achteraf was terecht, ook al lagen beide parkeerterreinen naast elkaar.",
+  "bron": [
+   44
+  ],
+  "citaat": "Van haar kan echter wel worden gevergd dat zij verifieert of de door haar mobiele telefoon weergegeven locatie overeenkomt"
+ },
+ "samenvatting": [
+  {
+   "zin": "De auto stond in Zandvoort, maar de parkeerder had via de parkeerapp een zone in Bloemendaal aangemeld.",
+   "bron": [
+    38
+   ],
+   "citaat": "terwijl de auto op een fiscale parkeerplaats in de gemeente Zandvoort geparkeerd stond"
+  },
+  {
+   "zin": "De parkeerder vond een naheffing van € 79,20 onevenredig (niet in verhouding), omdat zij echt had betaald.",
+   "bron": [
+    39
+   ],
+   "citaat": "het opleggen van een naheffingsaanslag voor een bedrag van € 79,20 een onevenredige sanctie is"
+  },
+  {
+   "zin": "De gemeente vond dat de parkeerder moest controleren of de zone in de app klopte met de plek waar zij stond.",
+   "bron": [
+    40
+   ],
+   "citaat": "het is aan de parkeerder om te controleren of de parkeerzone waarin is geparkeerd overeenkomt met de parkeerzone"
+  },
+  {
+   "zin": "De rechter vond dat de parkeerder dat niet had gedaan, ook al lagen de parkeerterreinen allebei bij het strand naast de gemeentegrens.",
+   "bron": [
+    45
+   ],
+   "citaat": "Hiermee heeft zij naar het oordeel van het Hof niet voldaan aan de op haar rustende onderzoeksplicht"
+  },
+  {
+   "zin": "Dat de parkeerder wel aan de buurgemeente had betaald en dat beide gemeenten samenwerken, veranderde niets.",
+   "bron": [
+    46
+   ],
+   "citaat": "Dat belanghebbende wel een bedrag aan een andere gemeente heeft betaald maakt het voorgaande niet anders"
+  },
+  {
+   "zin": "De rechter vond de naheffing ook niet onevenredig en verklaarde het beroep van de parkeerder ongegrond.",
+   "bron": [
+    49
+   ],
+   "citaat": "de uitspraak van de rechtbank dient te worden vernietigd en het beroep dient alsnog ongegrond te worden verklaard"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hof vernietigt rechtbankuitspraak; naheffing blijft staan, geen kostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffingsaanslag blijft staan en de parkeerder krijgt geen vergoeding van kosten.",
+  "bron": [
+   51,
+   54,
+   55
+  ],
+  "citaat": "Het Hof vindt geen aanleiding voor een veroordeling in de kosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Ik heb wel betaald, alleen aan de buurgemeente die samen met Zandvoort wordt beheerd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Betalen aan een andere gemeente telt niet, ook niet als beide gemeenten samenwerken.",
+    "bron": [
+     46
+    ],
+    "citaat": "Dat belanghebbende wel een bedrag aan een andere gemeente heeft betaald maakt het voorgaande niet anders"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het is de verantwoordelijkheid van belanghebbende om de belasting op aangifte te voldoen op een bij de belastingverordening voorgeschreven wijze",
+    "bron": [
+     46
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Een naheffing van € 79,20 staat niet in verhouding tot mijn vergissing.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het opleggen van de naheffing met kosten schendt volgens de rechter geen beginsel van behoorlijk bestuur.",
+    "bron": [
+     46
+    ],
+    "citaat": "levert geen schending op van het evenredigheidsbeginsel of enig ander algemeen beginsel van behoorlijk bestuur"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet worden gevergd dat hij, alvorens een naheffingsaanslag op te leggen, controleert of de parkeerder wellicht in een andere gemeente",
+    "bron": [
+     46
+    ]
+   }
+  },
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "Een foutief GPS-signaal en de werking van de app leidden tot de verkeerde zone, en de gemeente liet de betrouwbaarheid van de app niet zien.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De parkeerder had moeten controleren of de gekozen zone klopte met de plek waar de auto stond.",
+    "bron": [
+     45
+    ],
+    "citaat": "Zij had moeten verifiëren of de door de parkeerapplicatie geselecteerde locatie overeenkwam met de parkeerzone"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet zozeer de werking van de parkeerapplicatie die de onjuiste suggestie veroorzaakt",
+    "bron": [
+     43
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Kiest een parkeerder in de app een verkeerde zone of gemeente doordat de GPS afwijkt, en controleert zij dat niet, dan komt dat voor haar rekening.",
+  "type": "regel",
+  "reikwijdte": "Parkeerders die met een parkeerapp betalen en een zone aanmelden die de app voorstelt op basis van de GPS van de telefoon, ook als dat een zone in een andere gemeente is",
+  "uitzondering": "Anders als de verkeerde zone komt door iets wat de gemeente moet dragen, zoals een onjuist weergegeven zonegrens in de app",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   44
+  ],
+  "citaat": "Doet zij dat niet, dan dienen de gevolgen daarvan voor haar rekening te komen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van de parkeerder",
+   "gegevens over de aangemelde parkeerzone in de app"
+  ],
+  "wat_gaf_doorslag": "De parkeerder koos een verkeerde zone in de app en controleerde die niet."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2020:1014",
+   "ECLI:NL:HR:2024:1535"
+  ]
+ },
+ "wetsartikelen": [
+  "Verordening parkeerbelastingen Zandvoort 2024"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer dat de zonegrenzen die u aan parkeerapps doorgeeft kloppen, want een onjuist weergegeven zonegrens komt wel voor rekening van de gemeente.",
+   "raakt": "betaalapp",
+   "bron": [
+    44
+   ],
+   "citaat": "Men kan denken aan een onjuist in de parkeerapplicatie weergegeven zonegrens"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "betaalapp",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Betaalt u met een parkeerapp, dan moet u zelf nagaan of de zone in de app klopt met de plek waar uw auto staat. Betaalt u per ongeluk voor een zone in een andere gemeente, ook als die vlak naast u ligt, dan kan de gemeente waar u staat toch een rekening achteraf sturen. Bezwaar heeft weinig kans, tenzij de zonegrens in de app zelf fout was.",
+ "gemeente": "Zandvoort",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

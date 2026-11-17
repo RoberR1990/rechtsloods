@@ -1,0 +1,164 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:5018",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "rectificatie",
+ "kenmerk": null,
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "burger (cliënt van het UWV)",
+  "wederpartij": "UWV",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger vroeg het UWV om een rapport van een verzekeringsarts aan te passen. Het UWV weigerde. De burger ging in hoger beroep bij de Raad van State.",
+ "titel": "UWV hoeft verslag van een gesprek met arts niet aan te passen",
+ "kern": {
+  "zin": "De rechter vond dat een verslag van een gesprek niet gecorrigeerd hoeft te worden als de burger de weergave niet concreet betwist.",
+  "bron": [
+   31
+  ],
+  "citaat": "Dat betekent dat het gespreksverslag niet voor rectificatie in aanmerking komt"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg het UWV om een rapport van een verzekeringsarts aan te passen.",
+   "bron": [
+    20
+   ],
+   "citaat": "ingediend om een rapport van een verzekeringsarts van 17 januari 2023 aan te passen"
+  },
+  {
+   "zin": "Het UWV wees dat af, omdat er geen onjuistheden of onvolledigheden in het rapport bleken te staan.",
+   "bron": [
+    23
+   ],
+   "citaat": "niet is gebleken van onjuistheden of onvolledigheden in het rapport"
+  },
+  {
+   "zin": "De burger vond dat een verzekeringsarts het verzoek had moeten beoordelen.",
+   "bron": [
+    26
+   ],
+   "citaat": "beoordeeld had moeten worden door een verzekeringsarts"
+  },
+  {
+   "zin": "De rechter zag dat het ging om een verslag van een gesprek, en de burger betwistte die weergave niet concreet.",
+   "bron": [
+    31
+   ],
+   "citaat": "gaat het om een gespreksverslag van een verzekeringsarts"
+  },
+  {
+   "zin": "Voor de passage uit het rapport van 2012 verwees de rechter naar een andere zaak van dezelfde burger, waarin het UWV ook gelijk kreeg.",
+   "bron": [
+    32
+   ],
+   "citaat": "het UWV het rectificatieverzoek op goede gronden heeft afgewezen"
+  },
+  {
+   "zin": "Het hoger beroep was ongegrond, dus de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    35
+   ],
+   "citaat": "Het hoger beroep is ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; rapport blijft ongewijzigd",
+ "gevolg_betrokkene": {
+  "zin": "Het rapport wordt niet aangepast en de burger krijgt geen proceskosten vergoed.",
+  "bron": [
+   35,
+   36
+  ],
+  "citaat": "De uitspraak van de rechtbank moet worden bevestigd."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Het rapport bevat onjuistheden, onder meer over een passage uit 2012 en over een periode zonder informatie.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het ging om een weergave van een gesprek en de burger betwistte die niet concreet.",
+    "bron": [
+     31
+    ],
+    "citaat": "niet concreet gemotiveerd betwist"
+   },
+   "bruikbare_zin": {
+    "citaat": "het recht tot rectificatie niet bedoeld is om indrukken, meningen, onderzoeksresultaten en conclusies waarmee betrokkene zich niet kan verenigen, te corrigeren of te verwijderen",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Een verzekeringsarts had het verzoek moeten beoordelen volgens artikel 10 van het Reglement van het UWV.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het ging om een gespreksverslag, waarvan de weergave niet concreet was betwist, dus een medische beoordeling veranderde niets.",
+    "bron": [
+     31
+    ],
+    "citaat": "Maar in dit geval gaat het om een gespreksverslag van een verzekeringsarts"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Correctie van gegevens kan alleen als de onjuistheid eenvoudig en objectief is vast te stellen; meningen en conclusies waar iemand het niet mee eens is, worden niet gecorrigeerd.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om rectificatie (correctie) van persoonsgegevens op grond van art. 16 AVG",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   30
+  ],
+  "citaat": "Deze onjuistheden moeten eenvoudig en objectief zijn vast te stellen."
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "gespreksverslag van de verzekeringsarts",
+   "rapport uit 2012"
+  ],
+  "wat_gaf_doorslag": "De burger betwistte de weergave van het gesprek niet concreet."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2025:5083",
+   "ECLI:NL:RVS:2020:2642",
+   "ECLI:NL:RVS:2026:4930"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 16 AVG",
+  "art. 10 Reglement Behandeling bezwaarschriften UWV 2022"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Toets bij een verzoek om correctie of de onjuistheid eenvoudig en objectief vast te stellen is, en wijs correctie van meningen en conclusies af.",
+   "raakt": "privacy-fg",
+   "bron": [
+    30
+   ],
+   "citaat": "Deze onjuistheden moeten eenvoudig en objectief zijn vast te stellen."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "U kunt vragen om gegevens aan te passen als ze onjuist of onvolledig zijn. Dat moet dan eenvoudig en objectief vast te stellen zijn. Een mening of conclusie in een rapport laten aanpassen lukt meestal niet, dus bezwaar daartegen heeft weinig kans.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

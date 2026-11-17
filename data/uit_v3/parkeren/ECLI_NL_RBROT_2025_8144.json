@@ -1,0 +1,157 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:8144",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg in Rotterdam een naheffing (de rekening achteraf) van € 73,38 voor parkeren op 24 januari 2024. Zij ging in beroep tegen de gemeente bij de rechtbank Rotterdam.",
+ "titel": "Te hoog tarief voor parkeren: bedrag gaat omlaag",
+ "kern": {
+  "zin": "De rechter oordeelde dat de gemeente het lagere tarief voor het eerste half uur had moeten meenemen, en verlaagde het bedrag.",
+  "bron": [
+   23
+  ],
+  "citaat": "dat de heffingsambtenaar rekening had moeten houden met het ter plaatse geldende gereduceerde parkeertarief voor de eerste dertig minuten"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Rotterdam eiste van de parkeerder in totaal € 73,38 voor parkeren op 24 januari 2024.",
+   "bron": [
+    16
+   ],
+   "citaat": "De naheffingsaanslag beloopt in totaal € 73,38, bestaande uit"
+  },
+  {
+   "zin": "Zij vond dat de gemeente het verkeerde tarief had gebruikt, want het eerste half uur kost minder.",
+   "bron": [
+    21
+   ],
+   "citaat": "Voor de eerste dertig minuten geldt een tarief van € 0,20 en daarna is het uurtarief € 2,08."
+  },
+  {
+   "zin": "De rechter stelde vast dat de gemeente de aanslag over een uur tegen het gewone tarief had berekend.",
+   "bron": [
+    24
+   ],
+   "citaat": "heeft de heffingsambtenaar een aanslag opgelegd voor de parkeerduur van een uur tegen het reguliere parkeertarief"
+  },
+  {
+   "zin": "De rechter oordeelde dat het tarief fout was en verlaagde de naheffing zelf.",
+   "bron": [
+    25
+   ],
+   "citaat": "zal zelf in de zaak voorzien door de naheffingsaanslag te verlagen naar een bedrag"
+  },
+  {
+   "zin": "Het bedrag wordt € 72,54, en de gemeente moet het griffierecht van € 51,- aan de parkeerder terugbetalen.",
+   "bron": [
+    34,
+    36
+   ],
+   "citaat": "vermindert de naheffingsaanslag tot een bedrag van € 72,54"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Bedrag omlaag door verkeerd tarief; griffierecht komt terug",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt € 72,54 in plaats van € 73,38 en krijgt het griffierecht van € 51,- terug.",
+  "bron": [
+   34,
+   36
+  ],
+  "citaat": "vermindert de naheffingsaanslag tot een bedrag van € 72,54"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "Het verkeerde tarief was gebruikt, want het eerste half uur kost veel minder.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente bij een naheffing over een uur het lagere tarief had moeten meenemen.",
+    "bron": [
+     23
+    ],
+    "citaat": "dat de heffingsambtenaar rekening had moeten houden met het ter plaatse geldende gereduceerde parkeertarief voor de eerste dertig minuten"
+   },
+   "bruikbare_zin": {
+    "citaat": "De tekst van het artikellid is helder: er staat parkeerduur en niet uurtarief.",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Zij vond het opmerkelijk dat de uitspraak op bezwaar eerder kwam dan de dagtekening.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter merkte ten overvloede op dat de gemeente dagtekeningen vooruit zet.",
+    "bron": [
+     26
+    ],
+    "citaat": "Ten overvloede merkt de rechtbank op dat zij ermee bekend is dat de heffingsambtenaar"
+   },
+   "bruikbare_zin": {
+    "citaat": "de dagtekeningen van uitspraken op bezwaar enkele dagen in de toekomst zet",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de gemeente over een uur naheft, rekent zij met zestig minuten en moet zij het lagere tarief voor het eerste half uur gebruiken.",
+  "type": "regel",
+  "reikwijdte": "Naheffingen waarbij de gemeente over een uur rekent",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   23
+  ],
+  "citaat": "betekent dat ervan uit wordt gegaan dat er zestig minuten is geparkeerd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 234 derde lid Gemeentewet",
+  "art. 8:72 lid 3 onder b Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Reken bij een naheffing over een uur het gereduceerde tarief voor het eerste half uur mee.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    23
+   ],
+   "citaat": "dat de heffingsambtenaar rekening had moeten houden met het ter plaatse geldende gereduceerde parkeertarief"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een rekening voor parkeren klopt alleen als het juiste tarief is gebruikt. In deze zaak was het tarief voor het eerste half uur niet meegenomen, en daarom ging het bedrag omlaag. Denkt u dat het tarief of de duur niet klopt, dan kunt u bezwaar maken met bewijs; of dat slaagt, hangt af van de feiten.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

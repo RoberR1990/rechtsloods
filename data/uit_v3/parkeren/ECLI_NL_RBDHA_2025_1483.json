@@ -1,0 +1,179 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2025:1483",
+ "relevant": true,
+ "onderwerp": "parkeernormen",
+ "sub": "parkeernorm-toets",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "stichting (bedrijvenbelang)",
+  "wederpartij": "gemeente Zuidplas",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "voorlopige voorziening",
+ "intro": "Een stichting van ondernemers in het Oude Dorp vroeg de rechter om de omgevingsvergunning voor 16 appartementen voorlopig te schorsen. De voorzieningenrechter van de rechtbank Den Haag beoordeelde dat verzoek tegen de gemeente Zuidplas.",
+ "titel": "Parkeerberekening bouwplan fout, maar schorsing afgewezen",
+ "kern": {
+  "zin": "De voorzieningenrechter zag geen reden om het besluit te schorsen, omdat de parkeerfouten nog hersteld kunnen worden.",
+  "bron": [
+   67,
+   60
+  ],
+  "citaat": "geen reden om het bestreden besluit te schorsen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De stichting vroeg de rechter om de vergunning voor 16 appartementen in het Oude Dorp voorlopig te schorsen.",
+   "bron": [
+    12
+   ],
+   "citaat": "tegen de verleende omgevingsvergunning voor het bouwen van 16 appartementen"
+  },
+  {
+   "zin": "De stichting vond dat de parkeertelling fout was, omdat de telling was gebaseerd op zone A terwijl het gebied in zone B ligt.",
+   "bron": [
+    55
+   ],
+   "citaat": "Volgens verzoekster is de parkeertelling foutief uitgevoerd op basis van zone A"
+  },
+  {
+   "zin": "De rechter vond dat de parkeerberekening wel verkeerd was, maar dat dit later hersteld kan worden.",
+   "bron": [
+    58
+   ],
+   "citaat": "Verzoekster voert terecht aan dat de berekening van het aantal voor het bouwplan benodigde parkeerplaatsen onjuist is uitgevoerd"
+  },
+  {
+   "zin": "De rechter vond dat niet aannemelijk was dat de parkeermetingen niet klopten.",
+   "bron": [
+    61
+   ],
+   "citaat": "Dat de resultaten van de uitgevoerde parkeermetingen niet representatief zouden zijn, is niet aannemelijk gemaakt"
+  },
+  {
+   "zin": "De voorzieningenrechter zag daarom geen reden om het besluit te schorsen en wees het verzoek af.",
+   "bron": [
+    67
+   ],
+   "citaat": "geen reden om het bestreden besluit te schorsen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Verzoek om schorsing afgewezen; vergunning blijft gelden",
+ "gevolg_betrokkene": {
+  "zin": "Het besluit wordt niet geschorst, en de stichting krijgt geen griffierecht terug.",
+  "bron": [
+   68
+  ],
+  "citaat": "Dat betekent dat het bestreden besluit niet wordt geschorst"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "parkeernorm-onvoldoende",
+   "burger_zegt": "De parkeernorm voor de appartementen is verkeerd berekend.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond de berekening terecht fout, maar dat kan bij de beslissing op bezwaar worden hersteld.",
+    "bron": [
+     58
+    ],
+    "citaat": "Verzoekster voert terecht aan dat de berekening van het aantal voor het bouwplan benodigde parkeerplaatsen onjuist is uitgevoerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "de berekening van het aantal voor het bouwplan benodigde parkeerplaatsen onjuist is uitgevoerd",
+    "bron": [
+     58
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeermetingen zijn niet representatief en te oud.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag geen bewijs dat de metingen niet klopten en vond de stelling onvoldoende.",
+    "bron": [
+     61
+    ],
+    "citaat": "Dat de resultaten van de uitgevoerde parkeermetingen niet representatief zouden zijn, is niet aannemelijk gemaakt"
+   },
+   "bruikbare_zin": {
+    "citaat": "De enkele stelling dat te weinig metingen zijn verricht",
+    "bron": [
+     61
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Bij de nieuwe woningen komt geen fietsenstalling.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag dat er wel fietsenstallingen komen, binnen het plan en voor bezoekers.",
+    "bron": [
+     63
+    ],
+    "citaat": "Deze verzoeksgrond mist, zoals ook ter zitting is gebleken, feitelijke grondslag"
+   },
+   "bruikbare_zin": {
+    "citaat": "Deze verzoeksgrond mist",
+    "bron": [
+     63
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een college mag een parkeerplicht afwijken als de parkeerbehoefte in de openbare ruimte past binnen de Nota Parkeernormen.",
+  "type": "regel",
+  "reikwijdte": "bouwplannen die van het bestemmingsplan afwijken, zonder parkeerplaatsen op eigen terrein",
+  "uitzondering": null,
+  "herkomst": "lokale verordening",
+  "bron": [
+   54
+  ],
+  "citaat": "mits de parkeerbehoefte kan worden opgevangen in de openbare ruimte overeenkomstig de criteria"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "parkeeronderzoeken van adviesbureaus",
+   "parkeerdrukmetingen",
+   "notitie van adviesbureau"
+  ],
+  "wat_gaf_doorslag": "De metingen van de adviesbureaus bleven overeind, omdat de stichting geen eigen telling liet doen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 2.12 Wabo",
+  "art. 3.1 en 3.4 planregels Parapluherziening Parkeren",
+  "Nota Parkeernormen 2019"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Motiveer in het besluit waarom salderen met de oude functie wel mag, als de Nota dat niet toestaat.",
+   "raakt": "vergunningen",
+   "bron": [
+    59
+   ],
+   "citaat": "Het college heeft niet gemotiveerd waarom in afwijking van die norm uit het beleid salderen wel aanvaardbaar is geacht"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "verordening-beleid",
+  "bezwaar"
+ ],
+ "klantuitleg": "Dit gaat niet over een naheffing of boete, maar over een bouwvergunning. De rechter vond dat de parkeerberekening fouten had, die bij het bezwaar hersteld kunnen worden. Wilt u tegen het plan opkomen, dan maakt een eigen parkeerberekening meer kans dan losse bezwaren.",
+ "gemeente": "Zuidplas",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

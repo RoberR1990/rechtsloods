@@ -1,0 +1,132 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2026:8424",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "kentekenhouder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Het gaat om een parkeerrekening achteraf (de naheffing) in Amsterdam. Een kentekenhouder procedeert tegen de gemeente Amsterdam bij de rechtbank Amsterdam, maar zijn beroep kwam te laat binnen.",
+ "titel": "Beroep te laat ingediend tegen parkeerrekening achteraf",
+ "kern": {
+  "zin": "De rechter vond geen goede reden voor de te late indiening, dus het beroep wordt niet inhoudelijk beoordeeld.",
+  "bron": [
+   22
+  ],
+  "citaat": "De rechtbank concludeert daarom dat er geen verschoonbare reden is voor de termijnoverschrijding"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 2 september 2025 stond de auto van de kentekenhouder zonder betaalde parkeerbelasting op straat, en volgde een naheffing.",
+   "bron": [
+    15
+   ],
+   "citaat": "Om 10:03 uur heeft een parkeercontroleur van de gemeente Amsterdam geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De kentekenhouder zegt dat de uitspraak op bezwaar eerst op een verkeerd adres is bezorgd.",
+   "bron": [
+    20
+   ],
+   "citaat": "onjuist adres is bezorgd, waardoor eiser de bestreden uitspraak pas op 13 december 2025"
+  },
+  {
+   "zin": "De gemeente wijst naar haar verzendadministratie als bewijs dat de uitspraak per e-mail is verstuurd.",
+   "bron": [
+    21
+   ],
+   "citaat": "Daartoe verwijst de heffingsambtenaar naar de verzendadministratie"
+  },
+  {
+   "zin": "De rechter stelde vast dat de kentekenhouder niet ontkende de uitspraak per e-mail te hebben ontvangen.",
+   "bron": [
+    22
+   ],
+   "citaat": "eiser niet heeft ontkend dat hij de bestreden uitspraak per mail heeft gekregen"
+  },
+  {
+   "zin": "Omdat de termijn niet verschoonbaar was, is het beroep niet-ontvankelijk (de rechter bekijkt de inhoud dan niet).",
+   "bron": [
+    24
+   ],
+   "citaat": "Omdat de termijnoverschrijding niet verschoonbaar is, is het beroep niet-ontvankelijk"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep te laat; de naheffing is niet inhoudelijk beoordeeld",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan, en er is geen vergoeding van het griffierecht (het bedrag voor de rechtszaak) of van proceskosten.",
+  "bron": [
+   25
+  ],
+  "citaat": "Voor een veroordeling in de proceskosten of vergoeding van het griffierecht bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "De uitspraak kwam op een verkeerd adres en pas op 13 december binnen, dus de termijn is verschoonbaar.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag geen verschoonbare reden voor de termijnoverschrijding.",
+    "bron": [
+     22
+    ],
+    "citaat": "De rechtbank concludeert daarom dat er geen verschoonbare reden is voor de termijnoverschrijding"
+   },
+   "bruikbare_zin": {
+    "citaat": "Ook is het onduidelijk op welke manier en wanneer eiser dan de bestreden uitspraak heeft ontvangen",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Valt het einde van een wettelijke termijn op een zaterdag, zondag of feestdag, dan schuift die door naar de eerstvolgende werkdag.",
+  "type": "regel",
+  "reikwijdte": "wettelijke termijnen die op een zaterdag, zondag of algemeen erkende feestdag eindigen",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   17
+  ],
+  "citaat": "wordt verlengd tot en met de eerstvolgende dag die niet een zaterdag, zondag of algemeen erkende feestdag is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verzendadministratie van de gemeente"
+  ],
+  "wat_gaf_doorslag": "De kentekenhouder had niet uitgelegd hoe en wanneer hij de uitspraak ontving."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:7 Awb",
+  "art. 6:9 lid 1 Awb",
+  "art. 6:11 Awb",
+  "art. 26c AWR",
+  "art. 1 lid 1 Algemene termijnenwet"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver procedurele uitspraak",
+ "raakt": [
+  "bezwaar",
+  "communicatie"
+ ],
+ "klantuitleg": "Een beroep moet op tijd binnen zijn, anders bekijkt de rechter de zaak meestal niet inhoudelijk. Let daarom goed op de datum van de uitspraak en op de dag waarop de termijn eindigt. Krijgt u een uitspraak per e-mail of per post, bewaar dan bewijs van de datum waarop u die ontvangt.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

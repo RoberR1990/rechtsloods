@@ -1,0 +1,206 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2019:8691",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bedrijf kreeg een boete van € 90 omdat zijn voertuig, langer dan 6 meter, buiten de toegestane tijden in Rotterdam stond geparkeerd. Het bedrijf ging in hoger beroep tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Beroep was op tijd, maar boete voor te lang voertuig blijft",
+ "kern": {
+  "zin": "De rechter vindt het beroep wel op tijd, maar verklaart het ongegrond: het voertuig was langer dan 6 meter en de boete blijft staan.",
+  "bron": [
+   40
+  ],
+  "citaat": "wordt het beroep tegen de beslissing van de officier van justitie ongegrond verklaard"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het bedrijf kreeg een boete van € 90 voor een voertuig langer dan 6 meter dat buiten de toegestane tijden in Rotterdam stond.",
+   "bron": [
+    25
+   ],
+   "citaat": "als kentekenhouder bij deze inleidende beschikking een administratieve sanctie van € 90,- opgelegd"
+  },
+  {
+   "zin": "De kantonrechter vond het beroep te laat; de rechter in hoger beroep rekent een extra dag mee en vindt het beroep wel op tijd.",
+   "bron": [
+    23
+   ],
+   "citaat": "Het beroep is dan ook, anders dan de kantonrechter heeft geoordeeld, tijdig ingesteld"
+  },
+  {
+   "zin": "Het bedrijf zei dat het voertuig niet te lang was en dat het pas laat hoorde dat de handhaver de lengte uit RDW-gegevens haalde.",
+   "bron": [
+    26
+   ],
+   "citaat": "de verbalisant op basis van de gegevens van de RDW heeft vastgesteld dat het voertuig 6.16 meter was"
+  },
+  {
+   "zin": "De handhaver verklaarde dat het voertuig volgens de RDW-gegevens langer was dan 6 meter.",
+   "bron": [
+    33
+   ],
+   "citaat": "De betrokkene heeft de beschikking gekregen omdat het voertuig langer dan 6 meter was volgens de RDW gegevens."
+  },
+  {
+   "zin": "De rechter vindt dat alleen zeggen dat het voertuig korter is niet genoeg is, en dat het bedrijf niet in zijn verdediging is geschaad.",
+   "bron": [
+    35
+   ],
+   "citaat": "De enkele stelling dat het voertuig niet langer was dan 6 meter is onvoldoende"
+  },
+  {
+   "zin": "De boete blijft staan en het bedrijf krijgt geen vergoeding van proceskosten.",
+   "bron": [
+    40
+   ],
+   "citaat": "Omdat de inleidende beschikking niet wordt vernietigd, is er geen aanleiding voor een proceskostenvergoeding"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep was op tijd, maar de boete is terecht.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 90 blijft staan en het bedrijf krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   40,
+   45
+  ],
+  "citaat": "Omdat de inleidende beschikking niet wordt vernietigd, is er geen aanleiding voor een proceskostenvergoeding"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het beroep was wel op tijd, want de laatste dag van de termijn viel op een feestdag.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De termijn eindigde door de Algemene termijnenwet op 1 mei en het beroepschrift was die dag op de post gedaan.",
+    "bron": [
+     23
+    ],
+    "citaat": "Het beroep is dan ook, anders dan de kantonrechter heeft geoordeeld, tijdig ingesteld"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Het voertuig was niet langer dan 6 meter.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Alleen zeggen dat het voertuig niet te lang was is onvoldoende, en het kentekenregister toonde een lengte boven 6 meter.",
+    "bron": [
+     35
+    ],
+    "citaat": "De enkele stelling dat het voertuig niet langer was dan 6 meter is onvoldoende"
+   },
+   "bruikbare_zin": {
+    "citaat": "uit de gegevens in het kentekenregister blijkt dat de opleggertrekker van de betrokkene alleen al 616 cm is",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik kon mij niet verdedigen, omdat pas in hoger beroep bleek dat de lengte uit RDW-gegevens kwam.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het bedrijf had de lengte al eerder ontkend en kon dat onderbouwen zonder te weten hoe de handhaver die had vastgesteld.",
+    "bron": [
+     35
+    ],
+    "citaat": "maakt niet dat de betrokkene in haar verdedigingsbelangen is geschaad"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De handhaver noemde in een aanvullend verslag een andere straat, dus de overtreding is daar niet gedaan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De verkeerde straatnaam is een kennelijke verschrijving; overal elders staat de Columbusstraat.",
+    "bron": [
+     37
+    ],
+    "citaat": "Het hof merkt de verkeerde plaatsaanduiding in het aanvullend proces-verbaal van 7 mei 2018 aan als een kennelijke verschrijving"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Het voertuig is maar 16 centimeter te lang, dus de boete moet lager of vervallen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een kleine overschrijding is geen reden om de boete te matigen of weg te laten.",
+    "bron": [
+     39
+    ],
+    "citaat": "Dat er sprake is van slechts een kleine overschrijding, is naar oordeel van het hof niet een dergelijke reden"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie ontkent dat het voertuig te lang is, moet dat onderbouwen; dat hangt niet af van weten hoe de handhaver de lengte vaststelde.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Ontkenning van de voertuiglengte als de lengte uit de RDW-gegevens blijkt",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   35
+  ],
+  "citaat": "niet afhankelijk van de wetenschap over de wijze waarop de ambtenaar de lengte heeft vastgesteld"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "gegevens uit het RDW-kentekenregister",
+   "processen-verbaal van de handhaver",
+   "foto van de voorkant van het voertuig"
+  ],
+  "wat_gaf_doorslag": "Het kentekenregister toonde dat de trekker alleen al 616 cm lang was en dat werd niet betwist."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:GHARL:2019:3197"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 9 lid 1 Wahv",
+  "art. 3 lid 2 Wahv",
+  "art. 6:9 Awb",
+  "Algemene termijnenwet",
+  "art. 5.8 APV Rotterdam"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Noteer in elk proces-verbaal dezelfde plaats van de overtreding en vermeld waarop de voertuiglengte is gebaseerd.",
+   "raakt": "bezwaar",
+   "bron": [
+    37
+   ],
+   "citaat": "De ambtenaar heeft zowel op de aankondiging van beschikking als in het proces-verbaal van 19 januari 2017 de Columbusstraat genoemd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "scanauto-handhaving",
+  "verordening-beleid"
+ ],
+ "klantuitleg": "Voor voertuigen langer dan 6 meter gelden in het havengebied van Rotterdam verboden parkeertijden. Een boete is terecht als de lengte uit de RDW-gegevens blijkt. Zegt u dat uw voertuig korter is, onderbouw dat dan met stukken, want alleen zeggen dat het niet klopt is niet genoeg.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

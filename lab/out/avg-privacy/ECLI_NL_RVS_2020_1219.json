@@ -1,0 +1,199 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2020:1219",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Reusel-De Mierden",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De man woont in Reusel en wil dat de gemeente zijn gegevens in het bevolkingsregister aanpast. Hij stapt naar de rechter omdat de gemeente dat weigert; nu oordeelt de Raad van State in hoger beroep.",
+ "titel": "Gemeente moet paspoort alsnog laten onderzoeken voor BRP-wijziging",
+ "kern": {
+  "zin": "De Raad van State vernietigt het besluit en vindt dat de gemeente het paspoort alsnog moet laten onderzoeken.",
+  "bron": [
+   36
+  ],
+  "citaat": "Het college moet dit alsnog doen."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger staat in de BRP ingeschreven met een naam en geboortedatum uit 1985.",
+   "bron": [
+    20
+   ],
+   "citaat": "staat in de brp ingeschreven als [naam 1], geboren op [geboortedatum] 1985 te Baishi (China)."
+  },
+  {
+   "zin": "Hij heeft de gemeente verzocht om zijn gegevens te wijzigen.",
+   "bron": [
+    20
+   ],
+   "citaat": "Hij heeft het college verzocht om zijn gegevens te wijzigen"
+  },
+  {
+   "zin": "De gemeente wees dat af omdat volgens haar niet zeker was dat de gegevens onjuist zijn.",
+   "bron": [
+    26
+   ],
+   "citaat": "niet onomstotelijk is komen vast te staan dat de gegevens over [appellant] in de brp onjuist zijn"
+  },
+  {
+   "zin": "De Raad van State zegt dat de gemeente het paspoort alsnog moet laten onderzoeken.",
+   "bron": [
+    36
+   ],
+   "citaat": "Het college moet dit alsnog doen."
+  },
+  {
+   "zin": "De gemeente moet daarna opnieuw op het bezwaar beslissen.",
+   "bron": [
+    38
+   ],
+   "citaat": "Het college moet opnieuw een besluit nemen op het door [appellant] tegen het besluit van 10 juli 2018 gemaakte bezwaar."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "De weigering vervalt; de gemeente moet opnieuw beslissen.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet de proceskosten van € 2.100 en het griffierecht van € 433 vergoeden.",
+  "bron": [
+   48,
+   49
+  ],
+  "citaat": "een bedrag van € 2.100,00"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Mijn naam en geboortedatum in de BRP zijn fout; ik heb documenten die dat laten zien.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vindt dat de rechtbank heeft miskend dat het paspoort en de originele geboorteverklaring hoger staan dan de oude verklaring.",
+    "bron": [
+     36
+    ],
+    "citaat": "De rechtbank heeft het voorgaande niet onderkend. Het betoog slaagt."
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank heeft het voorgaande niet onderkend. Het betoog slaagt.",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente moet zelf de echtheid van mijn documenten onderzoeken en niet alleen twijfelen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vindt dat de gemeente het paspoort bij het onderzoek van Bureau Documenten had moeten betrekken.",
+    "bron": [
+     35
+    ],
+    "citaat": "Het had op de weg van het college gelegen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het had op de weg van het college gelegen",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Met het DNA-onderzoek kan het verband tussen mij en de documenten worden gelegd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vindt dat de gemeente na het onderzoek moet kijken of het DNA-onderzoek het verband bewijst.",
+    "bron": [
+     36
+    ],
+    "citaat": "het college nader moeten beoordelen of het verband kan worden gelegd"
+   },
+   "bruikbare_zin": {
+    "citaat": "het college nader moeten beoordelen of het verband kan worden gelegd",
+    "bron": [
+     36
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de gemeente onderzoek laat doen naar de echtheid van documenten, moet zij documenten die zij al heeft meesturen.",
+  "type": "regel",
+  "reikwijdte": "Bij onderzoek naar de echtheid van documenten die al bij de gemeente liggen.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   35
+  ],
+  "citaat": "om dit paspoort voorafgaand aan het onderzoek aan het Bureau Documenten te doen toekomen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "Chinees paspoort",
+   "notariële verklaring betreffende geboorte",
+   "DNA-verwantschapsonderzoek",
+   "hukou",
+   "notariële bevestiging geen huwelijk"
+  ],
+  "wat_gaf_doorslag": "Het paspoort was al bij de gemeente, maar werd niet naar het Bureau Documenten gestuurd; daardoor kon het niet worden onderzocht."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2019:233",
+   "ECLI:NL:RVS:2019:1626",
+   "ECLI:NL:RVS:2020:611"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 16 AVG",
+  "art. 2.7 Wet brp",
+  "art. 2.8 lid 2 onder c Wet brp",
+  "art. 2.8 lid 2 onder d Wet brp",
+  "art. 2.8 lid 2 onder e Wet brp",
+  "art. 2.58 Wet brp",
+  "art. 3:2 Awb",
+  "art. 8:113 lid 2 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Stuur het paspoort alsnog naar het Bureau Documenten voor onderzoek.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    36
+   ],
+   "citaat": "Het college moet dit alsnog doen."
+  },
+  {
+   "actie": "Beoordeel na dat onderzoek of het DNA-onderzoek het verband met de documenten bewijst.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    36
+   ],
+   "citaat": "het college nader moeten beoordelen of het verband kan worden gelegd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "U wilt dat de gemeente uw naam en geboortedatum in het bevolkingsregister (BRP) aanpast. De gemeente mag dat alleen als vaststaat dat de oude gegevens echt fout zijn. In deze zaak moet de gemeente eerst een paspoort laten onderzoeken en daarna opnieuw beslissen; u kunt daarop wachten.",
+ "gemeente": "Reusel-De Mierden",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

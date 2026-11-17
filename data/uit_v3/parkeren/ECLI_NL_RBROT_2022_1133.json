@@ -1,0 +1,186 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2022:1133",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner kwam in beroep tegen dertien naheffingen (de rekeningen achteraf) van de gemeente Rotterdam. Hij had zijn vergunning tijdelijk aan een vervangende auto gekoppeld, maar dat kenteken stond niet als actief geregistreerd.",
+ "titel": "Vervangende auto niet actief: naheffingen blijven terecht",
+ "kern": {
+  "zin": "De naheffingen zijn terecht, want de vergunning geldt alleen voor het kenteken waarvoor de vergunning is aangevraagd.",
+  "bron": [
+   42,
+   43
+  ],
+  "citaat": "geldt een parkeervergunning alleen voor het kenteken waarvoor de vergunning is aangevraagd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 20 oktober 2020 koppelde de bewoner zijn vergunning tijdelijk aan een andere auto, na een total loss van zijn eigen auto.",
+   "bron": [
+    36
+   ],
+   "citaat": "Op 20 oktober 2020 heeft eiser zijn vergunning tijdelijk gekoppeld aan de auto met kenteken"
+  },
+  {
+   "zin": "De tijdelijke koppeling liep na twee weken af, maar de bewoner had dat over het hoofd gezien.",
+   "bron": [
+    38
+   ],
+   "citaat": "Eiser heeft over het hoofd gezien dat het actieve tijdelijke kenteken"
+  },
+  {
+   "zin": "De gemeente had al dertien naheffingen opgelegd, en twee daarvan vernietigde zij uit coulance.",
+   "bron": [
+    38
+   ],
+   "citaat": "Door verweerder zijn twee naheffingsaanslagen (die met dagtekening 12 november) uit coulance vernietigd."
+  },
+  {
+   "zin": "De bewoner vond het bedrag van circa 715 euro niet in verhouding tot zijn fout.",
+   "bron": [
+    38
+   ],
+   "citaat": "Dit staat niet in verhouding tot de gemaakte fout."
+  },
+  {
+   "zin": "De gemeente stelde dat er geen administratieve fout was en dat de kosten voor de rechtmatigheid niet tellen.",
+   "bron": [
+    40
+   ],
+   "citaat": "Er is door verweerder geen administratieve fout gemaakt."
+  },
+  {
+   "zin": "De rechter oordeelde dat de naheffingen terecht zijn opgelegd en dat de gemeente niet onzorgvuldig handelde.",
+   "bron": [
+    51,
+    45
+   ],
+   "citaat": "Uit wat is overwogen onder 4.1 en 4.2 volgt dat de naheffingsaanslagen terecht aan eiser zijn opgelegd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroepen ongegrond; naheffingen blijven staan, twee al vernietigd uit coulance.",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner blijft de overgebleven naheffingen verschuldigd en krijgt geen proceskosten vergoed.",
+  "bron": [
+   53,
+   51
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Hij had over het hoofd gezien dat de tijdelijke koppeling na twee weken automatisch afliep.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Zonder actief kenteken was er geen parkeren met de vergunning, dus de belasting bleef verschuldigd.",
+    "bron": [
+     43
+    ],
+    "citaat": "Daarmee was geen sprake van parkeren met de parkeervergunning."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het kenteken van de geparkeerde auto dient als actief kenteken geregistreerd te staan",
+    "bron": [
+     42
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Het bedrag van circa 715 euro staat niet in verhouding tot de gemaakte fout.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dat de gemeente geld verliest op de aanslagen maakt de aanslagen niet onevenredig.",
+    "bron": [
+     45
+    ],
+    "citaat": "Dat de naheffingsaanslagen een kostenpost zouden vormen voor verweerder kan er niet toe leiden"
+   },
+   "bruikbare_zin": {
+    "citaat": "het opleggen ervan tegenover eiser onzorgvuldig of onevenredig is",
+    "bron": [
+     45
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente heeft het zorgvuldigheidsbeginsel en het evenredigheidsbeginsel geschonden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er bleek geen te late verzending, en er is geen regel die eerst contact verplicht stelt.",
+    "bron": [
+     50,
+     47
+    ],
+    "citaat": "Dat sprake is van (te) late verzending is in deze gesteld noch gebleken."
+   },
+   "bruikbare_zin": {
+    "citaat": "Geen rechtsregel schrijft verweerder voor om bij repeterende overtreding",
+    "bron": [
+     47
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeervergunning geldt alleen voor het kenteken waarvoor de vergunning is aangevraagd.",
+  "type": "regel",
+  "reikwijdte": "bewonersvergunning bij een tijdelijke kentekenwijziging",
+  "uitzondering": "een vervangende auto mag maximaal twee weken, en alleen als het kenteken actief staat",
+  "herkomst": "lokale verordening",
+  "bron": [
+   42
+  ],
+  "citaat": "geldt een parkeervergunning alleen voor het kenteken waarvoor de vergunning is aangevraagd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "overzicht kentekenhistorie",
+   "parkeercontroles"
+  ],
+  "wat_gaf_doorslag": "Het overzicht van de kentekenhistorie liet zien dat het kenteken niet actief stond."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHDHA:2020:1202",
+   "ECLI:NL:HR:1997:AA3336",
+   "ECLI:NL:GHDHA:2013:4515",
+   "ECLI:NL:RVS:2022:285"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 lid 6 Gemeentewet",
+  "art. 3:2 Awb",
+  "art. 3:4 lid 2 Awb",
+  "Verordening parkeerregulering en parkeerbelasting 2020"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver toetsing van de feiten; geen gemeente-actie gevraagd",
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "vergunningen",
+  "klantcontact"
+ ],
+ "klantuitleg": "Met een vervangende auto geldt uw bewonersvergunning alleen als het kenteken van die auto actief op uw vergunning staat. Een tijdelijke koppeling stopt na twee weken vanzelf, dus controleer dat op tijd. Een bezwaar heeft op dit punt weinig kans, omdat de rechter oordeelde dat de naheffingen terecht zijn opgelegd.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

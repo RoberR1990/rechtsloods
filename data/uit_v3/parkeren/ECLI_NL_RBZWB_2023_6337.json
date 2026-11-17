@@ -1,0 +1,194 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2023:6337",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Tilburg",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing van 43,60 euro voor parkeren in Tilburg zonder betaalde parkeerbelasting. De parkeerder ging in beroep bij de rechtbank Zeeland-West-Brabant tegen de gemeente.",
+ "titel": "Bezwaar moet opnieuw, na een hoorzitting",
+ "kern": {
+  "zin": "De rechter vernietigde de uitspraak op bezwaar, omdat de feiten nog omstreden waren en de burger eerst gehoord moet worden.",
+  "bron": [
+   28,
+   29
+  ],
+  "citaat": "omdat er nog verschil van opvatting bestaat over de feiten"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 4 augustus 2022 stond de auto om 21:13 uur op een plek waar alleen tegen betaling mag worden geparkeerd, en was er niet betaald.",
+   "bron": [
+    16,
+    18
+   ],
+   "citaat": "op 4 augustus 2022 om 21:13 uur"
+  },
+  {
+   "zin": "De burger zei dat de foto's geen bebording of parkeerautomaat lieten zien.",
+   "bron": [
+    24
+   ],
+   "citaat": "Belanghebbende stelt dat er geen bebording of parkeerautomaat is waargenomen"
+  },
+  {
+   "zin": "De burger vond ook dat het inzagerecht en de hoorplicht in het bezwaar niet waren nagekomen.",
+   "bron": [
+    24
+   ],
+   "citaat": "Belanghebbende stelt dat in de bezwaarfase het inzagerecht en de hoorplicht is geschonden"
+  },
+  {
+   "zin": "De gemeente zei dat het toesturen van foto's niets had toegevoegd en dat een hoorzitting niets nieuws had opgeleverd.",
+   "bron": [
+    25,
+    26
+   ],
+   "citaat": "Het toezenden van de foto's aan belanghebbende had geen toegevoegde waarde"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente het inzagerecht niet schond, maar dat de burger zich op goede gronden op de hoorplicht beriep.",
+   "bron": [
+    27,
+    28
+   ],
+   "citaat": "De rechtbank is van oordeel dat de heffingsambtenaar het inzagerecht van belanghebbende niet heeft geschonden."
+  },
+  {
+   "zin": "De rechter stuurde de zaak terug, zodat de gemeente opnieuw moet beslissen na een hoorzitting.",
+   "bron": [
+    29,
+    31
+   ],
+   "citaat": "De rechtbank zal de uitspraak van de heffingsambtenaar vernietigen en de zaak terugwijzen"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Naheffing niet van tafel; alleen hoorplicht en kosten, nieuw besluit nodig.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing is nog niet af: de gemeente moet opnieuw beslissen, en betaalt de burger 1.133 euro proceskosten en 50 euro griffierecht.",
+  "bron": [
+   32,
+   31,
+   39
+  ],
+  "citaat": "De vergoeding bedraagt dan in totaal € 1133."
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De gemeente heeft de hoorplicht in de bezwaarfase niet nageleefd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de burger op goede gronden de hoorplicht had aangevoerd, omdat de feiten nog omstreden waren.",
+    "bron": [
+     28
+    ],
+    "citaat": "omdat er nog verschil van opvatting bestaat over de feiten"
+   },
+   "bruikbare_zin": {
+    "citaat": "omdat er nog verschil van opvatting bestaat over de feiten",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het inzagerecht is geschonden, omdat de stukken in de bezwaarfase niet zijn toegezonden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ziet het inzagerecht in de bezwaarfase als een passief recht, zonder plicht om stukken te sturen.",
+    "bron": [
+     27
+    ],
+    "citaat": "in de bezwaarfase geldt terzake van diezelfde stukken op grond van artikel 7:4 van de Algemene wet bestuursrecht"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat het hier gaat om een inzagerecht en niet om",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Er was geen bebording of parkeerautomaat zichtbaar, dus de betaalplicht was niet duidelijk.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter ging op de bebording niet verder in, omdat de zaak terug naar de gemeente gaat.",
+    "bron": [
+     29
+    ],
+    "citaat": "De rechtbank zal de uitspraak van de heffingsambtenaar vernietigen en de zaak terugwijzen"
+   },
+   "bruikbare_zin": {
+    "citaat": "deugdelijk in de gelegenheid te stellen om te worden gehoord",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente moet de burger deugdelijk de kans geven om gehoord te worden als de feiten nog omstreden zijn.",
+  "type": "regel",
+  "reikwijdte": "Bezwaar waarin partijen het nog oneens zijn over de feiten.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   29,
+   28
+  ],
+  "citaat": "deugdelijk in de gelegenheid te stellen om te worden gehoord"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "overzichtsfoto's van de auto"
+  ],
+  "wat_gaf_doorslag": "De hoorplicht woog zwaarder, omdat de feiten nog niet vaststonden."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2003:AF7495",
+   "ECLI:NL:GHARL:2018:10265"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:4 Awb",
+  "art. 6:22 Awb",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Geef de burger een echte kans om gehoord te worden, voordat op het bezwaar opnieuw wordt beslist.",
+   "raakt": "bezwaar",
+   "bron": [
+    29
+   ],
+   "citaat": "deugdelijk in de gelegenheid te stellen om te worden gehoord"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "bebording-verkeersbesluit"
+ ],
+ "klantuitleg": "De rechter stuurde het bezwaar terug naar de gemeente, zodat u alsnog gehoord wordt. Dat betekent niet dat u gelijk krijgt over de naheffing. Heeft u bewijs, zoals foto's van de borden of de automaat, neem dat dan mee naar de hoorzitting.",
+ "gemeente": "Tilburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

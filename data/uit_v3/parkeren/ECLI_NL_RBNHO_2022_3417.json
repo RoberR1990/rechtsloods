@@ -1,0 +1,158 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2022:3417",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een boete voor een voertuig van meer dan 6 meter op een plek waar dat niet mocht. Via een gemachtigde ging hij bij de kantonrechter van de rechtbank Noord-Holland in beroep tegen de officier van justitie.",
+ "titel": "Boete voor groot voertuig op verboden plek blijft staan",
+ "kern": {
+  "zin": "De boete blijft staan, want uit het dossier bleek voldoende dat het voertuig daar verboden stond.",
+  "bron": [
+   21
+  ],
+  "citaat": "voldoende blijkt dat de gedraging waarvoor de boete is opgelegd, is verricht"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een voertuig van meer dan 6 meter stond zonder ontheffing op een verboden plek.",
+   "bron": [
+    16
+   ],
+   "citaat": "zonder ontheffing parkeren van een voertuig langer dan 6 m"
+  },
+  {
+   "zin": "De gemachtigde klaagde dat het Aanwijsbesluit, de regeling over die plek, niet was verstrekt.",
+   "bron": [
+    18
+   ],
+   "citaat": "dat de officier van justitie niet heeft voldaan aan zijn informatieplicht"
+  },
+  {
+   "zin": "De rechtbank zag het Aanwijsbesluit als openbaar, dus dat verweer werd verworpen.",
+   "bron": [
+    18
+   ],
+   "citaat": "is het door gemachtigde gevraagde Aanwijsbesluit gepubliceerd en voor eenieder toegankelijk"
+  },
+  {
+   "zin": "De kantonrechter vond dat de parkeerder te weinig aanvoerde om aan de verklaring van de ambtenaar te twijfelen.",
+   "bron": [
+    21
+   ],
+   "citaat": "heeft onvoldoende feiten en omstandigheden aangevoerd die aanleiding geven"
+  },
+  {
+   "zin": "De boete was dus terecht, en de kantonrechter zag geen reden om die te verlagen.",
+   "bron": [
+    21
+   ],
+   "citaat": "De kantonrechter ziet in hetgeen betrokkene heeft aangevoerd ook geen reden om de boete te matigen"
+  },
+  {
+   "zin": "Er kwam geen vergoeding van proceskosten, omdat het beroep ongegrond werd verklaard.",
+   "bron": [
+    22
+   ],
+   "citaat": "ziet de kantonrechter geen aanleiding om proceskosten toe te kennen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete blijft; geen proceskosten voor de parkeerder.",
+ "gevolg_betrokkene": {
+  "zin": "De boete blijft staan en de parkeerder krijgt geen proceskosten vergoed.",
+  "bron": [
+   25,
+   26
+  ],
+  "citaat": "verklaart het beroep ongegrond"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het Aanwijsbesluit is niet verstrekt, dus de informatieplicht is geschonden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een schending van die plicht leidt in de regel niet tot het ongeldig worden van de boete.",
+    "bron": [
+     18
+    ],
+    "citaat": "Schending van de informatieplicht door de officier van justitie leidt in de regel niet tot vernietiging"
+   },
+   "bruikbare_zin": {
+    "citaat": "Er is dan ook geen sprake van nieuwe informatie",
+    "bron": [
+     18
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Hij betwistte dat de verklaring van de ambtenaar klopt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Hij gaf te weinig feiten om aan de verklaring te twijfelen.",
+    "bron": [
+     21
+    ],
+    "citaat": "heeft onvoldoende feiten en omstandigheden aangevoerd die aanleiding geven"
+   },
+   "bruikbare_zin": {
+    "citaat": "voldoende blijkt dat de gedraging waarvoor de boete is opgelegd, is verricht",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een schending van de informatieplicht maakt de boete in de regel niet ongeldig, tenzij het om nieuwe informatie gaat.",
+  "type": "regel",
+  "reikwijdte": "informatieplicht van de officier van justitie bij een WAHV-beroep",
+  "uitzondering": "wel als het gaat om nieuwe informatie die de officier had moeten verstrekken",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   18
+  ],
+  "citaat": "Schending van de informatieplicht door de officier van justitie leidt in de regel niet tot vernietiging van de inleidende beschikking"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring ambtenaar in het zaakoverzicht",
+   "lengte volgens RDW-gegevens",
+   "openbaar Aanwijsbesluit"
+  ],
+  "wat_gaf_doorslag": "De verklaring van de ambtenaar; de parkeerder gaf te weinig reden om eraan te twijfelen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 9 WAHV",
+  "APV, aanwijsbesluit grote voertuigen"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "bezwaar",
+  "bebording-verkeersbesluit",
+  "klantcontact"
+ ],
+ "klantuitleg": "Staat uw voertuig langer dan 6 meter op een plek waar dat niet mag, dan kan er een boete komen, ook als de bestuurder er niet bij was. Een formele klacht, zoals een ontbrekend stuk, leidt in de regel niet tot vernietiging van de boete. Wilt u twijfelen aan de verklaring van de ambtenaar, dan heeft u concreet tegenbewijs nodig; algemene twijfel helpt niet.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "niet genoemd in uitspraak of metadata",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

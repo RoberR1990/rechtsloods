@@ -1,0 +1,147 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2021:6940",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam (heffingsambtenaar)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg in Amsterdam een naheffing parkeerbelasting en ging daar tegen in beroep. Zij procedeerde tegen de heffingsambtenaar van de gemeente Amsterdam, bij de rechtbank Amsterdam.",
+ "titel": "Naheffing bleef staan: auto met dichte portieren telde als parkeren",
+ "kern": {
+  "zin": "De rechter oordeelde dat de auto stond geparkeerd en dat er niet alleen werd in- of uitgestapt, dus de naheffing bleef.",
+  "bron": [
+   22
+  ],
+  "citaat": "De rechtbank concludeert dat sprake is van parkeren."
+ },
+ "samenvatting": [
+  {
+   "zin": "Niet betwist is dat de auto op een parkeerplaats stond met gesloten portieren.",
+   "bron": [
+    22
+   ],
+   "citaat": "heeft niet betwist dat de auto op de parkeerplaats stond"
+  },
+  {
+   "zin": "De parkeerder zei dat zij iemand ophaalde, die direct instapte en dat zij weg reed.",
+   "bron": [
+    20
+   ],
+   "citaat": "Zij ging iemand ophalen. Deze persoon is bij haar in de auto gestapt"
+  },
+  {
+   "zin": "Zij vond dat de scanfoto's aanleiding hadden moeten zijn voor een nadere controle.",
+   "bron": [
+    20
+   ],
+   "citaat": "had dit voor de heffingsambtenaar aanleiding moeten zijn om een nadere controle te verrichten"
+  },
+  {
+   "zin": "De gemeente vond dat er sprake was van parkeren en niet van het laten in- of uitstappen.",
+   "bron": [
+    21
+   ],
+   "citaat": "Het gaat niet om het onmiddellijk laten in- of uitstappen van personen"
+  },
+  {
+   "zin": "De rechter zag in het feit dat de buitenspiegels niet waren ingeklapt geen reden voor nader onderzoek.",
+   "bron": [
+    22
+   ],
+   "citaat": "Die omstandigheid kan zich namelijk even goed voordoen als een auto voor een kortere of langere tijd geparkeerd staat."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft; geen proceskosten voor de parkeerder.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan en de gemeente hoeft geen proceskosten aan de parkeerder te vergoeden.",
+  "bron": [
+   24,
+   22
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Zij ging iemand ophalen, dus was er geen sprake van parkeren maar van in- en uitstappen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter was er sprake van parkeren, niet van alleen in- en uitstappen.",
+    "bron": [
+     22
+    ],
+    "citaat": "De rechtbank concludeert dat sprake is van parkeren."
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank concludeert dat sprake is van parkeren.",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De scanfoto's en de buitenspiegels hadden moeten leiden tot een nadere controle.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter gaven de foto's en de spiegels geen reden voor een nadere controle.",
+    "bron": [
+     22
+    ],
+    "citaat": "Er deed zich dan ook geen omstandigheid voor die reden had behoren te geven voor een nadere controle"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat de buitenspiegels van de auto niet waren ingetrokken, is naar het oordeel van de rechtbank onvoldoende onderscheidend",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie zich beroept op de uitzondering voor in- en uitstappen, moet zelf aantonen dat er niet is geparkeerd.",
+  "type": "regel",
+  "reikwijdte": "bij een beroep op de uitzondering voor het laten in- of uitstappen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   22
+  ],
+  "citaat": "is het aan haar om aannemelijk te maken dat er geen sprake is van parkeren"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "scanfoto's van de scanauto",
+   "vaststelling dat de portieren dicht waren"
+  ],
+  "wat_gaf_doorslag": "Dat de auto stond met gesloten portieren en de uitzondering niet bleek."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver feitelijk oordeel over deze ene controle; geen beleidsaanwijzing",
+ "raakt": [
+  "bezwaar",
+  "scanauto-handhaving",
+  "klantcontact"
+ ],
+ "klantuitleg": "Stond uw auto met dichte portieren op een parkeerplaats, dan ziet de rechter dat als parkeren. U moet zelf aantonen dat u alleen iemand ophaalde. Bewijs van een korte stop, zoals foto's of een getuige, kan helpen, maar dat is geen garantie.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

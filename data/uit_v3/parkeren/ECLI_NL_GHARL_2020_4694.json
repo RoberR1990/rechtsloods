@@ -1,0 +1,161 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2020:4694",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeentelijk belastingkantoor Twente",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg een naheffing (een rekening achteraf) voor parkeerbelasting, omdat zijn kaartje niet zichtbaar lag. De gemeente trok de naheffing na bezwaar in; de burger en de gemeente gingen daarna allebei in hoger beroep bij het gerechtshof over de proceskosten.",
+ "titel": "Geen vergoeding bezwaarkosten als gemeente zelf geen fout maakte",
+ "kern": {
+  "zin": "Het hof vindt dat de gemeente de kosten van bezwaar niet hoeft te vergoeden, want een kaartje dat op de grond valt is het risico van de parkeerder; wel krijgt de burger kosten voor het verzet vergoed.",
+  "bron": [
+   34
+  ],
+  "citaat": "De omstandigheid dat het kaartje op de grond gevallen is, komt voor zijn risico."
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder betaalde in de automaat, maar het kaartje lag niet zichtbaar achter de voorruit en viel op de grond.",
+   "bron": [
+    20
+   ],
+   "citaat": "niet op de voorgeschreven wijze zichtbaar achter de voorruit geplaatst"
+  },
+  {
+   "zin": "De gemeente trok de naheffing na bezwaar in, omdat zij de verklaring van de gemachtigde van de parkeerder geloofde.",
+   "bron": [
+    22
+   ],
+   "citaat": "gegrond verklaard en de naheffingsaanslag herroepen"
+  },
+  {
+   "zin": "De parkeerder wilde een hogere vergoeding voor zijn proceskosten.",
+   "bron": [
+    27
+   ],
+   "citaat": "toekenning van een hogere proceskostenvergoeding"
+  },
+  {
+   "zin": "De gemeente zei dat de naheffing niet was ingetrokken door een fout van de gemeente, en dat zij dus geen kosten van bezwaar hoefde te vergoeden.",
+   "bron": [
+    32
+   ],
+   "citaat": "niet is geschied wegens een aan hem te wijten onrechtmatig handelen"
+  },
+  {
+   "zin": "Het hof vond dat de gemeente geen fout maakte en dat de gemeente geen kaartje hoefde te zoeken.",
+   "bron": [
+    34
+   ],
+   "citaat": "Dat is, naar het oordeel van het Hof, geen onrechtmatig handelen te wijten aan de heffingsambtenaar."
+  },
+  {
+   "zin": "Voor het verzet kreeg de burger wel kosten vergoed, omdat de rechtbank die ten onrechte niet had toegekend.",
+   "bron": [
+    41
+   ],
+   "citaat": "Ter zake van de gegrondverklaring van het verzet heeft de Rechtbank ten onrechte geen proceskostenvergoeding toegekend."
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Het gaat alleen om proceskosten; de naheffing was al ingetrokken.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt 393,75 euro aan proceskosten en 128 euro griffierecht terug, maar geen vergoeding voor de kosten van bezwaar.",
+  "bron": [
+   50,
+   51
+  ],
+  "citaat": "veroordeelt de heffingsambtenaar in de proceskosten van belanghebbende tot een bedrag van € 393,75"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente moet de kosten van mijn bezwaar vergoeden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente maakte geen fout, dus er is geen recht op vergoeding van de kosten van bezwaar.",
+    "bron": [
+     34
+    ],
+    "citaat": "Dat is, naar het oordeel van het Hof, geen onrechtmatig handelen te wijten aan de heffingsambtenaar."
+   },
+   "bruikbare_zin": {
+    "citaat": "De omstandigheid dat het kaartje op de grond gevallen is, komt voor zijn risico.",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ook voor het verzet had ik een kostenvergoeding moeten krijgen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank heeft de kosten van het verzet ten onrechte niet toegekend.",
+    "bron": [
+     41
+    ],
+    "citaat": "Ter zake van de gegrondverklaring van het verzet heeft de Rechtbank ten onrechte geen proceskostenvergoeding toegekend."
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente vergoedt kosten van bezwaar alleen als zij het besluit intrekt door een fout die aan de gemeente te wijten is.",
+  "type": "regel",
+  "reikwijdte": "Kosten van bezwaar als een besluit wordt ingetrokken",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   33
+  ],
+  "citaat": "voor zover het bestreden besluit wordt herroepen wegens een aan het bestuursorgaan te wijten onrechtmatigheid"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van de gemachtigde tijdens de telefonische hoorzitting"
+  ],
+  "wat_gaf_doorslag": "De gemeente geloofde de verklaring van de parkeerder; dat is geen fout van de gemeente."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2019:363"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:15 lid 2 Awb",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vergoed kosten van bezwaar alleen als het besluit is ingetrokken door een fout van de gemeente zelf",
+   "raakt": "bezwaar",
+   "bron": [
+    34
+   ],
+   "citaat": "Dat is, naar het oordeel van het Hof, geen onrechtmatig handelen te wijten aan de heffingsambtenaar."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Heeft u betaald maar lag het kaartje niet zichtbaar, dan kan de gemeente de rekening achteraf toch intrekken. De kosten van uw bezwaar krijgt u alleen terug als de gemeente zelf een fout maakte. Een kaartje dat op de grond valt is uw eigen risico, dus leg het goed neer en bewaar het.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "belastingkantoor voor meerdere gemeenten; geen gemeente genoemd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,165 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2026:12588",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Zandvoort (belastingkantoor Kennemerland Zuid)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing in Zandvoort, omdat hij op een andere parkeerzone stond dan waarvoor hij had betaald. Hij ging in beroep tegen de gemeente bij de rechtbank Noord-Holland.",
+ "titel": "Naheffing vernietigd: zonegrens was op straat niet duidelijk genoeg",
+ "kern": {
+  "zin": "De rechter vernietigde de naheffing, omdat de gemeente de grens tussen twee zones op straat onvoldoende kenbaar had gemaakt.",
+  "bron": [
+   25
+  ],
+  "citaat": "Naar het oordeel van de rechtbank heeft de gemeente de grens tussen de twee zonenummers"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle op 1 juni 2025 bleek de auto in Zandvoort niet betaald; er volgde een naheffing.",
+   "bron": [
+    16
+   ],
+   "citaat": "stond geparkeerd op het [straat 1] te Zandvoort zonder dat aan de betaalplicht was voldaan."
+  },
+  {
+   "zin": "De parkeerder zegt dat hij via de app het juiste tarief betaalde, voor het gebied dat hij koos.",
+   "bron": [
+    19
+   ],
+   "citaat": "via de app YellowBrick het juiste uurtarief heeft betaald voor het daarin aangegeven gebied"
+  },
+  {
+   "zin": "De gemeente gaf toe dat de bebording ter plaatse niet helemaal duidelijk was, maar vond de naheffing terecht.",
+   "bron": [
+    24
+   ],
+   "citaat": "Verweerder erkent dat de bebording ter plaatse enigszins aan duidelijkheid te wensen overlaat"
+  },
+  {
+   "zin": "De rechter legde de bewijslast bij de gemeente, en die slaagde daar niet in.",
+   "bron": [
+    25
+   ],
+   "citaat": "De bewijslast voor het terecht opleggen van een naheffingsaanslag rust op verweerder."
+  },
+  {
+   "zin": "De gemeente moet de proceskosten van 15 euro en het griffierecht van 53 euro vergoeden.",
+   "bron": [
+    28
+   ],
+   "citaat": "De rechtbank veroordeelt verweerder in de door belanghebbende gemaakte proceskosten."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd; de gemeente had de zonegrens niet duidelijk genoeg aangegeven.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft de naheffing niet te betalen en krijgt proceskosten en griffierecht terug.",
+  "bron": [
+   28
+  ],
+  "citaat": "Verder dient verweerder het betaalde griffierecht aan belanghebbende te vergoeden."
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "De parkeerder zegt dat op straat niet duidelijk was welke zone bij zijn plek hoorde.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente de zonegrens op straat onvoldoende kenbaar had gemaakt.",
+    "bron": [
+     25
+    ],
+    "citaat": "Het geldende parkeerregime moet op straat voldoende kenbaar zijn."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het geldende parkeerregime moet op straat voldoende kenbaar zijn.",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "De parkeerder had wel betaald, alleen voor een andere zone.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de parkeerder niet hoefde na te gaan welk tarief bij de andere zone hoorde.",
+    "bron": [
+     25
+    ],
+    "citaat": "Van belanghebbende mag niet worden verwacht dat hij in de betreffende parkeerverordening nagaat welk tarief geldt"
+   },
+   "bruikbare_zin": {
+    "citaat": "Van belanghebbende mag niet worden verwacht dat hij in de betreffende parkeerverordening nagaat welk tarief geldt",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een betaald parkeerregime moet op straat voldoende zichtbaar zijn voor wie er parkeert.",
+  "type": "regel",
+  "reikwijdte": "Betaald parkeren met meerdere zones op een straat",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "Het geldende parkeerregime moet op straat voldoende kenbaar zijn."
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "bord met P-zone A",
+   "betaalbewijzen uit de app YellowBrick"
+  ],
+  "wat_gaf_doorslag": "De gemeente kon niet aantonen welk zonenummer bij het bord hoorde."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerste": [
+   "ECLI:NL:HR:2020:1014"
+  ]
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Zet bij elke zonegrens op straat een duidelijk bord met het zonenummer.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    25
+   ],
+   "citaat": "Het geldende parkeerregime moet op straat voldoende kenbaar zijn."
+  },
+  {
+   "actie": "Vermeld op de bebording het zonenummer, zodat de parkeerder ziet welk tarief geldt.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    25
+   ],
+   "citaat": "maar blijkt niet welk zonenummer het betreft"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar",
+  "betaalapp"
+ ],
+ "klantuitleg": "Bij betaald parkeren betaalt u voor de zone waar uw auto staat. Staat op straat niet duidelijk welk zonenummer geldt, dan kan een naheffing ten onrechte zijn. Bewaar daarom uw betaalbewijs uit de app, want dat helpt bij bezwaar.",
+ "gemeente": "Zandvoort",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

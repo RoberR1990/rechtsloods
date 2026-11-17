@@ -1,0 +1,175 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2018:2839",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Sittard-Geleen",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een inwoner van Geleen vroeg de gemeente Sittard-Geleen om haar voornaam en geboortejaar in de basisregistratie personen (BRP) te wijzigen. Zij ging in hoger beroep bij de Raad van State tegen de uitspraak van de rechtbank Limburg.",
+ "titel": "Gemeente mocht BRP-wijziging weigeren zonder gelegaliseerde stukken",
+ "kern": {
+  "zin": "De rechter vond dat de burger de vereiste documenten niet had aangeleverd om te bewijzen dat de BRP-gegevens onjuist waren.",
+  "bron": [
+   46
+  ],
+  "citaat": "niet de vereiste documenten zijn aangeleverd om aan te tonen dat de in de brp geregistreerde gegevens onjuist zijn"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente om haar voornaam en geboortejaar in de BRP aan te passen.",
+   "bron": [
+    21
+   ],
+   "citaat": "heeft het college verzocht om haar voornaam en haar geboortejaar aan te passen in de brp"
+  },
+  {
+   "zin": "De gemeente weigerde, omdat zij niet de juiste documenten had gegeven om te bewijzen dat de BRP-gegevens onjuist waren.",
+   "bron": [
+    21
+   ],
+   "citaat": "omdat [appellante] niet de juiste documenten heeft aangeleverd om aan te tonen dat de gegevens in de brp onjuist"
+  },
+  {
+   "zin": "De burger zei dat haar Chinese paspoort en een notariële geboorteakte met een kopie van het Chinese huishoudregister (hukou) genoeg bewijs waren.",
+   "bron": [
+    24
+   ],
+   "citaat": "Zij heeft een gelegaliseerde notariële geboorteakte overgelegd en het daaraan ten grondslag liggende brondocument"
+  },
+  {
+   "zin": "De rechter zei dat een paspoort geen brondocument is.",
+   "bron": [
+    27
+   ],
+   "citaat": "Een paspoort is geen brondocument omdat dit is verleend op grond van andere documenten"
+  },
+  {
+   "zin": "De hukou-kopie was niet gelegaliseerd door het Chinese ministerie en de Nederlandse ambassade, dus de documenten voldeden niet aan de eisen.",
+   "bron": [
+    46
+   ],
+   "citaat": "is niet voldaan aan de eisen die aan documenten zijn gesteld"
+  },
+  {
+   "zin": "Ook was niet aangetoond dat de burger dezelfde persoon is als in de documenten staat; het hoger beroep was ongegrond.",
+   "bron": [
+    50
+   ],
+   "citaat": "heeft niet duidelijk gemaakt hoe de Chinese autoriteiten en de betrokken notaris hebben kunnen vaststellen dat zij dezelfde persoon is"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; uitspraak van de rechtbank bevestigd.",
+ "gevolg_betrokkene": {
+  "zin": "De gegevens in de BRP blijven zoals ze zijn en de gemeente hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   54
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Haar paspoort en de andere stukken tonen aan dat haar voornaam en geboortejaar anders zijn dan in de BRP.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Door ontbrekende legalisatie van de hukou voldeden de documenten niet aan de eisen.",
+    "bron": [
+     46
+    ],
+    "citaat": "is niet voldaan aan de eisen die aan documenten zijn gesteld"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet de vereiste documenten zijn aangeleverd om aan te tonen dat de in de brp geregistreerde gegevens onjuist zijn",
+    "bron": [
+     46
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Zij bood DNA-onderzoek aan als extra bewijs.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "DNA-onderzoek kan alleen als documenten een afstammingsrelatie niet kunnen aantonen; hier ging het om een voornaam en geboortejaar.",
+    "bron": [
+     46
+    ],
+    "citaat": "DNA-onderzoek kan slechts plaatsvinden indien genoegzaam is gebleken dat het niet mogelijk is"
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De rechtbank beoordeelde ten onrechte of de documenten wel op haar betrekking hadden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente had dat ook als reden voor de weigering genoemd, dus de rechtbank bleef binnen het geschil.",
+    "bron": [
+     49
+    ],
+    "citaat": "De rechtbank is met rechtsoverweging 13 in de aangevallen uitspraak niet buiten de omvang van het geding getreden"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het bewijs dat gegevens in de BRP onjuist zijn, kan alleen met de juiste brondocumenten worden geleverd.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om al in de BRP geregistreerde gegevens te wijzigen, vooral bij buitenlandse documenten",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   26
+  ],
+  "citaat": "Het bewijs dat eenmaal in de brp opgenomen gegevens feitelijk onjuist zijn, kan alleen worden geleverd door overlegging van de juiste brondocumenten"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "Chinees paspoort",
+   "notariële geboorteakte",
+   "kopie van de hukou met stempel",
+   "verklaring van het Public Security Bureau",
+   "Chinese ID-kaart uit 1986"
+  ],
+  "wat_gaf_doorslag": "De legalisatie van de hukou door het Chinese ministerie en de Nederlandse ambassade ontbrak."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2015:2285"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1.4 Wet BRP",
+  "art. 2.8 lid 2 Wet BRP",
+  "art. 2.58 lid 1 Wet BRP"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij een verzoek om BRP-gegevens te wijzigen of buitenlandse brondocumenten zijn gelegaliseerd volgens de eisen van het ministerie van Buitenlandse Zaken.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    46
+   ],
+   "citaat": "is niet voldaan aan de eisen die aan documenten zijn gesteld"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp"
+ ],
+ "klantuitleg": "De gemeente past uw gegevens in de basisregistratie personen (BRP) pas aan als zeker vaststaat dat ze onjuist zijn. Daarvoor zijn de juiste brondocumenten nodig, en buitenlandse stukken moeten in de regel zijn gelegaliseerd (officieel echt verklaard). Een paspoort alleen is niet genoeg, dus vraag burgerzaken welke documenten u precies nodig hebt.",
+ "gemeente": "Sittard-Geleen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

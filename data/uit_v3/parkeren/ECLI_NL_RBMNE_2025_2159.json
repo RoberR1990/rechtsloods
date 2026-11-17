@@ -1,0 +1,180 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2025:2159",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "Belastingsamenwerking gemeenten en hoogheemraadschap Utrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg in Utrecht een naheffing (de rekening achteraf), omdat hij niet betaalde bij een kapotte parkeerautomaat. Hij gaat in beroep bij de rechtbank Midden-Nederland tegen de uitspraak op bezwaar van de belastingsamenwerking.",
+ "titel": "Kapotte parkeerautomaat: naheffing blijft staan",
+ "kern": {
+  "zin": "De rechter vindt dat de parkeerder redelijkerwijs kon betalen, ook met een automaat op 300 meter, en dat er geen overmacht was.",
+  "bron": [
+   22,
+   23
+  ],
+  "citaat": "De rechtbank oordeelt dat het voor eiser redelijkerwijs mogelijk was om parkeerbelasting te betalen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Voor een parkeerplek in Utrecht legde de belastingsamenwerking een naheffing op.",
+   "bron": [
+    15
+   ],
+   "citaat": "zonder dat de verschuldigde parkeerbelasting was betaald"
+  },
+  {
+   "zin": "De parkeerder zegt dat de automaat al sinds 5 november 2022 kapot was en dat de volgende ruim 300 meter verder stond.",
+   "bron": [
+    17
+   ],
+   "citaat": "de parkeerautomaat in elk geval sinds 5 november 2022 buiten gebruik was"
+  },
+  {
+   "zin": "De gemeente vindt dat bij een kapotte automaat een andere automaat moet worden gebruikt, en dat een knieblessure dat niet verandert.",
+   "bron": [
+    19
+   ],
+   "citaat": "dat bij een defecte parkeerautomaat een andere automaat gebruikt moet worden"
+  },
+  {
+   "zin": "De rechter vindt dat een wandeling van 3 tot 4 minuten van parkeerders gevraagd kan worden, en dat betalen dus redelijkerwijs mogelijk was.",
+   "bron": [
+    22
+   ],
+   "citaat": "De rechtbank is van oordeel dat een wandeling van 3 tot 4 minuten gevraagd kan worden van parkeerders"
+  },
+  {
+   "zin": "Een beroep op overmacht slaagt niet, omdat de omstandigheden van de parkeerder daar niet onder vallen.",
+   "bron": [
+    23
+   ],
+   "citaat": "De omstandigheden die eiser daarover heeft aangevoerd, vallen daar naar het oordeel van de rechtbank niet onder"
+  },
+  {
+   "zin": "De rechter verklaart het beroep ongegrond.",
+   "bron": [
+    27
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; parkeerder krijgt griffierecht niet terug",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt geen gelijk, dus de naheffing blijft staan, en ook het griffierecht en de proceskosten krijgt hij niet vergoed.",
+  "bron": [
+   25
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De automaat was al sinds 5 november 2022 kapot, en de volgende stond 300 meter verder.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de parkeerder redelijkerwijs kon betalen, ook met een automaat op 300 meter afstand.",
+    "bron": [
+     22
+    ],
+    "citaat": "De rechtbank oordeelt dat het voor eiser redelijkerwijs mogelijk was om parkeerbelasting te betalen"
+   },
+   "bruikbare_zin": {
+    "citaat": "een wandeling van 3 tot 4 minuten gevraagd kan worden van parkeerders, mits zij ook die tijd worden gegund om te betalen",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "overmacht-medisch",
+   "burger_zegt": "Door een knieblessure kon hij niet 300 meter heen en weer lopen, en dat is overmacht.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de omstandigheden van de parkeerder niet onder overmacht vallen.",
+    "bron": [
+     23
+    ],
+    "citaat": "De omstandigheden die eiser daarover heeft aangevoerd, vallen daar naar het oordeel van de rechtbank niet onder"
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank is van oordeel dat van overmacht geen sprake is",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De beslistermijn van 16 weken is ruim overschreden, dus het bezwaar is niet serieus genomen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een te late uitspraak op bezwaar maakt die uitspraak niet ongeldig.",
+    "bron": [
+     21
+    ],
+    "citaat": "niet betekent dat de uitspraak op bezwaar niet geldig is"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet betekent dat de uitspraak op bezwaar niet geldig is",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeerbelasting is objectief: persoonlijke omstandigheden tellen alleen mee bij een echte noodsituatie waarin iemand fysiek niet kan betalen.",
+  "type": "regel",
+  "reikwijdte": "noodsituatie of spoedeisende situatie waardoor iemand absoluut, feitelijk en fysiek verhinderd is om te betalen",
+  "uitzondering": "overmacht (noodsituatie of spoedeisende situatie)",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "De parkeerbelasting is een objectieve belasting"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De omstandigheden vielen niet onder overmacht, en de parkeerder kon eerst naar een andere automaat of een parkeerapp."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "parkeerverordening Utrecht (aanwijzing van de plaats)"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet bij een kapotte automaat een werkende automaat of betaalmogelijkheid dichterbij neer.",
+   "raakt": "betaalapp",
+   "bron": [
+    22
+   ],
+   "citaat": "het beter zou zijn als er dichterbij nog een parkeerautomaat zou staan"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "betaalapp",
+  "tarief-naheffing",
+  "bezwaar"
+ ],
+ "klantuitleg": "De rekening voor het parkeren is terecht als u niet betaalde en geen geldige reden had. Een kapotte automaat is op zichzelf geen reden; dan wordt verwacht dat u een andere automaat of een parkeerapp gebruikt. Heeft u bezwaar, dan telt vooral of u echt niet kon betalen; in deze zaak is dat niet aangenomen.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

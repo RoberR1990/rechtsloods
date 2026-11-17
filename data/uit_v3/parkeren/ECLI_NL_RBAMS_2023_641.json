@@ -1,0 +1,129 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2023:641",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "privaat-boete-voorwaarden",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder, een bedrijf)",
+  "wederpartij": "exploitant Q-Park",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "Q-Park, een parkeerexploitant, procedeerde bij de kantonrechter van de rechtbank Amsterdam tegen een bedrijf. Het bedrijf had zonder betaling een garage in Amsterdam verlaten.",
+ "titel": "Treintje rijden: parkeerder betaalt schade, geen incassokosten",
+ "kern": {
+  "zin": "De kantonrechter oordeelde dat Q-Park geen incassokosten kon vragen, omdat het beding in de voorwaarden oneerlijk was.",
+  "bron": [
+   53
+  ],
+  "citaat": "Omdat Q-Park een oneerlijk beding in haar algemene voorwaarden heeft staan"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een bestuurder verliet op 30 mei 2022 de garage zonder te betalen, vlak achter een andere auto.",
+   "bron": [
+    44
+   ],
+   "citaat": "heeft niet betwist dat hij op 30 mei 2022 de parkeergarage heeft verlaten"
+  },
+  {
+   "zin": "De exploitant eiste het tarief verloren kaart, een schadevergoeding en buitengerechtelijke incassokosten.",
+   "bron": [
+    41
+   ],
+   "citaat": "is op grond van de algemene voorwaarden gehouden het geldende tarief verloren kaart"
+  },
+  {
+   "zin": "De bestuurder zei dat de automaat geen muntjes accepteerde, en hij had geen pinpas bij zich.",
+   "bron": [
+    42
+   ],
+   "citaat": "Dit lukt niet omdat de parkeerautomaat geen muntjes accepteerde"
+  },
+  {
+   "zin": "De kantonrechter vond dat de bestuurder geen overmacht had aangetoond.",
+   "bron": [
+    45
+   ],
+   "citaat": "is daarom onvoldoende gebleken"
+  },
+  {
+   "zin": "Het bedrijf moet uiteindelijk de hoofdsom van € 358,97 betalen, plus wettelijke rente.",
+   "bron": [
+    58
+   ],
+   "citaat": "€ 358,97 aan hoofdsom, vermeerderd met de wettelijke rente vanaf 27 juni 2022"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Betaalt hoofdsom en rente; incassokosten vervallen en schade iets lager.",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrijf hoeft de incassokosten niet te betalen, maar wel de hoofdsom met rente.",
+  "bron": [
+   53
+  ],
+  "citaat": "Het voorgaande leidt tot afwijzing van de incassokosten"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De automaat nam geen muntjes aan, dus ik kon niet betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter vond dat Q-Park met logs liet zien dat er geen melding was, dus de stelling viel af.",
+    "bron": [
+     45
+    ],
+    "citaat": "Q-Park heeft met het overleggen van de log-gegevens van de desbetreffende parkeergarage"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat er geen meldingen bij de klantenservice zijn binnengekomen",
+    "bron": [
+     45
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een oneerlijk beding in algemene voorwaarden levert de exploitant ook niet de wettelijke incassokosten op.",
+  "type": "regel",
+  "reikwijdte": "Consumentenovereenkomsten met een beding over buitengerechtelijke kosten",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   53
+  ],
+  "citaat": "Omdat Q-Park een oneerlijk beding in haar algemene voorwaarden heeft staan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto's en camerabeelden",
+   "log-gegevens van de parkeergarage",
+   "brief van de bestuurder"
+  ],
+  "wat_gaf_doorslag": "De camerabeelden en de logs zonder klantenservicemelding gaven de doorslag."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:96 BW",
+  "Besluit vergoeding buitengerechtelijke incassokosten",
+  "Richtlijn 93/13 (oneerlijke bedingen)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [],
+ "klantuitleg": "Bij een private parkeergarage hangt het er vaak van af of u vooraf had kunnen betalen. Een automaat die geen muntjes aanneemt is op zichzelf nog geen reden om niet te betalen. Met meldingen of een bewijs van hulp zoeken kunt u zich verweren, maar dat geeft geen zekerheid.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente partij (privaat geschil)",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

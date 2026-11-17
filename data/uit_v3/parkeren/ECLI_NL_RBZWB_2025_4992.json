@@ -1,0 +1,138 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:4992",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Sluis",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffingsaanslag (de rekening achteraf) voor parkeerbelasting in Sluis. Hij ging in beroep bij de rechtbank Zeeland-West-Brabant, tegen de gemeente Sluis.",
+ "titel": "Parkeerrekening terecht: de parkeerautomaat was wel te zien",
+ "kern": {
+  "zin": "De rechter oordeelde dat de parkeerautomaat zichtbaar genoeg was, ook al was het bord slecht te zien.",
+  "bron": [
+   25
+  ],
+  "citaat": "belanghebbende had de parkeerautomaat wel kunnen zien"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeercontroleur zag een auto staan waarvoor geen parkeerbelasting was betaald.",
+   "bron": [
+    14
+   ],
+   "citaat": "Tijdens een controle op voornoemde datum en tijd is door een parkeercontroleur geconstateerd dat geen parkeerbelasting was voldaan."
+  },
+  {
+   "zin": "De parkeerder zei dat een parkeerbord overwoekerd was en dat de betaalautomaat op een ander terrein stond.",
+   "bron": [
+    21
+   ],
+   "citaat": "Een van de parkeerborden was overwoekerd, aldus belanghebbende."
+  },
+  {
+   "zin": "De gemeente liet foto’s zien van een automaat tussen de twee terreinen.",
+   "bron": [
+    25
+   ],
+   "citaat": "Uit de foto’s die door de heffingsambtenaar zijn overgelegd volgt dat tussen de twee parkeerterreinen een parkeerautomaat staat"
+  },
+  {
+   "zin": "De rechter vond dat de parkeerder de automaat wel had kunnen zien, dus de rekening bleef staan.",
+   "bron": [
+    25
+   ],
+   "citaat": "belanghebbende had de parkeerautomaat wel kunnen zien"
+  },
+  {
+   "zin": "De rechtbank wees het beroep af.",
+   "bron": [
+    30
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de rekening blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt de rekening en krijgt het griffierecht niet terug.",
+  "bron": [
+   28
+  ],
+  "citaat": "Belanghebbende krijgt daarom het griffierecht niet terug."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Een parkeerbord was overwoekerd en de automaat stond op een ander terrein.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de automaat wel te zien, dus betalen was duidelijk genoeg.",
+    "bron": [
+     25
+    ],
+    "citaat": "belanghebbende had de parkeerautomaat wel kunnen zien"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft de heffingsambtenaar met deze foto’s aannemelijk gemaakt dat aan het kenbaarheidsvereiste is voldaan",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeerbelasting is verschuldigd als er duidelijk een automaat of bord in de buurt staat.",
+  "type": "regel",
+  "reikwijdte": "betaald parkeren waar automaat of borden in de directe omgeving de betaalplicht duidelijk maken",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "Volgens vaste rechtspraak kan het bestaan van de verplichting om parkeerbelasting te voldoen blijken uit de aanwezigheid van parkeerapparatuur"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto’s van de parkeerautomaat tussen de terreinen"
+  ],
+  "wat_gaf_doorslag": "De foto’s lieten zien dat de automaat er stond."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "art. 1 aanhef en onder a Verordening parkeerbelastingen 2024"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Voeg bij een naheffing foto’s van de automaat en de borden toe.",
+   "raakt": "bezwaar",
+   "bron": [
+    25
+   ],
+   "citaat": "heeft de heffingsambtenaar met deze foto’s aannemelijk gemaakt dat aan het kenbaarheidsvereiste is voldaan"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "bebording-verkeersbesluit"
+ ],
+ "klantuitleg": "Heeft u geen parkeerbelasting betaald, dan kan de gemeente u de rekening voor het parkeren alsnog sturen. Volgens de rechter was in deze zaak duidelijk dat er een parkeerautomaat stond, ook al was een bord slecht zichtbaar. Heeft u een bord niet goed kunnen zien, leg dan vast wat er stond, bijvoorbeeld met een foto.",
+ "gemeente": "Sluis",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

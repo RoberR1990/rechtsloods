@@ -1,0 +1,176 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2026:6262",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder, bijgestaan door een gemachtigde",
+  "wederpartij": "gemeente Arnhem",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg een naheffing (een rekening achteraf) voor parkeren in Arnhem. Hij ging in hoger beroep bij het gerechtshof Arnhem-Leeuwarden tegen de gemeente Arnhem.",
+ "titel": "Betaalbewijs voor andere zone en gemiste hoorzitting: naheffing blijft",
+ "kern": {
+  "zin": "Het hof vond dat de gemeente de parkeerder genoeg kansen gaf om gehoord te worden en dat een betaling voor een andere zone niet telt, dus de naheffing blijft.",
+  "bron": [
+   38
+  ],
+  "citaat": "wijst dit betaalbewijs niet erop dat de belasting is voldaan voor het parkeren van de auto in de"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een scanautocontrole bleek dat voor de auto in zone 26075 in Arnhem geen parkeerbelasting was betaald, en de gemeente legde een naheffing op.",
+   "bron": [
+    17
+   ],
+   "citaat": "Bij een controle met een scanauto op genoemde dag om 17.35 uur is volgens de heffingsambtenaar gebleken"
+  },
+  {
+   "zin": "De parkeerder zei dat hij in bezwaar niet was gehoord, omdat zijn gemachtigde de tweede uitnodiging niet had gekregen.",
+   "bron": [
+    30
+   ],
+   "citaat": "zijn gemachtigde de e-mail van 17 juni 2023 (zie 2.4) niet heeft ontvangen"
+  },
+  {
+   "zin": "De parkeerder zei ook dat hij van 17.17 tot 17.37 uur had betaald.",
+   "bron": [
+    36
+   ],
+   "citaat": "hij op 23 januari 2023 heeft betaald voor het parkeren van 17.17 uur tot 17.37 uur"
+  },
+  {
+   "zin": "De gemeente zei dat het betaalbewijs ging over een andere zone, namelijk 26071.",
+   "bron": [
+    37
+   ],
+   "citaat": "maar betrekking heeft op parkeren op een parkeerplaats in zone 26071"
+  },
+  {
+   "zin": "Het hof vond dat de gemeente twee keer had uitgenodigd en dat de gemachtigde niet had gereageerd, zodat de hoorplicht niet was geschonden.",
+   "bron": [
+    33
+   ],
+   "citaat": "Met de Rechtbank is het Hof van oordeel dat de heffingsambtenaar de hoorplicht in bezwaar niet heeft geschonden"
+  },
+  {
+   "zin": "Het betaalbewijs gold voor een andere zone, dus de naheffing bleef staan en het hoger beroep was ongegrond.",
+   "bron": [
+    39
+   ],
+   "citaat": "De naheffingsaanslag is terecht aan belanghebbende opgelegd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Geen gehoorfout; betaling gold voor andere zone.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing betalen en krijgt geen vergoeding van griffierecht of proceskosten.",
+  "bron": [
+   43
+  ],
+  "citaat": "Het Hof ziet geen aanleiding voor vergoeding van het griffierecht of een veroordeling in de proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De gemeente heeft mij in bezwaar niet gehoord en nodigde mij ten onrechte telefonisch uit.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente nodigde twee keer uit en de gemachtigde reageerde niet; dat had hij wel moeten doen.",
+    "bron": [
+     33
+    ],
+    "citaat": "lag het op de weg van de gemachtigde van belanghebbende om te reageren op de e-mails van de"
+   },
+   "bruikbare_zin": {
+    "citaat": "Door dat niet te doen, kan de heffingsambtenaar niet worden tegengeworpen dat hij belanghebbende in bezwaar niet heeft gehoord",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Ik had betaald voor het parkeren van 17.17 tot 17.37 uur.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het betaalbewijs was voor zone 26071 en niet voor de straat in zone 26075; dat is een ander parkeermoment.",
+    "bron": [
+     38
+    ],
+    "citaat": "Dat is echter een ander belastbaar feit dan het onderhavige"
+   },
+   "bruikbare_zin": {
+    "citaat": "maar voor parkeren elders in de wijk",
+    "bron": [
+     38
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een betaling voor parkeren in een andere zone telt niet als betaling voor de zone waar de auto stond.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Alleen als het betaalbewijs aantoonbaar een andere zone of plek betreft dan waar de naheffing over gaat.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   38
+  ],
+  "citaat": "Dat is echter een ander belastbaar feit dan het onderhavige"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "scanautocontrole",
+   "uitdraai van de parkeerapp",
+   "afdruk van de verzonden e-mail"
+  ],
+  "wat_gaf_doorslag": "Het betaalbewijs noemde een andere zone dan de plek waar de auto stond."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2026:570",
+   "ECLI:NL:HR:2018:2306"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:2 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar een afdruk van de verzonden uitnodiging voor de hoorzitting met het e-mailadres in het dossier.",
+   "raakt": "bezwaar",
+   "bron": [
+    31
+   ],
+   "citaat": "afdruk van de e-mail van 17 juni 2023 acht het Hof de heffingsambtenaar daarin geslaagd"
+  },
+  {
+   "actie": "Schrijf in de beslissing op bezwaar uitdrukkelijk waarom de burger niet is gehoord.",
+   "raakt": "bezwaar",
+   "bron": [
+    34
+   ],
+   "citaat": "niet expliciet in een conclusie is verwoord waarom belanghebbende niet in bezwaar is gehoord"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "betaalapp"
+ ],
+ "klantuitleg": "Een naheffing blijft staan als u in een andere parkeerzone hebt betaald dan waar uw auto stond. Reageer altijd op een uitnodiging voor een hoorzitting, ook als u liever een andere vorm wilt. Controleer bij het betalen of de zone in de app klopt met de plek waar u staat; een bewijs van de juiste zone helpt in bezwaar.",
+ "gemeente": "Arnhem",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

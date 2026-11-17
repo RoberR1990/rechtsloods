@@ -1,0 +1,138 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2026:3312",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een Wahv-boete (de wet voor boetes bij kleine verkeersovertredingen) van 129 euro. De officier van justitie hield de boete in stand, en de kantonrechter van de rechtbank Noord-Nederland besliste over het beroep.",
+ "titel": "Verkeerde feitcode, maar boete blijft staan",
+ "kern": {
+  "zin": "De kantonrechter hield de boete overeind, omdat de verbalisant tien minuten geen activiteit rond de auto zag.",
+  "bron": [
+   21
+  ],
+  "citaat": "De verbalisant heeft verklaard dat hij gedurende minstens tien minuten geen activiteit heeft waargenomen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 13 februari 2025 kreeg een parkeerder in Groningen een boete van 129 euro voor stilstaan op het trottoir.",
+   "bron": [
+    10
+   ],
+   "citaat": "verricht op 13 februari 2025, om 10:22 uur"
+  },
+  {
+   "zin": "De parkeerder zei dat hij bezig was met laden en lossen van een zware oven.",
+   "bron": [
+    16
+   ],
+   "citaat": "Het ging om een oven van meer dan tachtig kilogram"
+  },
+  {
+   "zin": "De officier van justitie vond dat de feitcode veranderd moest worden, maar dat de boete kon blijven staan.",
+   "bron": [
+    17
+   ],
+   "citaat": "stelt zich op het standpunt dat de feitcode gewijzigd dient te worden"
+  },
+  {
+   "zin": "Volgens de rechter ging het om gewoon parkeren, want er was tien minuten geen activiteit rond de auto.",
+   "bron": [
+    21
+   ],
+   "citaat": "Dan is geen sprake van laden en lossen maar van parkeren"
+  },
+  {
+   "zin": "De rechter veranderde de feitcode in parkeren op een plaats bestemd voor onmiddellijk laden en lossen.",
+   "bron": [
+    27
+   ],
+   "citaat": "wijzigt de feitcode en de omschrijving van de gedraging in R397H"
+  },
+  {
+   "zin": "De rechter zag geen reden om het bedrag van 129 euro aan te passen.",
+   "bron": [
+    22
+   ],
+   "citaat": "De kantonrechter ziet geen reden voor aanpassing van de boete"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete blijft 129 euro; alleen de feitcode is aangepast.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt de boete van 129 euro, alleen onder een andere feitcode.",
+  "bron": [
+   22,
+   10
+  ],
+  "citaat": "De kantonrechter ziet geen reden voor aanpassing van de boete"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Hij stond stil om zwaar laden en lossen te doen, en de auto is soms kort verplaatst.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter zag geen laden en lossen, omdat er tien minuten geen activiteit rond het voertuig was.",
+    "bron": [
+     21
+    ],
+    "citaat": "Dan is geen sprake van laden en lossen maar van parkeren"
+   },
+   "bruikbare_zin": {
+    "citaat": "omdat er niet bij voortduring in- of uitgeladen werd",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Van onmiddellijk laden en lossen is alleen sprake als de goederen zonder onderbreking in- of uitgeladen worden.",
+  "type": "regel",
+  "reikwijdte": "parkeren op een plaats bestemd voor onmiddellijk laden en lossen van goederen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   20
+  ],
+  "citaat": "Onder onmiddellijk laden of lossen van goederen wordt verstaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "proces-verbaal van de verbalisant",
+   "aanvullend proces-verbaal"
+  ],
+  "wat_gaf_doorslag": "De verklaring dat er gedurende minstens tien minuten geen activiteit rond het voertuig was."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Wahv (feitcode R315B)",
+  "Wahv (feitcode R397H)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een verkeersboete voor stilstaan kan een verkeerde code hebben; de rechter kan die code dan aanpassen, maar de boete kan wel blijven staan. Laden en lossen telt alleen mee als er de hele tijd iets in- of uitgeladen wordt; tien minuten zonder activiteit telt als parkeren. Wie laden en lossen wil aantonen, kan bewijs laten zien zoals de tijden van de bezorging; zonder dat bewijs heeft bezwaar weinig kans.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

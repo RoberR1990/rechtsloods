@@ -1,0 +1,175 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2017:2939",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Deze zaak gaat over een verzoek om persoonsgegevens in de basisregistratie personen (BRP) te wijzigen. Een man uit Amsterdam heeft hoger beroep ingesteld bij de Raad van State tegen de gemeente Amsterdam.",
+ "titel": "Herhaalde BRP-aanvraag terecht afgewezen",
+ "kern": {
+  "zin": "De Raad van State vindt dat de gemeente de herhaalde aanvraag mocht afwijzen, omdat de man geen nieuw gebleken feiten of veranderde omstandigheden heeft genoemd.",
+  "bron": [
+   33
+  ],
+  "citaat": "Dergelijke feiten of omstandigheden heeft hij niet naar voren gebracht."
+ },
+ "samenvatting": [
+  {
+   "zin": "De man vroeg in 2015 opnieuw om wijziging van zijn gegevens in de BRP.",
+   "bron": [
+    24
+   ],
+   "citaat": "Op 15 april 2015 heeft [appellant] dezelfde aanvraag als op 1 juni 2012 ingediend."
+  },
+  {
+   "zin": "De gemeente wees die aanvraag af.",
+   "bron": [
+    24
+   ],
+   "citaat": "Bij het besluit van 30 juni 2015 heeft het college deze aanvraag afgewezen."
+  },
+  {
+   "zin": "De gemeente vond dat de brief en het stempel geen nieuw gebleken feiten of veranderde omstandigheden waren.",
+   "bron": [
+    24
+   ],
+   "citaat": "niet als nieuw gebleken feiten of veranderde omstandigheden kunnen worden aangemerkt"
+  },
+  {
+   "zin": "De man zei dat hij pas later wist dat hij het eerste paspoort moest laten annuleren.",
+   "bron": [
+    26
+   ],
+   "citaat": "Hij kon dus pas na de uitspraak van de rechtbank in de eerste procedure weten"
+  },
+  {
+   "zin": "De Raad van State oordeelt dat de rechtbank terecht zei dat de brief al eerder kon worden ingebracht.",
+   "bron": [
+    34
+   ],
+   "citaat": "De rechtbank heeft terecht geoordeeld dat [appellant] de informatie neergelegd in de brief van de ambassade"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de eerdere uitspraak blijft staan.",
+   "bron": [
+    38
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak moet worden bevestigd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De rechter wijst het hoger beroep af; de afwijzing van de BRP-wijziging blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "Zijn verzoek om wijziging van de BRP blijft afgewezen en hij krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   38,
+   39
+  ],
+  "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak moet worden bevestigd."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De man vond dat de brief van de Ethiopische ambassade en het stempel op het tweede paspoort nieuwe feiten waren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat hij deze informatie al eerder had kunnen inbrengen.",
+    "bron": [
+     34
+    ],
+    "citaat": "De rechtbank heeft terecht geoordeeld dat [appellant] de informatie neergelegd in de brief van de ambassade"
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank heeft terecht geoordeeld dat [appellant] de informatie neergelegd in de brief van de ambassade",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De man vond dat hij pas na de eerste procedure wist dat hij het eerste paspoort moest laten annuleren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter noemt dat een verkeerde lezing van de eerdere uitspraak.",
+    "bron": [
+     35
+    ],
+    "citaat": "duidt derhalve op een onjuiste lezing van die uitspraak"
+   },
+   "bruikbare_zin": {
+    "citaat": "duidt derhalve op een onjuiste lezing van die uitspraak",
+    "bron": [
+     35
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een herhaalde aanvraag mag de gemeente de aanvraag afwijzen als de burger geen nieuw gebleken feiten of veranderde omstandigheden noemt.",
+  "type": "regel",
+  "reikwijdte": "Herhaalde aanvragen en verzoeken om terug te komen van een besluit.",
+  "uitzondering": "Als het besluit evident onredelijk is.",
+  "herkomst": "wet",
+  "bron": [
+   30
+  ],
+  "citaat": "de herhaalde aanvraag af te wijzen onder verwijzing naar zijn eerdere afwijzende besluit"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "brief van de Ethiopische ambassade van 4 juli 2014",
+   "stempel in het tweede paspoort",
+   "twee Ethiopische paspoorten",
+   "verklaring onder ede of belofte"
+  ],
+  "wat_gaf_doorslag": "Het tweede paspoort was al op 18 juli 2011 afgegeven, ruim voor het eerdere besluit."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 4:6 lid 1 Awb",
+  "art. 4:6 lid 2 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Wijs een herhaalde BRP-aanvraag alleen af als er geen nieuw gebleken feiten of veranderde omstandigheden zijn.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    33
+   ],
+   "citaat": "Het college mocht derhalve van [appellant] verlangen dat hij nieuw gebleken feiten of veranderde omstandigheden zou vermelden"
+  },
+  {
+   "actie": "Beoordeel of de nieuwe stukken al vóór het eerdere besluit beschikbaar waren.",
+   "raakt": "bezwaar",
+   "bron": [
+    34
+   ],
+   "citaat": "omdat het tweede paspoort reeds op 18 juli 2011"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "bezwaar"
+ ],
+ "klantuitleg": "U wilt uw gegevens in de basisregistratie personen (BRP) laten wijzigen. De gemeente mag een nieuwe aanvraag na een eerdere afwijzing afwijzen als u geen nieuwe feiten noemt. Dien nieuwe stukken daarom meteen in en leg uit waarom u die eerder niet had.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,170 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOBR:2025:4783",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Eindhoven",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg drie naheffingsaanslagen (de rekening achteraf) in Eindhoven, omdat hij zijn vergunning niet in de app had aangemeld. Hij ging in beroep bij de rechtbank Oost-Brabant, tegen de gemeente Eindhoven.",
+ "titel": "Parkeervergunning gold niet zonder aanmelding in de app",
+ "kern": {
+  "zin": "De rechter oordeelde dat de vergunning niet geldig was zonder aanmelding in de app, dus de drie rekeningen blijven staan.",
+  "bron": [
+   31
+  ],
+  "citaat": "het niet registreren van een parkeeractie in de parkeerapp 2Park betekent dat de vergunning niet geldig is"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeercontroleur zag de auto in januari 2025 drie keer staan zonder geldig parkeerbewijs.",
+   "bron": [
+    18,
+    19,
+    20
+   ],
+   "citaat": "geconstateerd dat de auto geparkeerd stond zonder een geldig parkeerbewijs"
+  },
+  {
+   "zin": "De parkeerder vond niet dat duidelijk was dat hij de auto ook in de app moest aanmelden.",
+   "bron": [
+    30
+   ],
+   "citaat": "was voor hem niet (voldoende) duidelijk dat hij het te parkeren voertuig ook moest aanmelden in de parkeerapp"
+  },
+  {
+   "zin": "De rechter ging niet mee met die redenering, gelet op de tekst van de vergunning.",
+   "bron": [
+    30
+   ],
+   "citaat": "kan de rechtbank daar niet in mee gaan"
+  },
+  {
+   "zin": "Omdat de auto niet was aangemeld, had de parkeerder bij het begin moeten betalen.",
+   "bron": [
+    31
+   ],
+   "citaat": "Daarom had eiser bij aanvang van het parkeren parkeergeld moeten betalen"
+  },
+  {
+   "zin": "De rechter gaf de gemeente in overweging alsnog coulance te tonen, maar dat hoeft niet.",
+   "bron": [
+    34
+   ],
+   "citaat": "deze uitspraak er voor hem niet aan in de weg staat om alsnog tot coulance te besluiten"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de drie naheffingen blijven staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder houdt de drie rekeningen staan en krijgt het griffierecht niet terug.",
+  "bron": [
+   36
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Het was niet duidelijk dat hij het kenteken ook in de parkeerapp moest aanmelden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de vergunningtekst duidelijk genoeg en ging niet mee met de parkeerder.",
+    "bron": [
+     30
+    ],
+    "citaat": "kan de rechtbank daar niet in mee gaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "het niet registreren van een parkeeractie in de parkeerapp 2Park betekent dat de vergunning niet geldig is",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Door zijn persoonlijke omstandigheden moest de naheffing lager of nul zijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat persoonlijke omstandigheden de rekening niet lager maken.",
+    "bron": [
+     32
+    ],
+    "citaat": "De wet biedt de rechter geen ruimte om vanwege persoonlijke omstandigheden de naheffingsaanslag te matigen"
+   },
+   "bruikbare_zin": {
+    "citaat": "dan is dat juridisch voldoende om de naheffingsaanslag parkeerbelasting op te leggen",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder vroeg om coulance, zodat de gemeente de rekening alsnog laat vallen.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter zei dat de gemeente vrij is om coulance te tonen en daar niet toe verplicht is.",
+    "bron": [
+     34
+    ],
+    "citaat": "de heffingsambtenaar daar geheel vrij in is en niet toe verplicht is"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Staat vast dat iemand ten onrechte niet betaalde, dan mag de gemeente een naheffing (de rekening achteraf) opleggen.",
+  "type": "regel",
+  "reikwijdte": "parkeerder die niet betaalde terwijl betalen verplicht was",
+  "uitzondering": "een uitzonderlijk geval waarin betalen redelijkerwijs niet kon",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   32
+  ],
+  "citaat": "dan is dat juridisch voldoende om de naheffingsaanslag parkeerbelasting op te leggen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "de tekst van de parkeervergunning",
+   "de regels van de parkeerapp 2Park"
+  ],
+  "wat_gaf_doorslag": "De vergunningtekst met de activatie-eis gaf de doorslag."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Overweeg bij meerdere naheffingen op één dag na bezwaar uit coulance één naheffing te handhaven.",
+   "raakt": "bezwaar",
+   "bron": [
+    34
+   ],
+   "citaat": "door na bezwaar bijvoorbeeld uit coulance slechts één van de naheffingsaanslagen te handhaven"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "vergunningen",
+  "betaalapp"
+ ],
+ "klantuitleg": "Heeft u een parkeervergunning, dan moet u het kenteken ook in de parkeerapp aanmelden. Is dat niet gebeurd, dan telt de vergunning niet en kan de gemeente u de rekening voor het parkeren sturen. Persoonlijke omstandigheden maken de rekening volgens de rechter niet lager, dus bezwaar heeft op dat punt weinig kans.",
+ "gemeente": "Eindhoven",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

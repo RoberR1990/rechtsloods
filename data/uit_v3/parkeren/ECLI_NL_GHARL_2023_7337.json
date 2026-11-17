@@ -1,0 +1,188 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2023:7337",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "kentekenhouder (met gemachtigde)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een automobilist kreeg een boete van € 95 omdat zijn bezoekerskaart niet zichtbaar in de auto lag op een plek voor vergunninghouders. De burger ging in hoger beroep tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Bezoekerskaart niet zichtbaar in auto: boete blijft staan",
+ "kern": {
+  "zin": "De rechter besliste dat de boete terecht is: een wel verleende vergunning die niet duidelijk zichtbaar in de auto ligt, telt als parkeren in strijd met de voorwaarden.",
+  "bron": [
+   41
+  ],
+  "citaat": "Onder deze omstandigheden brengt naar het oordeel van het hof een redelijke uitleg van de omschrijving"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger kreeg een boete van € 95 voor parkeren op een plek voor vergunninghouders in strijd met de voorwaarden van de vergunning, in 's-Hertogenbosch.",
+   "bron": [
+    19
+   ],
+   "citaat": "Aan de betrokkene is als kentekenhouder bij inleidende beschikking een sanctie opgelegd van € 95,-"
+  },
+  {
+   "zin": "De burger zei dat hij een bezoekerskaart op het dashboard had gelegd, die achteraf op de stoel was gevallen.",
+   "bron": [
+    21
+   ],
+   "citaat": "De betrokkene heeft deze op het dashboard gelegd, maar gebleken is dat deze achteraf op de stoel is gevallen."
+  },
+  {
+   "zin": "De handhaver zag de kaart niet en zei dat die ook niet op het dashboard lag; op de foto's is geen vergunning te zien.",
+   "bron": [
+    29
+   ],
+   "citaat": "deze is niet door mij waargenomen en deze lag ook niet op het dashboard van het voertuig"
+  },
+  {
+   "zin": "Het hof vond aannemelijk dat de burger een bezoekerskaart had, maar die was niet zichtbaar in de auto.",
+   "bron": [
+    32
+   ],
+   "citaat": "De bezoekerskaart was echter niet zichtbaar in het voertuig aanwezig."
+  },
+  {
+   "zin": "Volgens het hof valt een vergunning die niet duidelijk zichtbaar is ook onder de boete, omdat dit gelijkstaat aan niet voldoen aan de voorwaarden van de vergunning.",
+   "bron": [
+    41
+   ],
+   "citaat": "Onder deze omstandigheden brengt naar het oordeel van het hof een redelijke uitleg van de omschrijving"
+  },
+  {
+   "zin": "Het hof bevestigde de uitspraak van de kantonrechter.",
+   "bron": [
+    44
+   ],
+   "citaat": "Het hof zal de beslissing van de kantonrechter bevestigen."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete blijft staan; vergunning was niet duidelijk zichtbaar.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 95 blijft staan en de burger krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   44
+  ],
+  "citaat": "Voor de toekenning van een proceskostenvergoeding bestaat geen aanleiding."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik had een bezoekerskaart; die viel van het dashboard op de stoel.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kaart was er wel, maar niet zichtbaar in de auto, en dat valt onder de boete.",
+    "bron": [
+     32
+    ],
+    "citaat": "De bezoekerskaart was echter niet zichtbaar in het voertuig aanwezig."
+   },
+   "bruikbare_zin": {
+    "citaat": "de voorwaarde verbonden dat de vergunning duidelijk zichtbaar in het voertuig aanwezig moet zijn",
+    "bron": [
+     41
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er is geen rechtsgrond voor de boete, want ik had een vergunning.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een niet zichtbare vergunning staat gelijk aan niet voldoen aan de voorwaarden, dus er is wel een rechtsgrond.",
+    "bron": [
+     41
+    ],
+    "citaat": "treft het bezwaar dat geen rechtsgrondslag bestaat voor de oplegging van de sanctie geen doel"
+   },
+   "bruikbare_zin": {
+    "citaat": "kan als staande op één lijn met het niet voldoen aan de voorwaarden waaronder een parkeervergunning is verleend, worden beschouwd",
+    "bron": [
+     41
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het overtreden voorschrift stond niet in de beschikking, dus ik kon mij niet goed verweren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het voorschrift was zonder veel moeite te vinden en de burger kon zich goed verweren.",
+    "bron": [
+     43
+    ],
+    "citaat": "Er is daarom niet gebleken dat de betrokkene in zijn verdedigingsbelang is geschaad."
+   },
+   "bruikbare_zin": {
+    "citaat": "maakt dat het overtreden voorschrift zonder grote inspanning kan worden achterhaald",
+    "bron": [
+     43
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeren op een plek voor vergunninghouders zonder duidelijk zichtbare (wel verleende) vergunning valt onder parkeren in strijd met de voorwaarden van de vergunning (feitcode R592a).",
+  "type": "regel",
+  "reikwijdte": "Wahv-boetes met feitcode R592a voor plekken voor vergunninghouders waar de vergunning wel was verleend",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   41
+  ],
+  "citaat": "ook kan worden gebracht de situatie dat wordt geparkeerd op een parkeerplaats voor vergunninghouders"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "foto's van de gedraging",
+   "verklaring van de handhaver (proces-verbaal)",
+   "foto van de bezoekerskaart en verklaring van de vriendin"
+  ],
+  "wat_gaf_doorslag": "Op de foto's van de gedraging was geen vergunning zichtbaar in de auto."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:GHARL:2016:3450"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 9 lid 1 Parkeerverordening 's-Hertogenbosch 1996",
+  "art. 2 lid 1 Wahv",
+  "art. 4 lid 1 Wahv",
+  "feitcode R592a"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet in de vergunningvoorwaarden dat de vergunning duidelijk zichtbaar in het voertuig moet liggen",
+   "raakt": "vergunningen",
+   "bron": [
+    41
+   ],
+   "citaat": "de voorwaarde verbonden dat de vergunning duidelijk zichtbaar in het voertuig aanwezig moet zijn"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Ligt uw bezoekerskaart of vergunning niet duidelijk zichtbaar in de auto, dan kunt u een boete krijgen, ook als u de kaart wel had. De rechter ziet dat als parkeren in strijd met de voorwaarden van de vergunning. Bezwaar heeft op dit punt weinig kans als de kaart bij de controle niet zichtbaar was.",
+ "gemeente": "'s-Hertogenbosch",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

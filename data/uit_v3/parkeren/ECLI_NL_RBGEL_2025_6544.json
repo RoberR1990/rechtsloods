@@ -1,0 +1,174 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBGEL:2025:6544",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "privaat-boete-voorwaarden",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {
+  "burger": "bestuurder van de auto",
+  "wederpartij": "exploitant (Q-Park)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "Een bestuurder reed zonder te betalen uit een parkeergarage in Eindhoven en moet daarvoor betalen. Het parkeerbedrijf Q-Park vordert het geld bij de Rechtbank Gelderland (kantonrechter), omdat de bestuurder de algemene voorwaarden overtrad.",
+ "titel": "Bestuurder die zonder betalen uit garage reed moet betalen",
+ "kern": {
+  "zin": "De kantonrechter kent het parkeerbedrijf de vorderingen toe, omdat de bestuurder zonder betalen wegreed en de slagboom samen met zijn bijrijder openmaakte.",
+  "bron": [
+   76,
+   46
+  ],
+  "citaat": "is hij (mede-)aansprakelijk voor de schade aan de slagboom van Q-Park"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bestuurder reed zonder te betalen de parkeergarage uit, waarbij de slagboom afbrak.",
+   "bron": [
+    46,
+    50
+   ],
+   "citaat": "de parkeergarage verlaten zonder te betalen"
+  },
+  {
+   "zin": "De bestuurder zegt dat hij zijn pinpas was kwijtgeraakt en de garage daardoor niet anders kon verlaten.",
+   "bron": [
+    51
+   ],
+   "citaat": "omdat hij zijn pinpasjes kwijt was geraakt"
+  },
+  {
+   "zin": "Het parkeerbedrijf wil € 2.548,18 van de bestuurder, onder meer voor de slagboom.",
+   "bron": [
+    48
+   ],
+   "citaat": "€ 1.824,50 aan slagboomschade"
+  },
+  {
+   "zin": "De kantonrechter vindt de vaste vergoeding niet onevenredig, want die dient als prikkel om eerst te betalen.",
+   "bron": [
+    59
+   ],
+   "citaat": "dient immers als prikkel tot nakoming"
+  },
+  {
+   "zin": "De kantonrechter vindt de bestuurder mede aansprakelijk voor de slagboom, omdat hij samenwerkte met zijn bijrijder.",
+   "bron": [
+    76
+   ],
+   "citaat": "is hij (mede-)aansprakelijk voor de schade aan de slagboom van Q-Park"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Parkeerbedrijf krijgt het grootste deel van zijn vorderingen toegewezen.",
+ "gevolg_betrokkene": {
+  "zin": "De bestuurder moet € 391,31, € 1.824,50 en € 332,37 betalen aan het parkeerbedrijf, plus wettelijke rente en € 1.204,54 proceskosten.",
+  "bron": [
+   134,
+   135,
+   136,
+   137
+  ],
+  "citaat": "veroordeelt [gedaagde] om aan Q-Park te betalen een bedrag van € 391,31"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De boete van € 373,81 voor het verlaten zonder te betalen is absurd hoog en niet in verhouding.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter vindt de vaste vergoeding niet buitensporig of onevenredig.",
+    "bron": [
+     59
+    ],
+    "citaat": "Van een buitensporige of onevenredige boete"
+   },
+   "bruikbare_zin": {
+    "citaat": "dient immers als prikkel tot nakoming",
+    "bron": [
+     59
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij kon de garage niet anders verlaten, omdat zijn pinpas weg was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter vindt dat hij voldoende andere mogelijkheden had om contact op te nemen met het parkeerbedrijf.",
+    "bron": [
+     61
+    ],
+    "citaat": "voldoende mogelijkheden ter beschikking stonden om in contact te komen met Q-Park"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft niet gereageerd op deze stellingen en onderbouwingen van Q-Park",
+    "bron": [
+     61
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De schade aan de slagboom is niet onderbouwd en de factuur heeft geen btw.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter vindt de schade wel voldoende onderbouwd, ook zonder btw op de factuur.",
+    "bron": [
+     78
+    ],
+    "citaat": "heeft Q-Park naar het oordeel van de kantonrechter haar schade voldoende onderbouwd"
+   },
+   "bruikbare_zin": {
+    "citaat": "Temeer niet omdat [gedaagde] geen verweer heeft gevoerd tegen de hoogte van de schade als zodanig",
+    "bron": [
+     78
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerbedrijf kan naast het verloren-kaart-tarief een vast extra bedrag eisen.",
+  "type": "regel",
+  "reikwijdte": "Algemene voorwaarden van parkeerexploitanten bij het zonder betalen verlaten van een garage",
+  "uitzondering": "Niet als het bedrag buitensporig of onevenredig is",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   59
+  ],
+  "citaat": "een aanvullende schadevergoeding in de vorm van een forfaitair bedrag mag vorderen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "videobeelden van de uitgang (productie 6)",
+   "kostenspecificatie van de slagboomschade (productie 7)",
+   "verklaring van de bestuurder in de conclusie van antwoord"
+  ],
+  "wat_gaf_doorslag": "De verklaring van de bestuurder dat zijn bijrijder de slagboom optilde, samen met de beelden."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:234 BW",
+  "art. 6:230a BW",
+  "art. 6:166 BW",
+  "art. 6:96 BW",
+  "art. 6:119 BW"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u zonder betalen uit de garage van een parkeerbedrijf rijdt, kunt u achteraf de kosten en de schade aan de slagboom moeten betalen. Helpt u iemand anders de slagboom omhoog te tillen, dan kan ieder van u aansprakelijk zijn. Heeft u een hogere rekening of bezwaar, bespreek dat dan direct met het parkeerbedrijf en laat de kosten onderbouwen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente partij; privaat parkeerbedrijf",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

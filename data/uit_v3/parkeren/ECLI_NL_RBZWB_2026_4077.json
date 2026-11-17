@@ -1,0 +1,191 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:4077",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "privaat-boete-voorwaarden",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {
+  "burger": "parkeerder (motorrijder, procedeert zelf)",
+  "wederpartij": "exploitant (Q-Park)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "Een motorrijder reed in maart 2025 zonder te betalen langs de slagboom de parkeergarage van Q-Park uit. Q-Park, de exploitant van de garage, vorderde bij de kantonrechter van de rechtbank Zeeland-West-Brabant het verloren kaart tarief en een extra vergoeding.",
+ "titel": "Motorrijder moet verloren kaart betalen na wegrijden zonder betaling",
+ "kern": {
+  "zin": "De kantonrechter vond dat de parkeerder moest betalen, omdat hij de garage verliet zonder geldig parkeerbewijs.",
+  "bron": [
+   62
+  ],
+  "citaat": "Daarmee heeft hij in strijd gehandeld met artikel 5.5 van de algemene voorwaarden"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een motorrijder reed op 11 maart 2025 langs de slagboom weg, zonder te betalen.",
+   "bron": [
+    34
+   ],
+   "citaat": "de parkeergarage van Q-Park uitgereden langs de slagboom zonder daarvoor te betalen"
+  },
+  {
+   "zin": "Hij zei dat hij met zijn parkeerkaart niet kon betalen bij de betaalautomaten.",
+   "bron": [
+    40
+   ],
+   "citaat": "maar kon met de parkeerkaart niet bij de betaalautomaten betalen"
+  },
+  {
+   "zin": "Q-Park vorderde het tarief voor een verloren kaart en een extra vergoeding van in totaal ruim 400 euro.",
+   "bron": [
+    38
+   ],
+   "citaat": "het tarief van de verloren kaart van € 25,00 en een aanvullende schadevergoeding"
+  },
+  {
+   "zin": "De kantonrechter wees de vorderingen toe, ook omdat de hulpknop het vertrek niet rechtvaardigde.",
+   "bron": [
+    62
+   ],
+   "citaat": "De gevorderde bedragen aan tarief verloren kaart van € 25,00 en (aanvullend) gevorderde schadevergoeding van € 382,41 zijn daarom toewijsbaar"
+  },
+  {
+   "zin": "Zijn eigen tegenvordering over proceskosten wees de rechter af.",
+   "bron": [
+    87
+   ],
+   "citaat": "De vordering van [persoon] wordt daarom afgewezen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Q-Park krijgt gelijk; tegenvordering van de parkeerder afgewezen.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de parkeerder betekent dit dat hij 468,52 euro moet betalen, met rente, en 516,78 euro proceskosten.",
+  "bron": [
+   92,
+   93
+  ],
+  "citaat": "veroordeelt [persoon] om aan Q-Park te betalen een bedrag van € 468,52"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De betaalautomaten werkten niet, en de hulpknop gaf steeds het advies om bij een andere automaat te proberen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Niet vaststaat dat hij de hulpknop bij de automaten heeft gebruikt, en zelfs dan rechtvaardigde dat het vertrek niet.",
+    "bron": [
+     62
+    ],
+    "citaat": "Hierdoor is niet komen vast te staan dat [persoon] de hulpknop heeft ingedrukt bij de betaalautomaten"
+   },
+   "bruikbare_zin": {
+    "citaat": "had dan wederom opnieuw contact moeten zoeken met een medewerker van Q-Park door middel van de hulpknoppen",
+    "bron": [
+     62
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "Het vaste bedrag van 382,41 euro is te hoog voor het niet betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de kantonrechter is het vaste bedrag niet oneerlijk.",
+    "bron": [
+     60
+    ],
+    "citaat": "Dit is naar het oordeel van de kantonrechter niet oneerlijk"
+   },
+   "bruikbare_zin": {
+    "citaat": "dient namelijk als prikkel tot nakoming",
+    "bron": [
+     60
+    ]
+   }
+  },
+  {
+   "arg": "privaat-voorwaarden",
+   "burger_zegt": "Hij is niet akkoord gegaan met de algemene voorwaarden van Q-Park.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Omdat Q-Park de voorwaarden vooraf duidelijk meldde, werden zij onderdeel van het contract.",
+    "bron": [
+     58
+    ],
+    "citaat": "De algemene voorwaarden maken daarmee onderdeel uit van de overeenkomst"
+   },
+   "bruikbare_zin": {
+    "citaat": "een redelijke mogelijkheid heeft geboden om van de algemene voorwaarden kennis te nemen",
+    "bron": [
+     58
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Q-Park heeft de waarheidsplicht geschonden door zijn brief niet in de dagvaarding te melden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag geen schending van de waarheidsplicht, omdat de brief niet voldoende is onderbouwd.",
+    "bron": [
+     52
+    ],
+    "citaat": "is van oordeel dat hier geen sprake is van schending van artikel 21"
+   },
+   "bruikbare_zin": {
+    "citaat": "is van oordeel dat hier geen sprake is van schending van artikel 21",
+    "bron": [
+     52
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een forfaitaire vergoeding in de voorwaarden van een garage is niet oneerlijk als zij redelijk is.",
+  "type": "regel",
+  "reikwijdte": "vaste bedragen in algemene voorwaarden van een parkeergarage bij verlaten zonder betaling",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   60
+  ],
+  "citaat": "voor wat betreft deze vordering geen bedingen bevatten die afzonderlijk of in samenhang gezien, oneerlijk zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "log-gegevens van Q-Park",
+   "verklaring teamleider QCR",
+   "beeldmateriaal van de garage"
+  ],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 5.5 algemene voorwaarden Q-Park",
+  "art. 5.6 algemene voorwaarden Q-Park",
+  "art. 6:234 BW",
+  "art. 6:96 BW",
+  "art. 6:119 BW",
+  "art. 21 Rv",
+  "art. 111 lid 3 Rv",
+  "art. 85 lid 1 Rv"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "klantcontact"
+ ],
+ "klantuitleg": "Dit gaat om een privé-parkeergarage, dus geen naheffing van de gemeente. Wie zonder te betalen de slagboom passeert, moet het verloren kaart tarief betalen en de vaste vergoeding, zo staat het in de voorwaarden. Kunt u niet betalen, dan kunt u de hulpknop gebruiken en bij de slagboom om hulp vragen; zonder dat is het lastig om later te bewijzen dat u niet kon betalen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

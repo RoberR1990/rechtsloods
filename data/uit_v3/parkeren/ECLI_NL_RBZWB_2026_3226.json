@@ -1,0 +1,145 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:3226",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "invordering",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Tilburg",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging in beroep tegen de gemeente Tilburg over aanmaningskosten van € 9. De aanmaning kwam omdat de parkeerrekening te laat was betaald; de rechtbank Zeeland-West-Brabant besliste de zaak.",
+ "titel": "Parkeerder betaalde te laat: aanmaningskosten blijven staan",
+ "kern": {
+  "zin": "De rechter zag de aanmaningskosten als terecht, omdat een betaalmelding niet betekent dat het geld echt is overgemaakt.",
+  "bron": [
+   26
+  ],
+  "citaat": "De rechtbank overweegt dat een dergelijke melding niet zonder meer betekent dat de betaling daadwerkelijk is geslaagd."
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeerder kreeg in januari 2024 een rekening voor het parkeren van zijn auto.",
+   "bron": [
+    14
+   ],
+   "citaat": "een naheffingsaanslag parkeerbelasting opgelegd voor de auto met kenteken"
+  },
+  {
+   "zin": "Omdat de rekening niet op tijd werd betaald, kwam er een aanmaning met € 9 extra kosten.",
+   "bron": [
+    15
+   ],
+   "citaat": "vanwege het niet tijdig betalen van de naheffingsaanslag"
+  },
+  {
+   "zin": "De parkeerder zei dat hij direct na ontvangst had geprobeerd te betalen via zijn telefoon.",
+   "bron": [
+    25
+   ],
+   "citaat": "geprobeerd om deze via zijn telefoon te betalen"
+  },
+  {
+   "zin": "De gemeente vond dat de parkeerder zelf had moeten nagaan of de betaling was gelukt.",
+   "bron": [
+    26
+   ],
+   "citaat": "te controleren of de betaling daadwerkelijk was voltooid"
+  },
+  {
+   "zin": "De rechter vond de uitspraak op bezwaar te summier, maar zag over dat gebrek heen.",
+   "bron": [
+    22
+   ],
+   "citaat": "zonder specifiek in te gaan op de concrete omstandigheden en argumenten van belanghebbende"
+  },
+  {
+   "zin": "Volgens de rechter mochten de aanmaningskosten terecht worden doorberekend.",
+   "bron": [
+    27
+   ],
+   "citaat": "Gelet op het voorgaande is de aanmaning terecht verzonden"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep ongegrond; alleen het griffierecht wordt vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt het griffierecht (het bedrag voor het indienen van beroep) van € 51 terug; de aanmaningskosten van € 9 blijven staan.",
+  "bron": [
+   33
+  ],
+  "citaat": "het griffierecht van € 51 aan belanghebbende moet vergoeden"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij zei dat hij al had betaald en legde een printscreen over.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de parkeerder zelf had moeten controleren of de betaling was geslaagd.",
+    "bron": [
+     26
+    ],
+    "citaat": "te controleren of de betaling daadwerkelijk was voltooid"
+   },
+   "bruikbare_zin": {
+    "citaat": "komt voor zijn eigen rekening en risico",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De parkeerder is zelf verantwoordelijk voor een tijdige en juiste betaling.",
+  "type": "regel",
+  "reikwijdte": "betaling van een parkeerrekening, ook via een app of telefoon",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   26
+  ],
+  "citaat": "De verantwoordelijkheid voor tijdige en juiste betaling rust immers op belanghebbende."
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "printscreen van de betaalmelding"
+  ],
+  "wat_gaf_doorslag": "Een melding 'in behandeling' was niet genoeg om de betaling als gedaan te zien."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:22 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Ga in de uitspraak op bezwaar concreet in op de betaalmelding en de printscreen van de parkeerder.",
+   "raakt": "bezwaar",
+   "bron": [
+    22
+   ],
+   "citaat": "zonder specifiek in te gaan op de concrete omstandigheden en argumenten van belanghebbende"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "De rechter vond de aanmaningskosten terecht, omdat een betaalmelding niet betekent dat het geld al is afgeschreven. Controleer daarom na elke betaling zelf of het bedrag van uw bankrekening is afgeschreven. Lukt dat niet, neem dan direct contact op met de gemeente.",
+ "gemeente": "Tilburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

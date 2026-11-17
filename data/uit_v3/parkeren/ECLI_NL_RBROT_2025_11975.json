@@ -1,0 +1,179 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:11975",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (via gemachtigde)",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg zes naheffingen (de rekening achteraf) van de gemeente Rotterdam, voor parkeren in mei 2023 met een verlopen vergunning. De parkeerder ging in beroep bij de rechtbank Rotterdam tegen de gemeente, in zes zaken tegelijk.",
+ "titel": "Naheffingen blijven staan na verlopen parkeervergunning",
+ "kern": {
+  "zin": "De rechtbank vindt dat de naheffingen terecht zijn, omdat de vergunning was verlopen en de parkeerder daarover eerder was geïnformeerd.",
+  "bron": [
+   62
+  ],
+  "citaat": "Ten tijde van de parkeeracties beschikte eiser niet over een geldige parkeervergunning"
+ },
+ "samenvatting": [
+  {
+   "zin": "Voor parkeeracties in mei 2023 kreeg de parkeerder zes naheffingen.",
+   "bron": [
+    53,
+    52
+   ],
+   "citaat": "Op 3 mei 2023 stond de auto van eiser met kenteken"
+  },
+  {
+   "zin": "De parkeerder zegt te hebben gedacht dat de vergunning nog geldig was.",
+   "bron": [
+    61
+   ],
+   "citaat": "dat hij in de veronderstelling verkeerde dat zijn parkeervergunning op het moment van parkeren geldig was"
+  },
+  {
+   "zin": "De gemeente had de voorwaarden van de tijdelijke vergunning schriftelijk meegedeeld.",
+   "bron": [
+    62
+   ],
+   "citaat": "de voorwaarden van die vergunning schriftelijk aan eiser bekendgemaakt"
+  },
+  {
+   "zin": "De rechtbank vindt dat de parkeerder zelf verantwoordelijk was om op tijd een nieuwe vergunning aan te vragen.",
+   "bron": [
+    62
+   ],
+   "citaat": "Het was de eigen verantwoordelijkheid van eiser om tijdig een nieuwe parkeervergunning aan te vragen"
+  },
+  {
+   "zin": "De beroepen blijven zonder gevolg, en er komt geen vergoeding voor de proceskosten.",
+   "bron": [
+    70
+   ],
+   "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Alle beroepen ongegrond; naheffingen blijven staan, geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De zes naheffingen, met parkeerbelasting en naheffingskosten, blijven staan, en er komt geen vergoeding voor proceskosten.",
+  "bron": [
+   70,
+   52,
+   62
+  ],
+  "citaat": "De beroepen zijn ongegrond. Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder dacht dat de vergunning nog geldig was op het moment van parkeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vindt dat de vergunning na het einde niet meer gold, en dat de parkeerder dat zelf had moeten regelen.",
+    "bron": [
+     62
+    ],
+    "citaat": "Van parkeren met een vergunning is alleen sprake als wordt voldaan aan de voorwaarden waaronder de vergunning is verleend"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het was de eigen verantwoordelijkheid van eiser om tijdig een nieuwe parkeervergunning aan te vragen",
+    "bron": [
+     62
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De naheffingen zijn te zwaar, en de gemeente had de parkeerder eerder moeten waarschuwen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vindt geen bijzondere omstandigheden die het recht om te betalen wegnemen.",
+    "bron": [
+     65
+    ],
+    "citaat": "Van bijzondere omstandigheden is dus geen sprake"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft hij in redelijkheid gelegenheid gehad de verschuldigde parkeerbelasting te voldoen",
+    "bron": [
+     65
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De stukken kwamen te laat voor de hoorzitting, zodat de gemachtigde niet voldoende tijd had om ze te lezen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vindt dat de gemachtigde genoeg tijd had om de stukken te lezen.",
+    "bron": [
+     60
+    ],
+    "citaat": "heeft niet aannemelijk gemaakt dat hij onvoldoende gelegenheid heeft gehad"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het gaat erom of de gemachtigde voldoende gelegenheid heeft gehad de stukken te bestuderen voorafgaand aan de hoorzitting",
+    "bron": [
+     60
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een naheffing mag niet worden opgelegd als de parkeerder niet redelijk de kans had om te betalen.",
+  "type": "regel",
+  "reikwijdte": "Naheffing parkeerbelasting bij het vraagstuk van bijzondere omstandigheden",
+  "uitzondering": "Onvoorziene omstandigheden, zoals een acute noodsituatie",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   65
+  ],
+  "citaat": "Naheffing is niet toegestaan in situaties waarin de belastingplichtige niet in redelijkheid de gelegenheid heeft gehad"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto's van de scanauto",
+   "brieven van 19 april 2022 en 3 februari 2023",
+   "verzendadministratie van de gemeente"
+  ],
+  "wat_gaf_doorslag": "De verzendadministratie maakte aannemelijk dat de brieven over het einde van de vergunning zijn verstuurd."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 7:4 Awb",
+  "beginselen van behoorlijk bestuur (evenredigheid, motivering, zorgvuldigheid)"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar de verzendadministratie, zodat u kunt aantonen dat brieven over het einde van een vergunning zijn verstuurd.",
+   "raakt": "vergunningen",
+   "bron": [
+    62
+   ],
+   "citaat": "Gelet op de verzendadministratie van de heffingsambtenaar is het aannemelijk dat de brieven"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "vergunningen"
+ ],
+ "klantuitleg": "Een naheffing blijft staan als u op het moment van parkeren geen geldige vergunning had, ook als u dacht dat die nog gold. De gemeente had u eerder per brief laten weten dat de vergunning zou stoppen, en dat telt zwaar mee. Heeft u een vergunning die verloopt, dan is het belangrijk om zelf tijdig een nieuwe aan te vragen; of bezwaar kans maakt, hangt af van de brieven en de situatie.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

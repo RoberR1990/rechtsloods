@@ -1,0 +1,161 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2026:19069",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Delft",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder procedeerde tegen de gemeente Delft bij de rechtbank Den Haag. Het ging om een naheffing (de rekening achteraf) van 64 euro en de vraag of de kosten daarvan te hoog waren.",
+ "titel": "Naheffing van 64 euro: kosten blijven binnen de grens",
+ "kern": {
+  "zin": "De rechter zei dat de PRIS-kosten niet mochten worden meegerekend, maar dat 64 euro toch binnen het maximum bleef.",
+  "bron": [
+   182
+  ],
+  "citaat": "alleen de kosten van parkeer informatie systeem PRIS niet als een"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij de naheffing zijn 64 euro aan kosten doorberekend.",
+   "bron": [
+    28
+   ],
+   "citaat": "Daarbij is € 64 aan kosten in rekening gebracht"
+  },
+  {
+   "zin": "De parkeerder vond dat veel kostenposten niet met de inning van de belasting te maken hebben.",
+   "bron": [
+    116
+   ],
+   "citaat": "kosten in aanmerking heeft genomen die niet of slechts zijdelings verband houden"
+  },
+  {
+   "zin": "De gemeente zei dat de scanauto's met gegevens van de automaten werken, dus die automaten hebben een rol bij de inning.",
+   "bron": [
+    132
+   ],
+   "citaat": "worden gevoed met informatie die van de parkeerautomaten afkomstig is"
+  },
+  {
+   "zin": "De rechter zei dat de PRIS-borden vooral dienen om parkeerders te helpen, dus die kosten horen niet bij de inning.",
+   "bron": [
+    164
+   ],
+   "citaat": "dienen de kosten van dit systeem een ander doel dan het innen van niet-betaalde parkeerbelasting"
+  },
+  {
+   "zin": "Zonder de PRIS-kosten bleef het maximale bedrag nog steeds hoger dan de 64 euro.",
+   "bron": [
+    182
+   ],
+   "citaat": "Dat is nog steeds hoger dan het bedrag dat de gemeente in rekening brengt"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; 64 euro blijft onder het toegestane maximum, ook zonder PRIS-kosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de 64 euro betalen en krijgt geen proceskosten vergoed.",
+  "bron": [
+   185
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De kosten van 64 euro zijn te hoog, omdat veel posten niet bij de inning horen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Ook zonder de PRIS-kosten blijft het bedrag van 64 euro onder de toegestane grens.",
+    "bron": [
+     182
+    ],
+    "citaat": "Dat is nog steeds hoger dan het bedrag dat de gemeente in rekening brengt"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat is nog steeds hoger dan het bedrag dat de gemeente in rekening brengt",
+    "bron": [
+     182
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De kosten van het PRIS-systeem horen niet bij de naheffing.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de PRIS-kosten niet mogen worden meegerekend.",
+    "bron": [
+     182
+    ],
+    "citaat": "alleen de kosten van parkeer informatie systeem PRIS niet als een"
+   },
+   "bruikbare_zin": {
+    "citaat": "alleen de kosten van parkeer informatie systeem PRIS niet als een",
+    "bron": [
+     182
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een kostenpost mag worden meegerekend, tenzij die vrijwel helemaal een ander doel dient dan de inning van de parkeerbelasting.",
+  "type": "regel",
+  "reikwijdte": "Kosten bij het opleggen van een naheffing",
+  "uitzondering": "Kosten die geheel of vrijwel geheel een ander doel dienen, zoals de PRIS-borden",
+  "herkomst": "wet",
+  "bron": [
+   121
+  ],
+  "citaat": "als de desbetreffende kosten geheel of nagenoeg geheel andere doeleinden dienen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "kostenonderbouwing van de gemeente",
+   "overzicht van doorberekende kosten"
+  ],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2026:24",
+   "ECLI:NL:GHDHA:2025:553"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 lid 5 Gemeentewet",
+  "art. 2 Besluit gemeentelijke parkeerbelastingen"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Neem in de raming alleen kostenposten op die meer dan zijdelings bij de inning horen, zoals niet de PRIS-borden",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    164
+   ],
+   "citaat": "heeft de gemeente daarom ten onrechte opgenomen in haar kostenraming"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "De rekening voor het parkeren van 64 euro is volgens de rechter niet te hoog. Alleen de kosten van de PRIS-borden mochten niet worden meegerekend, maar dat verandert het bedrag niet. Vindt u de kosten toch te hoog, dan kunt u bezwaar maken; de rechter zag hier geen te hoog bedrag.",
+ "gemeente": "Delft",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,169 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2023:4797",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente (via het Noordelijk Belastingkantoor)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een man kreeg een naheffingsaanslag (de rekening achteraf) voor parkeren met zijn bestelauto. Hij ging in hoger beroep tegen de gemeente bij het gerechtshof en zei dat hij zijn camperbus aan het inladen was.",
+ "titel": "Camper inladen voor vakantie: bewijs van direct laden ontbrak",
+ "kern": {
+  "zin": "De rechter vond niet aannemelijk dat de auto alleen stilstond om direct te laden, dus de naheffing bleef staan.",
+  "bron": [
+   42
+  ],
+  "citaat": "de heffingsambtenaar daarom de naheffingsaanslag terecht heeft opgelegd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controle zag dat er voor de bestelauto geen parkeerbelasting was betaald; de gemeente legde een naheffingsaanslag op.",
+   "bron": [
+    17
+   ],
+   "citaat": "is geconstateerd dat voor de auto geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat hij zijn camperbus aan het inladen was voor de vakantie.",
+   "bron": [
+    19
+   ],
+   "citaat": "Op 3 augustus jongstleden was ik mijn auto (camperbus) aan het inladen voor de vakantie."
+  },
+  {
+   "zin": "De gemeente zei dat op de foto's niemand bij de auto stond en dat er niets te zien was van inladen.",
+   "bron": [
+    40
+   ],
+   "citaat": "Activiteiten die wijzen op het inladen van zaken in de auto zijn op de foto’s niet waar te nemen"
+  },
+  {
+   "zin": "De rechter vond niet aannemelijk dat de auto alleen zo lang stilstond als nodig was voor het laden.",
+   "bron": [
+    41
+   ],
+   "citaat": "niet aannemelijk is gemaakt dat de bestelauto uitsluitend heeft stilgestaan zo lang als nodig was"
+  },
+  {
+   "zin": "De rechter liet de uitspraak van de rechtbank staan.",
+   "bron": [
+    47
+   ],
+   "citaat": "Het Hof bevestigt de uitspraak van de Rechtbank."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; geen kostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffingsaanslag betalen en krijgt geen vergoeding van griffierecht of proceskosten.",
+  "bron": [
+   45
+  ],
+  "citaat": "Het Hof ziet geen aanleiding voor vergoeding van het griffierecht of een veroordeling in de proceskosten."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Ik was mijn camperbus aan het inladen, dus ik stond niet geparkeerd maar was onmiddellijk aan het laden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De verklaringen zeiden niet hoe lang het inladen duurde, dus niet aannemelijk is dat de auto alleen zo lang stilstond als nodig was.",
+    "bron": [
+     41
+    ],
+    "citaat": "niet aannemelijk is gemaakt dat de bestelauto uitsluitend heeft stilgestaan zo lang als nodig was"
+   },
+   "bruikbare_zin": {
+    "citaat": "staat vast dat de bestelauto ten tijde van de waarneming afgesloten was",
+    "bron": [
+     41
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De controleur en de scanauto kunnen niet zien of er geladen wordt, en de controleur was te kort aanwezig.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De stelling dat de controleur te kort aanwezig was, werd niet aannemelijk gemaakt tegenover zijn verklaring en foto's.",
+    "bron": [
+     41
+    ],
+    "citaat": "acht het Hof deze stelling tegenover de verklaring van de parkeercontroleur en zijn foto’s niet aannemelijk gemaakt"
+   },
+   "bruikbare_zin": {
+    "citaat": "tegenover de verklaring van de parkeercontroleur en zijn foto’s niet aannemelijk gemaakt",
+    "bron": [
+     41
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Onmiddellijk laden is alleen het ononderbroken inladen of uitladen van zaken die niet of moeilijk op een andere manier dan met het voertuig kunnen worden gehaald of gebracht.",
+  "type": "regel",
+  "reikwijdte": "Naheffing parkeerbelasting waarbij iemand zegt te laden of te lossen",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   36
+  ],
+  "citaat": "bij voortduring inladen of uitladen van zaken van enige omvang of enig gewicht, onmiddellijk nadat het voertuig tot stilstand is gebracht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "foto's met tijdstip 10:30 en 10:31",
+   "verklaring parkeercontroleur",
+   "verklaringen van de parkeerder en zijn huisgenote"
+  ],
+  "wat_gaf_doorslag": "De verklaringen zeiden niet hoe lang het inladen duurde en de auto was afgesloten."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2014:445",
+   "ECLI:NL:HR:1999:AA2760"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2 Verordening parkeerbelastingen 2020"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Maak bij een controle foto's op twee tijdstippen en leg vast of er iemand bij het voertuig is",
+   "raakt": "bezwaar",
+   "bron": [
+    40
+   ],
+   "citaat": "genomen foto’s met tijdstip 10:30 en tijdstip 10:31"
+  },
+  {
+   "actie": "Noteer in het dossier of het voertuig was afgesloten en hoe dicht het bij de woning stond",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    41
+   ],
+   "citaat": "staat vast dat de bestelauto ten tijde van de waarneming afgesloten was"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Laden en lossen mag zonder te betalen, maar alleen als u meteen en zonder pauze bezig bent met spullen in of uit de auto brengen. Staat de auto afgesloten en ziet niemand u laden, dan telt het als parkeren. Wilt u bezwaar maken, geef dan aan hoe lang het laden duurde en voeg bewijs toe, zoals foto's.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

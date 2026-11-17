@@ -1,0 +1,148 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2021:6363",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "vergunninghouder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De vergunninghouder kreeg van de gemeente Amsterdam een naheffing (de rekening achteraf), omdat de auto geparkeerd stond met een vergunning die niet op het kenteken stond. De vergunninghouder ging in beroep bij de rechtbank Amsterdam tegen die naheffing.",
+ "titel": "Kentekenwijziging nog niet verwerkt: vergunning gold niet, naheffing terecht",
+ "kern": {
+  "zin": "De rechtbank oordeelde dat een parkeervergunning alleen geldt voor het kenteken dat erop staat, en dat dat kenteken op de controledatum nog niet was verwerkt.",
+  "bron": [
+   17
+  ],
+  "citaat": "Eén van de voorwaarden is dat een parkeervergunning uitsluitend geldig is voor het parkeren van het voertuig waarvan het kenteken is geregistreerd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle op 17 april 2021 stond een auto in Amsterdam geparkeerd zonder betaalde parkeerbelasting.",
+   "bron": [
+    15
+   ],
+   "citaat": "terwijl geen parkeergeld was betaald"
+  },
+  {
+   "zin": "De vergunninghouder zei dat er een geldige bewonersvergunning was voor dat gebied.",
+   "bron": [
+    16
+   ],
+   "citaat": "beschikte over een parkeervergunning (bewonersvergunning) voor het gebied waar de auto geparkeerd stond"
+  },
+  {
+   "zin": "De gemeente legde daarom een naheffing op, omdat er niet was betaald.",
+   "bron": [
+    15
+   ],
+   "citaat": "een naheffingsaanslag parkeerbelasting opgelegd"
+  },
+  {
+   "zin": "De rechtbank oordeelde dat de vergunning op het moment van de controle nog niet op het kenteken van de auto stond.",
+   "bron": [
+    17
+   ],
+   "citaat": "De parkeervergunning stond ten tijde van de controle namelijk nog niet op het kenteken van de geparkeerde auto"
+  },
+  {
+   "zin": "Het beroep is afgewezen, dus de naheffing blijft staan.",
+   "bron": [
+    21
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft; kentekenwijziging was op de controledatum nog niet verwerkt.",
+ "gevolg_betrokkene": {
+  "zin": "De vergunninghouder moet de naheffing betalen en krijgt geen proceskosten of griffierecht vergoed.",
+  "bron": [
+   19
+  ],
+  "citaat": "Voor een proceskostenveroordeling of vergoeding van het griffierecht bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "De kentekenwijziging was op zaterdag via de website ingediend en de bedoeling was er; dat zou genoeg moeten zijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat de bedoeling niet genoeg is; op de controledatum had de auto geen geldige vergunning.",
+    "bron": [
+     18
+    ],
+    "citaat": "heeft geparkeerd zonder geldige parkeervergunning"
+   },
+   "bruikbare_zin": {
+    "citaat": "de wijziging van een kenteken van een leenauto uiterlijk de volgende werkdag wordt verwerkt",
+    "bron": [
+     18
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De verwerking was onduidelijk, en een medewerker zei telefonisch dat de wijziging was gelukt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank zei dat de telefonische mededeling klopt, maar dat dit de naheffing niet wegneemt.",
+    "bron": [
+     18
+    ],
+    "citaat": "klopt dus, maar neemt niet weg dat"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Van parkeren met een vergunning is alleen sprake als aan de voorwaarden van de vergunning is voldaan, zoals het geregistreerde kenteken.",
+  "type": "regel",
+  "reikwijdte": "Parkeren met een parkeervergunning in Amsterdam, zoals in deze zaak.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   17
+  ],
+  "citaat": "Van parkeren met een vergunning is alleen sprake als wordt voldaan aan de voorwaarden die aan de vergunning zijn verbonden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "e-mail met bevestiging van de kentekenwijziging (19 april 2021)"
+  ],
+  "wat_gaf_doorslag": "De kentekenwijziging was op de controledatum nog niet verwerkt."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Zet de verwerkingstermijn van een kentekenwijziging op de plek waar burgers die wijziging doen.",
+   "raakt": "vergunningen",
+   "bron": [
+    18
+   ],
+   "citaat": "uiterlijk de volgende werkdag wordt verwerkt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een vergunning geldt alleen voor het kenteken dat erin staat, en een wijziging gaat pas in als die is verwerkt. Op de website staat dat een kentekenwijziging uiterlijk de volgende werkdag wordt verwerkt. Wijzig het kenteken dus op tijd, want zolang de wijziging niet is verwerkt, geldt de vergunning niet voor de auto.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

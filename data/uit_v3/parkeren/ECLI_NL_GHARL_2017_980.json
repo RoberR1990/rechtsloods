@@ -1,0 +1,153 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2017:980",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg een boete voor parkeren in een zone met parkeerverbod. Zij ging in hoger beroep tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Parkeerverbod geldt in hele zone, ook zonder eigen bord",
+ "kern": {
+  "zin": "Het hof (de rechter in hoger beroep) vond de boete terecht: de straat lag in een zone met parkeerverbod, en een apart bord in die straat is niet nodig.",
+  "bron": [
+   32
+  ],
+  "citaat": "Een parkeerverbodszone wordt begrensd door borden die het begin en het einde van die zone aanduiden."
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een boete van € 90,- voor parkeren in een parkeerverbodszone.",
+   "bron": [
+    20
+   ],
+   "citaat": "Aan de betrokkene is als kentekenhouder bij inleidende beschikking een administratieve sanctie van € 90,- opgelegd"
+  },
+  {
+   "zin": "De parkeerder gaf toe dat zij buiten een parkeervak stond, maar zei dat in die straat geen verbodsbord staat.",
+   "bron": [
+    21
+   ],
+   "citaat": "stelt dat er in die straat geen bord E1 staat"
+  },
+  {
+   "zin": "De advocaat-generaal (de vertegenwoordiger van de officier van justitie bij het hof) zei dat de straat in een zone met borden ligt.",
+   "bron": [
+    22
+   ],
+   "citaat": "de Veeladingstraat valt binnen een met verkeersborden aangeduide parkeerverbodszone"
+  },
+  {
+   "zin": "Het hof zag op de plattegrond dat alle wegen naar de straat zoneborden hebben.",
+   "bron": [
+    31
+   ],
+   "citaat": "toegangswegen die gevolgd moeten worden om de Veeladingstraat te bereiken, blijkens de plattegrond alle zijn voorzien van borden E1"
+  },
+  {
+   "zin": "Het hof vond dat het zonebord niet alleen voor één kant van de weg geldt en dat een bord E10 niet nodig is.",
+   "bron": [
+    33
+   ],
+   "citaat": "binnen een parkeerverbodszone geen toepassing"
+  },
+  {
+   "zin": "Het hof vond de boete terecht en liet de beslissing van de kantonrechter staan.",
+   "bron": [
+    35
+   ],
+   "citaat": "Er is daarvoor terecht een sanctie opgelegd aan de betrokkene."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De boete van € 90,- blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de boete van € 90,- betalen.",
+  "bron": [
+   35
+  ],
+  "citaat": "Er is daarvoor terecht een sanctie opgelegd aan de betrokkene."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "In de straat zelf staat geen verbodsbord.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof zei dat de straat deel van de zone is, dus het verbod gold daar ook.",
+    "bron": [
+     32
+    ],
+    "citaat": "Nu de Veeladingstraat deel uitmaakt van de parkeerverbodszone, was het ingestelde parkeerverbod ook in die straat van toepassing."
+   },
+   "bruikbare_zin": {
+    "citaat": "Een parkeerverbodszone wordt begrensd door borden die het begin en het einde van die zone aanduiden",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Zonder bord E10 geldt de zone niet, en het bord geldt maar voor één kant van de weg.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof zei dat dit betoog een verkeerde lezing van de regels is.",
+    "bron": [
+     34
+    ],
+    "citaat": "berust op een onjuiste lezing van de regelgeving"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerverbodszone begint en eindigt met borden; binnen de hele zone geldt het verbod, ook in straten zonder eigen bord.",
+  "type": "regel",
+  "reikwijdte": "Straten binnen een parkeerverbodszone met zoneborden (E1) bij de toegangswegen.",
+  "uitzondering": "Op daarvoor bestemde weggedeelten mag wel geparkeerd worden.",
+  "herkomst": "wet",
+  "bron": [
+   32
+  ],
+  "citaat": "Een parkeerverbodszone wordt begrensd door borden die het begin en het einde van die zone aanduiden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "aanvullend proces-verbaal van de verbalisant",
+   "plattegrond met de plaatsen van de borden",
+   "foto van een bord van de parkeerder"
+  ],
+  "wat_gaf_doorslag": "De plattegrond met de borden werd niet betwist."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 62 RVV 1990",
+  "art. 65 RVV 1990",
+  "art. 66 RVV 1990",
+  "bijlage 1 RVV 1990 (bord E1)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar"
+ ],
+ "klantuitleg": "Staat u in een zone met parkeerverbod, dan geldt het verbod in de hele zone. Dat is ook zo als er in uw eigen straat geen bord staat. Bezwaar heeft weinig kans als de zonebordjes bij de toegangswegen wel staan; wel kunt u controleren of die borden er echt staan.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd; geen gemeente partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

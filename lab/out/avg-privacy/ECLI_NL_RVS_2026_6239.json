@@ -1,0 +1,167 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:6239",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "zoekslag",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Groningen",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De burger vroeg de gemeente Groningen om inzage in zijn persoonsgegevens. Hij ging in hoger beroep naar de Afdeling bestuursrechtspraak van de Raad van State, omdat hij vond dat hij niet alles kreeg.",
+ "titel": "Geen inzage in document dat gemeente niet heeft",
+ "kern": {
+  "zin": "De Afdeling bevestigt dat de gemeente genoeg inzage heeft gegeven, omdat het niet ongeloofwaardig is dat het gevraagde document niet bestaat.",
+  "bron": [
+   25
+  ],
+  "citaat": "Het is niet ongeloofwaardig dat het college niet beschikt over het document"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente om inzage in zijn persoonsgegevens uit stukken over gemaakte afspraken.",
+   "bron": [
+    23
+   ],
+   "citaat": "verzocht om inzage van zijn persoonsgegevens uit de stukken van de afspraken"
+  },
+  {
+   "zin": "De gemeente gaf een deel van de gegevens.",
+   "bron": [
+    23
+   ],
+   "citaat": "Het college heeft bij besluit van 1 december 2023 de aanvraag deels toegewezen"
+  },
+  {
+   "zin": "Later gaf de gemeente twee extra telefoonnotities.",
+   "bron": [
+    23
+   ],
+   "citaat": "Het college heeft op 28 maart 2024 twee aanvullende telefoonnotities aan [appellant] verstrekt."
+  },
+  {
+   "zin": "De burger vond dat hij niet alles kreeg: er zou een document zijn over afspraken met Stichting Limor.",
+   "bron": [
+    24
+   ],
+   "citaat": "moet er volgens [appellant] een document zijn over de door het college gemaakte afspraken met Stichting Limor"
+  },
+  {
+   "zin": "De gemeente legde uit waarom er geen andere stukken met persoonsgegevens van de burger zijn.",
+   "bron": [
+    25
+   ],
+   "citaat": "waarom daarbij geen persoonsgegevens worden verwerkt en waarom er in dit geval geen andere stukken met persoonsgegevens van [appellant] zijn"
+  },
+  {
+   "zin": "De Afdeling bevestigt de uitspraak van de rechtbank.",
+   "bron": [
+    21
+   ],
+   "citaat": "De Afdeling bevestigt de uitspraak van de rechtbank, voor zover aangevallen."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; de gemeente had voldaan aan het inzageverzoek.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen extra inzage en de gemeente hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   25,
+   27
+  ],
+  "citaat": "Het is niet ongeloofwaardig dat het college niet beschikt over het document"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Ik heb niet alle persoonsgegevens gekregen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Afdeling vindt het niet ongeloofwaardig dat de gemeente het document niet heeft.",
+    "bron": [
+     25
+    ],
+    "citaat": "Het is niet ongeloofwaardig dat het college niet beschikt over het document"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het is niet ongeloofwaardig dat het college niet beschikt over het document",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "De gemeente heeft niet goed genoeg gezocht; er moet een document zijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente heeft voldoende uitgelegd hoe zij zoekt en waarom er geen ander document is.",
+    "bron": [
+     25
+    ],
+    "citaat": "Het college heeft voldoende gemotiveerd op welke wijze het een zorgvraag voorlegt aan zorgaanbieders"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het college heeft voldoende gemotiveerd",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de gemeente voldoende uitlegt hoe zij zoekt en waarom er geen ander document is, is het niet ongeloofwaardig dat een gevraagd document ontbreekt.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Inzageverzoeken waarin de burger stelt dat een document met zijn persoonsgegevens moet bestaan.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "Het college heeft voldoende gemotiveerd op welke wijze het een zorgvraag voorlegt aan zorgaanbieders"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "e-mail van 4 augustus 2023",
+   "uitspraak voorzieningenrechter van 14 augustus 2023",
+   "twee telefoonnotities"
+  ],
+  "wat_gaf_doorslag": "De gemeente legde uit dat zij bij een zorgvraag geen persoonsgegevens verwerkt en dat er geen ander document is."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 15 AVG",
+  "art. 8:67 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg in het besluit uit hoe u zoekt en waarom er geen ander document met persoonsgegevens is.",
+   "raakt": "privacy-fg",
+   "bron": [
+    25
+   ],
+   "citaat": "Het college heeft voldoende gemotiveerd op welke wijze het een zorgvraag voorlegt aan zorgaanbieders"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "U vroeg de gemeente om uw persoonsgegevens te laten zien. De gemeente moet u laten zien welke gegevens zij van u heeft, maar hoeft geen document te maken dat er niet is. Als u denkt dat er toch een document is, moet u concreet uitleggen waarom dat document moet bestaan.",
+ "gemeente": "Groningen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

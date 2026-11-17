@@ -1,0 +1,160 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2026:2355",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "invordering",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (met een gemachtigde)",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg € 9 aanmaningskosten (extra kosten voor een betalingsherinnering) voor een rekening voor parkeren die hij niet betaalde. Hij ging in hoger beroep tegen de gemeente Amsterdam bij het gerechtshof Amsterdam en kreeg gelijk.",
+ "titel": "Geen aanmaningskosten als niet vaststaat dat de melding is verstuurd",
+ "kern": {
+  "zin": "Het hof vond de aanmaningskosten onterecht, omdat niet vaststond dat de e-mailmelding naar het door de parkeerder opgegeven e-mailadres was gegaan.",
+  "bron": [
+   49
+  ],
+  "citaat": "geen aanmaningskosten in rekening mogen worden gebracht indien geen notificatie is verstuurd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een naheffingsaanslag (de rekening achteraf) voor parkeren op 23 februari 2024 zonder te betalen.",
+   "bron": [
+    22
+   ],
+   "citaat": "zonder dat de daartoe verschuldigde parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "Hij betaalde niet, waarna de gemeente hem aanmaande en € 9 aanmaningskosten rekende.",
+   "bron": [
+    22
+   ],
+   "citaat": "bij brief van 23 april 2024 aangemaand en daarbij € 9 aan aanmaningskosten in rekening gebracht"
+  },
+  {
+   "zin": "De parkeerder zei dat hij geen e-mailmelding had gekregen, terwijl hij die in MijnOverheid had aangezet.",
+   "bron": [
+    23
+   ],
+   "citaat": "Hij stelt met betrekking tot de naheffingsaanslag geen notificatie te hebben ontvangen."
+  },
+  {
+   "zin": "De gemeente haalde gegevens op bij Logius (de beheerder van MijnOverheid), maar het e-mailadres van de melding stond er niet bij.",
+   "bron": [
+    43
+   ],
+   "citaat": "Logius wil het e-mailadres niet verstrekken in verband met de privacywetgeving"
+  },
+  {
+   "zin": "Het hof vond dat de gemeente niet met voldoende zekerheid kon laten zien dat de melding echt was verzonden.",
+   "bron": [
+    50
+   ],
+   "citaat": "niet met voldoende mate van zekerheid kan worden vastgesteld dat de notificatie daadwerkelijk is verzonden"
+  },
+  {
+   "zin": "Het hof vernietigde de uitspraak van de rechtbank en liet de aanmaningskosten vervallen.",
+   "bron": [
+    64
+   ],
+   "citaat": "vernietigt de uitspraak van de rechtbank"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Aanmaningskosten vervallen; proceskosten en griffierecht vergoed",
+ "gevolg_betrokkene": {
+  "zin": "De € 9 aanmaningskosten vervallen; de parkeerder krijgt € 760,20 aan proceskosten en € 194 aan griffierecht terug.",
+  "bron": [
+   68
+  ],
+  "citaat": "veroordeelt de invorderingsambtenaar in de kosten van belanghebbende tot een bedrag van € 760,20"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij kreeg geen e-mailmelding van MijnOverheid, dus mogen er geen aanmaningskosten worden gerekend.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het was niet bekend naar welk e-mailadres de melding was gestuurd, dus de verzending stond niet vast.",
+    "bron": [
+     50
+    ],
+    "citaat": "reeds omdat niet bekend is naar welk email-adres de notificatie is verzonden"
+   },
+   "bruikbare_zin": {
+    "citaat": "Iemand die heeft aangegeven notificaties te willen ontvangen mag er immers op rekenen dat hij die ook ontvangt",
+    "bron": [
+     49
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie MijnOverheid en de e-mailmelding heeft aangezet, mag erop rekenen dat die melding komt; zonder verstuurde melding mogen geen aanmaningskosten worden gerekend.",
+  "type": "regel",
+  "reikwijdte": "Aanmaningskosten bij naheffing parkeerbelasting voor burgers die de berichtenbox MijnOverheid en de notificatiefunctie hebben aangezet, vóór inwerkingtreding van art. 2:11 lid 2 Awb op 1 januari 2026",
+  "uitzondering": "Staat wel met voldoende zekerheid vast dat de melding naar het opgegeven e-mailadres is verzonden, dan gaat deze situatie niet op.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   49
+  ],
+  "citaat": "geen aanmaningskosten in rekening mogen worden gebracht indien geen notificatie is verstuurd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "gegevens van Logius met tijdstippen van plaatsing en melding"
+  ],
+  "wat_gaf_doorslag": "Niet bekend was naar welk e-mailadres de melding is gestuurd."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "nieuw",
+  "eerdere": [
+   "ECLI:NL:HR:2026:734",
+   "ECLI:NL:PHR:2026:152"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2:17 lid 1 Awb",
+  "art. 3:41 lid 1 Awb",
+  "art. 2:11 lid 2 Awb",
+  "art. 8:75 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Reken geen aanmaningskosten als niet vaststaat dat de e-mailmelding naar het opgegeven e-mailadres is verzonden",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    50
+   ],
+   "citaat": "niet met voldoende mate van zekerheid kan worden vastgesteld dat de notificatie daadwerkelijk is verzonden"
+  },
+  {
+   "actie": "Leg vast naar welk e-mailadres een melding is gegaan en of de bezorging gelukt is",
+   "raakt": "communicatie",
+   "bron": [
+    50
+   ],
+   "citaat": "Ook is niet bekend of zich bij het afleveren van de notificatie problemen hebben voorgedaan."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "tarief-naheffing",
+  "communicatie"
+ ],
+ "klantuitleg": "Heeft u de berichtenbox van MijnOverheid en de e-mailmelding aangezet, dan mag u erop rekenen dat u die melding ook krijgt. Is niet te bewijzen dat de melding naar uw e-mailadres is gegaan, dan zijn aanmaningskosten van € 9 niet terecht. Kreeg u geen melding en heeft u een aanmaning gehad, dan kunt u hiertegen bezwaar maken.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

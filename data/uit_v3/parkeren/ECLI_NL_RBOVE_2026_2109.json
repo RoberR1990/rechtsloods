@@ -1,0 +1,130 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2026:2109",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Zwolle",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg in Zwolle een naheffing (de rekening achteraf) van € 78, omdat er geen geldig parkeerrecht was. De parkeerder ging naar de rechtbank Overijssel; de gemeente Zwolle bleef bij de naheffing.",
+ "titel": "Naheffing blijft: storing in parkeerapp niet aannemelijk gemaakt",
+ "kern": {
+  "zin": "De rechter vond de naheffing terecht, omdat de auto op het controlemoment niet was aangemeld en storingen voor de parkeerder zelf zijn.",
+  "bron": [
+   28
+  ],
+  "citaat": "daaruit volgt niet dat het voertuig op het moment van controle 14.46 uur was aangemeld"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder dacht via de Flitsmeister-app te hebben betaald, maar de app stond uit.",
+   "bron": [
+    25
+   ],
+   "citaat": "dacht dat hij via de app Flitsmeister betaald had"
+  },
+  {
+   "zin": "Volgens de parkeerder liep de registratie mogelijk vast door een haperende internetverbinding.",
+   "bron": [
+    24
+   ],
+   "citaat": "Vermoedelijk is dit pas later geregistreerd door een storing"
+  },
+  {
+   "zin": "De gemeente zei dat het bewijs van de app niet aantoonde dat de auto op het moment was aangemeld.",
+   "bron": [
+    26
+   ],
+   "citaat": "omdat daaruit niet volgt dat het kenteken"
+  },
+  {
+   "zin": "De rechter oordeelde dat de parkeerbelasting op het controlemoment niet was betaald.",
+   "bron": [
+    28
+   ],
+   "citaat": "Op het moment van controle was de parkeerbelasting immers niet voldaan"
+  },
+  {
+   "zin": "De naheffing blijft staan, en de parkeerder krijgt geen vergoeding van proceskosten.",
+   "bron": [
+    31
+   ],
+   "citaat": "dat de opgelegde naheffingsaanslag in stand blijft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft; griffierecht wel vrijgesteld.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing van € 78 blijft staan, maar de parkeerder hoeft geen griffierecht te betalen.",
+  "bron": [
+   31,
+   20,
+   16
+  ],
+  "citaat": "dat de opgelegde naheffingsaanslag in stand blijft"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De parkeerapp werkte niet goed; de betaling kwam pas later binnen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Storingen in een parkeerapp komen volgens vaste rechtspraak voor rekening van de parkeerder.",
+    "bron": [
+     28
+    ],
+    "citaat": "storingen in een parkeerapp voor rekening en risico van de parkeerder komen"
+   },
+   "bruikbare_zin": {
+    "citaat": "storingen in een parkeerapp voor rekening en risico van de parkeerder komen",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Storingen in een parkeerapp komen voor rekening en risico van de parkeerder.",
+  "type": "regel",
+  "reikwijdte": "betaald parkeren via een parkeerapp; betaling moet bij aanvang en tijdens het parkeren zijn gedaan",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   28,
+   27
+  ],
+  "citaat": "storingen in een parkeerapp voor rekening en risico van de parkeerder komen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "overzicht van aanmeldingen in de app",
+   "navraag bij de app-aanbieder"
+  ],
+  "wat_gaf_doorslag": "Het aanmeldoverzicht toonde aanmeldingen later op de dag, niet op het moment van controle."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "uitspraak over een enkel geval; geen algemene actie nodig voor de gemeente",
+ "raakt": [
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "De rechter vond de naheffing terecht, omdat de parkeerbelasting op het moment van controle niet was betaald. Een storing in de parkeerapp komt volgens de rechter in principe voor uw rekening, ook als u later alsnog probeerde te betalen. Heeft u een bezwaar, dan kan het helpen om precies te laten zien wanneer en hoe de betaling wel is gelukt.",
+ "gemeente": "Zwolle",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,171 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2026:2035",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (particulier)",
+  "wederpartij": "gemeente (via Gemeentebelastingen Kennemerland Zuid)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing (de rekening achteraf) omdat er voor de auto niet was betaald. De parkeerder ging in beroep bij de rechtbank Noord-Holland en zei dat de betaalautomaten defect waren.",
+ "titel": "Aannemelijk kapotte automaten: naheffing valt terug naar 1 euro",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder alles had gedaan wat redelijk was om te betalen, en verlaagde de naheffing tot 1 euro.",
+  "bron": [
+   30
+  ],
+  "citaat": "heeft gedaan wat redelijkerwijs van hem kon worden verlangd om de parkeerbelasting te voldoen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Er volgde een naheffing van 1 euro parkeerbelasting plus 78,80 euro kosten.",
+   "bron": [
+    18
+   ],
+   "citaat": "bestaande uit € 1 parkeerbelasting en € 78,80 aan kosten"
+  },
+  {
+   "zin": "De parkeerder zei dat de automaten ter plaatse defect waren en dat er geen parkeerapp was.",
+   "bron": [
+    20
+   ],
+   "citaat": "de parkeerautomaten ter plaatse defect waren en hij niet beschikte over een parkeerapp"
+  },
+  {
+   "zin": "De gemeente betwistte dat de automaten defect waren.",
+   "bron": [
+    24
+   ],
+   "citaat": "Verweerder heeft ter zitting betwist dat de parkeerautomaten defect waren"
+  },
+  {
+   "zin": "De rechter oordeelde dat de automaten waarschijnlijk kapot waren, mede omdat de gemeente haar onderzoek niet onderbouwde.",
+   "bron": [
+    28
+   ],
+   "citaat": "De rechtbank acht dan ook aannemelijk dat de genoemde parkeerautomaten defect waren"
+  },
+  {
+   "zin": "De naheffing gaat terug naar 1 euro, zodat de kosten vervallen.",
+   "bron": [
+    30
+   ],
+   "citaat": "De naheffingsaanslag dient overeenkomstig het standpunt van belanghebbende te worden verminderd tot € 1"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Beroep gegrond; naheffing verlaagd tot 1 euro, de kosten van 78,80 euro vervallen.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing wordt 1 euro, de kosten van 78,80 euro vervallen, en de gemeente vergoedt 53 euro (het bedrag voor de rechtszaak).",
+  "bron": [
+   37,
+   38
+  ],
+  "citaat": "vermindert de naheffingsaanslag tot € 1"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De automaten waren defect en er was geen parkeerapp, dus betalen was niet mogelijk.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond de storing aannemelijk en de onderzoeken van de gemeente te vaag.",
+    "bron": [
+     28
+    ],
+    "citaat": "De rechtbank acht dan ook aannemelijk dat de genoemde parkeerautomaten defect waren"
+   },
+   "bruikbare_zin": {
+    "citaat": "lag een nadere onderbouwing te geven van het gestelde onderzoek",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De kosten van 78,80 euro gaan te ver.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Omdat de parkeerder redelijkerwijs niet kon betalen, viel de naheffing terug tot 1 euro.",
+    "bron": [
+     30
+    ],
+    "citaat": "De naheffingsaanslag dient overeenkomstig het standpunt van belanghebbende te worden verminderd tot € 1"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft gedaan wat redelijkerwijs van hem kon worden verlangd om de parkeerbelasting te voldoen",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een defecte automaat maakt de betaling niet vrij; de parkeerder moet dan op een andere manier betalen.",
+  "type": "regel",
+  "reikwijdte": "defecte parkeerautomaat; de betalingsverplichting blijft gewoon bestaan",
+  "uitzondering": "geen andere werkende betaalmogelijkheid in de buurt, en de parkeerder maakt het defect aannemelijk",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   25
+  ],
+  "citaat": "het feit dat een parkeerautomaat defect is, niet met zich brengt dat de betalingsverplichting komt te vervallen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "filmpje van de vergeefse betaalpogingen",
+   "eigen verklaringen van de parkeerder"
+  ],
+  "wat_gaf_doorslag": "De gedetailleerde en consistente verklaringen met het filmpje wogen zwaarder dan de blote stelling van de gemeente."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:1995:AA3117",
+   "ECLI:NL:HR:2005:AU5160",
+   "ECLI:NL:GHDHA:2024:666"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 lid 1 aanhef onder a Gemeentewet",
+  "art. 1, 5 en 6 Verordening op de heffing en invordering van parkeerbelastingen 2025"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij elke storing vast welke automaten zijn gecontroleerd, op welk moment en met welke uitkomst.",
+   "raakt": "bezwaar",
+   "bron": [
+    28
+   ],
+   "citaat": "Onduidelijk is gebleven voor welke parkeerautomaten navraag is gedaan, voor welke dag en tijdstip"
+  },
+  {
+   "actie": "Zorg dat er werkende betaalapparatuur binnen redelijke afstand van de parkeerplaats is.",
+   "raakt": "betaalapp",
+   "bron": [
+    29
+   ],
+   "citaat": "de gemeente dan moet zorgen voor werkende parkeerapparatuur binnen redelijke afstand van de parkeerplaats"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "Staat de betaalautomaat kapot en kunt u op een andere manier niet betalen, dan kan de naheffing lager uitvallen. Een kapotte automaat betekent niet automatisch dat u niet hoeft te betalen. Heeft u bewijs, zoals een filmpje of foto van de storing, dan helpt dat bij bezwaar.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

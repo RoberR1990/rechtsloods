@@ -1,0 +1,192 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2022:2459",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "misbruik-herhaald",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "verzoeker",
+  "wederpartij": "gemeente Vlieland",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Deze zaak gaat over een verzoek om inzage in persoonsgegevens bij de gemeente Vlieland. De burger ging in hoger beroep bij de Raad van State tegen de gemeente, nadat de rechtbank zijn beroep niet-ontvankelijk had verklaard.",
+ "titel": "Hoger beroep over inzageverzoek ongegrond",
+ "kern": {
+  "zin": "De Raad van State vindt dat de rechtbank terecht oordeelde dat de burger misbruik van procesrecht maakte, en bevestigt de uitspraak.",
+  "bron": [
+   36
+  ],
+  "citaat": "De rechtbank is dan ook terecht tot het oordeel gekomen dat in dit geval misbruik van procesrecht is gemaakt."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente Vlieland om inzage in zijn persoonsgegevens.",
+   "bron": [
+    23
+   ],
+   "citaat": "Ik verzoek u mij uitsluitsel te geven of er mij betreffende persoonsgegevens bij uw organisatie worden verwerkt"
+  },
+  {
+   "zin": "De gemeente vroeg hem om een geldig identiteitsbewijs; de burger reageerde daar niet op.",
+   "bron": [
+    24
+   ],
+   "citaat": "Hierop heeft [appellant] niet gereageerd."
+  },
+  {
+   "zin": "De burger stelde dat hij beroep mocht instellen omdat de gemeente te laat besliste.",
+   "bron": [
+    35
+   ],
+   "citaat": "hij - nadat na ontvangst van de ingebrekestelling het besluit op het verzoek uitbleef - beroep mocht instellen wegens niet-tijdig beslissen."
+  },
+  {
+   "zin": "De rechtbank en de Raad van State vinden dat de burger misbruik van procesrecht maakte.",
+   "bron": [
+    36
+   ],
+   "citaat": "De rechtbank is dan ook terecht tot het oordeel gekomen dat in dit geval misbruik van procesrecht is gemaakt."
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond.",
+   "bron": [
+    38
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd."
+  },
+  {
+   "zin": "De gemeente hoeft geen proceskosten van de burger te vergoeden.",
+   "bron": [
+    40
+   ],
+   "citaat": "Het college hoeft geen proceskosten van [appellant] te vergoeden."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep afgewezen; de rechtbank oordeelde terecht dat de burger misbruik van procesrecht maakte.",
+ "gevolg_betrokkene": {
+  "zin": "De uitspraak van de rechtbank blijft staan; de gemeente hoeft de proceskosten van de burger niet te vergoeden en de burger hoeft de kosten van de gemeente niet te betalen.",
+  "bron": [
+   38,
+   40,
+   43
+  ],
+  "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "misbruik-recht",
+   "burger_zegt": "De burger vindt dat hij geen misbruik van recht maakte door beroep in te stellen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Raad van State oordeelt dat de rechtbank terecht heeft vastgesteld dat de burger misbruik van procesrecht heeft gemaakt.",
+    "bron": [
+     36
+    ],
+    "citaat": "De rechtbank is dan ook terecht tot het oordeel gekomen dat in dit geval misbruik van procesrecht is gemaakt."
+   },
+   "bruikbare_zin": {
+    "citaat": "in dit geval misbruik van procesrecht is gemaakt",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De burger vindt dat hij beroep mocht instellen omdat de gemeente te laat besliste.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Raad van State vindt dat juist dit beroep misbruik van procesrecht was.",
+    "bron": [
+     36
+    ],
+    "citaat": "heeft misbruikt als bedoeld in artikel 3:13, gelezen in verbinding met artikel 3:15 van het Burgerlijk Wetboek"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft misbruikt als bedoeld in artikel 3:13, gelezen in verbinding met artikel 3:15 van het Burgerlijk Wetboek",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De burger vindt dat het verzoek van de gemeente om zich te identificeren onrechtmatig was, zodat hij daarop niet hoefde te reageren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Raad van State volgt de rechtbank en ziet in dit geval misbruik van procesrecht.",
+    "bron": [
+     36
+    ],
+    "citaat": "Het betoog van [appellant] faalt."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het betoog van [appellant] faalt.",
+    "bron": [
+     36
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een natuurlijke persoon kan alleen in de proceskosten worden veroordeeld bij kennelijk onredelijk gebruik van procesrecht.",
+  "type": "regel",
+  "reikwijdte": "Als een bestuursorgaan vraagt om een burger in de proceskosten te veroordelen.",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   42
+  ],
+  "citaat": "kan een natuurlijke persoon alleen in de proceskosten worden veroordeeld in geval van kennelijk onredelijk gebruik van procesrecht."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verzoek van 29 april 2020",
+   "brief van de gemeente van 13 mei 2020",
+   "ingebrekestelling van 16 juni 2020"
+  ],
+  "wat_gaf_doorslag": "Dat de burger niet reageerde op het verzoek om een identiteitsbewijs."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2022:2403"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 4:5 Awb",
+  "art. 8:59 Awb",
+  "art. 3:13 BW",
+  "art. 3:15 BW",
+  "art. 8:75 Awb",
+  "Verordening (EU) 2016/679 (AVG)"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Stel bij een inzageverzoek dat niet compleet is een termijn om de aanvraag aan te vullen.",
+   "raakt": "privacy-fg",
+   "bron": [
+    28
+   ],
+   "citaat": "het college ingevolge artikel 4:5 van de Awb een termijn had moeten stellen voor het aanvullen van de aanvraag"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "U vroeg om inzage in uw persoonsgegevens. De gemeente mag eerst om een kopie van uw identiteitsbewijs vragen, met uw burgerservicenummer en pasfoto onleesbaar gemaakt. Als u daar niet op reageert en daarna beroep instelt omdat de gemeente te laat beslist, kan de rechter zeggen dat u oneigenlijk gebruik maakt van de procedure; werkt u eerst mee, dan kan de gemeente uw verzoek behandelen.",
+ "gemeente": "Vlieland",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,185 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2026:2581",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder gaat in hoger beroep tegen de gemeente Amsterdam over een naheffingsaanslag (een rekening achteraf voor parkeerbelasting). Het gerechtshof Amsterdam beslist.",
+ "titel": "Even tassen wegbrengen telt niet als laden en lossen",
+ "kern": {
+  "zin": "De rechter vindt dat twee tassen met sportspullen en drank geen 'laden en lossen' zijn, omdat de parkeerder niet aannemelijk maakte dat ze te groot of te zwaar waren.",
+  "bron": [
+   32
+  ],
+  "citaat": "Het Hof acht niet aannemelijk gemaakt dat deze zaken de hiervoor bedoelde omvang of gewicht hadden"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger zette zijn auto op 1 augustus 2024 in een parkeervak in betaald gebied en betaalde geen parkeerbelasting.",
+   "bron": [
+    17
+   ],
+   "citaat": "op 1 augustus 2024 omstreeks 19:35 uur stil gezet in een parkeervak"
+  },
+  {
+   "zin": "De burger zei dat hij niet parkeerde maar onmiddellijk laadde en loste.",
+   "bron": [
+    30
+   ],
+   "citaat": "Belanghebbende herhaalt in hoger beroep dat geen sprake is van parkeren maar van onmiddellijk laden en lossen"
+  },
+  {
+   "zin": "De gemeente controleerde met scanauto's volgens een vaste werkwijze.",
+   "bron": [
+    25
+   ],
+   "citaat": "Verweerder hanteert een vaste werkwijze bij de controle op het betalen van parkeerbelasting"
+  },
+  {
+   "zin": "De rechter vindt niet aannemelijk dat de tassen groot of zwaar genoeg waren om als laden en lossen te tellen.",
+   "bron": [
+    32
+   ],
+   "citaat": "Het Hof acht niet aannemelijk gemaakt dat deze zaken de hiervoor bedoelde omvang of gewicht hadden"
+  },
+  {
+   "zin": "De burger was ook niet bezig met het betalen van de parkeerbelasting, dus een extra periode om te betalen hielp hem niet.",
+   "bron": [
+    33
+   ],
+   "citaat": "belanghebbende was niet bezig met uitvoeringshandelingen om de parkeerbelasting te voldoen"
+  },
+  {
+   "zin": "De rechter wijst een kostenvergoeding af.",
+   "bron": [
+    36
+   ],
+   "citaat": "Voor een kostenvergoeding bestaat geen aanleiding"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep van de burger ongegrond; naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffingsaanslag blijft staan en de burger krijgt geen kostenvergoeding.",
+  "bron": [
+   38
+  ],
+  "citaat": "Het Hof bevestigt de uitspraak van de rechtbank"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Ik laadde en loste alleen en haalde een parkeerkaart op; dat is geen parkeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger bewees niet dat de tassen zo groot of zwaar waren dat ze alleen met de auto te vervoeren waren.",
+    "bron": [
+     32
+    ],
+    "citaat": "Het Hof acht niet aannemelijk gemaakt dat deze zaken de hiervoor bedoelde omvang of gewicht hadden"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het Hof acht niet aannemelijk gemaakt dat deze zaken de hiervoor bedoelde omvang of gewicht hadden",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De scanauto had na vijf minuten opnieuw moeten langsrijden om te zien dat ik weg was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De vaste werkwijze met scanauto's geeft voldoende zekerheid voor het bewijs.",
+    "bron": [
+     25
+    ],
+    "citaat": "bevat deze werkwijze voldoende waarborgen voor de zorgvuldigheid van de bewijsgaring"
+   },
+   "bruikbare_zin": {
+    "citaat": "bevat deze werkwijze voldoende waarborgen voor de zorgvuldigheid van de bewijsgaring",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Een parkeerder moet een korte periode krijgen om te stoppen zonder naheffing.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger was niet bezig met het betalen van de parkeerbelasting, dus die redelijke tijd was niet aan de orde.",
+    "bron": [
+     33
+    ],
+    "citaat": "belanghebbende was niet bezig met uitvoeringshandelingen om de parkeerbelasting te voldoen"
+   },
+   "bruikbare_zin": {
+    "citaat": "belanghebbende was niet bezig met uitvoeringshandelingen om de parkeerbelasting te voldoen",
+    "bron": [
+     33
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie zich beroept op laden en lossen, moet aannemelijk maken dat de spullen zo groot of zwaar zijn dat ze niet of moeilijk op een andere manier dan met de auto te halen of te brengen zijn.",
+  "type": "regel",
+  "reikwijdte": "Parkeerder die zegt alleen onmiddellijk te laden of te lossen.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   32
+  ],
+  "citaat": "dat zij niet, of bezwaarlijk, op een andere wijze dan per voertuig ter plaatse kunnen worden gehaald of gebracht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "scanfoto's",
+   "verklaring van de parkeerder op de zitting"
+  ],
+  "wat_gaf_doorslag": "De parkeerder maakte niet aannemelijk dat twee tassen met sportspullen en drank te groot of te zwaar waren om anders te vervoeren."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2014:445"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2 aanhef en onder a Verordening parkeerbelastingen 2024"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg met scanfoto's vast dat de auto stilstaat, de lichten uit zijn en de deuren en kofferbak dicht zijn.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    26
+   ],
+   "citaat": "Op de scanfoto’s is te zien dat de auto stilstaat, de lichten uit zijn, de deuren en kofferbak gesloten zijn"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "scanauto-handhaving",
+  "bezwaar",
+  "klantcontact",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Even stilstaan om iets te halen of te brengen telt als parkeren, behalve bij direct in- of uitstappen of laden en lossen van grote of zware spullen. Twee tassen met sportspullen en drank waren daarvoor niet genoeg, en wie zich op laden en lossen beroept, moet dat zelf aannemelijk maken. Bezwaar heeft weinig kans als u kort wegliep of iets kleins bracht; het helpt wel als u kunt aantonen dat de spullen echt te groot of te zwaar waren.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

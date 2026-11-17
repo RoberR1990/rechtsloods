@@ -1,0 +1,162 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOBR:2023:4013",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "bewijs-scanauto",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (feitelijk bestuurder van de auto)",
+  "wederpartij": "gemeente Oss",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder in Oss kreeg een naheffing (de rekening achteraf) van 68 euro. Na bezwaar ging de parkeerder in beroep bij de rechtbank Oost-Brabant.",
+ "titel": "Rekening achteraf van 68 euro vernietigd; bewijs ontbrak",
+ "kern": {
+  "zin": "De gemeente kon niet laten zien dat de parkeerder genoeg tijd had om te betalen, dus de rekening verdween.",
+  "bron": [
+   35
+  ],
+  "citaat": "niet aannemelijk geworden dat eiseres een redelijke termijn is gegund om de parkeerapparatuur in werking te stellen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Voor het parkeren in Oss kwam achteraf een rekening van 68 euro op naam van het kenteken.",
+   "bron": [
+    22
+   ],
+   "citaat": "een naheffingsaanslag parkeerbelasting opgelegd ter hoogte van € 68"
+  },
+  {
+   "zin": "Zij stelt dat zij na het parkeren meteen naar de automaat liep en om 14:51 uur betaalde.",
+   "bron": [
+    31
+   ],
+   "citaat": "waar ze om 14:51 uur heeft betaald met haar betaalpas"
+  },
+  {
+   "zin": "De gemeente vermoedt dat zij de controleur zag en pas daarna betaalde.",
+   "bron": [
+    32
+   ],
+   "citaat": "de parkeercontroleur heeft gezien en toen naar een parkeermeter is gelopen"
+  },
+  {
+   "zin": "Volgens de rechter kostte het vanaf de auto tot de automaat ongeveer vijf minuten.",
+   "bron": [
+    34
+   ],
+   "citaat": "heeft geduurd voordat eiseres vanaf haar auto naar de parkeerautomaat kon lopen"
+  },
+  {
+   "zin": "De rechter vernietigde zowel de bezwaarbeslissing als de rekening zelf.",
+   "bron": [
+    37
+   ],
+   "citaat": "en zelf in de zaak voorzien door de genoemde naheffingsaanslag parkeerbelasting te vernietigen"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Rekening vervalt; griffierecht van 50 euro terug",
+ "gevolg_betrokkene": {
+  "zin": "De rekening van 68 euro vervalt, en de gemeente moet het griffierecht van 50 euro terugbetalen.",
+  "bron": [
+   37,
+   19,
+   22
+  ],
+  "citaat": "eiseres de naheffingsaanslag parkeerbelasting niet hoeft te betalen"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Zij betaalde op tijd, en de gemeente heeft het tegendeel niet aangetoond.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Bij de gemeente ligt de plicht om aan te tonen dat de aanslag klopt, en dat lukte niet.",
+    "bron": [
+     33
+    ],
+    "citaat": "De bewijslast dat de naheffingsaanslag parkeerbelasting terecht is opgelegd, rust op de heffingsambtenaar"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet aannemelijk geworden dat eiseres een redelijke termijn is gegund om de parkeerapparatuur in werking te stellen",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De automaat was lastig te bedienen; aanmelden lukte vaak pas na twee of drie pogingen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Volgens de rechter was niet betwist dat de automaat vaak meerdere pogingen vergde.",
+    "bron": [
+     34
+    ],
+    "citaat": "het aanmelden van een voertuig voor parkeren twee tot driemaal moet worden gedaan"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een naheffing moet de gemeente aantonen dat de aanslag klopt.",
+  "type": "regel",
+  "reikwijdte": "Naheffingsaanslagen parkeerbelasting waarbij de betaling of de betaaltijd in geschil is",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   33
+  ],
+  "citaat": "De bewijslast dat de naheffingsaanslag parkeerbelasting terecht is opgelegd, rust op de heffingsambtenaar"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "werkproces van de controleurs (verweerschrift)",
+   "twee of meer foto's van de auto",
+   "verklaring van de parkeerder over betaling met de betaalpas"
+  ],
+  "wat_gaf_doorslag": "Het dossier bood geen aanknopingspunt voor het vermoeden dat zij op de controleurs had gewacht."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Verordening parkeerbelastingen 2022 Oss (bijlage 2)"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg vast hoeveel tijd er tussen aankomst en aanslag zit, bijvoorbeeld met tijdstempels op de foto's.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    34
+   ],
+   "citaat": "heeft geduurd voordat eiseres vanaf haar auto naar de parkeerautomaat kon lopen"
+  },
+  {
+   "actie": "Controleer of de parkeerautomaten bij de eerste poging werken, want de bediening kostte hier meerdere pogingen.",
+   "raakt": "betaalapp",
+   "bron": [
+    34
+   ],
+   "citaat": "het aanmelden van een voertuig voor parkeren twee tot driemaal moet worden gedaan"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "scanauto-handhaving",
+  "betaalapp",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een naheffing is pas terecht als de gemeente kan aantonen dat u niet op tijd betaalde. Heeft u wel betaald, of had u te weinig tijd om de automaat te bedienen, dan kan bezwaar of beroep zinvol zijn. Bewaar daarom uw betaalbewijs en let op het tijdstip van betalen.",
+ "gemeente": "Oss",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,170 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2021:317",
+ "relevant": true,
+ "onderwerp": "schade-aansprakelijkheid",
+ "sub": "materiele-schade",
+ "kenmerk": null,
+ "zaaktype": "schadevergoeding",
+ "partijen": {
+  "burger": "persoon die een Wmo-voorziening vroeg",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger vroeg de gemeente Rotterdam om een vervoersvoorziening (Wmo). Hij ging bij de rechtbank Rotterdam in beroep en vroeg schadevergoeding, omdat de gemeente zijn privacygevoelige gegevens zou hebben gedeeld.",
+ "titel": "Geen schadevergoeding voor gedeelde gegevens: geen begin van bewijs",
+ "kern": {
+  "zin": "De rechter wees de schadeclaim af, omdat de burger niet liet zien dat zijn gegevens onterecht zijn gedeeld en dat hij schade had.",
+  "bron": [
+   34
+  ],
+  "citaat": "noch van zijn schade een begin van bewijs geleverd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger meldde zich bij de gemeente voor een vervoersvoorziening op grond van de Wmo.",
+   "bron": [
+    17
+   ],
+   "citaat": "heeft eiser zich bij verweerder gemeld met het verzoek om in aanmerking te komen voor een vervoersvoorziening"
+  },
+  {
+   "zin": "De gemeente liet per brief weten dat de melding niet verder werd behandeld.",
+   "bron": [
+    18
+   ],
+   "citaat": "de melding van eiser niet verder in behandeling wordt genomen"
+  },
+  {
+   "zin": "De burger vroeg schadevergoeding, omdat de gemeente privacygevoelige gegevens zou hebben gedeeld.",
+   "bron": [
+    23
+   ],
+   "citaat": "Eiser vordert schadevergoeding, omdat verweerder onrechtmatig privacygevoelige gegevens heeft gedeeld."
+  },
+  {
+   "zin": "De rechter vond die brief geen besluit, dus bezwaar daartegen was niet mogelijk.",
+   "bron": [
+    29
+   ],
+   "citaat": "De brief is dan ook geen besluit in de zin van artikel 1:3, eerste lid, van de Awb"
+  },
+  {
+   "zin": "De gemeente had wel te laat op het bezwaar beslist, maar hoefde geen dwangsom (bedrag voor te late beslissing) te betalen.",
+   "bron": [
+    32
+   ],
+   "citaat": "Dit brengt echter niet met zich dat verweerder een dwangsom is verschuldigd."
+  },
+  {
+   "zin": "De burger liet niet zien dat zijn gegevens onterecht waren verwerkt en dat hij schade had; de schadeclaim werd afgewezen.",
+   "bron": [
+    34
+   ],
+   "citaat": "Het verzoek moet daarom worden afgewezen."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Schadeclaim en bezwaar afgewezen; wel te laat beslist maar geen dwangsom.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen schadevergoeding en geen dwangsom, en ook geen vergoeding van proceskosten.",
+  "bron": [
+   35
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "De gemeente deelde onrechtmatig privacygevoelige gegevens en hij heeft daardoor schade.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger liet niet zien dat gegevens zijn gedeeld op een manier die niet mag, en ook niet dat hij schade had.",
+    "bron": [
+     34
+    ],
+    "citaat": "heeft van deze gestelde niet toegestane vorm van verwerking van persoonsgegevens noch van zijn schade een begin van bewijs geleverd"
+   },
+   "bruikbare_zin": {
+    "citaat": "noch van zijn schade een begin van bewijs geleverd",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente besliste te laat op zijn bezwaar, dus er is een dwangsom verschuldigd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er is geen dwangsom verschuldigd als het bezwaar kennelijk niet-ontvankelijk is.",
+    "bron": [
+     32
+    ],
+    "citaat": "geen dwangsom verschuldigd indien de aanvraag"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente verzamelde gegevens onrechtmatig, las ze verkeerd en vernietigde ze niet.",
+   "oordeel": "niet beoordeeld",
+   "waarom": null,
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie schadevergoeding vraagt voor onrechtmatig delen van persoonsgegevens, moet minstens een begin van bewijs geven van dat delen en van de schade.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Schadeclaim zonder enig bewijs van het delen van gegevens en van de schade.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   34
+  ],
+  "citaat": "noch van zijn schade een begin van bewijs geleverd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De burger gaf geen begin van bewijs voor het delen van gegevens en voor zijn schade."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:CRVB:2018:2013"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1:3 lid 1 Awb",
+  "art. 4:17 lid 6 onder c Awb",
+  "art. 2.3.2 Wmo 2015",
+  "art. 2.3.5 Wmo 2015",
+  "art. 7:3 Awb",
+  "art. 6:15 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Beslis binnen de termijn op bezwaar, ook als de burger iets lijkt in te trekken, en leg een opschorting of verdaging van de termijn vast.",
+   "raakt": "bezwaar",
+   "bron": [
+    32
+   ],
+   "citaat": "Nu niet blijkt van opschorting of verdaging van de termijn voor het beslissen op bezwaar"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "privacy-fg",
+  "klantcontact"
+ ],
+ "klantuitleg": "Vindt u dat de gemeente uw gegevens onterecht heeft gedeeld en wilt u schadevergoeding, dan moet u zelf laten zien dat dit is gebeurd en dat u schade heeft. Alleen zeggen dat het zo is, is niet genoeg. Verzamel daarom bewijs van het delen van uw gegevens en van uw schade.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

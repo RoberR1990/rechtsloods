@@ -1,0 +1,203 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2017:1787",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner (parkeerder) met gemachtigde",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder procedeert tegen de gemeente Amsterdam bij het gerechtshof Amsterdam. Het gaat om de kosten van een bezwaar tegen een naheffingsaanslag (een rekening achteraf voor parkeren) die de gemeente zelf al had vernietigd.",
+ "titel": "Verkeerd kenteken ingetoetst: geen vergoeding van bezwaarkosten",
+ "kern": {
+  "zin": "De rechter vond dat de fout bij de parkeerder lag en dat de gemeente hem niet hoefde te horen, dus er is geen vergoeding van de bezwaarkosten.",
+  "bron": [
+   50
+  ],
+  "citaat": "In deze gang van zaken kan het Hof slechts een fout van belanghebbende onderkennen, niet van de heffingsambtenaar."
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder betaalde bij de automaat, maar toetste aan het eind van het kenteken PP in plaats van FP.",
+   "bron": [
+    20
+   ],
+   "citaat": "en PP aan het einde ingetoetst, in plaats van FP"
+  },
+  {
+   "zin": "Daardoor kreeg hij een naheffingsaanslag van 57,90 euro; na bezwaar vernietigde de gemeente die, maar zonder kostenvergoeding en zonder hem te horen.",
+   "bron": [
+    27
+   ],
+   "citaat": "De heffingsambtenaar heeft belanghebbende niet gehoord en de door hem gevraagde kostenvergoeding niet gegeven."
+  },
+  {
+   "zin": "De parkeerder vond dat de gemeente beter had moeten controleren, omdat een controleur het betaalbewijs achter de voorruit had gezien.",
+   "bron": [
+    52
+   ],
+   "citaat": "had deze controleur het betaalbewijs achter de voorruit zien liggen"
+  },
+  {
+   "zin": "De gemeente zei dat zij geen klachten over de automaten kende en dat de fout bij de parkeerder lag.",
+   "bron": [
+    51
+   ],
+   "citaat": "geen klachten bekend zijn geworden over disfunctioneren van de apparatuur"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente niet verder hoefde te onderzoeken en dat horen niet nodig was, omdat het bezwaar tegen de naheffing helemaal was ingewilligd.",
+   "bron": [
+    71
+   ],
+   "citaat": "terecht op de voet van artikel 7:3, aanhef en onder e, Awb van het horen kon afzien"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de parkeerder krijgt geen kosten vergoed.",
+   "bron": [
+    79
+   ],
+   "citaat": "het hoger beroep van belanghebbende ongegrond is"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Naheffing was al vernietigd; alleen de bezwaarkosten waren nog in geschil.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt de kosten van zijn bezwaar niet vergoed en ook geen proceskostenvergoeding voor het hoger beroep.",
+  "bron": [
+   81
+  ],
+  "citaat": "Het Hof acht geen termen aanwezig voor een veroordeling in de kosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De parkeerautomaten werken slecht, dus de fout is niet aan hem te wijten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente kende geen klachten en de rest van het kenteken was wel goed ingevoerd.",
+    "bron": [
+     51
+    ],
+    "citaat": "Het Hof verwerpt de stelling van belanghebbende dat de parkeerautomaten niet goed zouden functioneren"
+   },
+   "bruikbare_zin": {
+    "citaat": "na het maken van een fout (kenbaar via het display) de transactie had moeten afbreken en opnieuw had moeten beginnen",
+    "bron": [
+     51
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De gemeente heeft hem ten onrechte niet gehoord in bezwaar, ook al had hij dat gevraagd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Aan het bezwaar tegen de naheffing was volledig tegemoetgekomen, dus horen hoefde niet.",
+    "bron": [
+     71
+    ],
+    "citaat": "terecht op de voet van artikel 7:3, aanhef en onder e, Awb van het horen kon afzien"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het verzoek om een kostenvergoeding kan niet worden aangemerkt als een (voorwaardelijk) bezwaar tegen de nog niet genomen kostenbeslissing.",
+    "bron": [
+     70
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente moest eerst nader onderzoeken of er betaald was voordat zij de naheffing oplegde.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Bij belasting op aangifte hoeft de gemeente niet extra te onderzoeken; controle met de scanauto is genoeg.",
+    "bron": [
+     53
+    ],
+    "citaat": "de heffingsambtenaar niet een nadere onderzoeksplicht had"
+   },
+   "bruikbare_zin": {
+    "citaat": "betalers van parkeerbelasting niet verplicht zijn om een betaalbewijs te laten printen",
+    "bron": [
+     54
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente heeft niet alle stukken over de zaak aan hem gegeven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Ook als dat waar is, maakt het niet uit voor de vraag of de gemeente onrechtmatig handelde.",
+    "bron": [
+     74
+    ],
+    "citaat": "zelfs indien waar, relevantie mist voor de onderhavige zaak"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bezwaarkosten worden alleen vergoed als de gemeente de naheffing herroept door een onrechtmatigheid die de gemeente zelf veroorzaakte.",
+  "type": "regel",
+  "reikwijdte": "Vergoeding van bezwaarkosten bij een vernietigde naheffingsaanslag parkeerbelasting",
+  "uitzondering": "Is de fout van de gemeente zelf, dan kunnen de kosten wel worden vergoed.",
+  "herkomst": "wet",
+  "bron": [
+   68
+  ],
+  "citaat": "voorzover het bestreden besluit wordt herroepen wegens een aan het bestuursorgaan te wijten onrechtmatigheid"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "betaalbewijs van de automaat",
+   "parkeerrechtendatabase"
+  ],
+  "wat_gaf_doorslag": "Het foute kenteken was door de parkeerder zelf ingevoerd."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHAMS:2016:1107",
+   "ECLI:NL:GHAMS:2015:4471",
+   "ECLI:NL:HR:2016:114"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:15 Awb",
+  "art. 7:3 Awb",
+  "art. 7:2 Awb",
+  "art. 6:22 Awb",
+  "art. 8:31 Awb",
+  "art. 4 Verordening Parkeerbelastingen 2015 II Amsterdam"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg in de beslissing op bezwaar uit dat een fout van de burger zelf geen recht geeft op kostenvergoeding.",
+   "raakt": "bezwaar",
+   "bron": [
+    50
+   ],
+   "citaat": "De herroeping is in gang gezet om de gevolgen van een door belanghebbende gemaakte fout ongedaan te maken."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "betaalapp"
+ ],
+ "klantuitleg": "Als u bij de automaat een verkeerd kenteken intoetst en daardoor een rekening achteraf krijgt, kan de gemeente die laten vervallen als u laat zien dat u betaald hebt. De kosten van uw bezwaar krijgt u dan meestal niet terug, omdat de fout bij u lag. Bewaar daarom uw betaalbewijs en controleer het kenteken voordat u betaalt.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,169 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2025:7416",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente (heffing via de Belastingsamenwerking gemeenten & hoogheemraadschap Utrecht)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeert tegen naheffingsaanslagen parkeerbelasting, het bedrag dat achteraf wordt gevraagd. Het gaat om vier zaken bij de rechtbank Midden-Nederland, zittingsplaats Utrecht, tegen de gemeente.",
+ "titel": "Parkeerder krijgt geen gelijk: te laat bezwaar en fout kenteken",
+ "kern": {
+  "zin": "De rechter verklaart alle beroepen ongegrond: twee bezwaren kwamen te laat binnen, en de fout met het kenteken blijft voor de parkeerder.",
+  "bron": [
+   26,
+   24
+  ],
+  "citaat": "In de zaken UTR 23/4732 en UTR 23/4733 heeft de heffingsambtenaar de bezwaren van eiseres terecht niet ontvankelijk verklaard"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde naheffingen op voor de auto van de partner van de parkeerder, die meerdere dagen zonder betaling in Utrecht stond.",
+   "bron": [
+    20
+   ],
+   "citaat": "Het voertuig van de partner van eiseres stond op verschillende dagen geparkeerd"
+  },
+  {
+   "zin": "De parkeerder zegt dat zij een zakelijke vergunning heeft en dat een invoerfout het kenteken veranderde.",
+   "bron": [
+    23
+   ],
+   "citaat": "Eiseres voert aan dat zij beschikt over een zakelijke parkeervergunning"
+  },
+  {
+   "zin": "Volgens de gemeente is de parkeerder zelf verantwoordelijk voor een juiste registratie van het kenteken.",
+   "bron": [
+    24
+   ],
+   "citaat": "Eiseres is zelf verantwoordelijk voor een correcte registratie"
+  },
+  {
+   "zin": "De rechter oordeelt dat de bezwaren te laat zijn, omdat de gemeente ze pas in mei 2023 kreeg.",
+   "bron": [
+    15
+   ],
+   "citaat": "heeft het bezwaarschrift ontvangen op 25 mei 2023. Dat is dus te laat."
+  },
+  {
+   "zin": "De rechter volgt de gemeente ook bij het kenteken en ziet geen reden om de fout voor de gemeente te laten.",
+   "bron": [
+    24
+   ],
+   "citaat": "De rechtbank kan de heffingsambtenaar hierin volgen. De beroepsgronden slagen niet."
+  },
+  {
+   "zin": "De parkeerder krijgt geen geld terug voor de procedure.",
+   "bron": [
+    26
+   ],
+   "citaat": "Zij krijgt ook geen vergoeding van haar proceskosten."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroepen ongegrond; te late bezwaren en kenteken-fout voor de parkeerder",
+ "gevolg_betrokkene": {
+  "zin": "De naheffingen blijven staan, het griffierecht gaat niet terug en de proceskosten worden niet vergoed.",
+  "bron": [
+   26
+  ],
+  "citaat": "Eiseres krijgt daarom het griffierecht niet terug. Zij krijgt ook geen vergoeding van haar proceskosten."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "Zij begreep eerst niet waarom zij boetes kreeg, en daarom diende zij het bezwaar later in.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt die reden niet verschoonbaar, omdat de parkeerder de late indiening zelf moet verantwoorden.",
+    "bron": [
+     18
+    ],
+    "citaat": "Wat eiseres als reden aanvoert, kan namelijk niet als een verschoonbare reden worden aangemerkt."
+   },
+   "bruikbare_zin": {
+    "citaat": "kan namelijk niet als een verschoonbare reden worden aangemerkt",
+    "bron": [
+     18
+    ]
+   }
+  },
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Zij had een zakelijke vergunning, maar bij het invoeren ging een letter van het kenteken fout.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter volgt de gemeente: de invoerfout in het kenteken blijft voor de parkeerder.",
+    "bron": [
+     24
+    ],
+    "citaat": "Dat eiseres per ongeluk een onjuiste letter in het kenteken heeft ingevoerd blijft voor haar rekening en risico."
+   },
+   "bruikbare_zin": {
+    "citaat": "Eiseres is zelf verantwoordelijk voor een correcte registratie",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "gelijkheid",
+   "burger_zegt": "Een collega met dezelfde fout kreeg haar aanslagen vernietigd, dus wil zij gelijke behandeling.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter volgt de gemeente: aan de maatstaf voor gelijke behandeling is hier niet voldaan.",
+    "bron": [
+     24
+    ],
+    "citaat": "De rechtbank kan de heffingsambtenaar hierin volgen. De beroepsgronden slagen niet."
+   },
+   "bruikbare_zin": {
+    "citaat": "Bij een toets aan het gelijkheidsbeginsel wordt er volgens de heffingsambtenaar niet voldaan aan de meerderheidsregel",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een te laat ingediend bezwaar kan de gemeente niet-ontvankelijk verklaren, tenzij de late indiening verschoonbaar is.",
+  "type": "regel",
+  "reikwijdte": "bezwaarschriften die na de termijn van zes weken binnenkomen",
+  "uitzondering": "de late indiening is verschoonbaar: omstandigheden waar de burger niets aan kan doen",
+  "herkomst": "wet",
+  "bron": [
+   15
+  ],
+  "citaat": "Als iemand een bezwaarschrift te laat indient, kan het bestuursorgaan het bezwaar niet-ontvankelijk verklaren."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen fout of eis van de gemeente in deze uitspraak; de rechter legt de kenteken-fout bij de parkeerder",
+ "raakt": [
+  "bezwaar",
+  "vergunningen",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een naheffing blijft staan als u te laat bezwaar maakt zonder goede reden. Een verkeerd ingevoerd kenteken komt voor uw rekening. Wilt u bezwaar maken, let dan op de termijn van zes weken en bewaar bewijs; bij een eigen invoerfout is de kans klein.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "samenwerking van gemeenten; geen enkele gemeente genoemd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

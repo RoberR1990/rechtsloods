@@ -1,0 +1,182 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2017:2008",
+ "relevant": true,
+ "onderwerp": "rechtmatige-verwerking",
+ "sub": "camera-toezicht",
+ "kenmerk": null,
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "gebruiker van een bedrijfsauto",
+  "wederpartij": "staatssecretaris van Financiën (Belastingdienst)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een gebruiker van een bedrijfsauto wilde weten welke cameragegevens van zijn auto de Belastingdienst had en wilde die laten verwijderen. Hij ging in hoger beroep tegen de staatssecretaris van Financiën bij de Raad van State.",
+ "titel": "Camerakentekens bewaren zonder precieze wettelijke basis mag niet",
+ "kern": {
+  "zin": "De rechter vond dat de Belastingdienst de kentekengegevens zonder voldoende precieze wettelijke grondslag verzamelde en gebruikte.",
+  "bron": [
+   45
+  ],
+  "citaat": "Het verzamelen en gebruiken van de ANPR-gegevens door de Belastingdienst berust derhalve niet op een toereikende wettelijke grondslag"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de Belastingdienst om inzage in gegevens van cameralezingen van kentekens (ANPR) van zijn bedrijfsauto.",
+   "bron": [
+    21
+   ],
+   "citaat": "verzocht om verstrekking van de gegevens betreffende het hem ter beschikking gestelde motorrijtuig"
+  },
+  {
+   "zin": "Hij vroeg ook om verwijdering, omdat de Belastingdienst volgens hem geen wettelijke grondslag had.",
+   "bron": [
+    22
+   ],
+   "citaat": "omdat volgens hem een wettelijke grondslag voor de verwerking daarvan door de Belastingdienst ontbreekt"
+  },
+  {
+   "zin": "De staatssecretaris vond de heffingstaak van de Belastingdienst een voldoende wettelijke grondslag.",
+   "bron": [
+    25
+   ],
+   "citaat": "een wettelijke grondslag daarvoor is gelegen in de in de belastingwetgeving aan de Belastingdienst geattribueerde heffingstaak"
+  },
+  {
+   "zin": "De rechtbank vond eerst dat het geen persoonsgegevens waren, omdat de auto op naam van een bedrijf stond.",
+   "bron": [
+    27
+   ],
+   "citaat": "betreffende een kenteken dat in het Kentekenregister op naam van een niet-natuurlijke persoon staat geregistreerd"
+  },
+  {
+   "zin": "De Raad van State vond dat het wel persoonsgegevens zijn, omdat de gebruiker van de auto zo kan worden herkend.",
+   "bron": [
+    34
+   ],
+   "citaat": "de natuurlijke persoon aan wie het motorrijtuig ter beschikking is gesteld wordt geïdentificeerd"
+  },
+  {
+   "zin": "De algemene taak van de Belastingdienst om belasting te heffen is geen voldoende precieze wettelijke grondslag.",
+   "bron": [
+    44
+   ],
+   "citaat": "bepaalt immers slechts in algemene zin dat de Belastingdienst is belast met de heffing en invordering van rijksbelastingen"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Besluit herroepen; gegevens eerst verstrekken, daarna verwijderen",
+ "gevolg_betrokkene": {
+  "zin": "De Belastingdienst moet de gevraagde gegevens eerst aan hem geven en daarna verwijderen, en hem € 990 proceskosten en € 248 griffierecht vergoeden.",
+  "bron": [
+   60
+  ],
+  "citaat": "opgekomen proceskosten tot een bedrag van € 990,00"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "geen-wettelijke-grondslag",
+   "burger_zegt": "Er is geen wettelijke basis voor het verzamelen en bewaren van de kentekengegevens, dus ze moeten weg.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het verzamelen en gebruiken van de gegevens berust niet op een toereikende wettelijke grondslag.",
+    "bron": [
+     45
+    ],
+    "citaat": "berust derhalve niet op een toereikende wettelijke grondslag"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen precieze grondslag voor het verzamelen, vastleggen, bewerken, bewaren en gebruiken van de ANPR-gegevens",
+    "bron": [
+     44
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Cameragegevens van een auto op naam van een bedrijf zijn wel persoonsgegevens, want ze laten het gedrag van de gebruiker zien.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Met de gegevens van een auto op naam van een bedrijf kan de gebruiker worden herkend.",
+    "bron": [
+     34
+    ],
+    "citaat": "de natuurlijke persoon aan wie het motorrijtuig ter beschikking is gesteld wordt geïdentificeerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "de natuurlijke persoon aan wie het motorrijtuig ter beschikking is gesteld wordt geïdentificeerd",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Ik moet ook de gegevens van na 2012 krijgen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De staatssecretaris weigerde de gegevens na 2012 ten onrechte vanwege fiscale controledoeleinden.",
+    "bron": [
+     47
+    ],
+    "citaat": "ten onrechte in verband met het gebruik voor fiscale controledoeleinden heeft geweigerd de ANPR-gegevens van de periode na 2012 te verstrekken"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het vastleggen, bewaren en gebruiken van ANPR-gegevens vraagt een voldoende precieze wettelijke grondslag, omdat het het privéleven raakt.",
+  "type": "regel",
+  "reikwijdte": "Het systematisch verzamelen, bewaren en gebruiken van ANPR-gegevens door een overheidsorgaan",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   41
+  ],
+  "citaat": "behoeft het verzamelen, vastleggen, bewerken, bewaren en gebruiken van de ANPR-gegevens een voldoende precieze wettelijke grondslag"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van de gemachtigde van de staatssecretaris ter zitting"
+  ],
+  "wat_gaf_doorslag": "Er was geen wettelijke bepaling die precies regelde hoe de Belastingdienst deze gegevens mocht verzamelen en bewaren."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2017:288"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 35 Wbp",
+  "art. 8 EVRM",
+  "art. 10 Grondwet",
+  "art. 2 Uitvoeringsregeling Belastingdienst 2003",
+  "art. 11 en 20 Algemene wet inzake rijksbelastingen"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer of het vastleggen en bewaren van kentekens met camera's steunt op een voldoende precieze wettelijke bepaling, en niet alleen op een algemene taak",
+   "raakt": "privacy-fg",
+   "bron": [
+    43
+   ],
+   "citaat": "geen voldoende precieze wettelijke grondslag in vorenbedoelde zin oplevert"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "fraude-handhaving",
+  "datateam-algoritmes"
+ ],
+ "klantuitleg": "Een overheid mag kentekens met camera's alleen vastleggen en bewaren als een duidelijke wettelijke regeling dat toestaat. De algemene taak van een dienst is daarvoor niet genoeg. Wilt u weten wat er over uw auto is bewaard, dan kunt u om inzage vragen en eventueel om verwijdering.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij (Belastingdienst)",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

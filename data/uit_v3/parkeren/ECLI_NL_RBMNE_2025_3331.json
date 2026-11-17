@@ -1,0 +1,129 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2025:3331",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (eigenaar auto)",
+  "wederpartij": "gemeente Utrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing (de rekening achteraf) omdat hij op een betaald parkeerplek niet had betaald. Hij ging in beroep tegen de gemeente Utrecht bij de rechtbank Midden-Nederland.",
+ "titel": "Parkeerbelasting niet betaald: geen noodsituatie, beroep ongegrond",
+ "kern": {
+  "zin": "De rechter vond geen overmacht, omdat de parkeerder een parkeerapp had kunnen gebruiken.",
+  "bron": [
+   18
+  ],
+  "citaat": "eiser had voldoende mogelijkheid om bijvoorbeeld een parkeerapp te gebruiken"
+ },
+ "samenvatting": [
+  {
+   "zin": "De naheffing volgde omdat de auto zonder betaalde parkeerbelasting op een betaald parkeerplek stond.",
+   "bron": [
+    14
+   ],
+   "citaat": "zonder dat de verschuldigde parkeerbelasting was betaald"
+  },
+  {
+   "zin": "De parkeerder zei dat hij tot 12:06 uur betaalde, omdat de zitting volgens de uitnodiging tot 12:00 uur zou duren.",
+   "bron": [
+    16
+   ],
+   "citaat": "Deze zitting zou volgens de uitnodiging uiterlijk tot 12:00 uur duren"
+  },
+  {
+   "zin": "De gemeente stelde dat de parkeerder zelf zijn parkeerduur moet inschatten.",
+   "bron": [
+    17
+   ],
+   "citaat": "het de verantwoordelijkheid is van de parkeerder om een juiste inschatting te maken"
+  },
+  {
+   "zin": "De rechter zei dat parkeerbelasting objectief is, dus persoonlijke omstandigheden tellen niet mee.",
+   "bron": [
+    18
+   ],
+   "citaat": "De parkeerbelasting is een objectieve belasting."
+  },
+  {
+   "zin": "De parkeerder krijgt geen gelijk en het griffierecht niet terug.",
+   "bron": [
+    20
+   ],
+   "citaat": "Eiser krijgt daarom het griffierecht niet terug."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan en de parkeerder krijgt het griffierecht niet terug.",
+  "bron": [
+   20
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overmacht-medisch",
+   "burger_zegt": "Hij kon niet betalen, omdat de zitting langer duurde en hij niet kon weglopen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de aangevoerde omstandigheden niet onder overmacht vallen.",
+    "bron": [
+     18
+    ],
+    "citaat": "De omstandigheden die eiser daarover heeft aangevoerd, vallen daar naar het oordeel van de rechtbank niet onder"
+   },
+   "bruikbare_zin": {
+    "citaat": "eiser had voldoende mogelijkheid om bijvoorbeeld een parkeerapp te gebruiken",
+    "bron": [
+     18
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Persoonlijke omstandigheden tellen bij parkeerbelasting niet mee, tenzij er echte overmacht is.",
+  "type": "regel",
+  "reikwijdte": "Naheffingen parkeerbelasting",
+  "uitzondering": "Overmacht: iemand is absoluut, feitelijk en fysiek verhinderd om te betalen",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   18
+  ],
+  "citaat": "De parkeerbelasting is een objectieve belasting."
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "uitnodiging van de rechtbank voor de zitting"
+  ],
+  "wat_gaf_doorslag": "Een betaalde parkeerapp had de parkeerder kunnen gebruiken."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Verordening Parkeerbelastingen gemeente Utrecht 2024"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver toepassing van de regels; de rechter noemt geen tekortkoming van de gemeente",
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar",
+  "betaalapp"
+ ],
+ "klantuitleg": "De rechter zag een langere zitting niet als reden om niet te betalen. Alleen bij een echte noodsituatie, waarin u absoluut niet kon betalen, kan dat anders liggen. Zonder bewijs van zo'n situatie heeft bezwaar op dit punt weinig kans.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

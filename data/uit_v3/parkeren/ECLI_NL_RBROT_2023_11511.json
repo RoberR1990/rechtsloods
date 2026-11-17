@@ -1,0 +1,148 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:11511",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeerde bij de rechtbank Rotterdam tegen de gemeente Rotterdam. Het ging om een naheffing (de rekening achteraf) en om de vraag of de uitspraak op bezwaar goed was verstuurd en of hij gehoord had moeten worden.",
+ "titel": "Uitspraak bezwaar bereikte gemachtigde; geen procedurefout",
+ "kern": {
+  "zin": "De rechter oordeelt dat de uitspraak de gemachtigde toch bereikte, dus de parkeerder is niet benadeeld.",
+  "bron": [
+   19
+  ],
+  "citaat": "De uitspraak heeft gemachtigde dus bereikt"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde de parkeerder een naheffing op voor parkeren op de Schiedamseweg zonder volledige betaling.",
+   "bron": [
+    17
+   ],
+   "citaat": "stond geparkeerd op locatie Schiedamseweg te Rotterdam zonder dat (volledig) aan de betaalplicht is voldaan"
+  },
+  {
+   "zin": "De parkeerder zegt dat de uitspraak op bezwaar alleen naar hemzelf ging en niet naar zijn gemachtigde.",
+   "bron": [
+    18
+   ],
+   "citaat": "de uitspraak op bezwaar ten onrechte naar eiser zelf is gestuurd"
+  },
+  {
+   "zin": "Volgens de gemeente kreeg de gemachtigde de uitspraak later alsnog.",
+   "bron": [
+    19
+   ],
+   "citaat": "de uitspraak op bezwaar op 11 oktober 2022 alsnog ook naar de gemachtigde van eiser is gestuurd"
+  },
+  {
+   "zin": "De parkeerder had zelf niet om een hoorzitting gevraagd, dus die plicht gold niet.",
+   "bron": [
+    20
+   ],
+   "citaat": "heeft verzocht om te worden gehoord"
+  },
+  {
+   "zin": "Een dwangsom is er niet, want de gemachtigde had de uitspraak al in handen.",
+   "bron": [
+    21
+   ],
+   "citaat": "Hieruit blijkt dat de gemachtigde beschikt over de uitspraak op bezwaar"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; procedurele klachten en dwangsom verworpen.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt geen dwangsom en geen proceskosten; de naheffing blijft staan.",
+  "bron": [
+   25,
+   23
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De gemeente heeft hem niet gehoord en de uitspraak is niet naar zijn gemachtigde gestuurd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Hij had niet om een hoorzitting gevraagd, dus die plicht gold niet.",
+    "bron": [
+     20
+    ],
+    "citaat": "heeft verzocht om te worden gehoord"
+   },
+   "bruikbare_zin": {
+    "citaat": "wordt de belanghebbende gehoord op zijn verzoek",
+    "bron": [
+     20
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De uitspraak op bezwaar is niet ontvangen, dus wil hij een dwangsom.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemachtigde had de uitspraak al, dus er is geen dwangsom.",
+    "bron": [
+     21
+    ],
+    "citaat": "Hieruit blijkt dat de gemachtigde beschikt over de uitspraak op bezwaar"
+   },
+   "bruikbare_zin": {
+    "citaat": "Hieruit blijkt dat de gemachtigde beschikt over de uitspraak op bezwaar",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "In belastingzaken wordt een burger alleen gehoord als hij daar zelf om vraagt.",
+  "type": "regel",
+  "reikwijdte": "hoorzitting in belastingzaken",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   20
+  ],
+  "citaat": "wordt de belanghebbende gehoord op zijn verzoek"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "het dossier"
+  ],
+  "wat_gaf_doorslag": "Het ontbreken van een verzoek om gehoord te worden."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 25, eerste lid, Algemene wet inzake rijksbelastingen",
+  "art. 7:2 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver procedureel; geen inhoudelijk verwijt aan de gemeente",
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Heeft u een gemachtigde, dan vraagt u de gemeente om brieven ook naar die gemachtigde te sturen. Wilt u gehoord worden, dan moet u dat zelf vragen; de gemeente doet dat niet uit zichzelf. Een dwangsom krijgt u niet alleen omdat een brief laat is; kijk eerst of u de brief echt niet heeft gekregen.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

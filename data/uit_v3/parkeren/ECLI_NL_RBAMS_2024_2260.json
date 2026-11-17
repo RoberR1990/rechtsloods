@@ -1,0 +1,145 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2024:2260",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "plafond-wachtlijst",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "de bewoner (aanvrager)",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner vroeg een bewonersvergunning parkeren aan en kreeg die niet, omdat het maximum aantal vergunningen (het plafond) in haar gebied op nul stond. Zij ging bij de rechtbank Amsterdam in beroep tegen het college van burgemeester en wethouders van de gemeente Amsterdam.",
+ "titel": "Geen parkeervergunning: maximum was al bereikt",
+ "kern": {
+  "zin": "De rechter vond de weigering terecht: het plafond was bereikt, en een uitzondering geldt alleen in zeer bijzondere gevallen.",
+  "bron": [
+   17,
+   20
+  ],
+  "citaat": "Omdat in het vergunninggebied van eiseres het vergunningenplafond is bereikt"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente wees de aanvraag af, omdat het vergunningenplafond in het gebied op nul stond.",
+   "bron": [
+    10
+   ],
+   "citaat": "afgewezen omdat het vergunningenplafond in het gebied waarvoor eiseres een vergunning heeft aangevraagd"
+  },
+  {
+   "zin": "De bewoner zei dat zij bij haar verhuizing rekende op een parkeerplaats via de verhuurder.",
+   "bron": [
+    18
+   ],
+   "citaat": "in de veronderstelling dat er een parkeerplaats beschikbaar zou zijn via de verhuurder"
+  },
+  {
+   "zin": "De gemeente bleef bij de afwijzing, ook na het bezwaar.",
+   "bron": [
+    10
+   ],
+   "citaat": "is verweerder bij de afwijzing van de aanvraag gebleven"
+  },
+  {
+   "zin": "De rechter vond dat de toezeggingen van de verhuurder niet aan de gemeente zijn toe te rekenen.",
+   "bron": [
+    19
+   ],
+   "citaat": "het geen uitlatingen van verweerder zijn geweest, maar van de verhuurder"
+  },
+  {
+   "zin": "Het griffierecht wordt niet terugbetaald en de kosten van de procedure ook niet.",
+   "bron": [
+    22
+   ],
+   "citaat": "Zij krijgt ook geen vergoeding van haar proceskosten"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; geen vergunning en geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "Parkeren zonder vergunning in de buurt kan wel, maar wordt duurder.",
+  "bron": [
+   20
+  ],
+  "citaat": "Dat de kosten hiervan hoger zullen zijn dan een reguliere parkeervergunning"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Zonder vergunning word ik onevenredig getroffen, want ik heb de auto nodig voor mantelzorg en mijn gezin.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de situatie niet bijzonder genoeg was om een uitzondering te rechtvaardigen.",
+    "bron": [
+     20
+    ],
+    "citaat": "De situatie van eiseres onderscheidt zich niet in bijzondere mate"
+   },
+   "bruikbare_zin": {
+    "citaat": "Relevant hierbij is dat eiseres ook zonder een parkeervergunning haar voertuig in de buurt kan parkeren",
+    "bron": [
+     20
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik mocht erop vertrouwen dat er een parkeerplaats was, zoals de verhuurder zei.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een verhuurder geeft geen toezegging namens de gemeente, dus daar kan de gemeente niet op worden aangesproken.",
+    "bron": [
+     19
+    ],
+    "citaat": "het geen uitlatingen van verweerder zijn geweest, maar van de verhuurder"
+   },
+   "bruikbare_zin": {
+    "citaat": "Deze uitlatingen kunnen niet worden toegerekend aan verweerder",
+    "bron": [
+     19
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een vergunning die door een bereikt plafond is geweigerd, kan alleen bij hoge uitzondering via de uitzonderingsregel (hardheidsclausule) worden verleend.",
+  "type": "regel",
+  "reikwijdte": "Aanvragen voor een bewonersvergunning in een gebied waar het vergunningenplafond op nul staat",
+  "uitzondering": "Hardheidsclausule: alleen in zeer uitzonderlijke gevallen",
+  "herkomst": "lokale verordening",
+  "bron": [
+   20
+  ],
+  "citaat": "Alleen in zeer uitzonderlijke gevallen (hardheid) kan in afwijking van de Parkeerverordening"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 32, vierde lid, Parkeerverordening 2013"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter zag geen fout bij de gemeente; geen actie uit deze uitspraak",
+ "raakt": [
+  "vergunningen",
+  "verordening-beleid"
+ ],
+ "klantuitleg": "Is het maximum aantal bewonersvergunningen in uw gebied bereikt, dan krijgt u er geen meer. Een uitzondering is zeldzaam, maar u kunt die bij de gemeente aanvragen met uw situatie erbij. Een afspraak van een verhuurder over een parkeerplaats is geen toezegging van de gemeente.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

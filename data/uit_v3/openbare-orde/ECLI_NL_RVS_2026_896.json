@@ -1,0 +1,199 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:896",
+ "relevant": true,
+ "onderwerp": "drugspanden",
+ "sub": "bewijs-rapportage",
+ "kenmerk": "rapportage-beknopt",
+ "zaaktype": "sluiting-pand",
+ "partijen": {
+  "burger": "bewoner (huurder)",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De gemeente Rotterdam ging in hoger beroep tegen een uitspraak die de sluiting van een huurwoning voor drie maanden ongedaan maakte. De huurder was de wederpartij en de zaak diende bij de Raad van State.",
+ "titel": "Woningsluiting vernietigd: stukken onder politierapportage ontbreken",
+ "kern": {
+  "zin": "De Raad van State vond dat de gemeente de woning niet mocht sluiten, omdat de stukken onder de politierapportage ontbraken en de rapportage dus niet te controleren was.",
+  "bron": [
+   29
+  ],
+  "citaat": "Onder deze omstandigheden kan niet van de bestuurlijke rapportage worden uitgegaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "De politie observeerde de woning na meldingen over drugshandel en vond bij een doorzoeking onder meer cocaïne, pillen en twee weegschaaltjes.",
+   "bron": [
+    20
+   ],
+   "citaat": "Op 6 januari 2022 is naar aanleiding van deze meldingen de woning geobserveerd door politiemedewerkers"
+  },
+  {
+   "zin": "De gemeente vond het aannemelijk dat er vanuit de woning werd gehandeld en sloot die voor drie maanden.",
+   "bron": [
+    21
+   ],
+   "citaat": "Volgens hem is aannemelijk dat er in drugs werd gehandeld vanuit de woning"
+  },
+  {
+   "zin": "De huurder zei dat de drugs voor eigen gebruik waren, en de rechtbank vond dat er verder weinig wees op handel.",
+   "bron": [
+    23
+   ],
+   "citaat": "Verder zijn naast de grammenweegschaaltjes geen andere attributen aangetroffen die wijzen op drugshandel"
+  },
+  {
+   "zin": "De gemeente vond in hoger beroep dat zij ook zonder de onderliggende stukken van de rapportage mocht uitgaan.",
+   "bron": [
+    26
+   ],
+   "citaat": "dit niet betekent dat hij niet van de bestuurlijke rapportage mocht uitgaan"
+  },
+  {
+   "zin": "De rechter vond dat de rapportage niet te controleren was, omdat de stukken waarop die berustte niet meer bestonden.",
+   "bron": [
+    29
+   ],
+   "citaat": "onvoldoende controleerbaar is omdat de stukken waarop de bestuurlijke rapportage is gebaseerd ontbreken"
+  },
+  {
+   "zin": "Het hoger beroep van de gemeente werd ongegrond verklaard.",
+   "bron": [
+    33
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De Afdeling bevestigt de uitspraak van de rechtbank."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Sluiting herroepen; gemeente betaalt proceskosten en griffierecht.",
+ "gevolg_betrokkene": {
+  "zin": "De sluiting van de woning is herroepen en de gemeente moet € 1.814 aan proceskosten vergoeden en € 548 griffierecht betalen.",
+  "bron": [
+   40,
+   39,
+   33
+  ],
+  "citaat": "bepaalt dat van de burgemeester van Rotterdam een griffierecht van € 548,00 wordt geheven"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-rapportage-onvoldoende",
+   "burger_zegt": "De conclusies van de politierapportage kloppen niet en zijn niet te controleren.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De processen-verbaal en andere stukken onder de rapportage bestonden niet meer, dus de rapportage kon niet als basis dienen.",
+    "bron": [
+     29
+    ],
+    "citaat": "Onder deze omstandigheden kan niet van de bestuurlijke rapportage worden uitgegaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "onvoldoende controleerbaar is omdat de stukken waarop de bestuurlijke rapportage is gebaseerd ontbreken",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "bevoegdheid-ontbreekt",
+   "burger_zegt": "Er was geen bewijs dat de drugs voor verkoop waren, dus de gemeente mocht de woning niet sluiten.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Zonder bruikbare rapportage was niet aannemelijk dat de drugs voor verkoop, aflevering of verstrekking waren.",
+    "bron": [
+     29
+    ],
+    "citaat": "De Afdeling is met de rechtbank van oordeel dat de burgemeester niet bevoegd was om de woning te sluiten"
+   },
+   "bruikbare_zin": {
+    "citaat": "De bestuurlijke rapportage biedt onvoldoende grondslag voor het oordeel van de burgemeester",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "eigen-gebruik-kleine-hoeveelheid",
+   "burger_zegt": "De aangetroffen drugs waren voor eigen gebruik.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De Raad van State besprak dit niet meer, omdat het besluit al niet op de rapportage kon steunen.",
+    "bron": [
+     31
+    ],
+    "citaat": "De overige argumenten behoeven daarom geen bespreking meer"
+   },
+   "bruikbare_zin": {
+    "citaat": "Verder zijn naast de grammenweegschaaltjes geen andere attributen aangetroffen die wijzen op drugshandel",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de stukken onder een bestuurlijke rapportage ontbreken en de bewoner de conclusies betwist, kan de gemeente niet van die rapportage uitgaan.",
+  "type": "regel",
+  "reikwijdte": "Sluiting op grond van art. 13b Opiumwet waarbij de gemeente alleen op een bestuurlijke rapportage steunt waarvan de bewoner de conclusies betwist.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   29
+  ],
+  "citaat": "onvoldoende controleerbaar is omdat de stukken waarop de bestuurlijke rapportage is gebaseerd ontbreken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "bestuurlijke rapportage van de politie",
+   "observatie van de woning",
+   "mutatierapport",
+   "mondelinge verklaringen van klanten"
+  ],
+  "wat_gaf_doorslag": "De stukken onder de rapportage bestonden niet meer, dus de rapportage was niet te controleren."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2025:2922"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 13b Opiumwet",
+  "Beleidslijn bestuurlijke handhaving artikel 13b Opiumwet Rotterdam 2022",
+  "art. 8:109 lid 2 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar de processen-verbaal en politiemutaties waarop een bestuurlijke rapportage berust, zodat de rapportage controleerbaar blijft.",
+   "raakt": "drugsbeleid-woningsluiting",
+   "bron": [
+    29
+   ],
+   "citaat": "omdat de stukken waarop de bestuurlijke rapportage is gebaseerd ontbreken"
+  },
+  {
+   "actie": "Laat de politie verklaringen van klanten of melders direct schriftelijk vastleggen in een proces-verbaal.",
+   "raakt": "drugsbeleid-woningsluiting",
+   "bron": [
+    23
+   ],
+   "citaat": "Dit is alleen mondeling aan de rapporteur doorgegeven"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "drugsbeleid-woningsluiting",
+  "bezwaar-juridische-zaken",
+  "handhaving-openbare-orde",
+  "klantcontact"
+ ],
+ "klantuitleg": "Wil de gemeente uw woning sluiten, dan moet zij met stukken kunnen laten zien dat er drugs werden verhandeld. In deze zaak ontbraken de stukken onder de politierapportage, dus mocht de gemeente niet sluiten. Betwist u de rapportage, dan kunt u in bezwaar vragen om die onderliggende stukken.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,153 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2026:2110",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Zwolle",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg in Zwolle een naheffing (de rekening achteraf) van € 78, omdat er niet was betaald via de app van ANWB Onderweg. De parkeerder ging naar de rechtbank Overijssel en vond de kosten te zwaar.",
+ "titel": "Parkeerapp niet goed gebruikt: naheffing blijft staan",
+ "kern": {
+  "zin": "De rechter vond de naheffing terecht, omdat het misgaan met de app voor rekening van de parkeerder komt.",
+  "bron": [
+   21
+  ],
+  "citaat": "Dat dit door onkunde niet is gelukt, komt voor zijn eigen rekening en risico"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle bleek de auto zonder geldig parkeerrecht te staan, en de parkeerder kreeg een naheffing van € 78.",
+   "bron": [
+    15
+   ],
+   "citaat": "Tijdens een controle op voornoemde datum en tijdstip is geconstateerd dat voor de auto geen geldig parkeerrecht bestond"
+  },
+  {
+   "zin": "Volgens de parkeerder lukte het gebruik van de ANWB Onderweg-app niet goed, mogelijk door onkunde.",
+   "bron": [
+    19
+   ],
+   "citaat": "te gebruiken, maar dat dat niet goed is gegaan"
+  },
+  {
+   "zin": "De parkeerder vond de naheffing onevenredig hoog en vond een waarschuwing beter.",
+   "bron": [
+    19
+   ],
+   "citaat": "Een waarschuwing was meer op zijn plaats geweest"
+  },
+  {
+   "zin": "De gemeente zei dat het misgaan met de app voor de parkeerder zelf komt, en dat de kosten niet waren onderbouwd.",
+   "bron": [
+    20
+   ],
+   "citaat": "komt voor zijn rekening en risico"
+  },
+  {
+   "zin": "De rechter oordeelde dat het aan de parkeerder zelf was om vooraf de app uit te zoeken.",
+   "bron": [
+    21
+   ],
+   "citaat": "Dat dit door onkunde niet is gelukt, komt voor zijn eigen rekening en risico"
+  },
+  {
+   "zin": "De naheffing blijft staan, en de parkeerder krijgt geen griffierecht en geen proceskosten terug.",
+   "bron": [
+    24,
+    15
+   ],
+   "citaat": "Hij krijgt ook geen vergoeding van zijn proceskosten"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft; geen griffierecht of proceskosten terug.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing van € 78 blijft staan, en de parkeerder krijgt geen griffierecht en geen proceskosten terug.",
+  "bron": [
+   24,
+   15
+  ],
+  "citaat": "Hij krijgt ook geen vergoeding van zijn proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De ANWB Onderweg-app werkte niet goed, en de parkeerder is niet onhandig met apps.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat het misgaan met de app voor de parkeerder zelf is.",
+    "bron": [
+     21
+    ],
+    "citaat": "Dat dit door onkunde niet is gelukt, komt voor zijn eigen rekening en risico"
+   },
+   "bruikbare_zin": {
+    "citaat": "komt voor zijn eigen rekening en risico",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De naheffing is onevenredig hoog; een waarschuwing was beter geweest.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de parkeerder niet concreet had gemaakt waarom de hoogte te veel was.",
+    "bron": [
+     21
+    ],
+    "citaat": "geen concrete redenen gegeven waarom dit zo is"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen concrete redenen gegeven waarom dit zo is",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De parkeerder moet zelf op tijd betalen en uitzoeken hoe de betaalapp werkt; onkunde komt voor eigen risico.",
+  "type": "regel",
+  "reikwijdte": "betaald parkeren via een parkeerapp",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "Dat dit door onkunde niet is gelukt, komt voor zijn eigen rekening en risico"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "dossier van de zaak"
+  ],
+  "wat_gaf_doorslag": "De parkeerder maakte niet concreet waarom de naheffing te hoog was."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "eenmalig geval van een app-fout van de parkeerder; geen nieuwe actie voor de gemeente",
+ "raakt": [
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "De rechter vond dat de naheffing blijft staan, omdat de betaling via de app niet goed is gegaan. Het is aan u om vooraf uit te zoeken hoe een betaalapp werkt. Wilt u bezwaar maken, dan heeft het alleen zin met concrete redenen, bijvoorbeeld over de hoogte van de kosten.",
+ "gemeente": "Zwolle",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

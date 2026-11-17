@@ -1,0 +1,166 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2022:1771",
+ "relevant": true,
+ "onderwerp": "rechtmatige-verwerking",
+ "sub": "verstrekking-derden",
+ "kenmerk": null,
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "burger (cliënt van een fiscaal adviseur)",
+  "wederpartij": "minister van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger vroeg de minister van Financiën om zijn gegevens te wissen. Die gegevens kwamen van de FIOD bij de Belastingdienst terecht. De rechtbank Midden-Nederland oordeelde over dit beroep.",
+ "titel": "Belastingdienst mocht gegevens van de FIOD gebruiken",
+ "kern": {
+  "zin": "De rechter oordeelt dat de AVG wel geldt, maar dat de Belastingdienst de gegevens mocht gebruiken om belasting te heffen.",
+  "bron": [
+   32
+  ],
+  "citaat": "in het licht van artikel 6, vierde lid, van de AVG rechtmatig was"
+ },
+ "samenvatting": [
+  {
+   "zin": "De FIOD deed een strafrechtelijk onderzoek naar de fiscaal adviseur van de burger en kreeg zo ook gegevens van de burger.",
+   "bron": [
+    11
+   ],
+   "citaat": "De FIOD heeft een strafrechtelijk onderzoek gedaan naar eisers fiscaal adviseur"
+  },
+  {
+   "zin": "Medewerkers van de Belastingdienst selecteerden gegevens uit dat onderzoek en kregen die van de FIOD. Daarmee kreeg de burger naheffingsaanslagen (rekeningen achteraf).",
+   "bron": [
+    13
+   ],
+   "citaat": "De inspecteur van de Belastingdienst heeft naheffingsaanslagen aan eiser opgelegd"
+  },
+  {
+   "zin": "De burger vroeg om wissen van zijn gegevens. Hij zei dat het gebruik voor een ander doel was dan waarvoor ze waren verzameld, zonder wettelijke grondslag.",
+   "bron": [
+    16
+   ],
+   "citaat": "zonder wettelijke grondslag voor een ander doel dan waarvoor de persoonsgegevens waren verzameld"
+  },
+  {
+   "zin": "De minister vond dat de selectie door de Belastingdienst niet onder de AVG valt, omdat het om hulp bij een strafrechtelijk onderzoek ging.",
+   "bron": [
+    17
+   ],
+   "citaat": "niet onder de reikwijdte van de AVG valt"
+  },
+  {
+   "zin": "De rechter vond dat de AVG op de selectie en op het doorgeven van de gegevens wel geldt, omdat het doel belastingheffing was en geen strafrecht.",
+   "bron": [
+    29
+   ],
+   "citaat": "De rechtbank volgt dus in zoverre al het standpunt van eiser"
+  },
+  {
+   "zin": "Toch was het gebruik rechtmatig: het heffen van belasting is een belangrijk financieel belang van Nederland. Het beroep is ongegrond.",
+   "bron": [
+    32
+   ],
+   "citaat": "in het licht van artikel 6, vierde lid, van de AVG rechtmatig was"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "AVG geldt wel, maar gebruik voor belastingheffing was rechtmatig; wissen niet nodig.",
+ "gevolg_betrokkene": {
+  "zin": "De gegevens hoeven niet te worden gewist. Er is geen vergoeding van proceskosten.",
+  "bron": [
+   33
+  ],
+  "citaat": "Het beroep is ongegrond. Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De burger zegt dat de AVG ook geldt voor de selectie van de gegevens en voor het doorgeven ervan.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De selectie en het doorgeven vielen onder de AVG, want het doel was belastingheffing en geen strafrecht.",
+    "bron": [
+     29
+    ],
+    "citaat": "onder de reikwijdte van de AVG vallen en als het verwerken van persoonsgegevens"
+   },
+   "bruikbare_zin": {
+    "citaat": "Bepalend is het criterium of de persoonsgegevens voor een, kort gezegd, strafrechtelijk doel zijn verwerkt of niet.",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "geen-wettelijke-grondslag",
+   "burger_zegt": "Er was geen geldige grondslag om zijn gegevens te verwerken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De grondslag was de wettelijke plicht en de taak van algemeen belang van de Belastingdienst.",
+    "bron": [
+     30
+    ],
+    "citaat": "zowel te vinden is in de algemene wettelijke verplichting van de Belastingdienst op grond van de AWR"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "doelbinding",
+   "burger_zegt": "De gegevens zijn voor een ander doel gebruikt dan waarvoor ze zijn verzameld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Verder gebruik voor een ander doel mag als een wet dat toestaat en het een belangrijk financieel belang dient.",
+    "bron": [
+     32
+    ],
+    "citaat": "moet worden aangemerkt als een belangrijke doelstelling van financieel belang van Nederland"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Gegevens die voor een strafrechtelijk onderzoek zijn verzameld en later voor een ander doel worden gebruikt, vallen onder de AVG. Het doel van de verwerking bepaalt dit.",
+  "type": "regel",
+  "reikwijdte": "Gegevens die op grond van art. 18 en 19 Wet politiegegevens aan een andere instantie zijn verstrekt",
+  "uitzondering": "Is het doel strafrechtelijk, dan geldt de AVG niet maar de Richtlijn.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "Bepalend is het criterium of de persoonsgegevens voor een, kort gezegd, strafrechtelijk doel zijn verwerkt of niet."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "ambtelijke memo over de afspraken tussen FIOD en Belastingdienst"
+  ],
+  "wat_gaf_doorslag": "Het doel van de verwerking was belastingheffing en geen strafrechtelijk doel."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 17 lid 1 onder d AVG",
+  "art. 6 lid 1 onder c en e AVG",
+  "art. 6 lid 4 AVG",
+  "art. 23 lid 1 AVG",
+  "art. 18 en 19 Wet politiegegevens",
+  "art. 8:63 lid 2 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "fraude-handhaving"
+ ],
+ "klantuitleg": "Een overheidsorganisatie mag weigeren uw gegevens te wissen als zij die volgens de wet mocht gebruiken. Hier ging het om de Belastingdienst (het Rijk), die gegevens van de FIOD mocht gebruiken om belasting te heffen. Wilt u gegevens laten wissen, leg dan uit waarom het gebruik volgens u niet mocht, bijvoorbeeld omdat het doel een ander was dan waarvoor ze zijn verzameld.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

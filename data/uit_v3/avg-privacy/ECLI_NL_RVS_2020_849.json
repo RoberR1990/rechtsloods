@@ -1,0 +1,201 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2020:849",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "zoekslag",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Maastricht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De man uit Maastricht stond op de Top-X-lijst van het Veiligheidshuis. Hij vroeg de burgemeester om inzage en verwijdering; de burgemeester gaf maar een deel en de man ging in hoger beroep bij de Raad van State.",
+ "titel": "Politiegegevens blijven politiegegevens na delen met de burgemeester",
+ "kern": {
+  "zin": "De Raad van State bevestigt de uitspraak: de politiegegevens blijven politiegegevens en de burgemeester hoefde die niet te geven.",
+  "bron": [
+   32
+  ],
+  "citaat": "De daarin opgenomen persoonsgegevens kunnen als politiegegevens worden aangemerkt."
+ },
+ "samenvatting": [
+  {
+   "zin": "De man stond op de Top-X-lijst van het Veiligheidshuis.",
+   "bron": [
+    20
+   ],
+   "citaat": "Bij brief van 6 juli 2017 is aan [appellant] bekendgemaakt dat hij op de Top-X-lijst wordt geplaatst."
+  },
+  {
+   "zin": "Hij vroeg de burgemeester om hem van de lijst te verwijderen en om inzage in zijn gegevens.",
+   "bron": [
+    20
+   ],
+   "citaat": "verzocht om hem van de lijst te verwijderen en hem inzage te geven"
+  },
+  {
+   "zin": "De man vond dat hij te weinig inzage had gekregen en dat de burgemeester ook gegevens uit Dpan en gegevens van de politie had moeten geven.",
+   "bron": [
+    24
+   ],
+   "citaat": "had de burgemeester ook inzage moeten geven in de hem betreffende persoonsgegevens die het Veiligheidshuis van de politie gekregen heeft."
+  },
+  {
+   "zin": "De burgemeester zei dat gegevens uit Dpan niet worden bewaard.",
+   "bron": [
+    30
+   ],
+   "citaat": "het uitgangspunt is volgens de burgemeester dat de aangetroffen gegevens niet aan een dossier worden toegevoegd"
+  },
+  {
+   "zin": "De Raad van State bevestigt de uitspraak: het hoger beroep is ongegrond.",
+   "bron": [
+    36
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak wordt bevestigd."
+  },
+  {
+   "zin": "De man krijgt geen vergoeding van proceskosten.",
+   "bron": [
+    37
+   ],
+   "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; de burgemeester hoefde niet alle gegevens te geven.",
+ "gevolg_betrokkene": {
+  "zin": "De man krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   37
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Ik heb niet alles gekregen wat ik vroeg.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gegevens uit de mutatierapporten en het proces-verbaal zijn politiegegevens.",
+    "bron": [
+     32
+    ],
+    "citaat": "De daarin opgenomen persoonsgegevens kunnen als politiegegevens worden aangemerkt."
+   },
+   "bruikbare_zin": {
+    "citaat": "De daarin opgenomen persoonsgegevens kunnen als politiegegevens worden aangemerkt.",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "Er is niet goed genoeg gezocht in de systemen, bijvoorbeeld in Dpan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De man heeft niet aannemelijk gemaakt dat gegevens uit Dpan zijn verwerkt.",
+    "bron": [
+     31
+    ],
+    "citaat": "heeft verder niet aannemelijk gemaakt dat verwerking van gegevens uit Dpan binnen het Veiligheidshuis heeft plaatsgevonden."
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft verder niet aannemelijk gemaakt dat verwerking van gegevens uit Dpan binnen het Veiligheidshuis heeft plaatsgevonden.",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het is in strijd met het EVRM en het EU-Handvest dat ik zelf moet uitzoeken waar mijn gegevens vandaan komen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dat de man zich tot meer instanties moet wenden, is geen schending van artikel 13 van het EVRM.",
+    "bron": [
+     33
+    ],
+    "citaat": "maakt niet dat sprake is van een schending van artikel 13 van het EVRM"
+   },
+   "bruikbare_zin": {
+    "citaat": "maakt niet dat sprake is van een schending van artikel 13 van het EVRM",
+    "bron": [
+     33
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een persoonsgegeven dat de politie verwerkt voor de politietaak blijft een politiegegeven, ook als de politie het deelt met de burgemeester. Inzage vraagt de burger dan op grond van de Wet politiegegevens.",
+  "type": "regel",
+  "reikwijdte": "bij het delen van politiegegevens met de burgemeester voor handhaving van de openbare orde",
+  "uitzondering": "als de gegevens naar partners van het Veiligheidshuis gaan die niet met de politietaak belast zijn",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   32
+  ],
+  "citaat": "elk persoonsgegeven dat in het kader van de uitoefening van de politietaak wordt verwerkt aangemerkt moet worden als politiegegeven"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "schriftelijke uiteenzetting van de burgemeester",
+   "toelichting ter zitting"
+  ],
+  "wat_gaf_doorslag": "De toelichting van de burgemeester dat gegevens uit Dpan niet worden bewaard."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2018:3202",
+   "ECLI:NL:RVS:2018:1807",
+   "ECLI:EU:C:2017:725"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2 lid 2 onder c Wbp",
+  "art. 35 Wbp",
+  "art. 1 onder a Wpg",
+  "art. 25 Wpg",
+  "art. 3 Politiewet 2012",
+  "art. 3 lid 2 Privacyrichtlijn 95/46/EG",
+  "art. 13 EVRM",
+  "art. 8 en 47 EU-Handvest"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Wijs bij een inzageverzoek op de Wet politiegegevens als het gaat om gegevens die de politie heeft gedeeld.",
+   "raakt": "privacy-fg",
+   "bron": [
+    32
+   ],
+   "citaat": "[appellant] zal een verzoek om inzage als bedoeld in artikel 25 van de Wpg moeten doen"
+  },
+  {
+   "actie": "Zorg dat de burgemeester beslist op inzageverzoeken over gegevens voor handhaving van de openbare orde.",
+   "raakt": "privacy-fg",
+   "bron": [
+    26
+   ],
+   "citaat": "de burgemeester bevoegd was om op het verzoek van [appellant] te beslissen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "U vroeg om inzage in uw gegevens. De gemeente hoeft u niet alles te geven: gegevens die de politie heeft gedeeld, blijven gegevens van de politie. Voor die gegevens kunt u een apart verzoek doen bij de politie.",
+ "gemeente": "Maastricht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

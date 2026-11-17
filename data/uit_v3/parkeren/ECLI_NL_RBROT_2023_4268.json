@@ -1,0 +1,145 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:4268",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder met een vergunning voor gehandicapten kreeg een naheffing toen het verkeerde kenteken aan haar vergunning was gekoppeld. Zij ging in beroep bij de rechtbank Rotterdam, tegen de heffingsambtenaar van de gemeente Rotterdam.",
+ "titel": "Verkeerd kenteken op vergunning: naheffing blijft staan",
+ "kern": {
+  "zin": "De rechtbank vond dat de parkeerder zelf het juiste kenteken had moeten koppelen en zag geen ruimte voor meer coulance.",
+  "bron": [
+   16
+  ],
+  "citaat": "Zij dient immers het juiste kenteken te koppelen omdat het dan kenbaar is voor de gemeente"
+ },
+ "samenvatting": [
+  {
+   "zin": "Na het inruilen van haar leenauto vergat zij haar eigen kenteken aan de vergunning te koppelen.",
+   "bron": [
+    15
+   ],
+   "citaat": "is zij vergeten dit kenteken te koppelen aan de vergunning"
+  },
+  {
+   "zin": "Zij vond dat de laatste naheffing ook vernietigd moest worden.",
+   "bron": [
+    15
+   ],
+   "citaat": "dat de laatste overgebleven naheffingsaanslag eveneens dient te worden vernietigd"
+  },
+  {
+   "zin": "De gemeente had al drie naheffingen uit coulance vernietigd.",
+   "bron": [
+    16
+   ],
+   "citaat": "Verweerder heeft daarnaast uit coulance al drie naheffingsaanslagen vernietigd"
+  },
+  {
+   "zin": "Volgens de rechtbank hield zij zich niet aan de voorwaarden van de vergunning.",
+   "bron": [
+    16
+   ],
+   "citaat": "Eiseres heeft niet aan de voorwaarden voldaan die in de parkeervergunning zijn opgenomen"
+  },
+  {
+   "zin": "De naheffing blijft staan en er komt geen vergoeding van proceskosten.",
+   "bron": [
+    18,
+    20
+   ],
+   "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; geen proceskosten, naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de laatste naheffing betalen en krijgt geen proceskosten vergoed.",
+  "bron": [
+   20
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Zij heeft een vergunning voor gehandicapten, dus de naheffing moet vervallen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat zij het kenteken zelf had moeten koppelen en de voorwaarden van de vergunning niet was nagekomen.",
+    "bron": [
+     16
+    ],
+    "citaat": "Eiseres heeft niet aan de voorwaarden voldaan die in de parkeervergunning zijn opgenomen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Zij dient immers het juiste kenteken te koppelen omdat het dan kenbaar is voor de gemeente",
+    "bron": [
+     16
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De laatste naheffing moet ook uit coulance worden vernietigd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank zag geen aanleiding voor meer coulance, omdat de gemeente al drie naheffingen had vernietigd.",
+    "bron": [
+     16
+    ],
+    "citaat": "Verweerder heeft daarnaast uit coulance al drie naheffingsaanslagen vernietigd, waardoor de rechtbank geen aanleiding ziet"
+   },
+   "bruikbare_zin": {
+    "citaat": "Daarbij acht de rechtbank van belang dat het ontvangen van een naheffingsaanslag een objectieve belasting is",
+    "bron": [
+     16
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een naheffing is een objectieve belasting, dus de schuld van de parkeerder speelt geen rol.",
+  "type": "regel",
+  "reikwijdte": "naheffingsaanslag parkeerbelasting",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   16
+  ],
+  "citaat": "waarbij de mate van verwijtbaarheid ten aanzien van het belastbare feit geen rol speelt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "bewijs dat de leenauto al was ingeleverd"
+  ],
+  "wat_gaf_doorslag": "Het bewijs dat de leenauto al was ingeleverd, deed daar niets aan af."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen tekortkoming van de gemeente aangewezen; uitspraak over de eigen verantwoordelijkheid van de parkeerder",
+ "raakt": [
+  "vergunningen",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u een vergunning heeft, moet u zelf zorgen dat het juiste kenteken daaraan gekoppeld is. Een naheffing hangt niet af van uw schuld, maar van de vraag of dat kenteken op het moment van parkeren gekoppeld was. Wijzigt u uw auto of kenteken, geef dat dan direct door via MijnLoket, zodat een naheffing niet ontstaat.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

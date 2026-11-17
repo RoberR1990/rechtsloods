@@ -1,0 +1,159 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2020:282",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "kentekenhouder met gemachtigde",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een autobezitter kreeg een boete omdat achter zijn voorruit een bezoekerskaart zonder datum lag. Hij gaat in hoger beroep tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Bezoekerskaart zonder datum is geen geldige vergunning; boete blijft",
+ "kern": {
+  "zin": "De rechter laat de boete staan, ook al is de burger niet gehoord, omdat een bezoekerskaart zonder datum geen geldige parkeervergunning is.",
+  "bron": [
+   21,
+   18
+  ],
+  "citaat": "is de gebruikte bezoekerskaart niet aan te merken als een geldige parkeervergunning"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op de foto van de ambtenaar ligt achter de voorruit een bezoekerskaart zonder ingevulde datum.",
+   "bron": [
+    20
+   ],
+   "citaat": "De vakjes waar het kenteken moet worden ingevuld zijn leeg. Er is geen datum ingevuld."
+  },
+  {
+   "zin": "De burger zegt via zijn gemachtigde dat hij niet is gehoord.",
+   "bron": [
+    17
+   ],
+   "citaat": "de officier van justitie de hoorplicht heeft geschonden"
+  },
+  {
+   "zin": "De advocaat-generaal (de aanklager bij het hof) legde het brondocument met de foto's over.",
+   "bron": [
+    20
+   ],
+   "citaat": "De advocaat-generaal heeft hierop het brondocument met bijbehorende foto’s overgelegd."
+  },
+  {
+   "zin": "De rechter vindt dat de officier van justitie de burger had moeten horen, want die had daar goed om gevraagd.",
+   "bron": [
+    18
+   ],
+   "citaat": "Het hof stelt vast dat het verzoek om te worden gehoord in administratief beroep op juiste wijze is gedaan."
+  },
+  {
+   "zin": "Toch is de boete terecht: de kaart op de foto had geen datum, en de kaart die de burger later liet zien geldt als vervalst.",
+   "bron": [
+    21
+   ],
+   "citaat": "die daarmee als vervalst document moet worden aangemerkt"
+  },
+  {
+   "zin": "De burger krijgt geen vergoeding van zijn proceskosten.",
+   "bron": [
+    22
+   ],
+   "citaat": "is er geen aanleiding voor een proceskostenvergoeding"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoorplicht geschonden, maar de boete blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De boete blijft staan en de burger krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   21,
+   22
+  ],
+  "citaat": "Het beroep tegen de inleidende beschikking zal dan ook ongegrond worden verklaard."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De officier van justitie had de burger moeten horen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De burger had op tijd om een hoorzitting gevraagd en het beroep was niet kennelijk ongegrond.",
+    "bron": [
+     18
+    ],
+    "citaat": "heeft de officier van justitie ten onrechte van het horen afgezien"
+   },
+   "bruikbare_zin": {
+    "citaat": "het verzoek om te worden gehoord in administratief beroep op juiste wijze is gedaan",
+    "bron": [
+     18
+    ]
+   }
+  },
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "De burger legde in administratief beroep een bezoekerskaart met datum over.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Op de foto van de controle stond geen datum op de kaart, dus de kaart was niet geldig.",
+    "bron": [
+     21
+    ],
+    "citaat": "geen datum was ingevuld, is de gebruikte bezoekerskaart niet aan te merken als een geldige parkeervergunning"
+   },
+   "bruikbare_zin": {
+    "citaat": "is de gebruikte bezoekerskaart niet aan te merken als een geldige parkeervergunning",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bezoekerskaart waarop bij de controle geen datum was ingevuld, is geen geldige parkeervergunning.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Bezoekerskaart waarop bij de controle geen datum stond.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "is de gebruikte bezoekerskaart niet aan te merken als een geldige parkeervergunning"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "foto's van de ambtenaar",
+   "brondocument van de advocaat-generaal"
+  ],
+  "wat_gaf_doorslag": "Op de foto's van de controle stond geen datum op de bezoekerskaart."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHARL:2019:3197"
+  ]
+ },
+ "wetsartikelen": [
+  "Wahv"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "vergunningen"
+ ],
+ "klantuitleg": "Een bezoekerskaart telt alleen als geldige vergunning als de datum is ingevuld. Ligt er bij de controle een kaart zonder datum, dan is een boete terecht. Vraag in uw bezwaar om gehoord te worden, en stuur geen andere kaart mee dan die in de auto lag, want dat kan als vervalsing gelden.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente niet genoemd in de uitspraak",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,164 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "dubbel_van": null,
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": null,
+ "ecli": "ECLI:NL:GHAMS:2017:4312",
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "gemachtigde-bureau namens parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder uit Amsterdam kreeg een rekening achteraf (naheffingsaanslag) voor parkeerbelasting. De rechtbank gaf haar gelijk omdat zij niet was gehoord; de parkeerder ging toch in hoger beroep bij het gerechtshof Amsterdam, tegen de gemeente.",
+ "titel": "Hoger beroep over proceskosten en nieuwe bezwaargronden mislukt",
+ "kern": {
+  "zin": "Het hof wijst het hoger beroep af, omdat de parkeerder in hoger beroep niet ineens de naheffing zelf mocht aanvallen en de proceskosten niet te laag waren.",
+  "bron": [
+   101
+  ],
+  "citaat": "acht het Hof het in strijd met een goede procesorde dat belanghebbende in hoger beroep alsnog een inhoudelijke beoordeling van de naheffing wil"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente hoorde de parkeerder in bezwaar niet, terwijl zij daar om had gevraagd.",
+   "bron": [
+    30
+   ],
+   "citaat": "Bij uitspraak op bezwaar is het bezwaar van eiseres tegen de naheffingsaanslag ongegrond verklaard, zonder eiseres voorafgaand in de gelegenheid te stellen om te worden gehoord."
+  },
+  {
+   "zin": "De rechtbank droeg de gemeente op opnieuw te beslissen, en gaf een proceskostenvergoeding van € 248.",
+   "bron": [
+    21
+   ],
+   "citaat": "veroordeelt verweerder in de proceskosten van eiseres tot een bedrag van € 248,-"
+  },
+  {
+   "zin": "De parkeerder vond in hoger beroep dat de proceskosten te laag waren, omdat de rechtbank een te lage wegingsfactor gebruikte.",
+   "bron": [
+    83
+   ],
+   "citaat": "De rechtbank heeft dusdoende miskend dat voor de behandeling van de beroepsprocedure een wegingsfactor 1 op zijn plaats was."
+  },
+  {
+   "zin": "De parkeerder zei ook dat het te lang had geduurd om te betalen, omdat de eerste automaat haar pinpas niet accepteerde.",
+   "bron": [
+    54
+   ],
+   "citaat": "De dichtstbijzijnde automaat accepteerde haar pinpas niet."
+  },
+  {
+   "zin": "De gemeente vond dat de betaling te laat was gedaan om nog als direct betalen te tellen.",
+   "bron": [
+    46
+   ],
+   "citaat": "Er is dus geen sprake van het onmiddellijk voldoen van de parkeerbelasting."
+  },
+  {
+   "zin": "Het hof vindt dat de rechtbank met factor 0,5 volstond en dat de parkeerder in hoger beroep geen nieuwe gronden meer mocht inbrengen.",
+   "bron": [
+    90
+   ],
+   "citaat": "kon volstaan met toekennen van een kostenvergoeding op basis van een wegingsfactor van 0,5"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Alleen proceskosten en procesorde; naheffing zelf niet beoordeeld.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder houdt de proceskostenvergoeding van € 248 en het griffierecht van € 46; de gemeente moet nog opnieuw beslissen op het bezwaar.",
+  "bron": [
+   20
+  ],
+  "citaat": "draagt verweerder op het betaalde griffierecht van € 46,- aan eiseres te vergoeden"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De proceskostenvergoeding is te laag, want de rechtbank had wegingsfactor 1 moeten gebruiken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het werk van de gemachtigde was beperkt en de teksten waren standaard, dus factor 0,5 was genoeg.",
+    "bron": [
+     90
+    ],
+    "citaat": "kon volstaan met toekennen van een kostenvergoeding op basis van een wegingsfactor van 0,5"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De eerste automaat nam mijn pinpas niet aan, daardoor duurde het betalen langer.",
+   "oordeel": "niet beoordeeld",
+   "waarom": null,
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "privacy-kenteken",
+   "burger_zegt": "De gemeente had geen wettelijke basis voor de controle en het vastleggen van gegevens, wat in strijd is met artikel 8 EVRM.",
+   "oordeel": "niet beoordeeld",
+   "waarom": null,
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Er was alleen kort stilgestaan voor in- of uitstappen of laden en lossen.",
+   "oordeel": "niet beoordeeld",
+   "waarom": null,
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "In hoger beroep mogen in belastingzaken meestal nieuwe gronden worden ingebracht, maar niet als dat in strijd is met een goede procesorde.",
+  "type": "regel",
+  "reikwijdte": "Nieuwe gronden en bewijs in hoger beroep in belastingzaken",
+  "uitzondering": "Een goede procesorde kan zich verzetten tegen nieuwe gronden",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   100
+  ],
+  "citaat": "Dit vindt echter uitzondering indien een goede procesorde zich daartegen verzet"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De parkeerder had in eerste aanleg zelf om terugwijzing gevraagd en wilde nu ineens een inhoudelijke beoordeling."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2010:BO6786"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:106 Awb",
+  "art. 8:75 Awb",
+  "art. 2 Besluit proceskosten bestuursrecht",
+  "art. 25 AWR",
+  "art. 8 EVRM"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Neem pas een nieuwe uitspraak op bezwaar als de uitspraak van de rechtbank onherroepelijk is, want hoger beroep schort die op.",
+   "raakt": "bezwaar",
+   "bron": [
+    97
+   ],
+   "citaat": "Door het instellen van hoger beroep is de werking van de uitspraak van de rechtbank opgeschort totdat op het hoger beroep is beslist"
+  }
+ ],
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als de rechtbank u gelijk geeft omdat u niet bent gehoord, moet de gemeente opnieuw beslissen op uw bezwaar. Gaat u daarna in hoger beroep, dan kunt u meestal niet ineens een andere vraag voorleggen, zoals of de rekening zelf terecht was. Voer uw argumenten over de rekening zelf daarom aan in het nieuwe bezwaar en laat u dan horen.",
+ "gemeente": "Amsterdam",
+ "zekerheid": "hoog"
+}

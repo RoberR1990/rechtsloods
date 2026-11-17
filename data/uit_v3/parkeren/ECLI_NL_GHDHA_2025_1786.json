@@ -1,0 +1,159 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2025:1786",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "invordering",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder met gemachtigde",
+  "wederpartij": "gemeente Leiden",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg in Leiden een naheffingsaanslag (een rekening achteraf) en later een aanmaning met 8 euro extra kosten. Hij ging in hoger beroep tegen de gemeente Leiden bij het gerechtshof Den Haag.",
+ "titel": "Kosten voor betalingsherinnering blijven staan: ontvangst niet echt betwist",
+ "kern": {
+  "zin": "De rechter vond de aanmaningskosten terecht, omdat de gemachtigde niet had nagevraagd of de parkeerder de brief niet kreeg.",
+  "bron": [
+   40
+  ],
+  "citaat": "dat hij geen navraag bij belanghebbende heeft gedaan of de naheffingsaanslag, dan wel het duplicaat daadwerkelijk niet zijn ontvangen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Leiden gaf de parkeerder een naheffing van 91,60 euro, omdat hij zonder vergunning of betaling had geparkeerd.",
+   "bron": [
+    21
+   ],
+   "citaat": "heeft de Heffingsambtenaar op dat moment aan belanghebbende een naheffingsaanslag uitgereikt van € 91,60"
+  },
+  {
+   "zin": "De parkeerder betaalde niet op tijd en kreeg een aanmaning met 8 euro aanmaningskosten.",
+   "bron": [
+    23
+   ],
+   "citaat": "omdat hij de naheffingsaanslag nog niet (tijdig) heeft voldaan"
+  },
+  {
+   "zin": "De gemachtigde van de parkeerder zei dat de parkeerder de herinneringsbrief niet had ontvangen en dat de gemeente niet kon bewijzen dat die was verstuurd.",
+   "bron": [
+    38
+   ],
+   "citaat": "De gemachtigde van belanghebbende betwist uitdrukkelijk dat belanghebbende de naheffingsaanslag en het duplicaat heeft ontvangen"
+  },
+  {
+   "zin": "De gemeente legde uit hoe zij zulke brieven maakt en verstuurt: via een PDF-bestand, een eigen drukkerij en PostNL.",
+   "bron": [
+    39
+   ],
+   "citaat": "Het PDF-bestand wordt doorgestuurd naar het Grafische Productie Centrum (GPC) van de Heffingsambtenaar"
+  },
+  {
+   "zin": "De rechter vond dat de gemachtigde niet had nagevraagd of de parkeerder de brief echt niet kreeg, dus de rechtbank oordeelde terecht.",
+   "bron": [
+    40
+   ],
+   "citaat": "dat hij geen navraag bij belanghebbende heeft gedaan of de naheffingsaanslag, dan wel het duplicaat daadwerkelijk niet zijn ontvangen"
+  },
+  {
+   "zin": "Het hoger beroep was daarom ongegrond (het had geen succes).",
+   "bron": [
+    42
+   ],
+   "citaat": "Het hoger beroep is ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Aanmaningskosten blijven staan; ontvangst brief niet echt betwist.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de 8 euro aanmaningskosten betalen en krijgt geen proceskosten of griffierecht vergoed.",
+  "bron": [
+   23,
+   44
+  ],
+  "citaat": "Daarbij heeft hij € 8 aanmaningskosten aan belanghebbende in rekening gebracht"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik heb de herinneringsbrief niet ontvangen, dus er mogen geen aanmaningskosten in rekening worden gebracht.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemachtigde had niet nagevraagd of de parkeerder de brief echt niet kreeg, dus de ontvangst was niet echt betwist.",
+    "bron": [
+     40
+    ],
+    "citaat": "dat hij geen navraag bij belanghebbende heeft gedaan of de naheffingsaanslag, dan wel het duplicaat daadwerkelijk niet zijn ontvangen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Eiser is er uit de aard van de zaak mee bekend of hij indertijd de brief van 31 oktober 2022 heeft ontvangen, al dan niet",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente heeft geen sluitende verzendadministratie en kan niet bewijzen dat de brief is verstuurd.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechtbank kwam niet toe aan de vraag of de gemeente de verzending kon bewijzen.",
+    "bron": [
+     30
+    ],
+    "citaat": "De rechtbank komt daarmee niet toe aan de vraag of verweerder in staat is"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Zegt een gemachtigde alleen dat hij het niet weet, zonder navraag bij de parkeerder, dan is dat geen betwisting van de ontvangst van de brief door de parkeerder.",
+  "type": "regel",
+  "reikwijdte": "Betwisting van de ontvangst van een duplicaat of aanmaning door een gemachtigde",
+  "uitzondering": "Zegt de parkeerder zelf dat hij de brief niet kreeg, dan moet de gemeente aannemelijk maken dat de brief is verstuurd of aangeboden.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   29
+  ],
+  "citaat": "merkt de betwisting bij gebrek aan wetenschap zijdens de gemachtigde dan ook niet aan als betwisting"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "uitleg van de gemeente over het maken en verzenden van de brieven"
+  ],
+  "wat_gaf_doorslag": "De gemachtigde had niet nagevraagd of de parkeerder de brief kreeg, dus de ontvangst was niet echt betwist."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2006:AZ4416"
+  ]
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Leg de werkwijze voor het maken en verzenden van duplicaten en aanmaningen schriftelijk vast, zodat u die in een procedure kunt uitleggen.",
+   "raakt": "bezwaar",
+   "bron": [
+    39
+   ],
+   "citaat": "kunnen individuele duplicaten en aanmaningen niet meer achteraf of met terugwerkende kracht worden aangepast of ingevoerd in het systeem"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "communicatie"
+ ],
+ "klantuitleg": "Betaalt u een rekening voor parkeren niet op tijd, dan kunt u een herinnering met extra kosten krijgen. Zegt u dat u de herinneringsbrief niet kreeg, dan moet u dat zelf echt kunnen bevestigen; zeggen dat u het niet weet is niet genoeg. Wilt u bezwaar maken, kijk dan eerst zelf goed na of de brief u heeft bereikt.",
+ "gemeente": "Leiden",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,195 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2020:1686",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (met gemachtigde)",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Rotterdam een naheffingsaanslag (rekening achteraf voor niet betaald parkeren), die later werd vernietigd. Het ging daarna om een dwangsom (geld dat de gemeente moet betalen als zij te laat beslist); de parkeerder ging in hoger beroep tegen de gemeente bij het gerechtshof Den Haag.",
+ "titel": "Te late beslissing op bezwaar kost gemeente € 1.260",
+ "kern": {
+  "zin": "De rechter besliste dat de gemeente te laat op het bezwaar besliste en daarom de maximale dwangsom van € 1.260 verschuldigd is.",
+  "bron": [
+   77
+  ],
+  "citaat": "De stelling van de Heffingsambtenaar dat belanghebbende onredelijk laat een ingebrekestelling heeft gestuurd, faalt"
+ },
+ "samenvatting": [
+  {
+   "zin": "De auto van de parkeerder stond in Rotterdam geparkeerd zonder dat parkeerbelasting was betaald, waarna de gemeente een naheffingsaanslag oplegde.",
+   "bron": [
+    19
+   ],
+   "citaat": "Voor de auto was op dat moment geen parkeerbelasting voldaan"
+  },
+  {
+   "zin": "De parkeerder stuurde op 9 augustus 2017 een bezwaarschrift naar de gemeente.",
+   "bron": [
+    20
+   ],
+   "citaat": "heeft met dagtekening 9 augustus 2017 een bezwaarschrift verzonden naar de Heffingsambtenaar"
+  },
+  {
+   "zin": "De gemeente zei dat zij het bezwaarschrift nooit had ontvangen en dat de rekening al was vernietigd.",
+   "bron": [
+    23
+   ],
+   "citaat": "dat het bezwaarschrift met dagtekening 9 augustus 2017 niet door hem is ontvangen"
+  },
+  {
+   "zin": "De rechter vond aannemelijk dat het bezwaarschrift was verstuurd en ging ervan uit dat de gemeente het kort daarna kreeg.",
+   "bron": [
+    74
+   ],
+   "citaat": "moet het ervoor worden gehouden dat de Heffingsambtenaar het bezwaarschrift kort na de verzending heeft ontvangen"
+  },
+  {
+   "zin": "Omdat de parkeerder de gemeente niet te laat in gebreke stelde en de gemeente te laat besliste, was de maximale dwangsom verschuldigd.",
+   "bron": [
+    77
+   ],
+   "citaat": "De Heffingsambtenaar verbeurt derhalve aan belanghebbende de maximale dwangsom"
+  },
+  {
+   "zin": "De rechter stelde de dwangsom vast op € 1.260.",
+   "bron": [
+    78
+   ],
+   "citaat": "vaststellen op € 1.260 (€ 20 per dag voor de eerste veertien dagen"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Dwangsom € 1.260 en proceskosten voor de parkeerder",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt € 1.260 dwangsom, € 1.575 aan proceskosten en € 178 aan griffierecht terug.",
+  "bron": [
+   88,
+   89,
+   90
+  ],
+  "citaat": "een dwangsom heeft verbeurd van € 1.260 in verband met het niet tijdig doen van uitspraak op bezwaar"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente besliste te laat op het bezwaar, ook na de ingebrekestelling.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De beslistermijn was al verlopen en de ingebrekestelling kwam niet onredelijk laat.",
+    "bron": [
+     77
+    ],
+    "citaat": "De stelling van de Heffingsambtenaar dat belanghebbende onredelijk laat een ingebrekestelling heeft gestuurd, faalt"
+   },
+   "bruikbare_zin": {
+    "citaat": "De beslistermijn liep immers tot en met 31 december 2017",
+    "bron": [
+     77
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het eerste bezwaarschrift is wel verstuurd en door de gemeente ontvangen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De parkeerder maakte aannemelijk dat het bezwaarschrift naar het juiste adres was verstuurd, en de gemeente kon de ontvangst niet redelijk betwijfelen.",
+    "bron": [
+     74
+    ],
+    "citaat": "Belanghebbende heeft hiermee voldoende aannemelijk gemaakt dat het bezwaarschrift naar het juiste adres is verzonden"
+   },
+   "bruikbare_zin": {
+    "citaat": "in eerste instantie kan volstaan met het bewijs van verzending naar het juiste adres",
+    "bron": [
+     73
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het tweede bezwaarschrift had als beroepschrift moeten worden doorgestuurd, dus het beroep is op tijd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente had het tweede bezwaarschrift als beroepschrift aan de rechtbank moeten doorsturen.",
+    "bron": [
+     71
+    ],
+    "citaat": "De Rechtbank heeft terecht geoordeeld dat het beroep ontvankelijk is"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie een niet-aangetekende brief verstuurt, hoeft in eerste instantie alleen te bewijzen dat die naar het juiste adres is verzonden; daarna moet de ontvanger feiten noemen waardoor ontvangst redelijkerwijs te betwijfelen valt.",
+  "type": "regel",
+  "reikwijdte": "Niet-aangetekend verstuurde stukken, zoals een bezwaarschrift",
+  "uitzondering": "De ontvanger noemt feiten waardoor de ontvangst redelijkerwijs te betwijfelen is",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   73
+  ],
+  "citaat": "belanghebbende in eerste instantie kan volstaan met het bewijs van verzending naar het juiste adres"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verzendadministratie van de gemachtigde",
+   "ontvangst- en verzendadministratie van de gemeente"
+  ],
+  "wat_gaf_doorslag": "De eigen administratie van de gemeente wekte de indruk dat het bezwaarschrift wel was ontvangen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2004:AL6905",
+   "ECLI:NL:HR:2014:418"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 4:17 Awb",
+  "art. 6:7 Awb",
+  "art. 6:9 Awb",
+  "art. 6:15 Awb",
+  "art. 7:10 Awb",
+  "art. 236 lid 2 Gemeentewet",
+  "art. 8:75 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Stuur een bezwaarschrift tegen een uitspraak op bezwaar door aan de rechtbank als beroepschrift, met de datum van binnenkomst",
+   "raakt": "bezwaar",
+   "bron": [
+    71
+   ],
+   "citaat": "na aantekening van de datum van binnenkomst, aan de bevoegde rechtbank moeten doorsturen"
+  },
+  {
+   "actie": "Beslis binnen de termijn op bezwaar en reageer direct op een ingebrekestelling",
+   "raakt": "bezwaar",
+   "bron": [
+    77
+   ],
+   "citaat": "Sinds die dag zijn er meer dan 42 dagen verstreken totdat op 26 september 2018 uitspraak op bezwaar is gedaan"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Beslist de gemeente niet op tijd op uw bezwaar, dan kunt u de gemeente schriftelijk in gebreke stellen. Daarna kan de gemeente een dwangsom (een vergoeding per dag) moeten betalen, tot een maximum. Bewaar bewijs dat u uw bezwaar op tijd hebt verstuurd, zoals een kopie van uw verzendadministratie.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

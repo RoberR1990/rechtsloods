@@ -1,0 +1,170 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2021:11830",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Zutphen",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder gaat in hoger beroep tegen de gemeente Zutphen. Het gaat over een rekening achteraf voor parkeren. Het Gerechtshof Arnhem-Leeuwarden beslist.",
+ "titel": "Parkeerder kreeg 75 seconden om de parkeerapp te starten",
+ "kern": {
+  "zin": "De rechter vernietigt de rekening achteraf, omdat de gemeente niet kon bewijzen dat de auto eerder stond dan 14:02 uur en 75 seconden een redelijke tijd is om te betalen.",
+  "bron": [
+   29
+  ],
+  "citaat": "Daarmee heeft belanghebbende naar het oordeel van het Hof binnen een redelijke termijn de parkeerapparatuur in werking gesteld."
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder parkeerde op 19 november 2019 en betaalde met de app Yellowbrick om 14:03:15 uur.",
+   "bron": [
+    16
+   ],
+   "citaat": "Het transactiebewijs van de via de applicatie Yellowbrick betaalde parkeerbelasting vermeldt 14:03:15 uur als begintijd"
+  },
+  {
+   "zin": "De controleur scande de auto om 14:02 en 14:03 uur. Het systeem zei dat de auto niet was aangemeld. De gemeente legde een naheffingsaanslag (rekening achteraf) van 64,85 euro op.",
+   "bron": [
+    17
+   ],
+   "citaat": "geconstateerd dat ter zake van het parkeren van de auto geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat hij had betaald voordat de rekening werd opgelegd. Hij zei ook dat hij meteen met betalen was begonnen.",
+   "bron": [
+    23
+   ],
+   "citaat": "Subsidiair betoogt belanghebbende dat hij direct is begonnen met de handelingen die nodig waren"
+  },
+  {
+   "zin": "De gemeente zei dat de auto al om 14:00 uur stond. Volgens de gemeente deed de parkeerder te lang over het betalen.",
+   "bron": [
+    24
+   ],
+   "citaat": "belanghebbende al om 14:00 uur stond geparkeerd in de [adres] en niet onmiddellijk is begonnen"
+  },
+  {
+   "zin": "De rechter vond niet aannemelijk dat de auto eerder dan 14:02 uur stond. De verklaring van de controleur liet dat niet zien.",
+   "bron": [
+    28
+   ],
+   "citaat": "Uit die verklaring valt slechts af te leiden dat de controleur op dat tijdstip al in de [adres] aanwezig was"
+  },
+  {
+   "zin": "De parkeerder deed dus niet langer dan 75 seconden over het starten van de app. Dat is volgens de rechter een redelijke tijd. De rekening is vernietigd.",
+   "bron": [
+    29
+   ],
+   "citaat": "dat belanghebbende niet langer dan 75 seconden heeft gedaan over het controleren van de parkeerzone"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Rekening achteraf vernietigd; gemeente betaalt proceskosten en griffierecht.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft de 64,85 euro niet te betalen. De gemeente betaalt 2.244 euro proceskosten en 179 euro griffierecht terug.",
+  "bron": [
+   39,
+   40
+  ],
+  "citaat": "veroordeelt de heffingsambtenaar in de proceskosten van belanghebbende tot een bedrag van € 2.244, en"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "Ik begon direct met het starten van de parkeerapp en betaalde meteen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Een parkeerder krijgt een redelijke tijd om de parkeerapp te starten. 75 seconden was redelijk.",
+    "bron": [
+     27
+    ],
+    "citaat": "Daarbij dient een parkeerder een redelijke termijn te worden gegund die nodig is om de parkeerapparatuur"
+   },
+   "bruikbare_zin": {
+    "citaat": "een redelijke termijn te worden gegund die nodig is om de parkeerapparatuur",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De auto stond niet eerder dan 14:02 uur.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente moest bewijzen dat de auto eerder stond. De verklaring van de controleur was onduidelijk en er was geen ander bewijs.",
+    "bron": [
+     28
+    ],
+    "citaat": "Nu de heffingsambtenaar de last heeft te bewijzen dat belanghebbende niet tijdig de verschuldigde parkeerbelasting heeft voldaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet aannemelijk gemaakt",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een rekening achteraf moet de gemeente aannemelijk maken dat niet is betaald. Een parkeerder krijgt een redelijke tijd om de parkeerapp of automaat te gebruiken.",
+  "type": "regel",
+  "reikwijdte": "Naheffing van parkeerbelasting waarbij de parkeerder via een app of automaat moet betalen.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "Voor de naheffing van parkeerbelasting is het aan de heffingsambtenaar te stellen en bij betwisting aannemelijk te maken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring van de controleur",
+   "scans van de auto",
+   "transactiebewijs van de app"
+  ],
+  "wat_gaf_doorslag": "De gemeente kon niet bewijzen dat de auto eerder dan 14:02 uur stond."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 234 Gemeentewet",
+  "art. 231 Gemeentewet",
+  "art. 20 AWR",
+  "art. 6 Verordening parkeerbelastingen Zutphen 2019"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg vast sinds wanneer een auto staat geparkeerd, bijvoorbeeld met een eerdere scan of foto.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    28
+   ],
+   "citaat": "Dat de auto daar ook al eerder stond geparkeerd, heeft de heffingsambtenaar naar het oordeel van het Hof"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "scanauto-handhaving",
+  "betaalapp"
+ ],
+ "klantuitleg": "U krijgt een redelijke tijd om te betalen als u net bent aangekomen. In deze zaak was 75 seconden genoeg, en de gemeente moet laten zien dat u te laat betaalde. Hebt u een bewijs van uw betaling, dan kunt u bezwaar maken.",
+ "gemeente": "Zutphen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

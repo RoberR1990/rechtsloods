@@ -1,0 +1,157 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2026:1315",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een boete voor stilstaan op een trottoir. De parkeerder ging in beroep tegen de officier van justitie, bij de kantonrechter van de rechtbank Noord-Nederland.",
+ "titel": "Trottoir blijft verboden, ook met gehandicaptenkaart",
+ "kern": {
+  "zin": "Het beroep is ongegrond: stilstaan op het trottoir blijft verboden, ook met een gehandicaptenkaart.",
+  "bron": [
+   27
+  ],
+  "citaat": "je nog steeds niet op een trottoir mag parkeren"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het ging om een boete van 129 euro voor stilstaan op een trottoir.",
+   "bron": [
+    10
+   ],
+   "citaat": "De opgelegde boete bedraagt € 129,00 (inclusief administratiekosten)."
+  },
+  {
+   "zin": "De parkeerder zei dat hij door een knieblessure niet ver kan lopen.",
+   "bron": [
+    16
+   ],
+   "citaat": "dat hij vanwege zijn knieblessure niet veel kan lopen"
+  },
+  {
+   "zin": "De officier van justitie liet geen standpunt weten.",
+   "bron": [
+    17
+   ],
+   "citaat": "Van de officier van justitie is over dit beroep geen standpunt bekend."
+  },
+  {
+   "zin": "Een zichtbare kaart verandert niets: stilstaan op het trottoir blijft verboden.",
+   "bron": [
+    27
+   ],
+   "citaat": "je nog steeds niet op een trottoir mag parkeren"
+  },
+  {
+   "zin": "Het bedrag aan zekerheid werd op nul gezet.",
+   "bron": [
+    24
+   ],
+   "citaat": "om het te betalen bedrag aan zekerheid op nul te zetten"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; boete blijft. Zekerheid op nul gezet.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van 129 euro blijft staan.",
+  "bron": [
+   31
+  ],
+  "citaat": "De kantonrechter verklaart het beroep ongegrond."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "gehandicaptenkaart",
+   "burger_zegt": "De gehandicaptenkaart en de meterkaart lagen zichtbaar achter de voorruit.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een zichtbare kaart verandert niets aan het verbod op het trottoir.",
+    "bron": [
+     27
+    ],
+    "citaat": "ook als je een zichtbare gehandicaptenparkeerkaart achter de voorruit hebt geplaatst"
+   },
+   "bruikbare_zin": {
+    "citaat": "je nog steeds niet op een trottoir mag parkeren",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij parkeert hier al jaren en kreeg nog nooit een boete.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Eerdere straffeloosheid telt niet mee, want handhavers mogen zelf kiezen.",
+    "bron": [
+     29
+    ],
+    "citaat": "Dat betrokkene al jaren op deze locatie parkeert en nooit een boete heeft gekregen acht hij niet relevant."
+   },
+   "bruikbare_zin": {
+    "citaat": "Verbalisanten hebben een discretionaire bevoegdheid om in het ene geval een boete op te leggen",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een gehandicaptenkaart geeft geen recht om op het trottoir te parkeren.",
+  "type": "regel",
+  "reikwijdte": "houders van een gehandicaptenparkeerkaart die op een trottoir parkeren",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   27
+  ],
+  "citaat": "In Artikel 85, eerste lid, van het Reglement Verkeerstekens en Verkeersregels 1990 is bepaald in welke gevallen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:GHARL:2019:6642"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 85 eerste lid RVV 1990",
+  "Wahv"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vermeld in klantcontact over de gehandicaptenkaart dat die niet geldt op het trottoir.",
+   "raakt": "klantcontact",
+   "bron": [
+    27
+   ],
+   "citaat": "je nog steeds niet op een trottoir mag parkeren"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "communicatie"
+ ],
+ "klantuitleg": "Met een gehandicaptenkaart mag u niet op het trottoir parkeren. Dan blijft een boete meestal staan, ook als de kaart zichtbaar ligt. Heeft u een andere reden, zoals een medische noodsituatie, laat die dan goed onderbouwen; zonder bewijs heeft dat weinig kans.",
+ "gemeente": "Groningen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,147 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2024:3920",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "verkeersbesluit",
+ "kenmerk": null,
+ "zaaktype": "verkeersbesluit",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente IJsselstein",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner gaat in beroep tegen de gemeente IJsselstein. Zijn bezwaar tegen het parkeerverbod in een straat was niet-ontvankelijk verklaard; de rechtbank Midden-Nederland oordeelt.",
+ "titel": "Bewoner via achteringang geraakt: bezwaar alsnog toelaten",
+ "kern": {
+  "zin": "De rechter vindt dat de bewoner direct wordt getroffen door het parkeerverbod, dus had de gemeente het bezwaar ten onrechte niet-ontvankelijk verklaard.",
+  "bron": [
+   23,
+   25
+  ],
+  "citaat": "Eiser wordt daardoor direct getroffen door het parkeerverbod"
+ },
+ "samenvatting": [
+  {
+   "zin": "Er kwam een parkeerverbod in een deel van de straat.",
+   "bron": [
+    11
+   ],
+   "citaat": "een verkeersbesluit genomen over het instellen van een parkeerverbod in een deel van de [straat]"
+  },
+  {
+   "zin": "De bewoner vond dat hij dubbel werd getroffen door dit verbod en het opheffen van de blauwe zone.",
+   "bron": [
+    16
+   ],
+   "citaat": "Dit terwijl eiser dubbel wordt getroffen omdat hij last heeft van zowel het parkeerverbod"
+  },
+  {
+   "zin": "De gemeente vond dat de bewoner niet aan die straat woont en dus geen eigen belang had.",
+   "bron": [
+    18
+   ],
+   "citaat": "Dit komt omdat eiser niet woont aan de [straat]"
+  },
+  {
+   "zin": "De rechter zag dat de achteringang van zijn woning op de straat met het verbod uitkomt.",
+   "bron": [
+    23
+   ],
+   "citaat": "de achteringang van de woning van eiser komt uit op de straat waar het parkeerverbod geldt"
+  },
+  {
+   "zin": "De rechter vond dat het verbod ook een waardedaling van zijn woning kan veroorzaken.",
+   "bron": [
+    23
+   ],
+   "citaat": "het ingestelde parkeerverbod kan leiden tot een waardedaling van zijn woning"
+  },
+  {
+   "zin": "De rechter vernietigde het besluit; de gemeente moet binnen zes weken een nieuw besluit nemen.",
+   "bron": [
+    25,
+    26
+   ],
+   "citaat": "De rechtbank vernietigt daarom het bestreden besluit"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Bezwaar ten onrechte niet-ontvankelijk; nieuw besluit binnen zes weken",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner krijgt het griffierecht van € 184 vergoed en het bezwaar wordt opnieuw bekeken.",
+  "bron": [
+   33
+  ],
+  "citaat": "bepaalt dat verweerder het griffierecht van € 184,- aan eiser moet vergoeden"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij wordt dubbel getroffen: door het verbod en door het opheffen van de blauwe zone.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de bewoner direct wordt getroffen, ook al woont hij niet aan de straat zelf.",
+    "bron": [
+     23
+    ],
+    "citaat": "Eiser wordt daardoor direct getroffen door het parkeerverbod"
+   },
+   "bruikbare_zin": {
+    "citaat": "het ingestelde parkeerverbod kan leiden tot een waardedaling van zijn woning",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een verkeersbesluit geldt als persoonlijk belang alleen als het eigen belang zich onderscheidt van dat van andere weggebruikers.",
+  "type": "regel",
+  "reikwijdte": "Bezwaar tegen verkeersbesluiten, zoals een parkeerverbod",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   22
+  ],
+  "citaat": "een bijzonder, individueel belang heeft bij het verkeersbesluit dat zich in voldoende mate onderscheidt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De achteringang van de woning die op de verboden straat uitkomt."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 1:2 lid 1 Awb",
+  "art. 7:1 Awb",
+  "art. 8:1 Awb",
+  "art. 8:72 lid 4 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Beoordeel bezwaren tegen een verkeersbesluit inhoudelijk, ook als de hoorzitting alleen over ontvankelijkheid ging.",
+   "raakt": "bezwaar",
+   "bron": [
+    25
+   ],
+   "citaat": "Verweerder dient de inhoudelijke bezwaren van eiser tegen het parkeerverbod immers alsnog te beoordelen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "bebording-verkeersbesluit"
+ ],
+ "klantuitleg": "Een parkeerverbod is een verkeersbesluit, en daar kunt u bezwaar tegen maken. Ook als uw woning aan een andere straat ligt, kan het verbod u raken, bijvoorbeeld via de achteringang. Wilt u bezwaar maken, leg dan uit hoe het verbod uw parkeren en uw woning raakt.",
+ "gemeente": "IJsselstein",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

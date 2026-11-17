@@ -1,0 +1,237 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2026:4434",
+ "relevant": true,
+ "onderwerp": "drugspanden",
+ "sub": "duur-evenredigheid",
+ "kenmerk": "ernstig-geval",
+ "zaaktype": "sluiting-pand",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "voorlopige voorziening",
+ "intro": "De burgemeester van Rotterdam sloot de huurwoning van een bewoner voor drie maanden na een grote drugsvondst. De bewoner vroeg de rechter om een voorlopige voorziening (een snelle beslissing) om de sluiting tegen te houden.",
+ "titel": "Woning drie maanden gesloten na grote drugsvondst",
+ "kern": {
+  "zin": "De voorzieningenrechter wijst het verzoek af (voorlopig oordeel): de woning blijft drie maanden gesloten.",
+  "bron": [
+   39
+  ],
+  "citaat": "De voorzieningenrechter wijst het verzoek af. Dat betekent dat de woning gesloten blijft."
+ },
+ "samenvatting": [
+  {
+   "zin": "De politie vond in de woning veel harddrugs, wapens en contant geld.",
+   "bron": [
+    19
+   ],
+   "citaat": "In verschillende kamers van de woning vond de politie diverse verdovende middelen en goederen ter bereiding en verpakking van verdovende middelen."
+  },
+  {
+   "zin": "De burgemeester sloot de huurwoning van de bewoner voor drie maanden.",
+   "bron": [
+    19
+   ],
+   "citaat": "de woning van verzoeker gesloten van de duur van drie maanden"
+  },
+  {
+   "zin": "De bewoner vond dat een waarschuwing genoeg was.",
+   "bron": [
+    20
+   ],
+   "citaat": "De burgemeester had volgens hem met een waarschuwing moeten volstaan."
+  },
+  {
+   "zin": "Hij zei dat hij niets van de gevonden spullen wist, omdat hij langere tijd in het buitenland was.",
+   "bron": [
+    20
+   ],
+   "citaat": "Hij was niet op de hoogte van de gevonden spullen in de woning"
+  },
+  {
+   "zin": "De rechter vond dat de burgemeester genoeg had uitgelegd waarom een waarschuwing niet volstond.",
+   "bron": [
+    34
+   ],
+   "citaat": "De burgemeester heeft voldoende gemotiveerd waarom zij niet heeft kunnen volstaan met een waarschuwing."
+  },
+  {
+   "zin": "De rechter vond de gevolgen niet onevenwichtig: de bewoner had zijn woning lang zonder toezicht aan een bekende uitgeleend.",
+   "bron": [
+    37
+   ],
+   "citaat": "hij kennelijk voor lange tijd zijn woning aan een bekende heeft uitgeleend"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Rechter wijst verzoek af; woning blijft gesloten.",
+ "gevolg_betrokkene": {
+  "zin": "De woning blijft gesloten, de woningcorporatie wil het huurcontract ontbinden en de bewoner krijgt geen griffierecht of proceskosten vergoed.",
+  "bron": [
+   39,
+   37
+  ],
+  "citaat": "Dat betekent dat de woning gesloten blijft."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De sluiting is te zwaar en niet nodig.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de gevolgen van de sluiting in dit geval niet onevenwichtig.",
+    "bron": [
+     37
+    ],
+    "citaat": "De voorzieningenrechter vindt de gevolgen van de sluiting in dit geval niet onevenwichtig."
+   },
+   "bruikbare_zin": {
+    "citaat": "De voorzieningenrechter vindt de gevolgen van de sluiting in dit geval niet onevenwichtig.",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "waarschuwing-eerst",
+   "burger_zegt": "De burgemeester had eerst moeten waarschuwen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burgemeester heeft genoeg uitgelegd waarom een waarschuwing niet volstond.",
+    "bron": [
+     34
+    ],
+    "citaat": "De burgemeester heeft voldoende gemotiveerd waarom zij niet heeft kunnen volstaan met een waarschuwing."
+   },
+   "bruikbare_zin": {
+    "citaat": "De burgemeester heeft voldoende gemotiveerd waarom zij niet heeft kunnen volstaan met een waarschuwing.",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "niet-mijn-pand-verwijtbaarheid",
+   "burger_zegt": "Ik wist niets van de drugs, ik was in het buitenland en kon door mijn psychische klachten geen toezicht houden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de bewoner zelf verwijtbaar was omdat hij de woning lang zonder toezicht had uitgeleend.",
+    "bron": [
+     37
+    ],
+    "citaat": "hij kennelijk voor lange tijd zijn woning aan een bekende heeft uitgeleend zonder toezicht op de woning te houden"
+   },
+   "bruikbare_zin": {
+    "citaat": "hij kennelijk voor lange tijd zijn woning aan een bekende heeft uitgeleend zonder toezicht op de woning te houden",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-rapportage-onvoldoende",
+   "burger_zegt": "De processen-verbaal van het buurtonderzoek ontbreken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de burgemeester op de bestuurlijke rapportage van de politie mocht afgaan.",
+    "bron": [
+     34
+    ],
+    "citaat": "De bestuurlijke rapportage van 20 oktober 2025 is naar waarheid opgemaakt op basis van ambtsedig opgemaakte processen-verbaal"
+   },
+   "bruikbare_zin": {
+    "citaat": "De bestuurlijke rapportage van 20 oktober 2025 is naar waarheid opgemaakt op basis van ambtsedig opgemaakte processen-verbaal",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "minderjarige-kinderen",
+   "burger_zegt": "Mijn minderjarige zoon verblijft regelmatig in de woning.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond niet aangetoond dat de woning strikt nodig was voor de omgang met de zoon.",
+    "bron": [
+     37
+    ],
+    "citaat": "de woning strikt noodzakelijk voor hem is om invulling te geven aan de omgang met zijn minderjarige zoon"
+   },
+   "bruikbare_zin": {
+    "citaat": "de woning strikt noodzakelijk voor hem is om invulling te geven aan de omgang met zijn minderjarige zoon",
+    "bron": [
+     37
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De burgemeester moet bij elke woningsluiting zelf beoordelen of de sluiting en de duur geschikt, noodzakelijk en evenwichtig zijn.",
+  "type": "regel",
+  "reikwijdte": "Bij sluiting van een woning op grond van de Opiumwet",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   30
+  ],
+  "citaat": "Steeds zal zij moeten beoordelen of haar optreden in een concreet geval evenredig is."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "bestuurlijke rapportage van de politie",
+   "Meld Misdaad Anoniem-melding",
+   "buurtonderzoek",
+   "aangetroffen drugs, wapens en contant geld"
+  ],
+  "wat_gaf_doorslag": "De grote hoeveelheid drugs, de wapens en het contante geld maakten de situatie ernstig."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:RVS:2025:2922",
+   "ECLI:NL:RVS:2026:475",
+   "ECLI:NL:RVS:2026:336"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 13b, eerste lid, van de Opiumwet",
+  "Beleidslijn bestuurlijke handhaving artikel 13b Opiumwet Rotterdam 2022",
+  "art. 3 IVRK",
+  "art. 8 EVRM"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Beoordeel bij elke woningsluiting of de sluiting en de duur geschikt, noodzakelijk en evenwichtig zijn.",
+   "raakt": "handhaving-openbare-orde",
+   "bron": [
+    30
+   ],
+   "citaat": "Steeds zal zij moeten beoordelen of haar optreden in een concreet geval evenredig is."
+  },
+  {
+   "actie": "Motiveer in het besluit waarom een waarschuwing niet genoeg is.",
+   "raakt": "drugsbeleid-woningsluiting",
+   "bron": [
+    34
+   ],
+   "citaat": "De burgemeester heeft voldoende gemotiveerd waarom zij niet heeft kunnen volstaan met een waarschuwing."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "handhaving-openbare-orde",
+  "drugsbeleid-woningsluiting",
+  "bezwaar-juridische-zaken",
+  "woningcorporaties-verhuurders"
+ ],
+ "klantuitleg": "De burgemeester mag een woning sluiten als de politie er een grote hoeveelheid drugs en spullen voor drugshandel vindt. De rechter vond de sluiting van drie maanden hier voorlopig terecht; daarbij telde mee dat de bewoner zijn woning lang zonder toezicht had uitgeleend. Wilt u bezwaar maken, onderbouw dan uw persoonlijke situatie, zoals uw gezondheid of de omgang met uw kind, met stukken.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

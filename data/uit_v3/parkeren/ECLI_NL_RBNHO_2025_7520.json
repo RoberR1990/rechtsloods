@@ -1,0 +1,167 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2025:7520",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "particulier (parkeerder met eigen auto)",
+  "wederpartij": "gemeente Zandvoort (via Gemeentebelastingen Kennemerland Zuid)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder betaalde met een parkeerapp, maar koos per ongeluk de zone van een buurgemeente. Zij kreeg van Zandvoort toch een naheffingsaanslag (de rekening achteraf) en ging in beroep bij de rechtbank Noord-Holland.",
+ "titel": "Verkeerde zone via parkeerapp: hier niet voor de parkeerder",
+ "kern": {
+  "zin": "De rechtbank vond het niet terecht om het risico bij de parkeerder te leggen, omdat niet vaststond dat de app betrouwbaar was.",
+  "bron": [
+   26
+  ],
+  "citaat": "Onder deze omstandigheden is het niet correct om het risico"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeerder betaalde via een parkeerapp, maar koos per ongeluk een zone van de buurgemeente Bloemendaal.",
+   "bron": [
+    19
+   ],
+   "citaat": "een verkeerde parkeerzone moet hebben aangeklikt, namelijk een zone gelegen in de gemeente Bloemendaal"
+  },
+  {
+   "zin": "De parkeerder vond dat zij al had betaald aan een samenwerkingsverband van beide gemeenten.",
+   "bron": [
+    21
+   ],
+   "citaat": "het samenwerkingsverband dat belastingen heft en int voor de gemeenten Bloemendaal én Zandvoort"
+  },
+  {
+   "zin": "De gemeente stelde dat een verkeerde betaling met de app voor risico van de parkeerder komt.",
+   "bron": [
+    22
+   ],
+   "citaat": "dan komt dat voor zijn risico"
+  },
+  {
+   "zin": "In dit geval kon de rechtbank niet vaststellen of de app juiste en betrouwbare informatie gaf.",
+   "bron": [
+    26
+   ],
+   "citaat": "niet vast te stellen of de gebruikte parkeerapp juiste en betrouwbare informatie heeft verschaft"
+  },
+  {
+   "zin": "Volgens de rechtbank horen de gevolgen van een onbetrouwbare app voor rekening van de gemeente.",
+   "bron": [
+    23
+   ],
+   "citaat": "Is die informatie niet betrouwbaar, dan horen de gevolgen daarvan"
+  },
+  {
+   "zin": "De gemeente moet het griffierecht van 51 euro aan de parkeerder vergoeden.",
+   "bron": [
+    27
+   ],
+   "citaat": "Wel dient verweerder aan eiseres het door haar betaalde griffierecht te vergoeden"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd; griffierecht van 51 euro wordt vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft de rekening niet te betalen en krijgt het griffierecht vergoed.",
+  "bron": [
+   27,
+   16
+  ],
+  "citaat": "Wel dient verweerder aan eiseres het door haar betaalde griffierecht te vergoeden"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Zij heeft wel betaald, namelijk via de app aan het samenwerkingsverband.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank vond dat het risico van een onbetrouwbare app bij de gemeente hoort.",
+    "bron": [
+     23
+    ],
+    "citaat": "Is die informatie niet betrouwbaar, dan horen de gevolgen daarvan"
+   },
+   "bruikbare_zin": {
+    "citaat": "Is die informatie niet betrouwbaar, dan horen de gevolgen daarvan",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De boete staat niet in verhouding tot het foutje dat zij maakte.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechtbank besprak die klacht niet meer, omdat de overige punten niet nodig waren.",
+    "bron": [
+     26
+    ],
+    "citaat": "de overige klachten van eiseres behoeven geen behandeling meer"
+   },
+   "bruikbare_zin": {
+    "citaat": "de overige klachten van eiseres behoeven geen behandeling meer",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de informatie van een parkeerapp niet betrouwbaar is, horen de gevolgen van een verkeerde betaling bij de gemeente.",
+  "type": "regel",
+  "reikwijdte": "Verkeerde betaling via een parkeerapp, in een andere gemeente of zone",
+  "uitzondering": "Is de app-informatie wel betrouwbaar, dan blijft het risico bij de automobilist",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "Is die informatie niet betrouwbaar, dan horen de gevolgen daarvan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "advertentieteksten van parkeerapps",
+   "verweerschrift van de gemeente"
+  ],
+  "wat_gaf_doorslag": "Dat niet vaststond dat de parkeerapp betrouwbare informatie gaf."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2020:1014"
+  ]
+ },
+ "wetsartikelen": [
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Formuleer kwaliteitseisen voor parkeerapps en controleer of de app de juiste zone en gemeente toont.",
+   "raakt": "betaalapp",
+   "bron": [
+    24
+   ],
+   "citaat": "niet bekend geworden of door of namens de gemeente (kwaliteits-) eisen zijn geformuleerd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "betaalapp",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Heeft u via een parkeerapp in de verkeerde zone of gemeente betaald, dan kan de rekening voor het parkeren onterecht zijn. Het hangt er dan van af of de app betrouwbaar was: gaf die verkeerde informatie, dan ligt het risico in principe bij de gemeente. Heeft u bewijs van uw betaling en van wat de app toonde, dan kan bezwaar zinvol zijn.",
+ "gemeente": "Zandvoort",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

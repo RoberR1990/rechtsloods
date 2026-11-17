@@ -1,0 +1,158 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2026:8427",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "kentekenhouder met bezoekersvergunning",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Het gaat om een parkeerrekening achteraf (de naheffing) in Amsterdam. Een kentekenhouder met een bezoekersvergunning procedeert tegen de gemeente Amsterdam bij de rechtbank Amsterdam.",
+ "titel": "Storing in parkeerapp geen reden: toch reguliere tarief betalen",
+ "kern": {
+  "zin": "De rechter oordeelde dat de kentekenhouder bij een storing toch het reguliere tarief moest betalen.",
+  "bron": [
+   22
+  ],
+  "citaat": "eiser gehouden is regulier parkeerbelasting te voldoen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 14 november 2025 stond de auto van de kentekenhouder op straat zonder betaalde parkeerbelasting.",
+   "bron": [
+    16
+   ],
+   "citaat": "Om 16:37 uur heeft een parkeercontroleur van de gemeente Amsterdam geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De kentekenhouder zegt dat hij een bezoekersvergunning had en dat de app toen niet werkte.",
+   "bron": [
+    17
+   ],
+   "citaat": "zou op het moment van de naheffingsaanslag de app niet functioneren"
+  },
+  {
+   "zin": "De gemeente zegt dat de app twee dagen niet bereikbaar was, maar dat telefonisch starten wel kon.",
+   "bron": [
+    18
+   ],
+   "citaat": "Parkeersessies op een vergunning konden daarom telefonisch worden gestart"
+  },
+  {
+   "zin": "De rechter zag dat niet was gebleken dat de kentekenhouder telefonisch had betaald.",
+   "bron": [
+    22
+   ],
+   "citaat": "niet is gebleken dat eiser hiervan gebruikt heeft gemaakt"
+  },
+  {
+   "zin": "De rechter verklaarde het beroep ongegrond, dus de naheffing blijft staan.",
+   "bron": [
+    27
+   ],
+   "citaat": "Het beroep is ongegrond. Dit betekent dat eiser geen gelijk heeft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; het reguliere tarief blijft verschuldigd",
+ "gevolg_betrokkene": {
+  "zin": "De kentekenhouder moet het reguliere tarief betalen, en het griffierecht (het bedrag voor de rechtszaak) krijgt hij niet terug.",
+  "bron": [
+   27
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De app werkte niet, dus hij kon niet betalen en de storing kwam voor rekening van de gemeente.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag de storing niet als reden om het reguliere tarief niet te betalen.",
+    "bron": [
+     22
+    ],
+    "citaat": "eiser gehouden is regulier parkeerbelasting te voldoen"
+   },
+   "bruikbare_zin": {
+    "citaat": "alsnog via de bezoekersvergunning betalen",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Hij had een bezoekersvergunning, dus hij had het lagere tarief moeten kunnen betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter oordeelde dat zonder aanmelding het voertuig zonder vergunning stond geparkeerd.",
+    "bron": [
+     20
+    ],
+    "citaat": "Is aan één of meer van deze voorwaarden niet voldaan, dan is geparkeerd zónder vergunning"
+   },
+   "bruikbare_zin": {
+    "citaat": "alleen sprake als wordt voldaan aan de voorwaarden die aan de vergunning zijn verbonden",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeren met een bezoekersvergunning gebeurt alleen als aan de voorwaarden van die vergunning is voldaan.",
+  "type": "regel",
+  "reikwijdte": "bezoekersvergunning in Amsterdam; parkeren zonder aanmelding van het voertuig",
+  "uitzondering": null,
+  "herkomst": "lokale verordening",
+  "bron": [
+   20
+  ],
+  "citaat": "alleen sprake als wordt voldaan aan de voorwaarden die aan de vergunning zijn verbonden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "release-update van de parkeerapplicatie volgens de gemeente"
+  ],
+  "wat_gaf_doorslag": "Telefonisch aanmelden bleef mogelijk, en niet gebleken dat de kentekenhouder dat gebruikte."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:RBAMS:2025:1394"
+  ]
+ },
+ "wetsartikelen": [
+  "Verordening parkeerbelastingen Amsterdam 2025"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet bij een storing het telefoonnummer voor aanmelding van bezoekersvergunningen op de website en op het algemene nummer.",
+   "raakt": "klantcontact",
+   "bron": [
+    22
+   ],
+   "citaat": "die te vinden is op de website en waarnaar ook wordt doorverwezen door het algemene telefoonnummer"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "klantcontact",
+  "betaalapp",
+  "bezwaar"
+ ],
+ "klantuitleg": "Staat uw voertuig niet aangemeld, dan geldt het gewone tarief op straat, ook als de app niet werkte. Het verschil tussen het gewone en het gereduceerde tarief kunt u bij een storing mogelijk van de gemeente terugkrijgen. Bel bij een storing het nummer op de website, want dan kunt u alsnog met de vergunning betalen.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,161 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2026:4636",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (mantelzorger)",
+  "wederpartij": "Noordelijk Belastingkantoor (heffing)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een mantelzorger kreeg een naheffing, omdat op de vergunning per vergissing een ander kenteken was aangevinkt. Hij ging in beroep bij de rechtbank Noord-Nederland tegen het Noordelijk Belastingkantoor.",
+ "titel": "Naheffing vernietigd: in dit specifieke geval onevenredig door kentekenvergissing",
+ "kern": {
+  "zin": "De rechter vernietigde de naheffing: in dit specifieke geval waren de gevolgen onevenredig, ook al was de vergunning niet geldig.",
+  "bron": [
+   25
+  ],
+  "citaat": "Het opleggen van een naheffingsaanslag leidt naar het oordeel van de rechtbank in dit specifieke geval tot onevenredige gevolgen."
+ },
+ "samenvatting": [
+  {
+   "zin": "De auto van de parkeerder stond op een plek waar betaald parkeren gold.",
+   "bron": [
+    16
+   ],
+   "citaat": "Op die dag en dat tijdstip was aan de [straat] een regime betaald parkeren van toepassing."
+  },
+  {
+   "zin": "De parkeerder zegt dat hij voor zijn vergunning al had betaald, en dat per vergissing een ander kenteken was ingevoerd.",
+   "bron": [
+    18
+   ],
+   "citaat": "Bij de aanmelding op de vergunning is per abuis een verkeerd kenteken ingevoerd."
+  },
+  {
+   "zin": "De gemeente vond dat de voorwaarden van de vergunning niet waren vervuld, dus de parkeerbelasting was niet betaald.",
+   "bron": [
+    19
+   ],
+   "citaat": "Door het invoeren van een verkeerd kenteken is niet voldaan aan de voorwaarden"
+  },
+  {
+   "zin": "De rechter vond dat het kenteken niet was aangemeld, zodat er geen geldige vergunning was.",
+   "bron": [
+    20
+   ],
+   "citaat": "Het kenteken van belanghebbende was op die datum en tijd niet aangemeld op de bezoekersvergunning."
+  },
+  {
+   "zin": "Toch vond de rechter de naheffing onevenredig, omdat de kosten zwaar waren en de gemeente dubbel zou verdienen.",
+   "bron": [
+    25
+   ],
+   "citaat": "een forse kostenpost en voor de gemeente een dubbele opbrengst"
+  },
+  {
+   "zin": "De naheffing is vernietigd, en de gemeente moet het griffierecht van 53 euro vergoeden.",
+   "bron": [
+    28
+   ],
+   "citaat": "Omdat het beroep gegrond is moet de heffingsambtenaar het griffierecht van € 53 aan belanghebbende vergoeden."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd omdat de gevolgen in dit geval onevenredig waren.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft de naheffing niet te betalen en krijgt het griffierecht terug.",
+  "bron": [
+   28
+  ],
+  "citaat": "Omdat het beroep gegrond is moet de heffingsambtenaar het griffierecht van € 53 aan belanghebbende vergoeden."
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "De parkeerder had voor de vergunning betaald, alleen met een verkeerd kenteken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de vergunning niet geldig was, omdat het kenteken niet was aangemeld.",
+    "bron": [
+     20
+    ],
+    "citaat": "Het kenteken van belanghebbende was op die datum en tijd niet aangemeld op de bezoekersvergunning."
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat betekent dat er niet was voldaan aan de voorwaarden die aan die vergunning verbonden zijn.",
+    "bron": [
+     20
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Een naheffing is onevenredig bij een vergissing van een mantelzorger die al had betaald.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond de naheffing onevenredig, gezien de forse kostenpost en de dubbele opbrengst voor de gemeente.",
+    "bron": [
+     25
+    ],
+    "citaat": "een forse kostenpost en voor de gemeente een dubbele opbrengst"
+   },
+   "bruikbare_zin": {
+    "citaat": "de menselijke maat brengt in dit specifieke geval naar het oordeel van de rechtbank mee",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Ook bij een objectieve belasting als parkeerbelasting kan het evenredigheidsbeginsel een naheffing vernietigen.",
+  "type": "regel",
+  "reikwijdte": "Omstandigheden van dit geval: een kentekenvergissing van een mantelzorger die al had betaald",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "Het evenredigheidsbeginsel brengt met zich mee dat er geen sprake mag zijn van onevenredigheid"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "schriftelijke verklaring van de eigenaar van het andere kenteken"
+  ],
+  "wat_gaf_doorslag": "De vergissing met het kenteken was onbetwist en onderbouwd."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerste": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Weeg bij een kentekenfout op een vergunning de kosten af tegen wat er al is betaald.",
+   "raakt": "vergunningen",
+   "bron": [
+    25
+   ],
+   "citaat": "een forse kostenpost en voor de gemeente een dubbele opbrengst"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Als er voor uw vergunning al is betaald en alleen het kenteken verkeerd was, kan een naheffing toch onevenredig zijn. Dat hangt af van de omstandigheden van uw geval. Bewaar daarom uw betaalbewijs en leg in uw bezwaar uit hoe de kentekenfout is ontstaan.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

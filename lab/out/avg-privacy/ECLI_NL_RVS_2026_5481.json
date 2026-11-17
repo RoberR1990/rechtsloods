@@ -1,0 +1,200 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "steunt": null,
+ "dubbel_van": null,
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij",
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "ecli": "ECLI:NL:RVS:2026:5481",
+ "onderwerp": "politie-justitie",
+ "sub": "wpg-correctie",
+ "zaaktype": "politiegegevens",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "korpschef van politie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger vroeg de politie met de Wet open overheid om alle stukken over een onderzoek naar dierenrechtenactivisme. Hij ging in hoger beroep tegen de korpschef van politie bij de Raad van State.",
+ "titel": "Politie hoeft stukken met politiegegevens niet openbaar te maken",
+ "kern": {
+  "zin": "De politie mocht alle stukken weigeren, omdat ze politiegegevens bevatten en daarvoor een eigen regeling geldt.",
+  "bron": [
+   34
+  ],
+  "citaat": "De korpschef heeft daarom terecht de openbaarmaking van de documenten geheel geweigerd omdat deze politiegegevens bevatten"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de politie om een kopie van alle documenten over een project en onderzoek naar dierenrechtenactivisme.",
+   "bron": [
+    20
+   ],
+   "citaat": "verzocht om hem een afschrift te sturen van alle documenten die op dit project en onderzoek betrekking hebben"
+  },
+  {
+   "zin": "De korpschef (de leiding van de politie) zei dat de regels voor politiegegevens voorgaan op de Woo.",
+   "bron": [
+    22
+   ],
+   "citaat": "De bijzondere openbaarmakingsregeling van de Wet politiegegevens (Wpg) prevaleert boven de toepassing van de bepalingen van de Woo"
+  },
+  {
+   "zin": "De rechter vond dat de documenten politiegegevens bevatten, omdat de gegevens samen met andere gegevens naar een persoon leiden.",
+   "bron": [
+    34
+   ],
+   "citaat": "aannemelijk is dat deze gegevens in combinatie met andere gegevens herleidbaar zijn tot een persoon"
+  },
+  {
+   "zin": "Een lijst van alle gevonden documenten was niet nodig, want de korpschef had genoeg uitgelegd over de gevonden documenten.",
+   "bron": [
+    37
+   ],
+   "citaat": "heeft de korpschef in dit geval voldoende duidelijk gemaakt hoeveel documenten er zijn gevonden, wat voor soort documenten het zijn"
+  },
+  {
+   "zin": "De burger maakte niet concreet aannemelijk dat er meer documenten zijn dan de politie vond.",
+   "bron": [
+    42
+   ],
+   "citaat": "niet op concrete wijze aannemelijk gemaakt dat er in dit geval meer documenten moeten zijn"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    53
+   ],
+   "citaat": "Het hoger beroep is ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; documenten blijven geheim, geen kostenvergoeding bezwaar.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt de documenten niet en ook geen vergoeding van zijn kosten voor het bezwaar.",
+  "bron": [
+   34,
+   51
+  ],
+  "citaat": "heeft daarom terecht de openbaarmaking van de documenten geheel geweigerd"
+ },
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De documenten zijn geen politiegegevens, dus de Woo is gewoon van toepassing.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Voor politiegegevens bestaat een uitputtende eigen regeling.",
+    "bron": [
+     32
+    ],
+    "citaat": "bevat de Wpg een uitputtende regeling voor de verstrekking van politiegegevens"
+   },
+   "bruikbare_zin": {
+    "citaat": "is er geen plaats voor de toepassing van de Wob op een verzoek om verstrekking van die gegevens",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De korpschef moest een lijst van de gevonden documenten maken, anders kon hij geen gronden aanvoeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Woo kent geen plicht om zo'n lijst te maken.",
+    "bron": [
+     37
+    ],
+    "citaat": "De rechtbank heeft terecht overwogen dat de Woo geen verplichting kent tot het vervaardigen van een inventarislijst"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "Er is niet gezocht op alle zoektermen en er moeten meer documenten zijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger maakte niet concreet aannemelijk dat er meer documenten zijn.",
+    "bron": [
+     42
+    ],
+    "citaat": "niet op concrete wijze aannemelijk gemaakt dat er in dit geval meer documenten moeten zijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "in beginsel aan degene die om informatie verzoekt om aannemelijk te maken dat",
+    "bron": [
+     41
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De korpschef zond het verzoek te beperkt door naar het College van procureurs-generaal.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dit punt ging niet over een overweging van de rechtbank en kon daarom niet slagen.",
+    "bron": [
+     48
+    ],
+    "citaat": "Dit betoog is niet gericht tegen een overweging van de uitspraak van de rechtbank"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "proceskosten",
+   "burger_zegt": "De korpschef moest de kosten van het bezwaar vergoeden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Die kosten worden alleen vergoed als het besluit wordt herroepen door een fout van de organisatie.",
+    "bron": [
+     51
+    ],
+    "citaat": "alleen dan, indien het besluit wordt herroepen wegens aan het bestuursorgaan te wijten onrechtmatigheid"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bevat een document politiegegevens, dan gaat de Wet politiegegevens voor en is er geen plaats voor een verzoek op grond van de Woo.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om documenten met gegevens die alleen of samen met andere gegevens naar een persoon leiden",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   32
+  ],
+  "citaat": "bevat de Wpg een uitputtende regeling voor de verstrekking van politiegegevens"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "zoektermen en toelichting van de korpschef",
+   "stukken onder geheimhouding"
+  ],
+  "wat_gaf_doorslag": "De burger maakte niet concreet aannemelijk dat er meer documenten waren."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2019:2004",
+   "ECLI:NL:RVS:2022:2739",
+   "ECLI:NL:RVS:2019:2617"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1 onder a Wpg",
+  "art. 7:15 lid 2 Awb"
+ ],
+ "raakt": [
+  "woo-openbaarheid",
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Voor stukken met politiegegevens geldt een eigen regeling en niet de Wet open overheid. De politie mag zulke stukken dan helemaal weigeren. Zegt de politie dat een stuk er niet meer is, dan moet u zelf concreet laten zien dat het er toch is.",
+ "zekerheid": "middel"
+}

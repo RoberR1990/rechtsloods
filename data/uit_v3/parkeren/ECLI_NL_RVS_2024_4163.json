@@ -1,0 +1,171 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2024:4163",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wegslepen",
+ "kenmerk": null,
+ "zaaktype": "overig",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een auto in Den Haag werd weggesleept vanwege een tijdelijk parkeerverbod, en de eigenaar moest de kosten betalen. De eigenaar ging in hoger beroep bij de Raad van State tegen de gemeente.",
+ "titel": "Weggesleepte auto: kosten blijven voor de eigenaar, ook in het buitenland",
+ "kern": {
+  "zin": "De Raad van State vond dat de gemeente de wegsleepkosten terecht op de eigenaar verhaalde, ook al was hij in het buitenland.",
+  "bron": [
+   33
+  ],
+  "citaat": "als eigenaar van het voertuig verantwoordelijk is voor deze"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente plaatste op 8 april 2022 borden voor een tijdelijk parkeerverbod en sleepte op 14 april een auto weg.",
+   "bron": [
+    22
+   ],
+   "citaat": "Op 8 april 2022 heeft het college aan de Mr. P. Droogleever Fortuynweg borden laten plaatsen"
+  },
+  {
+   "zin": "De eigenaar zei dat hij de auto voor 8 april had geparkeerd en in het buitenland was, dus de kosten niet hoefde te betalen.",
+   "bron": [
+    31
+   ],
+   "citaat": "Hij is op 28 januari 2022 vertrokken naar de Verenigde Staten en pas op 17 april 2022 teruggekomen"
+  },
+  {
+   "zin": "Hij zei ook dat de kentekenlijst een fout bevatte.",
+   "bron": [
+    31
+   ],
+   "citaat": "Bovendien is bij het invullen van de kentekenlijst een fout is gemaakt"
+  },
+  {
+   "zin": "De gemeente wees erop dat zijn kenteken niet op de lijst van auto's stond die voor het plaatsen van de borden al in de zone stonden.",
+   "bron": [
+    22
+   ],
+   "citaat": "Op die kentekenlijst is het kenteken van het voertuig niet aanwezig"
+  },
+  {
+   "zin": "De Raad van State vond niet aannemelijk dat er een vergissing was en zag dat een huisgenoot de auto kon gebruiken.",
+   "bron": [
+    33
+   ],
+   "citaat": "heeft niet aannemelijk gemaakt dat bij het opmaken van deze lijst een vergissing is gemaakt"
+  },
+  {
+   "zin": "Het hoger beroep slaagde alleen omdat de gemeente het bezwaar eerder ten onrechte te laat noemde; het beroep tegen het nieuwe besluit was ongegrond.",
+   "bron": [
+    25
+   ],
+   "citaat": "dat het bezwaar ten onrechte niet-ontvankelijk is verklaard"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Fout over termijn hersteld; wegsleepkosten blijven voor burger; proceskosten wel vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De eigenaar betaalt de wegsleepkosten zelf, maar krijgt € 3.062,50 aan proceskosten en € 458,00 griffierecht vergoed.",
+  "bron": [
+   43
+  ],
+  "citaat": "in verband met de behandeling van het beroep en het hoger beroep opgekomen proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij was in het buitenland en wist niet van het parkeerverbod, dus de kosten van het wegslepen horen niet bij hem.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Als eigenaar is hij verantwoordelijk, ook als een derde de auto heeft neergezet.",
+    "bron": [
+     33
+    ],
+    "citaat": "als eigenaar van het voertuig verantwoordelijk is voor deze"
+   },
+   "bruikbare_zin": {
+    "citaat": "gaan als regel de uitoefening van bestuursdwang en het kostenverhaal samen",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Op de kentekenlijst is een fout gemaakt, dus zijn kenteken moet geacht worden daarop te staan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Hij maakte niet aannemelijk dat er een vergissing was gemaakt bij het opmaken van de lijst.",
+    "bron": [
+     33
+    ],
+    "citaat": "heeft niet aannemelijk gemaakt dat bij het opmaken van deze lijst een vergissing is gemaakt"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wegslepen (bestuursdwang) en het verhalen van de kosten gaan als regel samen; een uitzondering kan als de eigenaar geen verwijt valt te maken en het algemeen belang het verhalen onevenredig maakt.",
+  "type": "regel",
+  "reikwijdte": "Kosten van bestuursdwang, zoals wegslepen en in bewaring nemen van een voertuig.",
+  "uitzondering": "Geen verwijt aan de eigenaar én het algemeen belang is zo betrokken dat kostenverhaal onevenredig is.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   32
+  ],
+  "citaat": "gaan als regel de uitoefening van bestuursdwang en het kostenverhaal samen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "kentekenlijst van de gemeente",
+   "gegevens van de Dienst Wegverkeer",
+   "verklaring over het ophalen van de auto door een huisgenoot"
+  ],
+  "wat_gaf_doorslag": "Het kenteken stond niet op de lijst en een vergissing werd niet aannemelijk gemaakt."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2021:2896"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 6:19 Awb",
+  "art. 6:24 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Laat na het plaatsen van de borden een kentekenlijst opstellen van de auto's die dan in de zone staan.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    22
+   ],
+   "citaat": "Na het plaatsen van de borden heeft het college een kentekenlijst laten opstellen van de motorvoertuigen"
+  },
+  {
+   "actie": "Controleer of de bezwaartermijn echt is overschreden voordat u een bezwaar niet-ontvankelijk verklaart.",
+   "raakt": "bezwaar",
+   "bron": [
+    25
+   ],
+   "citaat": "dat het bezwaar ten onrechte niet-ontvankelijk is verklaard"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als uw auto is weggesleept, betaalt u de kosten meestal zelf, ook als u in het buitenland was. Dat kan anders zijn als u er geen enkel verwijt van valt te maken en het algemeen belang het verhalen onevenredig maakt. Bezwaar heeft vooral zin als u kunt laten zien dat uw auto al voor het plaatsen van de borden stond.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

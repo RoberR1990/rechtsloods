@@ -1,0 +1,136 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2026:4393",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Utrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder gaat in beroep tegen een naheffing (de rekening achteraf) voor parkeerbelasting in Utrecht. De tegenpartij is de gemeente Utrecht, die de belasting laat heffen door de Belastingsamenwerking gemeenten en hoogheemraadschap Utrecht. De zaak ligt bij de rechtbank Midden-Nederland.",
+ "titel": "Te laat betalen na het parkeren: naheffing blijft staan",
+ "kern": {
+  "zin": "De rechtbank liet de naheffing staan, omdat er te veel tijd zat tussen het parkeren en het betalen en de betaling niet onafgebroken was.",
+  "bron": [
+   24
+  ],
+  "citaat": "is er te veel tijdsverloop om te spreken van een redelijke termijn"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 29 januari 2025 stond de auto van de parkeerder om 18:09 uur op een betaald parkeervak in Utrecht.",
+   "bron": [
+    21
+   ],
+   "citaat": "geparkeerd stond op een parkeerplaats in de Maria van Reedestraat in Utrecht"
+  },
+  {
+   "zin": "De parkeerder zegt dat hij na het parkeren een automaat zocht en daarna een betaalbewijs overlegde.",
+   "bron": [
+    22
+   ],
+   "citaat": "Eiser heeft een betaalbewijs overlegd."
+  },
+  {
+   "zin": "De gemeente zei dat de betaling 17 minuten na de scan te laat kwam, terwijl er een automaat dichtbij stond.",
+   "bron": [
+    23
+   ],
+   "citaat": "Er zitten 17 minuten tussen het scannen van de auto en het moment dat een geldbedrag"
+  },
+  {
+   "zin": "De rechtbank vond dat er te veel tijd was verstreken en dat de betaling niet onafgebroken was.",
+   "bron": [
+    24
+   ],
+   "citaat": "is er geen sprake geweest van onafgebroken handelingen om de parkeerbelasting te betalen"
+  },
+  {
+   "zin": "Het beroep is ongegrond en er is geen vergoeding van griffierecht of proceskosten.",
+   "bron": [
+    26
+   ],
+   "citaat": "er bestaat geen aanleiding voor een proceskostenveroordeling of vergoeding van het griffierecht"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan, geen vergoeding van kosten.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan, en er is geen vergoeding van griffierecht of proceskosten.",
+  "bron": [
+   26
+  ],
+  "citaat": "er bestaat geen aanleiding voor een proceskostenveroordeling of vergoeding van het griffierecht"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij zocht na het parkeren een automaat, en de scanauto kwam langs voordat hij betaalde.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Te veel tijdsverloop is geen redelijke termijn, en de betaling was niet onafgebroken.",
+    "bron": [
+     24
+    ],
+    "citaat": "is er te veel tijdsverloop om te spreken van een redelijke termijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "is er geen sprake geweest van onafgebroken handelingen om de parkeerbelasting te betalen",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Na het parkeren moet de parkeerder binnen een redelijke termijn en zonder onderbreking gaan betalen.",
+  "type": "regel",
+  "reikwijdte": "parkeerders die na het parkeren pas gaan betalen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "is er te veel tijdsverloop om te spreken van een redelijke termijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "overzicht van parkeerautomaten bij het verweerschrift",
+   "betalingsbewijs met tijdstip 18:26 uur"
+  ],
+  "wat_gaf_doorslag": "De betaling kwam 17 minuten na de scan en was niet onafgebroken."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Voeg bij de reactie aan de rechter (het verweerschrift) een overzicht van de parkeerautomaten in de buurt toe.",
+   "raakt": "bezwaar",
+   "bron": [
+    23
+   ],
+   "citaat": "een overzicht met de parkeerautomaten toegevoegd aan het verweerschrift"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Betaal de parkeerbelasting direct na het parkeren. Als u eerst op zoek gaat naar een automaat en pas daarna betaalt, kan de rekening voor het parkeren toch terecht zijn. Wilt u bezwaar maken, dan moet u laten zien dat u meteen na het parkeren bezig was met betalen; een betaalbewijs met een later tijdstip helpt daar niet bij.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

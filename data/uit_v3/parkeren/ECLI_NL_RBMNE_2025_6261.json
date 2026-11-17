@@ -1,0 +1,139 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2025:6261",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "gehandicaptenkaart",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "aanvrager",
+  "wederpartij": "gemeente Utrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een aanvrager procedeert tegen het college van de gemeente Utrecht over een gehandicaptenparkeerkaart. De rechtbank Midden-Nederland, zittingsplaats Utrecht, oordeelt in een enkelvoudige kamer.",
+ "titel": "Kaart blijft geweigerd; eerste medisch advies was onvoldoende inzichtelijk",
+ "kern": {
+  "zin": "De rechter vond het eerste medisch advies onvoldoende inzichtelijk, maar het aanvullend advies maakte dat goed, dus de weigering blijft staan.",
+  "bron": [
+   24
+  ],
+  "citaat": "omdat het eerste medische advies onvoldoende inzichtelijk was"
+ },
+ "samenvatting": [
+  {
+   "zin": "De aanvrager vroeg een gehandicaptenparkeerkaart aan.",
+   "bron": [
+    16
+   ],
+   "citaat": "Eiser heeft een aanvraag ingediend voor een gehandicaptenparkeerkaart"
+  },
+  {
+   "zin": "De aanvrager vond dat het medische beeld van zijn situatie onvolledig was.",
+   "bron": [
+    19
+   ],
+   "citaat": "Hij vindt dat een onvolledig beeld van zijn fysieke situatie is geschetst"
+  },
+  {
+   "zin": "Het college wees de kaart af op medisch advies van Argonaut: de aanvrager kan ruim 100 meter lopen.",
+   "bron": [
+    18
+   ],
+   "citaat": "in staat is om ruim 100 meter te lopen"
+  },
+  {
+   "zin": "De rechter vond dat het eerste advies niet uitlegde hoe het tot de conclusie kwam, en vroeg om een aanvullend advies.",
+   "bron": [
+    20
+   ],
+   "citaat": "het advies van Argonaut niet inzichtelijk maakt hoe tot de conclusie wordt gekomen"
+  },
+  {
+   "zin": "Het aanvullend advies gaf wel voldoende uitleg, dus de aanvrager krijgt geen kaart.",
+   "bron": [
+    24
+   ],
+   "citaat": "Dit betekent dat eiser geen gehandicaptenparkeerkaart krijgt"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Besluit vernietigd, maar aanvrager krijgt geen kaart; alleen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De aanvrager krijgt geen kaart, maar het college moet het griffierecht van € 51 vergoeden en € 1.814 aan proceskosten betalen.",
+  "bron": [
+   31,
+   32
+  ],
+  "citaat": "bepaalt dat het college het griffierecht van € 51,- aan eiser moet vergoeden"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "Het medisch advies was niet volledig en niet duidelijk over andere beperkingen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond het eerste advies onvoldoende inzichtelijk, en mocht het besluit daarop niet zonder meer baseren.",
+    "bron": [
+     24
+    ],
+    "citaat": "omdat het eerste medische advies onvoldoende inzichtelijk was"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dit omdat het aanvullende medische advies voldoende inzichtelijk is",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een advies dat niet inzichtelijk is, mag het besluit niet zonder meer dragen.",
+  "type": "regel",
+  "reikwijdte": "Medisch advies dat het college gebruikt bij een gehandicaptenparkeerkaart.",
+  "uitzondering": "Een later aanvullend advies kan de uitleg alsnog geven.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "niet zonder meer aan het besluit ten grondslag had mogen worden gelegd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "medisch advies Argonaut van 18 april 2024",
+   "aanvullend medisch advies Argonaut van 18 september 2025"
+  ],
+  "wat_gaf_doorslag": "Het aanvullend advies maakte duidelijk waarom er geen andere ernstige beperkingen waren."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 49 Besluit administratieve bepalingen inzake het wegverkeer",
+  "Regeling gehandicaptenparkeerkaart"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Laat medisch adviseurs uitleggen hoe ze tot hun conclusie komen, voordat een kaart wordt geweigerd.",
+   "raakt": "vergunningen",
+   "bron": [
+    20
+   ],
+   "citaat": "het advies van Argonaut niet inzichtelijk maakt hoe tot de conclusie wordt gekomen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen"
+ ],
+ "klantuitleg": "U krijgt de gehandicaptenparkeerkaart niet, want het medisch advies laat zien dat u ruim 100 meter kunt lopen en geen andere ernstige beperkingen heeft. De rechter vond wel dat het eerste advies beter uitgelegd moest worden. Wilt u opnieuw aanvragen, dan kan nieuw medisch bewijs van andere beperkingen helpen.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

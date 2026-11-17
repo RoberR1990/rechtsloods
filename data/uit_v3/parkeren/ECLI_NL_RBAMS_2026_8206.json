@@ -1,0 +1,171 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2026:8206",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing (de rekening achteraf) voor parkeren in Amsterdam op 29 april 2025. Hij ging in beroep bij de rechtbank Amsterdam tegen de gemeente Amsterdam, die de heffing deed.",
+ "titel": "Betaalbewijs zonder kenteken was niet genoeg",
+ "kern": {
+  "zin": "De rechtbank vond dat de parkeerder het tegenbewijs niet leverde, omdat het betaalbewijs geen kenteken noemde.",
+  "bron": [
+   22
+  ],
+  "citaat": "terwijl het op zijn weg ligt om tegenbewijs te leveren"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controle om 09.38 uur zag op 29 april 2025 dat er niet was betaald, waarna een naheffing volgde.",
+   "bron": [
+    16
+   ],
+   "citaat": "geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder legde een schermprint van een betaalbewijs voor en zei daarmee dat hij had betaald.",
+   "bron": [
+    21
+   ],
+   "citaat": "Daartoe overlegt hij een schermprint van een betaalbewijs"
+  },
+  {
+   "zin": "De gemeente vond dat het betaalbewijs geen kenteken of naam bevatte, en vroeg twee keer om meer stukken.",
+   "bron": [
+    21
+   ],
+   "citaat": "ontbreken belangrijke gegevens zoals het kenteken van de auto"
+  },
+  {
+   "zin": "De rechtbank vond dat de parkeerder het tegenbewijs niet leverde, terwijl dat op hem rustte.",
+   "bron": [
+    22
+   ],
+   "citaat": "terwijl het op zijn weg ligt om tegenbewijs te leveren"
+  },
+  {
+   "zin": "De werkgever die de kosten vergoedt maakt voor de rechter geen verschil, want de belasting is objectief.",
+   "bron": [
+    23
+   ],
+   "citaat": "De parkeerbelasting is namelijk een objectieve belasting"
+  },
+  {
+   "zin": "De naheffing blijft staan en de parkeerder krijgt het griffierecht niet terug.",
+   "bron": [
+    24
+   ],
+   "citaat": "Eiser krijgt daarom het griffierecht niet terug"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; betaalbewijs kon niet aan de auto worden gekoppeld.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing betalen en krijgt het griffierecht en de proceskosten niet terug.",
+  "bron": [
+   24
+  ],
+  "citaat": "Hij krijgt ook geen vergoeding van zijn proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente had de gevraagde stukken nog niet verstrekt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank zag dat alle stukken al in het digitale dossier stonden.",
+    "bron": [
+     19
+    ],
+    "citaat": "alle op de zaak betrekking hebbende stukken in het digitale dossier zijn gezet"
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank volgt daarom het standpunt van de heffingsambtenaar.",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij had wel betaald, met een betaalbewijs van 6,13 euro.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank kon niet vaststellen dat het betaalbewijs bij deze auto hoorde.",
+    "bron": [
+     22
+    ],
+    "citaat": "Het is de rechtbank dus onduidelijk of eiser daadwerkelijk voor het parkeren met zijn auto met kenteken"
+   },
+   "bruikbare_zin": {
+    "citaat": "terwijl het op zijn weg ligt om tegenbewijs te leveren",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Zijn werkgever vergoedt de parkeerbelasting, dus hij had geen reden om niet te betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Hoe verwijtbaar de betaler is, speelt bij een naheffing geen rol.",
+    "bron": [
+     23
+    ],
+    "citaat": "De parkeerbelasting is namelijk een objectieve belasting"
+   },
+   "bruikbare_zin": {
+    "citaat": "Bij het opleggen van een naheffingsaanslag komt geen gewicht toe aan de mate van verwijtbaarheid van de belastingplichtige",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Hoe verwijtbaar de betaler is, speelt bij een naheffing geen rol; de belasting is objectief.",
+  "type": "regel",
+  "reikwijdte": "Naheffingen parkeerbelasting",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "Bij het opleggen van een naheffingsaanslag komt geen gewicht toe aan de mate van verwijtbaarheid van de belastingplichtige"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "schermprint van betaalbewijs",
+   "parkeercontrole van de parkeercontroleur"
+  ],
+  "wat_gaf_doorslag": "Het betaalbewijs vermeldde geen kenteken, en de parkeerder reageerde niet op de verzoeken om meer gegevens."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen tekortkoming van de gemeente benoemd; de bewijslast lag bij de parkeerder",
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "betaalapp"
+ ],
+ "klantuitleg": "Of een naheffing terecht is, hangt af van of uw betaling precies bij uw auto hoort. Een schermprint zonder kenteken of naam was in deze zaak onvoldoende. Wilt u bezwaar maken, geef dan op tijd het gevraagde bewijs en reageer op de verzoeken van de gemeente.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,164 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2022:560",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amstelveen",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeert tegen de gemeente Amstelveen over een naheffing (de rekening achteraf) voor het parkeren. De rechtbank Amsterdam beslist op het beroep in een bestuursrechtelijke zaak.",
+ "titel": "Parkeerrekening vernietigd: parkeerder betaalde binnen een minuut",
+ "kern": {
+  "zin": "De rechter vernietigde de naheffing (de rekening achteraf), omdat de parkeerder binnen een minuut betaalde en de controleursverklaring ontbrak.",
+  "bron": [
+   19
+  ],
+  "citaat": "Ten tweede bevindt de verklaring van de parkeercontroleur zich niet in het dossier"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde een naheffing (de rekening achteraf) op, en de parkeerder betaalde binnen een minuut.",
+   "bron": [
+    19
+   ],
+   "citaat": "Tussen partijen is niet in geschil dat [eiser] binnen één minuut nadat de naheffingsaanslag werd opgelegd"
+  },
+  {
+   "zin": "Volgens de parkeerder was hij net weggelopen om de parkeerapp te activeren.",
+   "bron": [
+    19
+   ],
+   "citaat": "wegliep van zijn auto en toen de parkeerapp heeft geactiveerd"
+  },
+  {
+   "zin": "Volgens de gemeente zag een controleur de parkeerder al lachend wegrijden.",
+   "bron": [
+    19
+   ],
+   "citaat": "de parkeercontroleur heeft verklaard dat [eiser] naar zijn auto toeliep en lachend wegreed"
+  },
+  {
+   "zin": "De rechter geloofde de parkeerder op twee punten: hij betaalde snel, en de controleursverklaring zat niet in het dossier.",
+   "bron": [
+    19
+   ],
+   "citaat": "Er zijn twee redenen waarom de rechtbank [eiser] gelooft"
+  },
+  {
+   "zin": "De rechter oordeelde dat de naheffing ten onrechte was opgelegd, en vernietigde het besluit.",
+   "bron": [
+    16,
+    19
+   ],
+   "citaat": "vernietigt het bestreden besluit en de naheffingsaanslag van 13 oktober 2020"
+  },
+  {
+   "zin": "De gemeente moet de parkeerder het betaalde griffierecht van 48 euro terugbetalen.",
+   "bron": [
+    17
+   ],
+   "citaat": "draagt de heffingsambtenaar op het betaalde griffierecht van € 48 aan [eiser] te vergoeden"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd; griffierecht van 48 euro vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft de rekening niet te betalen en krijgt 48 euro griffierecht terug.",
+  "bron": [
+   16,
+   17
+  ],
+  "citaat": "vernietigt het bestreden besluit en de naheffingsaanslag van 13 oktober 2020"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij was net weggelopen om de parkeerapp te activeren en betaalde binnen één minuut.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de parkeerder tijd moet krijgen om de apparatuur te laten werken, en dat hij snel betaalde.",
+    "bron": [
+     19
+    ],
+    "citaat": "moet een parkeerder een redelijke termijn worden gegund die nodig is om de parkeerapparatuur in werking te stellen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Ten eerste heeft [eiser] tot 12:00 uur betaald",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De controleur zag het verkeerd: hij had de auto net geparkeerd en was nog niet klaar met betalen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Omdat de verklaring van de controleur niet in het dossier zat, gaf de rechter de parkeerder gelijk.",
+    "bron": [
+     19
+    ],
+    "citaat": "Ten tweede bevindt de verklaring van de parkeercontroleur zich niet in het dossier"
+   },
+   "bruikbare_zin": {
+    "citaat": "bevindt de verklaring van de parkeercontroleur zich niet in het dossier",
+    "bron": [
+     19
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder krijgt een redelijke termijn om de parkeerapparatuur in werking te stellen voordat de rekening geldt.",
+  "type": "regel",
+  "reikwijdte": "parkeerders die kort na het parkeren betalen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "moet een parkeerder een redelijke termijn worden gegund die nodig is om de parkeerapparatuur in werking te stellen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring parkeercontroleur (niet in dossier)",
+   "betaling om 12:00 uur",
+   "verklaring van de parkeerder"
+  ],
+  "wat_gaf_doorslag": "De snelle betaling en het ontbreken van de verklaring van de controleur in het dossier gaven de doorslag."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Zorg dat de verklaring van de parkeercontroleur in het dossier zit voordat een naheffing wordt bevestigd.",
+   "raakt": "bezwaar",
+   "bron": [
+    19
+   ],
+   "citaat": "Ten tweede bevindt de verklaring van de parkeercontroleur zich niet in het dossier"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "In deze zaak was de rekening voor het parkeren niet terecht, omdat de parkeerder binnen een minuut betaalde en het bewijs van de controleur ontbrak. Wie net parkeert en snel betaalt, krijgt volgens de rechter een redelijke tijd om de app of automaat te laten werken. Krijgt u zo'n rekening en vindt u die niet terecht, bewaar dan uw betaalbewijs en vraag welk bewijs de gemeente heeft.",
+ "gemeente": "Amstelveen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

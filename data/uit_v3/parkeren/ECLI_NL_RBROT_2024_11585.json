@@ -1,0 +1,126 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2024:11585",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "belastingplicht",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {
+  "burger": "gebruiker van een deelauto",
+  "wederpartij": "exploitant (deelautobedrijf Collect Car)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "Een deelautobedrijf vorderde van een gebruiker betaling van openstaande facturen voor parkeerboetes. De kantonrechter van de rechtbank Rotterdam wees de vordering af.",
+ "titel": "Vordering parkeerboetes deelauto afgewezen, grondslag ontbreekt",
+ "kern": {
+  "zin": "De kantonrechter wees de vordering af, omdat de grondslag voor de betaling ontbrak.",
+  "bron": [
+   27
+  ],
+  "citaat": "ontbreekt de grondslag voor het toewijzen van de vorderingen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gebruiker sloot in 2022 een overeenkomst met het deelautobedrijf voor auto's die via een app worden gehuurd.",
+   "bron": [
+    23
+   ],
+   "citaat": "waarbij Collect Car deelauto’s via een app beschikbaar stelt"
+  },
+  {
+   "zin": "Het deelautobedrijf eiste betaling van openstaande facturen voor parkeerboetes.",
+   "bron": [
+    24
+   ],
+   "citaat": "Deze facturen hebben betrekking op parkeerboetes"
+  },
+  {
+   "zin": "De gebruiker betwistte de eis en zei dat de reserveringsperiode op 4 november 2022 al was geëindigd.",
+   "bron": [
+    25
+   ],
+   "citaat": "de reserveringsperiode die dag om 20:32:39 is geëindigd"
+  },
+  {
+   "zin": "Het deelautobedrijf wees op een sleutelregistratie in de boordcomputer na het einde van de reservering.",
+   "bron": [
+    27
+   ],
+   "citaat": "Hierna is om 01:24:48 op 5 november de sleutel, volgens het systeem, in de boardcomputer gestopt"
+  },
+  {
+   "zin": "De proceskosten komen voor rekening van het deelautobedrijf, omdat het verloor.",
+   "bron": [
+    29
+   ],
+   "citaat": "omdat zij ongelijk krijgt"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Vordering afgewezen; het deelautobedrijf betaalt de proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De gebruiker hoeft de openstaande boetes niet te betalen; de vordering is afgewezen.",
+  "bron": [
+   32
+  ],
+  "citaat": "wijst de vorderingen van Collect Car af"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij heeft de auto op 4 november 2022 gebruikt; de reservering was die avond beëindigd, en de boetes gaan over een andere periode en adres.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De kantonrechter oordeelde dat het deelautobedrijf niet kon aantonen dat de gebruiker een nieuwe reservering maakte.",
+    "bron": [
+     27
+    ],
+    "citaat": "Collect Car niet kan aantonen dat [gedaagde] een nieuwe reservering heeft gemaakt"
+   },
+   "bruikbare_zin": {
+    "citaat": "in de app staat dat [gedaagde] de reservering beëindigd heeft",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De grondslag ontbrak, omdat het deelautobedrijf het gebruik na het einde van de reservering niet kon aantonen.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "deze gebruiker en deze reserveringsgegevens (app en boordcomputer)",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "ontbreekt de grondslag voor het toewijzen van de vorderingen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "app-registratie van de reservering",
+   "gegevens van de boordcomputer"
+  ],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 237 Rv"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [],
+ "klantuitleg": "Het deelautobedrijf moet zelf aantonen dat u de auto nog gebruikte na het einde van de reservering. Lukt dat niet, dan kan een vordering worden afgewezen, zoals in deze zaak. Bewaar daarom de gegevens uit de app en uw reserveringsbewijzen, want elke zaak hangt af van het bewijs en een uitkomst is niet gegarandeerd.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "niet van toepassing: privaat deelautobedrijf",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,138 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2026:18695",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "privaat-boete-voorwaarden",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {
+  "burger": "kentekenhouder (consument)",
+  "wederpartij": "exploitant (Q-Park)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "Het gaat om een kentekenhouder en Q-Park, die de parkeergarage bij station Den Haag Centraal beheert. De kantonrechter van de rechtbank Den Haag besliste over het parkeergeld en een extra schadevergoeding.",
+ "titel": "Kentekenhouder betaalt na treintje rijden in parkeergarage",
+ "kern": {
+  "zin": "De kantonrechter oordeelde dat de kentekenhouder niet had aangetoond wie er reed, dus moet hij betalen.",
+  "bron": [
+   39
+  ],
+  "citaat": "heeft niet onderbouwd dat iemand anders de bestuurder was ten tijde van de gebeurtenis"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 4 december 2025 reed een auto de parkeergarage uit door achter een andere auto onder de slagboom door te rijden.",
+   "bron": [
+    30
+   ],
+   "citaat": "De auto is op 4 december 2025 om 18.40 uur de parkeeraccommodatie uitgereden"
+  },
+  {
+   "zin": "De kentekenhouder zei dat de auto die dag was uitgeleend, dus er kwam geen contract tot stand.",
+   "bron": [
+    34
+   ],
+   "citaat": "De auto was op dat moment uitgeleend aan iemand anders"
+  },
+  {
+   "zin": "Q-Park eiste het parkeergeld en een extra schadevergoeding, omdat er niet vóór het verlaten was betaald.",
+   "bron": [
+    33
+   ],
+   "citaat": "Het parkeergeld moet vóór het verlaten van de parkeeraccommodatie worden betaald"
+  },
+  {
+   "zin": "Volgens de kantonrechter mocht de kentekenhouder het vermoeden dat hij de bestuurder was niet zomaar naast zich neerleggen.",
+   "bron": [
+    38
+   ],
+   "citaat": "Uit de registratie als kentekenhouder kan echter wel een gerechtvaardigd vermoeden worden afgeleid"
+  },
+  {
+   "zin": "De kentekenhouder had niet onderbouwd dat iemand anders reed, en de rechter wees de vordering daarom toe.",
+   "bron": [
+    39
+   ],
+   "citaat": "heeft niet onderbouwd dat iemand anders de bestuurder was ten tijde van de gebeurtenis"
+  },
+  {
+   "zin": "De kentekenhouder moet daardoor het bedrag van de vordering betalen, plus rente en proceskosten.",
+   "bron": [
+    66
+   ],
+   "citaat": "veroordeelt [gedaagde partij] om aan Q-Park te betalen een bedrag van"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Kentekenhouder moet parkeergeld, schadevergoeding en incassokosten betalen.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de kentekenhouder betekent dit betalen van 458,17 euro, plus rente en 483,58 euro proceskosten.",
+  "bron": [
+   66,
+   67
+  ],
+  "citaat": "veroordeelt [gedaagde partij] om aan Q-Park te betalen een bedrag van"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De kentekenhouder zegt dat de auto die dag was uitgeleend, dus geen contract met Q-Park.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De kantonrechter zag de kentekenhouder toch als contractspartij, omdat het vermoeden niet was weerlegd.",
+    "bron": [
+     38
+    ],
+    "citaat": "Uit de registratie als kentekenhouder kan echter wel een gerechtvaardigd vermoeden worden afgeleid"
+   },
+   "bruikbare_zin": {
+    "citaat": "op de weg van de kentekenhouder om dat vermoeden te weerleggen",
+    "bron": [
+     38
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Uit de kentekenregistratie mag worden afgeleid dat de kentekenhouder ook de bestuurder was, tot hij het tegendeel aantoont.",
+  "type": "regel",
+  "reikwijdte": "parkeren in een garage met kentekenregistratie, bij een consument als kentekenhouder",
+  "uitzondering": "als de kentekenhouder concreet aantoont wie er op dat moment reed",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   38
+  ],
+  "citaat": "Uit de registratie als kentekenhouder kan echter wel een gerechtvaardigd vermoeden worden afgeleid"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "registratie van het parkeermanagementsysteem en camera's"
+  ],
+  "wat_gaf_doorslag": "Dat de kentekenhouder niet concreet aangaf wie er op die dag reed."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:96 BW",
+  "art. 6:119 BW",
+  "Besluit vergoeding voor buitengerechtelijke incassokosten",
+  "art. 5.5 algemene voorwaarden Q-Park"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "klantcontact"
+ ],
+ "klantuitleg": "Bij een privé-parkeergarage moet u betalen voordat u wegrijdt, anders kan de garage het tarief voor een verloren kaart én een extra vergoeding vragen. Staat uw kenteken op uw naam, dan gaat de rechter er vaak van uit dat u de bestuurder was. Bent u dat niet geweest, dan helpt het om concreet aan te tonen wie er wel reed; een algemene stelling is meestal niet genoeg.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente betrokken (privaat geschil)",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

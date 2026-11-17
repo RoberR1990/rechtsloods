@@ -1,0 +1,165 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2024:3131",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "gehandicaptenkaart",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "aanvrager gehandicaptenkaart passagier",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Het gaat om een aanvraag voor een gehandicaptenparkeerkaart voor passagiers, die de gemeente afwees. De aanvrager procedeert tegen het college van burgemeester en wethouders van Rotterdam bij de rechtbank Rotterdam.",
+ "titel": "Gehandicaptenkaart geweigerd; motivering fout, maar afwijzing blijft staan",
+ "kern": {
+  "zin": "De rechtbank liet de afwijzing staan, omdat de gemeente het gebrek in de motivering alsnog had hersteld.",
+  "bron": [
+   27
+  ],
+  "citaat": "De rechtsgevolgen van het vernietigde besluit kunnen echter in stand worden gelaten omdat verweerder het motiveringsgebrek heeft hersteld"
+ },
+ "samenvatting": [
+  {
+   "zin": "De aanvrager vroeg in juli 2022 een gehandicaptenparkeerkaart voor passagiers aan, en de gemeente wees die af.",
+   "bron": [
+    16
+   ],
+   "citaat": "Op 3 juli 2022 heeft eiseres een aanvraag voor een Europese gehandicaptenparkeerkaart passagier ingediend"
+  },
+  {
+   "zin": "De aanvrager betwistte dat zij zelfstandig kan uitstappen en op de chauffeur kan wachten.",
+   "bron": [
+    21
+   ],
+   "citaat": "Eiseres heeft betwist dat zij zelfstandig kan uitstappen en op de chauffeur kan wachten"
+  },
+  {
+   "zin": "Het medisch advies zei dat de aanvrager niet van deur tot deur afhankelijk is van de chauffeur.",
+   "bron": [
+    16
+   ],
+   "citaat": "Eiseres is echter voor het vervoer van deur tot deur niet afhankelijk van de hulp van de bestuurder"
+  },
+  {
+   "zin": "De rechter vond dat niet duidelijk was of de arts de duizeligheid had meegewogen.",
+   "bron": [
+    26
+   ],
+   "citaat": "Uit het medisch advies kan echter niet worden afgeleid of de verzekeringsarts ook de duizeligheid"
+  },
+  {
+   "zin": "De gemeente liet de afwijzing staan, omdat zij het gebrek in de motivering alsnog had hersteld.",
+   "bron": [
+    27
+   ],
+   "citaat": "De rechtsgevolgen van het vernietigde besluit kunnen echter in stand worden gelaten omdat verweerder het motiveringsgebrek heeft hersteld"
+  },
+  {
+   "zin": "De rechtbank droeg de gemeente op het griffierecht terug te betalen en veroordeelde haar in de proceskosten.",
+   "bron": [
+    32
+   ],
+   "citaat": "Omdat het beroep gegrond is, zal de rechtbank verweerder opdragen aan eiseres het door haar betaalde griffierecht te vergoeden"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Beroep gegrond op motivering; kaart blijft afgewezen, wel kosten.",
+ "gevolg_betrokkene": {
+  "zin": "De aanvrager krijgt geen kaart, maar de gemeente betaalt het griffierecht van 184 euro en 1.750 euro aan proceskosten.",
+  "bron": [
+   39,
+   40
+  ],
+  "citaat": "draagt verweerder op het betaalde griffierecht van € 184,- aan eiseres te vergoeden"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "Het medisch advies klopt niet, want duizeligheid en wegrakingen zijn niet goed meegewogen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het advies van de arts miste de uitleg die de rechter nodig vond.",
+    "bron": [
+     26
+    ],
+    "citaat": "Nu het besluit berust op een onvoldoende inzichtelijk medisch advies, is het beroep gegrond"
+   },
+   "bruikbare_zin": {
+    "citaat": "Nu het besluit berust op een onvoldoende inzichtelijk medisch advies",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente had de huisarts moeten vragen of de aanvrager aan de eisen voldoet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het niet vragen aan de huisarts telt niet mee.",
+    "bron": [
+     28
+    ],
+    "citaat": "Dat verweerder niet expliciet aan de huisarts heeft gevraagd"
+   },
+   "bruikbare_zin": {
+    "citaat": "verweerder zich heeft kunnen baseren op het medisch advies",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een gemeente mag een arts-advies gebruiken, mits het onpartijdig, objectief en inzichtelijk is opgesteld.",
+  "type": "regel",
+  "reikwijdte": "beoordeling van aanvragen voor een gehandicaptenparkeerkaart passagier",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "mits dat advies op een onpartijdige, objectieve en inzichtelijke wijze is opgesteld"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "medisch advies verzekeringsarts",
+   "nadere verklaring medisch adviseur",
+   "medische stukken over duizeligheid en wegrakingen"
+  ],
+  "wat_gaf_doorslag": "De nadere verklaring van de medisch adviseur nam de twijfel over het medisch advies weg."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 1 onder b Regeling gehandicaptenparkeerkaart"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg in het medisch advies uit of duizeligheid en wegrakingen zijn meegewogen.",
+   "raakt": "vergunningen",
+   "bron": [
+    26
+   ],
+   "citaat": "Uit het medisch advies kan echter niet worden afgeleid of de verzekeringsarts ook de duizeligheid"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar"
+ ],
+ "klantuitleg": "De gemeente moet een afwijzing goed onderbouwen, en in deze zaak was dat niet helemaal gelukt. Toch bleef de afwijzing staan, omdat de gemeente de uitleg later alsnog gaf. Als u opnieuw aanvraagt, kan het helpen dat uw arts duidelijk opschrijft hoe het zit met vallen en wachten.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

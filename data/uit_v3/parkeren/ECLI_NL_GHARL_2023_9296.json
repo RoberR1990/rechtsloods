@@ -1,0 +1,154 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "reden_leeg_actie": "gemeente geen partij; Wahv-zaak tegen de officier van justitie, niet over te zetten",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "ecli": "ECLI:NL:GHARL:2023:9296",
+ "onderwerp": "parkeerverbod",
+ "sub": "maximale-duur",
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "kentekenhouder, via gemachtigde",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De parkeerder kreeg een boete van 100 euro, omdat op de parkeerschijf in een blauwe zone in Amsterdam niet het juiste begintijdstip stond. Zij ging in hoger beroep bij het gerechtshof Arnhem-Leeuwarden tegen de officier van justitie.",
+ "titel": "Boete voor verkeerde tijd op parkeerschijf vervalt",
+ "kern": {
+  "zin": "Het hof vernietigde de boete, omdat niet vaststond dat de parkeerder een verkeerd begintijdstip had ingesteld.",
+  "bron": [
+   32
+  ],
+  "citaat": "Dat de betrokkene op de parkeerschijf niet het juiste tijdstip begin parkeren heeft aangegeven kan niet worden vastgesteld."
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg als kentekenhouder een boete van 100 euro voor parkeren bij een blauwe streep met een verkeerd begintijdstip op de parkeerschijf.",
+   "bron": [
+    20
+   ],
+   "citaat": "Aan de betrokkene is als kentekenhouder bij inleidende beschikking een sanctie opgelegd van € 100,-"
+  },
+  {
+   "zin": "De parkeerder zei dat zij de auto om 4 uur 's nachts neerzette, dus dat de tijd op de schijf klopte.",
+   "bron": [
+    21
+   ],
+   "citaat": "voert aan dat de betrokkene haar voertuig om 4:00 uur ’s nachts heeft geparkeerd"
+  },
+  {
+   "zin": "De advocaat-generaal (de vertegenwoordiger van de officier van justitie) zei dat dit niet klopte met wat de parkeerder eerder in de procedure had gezegd.",
+   "bron": [
+    22
+   ],
+   "citaat": "het daarom niet aannemelijk is dat de betrokkene haar voertuig om 4:00 uur ’s nachts ter plaatse heeft geparkeerd"
+  },
+  {
+   "zin": "Het hof vond dat op de parkeerschijf de tijd moet staan waarop het parkeren begon, ook als de blauwe zone toen nog niet gold.",
+   "bron": [
+    31
+   ],
+   "citaat": "Op de parkeerschijf dient het tijdstip waarop het parkeren is begonnen te worden weergegeven"
+  },
+  {
+   "zin": "De handhaver had niet gezien sinds wanneer de auto er stond, dus het verkeerde begintijdstip was niet te bewijzen.",
+   "bron": [
+    32
+   ],
+   "citaat": "De ambtenaar heeft niet waargenomen vanaf welk tijdstip het voertuig ter plaatse stond geparkeerd."
+  },
+  {
+   "zin": "Het hof vernietigde de boete en veroordeelde de advocaat-generaal tot betaling van de proceskosten.",
+   "bron": [
+    43
+   ],
+   "citaat": "veroordeelt de advocaat-generaal tot het vergoeden van de proceskosten van de betrokkene tot een bedrag van € 1.703,25."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete vernietigd; proceskosten van € 1.703,25 worden vergoed",
+ "gevolg_betrokkene": {
+  "zin": "De boete van 100 euro vervalt, de betaalde zekerheid wordt terugbetaald en de advocaat-generaal betaalt € 1.703,25 aan proceskosten.",
+  "bron": [
+   43,
+   41,
+   42
+  ],
+  "citaat": "veroordeelt de advocaat-generaal tot het vergoeden van de proceskosten van de betrokkene tot een bedrag van € 1.703,25."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De parkeerder zegt dat zij om 4 uur 's nachts parkeerde, dus dat de tijd op de parkeerschijf klopte.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het hof vond niet bewezen dat de parkeerder een verkeerd begintijdstip had ingesteld.",
+    "bron": [
+     32
+    ],
+    "citaat": "Dat de betrokkene op de parkeerschijf niet het juiste tijdstip begin parkeren heeft aangegeven kan niet worden vastgesteld."
+   },
+   "bruikbare_zin": {
+    "citaat": "De ambtenaar heeft niet waargenomen vanaf welk tijdstip het voertuig ter plaatse stond geparkeerd.",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder zegt dat de kantonrechter een verkeerde maatstaf gebruikte.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het hof volgde de redenering van de kantonrechter niet.",
+    "bron": [
+     31
+    ],
+    "citaat": "volgt de kantonrechter niet in de redenering dat het tijdstip van 4 uur ’s nachts niet juist kan zijn"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Op de parkeerschijf moet het tijdstip staan waarop het parkeren begon, ook als de plicht om een parkeerschijf te gebruiken op dat moment nog niet gold.",
+  "type": "regel",
+  "reikwijdte": "Parkeren bij een blauwe streep of in een blauwe zone met parkeerschijf",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   31
+  ],
+  "citaat": "Op de parkeerschijf dient het tijdstip waarop het parkeren is begonnen te worden weergegeven"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring handhaver",
+   "foto's van de parkeerschijf"
+  ],
+  "wat_gaf_doorslag": "De handhaver zag alleen de tijd op de schijf en niet wanneer de auto was neergezet."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 25 lid 3 RVV 1990",
+  "art. 3 lid 2 Wahv",
+  "art. 11 Wahv",
+  "art. 2 lid 3 Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [],
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Op de parkeerschijf moet de tijd staan waarop u bent gaan staan, ook als de blauwe zone op dat moment nog niet gold. Kon de handhaver niet zien wanneer u de auto neerzette, dan kan de boete op dit punt worden vernietigd. Maakt u bezwaar, laat dan zien wanneer u de auto neerzette.",
+ "gemeente": "Amsterdam",
+ "zekerheid": "hoog"
+}

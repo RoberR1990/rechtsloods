@@ -1,0 +1,139 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:1705",
+ "relevant": true,
+ "onderwerp": "politie-justitie",
+ "sub": "wpg-inzage",
+ "kenmerk": null,
+ "zaaktype": "politiegegevens",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "korpschef van politie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger vroeg de politie om inzage in zijn politiegegevens. Hij ging in hoger beroep tegen de korpschef van politie bij de Raad van State.",
+ "titel": "Politie zocht genoeg: burger krijgt niet meer politiegegevens",
+ "kern": {
+  "zin": "De Raad van State vond de zoekactie van de politie volledig, omdat de burger geen concrete aanwijzingen gaf dat er meer gegevens zijn.",
+  "bron": [
+   31
+  ],
+  "citaat": "De rechtbank heeft daarom terecht geoordeeld dat de zoekslag van de korpschef volledig is geweest."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de politie om inzage in zijn politiegegevens.",
+   "bron": [
+    20
+   ],
+   "citaat": "heeft verzocht om inzage van zijn persoonsgegevens als bedoeld in artikel 25 van de Wet politiegegevens"
+  },
+  {
+   "zin": "Tijdens het beroep deed de politie nog een extra zoekactie in de systemen en de e-mailboxen.",
+   "bron": [
+    23
+   ],
+   "citaat": "de korpschef door tijdens het beroep aanvullende stukken ter inzage te leggen na het verrichten van een extra zoekslag"
+  },
+  {
+   "zin": "De burger vond de zoekactie nog steeds onvolledig.",
+   "bron": [
+    27
+   ],
+   "citaat": "betoogt dat de rechtbank niet heeft onderkend dat de zoekslag van de korpschef, bedoeld in artikel 25 van de Wpg, onvolledig is geweest"
+  },
+  {
+   "zin": "De politie legde uitgebreid uit hoe zij had gezocht, en de rechter vond dat niet ongeloofwaardig.",
+   "bron": [
+    29
+   ],
+   "citaat": "de korpschef een uitgebreide toelichting heeft gegeven over de manier waarop is gezocht"
+  },
+  {
+   "zin": "De burger gaf geen concrete aanwijzingen dat er nog meer gegevens zijn.",
+   "bron": [
+    31
+   ],
+   "citaat": "is onvoldoende concreet om aan te nemen dat de korpschef over meer politiegegevens beschikt"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    34
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De uitspraak van de rechtbank wordt bevestigd, voor zover deze is aangevallen."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Zoekactie van de politie was volledig; hoger beroep ongegrond.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen extra politiegegevens en geen vergoeding van proceskosten.",
+  "bron": [
+   35
+  ],
+  "citaat": "De korpschef hoeft geen proceskosten te vergoeden."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "De politie heeft niet in alle e-mailboxen en bestanden gezocht, dus ik kreeg niet alles.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger gaf geen concrete aanwijzingen dat er meer politiegegevens zijn.",
+    "bron": [
+     30
+    ],
+    "citaat": "geen concrete aanwijzingen naar voren gebracht die aannemelijk maken dat er"
+   },
+   "bruikbare_zin": {
+    "citaat": "is onvoldoende concreet om aan te nemen dat de korpschef over meer politiegegevens beschikt",
+    "bron": [
+     31
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Zegt een organisatie na onderzoek dat een document er niet is, en is dat niet ongeloofwaardig, dan moet de burger aannemelijk maken dat het document er toch is.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om inzage in documenten of gegevens bij een overheidsorgaan; hier toegepast op politiegegevens.",
+  "uitzondering": "Als de mededeling van de organisatie ongeloofwaardig overkomt, geldt dit niet.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   28
+  ],
+  "citaat": "het in beginsel aan degene is die om informatie verzoekt om aannemelijk te maken dat"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "uitleg van de politie over de zoekslag",
+   "stukken van de Belastingdienst over overleggen"
+  ],
+  "wat_gaf_doorslag": "De burger bracht geen concrete aanwijzingen dat er meer gegevens zijn."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2024:232",
+   "ECLI:NL:RVS:2024:1150"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 25 Wet politiegegevens"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Als u om inzage vraagt en de organisatie zegt na een zoekactie dat er niets meer is, moet u zelf laten zien dat er toch meer is. Een algemeen vermoeden is dan niet genoeg. Heeft u concrete aanwijzingen, zoals stukken waaruit blijkt dat er meer bestaat, dan kunt u die meesturen bij uw bezwaar.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "politie is partij, geen gemeente",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

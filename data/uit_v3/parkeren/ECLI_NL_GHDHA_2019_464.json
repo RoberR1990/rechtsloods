@@ -1,0 +1,196 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2019:464",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (met gemachtigde)",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder in Den Haag kreeg een naheffing (de rekening achteraf) omdat hij pas zes minuten na de scan betaalde. Hij ging in hoger beroep tegen de gemeente bij het gerechtshof Den Haag.",
+ "titel": "Betalen zes minuten na de scan was te laat",
+ "kern": {
+  "zin": "De rechter vond de naheffing terecht, omdat vijf minuten ruim genoeg is om naar een automaat op 25 tot 50 meter te lopen en te betalen.",
+  "bron": [
+   48
+  ],
+  "citaat": "een tijdspanne van in totaal vijf minuten ruim voldoende is voor het lopen naar de automaat"
+ },
+ "samenvatting": [
+  {
+   "zin": "De scanauto zag om 9.29 uur en nog eens om 9.32 uur dat voor de auto geen parkeerbelasting was betaald.",
+   "bron": [
+    21
+   ],
+   "citaat": "geconstateerd dat voor de auto geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder betaalde om 9.35 uur met zijn pinpas bij de automaat.",
+   "bron": [
+    22
+   ],
+   "citaat": "voldaan om 9:35 uur door middel van een pinbetaling"
+  },
+  {
+   "zin": "De parkeerder zei dat het systeem automatisch werkte, dat hij al betaalde voordat de naheffing was opgelegd en dat tien minuten redelijk is.",
+   "bron": [
+    46
+   ],
+   "citaat": "Belanghebbende stelt de hiervoor genoemde redelijke tijd op tien minuten"
+  },
+  {
+   "zin": "De gemeente vond dat de naheffing terecht was en wilde dat de uitspraak van de rechtbank bleef.",
+   "bron": [
+    40
+   ],
+   "citaat": "De heffingsambtenaar concludeert tot bevestiging van de uitspraak van de Rechtbank"
+  },
+  {
+   "zin": "De rechter zag geen wachtrij en vond vijf minuten ruim genoeg, dus de parkeerder betaalde te laat.",
+   "bron": [
+    49
+   ],
+   "citaat": "Belanghebbende heeft al met al niet aannemelijk gemaakt dat hij binnen de hiervoor vastgestelde redelijke termijn de parkeerbelasting heeft voldaan"
+  },
+  {
+   "zin": "Het hof bevestigde de uitspraak van de rechtbank en kende geen kostenvergoeding toe.",
+   "bron": [
+    55
+   ],
+   "citaat": "Het Gerechtshof bevestigt de uitspraak van de Rechtbank"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; geen kostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan, ook al betaalde de parkeerder zes minuten na de scan, en er is geen vergoeding van kosten.",
+  "bron": [
+   55,
+   53
+  ],
+  "citaat": "Het Gerechtshof bevestigt de uitspraak van de Rechtbank"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij betaalde direct na het parkeren; bij de automaat kostte betalen tijd en tien minuten is een redelijke termijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Hij maakte niet aannemelijk dat hij binnen de redelijke termijn betaalde, ook niet dat er een wachtrij was.",
+    "bron": [
+     49
+    ],
+    "citaat": "Belanghebbende heeft al met al niet aannemelijk gemaakt dat hij binnen de hiervoor vastgestelde redelijke termijn de parkeerbelasting heeft voldaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "een tijdspanne van in totaal vijf minuten ruim voldoende is voor het lopen naar de automaat",
+    "bron": [
+     48
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Een computer legde de naheffing automatisch op, zonder menselijke beoordeling, dus het is geen besluit.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een medewerker beoordeelt eerst de foto's van de scanauto, voordat de naheffing wordt opgelegd.",
+    "bron": [
+     43
+    ],
+    "citaat": "pas opgelegd nadat een medewerker van de Deskforce de situatie namens de heffingsambtenaar heeft beoordeeld"
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij had al betaald voordat de naheffing werd opgelegd, dus het kon niet meer.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Wat telt is het moment van parkeren, niet wanneer de naheffing zelf werd vastgesteld of bekendgemaakt.",
+    "bron": [
+     44
+    ],
+    "citaat": "niet van belang wanneer de aanslag daarna zelf is vastgesteld of bekendgemaakt"
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De gemeente moest foto's laten zien van de situatie bij de automaat.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente maakte aannemelijk dat zij mocht naheffen; daarna moet de parkeerder aannemelijk maken dat hij op tijd betaalde.",
+    "bron": [
+     45
+    ],
+    "citaat": "Het is vervolgens aan belanghebbende te stellen en bij betwisting aannemelijk te maken wanneer hij heeft geparkeerd"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder krijgt een redelijke termijn om de parkeerapparatuur in werking te stellen; hoe lang dat is, hangt af van de omstandigheden.",
+  "bron": [
+   47
+  ],
+  "citaat": "moet een parkeerder een redelijke termijn worden gegund die nodig is om de parkeerapparatuur in werking te stellen",
+  "type": "regel",
+  "reikwijdte": "Betalen bij een automaat: hier was vijf minuten genoeg bij een automaat op ongeveer 25 tot 50 meter",
+  "uitzondering": "De termijn kan langer zijn als de parkeerder aannemelijk maakt dat daar reden voor is, bijvoorbeeld een wachtrij.",
+  "herkomst": "vaste lijn HR-RvS"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "scans en foto's van de scanauto",
+   "pinbetaling om 9.35 uur",
+   "overzicht van transacties bij de automaat"
+  ],
+  "wat_gaf_doorslag": "De automaat stond op 25 tot 50 meter en het transactieoverzicht liet geen wachtrij zien."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 234 lid 2 Gemeentewet",
+  "art. 7 Verordening parkeerbelastingen 2008 Den Haag",
+  "art. 1:1 Awb",
+  "art. 1:3 Awb",
+  "art. 8:75 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Laat een medewerker de foto's van de scanauto beoordelen voordat u een naheffing oplegt.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    43
+   ],
+   "citaat": "pas opgelegd nadat een medewerker van de Deskforce de situatie namens de heffingsambtenaar heeft beoordeeld"
+  },
+  {
+   "actie": "Bewaar de transacties van parkeerautomaten, ook de mislukte, zodat u een gestelde wachtrij kunt weerleggen.",
+   "raakt": "bezwaar",
+   "bron": [
+    49
+   ],
+   "citaat": "alle foutieve intoetspogingen door de automaat worden geregistreerd als mislukte transacties"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "scanauto-handhaving",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "U moet betalen bij het begin van het parkeren, maar u krijgt een paar minuten om naar de automaat te lopen en te betalen. In deze zaak was vijf minuten genoeg bij een automaat op ongeveer 25 tot 50 meter. Had u een goede reden voor meer tijd, zoals een wachtrij, onderbouw die dan met bewijs.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,146 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2023:6331",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "gehandicaptenplaats",
+ "kenmerk": null,
+ "zaaktype": "verkeersbesluit",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente (geanonimiseerd)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "voorlopige voorziening",
+ "intro": "Een bewoner vroeg de rechtbank Midden-Nederland om een voorlopige voorziening (een tijdelijke rechterlijke beslissing vooruit op de bezwaarprocedure). Het verzoek ging tegen het college van burgemeester en wethouders, dat een gehandicaptenparkeerplaats bij de buurvrouw had aangewezen.",
+ "titel": "Verzoek tegen parkeerbord afgewezen: eerst het bezwaar afwachten",
+ "kern": {
+  "zin": "De voorzieningenrechter wees het verzoek af: de borden hebben geen onomkeerbare gevolgen en het besluit is niet duidelijk onrechtmatig.",
+  "bron": [
+   13
+  ],
+  "citaat": "Plaatsing van het verkeersbord met onderbord heeft geen onomkeerbare gevolgen."
+ },
+ "samenvatting": [
+  {
+   "zin": "Het college wees een gehandicaptenparkeerplaats aan voor de buurvrouw van de bewoner.",
+   "bron": [
+    12
+   ],
+   "citaat": "door het college een gehandicaptenparkeerplaats is aangewezen ten behoeve van haar buurvrouw"
+  },
+  {
+   "zin": "De bewoner vond dat de buurvrouw ten onrechte in aanmerking werd gebracht voor die plek.",
+   "bron": [
+    12
+   ],
+   "citaat": "ten onrechte heeft overwogen dat haar buurvrouw in aanmerking komt voor een gehandicaptenparkeerplaats"
+  },
+  {
+   "zin": "De voorzieningenrechter zag geen reden om nu in te grijpen, hoewel de bewoner het besluit sterk bestreed.",
+   "bron": [
+    13
+   ],
+   "citaat": "Hij ziet in deze bezwaren echter geen aanleiding om nu in te grijpen."
+  },
+  {
+   "zin": "Mocht later blijken dat de plek ten onrechte is aangewezen, dan kunnen de borden weer weg.",
+   "bron": [
+    13
+   ],
+   "citaat": "Mocht er in de bezwaarprocedure blijken dat de parkeerplaats ten onrechte is aangewezen"
+  },
+  {
+   "zin": "Het besluit leek bovendien niet duidelijk onrechtmatig, en dat speelde mee in de afwijzing.",
+   "bron": [
+    13
+   ],
+   "citaat": "Omdat het besluit ook niet evident onrechtmatig is"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Verzoek afgewezen; bezwaar moet eerst worden behandeld.",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner moet de behandeling van het bezwaar afwachten; er volgt geen tussentijdse stop.",
+  "bron": [
+   13
+  ],
+  "citaat": "Verzoekster zal de behandeling van haar bezwaar door het college moeten afwachten."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het college had ten onrechte overwogen dat de buurvrouw in aanmerking komt voor de gehandicaptenplek.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter ging de juistheid niet inhoudelijk na, maar zag nu geen aanleiding om in te grijpen.",
+    "bron": [
+     13
+    ],
+    "citaat": "Hij ziet in deze bezwaren echter geen aanleiding om nu in te grijpen."
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Eerder is al eens een gehandicaptenplek weggehaald, dus dit besluit is ook zwaar.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "Ook het besluit over deze plek heeft volgens de rechter geen gevolgen die niet meer terug te draaien zijn.",
+    "bron": [
+     13
+    ],
+    "citaat": "Ook nu heeft het besluit geen gevolgen die onomkeerbaar zijn."
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een voorlopige voorziening wordt alleen getroffen bij een spoedeisend belang.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om een voorlopige voorziening tegen een besluit terwijl de bezwaarprocedure nog loopt.",
+  "uitzondering": "Ingrijpen is wel aan de orde bij onomkeerbare gevolgen of een duidelijk onrechtmatig besluit.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   11
+  ],
+  "citaat": "De voorzieningenrechter treft alleen een voorlopige voorziening als er een spoedeisend belang is dat dit nodig maakt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "bericht in het Gemeenteblad",
+   "verkeersbord met onderbord met kenteken"
+  ],
+  "wat_gaf_doorslag": "De plaatsing van de borden had geen onomkeerbare gevolgen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:83 lid 3 Awb",
+  "Reglement voor verkeersregels en verkeerstekens 1990, bord E6"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Verwijder de borden als in de bezwaarprocedure blijkt dat de plek ten onrechte is aangewezen.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    13
+   ],
+   "citaat": "Mocht er in de bezwaarprocedure blijken dat de parkeerplaats ten onrechte is aangewezen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een rechter houdt een besluit over borden voor een gehandicaptenplek alleen tegen als er een spoedeisend belang is. In deze zaak was dat niet zo, omdat de plaatsing niet onomkeerbaar is. Wilt u het niet eens zijn met het besluit, dan loopt de weg via de bezwaarprocedure bij het college.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

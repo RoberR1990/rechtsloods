@@ -1,0 +1,202 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2018:10264",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder met gemachtigde",
+  "wederpartij": "Belastingsamenwerking gemeenten en hoogheemraadschap Utrecht (namens gemeente Utrecht)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder uit Utrecht kreeg een naheffingsaanslag (de rekening achteraf) voor parkeerbelasting. Hij ging met zijn gemachtigde in hoger beroep tegen de belastingdienst van de gemeente Utrecht bij het Gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Bezwaar te laat: bewust bij het verkeerde loket ingediend",
+ "kern": {
+  "zin": "De rechter vond dat het bezwaar te laat was, omdat de gemachtigde bewust bij het verkeerde loket bezwaar maakte en daarmee kennelijk onredelijk gebruik van procesrecht (misbruik) maakte.",
+  "bron": [
+   68
+  ],
+  "citaat": "kennelijk onredelijk gebruik van procesrecht hebben gemaakt"
+ },
+ "samenvatting": [
+  {
+   "zin": "De handhaver vond geen geldig parkeerkaartje of vergunning achter de voorruit en legde een naheffingsaanslag op.",
+   "bron": [
+    18
+   ],
+   "citaat": "heeft niet een geldig parkeerkaartje of vergunning zichtbaar en leesbaar achter de voorruit van de auto aangetroffen"
+  },
+  {
+   "zin": "De gemachtigde maakte op 27 september 2016 bezwaar via een webformulier van de gemeente Utrecht.",
+   "bron": [
+    20
+   ],
+   "citaat": "door middel van het invullen van een reactieformulier op de website van de gemeente Utrecht bezwaar gemaakt"
+  },
+  {
+   "zin": "Een dag na het einde van de bezwaartermijn diende hij bezwaar in bij de juiste instantie.",
+   "bron": [
+    67
+   ],
+   "citaat": "Vervolgens heeft hij één dag na afloop van de bezwaartermijn opnieuw een bezwaarschrift ingediend bij de heffingsambtenaar"
+  },
+  {
+   "zin": "De parkeerder zei dat zijn bezwaar al op 27 september 2016 was ingediend en dus op tijd was.",
+   "bron": [
+    47
+   ],
+   "citaat": "omdat hij reeds op 27 september 2016 een bezwaarschrift heeft ingediend"
+  },
+  {
+   "zin": "De gemeente verklaarde het bezwaar niet-ontvankelijk, omdat het te laat was en geen gronden bevatte.",
+   "bron": [
+    42
+   ],
+   "citaat": "niet-ontvankelijk verklaard wegens termijnoverschrijding"
+  },
+  {
+   "zin": "De rechter vond dat de gemachtigde wist dat hij bij het verkeerde loket bezwaar maakte en dat de datum van het webformulier daarom niet telt.",
+   "bron": [
+    68
+   ],
+   "citaat": "belanghebbende en zijn gemachtigde onder deze omstandigheden kennelijk onredelijk gebruik van procesrecht hebben gemaakt"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Bezwaar te laat; naheffing blijft staan, geen vergoeding van kosten.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffingsaanslag blijft staan, omdat het bezwaar niet-ontvankelijk is; griffierecht en proceskosten worden niet vergoed.",
+  "bron": [
+   68,
+   72
+  ],
+  "citaat": "Daarom is het bezwaar naar het oordeel van het Hof terecht niet-ontvankelijk verklaard."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "Het bezwaar was al op 27 september 2016 bij de gemeente ingediend en dus op tijd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er waren geen omstandigheden die de te late indiening verschoonbaar (te excuseren) maken.",
+    "bron": [
+     68
+    ],
+    "citaat": "Er zijn geen omstandigheden gesteld of gebleken die grond zouden kunnen zijn voor het oordeel dat sprake is van een verschoonbare termijnoverschrijding."
+   },
+   "bruikbare_zin": {
+    "citaat": "kennelijk onredelijk gebruik van procesrecht hebben gemaakt",
+    "bron": [
+     68
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De gemeente heeft de parkeerder in de bezwaarfase niet gehoord.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente gaf de parkeerder voldoende kans om gehoord te worden en kreeg geen reactie.",
+    "bron": [
+     61
+    ],
+    "citaat": "de heffingsambtenaar belanghebbende voldoende in de gelegenheid heeft gesteld om te worden gehoord"
+   },
+   "bruikbare_zin": {
+    "citaat": "Uit de omstandigheid dat de gemachtigde niet op de e-mail heeft gereageerd",
+    "bron": [
+     61
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente besliste te laat, dus de gemeente moest alsnog beslissen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De beslistermijn was opgeschort, dus de ingebrekestelling (brief dat de gemeente te laat is) kwam te vroeg.",
+    "bron": [
+     56
+    ],
+    "citaat": "Het Hof is van oordeel dat de beslistermijn is opgeschort en dat de ingebrekestelling van belanghebbende prematuur is."
+   },
+   "bruikbare_zin": {
+    "citaat": "de ingebrekestelling van belanghebbende prematuur is",
+    "bron": [
+     56
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij misbruik van procesrecht telt de datum van indiening bij het verkeerde orgaan niet, maar de datum van ontvangst door het juiste orgaan.",
+  "type": "regel",
+  "reikwijdte": "Bezwaar dat bewust bij een onbevoegd bestuursorgaan wordt ingediend, bijvoorbeeld door een professionele gemachtigde.",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   66
+  ],
+  "citaat": "Bij misbruik van procesrecht geldt de datum van indiening bij een onbevoegd orgaan niet"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring medewerker klantcontact met schermprint van de brief",
+   "factuur voor verzending van de post",
+   "overzicht van verzonden stukken"
+  ],
+  "wat_gaf_doorslag": "De gemachtigde wist dat het webformulier niet voor bezwaar bedoeld was en deed daarna niets met het advies van de gemeente."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2017:2340",
+   "ECLI:NL:HR:2006:AZ4416",
+   "ECLI:NL:HR:2009:BI3751"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 6:15 lid 3 Awb",
+  "art. 6:7 Awb",
+  "art. 6:9 Awb",
+  "art. 22j AWR",
+  "art. 231 Gemeentewet",
+  "art. 4:17 Awb",
+  "art. 8:58 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet op de naheffingsaanslag een duidelijke rechtsmiddelverwijzing met naam en postadres van het juiste orgaan",
+   "raakt": "bezwaar",
+   "bron": [
+    67
+   ],
+   "citaat": "Het Hof stelt vast dat het duplicaat van de naheffingsaanslag een duidelijke en juiste rechtsmiddelverwijzing bevat."
+  },
+  {
+   "actie": "Bewaar bewijs van verzending van brieven, zoals een schermprint, de factuur voor de post en een overzicht van verzonden stukken",
+   "raakt": "bezwaar",
+   "bron": [
+    55
+   ],
+   "citaat": "Met de verklaring van de medewerker Klantcontact (inclusief een schermprint van de opgestelde brief)"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "communicatie"
+ ],
+ "klantuitleg": "Wilt u bezwaar maken, doe dat dan binnen zes weken en bij het orgaan dat op de naheffingsaanslag staat. Een algemeen contactformulier van de gemeente is daar niet voor bedoeld. Wijst de gemeente u op het juiste adres, dien uw bezwaar dan direct daar in.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,163 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:321",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": null,
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een vrouw uit Amsterdam vroeg de gemeente Amsterdam om inzage in haar eigen persoonsgegevens. Zij ging in hoger beroep bij de Afdeling bestuursrechtspraak van de Raad van State en wilde meer stukken en schadevergoeding.",
+ "titel": "Niet alle gegevens; wel 1500 euro wegens lange duur",
+ "kern": {
+  "zin": "De Afdeling bevestigt dat het college niet meer gegevens hoefde te verstrekken, omdat de appellante haar verzoek niet had gespecificeerd.",
+  "bron": [
+   26
+  ],
+  "citaat": "De rechtbank heeft daarom terecht geoordeeld dat het college niet meer gegevens hoefde te verstrekken dan het heeft gedaan."
+ },
+ "samenvatting": [
+  {
+   "zin": "De appellante vroeg het college van Amsterdam om inzage in haar persoonsgegevens.",
+   "bron": [
+    21
+   ],
+   "citaat": "[appellante] heeft het college op 25 juli 2019 verzocht om haar persoonsgegevens in te zien."
+  },
+  {
+   "zin": "Volgens haar hoefde zij haar verzoek niet verder uit te leggen, omdat het college wel wist welke stukken zij wilde zien.",
+   "bron": [
+    25
+   ],
+   "citaat": "Het college wist volgens [appellante] namelijk heel goed welke stukken zij graag wilde inzien."
+  },
+  {
+   "zin": "Het college had haar gevraagd om haar verzoek precies te maken, omdat het veel gegevens van haar heeft.",
+   "bron": [
+    26
+   ],
+   "citaat": "Het college heeft zich onbetwist op het standpunt gesteld dat het veel gegevens van [appellante] onder zich heeft."
+  },
+  {
+   "zin": "Zij reageerde niet op die vraag, ook niet in de bezwaarfase, zodat de rechtbank terecht vond dat het college met een algemeen overzicht mocht volstaan.",
+   "bron": [
+    26
+   ],
+   "citaat": "Op deze vraag heeft [appellante] niet gereageerd, zoals zij heeft erkend."
+  },
+  {
+   "zin": "Wel krijgt zij nog 1500 euro schadevergoeding, omdat de zaak te lang heeft geduurd.",
+   "bron": [
+    29
+   ],
+   "citaat": "[appellante] komt daarom in aanmerking voor een schadevergoeding ten bedrage van € 1.500,00."
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; wel 1500 euro schadevergoeding wegens te lange duur.",
+ "gevolg_betrokkene": {
+  "zin": "Zij krijgt 1500 euro schadevergoeding en 437,50 euro aan proceskosten van de Staat; de gemeente hoeft niets te betalen.",
+  "bron": [
+   32,
+   40,
+   35
+  ],
+  "citaat": "bedraagt de aan [appellante] toe te kennen schadevergoeding € 1.500,00."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Zij kreeg niet alle stukken die ze wilde, zoals e-mails en Messenger-berichten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Afdeling vindt dat zij haar verzoek niet specificeerde, ook niet in bezwaar, dus het college hoefde niet meer te geven.",
+    "bron": [
+     26
+    ],
+    "citaat": "Op deze vraag heeft [appellante] niet gereageerd, zoals zij heeft erkend."
+   },
+   "bruikbare_zin": {
+    "citaat": "Op deze vraag heeft [appellante] niet gereageerd, zoals zij heeft erkend.",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "Zij wil schadevergoeding omdat de zaak te lang heeft geduurd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De redelijke termijn van vier jaar is met ruim een jaar overschreden.",
+    "bron": [
+     29
+    ],
+    "citaat": "Dit betekent dat de redelijke termijn is overschreden met één jaar en bijna vier maanden."
+   },
+   "bruikbare_zin": {
+    "citaat": "Daarbij wordt uitgegaan van een vergoeding van € 500,00 per half jaar dat de redelijke termijn is overschreden",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als een organisatie veel persoonsgegevens van iemand verwerkt, mag zij de betrokkene eerst vragen om het inzageverzoek precies te maken.",
+  "type": "regel",
+  "reikwijdte": "Als de organisatie veel persoonsgegevens verwerkt en het verzoek om inzage algemeen is.",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   26
+  ],
+  "citaat": "Het college mocht [appellante] daarom naar het oordeel van de Afdeling vragen om haar verzoek te specificeren."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "algemeen overzicht van verwerkte gegevens",
+   "drie gedeeltelijk geanonimiseerde afschriften",
+   "e-mail van 2 augustus 2019 met het verzoek tot specificatie"
+  ],
+  "wat_gaf_doorslag": "Dat de appellante niet reageerde op het verzoek om haar verzoek te specificeren."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2023:155"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 12 AVG",
+  "art. 15 AVG"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag de burger om het verzoek om inzage precies te maken als u veel gegevens van hem heeft.",
+   "raakt": "privacy-fg",
+   "bron": [
+    26
+   ],
+   "citaat": "Het college mocht [appellante] daarom naar het oordeel van de Afdeling vragen om haar verzoek te specificeren."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Wilt u zien welke gegevens de gemeente over u heeft? Zeg dan duidelijk waar het om gaat, zeker als de gemeente veel gegevens van u heeft. Reageert u niet op een vraag om dat uit te leggen, dan mag de gemeente met een kort overzicht volstaan; u kunt dan later een nieuw en duidelijker verzoek doen.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

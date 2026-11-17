@@ -1,0 +1,143 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2025:6240",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Amsterdam een naheffing, omdat er geen parkeerbelasting was betaald. Hij zei dat hij een hoverboard aan het laden was; de rechtbank Amsterdam oordeelde dat hij gewoon stond te parkeren.",
+ "titel": "Wachten bij de auto is parkeren: beroep ongegrond",
+ "kern": {
+  "zin": "Wachten bij de auto telt als parkeren, en laden of lossen moet direct gebeuren; daarom bleef de naheffing staan.",
+  "bron": [
+   20,
+   19
+  ],
+  "citaat": "Nu eiser, zoals hij zelf heeft verklaard, stond te wachten, was er dus sprake van parkeren."
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controleur zag op 14 januari 2025 dat de auto niets had betaald.",
+   "bron": [
+    14
+   ],
+   "citaat": "Om 13.49 uur heeft een parkeercontroleur van de gemeente Amsterdam geconstateerd dat geen parkeerbelasting was voldaan."
+  },
+  {
+   "zin": "Volgens de parkeerder ging het om het laden van een zwaar hoverboard, niet om parkeren.",
+   "bron": [
+    15
+   ],
+   "citaat": "Eiser stelt dat er sprake was van het laden van een zwaar hoverboard"
+  },
+  {
+   "zin": "De gemeente vond dat de scanfoto’s geen laad- of losactiviteit lieten zien.",
+   "bron": [
+    16
+   ],
+   "citaat": "blijkt uit de scanfoto’s niet dat sprake was van enige laad- of losactiviteit"
+  },
+  {
+   "zin": "Volgens de rechter bewees naast de auto staan niet dat er geladen werd.",
+   "bron": [
+    20
+   ],
+   "citaat": "Eiser staat weliswaar naast de auto, maar dit enkele feit is niet een indicatie voor onmiddellijk laden."
+  },
+  {
+   "zin": "De rechter vond de naheffing terecht, omdat er niet was betaald.",
+   "bron": [
+    21
+   ],
+   "citaat": "Omdat eiser geen parkeerbelasting heeft voldaan, is de naheffingsaanslag terecht opgelegd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; wachten bij de auto gold als parkeren.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt geen gelijk, en ook geen griffierecht of proceskosten terug.",
+  "bron": [
+   23
+  ],
+  "citaat": "Voor een proceskostenvergoeding of vergoeding van het griffierecht bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Hij laadde een zwaar hoverboard uit en hoefde daarom geen parkeerbelasting te betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag op de scanfoto’s geen enkele laadactiviteit.",
+    "bron": [
+     20
+    ],
+    "citaat": "De rechtbank stelt vast dat er op de scanfoto’s geen activiteiten zijn te zien"
+   },
+   "bruikbare_zin": {
+    "citaat": "het bij voortduring inladen of uitladen van zaken van enige omvang of enig gewicht",
+    "bron": [
+     19
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Onmiddellijk laden telt pas als zaken van enige omvang of gewicht bij voortduring in- of uitgeladen worden.",
+  "type": "regel",
+  "reikwijdte": "Zaken die niet of bezwaarlijk op een andere manier ter plaatse gehaald of gebracht kunnen worden.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   19
+  ],
+  "citaat": "het bij voortduring inladen of uitladen van zaken van enige omvang of enig gewicht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "scanfoto’s",
+   "verklaring van de parkeerder",
+   "chatgeschiedenis van Marktplaats"
+  ],
+  "wat_gaf_doorslag": "De scanfoto’s lieten geen laad- of losactiviteit zien, en de auto stond met gesloten deuren en ramen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:1999:AA2760"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "Verordening parkeerbelastingen Amsterdam 2025 (definitie parkeren)"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Beschrijf in het verweer per scanfoto wat zichtbaar is, zoals gesloten deuren en ramen, en wat niet.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    20
+   ],
+   "citaat": "De auto van eiser staat geparkeerd in een parkeervak met gesloten deuren en ramen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "scanauto-handhaving",
+  "bezwaar"
+ ],
+ "klantuitleg": "Wachten of even stilstaan bij de auto telt als parkeren, ook als u naast de auto staat. Laden of lossen telt alleen als u zaken van enige omvang of gewicht direct uit of in de auto haalt. Hebt u wel echt geladen, dan helpt bewijs zoals foto’s of getuigen; zonder bewijs heeft bezwaar weinig kans.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

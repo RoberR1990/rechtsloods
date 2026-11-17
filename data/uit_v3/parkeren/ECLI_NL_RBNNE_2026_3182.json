@@ -1,0 +1,155 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2026:3182",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een boete van 129 euro voor fout parkeren in een zone met een parkeerverbod. Hij procedeerde tegen de officier van justitie bij de kantonrechter van de rechtbank Noord-Nederland.",
+ "titel": "Boete voor parkeren in zone: laden en lossen niet aangetoond",
+ "kern": {
+  "zin": "De rechter hield de boete in stand, omdat niet bleek dat er laden of lossen was.",
+  "bron": [
+   23
+  ],
+  "citaat": "Daarvan is niet gebleken, nu de verbalisant het voertuig ongeveer tien minuten heeft waargenomen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 11 november 2024 kreeg de parkeerder een boete van 129 euro.",
+   "bron": [
+    10
+   ],
+   "citaat": "een voertuig parkeren waar dat niet mag (bord E1, parkeerverbod(szone))"
+  },
+  {
+   "zin": "Die parkeerder zegt dat hij aan het uitladen was.",
+   "bron": [
+    18
+   ],
+   "citaat": "Betrokkene voert aan dat hij weldegelijk aan het uitladen was"
+  },
+  {
+   "zin": "De officier van justitie vindt dat de auto tien minuten zonder activiteit stond.",
+   "bron": [
+    19
+   ],
+   "citaat": "er vanuit mag worden gegaan dat er tien minuten geen activiteit bij het voertuig is geweest"
+  },
+  {
+   "zin": "De rechter vond dat laden en lossen niet is aangetoond, omdat er tien minuten niets gebeurde bij de auto.",
+   "bron": [
+    23
+   ],
+   "citaat": "Daarvan is niet gebleken, nu de verbalisant het voertuig ongeveer tien minuten heeft waargenomen"
+  },
+  {
+   "zin": "Het beroep van de parkeerder faalt, dus de boete blijft staan.",
+   "bron": [
+    25
+   ],
+   "citaat": "De kantonrechter verklaart het beroep ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; boete van 129 euro blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de parkeerder verandert er niets, want het beroep is ongegrond.",
+  "bron": [
+   25
+  ],
+  "citaat": "De kantonrechter verklaart het beroep ongegrond"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Hij was aan het uitladen, dus hij stond niet zomaar stil.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Laden en lossen is niet aangetoond, omdat er tien minuten niets gebeurde bij de auto.",
+    "bron": [
+     23
+    ],
+    "citaat": "Daarvan is niet gebleken, nu de verbalisant het voertuig ongeveer tien minuten heeft waargenomen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Daarvan is niet gebleken, nu de verbalisant het voertuig ongeveer tien minuten heeft waargenomen",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De foto's zijn van 17:10 uur, en een getuige zag de handhaver maar enkele minuten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het zaakoverzicht van de verbalisant telt in beginsel als bewijs, zolang er geen concrete twijfel is.",
+    "bron": [
+     21
+    ],
+    "citaat": "In zaken op grond van de Wahv is de verklaring van de verbalisant in het zaakoverzicht in beginsel voldoende"
+   },
+   "bruikbare_zin": {
+    "citaat": "de verklaring van de verbalisant in het zaakoverzicht in beginsel voldoende",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij vraagt zich af waarop zijn geslacht in het zaakoverzicht is gebaseerd.",
+   "oordeel": "niet beoordeeld",
+   "waarom": null,
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Laden en lossen telt alleen als er voortdurend goederen in- en uitgeladen worden.",
+  "type": "regel",
+  "reikwijdte": "Parkeerverbod met een uitzondering voor laden en lossen",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   23
+  ],
+  "citaat": "het onmiddellijk nadat het voertuig tot stilstand is gebracht bij voortduring in- en uitladen van goederen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verklaring van de verbalisant",
+   "zaaksoverzicht met genoteerde tijdstippen"
+  ],
+  "wat_gaf_doorslag": "De tien minuten zonder activiteit bij het voertuig gaven doorslag."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Wahv",
+  "Reglement verkeersregels en verkeerstekens 1990 (bord E1, laden en lossen)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver handhavingsoordeel; de rechter noemt geen gebrek voor de gemeente",
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een boete voor fout parkeren blijft staan als de handhaver goed heeft vastgelegd wat er gebeurde en u geen concrete twijfel kunt aantonen. In deze zaak vond de rechter dat de auto tien minuten zonder activiteit stond, dus de boete bleef staan. Heeft u een andere uitleg, bijvoorbeeld getuigen of foto's met tijden die niet kloppen, dan kunt u die met bewijs onderbouwen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

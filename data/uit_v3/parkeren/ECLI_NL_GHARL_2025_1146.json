@@ -1,0 +1,157 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2025:1146",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "gehandicaptenplaats",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bedrijf kreeg een boete van € 350 voor parkeren op een gehandicaptenplek in Capelle aan den IJssel zonder kaart. Het bedrijf ging in hoger beroep tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Open achterklep is nog geen laden en lossen: boete blijft",
+ "kern": {
+  "zin": "De rechter liet de boete staan, omdat de handhaver tien minuten lang geen laden of lossen zag en een open achterklep dat niet verandert.",
+  "bron": [
+   29
+  ],
+  "citaat": "Daarmee staat vast dat geen sprake was van het onmiddellijk en bij voortduring laden en lossen."
+ },
+ "samenvatting": [
+  {
+   "zin": "Het bedrijf kreeg als kentekenhouder een boete van € 350 voor parkeren op een gehandicaptenplek zonder geldige kaart.",
+   "bron": [
+    20
+   ],
+   "citaat": "parkeren op gehandicaptenparkeerplaats zonder duidelijk zichtbare geldige gehandicaptenparkeerkaart"
+  },
+  {
+   "zin": "Het bedrijf zei dat de bestuurder had moeten worden aangehouden en dat het ging om laden en lossen.",
+   "bron": [
+    21
+   ],
+   "citaat": "voert aan dat de bestuurder ten onrechte niet is staandegehouden"
+  },
+  {
+   "zin": "De handhaver verklaarde dat hij ongeveer tien minuten wachtte en geen laad- of losactiviteiten zag.",
+   "bron": [
+    24
+   ],
+   "citaat": "Gedurende deze tijd heb ik, verbalisant, geen laad- en losactiviteiten waargenomen."
+  },
+  {
+   "zin": "De rechter vond dat de bestuurder pas kwam aanlopen toen de boete al werd opgemaakt, dus de boete mocht naar de kentekenhouder.",
+   "bron": [
+    27
+   ],
+   "citaat": "De sanctie is terecht aan de betrokkene als kentekenhouder opgelegd."
+  },
+  {
+   "zin": "De rechter vond dat de open achterklep niets veranderde: er gebeurde tien minuten niets bij de auto.",
+   "bron": [
+    29
+   ],
+   "citaat": "Dat de achterklep openstond, doet hier niet aan af."
+  },
+  {
+   "zin": "Het hof bevestigde de uitspraak van de kantonrechter en kende geen proceskosten toe.",
+   "bron": [
+    30
+   ],
+   "citaat": "Er is geen aanleiding voor het toekennen van een proceskostenvergoeding."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete van € 350 blijft staan; geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 350 blijft staan en het bedrijf krijgt geen proceskosten vergoed.",
+  "bron": [
+   33,
+   34,
+   20
+  ],
+  "citaat": "bevestigt de beslissing van de kantonrechter"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De bestuurder had moeten worden aangehouden; nu was niet duidelijk dat hij moest wachten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De bestuurder kwam pas aanlopen toen de boete al was opgemaakt, dus aanhouden was niet echt mogelijk.",
+    "bron": [
+     27
+    ],
+    "citaat": "Daarmee staat voldoende vast dat zich geen reële mogelijkheid tot staandehouding van de bestuurder heeft voorgedaan."
+   },
+   "bruikbare_zin": {
+    "citaat": "Slechts wanneer er geen reële mogelijkheid is geweest om de identiteit van de bestuurder aanstonds vast te stellen, mag de sanctie aan de kentekenhouder worden opgelegd",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Het was laden en lossen; de open achterklep liet dat zien.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Tien minuten lang gebeurde er niets bij de auto, dus het was geen laden en lossen.",
+    "bron": [
+     29
+    ],
+    "citaat": "Daarmee staat vast dat geen sprake was van het onmiddellijk en bij voortduring laden en lossen."
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat de achterklep openstond, doet hier niet aan af.",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Laden en lossen is alleen toegestaan als goederen direct na het stilzetten doorlopend worden in- of uitgeladen; de burger moet dat aannemelijk maken.",
+  "type": "regel",
+  "reikwijdte": "Elke Wahv-zaak waarin de burger zegt dat de auto stilstond voor laden of lossen.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   28
+  ],
+  "citaat": "is bepalend of goederen van enige omvang of enig gewicht onmiddellijk nadat het voertuig tot stilstand is gebracht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring van de handhaver (tien minuten geen activiteit)",
+   "foto's met open achterklep"
+  ],
+  "wat_gaf_doorslag": "De handhaver zag ongeveer tien minuten geen laad- of losactiviteit; de open achterklep veranderde dat niet."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 5 Wahv",
+  "art. 1 Reglement verkeersregels en verkeerstekens 1990"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Staat uw auto stil op een plek waar u niet mag parkeren, dan geldt alleen laden en lossen als u direct en doorlopend spullen in- of uitlaadt. Een open achterklep is daarvoor niet genoeg als er ongeveer tien minuten niets gebeurt. Maakt u bezwaar, noem dan precies wat u laadde en hoe lang, en lever bewijs aan.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij; boete van de officier van justitie",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

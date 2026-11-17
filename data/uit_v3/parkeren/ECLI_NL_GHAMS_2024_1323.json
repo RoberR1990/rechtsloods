@@ -1,0 +1,163 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2024:1323",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "kentekenhouder (met gemachtigde)",
+  "wederpartij": "gemeente",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder betaalde via de parkeerapp voor een andere zone dan waar hij stond en kreeg een rekening achteraf. Hij ging in hoger beroep bij het Gerechtshof Amsterdam tegen de gemeente.",
+ "titel": "Betaald voor verkeerde parkeerzone in de app: rekening blijft staan",
+ "kern": {
+  "zin": "De rechter vond de rekening achteraf terecht, omdat de parkeerder een verder weggelegen automaat in een andere zone koos in plaats van de zone te controleren.",
+  "bron": [
+   38
+  ],
+  "citaat": "niet aan de op hem rustende onderzoeksplicht heeft voldaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder stond in een zone met een hoog uurtarief, maar betaalde via de parkeerapp voor een aangrenzende zone met een tarief van 10 cent.",
+   "bron": [
+    22
+   ],
+   "citaat": "via de parkeerapp betaald voor het parkeren in een aangrenzende zone"
+  },
+  {
+   "zin": "De parkeerder zei dat hij mocht afgaan op de informatie van zijn parkeerapp.",
+   "bron": [
+    34
+   ],
+   "citaat": "dat hij mocht afgaan op de informatie die zijn parkeerapp gaf"
+  },
+  {
+   "zin": "De gemeente zei dat de automaat die de parkeerder noemde verder weg stond dan twee andere automaten in de juiste zone.",
+   "bron": [
+    35
+   ],
+   "citaat": "omdat deze automaat verder af was gelegen van de parkeerplek dan parkeerautomaten"
+  },
+  {
+   "zin": "De rechter vond niet aannemelijk dat de app informatie gaf over die automaat, en oordeelde dat de parkeerder zijn onderzoeksplicht niet had gedaan.",
+   "bron": [
+    38
+   ],
+   "citaat": "niet aan de op hem rustende onderzoeksplicht heeft voldaan"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    39
+   ],
+   "citaat": "Het hoger beroep van belanghebbende is ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Rekening achteraf blijft staan; geen kostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening achteraf blijft staan en de parkeerder krijgt geen vergoeding van de kosten.",
+  "bron": [
+   39,
+   41
+  ],
+  "citaat": "Het hoger beroep van belanghebbende is ongegrond"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij had betaald in een andere zone, waar volgens hem hetzelfde tarief van € 4,50 gold.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dat tarief gold in die zone pas later, en de parkeerder betaalde maar € 0,10.",
+    "bron": [
+     38
+    ],
+    "citaat": "is misleidend nu dat tarief pas per1 juni 2022 is gaan gelden"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dit dient voor rekening en risico van belanghebbende te komen",
+    "bron": [
+     38
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerapp gaf informatie over een automaat in de andere zone, en op die informatie mocht hij afgaan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Door de gemotiveerde betwisting van de gemeente vond de rechter dit niet aannemelijk, en het is niet vergelijkbaar met een app die een fout tarief toont.",
+    "bron": [
+     37
+    ],
+    "citaat": "Hier is dan ook geen sprake van een situatie als in Hoge Raad 5 juni 2020"
+   },
+   "bruikbare_zin": {
+    "citaat": "Hier is dan ook geen sprake van een situatie als in Hoge Raad 5 juni 2020, ECLI:NL:HR:2020:1014 (foutieve tariefinformatie in de parkeerapp)",
+    "bron": [
+     37
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder die via de app een verder weggelegen automaat in een zone met een ander tarief kiest, terwijl dichterbij automaten in de juiste zone staan, doet dat voor eigen risico.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Parkeerders die een automaat in een andere tariefzone kiezen terwijl er meerdere automaten bij de parkeerplek staan",
+  "uitzondering": "Anders is het bij foutieve tariefinformatie in de parkeerapp zelf (HR 5 juni 2020).",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   38
+  ],
+  "citaat": "heeft hij via de parkeerapp een verder weggelegen automaat in een zone met destijds een ander parkeerregime gekozen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "print screen van de parkeerapp met de dichtstbijzijnde automaat",
+   "betalingsbewijs met een tarief van € 0,10",
+   "schermafbeelding van de app van de parkeerder"
+  ],
+  "wat_gaf_doorslag": "Er stonden meerdere automaten bij de parkeerplek, en de parkeerder koos een verder weggelegen automaat in een andere zone."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2020:1014"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:75 Awb",
+  "art. 8:108 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg met een print screen van de parkeerapp vast welke automaten het dichtst bij de parkeerplek staan",
+   "raakt": "betaalapp",
+   "bron": [
+    23
+   ],
+   "citaat": "Bij zijn verweerschrift in hoger beroep heeft de heffingsambtenaar een print screen gevoegd van de parkeerapp"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "betaalapp",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Betaalt u via de app voor een andere parkeerzone dan waar u staat, dan kan er toch een rekening achteraf komen. Controleer bij uw parkeerplek op de dichtstbijzijnde automaat of in de app of de zone en het tarief kloppen. Bezwaar heeft weinig kans als u de verkeerde zone koos terwijl er dichterbij automaten in de juiste zone stonden.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

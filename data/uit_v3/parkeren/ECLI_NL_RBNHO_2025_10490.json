@@ -1,0 +1,149 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2025:10490",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een boete voor parkeren op een vergunninghoudersplek zonder vergunning. Hij ging in beroep tegen de officier van justitie; de kantonrechter van de rechtbank Noord-Holland besliste.",
+ "titel": "Boete vernietigd na fout in scanauto-gegevens",
+ "kern": {
+  "zin": "De rechter vernietigde de boete, omdat de officier van justitie zelf vond dat die ten onrechte was opgelegd.",
+  "bron": [
+   22,
+   21
+  ],
+  "citaat": "De kantonrechter volgt de vertegenwoordiger van de officier van justitie"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een boete volgde omdat de auto op een vergunninghoudersplek stond.",
+   "bron": [
+    16
+   ],
+   "citaat": "parkeren op parkeerplaats vergunninghouders (bord E9) zonder vergunning voor dat voertuig"
+  },
+  {
+   "zin": "De parkeerder zei dat hij niet op zo'n plek had gestaan.",
+   "bron": [
+    17
+   ],
+   "citaat": "heeft aangevoerd dat hij niet op een parkeerplaats voor vergunninghouders stond geparkeerd"
+  },
+  {
+   "zin": "De officier van justitie gaf aan dat de pleeglocatie fout stond door een invoerfout van de scanauto.",
+   "bron": [
+    18
+   ],
+   "citaat": "meegedeeld dat de aanduiding van de pleeglocatie onjuist is vanwege een invoerfout van een scanauto"
+  },
+  {
+   "zin": "De officier vond ook dat de parkeerder niet op zo'n plek had gestaan, dus de boete was ten onrechte opgelegd.",
+   "bron": [
+    21
+   ],
+   "citaat": "De boete is dus ten onrechte opgelegd"
+  },
+  {
+   "zin": "De rechter zag dat de plaatsaanduiding fout stond, maar volgde daarna de officier en vernietigde de boete.",
+   "bron": [
+    19,
+    22
+   ],
+   "citaat": "De kantonrechter stelt vast dat de aanduiding van de pleeglocatie in de inleidende beschikking onjuist is"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Beroep gegrond; boete vernietigd, reiskosten van 12,40 euro toegekend.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft de boete niet te betalen, krijgt het bedrag van de zekerheidstelling terug en ook 12,40 euro reiskosten.",
+  "bron": [
+   29,
+   30,
+   27,
+   28
+  ],
+  "citaat": "bepaalt dat de officier van justitie het bedrag dat betrokkene als zekerheidstelling heeft betaald, aan betrokkene terugbetaalt"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Ik stond niet op een plek voor vergunninghouders.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter volgde de officier, die zelf vond dat de boete ten onrechte was opgelegd.",
+    "bron": [
+     22,
+     21
+    ],
+    "citaat": "De kantonrechter volgt de vertegenwoordiger van de officier van justitie"
+   },
+   "bruikbare_zin": {
+    "citaat": "De boete is dus ten onrechte opgelegd",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een fout in de plaatsaanduiding maakt de beschikking niet automatisch ongeldig; de rechter paste die zelf aan.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Een onjuiste pleeglocatie in de beschikking, zonder dat de gedraging zelf onduidelijk is",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19,
+   20
+  ],
+  "citaat": "maar dat dit niet hoeft te leiden tot vernietiging van de beschikking"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "scanauto-gegevens en stukken die de officier van justitie overlegde",
+   "de aanduiding van de pleeglocatie in de inleidende beschikking"
+  ],
+  "wat_gaf_doorslag": "De instemming van de officier van justitie met het standpunt van de parkeerder."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Wahv",
+  "Besluit proceskosten bestuursrecht",
+  "Besluit tarieven in strafzaken"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer de pleeglocatie in de scanauto-gegevens voordat een boete wordt opgelegd.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    18,
+    19
+   ],
+   "citaat": "meegedeeld dat de aanduiding van de pleeglocatie onjuist is vanwege een invoerfout van een scanauto"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "scanauto-handhaving",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Stond u niet op een plek voor vergunninghouders, of klopt de plaats op de boete niet, dan kan de boete alsnog vervallen. In deze zaak was de plek op de boete verkeerd ingevoerd, en daarom werd de boete vernietigd. Heeft u bewijs dat u er niet stond, zoals een foto van de plek, dan kan dat bij bezwaar of beroep helpen; een uitkomst is niet gegarandeerd.",
+ "gemeente": "Hoorn",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

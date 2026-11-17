@@ -1,0 +1,188 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:5319",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "bewoner van Tilburg",
+  "wederpartij": "gemeente Tilburg",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bewoner van Tilburg wilde zijn voornaam, geboortedatum en geboorteplaats in de basisregistratie personen (BRP) laten wijzigen. De gemeente Tilburg weigerde. De bewoner ging in hoger beroep bij de Raad van State.",
+ "titel": "Gemeente mocht geboortegegevens in de BRP laten staan",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente het verzoek mocht afwijzen, omdat uit de stukken niet buiten redelijke twijfel bleek dat de nieuwe gegevens juist zijn.",
+  "bron": [
+   55
+  ],
+  "citaat": "De rechtbank heeft daarom terecht geoordeeld dat het college niet gehouden was om het verzoek om rectificatie toe te wijzen."
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner vroeg de gemeente om zijn voornaam, geboortedatum en geboorteplaats in de BRP te wijzigen.",
+   "bron": [
+    20
+   ],
+   "citaat": "verzocht om op grond van artikel 2.58 van de Wet brp zijn voornaam, geboortedatum en geboorteplaats te wijzigen"
+  },
+  {
+   "zin": "De gemeente weigerde, omdat niet zeker was dat de huidige gegevens onjuist en de nieuwe gegevens juist zijn.",
+   "bron": [
+    35
+   ],
+   "citaat": "niet onomstotelijk vaststaat dat de huidige in de brp geregistreerde persoonsgegevens onjuist zijn"
+  },
+  {
+   "zin": "De bewoner zei dat hij aan de voorwaarden voldeed, omdat hij in de hukou (Chinees bevolkingsregister) van zijn vader staat.",
+   "bron": [
+    42
+   ],
+   "citaat": "Omdat [appellant] in de hukou van zijn vader staat vermeld, is voldaan aan de voorwaarden"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente aan het Chinese paspoort uit 2011 geen gegevens hoefde te ontlenen.",
+   "bron": [
+    47
+   ],
+   "citaat": "Het college heeft zich op het standpunt mogen stellen dat aan het paspoort geen gegevens kunnen worden ontleend"
+  },
+  {
+   "zin": "De twee hukou's spraken elkaar tegen, bijvoorbeeld over de moeder en de broers, en de bewoner gaf daar geen uitleg voor.",
+   "bron": [
+    49
+   ],
+   "citaat": "In de hukou van [appellant] staat zijn moeder niet vermeld"
+  },
+  {
+   "zin": "Uit de stukken bleek dus niet buiten redelijke twijfel dat de gegevens juist zijn, en het hoger beroep was ongegrond.",
+   "bron": [
+    55
+   ],
+   "citaat": "volgt uit de door [appellant] overgelegde stukken niet dat buiten redelijke twijfel is dat de daarin vermelde gegevens juist zijn"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; BRP-gegevens blijven ongewijzigd",
+ "gevolg_betrokkene": {
+  "zin": "De gegevens in de BRP blijven zoals ze waren en de gemeente hoeft geen proceskosten te betalen.",
+  "bron": [
+   57,
+   58
+  ],
+  "citaat": "De uitspraak van de rechtbank moet worden bevestigd, met verbetering van gronden."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Mijn voornaam, geboortedatum en geboorteplaats in de BRP zijn onjuist en moeten worden aangepast.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Uit de overgelegde stukken bleek niet buiten redelijke twijfel dat de nieuwe gegevens juist zijn.",
+    "bron": [
+     55
+    ],
+    "citaat": "volgt uit de door [appellant] overgelegde stukken niet dat buiten redelijke twijfel is dat de daarin vermelde gegevens juist zijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet aannemelijk heeft gemaakt dat het onderzoek voorafgaand aan de afgifte van het paspoort behoorlijk was",
+    "bron": [
+     47
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De hukou's tonen aan dat ik de gestelde moeder als ouder heb en dat de website geen hukou van beide ouders eist.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De hukou's spraken elkaar tegen en de bewoner gaf daarvoor geen verklaring.",
+    "bron": [
+     49
+    ],
+    "citaat": "In de hukou van [appellant] staat zijn moeder niet vermeld"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het Chinese schooldiploma met pasfoto moet worden meegewogen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het diploma telt niet mee, omdat aan het paspoort geen gegevens zijn te ontlenen.",
+    "bron": [
+     51
+    ],
+    "citaat": "moet het Chinese diploma buiten beschouwing worden gelaten"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij Chinese paspoorten van vóór 2012 mag de gemeente er niet van uitgaan dat het onderzoek bij afgifte goed was; de aanvrager moet dat aannemelijk maken.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om de BRP te wijzigen op basis van een Chinees paspoort van vóór 2012",
+  "uitzondering": "Bij andere echt bevonden paspoorten is het uitgangspunt dat het onderzoek goed was; wil de gemeente dat betwisten, dan moet zij het aannemelijk maken",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   46
+  ],
+  "citaat": "voor Chinese paspoorten die zijn afgegeven vóór 2012 niet ook als uitgangspunt geldt dat het aan de afgifte voorafgaande onderzoek behoorlijk is geweest"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "Chinees paspoort uit 2011",
+   "twee hukou's",
+   "twee notariële verklaringen",
+   "Chinees schooldiploma"
+  ],
+  "wat_gaf_doorslag": "Aan geen enkel stuk konden gegevens worden ontleend, dus bleef twijfel bestaan."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2022:1198",
+   "ECLI:NL:RVS:2025:4980",
+   "ECLI:NL:RVS:2022:2462"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2.58 Wet BRP",
+  "art. 2.8 lid 2 Wet BRP",
+  "art. 8:58 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij een Chinees paspoort van vóór 2012 vast waarom onduidelijk is hoe de identiteit bij afgifte is vastgesteld.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    47
+   ],
+   "citaat": "het onduidelijk is hoe de Chinese autoriteiten bij de paspoortaanvraag in 2011 de identiteit van [appellant] hebben vastgesteld"
+  },
+  {
+   "actie": "Leg per stuk vast waarom er geen gegevens aan te ontlenen zijn, zoals verschillen tussen twee hukou's.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    49
+   ],
+   "citaat": "In de hukou van [appellant] staat zijn moeder niet vermeld"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "bezwaar"
+ ],
+ "klantuitleg": "Wilt u uw geboortegegevens in de BRP laten wijzigen, dan moet uit uw papieren buiten redelijke twijfel blijken dat de nieuwe gegevens juist zijn en over u gaan. Een Chinees paspoort van vóór 2012 is daarvoor op zichzelf niet genoeg. Spreken uw papieren elkaar tegen, dan heeft bezwaar weinig kans; vraag de gemeente welke stukken zij nodig heeft.",
+ "gemeente": "Tilburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,177 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2024:3141",
+ "relevant": true,
+ "onderwerp": "schade-aansprakelijkheid",
+ "sub": "immateriele-schade",
+ "kenmerk": null,
+ "zaaktype": "schadevergoeding",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "minister van Financiën",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een man uit Amstelveen stond jarenlang in het fraudesysteem FSV van de Belastingdienst. Hij vroeg schadevergoeding. De minister van Financiën wees dat af en nam zijn bezwaar niet in behandeling, waarna hij in beroep ging bij de rechtbank Amsterdam.",
+ "titel": "Onterecht in fraudesysteem: rechter wijst schadevergoeding af",
+ "kern": {
+  "zin": "De bestuursrechter is bevoegd en het bezwaar was ontvankelijk, maar er is geen schade aangetoond, dus er komt geen schadevergoeding.",
+  "bron": [
+   37
+  ],
+  "citaat": "verweerder met excuses heeft kunnen volstaan en dat er geen reden was voor een schadevergoeding"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger stond vanaf 2010 of 2011 in de Fraude Signalering Voorziening (FSV, een fraudesysteem) en hoorde dat in 2021 van de minister, die excuses aanbood.",
+   "bron": [
+    13
+   ],
+   "citaat": "Eiser stond vanaf 2010 of 2011 geregistreerd in de Fraude Signalering Voorziening (FSV) van verweerder."
+  },
+  {
+   "zin": "Dat de gegevens onrechtmatig in de FSV stonden, is niet in geschil. De burger zegt dat hij schade heeft door aantasting van zijn eer en goede naam.",
+   "bron": [
+    31
+   ],
+   "citaat": "Tussen partijen is niet in geschil dat de plaatsing van gegevens in de FSV onrechtmatig was."
+  },
+  {
+   "zin": "De minister zegt dat alleen de civiele rechter over de schadevergoeding mag beslissen, dus dat de brief geen besluit is.",
+   "bron": [
+    20
+   ],
+   "citaat": "niet de bestuursrechter, maar alleen de civiele rechter bevoegd is om over de schadevergoeding te beslissen"
+  },
+  {
+   "zin": "De rechter oordeelt dat de bestuursrechter wel bevoegd is en dat de brief een afwijzend schadebesluit is.",
+   "bron": [
+    25
+   ],
+   "citaat": "dat de bestuursrechter bevoegd is te oordelen over het verzoek om schadevergoeding van eiser"
+  },
+  {
+   "zin": "De rechter ziet geen gevolgen buiten de registratie zelf en geen aantasting van de goede naam van de burger.",
+   "bron": [
+    36
+   ],
+   "citaat": "kan niet worden gesteld dat sprake is geweest van aantasting van de goede naam"
+  },
+  {
+   "zin": "De rechter vindt dat excuses genoeg waren en wijst het schadeverzoek zelf af.",
+   "bron": [
+    37
+   ],
+   "citaat": "De rechtbank zal het verzoek om schadevergoeding afwijzen."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Bezwaar wel ontvankelijk, maar schadevergoeding afgewezen; kosten wel vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen schadevergoeding. De minister moet wel het griffierecht van € 50 en € 1.750 aan proceskosten vergoeden.",
+  "bron": [
+   40,
+   37,
+   47
+  ],
+  "citaat": "krijgt eiser ook een vergoeding van zijn proceskosten in beroep"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het bezwaar was ontvankelijk, want de brief wees zijn verzoek om schadevergoeding af.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De brief is een afwijzing van de aanvraag en dus een schadebesluit waartegen bezwaar en beroep openstonden.",
+    "bron": [
+     27
+    ],
+    "citaat": "Dit besluit is daarmee een afwijzing van de aanvraag van eiser en een schadebesluit"
+   },
+   "bruikbare_zin": {
+    "citaat": "Daartegen stond bestuursrechtelijk bezwaar en beroep open.",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Hij heeft elf jaar als fraudeur geregistreerd gestaan en daardoor immateriële schade (aantasting van eer en goede naam).",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De registratie bleef beperkt tot de plaatsing zelf en had geen verdere gevolgen voor hem.",
+    "bron": [
+     36
+    ],
+    "citaat": "kan niet worden gesteld dat sprake is geweest van aantasting van de goede naam"
+   },
+   "bruikbare_zin": {
+    "citaat": "Ook is niet gesteld of gebleken dat er een zodanige mate van spanning en frustratie ten gevolge van zijn registratie in de FSV was",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "delen-met-derden",
+   "burger_zegt": "Na elf jaar moeten zijn gegevens wel met anderen gedeeld zijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gegevens waren summier, dus de rechter neemt niet aan dat ze zijn gedeeld.",
+    "bron": [
+     35
+    ],
+    "citaat": "dat de gegevens op zichzelf niet leiden tot de veronderstelling dat ze zijn gedeeld"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie schadevergoeding vraagt voor onrechtmatige verwerking door een bestuursorgaan mag kiezen tussen de bestuursrechter en de civiele rechter.",
+  "type": "regel",
+  "reikwijdte": "Schadeverzoek dat samenhangt met een besluit op een AVG-verzoek (art. 34 Uitvoeringswet AVG).",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   23
+  ],
+  "citaat": "overeenkomstig artikel 8:88 van de Awb keuzevrijheid heeft om zijn verzoek"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "brief van 31 maart 2022 met de FSV-gegevens",
+   "schadebesluit van 29 juli 2023",
+   "toelichting van de minister op de zitting"
+  ],
+  "wat_gaf_doorslag": "De gegevens waren summier, er waren geen aanwijzingen dat ze zijn gedeeld en de registratie had geen verdere gevolgen."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 82 AVG",
+  "art. 15 AVG",
+  "art. 16 AVG",
+  "art. 34 Uitvoeringswet AVG",
+  "art. 8:88 Awb",
+  "art. 1:3 Awb",
+  "art. 8:72 lid 3 onder b Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; uitspraak steunt op procesrecht van voor 1 juli 2013",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "fraude-handhaving"
+ ],
+ "klantuitleg": "Staan uw gegevens onterecht in een fraudesysteem, dan kunt u om schadevergoeding vragen bij het overheidsorgaan en dat ook aan de bestuursrechter voorleggen. In dit geval kreeg de man geen geld, omdat de registratie geen gevolgen voor hem had. Vraagt u schadevergoeding, leg dan uit welke gevolgen de registratie voor u had.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente partij (minister van Financiën)",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

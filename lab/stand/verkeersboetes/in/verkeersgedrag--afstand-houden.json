@@ -1,0 +1,49 @@
+{
+ "slug": "verkeersboetes",
+ "onderwerp": "verkeersgedrag",
+ "sub": "afstand-houden",
+ "label": "Te weinig afstand houden",
+ "onderwerp_label": "Verkeersregels op de weg",
+ "modus": "labels",
+ "n_uitspraken": 4,
+ "n_laag2": 2,
+ "uitkomsten": {
+  "alleen procedure": 1,
+  "wederpartij wint": 2,
+  "deels": 1
+ },
+ "kaarten": [
+  {
+   "ecli": "ECLI:NL:RBNHO:2023:12130",
+   "instantie": "Rechtbank Noord-Holland",
+   "niveau": "Rechtbank",
+   "datum": "2023-10-06",
+   "uitkomst": "deels",
+   "uitkomst_citaat": "verklaart het beroep tegen de beschikking waarbij de boete is opgelegd gedeeltelijk gegrond"
+  },
+  {
+   "ecli": "ECLI:NL:RBNHO:2023:6854",
+   "instantie": "Rechtbank Noord-Holland",
+   "niveau": "Rechtbank",
+   "datum": "2023-04-04",
+   "uitkomst": "wederpartij wint",
+   "uitkomst_citaat": "verklaart het beroep ongegrond"
+  },
+  {
+   "ecli": "ECLI:NL:GHARL:2022:7777",
+   "instantie": "Gerechtshof Arnhem-Leeuwarden",
+   "niveau": "Hof",
+   "datum": "2022-09-09",
+   "uitkomst": "wederpartij wint",
+   "uitkomst_citaat": "bevestigt de beslissing van de kantonrechter"
+  },
+  {
+   "ecli": "ECLI:NL:GHARL:2016:10528",
+   "instantie": "Gerechtshof Arnhem-Leeuwarden",
+   "niveau": "Hof",
+   "datum": "2016-12-28",
+   "uitkomst": "alleen procedure",
+   "uitkomst_citaat": "verklaart het beroep tegen de beslissing van de officier van justitie gegrond"
+  }
+ ]
+}

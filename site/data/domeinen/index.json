@@ -1,0 +1,97 @@
+[
+ {
+  "slug": "parkeren",
+  "label": "Parkeren",
+  "pad": "data/",
+  "status": "live",
+  "n": 3725,
+  "kleur": "#00811F"
+ },
+ {
+  "slug": "sociaal",
+  "label": "Sociaal domein (bijstand, Wmo, Jeugdwet)",
+  "pad": "data/domeinen/sociaal/",
+  "status": "binnenkort",
+  "n": 12792,
+  "kleur": "#B03A2E",
+  "uitleg": "Ongeveer 12792 uitspraken 2016-2026 (telling op inhoudsindicatie). Nog niet ingelezen."
+ },
+ {
+  "slug": "woo",
+  "label": "Woo / Wob (openbaarheid)",
+  "pad": "data/domeinen/woo/",
+  "status": "binnenkort",
+  "n": 2812,
+  "kleur": "#1F618D",
+  "uitleg": "Ongeveer 2812 uitspraken 2016-2026 (telling op inhoudsindicatie). Nog niet ingelezen."
+ },
+ {
+  "slug": "grond",
+  "label": "Grond: gronduitgifte (Didam) en erfpacht",
+  "pad": "data/domeinen/grond/",
+  "status": "binnenkort",
+  "n": 981,
+  "kleur": "#7D6608",
+  "uitleg": "Ongeveer 981 uitspraken 2016-2026 (telling op inhoudsindicatie). Nog niet ingelezen."
+ },
+ {
+  "slug": "openbare-orde",
+  "label": "Openbare orde, drugspanden en Bibob",
+  "pad": "data/domeinen/openbare-orde/",
+  "status": "live",
+  "n": 2007,
+  "kleur": "#8E44AD",
+  "laag1": 2005,
+  "laag2": 410,
+  "concept_taxonomie": true,
+  "uitleg": "2007 uitspraken 2016-2026. Indeling (laag 1) voor 2005, volledige samenvatting (laag 2) voor 410: hoogste rechters, hoven en Rotterdam als partij. Onderwerpenindeling is een concept.",
+  "bestanden": [
+   "stand.json"
+  ]
+ },
+ {
+  "slug": "bpm",
+  "label": "BPM (autobelasting)",
+  "pad": "data/domeinen/bpm/",
+  "status": "live",
+  "n": 2537,
+  "kleur": "#7F8C8D",
+  "laag1": 2537,
+  "laag2": 0,
+  "concept_taxonomie": true,
+  "uitleg": "2537 uitspraken 2016-2026. Indeling (laag 1) voor 2537, volledige samenvatting (laag 2) voor 0: hoogste rechters, hoven en Rotterdam als partij. Onderwerpenindeling is een concept.",
+  "bestanden": [
+   "stand.json"
+  ]
+ },
+ {
+  "slug": "verkeersboetes",
+  "label": "Verkeersboetes (Wahv, zonder parkeren)",
+  "pad": "data/domeinen/verkeersboetes/",
+  "status": "live",
+  "n": 3969,
+  "kleur": "#D35400",
+  "laag1": 3969,
+  "laag2": 150,
+  "concept_taxonomie": true,
+  "uitleg": "3969 uitspraken 2016-2026. Indeling (laag 1) voor 3969, volledige samenvatting (laag 2) voor 150: hoogste rechters, hoven en Rotterdam als partij. Onderwerpenindeling is een concept.",
+  "bestanden": [
+   "stand.json"
+  ]
+ },
+ {
+  "slug": "avg-privacy",
+  "label": "AVG, privacy en algoritmes",
+  "pad": "data/domeinen/avg-privacy/",
+  "status": "live",
+  "n": 1174,
+  "kleur": "#2C7FB8",
+  "laag1": 1174,
+  "laag2": 704,
+  "concept_taxonomie": true,
+  "uitleg": "1174 uitspraken 2016-2026. Indeling (laag 1) voor 1174, volledige samenvatting (laag 2) voor 704: hoogste rechters, hoven en Rotterdam als partij. Onderwerpenindeling is een concept.",
+  "bestanden": [
+   "stand.json"
+  ]
+ }
+]

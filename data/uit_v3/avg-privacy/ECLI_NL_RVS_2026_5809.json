@@ -1,0 +1,214 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "steunt": null,
+ "dubbel_van": null,
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij",
+ "actie_gemeente": [
+  {
+   "actie": "Vergelijk bij een inzageverzoek wat u laat zien met overzichten van andere instanties voordat u zegt dat gegevens ontbreken.",
+   "raakt": "privacy-fg",
+   "bron": [
+    42
+   ],
+   "citaat": "Wat door de korpschef ter inzage is aangeboden komt dus niet overeen met het overzicht van de Rijksdienst voor Identiteitsgegevens"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "ecli": "ECLI:NL:RVS:2026:5809",
+ "onderwerp": "politie-justitie",
+ "sub": "wpg-inzage",
+ "zaaktype": "politiegegevens",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "korpschef van politie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger vroeg de politie om inzage in alle gegevens die de politie van hem heeft. Hij ging in hoger beroep tegen de korpschef van politie bij de Raad van State.",
+ "titel": "Politie moet opnieuw beslissen over inzage in gegevens van burger",
+ "kern": {
+  "zin": "De uitleg van de korpschef over het opvragen van BRP-gegevens was niet zonder meer geloofwaardig, dus moet hij opnieuw beslissen.",
+  "bron": [
+   71
+  ],
+  "citaat": "acht de Afdeling de toelichting van de korpschef over de verwerking van de brp-gegevens van [appellant] niet zonder meer geloofwaardig"
+ },
+ "samenvatting": [
+  {
+   "zin": "De korpschef (de leiding van de politie) zei dat er zes registraties zijn, maar weigerde de inhoud van één daarvan.",
+   "bron": [
+    22
+   ],
+   "citaat": "dat er zes registraties zijn opgenomen, maar dat hij geen recht heeft op de inhoud van één van die registraties"
+  },
+  {
+   "zin": "De rechtbank vernietigde dat besluit en droeg de korpschef op opnieuw te beslissen.",
+   "bron": [
+    25
+   ],
+   "citaat": "het besluit van 15 juni 2023 vernietigd en de korpschef opgedragen om een nieuw besluit te nemen"
+  },
+  {
+   "zin": "De Afdeling zei dat bij de inzage alleen de burger zelf, zijn wettelijk vertegenwoordiger of zijn advocaat met een bijzondere machtiging mag meekijken.",
+   "bron": [
+    31
+   ],
+   "citaat": "Het zou tegen de bescherming van de privacy van de betrokkene indruisen als anderen de verwerkte gegevens zouden mogen inzien"
+  },
+  {
+   "zin": "Voor demonstraties en klachten maakte de burger niet aannemelijk dat de politie meer gegevens heeft dan zij vond.",
+   "bron": [
+    41
+   ],
+   "citaat": "toch aanmeldingen van demonstraties of klachten onder de korpschef berusten"
+  },
+  {
+   "zin": "Over de BRP-gegevens klopte wat de politie aanbood niet met het overzicht van de Rijksdienst voor Identiteitsgegevens.",
+   "bron": [
+    42
+   ],
+   "citaat": "Wat door de korpschef ter inzage is aangeboden komt dus niet overeen met het overzicht van de Rijksdienst voor Identiteitsgegevens"
+  },
+  {
+   "zin": "De Afdeling droeg de korpschef op binnen acht weken opnieuw te beslissen.",
+   "bron": [
+    76
+   ],
+   "citaat": "opdragen om binnen acht weken na de dag van verzending van deze uitspraak een nieuw besluit te nemen"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Burger wint op de BRP-gegevens; verliest op advocaat, andere zoekslagen en bewaartermijnen.",
+ "gevolg_betrokkene": {
+  "zin": "De korpschef moet opnieuw beslissen en de burger 2.802 euro proceskosten en 279 euro griffierecht vergoeden.",
+  "bron": [
+   83,
+   85,
+   86
+  ],
+  "citaat": "draagt de korpschef van politie op om binnen acht weken na verzending van deze uitspraak"
+ },
+ "bezwaargronden": [
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "Er moeten meer registraties zijn: de politie raadpleegde zijn BRP-gegevens ook op verzoek.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De uitleg van de korpschef klopte niet met het overzicht van de Rijksdienst voor Identiteitsgegevens.",
+    "bron": [
+     71
+    ],
+    "citaat": "acht de Afdeling de toelichting van de korpschef over de verwerking van de brp-gegevens van [appellant] niet zonder meer geloofwaardig"
+   },
+   "bruikbare_zin": {
+    "citaat": "Wat door de korpschef ter inzage is aangeboden komt dus niet overeen met het overzicht van de Rijksdienst voor Identiteitsgegevens",
+    "bron": [
+     42
+    ]
+   }
+  },
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "De zoekslag in de dossiers Bamboe en RL 8017 en naar klachten was onvolledig.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het digitale dossier is volledig doorzocht en het papieren dossier door een specialist met een vaste methode.",
+    "bron": [
+     67
+    ],
+    "citaat": "Het digitale dossier van Bamboe is onderworpen aan een complete doorzoeking"
+   },
+   "bruikbare_zin": {
+    "citaat": "De korpschef kan geen inzage geven in de verwerking van persoonsgegevens die hij niet heeft",
+    "bron": [
+     41
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij wil zich bij de inzage laten bijstaan door een gemachtigde die geen advocaat is.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het recht op inzage is voorbehouden aan de burger zelf, zijn wettelijk vertegenwoordiger of zijn gemachtigde advocaat.",
+    "bron": [
+     31
+    ],
+    "citaat": "is het recht op kennisneming voorbehouden aan de betrokkene zelf, diens wettelijk vertegenwoordiger of diens bijzonder gemachtigde advocaat"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het is ongeloofwaardig dat de politie registraties heeft vernietigd vanwege bewaartermijnen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Afdeling vond geloofwaardig dat gegevens zijn vernietigd vanwege de bewaartermijnen.",
+    "bron": [
+     61
+    ],
+    "citaat": "acht de Afdeling geloofwaardig dat de korpschef gegevens heeft vernietigd vanwege de bewaartermijnen"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het nieuwe besluit is ten onrechte naar hem gestuurd en niet naar zijn gemachtigde.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger is hierdoor niet in zijn belangen geschaad.",
+    "bron": [
+     53
+    ],
+    "citaat": "Gesteld noch gebleken is dat [appellant] hierdoor in zijn belangen is geschaad"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een organisatie die zegt dat gegevens er niet (meer) zijn, wordt alleen geloofd als dat niet ongeloofwaardig is; daarbij telt hoe er is gezocht.",
+  "type": "regel",
+  "reikwijdte": "Inzageverzoeken (ook onder de Wet politiegegevens) waarbij de organisatie zegt dat gegevens niet bij haar berusten",
+  "uitzondering": "Is de uitleg van de organisatie niet geloofwaardig, zoals hier bij de BRP-gegevens, dan moet zij opnieuw beslissen.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   65
+  ],
+  "citaat": "zal worden betrokken op welke wijze het onderzoek is verricht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "overzicht van de Rijksdienst voor Identiteitsgegevens over inzagen in BRP-gegevens",
+   "toelichting van de korpschef op de zitting"
+  ],
+  "wat_gaf_doorslag": "De uitleg van de korpschef over de BRP-gegevens kwam niet overeen met het overzicht van de Rijksdienst."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2024:232",
+   "ECLI:NL:RVS:2019:801",
+   "ECLI:NL:RVS:2024:220"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 25 Wpg",
+  "art. 26 lid 3 Wpg",
+  "art. 27 lid 1 onder d Wpg",
+  "art. 6:22 Awb",
+  "art. 6:17 Awb",
+  "art. 8:113 lid 2 Awb"
+ ],
+ "raakt": [
+  "privacy-fg",
+  "burgerzaken-brp",
+  "bezwaar"
+ ],
+ "klantuitleg": "Bij de politie mag alleen u zelf of uw advocaat met een bijzondere machtiging uw gegevens inzien. Zegt de politie dat gegevens er niet (meer) zijn, dan moet die uitleg geloofwaardig zijn en moet u zelf concreet laten zien dat ze er toch zijn. Heeft u een aanknopingspunt, zoals een overzicht van een andere instantie, gebruik dat dan in uw bezwaar.",
+ "zekerheid": "middel"
+}

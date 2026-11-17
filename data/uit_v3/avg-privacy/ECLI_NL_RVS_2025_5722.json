@@ -1,0 +1,145 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:5722",
+ "relevant": true,
+ "onderwerp": "toezicht-handhaving",
+ "sub": "handhavingsverzoek",
+ "kenmerk": null,
+ "zaaktype": "klacht-handhaving-ap",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "Autoriteit Persoonsgegevens",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger wilde dat de Autoriteit Persoonsgegevens (AP) optrad tegen een tuchtcollege, omdat zijn medische gegevens onjuist zouden zijn. De burger ging in hoger beroep bij de Raad van State tegen de AP.",
+ "titel": "AP hoeft niet op te treden: onjuiste medische gegevens niet aannemelijk",
+ "kern": {
+  "zin": "De Raad van State vindt dat de AP de klacht terecht afwees, omdat niet eenvoudig en objectief vast te stellen is dat de gegevens onjuist zijn.",
+  "bron": [
+   25
+  ],
+  "citaat": "niet eenvoudig en objectief is vast te stellen dat de uitspraak van het Tuchtcollege op onjuiste persoonsgegevens is gebaseerd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vindt dat zijn medisch dossier onjuistheden bevat en wil dat die worden gecorrigeerd.",
+   "bron": [
+    23
+   ],
+   "citaat": "Volgens [appellant] bevat zijn medisch dossier onjuistheden en hij wil dat deze worden gecorrigeerd"
+  },
+  {
+   "zin": "Het tuchtcollege wees zijn klacht af; de burger vindt dat die uitspraak op onjuiste persoonsgegevens is gebaseerd.",
+   "bron": [
+    23
+   ],
+   "citaat": "[appellant] vindt dat deze uitspraak op onjuiste persoonsgegevens is gebaseerd"
+  },
+  {
+   "zin": "De AP weigerde in te grijpen en de rechtbank vond dat de AP daar goede gronden voor had.",
+   "bron": [
+    24
+   ],
+   "citaat": "de AP op goede gronden geen aanleiding heeft gezien om handhavend op te treden"
+  },
+  {
+   "zin": "De Raad van State zegt dat een medische analyse zelf geen persoonsgegeven is, maar wel persoonsgegevens kan bevatten die gecorrigeerd kunnen worden.",
+   "bron": [
+    25
+   ],
+   "citaat": "een medische analyse geen persoonsgegeven is, maar wel persoonsgegevens kan bevatten die voor correctie in aanmerking komen"
+  },
+  {
+   "zin": "De burger maakte niet aannemelijk dat de gegevens onjuist zijn, dus de AP wees de klacht terecht af.",
+   "bron": [
+    25
+   ],
+   "citaat": "Hij is hier niet in geslaagd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "AP hoefde niet te handhaven; onjuistheid niet aannemelijk gemaakt.",
+ "gevolg_betrokkene": {
+  "zin": "De klacht van de burger blijft afgewezen en de AP hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   27
+  ],
+  "citaat": "Het hoger beroep is ongegrond"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "De burger zegt dat zijn medisch dossier onjuiste gegevens bevat die gecorrigeerd moeten worden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het is aan de burger om aannemelijk te maken dat de gegevens onjuist zijn en dat lukte hem niet.",
+    "bron": [
+     25
+    ],
+    "citaat": "Het is aan [appellant] om aannemelijk te maken dat de persoonsgegevens onjuist zijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet eenvoudig en objectief is vast te stellen dat de uitspraak van het Tuchtcollege op onjuiste persoonsgegevens is gebaseerd",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De burger vindt dat een medische analyse een persoonsgegeven is dat de AP moet beschermen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een medische analyse is zelf geen persoonsgegeven, al kan ze wel persoonsgegevens bevatten.",
+    "bron": [
+     25
+    ],
+    "citaat": "een medische analyse geen persoonsgegeven is, maar wel persoonsgegevens kan bevatten die voor correctie in aanmerking komen"
+   },
+   "bruikbare_zin": {
+    "citaat": "een medische analyse geen persoonsgegeven is, maar wel persoonsgegevens kan bevatten",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een medische analyse is geen persoonsgegeven, maar kan persoonsgegevens bevatten; die worden alleen gecorrigeerd als de onjuistheid eenvoudig en objectief vast te stellen is.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om medische analyses of beoordelingen te corrigeren op grond van de AVG",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "een medische analyse geen persoonsgegeven is, maar wel persoonsgegevens kan bevatten die voor correctie in aanmerking komen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De burger onderbouwde niet dat de gegevens onjuist zijn."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 5 lid 2 AVG"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Wilt u dat uw gegevens worden gecorrigeerd, dan moet u kunnen aantonen dat ze onjuist zijn. Een oordeel of analyse van een arts of deskundige is zelf geen persoonsgegeven, maar de feiten daarin kunnen wel worden gecorrigeerd. Verzamel bewijs dat de fout duidelijk laat zien voordat u een verzoek of klacht indient.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij (Autoriteit Persoonsgegevens)",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

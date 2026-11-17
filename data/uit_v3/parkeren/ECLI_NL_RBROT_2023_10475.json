@@ -1,0 +1,192 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:10475",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "parkeerplaats-huur-vve",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "kort geding",
+ "intro": "Een vastgoedbedrijf wil dat de gemeente Rotterdam 110 parkeerplekken regelt bij het gebouw Las Palmas, op basis van een oude garantie in een koopcontract. Het gaat om een kort geding, een snelle procedure bij de voorzieningenrechter van de Rechtbank Rotterdam.",
+ "titel": "Vastgoedbedrijf krijgt voorlopig geen extra parkeerplekken",
+ "kern": {
+  "zin": "De voorzieningenrechter wees de eis af, omdat het bedrijf niet liet zien dat het de 24-uurs plekken nu echt nodig had.",
+  "bron": [
+   65,
+   73
+  ],
+  "citaat": "niet, of althans onvoldoende, heeft onderbouwd dat zij op dit moment"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente beloofde bij een eerdere verkoop minstens 110 aangewezen parkeerplaatsen voor het gebouw.",
+   "bron": [
+    33
+   ],
+   "citaat": "tenminste 110 aangewezen parkeerplaatsen beschikbaar zijn"
+  },
+  {
+   "zin": "Het bedrijf vroeg om 38 parkeerplekken, 24 uur per dag beschikbaar, en daarna steeds meer.",
+   "bron": [
+    49,
+    50
+   ],
+   "citaat": "38 parkeerplaatsen in de nabije omgeving van Las Palmas aan te wijzen"
+  },
+  {
+   "zin": "De gemeente zei dat zij nu niet meer kan bieden dan zakelijke abonnementen, omdat 24-uursabonnementen er niet zijn.",
+   "bron": [
+    63
+   ],
+   "citaat": "omdat 24-uurs abonnementen niet beschikbaar zijn"
+  },
+  {
+   "zin": "Voorlopig oordeelde de rechter dat de gemeente in beginsel 110 plekken moet aanbieden.",
+   "bron": [
+    60
+   ],
+   "citaat": "in beginsel verplicht is om op verzoek van Immo 110 parkeerplekken"
+  },
+  {
+   "zin": "Toch wees de rechter de eis af, omdat het bedrijf niet aantoonde dat het nu 24-uurs plekken echt nodig had.",
+   "bron": [
+    65
+   ],
+   "citaat": "niet, of althans onvoldoende, heeft onderbouwd dat zij op dit moment"
+  },
+  {
+   "zin": "Het bedrijf krijgt nu geen plekken en moet de proceskosten van de gemeente betalen, begroot op € 1.755.",
+   "bron": [
+    74,
+    73
+   ],
+   "citaat": "tot op heden aan de zijde van de Gemeente begroot op € 1.755"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Bedrijf verliest kort geding; geen plekken nu, bodemzaak nog open.",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrijf krijgt nu geen parkeerplekken en moet de proceskosten van de gemeente betalen, begroot op € 1.755.",
+  "bron": [
+   74,
+   73
+  ],
+  "citaat": "tot op heden aan de zijde van de Gemeente begroot op € 1.755"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente moet de oude garantie nakomen en 110 plekken geven.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Voorlopig vond de rechter dat de garantie nog geldt en dat de gemeente in beginsel moet leveren.",
+    "bron": [
+     60
+    ],
+    "citaat": "in beginsel verplicht is om op verzoek van Immo 110 parkeerplekken"
+   },
+   "bruikbare_zin": {
+    "citaat": "Vooralsnog moet op grond van het voorgaande worden aangenomen",
+    "bron": [
+     60
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De plekken moeten 24 uur per dag beschikbaar zijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De tekst van de garantie geeft voor 24 uur per dag voorlopig te weinig houvast.",
+    "bron": [
+     61
+    ],
+    "citaat": "De tekst van de Garantiebepaling geeft voor deze uitleg"
+   },
+   "bruikbare_zin": {
+    "citaat": "naar het voorlopig oordeel van de voorzieningenrechter onvoldoende houvast",
+    "bron": [
+     61
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De plekken zijn nu nodig voor de verhuur van het gebouw.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het bedrijf toonde niet aan dat die plekken nu echt nodig waren voor de verhuur.",
+    "bron": [
+     65
+    ],
+    "citaat": "niet, of althans onvoldoende, heeft onderbouwd dat zij op dit moment"
+   },
+   "bruikbare_zin": {
+    "citaat": "Inmiddels is gebleken dat Immo 641 m2 van de beschikbare ruimte heeft weten te verhuren",
+    "bron": [
+     68
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het bedrijf kon niet uitleggen waarom het voor de verhuur 24-uurs plekken nodig had.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "alleen voor dit gebouw en deze verhuur, niet als algemene regel",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   68
+  ],
+  "citaat": "Ondanks meerdere vragen van de voorzieningenrechter daarover ter zitting"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring van een makelaardij",
+   "e-mails van omliggende parkeergarages",
+   "e-mail van een groep makelaars"
+  ],
+  "wat_gaf_doorslag": "Het bedrijf had 641 m2 al verhuurd zonder de 24-uurs plekken en toonde de noodzaak niet aan."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij oude garanties over parkeerplaatsen vast hoe lang ze lopen en aan welke voorwaarden ze gebonden zijn.",
+   "raakt": "verordening-beleid",
+   "bron": [
+    59
+   ],
+   "citaat": "wordt vooral gekeken naar de tekst van de Garantiebepaling"
+  },
+  {
+   "actie": "Zorg dat brieven over parkeerafspraken passen bij het juridisch standpunt van de gemeente.",
+   "raakt": "communicatie",
+   "bron": [
+    58
+   ],
+   "citaat": "Het standpunt van de Gemeente wordt bovendien ondergraven door haar eigen correspondentie uit 2019"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "verordening-beleid",
+  "communicatie"
+ ],
+ "klantuitleg": "Dit gaat over een afspraak uit een koopcontract over parkeerplekken, niet over een naheffing. De uitspraak zegt daarom niets over wanneer een naheffing terecht is. Heeft u zo'n afspraak zelf, dan kan een jurist de tekst van het contract laten nakijken.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

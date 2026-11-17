@@ -1,0 +1,168 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2020:2251",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (eigenaar van de auto)",
+  "wederpartij": "gemeente Weesp (via de heffingsambtenaar)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging in beroep tegen een naheffing (de rekening achteraf) van de gemeente Weesp. De rechtbank Midden-Nederland, zittingsplaats Utrecht, vond het beroep op tijd ingediend, maar het bleef ongegrond.",
+ "titel": "Laden en lossen, in- en uitstappen: hier toch parkeerbelasting",
+ "kern": {
+  "zin": "De rechter vond dat het laden en het naar binnen gaan niet direct waren, dus de parkeerbelasting bleef verschuldigd.",
+  "bron": [
+   21
+  ],
+  "citaat": "was in ieder geval op het moment van opleggen van de naheffingsaanslag geen sprake van"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 14 januari 2019 stond de auto in een betaalde zone, en er was niet betaald.",
+   "bron": [
+    18
+   ],
+   "citaat": "Partijen zijn het erover eens dat er geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder kreeg daarvoor een naheffing van 1,20 euro, plus 62,70 euro boetekosten.",
+   "bron": [
+    18
+   ],
+   "citaat": "Het bedrag bestaat uit € 1,20 naheffing parkeerbelasting en € 62,70 boetekosten naheffing"
+  },
+  {
+   "zin": "De parkeerder zei dat hij bezig was met laden en lossen, daarom was er geen parkeerbelasting verschuldigd.",
+   "bron": [
+    21
+   ],
+   "citaat": "Eiser stelt dat hij geen parkeerbelasting was verschuldigd, omdat hij bezig was met laden en lossen"
+  },
+  {
+   "zin": "De rechter legt uit dat alleen direct laden of lossen niet als parkeren telt, en dat was hier niet het geval.",
+   "bron": [
+    21
+   ],
+   "citaat": "valt niet de tijd die nodig is en gebruikt wordt voor het onmiddellijk laden of lossen"
+  },
+  {
+   "zin": "Naar binnen gaan met de kleinzoon hoort volgens de rechter niet bij direct in- en uitstappen.",
+   "bron": [
+    22
+   ],
+   "citaat": "Op het moment dat de naheffingsaanslag werd opgelegd en eiser met zijn kleinzoon mee naar binnen was gegaan"
+  },
+  {
+   "zin": "Het beroep is ongegrond, dus de naheffing blijft staan en er komt geen proceskostenvergoeding.",
+   "bron": [
+    23
+   ],
+   "citaat": "Het beroep is ongegrond. Voor een proceskostenveroordeling is geen aanleiding"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep wel ontvankelijk, maar ongegrond; naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder blijft de naheffing van 1,20 euro en 62,70 euro boetekosten verschuldigd.",
+  "bron": [
+   18,
+   23
+  ],
+  "citaat": "Het bedrag bestaat uit € 1,20 naheffing parkeerbelasting en € 62,70 boetekosten naheffing"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Hij was bezig met laden en lossen en zijn kleinzoon moest instappen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de gang van zaken niet als direct laden en lossen telt.",
+    "bron": [
+     21
+    ],
+    "citaat": "kan de door eiser geschetste gang van zaken echter niet als onmiddellijk laden en lossen worden aangemerkt"
+   },
+   "bruikbare_zin": {
+    "citaat": "Volgens vaste rechtspraak moet iemand zelf aannemelijk maken dat hij bezig was met laden of lossen",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hem is geen redelijke tijd gegund om de parkeerbelasting te voldoen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de tijd om te betalen alleen telt als de handelingen meteen na het parkeren beginnen.",
+    "bron": [
+     23
+    ],
+    "citaat": "Die uitvoeringshandelingen moeten wel onverwijld nadat de auto is geparkeerd worden gestart en voortgezet"
+   },
+   "bruikbare_zin": {
+    "citaat": "Die uitvoeringshandelingen moeten wel onverwijld nadat de auto is geparkeerd worden gestart en voortgezet",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Laden of lossen valt niet onder parkeren als het direct en bij voortduring gebeurt.",
+  "type": "regel",
+  "reikwijdte": "laden of lossen en in- en uitstappen bij betaald parkeren",
+  "uitzondering": "laden of lossen dat niet direct of niet bij voortduring gebeurt",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   21
+  ],
+  "citaat": "valt niet de tijd die nodig is en gebruikt wordt voor het onmiddellijk laden of lossen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "getuigenverklaringen van de vrouw en de partner van de zoon"
+  ],
+  "wat_gaf_doorslag": "De getuigenverklaringen veranderden niets, want de gang van zaken telde niet als direct laden."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2014:445"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 Gemeentewet",
+  "art. 6:7 Awb",
+  "art. 6:10 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg de verzending van elk besluit op bezwaar vast, bijvoorbeeld met een postregistratie of aangetekende post.",
+   "raakt": "bezwaar",
+   "bron": [
+    20
+   ],
+   "citaat": "De verzending heeft niet plaatsgevonden per aangetekende post, er is geen sprake van een postregistratie"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "klantcontact"
+ ],
+ "klantuitleg": "Laden of lossen telt niet als parkeren als het direct en bij voortduring gebeurt; blijft u langer staan of gaat u eerst naar binnen, dan is de rekening terecht. Een verhaal alleen is vaak niet genoeg. Bewijs van wat er echt gebeurde helpt meer.",
+ "gemeente": "Weesp",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

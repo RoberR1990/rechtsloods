@@ -1,0 +1,203 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2023:8561",
+ "relevant": true,
+ "onderwerp": "parkeernormen",
+ "sub": "parkeernorm-toets",
+ "kenmerk": null,
+ "zaaktype": "omgevingsrecht",
+ "partijen": {
+  "burger": "bedrijf (aanvrager van de vergunning)",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bedrijf wilde een winkel verbouwen tot zes studio's en kreeg daarvoor een omgevingsvergunning. Het bedrijf procedeerde bij de rechtbank Den Haag tegen het college van Den Haag, dat die vergunning na bezwaar alsnog weigerde.",
+ "titel": "Vergunning voor studio's blijft geweigerd; bedrijf krijgt kosten terug",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerplaatsen niet goed bereikbaar zijn, dus het college mocht de vergunning weigeren.",
+  "bron": [
+   47,
+   48
+  ],
+  "citaat": "omdat niet vrij in en uit de garage gereden kan worden"
+ },
+ "samenvatting": [
+  {
+   "zin": "Eerst kreeg het bedrijf een vergunning, maar na bezwaar weigerde het college die alsnog.",
+   "bron": [
+    12,
+    13
+   ],
+   "citaat": "heeft het college de aangevraagde omgevingsvergunning verleend"
+  },
+  {
+   "zin": "Het bedrijf zei dat de drie gehuurde parkeerplaatsen wel goed bereikbaar zijn.",
+   "bron": [
+    43
+   ],
+   "citaat": "dat het college er ten onrechte vanuit gegaan is dat de drie door eiseres gehuurde parkeerplaatsen"
+  },
+  {
+   "zin": "Het college zei via zijn inspecteur dat er in de garage drie of vier auto's naast elkaar staan, dus ze hinderen elkaar.",
+   "bron": [
+    46
+   ],
+   "citaat": "Ook kunnen er drie tot vier auto’s geparkeerd worden op een rij"
+  },
+  {
+   "zin": "De rechter vond dat de garage niet goed genoeg bereikbaar is voor deze plekken.",
+   "bron": [
+    47,
+    48
+   ],
+   "citaat": "omdat niet vrij in en uit de garage gereden kan worden"
+  },
+  {
+   "zin": "Een van de buurtstichtingen kreeg volgens de rechter geen recht om mee te praten, dus zij mocht niet meedoen.",
+   "bron": [
+    37,
+    38
+   ],
+   "citaat": "geen sprake is van een rechtstreeks bij het bouwplan betrokken algemeen belang"
+  },
+  {
+   "zin": "Het bedrijf krijgt 360 euro griffierecht en 1.674 euro proceskosten terug van de gemeente.",
+   "bron": [
+    53,
+    55,
+    62
+   ],
+   "citaat": "laat de rechtbank de rechtsgevolgen van het bestreden besluit voor het overige in stand"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Weigering blijft; bedrijf krijgt alleen griffierecht en proceskosten terug.",
+ "gevolg_betrokkene": {
+  "zin": "De vergunning voor de zes studio's blijft geweigerd, maar het bedrijf krijgt griffierecht en proceskosten terug.",
+  "bron": [
+   53,
+   55,
+   62
+  ],
+  "citaat": "laat de rechtbank de rechtsgevolgen van het bestreden besluit voor het overige in stand"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het bedrijf vond dat buurtstichtingen geen recht hadden om mee te praten in de bezwaarprocedure.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de locatie buiten het werkgebied van een van de stichtingen lag, dus er was geen rechtstreeks belang.",
+    "bron": [
+     37
+    ],
+    "citaat": "geen sprake is van een rechtstreeks bij het bouwplan betrokken algemeen belang"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen sprake is van een rechtstreeks bij het bouwplan betrokken algemeen belang",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "parkeernorm-onvoldoende",
+   "burger_zegt": "Het bedrijf zei dat de drie gehuurde parkeerplaatsen wel goed bereikbaar en geschikt zijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de plekken niet vrij in en uit de garage kunnen, dus de weigering kon.",
+    "bron": [
+     47
+    ],
+    "citaat": "omdat niet vrij in en uit de garage gereden kan worden"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet vrij in en uit de garage gereden kan worden",
+    "bron": [
+     47
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het bedrijf vond dat een nieuwe parkeernota uit na het besluit toch moest meetellen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat de nieuwe nota na het besluit is vastgesteld, dus die kon niet worden meegenomen.",
+    "bron": [
+     51
+    ],
+    "citaat": "Tussen partijen is niet in geschil dat de nieuwe Nota dateert van na het bestreden besluit"
+   },
+   "bruikbare_zin": {
+    "citaat": "de nieuwe Nota niet meenemen in haar beoordeling",
+    "bron": [
+     51
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeerplaatsen die niet vrij bereikbaar zijn, tellen voor de vergunning niet mee als voldoende.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Deze garage met drie plekken; de bron gaat over bewoners die elkaars auto's moeten verzetten",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   47
+  ],
+  "citaat": "niet vrij in en uit de garage gereden kan worden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "bevindingen van de stadsdeelinspecteur na een bezoek ter plaatse",
+   "email van het college met die bevindingen"
+  ],
+  "wat_gaf_doorslag": "De bevindingen van de inspecteur ter plaatse, die de rechter doorslaggevend vond."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 1:2 Awb",
+  "art. 2.12 eerste lid onder a en 1° Wet algemene bepalingen omgevingsrecht",
+  "art. 5.1 Parapluherziening (fiets)parkeren Den Haag",
+  "art. 6 Parapluherziening (fiets)parkeren Den Haag"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Laat bij een parkeervergunning voor een garage ter plaatse controleren of de plekken echt vrij bereikbaar zijn.",
+   "raakt": "vergunningen",
+   "bron": [
+    47,
+    46
+   ],
+   "citaat": "Het college heeft hierbij de bevindingen van de stadsdeelinspecteur doorslaggevend mogen achten"
+  },
+  {
+   "actie": "Toets bij bezwaren van organisaties of hun statutaire doel en feitelijke werk echt bij het bouwplan past.",
+   "raakt": "bezwaar",
+   "bron": [
+    20,
+    37
+   ],
+   "citaat": "bepalend of de rechtspersoon krachtens zijn statutaire doelstelling en blijkens zijn feitelijke werkzaamheden"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "verordening-beleid"
+ ],
+ "klantuitleg": "Dit gaat niet over een naheffing of boete, maar over een vergunning voor studio's met parkeerplaatsen. Een garageplek telt voor een vergunning alleen mee als auto's er vrij in en uit kunnen rijden. Vindt u dat uw plek wel goed bereikbaar is, dan helpt bewijs daarvan bij een bezwaar, maar dat is geen zekerheid.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,196 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2026:1341",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "kopie-stukken",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "werknemer",
+  "wederpartij": "Autoriteit Persoonsgegevens",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "voorlopige voorziening",
+ "intro": "Deze zaak gaat over een verzoek om een voorlopige voorziening. Een werknemer is het oneens met een besluit van de Autoriteit Persoonsgegevens over inzage in zijn gegevens; de voorzieningenrechter van de rechtbank Rotterdam beslist.",
+ "titel": "Geen spoed en geen recht op alle stukken",
+ "kern": {
+  "zin": "De rechter wijst het verzoek af omdat er geen spoedeisend belang is.",
+  "bron": [
+   52
+  ],
+  "citaat": "geen sprake is van een spoedeisend belang en de gevraagde voorlopige voorziening niet kan worden getroffen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Deze zaak gaat over een besluit van de Autoriteit Persoonsgegevens over inzage in gegevens van een werknemer.",
+   "bron": [
+    9
+   ],
+   "citaat": "gaat over een besluit op grond van de Algemene verordening gegevensbescherming (AVG) van de AP"
+  },
+  {
+   "zin": "De AP behandelde een deel van het verzoek van de burger als een verzoek om inzage onder de AVG.",
+   "bron": [
+    39
+   ],
+   "citaat": "verzoeken onder 3 en 4 verder te behandelen als een verzoek om inzage als bedoeld in de AVG"
+  },
+  {
+   "zin": "De AP nam een nieuwe beslissing en verklaarde het bezwaar van de burger gegrond.",
+   "bron": [
+    40
+   ],
+   "citaat": "en het bezwaar van verzoeker gegrond verklaard"
+  },
+  {
+   "zin": "De burger vindt dat er meer stukken moeten zijn en dat de AP niet goed heeft gezocht.",
+   "bron": [
+    42
+   ],
+   "citaat": "stelt zich op het standpunt dat er meer stukken moeten zijn"
+  },
+  {
+   "zin": "De rechter zegt dat de AVG alleen recht geeft op een kopie van de persoonsgegevens, niet op de documenten zelf.",
+   "bron": [
+    49
+   ],
+   "citaat": "verzoeker slechts recht heeft op een kopie van de persoonsgegevens die worden verwerkt"
+  },
+  {
+   "zin": "De rechter wijst het verzoek daarom af en ziet geen aanleiding voor vergoeding van griffierecht of proceskosten.",
+   "bron": [
+    52
+   ],
+   "citaat": "Voor vergoeding van het griffierecht of een proceskostenveroordeling bestaat geen aanleiding"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De rechter wijst het spoedverzoek af; de AP hoeft geen extra stukken te geven.",
+ "gevolg_betrokkene": {
+  "zin": "Het verzoek om extra stukken is afgewezen; de burger krijgt geen vergoeding van griffierecht of proceskosten.",
+  "bron": [
+   52
+  ],
+  "citaat": "Voor vergoeding van het griffierecht of een proceskostenveroordeling bestaat geen aanleiding"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Ik heb niet alle stukken gekregen die er volgens mij zijn.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter heeft de vraag of er meer stukken zijn niet inhoudelijk beoordeeld.",
+    "bron": [
+     50
+    ],
+    "citaat": "ziet de voorzieningenrechter ook geen aanleiding om inhoudelijk te beoordelen"
+   },
+   "bruikbare_zin": {
+    "citaat": "er meer stukken moeten zijn",
+    "bron": [
+     42
+    ]
+   }
+  },
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "De AP heeft niet goed genoeg gezocht in haar systemen.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter oordeelt niet inhoudelijk over de zoekslag.",
+    "bron": [
+     50
+    ],
+    "citaat": "ziet de voorzieningenrechter ook geen aanleiding om inhoudelijk te beoordelen"
+   },
+   "bruikbare_zin": {
+    "citaat": "de zoekslag onvolledig is uitgevoerd",
+    "bron": [
+     42
+    ]
+   }
+  },
+  {
+   "arg": "kopie-stukken",
+   "burger_zegt": "Ik wil de documenten zelf krijgen, niet alleen mijn gegevens.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De AVG geeft alleen recht op een kopie van de persoonsgegevens, niet op de documenten zelf.",
+    "bron": [
+     49
+    ],
+    "citaat": "verzoeker slechts recht heeft op een kopie van de persoonsgegevens die worden verwerkt"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet verplicht om een kopie van de onderliggende documenten",
+    "bron": [
+     49
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Door stukken achter te houden is er geen gelijkheid tussen partijen in de civiele zaak.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat de burger voor de stukken naar de civiele rechter moet.",
+    "bron": [
+     49
+    ],
+    "citaat": "dient hij zich daarvoor te wenden tot de civiele rechter in die procedure"
+   },
+   "bruikbare_zin": {
+    "citaat": "Volgens verzoeker is sprake van een schending van ‘Equality of Arms’",
+    "bron": [
+     42
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een inzageverzoek op grond van de AVG geeft recht op een kopie van de persoonsgegevens, niet op de onderliggende documenten zelf.",
+  "type": "regel",
+  "reikwijdte": "Bij een AVG-verzoek om inzage waarin de burger documenten zelf wil gebruiken in een andere procedure.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   49
+  ],
+  "citaat": "verzoeker slechts recht heeft op een kopie van de persoonsgegevens die worden verwerkt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "inventarislijst van verzoeker"
+  ],
+  "wat_gaf_doorslag": "De rechter vond het spoedeisend belang niet aannemelijk."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:RVS:2023:394",
+   "ECLI:C:EU:2017:994"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 15 AVG",
+  "art. 15 lid 1 AVG",
+  "art. 15 lid 3 AVG"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; de AP is de wederpartij",
+ "raakt": [
+  "privacy-fg",
+  "woo-openbaarheid",
+  "hr-personeel",
+  "bezwaar"
+ ],
+ "klantuitleg": "Als u inzage vraagt in uw gegevens, krijgt u een kopie van die gegevens. U krijgt niet automatisch alle documenten waarin ze staan. Wilt u stukken voor een andere rechtszaak, vraag die dan aan de rechter in die zaak.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente in de zaak; de Autoriteit Persoonsgegevens is partij",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,130 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:12747",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "voorlopige voorziening",
+ "intro": "Een bewoner van Rotterdam procedeert tegen de gemeente over een afgewezen parkeervergunning voor bewoners. De voorzieningenrechter van de rechtbank Rotterdam beslist of de vergunning nu al moet worden gegeven, in afwachting van het bezwaar.",
+ "titel": "Geen parkeervergunning voor bewoner: er is al een parkeerplek",
+ "kern": {
+  "zin": "De rechter wees het verzoek af: er was geen spoed, en het besluit was niet duidelijk onjuist.",
+  "bron": [
+   20,
+   23
+  ],
+  "citaat": "Bij een financieel geschil, zoals in deze zaak, is dat niet snel het geval"
+ },
+ "samenvatting": [
+  {
+   "zin": "De aanvraag voor een bewonersvergunning werd geweigerd, omdat bij het pand al een parkeervoorziening hoort.",
+   "bron": [
+    16
+   ],
+   "citaat": "heeft het college deze aanvraag afgewezen, omdat volgens de gegevens van het college een bijbehorende parkeervoorziening"
+  },
+  {
+   "zin": "De bewoner zegt dat hij vanaf 1 november op straat moet parkeren, en dat hij die kosten niet kan betalen.",
+   "bron": [
+    19
+   ],
+   "citaat": "hij vanaf 1 november 2025 op straat zal moeten parkeren"
+  },
+  {
+   "zin": "De gemeente zegt dat de parkeervoorziening bij het pand van de bewoner hoort.",
+   "bron": [
+    16
+   ],
+   "citaat": "een bijbehorende parkeervoorziening onderdeel uitmaakt van het pand van verzoeker"
+  },
+  {
+   "zin": "De rechter vond niet aangetoond dat de kosten tot financiële nood leiden.",
+   "bron": [
+    21
+   ],
+   "citaat": "Verzoeker heeft onvoldoende aannemelijk heeft gemaakt dat hij door de parkeerkosten"
+  },
+  {
+   "zin": "Volgens de rechter hoeft de gemeente de vergunning vooralsnog niet te geven.",
+   "bron": [
+    25
+   ],
+   "citaat": "vooralsnog geen parkeervergunning bewoner aan verzoeker hoeft te verstrekken"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Verzoek afgewezen; de gemeente hoeft de vergunning vooralsnog niet te geven.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de bewoner betekent dit dat hij vooralsnog geen parkeervergunning krijgt, en dat hij geen griffierecht of proceskosten terugkrijgt.",
+  "bron": [
+   25
+  ],
+  "citaat": "Voor vergoeding van het griffierecht of een proceskostenveroordeling bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Hij kan de parkeerkosten van € 2,16 per uur niet betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond niet aannemelijk dat de kosten elke dag tot financiële nood leiden.",
+    "bron": [
+     21
+    ],
+    "citaat": "acht het daarom niet aannemelijk dat verzoeker elke dag tussen 09:00 en 23:00 uur"
+   },
+   "bruikbare_zin": {
+    "citaat": "acht het daarom niet aannemelijk dat verzoeker elke dag tussen 09:00 en 23:00 uur",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een voorlopige voorziening is alleen aan de orde bij spoed, en bij een financieel geschil is dat meestal niet zo.",
+  "type": "regel",
+  "reikwijdte": "verzoeken om een snelle beslissing in een geschil over geld, zoals parkeerkosten",
+  "uitzondering": "als er wel een onomkeerbare situatie dreigt of acute financiële nood is",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   20
+  ],
+  "citaat": "neemt de voorzieningenrechter aan dat spoedeisend belang ontbreekt, zodat zij alleen al daarom geen voorlopige voorziening treft"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring ter zitting over werk en werkuren"
+  ],
+  "wat_gaf_doorslag": "De verklaring over de werkweek maakte de financiële nood niet aannemelijk."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:81 eerste lid Awb",
+  "Uitvoeringsbesluit Parkeren Rotterdam 2025"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen fout bij de gemeente vastgesteld; verzoek alleen afgewezen",
+ "raakt": [
+  "vergunningen",
+  "klantcontact"
+ ],
+ "klantuitleg": "U krijgt op dit moment geen parkeervergunning voor bewoners, omdat bij uw woning al een parkeerplek hoort. De rechter vond dat de gemeente dat mocht en zag geen reden om nu al in te grijpen, ook niet vanwege de parkeerkosten. U kunt wel bezwaar blijven maken, maar de kans is klein zolang er bij uw woning al een parkeerplek hoort.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

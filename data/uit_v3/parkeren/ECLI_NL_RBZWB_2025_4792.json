@@ -1,0 +1,140 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:4792",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Veere",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Veere een naheffing, omdat de gemeente zei dat er niet was betaald. Hij ging in beroep bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Parkeerder had op tijd betaald via app: naheffing vernietigd",
+ "kern": {
+  "zin": "De rechter vernietigde de naheffing, omdat de aanmelding van de parkeerder binnen de redelijke termijn was gedaan.",
+  "bron": [
+   23
+  ],
+  "citaat": "Dat betekent dat de naheffingsaanslag ten onrechte is opgelegd."
+ },
+ "samenvatting": [
+  {
+   "zin": "Parkeercontroleurs zagen op 28 maart 2024 bij de Veerse Dam Resto dat niemand had betaald.",
+   "bron": [
+    15
+   ],
+   "citaat": "Tijdens een controle op voornoemde datum en tijd is door parkeercontroleurs geconstateerd dat geen parkeerbelasting was voldaan."
+  },
+  {
+   "zin": "De gemeente rekende 2,60 euro belasting en 76,70 euro kosten door.",
+   "bron": [
+    16
+   ],
+   "citaat": "bestaande uit een bedrag aan belasting van € 2,60 en € 76,70 aan kosten van de naheffingsaanslag"
+  },
+  {
+   "zin": "De parkeerder zei dat hij wel had betaald en legde een afschrift van de app EasyPark over.",
+   "bron": [
+    21
+   ],
+   "citaat": "Ter onderbouwing heeft belanghebbende een afschrift overgelegd van EasyPark."
+  },
+  {
+   "zin": "Volgens de rechter was het aannemelijk dat de auto pas kort voor de controle was neergezet.",
+   "bron": [
+    23
+   ],
+   "citaat": "Gelet hierop acht de rechtbank het aannemelijk"
+  },
+  {
+   "zin": "De rechter liet de gemeente 51 euro griffierecht aan de parkeerder terugbetalen.",
+   "bron": [
+    32
+   ],
+   "citaat": "bepaalt dat de heffingsambtenaar het griffierecht van € 51 aan belanghebbende moet vergoeden"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd en griffierecht vergoed; geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft de naheffing niet te betalen en krijgt 51 euro griffierecht terug.",
+  "bron": [
+   25,
+   32
+  ],
+  "citaat": "De rechtbank zal daarom de uitspraak op bezwaar en de naheffingsaanslag vernietigen."
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij had op tijd via de parkeerapp betaald, en de tijd om dat te doen was niet te kort.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter oordeelde dat de aanmelding op tijd was gedaan.",
+    "bron": [
+     23
+    ],
+    "citaat": "Naar het oordeel van de rechtbank heeft belanghebbende de aanmelding"
+   },
+   "bruikbare_zin": {
+    "citaat": "een parkeerder een redelijke termijn moet worden gegund voor het verrichten van uitvoeringshandelingen",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie parkeert krijgt een redelijke termijn om te betalen, mits hij er meteen mee begint.",
+  "type": "regel",
+  "reikwijdte": "Betalen bij een automaat of met een mobiele parkeerapp.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   22
+  ],
+  "citaat": "moeten onverwijld nadat de auto is geparkeerd worden gestart en voortgezet"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "afschrift van de parkeerapp EasyPark",
+   "afstand volgens Google Maps"
+  ],
+  "wat_gaf_doorslag": "De aanmeldtijd in het afschrift van de app en de afstand tussen de twee parkeerplekken gaven de doorslag."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "art. 1 onder l Verordening op de heffing en invordering van parkeerbelastingen 2024 Veere"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij bezwaar het betaalafschrift van de parkeerapp naast de tijd van controle, zoals de rechter deed.",
+   "raakt": "bezwaar",
+   "bron": [
+    23
+   ],
+   "citaat": "uit datzelfde afschrift dat belanghebbende de auto op diezelfde dag om 15:05 uur heeft aangemeld"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "betaalapp"
+ ],
+ "klantuitleg": "Een naheffing is niet terecht als u binnen de redelijke tijd alsnog had betaald of aangemeld. Een afschrift van de parkeerapp met het moment van aanmelden helpt daarbij. Zonder dat bewijs heeft bezwaar weinig kans, want elke zaak hangt af van de feiten.",
+ "gemeente": "Veere",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

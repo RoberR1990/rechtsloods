@@ -1,0 +1,146 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:3743",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeert bij de rechtbank Zeeland-West-Brabant tegen de gemeente Breda over een naheffing (de rekening achteraf) voor parkeerbelasting. Alleen de vraag of de parkeerder een kostenvergoeding krijgt, is nog in geschil.",
+ "titel": "Parkeerder krijgt geen kostenvergoeding na verkeerde zone",
+ "kern": {
+  "zin": "De rechter wees het beroep af, omdat de zonekeuze bij de parkeerder hoort.",
+  "bron": [
+   27
+  ],
+  "citaat": "De parkeerder heeft volgens vaste rechtspraak een onderzoeksplicht voorafgaand aan het parkeren"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een scanauto zag dat voor de auto van de parkeerder geen parkeerbelasting was betaald.",
+   "bron": [
+    15
+   ],
+   "citaat": "geconstateerd dat voor de auto geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "In bezwaar vernietigde de gemeente de aanslag, omdat het juiste bedrag al was betaald maar met een ander zonenummer.",
+   "bron": [
+    17
+   ],
+   "citaat": "het juiste bedrag aan parkeerbelasting heeft voldaan, maar met een onjuist zonenummer"
+  },
+  {
+   "zin": "De parkeerder stelde dat de gemeente het kenteken in het Nationaal Parkeer Register had kunnen nakijken.",
+   "bron": [
+    25
+   ],
+   "citaat": "het kenteken van het voertuig kunnen controleren en daarmee kunnen constateren"
+  },
+  {
+   "zin": "De gemeente vindt dat de fout bij de parkeerder lag, dus geen vergoeding van kosten.",
+   "bron": [
+    26
+   ],
+   "citaat": "wegens een fout aan de zijde"
+  },
+  {
+   "zin": "De rechtbank vond dat de parkeerder zelf de zone moet controleren, zodat het griffierecht niet terugkomt.",
+   "bron": [
+    27,
+    30
+   ],
+   "citaat": "De parkeerder heeft volgens vaste rechtspraak een onderzoeksplicht voorafgaand aan het parkeren"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Alleen over kostenvergoeding; die wordt geweigerd.",
+ "gevolg_betrokkene": {
+  "zin": "Er komt geen geld terug voor de parkeerder: geen griffierecht en geen kostenvergoeding.",
+  "bron": [
+   30
+  ],
+  "citaat": "krijgt daarom het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Er was wel betaald, maar de parkeerapp gaf een andere zone aan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat de zonekeuze risico van de parkeerder is.",
+    "bron": [
+     27
+    ],
+    "citaat": "De parkeerder heeft volgens vaste rechtspraak een onderzoeksplicht voorafgaand aan het parkeren"
+   },
+   "bruikbare_zin": {
+    "citaat": "De parkeerder heeft volgens vaste rechtspraak een onderzoeksplicht voorafgaand aan het parkeren",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente had het kenteken in het Nationaal Parkeer Register kunnen nakijken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ziet geen gemeentefout, dus het afwijzen van de kostenvergoeding klopt.",
+    "bron": [
+     28
+    ],
+    "citaat": "terecht het verzoek om een kostenvergoeding voor de bezwaarfase heeft afgewezen"
+   },
+   "bruikbare_zin": {
+    "citaat": "is niet gehouden na te gaan of een belastingplichtige wellicht per abuis parkeerbelasting voor een andere parkeerzone heeft voldaan",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder moet zelf controleren of de juiste zone is gekozen; de gemeente hoeft dat niet na te gaan.",
+  "type": "regel",
+  "reikwijdte": "ook als een parkeerapp de zone automatisch invult",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "De parkeerder heeft volgens vaste rechtspraak een onderzoeksplicht voorafgaand aan het parkeren"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 7:15 lid 2 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter legt de zonefout bij de parkeerder; geen actie voor de gemeente",
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "betaalapp"
+ ],
+ "klantuitleg": "De gemeente heeft de rekening voor het parkeren in bezwaar weggehaald, omdat u wel had betaald, alleen in de verkeerde zone. De rechter vond wel dat u zelf moet controleren of u de juiste zone kiest, dus kreeg u geen vergoeding van uw kosten. Bij een verkeerde zone heeft bezwaar over die kosten weinig kans.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

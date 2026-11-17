@@ -1,0 +1,174 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2016:305",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De man wil dat de gemeente Rotterdam zijn gegevens in de basisregistratie personen (BRP) wijzigt. De Raad van State oordeelt in hoger beroep over zijn zaak tegen het college van Rotterdam.",
+ "titel": "BRP-gegevens blijven staan na hoger beroep",
+ "kern": {
+  "zin": "De rechter beslist dat de burger niet heeft aangetoond dat zijn BRP-gegevens onjuist zijn, dus ze blijven staan.",
+  "bron": [
+   33
+  ],
+  "citaat": "niet heeft aangetoond dat de thans in de brp geregistreerde persoonsgegevens onjuist zijn"
+ },
+ "samenvatting": [
+  {
+   "zin": "De man vroeg het college om zijn gegevens in de BRP te wijzigen.",
+   "bron": [
+    27
+   ],
+   "citaat": "het college verzocht zijn in de brp opgenomen gegevens te wijzigen"
+  },
+  {
+   "zin": "Hij stuurde onder meer een Chinees paspoort mee.",
+   "bron": [
+    30
+   ],
+   "citaat": "een Chinees paspoort ten name van"
+  },
+  {
+   "zin": "De man vond dat het Chinese paspoort samen met de andere documenten genoeg bewijs was.",
+   "bron": [
+    32
+   ],
+   "citaat": "Met het Chinese paspoort, in combinatie met de andere overgelegde documenten"
+  },
+  {
+   "zin": "Het college vond dat niet vast te stellen was dat de documenten over hem gingen.",
+   "bron": [
+    31
+   ],
+   "citaat": "niet kan worden vastgesteld dat de overgelegde documenten"
+  },
+  {
+   "zin": "De Raad van State oordeelt dat de BRP-gegevens alleen mogen wijzigen als onomstotelijk vaststaat dat ze onjuist zijn.",
+   "bron": [
+    33
+   ],
+   "citaat": "onomstotelijk moeten vaststaan dat deze gegevens onjuist zijn"
+  },
+  {
+   "zin": "Hij heeft dat volgens de rechter niet aangetoond, dus zijn gegevens blijven staan.",
+   "bron": [
+    33
+   ],
+   "citaat": "niet heeft aangetoond dat de thans in de brp geregistreerde persoonsgegevens onjuist zijn"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Het hoger beroep faalt; de afwijzing van het wijzigingsverzoek blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "Zijn BRP-gegevens blijven staan en hij krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   36
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Mijn gegevens in de BRP zijn onjuist en moeten worden aangepast.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de man niet genoeg bewijs had dat de BRP-gegevens fout zijn.",
+    "bron": [
+     33
+    ],
+    "citaat": "niet heeft aangetoond dat de thans in de brp geregistreerde persoonsgegevens onjuist zijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet heeft aangetoond dat de thans in de brp geregistreerde persoonsgegevens onjuist zijn",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "In andere gemeenten wordt zo'n verzoek wel ingewilligd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat andere gemeenten niet bepalen of het college de gegevens moet wijzigen.",
+    "bron": [
+     33
+    ],
+    "citaat": "betekent niet dat het college gehouden was de persoonsgegevens"
+   },
+   "bruikbare_zin": {
+    "citaat": "betekent niet dat het college gehouden was de persoonsgegevens",
+    "bron": [
+     33
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor het wijzigen van al in de BRP geregistreerde gegevens moet onomstotelijk vaststaan dat die gegevens onjuist zijn.",
+  "type": "regel",
+  "reikwijdte": "Bij een verzoek om wijziging van gegevens die al in de BRP staan.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   33
+  ],
+  "citaat": "onomstotelijk moeten vaststaan dat deze gegevens onjuist zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "hukou",
+   "notariële verklaring",
+   "Chinees paspoort",
+   "verklaring onder belofte"
+  ],
+  "wat_gaf_doorslag": "De rechter vond de documenten niet genoeg; zijn eerdere verklaring onder belofte en het niet gebruiken van de wijzigingsmogelijkheid werkten tegen hem."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 2.8, tweede lid, Wet brp",
+  "art. 45 Boek 1 Burgerlijk Wetboek"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Blijf bij een verzoek om BRP-wijziging zelf beoordelen of buitenlandse documenten over de persoon gaan.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    33
+   ],
+   "citaat": "Het college heeft bij een verzoek tot wijziging van persoonsgegevens in de brp een eigen verantwoordelijkheid."
+  },
+  {
+   "actie": "Betrek eerdere verklaringen onder belofte bij de beoordeling.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    33
+   ],
+   "citaat": "op 9 februari 2010 onder belofte verklaard dat de in de brp geregistreerde gegevens juist zijn"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "privacy-fg"
+ ],
+ "klantuitleg": "U wilt dat de gemeente uw gegevens in de BRP wijzigt. De gemeente mag dat weigeren als niet heel zeker is dat uw gegevens fout zijn. In deze zaak vond de rechter dat niet bewezen, dus uw gegevens blijven staan.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

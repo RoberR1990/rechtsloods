@@ -1,0 +1,159 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2026:6037",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder)",
+  "wederpartij": "gemeente Zwolle",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een kentekenhouder gaat in beroep tegen een naheffing van de gemeente Zwolle, omdat zijn auto op betaald parkeren stond zonder parkeerrecht. De zaak ligt bij de rechtbank Overijssel, zittingsplaats Zwolle.",
+ "titel": "Afgebroken betaling: parkeerder blijft toch betalen",
+ "kern": {
+  "zin": "De rechter vindt dat een afgebroken betaling de parkeerder niet ontslaat van de parkeerbelasting, en dat de storing niet is aangetoond.",
+  "bron": [
+   30,
+   28
+  ],
+  "citaat": "Als betaling van parkeergeld om welke reden ook wordt afgebroken ontslaat dit de parkeerder niet van de verplichting"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 7 maart 2026 kreeg een kentekenhouder een naheffing omdat zijn auto op betaald parkeren stond zonder parkeerrecht.",
+   "bron": [
+    16
+   ],
+   "citaat": "zonder dat sprake was van een parkeerrecht"
+  },
+  {
+   "zin": "De kentekenhouder zegt dat hij via de automaat heeft betaald en geen foutmelding kreeg.",
+   "bron": [
+    21
+   ],
+   "citaat": "Naar eigen zeggen kreeg belanghebbende geen foutmelding"
+  },
+  {
+   "zin": "De gemeente zegt dat er op die dag geen storing bekend was en dat de betaling is afgebroken.",
+   "bron": [
+    23,
+    24
+   ],
+   "citaat": "is een storing bij de bewuste parkeermeter of in het systeem op 7 maart 2026 niet bekend"
+  },
+  {
+   "zin": "De rechter vindt de gestelde storing niet onderbouwd met verifieerbare gegevens.",
+   "bron": [
+    28
+   ],
+   "citaat": "heeft de gestelde storing bovendien niet met (verifieerbare) gegevens onderbouwd"
+  },
+  {
+   "zin": "Een afgebroken betaling ontslaat de parkeerder volgens de rechter niet van de belasting.",
+   "bron": [
+    30
+   ],
+   "citaat": "Als betaling van parkeergeld om welke reden ook wordt afgebroken ontslaat dit de parkeerder niet van de verplichting"
+  },
+  {
+   "zin": "Het beroep is ongegrond: de naheffing blijft staan.",
+   "bron": [
+    36
+   ],
+   "citaat": "dat de naheffingsaanslag parkeerbelasting in stand blijft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan; geen griffierecht of proceskosten terug.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de kentekenhouder betekent dit dat hij de naheffing van 84 euro moet betalen en het griffierecht niet terugkrijgt.",
+  "bron": [
+   36,
+   17
+  ],
+  "citaat": "dat de naheffingsaanslag parkeerbelasting in stand blijft"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De automaat had een storing, waardoor de betaling niet is afgerond.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt geen storing aangetoond, en het is aan de parkeerder om daar (een begin van) bewijs voor te leveren.",
+    "bron": [
+     28
+    ],
+    "citaat": "Bij de heffingsambtenaar is geen storing aan de bewuste parkeerautomaat op 7 maart 2026 bekend"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het is aan belanghebbende om daarvan (een begin van) bewijs te leveren",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij heeft wel betaald: er is 2,25 euro van zijn bankrekening afgeschreven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat de bank die afschrijving terugstort, omdat het betalingsproces is afgebroken.",
+    "bron": [
+     30
+    ],
+    "citaat": "De afboeking van de rekening wordt dan door de bank teruggestort omdat het betalingsproces is afgebroken"
+   },
+   "bruikbare_zin": {
+    "citaat": "Als een betaling bij een parkeerautomaat wordt afgebroken, volgt bovendien een korte melding of waarschuwing",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als een parkeerbetaling wordt afgebroken, blijft de parkeerder toch de parkeerbelasting verschuldigd.",
+  "type": "regel",
+  "reikwijdte": "parkeerbetalingen die bij de automaat worden afgebroken",
+  "uitzondering": "Alleen in bijzondere gevallen, zoals overmacht, kan van de strikte naleving worden afgeweken; dat is hier niet gesteld of gebleken.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   30
+  ],
+  "citaat": "Als betaling van parkeergeld om welke reden ook wordt afgebroken ontslaat dit de parkeerder niet van de verplichting"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "bankafschrijving van de parkeerder",
+   "transactiegegevens van de automaat ('aborted')",
+   "reçu van betaling (niet overgelegd)"
+  ],
+  "wat_gaf_doorslag": "De automaatgegevens lieten een afgebroken betaling zien, en er was geen bewijs van de storing."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:57 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter bevestigt de werkwijze; geen tekortkoming van de gemeente",
+ "raakt": [
+  "betaalapp",
+  "tarief-naheffing",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een naheffing is in deze zaak terecht, omdat de betaling is afgebroken en er dus niet is betaald. Dat geldt ook als de betaling mislukt doordat een pinpas te snel uit de automaat wordt getrokken. Denkt u dat de automaat kapot was, dan helpt het om een reçu of ander bewijs van de storing te bewaren.",
+ "gemeente": "Zwolle",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

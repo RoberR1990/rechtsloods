@@ -1,0 +1,167 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2026:6336",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "heffingsambtenaar van een samenwerkingsverband van gemeenten rond Utrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder ging in hoger beroep tegen de gemeente bij het gerechtshof Arnhem-Leeuwarden. Het ging om de vraag wie de proceskosten betaalt, nadat de gemeente de rekening achteraf al had ingetrokken.",
+ "titel": "Verkeerd kenteken ingevoerd: gemeente betaalt proceskosten van de parkeerder",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente de parkeerder eerst om een betaalbewijs had moeten vragen, dus krijgt de parkeerder zijn proceskosten vergoed.",
+  "bron": [
+   37
+  ],
+  "citaat": "Het Hof is daarom van oordeel dat belanghebbende recht heeft op een proceskostenvergoeding voor de beroepsfase."
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 22 juli 2023 kreeg de parkeerder een naheffingsaanslag (een rekening achteraf), omdat er volgens de controleur geen parkeerbelasting was betaald.",
+   "bron": [
+    16
+   ],
+   "citaat": "Naar aanleiding daarvan heeft de heffingsambtenaar belanghebbende de naheffingsaanslag opgelegd."
+  },
+  {
+   "zin": "De parkeerder zei in bezwaar dat hij wel had betaald, maar per ongeluk een verkeerd kenteken had gebruikt.",
+   "bron": [
+    19
+   ],
+   "citaat": "echter heeft belanghebbende per abuis een verkeerd kenteken gebruikt"
+  },
+  {
+   "zin": "De gemeente wees het bezwaar af, omdat de betaling niet meer te controleren was.",
+   "bron": [
+    35
+   ],
+   "citaat": "omdat de transactie in het gebruikte systeem slechts drie maanden beschikbaar zou zijn"
+  },
+  {
+   "zin": "Toen de parkeerder in beroep een betaalbewijs liet zien, trok de gemeente de rekening achteraf alsnog in.",
+   "bron": [
+    29
+   ],
+   "citaat": "Om die reden vernietig ik de onderhavige naheffingsaanslag."
+  },
+  {
+   "zin": "De gemeente zei later dat zij dit alleen uit goede wil had gedaan en dat de parkeerder dus geen proceskosten kreeg.",
+   "bron": [
+    36
+   ],
+   "citaat": "dat hij de naheffingsaanslag in beroep louter uit coulance heeft vernietigd"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente de parkeerder eerst de kans had moeten geven om te laten zien dat hij had betaald, en kende de proceskosten toe.",
+   "bron": [
+    37
+   ],
+   "citaat": "alvorens uitspraak op bezwaar te doen, belanghebbende in de gelegenheid te stellen"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Rekening was al ingetrokken; het gaat om proceskosten en griffierecht.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet € 1.401 aan proceskosten en het betaalde griffierecht (€ 51 en € 143) aan de parkeerder vergoeden.",
+  "bron": [
+   49
+  ],
+  "citaat": "in de proceskosten van belanghebbende tot een bedrag van € 1.401"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Ik heb wel betaald voor het parkeren, maar per ongeluk een verkeerd kenteken ingevoerd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Wie de verschuldigde belasting heeft betaald, kan geen rekening achteraf krijgen, ook niet bij een verkeerd kenteken.",
+    "bron": [
+     37
+    ],
+    "citaat": "Het invullen van een onjuist kenteken doet daaraan niet af."
+   },
+   "bruikbare_zin": {
+    "citaat": "naheffing niet mogelijk is als de voor het parkeren verschuldigde belasting is betaald",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente gaf mij geen kans om bewijs van mijn betaling te laten zien voordat zij op mijn bezwaar besliste.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente had de parkeerder om een betaalbewijs moeten vragen, zeker omdat zij zelf de betaling niet meer kon controleren.",
+    "bron": [
+     37
+    ],
+    "citaat": "alvorens uitspraak op bezwaar te doen, belanghebbende in de gelegenheid te stellen"
+   },
+   "bruikbare_zin": {
+    "citaat": "had het in dit geval op zijn weg gelegen om",
+    "bron": [
+     37
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de parkeerbelasting is betaald, kan de gemeente geen rekening achteraf opleggen, ook niet als de parkeerder een verkeerd kenteken heeft ingevoerd.",
+  "type": "regel",
+  "reikwijdte": "Betaling van parkeerbelasting met een onjuist ingevoerd kenteken",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   37
+  ],
+  "citaat": "naheffing niet mogelijk is als de voor het parkeren verschuldigde belasting is betaald"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "schermprint van betaalbewijs uit de parkeerapp"
+  ],
+  "wat_gaf_doorslag": "De gemeente had de parkeerder in de bezwaarfase niet om een betaalbewijs gevraagd."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2016:316"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 20 AWR",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag de parkeerder in de bezwaarfase om een betaalbewijs als hij zegt wel te hebben betaald met een verkeerd kenteken",
+   "raakt": "bezwaar",
+   "bron": [
+    37
+   ],
+   "citaat": "alvorens uitspraak op bezwaar te doen, belanghebbende in de gelegenheid te stellen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "klantcontact",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Als u wel hebt betaald, maar een verkeerd kenteken hebt ingevuld, is de rekening achteraf volgens de rechter niet terecht. De gemeente moet u dan eerst de kans geven om te laten zien dat u hebt betaald. Stuur daarom uw betaalbewijs, bijvoorbeeld een schermafbeelding van de app, direct mee met uw bezwaar.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

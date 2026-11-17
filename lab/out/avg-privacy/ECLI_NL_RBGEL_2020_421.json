@@ -1,0 +1,198 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBGEL:2020:421",
+ "relevant": true,
+ "onderwerp": "schade-aansprakelijkheid",
+ "sub": "immateriele-schade",
+ "kenmerk": null,
+ "zaaktype": "schadevergoeding",
+ "partijen": {
+  "burger": "voormalig medewerker",
+  "wederpartij": "gemeente Zevenaar",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Deze zaak gaat over een man die vroeger bij de gemeente Zevenaar werkte en die schadevergoeding vraagt omdat de gemeente zijn personeelsdossier naar een onderzoekscommissie stuurde. De rechtbank Gelderland oordeelt dat hij geen bezwaar kan maken en dat de bestuursrechter niet over de schadevergoeding mag beslissen.",
+ "titel": "Geen bezwaar of bestuursrechter voor schadevergoeding",
+ "kern": {
+  "zin": "De rechtbank verklaart het beroep ongegrond en zich onbevoegd voor het verzoek om schadevergoeding.",
+  "bron": [
+   32
+  ],
+  "citaat": "Het beroep is ongegrond en de rechtbank is onbevoegd ten aanzien van het verzoek om schadevergoeding."
+ },
+ "samenvatting": [
+  {
+   "zin": "De man zegt dat zijn personeelsdossier zonder zijn toestemming naar de raadsenquêtecommissie is gestuurd.",
+   "bron": [
+    21
+   ],
+   "citaat": "zonder zijn toestemming begin 2016 zijn personeelsdossier beschikbaar te stellen aan de raadsenquêtecommissie"
+  },
+  {
+   "zin": "De gemeente wees zijn verzoek om schadevergoeding af omdat er volgens de gemeente geen onrechtmatig handelen was.",
+   "bron": [
+    21
+   ],
+   "citaat": "Verweerder heeft het verzoek afgewezen omdat volgens verweerder geen sprake is van onrechtmatig handelen."
+  },
+  {
+   "zin": "De gemeente verklaarde zijn bezwaar niet-ontvankelijk.",
+   "bron": [
+    22
+   ],
+   "citaat": "verweerder het bezwaar terecht niet-ontvankelijk heeft verklaard"
+  },
+  {
+   "zin": "De rechtbank zegt dat tegen een besluit over schadevergoeding geen bezwaar of beroep openstaat.",
+   "bron": [
+    22
+   ],
+   "citaat": "geen beroep kan worden ingesteld tegen een besluit inzake vergoeding van schade wegens onrechtmatig bestuurshandelen"
+  },
+  {
+   "zin": "De rechtbank mag alleen over schadevergoeding beslissen als die niet meer dan € 25.000 is.",
+   "bron": [
+    24
+   ],
+   "citaat": "de gevraagde vergoeding ten hoogste € 25.000 bedraagt"
+  },
+  {
+   "zin": "Omdat de man meer schade zegt te hebben, is de rechtbank niet bevoegd.",
+   "bron": [
+    25
+   ],
+   "citaat": "de bestuursrechter reeds daarom niet bevoegd is kennis te nemen van het verzoek"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Bezwaar terecht niet-ontvankelijk en rechtbank niet bevoegd voor schadevergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "Hij krijgt geen schadevergoeding via de bestuursrechter en er is geen vergoeding voor proceskosten.",
+  "bron": [
+   32
+  ],
+  "citaat": "Het beroep is ongegrond en de rechtbank is onbevoegd ten aanzien van het verzoek om schadevergoeding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Mijn bezwaar is ten onrechte niet-ontvankelijk verklaard.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Tegen een besluit over schadevergoeding wegens onrechtmatig bestuurshandelen is geen beroep en dus ook geen bezwaar mogelijk.",
+    "bron": [
+     22
+    ],
+    "citaat": "geen beroep kan worden ingesteld tegen een besluit inzake vergoeding van schade wegens onrechtmatig bestuurshandelen"
+   },
+   "bruikbare_zin": {
+    "citaat": "verweerder het bezwaar terecht niet-ontvankelijk heeft verklaard",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De rechtbank is wel bevoegd omdat ik ambtenaar was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De man was op het moment van het delen van het dossier geen ambtenaar meer.",
+    "bron": [
+     29
+    ],
+    "citaat": "niet meer bij verweerder werkzaam was"
+   },
+   "bruikbare_zin": {
+    "citaat": "kan hij echter niet meer als “ambtenaar als zodanig” worden aangemerkt",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "De gemeente heeft onrechtmatig gehandeld en moet mijn schade vergoeden.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechtbank komt niet aan de inhoud toe omdat zij niet bevoegd is.",
+    "bron": [
+     30
+    ],
+    "citaat": "De rechtbank verklaart zich daarom onbevoegd ten aanzien van het verzoek om schadevergoeding."
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank verklaart zich daarom onbevoegd ten aanzien van het verzoek om schadevergoeding.",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Tegen een besluit over vergoeding van schade wegens onrechtmatig bestuurshandelen is geen beroep en geen bezwaar mogelijk.",
+  "type": "regel",
+  "reikwijdte": "Besluiten over schadevergoeding wegens onrechtmatig handelen van een bestuursorgaan.",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   22
+  ],
+  "citaat": "geen beroep kan worden ingesteld tegen een besluit inzake vergoeding van schade wegens onrechtmatig bestuurshandelen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:CRVB:2017:2391",
+   "ECLI:NL:RVS:2017:1348"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:4 Awb",
+  "art. 7:1 Awb",
+  "art. 8:88 Awb",
+  "art. 8:89 Awb",
+  "art. 8:90 Awb",
+  "art. 49 Wbp",
+  "art. 6:162 BW",
+  "art. 6:106 BW"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Verklaar een bezwaar tegen een besluit over schadevergoeding wegens onrechtmatig bestuurshandelen niet-ontvankelijk.",
+   "raakt": "bezwaar",
+   "bron": [
+    22
+   ],
+   "citaat": "verweerder het bezwaar terecht niet-ontvankelijk heeft verklaard"
+  },
+  {
+   "actie": "Wijs de burger bij een te hoog schadebedrag op de burgerlijke rechter.",
+   "raakt": "klantcontact",
+   "bron": [
+    25
+   ],
+   "citaat": "Verzoeker kan uitsluitend een vordering indienen bij de burgerlijke rechter."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact",
+  "hr-personeel"
+ ],
+ "klantuitleg": "Als u schade heeft door hoe de gemeente met uw gegevens is omgegaan, kunt u dat niet via bezwaar of de rechter voor overheidsbesluiten regelen. De rechter zegt dat een beslissing over schadevergoeding niet voor bezwaar of beroep openstaat. Voor schade moet u naar de gewone rechter; dat geldt zeker als u meer dan € 25.000 vraagt.",
+ "gemeente": "Zevenaar",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,178 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "onderwerp": "strafzaken-bevelen",
+ "zaaktype": "strafzaak",
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "politiemutaties (meldingen van de politie)"
+  ],
+  "wat_gaf_doorslag": "De acht genoemde incidenten vormden samen herhaaldelijk verstoren van de orde."
+ },
+ "steunt": null,
+ "dubbel_van": null,
+ "reden_gemeente_leeg": null,
+ "toepasselijkheid": "landelijk",
+ "ecli": "ECLI:NL:PHR:2021:387",
+ "soort_document": "conclusie AG",
+ "sub": "niet-voldoen-bevel-184",
+ "kenmerk": "rechtmatigheid-verbod",
+ "partijen": {
+  "burger": "verdachte",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "cassatie",
+ "intro": "Dit is een advies van de Advocaat-Generaal (een adviseur van de Hoge Raad) in een strafzaak. Een verdachte is veroordeeld omdat hij een gebiedsverbod van de burgemeester van Middelburg overtrad.",
+ "titel": "Advies: klacht terecht, maar gebiedsverbod was toch rechtmatig",
+ "kern": {
+  "zin": "De Advocaat-Generaal vindt de klacht over de redenering van het hof terecht, maar adviseert het beroep te verwerpen omdat het verweer toch niet kon slagen.",
+  "bron": [
+   57
+  ],
+  "citaat": "had het hof mijns inziens namelijk slechts kunnen verwerpen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burgemeester van Middelburg verbood de verdachte drie maanden 's nachts in het horecagebied in het centrum te komen.",
+   "bron": [
+    17
+   ],
+   "citaat": "niet mocht bevinden in het horecaconcentratiegebied in het centrum van Middelburg"
+  },
+  {
+   "zin": "De verdachte overtrad het verbod en kreeg van het hof een boete van 200 euro.",
+   "bron": [
+    12
+   ],
+   "citaat": "veroordeeld tot een geldboete van € 200,00, subsidiair vier dagen hechtenis"
+  },
+  {
+   "zin": "De verdachte vond het verbod onrechtmatig, omdat de burgemeester niet genoeg had onderbouwd dat de orde ernstig of herhaaldelijk was verstoord.",
+   "bron": [
+    27
+   ],
+   "citaat": "Aangezien de overwegingen niet dragend zijn voor het vereiste van art. 172a Gemeentewet is het bevel niet rechtmatig"
+  },
+  {
+   "zin": "Het hof liet in het midden of de orde herhaaldelijk was verstoord en vond de vrees voor verstoring in de toekomst genoeg.",
+   "bron": [
+    33
+   ],
+   "citaat": "is het hof van oordeel dat het gebiedsverbod rechtmatig aan verdachte is gegeven"
+  },
+  {
+   "zin": "Volgens de Advocaat-Generaal is dat niet te volgen, omdat er twee aparte eisen zijn: verstoring en vrees voor meer verstoring.",
+   "bron": [
+    56
+   ],
+   "citaat": "Het gaat immers om twee afzonderlijke – cumulatieve – vereisten voor de oplegging van een gebiedsverbod"
+  },
+  {
+   "zin": "Toch hoeft dit niet tot vernietiging te leiden, omdat de incidenten samen herhaaldelijk verstoren van de orde vormden.",
+   "bron": [
+    65
+   ],
+   "citaat": "In onderlinge samenhang beschouwd leveren deze incidenten zonder meer het herhaaldelijk verstoren van de openbare orde op"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Advies: beroep verwerpen; gebiedsverbod blijft rechtmatig, boete blijft.",
+ "gevolg_betrokkene": {
+  "zin": "Volgt de Hoge Raad dit advies, dan blijft de boete van 200 euro (of vier dagen hechtenis) staan.",
+  "bron": [
+   12
+  ],
+  "citaat": "veroordeeld tot een geldboete van € 200,00, subsidiair vier dagen hechtenis"
+ },
+ "bezwaargronden": [
+  {
+   "arg": "bevoegdheid-ontbreekt",
+   "burger_zegt": "De incidenten waren geen ernstige of herhaalde verstoring van de openbare orde, dus het verbod mocht niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De incidenten samen waren volgens de Advocaat-Generaal herhaaldelijk verstoren van de openbare orde.",
+    "bron": [
+     65
+    ],
+    "citaat": "In onderlinge samenhang beschouwd leveren deze incidenten zonder meer het herhaaldelijk verstoren van de openbare orde op"
+   },
+   "bruikbare_zin": {
+    "citaat": "leveren deze incidenten zonder meer het herhaaldelijk verstoren van de openbare orde op",
+    "bron": [
+     65
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Een deel van de incidenten gebeurde in Goes en niet in Middelburg.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De wet vraagt niet dat de verstoringen in dezelfde gemeente gebeurden.",
+    "bron": [
+     62
+    ],
+    "citaat": "Noch de wet, noch de toepasselijke beleidsregels stellen de eis dat de verstoringen van de openbare orde hebben plaatsgevonden"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het hof heeft het verweer niet goed beantwoord.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Vrees voor verdere verstoring kan het verweer over ernstige of herhaalde verstoring niet wegnemen.",
+    "bron": [
+     56
+    ],
+    "citaat": "kan daarom niet de verwerping dragen van het verweer dat de verdachte niet ernstig of herhaaldelijk de openbare orde heeft verstoord"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor een gebiedsverbod moet de orde ernstig of herhaaldelijk zijn verstoord én moet er ernstige vrees zijn voor verdere verstoring.",
+  "type": "regel",
+  "reikwijdte": "Gebiedsverbod van de burgemeester op grond van art. 172a lid 1 onder a Gemeentewet tegen een persoon die zelf de orde verstoort.",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   56
+  ],
+  "citaat": "Het gaat immers om twee afzonderlijke – cumulatieve – vereisten voor de oplegging van een gebiedsverbod"
+ },
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2002:AE2126",
+   "ECLI:NL:HR:2007:AZ6007",
+   "ECLI:NL:HR:2015:3325"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 172a lid 1 onder a Gemeentewet",
+  "art. 184 Sr",
+  "Beleidsregels Middelburg 2013"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Onderbouw in elk gebiedsverbod apart dat de orde ernstig of herhaaldelijk is verstoord en dat er ernstige vrees is voor verdere verstoring.",
+   "raakt": "handhaving-openbare-orde",
+   "bron": [
+    56
+   ],
+   "citaat": "Het gaat immers om twee afzonderlijke – cumulatieve – vereisten voor de oplegging van een gebiedsverbod"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "handhaving-openbare-orde",
+  "bezwaar-juridische-zaken",
+  "verordening-apv"
+ ],
+ "klantuitleg": "De burgemeester mag u een gebiedsverbod alleen geven als u de orde ernstig of meer dan eens hebt verstoord en er ernstige vrees is dat u het weer doet. Het maakt niet uit of dat steeds in dezelfde gemeente gebeurde. Vindt u het verbod onterecht, geef dan precies aan welke incidenten niet kloppen.",
+ "gemeente": "Middelburg",
+ "zekerheid": "middel"
+}

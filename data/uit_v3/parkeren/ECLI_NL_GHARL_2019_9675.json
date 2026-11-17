@@ -1,0 +1,194 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2019:9675",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder met gemachtigde",
+  "wederpartij": "gemeente Enschede (via het Gemeentelijk Belastingkantoor Twente)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder in Enschede kreeg een naheffingsaanslag (een rekening achteraf) en maakte bezwaar. De gemeente besliste niet op tijd, en de parkeerder ging in hoger beroep bij het gerechtshof Arnhem-Leeuwarden over rente en kosten.",
+ "titel": "Gemeente beslist te laat op bezwaar: rente en kosten",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente het bezwaar ten onrechte niet-ontvankelijk (niet in behandeling) verklaarde, en vernietigde de rekening.",
+  "bron": [
+   49
+  ],
+  "citaat": "is het Hof van oordeel dat de heffingsambtenaar het bezwaar van belanghebbende ten onrechte niet-ontvankelijk heeft verklaard"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controleur zag op 2 februari 2017 dat de auto zonder geldig parkeerbewijs in Enschede stond, waarna de rekening kwam.",
+   "bron": [
+    20
+   ],
+   "citaat": "is door de verbalisant geconstateerd dat het voertuig zonder geldig parkeerkaartje was geparkeerd aan de Beltstraat te Enschede"
+  },
+  {
+   "zin": "De gemeente zei bij de balie mondeling dat de rekening zou worden teruggenomen.",
+   "bron": [
+    21
+   ],
+   "citaat": "is aan belanghebbende mondeling medegedeeld dat de naheffingsaanslag zou worden teruggenomen"
+  },
+  {
+   "zin": "De gemachtigde van de parkeerder ging in beroep omdat de gemeente niet op het bezwaar beslistte.",
+   "bron": [
+    25
+   ],
+   "citaat": "beroep ingesteld tegen het niet-tijdig beslissen op het bezwaar tegen de naheffingsaanslag"
+  },
+  {
+   "zin": "De gemeente zei dat het bezwaar kennelijk niet-ontvankelijk was omdat de rekening al was teruggenomen.",
+   "bron": [
+    26
+   ],
+   "citaat": "betoogd dat het bezwaarschrift kennelijk niet-ontvankelijk was, omdat de naheffingsaanslag niet (meer) bestond"
+  },
+  {
+   "zin": "De rechter vond het bezwaar ten onrechte niet-ontvankelijk verklaard, omdat de gemeente zelf zei dat de mondelinge toezegging de rekening niet had vernietigd.",
+   "bron": [
+    49
+   ],
+   "citaat": "is het Hof van oordeel dat de heffingsambtenaar het bezwaar van belanghebbende ten onrechte niet-ontvankelijk heeft verklaard"
+  },
+  {
+   "zin": "De gemeente moet rente over de te late dwangsom (een vast bedrag per dag dat de gemeente te laat is) betalen, maar geen kosten voor het bezwaar.",
+   "bron": [
+    80
+   ],
+   "citaat": "veroordeelt de heffingsambtenaar tot vergoeding van de wettelijke rente over € 1.260 vanaf 30 april 2018 tot 19 februari 2019"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Rekening vernietigd; rente over dwangsom en proceskosten, geen bezwaarkosten",
+ "gevolg_betrokkene": {
+  "zin": "De rekening vervalt en de gemeente betaalt rente over de dwangsom van € 1.260, € 126 griffierecht en € 768 proceskosten, maar geen kosten voor het bezwaar.",
+  "bron": [
+   82
+  ],
+  "citaat": "veroordeelt de heffingsambtenaar in de proceskosten van belanghebbende tot een bedrag van € 768."
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente moet wettelijke rente betalen over de dwangsom die zij te laat heeft uitbetaald.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter rekende uit dat de gemeente vanaf 30 april 2018 rente verschuldigd is tot de betaling op 19 februari 2019.",
+    "bron": [
+     61
+    ],
+    "citaat": "vanaf 30 april 2018 tot 19 februari 2019 aan belanghebbende wettelijke rente over de dwangsom van € 1.260 verschuldigd"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Mijn beroep tegen het niet op tijd beslissen is wel ontvankelijk (mag worden behandeld).",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat er nog belang was bij een kostenveroordeling, dus het beroep was ontvankelijk.",
+    "bron": [
+     43
+    ],
+    "citaat": "Reeds daarom was belanghebbende ontvankelijk in zijn beroep."
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente moet de kosten van mijn rechtsbijstand in de bezwaarfase vergoeden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de aanslag niet door een fout van de gemeente werd teruggenomen, omdat het om een niet-geregistreerd vervangend voertuig ging.",
+    "bron": [
+     56
+    ],
+    "citaat": "Het verzoek van belanghebbende om vergoeding van de kosten voor de behandeling van het bezwaar kan daarom niet worden gehonoreerd."
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Mijn brief na het verweerschrift telt als conclusie van repliek en levert extra proceskosten op.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de rechtbank voor die brief ten onrechte geen vergoeding gaf.",
+    "bron": [
+     65
+    ],
+    "citaat": "De Rechtbank heeft ten onrechte geen vergoeding voor die conclusie van repliek toegekend."
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie in beroep gaat tegen te laat beslissen op bezwaar heeft nog belang bij een kostenveroordeling, ook als de gemeente later zegt dat de aanslag is teruggenomen.",
+  "type": "regel",
+  "reikwijdte": "Beroep tegen niet-tijdig beslissen op bezwaar waarbij de gemeente de aanslag mondeling zou terugnemen",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   43
+  ],
+  "citaat": "dat belanghebbende een belang had bij de veroordeling van de heffingsambtenaar in de kosten die belanghebbende redelijkerwijs heeft moeten maken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van de gemeente ter zitting",
+   "bezwaarschrift per e-mail",
+   "ingebrekestelling"
+  ],
+  "wat_gaf_doorslag": "De gemeente verklaarde ter zitting dat de mondelinge toezegging de aanslag niet had vernietigd."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2004:AR3504",
+   "ECLI:NL:HR:2006:AX7330",
+   "ECLI:NL:HR:2003:AF7495",
+   "ECLI:NL:CRVB:2016:3136",
+   "ECLI:NL:HR:2011:BP2995"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:75 Awb",
+  "art. 8:72 lid 3 Awb",
+  "art. 8:72 lid 4 Awb",
+  "art. 6:20 lid 3 Awb",
+  "art. 7:15 lid 2 Awb",
+  "art. 4:18 Awb",
+  "art. 4:100 Awb",
+  "art. 236 lid 2 Gemeentewet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Neem een mondelinge toezegging om een naheffing te schrappen schriftelijk op in een besluit, en beslis binnen de termijn op het bezwaar",
+   "raakt": "bezwaar",
+   "bron": [
+    42
+   ],
+   "citaat": "de mondelinge toezegging, inhoudende dat de naheffingsaanslag zou worden teruggenomen, geen vernietiging van de naheffingsaanslag tot gevolg heeft gehad"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Beslist de gemeente niet op tijd op uw bezwaar, dan kunt u recht hebben op een dwangsom (een bedrag voor elke dag dat de gemeente te laat is). Betaalt de gemeente die dwangsom te laat uit, dan komt er rente bij. Vraagt u de kosten van uw bezwaar terug, laat dan zien dat de fout bij de gemeente lag, want anders krijgt u die niet vergoed.",
+ "gemeente": "Enschede",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

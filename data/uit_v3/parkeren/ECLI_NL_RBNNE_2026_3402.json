@@ -1,0 +1,42 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2026:3402",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {"burger": "parkeerder (via gemachtigde-bureau)", "wederpartij": "officier van justitie", "gemeente_is_partij": false},
+ "procesvorm": "beroep",
+ "intro": "De parkeerder procedeerde bij de kantonrechter tegen de officier van justitie over een Wahv-boete van 129 euro. Het ging om parkeren op een plek met parkeerverbod in Leeuwarden; de officier had het beroep eerder ongegrond verklaard.",
+ "titel": "Parkeerboete blijft; geen dwangsom omdat de termijn was opgeschort",
+ "kern": {"zin": "De rechter hield de boete overeind en oordeelde dat er geen dwangsom verschuldigd was, omdat de beslistermijn door een verzoek om aanvullende gronden was opgeschort.", "bron": [25], "citaat": "De ingebrekestelling van 25 augustus 2025 was daarmee prematuur, dus heeft de officier van justitie geen dwangsom verbeurd."},
+ "samenvatting": [
+  {"zin": "De parkeerder kreeg een Wahv-boete van 129 euro voor parkeren op een plek met parkeerverbod.", "bron": [11], "citaat": "De opgelegde boete bedraagt € 129,00 (inclusief administratiekosten)."},
+  {"zin": "De parkeerder ontkende de overtreding en stelde ook de bevoegdheid van de handhaver ter discussie.", "bron": [17], "citaat": "betwist de gedraging, de bevoegdheid van de verbalisant"},
+  {"zin": "De officier van justitie meende dat de overtreding vaststond.", "bron": [18], "citaat": "stelt dat de overtreding vaststaat"},
+  {"zin": "De rechter hield de boete overeind en verlaagde hem niet.", "bron": [19], "citaat": "de kantonrechter ziet geen reden voor aanpassing van de boete"},
+  {"zin": "Omdat het beroep de beslistermijn had opgeschort, was er geen dwangsom verschuldigd.", "bron": [25], "citaat": "De ingebrekestelling van 25 augustus 2025 was daarmee prematuur"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; ook geen dwangsom of proceskosten.",
+ "gevolg_betrokkene": {"zin": "De boete van 129 euro blijft staan, en de parkeerder krijgt geen dwangsom en geen proceskostenvergoeding.", "bron": [19, 31], "citaat": "de kantonrechter ziet geen reden voor aanpassing van de boete"},
+ "steunt": null,
+ "bezwaargronden": [
+  {"arg": "bewijs-scanauto", "burger_zegt": "De parkeerder ontkent de overtreding en betwist het bewijs.", "oordeel": "verworpen", "waarom": {"zin": "Een losse ontkenning was niet genoeg om het zaakoverzicht in twijfel te trekken.", "bron": [19], "citaat": "De kantonrechter overweegt dat de enkele ontkenning uit het pro forma-beroepschrift onvoldoende is"}, "bruikbare_zin": {"citaat": "de enkele ontkenning uit het pro forma-beroepschrift onvoldoende is om te twijfelen aan de gegevens in het zaakoverzicht", "bron": [19]}},
+  {"arg": "te-laat-beslist", "burger_zegt": "De officier besliste te laat, dus is er een dwangsom verbeurd.", "oordeel": "verworpen", "waarom": {"zin": "De beslistermijn was opgeschort, dus de ingebrekestelling kwam te vroeg en er is geen dwangsom.", "bron": [25], "citaat": "De ingebrekestelling van 25 augustus 2025 was daarmee prematuur, dus heeft de officier van justitie geen dwangsom verbeurd."}, "bruikbare_zin": {"citaat": "een termijn van vier weken geboden, wat de beslistermijn heeft opgeschort", "bron": [25]}}
+ ],
+ "rechtsregel": {"zin": "Het bieden van een termijn voor aanvullende gronden schort de beslistermijn op, ook als er al gronden waren.", "type": "regel", "reikwijdte": "administratief beroep tegen een Wahv-boete waarbij om een termijn voor aanvullende gronden is gevraagd", "uitzondering": null, "herkomst": "oordeel rechter", "bron": [25], "citaat": "Dit is ongeacht of bij het administratief beroep al beroepsgronden waren aangevoerd."},
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": ["zaakoverzicht"], "wat_gaf_doorslag": "Een losse ontkenning was niet genoeg om het zaakoverzicht in twijfel te trekken."},
+ "toepasselijkheid": "landelijk",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": ["Wahv (Wet administratiefrechtelijke handhaving verkeersvoorschriften)", "art. 7:24 Awb"],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": ["bezwaar", "klantcontact"],
+ "klantuitleg": "De rechter vond de boete terecht, en er komt geen extra bedrag omdat de beslistermijn was opgeschort. Een ontkenning alleen is niet genoeg als het zaakoverzicht iets anders laat zien. Wilt u er nog iets aan doen, dan helpt concreet bewijs, zoals foto's of een betaalbewijs; de kans is op dit punt klein.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "niet genoemd in tekst of metadata",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

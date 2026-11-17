@@ -1,0 +1,157 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2025:751",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "schade-aansprakelijkheid",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {
+  "burger": "supermarkt (huurder)",
+  "wederpartij": "verhuurder Ahold en eigenaar Nevo",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "Een supermarkt in een winkelcentrum eiste schadevergoeding van de verhuurder Ahold en de eigenaar Nevo. De kantonrechter van de rechtbank Noord-Holland (locatie Haarlem) oordeelde over een parkeergarage bij het winkelcentrum die lang deels dicht was.",
+ "titel": "Supermarkt krijgt geen schadevergoeding voor deels gesloten parkeergarage",
+ "kern": {
+  "zin": "De rechter wees de vorderingen af, omdat de eigenaar niet onrechtmatig handelde en de verhuurder zich op de huurregels kan beroepen.",
+  "bron": [
+   115,
+   81
+  ],
+  "citaat": "Van onrechtmatig handelen jegens [eiseres] is geen sprake"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente sloot in oktober 2017 de parkeergarage bij het winkelcentrum, waarna die met stempels werd verstevigd.",
+   "bron": [
+    52,
+    53
+   ],
+   "citaat": "op last van de gemeente [plaats] op 26 oktober 2017 de parkeergarage"
+  },
+  {
+   "zin": "De supermarkt vindt dat het herstel onnodig lang duurde en dat zij daardoor omzet kwijtraakte.",
+   "bron": [
+    64
+   ],
+   "citaat": "dat het aan Ahold en Nevo te wijten is dat het herstel ervan onnodig lang heeft geduurd"
+  },
+  {
+   "zin": "De verhuurder Ahold wijst op een clausule die huurverlaging uitsluit.",
+   "bron": [
+    87
+   ],
+   "citaat": "dat artikel 11.3 van de Algemene Bepalingen bij de hoofdhuurovereenkomst het recht op huurvermindering uitsluit"
+  },
+  {
+   "zin": "Volgens de rechter was sneller herstel door de complexiteit niet mogelijk.",
+   "bron": [
+    115
+   ],
+   "citaat": "Eerder herstel was gelet op de complexiteit van dit geval niet mogelijk"
+  },
+  {
+   "zin": "De verhuurder kan zich op de clausule over aansprakelijkheid beroepen, dus hoeft niet te betalen.",
+   "bron": [
+    82
+   ],
+   "citaat": "het beroep van Ahold op artikel 15 van onderhuurovereenkomst"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Schadeclaim van supermarkt afgewezen; supermarkt betaalt proceskosten",
+ "gevolg_betrokkene": {
+  "zin": "De supermarkt krijgt niets en moet de proceskosten van de verhuurder en de eigenaar betalen.",
+  "bron": [
+   128
+  ],
+  "citaat": "veroordeelt [eiseres] tot betaling van de proceskosten van Ahold"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het herstel duurde veel te lang, dus de verhuurder en eigenaar zijn aansprakelijk voor de omzetschade.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat er geen onrechtmatig handelen is, omdat de eigenaar voldoende deed.",
+    "bron": [
+     115
+    ],
+    "citaat": "Van onrechtmatig handelen jegens [eiseres] is geen sprake"
+   },
+   "bruikbare_zin": {
+    "citaat": "Eerder herstel was gelet op de complexiteit van dit geval niet mogelijk",
+    "bron": [
+     115
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De supermarkt wilde huurverlaging en voerde ook de franchiseovereenkomst aan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Huurverlaging is uitgesloten door de clausule over de huur, zo oordeelt de rechter.",
+    "bron": [
+     87
+    ],
+    "citaat": "dat artikel 11.3 van de Algemene Bepalingen bij de hoofdhuurovereenkomst het recht op huurvermindering uitsluit"
+   },
+   "bruikbare_zin": {
+    "citaat": "het recht op huurvermindering uitsluit",
+    "bron": [
+     87
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een huurcontract kan de aansprakelijkheid voor gebreken uitsluiten, waardoor de verhuurder niet betaalt.",
+  "type": "regel",
+  "reikwijdte": "huur van winkelruimte; schade door bouwkundige gebreken",
+  "uitzondering": "als een beroep op de uitsluiting naar redelijkheid onaanvaardbaar is (hier niet aan de orde)",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   81
+  ],
+  "citaat": "In dat artikel wordt de aansprakelijkheid voor schade als gevolg van gebreken uitgesloten"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "correspondentie tussen Ahold en Nevo",
+   "rapporten van de constructeurs",
+   "stukken bij de dagvaarding van Nevo"
+  ],
+  "wat_gaf_doorslag": "Het onderbouwde feitenrelaas van Nevo; de supermarkt kon niet concreet zeggen wat sneller had gekund."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 7:204 lid 2 BW",
+  "art. 6:174 BW",
+  "art. 6:184 lid 1 sub b BW",
+  "art. 6:162 BW",
+  "art. 6:258 BW",
+  "art. 7:207 BW",
+  "art. 7:912 BW",
+  "art. 7:919 BW"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "vergunningen",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u schade wilt vragen omdat een parkeergarage langer dicht was, moet u aantonen dat de eigenaar of verhuurder iets verweten kan worden. In deze zaak lukte dat niet, omdat het herstel technisch zo complex was. Kijk eerst in uw huurcontract naar clausules over aansprakelijkheid, want die kunnen een schadeclaim uitsluiten.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

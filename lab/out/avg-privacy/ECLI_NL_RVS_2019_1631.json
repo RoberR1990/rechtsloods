@@ -1,0 +1,177 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2019:1631",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Wierden",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Deze zaak gaat over een vrouw die haar naam en geboortegegevens in de basisregistratie personen (BRP) wil laten veranderen. De gemeente Wierden weigerde dat, en de Raad van State heeft beoordeeld of die weigering terecht is.",
+ "titel": "Geen BRP-wijziging zonder zeker bewijs",
+ "kern": {
+  "zin": "De Raad van State vindt dat de gemeente de BRP-gegevens niet hoeft te wijzigen, omdat niet zeker is dat die gegevens onjuist zijn.",
+  "bron": [
+   38
+  ],
+  "citaat": "niet onomstotelijk is komen vast te staan dat de in de brp geregistreerde gegevens onjuist zijn"
+ },
+ "samenvatting": [
+  {
+   "zin": "De vrouw staat in de BRP met gegevens die zij in haar asielprocedure onder ede heeft verklaard.",
+   "bron": [
+    19
+   ],
+   "citaat": "Deze gegevens zijn ontleend aan een door haar op 7 april 2005 afgelegde verklaring onder ede"
+  },
+  {
+   "zin": "Zij vroeg de gemeente om haar naam en geboortedatum te veranderen en gaf daarbij veel documenten.",
+   "bron": [
+    19
+   ],
+   "citaat": "Zij heeft het college verzocht om haar gegevens te wijzigen in [naam], geboren op [1975] te Fujian (China)."
+  },
+  {
+   "zin": "De gemeente wees het verzoek af, omdat volgens haar niet zeker is dat de gegevens onjuist zijn.",
+   "bron": [
+    27
+   ],
+   "citaat": "niet onomstotelijk is komen vast te staan dat de haar betreffende gegevens in de brp onjuist zijn"
+  },
+  {
+   "zin": "De rechtbank en de Raad van State vonden dat de gemeente mocht weigeren, omdat er redelijke twijfel blijft of zij dezelfde persoon is als in de documenten.",
+   "bron": [
+    37
+   ],
+   "citaat": "Daardoor blijft ook wanneer de documenten in onderlinge samenhang worden bezien redelijke twijfel bestaan of [appellante] [naam] is."
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    40
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak moet worden bevestigd."
+  },
+  {
+   "zin": "Er komt geen vergoeding voor proceskosten.",
+   "bron": [
+    41
+   ],
+   "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De gemeente hoeft de BRP-gegevens niet te wijzigen; het hoger beroep faalt.",
+ "gevolg_betrokkene": {
+  "zin": "Zij krijgt geen vergoeding voor proceskosten en haar gegevens in de BRP blijven staan.",
+  "bron": [
+   41
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Mijn gegevens in de BRP zijn onjuist; uit de documenten blijkt dat ik de persoon ben die onder de andere naam wordt genoemd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Raad van State vindt dat de vrouw niet heeft aangetoond dat zij dezelfde persoon is als in de documenten.",
+    "bron": [
+     37
+    ],
+    "citaat": "niet heeft aangetoond dat zij dezelfde persoon is als degene die onder de [naam]"
+   },
+   "bruikbare_zin": {
+    "citaat": "kan alleen maar worden geleverd door overlegging van de juiste brondocumenten",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De documenten moeten samen worden bekeken; het is niet nodig dat elk document apart bewijst dat ik dezelfde persoon ben.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Ook als de Raad alle documenten samen bekijkt, blijft er redelijke twijfel of zij dezelfde persoon is.",
+    "bron": [
+     37
+    ],
+    "citaat": "Daardoor blijft ook wanneer de documenten in onderlinge samenhang worden bezien redelijke twijfel bestaan of [appellante] [naam] is."
+   },
+   "bruikbare_zin": {
+    "citaat": "redelijke twijfel bestaan of [appellante] [naam] is",
+    "bron": [
+     37
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente mag gegevens in de BRP alleen veranderen als heel zeker is dat de oude gegevens feitelijk onjuist zijn.",
+  "type": "regel",
+  "reikwijdte": "Wijziging van gegevens die al in de basisregistratie personen staan.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   33
+  ],
+  "citaat": "zal gelet op het systeem van de Wet basisregistratie personen onomstotelijk moeten vaststaan dat deze feitelijk onjuist zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "Chinees paspoort",
+   "notariële geboorteverklaring",
+   "verklaringen over het hukou-register",
+   "DNA-verwantschapsonderzoek",
+   "gezichtsvergelijkend onderzoek door de IND"
+  ],
+  "wat_gaf_doorslag": "Het DNA-onderzoek toonde alleen aan dat zij een dochter is van [persoon], maar niet welke dochter; daardoor bleef twijfel bestaan."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2019:233"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2.7 Wet basisregistratie personen",
+  "art. 2.8 Wet basisregistratie personen",
+  "art. 2.58 Wet basisregistratie personen"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Beoordeel bij een verzoek om BRP-wijziging alle overgelegde documenten in samenhang.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    37
+   ],
+   "citaat": "Daardoor blijft ook wanneer de documenten in onderlinge samenhang worden bezien redelijke twijfel bestaan of [appellante] [naam] is."
+  },
+  {
+   "actie": "Maak in het besluit kenbaar welke twijfel blijft bestaan over de identiteit.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    37
+   ],
+   "citaat": "heeft het college deze twijfel bovendien al bij de besluiten van 20 oktober 2017 en 28 maart 2018 kenbaar gemaakt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp"
+ ],
+ "klantuitleg": "De gemeente hoeft uw naam of geboortedatum in de basisregistratie personen (BRP) niet te veranderen als niet helemaal zeker is dat de oude gegevens fout zijn. Laat daarom alle documenten samen zien; twijfelt de gemeente daarna nog, dan blijven de gegevens staan. Heeft u niet zulke sterke bewijzen, dan heeft een verzoek om wijziging weinig kans.",
+ "gemeente": "Wierden",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,167 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2020:380",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "burger (woont in Ede)",
+  "wederpartij": "gemeente Ede",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een inwoner van Ede wilde zijn persoonsgegevens in de basisregistratie personen (BRP, het register van inwoners) laten wijzigen. De gemeente Ede wees dit af en de zaak kwam in hoger beroep bij de Raad van State.",
+ "titel": "BRP-gegevens wijzigen kan alleen met sterk bewijs",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente het verzoek terecht afwees, omdat een geldig brondocument ontbrak.",
+  "bron": [
+   64
+  ],
+  "citaat": "het college reeds daarom het verzoek terecht heeft afgewezen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg om zijn persoonsgegevens in de BRP te wijzigen.",
+   "bron": [
+    21
+   ],
+   "citaat": "heeft op 7 maart 2017 het verzoek gedaan om zijn persoonsgegevens te wijzigen"
+  },
+  {
+   "zin": "De gemeente wees het verzoek af, omdat niet onomstotelijk vaststond dat de gegevens onjuist waren.",
+   "bron": [
+    33
+   ],
+   "citaat": "omdat niet onomstotelijk vast staat dat de persoonsgegevens onjuist in de brp zijn vermeld"
+  },
+  {
+   "zin": "De burger vond dat de rechtbank de gemeente ten onrechte had gevolgd.",
+   "bron": [
+    35
+   ],
+   "citaat": "betoogt dat de rechtbank het standpunt van het college ten onrechte heeft gevolgd"
+  },
+  {
+   "zin": "De rechter zegt dat een wijziging in de BRP alleen kan als onomstotelijk vaststaat dat de gegevens onjuist zijn.",
+   "bron": [
+    44
+   ],
+   "citaat": "zal gelet op het systeem van de Wet brp onomstotelijk moeten vaststaan dat deze feitelijk onjuist zijn"
+  },
+  {
+   "zin": "De burger veranderde twee keer van standpunt over het brondocument, en dat maakte hem minder geloofwaardig.",
+   "bron": [
+    63
+   ],
+   "citaat": "het tot twee maal toe wijzigen van zijn standpunt over het document waarop het notarieel certificaat is gebaseerd afbreuk doet aan de geloofwaardigheid"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    65
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "De gemeente mocht het verzoek afwijzen.",
+ "gevolg_betrokkene": {
+  "zin": "De gegevens in de BRP blijven zoals ze zijn en er is geen vergoeding van proceskosten; over griffierecht staat niets in de beslissing.",
+  "bron": [
+   66
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Mijn gegevens in de BRP zijn onjuist en moeten worden aangepast; mijn documenten voldoen aan de eisen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er ontbrak een geldig document waarop het notarieel certificaat is gebaseerd, dus de afwijzing was terecht.",
+    "bron": [
+     64
+    ],
+    "citaat": "een geldig document als bedoeld onder 1 van de Circulaire ontbreekt, zodat de rechtbank met juistheid heeft geoordeeld dat het college reeds daarom het verzoek terecht heeft afgewezen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het bewijs dat eenmaal in de brp opgenomen gegevens feitelijk onjuist zijn, kan alleen worden geleverd door overlegging van de juiste brondocumenten",
+    "bron": [
+     44
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De regels van de gemeente (de Circulaire) zijn niet bindend.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente mocht de Circulaire gebruiken voor de beoordeling.",
+    "bron": [
+     59
+    ],
+    "citaat": "geen aanleiding te oordelen dat het college de Circulaire niet voor zijn beoordeling heeft mogen hanteren"
+   },
+   "bruikbare_zin": {
+    "citaat": "Deze werkwijze is niet dwingend voorgeschreven maar is een richtlijn met het dringend verzoek deze werkwijze toe te passen",
+    "bron": [
+     59
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een gegeven in de BRP wijzigen kan alleen als onomstotelijk vaststaat dat het feitelijk onjuist is, aan de hand van de juiste brondocumenten.",
+  "type": "regel",
+  "reikwijdte": "Verzoek om gegevens die al in de BRP staan te wijzigen",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   44
+  ],
+  "citaat": "Voor het wijzigen van eenmaal in de brp geregistreerde gegevens zal gelet op het systeem van de Wet brp onomstotelijk moeten vaststaan dat deze feitelijk onjuist zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "notarieel certificaat",
+   "verklaring van het Public Security Bureau",
+   "hukou",
+   "DNA-onderzoeksrapport"
+  ],
+  "wat_gaf_doorslag": "Een geldig brondocument voor het notarieel certificaat ontbrak en de burger wisselde van standpunt."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2015:2285"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2.8 Wet brp"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij een buitenlands notarieel certificaat op welk brondocument het is gebaseerd en leg dat vast in het dossier.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    60
+   ],
+   "citaat": "moet het onder 1 van de Circulaire bedoelde notarieel certificaat zijn gebaseerd op één of meer van de onder 2 van de Circulaire bedoelde documenten"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "bezwaar"
+ ],
+ "klantuitleg": "De gemeente past gegevens in de BRP (het register van inwoners) alleen aan als vaststaat dat ze fout zijn. U moet dat bewijzen met de juiste brondocumenten, bijvoorbeeld uit het land van herkomst. Wilt u een wijziging, lever dan zo sterk mogelijke documenten aan en blijf consequent in uw uitleg over waar ze op zijn gebaseerd.",
+ "gemeente": "Ede",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

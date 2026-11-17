@@ -1,0 +1,172 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2017:10964",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "kentekenhouder met gemachtigde",
+  "wederpartij": "gemeente Almere",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een autobezitter wilde in hoger beroep de kosten van haar bezwaar tegen een parkeernaheffing van de gemeente Almere vergoed krijgen. Bij het Gerechtshof Arnhem-Leeuwarden ging het ook over te veel betaald griffierecht (kosten voor het voeren van de zaak).",
+ "titel": "Verkeerd kenteken in app: rekening vervalt, bezwaarkosten niet vergoed",
+ "kern": {
+  "zin": "De gemeente had de naheffing al ingetrokken en hoefde de bezwaarkosten niet te vergoeden, maar de burger krijgt wel te veel betaald griffierecht terug.",
+  "bron": [
+   44
+  ],
+  "citaat": "heeft de heffingsambtenaar de normale zorgvuldigheid betracht bij het vaststellen van de naheffingsaanslag"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger betaalde via de app Parkmobile, maar vulde een ander kenteken in dan dat van haar auto.",
+   "bron": [
+    18
+   ],
+   "citaat": "dus een ander kenteken dan van de auto"
+  },
+  {
+   "zin": "De gemeente trok de naheffing na het bezwaar in, maar weigerde de bezwaarkosten te vergoeden.",
+   "bron": [
+    22
+   ],
+   "citaat": "bij uitspraak op bezwaar de naheffingsaanslag vernietigd en het verzoek om een proceskostenvergoeding afgewezen"
+  },
+  {
+   "zin": "De burger vond dat de gemeente rekening had moeten houden met een typefout bij het invullen van het kenteken.",
+   "bron": [
+    42
+   ],
+   "citaat": "had de heffingsambtenaar rekening moeten houden met de mogelijkheid van een verschrijving bij het invoeren van het kenteken"
+  },
+  {
+   "zin": "De gemeente vond dat het foute kenteken niet aan haar te wijten was.",
+   "bron": [
+    43
+   ],
+   "citaat": "een verkeerd kenteken heeft ingevoerd, kan derhalve niet aan hem worden toegerekend"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente niet hoefde uit te zoeken of er een typefout was gemaakt.",
+   "bron": [
+    44
+   ],
+   "citaat": "De heffingsambtenaar is niet verplicht om, zoals belanghebbende stelt, een nader onderzoek in te stellen"
+  },
+  {
+   "zin": "De rechtbank had te veel griffierecht gevraagd (€ 167 in plaats van € 45), dus het hof laat het teveel terugbetalen.",
+   "bron": [
+    46
+   ],
+   "citaat": "het teveel geheven griffierecht van € 122 aan belanghebbende terug te betalen"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Naheffing al vernietigd; alleen griffierecht en proceskosten van het hof.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen bezwaarkosten, maar wel € 122 te veel betaald griffierecht, € 124 griffierecht van het hof en € 247,50 proceskosten terug.",
+  "bron": [
+   56,
+   57,
+   58
+  ],
+  "citaat": "gelast dat de griffier aan belanghebbende het teveel geheven griffierecht van € 122 terugbetaalt"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Zij had wel betaald, maar een ander kenteken ingevuld; de gemeente had dat moeten onderzoeken en moet daarom de bezwaarkosten betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente hoefde geen nader onderzoek te doen voordat zij een naheffing oplegde.",
+    "bron": [
+     44
+    ],
+    "citaat": "De heffingsambtenaar is niet verplicht om, zoals belanghebbende stelt, een nader onderzoek in te stellen"
+   },
+   "bruikbare_zin": {
+    "citaat": "De heffingsambtenaar is niet verplicht om, zoals belanghebbende stelt, een nader onderzoek in te stellen voordat hij een naheffingsaanslag oplegt",
+    "bron": [
+     44
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De rechtbank vroeg € 167 griffierecht, terwijl dat € 45 had moeten zijn.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het griffierecht voor deze zaak was lager, dus het hof liet het teveel betaalde terugbetalen.",
+    "bron": [
+     46
+    ],
+    "citaat": "Het Hof zal daarom doen wat de Rechtbank had behoren te doen en de griffier gelasten het teveel geheven griffierecht"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente had het verweerschrift buiten beschouwing moeten laten, omdat het geen originele handtekening had.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Geen regel eist een originele handtekening op een verweerschrift.",
+    "bron": [
+     32
+    ],
+    "citaat": "Geen rechtsregel vereist dat een verweerschrift is voorzien van een originele, met pen geplaatste, handtekening"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bezwaarkosten worden alleen vergoed als het besluit wordt ingetrokken door een fout van de gemeente.",
+  "type": "regel",
+  "reikwijdte": "Vergoeding van de kosten van bezwaar als de gemeente de naheffing herroept",
+  "uitzondering": "Is de fout aan de burger te wijten, dan is er geen recht op vergoeding",
+  "herkomst": "wet",
+  "bron": [
+   35
+  ],
+  "citaat": "voor zover het bestreden besluit wordt herroepen wegens aan het bestuursorgaan te wijten onrechtmatigheid"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "betalingsbewijs Parkmobile"
+  ],
+  "wat_gaf_doorslag": "De gemeente had geen informatie dat voor deze auto was betaald en kon die ook niet hebben."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2016:316",
+   "ECLI:NL:HR:2010:BM7705",
+   "ECLI:NL:HR:2017:957"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:15 Awb",
+  "art. 20 AWR",
+  "art. 6 Verordening parkeerbelastingen 2015 Almere",
+  "art. 225 Gemeentewet",
+  "art. 8:41 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "uitspraak bevestigt bestaande werkwijze van de gemeente; geen nieuwe actie",
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "betaalapp"
+ ],
+ "klantuitleg": "Vult u in de parkeerapp een verkeerd kenteken in, dan ziet de controleur geen betaling voor uw auto en kunt u een rekening achteraf krijgen. Heeft u wel betaald, dan kan de gemeente die rekening intrekken, maar de kosten van iemand die voor u bezwaar maakt krijgt u dan meestal niet terug. Stuur uw betalingsbewijs daarom meteen mee met uw bezwaar.",
+ "gemeente": "Almere",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

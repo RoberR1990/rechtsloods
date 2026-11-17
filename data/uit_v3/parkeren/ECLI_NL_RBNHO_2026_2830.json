@@ -1,0 +1,164 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2026:2830",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Zaanstad",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg in Zaandam een naheffingsaanslag (de rekening achteraf) van 81,90 euro, omdat zij in de app de verkeerde zone koos. Zij ging in beroep bij de rechtbank Noord-Holland tegen de gemeente Zaanstad.",
+ "titel": "Verkeerde zone in parkeerapp: parkeerder betaalt toch de rekening",
+ "kern": {
+  "zin": "Volgens de rechter lag de controle van de zone bij de parkeerder zelf, en bleef de aanslag daarom staan.",
+  "bron": [
+   26
+  ],
+  "citaat": "De parkeerder heeft volgens vaste rechtspraak een onderzoeksplicht voorafgaand aan het parkeren"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een scanauto zag op 9 april 2025 in Zaandam dat voor de auto geen parkeerbelasting was betaald.",
+   "bron": [
+    18
+   ],
+   "citaat": "Met een scanauto is geconstateerd dat voor de auto in deze zone geen parkeerbelasting was betaald"
+  },
+  {
+   "zin": "Zij zei dat de app de verkeerde zone koos en vroeg om coulance.",
+   "bron": [
+    21
+   ],
+   "citaat": "Kennelijk heeft de app bij deze parkeeractie de verkeerde zone-code geselecteerd"
+  },
+  {
+   "zin": "Volgens de gemeente had zij bij het aanmelden in de app moeten controleren of de zone klopte.",
+   "bron": [
+    22
+   ],
+   "citaat": "had bij aanmelding via de parkeerapp moeten controleren"
+  },
+  {
+   "zin": "Volgens de rechter is een naheffing (de rekening achteraf) geen straf, dus of zij zich vergiste telt niet mee.",
+   "bron": [
+    27
+   ],
+   "citaat": "de naheffingsaanslag is geen boete en dus geen straf"
+  },
+  {
+   "zin": "Een beroep op evenredigheid haalde het niet: de gemeente heeft bij zo'n aanslag geen keuze.",
+   "bron": [
+    30
+   ],
+   "citaat": "Naheffingsaanslagen zijn echter gebonden beschikkingen"
+  },
+  {
+   "zin": "De aanslag blijft staan, en de parkeerder krijgt geen proceskostenvergoeding.",
+   "bron": [
+    31,
+    33
+   ],
+   "citaat": "De naheffingsaanslag is terecht en naar het juiste bedrag opgelegd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; aanslag van 81,90 euro blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt de aanslag van 81,90 euro en krijgt geen proceskostenvergoeding.",
+  "bron": [
+   18,
+   33
+  ],
+  "citaat": "opgelegd voor een bedrag van € 81,90"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Zij had wel betaald, maar de app koos per ongeluk de verkeerde zone.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Ook als de app de zone zelf invult, blijft de parkeerder verantwoordelijk.",
+    "bron": [
+     26
+    ],
+    "citaat": "Dit geldt ook wanneer een zone automatisch door een parkeerapp wordt ingevuld"
+   },
+   "bruikbare_zin": {
+    "citaat": "De parkeerder heeft volgens vaste rechtspraak een onderzoeksplicht voorafgaand aan het parkeren",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De aanslag staat niet in verhouding tot de te weinig betaalde parkeerbelasting.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Omdat de wet de aanslag verplicht stelt, toetst de rechter de hoogte niet aan evenredigheid.",
+    "bron": [
+     30
+    ],
+    "citaat": "Naheffingsaanslagen zijn echter gebonden beschikkingen"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat de wetgever ervoor heeft gekozen dat als parkeerbelasting verschuldigd is",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een naheffing moet de gemeente de aanslag opleggen zodra de parkeerbelasting verschuldigd is.",
+  "type": "regel",
+  "reikwijdte": "naheffingsaanslagen parkeerbelasting",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   30
+  ],
+  "citaat": "dat de wetgever ervoor heeft gekozen dat als parkeerbelasting verschuldigd is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "uitdraai van de parkeerapp"
+  ],
+  "wat_gaf_doorslag": "De verkeerde zone in de app ontsloeg de parkeerder niet van de onderzoeksplicht."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2000:AA6508",
+   "ECLI:NL:GHAMS:2016:1211",
+   "ECLI:NL:GHDHA:2025:464",
+   "ECLI:NL:HR:2024:1535"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 lid 3 Gemeentewet",
+  "art. 3 lid 1 Besluit gemeentelijke parkeerbelastingen",
+  "art. 9 lid 1 Verordening Parkeerbelastingen Zaanstad 2025"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter stelt geen eis aan de gemeente; bevestigt alleen de gebonden aanslag",
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "tarief-naheffing",
+  "betaalapp"
+ ],
+ "klantuitleg": "Controleer altijd of de app de juiste zone heeft gekozen voordat u gaat parkeren; die controle ligt bij u, ook als de app de zone verkeerd zet. Krijgt u een naheffing (de rekening achteraf), dan is die bij een te laag betaald bedrag meestal terecht. Bezwaar of beroep maakt op dit punt weinig kans, tenzij er echt bijzondere omstandigheden waren, zoals een acute noodsituatie.",
+ "gemeente": "Zaanstad",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

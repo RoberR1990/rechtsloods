@@ -1,0 +1,134 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2024:1417",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bezoekersregeling",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Veere",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "voorlopige voorziening",
+ "intro": "Een bewoner vraagt de rechter om een voorlopige voorziening (een tijdelijke maatregel tot de zaak is beslist). Het gaat om het intrekken van parkeervergunningen 'vrij van kenteken' in de gemeente Veere; de zaak ligt bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Veere: bewoner krijgt geen tijdelijke maatregel tegen intrekking parkeervergunning",
+ "kern": {
+  "zin": "De rechter wees het verzoek af, omdat een financieel belang op zichzelf geen spoedeisend belang is.",
+  "bron": [
+   15
+  ],
+  "citaat": "Dat financiële belang levert geen spoedeisend belang bij een verzoek om voorlopige voorziening op"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner ging in beroep tegen de beslissing op het bezwaar over het intrekken van de parkeervergunningen.",
+   "bron": [
+    8
+   ],
+   "citaat": "Verzoeker heeft beroep ingesteld tegen de beslissing op bezwaar"
+  },
+  {
+   "zin": "Volgens de bewoner kost het bezoek via de Visite-app per dag 1,50 euro, met een maximum van 150 euro per jaar.",
+   "bron": [
+    13
+   ],
+   "citaat": "Volgens verzoeker bedragen de kosten via die app"
+  },
+  {
+   "zin": "De gemeente geeft bewoners een bezoekersvergunning die als tegoed in de Visite-app werkt.",
+   "bron": [
+    12
+   ],
+   "citaat": "Aan de bewoners wordt ten hoogste één parkeervergunning verleend voor het ontvangen van hun bezoekers"
+  },
+  {
+   "zin": "De rechter vond dat een financieel belang op zichzelf geen reden is voor een voorlopige voorziening.",
+   "bron": [
+    15
+   ],
+   "citaat": "Uit vaste jurisprudentie blijkt dat een financieel belang op zichzelf geen reden is om een voorlopige voorziening te treffen"
+  },
+  {
+   "zin": "De rechter wees het verzoek af en zag geen reden voor een vergoeding van proceskosten.",
+   "bron": [
+    16
+   ],
+   "citaat": "zal het verzoek om een voorlopige voorziening daarom afwijzen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Verzoek om voorlopige voorziening afgewezen; geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner krijgt geen tijdelijke maatregel en ook geen vergoeding van proceskosten.",
+  "bron": [
+   16
+  ],
+  "citaat": "Voor een proceskostenvergoeding bestaat daarom geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Hij vreest dat het maximum van 150 euro per jaar op 1 juni 2024 al bereikt is.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat alleen een financieel belang geen reden is voor een voorlopige maatregel.",
+    "bron": [
+     15
+    ],
+    "citaat": "Uit vaste jurisprudentie blijkt dat een financieel belang op zichzelf geen reden is om een voorlopige voorziening te treffen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat financiële belang levert geen spoedeisend belang bij een verzoek om voorlopige voorziening op",
+    "bron": [
+     15
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een financieel belang op zichzelf is geen reden voor een voorlopige voorziening.",
+  "type": "regel",
+  "reikwijdte": "verzoeken om een voorlopige voorziening die alleen een financieel belang hebben",
+  "uitzondering": "als aannemelijk is gemaakt dat een financiële noodsituatie dreigt",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   15
+  ],
+  "citaat": "Uit vaste jurisprudentie blijkt dat een financieel belang op zichzelf geen reden is om een voorlopige voorziening te treffen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Er was geen onderbouwing van een financiële noodsituatie."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2021:91"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:81 lid 1 Awb",
+  "art. 8:83 lid 3 Awb",
+  "art. 2 Uitvoeringsbesluit Parkeerverordening Gemeente Veere 2023",
+  "art. 5 Uitvoeringsbesluit Parkeerverordening Gemeente Veere 2023",
+  "art. 6 Uitvoeringsbesluit Parkeerverordening Gemeente Veere 2023",
+  "art. 11 Uitvoeringsbesluit Parkeerverordening Gemeente Veere 2023"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter eiste niets van de gemeente; verzoek afgewezen op ontbreken van spoed",
+ "raakt": [
+  "vergunningen",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "In deze zaak ging het om het intrekken van een parkeervergunning voor bezoek, en de rechter zag geen dringende reden om dat nu tijdelijk tegen te houden. Alleen financiële kosten zijn volgens de rechter op zichzelf geen reden voor zo'n tijdelijke maatregel. Komt u in een echte financiële noodsituatie, dan kunt u dat met cijfers en stukken onderbouwen.",
+ "gemeente": "Veere",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

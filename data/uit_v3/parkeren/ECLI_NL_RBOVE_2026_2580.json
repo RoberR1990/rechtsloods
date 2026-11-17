@@ -1,0 +1,140 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2026:2580",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (eigenaar van de auto)",
+  "wederpartij": "belastingsamenwerking Deventer, Olst-Wijhe en Raalte",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder vocht bij de rechtbank Overijssel een naheffing (de rekening achteraf) aan die de belastingsamenwerking had opgelegd. Het ging om parkeren in Deventer waarbij een betaling mislukte en later werd teruggestort.",
+ "titel": "Mislukte parkeerbetaling: de rekening blijft staan",
+ "kern": {
+  "zin": "Volgens de rechter was er niet betaald, want de betaling was mislukt en teruggestort.",
+  "bron": [
+   22
+  ],
+  "citaat": "Daarmee staat vast dat de verschuldigde parkeerbelasting niet is voldaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle bleek de parkeerder in Deventer zonder geldig parkeerrecht te staan.",
+   "bron": [
+    14
+   ],
+   "citaat": "is op dat tijdstip geconstateerd dat voor de auto geen geldig parkeerrecht bestond"
+  },
+  {
+   "zin": "Volgens de parkeerder was de betaling in orde, want het geld was echt weg van de rekening.",
+   "bron": [
+    18
+   ],
+   "citaat": "Het bedrag van € 5,90 is daadwerkelijk van de rekening afgeschreven"
+  },
+  {
+   "zin": "Volgens de belastingsamenwerking was de betaling onvolledig, en de automaat toont de oorzaak niet.",
+   "bron": [
+    19
+   ],
+   "citaat": "De reden voor de onvolledige transactie wordt niet weergegeven op de parkeerautomaat"
+  },
+  {
+   "zin": "De rechter legde het risico van de teruggedraaide betaling bij de parkeerder.",
+   "bron": [
+    23
+   ],
+   "citaat": "Dat ligt in de risicosfeer van belanghebbende"
+  },
+  {
+   "zin": "De parkeerder houdt de rekening en krijgt het griffierecht niet terug.",
+   "bron": [
+    26
+   ],
+   "citaat": "Dat betekent dat de naheffing in stand blijft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing van 79,43 euro blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De rekening van 79,43 euro blijft staan, en de parkeerder krijgt het griffierecht niet terug.",
+  "bron": [
+   26,
+   8
+  ],
+  "citaat": "Belanghebbende krijgt daarom het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "Zij zegt dat de automaat niet goed werkte en geen foutmelding gaf.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Zonder bewijs van een defecte automaat ging de rechter daar niet in mee.",
+    "bron": [
+     22
+    ],
+    "citaat": "zonder dat belanghebbende een begin van bewijs heeft geleverd dat dit euvel"
+   },
+   "bruikbare_zin": {
+    "citaat": "dit niet betalen ligt niet in de risicosfeer van de heffingsambtenaar",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Alleen als er te weinig is betaald, mag de gemeente een naheffing sturen.",
+  "type": "regel",
+  "reikwijdte": "naheffing parkeerbelasting",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   20
+  ],
+  "citaat": "Naheffing van parkeerbelasting is alleen mogelijk als de belasting"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "transactiedetails van de parkeerautomaat",
+   "bankafschriften en overzichten van de parkeerder"
+  ],
+  "wat_gaf_doorslag": "De transactiedetails lieten zien dat de betaling mislukte; de parkeerder had geen begin van bewijs van een defect."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 20 lid 1 AWR"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zorg dat de parkeerautomaat bij een mislukte betaling altijd een duidelijke melding op het display toont.",
+   "raakt": "betaalapp",
+   "bron": [
+    19
+   ],
+   "citaat": "Een melding van de mislukte betaaltransactie wordt weergegeven op het display van de parkeerautomaat"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "betaalapp",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Als de parkeerautomaat meldt dat een betaling is mislukt, dan geldt het parkeren als niet betaald. Heeft u die melding gemist, dan ligt het risico bij u. Ziet u een afschrijving die later is teruggestort, vraag dan uw bank waarom dat gebeurde.",
+ "gemeente": "Deventer, Olst-Wijhe en Raalte (belastingsamenwerking)",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,176 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2025:13378",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "algoritme-ai",
+ "kenmerk": null,
+ "zaaktype": "overig",
+ "partijen": {
+  "burger": "visumaanvragers (moeder en kind)",
+  "wederpartij": "minister van Buitenlandse Zaken",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een moeder en haar kind uit Guinee vroegen een visum voor kort verblijf aan en kregen een afwijzing. Zij gaan bij de rechtbank Den Haag in beroep tegen de minister van Buitenlandse Zaken, ook omdat het algoritme van de minister zou discrimineren.",
+ "titel": "Visum geweigerd; claim over discriminerend algoritme niet onderbouwd",
+ "kern": {
+  "zin": "De rechter vindt de stelling dat het algoritme discrimineert niet onderbouwd, en de afwijzing van het visum blijft staan.",
+  "bron": [
+   42
+  ],
+  "citaat": "De rechtbank volgt eisers niet in de enkele stelling dat in de BAO discriminerende componenten zijn verwerkt"
+ },
+ "samenvatting": [
+  {
+   "zin": "De minister weigerde de visa, omdat de band van de aanvragers met Guinee volgens hem onvoldoende was aangetoond.",
+   "bron": [
+    26
+   ],
+   "citaat": "omdat volgens hem de sociale en economische binding van eisers met Guinee onvoldoende is aangetoond"
+  },
+  {
+   "zin": "De aanvragers zeggen dat de minister kunstmatige intelligentie (AI) gebruikt waarin discriminerende onderdelen zitten.",
+   "bron": [
+    27
+   ],
+   "citaat": "dat de minister bij de primaire besluiten artificiële intelligentie (AI) gebruikt, waarin discriminerende componenten zijn verwerkt"
+  },
+  {
+   "zin": "De minister zegt dat het algoritme niet leidt tot vooringenomenheid, omdat een medewerker zelf de beslissing neemt.",
+   "bron": [
+    41
+   ],
+   "citaat": "Volgens de minister leidt de BAO niet tot vooringenomenheid (bias), omdat de beslisser zelf een beslissing moet nemen"
+  },
+  {
+   "zin": "De rechter vindt dat de aanvragers hun stelling over discriminatie niet nader hebben onderbouwd.",
+   "bron": [
+    42
+   ],
+   "citaat": "De rechtbank volgt eisers niet in de enkele stelling dat in de BAO discriminerende componenten zijn verwerkt"
+  },
+  {
+   "zin": "De rechter vindt dat de minister in redelijkheid kon twijfelen of de aanvragers op tijd zouden terugkeren.",
+   "bron": [
+    37
+   ],
+   "citaat": "De minister heeft daarom in redelijkheid kunnen twijfelen aan het voornemen van eisers om tijdig terug te keren."
+  },
+  {
+   "zin": "De beroepen zijn ongegrond; de aanvragers krijgen hun proceskosten niet vergoed.",
+   "bron": [
+    48
+   ],
+   "citaat": "Eisers krijgen daarom geen vergoeding van hun proceskosten."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroepen ongegrond; de visumweigering blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De visa blijven geweigerd en de aanvragers krijgen geen proceskosten vergoed; griffierecht hoeven zij niet te betalen.",
+  "bron": [
+   48
+  ],
+  "citaat": "Eisers krijgen daarom geen vergoeding van hun proceskosten."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De aanvragers zeggen dat zij genoeg band met Guinee hebben aangetoond, met werk, inkomen en zorg voor anderen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de minister kon vinden dat de sociale en economische band onvoldoende is aangetoond.",
+    "bron": [
+     37
+    ],
+    "citaat": "dat de sociale en economische binding van eisers met Guinee onvoldoende is aangetoond"
+   },
+   "bruikbare_zin": {
+    "citaat": "Voor zover eiseres in beroep heeft gesteld dat zij mantel- en ouderenzorg verleend, heeft zij dit niet met stukken onderbouwd",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De aanvragers zeggen dat het algoritme van de minister Guinee als negatief punt gebruikt en daardoor discrimineert.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ziet de stelling als te weinig onderbouwd, ook niet op de zitting.",
+    "bron": [
+     42
+    ],
+    "citaat": "omdat zij dit niet nader – ook niet desgevraagd ter zitting – hebben onderbouwd"
+   },
+   "bruikbare_zin": {
+    "citaat": "De enkele niet geconcretiseerde verwijzing ter zitting naar niet overgelegde artikelen over de toeslagenaffaire, leidt niet tot een ander oordeel",
+    "bron": [
+     42
+    ]
+   }
+  },
+  {
+   "arg": "motivering",
+   "burger_zegt": "De aanvragers zeggen dat de minister hen in bezwaar had moeten horen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat de minister mocht afzien van horen omdat in bezwaar geen nieuwe bewijsstukken kwamen.",
+    "bron": [
+     46
+    ],
+    "citaat": "Eisers hebben in bezwaar namelijk geen nieuwe bewijsstukken ingediend ter onderbouwing van de sociale en economische binding met Guinee"
+   },
+   "bruikbare_zin": {
+    "citaat": "Een bezwaar is kennelijk ongegrond als er op voorhand redelijkerwijs geen twijfel over mogelijk is dat het in bezwaar aangevoerde niet tot een ander standpunt kan leiden",
+    "bron": [
+     45
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Alleen zeggen dat een algoritme discrimineert is niet genoeg als de minister dat met uitleg en rapporten weerspreekt en de burger daar niet op ingaat.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Visumbesluiten waarbij het algoritme BAO is gebruikt en de stelling over discriminatie niet is onderbouwd",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   42
+  ],
+  "citaat": "Ook zijn eisers niet ingegaan op de motivering van de minister in het verweerschrift"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "salarisspecificaties"
+  ],
+  "wat_gaf_doorslag": "De aanvragers onderbouwden hun band met Guinee en de discriminatie door het algoritme niet met stukken."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:EU:C:2013:862",
+   "ECLI:NL:RVS:2022:1918"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 32 Visumcode",
+  "art. 14 Visumcode",
+  "art. 7:3 onder b Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "datateam-algoritmes",
+  "privacy-fg"
+ ],
+ "klantuitleg": "Deze zaak gaat over een visum van de minister en niet over een gemeente. De rechter vond dat de stelling dat het algoritme van de minister discrimineert niet goed onderbouwd was. Wilt u zo'n klacht indienen, onderbouw die dan met concrete stukken.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente betrokken; de minister is partij",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

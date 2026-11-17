@@ -1,0 +1,167 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2026:577",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "zoekslag",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "particulier",
+  "wederpartij": "minister van Financiën (en de Staat)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Deze zaak gaat over een verzoek om inzage in persoonsgegevens volgens de AVG; eiseres vroeg de minister van Financiën welke gegevens over haar in het fraudesysteem FSV staan. De rechtbank Rotterdam oordeelde over dat verzoek.",
+ "titel": "Inzage FSV genoeg; wel vergoeding voor late beslissing",
+ "kern": {
+  "zin": "De rechtbank verklaart het beroep ongegrond, omdat de klachten van eiseres over de inzage niet slagen.",
+  "bron": [
+   43
+  ],
+  "citaat": "De beroepsgronden van eiseres slagen niet. Dit oordeel wordt hierna toegelicht."
+ },
+ "samenvatting": [
+  {
+   "zin": "Eiseres vroeg op 1 juni 2022 om inzage in haar gegevens bij de minister.",
+   "bron": [
+    26
+   ],
+   "citaat": "Eiseres heeft op 1 juni 2022 een verzoek om inzage gedaan bij de minister"
+  },
+  {
+   "zin": "De minister stuurde een overzicht van de gegevens over eiseres in de FSV.",
+   "bron": [
+    39
+   ],
+   "citaat": "De minister heeft met het besluit van 15 september 2022 een overzicht verstrekt"
+  },
+  {
+   "zin": "Eiseres vond het overzicht niet volledig.",
+   "bron": [
+    42
+   ],
+   "citaat": "Het door de minister verstrekte overzicht is niet volledig"
+  },
+  {
+   "zin": "De rechtbank oordeelt dat de bezwaren van eiseres niet slagen.",
+   "bron": [
+    43
+   ],
+   "citaat": "De beroepsgronden van eiseres slagen niet."
+  },
+  {
+   "zin": "Wel krijgt eiseres een vergoeding omdat de zaak te lang duurde.",
+   "bron": [
+    56
+   ],
+   "citaat": "Eiseres heeft daarom recht op een schadevergoeding van € 1.500,-."
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep ongegrond; wel schadevergoeding voor te late beslissing",
+ "gevolg_betrokkene": {
+  "zin": "Eiseres krijgt € 1.500,- schadevergoeding vanwege de te lange duur van de zaak.",
+  "bron": [
+   60
+  ],
+  "citaat": "De schadevergoeding vanwege de overschrijding van de redelijke termijn bedraagt € 1.500,-."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Het overzicht is niet volledig; ik wil inzage in alle gegevens over mij.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Wat weggelaten is, zijn geen persoonsgegevens van eiseres.",
+    "bron": [
+     50
+    ],
+    "citaat": "de verdere gegevens in dit signaal waarin de minister geen inzage heeft gegeven, geen persoonsgegevens van eiseres betreffen"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen persoonsgegevens van eiseres betreffen",
+    "bron": [
+     50
+    ]
+   }
+  },
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "De minister heeft niet uitgelegd dat er geen vergelijkbare systemen zijn en niet gezegd waar is gezocht.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank ziet geen aanwijzing dat eiseres ook in andere systemen voorkomt.",
+    "bron": [
+     51
+    ],
+    "citaat": "De rechtbank heeft ook geen aanknopingspunten voor het oordeel dat de persoonsgegevens van eiseres voorkomen in andere systemen"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen aanknopingspunten voor het oordeel dat de persoonsgegevens van eiseres voorkomen in andere systemen",
+    "bron": [
+     51
+    ]
+   }
+  },
+  {
+   "arg": "kopie-stukken",
+   "burger_zegt": "De minister mag best kopieën van hele documenten verstrekken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De AVG verplicht niet tot het geven van kopieën van hele documenten.",
+    "bron": [
+     52
+    ],
+    "citaat": "dat een bestuursorgaan, in dit geval de minister, verplicht is een kopie te verstrekken van de documenten"
+   },
+   "bruikbare_zin": {
+    "citaat": "verplicht is een kopie te verstrekken van de documenten",
+    "bron": [
+     52
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een organisatie hoeft bij een inzageverzoek geen kopieën van hele documenten te geven.",
+  "type": "regel",
+  "reikwijdte": "Bij inzageverzoeken op grond van de AVG.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   52
+  ],
+  "citaat": "niet volgt dat een bestuursorgaan, in dit geval de minister, verplicht is een kopie te verstrekken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "ongeschoonde uitdraai van een FSV-signaal"
+  ],
+  "wat_gaf_doorslag": "De rechtbank bekeek zelf de ongeschoonde uitdraai en zag dat de naam en inhoud van de tip daar niet in staan."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 15 lid 1 AVG",
+  "art. 15 lid 3 AVG",
+  "art. 6 EVRM"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "fraude-handhaving",
+  "datateam-algoritmes"
+ ],
+ "klantuitleg": "U heeft recht om te vragen welke gegevens een organisatie over u heeft. De organisatie mag volstaan met een overzicht van de gegevens en hoeft geen kopieën van hele documenten te sturen. Duurt de behandeling te lang, dan kunt u een vergoeding voor de vertraging vragen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "zaak tegen de minister van Financiën; geen gemeente betrokken",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

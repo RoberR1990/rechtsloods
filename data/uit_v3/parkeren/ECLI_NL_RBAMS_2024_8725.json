@@ -1,0 +1,175 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2024:8725",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeert tegen de gemeente Amsterdam over een naheffingsaanslag (de rekening achteraf) van 74,30 euro. De rechtbank Amsterdam beoordeelt of hij moest betalen en of het verkeerde adres op de rekening iets uitmaakt.",
+ "titel": "Parkeerder moet betalen; verkeerd adres op aanslag maakt niet ongeldig",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder had kunnen weten dat hij moest betalen, en dat het verkeerde adres de aanslag niet ongeldig maakt.",
+  "bron": [
+   19,
+   20
+  ],
+  "citaat": "Eiser had dus kunnen weten dat hij parkeerbelasting moest betalen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde een aanslag van 74,30 euro op, omdat er te weinig parkeerbelasting was betaald.",
+   "bron": [
+    14
+   ],
+   "citaat": "terwijl daarvoor geen of te weinig parkeerbelasting was betaald"
+  },
+  {
+   "zin": "De parkeerder vond dat er op die plek geen borden stonden en dat het adres niet klopte.",
+   "bron": [
+    15
+   ],
+   "citaat": "Op de plek waar eiser met zijn auto heeft gestaan staan geen verkeersborden"
+  },
+  {
+   "zin": "Volgens de rechtbank moet een parkeerder zelf uitzoeken of hij moet betalen.",
+   "bron": [
+    16
+   ],
+   "citaat": "een parkeerder de plicht heeft te onderzoeken of en zo ja, hoeveel, parkeerbelasting hij moet betalen"
+  },
+  {
+   "zin": "De rechtbank zag het bord einde parkeerverbod niet als reden om niet te betalen.",
+   "bron": [
+    18
+   ],
+   "citaat": "Het bord is niet van betekenis voor de vraag of sprake is van betaald parkeren"
+  },
+  {
+   "zin": "Volgens de rechtbank lag de automaat ongeveer honderdtwintig meter verderop, dus de parkeerder kon weten dat hij moest betalen.",
+   "bron": [
+    19
+   ],
+   "citaat": "Anders dan eiser heeft aangevoerd is het ongeveer honderdtwintig meter lopen"
+  },
+  {
+   "zin": "Het verkeerde adres maakte de aanslag niet ongeldig, omdat er geen twijfel was over de plek.",
+   "bron": [
+    20
+   ],
+   "citaat": "de onnauwkeurigheid in de naheffingsaanslag niet van dien aard is dat twijfel bestaat over de daadwerkelijke parkeerlocatie"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de aanslag blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de parkeerder betekent dit dat hij het bedrag moet blijven betalen en geen proceskosten krijgt.",
+  "bron": [
+   21,
+   14
+  ],
+  "citaat": "Voor een proceskostenvergoeding of vergoeding van het griffierecht bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Er stond geen bord bij de plek, en achter het bord einde parkeerverbod mocht hij volgens hem parkeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechtbank zegt het bord niets over de betaalplicht.",
+    "bron": [
+     18
+    ],
+    "citaat": "Het bord is niet van betekenis voor de vraag of sprake is van betaald parkeren"
+   },
+   "bruikbare_zin": {
+    "citaat": "daarmee is op zich zelf genomen nog niet gezegd dat voor het parkeren geen parkeerbelasting is verschuldigd",
+    "bron": [
+     18
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Het adres op de aanslag klopt niet, zoals ook de scanfoto's laten zien.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechtbank is een verkeerd adres niet genoeg om de aanslag te vernietigen.",
+    "bron": [
+     20
+    ],
+    "citaat": "De enkele vermelding van een onjuist adres is echter nog geen reden om tot vernietiging"
+   },
+   "bruikbare_zin": {
+    "citaat": "De scanauto registreert de gps-coördinaten van het dichtstbijzijnde adres.",
+    "bron": [
+     20
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij stond op de rand van een parkeerzone en hoefde daarom niet te betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechtbank stond hij in de zone zelf, niet op de rand, dus die uitspraak geldt hier niet.",
+    "bron": [
+     19
+    ],
+    "citaat": "Uit de schermafbeelding hieronder blijkt dat eiser in een parkeerzone, en dus niet op de rand daarvan, geparkeerd stond"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat doet zich hier echter niet voor",
+    "bron": [
+     19
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder moet zelf onderzoeken of hij moet betalen; de gevolgen daarvan zijn voor hem.",
+  "type": "regel",
+  "reikwijdte": "Parkeren op een plek waar parkeerbelasting geldt",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   16
+  ],
+  "citaat": "Als de parkeerder daar niet aan voldoet, komen de gevolgen daarvan naar vaste jurisprudentie voor zijn rekening en risico"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "scanfoto's",
+   "foto van een bord",
+   "schermafbeelding van de parkeerzone"
+  ],
+  "wat_gaf_doorslag": "De schermafbeelding liet zien dat de auto in de betaalde zone stond."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "Rechter vroeg de gemeente niets te doen; de uitspraak bevestigt de aanslag.",
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "bebording-verkeersbesluit",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "U moet zelf uitzoeken of u voor het parkeren moet betalen. Een verkeerd adres op de rekening maakt die rekening niet automatisch ongeldig. Als u bezwaar wilt maken, helpt het om de plek, de borden en de parkeerzone met foto's vast te leggen.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

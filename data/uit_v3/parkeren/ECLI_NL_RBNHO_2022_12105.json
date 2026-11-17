@@ -1,0 +1,137 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2022:12105",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeerde tegen de officier van justitie over een boete voor parkeren dicht bij een kruispunt. De zaak lag bij de kantonrechter van de rechtbank Noord-Holland.",
+ "titel": "Boete voor parkeren bij kruispunt blijft staan",
+ "kern": {
+  "zin": "De rechter vond de boete terecht, omdat de parkeerder onvoldoende feiten gaf om de handhaver in twijfel te trekken.",
+  "bron": [
+   21
+  ],
+  "citaat": "De boete is dus terecht opgelegd."
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeerder kreeg een boete voor parkeren binnen 5 meter van een kruispunt.",
+   "bron": [
+    16
+   ],
+   "citaat": "parkeren bij een kruispunt binnen 5 meter daarvan"
+  },
+  {
+   "zin": "De gemachtigde van de parkeerder zei dat er geladen en gelost werd en dat de auto niet binnen 5 meter stond.",
+   "bron": [
+    18
+   ],
+   "citaat": "stelt dat betrokkene aan het laden en lossen was"
+  },
+  {
+   "zin": "De officier van justitie liet een aanvullend proces-verbaal opmaken, waarin stond dat de auto binnen 5 meter stond.",
+   "bron": [
+    19
+   ],
+   "citaat": "Dit voertuig stond geparkeerd binnen 5 meter van een kruispunt"
+  },
+  {
+   "zin": "De rechter vond de foto's en de aanvullende verklaring van de handhaver voldoende; er was geen laden of lossen te zien.",
+   "bron": [
+    20
+   ],
+   "citaat": "dat er geen activiteiten plaatsvonden rondom het voertuig"
+  },
+  {
+   "zin": "De parkeerder had te weinig feiten om aan de verklaring van de handhaver te twijfelen, dus de boete is terecht.",
+   "bron": [
+    21
+   ],
+   "citaat": "Betrokkene heeft onvoldoende feiten en omstandigheden aangevoerd"
+  },
+  {
+   "zin": "De boete blijft staan en er komt geen vergoeding van proceskosten.",
+   "bron": [
+    23
+   ],
+   "citaat": "De kantonrechter ziet geen aanleiding om proceskosten toe te kennen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete blijft staan; geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De boete blijft staan en de parkeerder krijgt geen proceskosten vergoed.",
+  "bron": [
+   22,
+   23
+  ],
+  "citaat": "Het beroep wordt daarom ongegrond verklaard."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "De gemachtigde zegt dat de auto aan het laden en lossen was en niet binnen 5 meter van het kruispunt stond.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag geen laden of lossen, want er was geen activiteit rond de auto.",
+    "bron": [
+     20
+    ],
+    "citaat": "dat er geen activiteiten plaatsvonden rondom het voertuig"
+   },
+   "bruikbare_zin": {
+    "citaat": "Derhalve moeten in dat geval in de nabijheid van het voertuig activiteiten worden waargenomen",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Laden en lossen telt alleen als er direct na het stilzetten in- en uitgeladen wordt, met activiteit rond de auto.",
+  "type": "regel",
+  "reikwijdte": "parkeerboete waarbij de parkeerder zegt dat er geladen of gelost werd",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   20
+  ],
+  "citaat": "Onder laden en lossen wordt verstaan:"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "aanvullend proces-verbaal van de verbalisant",
+   "foto's van de verbalisant"
+  ],
+  "wat_gaf_doorslag": "De foto's lieten zien dat er geen activiteit rond het voertuig was."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 9 WAHV",
+  "art. 14 WAHV"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "klantcontact"
+ ],
+ "klantuitleg": "U kreeg een boete omdat uw auto binnen 5 meter van een kruispunt stond. De rechter zag geen bewijs van laden of lossen, omdat er geen activiteit rond de auto was. Wilt u bezwaar maken, dan helpen duidelijke foto's van echt laden of lossen; zonder die bewijzen heeft bezwaar weinig kans.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "niet vermeld in tekst of metadata",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

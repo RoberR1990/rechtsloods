@@ -1,0 +1,43 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2026:6772",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {"burger": "bewoner", "wederpartij": "gemeente Amsterdam (college van B en W)", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Een bewoner procedeerde bij de rechtbank tegen het college van burgemeester en wethouders van Amsterdam. Het college weigerde een bewonersvergunning, omdat de bewoner maar één auto heeft en al een eigen stallingsplaats.",
+ "titel": "Geen bewonersvergunning bij één auto en een eigen stallingsplaats",
+ "kern": {"zin": "Het college moest de vergunning weigeren, omdat de regel dwingend is en er geen ruimte was voor een afweging.", "bron": [13], "citaat": "Deze bepaling heeft een dwingend karakter hetgeen betekent dat verweerder niet anders kan dan weigeren"},
+ "samenvatting": [
+  {"zin": "Het gebied waar de bewoner woont, staat per adres maximaal twee vergunningen toe.", "bron": [13], "citaat": "In dit gebied kunnen per adres maximaal twee bewonersvergunningen worden verleend"},
+  {"zin": "De bewoner vond dat anderen zonder stallingsplaats wel een vergunning kregen, en dat dit ongelijk was.", "bron": [15], "citaat": "Volgens eiseres is er sprake van ongelijke behandeling"},
+  {"zin": "De rechter vond dat die groepen niet vergelijkbaar waren, dus het gelijkheidsbeginsel was niet geschonden.", "bron": [16], "citaat": "Dit verschil maakt al dat geen sprake is van gelijke gevallen"},
+  {"zin": "Een beroep op de hardheidsclausule slaagt alleen bij schrijnende gevallen, en dat was hier niet zo.", "bron": [18], "citaat": "Dit ziet voornamelijk op schrijnende gevallen"},
+  {"zin": "De extra kosten van een garageplek waren niet zo zwaar dat het college van de regel moest afwijken.", "bron": [22], "citaat": "is niet zo onevenwichtig dat verweerder om die reden van de Parkeerverordening zou moeten afwijken"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; vergunning blijft geweigerd, griffierecht niet terug.",
+ "gevolg_betrokkene": {"zin": "De bewoner krijgt geen vergunning en het griffierecht ook niet terug.", "bron": [24, 26], "citaat": "Eiseres krijgt daarom het griffierecht niet terug"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "gelijkheid", "burger_zegt": "Bewoners zonder eigen stallingsplaats krijgen wel een vergunning; dat is ongelijke behandeling.", "oordeel": "verworpen", "waarom": {"zin": "De rechter zag geen gelijke gevallen, dus het beroep op gelijkheid mislukte.", "bron": [16], "citaat": "Dit verschil maakt al dat geen sprake is van gelijke gevallen"}, "bruikbare_zin": {"citaat": "Dit verschil maakt al dat geen sprake is van gelijke gevallen", "bron": [16]}},
+  {"arg": "onevenredig", "burger_zegt": "De meerkosten van een garageplek maken de weigering te zwaar voor haar dagelijks leven.", "oordeel": "verworpen", "waarom": {"zin": "De rechter vond de meerkosten niet zo zwaar dat het college moest afwijken.", "bron": [22], "citaat": "is niet zo onevenwichtig dat verweerder om die reden van de Parkeerverordening zou moeten afwijken"}, "bruikbare_zin": {"citaat": "Dat de weigering van de bewonersvergunning meerkosten met zich brengt", "bron": [22]}},
+  {"arg": "overig", "burger_zegt": "Persoonlijke omstandigheden vragen om een uitzondering via de hardheidsclausule.", "oordeel": "verworpen", "waarom": {"zin": "Een uitzondering via de hardheidsclausule kan alleen bij hoge uitzondering.", "bron": [18], "citaat": "Een beroep op de hardheidsclausule kan om die reden slechts bij uitzondering slagen"}, "bruikbare_zin": {"citaat": "Dit ziet voornamelijk op schrijnende gevallen, zoals personen die levensbedreigend ziek zijn", "bron": [18]}}
+ ],
+ "rechtsregel": {"zin": "Volgens de Parkeerverordening moet een bewonersvergunning worden geweigerd als niet aan de voorwaarden is voldaan.", "type": "regel", "reikwijdte": "bewonersvergunningen in deelvergunninggebieden als niet aan de voorwaarden wordt voldaan", "uitzondering": "hardheidsclausule, alleen in zeer uitzonderlijke gevallen", "herkomst": "lokale verordening", "bron": [18], "citaat": "schrijft artikel 32, vierde lid, van de Parkeerverordening dwingend voor dat de vergunning wordt geweigerd"},
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": [], "wat_gaf_doorslag": "Het aantal auto's en de eigen stallingsplaats stonden vast, en daarmee kwam het aantal vergunningen op nul."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": ["art. 32 lid 4 Parkeerverordening (Amsterdam)"],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "uitspraak bevestigt besluit; geen tekortkoming van de gemeente genoemd",
+ "raakt": ["bezwaar", "klantcontact", "vergunningen"],
+ "klantuitleg": "Heeft u één auto en een eigen stallingsplek, dan kunt u in dit gebied volgens de regels geen bewonersvergunning krijgen. De rechter vond de regel dwingend, en extra kosten van een garageplek zijn daarvoor niet genoeg. Een uitzondering kan alleen bij zeer schrijnende situaties; op dit punt is de kans klein.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,168 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2023:2006",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "rectificatie",
+ "kenmerk": null,
+ "zaaktype": "klacht-handhaving-ap",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "Autoriteit Persoonsgegevens",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De burger heeft een klacht ingediend bij de Autoriteit Persoonsgegevens over zijn medisch dossier. De Raad van State beslist in hoger beroep of de Autoriteit Persoonsgegevens die klacht goed heeft afgewezen.",
+ "titel": "Klacht over correctie medisch dossier terecht afgewezen",
+ "kern": {
+  "zin": "De Raad van State oordeelt dat het correctierecht niet bedoeld is om meningen en conclusies te corrigeren.",
+  "bron": [
+   22
+  ],
+  "citaat": "correctierecht niet is bedoeld om indrukken, meningen, onderzoeksresultaten en conclusies"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vindt dat het ziekenhuis een verkeerde diagnose en onjuiste medische gegevens in zijn dossier heeft opgenomen.",
+   "bron": [
+    19
+   ],
+   "citaat": "een verkeerde diagnose en onjuiste medische gegevens in zijn medisch dossier heeft opgenomen"
+  },
+  {
+   "zin": "Hij zegt dat de fouten makkelijk en objectief vast te stellen zijn.",
+   "bron": [
+    21
+   ],
+   "citaat": "wel sprake is van eenvoudig en objectief vast te stellen onjuistheden"
+  },
+  {
+   "zin": "De Autoriteit Persoonsgegevens vindt dat het correctierecht niet ziet op de aanpassingen die de burger wil.",
+   "bron": [
+    19
+   ],
+   "citaat": "het correctierecht, zoals bedoeld in artikel 16 van de AVG, niet ziet op de door [appellant] gewenste aanpassingen"
+  },
+  {
+   "zin": "De Raad van State bevestigt dat oordeel.",
+   "bron": [
+    27
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De uitspraak van de rechtbank wordt bevestigd."
+  },
+  {
+   "zin": "De burger krijgt geen proceskosten vergoed.",
+   "bron": [
+    27
+   ],
+   "citaat": "De AP hoeft geen proceskosten te vergoeden."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; de afwijzing van de klacht blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De klacht blijft afgewezen en de burger krijgt geen proceskosten vergoed.",
+  "bron": [
+   27
+  ],
+  "citaat": "Het hoger beroep is ongegrond. De uitspraak van de rechtbank wordt bevestigd. De AP hoeft geen proceskosten te vergoeden."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Mijn medische gegevens zijn onjuist en moeten worden gecorrigeerd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat het correctierecht niet gaat over meningen en conclusies.",
+    "bron": [
+     22
+    ],
+    "citaat": "correctierecht niet is bedoeld om indrukken, meningen, onderzoeksresultaten en conclusies"
+   },
+   "bruikbare_zin": {
+    "citaat": "correctierecht niet is bedoeld om indrukken, meningen, onderzoeksresultaten en conclusies",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De onjuistheden zijn eenvoudig en objectief vast te stellen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat niet eenvoudig en objectief vast te stellen is dat de verklaringen zelf niet juist zijn weergegeven.",
+    "bron": [
+     23
+    ],
+    "citaat": "is niet eenvoudig en objectief vast te stellen dat de verklaringen zelf niet juist zouden zijn weergegeven"
+   },
+   "bruikbare_zin": {
+    "citaat": "is niet eenvoudig en objectief vast te stellen dat de verklaringen zelf niet juist zouden zijn weergegeven",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De Autoriteit Persoonsgegevens wekt de indruk dat de gegevens juist zijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Autoriteit Persoonsgegevens laat zich daarmee niet uit over de juistheid van de gegevens.",
+    "bron": [
+     25
+    ],
+    "citaat": "laat de AP zich daarmee niet uit over de juistheid van de persoonsgegevens"
+   },
+   "bruikbare_zin": {
+    "citaat": "laat de AP zich daarmee niet uit over de juistheid van de persoonsgegevens",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het correctierecht geldt niet voor meningen en conclusies; het gaat alleen om fouten die eenvoudig en objectief vast te stellen zijn.",
+  "type": "regel",
+  "reikwijdte": "Bij verzoeken om correctie van medische gegevens.",
+  "uitzondering": "Als de onjuistheid eenvoudig en objectief vast te stellen is.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "de te corrigeren onjuistheden in persoonsgegevens eenvoudig en objectief zijn vast te stellen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaringen van medici",
+   "brief van de tandarts"
+  ],
+  "wat_gaf_doorslag": "De rechter vond de aangevoerde verklaringen niet genoeg om eenvoudig en objectief een fout vast te stellen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2021:1020"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 16 AVG"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als uw gegevens onjuist zijn, kunt u vragen om correctie. Dat werkt alleen bij fouten die makkelijk en objectief vast te stellen zijn. Gaat het om een mening, conclusie of verklaring van een ander, dan hoeft de organisatie dat meestal niet aan te passen; u kunt wel uw eigen standpunt aan het dossier laten toevoegen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente in de zaak",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

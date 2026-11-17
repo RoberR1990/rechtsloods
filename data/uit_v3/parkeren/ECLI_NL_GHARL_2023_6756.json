@@ -1,0 +1,152 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2023:6756",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "kentekenhouder (met gemachtigde)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een automobilist kreeg een boete van € 100 omdat zijn auto in een parkeerverbodszone stond. De burger ging in hoger beroep tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Boete voor parkeren op betonplaten naast de weg blijft staan",
+ "kern": {
+  "zin": "De rechter besliste dat het parkeerverbod ook gold op het stuk met betonplaten, omdat dat geen berm was en niet als parkeerplek was ingericht.",
+  "bron": [
+   31,
+   32
+  ],
+  "citaat": "Het parkeerverbod, aangeduid met bord E1, geldt daarom ook voor het gedeelte waar het voertuig van de betrokkene stond."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger kreeg een boete van € 100 voor parkeren waar dat niet mag (bord E1, een parkeerverbodszone).",
+   "bron": [
+    18
+   ],
+   "citaat": "Aan de betrokkene is als kentekenhouder bij inleidende beschikking een sanctie opgelegd van € 100,-"
+  },
+  {
+   "zin": "De auto stond op geribbelde betonplaten, haaks op de rijbaan.",
+   "bron": [
+    29
+   ],
+   "citaat": "stond geparkeerd op geribbelde betonplaten, haaks op de (geasfalteerde) rijbaan"
+  },
+  {
+   "zin": "De gemachtigde van de burger zei dat bord E1 alleen op de rijbaan geldt en dat de auto daar niet stond.",
+   "bron": [
+    19
+   ],
+   "citaat": "blijkt dat de werking van bord E1 is beperkt tot de rijbaan"
+  },
+  {
+   "zin": "De rechter vond dat bord E1 in een zone niet alleen voor de rijbaan geldt: parkeren mag alleen op plekken die daarvoor bestemd zijn.",
+   "bron": [
+    30
+   ],
+   "citaat": "Binnen een parkeerverbodszone mag alleen op daartoe bestemde weggedeelten worden geparkeerd"
+  },
+  {
+   "zin": "Er waren geen vakken of markeringen, dus de burger maakte niet aannemelijk dat het een parkeerplek was.",
+   "bron": [
+    32
+   ],
+   "citaat": "niet door middel van belijning of bestrating gemarkeerde parkeervakken waren aangebracht"
+  },
+  {
+   "zin": "De boete blijft staan; de kantonrechter had de zaak niet goed gemotiveerd, maar de uitkomst was juist.",
+   "bron": [
+    34
+   ],
+   "citaat": "Het hof zal de beslissing van de kantonrechter daarom bevestigen met verbetering van gronden."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete blijft staan; geen vergoeding van proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De burger moet de boete betalen en krijgt geen vergoeding van de proceskosten.",
+  "bron": [
+   34
+  ],
+  "citaat": "Voor het toekennen van een proceskostenvergoeding bestaat geen aanleiding."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Bord E1 geldt alleen op de rijbaan en de auto stond daar niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het stuk met betonplaten was geen berm en niet als parkeerplek aangeduid, dus het verbod gold daar ook.",
+    "bron": [
+     31
+    ],
+    "citaat": "Het parkeerverbod, aangeduid met bord E1, geldt daarom ook voor het gedeelte waar het voertuig van de betrokkene stond."
+   },
+   "bruikbare_zin": {
+    "citaat": "Binnen een parkeerverbodszone mag alleen op daartoe bestemde weggedeelten worden geparkeerd",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "In een parkeerverbodszone mag alleen worden geparkeerd op plekken die daarvoor bestemd zijn; wie zegt dat het zo'n plek was, moet dat aannemelijk maken.",
+  "type": "regel",
+  "reikwijdte": "Parkeerverbodszone met bord E1; verharde stroken die niet als berm gelden",
+  "uitzondering": "In de berm geldt het verbod volgens vaste jurisprudentie van het hof niet.",
+  "herkomst": "wet",
+  "bron": [
+   30
+  ],
+  "citaat": "aan een betrokkene of diens gemachtigde is om aannemelijk te maken dat sprake is van een voor parkeren bestemd weggedeelte"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "foto's van de gedraging",
+   "verklaring van de handhaver (proces-verbaal)"
+  ],
+  "wat_gaf_doorslag": "Er was geen belijning, bestrating of andere aanduiding die de plek als parkeerplek aanwees."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHARL:2022:4283"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 62 RVV 1990",
+  "art. 65 lid 3 RVV 1990",
+  "art. 66 RVV 1990",
+  "bord E1 RVV 1990"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Markeer plekken waar wel geparkeerd mag worden duidelijk met belijning of bestrating binnen een parkeerverbodszone",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    32
+   ],
+   "citaat": "niet door middel van belijning of bestrating gemarkeerde parkeervakken waren aangebracht"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "In een zone waar alleen in de vakken geparkeerd mag worden, mag u alleen staan op plekken die daarvoor bedoeld zijn. Een stuk met stenen naast de weg, zonder lijnen of vakken, telt dan niet als parkeerplek. Vindt u dat het wel een parkeerplek was, dan moet u dat zelf aannemelijk maken, bijvoorbeeld met foto's van markering of borden.",
+ "gemeente": "Beverwijk",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,185 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:5067",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "fraude-signalering",
+ "kenmerk": "fsv",
+ "zaaktype": "fraude-algoritme",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een inwoner vraagt de gemeente Amsterdam om stukken over het gebruik van algoritmes en gevoelige gegevens bij het terugvorderen van bijstand. Zij gaat in hoger beroep tegen het college van Amsterdam bij de Raad van State.",
+ "titel": "Gemeente moet breder zoeken naar stukken over algoritmes en FSV",
+ "kern": {
+  "zin": "De rechter vond niet geloofwaardig dat er alleen beleidsregels bestaan, omdat de gemeente niet liet zien hoe ze zocht; de gemeente moet opnieuw beslissen.",
+  "bron": [
+   36
+  ],
+  "citaat": "zonder nadere motivering en inzicht in de zoekslag dan ook niet geloofwaardig dat ten aanzien van het Wob/Woo-verzoek"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg om informatie en stukken over gegevens, algoritmes en risicoselectie bij de terugvordering van bijstand.",
+   "bron": [
+    21
+   ],
+   "citaat": "op grond van de Wet openbaarheid van bestuur verzocht om informatie over de aanwezigheid en het gebruik van gegevens betreffende (dubbele) nationaliteit"
+  },
+  {
+   "zin": "De burger zei dat de gemeente haar verzoek te smal had gelezen en niet als openbaarmakingsverzoek had behandeld.",
+   "bron": [
+    28
+   ],
+   "citaat": "dat de rechtbank ten onrechte niet heeft onderkend dat het college het Wob-verzoek te beperkt heeft opgevat"
+  },
+  {
+   "zin": "De gemeente zei dat er alleen een informatieverzoek was, omdat de stukken niet bestaan of al openbaar zijn.",
+   "bron": [
+    23
+   ],
+   "citaat": "Omdat de documenten niet bestaan of al openbaar zijn, is slechts sprake van een informatieverzoek"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente het verzoek ten onrechte niet als openbaarmakingsverzoek had behandeld.",
+   "bron": [
+    31
+   ],
+   "citaat": "Het college heeft ten onrechte uit de inhoud van het verzoek afgeleid dat het geen Wob-verzoek betreft"
+  },
+  {
+   "zin": "De rechter geloofde ook niet dat er alleen beleidsregels bestaan.",
+   "bron": [
+    35
+   ],
+   "citaat": "niet geloofwaardig acht dat slechts de beleidsregels bestaan over dit onderwerp"
+  },
+  {
+   "zin": "De gemeente moet opnieuw beslissen en breder zoeken.",
+   "bron": [
+    36
+   ],
+   "citaat": "Het college moet een nieuw besluit nemen op het verzoek"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Besluit vernietigd; gemeente moet opnieuw beslissen en breder zoeken",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet opnieuw op haar verzoek beslissen; zij krijgt € 34,41 proceskosten en € 463,00 griffierecht terug.",
+  "bron": [
+   36,
+   46,
+   47
+  ],
+  "citaat": "Het college moet een nieuw besluit nemen op het verzoek"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente had mijn verzoek moeten behandelen als verzoek om openbaarmaking en las het te smal.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het verzoek ging om informatie in documenten; of die bestaan, maakt voor de vraag wat voor verzoek het is niet uit.",
+    "bron": [
+     31
+    ],
+    "citaat": "Het college heeft ten onrechte uit de inhoud van het verzoek afgeleid dat het geen Wob-verzoek betreft"
+   },
+   "bruikbare_zin": {
+    "citaat": "een Wob-verzoek is gedaan als er met een beroep op de Wob een verzoek om informatie vervat in documenten over een bestuurlijke aangelegenheid tot een bestuursorgaan wordt gericht",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "Er moeten meer stukken zijn dan alleen de beleidsregels, ook over het verleden en over gegevens van de Belastingdienst (FSV).",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente liet niet goed zien hoe zij zocht en zocht maar bij één afdeling.",
+    "bron": [
+     35
+    ],
+    "citaat": "de door hem verrichte zoekslag onvoldoende inzichtelijk heeft gemaakt"
+   },
+   "bruikbare_zin": {
+    "citaat": "de door hem verrichte zoekslag onvoldoende inzichtelijk heeft gemaakt",
+    "bron": [
+     35
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wordt met een beroep op de Wob of Woo om informatie in documenten gevraagd, dan is het een openbaarmakingsverzoek, ook als de gemeente denkt dat er geen of al openbare stukken zijn.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om informatie in documenten over een bestuurlijke aangelegenheid",
+  "uitzondering": "Het is anders als uit de aard of inhoud van het verzoek of uit uitlatingen van de verzoeker blijkt dat die geen openbaarmakingsverzoek bedoelde",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   31
+  ],
+  "citaat": "is de hoofdregel dat een Wob-verzoek is gedaan als er met een beroep op de Wob een verzoek om informatie vervat in documenten"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "uitleg van de gemeente op de zitting",
+   "beleidsregels",
+   "rapport van 19 januari 2022 over delen van FSV-gegevens met gemeenten"
+  ],
+  "wat_gaf_doorslag": "De gemeente maakte de zoekslag niet inzichtelijk en zocht alleen bij de afdeling terugvordering."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2020:1268",
+   "ECLI:NL:RVS:2019:3100",
+   "ECLI:NL:RVS:2023:4515",
+   "ECLI:NL:RVS:2022:3859"
+  ]
+ },
+ "wetsartikelen": [
+  "Wet openbaarheid van bestuur (Wob)",
+  "Wet open overheid (Woo)",
+  "art. 1:3 lid 1 Awb",
+  "art. 8:69 Awb",
+  "art. 8:77 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Behandel elk verzoek om informatie uit documenten als Woo-verzoek, ook als u denkt dat er geen of al openbare stukken zijn.",
+   "raakt": "woo-openbaarheid",
+   "bron": [
+    31
+   ],
+   "citaat": "Het college heeft ten onrechte uit de inhoud van het verzoek afgeleid dat het geen Wob-verzoek betreft"
+  },
+  {
+   "actie": "Zoek bij een verzoek over algoritmes of risicoselectie ook buiten de uitvoerende afdeling en leg vast waar u zocht.",
+   "raakt": "woo-openbaarheid",
+   "bron": [
+    36
+   ],
+   "citaat": "Daarbij kan hij zich niet beperken tot de afdeling die gaat over de terugvordering van uitkeringen onder de Participatiewet"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "woo-openbaarheid",
+  "fraude-handhaving",
+  "datateam-algoritmes",
+  "bezwaar"
+ ],
+ "klantuitleg": "Vraagt u een gemeente om informatie uit documenten, dan moet de gemeente dat behandelen als verzoek om openbaarmaking. Zegt de gemeente dat er geen stukken zijn, dan moet zij laten zien waar en hoe zij gezocht heeft. Denkt u dat er meer stukken zijn, dan kunt u bezwaar maken en om uitleg over de zoektocht vragen.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

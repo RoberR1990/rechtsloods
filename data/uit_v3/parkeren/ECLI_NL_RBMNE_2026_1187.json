@@ -1,0 +1,148 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2026:1187",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (houder gehandicaptenparkeerkaart)",
+  "wederpartij": "gemeente Almere",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder met een gehandicaptenparkeerkaart kreeg in Almere een naheffingsaanslag (de rekening achteraf). Hij ging in beroep tegen de heffingsambtenaar van Almere bij de rechtbank Midden-Nederland.",
+ "titel": "Gehandicaptenkaart niet zichtbaar: toch parkeerbelasting betalen",
+ "kern": {
+  "zin": "De rechter vond niet aannemelijk dat de kaart zichtbaar lag, dus de aanslag bleef staan.",
+  "bron": [
+   25
+  ],
+  "citaat": "Eiser heeft onvoldoende aannemelijk gemaakt dat hij de GPK wel op zijn dashboard had liggen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een aanslag volgde omdat de auto in Almere stond zonder betaling.",
+   "bron": [
+    16
+   ],
+   "citaat": "stond geparkeerd zonder dat de verschuldigde parkeerbelasting was betaald"
+  },
+  {
+   "zin": "De parkeerder zei dat hij een parkeerrecht had omdat hij een gehandicaptenkaart bezit.",
+   "bron": [
+    20
+   ],
+   "citaat": "hij een parkeerrecht heeft omdat hij wel in het bezit is van een GPK"
+  },
+  {
+   "zin": "Volgens de gemeente lag er geen geldige kaart of GPK in de auto.",
+   "bron": [
+    21
+   ],
+   "citaat": "omdat er geen GPK dan wel een geldig parkeerkaartje in de auto lag"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente genoeg bewijs had dat er geen kaart in de auto lag.",
+   "bron": [
+    25
+   ],
+   "citaat": "heeft voldoende aannemelijk gemaakt dat ten tijde van de controle"
+  },
+  {
+   "zin": "De aanslag blijft staan en het beroep is ongegrond.",
+   "bron": [
+    27
+   ],
+   "citaat": "Daarom blijft de uitspraak op bezwaar in stand"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan, geen griffierecht of kosten terug.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt de naheffing en krijgt het griffierecht en de proceskosten niet terug.",
+  "bron": [
+   27
+  ],
+  "citaat": "Eiser krijgt geen vergoeding van het griffierecht en de proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gehandicaptenkaart",
+   "burger_zegt": "Hij had de GPK wel op het dashboard liggen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag onvoldoende bewijs dat de kaart op het dashboard lag.",
+    "bron": [
+     25
+    ],
+    "citaat": "Eiser heeft onvoldoende aannemelijk gemaakt dat hij de GPK wel op zijn dashboard had liggen"
+   },
+   "bruikbare_zin": {
+    "citaat": "dient dit voor zijn rekening en risico te blijven",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Op de foto's ligt de kaart op het dashboard, stelde hij.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente met de controle genoeg aantoonde dat er geen kaart lag.",
+    "bron": [
+     25
+    ],
+    "citaat": "heeft voldoende aannemelijk gemaakt dat ten tijde van de controle"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft voldoende aannemelijk gemaakt dat ten tijde van de controle door de parkeercontroleur geen GPK in de auto aanwezig was",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een GPK-houder is vrijgesteld, maar alleen als de kaart goed zichtbaar achter de voorruit ligt.",
+  "type": "regel",
+  "reikwijdte": "parkeren op plekken waar alleen betaald of met GPK mag",
+  "uitzondering": null,
+  "herkomst": "lokale verordening",
+  "bron": [
+   17
+  ],
+  "citaat": "Voor houders van een GPK geldt een vrijstelling, mits deze parkeerkaart op een goed zichtbare plaats"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto's van de controle",
+   "waarneming parkeercontroleur"
+  ],
+  "wat_gaf_doorslag": "Bij de controle lag er volgens de gemeente geen kaart, en de parkeerder maakte het tegendeel niet aannemelijk."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 1 Gemeentewet",
+  "Parkeerverordening Almere"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter stelt geen tekortkoming of verzoek aan de gemeente vast",
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Heeft u een gehandicaptenkaart, dan moet die goed zichtbaar achter de voorruit liggen. Ligt die er niet, dan moet u alsnog de rekening voor het parkeren betalen. De rechter vond dat dit risico voor u is; bezwaar heeft dan weinig kans zonder bewijs dat de kaart er lag.",
+ "gemeente": "Almere",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

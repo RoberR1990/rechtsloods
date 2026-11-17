@@ -1,0 +1,186 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2017:1747",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bedrijfsvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bedrijf (tandartspraktijk)",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een tandarts in Amsterdam verliest haar bedrijfsparkeervergunning. De gemeente gaat in hoger beroep bij de Raad van State tegen een uitspraak van de rechtbank die de tandarts gelijk gaf.",
+ "titel": "Twee tandartspraktijken tellen als één bedrijf voor de parkeervergunning",
+ "kern": {
+  "zin": "De Raad van State vindt dat de twee tandartspraktijken zich als één bedrijf presenteren, dus de gemeente mocht één vergunning intrekken.",
+  "bron": [
+   33
+  ],
+  "citaat": "De tandartspraktijken presenteren zich hiermee in het maatschappelijk verkeer als één bedrijf."
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente trok de bedrijfsparkeervergunning van een tandarts in, omdat zij samen met een andere tandarts op hetzelfde adres als één bedrijf telt.",
+   "bron": [
+    21
+   ],
+   "citaat": "Het college heeft de bedrijfsparkeervergunning van [wederpartij] ingetrokken omdat zij volgens het college"
+  },
+  {
+   "zin": "De rechtbank gaf de tandarts gelijk: de bedrijfsvoering was gescheiden en elke tandarts had eigen vakkennis, assistente en telefoonnummer.",
+   "bron": [
+    22
+   ],
+   "citaat": "de bedrijfsvoering gescheiden is en dat beide tandartsen hun eigen expertise, assistente en telefoonnummer hebben"
+  },
+  {
+   "zin": "De gemeente vindt dat de praktijken zich naar buiten als één bedrijf presenteren, onder één naam en met samenwerking op hun websites.",
+   "bron": [
+    23
+   ],
+   "citaat": "zich in het maatschappelijk verkeer presenteren als één bedrijf"
+  },
+  {
+   "zin": "De Raad van State ziet dat ook: de raambekleding noemt beide namen, en de praktijken hebben samen een huurcontract, vaste lasten en een entree.",
+   "bron": [
+    33
+   ],
+   "citaat": "een gezamenlijk huurcontract hebben, een groot deel van de overige vaste lasten delen"
+  },
+  {
+   "zin": "Dat de gemeente de vergunning jarenlang liet doorlopen, geeft de tandarts geen recht op behoud ervan.",
+   "bron": [
+    37
+   ],
+   "citaat": "kon [wederpartij] niet op basis van de opeenvolgende, stilzwijgende verlengingen erop vertrouwen"
+  },
+  {
+   "zin": "De Raad van State verklaart het beroep van de tandarts alsnog ongegrond, dus de intrekking blijft staan.",
+   "bron": [
+    42
+   ],
+   "citaat": "zal de Afdeling het beroep van [wederpartij] tegen het besluit van 23 juni 2015 alsnog ongegrond verklaren"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Gemeente mocht de vergunning intrekken; hoger beroep gemeente slaagt.",
+ "gevolg_betrokkene": {
+  "zin": "De tandarts houdt geen eigen bedrijfsparkeervergunning en krijgt geen proceskosten vergoed.",
+  "bron": [
+   42,
+   43
+  ],
+  "citaat": "zal de Afdeling het beroep van [wederpartij] tegen het besluit van 23 juni 2015 alsnog ongegrond verklaren"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De twee praktijken zijn aparte bedrijven met een eigen bedrijfsvoering.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De praktijken presenteren zich als één bedrijf en delen huur, kosten en entree.",
+    "bron": [
+     33
+    ],
+    "citaat": "De tandartspraktijken presenteren zich hiermee in het maatschappelijk verkeer als één bedrijf."
+   },
+   "bruikbare_zin": {
+    "citaat": "presenteren zich hiermee in het maatschappelijk verkeer als één bedrijf",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De tandarts mocht erop vertrouwen dat de vergunning niet zou worden ingetrokken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Stilzwijgend verlengen zonder toetsing wekt geen vertrouwen, en er waren geen duidelijke toezeggingen.",
+    "bron": [
+     37
+    ],
+    "citaat": "Het college heeft geen concrete, ondubbelzinnige toezeggingen gedaan"
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De intrekking is willekeurig, want beide vergunningen zijn op dezelfde datum verleend.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente mocht de tandartsen laten kiezen op welk kenteken de overgebleven vergunning komt.",
+    "bron": [
+     40
+    ],
+    "citaat": "kan niet worden staande gehouden dat deze handelswijze bij gelijktijdig verleende parkeervergunningen leidt tot willekeur"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij de vraag of er één bedrijf is, kijkt de rechter eerst of de vergunninghouders zich naar buiten als één bedrijf presenteren, en daarna of er een juridische constructie is.",
+  "type": "regel",
+  "reikwijdte": "Bedrijfsparkeervergunningen onder de Amsterdamse Parkeerverordening 2013 voor bedrijven op hetzelfde adres",
+  "uitzondering": "Welk van de twee aspecten bepalend is, hangt af van de omstandigheden van het geval.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   32
+  ],
+  "citaat": "om eerst te bezien of de vergunninghouders zich in het maatschappelijk verkeer presenteren als één bedrijf"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "raambekleding met beide namen",
+   "gezamenlijk huurcontract",
+   "gedeelde entree en wachtkamer"
+  ],
+  "wat_gaf_doorslag": "De praktijken presenteerden zich als één bedrijf en deelden huur en voorzieningen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2016:1739",
+   "ECLI:NL:RVS:2016:1740",
+   "ECLI:NL:RVS:2016:999",
+   "ECLI:NL:RVS:2016:1002",
+   "ECLI:NL:RVS:2011:BR5700"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1 aanhef en onder b Parkeerverordening 2013 Amsterdam"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij bedrijven op één adres vast wat wijst op één bedrijf, zoals een gezamenlijk huurcontract, gedeelde vaste lasten en een gezamenlijke entree.",
+   "raakt": "vergunningen",
+   "bron": [
+    33
+   ],
+   "citaat": "een gezamenlijk huurcontract hebben, een groot deel van de overige vaste lasten delen"
+  },
+  {
+   "actie": "Laat bedrijven die als één bedrijf tellen onderling kiezen op welk kenteken de overgebleven vergunning komt.",
+   "raakt": "vergunningen",
+   "bron": [
+    40
+   ],
+   "citaat": "in onderling overleg tussen de tandartsen kan worden bepaald op welk kenteken de overblijvende bedrijfsparkeervergunning wordt gesteld"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "verordening-beleid"
+ ],
+ "klantuitleg": "Staan twee bedrijven op hetzelfde adres en treden zij samen naar buiten op, dan kan de gemeente ze als één bedrijf zien en maar één bedrijfsvergunning laten. Een vergunning die jarenlang vanzelf verlengd werd, blijft niet automatisch behouden. Wilt u bezwaar maken, laat dan zien dat uw bedrijf echt apart werkt, met eigen naam, huur en ingang.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

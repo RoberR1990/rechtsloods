@@ -1,0 +1,170 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2022:8865",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "gehandicaptenkaart",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "aanvrager",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een aanvrager procedeert tegen het college van Amsterdam over de afwijzing van zijn gehandicaptenparkeerkaart (GPK, de kaart om op gehandicaptenplekken te parkeren). De zaak ligt bij de Rechtbank Amsterdam.",
+ "titel": "Afwijzing gehandicaptenkaart op medisch advies was onzorgvuldig",
+ "kern": {
+  "zin": "De rechter vindt dat de adviezen van de GGD niet objectief en inzichtelijk zijn, zodat het besluit daarop niet mocht rusten.",
+  "bron": [
+   28
+  ],
+  "citaat": "De adviezen van de GGD zijn niet op objectieve en inzichtelijke wijze opgesteld"
+ },
+ "samenvatting": [
+  {
+   "zin": "De aanvrager vroeg op 16 december 2019 om een gehandicaptenkaart.",
+   "bron": [
+    16
+   ],
+   "citaat": "heeft op 16 december 2019 bij verweerder een aanvraag ingediend tot toekenning van een GPK"
+  },
+  {
+   "zin": "De GGD adviseerde het college de aanvraag af te wijzen.",
+   "bron": [
+    17
+   ],
+   "citaat": "heeft in haar rapportage van 30 december 2019 het college geadviseerd"
+  },
+  {
+   "zin": "De aanvrager zegt dat medische klachten maken dat hij minder dan 100 meter kan lopen.",
+   "bron": [
+    22
+   ],
+   "citaat": "aangezien hij door medische klachten minder dan 100 meter aaneengesloten kan voortbewegen"
+  },
+  {
+   "zin": "Het college hield de afwijzing vast, na een nieuw advies van de GGD.",
+   "bron": [
+    19
+   ],
+   "citaat": "De GGD heeft verweerder daarom wederom geadviseerd om de aanvraag van eiser af te wijzen"
+  },
+  {
+   "zin": "De rechter vindt dat het besluit onzorgvuldig tot stand is gekomen.",
+   "bron": [
+    30
+   ],
+   "citaat": "Dit maakt dat het bestreden besluit onzorgvuldig tot stand is gekomen"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Besluit vernietigd; nieuw besluit binnen zes weken, proceskosten vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de aanvrager moet de gemeente binnen zes weken een nieuw besluit nemen, en hij krijgt € 1518 proceskosten terug.",
+  "bron": [
+   40
+  ],
+  "citaat": "veroordeelt verweerder in de proceskosten van eiser tot een bedrag van € 1518,-"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij voldoet aan de eisen voor een GPK, want hij kan door medische klachten minder dan 100 meter lopen.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter gaat op dit punt niet verder in, omdat het GGD-advies al niet aan de eisen voldoet.",
+    "bron": [
+     31
+    ],
+    "citaat": "Het advies van de GGD voldoet niet aan deze vereisten"
+   },
+   "bruikbare_zin": {
+    "citaat": "Verweerder had het bestreden besluit daarom niet op deze adviezen mogen baseren",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "Het GGD-advies is niet deugdelijk gemotiveerd en het is niet duidelijk wat er is geobserveerd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vindt dat het GGD-advies niet inzichtelijk genoeg is om te controleren.",
+    "bron": [
+     31
+    ],
+    "citaat": "Het advies van de GGD voldoet niet aan deze vereisten"
+   },
+   "bruikbare_zin": {
+    "citaat": "Duidelijk moet zijn op grond van welke vormen van onderzoek en op basis van welke gegevens de adviseur tot zijn bevindingen is gekomen",
+    "bron": [
+     31
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente mag een deskundig advies volgen, mits dat onpartijdig, objectief en inzichtelijk is.",
+  "type": "regel",
+  "reikwijdte": "Besluiten die steunen op een advies van een deskundige instantie zoals de GGD.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "als dit advies op een onpartijdige, objectieve en inzichtelijke wijze is opgesteld"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "GGD-rapportages van 30 december 2019 en later",
+   "medische stukken van huisarts en specialisten"
+  ],
+  "wat_gaf_doorslag": "Uit de GGD-adviezen valt niet op te maken hoe de onderzoeken tot de conclusie kwamen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2013:BZ7709"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 3:2 Awb",
+  "art. 7:12 Awb",
+  "art. 3:49 Awb",
+  "art. 1 lid 1 onder d Regeling gehandicaptenparkeerkaart"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag de GGD om de onderzoeken en de redenering uit te schrijven, zodat de conclusie te controleren is.",
+   "raakt": "vergunningen",
+   "bron": [
+    29
+   ],
+   "citaat": "Uit de adviezen van de GGD valt niet op te maken wat de onderzoeken"
+  },
+  {
+   "actie": "Toets medische adviezen zelf, en neem ze niet blind over.",
+   "raakt": "vergunningen",
+   "bron": [
+    30
+   ],
+   "citaat": "Verweerder mag niet blind afgaan op de conclusie die door de keuringsarts is getrokken"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "privacy-woo"
+ ],
+ "klantuitleg": "Krijgt u een afwijzing voor een gehandicaptenparkeerkaart op basis van een medisch advies, dan kunt u vragen om een helder en controleerbaar advies. Vindt de rechter het advies niet inzichtelijk genoeg, dan moet de gemeente opnieuw beslissen. Heeft u medische stukken, dan helpt het om te laten zien waarom die anders zijn dan het advies.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

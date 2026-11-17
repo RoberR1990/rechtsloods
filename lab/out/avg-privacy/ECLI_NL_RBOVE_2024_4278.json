@@ -1,0 +1,173 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2024:4278",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "fraude-signalering",
+ "kenmerk": "fsv",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger (met gemachtigde)",
+  "wederpartij": "minister van Financiën (Belastingdienst)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger vroeg de Belastingdienst om inzage in zijn gegevens in de Fraude Signalering Voorziening (FSV, een register met fraudesignalen). Hij procedeert tegen de minister van Financiën bij de rechtbank Overijssel, vooral over de procedure bij zijn bezwaar.",
+ "titel": "Beroep over inzage FSV ongegrond: brieven aan burger zelf mochten",
+ "kern": {
+  "zin": "De rechter vindt dat de minister de brieven aan de burger zelf mocht sturen, omdat hij daarom vroeg en niet te bereiken was; er is dus geen schending van de hoorplicht en geen dwangsom.",
+  "bron": [
+   38
+  ],
+  "citaat": "is de rechtbank van oordeel dat verweerder de correspondentie aan eiser heeft kunnen richten"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg om een overzicht van zijn gegevens in de FSV.",
+   "bron": [
+    19
+   ],
+   "citaat": "een verzoek ingediend om een overzicht van zijn persoonsgegevens die in de FSV stonden"
+  },
+  {
+   "zin": "De minister gaf dat overzicht en de burger maakte bezwaar.",
+   "bron": [
+    19
+   ],
+   "citaat": "heeft verweerder het verzoek toegewezen en een overzicht van eisers persoonsgegevens in de FSV verstrekt"
+  },
+  {
+   "zin": "De burger zegt dat hij de gronden van zijn bezwaar had mogen aanvullen en dat zijn gemachtigde had moeten worden gehoord.",
+   "bron": [
+    28
+   ],
+   "citaat": "aangevoerd dat verweerder hem de gelegenheid had moeten geven om de gronden van het bezwaar aan te vullen"
+  },
+  {
+   "zin": "De minister zegt dat hij eerst de burger probeerde te bellen, omdat de burger daar zelf om vroeg.",
+   "bron": [
+    35
+   ],
+   "citaat": "Om deze redenen heeft verweerder eerst geprobeerd om contact op te nemen met eiser"
+  },
+  {
+   "zin": "De rechter vindt dat de minister de post aan de burger zelf mocht sturen.",
+   "bron": [
+    38
+   ],
+   "citaat": "is de rechtbank van oordeel dat verweerder de correspondentie aan eiser heeft kunnen richten"
+  },
+  {
+   "zin": "Het beroep over het besluit is ongegrond, dus het besluit blijft staan.",
+   "bron": [
+    51
+   ],
+   "citaat": "Het beroep tegen het bestreden besluit is ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; geen dwangsom en geen kostenvergoeding",
+ "gevolg_betrokkene": {
+  "zin": "Het besluit blijft staan; de burger krijgt geen dwangsom, geen proceskostenvergoeding en geen griffierecht terug.",
+  "bron": [
+   51,
+   52,
+   46
+  ],
+  "citaat": "Dit betekent dat het bestreden besluit in stand blijft"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "motivering",
+   "burger_zegt": "De hoorplicht is geschonden, want mijn gemachtigde is niet uitgenodigd voor een hoorzitting.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De minister probeerde de burger vaak te bereiken en bood hem en zijn gemachtigde de kans om gehoord te worden.",
+    "bron": [
+     38
+    ],
+    "citaat": "zodat van een schending van de hoorplicht geen sprake is"
+   },
+   "bruikbare_zin": {
+    "citaat": "zodat van een schending van de hoorplicht geen sprake is",
+    "bron": [
+     38
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De minister had mij de tijd moeten geven om de gronden van mijn bezwaar aan te vullen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het bezwaarschrift bevatte al inhoudelijke kritiek en de burger vroeg niet om meer tijd.",
+    "bron": [
+     29
+    ],
+    "citaat": "Naar het oordeel van de rechtbank heeft verweerder hierin een bezwaargrond kunnen lezen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Naar het oordeel van de rechtbank heeft verweerder hierin een bezwaargrond kunnen lezen",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De minister besliste te laat op mijn bezwaar, dus ik krijg een dwangsom.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De beslistermijn was verlengd en de ingebrekestelling kwam daarom te vroeg.",
+    "bron": [
+     44
+    ],
+    "citaat": "de ingebrekestelling van 28 juli 2023 is ingediend voordat verweerder in gebreke was"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Vraagt de burger in zijn bezwaarschrift om gebeld te worden en blijkt hij niet bereikbaar, dan mag het bestuursorgaan de brieven aan de burger zelf sturen, ook als er een gemachtigde is.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Bezwaarzaak over persoonsgegevens waarin de burger vroeg om persoonlijk benaderd te worden en onbereikbaar bleek",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   38
+  ],
+  "citaat": "de gebleken onmogelijkheid om hem te bereiken en de gevoelige aard van zaken over persoonsgegevens"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "print screen van telefonische contactpogingen",
+   "sms-berichten",
+   "brieven van 30 juli 2023 en 21 september 2023"
+  ],
+  "wat_gaf_doorslag": "De burger vroeg zelf om gebeld te worden, was niet te bereiken en ontkende de brieven niet te hebben ontvangen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 15 AVG",
+  "art. 6:12 lid 2 Awb",
+  "art. 6:20 lid 3 Awb",
+  "art. 7:10 lid 3 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "U mag vragen welke gegevens een organisatie van u heeft; u krijgt dan een overzicht. Maakt u bezwaar en vraagt u zelf om gebeld te worden, dan mag de organisatie u rechtstreeks bellen of schrijven, ook als u een gemachtigde heeft. Zet daarom in uw bezwaarschrift hoe u bereikbaar bent en reageer op brieven.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "Rijk is partij (minister van Financiën), geen gemeente",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

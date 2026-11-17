@@ -1,0 +1,143 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2026:6583",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner van Rotterdam ging in beroep tegen de afwijzing van zijn aanvraag voor een parkeervergunning voor bewoners. De rechtbank Rotterdam oordeelt over die afwijzing.",
+ "titel": "Weigering parkeervergunning niet goed onderbouwd",
+ "kern": {
+  "zin": "De rechter vond dat een garage in hetzelfde gebouw niet vanzelf een eigen parkeerplek voor de woning is.",
+  "bron": [
+   25
+  ],
+  "citaat": "is onvoldoende om deze (openbaar toegankelijke en commercieel geëxploiteerde) garage te kwalificeren"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner vroeg op 6 april 2025 een parkeervergunning aan, omdat betaald parkeren hem dwong ver van zijn auto te parkeren.",
+   "bron": [
+    18
+   ],
+   "citaat": "heeft op 6 april 2025 een parkeervergunning voor een bewoner aangevraagd"
+  },
+  {
+   "zin": "De bewoner zei dat de gemeente niet had laten zien dat een garage bij zijn woning hoort.",
+   "bron": [
+    23
+   ],
+   "citaat": "geen omgevingsvergunning of enig ander document heeft overgelegd"
+  },
+  {
+   "zin": "De gemeente zei dat een huisnummerbesluit aantoont dat de woningen een eigen parkeervoorziening hebben.",
+   "bron": [
+    22
+   ],
+   "citaat": "stelt dat uit dit huisnummerbesluit blijkt dat de adressen"
+  },
+  {
+   "zin": "De rechter zag in dat besluit geen koppeling tussen de garage en de woningen.",
+   "bron": [
+    25
+   ],
+   "citaat": "Uit het overgelegde huisnummerbesluit blijkt niet dat de Q-park garage is gekoppeld"
+  },
+  {
+   "zin": "De rechter gaf de gemeente zes weken om opnieuw op het bezwaar te beslissen.",
+   "bron": [
+    30
+   ],
+   "citaat": "geeft het college hiervoor zes weken"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Garage telt niet mee; college moet binnen zes weken opnieuw beslissen",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner krijgt het griffierecht en 1.868 euro proceskosten terug, en het college moet binnen zes weken opnieuw beslissen.",
+  "bron": [
+   31,
+   30
+  ],
+  "citaat": "krijgt eiser ook een vergoeding van zijn proceskosten"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De garage in het complex is geen parkeerplek bij mijn woning, dus ik heb recht op een vergunning.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Alleen dat de garage in hetzelfde complex ligt, maakt haar nog niet tot een parkeerplek bij de woning.",
+    "bron": [
+     25
+    ],
+    "citaat": "De enkele omstandigheid dat de Q-park garage in hetzelfde complex is gevestigd"
+   },
+   "bruikbare_zin": {
+    "citaat": "is onvoldoende om deze (openbaar toegankelijke en commercieel geëxploiteerde) garage te kwalificeren als bijbehorende of toegewezen parkeervoorziening",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Dat een parkeerplek bij een woning hoort, moet blijken uit een omgevingsvergunning of een ander document.",
+  "type": "regel",
+  "reikwijdte": "bewonersparkeervergunning in Rotterdam: is er een parkeerplek bij het gebouw of complex",
+  "uitzondering": null,
+  "herkomst": "lokale verordening",
+  "bron": [
+   25
+  ],
+  "citaat": "moet blijken uit een omgevingsvergunning of een ander document"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "huisnummerbesluit van de gemeente",
+   "zoektocht van de bewoner in het stadsarchief (niets gevonden)"
+  ],
+  "wat_gaf_doorslag": "Het huisnummerbesluit toonde geen koppeling tussen de garage en de woningen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 2 lid 1 onder b Uitvoeringsbesluit parkeren Rotterdam 2025",
+  "art. 1 Uitvoeringsbesluit parkeren Rotterdam 2025",
+  "art. 13 onder a Uitvoeringsbesluit parkeren Rotterdam 2025",
+  "art. 8:72 lid 4 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij een aanvraag of een parkeerplek echt bij het adres hoort, met een omgevingsvergunning of ander stuk, voordat je weigert.",
+   "raakt": "vergunningen",
+   "bron": [
+    25
+   ],
+   "citaat": "moet blijken uit een omgevingsvergunning of een ander document"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een garage in hetzelfde gebouw maakt niet vanzelf een parkeerplek bij uw woning. De gemeente moet met papieren laten zien dat die plek bij uw adres hoort. Krijgt u een weigering, dan kunt u bezwaar maken en vragen welk stuk de gemeente gebruikt; de uitkomst is niet zeker.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

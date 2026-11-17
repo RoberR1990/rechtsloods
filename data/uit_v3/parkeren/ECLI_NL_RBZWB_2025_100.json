@@ -1,0 +1,152 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:100",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Tilburg",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder kreeg een naheffingsaanslag parkeerbelasting (de rekening achteraf) van de gemeente Tilburg. Zij ging in beroep tegen de gemeente Tilburg; de rechtbank Zeeland-West-Brabant besliste.",
+ "titel": "Even stilstaan op laad- en losplek: rekening blijft staan",
+ "kern": {
+  "zin": "De rechter zag het stilstaan niet als laden of lossen, dus de parkeerbelasting was terecht.",
+  "bron": [
+   21,
+   25
+  ],
+  "citaat": "niet voldoet aan de criteria voor laden en lossen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controle in Tilburg stelde vast dat er voor de auto geen parkeerbelasting was betaald.",
+   "bron": [
+    14
+   ],
+   "citaat": "Tijdens een controle op voornoemde datum en tijd is (door parkeercontroleurs) geconstateerd dat daarvoor geen parkeerbelasting was voldaan."
+  },
+  {
+   "zin": "De parkeerder zei dat het stilstaan maximaal twee minuten duurde, om een sleutel in een brievenbus te doen.",
+   "bron": [
+    19
+   ],
+   "citaat": "Het stilstaan heeft maximaal twee minuten geduurd."
+  },
+  {
+   "zin": "De parkeerder vond ook dat er tweemaal langs de auto gereden moest worden om tijd te geven om te betalen.",
+   "bron": [
+    19
+   ],
+   "citaat": "de scanauto twee keer langs moet rijden zodat de burger tijd krijgt om te betalen"
+  },
+  {
+   "zin": "De gemeente hield in het bezwaar vast aan de naheffing.",
+   "bron": [
+    10
+   ],
+   "citaat": "De heffingsambtenaar heeft het bezwaar van belanghebbende ongegrond verklaard."
+  },
+  {
+   "zin": "De rechter oordeelde dat het stilstaan parkeren was en dat de naheffing terecht bleef.",
+   "bron": [
+    25
+   ],
+   "citaat": "Dat betekent dat de naheffingsaanslag terecht aan belanghebbende is opgelegd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing (de rekening achteraf) blijft staan, en het griffierecht (de rechtbankkosten) krijgt de parkeerder niet terug.",
+  "bron": [
+   28,
+   29
+  ],
+  "citaat": "Dit betekent dat de naheffingsaanslag gehandhaafd blijft"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Ik stond maar even stil om een sleutel in de brievenbus te doen, dus dat is geen parkeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter kwam de situatie niet overeen met laden en lossen, dus het ging om parkeren.",
+    "bron": [
+     21
+    ],
+    "citaat": "niet voldoet aan de criteria voor laden en lossen"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet voldoet aan de criteria voor laden en lossen",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De motor stond aan, de alarmlichten knipperden en er zat nog iemand in de auto.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat die bijkomende omstandigheden er niet toe doen, omdat de belasting objectief is.",
+    "bron": [
+     24
+    ],
+    "citaat": "zijn dan ook niet relevant"
+   },
+   "bruikbare_zin": {
+    "citaat": "De parkeerbelasting is een zogenoemde objectieve belasting, waarbij opzet, schuld en intentie geen rol spelen",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Laden en lossen is alleen het bij voortduring in- of uitladen van zaken van enige omvang, direct na het stilstaan.",
+  "type": "regel",
+  "reikwijdte": "Stilstaan om zaken te laden of lossen in de Tilburgse parkeerbelasting",
+  "uitzondering": "Niet van toepassing als alleen personen in- of uitstappen",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   20
+  ],
+  "citaat": "het bij voortduring inladen of uitladen van zaken van enige omvang"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring van de parkeerder over de sleutel en de duur",
+   "controle door parkeercontroleurs"
+  ],
+  "wat_gaf_doorslag": "De omschreven situatie, een sleutel in een brievenbus, viel niet onder laden en lossen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHSHE:2020:654"
+  ]
+ },
+ "wetsartikelen": [
+  "Artikel 1, onder a, van de Verordening (parkeerbelasting Tilburg)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente wint; de rechter eist niets van de gemeente",
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een naheffing is meestal terecht als u met de auto stilstond en er geen parkeerbelasting was betaald. Kort stilstaan om iets af te geven telt niet automatisch als laden of lossen, en de gemeente kijkt daarbij niet naar de bedoeling. Wilt u bezwaar maken, dan moet u aantonen dat u echt zaken in- of uitlaadde; dat is het punt waar het in deze zaak op stuk liep.",
+ "gemeente": "Tilburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

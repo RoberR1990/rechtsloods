@@ -1,0 +1,169 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2026:1203",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Leiden",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging in beroep tegen een naheffingsaanslag (de rekening achteraf) van de gemeente Leiden. De rechtbank Den Haag oordeelde dat de rekening terecht was en dat de kosten niet te hoog waren.",
+ "titel": "Rekening voor parkeren terecht, kosten niet te hoog",
+ "kern": {
+  "zin": "De rechter oordeelt dat de kosten niet te hoog zijn, omdat de gemeente ze lager vaststelde dan de eigen raming.",
+  "bron": [
+   64
+  ],
+  "citaat": "Naar het oordeel van de rechtbank is het bedrag van de kosten van de naheffingsaanslag niet te hoog vastgesteld."
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle bleek voor de auto geen parkeerbelasting betaald, en de gemeente legde een naheffing van € 98 op.",
+   "bron": [
+    36
+   ],
+   "citaat": "Tijdens een controle op het eerdergenoemde moment is geconstateerd dat voor de auto geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder vond de kosten van € 70 willekeurig gekozen en zei dat de kosten te hoog waren.",
+   "bron": [
+    39
+   ],
+   "citaat": "omdat het bedrag van € 70,00 aan kosten arbitrair is gekozen"
+  },
+  {
+   "zin": "De gemeente vond dat de kosten niet te hoog waren vastgesteld.",
+   "bron": [
+    45
+   ],
+   "citaat": "Daarnaast stelt verweerder dat de naheffingsaanslag en de daarbij in rekening gebrachte kosten niet te hoog zijn vastgesteld."
+  },
+  {
+   "zin": "De rechter vond dat de gemeente de kosten aanzienlijk lager vaststelde dan de raming, dus de kosten zijn niet te hoog.",
+   "bron": [
+    64
+   ],
+   "citaat": "de gemeente Leiden de kosten ter zake van het opleggen van een naheffingsaanslag parkeerbelasting aanzienlijk lager heeft vastgesteld"
+  },
+  {
+   "zin": "De rechter verklaart het beroep ongegrond en geeft geen vergoeding van proceskosten.",
+   "bron": [
+    69,
+    67
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing blijft staan, geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing van € 98 blijft staan, en de parkeerder krijgt geen proceskosten vergoed.",
+  "bron": [
+   69,
+   67,
+   36
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De kosten van € 70 zijn willekeurig gekozen en te hoog vastgesteld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt de kosten niet te hoog; de gemeente bleef onder de eigen raming.",
+    "bron": [
+     64
+    ],
+    "citaat": "Naar het oordeel van de rechtbank is het bedrag van de kosten van de naheffingsaanslag niet te hoog vastgesteld."
+   },
+   "bruikbare_zin": {
+    "citaat": "de gemeente Leiden de kosten ter zake van het opleggen van een naheffingsaanslag parkeerbelasting aanzienlijk lager heeft vastgesteld",
+    "bron": [
+     64
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het tarief op de straat was niet openbaar gemaakt, en in zone A gold een tarief van € 4 per uur.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het tarief was wel bekendgemaakt, want de verordening en het aanwijzingsbesluit stonden in het Gemeenteblad.",
+    "bron": [
+     50
+    ],
+    "citaat": "Zowel de Verordening parkeerbelastingen 2024 als het aanwijzingsbesluit zijn in het Gemeenteblad gepubliceerd."
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank stelt vast dat de [straatnaam] niet is aangewezen als plaats waar tegen dit tarief kon worden geparkeerd",
+    "bron": [
+     49
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Kosten die meer dan zijdelings samenhangen met het innen van niet betaalde parkeerbelasting mogen volledig worden doorberekend.",
+  "type": "regel",
+  "reikwijdte": "kosten van een naheffing die samenhangen met het innen van niet betaalde parkeerbelasting",
+  "uitzondering": "kosten die vrijwel geheel andere doelen dienen, of die al op een andere manier worden verhaald",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   59
+  ],
+  "citaat": "kosten die meer dan zijdelings verband houden met de inning van niet-betaalde parkeerbelasting kunnen worden toegerekend"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "kostenraming gemeente Leiden 2024",
+   "toelichting van de heffingsambtenaar",
+   "publicatie verordening en aanwijzingsbesluit in het Gemeenteblad"
+  ],
+  "wat_gaf_doorslag": "De kostenraming en de toelichting van de gemeente waren voor de rechter voldoende."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHAMS:2024:1370",
+   "ECLI:NL:GHDHA:2025:208",
+   "ECLI:NL:GHDHA:2025:220"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 Gemeentewet",
+  "art. 2 Besluit gemeentelijke parkeerbelastingen",
+  "art. 3 Besluit gemeentelijke parkeerbelastingen",
+  "art. 7 Verordening parkeerbelastingen Leiden 2024"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar de kostenraming per jaar met de toelichting, zodat u die kunt tonen als de kosten worden betwist.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    55
+   ],
+   "citaat": "gelet op de overgelegde raming en de toelichting van verweerder, geen reden om te twijfelen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "tarief-naheffing",
+  "verordening-beleid"
+ ],
+ "klantuitleg": "Een rekening achteraf is terecht als u had moeten betalen en dat niet deed, en het tarief openbaar was. In deze zaak vond de rechter de rekening terecht en de kosten van € 70 niet te hoog. Bezwaar heeft alleen kans als u aanwijst welke kostenpost volgens u niet klopt.",
+ "gemeente": "Leiden",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

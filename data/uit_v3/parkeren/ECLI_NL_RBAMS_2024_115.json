@@ -1,0 +1,42 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2024:115",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "bewijs-scanauto",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "parkeerder", "wederpartij": "gemeente Amsterdam", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Dit gaat over een naheffing voor parkeerbelasting in Amsterdam, na een controle met scanauto. Een parkeerder ging in beroep bij de rechtbank Amsterdam tegen de gemeente.",
+ "titel": "Naheffing vernietigd, want bij twijfel had gecontroleerd moeten worden",
+ "kern": {"zin": "De rechter vond dat bij twijfel een controleur ter plaatse had moeten komen, dus de naheffing is vernietigd.", "bron": [18], "citaat": "om een parkeercontroleur naar de desbetreffende locatie te sturen om te controleren"},
+ "samenvatting": [
+  {"zin": "De gemeente legde een naheffing op voor een parkeerplek op 4 mei 2023.", "bron": [13], "citaat": "op 4 mei 2023 zou hebben geparkeerd op een parkeerplek ter hoogte van de"},
+  {"zin": "De parkeerder zei dat hij een pakket moest afleveren en kort op zijn telefoon keek.", "bron": [14], "citaat": "Eiser voert aan dat hij een pakketje moest afleveren in Amsterdam"},
+  {"zin": "Volgens de gemeente werkte de controle met scanauto's volgens vaste regels.", "bron": [16], "citaat": "een vaste werkwijze bij de controle op het betalen van parkeerbelasting"},
+  {"zin": "De rechter vond dat de scanfoto's twijfel moesten geven of er wel geparkeerd werd.", "bron": [17], "citaat": "De rechtbank is van oordeel dat de scanfoto’s in deze zaak aanleiding hadden moeten geven tot twijfel"},
+  {"zin": "De naheffing vervalt, en betaald geld gaat terug naar de parkeerder.", "bron": [21], "citaat": "Als hij de naheffingsaanslag al heeft betaald moet de heffingsambtenaar het betaalde bedrag aan eiser terugbetalen"}
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd; betaald bedrag en griffierecht terug.",
+ "gevolg_betrokkene": {"zin": "De naheffing vervalt; betaald geld en het griffierecht van 50 euro gaan terug.", "bron": [21, 22], "citaat": "Als hij de naheffingsaanslag al heeft betaald moet de heffingsambtenaar het betaalde bedrag aan eiser terugbetalen"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "bewijs-scanauto", "burger_zegt": "Op de scanfoto's is te zien dat hij in de auto zat, dus hij stond niet te parkeren.", "oordeel": "gehonoreerd", "waarom": {"zin": "Op de foto's was genoeg twijfel te zien, en daarom had een controleur moeten komen.", "bron": [17], "citaat": "De rechtbank is van oordeel dat de scanfoto’s in deze zaak aanleiding hadden moeten geven tot twijfel"}, "bruikbare_zin": {"citaat": "de scanfoto’s in deze zaak aanleiding hadden moeten geven tot twijfel", "bron": [17]}},
+  {"arg": "kort-stilstaan", "burger_zegt": "Hij stond alleen even om de route op zijn telefoon te bekijken, met draaiende motor.", "oordeel": "gehonoreerd", "waarom": {"zin": "De rechter zag een andere verklaring: de bestuurder had net iemand afgezet.", "bron": [17], "citaat": "Deze combinatie van factoren kan er op duiden dat de bestuurder mogelijk net iemand heeft afgezet"}, "bruikbare_zin": {"citaat": "de bestuurder mogelijk net iemand heeft afgezet", "bron": [17]}}
+ ],
+ "rechtsregel": {"zin": "Bij twijfel moet de gemeente zelf een controleur ter plaatse sturen.", "type": "regel", "reikwijdte": "scanauto-controles waarbij twijfel bestaat of er geparkeerd werd", "uitzondering": null, "herkomst": "oordeel rechter", "bron": [18], "citaat": "om een parkeercontroleur naar de desbetreffende locatie te sturen om te controleren"},
+ "bewijs": {"bewijslast_bij": "wederpartij", "bewijsmiddelen": ["vier kleurenfoto's van de scanauto", "kaart van de locatie", "beoordeling door de Deskforce"], "wat_gaf_doorslag": "De scanfoto's, die twijfel lieten zien over of er geparkeerd werd."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "bevestigt", "eerdere": []},
+ "wetsartikelen": ["Verordening Parkeerbelastingen Amsterdam 2023", "zorgvuldigheidsbeginsel"],
+ "actie_gemeente": [{"actie": "Stuur bij twijfel op een scanfoto altijd een controleur naar de plek.", "raakt": "scanauto-handhaving", "bron": [18], "citaat": "heeft in dit geval geen parkeercontroleur naar de locatie gestuurd"}],
+ "reden_leeg_actie": null,
+ "raakt": ["scanauto-handhaving", "bezwaar", "klantcontact"],
+ "klantuitleg": "Een naheffing kan alleen als er echt sprake was van parkeren, en niet bij in- of uitstappen of laden en lossen. Ziet de gemeente op de foto's twijfel, dan moet zij zelf nakijken of er echt geparkeerd werd. Heeft u een naheffing gekregen, dan kunt u bezwaar maken en uitleggen waarom u niet parkeerde.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

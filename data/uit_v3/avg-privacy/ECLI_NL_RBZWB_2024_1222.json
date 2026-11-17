@@ -1,0 +1,157 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2024:1222",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "overig",
+ "kenmerk": null,
+ "zaaktype": "niet-tijdig-beslissen",
+ "partijen": {
+  "burger": "de burger",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De rechtbank Zeeland-West-Brabant beoordeelt een beroep van een burger tegen het college van Breda. De burger vindt dat het college niet op tijd heeft beslist op zijn bezwaar.",
+ "titel": "College Breda moet nu beslissen op bezwaar",
+ "kern": {
+  "zin": "De rechter oordeelt dat het college te laat is: de beslistermijn is voorbij.",
+  "bron": [
+   13
+  ],
+  "citaat": "De termijn waarbinnen het college moet beslissen is inmiddels voorbij."
+ },
+ "samenvatting": [
+  {
+   "zin": "Na een uitspraak van de Raad van State moest het college opnieuw op het bezwaar van de burger beslissen.",
+   "bron": [
+    8
+   ],
+   "citaat": "In die uitspraak staat dat het college opnieuw moet beslissen op het bezwaar van eiser."
+  },
+  {
+   "zin": "De burger vindt dat het college dat niet heeft gedaan en gaat in beroep.",
+   "bron": [
+    8
+   ],
+   "citaat": "Eiser stelt nu beroep in omdat het college dat volgens hem niet heeft gedaan."
+  },
+  {
+   "zin": "Het college heeft nog geen nieuw besluit genomen.",
+   "bron": [
+    15
+   ],
+   "citaat": "Omdat het college nog geen (nieuw) besluit heeft genomen"
+  },
+  {
+   "zin": "De rechter noemt het beroep kennelijk gegrond.",
+   "bron": [
+    13
+   ],
+   "citaat": "Het beroep is kennelijk gegrond."
+  },
+  {
+   "zin": "De rechter geeft het college twee weken om alsnog te beslissen en legt een dwangsom op van € 100 per dag, met een maximum van € 15.000.",
+   "bron": [
+    15,
+    17
+   ],
+   "citaat": "moet het college dit doen binnen twee weken na het verzenden van deze uitspraak."
+  },
+  {
+   "zin": "Het college moet € 184 griffierecht vergoeden; proceskosten hoeft het niet te betalen.",
+   "bron": [
+    20
+   ],
+   "citaat": "Omdat het beroep gegrond is moet het college het griffierecht aan eiser vergoeden."
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "De rechter geeft een termijn en dwangsom; de inhoud van het bezwaar blijft open.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente vergoedt € 184 griffierecht, betaalt € 100 per dag bij te late beslissing tot maximaal € 15.000, en proceskosten zijn er niet.",
+  "bron": [
+   20,
+   26
+  ],
+  "citaat": "Omdat het beroep gegrond is moet het college het griffierecht aan eiser vergoeden."
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "Het college heeft niet opnieuw op mijn bezwaar beslist.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter ziet dat de beslistermijn van het college voorbij is.",
+    "bron": [
+     13
+    ],
+    "citaat": "De termijn waarbinnen het college moet beslissen is inmiddels voorbij."
+   },
+   "bruikbare_zin": {
+    "citaat": "De termijn waarbinnen het college moet beslissen is inmiddels voorbij.",
+    "bron": [
+     13
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als een eerdere uitspraak geen beslistermijn noemt, geldt de wettelijke beslistermijn van zes weken.",
+  "type": "regel",
+  "reikwijdte": "Als een bestuursorgaan opnieuw moet beslissen en de eerdere uitspraak geen termijn noemt.",
+  "uitzondering": "Als de eerdere uitspraak wel een termijn noemt.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   13
+  ],
+  "citaat": "Om die reden valt de rechtbank terug op de wettelijke beslistermijn van zes weken."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "uitspraak van de Afdeling van 16 augustus 2023",
+   "ingebrekestelling van 10 november 2023"
+  ],
+  "wat_gaf_doorslag": "Het college heeft de wettelijke beslistermijn van zes weken overschreden."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:54 Awb",
+  "art. 8:55d lid 1 Awb",
+  "art. 6:12 Awb",
+  "art. 7:10 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Neem binnen twee weken na verzending van deze uitspraak alsnog een besluit op het bezwaar.",
+   "raakt": "bezwaar",
+   "bron": [
+    25
+   ],
+   "citaat": "binnen twee weken na de dag van verzending van deze uitspraak alsnog een besluit op bezwaar bekend te maken"
+  },
+  {
+   "actie": "Betaal het griffierecht van € 184 aan de burger.",
+   "raakt": "bezwaar",
+   "bron": [
+    27
+   ],
+   "citaat": "het college het griffierecht van € 184,- aan eiser moet vergoeden."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar"
+ ],
+ "klantuitleg": "De gemeente heeft te laat beslist op uw bezwaar over uw gegevens. De rechter geeft haar twee weken om alsnog te beslissen. Doet zij dat niet, dan betaalt zij u € 100 per dag, tot maximaal € 15.000.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

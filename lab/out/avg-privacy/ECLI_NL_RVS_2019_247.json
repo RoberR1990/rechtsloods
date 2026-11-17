@@ -1,0 +1,212 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2019:247",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": null,
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "Tribuut (belastingkantoor)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De burger vroeg het belastingkantoor Tribuut om alle gegevens over zijn woning. Tribuut weigerde dat; de Raad van State oordeelde in hoger beroep dat dit mocht.",
+ "titel": "Geen inzage in cijfers achter woningwaarde",
+ "kern": {
+  "zin": "De Raad van State bevestigt dat de gevraagde cijfers achter de woningwaarde geen gegevens zijn die bij de burger horen.",
+  "bron": [
+   28
+  ],
+  "citaat": "gegevens met betrekking tot [appellant]s woning geen persoonsgegevens zijn"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg om alle gegevens over zijn woning die met de waarde voor de belasting te maken hadden.",
+   "bron": [
+    23
+   ],
+   "citaat": "alle gegevens die over zijn woning ter uitvoering van de Wet WOZ"
+  },
+  {
+   "zin": "Tribuut wees het verzoek af en vond dat de gevraagde gegevens niet bij de burger hoorden.",
+   "bron": [
+    23
+   ],
+   "citaat": "Volgens hem zijn de gevraagde gegevens geen persoonsgegevens."
+  },
+  {
+   "zin": "De burger vond dat Tribuut niet bevoegd was om op zijn verzoek te beslissen.",
+   "bron": [
+    24
+   ],
+   "citaat": "de heffingsambtenaar niet bevoegd is om op zijn Wbp-verzoek te beslissen"
+  },
+  {
+   "zin": "De rechtbank en de Raad van State oordeelden dat Tribuut bevoegd was.",
+   "bron": [
+    25
+   ],
+   "citaat": "De rechtbank heeft terecht geoordeeld dat de heffingsambtenaar bij Tribuut bevoegd is"
+  },
+  {
+   "zin": "De Raad van State vond ook dat de cijfers achter de woningwaarde niet bij de burger hoorden.",
+   "bron": [
+    28
+   ],
+   "citaat": "de overige genoemde gegevens zijn dat niet"
+  },
+  {
+   "zin": "Daarom bleef het verzoek afgewezen en kreeg de burger geen dwangsom.",
+   "bron": [
+    36
+   ],
+   "citaat": "Het hoger beroep is ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; inzage en dwangsom afgewezen.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de burger blijft het bij de afwijzing: hij krijgt geen inzage via de privacywet en geen dwangsom.",
+  "bron": [
+   36
+  ],
+  "citaat": "Het hoger beroep is ongegrond."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Tribuut mocht niet op mijn verzoek beslissen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond Tribuut bevoegd voor de uitvoering van de WOZ-taak.",
+    "bron": [
+     25
+    ],
+    "citaat": "de heffingsambtenaar bij Tribuut bevoegd is"
+   },
+   "bruikbare_zin": {
+    "citaat": "de heffingsambtenaar bij Tribuut bevoegd is",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Ik heb niet alle gegevens gekregen; de cijfers over de waarde van mijn woning horen ook bij mij.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat alleen de waarde en het adres bij de burger horen, niet de cijfers daarachter.",
+    "bron": [
+     28
+    ],
+    "citaat": "de overige genoemde gegevens zijn dat niet"
+   },
+   "bruikbare_zin": {
+    "citaat": "de overige genoemde gegevens zijn dat niet",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente heeft te laat beslist op mijn privacyverzoek, dus ik krijg een dwangsom.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger maakte geen bezwaar tegen de weigering om een dwangsom te betalen.",
+    "bron": [
+     31
+    ],
+    "citaat": "geen bezwaar heeft gemaakt tegen de weigering van de heffingsambtenaar om een dwangsom te betalen"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen bezwaar heeft gemaakt tegen de weigering van de heffingsambtenaar om een dwangsom te betalen",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente Apeldoorn was als eerste in gebreke, niet Tribuut.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De termijn loopt vanaf ontvangst door het bevoegde belastingkantoor.",
+    "bron": [
+     34
+    ],
+    "citaat": "gaat het erom op welke datum de heffingsambtenaar de ingebrekestelling heeft ontvangen"
+   },
+   "bruikbare_zin": {
+    "citaat": "de heffingsambtenaar de ingebrekestelling op 3 mei 2017 heeft ontvangen",
+    "bron": [
+     34
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De cijfers achter de waarde van een woning zijn geen gegevens die bij een persoon horen en hoeven via de privacywet niet te worden gegeven.",
+  "type": "regel",
+  "reikwijdte": "Bij een privacyverzoek om gegevens over de woning die aan de WOZ-waarde ten grondslag liggen.",
+  "uitzondering": "De waarde zelf en het adres horen wel bij de persoon.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   28
+  ],
+  "citaat": "de overige genoemde gegevens zijn dat niet"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gave_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 35 Wbp",
+  "art. 1 Wbp",
+  "art. 40 Wet WOZ",
+  "art. 231 lid 2 onder b Gemeentewet",
+  "art. 232 lid 4 Gemeentewet",
+  "art. 5 Gemeenschappelijke Regeling Tribuut",
+  "art. 16 Gemeenschappelijke Regeling Tribuut",
+  "art. 4:17 lid 3 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Behandel een privacyverzoek om WOZ-gegevens zo: alleen de WOZ-waarde en het adres zijn gegevens die bij de persoon horen, de cijfers daarachter niet.",
+   "raakt": "privacy-fg",
+   "bron": [
+    28
+   ],
+   "citaat": "de overige genoemde gegevens zijn dat niet"
+  },
+  {
+   "actie": "Laat de termijn voor een dwangsom lopen vanaf ontvangst van de ingebrekestelling door het bevoegde belastingkantoor, niet door de gemeente.",
+   "raakt": "bezwaar",
+   "bron": [
+    34
+   ],
+   "citaat": "gaat het erom op welke datum de heffingsambtenaar de ingebrekestelling heeft ontvangen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "De gemeente hoeft u via de privacywet niet alle cijfers te geven over de waarde van uw woning. Alleen uw adres en die waarde zelf zijn gegevens die bij u horen; de cijfers daarachter niet. Wilt u die cijfers zien, vraag dan om een kopie via de wet waarmee de gemeente de waarde van uw woning vaststelt.",
+ "gemeente": "Apeldoorn",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

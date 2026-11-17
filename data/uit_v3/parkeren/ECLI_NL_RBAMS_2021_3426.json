@@ -1,0 +1,137 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2021:3426",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (houder van de auto)",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De houder van een auto procedeert tegen de gemeente Amsterdam over een naheffingsaanslag parkeerbelasting (de rekening achteraf). De rechtbank Amsterdam oordeelde over het bezwaar en over de vraag of de betaling was aangetoond.",
+ "titel": "Bezwaar ten onrechte als te laat behandeld; naheffing blijft staan",
+ "kern": {
+  "zin": "De rechter vindt het beroep formeel gegrond, maar de naheffing blijft staan omdat betaling niet is aangetoond.",
+  "bron": [
+   18
+  ],
+  "citaat": "vanwege een formeel punt gegrond, maar inhoudelijk krijgt zij geen gelijk"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeercontroleur zag op 2 maart 2018 dat er geen parkeergeld was betaald, en de gemeente legde een naheffing op.",
+   "bron": [
+    13
+   ],
+   "citaat": "constateerde een parkeercontroleur dat de auto van"
+  },
+  {
+   "zin": "De parkeerder zegt dat haar dochter de auto gebruikte en dat er wel was betaald, maar het bewijs ontbreekt.",
+   "bron": [
+    16
+   ],
+   "citaat": "Haar dochter gebruikte haar auto die dag en zij had wel parkeergeld betaald"
+  },
+  {
+   "zin": "De gemeente vond het bezwaar te laat en liet het daarom niet inhoudelijk beoordelen.",
+   "bron": [
+    14
+   ],
+   "citaat": "niet op tijd was ingediend"
+  },
+  {
+   "zin": "De rechter vond niet aangetoond dat er betaald is, dus de aanslag bleef terecht staan.",
+   "bron": [
+    17
+   ],
+   "citaat": "niet is gebleken dat zij parkeergeld heeft betaald"
+  },
+  {
+   "zin": "De gemeente vergoedt alleen het griffierecht van 48 euro.",
+   "bron": [
+    24
+   ],
+   "citaat": "draagt verweerder op het betaalde griffierecht van € 48"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Formeel gewonnen; griffierecht terug, naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt het betaalde bedrag niet terug; alleen het griffierecht wordt vergoed.",
+  "bron": [
+   18
+  ],
+  "citaat": "zij het geld van de inmiddels betaalde naheffingsaanslag niet terugkrijgt"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Zij heeft wel betaald, maar het bewijs is niet meer te vinden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond niet aangetoond dat er betaald is, omdat contant betalen in 2018 niet meer kon.",
+    "bron": [
+     17
+    ],
+    "citaat": "niet is gebleken dat zij parkeergeld heeft betaald"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat het in 2018 niet meer mogelijk was om contant parkeergeld te betalen",
+    "bron": [
+     17
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "In 2018 was contant betalen van parkeergeld niet meer mogelijk; dat stond in deze zaak vast.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "alleen de betaalmogelijkheden in 2018 in deze zaak",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   17
+  ],
+  "citaat": "dat het in 2018 niet meer mogelijk was om contant parkeergeld te betalen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "bankafschriften zonder afschrijving voor parkeergeld",
+   "constatering van de parkeercontroleur"
+  ],
+  "wat_gaf_doorslag": "Er kon geen betaling worden aangetoond, en contant betalen kon in 2018 niet meer."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer de bezwaartermijn voordat u een bezwaar niet-ontvankelijk verklaart; hier was dat ten onrechte.",
+   "raakt": "bezwaar",
+   "bron": [
+    15
+   ],
+   "citaat": "het bezwaar ten onrechte niet-ontvankelijk is verklaard"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "klantcontact"
+ ],
+ "klantuitleg": "De rekening voor het parkeren blijft staan als u niet kunt laten zien dat u heeft betaald. In deze zaak was het bezwaar ten onrechte als te laat behandeld, maar de rekening bleef toch staan. Heeft u betaald, zoek dan een betaalbewijs of bankafschrift, want daar kijkt de rechter naar.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

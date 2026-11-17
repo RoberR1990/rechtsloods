@@ -1,0 +1,147 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2020:3282",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (vader van een rolstoelgebruiker)",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Amsterdam een rekening achteraf voor parkeerbelasting. Hij gaat in hoger beroep bij het Gerechtshof Amsterdam en zegt dat hij alleen even stilstond.",
+ "titel": "Naheffing blijft: stilstaan om zoon te helpen niet aannemelijk gemaakt",
+ "kern": {
+  "zin": "Het Hof vindt dat de parkeerder niet aannemelijk maakte dat hij alleen stilstond om te laden of in te stappen, dus de naheffing klopt.",
+  "bron": [
+   20
+  ],
+  "citaat": "Hiermee acht het Hof aannemelijk dat geen sprake is geweest van onmiddellijk laden en lossen."
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Amsterdam legde een naheffingsaanslag (rekening achteraf) op, omdat er geen parkeergeld was betaald.",
+   "bron": [
+    16
+   ],
+   "citaat": "terwijl geen parkeergeld was betaald"
+  },
+  {
+   "zin": "De parkeerder zei dat hij niet parkeerde, maar alleen stilstond om zijn zoon in de auto te helpen en een tv-meubel en lampen in te laden.",
+   "bron": [
+    19
+   ],
+   "citaat": "Hij stelt dat hij zijn rolstoelgebonden zoon hielp met in- en uitstappen"
+  },
+  {
+   "zin": "De gemeente betwistte dat en liet foto's van de scanauto zien.",
+   "bron": [
+    20
+   ],
+   "citaat": "heeft belanghebbendes standpunt dat sprake is van onmiddellijk laden en lossen betwist"
+  },
+  {
+   "zin": "Op die foto's was de parkeerder niet te zien, de zoon ook niet, en niemand stond bij de auto of op de stoep.",
+   "bron": [
+    20
+   ],
+   "citaat": "niet in de nabijheid van de auto en niet op de stoep"
+  },
+  {
+   "zin": "De verklaring van de zoon en het open raam waren voor het Hof niet genoeg, en het idee dat hij een soort taxichauffeur was hielp ook niet.",
+   "bron": [
+    21
+   ],
+   "citaat": "Belanghebbendes betoog dat geen sprake was van parkeren omdat hij moet worden aangemerkt als een pseudo-taxichauffeur baat hem al evenmin."
+  },
+  {
+   "zin": "De naheffing is daarom terecht opgelegd en het hoger beroep is ongegrond.",
+   "bron": [
+    22
+   ],
+   "citaat": "is de naheffingsaanslag terecht opgelegd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Geen onmiddellijk laden en lossen aannemelijk gemaakt; naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De burger moet de naheffing betalen en krijgt geen vergoeding van kosten.",
+  "bron": [
+   22,
+   14
+  ],
+  "citaat": "is de naheffingsaanslag terecht opgelegd"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "De auto stond alleen stil om mijn rolstoelgebonden zoon te helpen en spullen in te laden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De foto's van de scanauto lieten niemand bij de auto zien, en de verklaringen konden dit niet rechtzetten.",
+    "bron": [
+     20
+    ],
+    "citaat": "Hiermee acht het Hof aannemelijk dat geen sprake is geweest van onmiddellijk laden en lossen."
+   },
+   "bruikbare_zin": {
+    "citaat": "niet in de nabijheid van de auto en niet op de stoep",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De parkeerder moet aannemelijk maken dat de auto alleen stilstond zo lang als nodig was voor onmiddellijk in- en uitstappen of laden en lossen.",
+  "type": "regel",
+  "reikwijdte": "Naheffing parkeerbelasting waarbij de parkeerder zegt alleen kort te laden, te lossen of in te stappen.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "om aannemelijk te maken dat hij uitsluitend gedurende de hiervoor bedoelde tijd heeft stil gestaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "scanfoto's",
+   "verklaring van de zoon"
+  ],
+  "wat_gaf_doorslag": "Op de scanfoto's waren de burger en zijn zoon nergens bij de auto te zien."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:GHAMS:2002:AE6618"
+  ]
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar scanfoto's waarop te zien is dat niemand bij de auto staat, om een beroep op laden en lossen te kunnen weerleggen.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    20
+   ],
+   "citaat": "niet in de nabijheid van de auto en niet op de stoep"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "scanauto-handhaving",
+  "klantcontact"
+ ],
+ "klantuitleg": "Stond u alleen even stil om iemand te helpen met in- of uitstappen of om iets in te laden, dan is dat geen parkeren. U moet dat wel aannemelijk maken. Alleen een verklaring van een familielid is vaak te weinig, dus bezwaar heeft meer kans met bewijs van het laden.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

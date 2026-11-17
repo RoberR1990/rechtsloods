@@ -1,0 +1,181 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2016:2121",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (particulier)",
+  "wederpartij": "gemeente Bloemendaal",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Bloemendaal een rekening achteraf voor parkeren. Zij vond die onterecht en ging in hoger beroep bij het Gerechtshof Amsterdam, net als de gemeente.",
+ "titel": "Wel betaald met verkeerd kenteken in app: rekening achteraf vervalt",
+ "kern": {
+  "zin": "Het hof vernietigde de rekening achteraf, omdat voor het parkeren was betaald, ook al was in de app een ander kenteken gekozen.",
+  "bron": [
+   70
+  ],
+  "citaat": "mee dat naheffing niet mogelijk is"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeercontroleur zag op 28 december 2013 dat er voor de auto van de parkeerder geen parkeerbelasting was betaald; de gemeente legde daarom een naheffingsaanslag (rekening achteraf) op.",
+   "bron": [
+    27
+   ],
+   "citaat": "Bij controle heeft de parkeercontroleur geconstateerd dat geen parkeerbelasting was betaald"
+  },
+  {
+   "zin": "De parkeerder zei dat zij wel had betaald via de parkeerapp, maar daar per ongeluk een verkeerd kenteken had aangevinkt.",
+   "bron": [
+    44
+   ],
+   "citaat": "Zij heeft zich via Parkline telefonisch aangemeld maar abusievelijk een verkeerd kenteken aangevinkt"
+  },
+  {
+   "zin": "De gemeente vond het bezwaar zo duidelijk ongegrond dat zij de parkeerder in de bezwaarfase niet hoefde te horen.",
+   "bron": [
+    37
+   ],
+   "citaat": "Ons hoger beroep gaat om het kennelijk ongegrond zijn van het bezwaar"
+  },
+  {
+   "zin": "Het hof vond dat het bezwaar niet duidelijk ongegrond was, dus de parkeerder had gehoord moeten worden.",
+   "bron": [
+    64
+   ],
+   "citaat": "Met de rechtbank is het Hof van oordeel dat het onderhavige bezwaarschrift niet onmiskenbaar ongegrond is"
+  },
+  {
+   "zin": "Het hof vond het aannemelijk dat er voor deze parkeeractie was betaald, met het eigen kenteken van de parkeerder bedoeld.",
+   "bron": [
+    69
+   ],
+   "citaat": "Nu voorts vaststaat dat er is betaald voor deze parkeeractie, komt het Hof tot de conclusie"
+  },
+  {
+   "zin": "De rekening achteraf is vernietigd en de gemeente moet de proceskosten in hoger beroep betalen.",
+   "bron": [
+    81
+   ],
+   "citaat": "veroordeelt de heffingsambtenaar in de proceskosten in hoger beroep van belanghebbende tot een bedrag van € 992"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Hof vernietigt de rekening achteraf; de gemeente betaalt de proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening achteraf vervalt en de gemeente moet € 992 proceskosten in hoger beroep betalen; het griffierecht van € 497 wordt bij de gemeente geheven.",
+  "bron": [
+   81,
+   82
+  ],
+  "citaat": "veroordeelt de heffingsambtenaar in de proceskosten in hoger beroep van belanghebbende tot een bedrag van € 992"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Ik heb wel betaald, maar in de app per ongeluk een ander kenteken aangevinkt.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het hof vond aannemelijk dat voor dit parkeren was betaald, en dan mag er geen rekening achteraf komen, ook niet bij een verkeerd opgegeven kenteken.",
+    "bron": [
+     70
+    ],
+    "citaat": "Daaraan doet niet af dat belanghebbende niet op de voorgeschreven wijze aangifte heeft gedaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "Daaraan doet niet af dat belanghebbende niet op de voorgeschreven wijze aangifte heeft gedaan",
+    "bron": [
+     70
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "Ik ben in de bezwaarfase ten onrechte niet gehoord.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het bezwaar was niet duidelijk ongegrond, dus de gemeente mocht het horen niet overslaan.",
+    "bron": [
+     63
+    ],
+    "citaat": "van een kennelijk ongegrond bezwaar sprake is wanneer uit het bezwaarschrift zelf reeds aanstonds blijkt"
+   },
+   "bruikbare_zin": {
+    "citaat": "van een kennelijk ongegrond bezwaar sprake is wanneer uit het bezwaarschrift zelf reeds aanstonds blijkt",
+    "bron": [
+     63
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Is vastgesteld dat de parkeerbelasting is betaald, dan is een rekening achteraf niet mogelijk, ook als bij het betalen een ander kenteken is opgegeven.",
+  "type": "regel",
+  "reikwijdte": "Parkeerbelasting die aantoonbaar is betaald voor het parkeren van de auto in kwestie, ook bij een verkeerd opgegeven kenteken.",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   70
+  ],
+  "citaat": "Daaraan doet niet af dat belanghebbende niet op de voorgeschreven wijze aangifte heeft gedaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "e-mail van de app-aanbieder met de parkeeractie",
+   "screenshot van de parkeerapp met meerdere kentekens",
+   "verklaring van de gemachtigde ter zitting"
+  ],
+  "wat_gaf_doorslag": "De e-mail van de app-aanbieder, de screenshot van de app en een geloofwaardige verklaring maakten aannemelijk dat er voor deze auto was betaald."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2016:316"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 20 AWR",
+  "art. 231 Gemeentewet",
+  "art. 7:2 Awb",
+  "art. 7:3 Awb",
+  "art. 25 AWR",
+  "art. 8:75 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Hoor de parkeerder in bezwaar als die erom vraagt, tenzij uit het bezwaarschrift zelf direct blijkt dat het ongegrond is.",
+   "raakt": "bezwaar",
+   "bron": [
+    63
+   ],
+   "citaat": "van een kennelijk ongegrond bezwaar sprake is wanneer uit het bezwaarschrift zelf reeds aanstonds blijkt"
+  },
+  {
+   "actie": "Vraag bij een bezwaar over een betaalde parkeeractie na of er voor die parkeeractie is betaald, ook als een ander kenteken is ingevoerd.",
+   "raakt": "betaalapp",
+   "bron": [
+    65
+   ],
+   "citaat": "indien vaststaat dat een belastingplichtige de voor het parkeren van een auto verschuldigde belasting heeft betaald"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Als u wel hebt betaald, maar in de parkeerapp per ongeluk een ander kenteken koos, mag de gemeente u volgens dit hof geen rekening achteraf sturen. Dat geldt als u kunt laten zien dat er voor uw parkeren is betaald. Maak bezwaar en voeg bewijs toe, zoals een bericht van de app-aanbieder.",
+ "gemeente": "Bloemendaal",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

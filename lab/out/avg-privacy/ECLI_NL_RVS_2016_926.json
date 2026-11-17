@@ -1,0 +1,186 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2016:926",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "betrokkene",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een vrouw uit Rotterdam wilde dat de gemeente Rotterdam haar gegevens in de basisregistratie personen (brp) zou wijzigen. De Raad van State oordeelde in hoger beroep dat de gemeente dat verzoek terecht heeft afgewezen.",
+ "titel": "Geen wijziging van brp-gegevens zonder hard bewijs",
+ "kern": {
+  "zin": "De Raad van State vindt dat het college het verzoek om wijziging van de brp-gegevens terecht heeft afgewezen.",
+  "bron": [
+   35
+  ],
+  "citaat": "het college de afwijzing van het verzoek van [appellante] om wijziging van haar persoonsgegevens in de brp terecht heeft gehandhaafd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De vrouw vroeg het college van Rotterdam op 24 november 2013 om haar gegevens in de brp te wijzigen.",
+   "bron": [
+    27
+   ],
+   "citaat": "Op 24 november 2013 heeft [appellante] het college verzocht deze gegevens te wijzigen"
+  },
+  {
+   "zin": "Het college wees dit af, omdat niet zeker was dat de overgelegde documenten bij haar hoorden.",
+   "bron": [
+    28
+   ],
+   "citaat": "omdat niet onomstotelijk vaststaat dat de overgelegde documenten aan [appellante] toebehoren"
+  },
+  {
+   "zin": "De vrouw vond dat zij met documenten en een vingerafdrukkenonderzoek had aangetoond dat zij dezelfde persoon is.",
+   "bron": [
+    29
+   ],
+   "citaat": "zij aannemelijk heeft gemaakt dat zij dezelfde persoon is als degene die in de door haar overgelegde stukken is vermeld"
+  },
+  {
+   "zin": "De rechtbank en de Afdeling vinden dat de documenten niet aantonen dat ze op haar betrekking hebben.",
+   "bron": [
+    32
+   ],
+   "citaat": "Met het overleggen van die documenten heeft [appellante] niet aangetoond dat deze documenten op haar betrekking hebben"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de eerdere uitspraak blijft staan.",
+   "bron": [
+    37
+   ],
+   "citaat": "Het hoger beroep is ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Het hoger beroep van de vrouw is ongegrond.",
+ "gevolg_betrokkene": {
+  "zin": "Haar gegevens in de brp blijven zoals ze zijn en zij krijgt geen vergoeding van kosten.",
+  "bron": [
+   38
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Zij vindt dat haar gegevens onjuist zijn en dat zij met documenten heeft aangetoond dat zij dezelfde persoon is.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De documenten laten niet zien dat ze op haar betrekking hebben.",
+    "bron": [
+     32
+    ],
+    "citaat": "Met het overleggen van die documenten heeft [appellante] niet aangetoond dat deze documenten op haar betrekking hebben"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet aangetoond dat deze documenten op haar betrekking hebben",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Zij vindt dat het college rekening had moeten houden met de bijzondere omstandigheden van haar geval.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Wet brp geeft geen ruimte voor een belangenafweging.",
+    "bron": [
+     33
+    ],
+    "citaat": "De Wet brp kent geen hardheidsclausule waarop [appellante] een beroep kan doen"
+   },
+   "bruikbare_zin": {
+    "citaat": "laat gelet op het gesloten systeem van brondocumenten geen ruimte voor een belangenafweging",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Zij wijst erop dat in andere gemeenten vergelijkbare verzoeken wel worden ingewilligd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Wat een andere gemeente doet, zegt niet dat deze gemeente hetzelfde moet doen.",
+    "bron": [
+     34
+    ],
+    "citaat": "niet kan leiden tot het opnemen van persoonsgegevens van een andere persoon in een andere gemeente"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet kan leiden tot het opnemen van persoonsgegevens van een andere persoon in een andere gemeente",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Zij vindt dat het Chinese paspoort als brondocument hoger in rang is dan de eerder afgelegde verklaring.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Omdat niet vaststaat dat het paspoort op haar betrekking heeft, telt de rangorde niet.",
+    "bron": [
+     32
+    ],
+    "citaat": "Nu niet vaststaat dat het Chinese paspoort op [appellante] betrekking heeft"
+   },
+   "bruikbare_zin": {
+    "citaat": "Nu niet vaststaat dat het Chinese paspoort op [appellante] betrekking heeft",
+    "bron": [
+     32
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor het wijzigen van gegevens die al in de brp staan, moet onomstotelijk vaststaan dat die gegevens onjuist zijn.",
+  "type": "regel",
+  "reikwijdte": "Wijziging van eenmaal in de brp geregistreerde gegevens",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   30
+  ],
+  "citaat": "voor het wijzigen van eenmaal in de brp geregistreerde gegevens, gelet op het systeem van de Wet brp"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "huishoudregistratieboekje",
+   "notarial certificate",
+   "Chinees paspoort",
+   "kopie identiteitskaart",
+   "vingerafdrukkenonderzoek"
+  ],
+  "wat_gaf_doorslag": "Het vingerafdrukkenonderzoek toonde alleen aan dat zij dezelfde persoon is als bij binnenkomst, niet dat de documenten op haar betrekking hebben."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 2.8, tweede lid, Wet basisregistratie personen",
+  "art. 2.8, tweede lid, aanhef en onder e, Wet basisregistratie personen"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "De uitspraak bevestigt het bestaande beleid van de gemeente; er volgt geen nieuwe actie uit.",
+ "raakt": [
+  "burgerzaken-brp"
+ ],
+ "klantuitleg": "Wilt u iets laten veranderen in uw gegevens bij de gemeente? Dan moet heel zeker zijn dat die gegevens echt fout zijn. Uw documenten alleen zijn vaak niet genoeg als daaruit niet blijkt dat ze over u gaan. Wijst de gemeente uw verzoek af, dan kunt u bezwaar maken met bewijs dat de documenten echt van u zijn.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

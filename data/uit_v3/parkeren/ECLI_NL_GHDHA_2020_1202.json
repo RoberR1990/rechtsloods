@@ -1,0 +1,174 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2020:1202",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Dordrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bewoner van Dordrecht had een vergunning voor twee auto's, maar activeerde het kenteken van de geparkeerde auto niet en kreeg een naheffing (een rekening achteraf). Zij ging in hoger beroep bij het gerechtshof tegen de gemeente.",
+ "titel": "Vergunning voor twee auto's: kenteken niet geactiveerd, naheffing terecht",
+ "kern": {
+  "zin": "Het hof vindt de naheffing terecht: wie een vergunning voor twee auto's gebruikt, moet zelf zorgen dat het juiste kenteken is geactiveerd.",
+  "bron": [
+   27
+  ],
+  "citaat": "die verantwoordelijk is voor het nakomen van de aan de faciliteit verbonden voorwaarden"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner had een vergunning voor twee auto's, maar activeerde het kenteken van de geparkeerde auto niet.",
+   "bron": [
+    11
+   ],
+   "citaat": "heeft zij dat kenteken niet geactiveerd"
+  },
+  {
+   "zin": "De gemeente legde een naheffing van 64,80 euro op en hield die na bezwaar in stand.",
+   "bron": [
+    12
+   ],
+   "citaat": "naheffingsaanslag in de parkeerbelastingen van de gemeente Dordrecht van € 64,80"
+  },
+  {
+   "zin": "De bewoner zei dat zij bij het wisselen van auto was vergeten het kenteken te activeren.",
+   "bron": [
+    27
+   ],
+   "citaat": "bij het wisselen van een auto heb ik verzuimd om mijn kenteken te"
+  },
+  {
+   "zin": "De rechtbank vond dat zij niet voldeed aan de voorwaarde dat het kenteken van de auto als actief kenteken moest staan.",
+   "bron": [
+    18
+   ],
+   "citaat": "voorwaarde dat het kenteken van de geparkeerde auto als actief kenteken geregistreerd moet staan"
+  },
+  {
+   "zin": "Het hof zei dat de bewoner de gemeente meteen had moeten informeren als het activeren niet lukte.",
+   "bron": [
+    27
+   ],
+   "citaat": "had het op haar weg gelegen de gemeente onverwijld te informeren over dat probleem"
+  },
+  {
+   "zin": "Het hof vond het hoger beroep ongegrond.",
+   "bron": [
+    28
+   ],
+   "citaat": "Het hoger beroep is ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing van 64,80 euro blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner moet de naheffing van 64,80 euro betalen; niemand krijgt proceskosten vergoed.",
+  "bron": [
+   12,
+   29
+  ],
+  "citaat": "naheffingsaanslag in de parkeerbelastingen van de gemeente Dordrecht van € 64,80"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Bij het wisselen van auto vergat ik mijn kenteken te activeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De vergunninghouder is zelf verantwoordelijk voor de voorwaarden van deze vergunning.",
+    "bron": [
+     27
+    ],
+    "citaat": "die verantwoordelijk is voor het nakomen van de aan de faciliteit verbonden voorwaarden"
+   },
+   "bruikbare_zin": {
+    "citaat": "die verantwoordelijk is voor het nakomen van de aan de faciliteit verbonden voorwaarden",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De software van de gemeente is slecht doordacht en de gemeente schiet tekort in haar zorgplicht.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank zag niet dat de software onbruikbaar of onnodig omslachtig was.",
+    "bron": [
+     20
+    ],
+    "citaat": "niet gebleken dat de door [de Heffingsambtenaar] gehanteerde software onbruikbaar of onnodig omslachtig in gebruik zou zijn"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik was vergeten het kenteken te wijzigen; dat is overmacht en de naheffing moet vervallen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De wet geeft de rechter geen ruimte om de naheffing hierom te vernietigen.",
+    "bron": [
+     21
+    ],
+    "citaat": "wettelijke bepalingen inzake de heffing van parkeerbelastingen bieden de rechtbank niet de vrijheid"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie een vergunning voor twee auto's gebruikt, is zelf verantwoordelijk voor het naleven van de voorwaarden, zoals het activeren van het kenteken.",
+  "type": "regel",
+  "reikwijdte": "Vergunning voor twee auto's in Dordrecht waarbij steeds het kenteken geactiveerd moet worden",
+  "uitzondering": "Lukt activeren niet, dan moet de vergunninghouder de gemeente meteen informeren.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "die verantwoordelijk is voor het nakomen van de aan de faciliteit verbonden voorwaarden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "controle op 3 januari 2019"
+  ],
+  "wat_gaf_doorslag": "Het kenteken van de geparkeerde auto was niet geactiveerd."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 20 AWR",
+  "art. 2 lid 2 verordening parkeerbelasting Dordrecht",
+  "art. 10 verordening parkeerbelasting Dordrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Maak aantoonbaar bekend dat bij een vergunning voor twee auto's steeds het juiste kenteken geactiveerd moet worden",
+   "raakt": "vergunningen",
+   "bron": [
+    11
+   ],
+   "citaat": "onder de, haar bekende, voorwaarde dat telkens het kenteken van de desbetreffende auto wordt geactiveerd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "betaalapp",
+  "bezwaar"
+ ],
+ "klantuitleg": "Heeft u een vergunning voor twee auto's, dan moet u bij het wisselen van auto het kenteken van die auto activeren. Doet u dat niet, dan kan de gemeente een naheffing opleggen. Lukt het activeren niet, meld dat dan meteen bij de gemeente.",
+ "gemeente": "Dordrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

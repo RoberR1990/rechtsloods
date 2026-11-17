@@ -1,0 +1,128 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2026:2121",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "beperking-bezwaar",
+ "kenmerk": null,
+ "zaaktype": "overig",
+ "partijen": {
+  "burger": "twee verzoekers (ouder en kind)",
+  "wederpartij": "college van B en W Hoogeveen",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "voorlopige voorziening",
+ "intro": "Een ouder en haar kind vragen de voorzieningenrechter van de rechtbank Noord-Nederland om de gemeente Hoogeveen te verbieden hun gegevens te gebruiken tijdens een hoorzitting. De gemeente vindt dat niet nodig.",
+ "titel": "Gemeente mag namen noemen op hoorzitting over AVG-verzoeken",
+ "kern": {
+  "zin": "De voorzieningenrechter wijst het verzoek af: het noemen van de namen op de hoorzitting is noodzakelijk en gerechtvaardigd, en er is geen teken dat meer gegevens worden gebruikt.",
+  "bron": [
+   19
+  ],
+  "citaat": "Deze verwerking is noodzakelijk en gerechtvaardigd."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger deed drie AVG-verzoeken bij de gemeente Hoogeveen en maakte bezwaar tegen de beslissing daarop.",
+   "bron": [
+    12
+   ],
+   "citaat": "drie verzoeken op grond van de Algemene verordening gegevensbescherming (Avg) ingediend"
+  },
+  {
+   "zin": "De gemeente wilde op 1 april 2026 een besloten hoorzitting houden over dat bezwaar. De burger wilde dat niet en vroeg de rechter om dat gebruik van gegevens tijdens de hoorzitting te verbieden.",
+   "bron": [
+    14
+   ],
+   "citaat": "een ordemaatregel te treffen die verweerder verbiedt om tijdens de hoorzitting van 1 april 2026 persoonsgegevens van verzoekers verder te verwerken"
+  },
+  {
+   "zin": "De gemeente zei dat de hoorzitting alleen gaat over de identiteit en de volmacht, en dat de inhoud van het dossier niet wordt gebruikt.",
+   "bron": [
+    18
+   ],
+   "citaat": "Van enig gebruik van de inhoud van beide dossiers tijdens de hoorzitting op 1 april 2026 is geen sprake."
+  },
+  {
+   "zin": "De voorzieningenrechter zag alleen dat de namen van de burgers worden genoemd, en dat is nodig en gerechtvaardigd.",
+   "bron": [
+    19
+   ],
+   "citaat": "in zoverre persoonsgegevens in de zin van de Avg worden verwerkt dat de namen van verzoekers worden genoemd"
+  },
+  {
+   "zin": "Het verzoek is kennelijk ongegrond en wordt afgewezen. Er is geen vergoeding van proceskosten.",
+   "bron": [
+    21
+   ],
+   "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Verzoek afgewezen; voorlopig oordeel dat bindt de rechtbank niet.",
+ "gevolg_betrokkene": {
+  "zin": "De hoorzitting kan doorgaan zonder verbod; de burger krijgt geen vergoeding van proceskosten en over griffierecht staat niets in de uitspraak.",
+  "bron": [
+   21
+  ],
+  "citaat": "De voorzieningenrechter wijst het verzoek dus af."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Op de hoorzitting worden mijn gegevens opnieuw gebruikt en besproken, en dat kan niet meer ongedaan worden gemaakt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er worden alleen de namen genoemd en er is geen aanwijzing dat verder gegevens worden gebruikt.",
+    "bron": [
+     19
+    ],
+    "citaat": "Er is geen aanwijzing dat van een verdere verwerking van persoonsgegevens sprake zal zijn."
+   },
+   "bruikbare_zin": {
+    "citaat": "Deze verwerking is noodzakelijk en gerechtvaardigd.",
+    "bron": [
+     19
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het noemen van namen op een hoorzitting is een verwerking van persoonsgegevens die in dit geval noodzakelijk en gerechtvaardigd is.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Alleen deze hoorzitting in een bezwaarprocedure over AVG-verzoeken, waar alleen namen worden genoemd.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "Deze verwerking is noodzakelijk en gerechtvaardigd."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Alleen de namen worden genoemd en er is geen teken dat meer gegevens worden gebruikt."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:83 lid 3 Awb",
+  "art. 4 AVG",
+  "art. 5 AVG"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "voorlopig oordeel in een kort geschil; geen algemene les voor de gemeente",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Op een hoorzitting over uw bezwaar mag de gemeente uw naam noemen, omdat dat nodig is om de zaak te behandelen. Gebruikt de gemeente daarnaast andere gegevens uit uw dossier, dan is dat iets anders. Dit is een voorlopig oordeel, dus u kunt in de gewone procedure nog vragen om een beoordeling.",
+ "gemeente": "Hoogeveen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

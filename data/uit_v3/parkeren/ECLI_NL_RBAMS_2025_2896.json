@@ -1,0 +1,135 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2025:2896",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Amsterdam een naheffing (de rekening achteraf) voor parkeerbelasting. Hij gaat in beroep bij de rechtbank Amsterdam tegen de uitspraak op bezwaar van de gemeente.",
+ "titel": "Laden van zware spullen: naheffing vernietigd",
+ "kern": {
+  "zin": "De rechter vindt het aannemelijk dat de parkeerder zware spullen direct inlaadde en niet parkeerde, daarom is de naheffing vernietigd.",
+  "bron": [
+   20
+  ],
+  "citaat": "zodat eiser niet heeft geparkeerd en derhalve geen parkeerbelasting verschuldigd is"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeercontroleur zag bij de auto geen betaalde parkeerbelasting, waarna de gemeente een naheffing oplegde.",
+   "bron": [
+    14
+   ],
+   "citaat": "heeft een parkeercontroleur van de gemeente Amsterdam geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zegt dat hij zware spullen uit Marktplaats direct inlaadde.",
+   "bron": [
+    18
+   ],
+   "citaat": "Eiser stelt dat er sprake was van het laden van zware goederen, zijnde speelgoed voor zijn dochter"
+  },
+  {
+   "zin": "De gemeente vindt dat het ophalen van speelgoed niet onder laden en lossen valt, en dat ook een korte stop belastbaar is.",
+   "bron": [
+    19
+   ],
+   "citaat": "het ophalen van speelgoed niet valt onder het laden en lossen"
+  },
+  {
+   "zin": "De rechter vindt het aannemelijk dat de auto stilstond voor het direct laden van zware spullen, mede door de chat en de WhatsApp.",
+   "bron": [
+    20
+   ],
+   "citaat": "Het verhaal van eiser wordt echter wel door de chatgeschiedenis van Marktplaats en het Whatsapp-gesprek"
+  },
+  {
+   "zin": "De naheffing gaat van tafel, omdat de rechter de uitspraak op bezwaar ongedaan maakt.",
+   "bron": [
+    22
+   ],
+   "citaat": "De rechtbank neemt zelf een beslissing en bepaalt dat de naheffingsaanslag wordt vernietigd"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd; griffierecht van 51 euro wordt vergoed",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft de naheffing niet te betalen, krijgt betaald geld terug en de gemeente vergoedt het griffierecht van 51 euro.",
+  "bron": [
+   22,
+   23
+  ],
+  "citaat": "Als hij de naheffingsaanslag al heeft betaald moet de heffingsambtenaar het betaalde bedrag aan eiser terugbetalen"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "De parkeerder zegt dat hij alleen even stilstond om zware spullen te laden, dus niet om te parkeren.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vindt het aannemelijk dat er zware spullen direct werden ingeladen, dus er is niet geparkeerd.",
+    "bron": [
+     20
+    ],
+    "citaat": "zodat eiser niet heeft geparkeerd en derhalve geen parkeerbelasting verschuldigd is"
+   },
+   "bruikbare_zin": {
+    "citaat": "het onmiddellijk laden van goederen van enige omvang en gewicht",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Kort stilstaan om zware spullen direct in te laden telt niet als parkeren, mits die spullen niet of bezwaarlijk op een andere manier te halen zijn.",
+  "type": "regel",
+  "reikwijdte": "zaken van een zodanige omvang of gewicht dat zij niet of bezwaarlijk op een andere wijze dan per voertuig ter plaatse kunnen worden gehaald of gebracht",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   17
+  ],
+  "citaat": "het bij voortduring inladen of uitladen van zaken van enige omvang of enig gewicht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "chatgeschiedenis Marktplaats",
+   "WhatsApp-gesprek",
+   "scanfoto's"
+  ],
+  "wat_gaf_doorslag": "De chatgeschiedenis en het WhatsApp-gesprek maakten het laden aannemelijk, ook al steunden de scanfoto's dat niet."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:1999:AA2760"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "definitiebepaling Verordening parkeerbelastingen Amsterdam 2024"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter noemt geen tekortkoming van de gemeente; oordeel over de feiten van deze zaak",
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "De rekening voor het parkeren is alleen terecht als er echt geparkeerd werd. Stil staan om zware spullen direct in te laden telt in deze zaak niet als parkeren. Denkt u dat u alleen laadde, dan kan bewijs zoals chatberichten helpen; of dat lukt, kan niemand beloven.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

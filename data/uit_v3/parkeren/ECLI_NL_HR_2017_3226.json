@@ -1,0 +1,177 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:HR:2017:3226",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "cassatie",
+ "intro": "Een parkeerder toetste bij de parkeerautomaat per ongeluk een verkeerde letter van zijn kenteken in en kreeg een naheffingsaanslag (een rekening achteraf). Hij ging in cassatie bij de Hoge Raad tegen de gemeente Amsterdam, omdat hij de kosten van zijn bezwaar vergoed wilde krijgen.",
+ "titel": "Verkeerd kenteken ingetoetst: geen vergoeding van bezwaarkosten",
+ "kern": {
+  "zin": "De Hoge Raad vond dat de gemeente de bezwaarkosten niet hoeft te vergoeden, omdat de parkeerder zelf niet op de voorgeschreven wijze betaalde.",
+  "bron": [
+   17
+  ],
+  "citaat": "Belanghebbende heeft niet op de voorgeschreven wijze aangifte gedaan en als gevolg daarvan is een naheffingsaanslag opgelegd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder betaalde bij een automaat, maar toetste één letter van zijn kenteken verkeerd in.",
+   "bron": [
+    10
+   ],
+   "citaat": "Bij het intoetsen heeft belanghebbende een letter van het kenteken verkeerd ingevoerd"
+  },
+  {
+   "zin": "Daardoor kon de scanauto zijn betaling niet aan zijn auto koppelen en kreeg hij een naheffingsaanslag (rekening achteraf).",
+   "bron": [
+    12
+   ],
+   "citaat": "Vanwege het onjuist ingevoerde kenteken werd de betaling van belanghebbende niet gekoppeld aan zijn geparkeerde auto"
+  },
+  {
+   "zin": "Na zijn bezwaar werd de aanslag vernietigd, maar de gemeente betaalde zijn kosten van de bezwaarfase niet.",
+   "bron": [
+    13
+   ],
+   "citaat": "Bij uitspraak op bezwaar is de naheffingsaanslag vernietigd. Daarbij heeft de heffingsambtenaar geen kostenvergoeding toegekend."
+  },
+  {
+   "zin": "De parkeerder vond dat de gemeente eerst had moeten controleren of er was betaald, want zijn betaalbewijs lag achter de voorruit.",
+   "bron": [
+    16
+   ],
+   "citaat": "dat de heffingsambtenaar in strijd met artikel 3:2 Awb heeft gehandeld omdat de gemeente moet controleren of de belasting is voldaan"
+  },
+  {
+   "zin": "De Hoge Raad vond dat het juiste kenteken invoeren bij de voorschriften voor betalen hoort, dus deze klacht faalt.",
+   "bron": [
+    17
+   ],
+   "citaat": "Deze klacht faalt. Het invoeren van het (juiste) kenteken behoort tot de voorschriften voor de wijze van voldoening"
+  },
+  {
+   "zin": "Het beroep in cassatie is ongegrond.",
+   "bron": [
+    22
+   ],
+   "citaat": "De Hoge Raad verklaart het beroep in cassatie ongegrond"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Alleen geschil over bezwaarkosten; de parkeerder verliest.",
+ "gevolg_betrokkene": {
+  "zin": "De aanslag was al vernietigd, maar de parkeerder krijgt de kosten van zijn bezwaar niet vergoed en ook geen proceskosten.",
+  "bron": [
+   20,
+   13
+  ],
+  "citaat": "De Hoge Raad acht geen termen aanwezig voor een veroordeling in de proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Ik heb wel betaald; het betaalbewijs lag achter de voorruit en de gemeente had dat moeten controleren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het juiste kenteken invoeren hoort bij de voorschriften voor het betalen, dus betalen met een fout kenteken is niet op de voorgeschreven wijze betalen.",
+    "bron": [
+     17
+    ],
+    "citaat": "Het invoeren van het (juiste) kenteken behoort tot de voorschriften voor de wijze van voldoening op aangifte van parkeerbelasting"
+   },
+   "bruikbare_zin": {
+    "citaat": "Belanghebbende heeft niet op de voorgeschreven wijze aangifte gedaan en als gevolg daarvan is een naheffingsaanslag opgelegd",
+    "bron": [
+     17
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente moet de kosten van mijn bezwaar vergoeden, omdat de aanslag is vernietigd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De vernietiging van de aanslag is niet de schuld van de gemeente.",
+    "bron": [
+     17
+    ],
+    "citaat": "kan niet worden gezegd dat het herroepen van de naheffingsaanslag aan de heffingsambtenaar is te wijten"
+   },
+   "bruikbare_zin": {
+    "citaat": "kan niet worden gezegd dat het herroepen van de naheffingsaanslag aan de heffingsambtenaar is te wijten",
+    "bron": [
+     17
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie bij betalen niet het juiste kenteken invoert, heeft niet op de voorgeschreven wijze betaald; wordt de aanslag daarna ingetrokken, dan is dat niet de schuld van de gemeente en krijgt de parkeerder de bezwaarkosten niet vergoed.",
+  "type": "regel",
+  "reikwijdte": "Betalen op kenteken waarbij het voorschrift in een besluit van het college staat; hier gemeente Amsterdam.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   17
+  ],
+  "citaat": "Het invoeren van het (juiste) kenteken behoort tot de voorschriften voor de wijze van voldoening op aangifte van parkeerbelasting"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "betaalbewijs met het verkeerd ingevoerde kenteken"
+  ],
+  "wat_gaf_doorslag": "De parkeerder had zelf het kenteken verkeerd ingetoetst."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 7:15 lid 2 Awb",
+  "art. 3:2 Awb",
+  "art. 234 lid 2 Gemeentewet",
+  "Verordening Parkeerbelastingen 2015 Amsterdam",
+  "art. 81 lid 1 Wet RO"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg in het uitvoeringsbesluit vast dat bij betalen het juiste kenteken moet worden ingevoerd.",
+   "raakt": "verordening-beleid",
+   "bron": [
+    17
+   ],
+   "citaat": "in het Uitvoerings- en Aanwijzingsbesluit op grond van de Verordening Parkeerbelastingen 2015 heeft vastgelegd"
+  },
+  {
+   "actie": "Wijs bij intrekking van een aanslag na een kentekenfout van de parkeerder het verzoek om vergoeding van bezwaarkosten af.",
+   "raakt": "bezwaar",
+   "bron": [
+    17
+   ],
+   "citaat": "kan niet worden gezegd dat het herroepen van de naheffingsaanslag aan de heffingsambtenaar is te wijten"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "scanauto-handhaving",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "Toetst u bij de automaat uw kenteken fout in, dan ziet de controle uw betaling niet en kunt u toch een rekening achteraf krijgen. Wordt die rekening na uw bezwaar ingetrokken, dan krijgt u in zo'n geval de kosten van het bezwaar niet vergoed. Controleer daarom het kenteken goed bij het betalen en bewaar uw betaalbewijs.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,172 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "reden_leeg_actie": null,
+ "dubbel_van": null,
+ "reden_gemeente_leeg": "Alleen de plaats van controle (Delft) en de heffingsdienst worden genoemd; gemeente niet uitdrukkelijk.",
+ "ecli": "ECLI:NL:PHR:2018:1290",
+ "soort_document": "conclusie AG",
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (via gemachtigde)",
+  "wederpartij": "Regionale Belasting Groep (heffingsdienst)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "cassatie",
+ "intro": "Een parkeerder maakte als feitelijke bestuurder bezwaar tegen een naheffing (rekening achteraf) voor parkeerbelasting, maar het bezwaar werd niet behandeld. De advocaat-generaal (de adviseur van de Hoge Raad) geeft de Hoge Raad advies over het beroep tegen de Regionale Belasting Groep.",
+ "titel": "Advies: wie als parkeerder bezwaar maakt, moet dat aannemelijk maken",
+ "kern": {
+  "zin": "De advocaat-generaal adviseert het beroep af te wijzen, omdat de parkeerder niet aannemelijk maakte dat zij de auto zelf had geparkeerd.",
+  "bron": [
+   180
+  ],
+  "citaat": "dat het beroep in cassatie van belanghebbende ongegrond dient te worden verklaard"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle op 25 juni 2016 in Delft bleek dat voor een auto geen parkeerbelasting was betaald, en de kentekenhouder kreeg een naheffing van € 89.",
+   "bron": [
+    14
+   ],
+   "citaat": "is aan hem een naheffingsaanslag van € 89 opgelegd"
+  },
+  {
+   "zin": "Een andere vrouw maakte bezwaar via een gemachtigde, als feitelijke parkeerster van de auto.",
+   "bron": [
+    15
+   ],
+   "citaat": "als feitelijke parkeerster van de auto tegen deze naheffingsaanslag op"
+  },
+  {
+   "zin": "De heffingsdienst vroeg om een machtiging van de kentekenhouder en verklaarde het bezwaar niet-ontvankelijk (niet behandeld) toen die kwam niet.",
+   "bron": [
+    18
+   ],
+   "citaat": "om reden van het niet overleggen van een juiste machtiging het bezwaar"
+  },
+  {
+   "zin": "De rechtbank en het hof gaven de heffingsdienst gelijk, omdat er geen enkel bewijs was dat zij de auto had geparkeerd.",
+   "bron": [
+    23
+   ],
+   "citaat": "geen enkel bewijs aanwezig is voor de eerst in beroep aangevoerde stelling"
+  },
+  {
+   "zin": "Volgens de advocaat-generaal had zij haar stelling aannemelijk kunnen maken, bijvoorbeeld met een verklaring van de kentekenhouder, maar dat deed zij niet.",
+   "bron": [
+    173
+   ],
+   "citaat": "aan de bewijslevering (aannemelijk maken) kunnen voldoen door een verklaring over te leggen van de kentekenhouder"
+  },
+  {
+   "zin": "De advocaat-generaal vindt de aanpak van de heffingsdienst te formeel, maar ziet geen plicht om extra uitleg te vragen, en adviseert het beroep af te wijzen.",
+   "bron": [
+    175,
+    180
+   ],
+   "citaat": "rust er geen (afdwingbare) onderzoeksplicht op de Heffingsambtenaar"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Advies: cassatie ongegrond; de heffingsdienst krijgt gelijk over het bezwaar.",
+ "gevolg_betrokkene": {
+  "zin": "Volgt de Hoge Raad dit advies, dan blijft het bezwaar onbehandeld en blijft de naheffing van € 89 staan.",
+  "bron": [
+   180,
+   14
+  ],
+  "citaat": "dat het beroep in cassatie van belanghebbende ongegrond dient te worden verklaard"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het bezwaar was ontvankelijk zonder machtiging van de kentekenhouder, want het was voor haarzelf ingediend.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank zag terecht dat zij moest uitleggen waarom zij mocht procederen, en daar had zij kans voor.",
+    "bron": [
+     161
+    ],
+    "citaat": "op de weg van belanghebbende lag om in het bezwaarschrift of op enig later moment in bezwaar toe te lichten"
+   },
+   "bruikbare_zin": {
+    "citaat": "het op de weg van belanghebbende lag om in het bezwaarschrift of op enig later moment in bezwaar toe te lichten waarom zij bevoegd was om bezwaar te maken",
+    "bron": [
+     161
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De heffingsdienst had om uitleg moeten vragen waarom het bezwaar niet voor de kentekenhouder was gemaakt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er is geen afdwingbare plicht voor de heffingsdienst om dat te vragen, al had het zorgvuldiger gekund.",
+    "bron": [
+     175
+    ],
+    "citaat": "rust er geen (afdwingbare) onderzoeksplicht op de Heffingsambtenaar"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie als feitelijke parkeerder bezwaar maakt tegen een naheffing op naam van de kentekenhouder, moet dat aannemelijk maken als de heffingsdienst het betwist.",
+  "type": "regel",
+  "reikwijdte": "Naheffingen parkeerbelasting die aan de kentekenhouder zijn opgelegd, terwijl een ander zegt de feitelijke parkeerder te zijn.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   160
+  ],
+  "citaat": "bij betwisting van de kant van de heffende instantie, door belanghebbende aannemelijk worden gemaakt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring van de kentekenhouder",
+   "gemotiveerde eigen verklaring",
+   "verschijnen op de zitting"
+  ],
+  "wat_gaf_doorslag": "Er was geen enkel bewijs dat zij de auto had geparkeerd en zij kwam niet naar de zitting."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2000:AA6508",
+   "ECLI:NL:HR:2002:AE4134",
+   "ECLI:NL:HR:2017:1234",
+   "ECLI:NL:GHDHA:2017:2173",
+   "ECLI:NL:RBZWB:2018:472"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 Gemeentewet",
+  "art. 253 Gemeentewet",
+  "art. 234 Gemeentewet",
+  "art. 2:1 Awb",
+  "art. 6:5 Awb",
+  "art. 6:6 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag een gemachtigde meteen of hij bezwaar maakt namens de kentekenhouder of voor zichzelf als feitelijke parkeerder.",
+   "raakt": "bezwaar",
+   "bron": [
+    160
+   ],
+   "citaat": "meteen aan belanghebbende had kunnen vragen of zij bezwaar maakte namens de kentekenhouder"
+  }
+ ],
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Staat de rekening voor het parkeren op naam van een ander, dan mag ook degene die echt geparkeerd heeft bezwaar maken. U moet dan wel duidelijk maken dat u de bestuurder was, bijvoorbeeld met een verklaring van de kentekenhouder. Zeg dat meteen in uw bezwaar en reageer op vragen van de gemeente.",
+ "gemeente": null,
+ "zekerheid": "middel"
+}

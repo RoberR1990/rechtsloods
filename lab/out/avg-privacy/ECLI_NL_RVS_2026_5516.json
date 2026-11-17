@@ -1,0 +1,139 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:5516",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": null,
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "verzoeker",
+  "wederpartij": "UWV",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Deze zaak gaat over een verzoek om inzage in persoonsgegevens. Een burger is in hoger beroep bij de Raad van State tegen het UWV, omdat de rechtbank haar beroep te laat vond.",
+ "titel": "Rechter: beroep over inzage was te laat",
+ "kern": {
+  "zin": "De Raad van State vindt dat er te weinig concrete aanwijzingen waren om het te late beroep te verontschuldigen.",
+  "bron": [
+   29
+  ],
+  "citaat": "er in het dossier echter onvoldoende concrete aanwijzingen om de termijnoverschrijding om die reden verschoonbaar te achten"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een burger vroeg het UWV om inzage in haar persoonsgegevens.",
+   "bron": [
+    21
+   ],
+   "citaat": "Op 22 oktober 2023 heeft [appellante] het UWV om inzage verzocht in haar persoonsgegevens."
+  },
+  {
+   "zin": "Het UWV wees dat verzoek af, omdat gevraagde medische rapportages niet in het elektronisch archief zaten.",
+   "bron": [
+    21
+   ],
+   "citaat": "de door haar opgevraagde rapportage(s) van medisch onderzoek niet zijn aangetroffen in het elektronisch archief"
+  },
+  {
+   "zin": "De rechtbank vond dat de burger haar beroep te laat indiende en verklaarde het beroep niet-ontvankelijk.",
+   "bron": [
+    25
+   ],
+   "citaat": "De rechtbank heeft het beroep daarom niet-ontvankelijk verklaard."
+  },
+  {
+   "zin": "De burger zei dat de termijnoverschrijding kwam door verwarring over samenhangende procedures.",
+   "bron": [
+    27
+   ],
+   "citaat": "De termijnoverschrijding is volgens haar dus niet veroorzaakt uit nalatigheid maar uit verwarring over de samenhangende procedures."
+  },
+  {
+   "zin": "Zij noemde ook medische klachten die invloed hadden op haar cognitief functioneren.",
+   "bron": [
+    27
+   ],
+   "citaat": "kampte met medische klachten die invloed hadden op haar cognitief functioneren"
+  },
+  {
+   "zin": "De Raad van State vond die verklaring niet genoeg en bevestigde de uitspraak van de rechtbank.",
+   "bron": [
+    32
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De Afdeling bevestigt de uitspraak van de rechtbank."
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "De rechter oordeelt alleen over de late indiening, niet over de inzage.",
+ "gevolg_betrokkene": {
+  "zin": "Het UWV hoeft geen proceskosten te vergoeden, dus de burger krijgt geen kostenvergoeding.",
+  "bron": [
+   33
+  ],
+  "citaat": "Het UWV hoeft geen proceskosten te vergoeden."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "Mijn beroep is te laat, maar dat komt door verwarring over andere procedures en medische klachten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Raad van State ziet onvoldoende concrete aanwijzingen in het dossier.",
+    "bron": [
+     29
+    ],
+    "citaat": "er in het dossier echter onvoldoende concrete aanwijzingen om de termijnoverschrijding om die reden verschoonbaar te achten"
+   },
+   "bruikbare_zin": {
+    "citaat": "is dit geen bijzondere omstandigheid",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een te late indiening is alleen verschoonbaar als de indiener redelijkerwijs niet in verzuim was.",
+  "type": "regel",
+  "reikwijdte": "Bij een te laat ingediend bezwaar- of beroepschrift.",
+  "uitzondering": "Bijzondere omstandigheden bij de indiener of handelen van het bestuursorgaan.",
+  "herkomst": "wet",
+  "bron": [
+   28
+  ],
+  "citaat": "Een termijnoverschrijding is verschoonbaar als redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "stukken in het dossier",
+   "verklaringen van de burger over vakantie, verwarring en medische klachten"
+  ],
+  "wat_gaf_doorslag": "Het dossier bevatte te weinig concrete aanwijzingen voor verschoonbaarheid."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2026:564"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 6:11 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; de zaak gaat over het UWV",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Deze uitspraak gaat niet over de vraag of u inzage krijgt. De rechter zegt alleen dat het beroep te laat is ingediend en dat daarvoor geen goede reden was. Let dus goed op de termijn: in de brief met de beslissing stond dat de burger binnen zes weken naar de rechter kon.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente; wederpartij is het UWV",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

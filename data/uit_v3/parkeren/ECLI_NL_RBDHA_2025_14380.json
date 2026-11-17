@@ -1,0 +1,159 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2025:14380",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "particulier (de parkeerder)",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg drie naheffingen (de rekening achteraf) voor parkeren zonder geldige vergunning in Den Haag. Zij ging in beroep tegen de gemeente Den Haag bij de rechtbank Den Haag.",
+ "titel": "Drie parkeerrekeningen in Den Haag blijven terecht",
+ "kern": {
+  "zin": "De rechter vond de rekeningen terecht: de verkeerde einddatum kwam voor rekening van de parkeerder.",
+  "bron": [
+   28
+  ],
+  "citaat": "Het niet opmerken hiervan komt voor rekening en risico van eiseres"
+ },
+ "samenvatting": [
+  {
+   "zin": "De nieuwe vergunning gold maar één dag.",
+   "bron": [
+    15
+   ],
+   "citaat": "oftewel een geldigheidsduur van één dag"
+  },
+  {
+   "zin": "Bij drie controles bleek er geen belasting betaald en geen vergunning aangemeld.",
+   "bron": [
+    21
+   ],
+   "citaat": "Tijdens controles op voormelde tijdstippen is geconstateerd dat voor de auto geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder vindt dat het systeem de foute invoer had moeten tegenhouden.",
+   "bron": [
+    25
+   ],
+   "citaat": "Het systeem zou een dergelijke foutieve invoer moeten blokkeren of een foutmelding moeten tonen"
+  },
+  {
+   "zin": "De gemeente zegt dat de aanvrager zelf de data invoert en controleert.",
+   "bron": [
+    26
+   ],
+   "citaat": "De aanvrager dient zelf de begindatum en einddatum van de tijdelijke vergunning in te voeren"
+  },
+  {
+   "zin": "De rechter zag geen overmacht en wees het beroep af.",
+   "bron": [
+    28
+   ],
+   "citaat": "Naar het oordeel van de rechtbank is in dit geval geen sprake van een dergelijke overmachtssituatie"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de drie rekeningen blijven staan.",
+ "gevolg_betrokkene": {
+  "zin": "De drie rekeningen blijven staan en er volgt geen veroordeling in de proceskosten.",
+  "bron": [
+   31,
+   32
+  ],
+  "citaat": "Gelet op wat hiervoor is overwogen, zijn de beroepen ongegrond"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Zij zegt dat zij een vergunning voor een maand had aangevraagd en dat de fout bij het systeem lag.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond het aannemelijk dat de parkeerder zelf de einddatum had ingevoerd; dat komt voor haar rekening.",
+    "bron": [
+     28
+    ],
+    "citaat": "Het niet opmerken hiervan komt voor rekening en risico van eiseres"
+   },
+   "bruikbare_zin": {
+    "citaat": "Parkeerbelasting is immers een objectieve belasting, waarbij opzet en schuld geen rol spelen",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "gelijkheid",
+   "burger_zegt": "Zij vindt het oneerlijk dat één rekening wel is geschrapt en de andere drie niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat de rechtbank over de coulance van de gemeente niet mag beslissen.",
+    "bron": [
+     30
+    ],
+    "citaat": "Verder is de rechtbank niet bevoegd om verweerder op te dragen de resterende drie naheffingsaanslagen uit coulance te vernietigen"
+   },
+   "bruikbare_zin": {
+    "citaat": "aan deze beslissing geen rechten kunnen worden ontleend voor andere of volgende gevallen",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeerbelasting is objectief: opzet, schuld en persoonlijke omstandigheden tellen niet mee, tenzij er een acute noodsituatie is.",
+  "type": "regel",
+  "reikwijdte": "naheffing parkeerbelasting bij niet betalen of geen geldige vergunning",
+  "uitzondering": "acute noodsituatie waardoor de parkeerder niet (tijdig) kon betalen",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   28
+  ],
+  "citaat": "Parkeerbelasting is immers een objectieve belasting, waarbij opzet en schuld geen rol spelen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "controles op drie tijdstippen"
+  ],
+  "wat_gaf_doorslag": "De rechter vond het aannemelijk dat de parkeerder zelf de einddatum had ingevoerd."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "hardheidsclausule",
+  "gelijkheidsbeginsel",
+  "coulancebeleid gemeente Den Haag"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet bij een coulance-besluit erbij dat er geen rechten aan kunnen worden ontleend.",
+   "raakt": "bezwaar",
+   "bron": [
+    23
+   ],
+   "citaat": "aan deze beslissing geen rechten kunnen worden ontleend voor andere of volgende gevallen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Controleer bij een parkeervergunning goed de begin- en einddatum, want een fout daarin komt voor uw rekening. Alleen bij een acute noodsituatie waardoor u niet kon betalen, telt uw situatie mee. Een eerdere coulance van de gemeente geeft geen recht op dezelfde coulance voor de andere rekeningen.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

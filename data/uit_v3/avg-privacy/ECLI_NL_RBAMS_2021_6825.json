@@ -1,0 +1,221 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2021:6825",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "wissen",
+ "kenmerk": "publieke-taak",
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "omwonende (journalist)",
+  "wederpartij": "gemeente Amsterdam (de burgemeester)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger uit Amsterdam wil dat de gemeente haar gegevens wist uit een aanpak tegen intimidatie in de buurt (de Treiteraanpak). Zij procedeert tegen de burgemeester bij de rechtbank Amsterdam.",
+ "titel": "Amsterdam mocht gegevens in aanpak tegen buurtintimidatie bewaren",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente de gegevens rechtmatig verwerkte, omdat de burger aan de criteria voor de aanpak voldeed en de gegevens nodig bleven.",
+  "bron": [
+   55
+  ],
+  "citaat": "rechtmatig zijn verwerkt in het kader van de Treiteraanpak"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger werd in 2015 door de gemeente opgenomen in de Treiteraanpak (een aanpak van intimidatie in de buurt) en vroeg later om stopzetting en wissing van haar gegevens.",
+   "bron": [
+    20
+   ],
+   "citaat": "is in augustus 2015 opgenomen in de Treiteraanpak"
+  },
+  {
+   "zin": "De burger vond dat zij niet aan de criteria voor de aanpak voldeed en dat er te veel gegevens over haar waren verwerkt.",
+   "bron": [
+    27
+   ],
+   "citaat": "in haar geval niet wordt voldaan aan de criteria van de Treiteraanpak"
+  },
+  {
+   "zin": "De gemeente vond dat de gegevens niet onrechtmatig waren verwerkt, omdat de burger aan alle criteria voldeed.",
+   "bron": [
+    22
+   ],
+   "citaat": "zijn haar persoonsgegevens niet onrechtmatig verwerkt"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente voldoende aannemelijk had gemaakt dat de burger aan de criteria voldeed.",
+   "bron": [
+    49
+   ],
+   "citaat": "De rechtbank is van oordeel dat de burgemeester voldoende aannemelijk heeft gemaakt"
+  },
+  {
+   "zin": "De rechter woog het belang van het slachtoffer zwaarder dan de nadelige gevolgen voor de burger.",
+   "bron": [
+    56
+   ],
+   "citaat": "Het belang van bescherming van het slachtoffer weegt in dit geval zwaarder dan de gestelde nadelige gevolgen"
+  },
+  {
+   "zin": "Het beroep is ongegrond. Alleen over het te late besluit op bezwaar kreeg de burger een vergoeding van kosten.",
+   "bron": [
+    62
+   ],
+   "citaat": "Het beroep tegen het bestreden besluit is ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; alleen kosten voor het te late besluit vergoed",
+ "gevolg_betrokkene": {
+  "zin": "De gegevens van de burger worden niet gewist. De gemeente vergoedt wel de proceskosten van € 374 en het griffierecht van € 48 voor het beroep over het te late besluit, en keert een dwangsom uit (het bedrag staat niet in de uitspraak).",
+  "bron": [
+   63,
+   36
+  ],
+  "citaat": "proceskosten ter waarde van 0,5 punt, € 374"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wissen-geen-grondslag",
+   "burger_zegt": "De gegevens worden te lang bewaard en moeten worden gewist.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het convenant noemt vijf jaar bewaren, tenzij een gerechtelijke procedure langer bewaren nodig maakt; er liep nog een hoger beroep in de strafzaak.",
+    "bron": [
+     57
+    ],
+    "citaat": "een bewaartermijn van vijf jaar opgenomen, tenzij een gerechtelijke procedure tot langere bewaring noopt"
+   },
+   "bruikbare_zin": {
+    "citaat": "tenzij een gerechtelijke procedure tot langere bewaring noopt",
+    "bron": [
+     57
+    ]
+   }
+  },
+  {
+   "arg": "doelbinding",
+   "burger_zegt": "De gemeente gebruikt de gegevens in strijd met het doel waarvoor ze zijn verzameld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de verwerking verenigbaar met het doel van het convenant en woog de gevolgen voor de burger mee.",
+    "bron": [
+     56
+    ],
+    "citaat": "verwerking van de persoonsgegevens bij de Treiteraanpak verenigbaar is met het doel van de verwerking"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat [eiseres] zich gestigmatiseerd voelt, weegt volgens de rechtbank niet zodanig zwaar dat de gegevens niet mogen worden verwerkt",
+    "bron": [
+     56
+    ]
+   }
+  },
+  {
+   "arg": "te-veel-gegevens",
+   "burger_zegt": "Er zijn meer gegevens verwerkt dan nodig, ook gegevens die niet over de zaak gaan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond het nodig om een beeld van de burger en haar gedrag te vormen voor de best passende aanpak.",
+    "bron": [
+     53
+    ],
+    "citaat": "de aard en omvang van de gedragingen om te komen tot de best passende aanpak"
+   },
+   "bruikbare_zin": {
+    "citaat": "de aard en omvang van de gedragingen om te komen tot de best passende aanpak",
+    "bron": [
+     53
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente had vooraf een gegevensbeschermingseffectbeoordeling (DPIA, een risicotoets) moeten doen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag geen hoog risico: de gegevens zijn niet geautomatiseerd verwerkt en het gaat om een beperkt aantal vaste partijen.",
+    "bron": [
+     58
+    ],
+    "citaat": "geen hoog risico inhoudt voor de rechten en vrijheden van natuurlijke personen"
+   },
+   "bruikbare_zin": {
+    "citaat": "de gegevens van [eiseres] niet worden verwerkt op basis van geautomatiseerde systemen",
+    "bron": [
+     58
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Gegevensverwerking in een samenwerkingsaanpak is rechtmatig als ze nodig is voor een taak van algemeen belang, zoals het handhaven van de openbare orde.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Gegevensuitwisseling binnen de Treiteraanpak van Amsterdam op basis van het convenant",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   41
+  ],
+  "citaat": "de verwerking van de persoonsgegevens noodzakelijk is om de doelen van het Convenant te bereiken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "getuigenverklaringen",
+   "e-mails van de burger aan instanties",
+   "verklaringen van het slachtoffer",
+   "notulen van overleggen",
+   "processen-verbaal"
+  ],
+  "wat_gaf_doorslag": "De rechter vond in het dossier genoeg aanwijzingen dat de burger aan de vijf criteria voldeed."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2018:3866",
+   "ECLI:NL:RVS:2019:1230"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 6 lid 1 onder e AVG",
+  "art. 5 AVG",
+  "art. 17 AVG",
+  "art. 6 lid 4 AVG",
+  "art. 35 AVG",
+  "art. 1:3 Awb",
+  "art. 8:42 Awb",
+  "art. 8 EVRM"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg in een convenant een bewaartermijn vast en motiveer waarom langer bewaren nodig is als er nog een rechtszaak loopt",
+   "raakt": "privacy-fg",
+   "bron": [
+    57
+   ],
+   "citaat": "een bewaartermijn van vijf jaar opgenomen, tenzij een gerechtelijke procedure tot langere bewaring noopt"
+  },
+  {
+   "actie": "Leg de afweging vast tussen de nadelige gevolgen voor de burger en de bescherming van het slachtoffer",
+   "raakt": "bezwaar",
+   "bron": [
+    56
+   ],
+   "citaat": "Het belang van bescherming van het slachtoffer weegt in dit geval zwaarder dan de gestelde nadelige gevolgen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een gemeente mag gegevens bewaren en delen met andere organisaties als dat nodig is voor een taak van algemeen belang, zoals het aanpakken van intimidatie in de buurt. Hier vond de rechter dat de gemeente de gegevens mocht bewaren zolang de strafzaak nog liep. Wilt u uw gegevens laten wissen, leg dan uit waarom ze volgens u niet meer nodig zijn.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

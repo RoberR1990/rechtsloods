@@ -1,0 +1,150 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2019:85",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "man die zichzelf bestuurder en gebruiker van de auto's noemt",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een man ging in beroep tegen zestien naheffingen parkeerbelasting (rekeningen achteraf) die de gemeente Amsterdam aan een bedrijf had opgelegd. De rechtbank verklaarde hem niet-ontvankelijk (zijn zaak werd niet behandeld) en hij ging in hoger beroep bij het gerechtshof Amsterdam.",
+ "titel": "Geen beroep tegen zestien naheffingen zonder bewijs van eigen parkeren",
+ "kern": {
+  "zin": "Het hof vindt het onaannemelijk dat de man zelf de auto's neerzette, dus mag hij niet zelf in beroep tegen de naheffingen.",
+  "bron": [
+   136
+  ],
+  "citaat": "het onaannemelijk is dat [X] daadwerkelijk degene is die de auto’s feitelijk heeft neergezet"
+ },
+ "samenvatting": [
+  {
+   "zin": "De zaak gaat over zestien naheffingen parkeerbelasting die in augustus en september 2016 in Amsterdam aan een bedrijf als kentekenhouder zijn opgelegd.",
+   "bron": [
+    19
+   ],
+   "citaat": "De onderhavige zaak heeft betrekking op zestien naheffingsaanslagen parkeerbelasting"
+  },
+  {
+   "zin": "De rechtbank vroeg de man twee keer om bewijs dat hij namens het bedrijf mocht optreden en kreeg geen reactie, waarna zij zijn beroepen niet-ontvankelijk verklaarde.",
+   "bron": [
+    127
+   ],
+   "citaat": "kan niet worden vastgesteld of [X] bevoegd is om namens [A] B.V. in beroep te gaan"
+  },
+  {
+   "zin": "In hoger beroep zei de man dat hij niet namens het bedrijf optrad, maar zelf, als bestuurder en gebruiker van de auto's.",
+   "bron": [
+    130
+   ],
+   "citaat": "Appellant is als bestuurder en gebruiker van het voertuig belanghebbende in bezwaar en beroep"
+  },
+  {
+   "zin": "Wie niet de kentekenhouder is en toch in beroep gaat, moet aannemelijk maken dat hij de auto zelf heeft neergezet.",
+   "bron": [
+    131
+   ],
+   "citaat": "om aannemelijk te maken dat hij degene is die de auto feitelijk heeft neergezet"
+  },
+  {
+   "zin": "De zestien naheffingen gingen over tien verschillende auto's en de man zou dan op een dag meerdere keren van auto zijn gewisseld.",
+   "bron": [
+    133
+   ],
+   "citaat": "indien [X] de auto’s daadwerkelijk heeft bestuurd en gebruikt hij op één dag drie keer van auto is gewisseld"
+  },
+  {
+   "zin": "De man bracht geen bewijs, zoals een verklaring van de kentekenhouder, hoewel dat voor de hand lag.",
+   "bron": [
+    136
+   ],
+   "citaat": "had het voor de hand gelegen dat hij ter onderbouwing van deze stelling enig bewijs had aangedragen"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Man niet-ontvankelijk; de naheffingen zelf worden niet beoordeeld.",
+ "gevolg_betrokkene": {
+  "zin": "De zestien naheffingen worden niet inhoudelijk bekeken en de man krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   137,
+   141
+  ],
+  "citaat": "Aan een inhoudelijke beoordeling van de uitspraken op bezwaar komt het Hof niet toe"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij was zelf bestuurder en gebruiker van de auto's en mocht daarom zelf bezwaar en beroep instellen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Zijn enkele stelling is niet genoeg om aannemelijk te maken dat hij de auto's zelf neerzette.",
+    "bron": [
+     136
+    ],
+    "citaat": "had het voor de hand gelegen dat hij ter onderbouwing van deze stelling enig bewijs had aangedragen"
+   },
+   "bruikbare_zin": {
+    "citaat": "om aannemelijk te maken dat hij degene is die de auto feitelijk heeft neergezet",
+    "bron": [
+     131
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie niet de kentekenhouder is, mag alleen zelf bezwaar en beroep instellen tegen een naheffing als hij de auto feitelijk heeft neergezet, en dat moet hij aannemelijk maken.",
+  "type": "regel",
+  "reikwijdte": "Naheffingen parkeerbelasting waartegen iemand opkomt die niet de kentekenhouder is.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   130
+  ],
+  "citaat": "[X] is alleen dan bevoegd uit eigen hoofde rechtsmiddelen aan te wenden tegen de onderhavige naheffingsaanslagen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "alleen zijn eigen stelling dat hij bestuurder en gebruiker was"
+  ],
+  "wat_gaf_doorslag": "Zestien naheffingen voor tien auto's met meerdere autowissels per dag maakten zijn stelling onaannemelijk."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2000:AA6508"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 26a lid 1 AWR",
+  "art. 8:1 Awb",
+  "art. 8:75 Awb",
+  "art. 8:108 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij bezwaar van iemand die niet de kentekenhouder is om bewijs dat hij zelf de auto neerzette, bijvoorbeeld een verklaring van de kentekenhouder.",
+   "raakt": "bezwaar",
+   "bron": [
+    136
+   ],
+   "citaat": "bijvoorbeeld een verklaring van de kentekenhouder"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren staat op naam van de kentekenhouder. Bent u zelf niet de kentekenhouder en wilt u bezwaar maken, dan moet u aannemelijk maken dat u de auto zelf hebt neergezet. Een verklaring van de kentekenhouder kan daarbij helpen.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

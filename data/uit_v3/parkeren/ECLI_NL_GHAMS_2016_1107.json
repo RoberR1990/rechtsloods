@@ -1,0 +1,150 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "dubbel_van": null,
+ "ecli": "ECLI:NL:GHAMS:2016:1107",
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder voerde bij de automaat een verkeerd kenteken in en kreeg een naheffingsaanslag (rekening achteraf). De gemeente Amsterdam ging in hoger beroep bij het Gerechtshof Amsterdam over de vergoeding van de bezwaarkosten.",
+ "titel": "Verkeerd kenteken ingevoerd: geen vergoeding van bezwaarkosten",
+ "kern": {
+  "zin": "Het hof vond dat de fout bij de parkeerder lag, dus de gemeente hoeft zijn bezwaarkosten niet te vergoeden.",
+  "bron": [
+   85
+  ],
+  "citaat": "Het ten onrechte opleggen van de Naheffingsaanslag is te wijten aan belanghebbende die - abusievelijk - een verkeerd kenteken heeft ingevoerd."
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder betaalde bij een automaat in Amsterdam, maar voerde per ongeluk een verkeerd kenteken in.",
+   "bron": [
+    35
+   ],
+   "citaat": "In plaats van het kenteken van het Voertuig heeft belanghebbende"
+  },
+  {
+   "zin": "De gemeente trok de rekening achteraf in na bezwaar, maar wees vergoeding van de bezwaarkosten af.",
+   "bron": [
+    51
+   ],
+   "citaat": "heeft de heffingsambtenaar het bezwaar tegen de naheffingsaanslag gegrond verklaard"
+  },
+  {
+   "zin": "De parkeerder vond dat hij recht had op vergoeding van zijn kosten voor de bezwaarprocedure.",
+   "bron": [
+    75
+   ],
+   "citaat": "hij recht heeft op vergoeding van de door hem in het kader van de bezwaarprocedure gemaakte kosten"
+  },
+  {
+   "zin": "De gemeente zei dat de parkeerder het verkeerde kenteken zelf had ingevoerd en dat dit niet aan de gemeente lag.",
+   "bron": [
+    74
+   ],
+   "citaat": "belanghebbende een verkeerd kenteken heeft ingevoerd en dat dit niet toegerekend kan worden aan de heffingsambtenaar"
+  },
+  {
+   "zin": "Het hof vond dat de gemeente niet kon weten dat voor deze auto was betaald.",
+   "bron": [
+    84
+   ],
+   "citaat": "De heffingsambtenaar wist ten tijde van het opleggen van de Naheffingsaanslag niet (en kon redelijkerwijs ook niet weten)"
+  },
+  {
+   "zin": "Daarom kreeg de parkeerder geen vergoeding en werd het oordeel van de rechtbank vernietigd.",
+   "bron": [
+    88
+   ],
+   "citaat": "belanghebbende geen aanspraak kan maken op vergoeding van de door hem in de bezwaarfase gemaakte kosten"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Rekening vervalt wel, maar bezwaarkosten worden niet vergoed; hoger beroep gemeente slaagt.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt zijn kosten van het bezwaar niet vergoed en de door de rechtbank toegekende proceskosten vervallen.",
+  "bron": [
+   88,
+   90
+  ],
+  "citaat": "De inspecteur heeft dan ook terecht geen kostenvergoeding voor de bezwaarfase verleend"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente maakte een fout door de rekening achteraf op te leggen, dus zij moet mijn bezwaarkosten vergoeden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De fout lag bij de parkeerder die een verkeerd kenteken invoerde, niet bij de gemeente.",
+    "bron": [
+     85
+    ],
+    "citaat": "is te wijten aan belanghebbende die - abusievelijk - een verkeerd kenteken heeft ingevoerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "herroepen vanwege aan het bestuursorgaan te wijten onrechtmatigheid",
+    "bron": [
+     85
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bezwaarkosten worden alleen vergoed als het besluit is ingetrokken door een fout die aan de gemeente te wijten is.",
+  "type": "regel",
+  "reikwijdte": "Vergoeding van bezwaarkosten na intrekking van een naheffingsaanslag",
+  "uitzondering": "Ligt de fout bij de gemeente zelf, dan kan wel vergoeding volgen.",
+  "herkomst": "wet",
+  "bron": [
+   81
+  ],
+  "citaat": "uitsluitend worden vergoed door het bestuursorgaan wanneer het bestuursorgaan het besluit herroept wegens aan het bestuursorgaan te wijten onrechtmatigheid"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "betaalbewijs van de automaat"
+  ],
+  "wat_gaf_doorslag": "De gemeente kon bij de controle niet weten dat voor deze auto was betaald."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHAMS:2015:4471"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:15 lid 2 Awb",
+  "Verordening Parkeerbelastingen 2014 Amsterdam",
+  "art. 8:75 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Wijs een verzoek om bezwaarkosten af als de naheffing alleen is ingetrokken omdat de parkeerder een verkeerd kenteken invoerde.",
+   "raakt": "bezwaar",
+   "bron": [
+    85
+   ],
+   "citaat": "Het ten onrechte opleggen van de Naheffingsaanslag is te wijten aan belanghebbende"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "klantcontact"
+ ],
+ "klantuitleg": "Voert u bij het betalen per ongeluk een verkeerd kenteken in, dan kan de gemeente toch een rekening achteraf opleggen. Kunt u laten zien dat u wel hebt betaald, dan kan die rekening vervallen, maar de kosten van uw bezwaar krijgt u dan niet altijd terug. Bewaar daarom uw betaalbewijs en controleer het kenteken voordat u betaalt.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,4 @@
+## Uitkomst (variant v3c)
+- **uitkomst = "alleen procedure"** als de burger alleen proceskosten, griffierecht, een dwangsom of een termijnpunt wint, of als de zaak alleen wordt teruggewezen of het besluit al eerder was vernietigd en het geschil nog alleen over kosten of horen gaat. Nooit "burger wint" of "deels" daarvoor.
+- **"deels"** alleen als de burger op een inhoudelijk punt gelijk krijgt (bijv. bedrag of aanslag omlaag, één van twee besluiten vervalt).
+- **Belastingzaken** (parkeerbelasting, BPM, WOZ): aanslag vernietigd = "burger wint"; aanslag verminderd = "deels"; beroep ongegrond of aanslag gehandhaafd = "wederpartij wint"; hoger beroep of cassatie van de inspecteur/heffingsambtenaar die slaagt = "wederpartij wint"; alleen een vergoeding wegens te lange duur (immateriële schade) of proceskosten = "alleen procedure".

@@ -1,0 +1,153 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2026:770",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Utrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg meerdere naheffingsaanslagen (de rekeningen achteraf) van de gemeente Utrecht, omdat zijn auto zonder betaling in het parkeergebied stond. De Rechtbank Midden-Nederland beoordeelt twee van die beroepen; de rest is ingetrokken of blijft buiten beschouwing.",
+ "titel": "Kenteken niet goed doorgegeven: rekeningen bleven staan",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder zelf moet zorgen voor een juiste kentekenregistratie, dus de twee rekeningen blijven staan.",
+  "bron": [
+   33
+  ],
+  "citaat": "Het behoort tot de verantwoordelijkheid van een parkeerder om ervoor te zorgen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeerder kreeg rekeningen achteraf, omdat zijn auto in Utrecht stond zonder dat er betaald was.",
+   "bron": [
+    15
+   ],
+   "citaat": "zonder dat de verschuldigde parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zegt dat hij er geen financieel voordeel bij had en dat zijn gps-ritten dat laten zien.",
+   "bron": [
+    31
+   ],
+   "citaat": "Eiser voert verder aan dat hij geen financieel voordeel heeft gehad"
+  },
+  {
+   "zin": "De gemeente zegt dat het kenteken niet aan de vergunning was gekoppeld.",
+   "bron": [
+    32
+   ],
+   "citaat": "dat het feit blijft dat het kenteken niet was gekoppeld aan de vergunning"
+  },
+  {
+   "zin": "De gemeente liet aanslagen na 5 maart 2024 uit goedwil (coulance) vervallen; de eerste van elke maand bleef voor de parkeerder.",
+   "bron": [
+    32
+   ],
+   "citaat": "Uit coulance zijn de aanslagen die zijn opgelegd na 5 maart 2024 wel vernietigd"
+  },
+  {
+   "zin": "De rechter vindt dat er geen overmacht was en dat de gps-gegevens niets veranderen aan het objectieve gegeven.",
+   "bron": [
+    33
+   ],
+   "citaat": "De gps-ritregistratie doet verder niet af aan het objectieve gegeven"
+  },
+  {
+   "zin": "Het griffierecht gaat niet terug en er komt geen vergoeding van proceskosten.",
+   "bron": [
+    35
+   ],
+   "citaat": "Eiser krijgt daarom het griffierecht niet terug"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroepen ongegrond; twee beroepen ingetrokken, twee aanslagen blijven staan",
+ "gevolg_betrokkene": {
+  "zin": "De twee aanslagen blijven staan en de parkeerder moet ze betalen; het griffierecht gaat niet terug.",
+  "bron": [
+   35
+  ],
+  "citaat": "en dat eiser deze moet betalen"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "De parkeerder zegt dat hij na de aankoop van een nieuwe auto een tijdelijke kentekenwijziging heeft geregistreerd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter legt de verantwoordelijkheid voor een juiste kentekenregistratie bij de parkeerder.",
+    "bron": [
+     33
+    ],
+    "citaat": "Het behoort tot de verantwoordelijkheid van een parkeerder om ervoor te zorgen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het behoort tot de verantwoordelijkheid van een parkeerder om ervoor te zorgen",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder zegt dat zijn gps-ritregistratie laat zien dat de auto niet onbetaald heeft gestaan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter tellen gps-gegevens niet mee, want de belasting is objectief.",
+    "bron": [
+     33
+    ],
+    "citaat": "De parkeerbelasting is een objectieve belasting waardoor geen rekening kan worden gehouden met persoonlijke omstandigheden"
+   },
+   "bruikbare_zin": {
+    "citaat": "De gps-ritregistratie doet verder niet af aan het objectieve gegeven",
+    "bron": [
+     33
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De parkeerbelasting is een objectieve belasting; persoonlijke omstandigheden tellen niet mee.",
+  "type": "regel",
+  "reikwijdte": "niet betaalde parkeerbelasting, ongeacht persoonlijke omstandigheden",
+  "uitzondering": "een noodsituatie of spoedeisende situatie waardoor iemand absoluut, feitelijk en fysiek verhinderd is om te betalen",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   33
+  ],
+  "citaat": "De parkeerbelasting is een objectieve belasting waardoor geen rekening kan worden gehouden met persoonlijke omstandigheden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "gps-ritregistratie van de parkeerder",
+   "gegevens over de kentekenregistratie"
+  ],
+  "wat_gaf_doorslag": "Het objectieve gegeven dat het kenteken op de datums niet was geregistreerd."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter legt de gemeente geen eis op; de gemeente won op het objectieve kenteken-argument",
+ "raakt": [
+  "vergunningen",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Staat uw kenteken niet goed geregistreerd bij de gemeente, dan kan de gemeente u een rekening achteraf sturen. De rechter vond dat u zelf moet zorgen dat het kenteken goed is aangemeld, en dat persoonlijke omstandigheden de belasting niet veranderen. Wilt u bezwaar maken, dan telt alleen een echte noodsituatie waardoor u niet kon betalen; een gps-registratie helpt daarbij niet.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

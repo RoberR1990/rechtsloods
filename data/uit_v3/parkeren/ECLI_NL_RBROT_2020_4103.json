@@ -1,0 +1,42 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2020:4103",
+ "relevant": true,
+ "onderwerp": "garages-privaat",
+ "sub": "privaat-boete-voorwaarden",
+ "kenmerk": null,
+ "zaaktype": "privaat",
+ "partijen": {"burger": "bestuurder (parkeerder)", "wederpartij": "exploitant", "gemeente_is_partij": false},
+ "procesvorm": "anders",
+ "intro": "Een parkeerder reed treintje uit de parkeergarage Rotterdam Hart van Zuid zonder te betalen. Parkeerexploitant Q-Park vorderde bij de kantonrechter van de rechtbank Rotterdam het tarief verloren kaart en een schadevergoeding.",
+ "titel": "Treintje rijden: parkeerder moet tarief en schadevergoeding betalen",
+ "kern": {"zin": "De kantonrechter oordeelde dat het treintje rijden voor rekening en risico van de parkeerder komt, dus hij moet betalen.", "bron": [47], "citaat": "Voornoemde omstandigheden komen geheel voor rekening en risico van [gedaagde]"},
+ "samenvatting": [
+  {"zin": "De bestuurder erkende dat hij op 20 juni 2019 treintje had gereden en zonder betalen was vertrokken.", "bron": [42], "citaat": "heeft erkend dat hij zich op 20 juni 2019 schuldig heeft gemaakt aan treintje rijden"},
+  {"zin": "Hij zei dat hij zijn kaartje kwijt was en te weinig geld had voor het tarief verloren kaart.", "bron": [40], "citaat": "omdat hij zijn parkeerkaartje was kwijtgeraakt"},
+  {"zin": "Q-Park eiste het tarief verloren kaart van 18 euro en een schadevergoeding van 300 euro.", "bron": [39], "citaat": "het tarief verloren kaart van in dit geval € 18,00 en een schadevergoeding van € 300,00"},
+  {"zin": "De kantonrechter vond de schadevergoeding niet oneerlijk, gezien de preventieve werking en de gevaarzetting.", "bron": [45], "citaat": "niet oneerlijk is in de zin van de Richtlijn"},
+  {"zin": "De omstandigheden kwamen voor rekening van de parkeerder, omdat hij andere mogelijkheden had gehad.", "bron": [47], "citaat": "temeer daar hem valt te verwijten dat hij andere alternatieven niet heeft gebruikt"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Parkeerder moet 365,70 euro betalen; treintje rijden blijft voor eigen rekening",
+ "gevolg_betrokkene": {"zin": "De bestuurder moet 365,70 euro betalen, met wettelijke rente vanaf het verzuim.", "bron": [54], "citaat": "€ 365,70, te vermeerderen met de wettelijke rente in de zin van artikel 6:119 BW"},
+ "steunt": null,
+ "bezwaargronden": [
+  {"arg": "privaat-voorwaarden", "burger_zegt": "Hij had te weinig geld bij zich en de medewerker wilde niet helpen, dus de situatie was niet zijn schuld.", "oordeel": "verworpen", "waarom": {"zin": "De rechter vond dat deze omstandigheden voor rekening van de parkeerder kwamen, omdat hij andere oplossingen had.", "bron": [47], "citaat": "temeer daar hem valt te verwijten dat hij andere alternatieven niet heeft gebruikt"}, "bruikbare_zin": {"citaat": "De kantonrechter is van oordeel dat dit niet het geval is.", "bron": [47]}},
+  {"arg": "onevenredig", "burger_zegt": "De schadevergoeding van 300 euro is exorbitant hoog.", "oordeel": "verworpen", "waarom": {"zin": "De rechter vond de schadevergoeding gerechtvaardigd door de preventieve werking en de schade van Q-Park.", "bron": [45], "citaat": "gelet op hetgeen door Q-Park is gesteld over de beoogde preventieve werking daarvan"}, "bruikbare_zin": {"citaat": "niet oneerlijk is in de zin van de Richtlijn", "bron": [45]}}
+ ],
+ "rechtsregel": {"zin": "Een oneerlijk beding in algemene voorwaarden laat de rechter ambtshalve buiten beschouwing en mag niet worden gematigd.", "type": "regel", "reikwijdte": "algemene voorwaarden van een parkeerexploitant jegens een consument", "uitzondering": "tenzij de consument zich daartegen verzet", "herkomst": "wet", "bron": [43], "citaat": "zonder meer verplicht is dat beding voor de consument buiten beschouwing te laten"},
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": [], "wat_gaf_doorslag": null},
+ "toepasselijkheid": "privaat",
+ "lijn": {"soort": "bevestigt", "eerdere": ["ECLI:NL:HR:2013:691"]},
+ "wetsartikelen": ["art. 6:233 BW", "art. 6:119 BW", "art. 6:96 lid 6 BW"],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": ["klantcontact"],
+ "klantuitleg": "Bent u uw parkeerkaartje kwijt en heeft u niet genoeg geld bij zich? Dan bent u het tarief verloren kaart verschuldigd, en de exploitant kan ook schadevergoeding vragen. Treintje rijden om zonder betalen weg te komen heeft in deze zaak weinig kans op succes.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente; privaat parkeerbedrijf",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

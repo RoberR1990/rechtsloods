@@ -1,0 +1,43 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2026:7637",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "invordering",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "parkeerder (met gemachtigde)", "wederpartij": "Belastingsamenwerking gemeenten en hoogheemraadschap Utrecht", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Dit gaat over aanmaningskosten van 9 euro, omdat een naheffingsaanslag (de rekening achteraf) niet op tijd was betaald. De parkeerder procedeert tegen de belastingsamenwerking bij de rechtbank Midden-Nederland.",
+ "titel": "Aanmaningskosten blijven: post was verstuurd via PostNL",
+ "kern": {"zin": "Volgens de rechter heeft de gemeente aannemelijk gemaakt dat de aanslag naar PostNL ging, dus de kosten blijven.", "bron": [24], "citaat": "voldoende aannemelijk heeft gemaakt dat dat de naheffingsaanslag aan PostNL"},
+ "samenvatting": [
+  {"zin": "Het ging om aanmaningskosten van 9 euro voor een niet betaalde naheffingsaanslag.", "bron": [11], "citaat": "voor het niet op tijd betalen van een aan hem opgelegde naheffingsaanslag parkeerbelasting"},
+  {"zin": "Volgens de parkeerder moet de gemeente bewijzen dat de post echt is verstuurd, want de brief was niet aangetekend.", "bron": [18], "citaat": "Omdat het hier gaat om een niet aangetekend stuk post"},
+  {"zin": "De gemeente zei dat de aanslag in een batch met meerdere documenten is geprint.", "bron": [19], "citaat": "en geprint in een batch met meerdere documenten"},
+  {"zin": "De rechter zag geen reden om de verzendgegevens van de gemeente in twijfel te trekken.", "bron": [24], "citaat": "De rechtbank ziet geen reden om aan de verzendadministratie van de heffingsambtenaar te twijfelen"},
+  {"zin": "De aanmaningskosten blijven staan en de parkeerder krijgt het griffierecht niet terug.", "bron": [26], "citaat": "Eiser krijgt ook het griffierecht niet terug"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; verzending via PostNL aannemelijk, kosten blijven",
+ "gevolg_betrokkene": {"zin": "De aanmaningskosten van 9 euro blijven staan en de parkeerder krijgt het griffierecht niet terug.", "bron": [26, 11], "citaat": "Eiser krijgt ook het griffierecht niet terug"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "overig", "burger_zegt": "De aanslag is niet aangetekend verstuurd, en de gemeente kan de verzending niet aantonen.", "oordeel": "verworpen", "waarom": {"zin": "De rechter vond een blote ontkenning van de ontvangst niet genoeg.", "bron": [24], "citaat": "De enkele ontkenning van de ontvangst van de naheffingsaanslagen op het adres van eiser is daarvoor onvoldoende"}, "bruikbare_zin": {"citaat": "die het vermoeden van de ontvangst van de naheffingsaanslag ontzenuwen", "bron": [24]}}
+ ],
+ "rechtsregel": {"zin": "De gemeente moet aannemelijk maken dat de post bij een postbedrijf is aangeboden.", "type": "regel", "reikwijdte": "naheffingsaanslagen die per post zijn verstuurd", "uitzondering": null, "herkomst": "oordeel rechter", "bron": [23], "citaat": "aannemelijk dient te maken dat het stuk aan een postvervoerbedrijf ter verzending is aangeboden"},
+ "bewijs": {"bewijslast_bij": "wederpartij", "bewijsmiddelen": ["verzendadministratie met batchnummer", "schermopnames van het verzendproces"], "wat_gaf_doorslag": "De verzendadministratie gaf de doorslag; de enkele ontkenning van de ontvangst was onvoldoende."},
+ "toepasselijkheid": "landelijk",
+ "lijn": {"soort": "bevestigt", "eerdere": ["ECLI:NL:HR:2024:59"]},
+ "wetsartikelen": ["art. 3:40 Awb", "art. 3:41 lid 1 Awb"],
+ "actie_gemeente": [
+  {"actie": "Leg per poststuk vast aan welk postvervoerbedrijf het is aangeboden, en bewaar de verzendadministratie.", "raakt": "bezwaar", "bron": [23], "citaat": "aan welk postvervoerbedrijf het desbetreffende poststuk is aangeboden"}
+ ],
+ "reden_leeg_actie": null,
+ "raakt": ["bezwaar", "klantcontact"],
+ "klantuitleg": "Een aanmaning omdat u een parkeerrekening niet op tijd hebt betaald, is terecht als de gemeente kan aantonen dat de brief is verstuurd. In deze zaak vond de rechter dat de gemeente dat wel had aangetoond, met een verzendoverzicht van de batch. Wilt u bezwaar maken, dan helpt het om te laten zien dat de brief niet is aangekomen; een enkele ontkenning is volgens de rechter onvoldoende.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

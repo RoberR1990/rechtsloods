@@ -1,0 +1,150 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:7738",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeerde tegen de gemeente Rotterdam over een naheffing (de rekening achteraf) voor te weinig betaald parkeren. De rechtbank Rotterdam beoordeelde of hij op tijd was begonnen met betalen via zijn parkeerapplicatie.",
+ "titel": "Te laat parkeeractie gestart; de rekening blijft staan",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder 25 minuten te laat begon met betalen, dus de rekening blijft staan.",
+  "bron": [
+   18
+  ],
+  "citaat": "Eiser heeft pas 25 minuten later, om 19:17 uur, de eerste parkeeractie gestart"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een controleur zag op 12 januari 2022 om 18:52 uur de auto van de parkeerder, met te weinig betaald parkeren.",
+   "bron": [
+    15
+   ],
+   "citaat": "stond geparkeerd aan de Aelbrechtskade in Rotterdam zonder dat voldoende parkeerbelasting was betaald"
+  },
+  {
+   "zin": "De parkeerder zegt dat hij wel genoeg betaalde, al was dat via twee apps.",
+   "bron": [
+    17
+   ],
+   "citaat": "Eiser voert aan dat hij voldoende parkeerbelasting heeft afgedragen"
+  },
+  {
+   "zin": "De gemeente kon op foto's van de scanauto en tijdcodes zien dat de auto er stond.",
+   "bron": [
+    18
+   ],
+   "citaat": "Dat blijkt uit de foto’s die de scanauto heeft gemaakt"
+  },
+  {
+   "zin": "De rechter oordeelt dat de parkeerder 25 minuten te laat met betalen begon.",
+   "bron": [
+    18
+   ],
+   "citaat": "Eiser heeft pas 25 minuten later, om 19:17 uur, de eerste parkeeractie gestart"
+  },
+  {
+   "zin": "Het beroep faalt en de rekening blijft staan.",
+   "bron": [
+    22
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de rekening blijft staan, geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de rekening betalen, want de rechter vond die terecht opgelegd.",
+  "bron": [
+   18
+  ],
+  "citaat": "Verweerder heeft de naheffingsaanslag dan ook terecht aan eiser opgelegd"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij heeft wel genoeg betaald, eerst via zijn eigen app en daarna via de bezoekersapp.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ziet dat de eerste parkeeractie pas 25 minuten later begon, en dat is te laat.",
+    "bron": [
+     18
+    ],
+    "citaat": "Eiser heeft pas 25 minuten later, om 19:17 uur, de eerste parkeeractie gestart"
+   },
+   "bruikbare_zin": {
+    "citaat": "Eiser heeft de parkeeractie in de parkeerapplicatie immers niet te vroeg beëindigd, maar juist te laat gestart",
+    "bron": [
+     18
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Na het stoppen van de parkeeractie had hij even tijd nodig om bij de auto te komen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Die tijd telt niet mee, want de parkeeractie was al te laat begonnen.",
+    "bron": [
+     18
+    ],
+    "citaat": "Het betoog van eiser dat hij na het beëindigen van zijn parkeeractie enige tijd nodig had"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie pas later met betalen begint dan het moment van de controle, betaalt te laat.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "deze zaak: de eerste parkeeractie ligt na het moment van de controle",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   18
+  ],
+  "citaat": "Dat is te laat."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "foto's van de scanauto",
+   "datum- en tijdcodes bij de foto's",
+   "starttijd van de parkeeractie in de parkeerapplicatie"
+  ],
+  "wat_gaf_doorslag": "De foto's met datum- en tijdcodes, samen met de late starttijd in de parkeerapplicatie."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar bij elke naheffing de foto's met datum- en tijdcodes van de scanauto in het dossier.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    18
+   ],
+   "citaat": "Dat blijkt uit de foto’s die de scanauto heeft gemaakt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "betaalapp",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren is terecht als u pas later bent begonnen met betalen dan het moment van de controle. Ook als u later wel betaalde, telt het tijdstip waarop u de betaling startte. Wilt u bezwaar maken, dan is het starttijdstip uit uw parkeerapp het belangrijkste bewijs.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

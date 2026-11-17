@@ -1,0 +1,138 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2024:9504",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging naar de Rechtbank Rotterdam tegen de gemeente Rotterdam. Het ging om een beroep omdat de gemeente volgens de parkeerder te laat had beslist op een bezwaar tegen een naheffing (de rekening achteraf).",
+ "titel": "Geen beroep om late beslissing: uitspraak was al verstuurd",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente de uitspraak op bezwaar tijdig en op het juiste adres had verstuurd, dus het beroep kon niet.",
+  "bron": [
+   27
+  ],
+  "citaat": "dat de uitspraak op bezwaar tijdig is genomen en is verstuurd naar het juiste adres"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 15 oktober 2022 zag een controleur de auto van de parkeerder in Rotterdam staan zonder betaling.",
+   "bron": [
+    16
+   ],
+   "citaat": "heeft een parkeercontroleur geconstateerd dat de auto van eiseres"
+  },
+  {
+   "zin": "De gemeente legde een naheffing van 68,30 euro op.",
+   "bron": [
+    17
+   ],
+   "citaat": "De naheffingsaanslag beloopt in totaal € 68,30"
+  },
+  {
+   "zin": "De gemeente haalde de naheffing later uit coulance weg, omdat de parkeerder voor de verkeerde zone had betaald.",
+   "bron": [
+    19
+   ],
+   "citaat": "nadat gebleken is dat eiseres het parkeergeld heeft betaald voor de verkeerde zone (zone 800)"
+  },
+  {
+   "zin": "De parkeerder ging naar de rechter omdat de uitspraak op bezwaar niet zou zijn ontvangen.",
+   "bron": [
+    24
+   ],
+   "citaat": "omdat hij de uitspraak op bezwaar niet heeft ontvangen"
+  },
+  {
+   "zin": "De gemeente liet met schermafbeeldingen zien hoe de uitspraak per post is verstuurd.",
+   "bron": [
+    26
+   ],
+   "citaat": "De heffingsambtenaar heeft aan de hand van schermafbeeldingen van de print- en verzendadministratie"
+  },
+  {
+   "zin": "De rechter vond dat de uitspraak op tijd en op het juiste adres was verstuurd, dus het beroep werd niet inhoudelijk behandeld.",
+   "bron": [
+    27
+   ],
+   "citaat": "De heffingsambtenaar heeft aannemelijk gemaakt dat de uitspraak op bezwaar tijdig is genomen"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep niet inhoudelijk behandeld; geen griffierecht of proceskosten terug.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing was al vernietigd, maar de parkeerder krijgt geen griffierecht en geen proceskosten terug.",
+  "bron": [
+   31,
+   19
+  ],
+  "citaat": "Eiseres krijgt daarom het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente heeft niet op tijd op het bezwaar beslist.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente kon laten zien dat de beslissing op tijd was genomen.",
+    "bron": [
+     27
+    ],
+    "citaat": "De heffingsambtenaar heeft aannemelijk gemaakt dat de uitspraak op bezwaar tijdig is genomen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het komt voor rekening en risico van eiseres dat zij drie keer een bezwaarschrift heeft ingediend",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een stuk dat per post naar het juiste adres is gestuurd, wordt in de regel geacht te zijn ontvangen.",
+  "type": "regel",
+  "reikwijdte": "Stukken die per post naar het adres van de ontvanger zijn verstuurd",
+  "uitzondering": "Als de ontvanger onderbouwd maakt dat het stuk niet is aangekomen; een blote ontkenning volstaat niet",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "rechtvaardigt evenwel het vermoeden van ontvangst of aanbieding van de stukken op dat adres"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "schermafbeeldingen van de print- en verzendadministratie",
+   "bevestiging van PostNL dat er geen uitval was"
+  ],
+  "wat_gaf_doorslag": "De blote ontkenning van de gemachtigde was niet onderbouwd."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:20 Awb",
+  "art. 6:20 lid 3 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver procedurele uitspraak; geen aanpassing van beleid afgeleid",
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "In deze zaak is niet gekeken of de rekening achteraf terecht was; het beroep ging niet door. Heeft u een brief van de gemeente niet gekregen, meld dat dan meteen bij de gemeente. Stuur uw bezwaar of beroep op tijd en controleer of de gemeente uw juiste adres heeft.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

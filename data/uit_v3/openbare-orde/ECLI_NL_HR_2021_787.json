@@ -1,0 +1,155 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "onderwerp": "strafzaken-bevelen",
+ "zaaktype": "strafzaak",
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "proces-verbaal van de zitting in hoger beroep"
+  ],
+  "wat_gaf_doorslag": "De bezwaren van de verdachte waren globaal en beperkt."
+ },
+ "steunt": null,
+ "dubbel_van": null,
+ "reden_gemeente_leeg": null,
+ "toepasselijkheid": "landelijk",
+ "ecli": "ECLI:NL:HR:2021:787",
+ "sub": "niet-voldoen-bevel-184",
+ "kenmerk": "rechtmatigheid-verbod",
+ "partijen": {
+  "burger": "verdachte (jongere)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "cassatie",
+ "intro": "Dit is een jeugdstrafzaak bij de Hoge Raad. Een jongere werd veroordeeld omdat hij een gebiedsverbod van de burgemeester van Amsterdam overtrad en ging in cassatie tegen de officier van justitie.",
+ "titel": "Hoge Raad: rechter hoefde niet te wachten op bestuursrechter",
+ "kern": {
+  "zin": "De Hoge Raad verwerpt het beroep: het hof mocht de zaak doorzetten en zag de klachten van de verdachte niet als een echt verweer over de rechtmatigheid.",
+  "bron": [
+   49
+  ],
+  "citaat": "de globale en beperkte aard van de ter terechtzitting genoemde bezwaren tegen het opgelegde gebiedsverbod"
+ },
+ "samenvatting": [
+  {
+   "zin": "De verdachte was op 10 januari 2020 in een gebied waar hij op grond van een gebiedsverbod niet mocht komen.",
+   "bron": [
+    17
+   ],
+   "citaat": "Op 10 januari 2020 te Amsterdam opzettelijk niet heeft voldaan aan een bevel, te weten een gebiedsverbod"
+  },
+  {
+   "zin": "Hij vond dat hij niet veroordeeld mocht worden zolang niet vaststond dat het verbod rechtmatig was, en vroeg het hof de zaak aan te houden.",
+   "bron": [
+    20
+   ],
+   "citaat": "dient een strafrechtelijke veroordeling voor het overtreden ervan achterwege te blijven"
+  },
+  {
+   "zin": "Het Openbaar Ministerie vond dat het verbod meteen moest gelden.",
+   "bron": [
+    34
+   ],
+   "citaat": "Een gebiedsverbod moet juist onmiddellijk in werking treden"
+  },
+  {
+   "zin": "De Hoge Raad zegt dat de strafrechter de rechtmatigheid van het bevel moet onderzoeken, ook als de bestuursrechter nog niet definitief heeft beslist.",
+   "bron": [
+    46
+   ],
+   "citaat": "wel van die bestuursrechtelijke rechtsgang gebruik is gemaakt maar nog geen sprake is van een onherroepelijke uitspraak"
+  },
+  {
+   "zin": "Het hof hoefde de zaak niet aan te houden, omdat een snelle berechting zwaarder woog.",
+   "bron": [
+    48
+   ],
+   "citaat": "het belang van een spoedige berechting prevaleert boven andere betrokken belangen"
+  },
+  {
+   "zin": "De Hoge Raad verwerpt het beroep.",
+   "bron": [
+    51
+   ],
+   "citaat": "De Hoge Raad verwerpt het beroep"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Cassatieberoep verworpen; veroordeling blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de verdachte blijft de veroordeling van het hof staan.",
+  "bron": [
+   51
+  ],
+  "citaat": "De Hoge Raad verwerpt het beroep"
+ },
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het gebiedsverbod was onterecht opgelegd, dus er mocht geen veroordeling volgen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof zag de klachten niet als verweer over de rechtmatigheid; dat was niet onbegrijpelijk, omdat ze kort en algemeen waren.",
+    "bron": [
+     49
+    ],
+    "citaat": "de globale en beperkte aard van de ter terechtzitting genoemde bezwaren tegen het opgelegde gebiedsverbod"
+   },
+   "bruikbare_zin": {
+    "citaat": "de globale en beperkte aard van de ter terechtzitting genoemde bezwaren tegen het opgelegde gebiedsverbod",
+    "bron": [
+     49
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het hof had de zaak moeten aanhouden tot de bestuursrechter had beslist.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof mocht snelle berechting zwaarder laten wegen.",
+    "bron": [
+     48
+    ],
+    "citaat": "het belang van een spoedige berechting prevaleert boven andere betrokken belangen"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De strafrechter moet onderzoeken of een bevel rechtmatig is gegeven als daarover verweer is gevoerd, ook als de bestuursrechter nog niet definitief heeft beslist; aanhouden is niet verplicht.",
+  "type": "regel",
+  "reikwijdte": "Strafzaken over het niet opvolgen van een bevel (art. 184 Sr), zoals een gebiedsverbod.",
+  "uitzondering": "Aanhouden hoeft alleen als het belang van het onderzoek dat vordert.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   46
+  ],
+  "citaat": "de strafrechter onderzoeken of het in de tenlastelegging genoemde wettelijke voorschrift verbindend is en of het bevel rechtmatig is gegeven"
+ },
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:1990:AC2273",
+   "ECLI:NL:HR:2007:AZ6007"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 184 lid 1 Sr",
+  "art. 172 Gemeentewet",
+  "art. 172a Gemeentewet",
+  "art. 281 Sv",
+  "art. 331 Sv"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver strafzaak over procedure; gemeente geen partij",
+ "raakt": [
+  "handhaving-openbare-orde",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "Een gebiedsverbod blijft gelden, ook als u er bezwaar tegen maakt. Overtreedt u het verbod, dan moet de strafrechter nagaan of het verbod terecht was, als u daar iets over aanvoert. Vindt u het verbod onterecht, leg dan precies uit waarom.",
+ "gemeente": "Amsterdam",
+ "zekerheid": "hoog"
+}

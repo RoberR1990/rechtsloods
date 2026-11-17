@@ -1,0 +1,176 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2024:3627",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente (niet genoemd)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bewoner met een bewonersvergunning kreeg een rekening achteraf (naheffingsaanslag) voor parkeren. Hij ging in hoger beroep tegen de gemeente bij het gerechtshof Amsterdam.",
+ "titel": "Kenteken te laat omgezet: rekening voor parkeren blijft staan",
+ "kern": {
+  "zin": "Het hof vond dat de bewoner niet met zijn vergunning parkeerde, omdat zijn kenteken niet als actief kenteken stond geregistreerd.",
+  "bron": [
+   33
+  ],
+  "citaat": "Er was derhalve op dat moment geen sprake van parkeren met de parkeervergunning"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde een rekening achteraf op, omdat de auto van de bewoner op 1 juli 2023 om 10.23 uur stond zonder betaald parkeergeld.",
+   "bron": [
+    19
+   ],
+   "citaat": "heeft vastgesteld dat op 1 juli 2023 om 10.23 uur de auto van eiser met kenteken"
+  },
+  {
+   "zin": "De bewoner zei dat de gemeente een kentekenwijziging direct moet kunnen verwerken, en dat de vertraging niet in zijn nadeel mag werken.",
+   "bron": [
+    26
+   ],
+   "citaat": "Het is volgens eiser de verantwoordelijkheid van de gemeente [Z] om een kentekenwijziging digitaal direct te kunnen verwerken"
+  },
+  {
+   "zin": "De gemeente liet zien dat een aanvraag niet direct geldt: na 16.00 uur ingediende wijzigingen worden de volgende werkdag verwerkt.",
+   "bron": [
+    29
+   ],
+   "citaat": "een kentekenwijziging die vóór 16.00 uur is aangevraagd, dezelfde dag wordt verwerkt"
+  },
+  {
+   "zin": "Het hof stelde vast dat het kenteken van de auto niet als actief kenteken bij de vergunning stond.",
+   "bron": [
+    33
+   ],
+   "citaat": "de aan de parkeervergunning verbonden voorwaarde dat het kenteken van de geparkeerde auto als actief kenteken geregistreerd moet staan"
+  },
+  {
+   "zin": "Dat de bewoner al voor het hele jaar voor de vergunning had betaald, veranderde dat niet.",
+   "bron": [
+    33
+   ],
+   "citaat": "Dat belanghebbende voor de parkeervergunning heeft betaald, doet daaraan niet af"
+  },
+  {
+   "zin": "De bewoner nam bewust het risico op een rekening achteraf en het hoger beroep was ongegrond.",
+   "bron": [
+    34
+   ],
+   "citaat": "heeft belanghebbende bewust het risico aanvaard dat aan hem een naheffingsaanslag kon worden opgelegd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing van € 170 blijft staan; geen proceskostenveroordeling.",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner moet de extra parkeerbelasting van € 170 betalen en krijgt geen kostenvergoeding.",
+  "bron": [
+   32,
+   38
+  ],
+  "citaat": "een bedrag van € 170 aan extra parkeerbelasting verschuldigd zou zijn"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "De gemeente moest de kentekenwijziging direct verwerken, dus de vergunning gold al voor zijn eigen auto.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een aanvraag via het formulier betekent niet dat het kenteken direct is gewijzigd.",
+    "bron": [
+     29
+    ],
+    "citaat": "dat het indienen van het verzoek via het formulier niet betekent dat het kenteken direct is gewijzigd"
+   },
+   "bruikbare_zin": {
+    "citaat": "het indienen van het verzoek via het formulier niet betekent dat het kenteken direct is gewijzigd",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Het is oneerlijk om € 170 extra te betalen, terwijl hij al voor het hele jaar voor de vergunning had betaald.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dat de bewoner voor de vergunning betaald had, maakte niet dat hij met die vergunning parkeerde.",
+    "bron": [
+     33
+    ],
+    "citaat": "Dat belanghebbende voor de parkeervergunning heeft betaald, doet daaraan niet af"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat belanghebbende voor de parkeervergunning heeft betaald, doet daaraan niet af",
+    "bron": [
+     33
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeervergunning geldt alleen voor de auto met het kenteken dat op dat moment als actief kenteken is geregistreerd.",
+  "type": "regel",
+  "reikwijdte": "Vergunningen die uitsluitend gelden voor het kenteken in het digitale bestand van de gemeente.",
+  "uitzondering": null,
+  "herkomst": "lokale verordening",
+  "bron": [
+   27
+  ],
+  "citaat": "uitsluitend geldig is voor het parkeren van het motorvoertuig waarvan het kenteken is vermeld"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "vaststelling parkeercontroleur",
+   "ontvangstbevestiging van de kentekenwijziging",
+   "informatie op de website van de gemeente"
+  ],
+  "wat_gaf_doorslag": "Op het moment van de controle stond het kenteken van de eigen auto nog niet als actief kenteken bij de vergunning."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Verordening parkeerbelastingen 2022",
+  "art. 8:75 Awb",
+  "art. 8:108 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vermeld op de website en in de ontvangstbevestiging dat een kentekenwijziging pas geldt na verwerking, en wanneer die gebeurt.",
+   "raakt": "vergunningen",
+   "bron": [
+    29
+   ],
+   "citaat": "In de ontvangstbevestiging wordt namelijk aangegeven dat er zo spoedig mogelijk een reactie op de aanvraag volgt"
+  },
+  {
+   "actie": "Leg vast op welk tijdstip een kentekenwijziging is aangevraagd en wanneer die is verwerkt.",
+   "raakt": "bezwaar",
+   "bron": [
+    29
+   ],
+   "citaat": "om 22.29 uur het verzoek tot kentekenwijziging heeft ingediend via het formulier"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een bewonersvergunning werkt alleen voor het kenteken dat op dat moment bij de gemeente staat ingevoerd. Vraagt u een nieuw kenteken aan, dan geldt dat pas als de gemeente het heeft verwerkt, en dat kan tot de volgende werkdag duren. Wilt u bezwaar maken, dan heeft dat weinig kans als u alleen een aanvraag hebt gedaan die nog niet was verwerkt.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

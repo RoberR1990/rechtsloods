@@ -1,0 +1,167 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2020:2419",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "wissen",
+ "kenmerk": "archief",
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "inwoner met een bijstandsuitkering",
+  "wederpartij": "gemeente Eindhoven",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een inwoner van Eindhoven met een bijstandsuitkering procedeert tegen de gemeente Eindhoven. Hij wilde de naam van een anonieme melder weten en zijn bankgegevens laten wissen; de zaak ligt bij de Raad van State.",
+ "titel": "Gemeente hoeft anonieme melder niet te noemen en mag bankgegevens bewaren",
+ "kern": {
+  "zin": "De rechter vindt dat de gemeente de bankgegevens niet hoefde te wissen, omdat een wet haar verplicht ze te bewaren, en dat de naam van de melder geen eigen persoonsgegeven van de burger is.",
+  "bron": [
+   38
+  ],
+  "citaat": "niet gehouden was om de bankgegevens van [appellant] te verwijderen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Eindhoven onderzocht of de bijstandsuitkering van de burger klopte, na een anonieme melding.",
+   "bron": [
+    24
+   ],
+   "citaat": "Aanleiding van dit onderzoek was een anonieme melding."
+  },
+  {
+   "zin": "De gemeente zei dat zij de gegevens van het onderzoek moest archiveren, daarom wilde zij ze niet wissen.",
+   "bron": [
+    29
+   ],
+   "citaat": "Volgens het college is het op grond van de Archiefwet 1995 gehouden die gegevens te archiveren"
+  },
+  {
+   "zin": "In hoger beroep vond de burger dat de gemeente de naam van de anonieme melder moest noemen.",
+   "bron": [
+    34
+   ],
+   "citaat": "niet verplicht is om de naam van de anonieme melder bekend te maken"
+  },
+  {
+   "zin": "Ook vond hij dat de gemeente zijn bankgegevens uit de systemen moest halen.",
+   "bron": [
+    34
+   ],
+   "citaat": "niet verplicht was om de bankgegevens die hij aan het college heeft overgelegd uit de informatiesystemen te verwijderen"
+  },
+  {
+   "zin": "De rechter vindt dat de burger geen recht heeft op de naam van de melder, want dat is geen gegeven over hemzelf.",
+   "bron": [
+    36
+   ],
+   "citaat": "omdat het daarbij niet gaat om een hem betreffend persoonsgegeven"
+  },
+  {
+   "zin": "Voor de bankgegevens geldt volgens de rechter een bewaartermijn van 10 jaar, dus het hoger beroep is ongegrond.",
+   "bron": [
+    38
+   ],
+   "citaat": "de bewaartermijn voor bescheiden in het kader van de hercontrole in uitkeringen in het sociaal domein 10 jaar bedraagt"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; geen naam melder, bankgegevens blijven bewaard.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt de naam van de melder niet, zijn bankgegevens blijven bewaard en er is geen vergoeding van proceskosten.",
+  "bron": [
+   53
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente moet de naam van de anonieme melder bekendmaken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De naam van de melder is geen persoonsgegeven van de burger zelf, en de melder is ook niet de bron van zijn gegevens.",
+    "bron": [
+     36
+    ],
+    "citaat": "omdat het daarbij niet gaat om een hem betreffend persoonsgegeven"
+   },
+   "bruikbare_zin": {
+    "citaat": "nu niet van de anonieme melder zijn persoonsgegevens vandaan komen",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "wissen-geen-grondslag",
+   "burger_zegt": "De gemeente moet mijn bankgegevens uit de systemen verwijderen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente hoeft gegevens niet te wissen als een wet haar verplicht ze te bewaren.",
+    "bron": [
+     38
+    ],
+    "citaat": "geen plicht rust om persoonsgegevens zonder onredelijke vertraging te wissen"
+   },
+   "bruikbare_zin": {
+    "citaat": "op het college geen plicht rust om persoonsgegevens zonder onredelijke vertraging te wissen indien op hem een wettelijke verwerkingsplicht rust",
+    "bron": [
+     38
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente hoeft persoonsgegevens niet te wissen als een wettelijke bewaarplicht geldt, hier via de Archiefwet 1995 en de Selectielijst.",
+  "type": "regel",
+  "reikwijdte": "Gegevens die de gemeente moet bewaren op grond van de Archiefwet en een vastgestelde bewaartermijn, hier bankgegevens bij hercontrole van uitkeringen.",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   38
+  ],
+  "citaat": "op het college geen plicht rust om persoonsgegevens zonder onredelijke vertraging te wissen indien op hem een wettelijke verwerkingsplicht rust"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "Selectielijst gemeenten 2017 van de VNG",
+   "Handreiking gebruik Selectielijst van de VNG"
+  ],
+  "wat_gaf_doorslag": "De gemeente bewaart de bankgegevens op grond van een wettelijke bewaarplicht met een bewaartermijn van 10 jaar."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 15 lid 1 AVG",
+  "art. 17 lid 3 AVG",
+  "art. 3 Archiefwet 1995",
+  "art. 5 Archiefwet 1995"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg vast op welke bewaartermijn uit de Selectielijst u zich beroept als u een verzoek om gegevens te wissen weigert",
+   "raakt": "privacy-fg",
+   "bron": [
+    38
+   ],
+   "citaat": "de bewaartermijn voor bescheiden in het kader van de hercontrole in uitkeringen in het sociaal domein 10 jaar bedraagt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een inwoner mag zien welke eigen gegevens de gemeente heeft, maar niet de naam van iemand die anoniem een melding deed. De gemeente hoeft gegevens niet te wissen als een wet haar verplicht ze te bewaren, zoals bij het archief. Vraag de gemeente dan welke wet en welke bewaartermijn geldt.",
+ "gemeente": "Eindhoven",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

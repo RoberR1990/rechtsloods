@@ -1,0 +1,168 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2021:675",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "zoekslag",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "inwoner",
+  "wederpartij": "gemeente Dordrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een man uit Dordrecht vroeg de burgemeester om inzage in zijn persoonsgegevens bij het RIEC-samenwerkingsverband en vond dat hij te weinig kreeg. De Raad van State beoordeelt in hoger beroep het oordeel van de rechtbank Rotterdam.",
+ "titel": "Inzage: verzoek om wissen mag apart worden behandeld",
+ "kern": {
+  "zin": "De burgemeester mocht het verzoek om gegevens te wissen apart behandelen en het overzicht van de gegevens was volledig genoeg.",
+  "bron": [
+   31
+  ],
+  "citaat": "had de burgemeester de mogelijkheid daarvoor te kiezen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De man vroeg de burgemeester om inzage in zijn persoonsgegevens bij het RIEC-samenwerkingsverband.",
+   "bron": [
+    21
+   ],
+   "citaat": "verzocht om inzage in de verwerking van zijn persoonsgegevens door het Regionaal Informatie en Expertisecentrum"
+  },
+  {
+   "zin": "De burgemeester gaf een overzicht van de dossiers Koevinkje en Evarus waarin zijn gegevens zijn verwerkt.",
+   "bron": [
+    21
+   ],
+   "citaat": "zijn in het kader van het RIEC-samenwerkingsverband de persoonsgegevens van [appellant] verwerkt in het dossier Koevinkje"
+  },
+  {
+   "zin": "In bezwaar vroeg hij ook om sommige gegevens te wissen, maar dat liet de burgemeester buiten beschouwing.",
+   "bron": [
+    21
+   ],
+   "citaat": "het verzoek van [appellant] om wissing buiten beschouwing gelaten, omdat dit verder gaat dan zijn oorspronkelijke verzoek om inzage"
+  },
+  {
+   "zin": "De rechter vindt dat de burgemeester mag kiezen of zo'n tweede verzoek met het bezwaar wordt meegenomen of apart wordt behandeld.",
+   "bron": [
+    29
+   ],
+   "citaat": "komt aan de burgemeester een keuzemogelijkheid toe"
+  },
+  {
+   "zin": "De man maakte ook niet aannemelijk dat er meer gegevens over hem zijn dan in het overzicht staan.",
+   "bron": [
+    37
+   ],
+   "citaat": "Het is dan aan [appellant] om aannemelijk te maken dat er meer persoonsgegevens zijn verwerkt"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; de burgemeester had gelijk.",
+ "gevolg_betrokkene": {
+  "zin": "Zijn hoger beroep is ongegrond en hij krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   40
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Mijn verzoek om gegevens te wissen had bij het bezwaar over de inzage moeten worden meegenomen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burgemeester mocht zelf kiezen of hij het verzoek om te wissen apart of samen met het bezwaar behandelde.",
+    "bron": [
+     31
+    ],
+    "citaat": "leidt niet tot het oordeel dat de burgemeester niet in redelijkheid ervoor heeft kunnen kiezen"
+   },
+   "bruikbare_zin": {
+    "citaat": "had de burgemeester de mogelijkheid daarvoor te kiezen",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "Er zijn meer persoonsgegevens over mij dan in het overzicht staan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De man maakte met stukken uit de Wob-procedure niet aannemelijk dat er meer gegevens over hem zijn.",
+    "bron": [
+     37
+    ],
+    "citaat": "Met de enkele verwijzing naar de in de Wob-procedure verkregen documenten"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het is dan aan [appellant] om aannemelijk te maken dat er meer persoonsgegevens zijn verwerkt",
+    "bron": [
+     37
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Komt tijdens de bezwaarprocedure over een AVG-verzoek een tweede AVG-verzoek binnen, dan mag de gemeente kiezen: meenemen in het besluit op bezwaar of daarover apart beslissen.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken op grond van de AVG die worden gedaan terwijl een bezwaarprocedure over een ander AVG-verzoek loopt",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   29
+  ],
+  "citaat": "komt aan de burgemeester een keuzemogelijkheid toe"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "uitspraak in de Wob-procedure ECLI:NL:RVS:2019:3101",
+   "deel van een document uit het inzagedossier van zijn broer"
+  ],
+  "wat_gaf_doorslag": "De mededeling van de burgemeester dat er niet meer gegevens zijn verwerkt, kwam niet ongeloofwaardig over."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:RVS:2019:3101"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 15 AVG",
+  "art. 17 AVG",
+  "art. 7:11 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Neem in het besluit op bezwaar een verzoek om wissing mee, of wijs de burger op een aparte procedure.",
+   "raakt": "bezwaar",
+   "bron": [
+    29
+   ],
+   "citaat": "De burgemeester kan de beslissing op het verzoek om wissing nemen in samenhang met de beslissing op het bezwaar"
+  },
+  {
+   "actie": "Leg vast welke systemen en dossiers zijn doorzocht en wat daaruit kwam.",
+   "raakt": "privacy-fg",
+   "bron": [
+    37
+   ],
+   "citaat": "De rechtbank heeft terecht overwogen dat deze mededeling niet ongeloofwaardig voorkomt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Vraagt u om inzage en vraagt u daarna om gegevens te wissen? Dan mag de gemeente over dat tweede verzoek apart beslissen. Denkt u dat er meer gegevens over u zijn, maak dat dan met stukken aannemelijk; zonder bewijs hoeft de gemeente niet verder te zoeken.",
+ "gemeente": "Dordrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

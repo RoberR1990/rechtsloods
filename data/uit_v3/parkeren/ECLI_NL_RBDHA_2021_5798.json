@@ -1,0 +1,168 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2021:5798",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Delft",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing in Delft, omdat zijn parkeerapp op een andere zone stond. Hij ging bij de rechtbank Den Haag in beroep tegen de gemeente.",
+ "titel": "Naheffing blijft staan na bebording in de zone",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente met bebording aannemelijk maakte welk regime gold, dus de naheffing bleef staan.",
+  "bron": [
+   24
+  ],
+  "citaat": "verweerder aannemelijk heeft gemaakt dat eiser om de parkeerlocatie aan de Zuiderstraat te bereiken"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder stond op een plek in gebied B, waar alleen met een vergunning of dagvergunning mag worden geparkeerd.",
+   "bron": [
+    16
+   ],
+   "citaat": "Deze locatie valt in gebied B en is door burgemeester en wethouders"
+  },
+  {
+   "zin": "Bij een controle bleek er geen geldige dagvergunning te zijn, waarop de gemeente een naheffing oplegde.",
+   "bron": [
+    18
+   ],
+   "citaat": "geconstateerd dat voor de auto geen sprake was van parkeren met een geldige"
+  },
+  {
+   "zin": "De parkeerder zei dat hij niets over het tarief kon vinden en daarom zijn app op de dichtstbijzijnde zone zette.",
+   "bron": [
+    20
+   ],
+   "citaat": "Hij heeft in de omgeving van zijn auto gezocht naar aanwijzingen omtrent het parkeerbeleid maar niets gevonden."
+  },
+  {
+   "zin": "De gemeente wees op borden bij de ingang van de zone en op een herhalingsbord in het gebied.",
+   "bron": [
+    21
+   ],
+   "citaat": "Met herhalingsborden binnen het gebied wordt dit nogmaals kenbaar gemaakt."
+  },
+  {
+   "zin": "De rechter oordeelde dat de parkeerder de borden niet zag, en dat dit op zijn eigen risico ging.",
+   "bron": [
+    24
+   ],
+   "citaat": "Dat eiser bij het binnenrijden van de zone de borden wellicht niet heeft gezien, komt voor zijn rekening"
+  },
+  {
+   "zin": "Het beroep bleef zonder succes.",
+   "bron": [
+    30
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan, dus de parkeerder krijgt geen gelijk.",
+  "bron": [
+   30
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Volgens de parkeerder was het niet duidelijk welk tarief gold, en vond hij geen borden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente het parkeerregime met borden voldoende zichtbaar had gemaakt.",
+    "bron": [
+     24
+    ],
+    "citaat": "verweerder aannemelijk heeft gemaakt dat eiser om de parkeerlocatie aan de Zuiderstraat te bereiken"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat eiser bij het binnenrijden van de zone de borden wellicht niet heeft gezien, komt voor zijn rekening",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De parkeerapp toonde volgens de parkeerder onjuiste gegevens over de parkeerbelasting.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Hij maakte niet aannemelijk dat de app hem verkeerde informatie gaf.",
+    "bron": [
+     25
+    ],
+    "citaat": "Eiser heeft niet aannemelijk gemaakt dat hij in de parkeerapp Yellowbrick onjuiste gegevens"
+   },
+   "bruikbare_zin": {
+    "citaat": "een fout in de parkeerapp",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente moet het parkeerregime zichtbaar aangeven, zodat de parkeerder kan zien welke regels gelden.",
+  "type": "regel",
+  "reikwijdte": "Parkeerlocaties waar het regime alleen met bebording of parkeerapparatuur is aangegeven.",
+  "uitzondering": "De parkeerder moet zich zelf op de hoogte stellen van het regime op de plek.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "het ter plaatse geldende parkeerregime voldoende duidelijk is aangegeven"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto's van de borden bij de zone-ingang",
+   "foto van een herhalingsbord",
+   "foto's van de parkeerder uit 2018"
+  ],
+  "wat_gaf_doorslag": "Aannemelijk dat de parkeerder langs de borden met de tekst voor vergunninghouders reed."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHDHA:2002:AS2261",
+   "ECLI:NL:HR:1995:AA3126",
+   "ECLI:NL:HR:2020:1014"
+  ]
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Leg per bord vast wanneer het is geplaatst, zodat je bij een geschil kunt aantonen welk regime gold.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    24
+   ],
+   "citaat": "Het is niet duidelijk wanneer het herhalingsbord is geplaatst."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar",
+  "klantcontact",
+  "betaalapp"
+ ],
+ "klantuitleg": "Een naheffing is terecht als de gemeente aannemelijk kan maken dat de parkeerregels duidelijk waren aangegeven. Een fout in de parkeerapp moet u zelf aantonen, en dat lukte in deze zaak niet. Wilt u bezwaar maken, verzamel dan foto's van de borden op uw route en het bewijs van uw app-instellingen; winst is niet gegarandeerd.",
+ "gemeente": "Delft",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,129 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2024:2792",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda (de heffingsambtenaar)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing (de rekening achteraf) van de gemeente Breda, omdat hij in een andere zone betaalde dan waar hij stond. Hij ging in beroep bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Betaald in een andere zone: de rekening blijft staan",
+ "kern": {
+  "zin": "De rechter oordeelde dat het de verantwoordelijkheid van de parkeerder was om de juiste zone te kiezen.",
+  "bron": [
+   18
+  ],
+  "citaat": "het de verantwoordelijkheid was van belanghebbende om direct na het aanmelden in de parkeerapp"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle met de scanauto bleek dat voor die zone geen belasting was betaald.",
+   "bron": [
+    14
+   ],
+   "citaat": "geconstateerd dat geen parkeerbelasting is voldaan voor de zone waarin belanghebbende heeft geparkeerd"
+  },
+  {
+   "zin": "De parkeerder liet een uitdraai van de app zien waaruit betaling in zone 21847 bleek.",
+   "bron": [
+    17
+   ],
+   "citaat": "Belanghebbende heeft een uitdraai overlegd van de parkeergegevens van de app"
+  },
+  {
+   "zin": "Volgens de gemeente stond de auto in zone 21884, waar het eerste half uur niet gratis is.",
+   "bron": [
+    17
+   ],
+   "citaat": "Uit de gegevens van de heffingsambtenaar volgt echter dat belanghebbende stond geparkeerd in zone 21884"
+  },
+  {
+   "zin": "De rechter vond dat de parkeerder zelf moet zorgen voor betaling in de juiste zone.",
+   "bron": [
+    18
+   ],
+   "citaat": "Het behoort tot de verantwoordelijkheid van een parkeerder om ervoor te zorgen"
+  },
+  {
+   "zin": "De naheffing blijft staan en het beroep is niet gelukt.",
+   "bron": [
+    22
+   ],
+   "citaat": "Dit betekent dat de naheffingsaanslag terecht is opgelegd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; verkeerde zone komt voor rekening parkeerder",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet het verschil in parkeerbelasting alsnog betalen, omdat de zone niet klopte.",
+  "bron": [
+   18
+  ],
+  "citaat": "dit voor rekening en risico komt van de parkeerder"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij heeft wel betaald, alleen in een andere zone.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de parkeerder zelf het juiste zone-nummer moest controleren.",
+    "bron": [
+     18
+    ],
+    "citaat": "het de verantwoordelijkheid was van belanghebbende om direct na het aanmelden in de parkeerapp"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het behoort tot de verantwoordelijkheid van een parkeerder",
+    "bron": [
+     18
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder moet zelf de juiste zone kiezen en controleren, ook in de app.",
+  "type": "regel",
+  "reikwijdte": "Parkeren via een app waarbij meerdere zones op één plek samenkomen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   18
+  ],
+  "citaat": "het de verantwoordelijkheid was van belanghebbende om direct na het aanmelden in de parkeerapp"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "scanauto-controle",
+   "uitdraai parkeerapp",
+   "gegevens van de heffingsambtenaar over de zone"
+  ],
+  "wat_gaf_doorslag": "De zone in de gegevens van de heffingsambtenaar (21884) week af van de betaalde zone (21847)."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen fout van de gemeente genoemd; de rechtbank zag geen gebrek",
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar",
+  "betaalapp"
+ ],
+ "klantuitleg": "Betaalt u in een andere zone dan waar u staat, dan betaalt u te weinig, ook als dat niet bewust gebeurt. Het gaat om de feiten, niet om uw bedoeling. Controleer daarom de zone in de app voordat u betaalt; bezwaar maken heeft op dit punt weinig kans.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

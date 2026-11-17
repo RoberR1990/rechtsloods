@@ -1,0 +1,169 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2017:6948",
+ "relevant": true,
+ "onderwerp": "procedure-beroep",
+ "sub": "overig",
+ "kenmerk": null,
+ "zaaktype": "verkeersgedrag",
+ "partijen": {
+  "burger": "kentekenhouder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een kentekenhouder kreeg een boete voor een auto in een park of groenstrook in Utrecht. Hij ging via een gemachtigde in hoger beroep bij het hof Arnhem-Leeuwarden tegen de officier van justitie.",
+ "titel": "Boete vervalt: het overtreden voorschrift stond niet in de beschikking",
+ "kern": {
+  "zin": "Het hof vernietigt de boete, omdat het overtreden voorschrift ontbrak en de burger zich daardoor niet goed kon verweren.",
+  "bron": [
+   38
+  ],
+  "citaat": "De conclusie kan geen andere zijn dan dat de gemachtigde is geschaad in zijn rechtens te erkennen belangen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De kentekenhouder kreeg een boete van € 90 omdat zijn auto in een park, plantsoen of groenstrook stond.",
+   "bron": [
+    24
+   ],
+   "citaat": "administratieve sanctie van € 90,- opgelegd ter zake van"
+  },
+  {
+   "zin": "Zijn gemachtigde zei dat het overtreden voorschrift niet in de beschikking stond en dat dit strijdig is met het Europees verdrag voor de rechten van de mens.",
+   "bron": [
+    25
+   ],
+   "citaat": "dat er sprake is van een schending van artikel 6, derde lid, van het Europees verdrag"
+  },
+  {
+   "zin": "Het hof stelde vast dat het overtreden voorschrift niet in de beschikking stond, ondanks een regel die dat eist.",
+   "bron": [
+    30
+   ],
+   "citaat": "constateert het hof dat in de sanctiebeschikking niet het overtreden voorschrift is vermeld"
+  },
+  {
+   "zin": "Het hof vond niet te verlangen dat de gemachtigde zelf navraag deed bij de verbalisant.",
+   "bron": [
+    36
+   ],
+   "citaat": "Naar het oordeel van het hof kan dit redelijkerwijs niet van de gemachtigde worden verlangd"
+  },
+  {
+   "zin": "Het hof gaf geen schadevergoeding, omdat het vernietigen van de beschikking al genoeg compensatie was.",
+   "bron": [
+    41
+   ],
+   "citaat": "met vernietiging van de inleidende beschikking voldoende compensatie is geboden"
+  },
+  {
+   "zin": "De officier van justitie moet € 513,44 proceskosten betalen, onder meer reis- en verletkosten.",
+   "bron": [
+    45
+   ],
+   "citaat": "zal het hof de advocaat-generaal veroordelen tot het vergoeden van de proceskosten tot een bedrag van € 513,44"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete vervalt; proceskosten € 513,44; geen schadevergoeding",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 90 vervalt, de zekerheid gaat terug en de burger krijgt € 513,44 proceskosten; de gevraagde schadevergoeding van € 2.243,28 is afgewezen.",
+  "bron": [
+   52
+  ],
+  "citaat": "veroordeelt de advocaat-generaal tot het vergoeden van de proceskosten van de betrokkene, ter hoogte van € 513,44"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het overtreden voorschrift stond niet in de beschikking, dus verweren was niet goed mogelijk.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Daardoor was de burger geschaad in zijn belangen.",
+    "bron": [
+     38
+    ],
+    "citaat": "De conclusie kan geen andere zijn dan dat de gemachtigde is geschaad in zijn rechtens te erkennen belangen"
+   },
+   "bruikbare_zin": {
+    "citaat": "moet het overtreden voorschrift eenduidig blijken uit eenvoudig te achterhalen informatie",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemachtigde vroeg € 2.243,28 schadevergoeding voor zijn bestede uren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Met het vernietigen van de beschikking was voldoende compensatie geboden.",
+    "bron": [
+     41
+    ],
+    "citaat": "met vernietiging van de inleidende beschikking voldoende compensatie is geboden"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "proceskosten",
+   "burger_zegt": "De gemachtigde vroeg om reis- en verletkosten voor de zitting.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Omdat de burger gelijk kreeg, werden de kosten toegewezen.",
+    "bron": [
+     42
+    ],
+    "citaat": "bestaat er aanleiding het verzoek om vergoeding van proceskosten toe te wijzen"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een Wahv-beschikking moet het overtreden voorschrift noemen of het moet eenvoudig uit andere informatie blijken; anders kan de burger zich niet goed verweren en vervalt de boete.",
+  "type": "regel",
+  "reikwijdte": "Wahv-beschikkingen waarin het overtreden voorschrift niet staat",
+  "uitzondering": "Geen schade voor de burger als het voorschrift eenduidig uit eenvoudig te vinden informatie blijkt",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   36
+  ],
+  "citaat": "moet het overtreden voorschrift eenduidig blijken uit eenvoudig te achterhalen informatie"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "zaakoverzicht",
+   "feitcode R406"
+  ],
+  "wat_gaf_doorslag": "Noch de beschikking noch het zaakoverzicht noemde het specifieke overtreden voorschrift."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHARL:2017:3961"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 4 lid 1 Wahv",
+  "art. 2 lid 1 aanhef en onder b Regeling modellen en formulieren",
+  "art. 6 lid 3 EVRM",
+  "art. 7:18 lid 4 Awb",
+  "art. 2 lid 1 onder c en d Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "bezwaar",
+  "juridische-zaken",
+  "inning-invordering"
+ ],
+ "klantuitleg": "Staat in uw boete niet welk voorschrift u zou hebben overtreden, dan kan de boete vervallen. Dat geldt als u dat niet eenvoudig uit andere stukken kunt halen. Noem dit punt in uw bezwaar of beroep.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente is geen partij; de sanctie kwam van de officier van justitie",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

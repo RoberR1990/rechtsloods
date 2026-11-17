@@ -1,0 +1,169 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2023:6818",
+ "relevant": true,
+ "onderwerp": "handhaving-privacy",
+ "sub": "scanauto-bewijs",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "gemeente Noordwijk",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bedrijf kreeg een naheffing voor parkeerbelasting, omdat de parkeerduur op de parkeerplaats was verstreken. Het ging in beroep bij de rechtbank Den Haag, tegen de heffingsambtenaar van de gemeente Noordwijk.",
+ "titel": "Naheffing terecht; argumenten over nietigheid verworpen",
+ "kern": {
+  "zin": "De rechtbank vond de naheffing terecht, omdat de parkeerbelasting niet op een andere manier was betaald.",
+  "bron": [
+   24
+  ],
+  "citaat": "Nu de verschuldigde parkeerbelasting niet op andere wijze was voldaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle bleek de parkeerduur al verstreken, hoewel er een schijf en een bezoekersvergunning lagen.",
+   "bron": [
+    19
+   ],
+   "citaat": "maar dat de geldige parkeerduur reeds was verstreken"
+  },
+  {
+   "zin": "Het bedrijf stelde dat de naheffing nietig was, onder meer vanwege belangenverstrengeling.",
+   "bron": [
+    21
+   ],
+   "citaat": "dat de naheffingsaanslag nietig is vanwege onder meer belangenverstrengeling"
+  },
+  {
+   "zin": "Ook zei het bedrijf dat de parkeercontroleur geen naheffing mocht opleggen.",
+   "bron": [
+    21
+   ],
+   "citaat": "het niet bevoegd zijn van de parkeercontroleur tot het opleggen van de naheffingsaanslag"
+  },
+  {
+   "zin": "Het bedrijf maakte volgens de rechtbank niet aannemelijk dat de controleurs onbevoegd waren.",
+   "bron": [
+    25
+   ],
+   "citaat": "acht de rechtbank dan ook niet door eiseres aannemelijk gemaakt"
+  },
+  {
+   "zin": "Het beroep faalt, en daarmee blijft de naheffing van kracht.",
+   "bron": [
+    32
+   ],
+   "citaat": "De rechtbank verklaart het beroep ongegrond."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing van € 45,33 blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrijf moet de naheffing van € 45,33 betalen en krijgt geen proceskosten vergoed.",
+  "bron": [
+   19,
+   30
+  ],
+  "citaat": "Naar aanleiding daarvan is een naheffingsaanslag parkeerbelasting opgelegd van € 45,33"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De naheffing is nietig door belangenverstrengeling en schending van de integriteit bij de heffingsambtenaar.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank zag geen integriteitsprobleem, omdat een naheffing alleen wordt opgelegd als de belasting niet is betaald.",
+    "bron": [
+     26
+    ],
+    "citaat": "Een naheffingsaanslag parkeerbelasting kan immers slechts worden opgelegd indien de verschuldigde belasting niet is betaald."
+   },
+   "bruikbare_zin": {
+    "citaat": "maakt niet dat gehandeld wordt in strijd met de integriteitsregels",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De naheffing is nietig, omdat over de kosten geen omzetbelasting op het aanslagbiljet staat.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Over de omzetbelasting zag het gerecht geen grond voor nietigheid.",
+    "bron": [
+     27
+    ],
+    "citaat": "ziet de rechtbank geen aanknopingspunten in bovengenoemd arrest"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet gehouden om het bedrag van de naheffingsaanslag te splitsen in een bedrag aan parkeerbelasting en omzetbelasting",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeercontroleur was niet bevoegd om een naheffing op te leggen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het bedrijf maakte niet aannemelijk dat de controleur onbevoegd was, en de rechtbank liet dat zo.",
+    "bron": [
+     25
+    ],
+    "citaat": "acht de rechtbank dan ook niet door eiseres aannemelijk gemaakt"
+   },
+   "bruikbare_zin": {
+    "citaat": "Uit het door verweerder overgelegde Aanwijzings- en mandaatbesluit van 27 februari 2017 volgt dat",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een naheffing mag alleen worden opgelegd als de parkeerbelasting niet is betaald.",
+  "type": "regel",
+  "reikwijdte": "naheffingsaanslag parkeerbelasting",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   26
+  ],
+  "citaat": "Een naheffingsaanslag parkeerbelasting kan immers slechts worden opgelegd indien de verschuldigde belasting niet is betaald."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "controle ter plaatse",
+   "bezoekersvergunning en parkeerschijf in de auto"
+  ],
+  "wat_gaf_doorslag": "De geldige parkeerduur was verstreken en de belasting was niet op een andere manier betaald."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2018:413"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 231 lid 2 onderdeel b Gemeentewet",
+  "art. 231 lid 2 onderdeel d Gemeentewet"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen tekortkoming van de gemeente aangewezen",
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren krijgt u als de parkeerbelasting niet is betaald. Een bezoekersvergunning en een parkeerschijf zijn niet genoeg als de parkeerduur al is verstreken. Vindt u de rekening niet terecht, dan kan bezwaar zin hebben als u kunt laten zien dat u wel had betaald.",
+ "gemeente": "Noordwijk",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

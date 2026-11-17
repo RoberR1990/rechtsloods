@@ -1,0 +1,161 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2024:3335",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "automobiliste (gemachtigde-bureau)",
+  "wederpartij": "gemeente Goes",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een automobiliste kreeg in Goes een naheffing (de rekening achteraf), omdat zij niet bij het begin van het parkeren had betaald. Zij ging in beroep bij de rechtbank Zeeland-West-Brabant tegen de heffingsambtenaar van de gemeente Goes.",
+ "titel": "Achteraf betalen via app was te laat; bedrag blijft staan",
+ "kern": {
+  "zin": "De rechter vond dat er niet bij het begin is betaald en dat de latere app-betaling te laat kwam, dus de naheffing klopt.",
+  "bron": [
+   23
+  ],
+  "citaat": "heeft belanghebbende niet voldaan aan de verplichting de parkeerbelasting te voldoen bij de aanvang van het parkeren"
+ },
+ "samenvatting": [
+  {
+   "zin": "De auto stond op 12 mei 2022 aan de Oostsingel in Goes, en er was niet betaald.",
+   "bron": [
+    16
+   ],
+   "citaat": "stond op 12 mei 2022 omstreeks 14:04 uur geparkeerd aan de Oostsingel te Goes"
+  },
+  {
+   "zin": "De automobiliste zegt dat zij een redelijke termijn moet krijgen om te betalen.",
+   "bron": [
+    21
+   ],
+   "citaat": "dat zij een redelijke termijn moet hebben om parkeerbelasting te betalen"
+  },
+  {
+   "zin": "Zij zegt dat zij om 14:07 uur via de app heeft betaald.",
+   "bron": [
+    21
+   ],
+   "citaat": "dat zij dit op 12 mei 2022, 14:07 uur, door middel van een parkeerapp heeft gedaan"
+  },
+  {
+   "zin": "De betaling via de app gebeurde rond 14:07 uur, vanaf ongeveer 400 meter verderop.",
+   "bron": [
+    23
+   ],
+   "citaat": "De latere betaling per parkeerapp heeft uiteindelijk plaatsgevonden rond 14:07 uur vanaf een locatie"
+  },
+  {
+   "zin": "De rechter zegt dat betalen bij het begin van het parkeren had gemoeten.",
+   "bron": [
+    23
+   ],
+   "citaat": "heeft belanghebbende niet voldaan aan de verplichting de parkeerbelasting te voldoen bij de aanvang van het parkeren"
+  },
+  {
+   "zin": "Het kostenbedrag van 66,50 euro is volgens de rechter niet in strijd met de wet.",
+   "bron": [
+    24,
+    25
+   ],
+   "citaat": "is niet in strijd met de wettelijke bepalingen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; bedrag van 68,50 euro blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrag van 68,50 euro blijft staan, en het griffierecht (de kosten om naar de rechter te gaan) en de proceskosten komen niet terug.",
+  "bron": [
+   16,
+   28
+  ],
+  "citaat": "is aan belanghebbende een naheffingsaanslag parkeerbelasting opgelegd van € 68,50"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Er moet een redelijke termijn zijn om te betalen; de betaling via de app was om 14:07 uur.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat betalen bij het begin van het parkeren moet, en dat de app-betaling later kwam.",
+    "bron": [
+     23
+    ],
+    "citaat": "heeft belanghebbende niet voldaan aan de verplichting de parkeerbelasting te voldoen bij de aanvang van het parkeren"
+   },
+   "bruikbare_zin": {
+    "citaat": "Onder deze omstandigheden heeft belanghebbende niet voldaan aan de verplichting de parkeerbelasting",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De kosten van 66,50 euro mogen niet in rekening worden gebracht, omdat het besluit te laat is bekendgemaakt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vindt dat het kostenbedrag niet in strijd is met de wet, ook niet bij late bekendmaking.",
+    "bron": [
+     24
+    ],
+    "citaat": "is niet in strijd met de wettelijke bepalingen"
+   },
+   "bruikbare_zin": {
+    "citaat": "is niet in strijd met de wettelijke bepalingen",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een betaling via de app die later komt, telt in deze zaak niet als betaling bij het begin van het parkeren.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "App-betaling ruim na het begin van het parkeren, van ver weg, zoals in deze zaak",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "Onder deze omstandigheden heeft belanghebbende niet voldaan aan de verplichting de parkeerbelasting"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "waarneming van de parkeercontroleurs (niemand bij de auto)",
+   "app-betaling om 14:07 uur"
+  ],
+  "wat_gaf_doorslag": "De controleurs troffen niemand bij de auto aan die bezig was met betalen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHAMS:2024:268"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 lid 5 Gemeentewet",
+  "art. 3 lid 1 en 2 Besluit gemeentelijke parkeerbelastingen",
+  "Verordening parkeerbelastingen Goes 2022 (tarieventabel)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen tekortkoming van de gemeente benoemd; uitspraak bevestigt bestaand bedrag",
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Betaalt u de parkeerbelasting niet bij het begin van het parkeren, dan kan er een rekening achteraf komen. Een betaling via de app die later komt, telt volgens de rechter dan niet als op tijd betaald. Tegen het kostenbedrag heeft bezwaar op dit punt weinig kans, zoals deze uitspraak laat zien.",
+ "gemeente": "Goes",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

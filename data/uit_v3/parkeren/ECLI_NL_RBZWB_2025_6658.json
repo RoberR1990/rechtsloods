@@ -1,0 +1,185 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:6658",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Veere",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging in beroep tegen een naheffingsaanslag (de rekening achteraf) van de gemeente Veere. De rechtbank Zeeland-West-Brabant oordeelde dat de rekening terecht was.",
+ "titel": "Parkeerrekening blijft staan: kosten voldoende onderbouwd",
+ "kern": {
+  "zin": "De rechter oordeelde dat de naheffing terecht was, omdat de kosten onder het maximum bleven.",
+  "bron": [
+   27
+  ],
+  "citaat": "dit bedrag lager is dan het maximumbedrag dat volgt uit de kostenonderbouwing van de gemeente Veere"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Veere legde de parkeerder een naheffingsaanslag (de rekening achteraf) op van 86,70 euro, omdat er te weinig parkeerbelasting was betaald.",
+   "bron": [
+    10
+   ],
+   "citaat": "een naheffingsaanslag parkeerbelasting met [aanslagnummer] opgelegd van € 86,70"
+  },
+  {
+   "zin": "De parkeerder zei dat parkeren zonder vergunning geen overtreding is volgens de Wet Mulder.",
+   "bron": [
+    23
+   ],
+   "citaat": "Belanghebbende stelt dat het parkeren op een parkeerplaats zonder een daartoe bestemde parkeervergunning een overtreding is"
+  },
+  {
+   "zin": "Volgens de gemeente kon de parkeerder op deze plek gewoon een dagkaart kopen.",
+   "bron": [
+    23
+   ],
+   "citaat": "waar een dagkaart kan worden aangeschaft voor het parkeren"
+  },
+  {
+   "zin": "De parkeerder vond dat de gemeente de kosten niet voldoende had onderbouwd.",
+   "bron": [
+    26
+   ],
+   "citaat": "Belanghebbende stelt dat de heffingsambtenaar de kosten niet voldoende heeft onderbouwd"
+  },
+  {
+   "zin": "De rechter vond de onderbouwing summier, maar toch voldoende om de kosten aan te tonen.",
+   "bron": [
+    27
+   ],
+   "citaat": "maakt niet dat deze onderbouwing daarom onjuist is"
+  },
+  {
+   "zin": "De naheffing van 86,70 euro blijft staan; de parkeerder krijgt geen griffierecht of proceskosten terug.",
+   "bron": [
+    29
+   ],
+   "citaat": "Omdat het beroep ongegrond is, krijgt belanghebbende zijn griffierecht niet vergoed."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing van 86,70 euro blijft staan; geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening van 86,70 euro blijft staan, en u krijgt geen griffierecht of proceskosten terug.",
+  "bron": [
+   29,
+   31
+  ],
+  "citaat": "Omdat het beroep ongegrond is, krijgt belanghebbende zijn griffierecht niet vergoed."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Parkeren zonder de juiste vergunning is volgens de Wet Mulder een overtreding, dus er mag geen naheffing komen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat parkeren op een plek met dagkaart geen overtreding is volgens de Wet Mulder.",
+    "bron": [
+     24
+    ],
+    "citaat": "geen overtreding die valt onder de Wet Mulder"
+   },
+   "bruikbare_zin": {
+    "citaat": "op een parkeerplaats waarvoor een dagkaart kan worden aangeschaft",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Op deze plek geldt geen uurtarief, dus het uurtarief van 10 euro kan niet gebruikt worden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat het uurtarief mag volgen uit de verordening.",
+    "bron": [
+     25
+    ],
+    "citaat": "het uurtarief worden vastgesteld conform de door de heffingsambtenaar gehanteerde Verordening"
+   },
+   "bruikbare_zin": {
+    "citaat": "het uurtarief worden vastgesteld conform de door de heffingsambtenaar gehanteerde Verordening",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De kosten van de naheffing waren niet voldoende onderbouwd en niet na te rekenen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de onderbouwing summier, maar wel voldoende, dus de kosten bleven.",
+    "bron": [
+     27
+    ],
+    "citaat": "maakt niet dat deze onderbouwing daarom onjuist is"
+   },
+   "bruikbare_zin": {
+    "citaat": "Met deze onderbouwing heeft de heffingsambtenaar aannemelijk gemaakt dat hierin uitsluitend kostenposten zijn begrepen",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente moet de kosten van een naheffing aannemelijk maken, maar een korte onderbouwing kan voldoende zijn.",
+  "type": "regel",
+  "reikwijdte": "onderbouwing van naheffingskosten, ook als niet elke kostenpost apart is uitgelegd",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "maakt niet dat deze onderbouwing daarom onjuist is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "onderbouwing van de kosten (overgelegd door de gemeente)"
+  ],
+  "wat_gaf_doorslag": "De onderbouwing liet zien dat alleen toegestane kostenposten waren opgenomen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 2 Besluit gemeentelijke parkeerbelastingen",
+  "art. 11 lid 3 Verordening parkeerbelasting 2024",
+  "Wet administratiefrechtelijke handhaving verkeersvoorschriften (Wet Mulder)"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Houd een kostenonderbouwing gereed die laat zien dat alleen toegestane kostenposten zijn opgenomen.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    27
+   ],
+   "citaat": "Met deze onderbouwing heeft de heffingsambtenaar aannemelijk gemaakt dat hierin uitsluitend kostenposten zijn begrepen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "verordening-beleid",
+  "klantcontact"
+ ],
+ "klantuitleg": "De rechter vond deze rekening terecht, omdat er te weinig parkeerbelasting was betaald. De kosten waren volgens de rechter ook voldoende onderbouwd. Bij onduidelijke kosten kunt u de gemeente om een uitleg vragen, maar dat geeft niet altijd gelijk.",
+ "gemeente": "Veere",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

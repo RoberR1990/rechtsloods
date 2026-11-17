@@ -1,0 +1,157 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2026:3790",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "belastingsamenwerking Utrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder procedeerde bij de rechtbank Midden-Nederland tegen de Belastingsamenwerking gemeenten & hoogheemraadschap Utrecht. Het ging om een naheffing (de rekening achteraf), omdat het kenteken bij het betalen verkeerd was ingevoerd.",
+ "titel": "Parkeren betaald, maar verkeerd kenteken: naheffing vernietigd",
+ "kern": {
+  "zin": "De rechter vernietigde de naheffing, want een naheffing kan niet als de belasting wel is betaald, ook niet bij een fout kenteken.",
+  "bron": [
+   22
+  ],
+  "citaat": "Uit vaste rechtspraak volgt dat naheffing in dat geval niet mogelijk is"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder stond op 12 juli 2023 in Utrecht op een betaald parkeervak, zonder op dat moment te betalen.",
+   "bron": [
+    16
+   ],
+   "citaat": "zonder dat op dat tijdstip de verschuldigde belasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat hij om 13:01 uur wel had betaald, maar dat de automaat het kenteken niet goed had overgenomen.",
+   "bron": [
+    19
+   ],
+   "citaat": "dat de parkeerautomaat het laatste teken van zijn kenteken niet heeft overgenomen"
+  },
+  {
+   "zin": "De belastingsamenwerking vernietigde de naheffing zelf, maar vond dat geen proceskosten nodig waren.",
+   "bron": [
+    20
+   ],
+   "citaat": "omdat de naheffingsaanslag niet is herroepen wegens een aan het bestuursorgaan te wijten onrechtmatigheid"
+  },
+  {
+   "zin": "De rechter zei dat het juiste kenteken invoeren bij het betalen hoort.",
+   "bron": [
+    24
+   ],
+   "citaat": "het invoeren van het (juiste) kenteken behoort tot de voorschriften"
+  },
+  {
+   "zin": "Het betaaloverzicht kwam pas in beroep, en dan had de naheffing eerder weg kunnen zijn.",
+   "bron": [
+    26
+   ],
+   "citaat": "was de naheffingsaanslag al eerder vernietigd en was een beroepsprocedure niet nodig geweest"
+  },
+  {
+   "zin": "De rechter wees een vergoeding van proceskosten af, maar kende het griffierecht toe.",
+   "bron": [
+    31
+   ],
+   "citaat": "Voor een proceskostenvergoeding bestaat geen aanleiding"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd; griffierecht terug, geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder hoeft de naheffing niet te betalen en krijgt het griffierecht terug, maar geen proceskosten.",
+  "bron": [
+   31
+  ],
+  "citaat": "Voor een proceskostenvergoeding bestaat geen aanleiding"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij had wel betaald, maar de automaat nam het laatste teken van zijn kenteken niet over.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter zei dat een naheffing niet kan als de belasting betaald is, ook bij een fout kenteken.",
+    "bron": [
+     22
+    ],
+    "citaat": "Uit vaste rechtspraak volgt dat naheffing in dat geval niet mogelijk is"
+   },
+   "bruikbare_zin": {
+    "citaat": "Uit vaste rechtspraak volgt dat naheffing in dat geval niet mogelijk is",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "Hij is niet gehoord, en bij een hoorzitting had hij het kenteken kunnen uitleggen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat er een hoorzitting was en dat de uitnodigingen deze zaak wel betroffen.",
+    "bron": [
+     28
+    ],
+    "citaat": "Er is uiteindelijk een hoorzitting gehouden op 22 februari 2026"
+   },
+   "bruikbare_zin": {
+    "citaat": "Er is uiteindelijk een hoorzitting gehouden op 22 februari 2026",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een fout kenteken, terwijl de belasting wel is betaald, mag de naheffing niet blijven staan.",
+  "type": "regel",
+  "reikwijdte": "Betaald parkeren waarbij het verkeerde kenteken is ingevoerd",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   22
+  ],
+  "citaat": "Uit vaste rechtspraak volgt dat naheffing in dat geval niet mogelijk is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "betaaloverzicht van de parkeerbetaling",
+   "screenshots van e-mails over de hoorzitting"
+  ],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 234 lid 2 Gemeentewet",
+  "art. 7:15 lid 2 Awb",
+  "art. 8:75 lid 1 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver individueel; geen eis of aanwijzing aan de gemeente",
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u heeft betaald, maar het kenteken verkeerd is ingevoerd, kan de rekening voor het parkeren meestal niet blijven staan. Voer daarom het juiste kenteken in, want dat hoort bij het betalen. Heeft u al betaald, stuur dan het betaaloverzicht meteen mee met uw bezwaar; dan is vaak geen beroep nodig.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

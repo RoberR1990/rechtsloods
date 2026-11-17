@@ -1,0 +1,162 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:6794",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Tilburg",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging in beroep tegen een naheffingsaanslag (de rekening achteraf) van de gemeente Tilburg. De rechtbank Zeeland-West-Brabant wees het beroep af.",
+ "titel": "Te laat betaald via parkeerapp: rekening blijft staan",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder de betaaltermijn had overschreden, dus de naheffing bleef staan.",
+  "bron": [
+   22
+  ],
+  "citaat": "belanghebbende de redelijke termijn om de parkeerbelasting te voldoen heeft overschreden"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Tilburg legde de parkeerder een naheffingsaanslag (de rekening achteraf) op van 62,38 euro.",
+   "bron": [
+    18
+   ],
+   "citaat": "een naheffingsaanslag parkeerbelasting opgelegd van € 62,38"
+  },
+  {
+   "zin": "De parkeerder zei dat betalen twaalf minuten duurde, omdat hij eerst een nieuw wachtwoord moest aanvragen.",
+   "bron": [
+    20
+   ],
+   "citaat": "Dit heeft echter twaalf minuten in beslag genomen, omdat belanghebbende eerst een nieuw wachtwoord"
+  },
+  {
+   "zin": "De parkeerder zei ook dat hij door later te betalen geen voordeel had.",
+   "bron": [
+    20
+   ],
+   "citaat": "Hierdoor heeft belanghebbende geen voordeel gehad door later te betalen."
+  },
+  {
+   "zin": "De rechter vond dat de betaaltermijn was overschreden.",
+   "bron": [
+    22
+   ],
+   "citaat": "belanghebbende de redelijke termijn om de parkeerbelasting te voldoen heeft overschreden"
+  },
+  {
+   "zin": "De rechter vond dat geen voordeel de naheffing niet onterecht maakt.",
+   "bron": [
+    23
+   ],
+   "citaat": "brengt niet mee dat de naheffingsaanslag onterecht zou zijn opgelegd"
+  },
+  {
+   "zin": "De rekening blijft staan, en de parkeerder krijgt geen griffierecht of proceskosten terug.",
+   "bron": [
+    26
+   ],
+   "citaat": "Dat betekent dat de uitspraak op bezwaar en de naheffingsaanslag in stand blijven."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; rekening blijft staan, geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening van 62,38 euro blijft staan, en u krijgt geen griffierecht of proceskosten terug.",
+  "bron": [
+   26
+  ],
+  "citaat": "Dat betekent dat de uitspraak op bezwaar en de naheffingsaanslag in stand blijven."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Betalen duurde twaalf minuten, omdat hij eerst een nieuw wachtwoord voor de parkeerapp moest aanvragen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat het wachtwoord voor de rekening van de parkeerder kwam.",
+    "bron": [
+     22
+    ],
+    "citaat": "Dat belanghebbende niet beschikte over de inloggegevens om de parkeerapp in werking te stellen"
+   },
+   "bruikbare_zin": {
+    "citaat": "komt voor zijn rekening en risico",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Op deze plek gold een dagtarief van 1 euro en geen uurtarief, dus hij had geen voordeel van later betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat het ontbreken van voordeel de naheffing niet onterecht maakt.",
+    "bron": [
+     23
+    ],
+    "citaat": "brengt niet mee dat de naheffingsaanslag onterecht zou zijn opgelegd"
+   },
+   "bruikbare_zin": {
+    "citaat": "De omstandigheid dat belanghebbende geen voordeel heeft behaald door de parkeerbelasting later te voldoen",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De parkeerder moet onverwijld en ononderbroken handelen om tijdig te betalen, ook als hij een parkeerapp gebruikt.",
+  "type": "regel",
+  "reikwijdte": "betalen van parkeerbelasting, ook via een parkeerapp",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "De parkeerder moet onverwijld en ononderbroken handelingen verrichten die zijn gericht op het tijdig betalen van parkeerbelasting."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "scanauto-controle",
+   "verklaring van de parkeerder ter zitting"
+  ],
+  "wat_gaf_doorslag": "Uit de verklaring ter zitting bleek dat de parkeerder niet bij de auto bleef."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Wijs parkeerders bij een storing in de parkeerapp op de mogelijkheid om aan de automaat te betalen.",
+   "raakt": "betaalapp",
+   "bron": [
+    22
+   ],
+   "citaat": "de parkeerbelasting ook kunnen voldoen door gebruik te maken van een parkeerautomaat"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "betaalapp",
+  "klantcontact"
+ ],
+ "klantuitleg": "De rechter vond dat u de parkeerbelasting niet op tijd had betaald. Dat u daardoor niets bespaarde, maakte de rekening niet onterecht. Bij een storing in de parkeerapp kunt u meteen aan de automaat betalen; dat kan latere discussie voorkomen.",
+ "gemeente": "Tilburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

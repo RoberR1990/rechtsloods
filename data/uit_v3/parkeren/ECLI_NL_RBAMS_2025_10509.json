@@ -1,0 +1,154 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2025:10509",
+ "relevant": true,
+ "kenmerk": null,
+ "dubbel_van": null,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing (de rekening achteraf), omdat hij een dagkaart had gekocht die pas later op de dag ging gelden. Hij ging in beroep bij de rechtbank Amsterdam, die het beroep ongegrond verklaarde.",
+ "titel": "Dagkaart gold niet de hele dag: de rekening blijft staan",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder zelf had moeten controleren of de dagkaart de hele parkeertijd dekte.",
+  "bron": [
+   19
+  ],
+  "citaat": "het lag op de weg van eiser om bij de betaling te controleren"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde een naheffing op, omdat de auto op 13 april 2025 zonder betaalde parkeerbelasting stond.",
+   "bron": [
+    14
+   ],
+   "citaat": "zonder dat parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat hij om 11:27 uur had betaald en niet wist dat de kaart later inging.",
+   "bron": [
+    17
+   ],
+   "citaat": "Eiser heeft niet gezien en niet begrepen dat de dagkaart niet voor de hele dag gold"
+  },
+  {
+   "zin": "De gemeente zei dat de dagkaart pas vanaf 12:00 uur geldig was.",
+   "bron": [
+    17
+   ],
+   "citaat": "omdat eiser een dagkaart heeft gekocht die pas vanaf 12:00 uur geldig was"
+  },
+  {
+   "zin": "De rechter zag geen reden om te twijfelen aan de uitleg van de gemeente over de dagkaart.",
+   "bron": [
+    19
+   ],
+   "citaat": "de rechtbank ziet geen grond om te twijfelen aan de stelling van de heffingsambtenaar"
+  },
+  {
+   "zin": "De rekening blijft staan en de parkeerder krijgt het griffierecht (de kosten van het beroep) niet terug.",
+   "bron": [
+    23
+   ],
+   "citaat": "Eiser krijgt daarom het griffierecht niet terug."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de rekening blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening blijft staan en de parkeerder krijgt het griffierecht (de kosten van het beroep) niet terug.",
+  "bron": [
+   23
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij heeft te goeder trouw snel betaald; het betaalsysteem was onduidelijk.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de parkeerder zelf had moeten controleren of de kaart de hele parkeertijd dekte.",
+    "bron": [
+     19
+    ],
+    "citaat": "het lag op de weg van eiser om bij de betaling te controleren"
+   },
+   "bruikbare_zin": {
+    "citaat": "het lag op de weg van eiser om bij de betaling te controleren",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De reactie van de gemeente was te kort en slecht gemotiveerd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de reactie summier, maar niet in strijd met de motiveringsplicht.",
+    "bron": [
+     21
+    ],
+    "citaat": "De reactie van de heffingsambtenaar is weliswaar summier"
+   },
+   "bruikbare_zin": {
+    "citaat": "in de uitspraak op bezwaar is ingegaan op alle gronden die eiser in bezwaar heeft aangevoerd",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder mag er niet zonder meer van uitgaan dat een dagkaart de hele dag geldt.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Dagkaart op een zondag, zonder uitdrukkelijke vermelding op het scherm dat hij ook voor 12:00 uur geldt",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "Eiser had verder niet zonder meer kunnen aannemen dat een dagkaart per definitie de hele dag geldt."
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "betaalafschrift"
+  ],
+  "wat_gaf_doorslag": "De parkeerder had niet aannemelijk gemaakt dat de geldigheid van de kaart niet te zien was."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Ga in een uitspraak op bezwaar op alle gronden in, ook als de tekst kort is.",
+   "raakt": "bezwaar",
+   "bron": [
+    21
+   ],
+   "citaat": "in de uitspraak op bezwaar is ingegaan op alle gronden die eiser in bezwaar heeft aangevoerd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "klantcontact"
+ ],
+ "klantuitleg": "De rekening voor het parkeren is terecht als u niet op tijd en voor de hele parkeertijd betaalt, ook als u dat niet bewust deed. Bij een dagkaart moet u zelf controleren of die de hele parkeertijd dekt. Bezwaar heeft op dit punt weinig kans als de kaart later inging dan u dacht.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "zekerheid": "middel"
+}

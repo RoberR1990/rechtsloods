@@ -1,0 +1,183 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2021:7049",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (kentekenhouder)",
+  "wederpartij": "gemeente Amsterdam (heffingsambtenaar)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder kreeg een naheffing voor parkeren zonder betaling in Amsterdam. Hij ging in beroep bij de rechtbank Amsterdam tegen de gemeente Amsterdam.",
+ "titel": "Burger verliest naheffing, krijgt wel proceskosten en griffierecht",
+ "kern": {
+  "zin": "De rechter hield de naheffing overeind, omdat de parkeerder niet aannemelijk maakte dat hij alleen in- of uitstapte.",
+  "bron": [
+   25
+  ],
+  "citaat": "De enkele stelling van [eiser] is onvoldoende om in- of uitstappen aan te nemen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde de parkeerder een naheffing op: zijn auto stond in 2017 zonder betaalde parkeerbelasting geparkeerd.",
+   "bron": [
+    22
+   ],
+   "citaat": "terwijl hiervoor geen parkeergeld was betaald"
+  },
+  {
+   "zin": "De parkeerder zei dat het ging om in- en uitstappen en dat de foto's op hetzelfde moment waren gemaakt.",
+   "bron": [
+    23
+   ],
+   "citaat": "Volgens [eiser] was sprake van in- en uitstappen"
+  },
+  {
+   "zin": "Wie zegt dat hij niet heeft geparkeerd, moet dat aannemelijk maken.",
+   "bron": [
+    24
+   ],
+   "citaat": "Dat betekent dat het in dit geval op de weg van [eiser] ligt om aannemelijk te maken"
+  },
+  {
+   "zin": "De rechter zag op de scanfoto's niets dat op in- of uitstappen wees, en vond de stelling van de parkeerder te mager.",
+   "bron": [
+    25
+   ],
+   "citaat": "De enkele stelling van [eiser] is onvoldoende om in- of uitstappen aan te nemen"
+  },
+  {
+   "zin": "De rechter vond dat de uitspraak op bezwaar het laden en lossen ten onrechte aan de orde stelde, maar dat dit de uitkomst niet veranderde.",
+   "bron": [
+    28
+   ],
+   "citaat": "In de bestreden uitspraak is ingegaan op laden en lossen"
+  },
+  {
+   "zin": "De naheffing was terecht en het beroep is ongegrond.",
+   "bron": [
+    54
+   ],
+   "citaat": "De heffingsambtenaar heeft de naheffingsaanslag terecht aan [eiser] opgelegd"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Naheffing blijft; alleen griffierecht en proceskosten vergoed",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt de naheffing, maar de gemeente vergoedt zijn griffierecht van 49 euro en zijn proceskosten van 748 euro.",
+  "bron": [
+   62,
+   63
+  ],
+  "citaat": "het betaalde griffierecht van € 49,- aan [eiser] te vergoeden"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "Hij zegt dat hij alleen in- of uitstapte en dat er dus geen parkeren was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de enkele stelling van de parkeerder niet genoeg is om in- of uitstappen aan te nemen.",
+    "bron": [
+     25
+    ],
+    "citaat": "De enkele stelling van [eiser] is onvoldoende om in- of uitstappen aan te nemen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Alle deuren zijn dicht en er zijn geen personen in of rondom de auto te zien",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De gemeente heeft onvoldoende aannemelijk gemaakt dat er geparkeerd werd; de foto's zijn op hetzelfde moment gemaakt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente met het Deskforce-systeem in beginsel aan haar bewijslast voldoet.",
+    "bron": [
+     26
+    ],
+    "citaat": "De heffingsambtenaar voldoet met het Deskforce-systeem in beginsel aan zijn bewijslast"
+   },
+   "bruikbare_zin": {
+    "citaat": "De heffingsambtenaar voldoet met het Deskforce-systeem in beginsel aan zijn bewijslast",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De uitspraak op bezwaar ging over laden en lossen, terwijl hij in- en uitstappen had aangevoerd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter zag een motiveringsgebrek, maar paste artikel 6:22 Awb toe en liet het gebrek daarom rusten.",
+    "bron": [
+     28
+    ],
+    "citaat": "De rechtbank ziet daarom aanleiding het gebrek te passeren met toepassing van artikel 6:22"
+   },
+   "bruikbare_zin": {
+    "citaat": "het gebrek te passeren met toepassing van artikel 6:22",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeren is er niet bij direct in- of uitstappen of direct laden en lossen, en wie dat zegt moet dat aannemelijk maken.",
+  "type": "regel",
+  "reikwijdte": "Naheffingen waarbij de burger zegt dat hij alleen in- of uitstapte.",
+  "uitzondering": "Onmiddellijk in- of uitstappen, of onmiddellijk laden en lossen, is geen parkeren.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "Op degene die zich op het standpunt stelt dat géén sprake is geweest van parkeren, rust de bewijslast"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "scanfoto's (alle deuren dicht, geen personen zichtbaar)",
+   "Deskforce-systeem"
+  ],
+  "wat_gaf_doorslag": "Op de scanfoto's was niets te zien dat op in- of uitstappen wees."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:22 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij de uitspraak op bezwaar of de argumenten van de burger goed zijn weergegeven en beantwoord.",
+   "raakt": "bezwaar",
+   "bron": [
+    28
+   ],
+   "citaat": "In de bestreden uitspraak is ingegaan op laden en lossen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Zegt u dat u alleen even in- of uitstapte, dan moet dat blijken uit de foto's of uit andere bewijzen. In deze zaak was dat niet genoeg, dus de rechter hield de naheffing overeind. Heeft u een vergelijkbare zaak, dan hangt de uitkomst af van wat er op de foto's te zien is; dat is geen garantie.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

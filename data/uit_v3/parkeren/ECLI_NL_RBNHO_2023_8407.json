@@ -1,0 +1,134 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNHO:2023:8407",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "kentekenhouder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Het ging om een boete voor een auto die op een plek met een parkeerverbod stond. De kentekenhouder kwam in beroep tegen de officier van justitie, bij de kantonrechter van de rechtbank Noord-Holland.",
+ "titel": "Boete vernietigd omdat de auto was verhuurd",
+ "kern": {
+  "zin": "De kantonrechter vernietigde de boete, omdat de auto op het moment van de overtreding was verhuurd en de boete dus niet bij de kentekenhouder hoorde.",
+  "bron": [
+   24
+  ],
+  "citaat": "De boete is ten onrechte opgelegd aan de kentekenhouder."
+ },
+ "samenvatting": [
+  {
+   "zin": "Aan de kentekenhouder werd een boete opgelegd voor een auto die op een plek met een parkeerverbod stond.",
+   "bron": [
+    18
+   ],
+   "citaat": "een voertuig parkeren waar dat niet mag (bord E1, parkeerverbod(szone))."
+  },
+  {
+   "zin": "De kentekenhouder zei dat de auto was verhuurd en legde een factuur over.",
+   "bron": [
+    20
+   ],
+   "citaat": "Betrokkene stelt, met verwijzing naar de overgelegde factuur, dat het voertuig was verhuurd."
+  },
+  {
+   "zin": "Ook de officier van justitie vond, na het verweer, dat de auto verhuurd was.",
+   "bron": [
+    22
+   ],
+   "citaat": "op het standpunt gesteld dat er sprake was van verhuur"
+  },
+  {
+   "zin": "De factuur bewees voor de kantonrechter dat de auto ten tijde van de overtreding was verhuurd.",
+   "bron": [
+    24
+   ],
+   "citaat": "Op basis van de overgelegde factuur is voldoende komen vast te staan dat de auto"
+  },
+  {
+   "zin": "De kantonrechter vernietigde de boete en de beschikking, en veroordeelde de officier van justitie tot het betalen van de proceskosten.",
+   "bron": [
+    25,
+    34
+   ],
+   "citaat": "en de beschikking waarbij de boete is opgelegd zullen worden vernietigd"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete vernietigd, auto was verhuurd; proceskosten vergoed door officier.",
+ "gevolg_betrokkene": {
+  "zin": "Het zekerheidsbedrag gaat terug naar de kentekenhouder, en hij krijgt 1.284,75 euro aan proceskosten.",
+  "bron": [
+   33,
+   34
+  ],
+  "citaat": "het bedrag dat betrokkene als zekerheidstelling heeft betaald, aan betrokkene terugbetaalt"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De auto was verhuurd op het moment van de overtreding, dus de boete hoort niet bij mij.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De kantonrechter vond dat de boete ten onrechte aan de kentekenhouder was opgelegd.",
+    "bron": [
+     24
+    ],
+    "citaat": "De boete is ten onrechte opgelegd aan de kentekenhouder."
+   },
+   "bruikbare_zin": {
+    "citaat": "Op basis van de overgelegde factuur is voldoende komen vast te staan",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "In deze zaak was de auto verhuurd, daarom mocht de boete niet bij de kentekenhouder worden gelegd.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "alleen deze zaak: een auto die bedrijfsmatig was verhuurd voor ten hoogste drie maanden",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "De boete is ten onrechte opgelegd aan de kentekenhouder."
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "overgelegde factuur van de huur",
+   "standpunt officier van justitie ter zitting"
+  ],
+  "wat_gaf_doorslag": "De factuur van de bedrijfsmatige huur, waarop de kantonrechter de beslissing baseerde."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:GHARL:2019:6372"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 9 WAHV",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Dit gaat over een boete voor een auto die op een parkeerverbod stond, en niet over een gemeentelijke rekening. Heeft u een auto verhuurd, dan kan de boete bij de huurder horen en niet bij u. Heeft u een factuur of huurovereenkomst van die periode, dan helpt die het meest; zonder bewijs heeft bezwaar weinig kans.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "niet genoemd in uitspraak",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

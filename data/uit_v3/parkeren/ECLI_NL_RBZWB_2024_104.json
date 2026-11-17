@@ -1,0 +1,42 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2024:104",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {"burger": "parkeerder", "wederpartij": "gemeente Bergen op Zoom", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Dit gaat over een naheffing voor parkeerbelasting in Bergen op Zoom. Een parkeerder ging in beroep bij de rechtbank Zeeland-West-Brabant tegen de aanslag van de gemeente.",
+ "titel": "Ook kort parkeren zonder betalen is belast",
+ "kern": {"zin": "De rechter vond dat ook een korte parkeerduur belastbaar is en dat de aanslag terecht is.", "bron": [25], "citaat": "De omstandigheid dat het gebruik van het parkeervak van zeer korte duur is geweest, maakt dat niet anders."},
+ "samenvatting": [
+  {"zin": "Op 11 april 2023 stond een auto in Bergen op Zoom zonder betaling geparkeerd.", "bron": [14], "citaat": "stond op 11 april 2023 omstreeks 16:37 uur stil aan de Noordzijde Haven"},
+  {"zin": "De parkeerder zei dat hij maar vijf minuten had gestaan en haast had.", "bron": [22], "citaat": "Belanghebbende voert aan dat het enkel gaat om een korte periode van parkeren, te weten 5 minuten."},
+  {"zin": "De gemeente wees het bezwaar af en vond de aanslag terecht.", "bron": [10], "citaat": "De heffingsambtenaar heeft het bezwaar van belanghebbende ongegrond verklaard."},
+  {"zin": "De rechter vond dat ook korte parkeerduur belastbaar is.", "bron": [25], "citaat": "De omstandigheid dat het gebruik van het parkeervak van zeer korte duur is geweest, maakt dat niet anders."},
+  {"zin": "De aanslag van 69,25 euro bleef daarom staan.", "bron": [15], "citaat": "een naheffingsaanslag parkeerbelasting opgelegd van € 69,25 bestaande uit een bedrag aan belasting van € 1,20"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de aanslag blijft staan.",
+ "gevolg_betrokkene": {"zin": "De parkeerder betaalt de aanslag van 69,25 euro en krijgt geen proceskosten terug.", "bron": [30], "citaat": "De rechtbank concludeert dat de naheffingsaanslag terecht en naar het juiste bedrag is opgelegd aan belanghebbende."},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "kort-stilstaan", "burger_zegt": "Het ging maar om vijf minuten, en er was geen gevaar.", "oordeel": "verworpen", "waarom": {"zin": "Volgens de rechter bestaat er geen uitzondering voor korte handelingen.", "bron": [25], "citaat": "De wetgever heeft geen uitzondering gedefinieerd voor kortdurende handelingen"}, "bruikbare_zin": {"citaat": "De wetgever heeft geen uitzondering gedefinieerd voor kortdurende handelingen", "bron": [25]}},
+  {"arg": "kosten-te-hoog", "burger_zegt": "De aanslag is te hoog voor een tekort van 1,20 euro.", "oordeel": "verworpen", "waarom": {"zin": "De kosten van 68,05 euro staan vast in de verordening, dus de aanslag is niet te hoog.", "bron": [26], "citaat": "De kosten van de naheffingsaanslag (€ 68,05) zijn vastgesteld in artikel 10 van de Verordening"}, "bruikbare_zin": {"citaat": "De naheffingsaanslag is dus niet te hoog vastgesteld", "bron": [26]}}
+ ],
+ "rechtsregel": {"zin": "Parkeren is het stilstaan van een voertuig, behalve bij direct in- of uitstappen of laden en lossen.", "type": "regel", "reikwijdte": "stilstaan op een plek waar betaald parkeren geldt", "uitzondering": "direct in- of uitstappen, en direct laden of lossen", "herkomst": "wet", "bron": [20], "citaat": "anders dan gedurende de tijd die nodig is voor en gebruikt wordt tot het onmiddellijk in- of uitstappen"},
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": ["controle door parkeercontroleurs", "eigen verklaring van de parkeerder over de duur"], "wat_gaf_doorslag": "De eigen verklaring van de parkeerder over de korte duur."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": ["art. 225 Gemeentewet", "art. 234 Gemeentewet", "art. 1 Verordening parkeerbelastingen Bergen op Zoom", "art. 10 Verordening parkeerbelastingen Bergen op Zoom"],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gewone toepassing van de wet; geen tekortkoming van de gemeente",
+ "raakt": ["bezwaar", "tarief-naheffing", "klantcontact"],
+ "klantuitleg": "Bij betaald parkeren moet u betalen, ook als u maar kort staat. Alleen direct in- of uitstappen, of direct laden of lossen, telt niet als parkeren. Wilt u bezwaar maken, kijk dan eerst goed of u alleen even stond.",
+ "gemeente": "Bergen op Zoom",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

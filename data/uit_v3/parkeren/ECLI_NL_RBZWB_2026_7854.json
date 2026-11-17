@@ -1,0 +1,143 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:7854",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (eigenaar van de auto)",
+  "wederpartij": "gemeente Sluis",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing (de rekening achteraf) van € 75,70, omdat er geen parkeerbelasting was betaald. Hij ging in beroep bij de rechtbank Zeeland-West-Brabant tegen de gemeente Sluis.",
+ "titel": "Naheffing blijft staan, betalen via app is eigen risico",
+ "kern": {
+  "zin": "De naheffing bleef staan, want wie via een app betaalt draagt zelf het risico.",
+  "bron": [
+   27
+  ],
+  "citaat": "het gebruik van een parkeerapp voor het voldoen van de verschuldigde parkeerbelasting"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 3 augustus 2025 zagen controleurs dat voor de auto niets was betaald.",
+   "bron": [
+    15
+   ],
+   "citaat": "geconstateerd dat daarvoor geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zegt dat hij via een app had betaald en dat die na een kwartier stopte.",
+   "bron": [
+    24
+   ],
+   "citaat": "dat hij voor het parkeren heeft betaald via een parkeerapp"
+  },
+  {
+   "zin": "De rechter vond de naheffing terecht, dus de gemeente mocht die opleggen.",
+   "bron": [
+    29
+   ],
+   "citaat": "Het voorgaande betekent dat de heffingsambtenaar de naheffingsaanslag terecht heeft opgelegd"
+  },
+  {
+   "zin": "Het verzoek om coulance werd afgewezen, want de verordening kent die ruimte niet.",
+   "bron": [
+    27
+   ],
+   "citaat": "De Verordening biedt geen ruimte voor de door belanghebbende gevraagde coulance"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan, geen griffierecht terug",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder betaalt de naheffing van € 75,70 en krijgt het griffierecht niet terug.",
+  "bron": [
+   16,
+   31
+  ],
+  "citaat": "een naheffingsaanslag parkeerbelasting opgelegd van € 75,70"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De app is na een kwartier gestopt, en de automaten werken vaak niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De parkeerder maakte geen storing aannemelijk, dus de rechter volgde dat niet.",
+    "bron": [
+     28
+    ],
+    "citaat": "niet aannemelijk gemaakt dat hiervan in dit geval sprake is geweest"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet aannemelijk gemaakt dat hiervan in dit geval sprake is geweest",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij wilde niet te weinig betalen en vroeg om coulance.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De verordening laat geen ruimte voor coulance of billijkheid.",
+    "bron": [
+     27
+    ],
+    "citaat": "De Verordening biedt geen ruimte voor de door belanghebbende gevraagde coulance"
+   },
+   "bruikbare_zin": {
+    "citaat": "waarbij opzet, schuld en intentie geen rol spelen",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Goede bedoelingen maken de naheffing niet ongedaan.",
+  "type": "regel",
+  "reikwijdte": "parkeerbelasting die niet is voldaan, ook als de parkeerder te goeder trouw was",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   27
+  ],
+  "citaat": "De parkeerbelasting is een zogenoemde objectieve belasting, waarbij opzet, schuld en intentie geen rol spelen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "parkeeroverzichten van juli en augustus 2025"
+  ],
+  "wat_gaf_doorslag": "De parkeerder maakte geen storing aannemelijk."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "art. 1 onder a en art. 8 Verordening parkeerbelastingen 2025 Sluis",
+  "art. 1 en 1.3 Aanwijzingsbesluit betaald parkeren en vergunningparkeren Sluis 2025"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen nieuwe eis of tekortkoming genoemd; uitspraak bevestigt bestaand beleid",
+ "raakt": [
+  "tarief-naheffing",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Heeft u niet of niet op tijd betaald, dan kan de gemeente de naheffing (de rekening achteraf) terecht opleggen. Ook als de app of automaat niet werkte, bleef de betaling uw verantwoordelijkheid. Heeft u een storing, bewaar dan bewijs, zoals een screenshot; of dat genoeg is, hangt van de situatie af.",
+ "gemeente": "Sluis",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

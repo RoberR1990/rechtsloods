@@ -1,0 +1,145 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2024:7187",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wegslepen",
+ "kenmerk": null,
+ "zaaktype": "overig",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De parkeerder gaat bij de rechtbank Amsterdam in beroep tegen het wegslepen van zijn auto door de gemeente Amsterdam. Hij vond de borden onduidelijk en de kosten van het wegslepen te hoog.",
+ "titel": "Auto weggesleept van vergunninghoudersplaats: kosten voor parkeerder",
+ "kern": {
+  "zin": "De rechtbank oordeelde dat de gemeente de auto mocht laten wegslepen en de kosten mocht verhalen.",
+  "bron": [
+   25
+  ],
+  "citaat": "verweerder de auto mocht wegslepen zoals zij heeft gedaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente haalde de auto weg, omdat die op een plek stond die voor vergunninghouders was.",
+   "bron": [
+    11
+   ],
+   "citaat": "het voertuig van eiser laten wegslepen omdat hij geparkeerd stond op een vergunninghoudersplaats"
+  },
+  {
+   "zin": "De parkeerder vond de bebording niet consequent en zei dat hij daardoor niet wist waar hij mocht staan.",
+   "bron": [
+    19
+   ],
+   "citaat": "Eiser stelt zich op het standpunt dat verweerder inconsequent is in de plaatsing van bebordingen"
+  },
+  {
+   "zin": "Volgens de gemeente lag hier geen aanleiding om van de hoofdregel af te wijken.",
+   "bron": [
+    22
+   ],
+   "citaat": "geen reden was om af te wijken van de hoofdregel"
+  },
+  {
+   "zin": "De rechtbank vond de verkeerssituatie duidelijk genoeg en vond dat de parkeerder die had moeten nakijken.",
+   "bron": [
+    21
+   ],
+   "citaat": "Van eiser mocht daarbij worden verwacht dat hij, in ieder geval na het parkeren, de verkeerssituatie goed had bekeken"
+  },
+  {
+   "zin": "Hij verliest de zaak en moet de kosten van de procedure zelf dragen.",
+   "bron": [
+    25
+   ],
+   "citaat": "Hij krijgt ook geen vergoeding van zijn proceskosten"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; wegsleepkosten blijven voor de parkeerder",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente mag de wegsleepkosten op de parkeerder verhalen; het griffierecht komt niet terug.",
+  "bron": [
+   25
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "De bebording was niet consequent, zodat niet duidelijk was waar hij niet mocht parkeren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond de verkeerssituatie duidelijk genoeg voor een parkeerder.",
+    "bron": [
+     21
+    ],
+    "citaat": "de verkeerssituatie – anders dan eiser stelt – voldoende duidelijk was"
+   },
+   "bruikbare_zin": {
+    "citaat": "In de regel gelden verkeersborden voor het gebied ná het bord",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Hij vond de kosten te hoog en zei dat er geen opzet was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter was er geen grond om de wegsleepkosten te verlagen.",
+    "bron": [
+     23
+    ],
+    "citaat": "geen reden ziet om de kosten van de bestuursdwang te matigen"
+   },
+   "bruikbare_zin": {
+    "citaat": "de kosten van de bestuursdwang te matigen",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bord geldt voor het stuk weg dat erna komt, gezien vanuit de rijrichting.",
+  "type": "regel",
+  "reikwijdte": "Verkeersborden bij parkeerplaatsen: in de regel geldt het bord voor het gebied na het bord",
+  "uitzondering": "Afwijken kan, maar in deze zaak was daar geen reden voor",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "gelden verkeersborden voor het gebied ná het bord"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "foto's van de parkeerder",
+   "foto's uit het dossier"
+  ],
+  "wat_gaf_doorslag": "Uit de foto's van de parkeerder bleek alleen dat andere situaties anders waren."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen eis of aanwijzing van de rechter; gemeente kreeg gelijk op de feiten",
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar"
+ ],
+ "klantuitleg": "Staat uw auto op een vergunninghoudersplaats zonder vergunning, dan mag de gemeente hem weghalen en de kosten bij u neerleggen. De rechter vond dat de borden in dit geval duidelijk genoeg waren. Vindt u de borden onduidelijk, dan helpen foto's, maar bezwaar heeft op dit punt weinig kans als de situatie gewoon duidelijk was.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,194 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2019:530",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder, vertegenwoordigd door een gemachtigde (bureau)",
+  "wederpartij": "gemeente Beverwijk",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Beverwijk een naheffingsaanslag (de rekening achteraf) van € 61,25. Zijn gemachtigde (de persoon die namens hem optrad) stuurde bezwaar per e-mail naar een algemeen adres, en de parkeerder ging in hoger beroep bij het gerechtshof Amsterdam.",
+ "titel": "Bezwaar naar verkeerd e-mailadres gestuurd: te laat",
+ "kern": {
+  "zin": "Het hof vindt dat de gemachtigde bewust een verkeerd e-mailadres koos, zodat de datum van ontvangst bij de gemeente telt en het bezwaar veel te laat was.",
+  "bron": [
+   207
+  ],
+  "citaat": "Het bezwaarschrift is derhalve ruimschoots buiten de wettelijke termijn ingediend"
+ },
+ "samenvatting": [
+  {
+   "zin": "Bij een controle in Beverwijk bleek dat voor de auto geen parkeerbelasting was betaald, en de parkeerder kreeg een naheffing van € 61,25.",
+   "bron": [
+    29
+   ],
+   "citaat": "Om die reden is de naheffingsaanslag met nummer [nummer] ten bedrage van € 61,25 opgelegd"
+  },
+  {
+   "zin": "De parkeerder zei dat hij tijdig bezwaar had gemaakt, omdat zijn gemachtigde dat op 2 juni 2016 per e-mail deed.",
+   "bron": [
+    96
+   ],
+   "citaat": "dat het bezwaarschrift ten onrechte niet-ontvankelijk is verklaard"
+  },
+  {
+   "zin": "De gemeente zei dat bezwaar tegen deze naheffingen niet per e-mail kan en dat het juiste postadres duidelijk was vermeld.",
+   "bron": [
+    109
+   ],
+   "citaat": "Voor bezwaar tegen naheffingsaanslagen parkeerbelasting staat geen elektronische weg open"
+  },
+  {
+   "zin": "Volgens de rechter koos de gemachtigde er bewust voor om niet uit te zoeken waar hij bezwaar moest indienen.",
+   "bron": [
+    169
+   ],
+   "citaat": "de gemachtigde er bewust voor heeft gekozen om geen onderzoek te doen naar de vraag"
+  },
+  {
+   "zin": "De rechter vond dat de gemachtigde het e-mailadres koos om de afhandeling door de gemeente te bemoeilijken, en noemt dat misbruik van procesrecht.",
+   "bron": [
+    200
+   ],
+   "citaat": "met kennelijk geen ander doel dan om de ontvangst door het bevoegde bestuursorgaan"
+  },
+  {
+   "zin": "Het bezwaar was daarom te laat, en er is ook geen dwangsom (een bedrag dat de gemeente betaalt bij een te late beslissing) verschuldigd.",
+   "bron": [
+    221
+   ],
+   "citaat": "hoe dan ook geen dwangsom is verschuldigd"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Bezwaar te laat; rechter beoordeelt de naheffing zelf niet.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing van € 61,25 blijft staan, er is geen dwangsom en de parkeerder krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   226,
+   221
+  ],
+  "citaat": "Het Hof acht geen termen aanwezig voor een veroordeling in de kosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het bezwaar was op tijd, want het is op 2 juni 2016 per e-mail naar een gemeentelijk adres gestuurd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemachtigde misbruikte het procesrecht, dus telt de datum waarop het bezwaar bij het juiste orgaan aankwam.",
+    "bron": [
+     207
+    ],
+    "citaat": "Het bezwaarschrift is derhalve ruimschoots buiten de wettelijke termijn ingediend"
+   },
+   "bruikbare_zin": {
+    "citaat": "een e-mailadres heeft gebruikt waarvan hij enkel heeft kunnen vaststellen dat het niet in gebruik was voor belastingzaken",
+    "bron": [
+     169
+    ]
+   }
+  },
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De gemeente had hem moeten horen voordat zij het bezwaar niet-ontvankelijk verklaarde.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Bij een duidelijk te laat bezwaar mag de gemeente afzien van horen.",
+    "bron": [
+     212
+    ],
+    "citaat": "van het horen van belanghebbende heeft kunnen afzien, omdat sprake is van een kennelijk niet-ontvankelijk bezwaar"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente besliste te laat, dus is een dwangsom verschuldigd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De ingebrekestelling kwam te vroeg, want het bezwaar kwam pas op dezelfde dag bij de gemeente binnen.",
+    "bron": [
+     220
+    ],
+    "citaat": "ingebrekestelling prematuur is gedaan, aangezien, gelijk uit het vorenoverwogene volgt"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De rechter bij de rechtbank was partijdig.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag geen aanwijzing voor vooringenomenheid.",
+    "bron": [
+     94
+    ],
+    "citaat": "Het Hof vermag daaruit geen enkele aanwijzing van vooringenomenheid jegens belanghebbende te putten"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie een bezwaarschrift bewust bij een verkeerd orgaan indient om de afhandeling te bemoeilijken, kan er niet op rekenen dat de datum van indienen daar telt.",
+  "type": "regel",
+  "reikwijdte": "Bezwaar- en beroepschriften die bij een onbevoegd bestuursorgaan worden ingediend (art. 6:15 lid 3 Awb).",
+  "uitzondering": "Is er geen sprake van misbruik, dan telt de datum van indiening bij het onbevoegde orgaan.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   158
+  ],
+  "citaat": "wordt ingediend of indien de betrokkene bewust is afgeweken van de correct weergegeven"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verzendbewijs van de e-mail",
+   "onderzoek van de servicedesk van de gemeente",
+   "schermprints van de website van de gemeente"
+  ],
+  "wat_gaf_doorslag": "De gemachtigde koos bewust een e-mailadres dat niet voor bezwaar tegen parkeerbelasting was bedoeld."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHAMS:2018:87",
+   "ECLI:NL:RBNHO:2016:6394",
+   "ECLI:NL:RVS:2012:BW5287"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 6:15 lid 3 Awb",
+  "art. 7:3 onder a Awb",
+  "art. 4:17 lid 6 onder c Awb",
+  "art. 8:75 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vermeld op de naheffing en op de website duidelijk het postadres voor bezwaar, zodat de juiste adressering kenbaar is.",
+   "raakt": "bezwaar",
+   "bron": [
+    111
+   ],
+   "citaat": "Daaruit volgt dat de juiste adressering van tegen de naheffingsaanslag te richten bezwaar voor belanghebbende"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "communicatie",
+  "klantcontact"
+ ],
+ "klantuitleg": "Wilt u bezwaar maken tegen een rekening voor het parkeren, stuur het bezwaar dan naar het adres dat op de rekening en op de website van de gemeente staat. Stuurt u het naar een ander adres, dan kan het bezwaar te laat zijn en kijkt niemand meer naar de rekening zelf. Maak daarom binnen zes weken bezwaar en bewaar bewijs dat u het op tijd hebt verstuurd.",
+ "gemeente": "Beverwijk",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

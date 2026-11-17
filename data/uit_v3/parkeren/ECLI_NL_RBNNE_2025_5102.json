@@ -1,0 +1,148 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBNNE:2025:5102",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "kenmerk": null,
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "automobilist (parkeerder)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een automobilist kreeg een Wahv-boete (boete voor foutparkeren) van € 129. Hij ging in beroep bij de kantonrechter tegen de officier van justitie.",
+ "titel": "Vrij parkeren op feestdag geldt niet voor blauwe streep",
+ "kern": {
+  "zin": "Vrij parkeren op een feestdag neemt de schijfplicht bij de blauwe streep niet weg; de boete blijft staan.",
+  "bron": [
+   24
+  ],
+  "citaat": "worden niet opgeschort door het vrij parkeren aan de andere kant"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 9 mei 2025 kreeg een automobilist een boete van € 129, omdat hij bij een blauwe streep zonder parkeerschijf stond.",
+   "bron": [
+    10
+   ],
+   "citaat": "De opgelegde boete bedraagt € 129,00 (inclusief administratiekosten)"
+  },
+  {
+   "zin": "De parkeerder zegt dat op feestdagen zonder voorwaarden vrij parkeren gold, ook bij blauwe strepen.",
+   "bron": [
+    18
+   ],
+   "citaat": "zonder verdere voorwaarden voor plekken met blauwe strepen"
+  },
+  {
+   "zin": "De officier van justitie vindt dat het vrij parkeren alleen gold voor het betaalde deel.",
+   "bron": [
+    19
+   ],
+   "citaat": "het vrij parkeren alleen gold voor de parkeerplaatsen"
+  },
+  {
+   "zin": "Volgens de kantonrechter is het voor de parkeerder zijn eigen risico dat hij de streep en de borden miste.",
+   "bron": [
+    25
+   ],
+   "citaat": "komt voor zijn rekening en risico"
+  },
+  {
+   "zin": "Het beroep wordt afgewezen en er komt geen lagere boete.",
+   "bron": [
+    25
+   ],
+   "citaat": "De kantonrechter ziet geen reden om de boete te matigen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete blijft staan; beroep van de parkeerder ongegrond.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de boete betalen, omdat die niet lager wordt.",
+  "bron": [
+   25
+  ],
+  "citaat": "De kantonrechter ziet geen reden om de boete te matigen"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Hij zag de blauwe streep en de borden niet en meende dat vrij parkeren gold.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het niet zien van de streep en de borden blijft voor zijn rekening.",
+    "bron": [
+     25
+    ],
+    "citaat": "komt voor zijn rekening en risico"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat hij niet bewust verkeerd heeft geparkeerd doet niet ter zake",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Op feestdagen mocht hij zonder voorwaarden vrij parkeren, ook bij blauwe strepen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Alleen de betaalde kant valt onder de feestdagregel.",
+    "bron": [
+     24
+    ],
+    "citaat": "geldt voor de zijde waar betaald parkeren geldt"
+   },
+   "bruikbare_zin": {
+    "citaat": "de zijde waar betaald parkeren geldt",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerschijf blijft verplicht bij een blauwe streep, ook als de rest van het terrein op een feestdag gratis is.",
+  "type": "regel",
+  "reikwijdte": "parkeerterrein met een blauwe streep naast betaald parkeren",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "worden niet opgeschort door het vrij parkeren aan de andere kant"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "foto's in het dossier",
+   "foto van de parkeerautomaat (door de parkeerder ingebracht)",
+   "Google Street View (door de kantonrechter geraadpleegd)"
+  ],
+  "wat_gaf_doorslag": "De Street View-beelden lieten zien dat het terrein in twee delen was verdeeld."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Wahv"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "klantcontact",
+  "bebording-verkeersbesluit"
+ ],
+ "klantuitleg": "Bij een blauwe streep moet u een parkeerschijf neerleggen, ook op een feestdag waarop het vrij parkeren geldt. Dat u de streep of de borden niet zag, is volgens de rechter uw eigen verantwoordelijkheid. Bezwaar heeft op dit punt weinig kans, tenzij u kunt aantonen dat de bebording onduidelijk was.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "niet genoemd als partij of besluitgemeente in de uitspraak",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,141 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:7352",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder met een parkeervergunning",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een automobilist kreeg in Rotterdam een naheffing (de rekening achteraf) voor parkeren in de Crooswijkseweg. Hij ging in beroep bij de rechtbank Rotterdam, omdat hij via de gemeentelijke app had betaald.",
+ "titel": "Rekening achteraf vernietigd: hij mocht op de gemeentelijke app vertrouwen",
+ "kern": {
+  "zin": "De rechter vernietigde de naheffing, omdat de parkeerder alleen op de gemeentelijke app mocht vertrouwen.",
+  "bron": [
+   19
+  ],
+  "citaat": "eiser zijn onderzoeksplicht niet heeft geschonden door uitsluitend af te gaan op de applicatie van de gemeente"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeercontroleur constateerde dat de auto aan de Crooswijkseweg in Rotterdam stond zonder betaling.",
+   "bron": [
+    16
+   ],
+   "citaat": "stond geparkeerd op locatie Crooswijkseweg te Rotterdam zonder dat er aan de betaalplicht is voldaan"
+  },
+  {
+   "zin": "Hij zegt dat hij in de app zone 652 koos en dat er eenheden van zijn tegoed werden afgeschreven.",
+   "bron": [
+    17
+   ],
+   "citaat": "Zone 652 waar de Crooswijkseweg onder valt kon door eiser worden aangeklikt"
+  },
+  {
+   "zin": "De gemeente stelde dat de vergunningsvoorwaarden golden, zodat hij zonder vergunning had geparkeerd.",
+   "bron": [
+    18
+   ],
+   "citaat": "Parkeren in strijd met de vergunningsvoorwaarden wordt gezien als parkeren zonder vergunning"
+  },
+  {
+   "zin": "Volgens de rechter hoefde hij niet zelf de borden, de website of zijn vergunning na te lopen.",
+   "bron": [
+    19
+   ],
+   "citaat": "dat eiser ter controle van de informatie van de applicatie alsnog de borden ter plaatse"
+  },
+  {
+   "zin": "De rechter besliste zelf en haalde de naheffing weg.",
+   "bron": [
+    23,
+    31
+   ],
+   "citaat": "nu zelf een beslissing en vernietigt de naheffingsaanslag"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd; griffierecht terug, geen proceskosten",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing vervalt, de gemeente betaalt het griffierecht van 50 euro terug, en een vergoeding voor proceskosten blijft uit.",
+  "bron": [
+   23,
+   24,
+   31
+  ],
+  "citaat": "nu zelf een beslissing en vernietigt de naheffingsaanslag"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Hij betaalde via de gemeentelijke app voor zone 652, en het systeem accepteerde die betaling.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de app het verschil in winkeltijden niet toonde, en dat dit niet op de parkeerder afgewenteld kon worden.",
+    "bron": [
+     19
+    ],
+    "citaat": "het voor de gebruiker van de applicatie niet zichtbaar is"
+   },
+   "bruikbare_zin": {
+    "citaat": "eiser zijn onderzoeksplicht niet heeft geschonden door uitsluitend af te gaan op de applicatie van de gemeente",
+    "bron": [
+     19
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Vertrouwen op de gemeentelijke app is geen schending van de onderzoeksplicht, ook niet als een afwijkend regime geldt dat de app niet toont.",
+  "type": "regel",
+  "reikwijdte": "Gemeentelijke parkeerapp die de zone toont, terwijl een afwijkend winkeltijdenregime niet zichtbaar is",
+  "uitzondering": "Als het afwijkende regime zo vanzelfsprekend is dat de parkeerder het had moeten begrijpen",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "dat eiser ter controle van de informatie van de applicatie alsnog de borden ter plaatse"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "schermafbeelding van de app met zone 652 en het tijdvak",
+   "toekenningsbrief van de parkeervergunning"
+  ],
+  "wat_gaf_doorslag": "De gemeente erkende dat de app het winkeltijdenregime niet toonde."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:72 lid 3 onder b Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Toon in de betaalapp de afwijkende regels per zone, zoals winkeltijden.",
+   "raakt": "betaalapp",
+   "bron": [
+    18
+   ],
+   "citaat": "in de applicatie niet is te zien dat bepaalde uitzonderingen ten aanzien van zones"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "betaalapp",
+  "bezwaar"
+ ],
+ "klantuitleg": "Heeft u via de gemeentelijke app voor de juiste zone betaald, dan kan bezwaar tegen een naheffing zinvol zijn. Bewaar daarom een schermafbeelding van uw betaling, zodat u die kunt aantonen. Of bezwaar slaagt, hangt af van de situatie en het bewijs.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

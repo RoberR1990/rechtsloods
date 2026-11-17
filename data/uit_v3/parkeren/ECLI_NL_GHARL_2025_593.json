@@ -1,0 +1,180 @@
+{
+ "ecli": "ECLI:NL:GHARL:2025:593",
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Zwolle",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Zwolle een naheffingsaanslag (een rekening achteraf voor niet betaalde parkeerbelasting). Hij ging bij het gerechtshof Arnhem-Leeuwarden in hoger beroep omdat hij de kosten op die rekening te hoog vond.",
+ "titel": "Kosten van automaten en handhavers mogen in de parkeerrekening",
+ "kern": {
+  "zin": "Het hof vond dat de kosten van parkeerautomaten en van handhaving door BOA's (handhavers) mochten meetellen in de kosten van de naheffing.",
+  "bron": [
+   84
+  ],
+  "citaat": "hangen de kosten die verband houden met de parkeerautomaten meer dan zijdelings samen met de inning van niet betaalde parkeerbelastingen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Zwolle legde de parkeerder een naheffingsaanslag parkeerbelasting op.",
+   "bron": [
+    17
+   ],
+   "citaat": "De heffingsambtenaar heeft aan belanghebbende een naheffingsaanslag parkeerbelasting opgelegd"
+  },
+  {
+   "zin": "De parkeerder vond dat het onderhoud van parkeerautomaten en de handhaving door BOA's niet in de kostenraming horen.",
+   "bron": [
+    20
+   ],
+   "citaat": "niet kunnen worden aangemerkt als kosten die samenhangen met de inning van niet betaalde parkeerbelastingen"
+  },
+  {
+   "zin": "De rechter vond dat de kosten van de parkeerautomaten meetellen, omdat die nodig zijn om te zien wie niet heeft betaald.",
+   "bron": [
+    84
+   ],
+   "citaat": "De parkeerautomaten zijn namelijk onontbeerlijk om vast te stellen welke parkeerbelastingen niet zijn betaald"
+  },
+  {
+   "zin": "De gemeente zei dat in de handhavingskosten alleen kosten voor parkeerbelasting zitten, en de parkeerder sprak dat niet tegen.",
+   "bron": [
+    85
+   ],
+   "citaat": "dat in deze kostenpost uitsluitend kosten zijn meegenomen die betrekking hebben op de heffing van parkeerbelasting"
+  },
+  {
+   "zin": "De rechter vond ook de handhavingskosten verhaalbaar, want het is aan de gemeente hoe zij controleert.",
+   "bron": [
+    85
+   ],
+   "citaat": "nu het aan de gemeente is om de wijze van controle in te richten"
+  },
+  {
+   "zin": "Het hof bevestigde de uitspraak van de rechtbank.",
+   "bron": [
+    91
+   ],
+   "citaat": "Het Hof bevestigt de uitspraak van de Rechtbank."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Kosten van automaten en BOA-handhaving tellen mee; hoger beroep ongegrond.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffingsaanslag met de kosten betalen en krijgt geen griffierecht of proceskosten terug.",
+  "bron": [
+   89,
+   91
+  ],
+  "citaat": "Het Hof ziet geen aanleiding voor een vergoeding van het griffierecht of de proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "Onderhoud van parkeerautomaten hoort niet in de kostenraming.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Parkeerautomaten zijn nodig om vast te stellen wie niet betaalde, dus de kosten tellen mee.",
+    "bron": [
+     84
+    ],
+    "citaat": "De parkeerautomaten zijn namelijk onontbeerlijk om vast te stellen welke parkeerbelastingen niet zijn betaald"
+   },
+   "bruikbare_zin": {
+    "citaat": "De parkeerautomaten zijn namelijk onontbeerlijk om vast te stellen welke parkeerbelastingen niet zijn betaald",
+    "bron": [
+     84
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "Handhaving door BOA's hoort niet in de kostenraming.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het gaat om kosten voor de heffing van parkeerbelasting en niet voor Mulder-feiten (boetes voor verkeersovertredingen).",
+    "bron": [
+     85
+    ],
+    "citaat": "Dergelijke kosten hangen meer dan zijdelings samen met de inning van niet betaalde parkeerbelastingen"
+   },
+   "bruikbare_zin": {
+    "citaat": "nu het aan de gemeente is om de wijze van controle in te richten",
+    "bron": [
+     85
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Kosten van handhaving door BOA's tellen mee in de naheffingskosten als ze alleen over de heffing van parkeerbelasting gaan.",
+  "type": "regel",
+  "reikwijdte": "Kostenverhaal bij een naheffingsaanslag parkeerbelasting; kosten die alleen de heffing van parkeerbelasting betreffen.",
+  "uitzondering": "Kosten die aan Mulder-feiten zijn toe te rekenen tellen niet mee.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   85
+  ],
+  "citaat": "Dergelijke kosten hangen meer dan zijdelings samen met de inning van niet betaalde parkeerbelastingen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "kostenraming bij de verordening",
+   "uitleg van de gemeente over de handhavingskosten"
+  ],
+  "wat_gaf_doorslag": "De gemeente zei onweersproken dat de handhavingskosten alleen over parkeerbelasting gaan."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2014:777",
+   "ECLI:NL:HR:2010:BL0990",
+   "ECLI:NL:HR:2009:BC3691"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 234 lid 5 en 6 Gemeentewet",
+  "art. 2 en 3 Besluit gemeentelijke parkeerbelastingen",
+  "art. 8 Verordening Parkeerbelastingen 2022 Zwolle"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Maak in de kostenraming duidelijk dat de BOA-kosten alleen over parkeerbelasting gaan en niet over Mulder-feiten.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    85
+   ],
+   "citaat": "dat in deze kostenpost uitsluitend kosten zijn meegenomen die betrekking hebben op de heffing van parkeerbelasting"
+  },
+  {
+   "actie": "Onderbouw dat de kosten van parkeerautomaten nodig zijn om niet betaalde parkeerbelasting vast te stellen.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    84
+   ],
+   "citaat": "De parkeerautomaten zijn namelijk onontbeerlijk om vast te stellen welke parkeerbelastingen niet zijn betaald"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "verordening-beleid",
+  "bezwaar",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "De kosten op de rekening achteraf mogen volgens de rechter ook het onderhoud van parkeerautomaten en het werk van handhavers bevatten. Dat is dus op zichzelf geen reden om de kosten te laten verlagen. Bezwaar heeft vooral zin als u kunt laten zien dat een kostenpost niets met het innen van parkeerbelasting te maken heeft.",
+ "gemeente": "Zwolle",
+ "reden_gemeente_leeg": null,
+ "zekerheid": "hoog",
+ "schema": "v3",
+ "relevant": true,
+ "dubbel_van": null,
+ "kenmerk": null
+}

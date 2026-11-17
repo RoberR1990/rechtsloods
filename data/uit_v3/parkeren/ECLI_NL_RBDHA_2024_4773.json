@@ -1,0 +1,143 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2024:4773",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "naheffingskosten",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Leiden",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De gemeente Leiden legde een parkeerder een naheffing van 66,70 euro op. De parkeerder ging in beroep bij de rechtbank Den Haag, omdat de kosten in de verordening volgens hem te hoog stonden.",
+ "titel": "Verordening met fout bedrag: naheffing blijft staan",
+ "kern": {
+  "zin": "De rechter liet de naheffing staan, want de gemeente rekende uiteindelijk niet meer kosten dan het wettelijke maximum.",
+  "bron": [
+   17
+  ],
+  "citaat": "niet meer kosten in rekening gebracht dan is toegestaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde de parkeerder een naheffing van 66,70 euro op.",
+   "bron": [
+    15
+   ],
+   "citaat": "een naheffingsaanslag parkeerbelasting opgelegd ten bedrage van € 66,70"
+  },
+  {
+   "zin": "De parkeerder vond de verordening niet geldig, omdat het kostenmaximum te hoog stond.",
+   "bron": [
+    16
+   ],
+   "citaat": "onverbindend is omdat daarin een maximaal in rekening te brengen bedrag aan kosten staat"
+  },
+  {
+   "zin": "Na bezwaar haalde de gemeente 10 cent eraf, omdat het kostenmaximum lager lag.",
+   "bron": [
+    15
+   ],
+   "citaat": "een ambtshalve vermindering verleend van € 0,10 vanwege het toegestane maximum"
+  },
+  {
+   "zin": "De rechter zag dat de gemeente uiteindelijk niet meer kosten rekende dan mag.",
+   "bron": [
+    17
+   ],
+   "citaat": "niet meer kosten in rekening gebracht dan is toegestaan"
+  },
+  {
+   "zin": "Een fout bedrag in de verordening maakt de aanslag niet vanzelf ongeldig.",
+   "bron": [
+    17
+   ],
+   "citaat": "betekent niet dat de naheffingsaanslag om die reden alsnog moet worden vernietigd"
+  },
+  {
+   "zin": "De parkeerder krijgt geen proceskosten terug, want de rechter ziet daar geen reden toe.",
+   "bron": [
+    19
+   ],
+   "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffing blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan en de parkeerder moet die dus betalen.",
+  "bron": [
+   21
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De verordening noemt een te hoog maximum aan kosten, dus de naheffing moet weg.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat de gemeente niet meer kosten rekende dan toegestaan.",
+    "bron": [
+     17
+    ],
+    "citaat": "niet meer kosten in rekening gebracht dan is toegestaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "betekent niet dat de naheffingsaanslag om die reden alsnog moet worden vernietigd",
+    "bron": [
+     17
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een fout kostenbedrag in een verordening maakt een aanslag niet vanzelf ongeldig.",
+  "type": "regel",
+  "reikwijdte": "Fout bedrag in de verordening, terwijl het opgelegde bedrag onder het wettelijke maximum blijft",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   17
+  ],
+  "citaat": "betekent niet dat de naheffingsaanslag om die reden alsnog moet worden vernietigd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 234 Gemeentewet",
+  "Besluit gemeentelijke parkeerbelastingen"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer de kostenmaxima in de verordening tegen het Besluit en herstel een fout bedrag direct.",
+   "raakt": "verordening-beleid",
+   "bron": [
+    17
+   ],
+   "citaat": "Dat in de Verordening ten onrechte een bedrag van € 66,60 in plaats van € 66,50 staat"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "tarief-naheffing",
+  "verordening-beleid"
+ ],
+ "klantuitleg": "Een naheffing is terecht als u niet of te weinig heeft betaald voor het parkeren. In deze zaak stond er een fout bedrag in de verordening, maar de gemeente rekende uiteindelijk niet meer dan toegestaan. Vindt u een naheffing te hoog, dan kunt u bezwaar maken; winst is niet gegarandeerd.",
+ "gemeente": "Leiden",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

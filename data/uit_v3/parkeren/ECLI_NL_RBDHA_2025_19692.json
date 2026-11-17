@@ -1,0 +1,186 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2025:19692",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Leiden",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffing parkeerbelasting van de gemeente Leiden van € 103,50. Hij ging in beroep bij de rechtbank Den Haag, omdat hij vond dat de aanslag ten onrechte was opgelegd.",
+ "titel": "Niet duidelijk genoeg dat hier betaald moest worden",
+ "kern": {
+  "zin": "De rechter vernietigde de aanslag, omdat niet duidelijk genoeg was dat hier betaald moest worden.",
+  "bron": [
+   22
+  ],
+  "citaat": "De heffingsambtenaar heeft dan ook niet aannemelijk gemaakt dat het ter plaatste voldoende kenbaar was"
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een naheffing van € 103,50 opgelegd.",
+   "bron": [
+    16
+   ],
+   "citaat": "is aan belanghebbende een naheffingsaanslag opgelegd ten bedrage van € 103,50"
+  },
+  {
+   "zin": "Op die plek mocht alleen met vergunning of na betaling worden geparkeerd.",
+   "bron": [
+    15
+   ],
+   "citaat": "als een plaats waar mag worden geparkeerd met een geldige parkeervergunning of tegen betaling van parkeerbelasting"
+  },
+  {
+   "zin": "De parkeerder gebruikte een app die geen zone toonde en vroeg na bij iemand anders.",
+   "bron": [
+    18
+   ],
+   "citaat": "Hij heeft gebruikgemaakt van een parkeerapp, die geen specifieke zone aangaf"
+  },
+  {
+   "zin": "Volgens de gemeente staan de borden vast duidelijk, en app-fouten zijn voor de parkeerder.",
+   "bron": [
+    20
+   ],
+   "citaat": "een eventuele fout in de parkeerapp voor rekening en risico van belanghebbende komt"
+  },
+  {
+   "zin": "De rechter zag geen borden die betaald parkeren aangaven, en vernietigde daarom de aanslag.",
+   "bron": [
+    22,
+    31
+   ],
+   "citaat": "kan verder niet worden vastgesteld dat op of rondom het terrein waarop belanghebbende heeft geparkeerd borden zijn geplaatst"
+  },
+  {
+   "zin": "De aanslag vervalt en de gemeente betaalt het griffierecht terug.",
+   "bron": [
+    34
+   ],
+   "citaat": "het betaalde griffierecht van € 53,-"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Beroep gegrond; aanslag vernietigd, griffierecht en proceskosten vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De aanslag vervalt, en de gemeente betaalt het griffierecht, € 41,50 proceskosten, € 14,50 reiskosten en € 27 verletkosten.",
+  "bron": [
+   32,
+   34,
+   26
+  ],
+  "citaat": "veroordeelt de heffingsambtenaar in de proceskosten van belanghebbende tot een"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Uit de bebording en de parkeerapp bleek niet duidelijk dat betaald parkeren gold.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter zag op de borden geen aanwijzing voor betaald parkeren.",
+    "bron": [
+     22
+    ],
+    "citaat": "niet worden vastgesteld dat op of rondom het terrein waarop belanghebbende heeft geparkeerd borden zijn geplaatst"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet aannemelijk gemaakt dat het ter plaatste voldoende kenbaar was",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De parkeerapp gaf geen zone aan, dus de parkeerder ging ervan uit dat hij niet hoefde te betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zegt dat een app-fout voor de parkeerder blijft en dat hij zelf moet controleren.",
+    "bron": [
+     22
+    ],
+    "citaat": "Een parkeerder kan niet zonder meer uitgaan van de juistheid van de parkeerapplicatie"
+   },
+   "bruikbare_zin": {
+    "citaat": "Zijn onderzoeksplicht houdt ook in dat hij controleert of deze informatie juist is",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De parkeerder vroeg een schadevergoeding voor de vele uren die hij aan de zaak besteedde.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Alleen tijd voor de zitting en de reis telt mee; ander tijdverlies niet.",
+    "bron": [
+     24
+    ],
+    "citaat": "Overig tijdverzuim voor bijvoorbeeld het opstellen van processtukken of het opvragen van informatie vallen hier niet onder"
+   },
+   "bruikbare_zin": {
+    "citaat": "Overig tijdverzuim voor bijvoorbeeld het opstellen van processtukken",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Betalen moet zo duidelijk zijn dat er geen misverstand over kan bestaan.",
+  "type": "regel",
+  "reikwijdte": "Duidelijkheid van betaald parkeren op een plek",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "zodanig kenbaar dient te zijn gemaakt dat redelijkerwijs geen misverstand kan bestaan omtrent de verschuldigdheid daarvan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "foto van een bord aan het begin van de straat",
+   "dossier en verhandelde zaak op zitting"
+  ],
+  "wat_gaf_doorslag": "Het bord was alleen zichtbaar vanaf één route, en de gemeente kon niet uitsluiten dat de parkeerder een andere route nam."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHDHA:2019:2020",
+   "ECLI:NL:GHDHA:2024:311"
+  ]
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Zorg dat er bij elke toegang tot de zone bebording staat, niet alleen bij een van de wegen.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    22
+   ],
+   "citaat": "Het is de rechtbank niet gebleken dat de locatie niet via een andere route kan worden bereikt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Een parkeerapp is niet vanzelf betrouwbaar: u moet zelf controleren of er betaald moet worden. Maar de gemeente moet ook duidelijk maken dat er betaald moet worden, en dat was hier niet genoeg aangetoond. Heeft u geen bord of automaat gezien die dat aangaf, dan kunt u dat in bezwaar of beroep naar voren brengen, maar er is geen garantie.",
+ "gemeente": "Leiden",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

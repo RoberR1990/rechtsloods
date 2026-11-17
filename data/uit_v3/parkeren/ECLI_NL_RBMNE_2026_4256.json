@@ -1,0 +1,40 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2026:4256",
+ "relevant": true,
+ "onderwerp": "parkeerverbod",
+ "sub": "wegslepen",
+ "kenmerk": null,
+ "zaaktype": "verkeersbesluit",
+ "partijen": {"burger": "parkeerder", "wederpartij": "gemeente Utrecht (college)", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "De parkeerder procedeerde bij de rechtbank tegen de gemeente Utrecht. Het college had zijn auto laten wegslepen van het Janskerkhof, omdat er een tijdelijk parkeerverbod gold.",
+ "titel": "Wegslepen was terecht door tijdelijk parkeerverbod",
+ "kern": {"zin": "De rechter vond dat de gemeente het verbod aannemelijk maakte en dat de parkeerder zelf had moeten nagaan welke regels golden.", "bron": [16], "citaat": "Het is eisers verantwoordelijkheid om na te gaan wat de op deze plek geldende verkeersregels waren"},
+ "samenvatting": [
+  {"zin": "De gemeente liet op 10 oktober 2025 de auto van de parkeerder op het Janskerkhof wegslepen.", "bron": [10], "citaat": "met een last onder bestuursdwang op 10 oktober 2025 mocht wegslepen van het Janskerkhof in Utrecht"},
+  {"zin": "De parkeerder zei dat het verbodsbord voor 10 en 11 oktober niet bij zijn plek stond.", "bron": [10], "citaat": "maar dat bord stond volgens eiser niet op de plek waar hij zijn auto had geparkeerd"},
+  {"zin": "De rechter vond dat de gemeente met foto's en een kaart aannemelijk maakte dat het verbod gold.", "bron": [16], "citaat": "Op basis van de foto’s en de overzichtskaart die in het dossier zitten"},
+  {"zin": "Volgens de rechter moest de parkeerder zelf nagaan welke regels op die plek golden.", "bron": [16], "citaat": "Het is eisers verantwoordelijkheid om na te gaan wat de op deze plek geldende verkeersregels waren"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; wegsleepkosten blijven voor de parkeerder.",
+ "gevolg_betrokkene": {"zin": "De parkeerder moet de wegsleepkosten zelf betalen en krijgt het griffierecht niet terug.", "bron": [20], "citaat": "Omdat eiser geen gelijk krijgt, krijgt hij het griffierecht ook niet terug"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "borden-onduidelijk", "burger_zegt": "Het verbodsbord voor 10 en 11 oktober stond niet bij zijn plek, dus de borden waren onduidelijk.", "oordeel": "verworpen", "waarom": {"zin": "Dat er ook borden voor andere data stonden, maakte het verbod van 10 en 11 oktober niet ongeldig.", "bron": [16], "citaat": "maar dat betekent niet dat het parkeerverbod van 10 tot en met 11 oktober 2025 niet gold"}, "bruikbare_zin": {"citaat": "Deze parkeerverboden bestonden naast elkaar", "bron": [16]}}
+ ],
+ "rechtsregel": {"zin": "Voor een last onder bestuursdwang moet het college eerst aannemelijk maken dat er een overtreding was.", "type": "regel", "reikwijdte": "wegslepen met een last onder bestuursdwang wegens overtreding van een tijdelijk parkeerverbod", "uitzondering": null, "herkomst": "oordeel rechter", "bron": [15], "citaat": "Het is aan het college om aannemelijk te maken dat eiser die overtreding heeft begaan"},
+ "bewijs": {"bewijslast_bij": "wederpartij", "bewijsmiddelen": ["foto's van het tijdelijke verbodsbord", "overzichtskaart"], "wat_gaf_doorslag": "De foto's en de kaart lieten zien dat het verbod ook bij de plek van de auto gold."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "uitspraak bevestigt het handelen; geen tekortkoming van de gemeente genoemd",
+ "raakt": ["bebording-verkeersbesluit", "bezwaar", "klantcontact"],
+ "klantuitleg": "De gemeente mocht uw auto wegslepen, omdat er een tijdelijk parkeerverbod gold en u had moeten nakijken welke regels er golden. Dat er ook borden voor andere data stonden, maakte het verbod niet ongeldig. Wilt u dit betwisten, dan helpt bewijs dat het bord echt niet bij uw plek stond; op dit punt is de kans klein.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

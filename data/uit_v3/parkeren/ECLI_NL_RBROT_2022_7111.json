@@ -1,0 +1,168 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2022:7111",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner met een bewonersvergunning procedeert tegen de gemeente Rotterdam over naheffingen (de rekening achteraf). De Rechtbank Rotterdam oordeelt daarover als enkelvoudige kamer.",
+ "titel": "Tijdelijk kenteken niet stopgezet: naheffingen blijven staan",
+ "kern": {
+  "zin": "De naheffingen zijn terecht opgelegd, omdat de vergunning niet aan een actief kenteken was gekoppeld.",
+  "bron": [
+   33
+  ],
+  "citaat": "Daarmee was geen sprake van parkeren met de parkeervergunning"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner vergat per ongeluk het tijdelijke kenteken stop te zetten.",
+   "bron": [
+    23
+   ],
+   "citaat": "Per abuis is eiser vergeten het actieve tijdelijke kenteken stop te zetten"
+  },
+  {
+   "zin": "De gemeente vernietigde uit coulance twee van de vier naheffingen.",
+   "bron": [
+    23
+   ],
+   "citaat": "Verweerder heeft uit coulance twee van de vier naheffingsaanslagen vernietigd"
+  },
+  {
+   "zin": "De bewoner zegt dat hij niet wist dat de kentekenkoppeling teruggezet moest worden.",
+   "bron": [
+    25
+   ],
+   "citaat": "Eiser was zich er niet bewust van dat de kentekenkoppeling teruggezet moest worden"
+  },
+  {
+   "zin": "De gemeente zegt dat er in strijd met de vergunningsvoorwaarden is geparkeerd en niet is betaald.",
+   "bron": [
+    25
+   ],
+   "citaat": "nu in strijd is geparkeerd met de vergunningsvoorwaarden en eiser ook niet via de reguliere betaalmethode"
+  },
+  {
+   "zin": "De rechter oordeelde dat de bewoner niet had betaald, omdat het kenteken niet actief was.",
+   "bron": [
+    33
+   ],
+   "citaat": "Alleen al daarom kan niet worden gezegd dat eiser voor de auto"
+  },
+  {
+   "zin": "De rechter vond de eerste naheffing niet te laat verstuurd.",
+   "bron": [
+    38
+   ],
+   "citaat": "Dat sprake is van te late verzending is in onderhavige niet gebleken"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; vergunning was niet gekoppeld aan actief kenteken",
+ "gevolg_betrokkene": {
+  "zin": "De naheffingen blijven staan, en er is geen vergoeding van proceskosten.",
+  "bron": [
+   41,
+   43
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Hij zegt dat zijn bewonersvergunning geldig was en dat hij daarom niet hoefde te betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat zonder actief kenteken niet met de vergunning is geparkeerd, dus niet betaald.",
+    "bron": [
+     33
+    ],
+    "citaat": "Alleen al daarom kan niet worden gezegd dat eiser voor de auto"
+   },
+   "bruikbare_zin": {
+    "citaat": "Daarmee was geen sprake van parkeren met de parkeervergunning",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Hij zegt dat één fout niet tot vier naheffingen mag leiden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de eerste naheffing niet te laat verstuurd, dus niet onevenredig.",
+    "bron": [
+     38
+    ],
+    "citaat": "Dat sprake is van te late verzending is in onderhavige niet gebleken"
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank acht die benadering juist",
+    "bron": [
+     37
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Naheffingen na één fout beoordeelt de rechter samen als één reactie op die fout.",
+  "type": "regel",
+  "reikwijdte": "een reeks naheffingen na één fout, zoals een vergeten tijdelijk kenteken",
+  "uitzondering": "Een trage verzending van de eerste naheffing kan de reeks onevenredig maken.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   37
+  ],
+  "citaat": "dat de serie naheffingsaanslagen als één reactie daarop wordt beschouwd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHDHA:2020:1202",
+   "ECLI:NL:GHDHA:2013:4515",
+   "ECLI:NL:RVS:2022:285"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 lid 1 onder b Gemeentewet",
+  "art. 234 lid 6 Gemeentewet",
+  "art. 20 Algemene Wet Rijksbelasting",
+  "art. 2 lid 4 onder c Verordening parkeerregulering en parkeerbelastingen 2021"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Verstuur de eerste naheffing zonder onnodig uitstel, zodat de houder de fout eerder kan zien.",
+   "raakt": "tarief-naheffing",
+   "bron": [
+    38
+   ],
+   "citaat": "Denkbaar is dat een overheid onzorgvuldig handelt door veel tijd te laten gaan over de verzending"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Met een bewonersvergunning mag u alleen parkeren als het kenteken van uw auto actief op de vergunning staat. Staat een tijdelijk kenteken nog actief, dan kan een naheffing volgen, ook als u dat niet bedoelde. Bij een reeks naheffingen kijkt de rechter of het geheel evenredig is, dus neem bij bezwaar al uw bewijs mee.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

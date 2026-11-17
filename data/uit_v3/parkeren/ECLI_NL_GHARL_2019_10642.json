@@ -1,0 +1,176 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2019:10642",
+ "relevant": true,
+ "kenmerk": null,
+ "dubbel_van": null,
+ "onderwerp": "parkeerverbod",
+ "sub": "wahv-boete",
+ "zaaktype": "wahv-boete",
+ "partijen": {
+  "burger": "bedrijf (slagerij)",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een slager kreeg een boete van € 95 omdat hij parkeerde op een plek om te laden en te lossen in Rotterdam. Hij ging in hoger beroep tegen de officier van justitie bij het gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Boete voor parkeren op laad- en losplek blijft staan",
+ "kern": {
+  "zin": "De rechter vond dat parkeren op een laad- en losplek niet mag en dat de slager geen ontheffing had.",
+  "bron": [
+   30
+  ],
+  "citaat": "Van een ontheffing voor de betrokkene om op deze gelegenheid te mogen parkeren, blijkt niets"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een slager kreeg een boete van € 95 voor parkeren op een plek voor onmiddellijk laden en lossen.",
+   "bron": [
+    21
+   ],
+   "citaat": "parkeren op een gelegenheid voor onmiddellijk laden en lossen van goederen"
+  },
+  {
+   "zin": "De slager zei dat hij de steeg achter zijn winkel altijd voor zijn bedrijf mocht gebruiken.",
+   "bron": [
+    22
+   ],
+   "citaat": "altijd gebruik mogen maken in het kader van zijn bedrijf"
+  },
+  {
+   "zin": "De handhaver zag tien minuten lang geen laad- of losactiviteiten.",
+   "bron": [
+    24
+   ],
+   "citaat": "Gedurende 10 minuten geen laad- en losactiviteiten waargenomen."
+  },
+  {
+   "zin": "De rechter zei dat een oude e-mail van de gemeente dat er niet werd gehandhaafd, van voor het verkeersbesluit was.",
+   "bron": [
+    30
+   ],
+   "citaat": "deze e-mail dateert van voor het verkeersbesluit"
+  },
+  {
+   "zin": "Ook de plannen van de slager om de steeg te kopen veranderden niets, omdat de steeg openbare weg is.",
+   "bron": [
+    31
+   ],
+   "citaat": "behoort de steeg zoals die thans is ingericht tot de openbare weg"
+  },
+  {
+   "zin": "Het hof bevestigde de beslissing van de kantonrechter.",
+   "bron": [
+    36
+   ],
+   "citaat": "bevestigt de beslissing van de kantonrechter"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Boete van € 95 blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van € 95 blijft staan.",
+  "bron": [
+   32,
+   21
+  ],
+  "citaat": "daarvoor terecht aan de betrokkene een sanctie is opgelegd"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente had afgesproken dat er geen boetes werden gegeven en de steeg werd jarenlang zo gebruikt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De e-mail over niet handhaven was van voor het verkeersbesluit en er was geen ontheffing.",
+    "bron": [
+     30
+    ],
+    "citaat": "maar deze e-mail dateert van voor het verkeersbesluit"
+   },
+   "bruikbare_zin": {
+    "citaat": "Van een ontheffing voor de betrokkene om op deze gelegenheid te mogen parkeren, blijkt niets",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij is bezig de steeg van de gemeente te kopen, dus het is zijn terrein.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De verkoop was niet doorgegaan en de steeg hoort tot de openbare weg, dus de verboden gelden.",
+    "bron": [
+     31
+    ],
+    "citaat": "zodat de bij en krachtens de Wegenverkeerswet 1994 geldende geboden en verboden onverkort gelden"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De kantonrechter in Rotterdam had eerder boetes van hem op nul gezet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof is niet gebonden aan die uitspraken, en die gingen over de tijd vóór het verkeersbesluit.",
+    "bron": [
+     32
+    ],
+    "citaat": "Het hof is niet gebonden aan een dergelijke uitspraak."
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Parkeren op een laad- en losplek (bord E7) is niet toegestaan, tenzij de parkeerder daarvoor een ontheffing heeft.",
+  "type": "regel",
+  "reikwijdte": "Plekken die met bord E7 zijn aangewezen als laad- en losgelegenheid.",
+  "uitzondering": "Een ontheffing voor die plek.",
+  "herkomst": "wet",
+  "bron": [
+   30
+  ],
+  "citaat": "Parkeren op een gelegenheid voor laden- en lossen is niet toegestaan."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring handhaver in het zaakoverzicht",
+   "verkeersbesluit van 27 juli 2015",
+   "e-mails van de gemeente"
+  ],
+  "wat_gaf_doorslag": "Het verkeersbesluit met bord E7 kwam na de e-mail waarin stond dat niet werd gehandhaafd."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "bord E7, bijlage I RVV 1990",
+  "Wahv",
+  "Wegenverkeerswet 1994"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet in elke afspraak om niet te handhaven een einddatum en zeg dat een later verkeersbesluit de afspraak vervangt.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    30
+   ],
+   "citaat": "maar deze e-mail dateert van voor het verkeersbesluit"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Op een laad- en losplek mag u niet parkeren, ook niet als u er jarenlang stond. Een oude afspraak dat er niet wordt beboet, geldt niet meer als er daarna een verkeersbesluit is genomen. Bezwaar heeft weinig kans, tenzij u een ontheffing of een duidelijke, geldende afspraak kunt laten zien.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "zekerheid": "hoog"
+}

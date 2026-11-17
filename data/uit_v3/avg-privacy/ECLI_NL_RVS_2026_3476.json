@@ -1,0 +1,188 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:3476",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "brp-wijziging",
+ "kenmerk": null,
+ "zaaktype": "brp-registratie",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Land van Cuijk",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een inwoner wil haar naam en geboortedatum in de BRP (de basisregistratie persoonsgegevens) laten wijzigen en haar ouders laten toevoegen. De gemeente Land van Cuijk ging bij de Raad van State in hoger beroep tegen de rechtbank Oost-Brabant.",
+ "titel": "Gemeente mocht BRP-wijziging weigeren: afgifte stukken niet behoorlijk onderzocht",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente aannemelijk had gemaakt dat bij de afgifte van de paspoorten en de identiteitskaart kennelijk geen goed onderzoek was gedaan.",
+  "bron": [
+   76
+  ],
+  "citaat": "het college heeft aannemelijk gemaakt dat voorafgaand aan de afgifte van deze documenten kennelijk geen behoorlijk onderzoek heeft plaatsgevonden"
+ },
+ "samenvatting": [
+  {
+   "zin": "De inwoner vroeg de gemeente haar persoonsgegevens in de BRP te wijzigen.",
+   "bron": [
+    21
+   ],
+   "citaat": "verzocht om op grond van artikel 2.58 van de Wet brp haar persoonsgegevens te wijzigen"
+  },
+  {
+   "zin": "De rechtbank gaf haar gelijk: de paspoorten en de identiteitskaart lieten samen met een gezichtsvergelijking zien dat de gegevens juist waren.",
+   "bron": [
+    36
+   ],
+   "citaat": "volgt uit de paspoorten en de identiteitskaart, in samenhang met het gezichtsvergelijkend onderzoek, buiten redelijke twijfel"
+  },
+  {
+   "zin": "De gemeente zei in hoger beroep dat een Chinese identiteitskaart niet vanuit het buitenland kan worden aangevraagd.",
+   "bron": [
+    44
+   ],
+   "citaat": "dat identiteitskaarten niet vanuit het buitenland kunnen worden aangevraagd"
+  },
+  {
+   "zin": "De rechter vond de uitleg van de inwoner over de identiteitskaart in strijd met de ambtsberichten (officiële landenrapporten).",
+   "bron": [
+    47
+   ],
+   "citaat": "Die verklaring komt niet overeen met wat in de ambtsberichten staat over de afgifte van een identiteitskaart"
+  },
+  {
+   "zin": "Bij de paspoorten bleef onduidelijk op welke geboorteakte en welk gezinsregister (hukou) het paspoort van 2007 was gebaseerd.",
+   "bron": [
+    57
+   ],
+   "citaat": "Het is dus niet duidelijk op basis van welke geboorteakte en hukou het paspoort is afgegeven"
+  },
+  {
+   "zin": "Het besluit van de gemeente bleef daarom in stand.",
+   "bron": [
+    78
+   ],
+   "citaat": "Dat betekent dat het besluit van het college van 16 juli 2021 in stand blijft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Gemeente wint hoger beroep; BRP-gegevens blijven ongewijzigd",
+ "gevolg_betrokkene": {
+  "zin": "De gegevens van de inwoner in de BRP blijven zoals ze waren en er is geen vergoeding van proceskosten.",
+  "bron": [
+   76,
+   79
+  ],
+  "citaat": "om wijziging van haar persoonsgegevens in de brp terecht afgewezen"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gegevens-onjuist",
+   "burger_zegt": "Haar paspoorten, identiteitskaart en andere stukken bewijzen dat haar gegevens in de BRP niet kloppen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Uit deze stukken volgt niet buiten redelijke twijfel dat de gegevens juist zijn.",
+    "bron": [
+     76
+    ],
+    "citaat": "Uit deze documenten volgt dus niet buiten redelijke twijfel is dat de daarin vermelde persoonsgegevens juist zijn"
+   },
+   "bruikbare_zin": {
+    "citaat": "het college aannemelijk heeft gemaakt dat voorafgaand aan de afgifte van de paspoorten kennelijk geen behoorlijk onderzoek heeft plaatsgevonden",
+    "bron": [
+     55
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het verschil in geboortedatum komt door de Chinese maankalender; volgens ChatGPT is het dezelfde datum.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ging eraan voorbij, omdat er geen vraagstelling of bronvermelding bij het ChatGPT-antwoord was.",
+    "bron": [
+     48
+    ],
+    "citaat": "Hij heeft daarbij niet de vraagstelling overgelegd en geen nadere bronvermelding gegeven voor het door ChatGPT gegeven antwoord"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gezichtsvergelijking van Securitech laat zien dat dezelfde persoon op alle foto's staat.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter kwam niet toe aan dit onderzoek.",
+    "bron": [
+     76
+    ],
+    "citaat": "De Afdeling komt daarom niet toe aan de beoordeling van het onderzoek van Securitech"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de gemeente aannemelijk maakt dat bij de afgifte van een brondocument kennelijk geen goed onderzoek is gedaan, kan de aanvrager tegenbewijs (bewijs van de andere kant) leveren, ook uit andere bronnen.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om BRP-gegevens te wijzigen op basis van buitenlandse brondocumenten",
+  "uitzondering": "Algemene twijfels over het afgifteland zijn niet genoeg; er moeten omstandigheden uit de aanvraag zelf bij komen.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   46
+  ],
+  "citaat": "dan is het aan de aanvrager om met tegenbewijs te komen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "ambtsberichten over China",
+   "verklaringen van de inwoner op de zitting",
+   "notariële verklaring",
+   "gezichtsvergelijkend onderzoek"
+  ],
+  "wat_gaf_doorslag": "De inwoner gaf wisselende en niet onderbouwde verklaringen over hoe de documenten tot stand kwamen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2025:4980",
+   "ECLI:NL:RVS:2022:1198",
+   "ECLI:NL:RVS:2014:641"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2.58 Wet brp",
+  "art. 2.8 lid 2 onder d Wet brp",
+  "art. 2.10 lid 2 Wet brp"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij twijfel aan buitenlandse stukken vast wat officiële landenrapporten (ambtsberichten) zeggen over de afgifte en of de uitleg van de burger daarbij past.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    47
+   ],
+   "citaat": "Uit de verschillende door het college aangehaalde ambtsberichten volgt dat Chinese identiteitskaarten niet vanuit het buitenland kunnen worden aangevraagd"
+  },
+  {
+   "actie": "Noteer tegenstrijdige verklaringen van de aanvrager over geboorteakte en gezinsregister, ook die op zittingen.",
+   "raakt": "burgerzaken-brp",
+   "bron": [
+    56
+   ],
+   "citaat": "tijdens de zittingen bij de rechtbank en de Afdeling wisselende verklaringen afgelegd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "burgerzaken-brp",
+  "bezwaar"
+ ],
+ "klantuitleg": "Wilt u uw gegevens in de BRP laten wijzigen met buitenlandse documenten, dan kijkt de gemeente of die documenten betrouwbaar zijn. Echte documenten zijn niet altijd genoeg: de gemeente mag ze weigeren als zij kan laten zien dat er bij de afgifte duidelijk geen goed onderzoek is gedaan. Zorg dat uw uitleg klopt met uw documenten en dat u die kunt onderbouwen.",
+ "gemeente": "Land van Cuijk",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

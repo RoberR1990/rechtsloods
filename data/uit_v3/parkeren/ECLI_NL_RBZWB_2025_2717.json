@@ -1,0 +1,159 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:2717",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Tilburg",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg van de gemeente Tilburg een naheffing (de rekening achteraf), omdat hij niet op tijd had betaald. Hij ging in beroep bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Betaling via app te laat; het bedrag blijft staan",
+ "kern": {
+  "zin": "De rechter vond dat de betaling niet binnen de redelijke termijn kwam, dus het bedrag blijft staan.",
+  "bron": [
+   24
+  ],
+  "citaat": "die aanmelding heeft gedaan binnen de redelijke termijn"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 14 maart 2024 stond een auto in Tilburg geparkeerd zonder betaling.",
+   "bron": [
+    14
+   ],
+   "citaat": "stond op 14 maart 2024 omstreeks 13:12 uur stil op een gereguleerde parkeerplaats"
+  },
+  {
+   "zin": "De parkeerder zegt dat hij wilde betalen, maar dat de parkeerapp de betaling niet goed verwerkte.",
+   "bron": [
+    23
+   ],
+   "citaat": "maar dat er iets mis is gegaan in de parkeerapp Yellowbrick"
+  },
+  {
+   "zin": "De gemeente legde een naheffing van 62,38 euro op.",
+   "bron": [
+    15
+   ],
+   "citaat": "opgelegd van € 62,38 bestaande uit een bedrag aan belasting van € 1"
+  },
+  {
+   "zin": "De rechter vond dat de betaling om 13:45 uur te laat kwam, want de auto stond al om 13:12 uur.",
+   "bron": [
+    24
+   ],
+   "citaat": "terwijl de auto in elk geval al om 13:12 uur was geparkeerd"
+  },
+  {
+   "zin": "Omdat het beroep ongegrond is, krijgt de parkeerder de kosten van de rechtszaak (griffierecht) niet terug.",
+   "bron": [
+    28
+   ],
+   "citaat": "Omdat het beroep ongegrond is"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; bedrag van 62,38 euro blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing van 62,38 euro betalen en krijgt het griffierecht niet terug.",
+  "bron": [
+   15,
+   28
+  ],
+  "citaat": "opgelegd van € 62,38 bestaande uit een bedrag aan belasting van € 1"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "Hij wilde betalen, maar de parkeerapp heeft de betaling niet geregistreerd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de betaling te laat, want de redelijke termijn voor de app begint direct na het parkeren.",
+    "bron": [
+     24
+    ],
+    "citaat": "een redelijke termijn moet worden gegund voor het verrichten van uitvoeringshandelingen"
+   },
+   "bruikbare_zin": {
+    "citaat": "een redelijke termijn moet worden gegund voor het verrichten van uitvoeringshandelingen",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij had goede bedoelingen en wilde de parkeerbelasting betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat goede bedoelingen niet tellen, omdat parkeerbelasting een objectieve belasting is.",
+    "bron": [
+     26
+    ],
+    "citaat": "De parkeerbelasting is een zogenoemde objectieve belasting, waarbij opzet, schuld en intentie geen rol spelen"
+   },
+   "bruikbare_zin": {
+    "citaat": "waarbij opzet, schuld en intentie geen rol spelen",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij parkeerbelasting tellen goede bedoelingen niet mee; de betaling moet bij aanvang van het parkeren zijn gedaan.",
+  "type": "regel",
+  "reikwijdte": "parkeerbelasting die niet bij aanvang is betaald",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   26,
+   24
+  ],
+  "citaat": "De parkeerbelasting is een zogenoemde objectieve belasting"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "tijdstip van de controle",
+   "tijdstip van de betaling in de parkeerapp"
+  ],
+  "wat_gaf_doorslag": "Het tijdstip: de auto stond al om 13:12 uur, de betaling kwam om 13:45 uur."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 225 lid 2 Gemeentewet",
+  "art. 1 onderdeel a Verordening parkeerbelasting 2024 Tilburg"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij elke betaling via app het tijdstip van de controle en van de betaling vast in het dossier.",
+   "raakt": "betaalapp",
+   "bron": [
+    24
+   ],
+   "citaat": "terwijl de auto in elk geval al om 13:12 uur was geparkeerd"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "betaalapp"
+ ],
+ "klantuitleg": "Parkeerbelasting moet bij aanvang van het parkeren betaald zijn, ook als u met een app betaalt. Een betaling na de controle, ook het maximale dagtarief, maakt de rekening achteraf niet ongedaan. Wilt u bezwaar maken, leg dan het tijdstip van uw parkeren en van uw betaling naast elkaar.",
+ "gemeente": "Tilburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

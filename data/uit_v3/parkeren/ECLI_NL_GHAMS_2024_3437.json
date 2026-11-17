@@ -1,0 +1,160 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "ecli": "ECLI:NL:GHAMS:2024:3437",
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente (naam geanonimiseerd)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg een rekening achteraf (naheffing) omdat hij een verkeerd kenteken had ingevoerd. De gemeente trok de rekening in, maar de parkeerder ging toch in hoger beroep tegen de gemeente bij het gerechtshof Amsterdam.",
+ "titel": "Rekening al ingetrokken: toch geen vergoeding voor kosten bezwaar",
+ "kern": {
+  "zin": "Het hof wees het hoger beroep af: de rekening was al ingetrokken en de parkeerder voerde zelf een fout kenteken in.",
+  "bron": [
+   23
+  ],
+  "citaat": "Belanghebbende heeft immers zelf niet op de voorgeschreven wijze aangifte gedaan door een onjuist kenteken in te voeren"
+ },
+ "samenvatting": [
+  {
+   "zin": "De auto van de parkeerder stond in april 2022 geparkeerd op een plek met betaald parkeren, zonder dat volledig was betaald; daarom kreeg hij een rekening achteraf.",
+   "bron": [
+    16
+   ],
+   "citaat": "waarvan belanghebbende kentekenhouder is, op 11 april 2022 om 13:29 uur stond geparkeerd"
+  },
+  {
+   "zin": "De parkeerder zei dat hij wel had betaald, maar voor een verkeerd kenteken.",
+   "bron": [
+    17
+   ],
+   "citaat": "dat belanghebbende wel parkeerbelasting heeft voldaan, maar voor een verkeerd kenteken"
+  },
+  {
+   "zin": "De gemeente vond het bezwaar te laat, maar behandelde het toch, trok de rekening in en gaf geen kostenvergoeding.",
+   "bron": [
+    18
+   ],
+   "citaat": "het bezwaarschrift toch is behandeld en het bezwaar bij wijze van ambtshalve conclusie gegrond is verklaard"
+  },
+  {
+   "zin": "Het hof vond dat het bezwaar wel op tijd was, omdat de laatste dag een feestdag was.",
+   "bron": [
+    22
+   ],
+   "citaat": "De bezwaartermijn is daarom verlengd tot en met maandag 30 mei 2022"
+  },
+  {
+   "zin": "Toch hielp dat niet: de rekening was al ingetrokken, dus het hof zag geen belang meer bij vernietiging.",
+   "bron": [
+    23
+   ],
+   "citaat": "heeft belanghebbende echter geen redelijk belang"
+  },
+  {
+   "zin": "Omdat de parkeerder zelf het verkeerde kenteken invoerde, is het intrekken niet de schuld van de gemeente en komt er geen kostenvergoeding.",
+   "bron": [
+    23
+   ],
+   "citaat": "Onder die omstandigheden kan niet worden gezegd dat het herroepen van de naheffingsaanslag aan de heffingsambtenaar is te wijten"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Rekening al ingetrokken; hof geeft geen kostenvergoeding en geen proceskostenveroordeling.",
+ "gevolg_betrokkene": {
+  "zin": "De rekening is weg, maar de parkeerder krijgt geen vergoeding van de kosten van bezwaar of beroep.",
+  "bron": [
+   26
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "Ik heb wel betaald, maar voor een verkeerd kenteken.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente verklaarde het bezwaar zelf gegrond en trok de rekening in.",
+    "bron": [
+     18
+    ],
+    "citaat": "het bezwaar bij wijze van ambtshalve conclusie gegrond is verklaard, dat de naheffingsaanslag wordt ingetrokken"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "Mijn bezwaar was niet te laat, want de laatste dag viel op een feestdag.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het hof rekende de feestdagen mee en vond het bezwaar op tijd.",
+    "bron": [
+     22
+    ],
+    "citaat": "De bezwaartermijn is daarom verlengd tot en met maandag 30 mei 2022"
+   },
+   "bruikbare_zin": {
+    "citaat": "de laatste dag van de bezwaartermijn, donderdag 26 mei 2022, een algemeen erkende feestdag is",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als de parkeerder zelf een fout maakt bij het aanmelden, zoals een verkeerd kenteken, is het intrekken van de rekening niet aan de gemeente te wijten en is er geen kostenvergoeding.",
+  "type": "regel",
+  "reikwijdte": "Kostenvergoeding bij het intrekken van een naheffing parkeerbelasting na bezwaar (art. 7:15 lid 2 Awb).",
+  "uitzondering": "Anders als het intrekken wel aan de gemeente te wijten is.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   23
+  ],
+  "citaat": "Onder die omstandigheden kan niet worden gezegd dat het herroepen van de naheffingsaanslag aan de heffingsambtenaar is te wijten"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De parkeerder voerde zelf een onjuist kenteken in."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2022:1033",
+   "ECLI:NL:HR:2017:3226"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:15 lid 2 Awb",
+  "art. 22j Awr",
+  "art. 1 lid 1 Algemene termijnenwet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij bezwaar tegen een naheffing eerst de bezwaartermijn en tel gelijkgestelde feestdagen mee.",
+   "raakt": "bezwaar",
+   "bron": [
+    22
+   ],
+   "citaat": "een algemeen erkende feestdag is, terwijl de vrijdag daarna met een algemene feestdag is gelijkgesteld"
+  }
+ ],
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Heeft u betaald voor een verkeerd kenteken, dan kan de gemeente de rekening achteraf intrekken. Voerde u het verkeerde kenteken zelf in, dan krijgt u meestal geen vergoeding van uw kosten voor het bezwaar. Valt de laatste dag van de bezwaartermijn op een feestdag, dan loopt de termijn langer door.",
+ "gemeente": null,
+ "zekerheid": "hoog"
+}

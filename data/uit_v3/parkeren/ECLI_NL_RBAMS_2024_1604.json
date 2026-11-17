@@ -1,0 +1,151 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2024:1604",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Amsterdam (het college)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner uit Amsterdam vroeg een bewonersparkeervergunning aan voor een auto met een dieselmotor. Het college van de gemeente Amsterdam wees die aanvraag af, en de rechtbank Amsterdam oordeelde over het beroep.",
+ "titel": "Geen bewonersvergunning voor oude diesel (Euro 1)",
+ "kern": {
+  "zin": "De rechter vond de weigering terecht, omdat de auto in een emissieklasse valt die de verordening uitsluit.",
+  "bron": [
+   22
+  ],
+  "citaat": "Dit betekent dat de aanvraag van eiser voor een bewonersparkeervergunning terecht is geweigerd door het college."
+ },
+ "samenvatting": [
+  {
+   "zin": "Het college wees de aanvraag af, omdat uit controle bleek dat de auto een oude dieselmotor had.",
+   "bron": [
+    11
+   ],
+   "citaat": "omdat uit de controle is gebleken dat eiser een voertuig met een dieselmotor"
+  },
+  {
+   "zin": "De bewoner vond dat het bewijs over de emissieklasse niet deugde en dat het college niets had afgewogen.",
+   "bron": [
+    20,
+    24
+   ],
+   "citaat": "is in het bestreden besluit onvoldoende met objectieve bewijsstukken gemotiveerd"
+  },
+  {
+   "zin": "Het college gebruikte de uitstootgegevens van de RDW als bewijs.",
+   "bron": [
+    22
+   ],
+   "citaat": "Het college heeft de Rijksdienst Wegverkeer (RDW) uitstootgegevens van het kenteken"
+  },
+  {
+   "zin": "De rechter zei dat de regel dwingend is en geen ruimte laat voor een afweging van de financiële situatie.",
+   "bron": [
+    25
+   ],
+   "citaat": "heeft een dwingendrechtelijk karakter en laat geen ruimte voor een belangenafweging"
+  },
+  {
+   "zin": "Het beroep is ongegrond, dus de bewoner krijgt geen vergoeding van proceskosten.",
+   "bron": [
+    30
+   ],
+   "citaat": "Eiser krijgt daarom geen vergoeding van zijn proceskosten"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; weigering blijft staan, geen proceskostenvergoeding",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner krijgt geen bewonersvergunning voor deze auto en hoeft geen griffierecht te betalen.",
+  "bron": [
+   18,
+   22
+  ],
+  "citaat": "Dit betekent dat eiser geen griffierecht hoeft te betalen"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "Door geldgebrek kan hij geen nieuwere auto kopen, en de weigering is daardoor onevenredig zwaar.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat de financiële situatie niet meetelt, omdat de regel geen ruimte laat voor een afweging.",
+    "bron": [
+     25
+    ],
+    "citaat": "heeft een dwingendrechtelijk karakter en laat geen ruimte voor een belangenafweging"
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank is met het college van oordeel dat er geen ruimte bestaat",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het college had niet genoeg bekend gemaakt, en er had een overgangsperiode moeten zijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de regels voldoende bekend, en er waren overgangsbepalingen.",
+    "bron": [
+     26
+    ],
+    "citaat": "Naar het oordeel van de rechtbank zijn de regels voldoende kenbaar en openbaar toegankelijk"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft eiser voldoende de tijd gehad om te anticiperen",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bewonersvergunning wordt geweigerd als de auto een dieselmotor heeft van Euro 3 of lager.",
+  "type": "regel",
+  "reikwijdte": "Bewonersvergunningen voor dieselauto's van Euro 3 of lager",
+  "uitzondering": "Hardheidsclausule alleen bij incidentele, schrijnende gevallen",
+  "herkomst": "lokale verordening",
+  "bron": [
+   21
+  ],
+  "citaat": "een bewonersvergunning wordt geweigerd indien deze wordt aangevraagd voor een motorvoertuig"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "RDW-uitstootgegevens van het kenteken"
+  ],
+  "wat_gaf_doorslag": "De RDW-gegevens; de bewoner had geen tegenbewijs."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 32 eerste lid Parkeerverordening (Amsterdam)",
+  "art. 32 tweede lid aanhef en onder a Parkeerverordening (Amsterdam)",
+  "art. 46 Parkeerverordening (Amsterdam)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "Rechter vond de regels voldoende kenbaar; geen gemeentelijke actie nodig.",
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een bewonersvergunning krijgt u niet voor een dieselauto van Euro 3 of lager. Financiële redenen tellen daarbij niet mee, want de regel laat geen ruimte voor een afweging. Wilt u weten of uw auto onder deze regel valt, dan kunt u de uitstootgegevens van uw kenteken bij de RDW controleren.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

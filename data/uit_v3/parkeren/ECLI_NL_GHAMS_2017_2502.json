@@ -1,0 +1,173 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": null,
+ "dubbel_van": null,
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": null,
+ "ecli": "ECLI:NL:GHAMS:2017:2502",
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (met gemachtigde)",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder ging in hoger beroep tegen de gemeente Amsterdam over een naheffingsaanslag (rekening achteraf) voor parkeerbelasting. Het gerechtshof Amsterdam deed uitspraak.",
+ "titel": "Geen oordeel over parkeerrekening na eigen verzoek tot terugverwijzing",
+ "kern": {
+  "zin": "De rechter liet de burger in hoger beroep niet alsnog een oordeel over de rekening vragen, omdat hij in beroep zelf om terugverwijzing had gevraagd.",
+  "bron": [
+   74
+  ],
+  "citaat": "in strijd met een goede procesorde om in hoger beroep de juistheid van de onderhavige naheffingsaanslag"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde een rekening achteraf voor parkeerbelasting op, omdat de auto na een scancontrole geparkeerd stond zonder betaling.",
+   "bron": [
+    26
+   ],
+   "citaat": "geparkeerd stond zonder dat parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "In beroep vroeg de burger de rechtbank om de zaak terug te wijzen naar de gemeente, om opnieuw te beslissen.",
+   "bron": [
+    70
+   ],
+   "citaat": "de zaak terug te wijzen naar de verweerder met de opdracht opnieuw te beslissen"
+  },
+  {
+   "zin": "De gemeente vroeg de rechtbank ook om de zaak terug te verwijzen.",
+   "bron": [
+    71
+   ],
+   "citaat": "verzoekt om de zaak terug te verwijzen naar de heffingsambtenaar"
+  },
+  {
+   "zin": "De rechtbank gaf de burger gelijk, omdat de gemeente hem niet had gehoord.",
+   "bron": [
+    60
+   ],
+   "citaat": "gegrond wegens schending van de hoorplicht"
+  },
+  {
+   "zin": "In hoger beroep zei de burger dat de rekening niet in stand kon blijven.",
+   "bron": [
+    49
+   ],
+   "citaat": "de naheffingsaanslag niet in stand kan blijven"
+  },
+  {
+   "zin": "De rechter vond dat niet eerlijk tegenover de gemeente en keek alleen naar de hoogte van de kostenvergoeding.",
+   "bron": [
+    74
+   ],
+   "citaat": "in strijd met een goede procesorde om in hoger beroep de juistheid van de onderhavige naheffingsaanslag"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; alleen procesorde en kosten, geen oordeel over de rekening.",
+ "gevolg_betrokkene": {
+  "zin": "De uitspraak van de rechtbank blijft staan: de gemeente moet opnieuw op het bezwaar beslissen en betaalt € 45 griffierecht en € 124 proceskosten.",
+  "bron": [
+   19,
+   20,
+   21,
+   85
+  ],
+  "citaat": "draagt verweerder op een nieuwe uitspraak op bezwaar te nemen"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "hoorplicht-motivering",
+   "burger_zegt": "De gemeente heeft mij in bezwaar niet gehoord.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank vernietigde het besluit omdat de gemeente niet kon aantonen dat de uitnodiging was verstuurd.",
+    "bron": [
+     60
+    ],
+    "citaat": "gegrond wegens schending van de hoorplicht"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "In hoger beroep: de rekening zelf klopt niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dat nieuwe punt mocht niet meer, omdat de burger in beroep om terugverwijzing had gevraagd.",
+    "bron": [
+     74
+    ],
+    "citaat": "in strijd met een goede procesorde om in hoger beroep de juistheid van de onderhavige naheffingsaanslag"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De rechtbank gebruikte een te lage weegfactor voor de kostenvergoeding.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank mocht weegfactor 0,5 gebruiken, omdat het beroepschrift kort was.",
+    "bron": [
+     79
+    ],
+    "citaat": "kon volstaan met toekennen van een kostenvergoeding op basis van een wegingsfactor van 0,5"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "In hoger beroep mogen nieuwe gronden, tenzij een goede procesorde zich daartegen verzet.",
+  "type": "regel",
+  "reikwijdte": "Hoger beroep in belastingzaken, zoals parkeerbelasting",
+  "uitzondering": "Een goede procesorde kan nieuwe gronden uitsluiten, bijvoorbeeld als beide partijen in eerste aanleg om terugverwijzing vroegen.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   69
+  ],
+  "citaat": "Als regel is het dan ook toegestaan in hoger beroep nieuwe beroepsgronden, argumenten en bewijsmiddelen aan te voeren"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "scan- en bevragingsrapport"
+  ],
+  "wat_gaf_doorslag": "De burger had in beroep zelf om terugverwijzing gevraagd; daarom kon hij in hoger beroep niet meer om een oordeel over de rekening vragen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2010:BO6786"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:106 lid 1 Awb",
+  "art. 25 lid 1 AWR",
+  "art. 8:75 Awb",
+  "art. 2 lid 1 Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zorg dat u kunt aantonen dat de uitnodiging voor de hoorzitting echt is verstuurd.",
+   "raakt": "bezwaar",
+   "bron": [
+    59
+   ],
+   "citaat": "niet aannemelijk kan maken dat de brief van 15 oktober 2015 ook daadwerkelijk is verzonden"
+  }
+ ],
+ "raakt": [
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Deze uitspraak zegt niet of de rekening voor het parkeren terecht was. Als u in beroep zelf vraagt om opnieuw te beslissen, kunt u in hoger beroep niet alsnog een oordeel over die rekening vragen. Noem daarom al vroeg alle punten die voor u belangrijk zijn.",
+ "gemeente": "Amsterdam",
+ "zekerheid": "hoog"
+}

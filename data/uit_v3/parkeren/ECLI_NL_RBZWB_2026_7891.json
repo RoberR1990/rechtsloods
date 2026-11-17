@@ -1,0 +1,129 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:7891",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Tilburg",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeert tegen de gemeente Tilburg bij de rechtbank Zeeland-West-Brabant. Het gaat om een naheffing (de rekening achteraf) voor parkeren met een huurauto, waarbij de parkeerapp niet was aangezet.",
+ "titel": "Huurauto zonder parkeerapp: onbedoeld niet betaald, rekening blijft",
+ "kern": {
+  "zin": "De rechter zegt dat parkeerbelasting een objectieve belasting is, dus schuld of opzet telt niet mee en de rekening blijft.",
+  "bron": [
+   22
+  ],
+  "citaat": "De parkeerbelasting is geen boete, maar een objectieve belasting"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 10 juni 2025 stond de huurauto aan het Wilhelminapark, en om 16.00 uur zag een scanauto dat er niets was betaald.",
+   "bron": [
+    17
+   ],
+   "citaat": "Tijdens een controle omstreeks 16:00 uur op die datum"
+  },
+  {
+   "zin": "De parkeerder zegt dat hij de app vergat, omdat hij een huurauto had in plaats van zijn eigen auto.",
+   "bron": [
+    21
+   ],
+   "citaat": "Hij had per ongeluk de parkeerapp niet geactiveerd"
+  },
+  {
+   "zin": "De gemeente stuurde de rekening: € 49,93, omdat er voor die auto niets was betaald.",
+   "bron": [
+    18
+   ],
+   "citaat": "heeft naar aanleiding hiervan aan belanghebbende een naheffingsaanslag parkeerbelasting opgelegd"
+  },
+  {
+   "zin": "De rechter vindt dat de app-fout en de bijzondere situatie de naheffing niet ongedaan maken.",
+   "bron": [
+    22
+   ],
+   "citaat": "kunnen daarom niet tot vernietiging van de naheffingsaanslag leiden"
+  },
+  {
+   "zin": "Het beroep mislukt, en het griffierecht wordt niet vergoed.",
+   "bron": [
+    25
+   ],
+   "citaat": "krijgt belanghebbende het griffierecht niet vergoed"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; de naheffing van € 49,93 blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de parkeerder houdt de naheffing stand, en het griffierecht (de rechtbankkosten) komt niet terug.",
+  "bron": [
+   25
+  ],
+  "citaat": "Dit betekent dat de naheffingsaanslag parkeerbelasting terecht is opgelegd"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij had een huurauto en vergat de parkeerapp; dat was een eenmalige fout.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Of de parkeerder het bewust deed, telt niet mee; de belasting blijft verschuldigd.",
+    "bron": [
+     22
+    ],
+    "citaat": "het voor de verschuldigdheid van de parkeerbelasting niet relevant is"
+   },
+   "bruikbare_zin": {
+    "citaat": "waarbij opzet, schuld of intentie geen rol spelen",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeerder betaalt ook zonder schuld: niet betalen is genoeg voor een naheffing.",
+  "type": "regel",
+  "reikwijdte": "parkeerbelasting in Tilburg, ook bij vergissingen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   22
+  ],
+  "citaat": "De parkeerbelasting is geen boete, maar een objectieve belasting"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "controle met scanauto (10 juni 2025)",
+   "verklaring van de parkeerder"
+  ],
+  "wat_gaf_doorslag": "De scanauto-controle; niet in geschil dat er niet was betaald."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Gemeentewet (heffing van parkeerbelasting)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "geen bruikbare actie; standaard naheffing bevestigd",
+ "raakt": [
+  "betaalapp",
+  "bezwaar"
+ ],
+ "klantuitleg": "Parkeerbelasting moet u betalen zodra u parkeert, ook met een huurauto of als u de app vergeet. Blijft die betaling uit, dan krijgt u de rekening achteraf, ook als het een vergissing was. Een vergissing of een drukke dag maakt de rekening in zo'n geval niet ongeldig, dus controleer vóór u wegloopt of uw betaling actief is.",
+ "gemeente": "Tilburg",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

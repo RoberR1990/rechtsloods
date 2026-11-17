@@ -1,0 +1,180 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2022:6282",
+ "relevant": true,
+ "kenmerk": null,
+ "dubbel_van": null,
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": null,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Zwolle",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder in Zwolle kreeg een naheffing, omdat hij niet had betaald terwijl de dichtstbijzijnde parkeerautomaat kapot was. Hij ging in hoger beroep tegen de gemeente Zwolle bij het Gerechtshof Arnhem-Leeuwarden.",
+ "titel": "Parkeerautomaat kapot: parkeerder moet zelf op andere wijze betalen",
+ "kern": {
+  "zin": "De rechter vond de naheffing terecht: een kapotte automaat ontslaat niet van betalen, en wie zelf stopt met betalen draagt het gevolg.",
+  "bron": [
+   27,
+   28
+  ],
+  "citaat": "Het is de verantwoordelijkheid van de parkeerder om bij een defecte automaat ervoor te zorgen dat de parkeerbelasting wordt voldaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "De auto van de parkeerder stond op 18 februari 2020 om 22.41 uur aan de Kamperstraat in Zwolle.",
+   "bron": [
+    16
+   ],
+   "citaat": "op 18 februari 2020 om 22.41 geparkeerd stond aan de Kamperstraat te Zwolle"
+  },
+  {
+   "zin": "Een parkeercontroleur zag dat er niet was betaald, en de gemeente legde een naheffing op.",
+   "bron": [
+    18
+   ],
+   "citaat": "geparkeerd stond aan de Kamperstraat zonder dat de daarvoor verschuldigde parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De parkeerder zei dat de automaat kapot was en dat hij via een app probeerde te betalen, maar geen internet kreeg.",
+   "bron": [
+    25
+   ],
+   "citaat": "hij heeft geprobeerd om via een app de verschuldigde parkeerbelasting te voldoen"
+  },
+  {
+   "zin": "De gemeente vond de naheffing terecht en kon zich vinden in de kostenvergoeding die de rechtbank had toegekend.",
+   "bron": [
+    22,
+    31
+   ],
+   "citaat": "de heffingsambtenaar neemt tegengestelde standpunten in"
+  },
+  {
+   "zin": "De rechter vond dat een kapotte automaat de betaalplicht niet laat vervallen en dat de parkeerder zelf moet zorgen dat er op een andere manier wordt betaald.",
+   "bron": [
+    27
+   ],
+   "citaat": "Het is de verantwoordelijkheid van de parkeerder om bij een defecte automaat ervoor te zorgen dat de parkeerbelasting wordt voldaan"
+  },
+  {
+   "zin": "De parkeerder had zelf gekozen om te stoppen met betalen toen zijn vriendin wilde vertrekken, en die keuze komt voor zijn rekening.",
+   "bron": [
+    28
+   ],
+   "citaat": "De gevolgen van de keuze om de aldus verschuldigde parkeerbelasting in het geheel niet te voldoen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; naheffing blijft staan, eerder toegekende kostenvergoeding ook.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan, en de kostenvergoedingen van € 522 (bezwaar) en € 534 (beroep) die de rechtbank toekende, blijven ook staan.",
+  "bron": [
+   20,
+   37
+  ],
+  "citaat": "het bezwaar vastgesteld op € 522 en een vergoeding van € 534 toegekend voor de behandeling van het beroep"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De dichtstbijzijnde automaat was kapot en de app werkte niet omdat er geen internet was; hij probeerde wel te betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat een kapotte automaat de betaalplicht niet laat vervallen.",
+    "bron": [
+     27
+    ],
+    "citaat": "het feit dat een parkeerautomaat defect is, niet met zich brengt dat de betalingsverplichting komt te vervallen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het is de verantwoordelijkheid van de parkeerder om bij een defecte automaat ervoor te zorgen dat de parkeerbelasting wordt voldaan, eventueel op een andere manier",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Omdat hij stappen zette om te betalen en daarna met zijn vriendin wegreed, hoefde hij geen belasting meer te betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat wegrijden niet wegneemt dat belasting verschuldigd is voor de tijd dat de auto stond.",
+    "bron": [
+     28
+    ],
+    "citaat": "maakt namelijk niet dat geen parkeerbelasting is verschuldigd over de periode dat wel werd geparkeerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "maakt namelijk niet dat geen parkeerbelasting is verschuldigd over de periode dat wel werd geparkeerd",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De rechtbank gaf ten onrechte geen punt voor het bijwonen van de zitting bij de kostenvergoeding voor het beroep.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof vond dat die vergoeding bij een lichte zaak toch op € 534 uitkomt.",
+    "bron": [
+     32
+    ],
+    "citaat": "is sprake van een lichte zaak zodat in dit geval een wegingsfactor van 0,5 volstaat"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een kapotte parkeerautomaat laat de betaalplicht niet vervallen; de parkeerder moet zelf zorgen dat er op een andere manier wordt betaald.",
+  "type": "regel",
+  "reikwijdte": "Parkeerders die bij een defecte automaat zelf op een andere manier moeten betalen, bijvoorbeeld met een app.",
+  "uitzondering": "De parkeerder moet wel een redelijke termijn krijgen om te betalen; die termijn begint direct na het parkeren.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   27
+  ],
+  "citaat": "het feit dat een parkeerautomaat defect is, niet met zich brengt dat de betalingsverplichting komt te vervallen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Niet in geschil was dat de automaat kapot was; de parkeerder koos er zelf voor niet te betalen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:1995:AA3117"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 4 lid 1 Verordening parkeerbelastingen Zwolle 2020",
+  "art. 6 lid 1 Verordening parkeerbelastingen Zwolle 2020"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Gebruik bij de kostenvergoeding voor bezwaar de waarde per punt van het juiste jaar.",
+   "raakt": "bezwaar",
+   "bron": [
+    32
+   ],
+   "citaat": "abusievelijk van de waarde per punt van het voorgaande jaar is uitgegaan"
+  }
+ ],
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "betaalapp"
+ ],
+ "klantuitleg": "Is een parkeerautomaat kapot, dan moet u op een andere manier betalen, bijvoorbeeld met een app. Stopt u met betalen omdat u wilt wegrijden, dan blijft u de parkeerbelasting verschuldigd voor de tijd dat u stond. Bezwaar heeft weinig kans als u niet heeft betaald omdat de automaat kapot was.",
+ "gemeente": "Zwolle",
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,150 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2024:9635",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder procedeerde tegen de gemeente Den Haag over een naheffingsaanslag (de rekening achteraf) voor parkeerbelasting. De zaak ging naar de rechtbank Den Haag, team belastingrecht.",
+ "titel": "Mislukte betaling bij automaat, toch rekening voor parkeren",
+ "kern": {
+  "zin": "De naheffing blijft staan, omdat de betaling volgens de rechter mislukte en de parkeerder daar geen voldoende tegenbewijs voor leverde.",
+  "bron": [
+   22
+  ],
+  "citaat": "is eiseres er niet in geslaagd hierop voldoende tegenbewijs te leveren"
+ },
+ "samenvatting": [
+  {
+   "zin": "De naheffing volgde omdat er geen parkeergeld was betaald.",
+   "bron": [
+    17
+   ],
+   "citaat": "is geconstateerd dat voor de auto geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "Zij zegt dat zij wel betaalde, met bankafschriften als bewijs.",
+   "bron": [
+    19
+   ],
+   "citaat": "Eiseres stelt zich op het standpunt dat zij parkeerbelasting heeft voldaan"
+  },
+  {
+   "zin": "Volgens de gemeente was de betaling mislukt, dus er was niets betaald.",
+   "bron": [
+    20
+   ],
+   "citaat": "uit onderzoek blijkt dat de transactie van € 1,70 op 8 maart 2023 om 14:45 uur een mislukte betaaltransactie betreft"
+  },
+  {
+   "zin": "De rechter oordeelt dat er geen betaling van parkeerbelasting is geweest.",
+   "bron": [
+    22
+   ],
+   "citaat": "Er is daarmee geen sprake geweest van een betaling van parkeerbelasting"
+  },
+  {
+   "zin": "De parkeerder kon het tegenbewijs niet voldoende leveren.",
+   "bron": [
+    22
+   ],
+   "citaat": "is eiseres er niet in geslaagd hierop voldoende tegenbewijs te leveren"
+  },
+  {
+   "zin": "Een beroep op coulance (een uitzondering uit goedwil) ligt niet bij de rechter.",
+   "bron": [
+    23
+   ],
+   "citaat": "Voor zover eiseres verzoekt om coulance, is dit niet aan de rechtbank"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Betaling mislukt; de naheffing blijft staan, geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet € 75,40 betalen en krijgt geen proceskostenvergoeding.",
+  "bron": [
+   17,
+   25
+  ],
+  "citaat": "bestaande uit € 2,50 aan parkeerbelasting en € 72,90 aan kosten voor de naheffingsaanslag"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "De parkeerautomaat werkte niet goed, en dat mag niet voor mijn rekening komen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ziet geen feiten waaruit blijkt dat de parkeerder mocht vertrouwen op een geslaagde betaling.",
+    "bron": [
+     22
+    ],
+    "citaat": "Eiseres heeft geen feiten of omstandigheden gesteld waaruit blijkt dat zij"
+   },
+   "bruikbare_zin": {
+    "citaat": "neemt echter niet weg dat aan de eisen voor het opleggen van een naheffingsaanslag is voldaan",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Zij vraagt de gemeente om coulance.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "Dit valt buiten het oordeel van de rechter, omdat de gemeente daar zelf over beslist.",
+    "bron": [
+     23
+    ],
+    "citaat": "Voor zover eiseres verzoekt om coulance, is dit niet aan de rechtbank"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een naheffing mag alleen als de parkeerbelasting niet, of niet volledig, is betaald.",
+  "type": "regel",
+  "reikwijdte": "Naheffing van parkeerbelasting bij niet of niet volledig betaalde belasting",
+  "uitzondering": "De parkeerder mag tegenbewijs leveren.",
+  "herkomst": "wet",
+  "bron": [
+   21
+  ],
+  "citaat": "Naheffing van parkeerbelasting is alleen mogelijk als de belasting die moet worden voldaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "bankafschriften van de parkeerder",
+   "onderzoek van de gemeente naar de mislukte transactie"
+  ],
+  "wat_gaf_doorslag": "De uitleg van de gemeente over de mislukte betaling was geloofwaardig en de parkeerder toonde geen bewijs van betaling."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 20 lid 1 Algemene wet inzake rijksbelastingen"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver feitelijk oordeel over deze betaling; geen nieuwe actie uit deze uitspraak",
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Een naheffing is terecht als de parkeerbelasting niet is betaald, ook als u wel probeerde te betalen. Een kwitantie of een melding op de automaat helpt om te bewijzen dat de betaling is gelukt. Voor een coulance-verzoek kunt u zich wenden tot de gemeente, want de rechter gaat daar niet over.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

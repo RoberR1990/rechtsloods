@@ -1,0 +1,141 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:5123",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "wissen",
+ "kenmerk": null,
+ "zaaktype": "correctie-wissing",
+ "partijen": {
+  "burger": "burger (demonstrant)",
+  "wederpartij": "gemeente Amsterdam (burgemeester)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger vroeg de burgemeester van Amsterdam om een brief te verwijderen uit een rechtbankdossier. De burgemeester weigerde en de burger kwam te laat in beroep. De Raad van State beoordeelt het hoger beroep.",
+ "titel": "Beroep te laat; wel € 3.000 voor te lange procedures",
+ "kern": {
+  "zin": "De rechter vond dat de burger te laat in beroep ging zonder goede reden, maar kende hem € 3.000 toe omdat de procedures te lang duurden.",
+  "bron": [
+   25,
+   31
+  ],
+  "citaat": "niet is gebleken van bijzondere omstandigheden"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de burgemeester om een brief uit een rechtbankdossier te verwijderen; de burgemeester wees dat af.",
+   "bron": [
+    20
+   ],
+   "citaat": "verzocht om een aan hem geadresseerde brief te verwijderen uit een rechtbankdossier"
+  },
+  {
+   "zin": "De rechtbank verklaarde het beroep niet-ontvankelijk, omdat de burger niet op tijd een beroepschrift indiende.",
+   "bron": [
+    22
+   ],
+   "citaat": "niet tijdig een beroepschrift heeft ingediend"
+  },
+  {
+   "zin": "De burger zei dat de gemeente een fout maakte door het besluit niet van een datum te voorzien.",
+   "bron": [
+    24
+   ],
+   "citaat": "De gemeente heeft zelf een fout gemaakt door het bestreden besluit niet te voorzien van een datum."
+  },
+  {
+   "zin": "De rechter zag geen bijzondere omstandigheden die het te laat zijn verschoonbaar maken, en de gemeente had de vertraging niet veroorzaakt.",
+   "bron": [
+    25
+   ],
+   "citaat": "niet is gebleken van bijzondere omstandigheden"
+  },
+  {
+   "zin": "De rechter kende de burger wel € 3.000 schadevergoeding toe, omdat de procedure te lang duurde.",
+   "bron": [
+    31
+   ],
+   "citaat": "bedraagt het aan [appellant] toe te kennen bedrag € 3000,00"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep bleef te laat; € 3.000 voor te lange duur van procedures",
+ "gevolg_betrokkene": {
+  "zin": "De brief wordt niet verwijderd, maar de burger krijgt € 3.000 schadevergoeding van de Staat; de gemeente hoeft geen proceskosten te betalen.",
+  "bron": [
+   38,
+   34
+  ],
+  "citaat": "tot betaling aan [appellant] van een schadevergoeding van € 3.000,00"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "Ik was te laat omdat het besluit geen datum had en ik uitging van de datum op de nieuwe verzending (17 april 2020).",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er waren geen bijzondere omstandigheden en de vertraging kwam niet door de burgemeester.",
+    "bron": [
+     25
+    ],
+    "citaat": "niet is gebleken van bijzondere omstandigheden"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet veroorzaakt door het handelen of nalaten van de burgemeester",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het besluit per e-mail was duidelijk bekendgemaakt, dus de latere tweede verzending maakte de termijnoverschrijding niet verschoonbaar.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Alleen deze zaak: besluit per e-mail bekendgemaakt met vermelding van de beroepstermijn, burger werd bijgestaan",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "gelet op de duidelijke bekendmaking van het besluit bij e-mail van 9 april 2020"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "e-mail van 9 april 2020 met het besluit"
+  ],
+  "wat_gaf_doorslag": "Het besluit was duidelijk bekendgemaakt en de burger werd bijgestaan."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2024:1481"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 3:45 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet in elk besluit aan het slot de beroepstermijn en stuur het zo dat de bekendmaking duidelijk is.",
+   "raakt": "bezwaar",
+   "bron": [
+    22
+   ],
+   "citaat": "Het besluit bij de e-mail bevat aan het slot de mededeling dat tegen het besluit binnen zes weken beroep kan worden ingediend."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "privacy-fg"
+ ],
+ "klantuitleg": "U heeft zes weken om in beroep te gaan nadat u het besluit kreeg, ook als u het per e-mail krijgt. Een ontbrekende datum op het besluit is op zichzelf geen reden om later te mogen reageren. Twijfelt u over de termijn, dien dan voor de zekerheid snel uw beroep in.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

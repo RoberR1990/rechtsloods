@@ -1,0 +1,151 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:3880",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "kenbaarheid",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffingsaanslag parkeerbelasting (de rekening achteraf) van € 63,15 in Breda, omdat er niet was betaald. De parkeerder ging in beroep tegen de gemeente Breda bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Naheffing Breda vernietigd: niet duidelijk genoeg dat betaald parkeren gold",
+ "kern": {
+  "zin": "De rechter vernietigt de naheffing, omdat voor de parkeerder niet duidelijk genoeg was dat er betaald moest worden.",
+  "bron": [
+   28
+  ],
+  "citaat": "Naar het oordeel van de rechtbank is om voornoemde redenen niet voldaan aan het kenbaarheidsvereiste"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een scanauto stelde op 26 februari 2024 in Breda vast dat er niet was betaald.",
+   "bron": [
+    15
+   ],
+   "citaat": "Tijdens een controle omstreeks 09.25 uur is door middel van een scanauto geconstateerd dat geen parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "Daarop kreeg de parkeerder een naheffing van € 63,15, waarvan € 61,65 kosten zijn.",
+   "bron": [
+    16
+   ],
+   "citaat": "is aan belanghebbende een naheffingsaanslag opgelegd van € 63,15"
+  },
+  {
+   "zin": "De parkeerder zei dat niet duidelijk was dat er ter plaatse parkeerbelasting moest worden betaald.",
+   "bron": [
+    21
+   ],
+   "citaat": "Belanghebbende voert aan dat het voor haar onduidelijk was dat ter plaatse parkeerbelasting moet worden voldaan"
+  },
+  {
+   "zin": "De gemeente vond dat er een betaalautomaat bij de parkeerplaats stond en dat er borden hingen.",
+   "bron": [
+    22
+   ],
+   "citaat": "Volgens de heffingsambtenaar bevindt zich een betaalautomaat voor de parkeerplaats"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente op geen enkele manier had aangetoond dat er borden of apparatuur op de route stonden.",
+   "bron": [
+    26
+   ],
+   "citaat": "heeft op geen enkele wijze aannemelijk gemaakt dat op de route die belanghebbende heeft gereden"
+  },
+  {
+   "zin": "De rechter vernietigde de naheffing en de uitspraak op bezwaar, en veroordeelde de gemeente tot betaling van € 1.100,50 aan proceskosten.",
+   "bron": [
+    30,
+    38
+   ],
+   "citaat": "Dat betekent dat de uitspraak op bezwaar en de naheffingsaanslag zullen worden vernietigd"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Naheffing vernietigd; gemeente betaalt ook proceskosten (kosten van de rechtszaak).",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing van € 63,15 valt weg, en de gemeente betaalt de parkeerder € 51 griffierecht (de kosten om de rechter in te schakelen) plus € 1.100,50 aan proceskosten.",
+  "bron": [
+   30,
+   37,
+   38,
+   16
+  ],
+  "citaat": "Dat betekent dat de uitspraak op bezwaar en de naheffingsaanslag zullen worden vernietigd"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Het was voor de parkeerder niet duidelijk dat er ter plaatse betaald moest worden.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de gemeente niet aannemelijk had gemaakt dat het betalen kenbaar was.",
+    "bron": [
+     26
+    ],
+    "citaat": "heeft op geen enkele wijze aannemelijk gemaakt dat op de route die belanghebbende heeft gereden"
+   },
+   "bruikbare_zin": {
+    "citaat": "is niet onderbouwd met objectief verifieerbare gegevens, zoals fotomateriaal",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente moet aannemelijk maken dat er ten tijde van het parkeren redelijkerwijs geen misverstand kon bestaan over het betalen.",
+  "type": "regel",
+  "reikwijdte": "betaald parkeren waarvan de kenbaarheid door de parkeerder wordt betwist",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "de heffingsambtenaar aannemelijk dient te maken dat hierover ten tijde van het parkeren redelijkerwijs geen misverstand kon bestaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "fotomateriaal van borden en apparatuur (ontbrak)",
+   "stellingen over de betaalautomaat en het bord op het terrein (niet onderbouwd)"
+  ],
+  "wat_gaf_doorslag": "Er was geen fotomateriaal, en het parkeerbeleid was kort daarvoor gewijzigd."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij een wijziging van betaald parkeren de borden en apparatuur op de route vast met fotomateriaal.",
+   "raakt": "bebording-verkeersbesluit",
+   "bron": [
+    26
+   ],
+   "citaat": "is niet onderbouwd met objectief verifieerbare gegevens, zoals fotomateriaal"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bebording-verkeersbesluit",
+  "tarief-naheffing",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een rekening voor het parkeren is niet terecht als het voor u niet duidelijk genoeg was dat u moest betalen. In deze zaak vond de rechter dat de gemeente niet had laten zien dat er borden of een automaat stonden. Heeft u foto's of andere gegevens over de borden en de automaat, dan kunnen die uw bezwaar helpen.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

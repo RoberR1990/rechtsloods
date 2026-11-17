@@ -1,0 +1,183 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2019:463",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder met bedrijfsvergunning",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "De gemeente Den Haag ging in hoger beroep bij het gerechtshof Den Haag tegen een parkeerder. De rechtbank had de naheffing (de rekening achteraf) van de parkeerder vernietigd.",
+ "titel": "Fout bij afmelden van vergunning komt voor rekening van parkeerder",
+ "kern": {
+  "zin": "De rechter vond dat fouten bij het aan- en afmelden van een vergunning voor rekening van de vergunninghouder komen, ook als een collega ze maakt.",
+  "bron": [
+   40
+  ],
+  "citaat": "voor rekening van de parkeerder c.q. de vergunninghouder"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een scanauto zag dat voor de auto geen parkeerbelasting was betaald en geen geldige vergunning was aangemeld.",
+   "bron": [
+    19
+   ],
+   "citaat": "geen parkeerbelasting was voldaan en geen geldige parkeervergunning was aangemeld"
+  },
+  {
+   "zin": "Een collega van de parkeerder had zijn vergunning per ongeluk afgemeld en daarna een andere auto aangemeld.",
+   "bron": [
+    25
+   ],
+   "citaat": "door een collega (per abuis) afgemeld"
+  },
+  {
+   "zin": "De rechtbank vond dat de gemeente de naheffing daarom niet in redelijkheid mocht handhaven.",
+   "bron": [
+    30
+   ],
+   "citaat": "niet in redelijkheid de naheffingsaanslag heeft kunnen handhaven"
+  },
+  {
+   "zin": "De gemeente ging in hoger beroep en wilde dat de naheffing bleef staan.",
+   "bron": [
+    36
+   ],
+   "citaat": "De heffingsambtenaar concludeert uiteindelijk tot vernietiging van de uitspraak van de Rechtbank"
+  },
+  {
+   "zin": "Het hof vond dat de fout van de collega niets verandert en dat een belasting geen straf is.",
+   "bron": [
+    41
+   ],
+   "citaat": "De parkeervergunningenbelasting is geen straf, maar een belasting die wordt geheven in het kader van de parkeerregulering"
+  },
+  {
+   "zin": "De gemeente kreeg gelijk, maar vergoedt wel het griffierecht van 46 euro.",
+   "bron": [
+    50
+   ],
+   "citaat": "vernietigt de uitspraak van de Rechtbank behoudens de veroordeling tot vergoeding van het griffierecht"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep van de gemeente slaagt; naheffing blijft staan, griffierecht 46 euro terug.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing blijft staan; de gemeente betaalt alleen het griffierecht van 46 euro terug en er is geen kostenvergoeding.",
+  "bron": [
+   50,
+   51,
+   46
+  ],
+  "citaat": "vernietigt de uitspraak van de Rechtbank behoudens de veroordeling tot vergoeding van het griffierecht"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Een collega meldde per ongeluk zijn vergunning af, dus het was niet zijn fout dat de vergunning niet was aangemeld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Fouten bij aan- of afmelden komen volgens de voorwaarden voor rekening van de vergunninghouder.",
+    "bron": [
+     40
+    ],
+    "citaat": "voor rekening van de parkeerder c.q. de vergunninghouder"
+   },
+   "bruikbare_zin": {
+    "citaat": "voor rekening van de parkeerder c.q. de vergunninghouder",
+    "bron": [
+     40
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij trof geen schuld, want de fout werd door een collega gemaakt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een belasting is geen straf, dus afwezigheid van alle schuld speelt hier niet.",
+    "bron": [
+     41
+    ],
+    "citaat": "Voor het toepassen van het leerstuk van afwezigheid van alle schuld is daarom geen plaats"
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij deed een beroep op de hardheidsclausule (coulance).",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "Dat verzoek moet bij het college van burgemeester en wethouders worden ingediend, niet in deze procedure.",
+    "bron": [
+     42
+    ],
+    "citaat": "kan dit beroep in deze procedure niet aan de orde komen"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Fouten bij het aan- of afmelden van een kenteken voor een vergunning komen voor rekening van de vergunninghouder.",
+  "bron": [
+   40
+  ],
+  "citaat": "voor rekening van de parkeerder c.q. de vergunninghouder",
+  "type": "regel",
+  "reikwijdte": "Vergunningparkeren waarbij het kenteken moet worden aangemeld en de voorwaarden dat zo bepalen",
+  "uitzondering": "Coulance (hardheidsclausule) vraagt u aan bij het college van burgemeester en wethouders, niet bij de rechter.",
+  "herkomst": "oordeel rechter"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "overzicht van aan- en afmeldingen van de vergunning"
+  ],
+  "wat_gaf_doorslag": "Na het afmelden van zijn kenteken werd een ander kenteken aangemeld, dus er was één keer niet vergund geparkeerd."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:1997:AA3336"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 63 Algemene wet inzake rijksbelastingen",
+  "art. 231 lid 2 aanhef en onder a Gemeentewet",
+  "art. 8:75 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet in de vergunningvoorwaarden dat fouten bij het aan- of afmelden voor rekening van de vergunninghouder komen.",
+   "raakt": "vergunningen",
+   "bron": [
+    40
+   ],
+   "citaat": "voor rekening van de parkeerder c.q. de vergunninghouder"
+  },
+  {
+   "actie": "Verwijs burgers die om coulance vragen naar het college van burgemeester en wethouders voor de hardheidsclausule.",
+   "raakt": "bezwaar",
+   "bron": [
+    42
+   ],
+   "citaat": "berust bij het college van Burgemeester en Wethouders van de gemeente en bij hen het verzoek moet worden ingediend"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een fout bij het aanmelden of afmelden van uw kenteken komt voor uw rekening, ook als een collega de fout maakte. Dat geldt ook als het maar één keer misging. Wilt u coulance, vraag dat dan aan het college van burgemeester en wethouders en niet aan de rechter.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

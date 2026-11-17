@@ -1,0 +1,199 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2019:4265",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "misbruik-herhaald",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger (met gemachtigde)",
+  "wederpartij": "dagelijks bestuur van de Regionale Belasting Groep",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger vroeg de Regionale Belasting Groep om inzage in zijn persoonsgegevens, ook in berichten op een online forum van de Vereniging van Nederlandse Gemeenten. De Regionale Belasting Groep wilde dit niet behandelen, omdat zij misbruik van recht zag; de burger ging in beroep bij de rechtbank Rotterdam.",
+ "titel": "Rechter: inzageverzoek over forumberichten is geen misbruik van recht",
+ "kern": {
+  "zin": "De rechter vindt dat de burger geen misbruik van recht maakte en vernietigt het besluit dat zijn bezwaar niet behandelde.",
+  "bron": [
+   34,
+   33
+  ],
+  "citaat": "Het bestreden besluit dient te worden vernietigd voor zover daarbij het bezwaar niet-ontvankelijk is verklaard."
+ },
+ "samenvatting": [
+  {
+   "zin": "In 2016 vroeg de burger de Regionale Belasting Groep om inzage in zijn persoonsgegevens, ook in berichten die zij op een online forum van de Vereniging van Nederlandse Gemeenten had geplaatst.",
+   "bron": [
+    18
+   ],
+   "citaat": "heeft eiser verweerder op grond van artikel 35 van de Wbp verzocht om inzage in de verwerking van zijn persoonsgegevens"
+  },
+  {
+   "zin": "De Regionale Belasting Groep verklaarde het bezwaar niet-ontvankelijk (niet inhoudelijk behandeld), omdat de burger volgens haar misbruik van recht maakte.",
+   "bron": [
+    22
+   ],
+   "citaat": "omdat eiser volgens verweerder misbruik van procesrecht maakt"
+  },
+  {
+   "zin": "De burger zei dat hij geen misbruik van recht maakte.",
+   "bron": [
+    31
+   ],
+   "citaat": "Eiser stelt dat hij geen misbruik van recht heeft gemaakt"
+  },
+  {
+   "zin": "De rechter vindt dat het doel van het verzoek, nadere inzage in de berichten, past bij het doel van de wet.",
+   "bron": [
+    33
+   ],
+   "citaat": "De rechtbank acht dit doel in lijn met het doel van de Wbp."
+  },
+  {
+   "zin": "Ook vindt de rechter dat de Regionale Belasting Groep onzorgvuldig naar de berichten zocht.",
+   "bron": [
+    39
+   ],
+   "citaat": "van oordeel dat het feitenonderzoek van verweerder onzorgvuldig is geweest"
+  },
+  {
+   "zin": "De rechter vernietigt het besluit, verklaart het bezwaar zelf gegrond en veroordeelt de Regionale Belasting Groep in de kosten.",
+   "bron": [
+    47,
+    48
+   ],
+   "citaat": "vernietigt het bestreden besluit voor zover daarbij het bezwaar niet-ontvankelijk is verklaard"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Besluit vernietigd, bezwaar gegrond; griffierecht en proceskosten vergoed",
+ "gevolg_betrokkene": {
+  "zin": "Het bezwaar van de burger is gegrond; hij krijgt € 170 griffierecht terug en € 2.560 aan proceskosten, maar voor schadevergoeding moet hij naar de burgerlijke rechter.",
+  "bron": [
+   50,
+   49,
+   51
+  ],
+  "citaat": "veroordeelt verweerder in de proceskosten van eiser tot een bedrag van € 2.560,-;"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "misbruik-recht",
+   "burger_zegt": "Mijn verzoek is geen misbruik van recht.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het doel van het verzoek (nadere inzage) past bij het doel van de wet, dus er is geen misbruik van recht.",
+    "bron": [
+     33
+    ],
+    "citaat": "De rechtbank acht dit doel in lijn met het doel van de Wbp."
+   },
+   "bruikbare_zin": {
+    "citaat": "Dit maakt echter nog niet dat sprake is van misbruik van recht.",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "Het onderzoek naar mijn forumberichten was onzorgvuldig.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De organisatie had degene die zocht actief moeten vertellen welke zoektermen te gebruiken.",
+    "bron": [
+     38
+    ],
+    "citaat": "maar de VNG actief moeten informeren over de te gebruiken zoektermen"
+   },
+   "bruikbare_zin": {
+    "citaat": "het op de weg van verweerder had gelegen de VNG te verzoeken bij de te hanteren zoektermen in ieder geval ook de volledige naam van verweerder te betrekken",
+    "bron": [
+     38
+    ]
+   }
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Ik wil schadevergoeding voor het plaatsen van mijn gegevens op het forum.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De bestuursrechter is hiervoor niet bevoegd; dit gaat naar de burgerlijke rechter.",
+    "bron": [
+     43
+    ],
+    "citaat": "is de rechtbank daarom niet bevoegd om kennis te nemen van het beroep voor zover dat betrekking heeft op het verzoek om schadevergoeding"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een beroep dat misbruik van recht is, wordt niet inhoudelijk behandeld, maar daarvoor zijn zwaarwichtige gronden nodig, bijvoorbeeld rechten die evident zonder redelijk doel worden gebruikt.",
+  "type": "regel",
+  "reikwijdte": "Bevoegdheid om beroep in te stellen bij de bestuursrechter",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   29
+  ],
+  "citaat": "Daartoe zijn zwaarwichtige gronden vereist, die onder meer aanwezig zijn indien rechten of bevoegdheden zodanig evident zijn aangewend zonder redelijk doel"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "e-mail van de burger aan de VNG van 26 juli 2018",
+   "verklaring van de gemachtigde op de zitting"
+  ],
+  "wat_gaf_doorslag": "Het doel van het verzoek was nadere inzage in de berichten, en dat past bij het doel van de wet."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2019:181",
+   "ECLI:NL:RVS:2016:3303",
+   "ECLI:NL:RVS:2014:4129",
+   "ECLI:NL:RBDHA:2017:14617"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 35 Wbp",
+  "art. 3:13 BW",
+  "art. 3:15 BW",
+  "art. 8:72 lid 3 onder b Awb",
+  "art. 8:88 Awb",
+  "art. 82 AVG"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Geef een organisatie die voor u zoekt actief de zoektermen mee, ook de volledige naam, als u weet dat er een bericht moet bestaan.",
+   "raakt": "privacy-fg",
+   "bron": [
+    38
+   ],
+   "citaat": "maar de VNG actief moeten informeren over de te gebruiken zoektermen"
+  },
+  {
+   "actie": "Laat een zoekresultaat opnieuw nakijken als een eigen medewerker weet dat er een bericht bestaat dat de zoekslag niet vond.",
+   "raakt": "privacy-fg",
+   "bron": [
+    37
+   ],
+   "citaat": "Dit had voor verweerder aanleiding moeten zijn om te veronderstellen dat het onderzoek van de VNG mogelijk niet volledig was geweest."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een organisatie mag een verzoek om inzage alleen als misbruik weigeren als daar zwaarwichtige redenen voor zijn. Wilt u nog meer weten over wat er over u is vastgelegd, dan is dat een gewoon doel. Heeft u een concrete aanwijzing dat er gegevens ontbreken, noem die dan in uw bezwaar.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente als partij; Regionale Belasting Groep",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

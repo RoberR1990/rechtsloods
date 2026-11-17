@@ -1,0 +1,179 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2022:906",
+ "relevant": true,
+ "onderwerp": "handhaving-privacy",
+ "sub": "scanauto-bewijs",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "kentekenhouder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een automobilist kreeg van de gemeente Amsterdam een naheffingsaanslag (een rekening achteraf) voor parkeerbelasting. Hij ging in hoger beroep bij het gerechtshof Amsterdam, omdat hij vond dat de gps-gegevens van de scanauto niet als bewijs mochten dienen.",
+ "titel": "Scanauto-gegevens mogen als bewijs dienen dat niet is betaald",
+ "kern": {
+  "zin": "Het hof vond de rekening achteraf terecht, omdat de gemeente met de gps-gegevens, de foto's en de controle van de scanauto aannemelijk maakte dat de auto stond zonder dat was betaald.",
+  "bron": [
+   70
+  ],
+  "citaat": "Het Hof is daarom evenals de rechtbank van oordeel dat de naheffingsaanslag terecht is opgelegd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een scanauto van de gemeente Amsterdam zag op 6 november 2019 de auto van de burger staan op een plek voor betaald parkeren, zonder dat was betaald.",
+   "bron": [
+    17
+   ],
+   "citaat": "op 6 november 2019 om 20:04 uur stilstond ter hoogte van"
+  },
+  {
+   "zin": "De burger vond dat de gps-gegevens van de scanauto niet als bewijs mogen dienen, omdat de wet of de verordening dat niet regelt.",
+   "bron": [
+    56
+   ],
+   "citaat": "kunnen de door een scanauto vastgelegde gps-coördinaten niet als bewijsmiddel worden gebruikt"
+  },
+  {
+   "zin": "De gemeente zei dat in het belastingrecht vrij bewijs geldt, dus dat de gegevens van een scanauto wel mogen worden gebruikt.",
+   "bron": [
+    60
+   ],
+   "citaat": "In het belastingrecht geldt de zogenoemde vrije bewijsleer"
+  },
+  {
+   "zin": "Het hof vond dat de gemeente scanauto-gegevens, ook gps-coördinaten, als bewijs mag gebruiken.",
+   "bron": [
+    66
+   ],
+   "citaat": "Het is de heffingsambtenaar daarom toegestaan om bewijs te leveren met door een scanauto verkregen gegevens"
+  },
+  {
+   "zin": "Volgens het hof heeft de werkwijze genoeg waarborgen, zoals controle door een ervaren parkeercontroleur en een controle achteraf; de rechter beoordeelt wel in elke zaak of het bewijs genoeg is.",
+   "bron": [
+    67
+   ],
+   "citaat": "voldoende waarborgen bevat voor de zorgvuldigheid van de bewijsgaring"
+  },
+  {
+   "zin": "Het hof vond aannemelijk dat de auto stond zonder dat was betaald, ook omdat de burger zelf niet zei dat hij had betaald.",
+   "bron": [
+    70
+   ],
+   "citaat": "Belanghebbende heeft overigens ook niet gesteld dat hij voor het aldaar parkeren wel parkeerbelasting heeft voldaan"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Rekening achteraf blijft staan; hof bevestigt uitspraak rechtbank",
+ "gevolg_betrokkene": {
+  "zin": "De burger moet de rekening achteraf betalen; de uitspraak van de rechtbank blijft staan en er volgt geen vergoeding van proceskosten.",
+  "bron": [
+   76
+  ],
+  "citaat": "Het Hof bevestigt de uitspraak van de rechtbank"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "Zonder wettelijke grondslag mogen gps-gegevens van een scanauto geen bewijs zijn, en het feit moet door een beëdigd ambtenaar ter plekke worden vastgesteld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof vond dat de gemeente vrij is te bepalen hoe zij controleert en dat vrij bewijs geldt.",
+    "bron": [
+     66
+    ],
+    "citaat": "Het is de heffingsambtenaar daarom toegestaan om bewijs te leveren met door een scanauto verkregen gegevens"
+   },
+   "bruikbare_zin": {
+    "citaat": "het staat de gemeente in beginsel vrij te bepalen op welke wijze zij van haar bevoegdheid gebruik maakt",
+    "bron": [
+     66
+    ]
+   }
+  },
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De gps-coördinaten zijn die van de scanauto en niet van het gescande kenteken, en de foto's tonen geen locatie.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof vond aannemelijk dat de coördinaten de plek van het gescande kenteken tonen, bepaald met camera's.",
+    "bron": [
+     69
+    ],
+    "citaat": "dat de door de scanauto geregistreerde gps-coördinaten de positie van het gescande kenteken betreffen"
+   },
+   "bruikbare_zin": {
+    "citaat": "de gps-coördinaten van het gescande kenteken, door de scanauto gemaakte foto’s en de door de Deskforce vastgelegde controlebevindingen",
+    "bron": [
+     70
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente mag scanauto-gegevens, ook gps-coördinaten, als bewijs gebruiken dat parkeerbelasting niet is betaald; de rechter beoordeelt per zaak of het bewijs genoeg is.",
+  "type": "regel",
+  "reikwijdte": "Gemeenten die controleren met een scanauto en dezelfde waarborgen hebben als Amsterdam (vijf minuten wachten, beoordeling door ervaren controleur, controle achteraf)",
+  "uitzondering": "Het bewijs moet in elke zaak genoeg zijn om aannemelijk te maken dat het parkeren zonder betaling gebeurde.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   66
+  ],
+  "citaat": "Het is de heffingsambtenaar daarom toegestaan om bewijs te leveren met door een scanauto verkregen gegevens"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "gps-coördinaten van het gescande kenteken",
+   "foto's van de scanauto",
+   "controlebevindingen van de Deskforce (controle op kantoor)"
+  ],
+  "wat_gaf_doorslag": "De gps-coördinaten, de foto's en de controle op kantoor samen maakten aannemelijk dat de auto stond zonder betaling."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RBAMS:2017:2740"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 225 Gemeentewet",
+  "art. 234 Gemeentewet",
+  "art. 2 Verordening Parkeerbelastingen 2019 Amsterdam",
+  "art. 6 lid 1 Verordening Parkeerbelastingen 2019 Amsterdam",
+  "art. 20 lid 1 AWR"
+ ],
+ "actie_gemeente": [
+  {
+   "bron": [
+    70
+   ],
+   "citaat": "de gps-coördinaten van het gescande kenteken, door de scanauto gemaakte foto’s en de door de Deskforce vastgelegde controlebevindingen",
+   "raakt": "scanauto-handhaving",
+   "actie": "Leg per scancontrole de gps-coördinaten van het kenteken, de foto's en de controlebevindingen vast in het dossier."
+  },
+  {
+   "bron": [
+    67
+   ],
+   "citaat": "de standaardcontrole van de doorgezonden gegevens door een ervaren parkeercontroleur",
+   "raakt": "scanauto-handhaving",
+   "actie": "Laat een ervaren parkeercontroleur de doorgezonden scangegevens beoordelen en stuur bij twijfel iemand ter plaatse."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "De scanauto mag met foto's en gps-gegevens vastleggen dat u zonder te betalen stond, en de rechter kijkt per zaak of dat bewijs genoeg is. Dat een scanauto de controle deed, is dus op zichzelf geen reden om de rekening voor het parkeren niet te betalen. Bezwaar heeft vooral zin als u kunt laten zien dat u wel had betaald, of dat de foto's of de plek niet kloppen.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

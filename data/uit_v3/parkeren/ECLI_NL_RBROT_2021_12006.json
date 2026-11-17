@@ -1,0 +1,165 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2021:12006",
+ "relevant": true,
+ "onderwerp": "vergunningen",
+ "sub": "bewonersvergunning",
+ "kenmerk": null,
+ "zaaktype": "vergunning",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rotterdam (college)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner in Rotterdam kreeg geen bewonersvergunning, omdat bij haar appartementencomplex al een parkeergarage hoort. Zij procedeerde tegen het college van de gemeente Rotterdam bij de rechtbank Rotterdam.",
+ "titel": "Rotterdam: geen bewonersvergunning als de garage bij het complex hoort",
+ "kern": {
+  "zin": "De rechter oordeelde dat de hele garage telt als parkeervoorziening bij het complex, dus de weigering mocht.",
+  "bron": [
+   22
+  ],
+  "citaat": "De gehele parkeergarage geldt dan ook als bijbehorende of toegewezen parkeervoorziening voor het appartementencomplex"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het college wees de aanvraag af, omdat de parkeergarage bij het adres hoort.",
+   "bron": [
+    15
+   ],
+   "citaat": "omdat het adres volgens de Afdeling Publiekszaken van de gemeente beschikt over een bijbehorende parkeervoorziening"
+  },
+  {
+   "zin": "Zij verwees naar een verklaring van de verhuurder dat andere huurders wel vergunningen kregen.",
+   "bron": [
+    23
+   ],
+   "citaat": "die vermeldt dat aan meerdere huurders parkeervergunningen zijn verleend"
+  },
+  {
+   "zin": "De rechter vond dat die verklaring geen concrete gevallen noemde en dus niet hielp.",
+   "bron": [
+    24
+   ],
+   "citaat": "In de verklaring van de verhuurder worden geen concrete gevallen genoemd"
+  },
+  {
+   "zin": "De rechter oordeelde dat de hoge tarieven niet concreet genoeg waren gemaakt om de weigering opzij te zetten.",
+   "bron": [
+    25
+   ],
+   "citaat": "zodat ook dit argument haar reeds daarom niet kan baten"
+  },
+  {
+   "zin": "Ook de hardheidsclausule hielp niet, zodat het beroep ongegrond bleef.",
+   "bron": [
+    26
+   ],
+   "citaat": "de hardheidsclausule, neergelegd in artikel 11 van het Uitvoeringsbesluit, eiseres geen soelaas kan bieden"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; geen vergunning en geen proceskostenvergoeding voor de bewoner.",
+ "gevolg_betrokkene": {
+  "zin": "De weigering blijft staan: de bewoner krijgt geen vergunning en ook geen proceskostenvergoeding.",
+  "bron": [
+   29,
+   27
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "gelijkheid",
+   "burger_zegt": "Andere huurders kregen wel een vergunning, dus ook ik moet er een krijgen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechter helpt de verklaring niet, omdat er geen concrete gevallen worden genoemd.",
+    "bron": [
+     24
+    ],
+    "citaat": "Het beroep op die verklaring kan eiseres dan ook niet baten"
+   },
+   "bruikbare_zin": {
+    "citaat": "eerdere onjuiste beslissingen verweerder niet zonder meer zouden verplichten om ook in dit geval een beslissing te nemen",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "onevenredig",
+   "burger_zegt": "De beheerder rekent hoge tarieven, dus de vergunning moet er toch komen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de hoge tarieven niet concreet genoeg om de regel opzij te zetten.",
+    "bron": [
+     25
+    ],
+    "citaat": "zodat ook dit argument haar reeds daarom niet kan baten"
+   },
+   "bruikbare_zin": {
+    "citaat": "alleen een hoge prijs voor het gebruikmaken van de bijbehorende of toegewezen parkeervoorziening",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een parkeervoorziening hoort bij een adres als zij een eigen of gedeelde toegang heeft, bij het gebouw hoort en bedoeld is voor bewoners of werkers daar.",
+  "type": "regel",
+  "reikwijdte": "bij de vraag of een parkeervoorziening bij een adres hoort voor een bewonersvergunning",
+  "uitzondering": null,
+  "herkomst": "lokale verordening",
+  "bron": [
+   17
+  ],
+  "citaat": "volgt uit de definitie in artikel 1, aanhef en onder b, van het Uitvoeringsbesluit dat sprake is van"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verklaring van de verhuurder",
+   "omgevingsvergunning of ander document over de garage"
+  ],
+  "wat_gaf_doorslag": "De hele garage telde als voorziening bij het complex, en de verklaring noemde geen concrete gevallen."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2018:1554",
+   "ECLI:NL:RVS:2019:1554"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1 Uitvoeringsbesluit parkeren Rotterdam 2021",
+  "art. 3 lid 1 Uitvoeringsbesluit parkeren Rotterdam 2021",
+  "art. 5 lid 1 onder b Uitvoeringsbesluit parkeren Rotterdam 2021",
+  "art. 5 lid 8 Uitvoeringsbesluit parkeren Rotterdam 2021",
+  "art. 11 Uitvoeringsbesluit parkeren Rotterdam 2021"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij een weigering uit dat een tijdelijke vergunning alleen kan met een schriftelijke verklaring van de beheerder.",
+   "raakt": "klantcontact",
+   "bron": [
+    27
+   ],
+   "citaat": "kan zonder een schriftelijke verklaring van de beheerder"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "vergunningen",
+  "klantcontact",
+  "bezwaar"
+ ],
+ "klantuitleg": "Een bewonersvergunning krijgt u niet als uw adres een parkeerplaats in een garage bij het complex heeft, ook niet als een ander de garage beheert. Voor een tijdelijke vergunning hebt u een schriftelijke verklaring van de beheerder nodig, waaruit blijkt dat u op de wachtlijst staat en geen plek hebt. Heeft u die verklaring niet, dan maakt bezwaar op dit punt weinig kans.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

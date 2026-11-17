@@ -1,0 +1,174 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHAMS:2021:1308",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "bewijs-scanauto",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder kreeg in Amsterdam een naheffing (rekening achteraf) van € 52 voor parkeren zonder te betalen. De parkeerder ging tegen de gemeente Amsterdam in hoger beroep bij het gerechtshof.",
+ "titel": "Scanfoto's met tijd zijn genoeg bewijs voor parkeernaheffing",
+ "kern": {
+  "zin": "De rechter vond de naheffing terecht, omdat de eerste scanfoto's met tijd al laten zien wanneer en hoelang de auto stond.",
+  "bron": [
+   54
+  ],
+  "citaat": "kan worden vastgesteld wanneer en hoelang de auto geparkeerd stond op de parkeerplek"
+ },
+ "samenvatting": [
+  {
+   "zin": "De auto stond op 6 juli 2018 in Amsterdam geparkeerd en de controleur vond geen geldig parkeerbewijs.",
+   "bron": [
+    21
+   ],
+   "citaat": "Bij controle heeft de parkeercontroleur geen geldig parkeerbewijs voor de auto aangetroffen"
+  },
+  {
+   "zin": "De parkeerder vond de tijdmeting van de scanauto onbetrouwbaar, omdat op alle foto's dezelfde tijd staat.",
+   "bron": [
+    52
+   ],
+   "citaat": "de daarop vermelde tijdstippen van de achter-, zij- en voorkant van de auto identiek zijn"
+  },
+  {
+   "zin": "De gemeente zei dat de latere foto's steeds de tijd van de eerste foto krijgen.",
+   "bron": [
+    53
+   ],
+   "citaat": "foto’s die na de eerste foto zijn gemaakt steeds de tijdsaanduiding van die eerste foto krijgen"
+  },
+  {
+   "zin": "De rechter vond de eerste foto's genoeg om de parkeertijd vast te stellen en liet de vraag over de latere foto's open.",
+   "bron": [
+    54
+   ],
+   "citaat": "kan worden vastgesteld wanneer en hoelang de auto geparkeerd stond op de parkeerplek"
+  },
+  {
+   "zin": "De rechter vond het hoger beroep ongegrond en liet de uitspraak van de rechtbank staan.",
+   "bron": [
+    58
+   ],
+   "citaat": "het hoger beroep van belanghebbende ongegrond is"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing van € 52 blijft staan; geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De naheffing van € 52 blijft staan en de parkeerder krijgt geen vergoeding van griffierecht of proceskosten.",
+  "bron": [
+   21,
+   56,
+   60
+  ],
+  "citaat": "naheffingsaanslag parkeerbelasting opgelegd ten bedrage van € 52,-"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "bewijs-scanauto",
+   "burger_zegt": "De tijd op de scanfoto's is niet te vertrouwen, want alle foto's hebben dezelfde tijd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De eerste foto's van elke serie zijn genoeg om te zien wanneer en hoelang de auto stond.",
+    "bron": [
+     54
+    ],
+    "citaat": "kan worden vastgesteld wanneer en hoelang de auto geparkeerd stond op de parkeerplek"
+   },
+   "bruikbare_zin": {
+    "citaat": "kan worden vastgesteld wanneer en hoelang de auto geparkeerd stond op de parkeerplek",
+    "bron": [
+     54
+    ]
+   }
+  },
+  {
+   "arg": "kort-stilstaan",
+   "burger_zegt": "De auto stond korter dan 10 minuten, want de parkeerder deed even een boodschap.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De tienminutenregel van de gemeente telt niet als er helemaal niet is betaald.",
+    "bron": [
+     51
+    ],
+    "citaat": "geen geslaagd beroep op genoemd besluit kan worden gedaan in een situatie (zoals de onderhavige) waarin in het geheel geen parkeerbelasting is betaald"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen geslaagd beroep op genoemd besluit kan worden gedaan in een situatie (zoals de onderhavige) waarin in het geheel geen parkeerbelasting is betaald",
+    "bron": [
+     51
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De uitspraak op bezwaar is door iemand zonder bevoegdheid ondertekend.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De ondertekenaar had de bevoegdheid, want het is dezelfde functie als de aangewezen manager.",
+    "bron": [
+     50
+    ],
+    "citaat": "de bestreden uitspraak op bezwaar niet onbevoegd is genomen"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een regel van de gemeente dat er tien minuten geen naheffing komt, helpt niet als er helemaal niet is betaald.",
+  "type": "regel",
+  "reikwijdte": "Naheffing in Amsterdam waar voor het parkeren niets is betaald.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   51
+  ],
+  "citaat": "geen geslaagd beroep op genoemd besluit kan worden gedaan in een situatie (zoals de onderhavige) waarin in het geheel geen parkeerbelasting is betaald"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "scanfoto's met tijdsaanduiding",
+   "bevinding van de parkeercontroleur"
+  ],
+  "wat_gaf_doorslag": "De eerste foto's van elke serie lieten zien wanneer en hoelang de auto stond."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 231 Gemeentewet",
+  "art. 8:75 Awb",
+  "art. 8:108 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar bij elke naheffing van de scanauto minstens de eerste foto van elke serie met de tijd erop",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    54
+   ],
+   "citaat": "kan worden vastgesteld wanneer en hoelang de auto geparkeerd stond op de parkeerplek"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "scanauto-handhaving",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u niet betaald hebt, is de rekening voor het parkeren meestal terecht, ook als u maar kort stond. Dat alle scanfoto's dezelfde tijd hebben, maakt de rekening niet ongeldig als de eerste foto's de parkeertijd laten zien. Bezwaar heeft op dit punt weinig kans; het helpt wel als u kunt laten zien dat u echt hebt betaald.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

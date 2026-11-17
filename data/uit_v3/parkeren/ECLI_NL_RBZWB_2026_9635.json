@@ -1,0 +1,142 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2026:9635",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "kentekenhouder (via gemachtigde)",
+  "wederpartij": "gemeente Oisterwijk",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een kentekenhouder met een gemachtigde klaagde dat de gemeente Oisterwijk niet op tijd had beslist op zijn bezwaren. Het ging om een naheffing parkeerbelasting en een dwangsombeschikking, en de zaak lag bij de rechtbank Zeeland-West-Brabant.",
+ "titel": "Klacht over te late beslissing: zaak niet inhoudelijk beoordeeld",
+ "kern": {
+  "zin": "De rechter zei dat de ingebrekestelling over de dwangsom te vroeg kwam, dus het beroep is niet-ontvankelijk.",
+  "bron": [
+   20
+  ],
+  "citaat": "Op dat moment was de beslistermijn nog niet verstreken en is de ingebrekestelling prematuur."
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 2 maart 2024 legde de gemeente een naheffing parkeerbelasting op.",
+   "bron": [
+    14
+   ],
+   "citaat": "heeft op 2 maart 2024 een naheffingsaanslag parkeerbelasting opgelegd"
+  },
+  {
+   "zin": "De kentekenhouder vond dat de gemeente te laat had beslist op zijn bezwaar.",
+   "bron": [
+    9
+   ],
+   "citaat": "volgens hem niet op tijd heeft beslist op het bezwaar van 2 maart 2024"
+  },
+  {
+   "zin": "De gemachtigde vond dat de uitspraak op bezwaar naar hem had moeten gaan.",
+   "bron": [
+    14
+   ],
+   "citaat": "dat de uitspraak op bezwaar naar hem had moeten worden toegezonden"
+  },
+  {
+   "zin": "De rechter vond dat de uitspraak op bezwaar rechtsgeldig was bekendgemaakt, dus er was geen te late beslissing.",
+   "bron": [
+    15
+   ],
+   "citaat": "dat de uitspraak op bezwaar op 29 maart 2024 rechtsgeldig bekend is gemaakt"
+  },
+  {
+   "zin": "Het beroep is niet-ontvankelijk en er komt geen proceskostenvergoeding.",
+   "bron": [
+    22
+   ],
+   "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep niet-ontvankelijk; de inhoud van de naheffing wordt niet beoordeeld.",
+ "gevolg_betrokkene": {
+  "zin": "De zaak gaat niet verder bij de rechter, maar de gemeente moet nog op het dwangsombezwaar beslissen als zij dat nog niet deed.",
+  "bron": [
+   20
+  ],
+  "citaat": "gehouden is een beslissing op het bezwaar te nemen, indien hij dat nog niet heeft gedaan"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente besliste te laat op het bezwaar tegen de naheffing en op het bezwaar tegen de dwangsom.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat er bij de eerste ingebrekestelling geen te late beslissing was.",
+    "bron": [
+     15
+    ],
+    "citaat": "Dit betekent dat er op het moment van de ingebrekestelling geen sprake was van niet tijdig beslissen"
+   },
+   "bruikbare_zin": {
+    "citaat": "gehouden is een beslissing op het bezwaar te nemen, indien hij dat nog niet heeft gedaan",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bezwaar tegen een dwangsombeschikking krijgt uitspraak in het kalenderjaar waarin het bezwaar binnenkwam.",
+  "type": "regel",
+  "reikwijdte": "bezwaar niet ingediend in de laatste zes weken van een kalenderjaar, ook bij een dwangsombeschikking",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   19
+  ],
+  "citaat": "uitspraak wordt gedaan in het kalenderjaar waarin het bezwaarschrift is ontvangen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "uitspraak op bezwaar per e-mail verzonden",
+   "ingebrekestelling van 25 april 2025"
+  ],
+  "wat_gaf_doorslag": "De ingebrekestelling van 25 april 2025 kwam nog voor het einde van de beslistermijn, dus die was te vroeg."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2013:969",
+   "ECLI:NL:HR:2026:492"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 236 lid 2 Gemeentewet",
+  "art. 8:54 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Houd bij bezwaren tegen dwangsombeschikkingen de einddatum van het kalenderjaar in de planning, zodat de beslistermijn niet wordt gemist.",
+   "raakt": "bezwaar",
+   "bron": [
+    19
+   ],
+   "citaat": "uitspraak wordt gedaan in het kalenderjaar waarin het bezwaarschrift is ontvangen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing"
+ ],
+ "klantuitleg": "Deze uitspraak gaat niet over of de rekening terecht is, maar over de termijn waarop de gemeente moet beslissen. Heeft u een bezwaar tegen een dwangsom liggen, dan heeft de gemeente tot het einde van het kalenderjaar de tijd om te beslissen. Stuurt u een aanmaning te vroeg, dan kan de rechter het beroep niet beoordelen; wacht dus tot de termijn echt is verstreken.",
+ "gemeente": "Oisterwijk",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,166 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBZWB:2025:6110",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "gemeente Breda",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "verzet",
+ "intro": "Een bedrijf komt in verzet tegen de eerdere uitspraak, die zijn beroep niet-ontvankelijk verklaarde. Het gaat om een naheffingsaanslag (de rekening achteraf) voor parkeren in Breda, bij de Rechtbank Zeeland-West-Brabant.",
+ "titel": "Te laat beroep tegen parkeerrekening Breda: geen inhoudelijke beoordeling",
+ "kern": {
+  "zin": "De rechter vond dat het beroep te laat was en dat die termijn niet verschoonbaar was.",
+  "bron": [
+   19
+  ],
+  "citaat": "dat deze termijnoverschrijding niet verschoonbaar is"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Breda verklaarde het bezwaar van het bedrijf in oktober 2024 ongegrond.",
+   "bron": [
+    10
+   ],
+   "citaat": "het bezwaar van belanghebbende tegen de naheffingsaanslag parkeerbelasting"
+  },
+  {
+   "zin": "Het bedrijf diende het beroep in op 24 december 2024, en dat was te laat.",
+   "bron": [
+    17
+   ],
+   "citaat": "Het beroepschrift is op 24 december 2024, en daarmee te laat, ingediend"
+  },
+  {
+   "zin": "Na een nieuw bezoek zag het bedrijf veranderde parkeerzoneborden en vond dat dit de eerdere gebreken bevestigde.",
+   "bron": [
+    16
+   ],
+   "citaat": "De parkeerzoneborden bleken toen veranderd"
+  },
+  {
+   "zin": "De rechter vond de termijn niet verschoonbaar, ook niet door latere borden.",
+   "bron": [
+    18
+   ],
+   "citaat": "is geen omstandigheid die de termijnoverschrijding verschoonbaar maakt"
+  },
+  {
+   "zin": "Het verzet werd afgewezen; de eerdere uitspraak blijft dus staan.",
+   "bron": [
+    19
+   ],
+   "citaat": "terecht is overwogen dat de termijn voor het indienen van beroep is overschreden"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Verzet ongegrond; beroep te laat, dus geen inhoudelijk oordeel over de rekening.",
+ "gevolg_betrokkene": {
+  "zin": "Voor het bedrijf betekent dit dat er geen inhoudelijke beoordeling komt en de rekening voor het parkeren blijft staan.",
+  "bron": [
+   21,
+   19
+  ],
+  "citaat": "De rechtbank verklaart verzet ongegrond"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "borden-onduidelijk",
+   "burger_zegt": "Na het beroep zijn de parkeerzoneborden veranderd; dat bewijst dat de eerdere markering gebrekkig was.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter kwam niet toe aan de inhoud, omdat latere borden de termijn niet redden.",
+    "bron": [
+     18
+    ],
+    "citaat": "is geen omstandigheid die de termijnoverschrijding verschoonbaar maakt"
+   },
+   "bruikbare_zin": {
+    "citaat": "is geen omstandigheid die de termijnoverschrijding verschoonbaar maakt",
+    "bron": [
+     18
+    ]
+   }
+  },
+  {
+   "arg": "termijn-verschoonbaar",
+   "burger_zegt": "Het beroep is pas ingediend na een nieuw bezoek, dus de termijn moet verschoonbaar zijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de termijnoverschrijding niet verschoonbaar.",
+    "bron": [
+     19
+    ],
+    "citaat": "dat deze termijnoverschrijding niet verschoonbaar is"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat deze termijnoverschrijding niet verschoonbaar is",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "overmacht-medisch",
+   "burger_zegt": "Een medische situatie maakte het bedrijf het onmogelijk om tijdig in beroep te gaan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de medische situatie niet ernstig genoeg om tijdig beroep te verhinderen.",
+    "bron": [
+     18
+    ],
+    "citaat": "zijn medische situatie niet zodanig ernstig was dat hij niet in staat was om tijdig beroep in te stellen"
+   },
+   "bruikbare_zin": {
+    "citaat": "zijn medische situatie niet zodanig ernstig was dat hij niet in staat was om tijdig beroep in te stellen",
+    "bron": [
+     18
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een te laat beroepschrift leidt in beginsel tot niet-ontvankelijkheid, tenzij de termijnoverschrijding verschoonbaar is.",
+  "type": "regel",
+  "reikwijdte": "Beroepschriften tegen naheffingen die na de wettelijke termijn zijn ingediend",
+  "uitzondering": "de termijnoverschrijding is verschoonbaar",
+  "herkomst": "wet",
+  "bron": [
+   18
+  ],
+  "citaat": "Dit betekent dat bij een termijnoverschrijding een niet-ontvankelijkverklaring moet volgen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:7 Awb",
+  "art. 8:55 Awb",
+  "art. 26c AWR"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver procedurele uitspraak",
+ "raakt": [
+  "bezwaar",
+  "tarief-naheffing",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een beroep dat te laat is ingediend, wordt niet inhoudelijk beoordeeld, ook niet als er later meer borden komen. Een medische situatie maakt de termijn alleen verschoonbaar als die echt zo ernstig was dat u niet kon reageren. Kijk daarom meteen naar de termijn op de uitspraak en vraag direct advies als u twijfelt.",
+ "gemeente": "Breda",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

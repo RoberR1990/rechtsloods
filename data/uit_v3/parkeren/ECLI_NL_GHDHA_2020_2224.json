@@ -1,0 +1,148 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHDHA:2020:2224",
+ "relevant": true,
+ "kenmerk": null,
+ "dubbel_van": null,
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": null,
+ "onderwerp": "parkeerbelasting",
+ "sub": "begrip-parkeren",
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder (particulier)",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een parkeerder gaat in hoger beroep tegen de gemeente Den Haag. Het gaat om een naheffing (rekening achteraf) voor parkeren met twee wielen op de stoep; de zaak ligt bij het Gerechtshof Den Haag.",
+ "titel": "Twee wielen op de stoep: toch betaald parkeren",
+ "kern": {
+  "zin": "Het hof vindt de naheffing terecht: de rechtbank oordeelde goed dat de auto, ook met twee wielen op de stoep, nog geparkeerd stond.",
+  "bron": [
+   25
+  ],
+  "citaat": "op goede gronden, begrijpelijk en juist, heeft geoordeeld dat de naheffingsaanslag terecht is opgelegd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De auto van de parkeerder stond op 23 mei 2019 op een betaalde parkeerplaats in Den Haag.",
+   "bron": [
+    15
+   ],
+   "citaat": "op een door parkeerapparatuur gereguleerde parkeerplaats aan de [adres] in Den Haag"
+  },
+  {
+   "zin": "De parkeerder zegt dat twee wielen op de stoep stonden. Daardoor was het volgens hem geen parkeren met belasting, maar een verkeersovertreding met een boete (Mulder-feit).",
+   "bron": [
+    19
+   ],
+   "citaat": "twee wielen op het trottoir waardoor geen sprake meer was van fiscaal parkeren"
+  },
+  {
+   "zin": "De gemeente vindt dat de twee wielen op de stoeprand de naheffing niet onjuist maken.",
+   "bron": [
+    25
+   ],
+   "citaat": "heeft niet tot gevolg dat de naheffingsaanslag onjuist is"
+  },
+  {
+   "zin": "De rechtbank zei dat het deels op de stoep staan niet betekent dat het geen parkeren was.",
+   "bron": [
+    21
+   ],
+   "citaat": "niet leidt tot de conclusie dat geen sprake is geweest van parkeren"
+  },
+  {
+   "zin": "Het hof ziet dat de parkeerder ook in hoger beroep niets nieuws bracht. Zijn argumenten waren in wezen dezelfde als eerder.",
+   "bron": [
+    25
+   ],
+   "citaat": "niets, ook niet in hoger beroep, heeft aangevoerd of ingebracht dat een andere conclusie rechtvaardigt"
+  },
+  {
+   "zin": "Het hof bevestigt de uitspraak van de rechtbank.",
+   "bron": [
+    29
+   ],
+   "citaat": "Het Gerechtshof bevestigt de uitspraak van de Rechtbank."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Naheffing blijft staan; geen proceskostenvergoeding.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffing (rekening achteraf) betalen en krijgt geen proceskosten vergoed.",
+  "bron": [
+   27
+  ],
+  "citaat": "Het Hof ziet geen reden een partij te veroordelen in de proceskosten."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Met twee wielen op de stoep is het geen parkeren met belasting, maar een verkeersovertreding met een boete.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een auto die nagenoeg geheel in een parkeervak staat, parkeert ook als twee wielen op de stoep staan.",
+    "bron": [
+     21
+    ],
+    "citaat": "nagenoeg geheel geparkeerd stond in een parkeervak"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet leidt tot de conclusie dat geen sprake is geweest van parkeren",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Staat een auto nagenoeg geheel in een parkeervak, dan is het nog parkeren als twee wielen op de stoep staan.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Auto die nagenoeg geheel in een betaald parkeervak staat en met twee wielen deels op de stoep.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "nagenoeg geheel geparkeerd stond in een parkeervak"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "controle ter plaatse"
+  ],
+  "wat_gaf_doorslag": "De auto stond nagenoeg geheel in een parkeervak."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:GHARL:2017:7239",
+   "ECLI:NL:GHAMS:2015:1723"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1 onder d Verordening parkeerbelastingen 2008 Den Haag"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg met een foto vast dat de auto nagenoeg geheel in het parkeervak stond als de parkeerder zegt dat de auto op de stoep stond.",
+   "raakt": "scanauto-handhaving",
+   "bron": [
+    21
+   ],
+   "citaat": "nagenoeg geheel geparkeerd stond in een parkeervak"
+  }
+ ],
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "scanauto-handhaving"
+ ],
+ "klantuitleg": "Staat uw auto op een betaald parkeervak, dan geldt dat als parkeren, ook als twee wielen op de stoep staan. U moet dan gewoon betalen. Bezwaar heeft weinig kans als de auto nagenoeg geheel in het vak stond.",
+ "gemeente": "Den Haag",
+ "zekerheid": "hoog"
+}

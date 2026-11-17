@@ -1,0 +1,146 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:4269",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "procedure",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg in juni 2021 naheffingen voor zijn auto, die zonder betaling had gestaan. Hij ging in beroep bij de rechtbank Rotterdam, tegen de heffingsambtenaar van de gemeente Rotterdam, nadat zijn bezwaren te laat waren ingediend.",
+ "titel": "Bezwaar te laat ingediend, naheffingen blijven staan",
+ "kern": {
+  "zin": "De rechtbank vond de bezwaren te laat ingediend, dus de naheffingen blijven staan.",
+  "bron": [
+   23,
+   24
+  ],
+  "citaat": "buiten de wettelijke termijn van zes weken om bezwaar te maken"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een parkeercontroleur stelde vast dat de auto van de parkeerder op meerdere dagen zonder betaling stond.",
+   "bron": [
+    21
+   ],
+   "citaat": "heeft een parkeercontroleur geconstateerd dat de auto van eiser"
+  },
+  {
+   "zin": "Hij diende zijn bezwaren digitaal in, maar pas op 30 augustus 2021.",
+   "bron": [
+    23
+   ],
+   "citaat": "De bezwaarschriften tegen de naheffingsaanslagen van 7 juli 2021 zijn eveneens op 30 augustus 2021 ontvangen"
+  },
+  {
+   "zin": "Hij stelde dat de naheffingen ten onrechte waren opgelegd, omdat hij een bewonersvergunning had.",
+   "bron": [
+    25
+   ],
+   "citaat": "Voor zover eiser stelt dat de naheffingsaanslagen ten onrechte zijn opgelegd"
+  },
+  {
+   "zin": "De rechtbank vond dat zijn kentekenwijziging pas na deze periode was doorgegeven.",
+   "bron": [
+    25
+   ],
+   "citaat": "Uit het dossier blijkt niet dat eiser zijn kentekenwijziging eerder heeft doorgegeven"
+  },
+  {
+   "zin": "De naheffingen blijven staan en er komt geen vergoeding van proceskosten.",
+   "bron": [
+    27,
+    29
+   ],
+   "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Bezwaar te laat; naheffingen blijven staan, geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder moet de naheffingen betalen en krijgt geen proceskosten vergoed.",
+  "bron": [
+   29
+  ],
+  "citaat": "De rechtbank verklaart het beroep ongegrond."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "vergunning-niet-geactiveerd",
+   "burger_zegt": "Hij zegt dat hij een bewonersvergunning had, dus de naheffingen waren ten onrechte opgelegd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat hij in die periode niet met een aan zijn vergunning gekoppelde auto parkeerde en daardoor de voorwaarden schond.",
+    "bron": [
+     25
+    ],
+    "citaat": "Omdat eiser in deze periode parkeerde met een auto die niet was gekoppeld aan zijn parkeervergunning"
+   },
+   "bruikbare_zin": {
+    "citaat": "Uit het dossier blijkt niet dat eiser zijn kentekenwijziging eerder heeft doorgegeven",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij voerde geen argumenten aan tegen het oordeel dat zijn bezwaren te laat waren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond de bezwaren niet ontvankelijk, omdat de termijn op de aanslagen duidelijk stond vermeld.",
+    "bron": [
+     24
+    ],
+    "citaat": "terwijl de naheffingsaanslagen duidelijk beschreven dat binnen deze termijn bezwaar moet worden gemaakt"
+   },
+   "bruikbare_zin": {
+    "citaat": "De rechtbank is van oordeel dat verweerder de bezwaarschriften terecht nietontvankelijk heeft verklaard",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bezwaar tegen een naheffingsaanslag moet binnen zes weken worden ingediend.",
+  "type": "regel",
+  "reikwijdte": "bezwaar tegen een naheffingsaanslag",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   23
+  ],
+  "citaat": "buiten de wettelijke termijn van zes weken om bezwaar te maken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "digitale bezwaarschriften via MijnLoket",
+   "ontvangstdatum van de bezwaren"
+  ],
+  "wat_gaf_doorslag": "De ontvangstdatum van 30 augustus 2021 lag buiten de termijn."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver procedurele uitspraak",
+ "raakt": [
+  "bezwaar"
+ ],
+ "klantuitleg": "Een bezwaar tegen een naheffing moet binnen zes weken worden ingediend. Komt u later, dan wordt het bezwaar niet inhoudelijk behandeld. Heeft u een bewonersvergunning, controleer dan of uw kenteken is gekoppeld.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

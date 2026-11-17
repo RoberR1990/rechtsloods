@@ -1,0 +1,158 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2024:218",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "overzicht-doelen-ontvangers",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "provincie Drenthe (gedeputeerde staten)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een man vroeg de provincie Drenthe om een overzicht van alle instanties die zijn persoonsgegevens hadden gekregen. De Raad van State oordeelt in hoger beroep dat de provincie dat overzicht niet hoeft te geven.",
+ "titel": "Provincie hoeft geen overzicht van ontvangers te geven",
+ "kern": {
+  "zin": "De Afdeling vindt dat de burger niet aannemelijk heeft gemaakt dat de provincie zijn persoonsgegevens met anderen heeft gedeeld.",
+  "bron": [
+   40
+  ],
+  "citaat": "[appellant] heeft niet aannemelijk gemaakt dat het college zijn persoonsgegevens heeft verwerkt"
+ },
+ "samenvatting": [
+  {
+   "zin": "De man vroeg de provincie Drenthe om een overzicht van alle ontvangers van zijn persoonsgegevens.",
+   "bron": [
+    20
+   ],
+   "citaat": "verzocht om een overzicht van de ontvangers van de door het college verwerkte persoonsgegevens van [appellant]"
+  },
+  {
+   "zin": "Hij stelde dat uit een brief van 3 januari 2017 blijkt dat de provincie zijn gegevens met anderen heeft gedeeld.",
+   "bron": [
+    20
+   ],
+   "citaat": "Daaruit zou volgens hem blijken dat het college zijn persoonsgegevens heeft verwerkt ‘door deze te delen met andere’"
+  },
+  {
+   "zin": "De provincie zei dat uit onderzoek niet bleek dat zij zijn gegevens had verwerkt.",
+   "bron": [
+    21
+   ],
+   "citaat": "Het college stelt dat niet is gebleken van verwerking van de persoonsgegevens van [appellant]."
+  },
+  {
+   "zin": "De rechtbank vond dat de provincie alleen in haar eigen systemen hoefde te zoeken.",
+   "bron": [
+    23
+   ],
+   "citaat": "Het college dient alleen in de eigen systemen te onderzoeken of er sprake is geweest van verwerking van de persoonsgegevens"
+  },
+  {
+   "zin": "De Afdeling bevestigt dat oordeel en het hoger beroep is ongegrond.",
+   "bron": [
+    44
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd."
+  },
+  {
+   "zin": "De provincie hoeft de kosten van de man niet te vergoeden.",
+   "bron": [
+    45
+   ],
+   "citaat": "Het college hoeft geen proceskosten te vergoeden."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; de burger krijgt geen overzicht van ontvangers.",
+ "gevolg_betrokkene": {
+  "zin": "De uitspraak van de rechtbank blijft staan: de man krijgt geen overzicht van de ontvangers en het college hoeft zijn proceskosten niet te vergoeden.",
+  "bron": [
+   44,
+   45
+  ],
+  "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "zoekslag-onvoldoende",
+   "burger_zegt": "De provincie had ook contact moeten opnemen met Gelderland om te achterhalen hoe men aan mijn gegevens kwam.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De provincie hoeft alleen in haar eigen systemen te zoeken en niet bij een andere provincie navraag te doen.",
+    "bron": [
+     23
+    ],
+    "citaat": "Het college dient alleen in de eigen systemen te onderzoeken of er sprake is geweest van verwerking van de persoonsgegevens"
+   },
+   "bruikbare_zin": {
+    "citaat": "De onderzoeksplicht van het college gaat niet zo ver",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "inzage-niet-volledig",
+   "burger_zegt": "Er is wel gegevensuitwisseling geweest, dus het overzicht van ontvangers is onvolledig.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De man heeft niet aannemelijk gemaakt dat de provincie zijn gegevens met andere bestuursorganen heeft gedeeld.",
+    "bron": [
+     40
+    ],
+    "citaat": "[appellant] heeft niet aannemelijk gemaakt dat het college zijn persoonsgegevens heeft verwerkt, door deze te delen met andere bestuursorganen."
+   },
+   "bruikbare_zin": {
+    "citaat": "moet aannemelijk maken dat er wel gegevensverwerking heeft plaatsgevonden",
+    "bron": [
+     40
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als een bestuursorgaan na onderzoek geloofwaardig zegt dat het geen persoonsgegevens heeft verwerkt, moet de burger aannemelijk maken dat er wel gegevens zijn verwerkt.",
+  "type": "regel",
+  "reikwijdte": "Inzageverzoeken op grond van artikel 15 AVG waarbij de burger stelt dat het bestuursorgaan zijn gegevens heeft verwerkt of gedeeld.",
+  "uitzondering": "Als het bestuursorgaan ongeloofwaardig heeft gezegd dat er geen verwerkingen zijn.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   40
+  ],
+  "citaat": "niet ongeloofwaardig heeft medegedeeld dat er geen verwerkingen zijn, moet aannemelijk maken dat er wel gegevensverwerking heeft plaatsgevonden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "brief van 3 januari 2017",
+   "brief van 20 april 2021 van het college van Gelderland"
+  ],
+  "wat_gaf_doorslag": "De brieven maakten niet aannemelijk dat de provincie zijn gegevens had gedeeld; de provincie had in haar eigen systemen niets gevonden."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2022:148"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 15 lid 1 AVG",
+  "art. 15 lid 3 AVG"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "De partij is de provincie Drenthe, geen gemeente; de uitspraak gaat over zoeken in eigen systemen en is niet specifiek voor een gemeente door te trekken.",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar"
+ ],
+ "klantuitleg": "Vraagt u een organisatie om te laten zien wie uw gegevens heeft gekregen? Dan moet zij eerst in haar eigen systemen zoeken. Zegt zij daarna geloofwaardig dat zij uw gegevens niet heeft verwerkt, dan moet u zelf aannemelijk maken dat dit wel is gebeurd. Deze man had daarvoor te weinig bewijs.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "De partij is de provincie Drenthe; er is geen gemeente bij deze zaak betrokken.",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

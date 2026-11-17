@@ -1,0 +1,159 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2024:4348",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "vergunning-in-betaalgebied",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner uit Amsterdam procedeert over vijf naheffingsaanslagen (de rekening achteraf) voor parkeerbelasting. Tegenpartij is de gemeente Amsterdam, vertegenwoordigd door de heffingsambtenaar; de zaak ligt bij de bestuursrechter van de rechtbank Amsterdam.",
+ "titel": "Verlopen parkeervergunning: rekening achteraf blijft staan",
+ "kern": {
+  "zin": "De rechter vindt de rekening achteraf terecht, omdat de parkeervergunning was verlopen en er niet was betaald.",
+  "bron": [
+   29
+  ],
+  "citaat": "De naheffingsaanslagen zijn daarom terecht opgelegd."
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde vijf naheffingsaanslagen op, omdat de auto zonder betaalde parkeerbelasting stond.",
+   "bron": [
+    15
+   ],
+   "citaat": "omdat eisers auto met kenteken [Kenteken] geparkeerd stond zonder dat de parkeerbelasting was voldaan"
+  },
+  {
+   "zin": "De bewoner vond dat de gemeente hem niet goed had geïnformeerd en dat de naheffingen daarom niet mochten blijven.",
+   "bron": [
+    25
+   ],
+   "citaat": "Eiser vindt het daarom onterecht dat de naheffingsaanslagen in stand worden gelaten"
+  },
+  {
+   "zin": "De gemeente zei dat de bewoner op 7 juli 2023 bericht kreeg dat er geen overloopvergunning kwam, een tijdelijke vergunning.",
+   "bron": [
+    26
+   ],
+   "citaat": "Op 7 juli 2023 is eiser bericht dat hij geen overloopvergunning toegekend krijgt"
+  },
+  {
+   "zin": "De rechter volgt de bewoner niet, omdat hij zelf schreef dat zijn oude vergunning zou aflopen.",
+   "bron": [
+    29
+   ],
+   "citaat": "in zijn beroepschrift schrijft eiser zelf dat zijn oude vergunning zou aflopen"
+  },
+  {
+   "zin": "Het beroep is ongegrond, dus de naheffingsaanslagen blijven staan.",
+   "bron": [
+    31
+   ],
+   "citaat": "Dat betekent dat de naheffingsaanslagen in stand blijven"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; naheffingen blijven staan; geen proceskosten of griffierecht.",
+ "gevolg_betrokkene": {
+  "zin": "Voor de bewoner betekent dit dat de vijf naheffingen blijven staan en dat er geen vergoeding van griffierecht of proceskosten komt.",
+  "bron": [
+   31,
+   32
+  ],
+  "citaat": "Dat betekent dat de naheffingsaanslagen in stand blijven"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente heeft mij niet goed geïnformeerd, dus de naheffingen mogen niet blijven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat de brief van 7 juli 2023 duidelijk was over de geweigerde overloopvergunning.",
+    "bron": [
+     29
+    ],
+    "citaat": "in de brief van 7 juli 2023 aan eiser is bericht dat hem geen overloopvergunning is toegekend"
+   },
+   "bruikbare_zin": {
+    "citaat": "in de brief van 7 juli 2023 aan eiser is bericht dat hem geen overloopvergunning is toegekend",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Mij was verteld dat mijn oude vergunning actief bleef tot de nieuwe ingaat.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank volgt dit niet, omdat de bewoner zelf schreef dat de oude vergunning zou aflopen.",
+    "bron": [
+     29
+    ],
+    "citaat": "De rechtbank volgt dit niet"
+   },
+   "bruikbare_zin": {
+    "citaat": "in zijn beroepschrift schrijft eiser zelf dat zijn oude vergunning zou aflopen",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij parkeren zonder geldige vergunning moet de a-belasting bij het begin van het parkeren worden betaald.",
+  "bron": [
+   28
+  ],
+  "citaat": "a-belasting wordt (in geld of met een parkeer app) betaald bij de aanvang van het parkeren",
+  "type": "regel",
+  "reikwijdte": "parkeren in Amsterdam zonder geldige bewonersvergunning",
+  "uitzondering": "parkeren met een geldige parkeervergunning",
+  "herkomst": "lokale verordening"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "controles met kenteken",
+   "brief van 7 juli 2023",
+   "beroepschrift van de bewoner"
+  ],
+  "wat_gaf_doorslag": "Het eigen beroepschrift, waarin de bewoner schreef dat de vergunning zou aflopen, gaf de doorslag."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Verordening Parkeerbelastingen 2023 Amsterdam (a- en b-belasting)"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Stuur bij een geweigerde tijdelijke vergunning op tijd een schriftelijk bericht, zodat de bewoner weet dat hij zelf moet betalen.",
+   "raakt": "klantcontact",
+   "bron": [
+    29
+   ],
+   "citaat": "in de brief van 7 juli 2023 aan eiser is bericht dat hem geen overloopvergunning is toegekend"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "klantcontact",
+  "tarief-naheffing",
+  "vergunningen"
+ ],
+ "klantuitleg": "Parkeert u na het aflopen van uw vergunning zonder nieuwe vergunning, dan moet u bij het begin van het parkeren betalen. Doet u dat niet, dan kan de gemeente de rekening achteraf sturen. Vraag daarom op tijd een tijdelijke vergunning aan en bewaar de brieven van de gemeente goed.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

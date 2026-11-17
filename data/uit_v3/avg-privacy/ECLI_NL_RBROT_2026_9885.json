@@ -1,0 +1,187 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2026:9885",
+ "relevant": true,
+ "onderwerp": "rechten-betrokkene",
+ "sub": "inzage",
+ "kenmerk": "misbruik-herhaald",
+ "zaaktype": "inzageverzoek",
+ "partijen": {
+  "burger": "burger (dient veel AVG-verzoeken in)",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een man diende in enkele maanden 73 AVG-verzoeken in bij de gemeente Rotterdam. De gemeente weigerde ze als buitensporig en hij gaat in beroep bij de rechtbank Rotterdam.",
+ "titel": "Gemeente mocht AVG-verzoeken weigeren om misbruik, maar motiveerde te laat",
+ "kern": {
+  "zin": "De rechtbank oordeelt dat de verzoeken opzettelijk misbruik zijn, zodat de gemeente ze mocht weigeren; de gemeente legde dit pas in beroep goed uit.",
+  "bron": [
+   42,
+   55
+  ],
+  "citaat": "Alles tezamen bezien is sprake van opzettelijk misbruik door eiser."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger diende tussen november 2024 en februari 2025 73 afzonderlijke AVG-verzoeken in, vaak met meerdere deelverzoeken.",
+   "bron": [
+    25
+   ],
+   "citaat": "De zaken zien op in totaal 73 afzonderlijke verzoeken op grond van de AVG"
+  },
+  {
+   "zin": "De gemeente vond de verzoeken buitensporig en weigerde er gevolg aan te geven.",
+   "bron": [
+    27
+   ],
+   "citaat": "de verzoeken op grond van de artikelen 15-19 AVG buitensporig zijn"
+  },
+  {
+   "zin": "De burger zei dat hij elk verzoek apart had onderbouwd om zijn gegevens te controleren en dat de gemeente geen kwade bedoelingen had aangetoond.",
+   "bron": [
+    36
+   ],
+   "citaat": "Hij stelt al zijn verzoeken afzonderlijk gespecificeerd en gedocumenteerd te hebben ingediend"
+  },
+  {
+   "zin": "De rechtbank zegt dat de gemeente mag weigeren bij kennelijk buitensporige, vooral herhaalde verzoeken, en dat de gemeente dat moet aantonen.",
+   "bron": [
+    37
+   ],
+   "citaat": "Wanneer verzoeken van een betrokkene kennelijk buitensporig zijn, met name vanwege het repetitieve karakter, mag de verwerkingsverantwoordelijke weigeren gevolg te geven aan het verzoek"
+  },
+  {
+   "zin": "Hier is sprake van opzettelijk misbruik: veel verzoeken in korte tijd over dezelfde, bijna niet veranderende gegevens, die gebundeld hadden kunnen worden.",
+   "bron": [
+    42,
+    40,
+    41
+   ],
+   "citaat": "Alles tezamen bezien is sprake van opzettelijk misbruik door eiser."
+  },
+  {
+   "zin": "De rechtbank vernietigt de besluiten omdat de gemeente het misbruik pas in beroep voldoende uitlegde, maar laat de gevolgen in stand.",
+   "bron": [
+    55
+   ],
+   "citaat": "De rechtbank zal deze besluiten vernietigen, maar laat, met toepassing van artikel 8:72, derde lid, aanhef en onder a, van de Awb, de rechtsgevolgen in stand"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Besluiten vernietigd, maar gevolgen blijven; verzoeken mogen geweigerd; alleen griffierecht terug",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente hoeft de verzoeken van de burger niet (alsnog) inhoudelijk te behandelen; hij krijgt € 388 griffierecht terug en geen proceskosten.",
+  "bron": [
+   55,
+   57
+  ],
+  "citaat": "Dit betekent concreet dat het college de verzoeken van eiser niet (alsnog) inhoudelijk hoeft te behandelen."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "misbruik-recht",
+   "burger_zegt": "Zijn verzoeken zijn geen misbruik: ze waren apart onderbouwd en bedoeld om zijn gegevens te controleren.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Hij had de verzoeken kunnen bundelen en splitsen was niet nodig om zijn rechten te beschermen.",
+    "bron": [
+     41
+    ],
+    "citaat": "niet valt in te zien dat eiser deze verzoeken niet gebundeld kon indienen"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet valt in te zien dat eiser deze verzoeken niet gebundeld kon indienen",
+    "bron": [
+     41
+    ]
+   }
+  },
+  {
+   "arg": "motivering",
+   "burger_zegt": "De gemeente heeft niet voldoende aangetoond dat zijn verzoeken buitensporig zijn.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Met de eerste motivering was het opzettelijk misbruik niet aangetoond; pas de extra motivering in beroep was genoeg.",
+    "bron": [
+     38
+    ],
+    "citaat": "heeft het college naar het oordeel van de rechtbank het opzettelijk misbruik niet aangetoond"
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het antwoord op zijn verzoeken om informatie over wat de gemeente met zijn gegevens doet (art. 14 AVG) is een besluit waartegen bezwaar kan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een reactie op zo'n informatieverzoek is een feitelijke handeling en geen besluit, dus bezwaar was niet mogelijk.",
+    "bron": [
+     49
+    ],
+    "citaat": "Het al dan niet verstrekken van informatie betreft een feitelijke handeling."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het al dan niet verstrekken van informatie betreft een feitelijke handeling",
+    "bron": [
+     49
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De gemeente mag een AVG-verzoek weigeren als het kennelijk buitensporig is, vooral door herhaling; de gemeente moet dat aantonen en er moet opzettelijk misbruik zijn, maar kwade trouw is niet nodig.",
+  "type": "regel",
+  "reikwijdte": "AVG-verzoeken (inzage, correctie, wissen) die kennelijk buitensporig zijn, met name door herhaling",
+  "uitzondering": "Het begrip buitensporig wordt beperkt uitgelegd; het aantal verzoeken alleen is niet genoeg",
+  "herkomst": "wet",
+  "bron": [
+   37
+  ],
+  "citaat": "Het is aan de verwerkingsverantwoordelijke, in dit geval het college, om de kennelijk buitensporige aard van de verzoeken aan te tonen."
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "overzicht van de verzoeken met data en grondslagen",
+   "verweerschrift van de gemeente met voorbeelden, zoals acht gelijke verzoeken met dezelfde bijlagen"
+  ],
+  "wat_gaf_doorslag": "Veel verzoeken in korte tijd over dezelfde, bijna ongewijzigde gegevens, die gebundeld hadden kunnen worden."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 12 lid 5 AVG",
+  "art. 14 AVG",
+  "art. 15 AVG",
+  "art. 34 UAVG",
+  "art. 1:3 Awb",
+  "art. 3:2 Awb",
+  "art. 7:12 Awb",
+  "art. 8:72 lid 3 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij het weigeren van AVG-verzoeken als buitensporig meteen in het besluit uit waarom het opzettelijk misbruik is, bijvoorbeeld door aantal, korte tijd en gelijke onderwerpen te noemen.",
+   "raakt": "privacy-fg",
+   "bron": [
+    38
+   ],
+   "citaat": "heeft het college naar het oordeel van de rechtbank het opzettelijk misbruik niet aangetoond"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "U mag uw persoonsgegevens inzien, laten verbeteren of laten wissen, maar dat recht is niet onbeperkt. Doet u in korte tijd heel veel verzoeken over hetzelfde, dan mag de gemeente weigeren als zij kan aantonen dat dit opzettelijk misbruik is. Bundel uw vragen dus in één verzoek; vraagt u alleen om uitleg over wat de gemeente met uw gegevens doet, dan kunt u niet in bezwaar, maar wel naar de Autoriteit Persoonsgegevens of de burgerlijke rechter.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

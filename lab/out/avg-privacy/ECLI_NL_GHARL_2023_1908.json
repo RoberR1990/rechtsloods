@@ -1,0 +1,166 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2023:1908",
+ "relevant": true,
+ "onderwerp": "algoritmes-registraties",
+ "sub": "fraude-signalering",
+ "kenmerk": "fsv",
+ "zaaktype": "fraude-algoritme",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "Belastingdienst",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "Het bedrijf en de Belastingdienst stonden tegenover elkaar bij het Gerechtshof Arnhem-Leeuwarden. Het Hof besliste welke delen van de FSV-stukken geheim mochten blijven en welke niet.",
+ "titel": "Hof: deel FSV-gegevens mag geheim blijven",
+ "kern": {
+  "zin": "Het Hof wijst een deel van de geheimhouding af, maar laat andere FSV-gegevens geheim.",
+  "bron": [
+   86
+  ],
+  "citaat": "bepaalt dat de door de Inspecteur meegedeelde beperking van de kennisneming van de in 2.16 en 2.17 bedoelde persoonsgegevens"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het bedrijf vroeg het Hof om herziening van de uitspraak van 31 maart 2020.",
+   "bron": [
+    30
+   ],
+   "citaat": "verzocht om herziening van de uitspraak van het Hof van 31 maart 2020"
+  },
+  {
+   "zin": "De Belastingdienst legde geschoonde FSV-gegevens over en vroeg om beperkte kennisneming.",
+   "bron": [
+    33
+   ],
+   "citaat": "een verzoek doet om beperkte kennisneming als bedoeld in artikel 8:29 van de Awb"
+  },
+  {
+   "zin": "Het bedrijf was het daar niet mee eens, omdat het de FSV-gegevens niet kon beoordelen.",
+   "bron": [
+    69
+   ],
+   "citaat": "zij daardoor niet in staat is zich een oordeel te kunnen vormen omtrent de inhoud van de FSV-gegevens"
+  },
+  {
+   "zin": "Het Hof vond het risico voor FSV-medewerkers meer dan denkbeeldig door de Toeslagenaffaire en social media.",
+   "bron": [
+    73
+   ],
+   "citaat": "acht het Hof het meer dan denkbeeldig dat medewerkers van de Belastingdienst"
+  },
+  {
+   "zin": "Voor andere namen en BSN's zag het Hof geen gevaar.",
+   "bron": [
+    74
+   ],
+   "citaat": "Nergens uit blijkt, of wordt aannemelijk, dat bekendmaking van de namen van die personen"
+  },
+  {
+   "zin": "Het Hof besliste dat de Belastingdienst die stukken moest overleggen, zonder medewerkerscodes.",
+   "bron": [
+    81
+   ],
+   "citaat": "De Inspecteur dient derhalve ook de FSV-screenprints van de gemachtigde en zijn partner over te leggen"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Hof staat deel geheimhouding toe en wijst deel af",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrijf krijgt meer FSV-stukken te zien, maar namen en codes van FSV-medewerkers blijven weg.",
+  "bron": [
+   81
+  ],
+  "citaat": "met weglating evenwel van de daarin vermelde medewerkerscodes"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "geheimhouding-onterecht",
+   "burger_zegt": "De namen en codes van FSV-medewerkers hoeven niet geheim te blijven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het Hof vond het risico voor FSV-medewerkers groot genoeg en woog dat zwaarder dan het belang van het bedrijf.",
+    "bron": [
+     73
+    ],
+    "citaat": "Het Hof acht dit niet alleen een “gewichtige reden”"
+   },
+   "bruikbare_zin": {
+    "citaat": "het belang dat de Inspecteur heeft bij beperkte kennisneming van die gegevens",
+    "bron": [
+     73
+    ]
+   }
+  },
+  {
+   "arg": "geheimhouding-onterecht",
+   "burger_zegt": "De namen van de klantcoördinator en de BSN's van de gemachtigde en zijn partner moeten zichtbaar worden.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het Hof zag geen gevaar en vond in de AVG geen grond om deze gegevens geheim te houden.",
+    "bron": [
+     74
+    ],
+    "citaat": "Nergens uit blijkt, of wordt aannemelijk, dat bekendmaking van de namen van die personen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Nergens uit blijkt, of wordt aannemelijk, dat bekendmaking van de namen van die personen",
+    "bron": [
+     74
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij geheime stukken in een rechtszaak geldt: de rechter moet heel terughoudend zijn en alleen geheimhouding toestaan als er heel zware redenen zijn.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om beperkte kennisneming van stukken in een bestuursrechtelijke zaak.",
+  "uitzondering": "Als de informatie van groot belang is voor de beoordeling, kan geheimhouding toch niet gerechtvaardigd zijn.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   59
+  ],
+  "citaat": "de grootst mogelijke terughoudendheid dient te worden betracht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "aandacht in parlement en media voor de Toeslagenaffaire",
+   "aard van social media"
+  ],
+  "wat_gaf_doorslag": "Het Hof vond het risico voor medewerkers meer dan denkbeeldig door de brede aandacht voor de Toeslagenaffaire en de manier waarop social media met persoonsgegevens omgaat."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2020:1367",
+   "ECLI:NL:RVS:2018:4318",
+   "ECLI:NL:CRVB:2001:AD5972"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:29 Awb",
+  "art. 8:42 Awb",
+  "art. 8:45 Awb",
+  "art. 8:119 Awb",
+  "art. 6 EVRM",
+  "art. 47 Handvest",
+  "art. 4 AVG",
+  "art. 5 en 6 AVG"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "privacy-fg",
+  "fraude-handhaving",
+  "bezwaar"
+ ],
+ "klantuitleg": "Deze zaak ging niet over een gemeente, maar over de Belastingdienst. Als de overheid stukken geheim wil houden, mag dat alleen bij heel zware redenen; het Hof vond de veiligheid van FSV-medewerkers zo'n reden, maar de privacy van sommige andere mensen niet. Wilt u stukken in uw eigen zaak zien, vraag dan om een kopie en wijs erop dat geheimhouding goed moet worden uitgelegd.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente; zaak gaat over Belastingdienst",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

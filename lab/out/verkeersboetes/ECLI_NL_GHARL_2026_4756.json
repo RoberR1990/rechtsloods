@@ -1,0 +1,155 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2026:4756",
+ "relevant": true,
+ "onderwerp": "voertuig-kenteken",
+ "sub": "wam-verzekering",
+ "kenmerk": "schorsing",
+ "zaaktype": "voertuig-apk-wam",
+ "partijen": {
+  "burger": "kentekenhouder",
+  "wederpartij": "officier van justitie",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een kentekenhouder gaat in hoger beroep bij het hof Arnhem-Leeuwarden tegen een boete van de officier van justitie (CJIB). De boete was voor een bromfiets zonder verzekering.",
+ "titel": "Bromfiets niet verzekerd: boete verlaagd naar nul euro",
+ "kern": {
+  "zin": "Het hof vindt de overtreding bewezen en verwijtbaar, maar zet de boete op 0 euro omdat betalen een te zware last is voor de burger.",
+  "bron": [
+   26
+  ],
+  "citaat": "in onderhavige zaak het sanctiebedrag op grond van artikel 9, lid 2 onder b tot € 0,- dient te worden gematigd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger kreeg een boete van 420 euro omdat zijn bromfiets niet verzekerd was.",
+   "bron": [
+    20
+   ],
+   "citaat": "Aan de betrokkene is bij inleidende beschikking een sanctie van € 420,- opgelegd"
+  },
+  {
+   "zin": "De burger zei dat zijn geestelijke stoornis zo ernstig was dat de overtreding hem niet kan worden verweten.",
+   "bron": [
+    21
+   ],
+   "citaat": "de geestelijke gesteldheid c.q. de geestelijke stoornis zodanig was dat de gedraging niet aan de betrokkene kan worden toegerekend"
+  },
+  {
+   "zin": "Vast stond dat de bromfiets niet verzekerd was en dat de tenaamstelling niet was geschorst.",
+   "bron": [
+    23
+   ],
+   "citaat": "Ten tijde van de registercontrole was het op naam van de betrokkene gestelde voertuig niet verzekerd"
+  },
+  {
+   "zin": "Het hof vond de stoornis niet aannemelijk als reden en zei dat hij hulp van anderen had kunnen inschakelen.",
+   "bron": [
+    25
+   ],
+   "citaat": "had het op zijn weg gelegen om hulp van derden in te schakelen om zijn zaken namens hem te behartigen"
+  },
+  {
+   "zin": "De burger leeft van een bijstandsuitkering en heeft veel openstaande sancties, dus het hof verlaagt de boete tot 0 euro.",
+   "bron": [
+    26
+   ],
+   "citaat": "de betaling van de sanctie een te zware belasting op de financiën van de betrokkene oplevert"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Boete op 0 euro gezet wegens financiële situatie; overtreding blijft verwijtbaar.",
+ "gevolg_betrokkene": {
+  "zin": "De burger hoeft de boete niet te betalen, krijgt het zekerheidsbedrag terug en 1.868 euro proceskosten; de kosten van het administratief beroep worden niet vergoed.",
+  "bron": [
+   36
+  ],
+  "citaat": "veroordeelt de advocaat-generaal tot het vergoeden van de proceskosten van de betrokkene tot een bedrag van € 1.868,-"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Door mijn geestelijke stoornis kan de overtreding mij niet worden verweten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof vindt dat de burger de overtreding wel kan worden verweten.",
+    "bron": [
+     25
+    ],
+    "citaat": "Naar het oordeel van het hof kan de betrokkene de gedraging dan ook worden verweten."
+   },
+   "bruikbare_zin": {
+    "citaat": "had het op zijn weg gelegen om hulp van derden in te schakelen om zijn zaken namens hem te behartigen",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "boete-te-hoog-evenredig",
+   "burger_zegt": "Door mijn financiële situatie en persoonlijke omstandigheden moet de boete naar nul of 50 euro.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Betalen van de boete is een te zware last voor de burger, dus het hof matigt tot 0 euro.",
+    "bron": [
+     26
+    ],
+    "citaat": "de betaling van de sanctie een te zware belasting op de financiën van de betrokkene oplevert"
+   },
+   "bruikbare_zin": {
+    "citaat": "de betaling van de sanctie een te zware belasting op de financiën van de betrokkene oplevert",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als betaling van de boete een te zware last is voor de financiën van de burger, kan het hof de boete matigen tot 0 euro.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Deze kentekenhouder met een bijstandsuitkering, schulden en meer openstaande sancties bij het CJIB.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   26
+  ],
+  "citaat": "in onderhavige zaak het sanctiebedrag op grond van artikel 9, lid 2 onder b tot € 0,- dient te worden gematigd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "registercontrole van de RDW",
+   "stukken van de RDW over verzekering en schorsing",
+   "overzicht van openstaande sancties"
+  ],
+  "wat_gaf_doorslag": "De burger leefde van bijstand en had veel openstaande sancties; betalen was een te zware last."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2024:1012"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 30 lid 2 WAM",
+  "art. 2 lid 3 WAM",
+  "art. 30 lid 3 WAM",
+  "art. 67 lid 1 Wegenverkeerswet 1994",
+  "art. 9 lid 2 onder b Wahv",
+  "art. 11 Wahv"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; wederpartij is de officier van justitie",
+ "raakt": [
+  "klantcontact",
+  "juridische-zaken"
+ ],
+ "klantuitleg": "Bent u kentekenhouder, dan moet het voertuig verzekerd zijn of moet u het kenteken laten schorsen, ook als u het niet gebruikt. Lukt dat niet zelf, dan moet u een ander vragen u te helpen. Kunt u de boete door uw financiële situatie niet betalen, dan kunt u de rechter vragen de boete lager te zetten.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,171 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2025:4206",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Almere",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffingsaanslag (de rekening achteraf) in Almere, omdat zijn betaalde parkeertijd was verstreken. Hij ging in beroep bij de rechtbank Midden-Nederland, tegen de gemeente Almere.",
+ "titel": "Parkeerrekening blijft staan: betalen kon ook anders",
+ "kern": {
+  "zin": "De rechter vond dat de parkeerder redelijkerwijs kon betalen, dus de rekening blijft staan.",
+  "bron": [
+   19
+  ],
+  "citaat": "De rechtbank oordeelt dat het voor eiser redelijkerwijs mogelijk was"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een scanauto zag de auto in Almere staan zonder betaling voor het parkeren.",
+   "bron": [
+    14
+   ],
+   "citaat": "Een scanauto heeft vastgesteld dat de auto daar stond geparkeerd terwijl geen parkeerbelasting was voldaan."
+  },
+  {
+   "zin": "De parkeerder zei dat zijn bezoek langer duurde en dat bijbetalen niet lukte.",
+   "bron": [
+    18
+   ],
+   "citaat": "Dat bleek niet mogelijk, omdat hij al betaald had en de tijd nog niet was verstreken."
+  },
+  {
+   "zin": "De gemeente liet zien dat het parkeerrecht technisch wel te verlengen was.",
+   "bron": [
+    19
+   ],
+   "citaat": "het technisch wel mogelijk is om het parkeerrecht tussentijds te verlengen"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente te laat op het bezwaar besliste, maar dat dit niet tot vernietiging leidt.",
+   "bron": [
+    17
+   ],
+   "citaat": "er bestaat geen wettelijke bepaling waaruit volgt dat als een bestuursorgaan te laat uitspraak doet op het bezwaar"
+  },
+  {
+   "zin": "De rechter vond ook dat de parkeerder op een andere manier had kunnen betalen.",
+   "bron": [
+    19
+   ],
+   "citaat": "Het parkeerrecht had hij ook via een parkeerapplicatie kunnen voldoen."
+  },
+  {
+   "zin": "De parkeerder krijgt het griffierecht niet terug en het beroep is afgewezen.",
+   "bron": [
+    23
+   ],
+   "citaat": "Eiser krijgt daarom het griffierecht niet terug."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; te laat beslissen had geen gevolg.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder blijft de rekening betalen en krijgt het griffierecht niet terug.",
+  "bron": [
+   23
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "app-automaat-werkte-niet",
+   "burger_zegt": "Bijbetalen was niet mogelijk toen het bezoek langer duurde.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat betalen op een andere manier wel mogelijk was.",
+    "bron": [
+     19
+    ],
+    "citaat": "De rechtbank oordeelt dat het voor eiser redelijkerwijs mogelijk was"
+   },
+   "bruikbare_zin": {
+    "citaat": "het technisch wel mogelijk is om het parkeerrecht tussentijds te verlengen",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "kosten-te-hoog",
+   "burger_zegt": "De administratiekosten en de boete stonden niet in verhouding tot het parkeerrecht.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zei dat een naheffing geen boete is en dat de kosten niet te hoog waren.",
+    "bron": [
+     21
+    ],
+    "citaat": "De kosten zijn niet naar een te hoog bedrag in rekening gebracht."
+   },
+   "bruikbare_zin": {
+    "citaat": "strekt tot het invorderen van niet betaalde parkeerbelasting",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente besliste te laat op het bezwaar.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de late beslissing wel te laat, maar dat maakte de rekening niet ongeldig.",
+    "bron": [
+     17
+    ],
+    "citaat": "er bestaat geen wettelijke bepaling waaruit volgt dat als een bestuursorgaan te laat uitspraak doet op het bezwaar"
+   },
+   "bruikbare_zin": {
+    "citaat": "het feit dat een uitspraak op bezwaar te laat is gedaan niet betekent dat de uitspraak op bezwaar niet geldig is",
+    "bron": [
+     17
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als betalen op een andere manier redelijkerwijs kon, dan blijft de rekening staan.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "parkeerder die bijbetalen wilde, terwijl een app of andere automaten dat mogelijk maakten",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "De rechtbank oordeelt dat het voor eiser redelijkerwijs mogelijk was"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "bewijs van de test door twee medewerkers",
+   "navraag bij de Parkeerservice Almere"
+  ],
+  "wat_gaf_doorslag": "De test door twee medewerkers liet zien dat verlengen technisch kon."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "de gemeente deed juist; alleen de late beslissing viel op, zonder gevolg",
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "betaalapp"
+ ],
+ "klantuitleg": "Had u op een andere manier kunnen betalen, bijvoorbeeld via de app of een andere automaat, dan blijft de rekening voor het parkeren staan. Dat de gemeente te laat op bezwaar besliste, maakt de rekening niet ongeldig. Had u geen andere manier om te betalen, dan kan bezwaar wel zin hebben, zeker met bewijs daarvan.",
+ "gemeente": "Almere",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

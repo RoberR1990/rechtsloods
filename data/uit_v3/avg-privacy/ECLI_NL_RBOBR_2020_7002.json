@@ -1,0 +1,163 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOBR:2020:7002",
+ "relevant": true,
+ "onderwerp": "schade-aansprakelijkheid",
+ "sub": "immateriele-schade",
+ "kenmerk": null,
+ "zaaktype": "schadevergoeding",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "gemeente Eindhoven",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger vraagt de gemeente Eindhoven om correctie van haar gegevens in twee brieven en om schadevergoeding. De gemeente wijst dat af en de burger gaat in beroep bij de rechtbank Oost-Brabant.",
+ "titel": "Geen schadevergoeding voor e-mailadres dat bij buren terechtkwam",
+ "kern": {
+  "zin": "De rechtbank wijst de schadevergoeding af, omdat de burger niet aannemelijk heeft gemaakt dat de inbreuk op haar gegevens tot schade heeft geleid.",
+  "bron": [
+   34
+  ],
+  "citaat": "Eiseres heeft echter niet aannemelijk gemaakt dat de gestelde inbreuk heeft geleid tot schade"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente om haar persoonsgegevens in twee brieven te corrigeren en om schadevergoeding voor de handelwijze van medewerkers.",
+   "bron": [
+    19
+   ],
+   "citaat": "Op 30 augustus 2019 heeft eiseres verweerder verzocht om rectificatie van haar persoonsgegevens."
+  },
+  {
+   "zin": "De burger zei dat de gemeente te laat had beslist, en dat een e-mail van haar met haar e-mailadres in een dossier was gekomen en bij haar buren terecht was gekomen.",
+   "bron": [
+    20
+   ],
+   "citaat": "zonder haar toestemming en zonder dat haar e-mailadres daarin onleesbaar is gemaakt"
+  },
+  {
+   "zin": "De rechtbank vond dat de gemeente op tijd had beslist, dus er was geen vergoeding wegens te laat beslissen.",
+   "bron": [
+    28
+   ],
+   "citaat": "tijdig heeft beslist op het bij brief van 30 augustus 2019 door eiseres ingediende verzoek"
+  },
+  {
+   "zin": "Voor de schade door het e-mailadres vond de rechtbank dat de burger niet aannemelijk had gemaakt dat zij schade had; zij werd al voor het lekken door de buren gestalkt en onderbouwde haar schade niet met controleerbare gegevens.",
+   "bron": [
+    34
+   ],
+   "citaat": "Zij heeft haar schade ook overigens niet onderbouwd met verifieerbare gegevens."
+  },
+  {
+   "zin": "Ook het beroep op het vertrouwensbeginsel (de gemeente zou haar hebben beloofd er samen uit te komen) slaagde niet. Het beroep is ongegrond, het verzoek om schadevergoeding wordt afgewezen en proceskosten krijgt zij niet.",
+   "bron": [
+    37
+   ],
+   "citaat": "geen uitdrukkelijke, ondubbelzinnige en ongeclausuleerde toezegging gedaan"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; schadevergoeding afgewezen; geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen schadevergoeding en ook geen vergoeding van proceskosten; over griffierecht staat niets in de uitspraak.",
+  "bron": [
+   40
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "te-laat-beslist",
+   "burger_zegt": "De gemeente besliste te laat op mijn verzoek, dus ik heb recht op schadevergoeding.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente heeft op tijd gereageerd, dus er is geen schadevergoeding wegens overschrijding van de beslistermijn.",
+    "bron": [
+     29
+    ],
+    "citaat": "Omdat verweerder op tijd heeft gereageerd op het verzoek, is er geen reden voor het toekennen van een schadevergoeding"
+   },
+   "bruikbare_zin": {
+    "citaat": "Omdat verweerder op tijd heeft gereageerd op het verzoek, is er geen reden voor het toekennen van een schadevergoeding",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "schade-onrechtmatig",
+   "burger_zegt": "Mijn e-mailadres is zonder toestemming bij mijn buren terechtgekomen en dat heeft mij schade gedaan.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een inbreuk op de AVG betekent niet vanzelf vergoedbare schade; de burger moet schade onderbouwen.",
+    "bron": [
+     34
+    ],
+    "citaat": "een inbreuk op de AVG niet zonder meer een aantasting van de integriteit van een persoon impliceert"
+   },
+   "bruikbare_zin": {
+    "citaat": "een inbreuk op de AVG niet zonder meer een aantasting van de integriteit van een persoon impliceert en daarmee tot vergoedbare schade leidt",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik mocht erop vertrouwen dat de gemeente en ik er samen uit zouden komen zonder rechter.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente deed geen duidelijke belofte; zij wilde alleen nog eens naar de bezwaren kijken.",
+    "bron": [
+     37
+    ],
+    "citaat": "Uit de door verweerder aan eiseres gestelde vraag blijkt alleen van de bereidheid om (nogmaals) naar haar bezwaren/opmerkingen te kijken."
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een inbreuk op de AVG betekent niet vanzelf vergoedbare schade; de burger moet aannemelijk maken dat de inbreuk haar rechtstreeks heeft getroffen en de integriteit van haar persoon heeft aangetast, en moet haar schade met controleerbare gegevens onderbouwen.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om vergoeding van schade door een inbreuk op de AVG.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   34
+  ],
+  "citaat": "Deze onderbouwing mocht wel van haar verwacht worden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De burger had niet aannemelijk gemaakt dat de inbreuk tot schade leidde, en onderbouwde haar schade niet met controleerbare gegevens."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2020:899"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 12 lid 3 AVG",
+  "art. 16 AVG",
+  "art. 82 AVG",
+  "art. 34 UAVG",
+  "art. 6:106 lid 1 onder b BW"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "uitspraak gaat over bewijs van schade; de rechter noemt geen concrete actie voor de gemeente",
+ "raakt": [
+  "privacy-fg",
+  "bezwaar",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als uw gegevens onjuist zijn gebruikt, betekent dat nog niet dat u automatisch schadevergoeding krijgt. U moet laten zien dat u echt schade heeft door het gebruik van uw gegevens en dat met controleerbare stukken onderbouwen. Heeft u zo'n verzoek gedaan, bewaar dan stukken zoals e-mails of rekeningen.",
+ "gemeente": "Eindhoven",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

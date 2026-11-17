@@ -1,0 +1,128 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBMNE:2025:6972",
+ "relevant": true,
+ "onderwerp": "parkeerbelasting",
+ "sub": "betalen",
+ "kenmerk": null,
+ "zaaktype": "naheffing",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Utrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder kreeg een naheffingsaanslag (de rekening achteraf) voor parkeerbelasting in Utrecht. Hij ging in beroep bij de rechtbank Midden-Nederland tegen de gemeente.",
+ "titel": "Uitrijkaart gekocht, maar niet voor de juiste plek: aanslag blijft",
+ "kern": {
+  "zin": "De rechtbank oordeelde dat de parkeerder zelf moet betalen voor de juiste plek, dus de aanslag blijft.",
+  "bron": [
+   20
+  ],
+  "citaat": "Het is echter de verantwoordelijkheid van eiser om het juiste bedrag te voldoen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Op 27 november 2022 werd op het Berlijnplein in Utrecht vastgesteld dat de auto zonder betaalde parkeerbelasting stond.",
+   "bron": [
+    16
+   ],
+   "citaat": "Op 27 november 2022 om 10:17 uur is vastgesteld dat de auto van eiser"
+  },
+  {
+   "zin": "De parkeerder zegt dat hij bij een automaat in de buurt had betaald en een bankafschrift als bewijs stuurde.",
+   "bron": [
+    18
+   ],
+   "citaat": "Eiser stelt dat hij gebruik heeft gemaakt van een parkeerautomaat in de buurt"
+  },
+  {
+   "zin": "De gemeente zegt dat uit de controle blijkt dat er niet is betaald.",
+   "bron": [
+    19
+   ],
+   "citaat": "Uit bevraging van de NPR blijkt dat er niet betaald is."
+  },
+  {
+   "zin": "De rechtbank ziet wel dat de parkeerder een uitrijkaart kocht, maar vindt dat de betaling op de juiste plek moet.",
+   "bron": [
+    20
+   ],
+   "citaat": "De rechtbank ziet dat eiser een uitrijkaart heeft aangeschaft"
+  },
+  {
+   "zin": "Het beroep is ongegrond, dus de parkeerder krijgt geen gelijk.",
+   "bron": [
+    22
+   ],
+   "citaat": "Het beroep is ongegrond. Dat betekent dat eiser geen gelijk krijgt."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; aanslag blijft staan, griffierecht niet terug.",
+ "gevolg_betrokkene": {
+  "zin": "De aanslag blijft staan en de parkeerder krijgt het griffierecht niet terug.",
+  "bron": [
+   22
+  ],
+  "citaat": "Eiser krijgt zijn griffierecht niet terug."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "wel-betaald-fout-zone-kenteken",
+   "burger_zegt": "De parkeerder zegt dat hij wel had betaald bij een automaat in de buurt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens de rechtbank ligt de betaalplicht bij de parkeerder, ook voor de juiste plek.",
+    "bron": [
+     20
+    ],
+    "citaat": "Het is echter de verantwoordelijkheid van eiser om het juiste bedrag te voldoen"
+   },
+   "bruikbare_zin": {
+    "citaat": "via de door de gemeente geboden betaalmogelijkheden en voor de juiste locatie",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie parkeerbelasting moet betalen, moet het juiste bedrag voldoen via de betaalmogelijkheden van de gemeente en voor de juiste locatie.",
+  "type": "regel",
+  "reikwijdte": "betaald parkeren binnen de gemeente",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   20
+  ],
+  "citaat": "Het is echter de verantwoordelijkheid van eiser om het juiste bedrag te voldoen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "bankafschrift van een betaling bij een filiaal",
+   "controle van betalingen (NPR)"
+  ],
+  "wat_gaf_doorslag": "Het bankafschrift liet een uitrijkaart zien, geen betaling voor deze plek."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter zag geen fout bij de gemeente; de betaalplicht van de parkeerder stond vast",
+ "raakt": [
+  "bezwaar",
+  "klantcontact",
+  "betaalapp"
+ ],
+ "klantuitleg": "Een naheffing is terecht als u niet voor de juiste plek en op de juiste manier heeft betaald. Een uitrijkaart kopen is niet hetzelfde als parkeerbelasting betalen voor die plek. Heeft u een betaling voor die plek en dat moment, bewaar dan het bewijs en laat dat zien bij bezwaar.",
+ "gemeente": "Utrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

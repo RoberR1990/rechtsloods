@@ -1,0 +1,159 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBOVE:2024:594",
+ "relevant": true,
+ "onderwerp": "toezicht-handhaving",
+ "sub": "boete",
+ "kenmerk": null,
+ "zaaktype": "boete-ap",
+ "partijen": {
+  "burger": "gemeente Enschede",
+  "wederpartij": "Autoriteit Persoonsgegevens",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "De gemeente Enschede kreeg van de Autoriteit Persoonsgegevens een boete van 600.000 euro voor wifi-tracking in de binnenstad. De gemeente ging in beroep bij de rechtbank Overijssel.",
+ "titel": "Privacyboete van 600.000 euro voor wifi-tracking vernietigd",
+ "kern": {
+  "zin": "De rechtbank vernietigt de boete van 600.000 euro, omdat de AP niet genoeg had onderzocht wie met de wifi-gegevens te herkennen is.",
+  "bron": [
+   79,
+   83
+  ],
+  "citaat": "De enkele stelling van de AP dat bedoelde medewerkers dit redelijkerwijs zouden kunnen doen overtuigt de rechtbank niet."
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Enschede telde passanten in de binnenstad met sensoren die het wifi-signaal van mobiele telefoons opvingen.",
+   "bron": [
+    65
+   ],
+   "citaat": "met tien sensoren het MAC-adres is opgevangen van eigenaren/gebruikers van mobiele apparaten waarop de wifi stond ingeschakeld"
+  },
+  {
+   "zin": "De Autoriteit Persoonsgegevens gaf de gemeente daarvoor een boete van 600.000 euro.",
+   "bron": [
+    23
+   ],
+   "citaat": "een bestuurlijke boete opgelegd van € 600.000,-"
+  },
+  {
+   "zin": "De AP verklaarde het bezwaar van de gemeente ongegrond.",
+   "bron": [
+    25
+   ],
+   "citaat": "heeft de AP het bezwaar ongegrond verklaard"
+  },
+  {
+   "zin": "De rechtbank vindt dat de AP niet goed genoeg heeft onderzocht of personen echt met de wifi-gegevens te herkennen zijn.",
+   "bron": [
+    79
+   ],
+   "citaat": "de AP onvoldoende heeft onderzocht of de door haar genoemde manieren het inderdaad"
+  },
+  {
+   "zin": "Daarom vernietigt de rechtbank de boete.",
+   "bron": [
+    83
+   ],
+   "citaat": "zal het bestreden besluit van 6 april 2022 vernietigen en het boetebesluit van 11 maart 2021 herroepen"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "De boete van 600.000 euro vervalt; de AP betaalt de kosten.",
+ "gevolg_betrokkene": {
+  "zin": "De boete van 600.000 euro vervalt. De AP moet de proceskosten van 3.027,78 euro en het griffierecht van 365 euro betalen.",
+  "bron": [
+   94,
+   95
+  ],
+  "citaat": "veroordeelt de AP in de proceskosten, tot op heden begroot op € 3.027,78"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "ap-onderzoek-onvoldoende",
+   "burger_zegt": "De gemeente zegt dat de AP niet goed heeft onderzocht of personen echt te herkennen zijn met de wifi-gegevens.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank oordeelt dat de AP onvoldoende heeft onderzocht of identificatie in deze situatie echt mogelijk is.",
+    "bron": [
+     79
+    ],
+    "citaat": "de AP onvoldoende heeft onderzocht of de door haar genoemde manieren het inderdaad"
+   },
+   "bruikbare_zin": {
+    "citaat": "de AP onvoldoende heeft onderzocht of de door haar genoemde manieren het inderdaad",
+    "bron": [
+     79
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente zegt dat de gehashte wifi-gegevens geen persoonsgegevens zijn.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank vindt dat de AP niet heeft bewezen dat de gemeente persoonsgegevens verwerkte.",
+    "bron": [
+     80
+    ],
+    "citaat": "niet heeft bewezen dat eiser met de door hem gebruikte methode persoonsgegevens heeft verwerkt"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet heeft bewezen dat eiser met de door hem gebruikte methode persoonsgegevens heeft verwerkt",
+    "bron": [
+     80
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij de vraag of wifi-gegevens persoonsgegevens zijn, moet de AP onderzoeken of identificatie van personen redelijkerwijs te verwachten is, met kosten, tijd en technologie.",
+  "type": "regel",
+  "reikwijdte": "Zaken waarin de AP stelt dat gehashte of gepseudonimiseerde gegevens persoonsgegevens zijn.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   79
+  ],
+  "citaat": "het redelijkerwijs te verwachten is dat de genoemde middelen worden gebruikt om de natuurlijke persoon direct of indirect te identificeren"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "MAC-adressen uit de wifi-sensoren",
+   "onderzoeksrapport van de AP",
+   "stukken van de gemeente en de AP"
+  ],
+  "wat_gaf_doorslag": "De AP onderzocht niet goed of een persoon met de wifi-gegevens redelijkerwijs te herkennen is."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2018:590"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 4 onder 1 AVG",
+  "art. 5 lid 1 onder a AVG",
+  "art. 6 lid 1 AVG",
+  "art. 83 lid 5 onder a AVG",
+  "art. 18 lid 1 Uitvoeringswet AVG",
+  "art. 1:2 Awb",
+  "art. 1:3 Awb",
+  "overweging 26 AVG"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "De rechter legt de gemeente niets op; de uitspraak gaat over de bewijslast van de AP.",
+ "raakt": [
+  "privacy-fg",
+  "ict-informatiebeveiliging"
+ ],
+ "klantuitleg": "Deze zaak ging niet over uw inzage, maar over een boete voor de gemeente. De rechter vond dat de Autoriteit Persoonsgegevens niet genoeg had bewezen dat de gemeente met wifi-sensoren gegevens van personen verwerkte. Daarom vervalt de boete van 600.000 euro; over uw eigen inzage- of correctieverzoek zegt deze uitspraak niets.",
+ "gemeente": "Enschede",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}
