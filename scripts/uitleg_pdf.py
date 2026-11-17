@@ -12,9 +12,9 @@ from matplotlib.patches import FancyBboxPatch, FancyArrowPatch, Rectangle
 
 OUT = "/home/claude/rechtzoeker/docs/uitleg"
 DATA = "/home/claude/data"
-GROEN, GRIJS, LGRIJS, ZWART = "#00811F", "#6B6B6B", "#EEEEEE", "#222222"
+GROEN, GRIJS, LGRIJS, ZWART = "#0F5C63", "#6B6B6B", "#EEEEEE", "#222222"
 C_ROBERT, C_ORCH, C_SONNET, C_HAIKU, C_REV, C_SCRIPT, C_MEM = (
-    "#00811F", "#1F4E9C", "#B8620A", "#7B3FA0", "#B3261E", "#4A4A4A", "#0E7C86")
+    "#0F5C63", "#1F4E9C", "#B8620A", "#7B3FA0", "#B3261E", "#4A4A4A", "#0E7C86")
 LICHT = {c: c + "22" for c in (C_ROBERT, C_ORCH, C_SONNET, C_HAIKU, C_REV, C_SCRIPT, C_MEM)}
 plt.rcParams["font.family"] = "DejaVu Sans"
 
