@@ -924,7 +924,7 @@ async function domStart(){try{const r=await fetch("data/domeinen/index.json");if
   document.title="Rechtsloods "+DT.naam+" — Loodst je door de rechtspraak, in gewone taal";const du=$("#dek-u");if(du)du.textContent=DT.uitspraken}
  const k=$("#domknop");k.onclick=e=>{e.stopPropagation();const m=$("#dommenu");if(m.hidden){domMenu();m.hidden=false;k.setAttribute("aria-expanded","true");const f=m.querySelector("button");f&&f.focus()}else domSluit()};
  document.addEventListener("click",e=>{if(!e.target.closest(".domkies"))domSluit()});document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!$("#dommenu").hidden){domSluit();k.focus()}})}
-const KLEUR={parkeerbelasting:"#0F5C63",parkeerverbod:"#1C5A9E",vergunningen:"#A84A00",parkeernormen:"#6B4FA0","garages-privaat":"#5A7D2A","handhaving-privacy":"#8A6D1E"};
+const KLEUR={parkeerbelasting:"#0F5C63",parkeerverbod:"#1C5A9E",vergunningen:"#A84A00",parkeernormen:"#6B4FA0","garages-privaat":"#A23B72","handhaving-privacy":"#8A6D1E"};
 const LIJN={"hr-lijn":["l-hr","Vaste lijn: Hoge Raad of Raad van State"],"vaste-lijn":["l-vast","Vaste lijn: hoven en rechtbanken"],"losse-uitspraken":["l-los","Losse uitspraken"],"verdeeld":["l-verdeeld","Verdeeld"],"weinig":["l-weinig","Weinig rechtspraak"]};
 const WW={kosten2019:["Vóór kostenregel 1 juli 2019","Op 1 juli 2019 is de maatstaf voor de naheffingskosten verruimd. Oordelen over kosten van vóór die datum kunnen achterhaald zijn.","ECLI:NL:GHDHA:2025:225"],omgevingswet2024:["Vóór Omgevingswet 2024","Sinds 1 januari 2024 geldt de Omgevingswet: bestemmingsplannen zijn omgevingsplannen geworden. Toets of de redenering nog past."]};
 const BEGRIPPEN=[
@@ -1951,7 +1951,7 @@ domStart().then(()=>Promise.all(["meta.json","verrijkt.json","tekstindex.json","
  {let t;new MutationObserver(()=>{clearTimeout(t);t=setTimeout(()=>{wlWeg();wlMarkeer($("#view"))},40)}).observe($("#view"),{childList:true})}
  {const v=$("#view");new MutationObserver(()=>{if(LAB_VIEWS.test(document.body.dataset.view)&&v.firstElementChild&&v.firstElementChild.id!=="labregel"){v.insertAdjacentHTML("afterbegin",labRegel());v.querySelector("#labregel .linkknop").onclick=()=>go("over-contact")}}).observe(v,{childList:true})}
  if(false)try{const t=await fetch("data/_v3_voorbeeld.json");if(t.ok){(await t.json()).forEach(x=>{if(x&&x.ecli)V3TEST[x.ecli]=x})}}catch(x){}
- S.tax={};Object.entries(tax).forEach(([k,t])=>{S.tax[k]={label:t.label,rechtsgang:t.rechtsgang,uitleg:t.uitleg,concept:t.concept,sub:Object.fromEntries(Object.entries(t.sub||{}).map(([sk,sv])=>[sk,typeof sv==="string"?sv:(sv&&sv.label)||sk]))};if(t.kleur)KLEUR[k]=t.kleur;else if(!KLEUR[k])KLEUR[k]=["#0F5C63","#1C5A9E","#A84A00","#6B4FA0","#5A7D2A","#8A6D1E"][Object.keys(S.tax).length%6]});
+ S.tax={};Object.entries(tax).forEach(([k,t])=>{S.tax[k]={label:t.label,rechtsgang:t.rechtsgang,uitleg:t.uitleg,concept:t.concept,sub:Object.fromEntries(Object.entries(t.sub||{}).map(([sk,sv])=>[sk,typeof sv==="string"?sv:(sv&&sv.label)||sk]))};if(t.kleur)KLEUR[k]=t.kleur;else if(!KLEUR[k])KLEUR[k]=["#0F5C63","#1C5A9E","#A84A00","#6B4FA0","#A23B72","#8A6D1E"][Object.keys(S.tax).length%6]});
  S.arg=arg||{};S.stand=stand||{};S.lijnen=lijnen||{};S.reg=reg||{x:[],v:{}};S.tekstIdx=ti;
  const fout=new Set(verr.filter(v=>!v.relevant).map(v=>v.ecli));
  S.meta=meta.filter(m=>!fout.has(m.e));S.meta.forEach(m=>S.byE[m.e]=m);
