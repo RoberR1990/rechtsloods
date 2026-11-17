@@ -51,7 +51,7 @@ Weg van home: hero-zoekbalk, roterende stapel, "Wat je hier kunt doen", "Net uit
 
 ### #lab
 - H1 "Lab". Intro: "Ideeën die we hebben uitgeprobeerd maar niet hebben uitgewerkt. Ze zijn er om het gesprek te openen: zie je er iets in, of juist niet? Laat het Robert of Sander weten." (link naar contact in Over).
-- Rijen (titel, 1 zin wat het is, label "Idee, niet uitgewerkt", link): Mijn gemeente (#mijn), Waar gemeenten de mist in gaan (#mist), Bezwaar-assistent (#assistent), Wist je dat…? (#weetjes), Borden en verkeersbesluiten (#borden, "proef").
+- Rijen (titel, 1 zin wat het is, label "Idee, niet uitgewerkt", link): Mijn gemeente (#mijn), Waar gemeenten de mist in gaan (#mist), Bezwaar-assistent (#assistent), Wist je dat…? (#weetjes). (Borden en verkeersbesluiten is op 17 nov 2026 verwijderd: experiment wordt niet verder verkend; #borden stuurt door naar #lab.)
 - Op elk van die Lab-views zelf: bovenaan één regel "Lab · Idee, niet uitgewerkt · Geef je mening" (zelfde stijl).
 
 ### #over

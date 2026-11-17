@@ -991,6 +991,7 @@ function instKort(i){return i.replace("Rechtbank ","Rb. ").replace("Gerechtshof 
 function zekerChip(m,kort){const v=S.verr[m.e];if(kort)return v?"":'<span class="chip auto" title="Automatisch ingedeeld; nog geen samenvatting">nog niet samengevat</span>';return v?(v.jurist?'<span class="chip jur">Gecontroleerd door jurist</span>':'<span class="chip ai" title="Samenvatting door AI; elke zin is gekoppeld aan een alinea en gecontroleerd op dekking">AI-samenvatting</span>'):'<span class="chip auto" title="Automatisch ingedeeld op basis van de tekst; nog geen samenvatting">Nog niet samengevat</span>'}
 function gezagChips(m){let s="";if(m.st==="vernietigd")s+='<span class="chip rood" title="In een hogere aanleg (gedeeltelijk) vernietigd">Vernietigd in hogere aanleg</span>';else if(m.st==="bevestigd")s+='<span class="chip goed" title="In een hogere aanleg bevestigd of gevolgd">bevestigd in hogere aanleg</span>';
  if(m.c>=3)s+=`<span class="chip" title="Zo vaak aangehaald in andere ${DT.uitspraken}">${m.c}× aangehaald</span>`;
+ if(!m.st&&(m.r||[]).some(x=>x.richting==="later"&&/^(hogerBeroep|cassatie|sprongcassatie)$/.test(x.type)))s+='<span class="chip let" title="Er is een latere uitspraak in hogere aanleg; bekijk de procesketen op de uitspraakpagina">Vervolg in hogere aanleg</span>';
  if(m.vv)s+='<span class="chip let" title="Voorlopig spoedoordeel, geen definitief oordeel over de zaak">spoedoordeel</span>';
  if(m.ww)s+=`<span class="chip let" title="${esc(WW[m.ww][1])}">${esc(WW[m.ww][0])}</span>`;return s}
 /* terugverwezen: de uitkomst van deze uitspraak is niet het eindoordeel */
@@ -1000,12 +1001,13 @@ function kant(m){const vw=(m.r||[]).find(x=>x.richting==="later"&&x.type==="verw
  const r=kant0(m),v=S.verr[m.e],t=isV3(v)?(v.uitkomst_toelichting||""):"";
  if(m.n==="Hoge Raad"&&/gelijk$/.test(r[1])){const x=t.match(/(?:terug naar|verwezen naar)\s+(?:de\s+|het\s+)?(hof|rechtbank)/i);if(x)return[r[0],`${r[1]}, zaak terug naar ${x[1].toLowerCase()==="hof"?"het hof":"de rechtbank"}`]}
  return r}
-function kant0(m){const v=S.verr[m.e];
+function kant0(m){const r=kant00(m),v=S.verr[m.e];if(isV3(v)&&(v.procesvorm==="voorlopige voorziening"||v.procesvorm==="kort geding")&&!/voorlopig|Voor de rechtsontwikkeling/.test(r[1]))return[r[0],r[1]+" (voorlopig)"];return r}
+function kant00(m){const v=S.verr[m.e];
  if(isV3(v)){const P=v.partijen||{},u=v.uitkomst,park=!(m.o==="parkeernormen"||m.o==="garages-privaat");
   if(v.procesvorm==="cassatie belang der wet")return["neutraal","Voor de rechtsontwikkeling"];
   if(u==="burger wint")return["burger",park?DT.Burger+" krijgt gelijk":"Burger krijgt gelijk"];
   if(u==="wederpartij wint")return P.gemeente_is_partij?["gemeente","Gemeente krijgt gelijk"]:["neutraal",/officier/i.test(P.wederpartij||"")?"Officier van justitie krijgt gelijk":"Wederpartij krijgt gelijk"];
-  if(u==="deels")return["neutraal","Deels gelijk"];if(u==="alleen procedure")return["neutraal","Alleen procedure"];return["neutraal","Uitkomst onbekend"]}
+  if(u==="deels")return["neutraal","Deels gelijk"];if(u==="alleen procedure")return["neutraal","Geen oordeel over de kern"];return["neutraal","Uitkomst onbekend"]}
  if(v){const u=v.uitkomst,t=v.uitkomst_type;let k=u==="gelijk burger"?"burger":u==="gelijk gemeente"?"gemeente":"neutraal";
   let l=u==="gelijk burger"?(m.o==="parkeernormen"||m.o==="garages-privaat"?"Burger/wederpartij krijgt gelijk":DT.Burger+" krijgt gelijk"):u==="gelijk gemeente"?"Gemeente krijgt gelijk":u==="deels"?"Deels gelijk":u==="niet-ontvankelijk"?"Niet-ontvankelijk":"Anders";
   if(t==="voorlopige voorziening")l+=" (spoed)";else if(t==="procedure")l+=" (procedure)";return[k,l]}
@@ -1057,7 +1059,7 @@ function navVan(h){if(/^(mijn|maand|check|borden|mist|assistent|weetjes|lab)(-|$
 function setNav(h){const n=navVan(h);document.querySelectorAll(".hoofdnav [data-nav]").forEach(b=>{const on=b.dataset.nav===n;on?b.setAttribute("aria-current","page"):b.removeAttribute("aria-current")});const nv=$("#nav");if(nv)nv.classList.remove("open");const mk=$("#menuknop");if(mk)mk.setAttribute("aria-expanded","false")}
 function homeKop(){const dl=$("#domlabel"),d=domLijst().find(x=>x.slug===DOM.slug)||{};if(dl)dl.textContent=(d.label||DT.naam).split(/[,:(]/)[0].trim()}
 function render(){ZMAX=20;const h=location.hash.slice(1)||"start";document.body.dataset.view=h.split("-")[0];homeKop();setNav(h);window.scrollTo(0,0);
- const r=h==="snel"?vSnel():h.startsWith("trends-")?vTrend(h.slice(7)):h==="start"?vStart():h==="zoeken"?vZoek():h==="zoekalles"?vAlles():h==="rotterdam"?(PROF.gemeente=PROF.gemeente||"Rotterdam",vMijn()):h==="domein"?vDomein():h==="weetjes"?vWeetjes():h==="mist"?(location.replace("#lab"),vLab()):h==="borden"?vBorden():h==="mijn"?vMijn():h==="maand"?vMaand():h==="check"?vCheck():/^(mijn|maand|check)-/.test(h)?gedeeldOpen(h):h==="volgen"?vVolgen():(h==="over"||h.startsWith("over-"))?vOver(h.slice(5)):h==="lab"?vLab():h.startsWith("sub-")?vSub(h.slice(4)):h==="roadmap"?vRoadmap():h==="assistent"?vAssistent():h==="stand"?vStand():
+ const r=h==="snel"?vSnel():h.startsWith("trends-")?vTrend(h.slice(7)):h==="start"?vStart():h==="zoeken"?vZoek():h==="zoekalles"?vAlles():h==="rotterdam"?(PROF.gemeente=PROF.gemeente||"Rotterdam",vMijn()):h==="domein"?vDomein():h==="weetjes"?vWeetjes():h==="mist"?(location.replace("#lab"),vLab()):h==="borden"?(location.replace("#lab"),vLab()):h==="mijn"?vMijn():h==="maand"?vMaand():h==="check"?vCheck():/^(mijn|maand|check)-/.test(h)?gedeeldOpen(h):h==="volgen"?vVolgen():(h==="over"||h.startsWith("over-"))?vOver(h.slice(5)):h==="lab"?vLab():h.startsWith("sub-")?vSub(h.slice(4)):h==="roadmap"?vRoadmap():h==="assistent"?vAssistent():h==="stand"?vStand():
   h.startsWith("stand-")?vStandSub(h.slice(6)):h.startsWith("onderwerp-")?(F.o=h.slice(10),F.s="",F.g="",vZoek()):h.startsWith("uitspraak-")?vDetail(unhashE(h.slice(10))):vStart();
  const t=$("#view h1");if(t)document.title=t.textContent+" · Rechtsloods "+$("#domlabel").textContent;maakToc();if(render.n++)$("#main").focus({preventScroll:true})}
 render.n=0;
@@ -1225,8 +1227,8 @@ function vSub(key){const[o,k]=key.split("--"),t=S.tax[o];if(!t||!t.sub[k]){vDome
   tx.push("","Uitleg gemaakt met AI (Rechtsloods); de uitspraak zelf is leidend.");
   kopieer(tx.join("\n"),"Gekopieerd, plak het in je mail of notitie")};
  bindTip("sub-"+key);bindUitRij();bindGa();bindKaarten()}
-const LAB_ITEMS=[["mijn","Mijn gemeente","Kies je gemeente en zie welke uitspraken en situaties bij jou passen.","Idee, niet uitgewerkt"],["assistent","Bezwaar-assistent","Plak een bezwaarschrift en zie welke uitspraken erbij passen.","Idee, niet uitgewerkt"],["weetjes","Wist je dat…?","Opvallende feiten uit de uitspraken.","Idee, niet uitgewerkt"],["borden","Borden en verkeersbesluiten","Borden en verkeersbesluiten van een gemeente naast de uitspraken.","Idee, niet uitgewerkt, proef"]];
-const LAB_VIEWS=/^(mijn|maand|check|borden|mist|assistent|weetjes|rotterdam)$/;
+const LAB_ITEMS=[["mijn","Mijn gemeente","Kies je gemeente en zie welke uitspraken en situaties bij jou passen.","Idee, niet uitgewerkt"],["assistent","Bezwaar-assistent","Plak een bezwaarschrift en zie welke uitspraken erbij passen.","Idee, niet uitgewerkt"],["weetjes","Wist je dat…?","Opvallende feiten uit de uitspraken.","Idee, niet uitgewerkt"]];
+const LAB_VIEWS=/^(mijn|maand|check|mist|assistent|weetjes|rotterdam)$/;
 function labRegel(){return `<p class="labregel" id="labregel"><b>Lab</b> &middot; Idee, niet uitgewerkt &middot; <button type="button" class="linkknop" data-ga="over-contact">Geef je mening</button></p>`}
 function vLab(){
  $("#view").innerHTML=`<div class="kopbeeld"><div><h1>Lab</h1><p class="start-sub">Ideeën die we hebben uitgeprobeerd maar niet hebben uitgewerkt. Ze zijn er om het gesprek te openen: zie je er iets in, of juist niet? Laat het Robert of Sander weten. <button type="button" class="linkknop" data-ga="over-contact">Contact</button></p></div><figure class="kopfig"><img src="assets/lab.webp" loading="lazy" alt="" onerror="this.parentNode.remove()"></figure></div>
@@ -1373,7 +1375,7 @@ function vZoek(kop){const an=analyseer(Q);
   ${F.o?`<div><label for="f-s">Subonderwerp</label><select id="f-s">${opt("","Alle",F.s)}${subs.map(([k,l])=>opt(k,l+" ("+S.meta.filter(m=>m.o===F.o&&m.s===k).length+")",F.s)).join("")}</select></div>`:""}
   <div><label for="f-n">Instantie</label><select id="f-n">${opt("","Alle niveaus",F.n)}${["Hoge Raad","Raad van State","Gerechtshof","Rechtbank","Bijzonder college"].map(n=>opt(n,n,F.n)).join("")}</select></div>
   <div><label for="f-j">Jaar uitspraak</label><select id="f-j">${opt("","2016 – 2026",F.j)}${[...JAREN].reverse().map(j=>opt(String(j),String(j),F.j)).join("")}</select></div>
-  <div><label for="f-k">Uitkomst</label><select id="f-k">${opt("","Alle uitkomsten",F.k)}${opt("burger","Burger krijgt gelijk",F.k)}${opt("gemeente","Gemeente krijgt gelijk",F.k)}${opt("neutraal","Deels, procedure, anders",F.k)}</select></div>
+  <div><label for="f-k">Uitkomst</label><select id="f-k">${opt("","Alle uitkomsten",F.k)}${opt("burger","Burger krijgt gelijk",F.k)}${opt("gemeente","Gemeente krijgt gelijk",F.k)}${opt("neutraal","Deels, geen oordeel over de kern, anders",F.k)}</select></div>
   <div><label for="f-g">Gemeente</label><select id="f-g">${opt("","Alle gemeenten",F.g)}${gem.map(([g,n])=>opt(g,g+" ("+n+")",F.g)).join("")}</select></div>
   <label class="vink"><input type="checkbox" id="f-gp"${F.gp==="true"?" checked":""}> Gemeente is partij</label>
   <label class="vink"><input type="checkbox" id="f-av" ${F.av?"checked":""}> Verberg vernietigde uitspraken</label>
@@ -1421,7 +1423,7 @@ function gedeeldBalk(){if(!PROFVIEW)return"";const n=KM.lijst.filter(k=>PROFVIEW
  return `<div class="gedeeld" role="status"><span>Je bekijkt een <b>gedeeld profiel</b>${PROFVIEW.gemeente?` van <b>${esc(PROFVIEW.gemeente)}</b>`:""}${n?` · ${n} situaties uit`:""}.</span><button class="knop klein" id="pv-neem">Overnemen als mijn profiel</button><button class="linkknop" id="pv-terug">Terug naar mijn eigen</button></div>`}
 function bindGedeeld(){const a=$("#pv-neem");if(a)a.onclick=()=>{PROF=Object.assign({},PROF,{gemeente:PROFVIEW.gemeente,uit:PROFVIEW.uit});PROFVIEW=null;profBewaar();toast("Profiel overgenomen");render()};
  const t=$("#pv-terug");if(t)t.onclick=()=>{PROFVIEW=null;render()}}
-function subnav(nu){return `<div class="subnav" role="tablist">${[["mijn","Overzicht"],["maand","5 dingen deze maand"],["check","Check je gemeente"],["borden","Borden en besluiten (beta)"]].map(([h,l])=>`<button role="tab" aria-selected="${h===nu}" class="${h===nu?"aan":""}" data-ga="${h}">${l}</button>`).join("")}<button class="linkknop" id="deel" style="margin-left:auto">Deel met een collega</button></div>`}
+function subnav(nu){return `<div class="subnav" role="tablist">${[["mijn","Overzicht"],["maand","5 dingen deze maand"],["check","Check je gemeente"]].map(([h,l])=>`<button role="tab" aria-selected="${h===nu}" class="${h===nu?"aan":""}" data-ga="${h}">${l}</button>`).join("")}<button class="linkknop" id="deel" style="margin-left:auto">Deel met een collega</button></div>`}
 function bindDeel(view){const d=$("#deel");if(d)d.onclick=()=>{const link=deelLink(view),G=P().gemeente;
  modal(`<h2 id="modal-titel" style="font-size:1.15rem;margin-bottom:8px">Deel met een collega</h2><p class="uitleg" style="margin:0 0 10px">De link opent deze pagina met ${G?`het profiel van <b>${esc(G)}</b>`:"jouw keuzes"}. De ontvanger kiest zelf of hij het overneemt. Er gaan geen persoonsgegevens mee.</p>
  <div style="display:flex;gap:6px"><input readonly value="${esc(link)}" style="flex:1;font:inherit;padding:8px;border:1.5px solid var(--lijn);border-radius:8px;background:var(--vlak);color:var(--inkt)" onclick="this.select()"></div>
@@ -1482,33 +1484,6 @@ function vMist(){const sub=k=>{const o=Object.keys(S.tax).find(o=>S.tax[o].sub&&
  </div>`}`;
  document.querySelectorAll("[data-mistsub]").forEach(b=>b.onclick=()=>{const k=b.dataset.mistsub,o=Object.keys(S.tax).find(o=>S.tax[o].sub[k]);Object.assign(F,{o:o||"",s:k,n:"",j:"",k:"",g:"",z:"",hb:false,av:false,zt:"",rt:"",gp:"true",mijn:false});Q="";$("#q").value="";go("zoeken")});
  {const sel=$("#mist-g");if(sel)sel.onchange=()=>{MISTG=sel.value;vMist()}}bindGa();bindKaarten()}
-const BORD={E1:"Parkeerverbod",E2:"Stopverbod",E3:"Verbod fietsen/bromfietsen te plaatsen",E4:"Parkeergelegenheid",E5:"Taxistandplaats",E6:"Gehandicaptenparkeerplaats",E7:"Laden en lossen",E8:"Parkeergelegenheid voor een bepaalde categorie",E9:"Vergunninghouders",E10:"Begin parkeerzone",E11:"Einde parkeerzone",E12:"P+R",E13:"Carpoolplaats"};
-const SOORT={gehandicapt:"Gehandicaptenplaats",laadpaal:"Laadpaal",vergunninghouders:"Vergunninghouders","laden-lossen":"Laden en lossen","blauwe-zone":"Blauwe zone",parkeerverbod:"Parkeerverbod",deelauto:"Deelauto",overig:"Overig"};
-const PROEF={"Alphen aan den Rijn":"alphen-aan-den-rijn","Rotterdam":"rotterdam"};
-async function vBorden(kies){const G=kies||P().gemeente,slug=PROEF[G];
- const kop=`<div class="titel"><div><h1>Borden en verkeersbesluiten<span class="beta">beta</span></h1><div class="sub">Welke parkeerborden staan er volgens open data, welke verkeersbesluiten zijn er gepubliceerd, en waar staat een bord zonder dat we een besluit vonden?</div></div></div>${subnav("borden")}
- <div class="betabox"><b>Dit is een proef</b><ul><li>We combineren twee openbare bronnen: verkeersbesluiten uit de officiële bekendmakingen en het landelijke bordenbestand van het NDW.</li><li>Een <b>signaal</b> betekent: hier staat een bord waarvoor we geen passend verkeersbesluit vonden. Dat is een reden om na te kijken, <b>geen bewijs</b> dat er iets mis is. In een steekproef was ongeveer 1 op de 3 signalen onterecht.</li><li>Waarom het ertoe doet: rechters vernietigen naheffingen en boetes als een bord geen geldig verkeersbesluit heeft.</li><li>Nu alleen voor Alphen aan den Rijn en Rotterdam. Dit wordt beter naarmate we meer gemeenten en betere koppelingen toevoegen.</li></ul></div>`;
- if(DOM.slug!=="parkeren"){$("#view").innerHTML=kop+'<div class="paneel"><p class="zin" style="margin:0">Deze proef is er alleen voor parkeren.</p></div>';bindGa();return}
- if(!slug){$("#view").innerHTML=kop+`<div class="paneel"><p class="zin" style="margin-top:0">${G?`Voor <b>${esc(G)}</b> is er nog geen proef.`:'Kies eerst je gemeente bij <button class="linkknop" data-ga="mijn">Mijn gemeente</button>.'} Bekijk een voorbeeld:</p><div class="snelweg">${Object.keys(PROEF).map(g=>`<button class="knop licht" data-proef="${esc(g)}">${esc(g)}</button>`).join("")}</div></div>`;
-  document.querySelectorAll("[data-proef]").forEach(b=>b.onclick=()=>vBorden(b.dataset.proef));bindGa();bindGedeeld();bindDeel("mijn");return}
- $("#view").innerHTML=kop+'<div class="leeg">Gegevens laden…</div>';
- let d;try{const r=await fetch("proef/verkeer-"+slug+".json");if(!r.ok)throw 0;d=await r.json()}catch(e){$("#view").innerHTML=kop+'<div class="paneel">Gegevens konden niet worden geladen.</div>';bindGa();return}
- const bord=Object.entries(d.borden_per_code||{}).sort((a,b)=>b[1]-a[1]),bs=Object.entries(d.besluiten_per_soort||{}).sort((a,b)=>b[1]-a[1]);
- const osm=(la,lo)=>`https://www.openstreetmap.org/?mlat=${la}&mlon=${lo}#map=19/${la}/${lo}`;
- $("#view").innerHTML=kop+`${kies&&kies!==P().gemeente?`<p class="uitleg" style="margin:-6px 0 12px">Voorbeeld: ${esc(d.gemeente)}</p>`:""}
- <div class="getal"><div><b>${nl(d.besluiten_totaal)}</b><span>parkeerbesluiten sinds 2016</span></div><div><b>${nl(bord.reduce((a,b)=>a+b[1],0))}</b><span>parkeerborden in het NDW-bestand</span></div><div><b>${nl(d.signalen_totaal)}</b><span>straten met een signaal (${nl(d.signalen_borden_totaal)} borden)</span></div></div>
- <div class="raster r2" style="margin-bottom:16px">
-  <div class="paneel"><div class="kop2"><h2>Signalen om na te kijken</h2><span class="uitleg">meeste borden eerst</span></div>
-   ${(d.signalen||[]).slice(0,25).map(x=>{const v=x.voorbeeld||{};return `<div class="sig"><span><b>${esc(x.straat)}</b> · ${esc(SOORT[x.soort]||x.soort)}</span><span class="uitleg">${x.borden} bord${x.borden>1?"en":""}${x.zekerheid==="laag"?" · onzeker":""}</span><small>Geen besluit gevonden voor ${esc((SOORT[x.soort]||x.soort).toLowerCase())} in deze straat sinds 2016${v.laatst_gezien?` · bord laatst gezien ${fmt(v.laatst_gezien)}`:""} · <a href="${osm(v.lat,v.lon)}" target="_blank" rel="noopener">kaart</a>${v.beeld?` · <a href="${esc(v.beeld)}" target="_blank" rel="noopener">foto NDW</a>`:""}</small></div>`}).join("")}
-   ${d.signalen_totaal>25?`<p class="uitleg" style="margin:8px 0 0">De eerste 25 van ${nl(d.signalen_totaal)}.</p>`:""}</div>
-  <div class="raster" style="gap:16px;align-content:start">
-   <div class="paneel"><div class="kop2"><h2>Parkeerborden</h2></div>${bord.slice(0,10).map(([c,n])=>`<div class="mist-rij"><span>${esc(BORD[c.replace(/[a-z-].*$/,"")]||c)} <span class="uitleg">(${esc(c)})</span></span><span class="mist-n">${nl(n)}</span></div>`).join("")}</div>
-   <div class="paneel"><div class="kop2"><h2>Verkeersbesluiten per soort</h2></div>${bs.map(([k,n])=>`<div class="mist-rij"><span>${esc(SOORT[k]||k)}</span><span class="mist-n">${nl(n)}</span></div>`).join("")}</div>
-  </div></div>
- <div class="paneel" style="margin-bottom:16px"><div class="kop2"><h2>Laatst gepubliceerde besluiten</h2></div><div class="lijst">${(d.besluiten||[]).slice(0,8).map(b=>`<div class="sig"><span><a href="${esc(b.url)}" target="_blank" rel="noopener">${esc(b.titel.length>140?b.titel.slice(0,140)+"…":b.titel)}</a></span><span class="uitleg">${fmt(b.datum)}</span></div>`).join("")}</div></div>
- <details class="paneel"><summary style="cursor:pointer;font:700 1rem var(--display)">Beperkingen en bronnen</summary><ul style="margin:10px 0 0;padding-left:18px">${(d.beperkingen||[]).map(x=>`<li class="zin" style="margin:4px 0">${esc(x)}</li>`).join("")}</ul>
-  <p class="uitleg" style="margin:10px 0 0">Opgehaald ${fmt(String(d.opgehaald).slice(0,10))}. Bronnen: <a href="https://zoek.officielebekendmakingen.nl" target="_blank" rel="noopener">officiële bekendmakingen</a> (KOOP) en het <a href="https://docs.ndw.nu/" target="_blank" rel="noopener">NDW-bordenbestand</a>.</p></details>`;
- bindGa();bindGedeeld();bindDeel("mijn")}
 function weetjesData(){const V3=S.meta.filter(m=>isV3(S.verr[m.e])),pct=(a,b)=>b?Math.round(a/b*100):0,L=m=>["burger wint","deels"].includes(S.verr[m.e].uitkomst);
  const GP=V3.filter(m=>(S.verr[m.e].partijen||{}).gemeente_is_partij);
  const jaar={};S.meta.forEach(m=>{const j=+m.d.slice(0,4);jaar[j]=(jaar[j]||0)+1});const js=Object.keys(jaar).map(Number).sort();const vol=js.filter(j=>j<new Date(laatsteDatum()).getFullYear());const j0=vol[0],j1=vol[vol.length-1];
@@ -1689,6 +1664,7 @@ async function vDetail(e){const m=S.byE[e];if(!m){$("#view").innerHTML=`<div cla
  <div class="detail"><div class="links">
   <div class="paneel kop-uitspraak"><h1 style="font-size:1.5rem;margin-bottom:8px">${esc(titel(m))}</h1>
    <p class="uitkomst-regel"><span class="pil ${k}">${esc(l)}</span><span>${esc(m.i)}, ${fmt(m.d)}</span>${zekerChip(m)}${gezagChips(m)}</p>
+   ${isV3(v)&&v.uitkomst==="alleen procedure"?`<p class="uitleg" style="margin:-4px 0 10px">${v.uitkomst_toelichting?`<b>Waar het wel over ging:</b> ${esc(v.uitkomst_toelichting)} `:""}De rechter beslist hier niet wie inhoudelijk gelijk heeft; de uitspraak gaat over de gang van zaken, zoals proceskosten, griffierecht, een dwangsom, een termijn, niet-ontvankelijk of een advies van de Advocaat-Generaal.</p>`:""}
    ${m.st==="vernietigd"?`<div class="signaal rood" style="margin-bottom:12px"><span>!</span><span><b>Deze uitspraak is in een hogere aanleg (gedeeltelijk) vernietigd.</b>Bekijk de procesketen hieronder voordat je hem gebruikt.</span></div>`:""}
    ${m.ww?`<div class="signaal geel" style="margin-bottom:12px"><span>§</span><span><b>${esc(WW[m.ww][0])}</b>${esc(WW[m.ww][1])}${WW[m.ww][2]?" "+ecliKnop(WW[m.ww][2],"bron"):""}</span></div>`:""}
    <div class="knoppen acties"><button class="knop" id="k-jurist">Kopieer voor je jurist</button><button class="linkknop" id="k-bron">Kopieer bronvermelding</button><button class="linkknop" id="k-link">Kopieer link</button></div></div>
@@ -1926,7 +1902,6 @@ const TOUR=[
  {hash:"zoekalles",voor:()=>{Q="naheffingsaanslag tarief";const q=$("#q");if(q)q.value=Q},sel:"#az-uit section",h:"Eén zoekopdracht, alle rechtsgebieden",p:"Rechtsloods zoekt in alle rechtsgebieden tegelijk en laat per gebied zien wat er is. Zo weet je meteen waar je moet zijn. Er verspringt niets: jij kiest zelf."},
  {hash:async()=>{const Z=await zoekIdxLaad(),an=analyseer("naheffingsaanslag tarief"),rows=Z[DOM.slug]||[];let best=null,bs=0;rows.forEach(m=>{const x=scoreK(m,an);if(x>bs){bs=x;best=m}});return best?"uitspraak-"+hashE(best.e):"zoeken"},sel:"#view h1",h:"De uitspraak in gewone taal",p:"Bovenaan lees je wat de rechter besliste. Bij elke zin staat de alinea uit de uitspraak waar het op rust, zodat je het zelf kunt nalezen."},
  {hash:"stand-parkeerbelasting--naheffingskosten",sel:"#view h1",h:"De lijn van de rechter",p:"Stand van het recht zet per onderwerp de regels op een rij, met bronnen. Hier kopieer je ook een beslisbrief of een antwoord voor de raad."},
- {hash:"mijn",sel:"#view h1",h:"Wat speelt er bij jouw gemeente?",p:"Kies je gemeente en zet situaties uit die bij jou niet spelen. Je krijgt dan een maandoverzicht en een checklist die bij jouw gemeente passen."},
  {hash:"volgen",sel:"#view h1",h:"Op de hoogte blijven",p:"Hier kies je wat je wilt volgen en krijg je het feedadres voor Teams, Outlook of een feedlezer."},
  {hash:"start",sel:"#view h1",h:"Terug op de startpagina",p:"Dat was de reis: van een vraag naar een bron, en weer terug. Je kunt de rondleiding altijd opnieuw starten via Over."}
 ];
