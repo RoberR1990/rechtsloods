@@ -1,0 +1,14 @@
+# Besluiten domein Evenementen, horeca en APV-vergunningen (slug `evenementen-horeca`)
+Alle besluiten zijn autonoom genomen (aanbevolen optie) en **door Robert te bevestigen**. Omkeerbaar tot publicatie.
+
+| # | Besluit | Reden |
+|---|---|---|
+| 1 | Branch `claude/project-thread-otgw2u` vanaf `main` (de repo kent geen `live`-branch; `main` is de live-snapshot). | Repo is publieke snapshot |
+| 2 | Bronnen: Open Data Rechtspraak, feeds bestuursrecht + civielrecht 2016-2026 (inhoudsindicatie). Strafrecht (APV-overtredingen) en belastingrecht (precario) niet in de feed-selectie. | Strafzaken zijn zelden bestuurlijke vergunningkwesties; precario-terras komt via bestuursrecht binnen. |
+| 3 | Onderwerpen: evenementen, exploitatie-horeca, terrassen, standplaats-markt, alcoholwet, sluitingstijden, overige-exploitatie (seksinrichting, speelhal) + overig. | Afbakening coordinator; "APV-vergunningen" in de domeinnaam rechtvaardigt overige exploitatie als klein subonderwerp. |
+| 4 | Uitgesloten (vastgelegd in `grens.json`): coffeeshop/Opiumwet/Damocles, woonwagenstandplaatsen, Winkeltijdenwet/koopzondag, bouw/omgevingsvergunning/bestemmingsplan waar horeca slechts functie is, belasting/sociale zekerheid/vreemdelingen/arbeid, privaatrechtelijke huur. | Eigen domeinen of buiten scope. Winkeltijden = mogelijk later aanvullen. |
+| 5 | Bibob of woningsluiting (Opiumwet 13b) als kern: blijft bij Openbare orde. Overlap wordt gemarkeerd (`overlap`), laag 1 zet kern-Bibob op `relevant:false` met reden "grens openbare-orde". Zaken met Bibob als bijzaak bij een weigering/intrekking blijven hier. | Opdracht: markeren, niet dubbel tellen. |
+| 6 | Uitkomst vanuit de indiener van het beroep (ook omwonende/concurrent die tegen een verleende vergunning optreedt). Domeinregels bovenop `lab/aanscherping_l1c.md`: bevestigde weigering/intrekking/sluiting = wederpartij wint; kortere sluiting of omzetting intrekking→schorsing/waarschuwing = deels; vernietigd wegens motivering maar gemeente mag nieuw besluit nemen = burger wint; alleen proceskosten/termijn = alleen procedure; voorlopige voorziening: wie krijgt wat hij vroeg wint, toelichting begint met "Voorlopig: ". | Spiegelt eerdere domeinen. |
+| 7 | Geen privacy-FG-blokkade: zaken zijn bedrijfs-/vergunningzaken. Wel geen persoonsnamen van exploitanten/omwonenden in samenvattingen ("de exploitant"); naam van het bedrijf alleen als het in de uitspraak openbaar is en nodig voor begrip: toch weglaten. Publicatie blijft een besluit van Robert. | Voorzichtigheid, AVG. |
+| 8 | Verbruik: Haiku laag 1 voor alle relevante kandidaten; Sonnet laag 2 voor prioriteit 1 (hoogste rechters/hoven) + Rotterdam als partij + dunne subonderwerpen, plafond ±400. | Patroon sociaal-domein. |
+| 9 | Domeinafbeelding: placeholder + ChatGPT-prompt in STAND. | Roberts werkwijze. |
