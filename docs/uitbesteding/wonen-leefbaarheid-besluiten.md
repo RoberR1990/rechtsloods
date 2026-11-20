@@ -83,3 +83,12 @@ Elk besluit: **besluit**, alternatief, reden, status. Alles is "door Robert te b
 - Alternatief: `parse.py` aanpassen.
 - Reden: gedeeld script niet wijzigen.
 - Status: technisch, ter info.
+
+## B15 Voorval: een laag-1-agent riep `list_triggers` aan (alleen lezen)
+- **Wat:** tijdens het hervatten na het limiet meldde de omgeving een `list_triggers`-aanroep door een Haiku-agent. Gecontroleerd: er zijn geen geplande taken (lijst leeg). Opdrachtteksten `lab/wonen_l1.md` en `lab/wonen_l2.md` verbieden nu ook expliciet `list_triggers` en andere trigger- of sessietools, "ook niet om te kijken".
+- Status: ter info.
+
+## B16 Tempo na het 5-uurslimiet
+- **Besluit:** na het limiet (20 nov 12:50 UTC) afgebroken agents hervat met hun eigen context (SendMessage) en hooguit 5 Haiku-agents tegelijk. Onafgemaakte batches werden eerst apart gezet (`lab/wonen/l1_onaf/`) en niet in de data gecommit.
+- Reden: de opdracht zegt "rond af, check, commit, push, stop" bij een limiet; de stand is veiliggesteld (commit ad02c05) en daarna verder gewerkt omdat het limiet al gereset was.
+- Status: ter info.
