@@ -8,7 +8,10 @@ De ruwe data staat niet in git. Opnieuw opbouwen (idempotent, ~15 min):
 R=$(pwd); for x in data scripts site; do ln -sfn $R/$x /home/claude/$x; done; ln -sfn $R /home/claude/rechtzoeker
 for y in $(seq 2016 2026); do e=$([ $y = 2026 ] && echo 2026-11-20 || echo $y-12-31); python3 scripts/feed.py "http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht" $y-01-01 $e data/feeds/best$y.json; done
 python3 scripts/dom_fetch.py wonen-leefbaarheid 8 && python3 scripts/dom_parse.py wonen-leefbaarheid
-python3 scripts/maak_in_l1.py wonen-leefbaarheid && python3 scripts/maak_in_v3.py wonen-leefbaarheid
+python3 -I lab/wonen_select.py filter   # zet uitspraken.json terug op de gefilterde 2.469
+python3 scripts/maak_in_l1.py wonen-leefbaarheid && python3 scripts/maak_in_v3.py wonen-leefbaarheid && python3 -I lab/wonen_herstel_in_v3.py
+[ -e data/kandidaten2.json ] || echo '[]' > data/kandidaten2.json   # nodig vóór dom_parse (B14)
+pip install -q fastembed
 ```
 (`lab/wonen_zoek.py` en `lab/wonen_select.py` alleen opnieuw draaien als de kandidaten moeten veranderen.)
 
@@ -34,7 +37,7 @@ python3 scripts/maak_in_l1.py wonen-leefbaarheid && python3 scripts/maak_in_v3.p
 7. `scripts/dom_select.py` heeft een vaste domeinlijst; voor dit domein een eigen `lab/wonen_select.py` (B05).
 8. Keten die ongewijzigd bruikbaar is: `dom_fetch` → `dom_parse` → `maak_in_l1`/`maak_in_v3` → `check_l1`/`check_uit_v3` + `lab/extra_check.py` → `dom_build` → `lab/stand_dom.py` → `maak_feeds`.
 9. Bekende bug `maak_in_v3.py`: de kop-regex `WEG` bevat `bijlage`; een korte regel "Bijlage(n)" in een citaat zet `skip` aan tot de volgende kop. Controle per uitspraak volgt in stap 5.
-10. `fastembed` ontbreekt → `dom_build.py --geen-embed` als installeren niet lukt (alleen "vergelijkbare uitspraken" valt dan weg).
+10. `fastembed` ontbrak; `pip install fastembed` werkt (model wordt gedownload), dus `dom_build.py` kan met embeddings.
 11. `dom_build.py` zet `status: live` bij ≥ 95% laag 1 → na de build terugzetten naar `in-opbouw` met label "eerste versie" (opdracht: niet live).
 12. `index.html` laadt optionele bestanden (`stand.json`) alleen als ze in `bestanden` van de index staan; `stand_dom.py samen` regelt dat.
 13. Laag-2-check: `check_uit_v3.py` (schema, citaten letterlijk), `lab/extra_check.py` (ECLI's uit invoer, artikelnummers in tekst, "bewoner").
@@ -43,7 +46,7 @@ python3 scripts/maak_in_l1.py wonen-leefbaarheid && python3 scripts/maak_in_v3.p
 
 ## Aantallen
 **Stap 1** (`data/dom/wonen-leefbaarheid/afbakening.json`, `kandidaten.json`, `afgevallen.json`)
-- Feeds bestuursrecht 2016-2026: 293.000+ uitspraken doorzocht; volledige-tekstzoeker: 26 termen, 3.661 bestuursrechtelijke treffers (1.535 civiel/straf genegeerd).
+- Feeds bestuursrecht 2016-2026: 283.357 uitspraken doorzocht; volledige-tekstzoeker: 26 termen, 3.661 bestuursrechtelijke treffers (1.535 civiel/straf genegeerd).
 - Kandidaten: 3.620 (2.289 via inhoudsindicatie, 1.331 alleen via de volledige tekst). Vooraf uitgesloten: 159 ander domein, 102 belasting, 37 openbare-orde-kern, 36 bouwen/bestemmingsplan.
 - Na tekstfilter: **2.469 relevant** (weg: 485 geen woonbegrip in tekst, 367 planologisch, 198 alleen bijzin, 62 belastingrecht, 23 CRvB, 15 ander onderwerp, 1 openbare orde).
 - Hoogste rechter 947 (allemaal Raad van State), rechtbank 1.522. Per jaar: 2016 77 · 2017 93 · 2018 131 · 2019 191 · 2020 243 · 2021 250 · 2022 267 · 2023 279 · 2024 384 · 2025 311 · 2026 243.
