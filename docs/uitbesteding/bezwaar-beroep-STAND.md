@@ -26,6 +26,9 @@ Branch `claude/project-thread-d3rjh5` (niet live; niet in site-index). Gepauzeer
 ## Domeinafbeelding
 Placeholder ontbreekt nog (`site/assets/dom-bezwaar-beroep.webp`, 1100x825). ChatGPT-prompt (docs/huisstijl.md): "Platte vectorillustratie, dunne donkerblauwe contourlijnen (#1F2F44), vlakken in petrol #0F5C63 en zeer licht grijsblauw #E2E6E6, één oranje accent #A84A00, witte achtergrond, 4:3, geen tekst, geen groen. Een ambtenarenbureau: een bureau met een dossiermap, een kalender met omcirkelde datum en een weegschaal; generiek Nederlands, geen herkenbare Rotterdamse bouwwerken." Daarna `python3 -I tools/herkleur_afbeeldingen.py <bestand>`.
 
+## Let op: juiste repo
+Deze PR staat in RoberR1990/rechtsloods (publieke snapshot). De site draait waarschijnlijk vanaf RoberR1990/rechtzoeker (branch `live`). Bij hervatten: werk daar verder (branch bezwaar-beroep vanaf live) en neem `scripts/bezwaar/`, `data/dom/bezwaar-beroep/` en `data/uit_l1/bezwaar-beroep/` van deze branch over.
+
 ## Volgende actie
 1. Tussenuitspraken-zonder-dictum herstellen (klein script).
 2. Selectie laag 2 (`scripts/dom_select`-patroon, RvS + Rb Rotterdam, ±200), kostenschatting.
