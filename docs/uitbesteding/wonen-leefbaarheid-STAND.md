@@ -55,16 +55,17 @@ pip install -q fastembed
 - Precisie: Haiku 100 → 84 in / 8 uit / 8 twijfel (≈90%); na laatste regel ≈95%. Eigen controle 15/15 in. Bijlagen-bug: 2 uitspraken geraakt (RVS:2019:871, RBROT:2022:2347), 9 met beslissing buiten in_v3 (`lab/wonen/bijlagen_check.json`).
 **Stap 2**: 7 onderwerpen, 25 subs, 22 argumenten, 9 zaaktypes, 9 teams; `uitkomstregels` in config. Config-check: 0 fouten.
 **Stap 3**: 99 batches van 25 (`data/batches/l1_wonen-leefbaarheid.json`).
+- 20 nov 12:50 UTC: 5-uurslimiet geraakt (Haiku, 11 agents tegelijk). Klaar en gecontroleerd (FOUTEN: 0): 16 batches = 400 uitspraken (0001-0004, 0007, 0010, 0013, 0016, 0017, 0019, 0022, 0025, 0028, 0029, 0031, 0032). Onaf (geparkeerd in `lab/wonen/l1_onaf/`, niet in de data): 0005, 0011, 0023, 0026, 0030. Laag 1 tot nu toe: 10 niet relevant, zekerheid laag 38.
 
 ## Verbruik (schatting vooraf / werkelijk)
 | stap | agents | schatting | werkelijk |
 |---|---|---|---|
 | 2 taxonomie (Sonnet) | 1 | 100k | 121k |
 | 1 precisie (Haiku) | 1 | 100k | 143k |
-| 3 laag 1 (Haiku, 3×25 per agent) | 33 | 2.469 × 3,6k ≈ 8,9M | (loopt) |
+| 3 laag 1 (Haiku, 3×25 per agent) | 33 | 2.469 × 3,6k ≈ 8,9M | proefagent 3 batches: 299k (≈4,0k per uitspraak); golf 1 (10 agents) afgebroken op limiet |
 
 ## Laatste commit
 (volgt)
 
 ## Volgende actie
-Stap 3: Haiku-agents per 3 batches met `lab/wonen_l1.md` (batch-ids `l1-wonen-leefbaarheid-0001` t/m `-0099`); overslaan wat al in `data/uit_l1/wonen-leefbaarheid/` staat met `FOUTEN: 0`. Daarna `python3 scripts/check_l1.py wonen-leefbaarheid`.
+Stap 3: Haiku-agents per 3 batches met `lab/wonen_l1.md` voor de batches die nog niet in `data/uit_l1/wonen-leefbaarheid/` staan (open: 0005, 0006, 0008, 0009, 0011, 0012, 0014, 0015, 0018, 0020, 0021, 0023, 0024, 0026, 0027, 0030, 0033-0099). Hooguit 5 agents tegelijk (limiet). Daarna `python3 scripts/check_l1.py wonen-leefbaarheid` en `python3 -I lab/wonen_l1_nacontrole.py --batches 25`.
