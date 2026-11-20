@@ -1,0 +1,131 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:10363",
+ "relevant": true,
+ "onderwerp": "woonruimteverdeling",
+ "sub": "procedure",
+ "kenmerk": "niet-ontvankelijk",
+ "zaaktype": "urgentieverklaring",
+ "partijen": {
+  "burger": "woningzoekende (verzoekster)",
+  "wederpartij": "college van B&W Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "voorlopige voorziening",
+ "intro": "Een woningzoekende was het niet eens met de urgentieverklaring die zij kreeg en vroeg de voorzieningenrechter van de rechtbank Rotterdam om een voorlopige voorziening. Het college van Rotterdam was de andere partij.",
+ "titel": "Spoedverzoek over urgentie niet beoordeeld: griffierecht te laat betaald",
+ "kern": {
+  "zin": "De voorzieningenrechter beoordeelt het verzoek niet, omdat het griffierecht niet op tijd is betaald en daarvoor geen verontschuldiging is gebleken.",
+  "bron": [
+   16
+  ],
+  "citaat": "Er is dus geen verontschuldiging voor dit verzuim gebleken."
+ },
+ "samenvatting": [
+  {
+   "zin": "Het college gaf de woningzoekende een urgentieverklaring, waar zij het niet mee eens was.",
+   "bron": [
+    8
+   ],
+   "citaat": "waarin aan haar een urgentieverklaring is toegekend"
+  },
+  {
+   "zin": "Zij maakte bezwaar en vroeg om een voorlopige voorziening.",
+   "bron": [
+    8
+   ],
+   "citaat": "de voorzieningenrechter gevraagd een voorlopige voorziening te treffen"
+  },
+  {
+   "zin": "De griffier gaf haar twee weken om € 194 griffierecht te betalen, maar dat is niet op tijd gebeurd.",
+   "bron": [
+    14
+   ],
+   "citaat": "Verzoekster heeft het griffierecht niet op tijd betaald."
+  },
+  {
+   "zin": "Zij zei nooit een melding van de aangetekende brief te hebben gekregen, maar maakte niet aannemelijk dat zij het niet kon weten.",
+   "bron": [
+    16
+   ],
+   "citaat": "Hiermee heeft verzoekster onvoldoende aannemelijk gemaakt dat zij niet op de hoogte was"
+  },
+  {
+   "zin": "Het verzoek is daarom niet-ontvankelijk; zij mag wel een nieuw verzoek indienen.",
+   "bron": [
+    18
+   ],
+   "citaat": "het verzoekster vrij staat een nieuw verzoek om een voorlopige voorziening in te dienen"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Voorlopig: verzoek niet-ontvankelijk wegens te laat betaald griffierecht.",
+ "gevolg_betrokkene": {
+  "zin": "De woningzoekende krijgt geen inhoudelijke beoordeling van haar spoedverzoek, maar kan een nieuw verzoek indienen; over proceskosten en terugbetaling van griffierecht staat niets in de beslissing.",
+  "bron": [
+   18
+  ],
+  "citaat": "De voorzieningenrechter wijst erop dat het verzoekster vrij staat een nieuw verzoek om een voorlopige voorziening in te dienen."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Zij zegt nooit een melding van de aangetekende brief over het griffierecht te hebben gekregen, ondanks de PostNL-app.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dit maakt niet aannemelijk dat zij niet wist dat de brief op te halen was.",
+    "bron": [
+     16
+    ],
+    "citaat": "Hiermee heeft verzoekster onvoldoende aannemelijk gemaakt dat zij niet op de hoogte was"
+   },
+   "bruikbare_zin": {
+    "citaat": "Verzoekster heeft verder geen reden gegeven voor het niet betalen van het griffierecht.",
+    "bron": [
+     16
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wordt het griffierecht niet of niet op tijd betaald, dan beoordeelt de voorzieningenrechter de zaak niet inhoudelijk, tenzij het verzuim verontschuldigbaar is.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om een voorlopige voorziening bij de rechtbank",
+  "uitzondering": "Het niet of te laat betalen is verontschuldigbaar",
+  "herkomst": "wet",
+  "bron": [
+   12
+  ],
+  "citaat": "Als het griffierecht niet of niet tijdig wordt betaald, kan de voorzieningenrechter de zaak niet inhoudelijk beoordelen."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "track & trace van PostNL",
+   "e-mail van de woningzoekende van 26 augustus 2025"
+  ],
+  "wat_gaf_doorslag": "De brief lag bij een PostNL-punt en de woningzoekende maakte niet aannemelijk dat zij dat niet kon weten."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:83 Awb",
+  "art. 8:82 Awb",
+  "art. 8:41 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver procedurele uitspraak over griffierecht bij de rechtbank",
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "woonruimteverdeling-urgentie"
+ ],
+ "klantuitleg": "Wie de rechter om een spoedmaatregel vraagt, moet het griffierecht op tijd betalen, anders wordt de zaak niet inhoudelijk bekeken. Let dus op post van de rechtbank, ook aangetekende post die u bij een afhaalpunt kunt ophalen. Na een niet-ontvankelijk verzoek kunt u een nieuw verzoek indienen.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

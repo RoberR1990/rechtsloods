@@ -1,0 +1,47 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:648",
+ "relevant": true,
+ "onderwerp": "woonruimtevoorraad",
+ "sub": "omzetting-kamerverhuur",
+ "kenmerk": "leefbaarheid-kamerverhuur",
+ "zaaktype": "vergunning-woonruimtevoorraad",
+ "partijen": {"burger": "omwonende (eigenaar van de naastgelegen woning)", "wederpartij": "college van B&W Rotterdam", "gemeente_is_partij": true},
+ "procesvorm": "hoger beroep",
+ "intro": "Een omwonende ging in hoger beroep bij de Raad van State tegen het college van Rotterdam en tegen een uitspraak van de rechtbank. Het gaat om een vergunning voor kamerbewoning door negen studenten in het pand naast zijn woning.",
+ "titel": "Studentenhuis naast uw woning: meldingen alleen bewijzen geen overlast",
+ "kern": {"zin": "De Raad van State vindt dat het college de vergunning voor kamerbewoning mocht verlenen, omdat de meldingen van de omwonende geen structurele overlast laten zien.", "bron": [46], "citaat": "Verder blijkt uit het overzicht niet van structurele overlast."},
+ "samenvatting": [
+  {"zin": "De omwonende woont naast een pand waar sinds 2018 negen studenten kamers huren; hij zegt dat hij overlast heeft en dat zijn woning minder waard wordt.", "bron": [24], "citaat": "Het pand wordt sinds 2018 gebruikt voor de huisvesting van negen studenten."},
+  {"zin": "Het college verleende eerst een vergunning voor kamerbewoning, maar weigerde die in bezwaar alsnog omdat er overlast zou zijn.", "bron": [32], "citaat": "het pand sinds 2018 illegaal wordt bewoond door studenten die geen woongroep vormen en overlast veroorzaken"},
+  {"zin": "De rechtbank vond dat het college onvoldoende had gemotiveerd dat de bewoning geen positieve invloed had op de buurt, en vernietigde die weigering.", "bron": [36], "citaat": "Daarom heeft het college onvoldoende gemotiveerd dat niet is voldaan aan criterium b."},
+  {"zin": "In hoger beroep zegt de omwonende dat er tussen 2019 en juni 2021 wel degelijk overlast was en dat hij meldingen heeft overgelegd.", "bron": [42], "citaat": "In de periode van 2019 tot en met juni 2021 is er wel degelijk overlast geweest."},
+  {"zin": "De Raad van State oordeelt dat een melding nog geen vaststaande overlast is, dat de meldingen alleen van hem kwamen en dat er geen structurele overlast blijkt.", "bron": [46], "citaat": "is het doen van een melding echter niet gelijk te stellen aan het vaststellen van overlast"},
+  {"zin": "Ook zijn beroep op het vertrouwensbeginsel (gewekt vertrouwen) slaagt niet; het hoger beroep en het beroep van rechtswege zijn ongegrond.", "bron": [54], "citaat": "Het hoger beroep is ongegrond."}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep omwonende ongegrond; vergunning kamerbewoning blijft.",
+ "gevolg_betrokkene": {"zin": "De vergunning voor kamerbewoning blijft staan en het college hoeft niet te handhaven; de omwonende krijgt geen vergoeding van proceskosten.", "bron": [64], "citaat": "Het college hoeft geen proceskosten te vergoeden."},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "overig", "burger_zegt": "Er is overlast, dus kamerbewoning heeft geen positieve invloed op het woonmilieu en de leefbaarheid in de buurt.", "oordeel": "verworpen", "waarom": {"zin": "Meldingen komen alleen van de omwonende en tonen geen structurele overlast.", "bron": [46], "citaat": "Verder blijkt uit het overzicht niet van structurele overlast."}, "bruikbare_zin": {"citaat": "het doen van een melding echter niet gelijk te stellen aan het vaststellen van overlast", "bron": [46]}},
+  {"arg": "vertrouwensbeginsel", "burger_zegt": "Door een eerdere last onder dwangsom en een e-mail was het vertrouwen gewekt dat geen vergunning zou worden verleend.", "oordeel": "verworpen", "waarom": {"zin": "Er is geen toezegging gedaan waaruit hij kon afleiden dat het college nooit een vergunning zou verlenen.", "bron": [49], "citaat": "heeft niet aannemelijk gemaakt dat aan hem van de zijde van het college een toezegging of andere uitlating is gedaan"}, "bruikbare_zin": {"citaat": "Uit dit e-mailbericht blijkt niet van een onvoorwaardelijke en ondubbelzinnige toezegging", "bron": [49]}},
+  {"arg": "belanghebbende-handhavingsverzoek", "burger_zegt": "De vergunning was terecht geweigerd, dus het college moest handhaven.", "oordeel": "verworpen", "waarom": {"zin": "Door de vergunning is de situatie gelegaliseerd, dus er is geen reden meer om te handhaven.", "bron": [52], "citaat": "Hierdoor was er geen aanleiding meer om tot handhaving over te gaan."}, "bruikbare_zin": null}
+ ],
+ "rechtsregel": {"zin": "Het college heeft beoordelingsruimte bij de vraag of kamerbewoning een positieve invloed heeft op de buurt, maar moet alle omstandigheden betrekken en zijn oordeel deugdelijk motiveren.", "type": "regel", "reikwijdte": "Criterium b (positieve invloed op woonmilieu en leefbaarheid) bij een vergunning voor kamerbewoning door studenten volgens de Verordening toegang woningmarkt en samenstelling woningvoorraad 2019.", "uitzondering": "Overlast kan een sterke contra-indicatie zijn voor het oordeel dat aan het criterium wordt voldaan.", "herkomst": "oordeel rechter", "bron": [44], "citaat": "Hierbij moet het college alle relevante omstandigheden betrekken en deugdelijk motiveren"},
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": ["overzicht van politiemeldingen", "huurovereenkomsten met clausule over vrijwilligerswerk", "verklaringen van buurtbewoners"], "wat_gaf_doorslag": "De meldingen kwamen alleen van de omwonende en lieten geen structurele overlast zien."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "bevestigt", "eerdere": ["ECLI:NL:RVS:2025:2177", "ECLI:NL:RVS:2025:2200", "ECLI:NL:RVS:2025:2178"]},
+ "wetsartikelen": ["art. 3.2.5 Verordening toegang woningmarkt en samenstelling woningvoorraad 2019", "art. 3.2.2 Verordening toegang woningmarkt en samenstelling woningvoorraad 2019", "art. 3.2.4 Verordening toegang woningmarkt en samenstelling woningvoorraad 2019", "art. 6:24 Awb", "art. 6:19 lid 1 Awb"],
+ "actie_gemeente": [
+  {"actie": "Motiveer een weigering van een vergunning voor kamerbewoning wegens overlast met meer dan losse meldingen: toon de overlast aan.", "raakt": "vergunningen-wonen", "bron": [46], "citaat": "het doen van een melding echter niet gelijk te stellen aan het vaststellen van overlast"},
+  {"actie": "Beschouw vrijwilligerswerk als geborgd als de huurovereenkomst er een clausule over bevat; onderzoek niet of het echt wordt gedaan.", "raakt": "vergunningen-wonen", "bron": [45], "citaat": "het niet aan het college is om onderzoek te doen naar de vraag of het vrijwilligerswerk daadwerkelijk wordt uitgevoerd"}
+ ],
+ "reden_leeg_actie": null,
+ "raakt": ["vergunningen-wonen", "handhaving-huisvestingswet", "bezwaar-juridische-zaken", "klantcontact"],
+ "klantuitleg": "Een vergunning voor studentenkamers kan alleen geweigerd worden als de bewoning echt slecht is voor de buurt. Een paar meldingen van één buur is daarvoor niet genoeg: de overlast moet vaststaan en structureel zijn. Maakt u bezwaar tegen zo'n vergunning, dan helpt het als de overlast ook uit andere bronnen blijkt dan alleen uw eigen meldingen.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,151 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2026:4429",
+ "relevant": true,
+ "onderwerp": "woonruimteverdeling",
+ "sub": "procedure",
+ "kenmerk": "geen-spoedeisend-belang",
+ "zaaktype": "urgentieverklaring",
+ "partijen": {
+  "burger": "woningzoekende met chronische medische problemen (verzoekster)",
+  "wederpartij": "college van B&W Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "voorlopige voorziening",
+ "intro": "Een woningzoekende vroeg de voorzieningenrechter van de rechtbank Rotterdam om voorlopig een urgentieverklaring toe te kennen. Zij procedeert tegen het college van Rotterdam, dat haar aanvraag afwees.",
+ "titel": "Spoedverzoek om urgentieverklaring afgewezen: geen spoedeisend belang",
+ "kern": {
+  "zin": "De voorzieningenrechter wijst het verzoek af, omdat er geen objectieve medische aanwijzingen zijn dat zij direct niet meer in haar woning kan blijven.",
+  "bron": [
+   20
+  ],
+  "citaat": "De voorzieningenrechter ziet geen objectieve medische aanknopingspunten op basis waarvan moet worden aangenomen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het college wees de aanvraag af omdat niet was gebleken dat sprake is van een urgent huisvestingsprobleem.",
+   "bron": [
+    16
+   ],
+   "citaat": "omdat niet is gebleken dat sprake is van een urgent huisvestingsprobleem"
+  },
+  {
+   "zin": "De woningzoekende zegt dat zij door chronische medische problemen geen passende woning heeft en dat het college te weinig onderzocht.",
+   "bron": [
+    17
+   ],
+   "citaat": "Het college heeft onvoldoende onderzoek uitgevoerd."
+  },
+  {
+   "zin": "Op de zitting zei zij ook dat het medisch advies van 17 maart 2026 niet zorgvuldig en niet consistent was.",
+   "bron": [
+    17
+   ],
+   "citaat": "het medisch advies van 17 maart 2026 onvoldoende zorgvuldig tot stand is gekomen"
+  },
+  {
+   "zin": "De rechter ziet geen spoedeisend belang, ook omdat een urgentieverklaring niet direct tot een andere woning leidt.",
+   "bron": [
+    20
+   ],
+   "citaat": "het toekennen van een urgentieverklaring als voorlopige maatregel niet onmiddellijk leidt tot een andere woning"
+  },
+  {
+   "zin": "Bezwaren over het medisch advies kunnen in de bezwaarprocedure aan de orde komen.",
+   "bron": [
+    20
+   ],
+   "citaat": "In de bezwaarprocedure kunnen eventuele bezwaren van verzoekster over het medisch advies aan de orde komen."
+  },
+  {
+   "zin": "Er is geen proceskostenveroordeling.",
+   "bron": [
+    22
+   ],
+   "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Voorlopig: verzoek afgewezen wegens onvoldoende spoedeisend belang.",
+ "gevolg_betrokkene": {
+  "zin": "Zij krijgt voorlopig geen urgentieverklaring en geen vergoeding van proceskosten; haar bezwaar loopt door.",
+  "bron": [
+   22
+  ],
+  "citaat": "De voorzieningenrechter wijst het verzoek af."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "medische-omstandigheden",
+   "burger_zegt": "Het college heeft de medische situatie onvoldoende meegewogen en het medisch advies kwam onzorgvuldig tot stand.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "Eventuele bezwaren over het medisch advies kunnen in de bezwaarprocedure aan de orde komen.",
+    "bron": [
+     20
+    ],
+    "citaat": "In de bezwaarprocedure kunnen eventuele bezwaren van verzoekster over het medisch advies aan de orde komen."
+   },
+   "bruikbare_zin": {
+    "citaat": "vooralsnog niet is gebleken dat het medisch advies van 17 maart 2026 niet zorgvuldig tot stand is gekomen",
+    "bron": [
+     20
+    ]
+   }
+  },
+  {
+   "arg": "spoedeisend-belang",
+   "burger_zegt": "Zij heeft geen passende woongelegenheid door haar chronische medische problemen en wil voorlopig een urgentieverklaring.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er zijn geen objectieve medische aanwijzingen dat zij direct niet meer in haar woning op de begane grond kan blijven.",
+    "bron": [
+     20
+    ],
+    "citaat": "met onmiddellijke ingang niet meer in haar woning"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het toewijzen van het verzoek ligt (ook) daarom niet voor de hand",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een urgentieverklaring toekennen als voorlopige maatregel ligt niet voor de hand, omdat het in wezen geen voorlopige maatregel is en niet direct tot een woning leidt.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Spoedverzoeken om een urgentieverklaring bij een bestaande woning zonder objectieve medische aanwijzingen.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   20
+  ],
+  "citaat": "het toekennen van een urgentieverklaring in wezen geen voorlopige maatregel is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "medisch advies van 17 maart 2026"
+  ],
+  "wat_gaf_doorslag": "Er zijn geen objectieve medische aanknopingspunten dat zij direct niet meer in haar woning kan blijven."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver procedurele uitspraak over spoedeisend belang",
+ "raakt": [
+  "woonruimteverdeling-urgentie",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "Een spoedverzoek om meteen een urgentieverklaring te krijgen slaagt meestal niet als u al in een woning woont en er geen duidelijke medische reden is om direct weg te moeten. Een urgentieverklaring leidt ook niet meteen tot een andere woning. Uw bezwaren over het medisch advies kunt u in de bezwaarprocedure inbrengen.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

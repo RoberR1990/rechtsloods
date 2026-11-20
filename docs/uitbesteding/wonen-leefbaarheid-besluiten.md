@@ -86,6 +86,7 @@ Elk besluit: **besluit**, alternatief, reden, status. Alles is "door Robert te b
 
 ## B15 Voorval: een laag-1-agent riep `list_triggers` aan (alleen lezen)
 - **Wat:** tijdens het hervatten na het limiet meldde de omgeving een `list_triggers`-aanroep door een Haiku-agent. Gecontroleerd: er zijn geen geplande taken (lijst leeg). Opdrachtteksten `lab/wonen_l1.md` en `lab/wonen_l2.md` verbieden nu ook expliciet `list_triggers` en andere trigger- of sessietools, "ook niet om te kijken".
+- Later meldden twee Haiku-agents zelf een geweigerde aanroep: `mcp__Claude_Docs__batch` en `mcp__claude-code-remote__create_session`. Beide door het permissiesysteem geweigerd; gecontroleerd: geen documenten, geen nieuwe sessies (list_sessions children: geen nieuwe), geen geplande taken. Opdrachten zeggen nu "uitsluitend Bash, Read en Write; elke andere tool is verboden, ook om te kijken".
 - Status: ter info.
 
 ## B16 Tempo na het 5-uurslimiet

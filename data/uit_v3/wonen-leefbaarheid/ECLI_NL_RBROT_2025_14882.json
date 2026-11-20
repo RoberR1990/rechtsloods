@@ -1,0 +1,45 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:14882",
+ "relevant": true,
+ "onderwerp": "woonruimteverdeling",
+ "sub": "urgentie-medisch",
+ "kenmerk": "medisch-advies-gevolgd",
+ "zaaktype": "urgentieverklaring",
+ "partijen": {"burger": "houder van een urgentieverklaring (moeder met kind)", "wederpartij": "college van B&W Rotterdam", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Een moeder met een urgentieverklaring wegens de medische problemen van haar zoon wilde een ander zoekprofiel van het college van Rotterdam. Zij ging in beroep bij de rechtbank Rotterdam.",
+ "titel": "Zoekprofiel bij medische urgentie blijft: geen benedenwoning met tuin",
+ "kern": {"zin": "De rechtbank vindt dat het college op het advies van de arts van Sociaal Medische Advisering mocht afgaan en het zoekprofiel niet hoefde aan te passen.", "bron": [30], "citaat": "De rechtbank ziet geen aanleiding voor het oordeel dat het college niet op het advies van de arts SMA mocht afgaan."},
+ "samenvatting": [
+  {"zin": "De moeder woont met haar vijfjarige zoon, die autisme heeft en geen gevaar ziet, in een studio van 21 vierkante meter en vroeg een urgentieverklaring aan.", "bron": [19], "citaat": "Eiseres heeft op 12 augustus 2024 een aanvraag om urgentieverklaring ingediend vanwege de medische situatie van haar kind."},
+  {"zin": "Het college kende urgentie toe wegens medische noodzaak, met een zoekprofiel van precies twee slaapkamers en zonder benedenwoning.", "bron": [21], "citaat": "Minimaal twee en maximaal twee slaapkamers"},
+  {"zin": "De moeder wil een benedenwoning met tuin en meer dan twee slaapkamers, omdat haar zoon bewegingsruimte nodig heeft.", "bron": [25], "citaat": "zij een in aanmerking zou moeten komen voor een benedenwoning met tuin"},
+  {"zin": "De rechtbank oordeelt dat het zoekprofiel het advies van de arts volgt, dat de zoon er in kamers op vooruitgaat en dat een tuin niet noodzakelijk is omdat hij overdag naar de dagbesteding gaat.", "bron": [26], "citaat": "Ook een tuin is niet noodzakelijk omdat de zoon overdag naar de dagbesteding gaat bij Youz."},
+  {"zin": "De moeder vond het advies onzorgvuldig, omdat de behandelaar van haar zoon een benedenwoning noodzakelijk achtte; de rechtbank ziet geen tegenstrijdigheid, omdat de behandelaar een buitenruimte slechts optimaal noemt.", "bron": [30], "citaat": "Deze adviezen zijn daarom niet tegenstrijdig en zeggen feitelijk hetzelfde."},
+  {"zin": "Het beroep is ongegrond en het zoekprofiel wordt niet gewijzigd.", "bron": [32], "citaat": "Dat betekent dat het zoekprofiel niet wordt gewijzigd."}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; zoekprofiel van de urgentieverklaring blijft gelijk.",
+ "gevolg_betrokkene": {"zin": "Het zoekprofiel blijft zoals het is; de moeder krijgt het griffierecht niet terug en geen vergoeding van haar proceskosten.", "bron": [32], "citaat": "Zij krijgt ook geen vergoeding van haar proceskosten."},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "medische-omstandigheden", "burger_zegt": "Het zoekprofiel past niet bij de medische noodzaak: mijn zoon heeft een benedenwoning met tuin en meer slaapkamers nodig.", "oordeel": "verworpen", "waarom": {"zin": "Het zoekprofiel volgt het advies van de arts; met twee slaapkamers gaat het gezin er ruimte op vooruit en een tuin of benedenwoning is niet noodzakelijk.", "bron": [26], "citaat": "Dat de zoon van eiseres geen gevaarherkenning heeft is geen grond om de medische noodzaak voor een benedenwoning aan te nemen."}, "bruikbare_zin": {"citaat": "Voor de veiligheid adviseert de arts SMA dat eiseres veiligheidsmaatregelen kan nemen zoals kindersloten op de deuren.", "bron": [26]}},
+  {"arg": "hoorplicht-motivering", "burger_zegt": "Het advies van de arts is niet zorgvuldig gemotiveerd en het college had moeten uitleggen waarom het afweek van de verklaring van de behandelaar van mijn zoon.", "oordeel": "verworpen", "waarom": {"zin": "De adviezen zijn niet tegenstrijdig: optimaal is niet hetzelfde als noodzakelijk, en het advies van de behandelaar is meegewogen.", "bron": [30], "citaat": "De rechtbank overweegt dat de term optimaal onder meer ideaal betekent, maar niet dezelfde betekenis heeft als noodzakelijk"}, "bruikbare_zin": {"citaat": "Deze adviezen zijn daarom niet tegenstrijdig en zeggen feitelijk hetzelfde.", "bron": [30]}}
+ ],
+ "rechtsregel": {"zin": "Een bestuursorgaan mag op het advies van een deskundige afgaan als het heeft nagegaan dat het zorgvuldig tot stand kwam, begrijpelijk is en de conclusies erop aansluiten.", "type": "regel", "reikwijdte": "Een medisch advies van de arts Sociaal Medische Advisering bij het vaststellen van een zoekprofiel van een urgentieverklaring.", "uitzondering": "Zijn er concrete aanknopingspunten voor twijfel aan het advies, dan mag het bestuursorgaan niet zonder nadere motivering op het advies afgaan.", "herkomst": "vaste lijn HR-RvS", "bron": [29], "citaat": "op het advies van een deskundige mag afgaan, nadat het is nagegaan of dit advies op zorgvuldige wijze tot stand is gekomen"},
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": ["advies van de arts Sociaal Medische Advisering", "brief van de behandelend kinder- en jeugdpsychiater"], "wat_gaf_doorslag": "De adviezen zeiden feitelijk hetzelfde en de moeder onderbouwde niet dat het advies te weinig rekening hield met de beperkingen van haar zoon."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "bevestigt", "eerdere": ["ECLI:NL:RVS:2022:416"]},
+ "wetsartikelen": ["art. 3.4 Bijlage I Verordening Woonruimtebemiddeling regio Rotterdam 2024"],
+ "actie_gemeente": [
+  {"actie": "Laat in het medisch advies zien dat het advies van de behandelaar is ontvangen en meegewogen.", "raakt": "woonruimteverdeling-urgentie", "bron": [30], "citaat": "dat het advies van [persoon A] is ontvangen en meegewogen"}
+ ],
+ "reden_leeg_actie": null,
+ "raakt": ["woonruimteverdeling-urgentie", "bezwaar-juridische-zaken", "klantcontact"],
+ "klantuitleg": "Bij medische urgentie kijkt de gemeente naar wat medisch noodzakelijk is, niet naar wat ideaal zou zijn. Een extra kamer kan nodig zijn, maar een benedenwoning met tuin alleen als dat duidelijk uit het medisch advies blijkt. Vindt u dat het zoekprofiel niet past, laat uw behandelaar dan helder opschrijven wat noodzakelijk is en niet alleen wenselijk.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

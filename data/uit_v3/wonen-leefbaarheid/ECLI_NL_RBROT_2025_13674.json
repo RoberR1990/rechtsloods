@@ -1,0 +1,45 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:13674",
+ "relevant": true,
+ "onderwerp": "woonruimteverdeling",
+ "sub": "urgentie-medisch",
+ "kenmerk": "medisch-advies-gevolgd",
+ "zaaktype": "urgentieverklaring",
+ "partijen": {"burger": "houder van een urgentieverklaring (vader van een kind met medische problemen)", "wederpartij": "college van B&W Rotterdam", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Een vader met een urgentieverklaring wegens de medische problemen van zijn dochter wilde een ruimer zoekprofiel van het college van Rotterdam. Hij ging in beroep bij de rechtbank Rotterdam.",
+ "titel": "Zoekprofiel medische urgentie blijft: geen eengezinswoning of maisonnette",
+ "kern": {"zin": "De rechtbank vindt dat het college van het advies van de arts mocht uitgaan, omdat alle medische stukken van vóór het besluit zeggen dat de dochter geen trappen kan lopen.", "bron": [26], "citaat": "De rechtbank vindt dat het college in dit geval van het advies van de arts mocht uitgaan."},
+ "samenvatting": [
+  {"zin": "De vader mag met zijn urgentieverklaring reageren op gelijkvloerse benedenwoningen met tuin, maar wil ook reageren op eengezinswoningen en maisonnettes.", "bron": [18], "citaat": "Eiser wil echter ook kunnen reageren op eengezinswoningen en maisonnettes"},
+  {"zin": "Het college baseerde het zoekprofiel op het advies van een arts van Sociaal Medische Advisering: een woning met een inpandige trap is onvoldoende medisch verantwoord.", "bron": [21], "citaat": "Een woning met een inpandige trap is volgens haar onvoldoende medisch verantwoord."},
+  {"zin": "De vader zei dat zijn dochter bij haar tante zelfstandig een trap gebruikt en dat het probleem vooral trappen in de openbare ruimte zijn.", "bron": [22], "citaat": "Eisers dochter maakt daar zelfstandig gebruik van de trap."},
+  {"zin": "De rechtbank wijst erop dat de medische verklaringen om een eengezinswoning vragen zonder uit te leggen waarom, terwijl zij ook melden dat de dochter geen trappen loopt.", "bron": [24], "citaat": "Waarom de specialisten van Youz van mening zijn dat een eengezinswoning geschikt is, wordt niet toegelicht."},
+  {"zin": "Een nieuwe verklaring van een pedagoog dateert van na het besluit en kon dus niet in het medisch advies worden meegenomen.", "bron": [25], "citaat": "Deze informatie dateert echter van na het bestreden besluit"},
+  {"zin": "Het beroep is ongegrond; verandert de medische situatie, dan kan de vader een gemotiveerd verzoek bij het college indienen.", "bron": [26], "citaat": "kan eiser een gemotiveerd verzoek indienen bij het college"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; zoekprofiel blijft beperkt tot gelijkvloerse woningen met tuin.",
+ "gevolg_betrokkene": {"zin": "Het zoekprofiel blijft zoals het is; de vader krijgt het griffierecht niet terug en geen vergoeding van zijn proceskosten.", "bron": [28], "citaat": "Hij krijgt ook geen vergoeding van zijn proceskosten."},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "medische-omstandigheden", "burger_zegt": "Mijn dochter kan wel trappen lopen, dus eengezinswoningen en maisonnettes moeten in het zoekprofiel.", "oordeel": "verworpen", "waarom": {"zin": "Alle medische stukken van vóór het besluit zeggen dat de dochter geen trappen kan lopen, dus het college mocht het zoekprofiel zo laten.", "bron": [26], "citaat": "In alle medische stukken die voorafgaand aan het bestreden besluit zijn ingediend, staat dat eisers dochter geen trappen kan lopen."}, "bruikbare_zin": {"citaat": "Het lag dan ook niet voor de hand om het zoekprofiel uit te breiden met eengezinswoningen en maisonnettes.", "bron": [26]}},
+  {"arg": "overig", "burger_zegt": "Ik heb in bezwaar al uitgelegd dat mijn dochter alleen in een prikkelrijke omgeving geen trappen loopt.", "oordeel": "verworpen", "waarom": {"zin": "Dat blijkt niet uit het verslag van de hoorzitting of uit het dossier.", "bron": [24], "citaat": "Dit volgt echter niet uit het verslag van de hoorzitting of overigens uit het dossier."}, "bruikbare_zin": null}
+ ],
+ "rechtsregel": {"zin": "Het college mocht bij het zoekprofiel uitgaan van het advies van de arts, omdat alle medische stukken van vóór het besluit zeiden dat de dochter geen trappen kan lopen.", "type": "feitelijk_oordeel", "reikwijdte": "Zoekprofiel van een urgentieverklaring wegens medische noodzaak waarbij alle medische stukken van vóór het besluit zeggen dat het kind geen trappen loopt.", "uitzondering": "Is de medische situatie anders (geworden), dan kan een gemotiveerd verzoek bij het college worden ingediend voor een nieuw medisch advies.", "herkomst": "oordeel rechter", "bron": [26], "citaat": "Het lag dan ook niet voor de hand om het zoekprofiel uit te breiden met eengezinswoningen en maisonnettes."},
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": ["advies van de arts Sociaal Medische Advisering", "verklaringen van een kinder- en jeugdpsychiater en een psycholoog van Youz", "verklaring van een pedagoog van CityKids (van na het besluit)"], "wat_gaf_doorslag": "Alle medische stukken van vóór het besluit zeiden dat de dochter geen trappen kan lopen."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {"actie": "Wijs een houder van een urgentieverklaring met een veranderde medische situatie op een gemotiveerd verzoek voor een nieuw medisch advies.", "raakt": "woonruimteverdeling-urgentie", "bron": [26], "citaat": "kan eiser een gemotiveerd verzoek indienen bij het college, zodat kan worden gekeken of er aanleiding bestaat om een nieuw medisch advies aan te vragen"}
+ ],
+ "reden_leeg_actie": null,
+ "raakt": ["woonruimteverdeling-urgentie", "bezwaar-juridische-zaken", "klantcontact"],
+ "klantuitleg": "Bij medische urgentie baseert de gemeente het zoekprofiel op het advies van de arts van Sociaal Medische Advisering. Nieuwe medische stukken van na het besluit tellen in het beroep niet mee. Is de medische situatie veranderd, dien dan een gemotiveerd verzoek in bij het college.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

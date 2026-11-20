@@ -1,0 +1,47 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:15321",
+ "relevant": true,
+ "onderwerp": "handhaving-huisvestingswet",
+ "sub": "last-dwangsom",
+ "kenmerk": "onzelfstandige-bewoning",
+ "zaaktype": "last-onder-dwangsom",
+ "partijen": {"burger": "verhuurder van een pand met vijf kamers", "wederpartij": "college van B&W Rotterdam", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Een verhuurder uit Barendrecht kreeg van het college van Rotterdam een last onder dwangsom omdat hij zonder vergunning kamers verhuurde aan vijf personen die geen huishouden vormen. Hij ging in beroep bij de rechtbank Rotterdam.",
+ "titel": "Last onder dwangsom voor kamerverhuur zonder vergunning blijft staan",
+ "kern": {"zin": "De rechtbank vindt dat het college terecht oordeelde dat het pand één woning is, zodat verhuur aan vijf personen zonder vergunning verboden was en de last blijft.", "bron": [30], "citaat": "heeft het college terecht geconcludeerd dat sprake is van één woning"},
+ "samenvatting": [
+  {"zin": "Na controles door handhavers bleek dat het pand werd bewoond door vijf personen die geen gezamenlijk huishouden vormden, zonder vergunning voor kamerbewoning.", "bron": [17], "citaat": "het pand werd bewoond door vijf personen die geen duurzaam gemeenschappelijke huishouding vormden"},
+  {"zin": "Het college legde een last onder dwangsom op: de kamerverhuur moest binnen drie maanden stoppen, anders is een dwangsom van € 13.920,00 verschuldigd; de begunstigingstermijn is later verlengd.", "bron": [19], "citaat": "moet een dwangsom van € 13.920,00 worden betaald"},
+  {"zin": "De verhuurder zei dat het pand uit twee zelfstandige woningen bestaat, dat het college dat onzorgvuldig niet onderzocht en dat het besluit te vroeg kwam, voor de termijn voor zijn zienswijze.", "bron": [23], "citaat": "het college miskent dat het pand bestaat uit twee zelfstandige woningen"},
+  {"zin": "De rechtbank oordeelt dat het om één woning gaat: alle bewoners gebruiken dezelfde voordeur en hebben toegang tot alle verdiepingen, en het pand is niet gesplitst.", "bron": [30], "citaat": "Gebleken is dat alle bewoners dezelfde voordeur gebruiken om toegang te krijgen tot het pand."},
+  {"zin": "Het besluit kwam ruim na de termijn voor een zienswijze; dat de verhuurder die termijn verwarde met de begunstigingstermijn is voor zijn eigen rekening en risico.", "bron": [34], "citaat": "voor eisers eigen rekening en risico"},
+  {"zin": "Het beroep is ongegrond en het besluit blijft in stand.", "bron": [37], "citaat": "Het bestreden besluit blijft in stand."}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; last onder dwangsom blijft staan.",
+ "gevolg_betrokkene": {"zin": "De last onder dwangsom blijft in stand en de verhuurder krijgt het griffierecht niet terug; over proceskosten staat niets in de uitspraak.", "bron": [37], "citaat": "Eiser krijgt daarom het griffierecht niet terug."},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "overig", "burger_zegt": "Het pand bestaat uit twee zelfstandige woningen en het college heeft dat onzorgvuldig niet onderzocht.", "oordeel": "verworpen", "waarom": {"zin": "Het pand heeft één voordeur, is niet gesplitst en de bewoners hebben toegang tot alle verdiepingen; meerdere huisnummers in de registratie veranderen dat niet.", "bron": [30], "citaat": "heeft het college terecht geconcludeerd dat sprake is van één woning"}, "bruikbare_zin": {"citaat": "Dat in de Basisregistratie Adressen en Gebouwen mogelijk meerdere huisnummers geregistreerd staan", "bron": [30]}},
+  {"arg": "hoorplicht-motivering", "burger_zegt": "Het college nam het besluit voordat de termijn voor mijn zienswijze was verstreken.", "oordeel": "verworpen", "waarom": {"zin": "De termijn liep tot 10 januari 2024 en het besluit kwam op 22 februari 2024; verwarring met de begunstigingstermijn is voor eigen risico.", "bron": [34], "citaat": "Het primaire besluit is op 22 februari 2024 genomen."}, "bruikbare_zin": null},
+  {"arg": "overig", "burger_zegt": "Het college heeft niet volledig gereageerd op mijn verzoek om openbaarmaking van stukken (Wet open overheid).", "oordeel": "niet beoordeeld", "waarom": {"zin": "Dit verzoek valt buiten dit geding en heeft een aparte procedure.", "bron": [26], "citaat": "buiten de omvang van het geding valt"}, "bruikbare_zin": null}
+ ],
+ "rechtsregel": {"zin": "Een pand met één voordeur, vijf kamers en toegang voor alle bewoners tot alle verdiepingen, dat niet is gesplitst, is één woning.", "type": "feitelijk_oordeel", "reikwijdte": "Pand met vijf kamers dat via één voordeur wordt betreden, niet is gesplitst en één adres op de huurovereenkomsten heeft.", "uitzondering": null, "herkomst": "oordeel rechter", "bron": [30], "citaat": "heeft het college terecht geconcludeerd dat sprake is van één woning"},
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": ["rapport van bevindingen van handhavers", "inschrijvingen in de Basisregistratie Personen", "huurovereenkomsten"], "wat_gaf_doorslag": "Alle bewoners gebruikten dezelfde voordeur en hadden toegang tot alle verdiepingen; het pand was niet gesplitst."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": ["art. 3.2.2 Verordening toegang woningmarkt en samenstelling woningvoorraad 2021", "art. 21 lid 1 onder c Huisvestingswet 2014", "art. 125 Gemeentewet", "art. 5:31d t/m 5:38 Awb"],
+ "actie_gemeente": [
+  {"actie": "Leg bij controle vast welke voordeur de bewoners gebruiken en of zij toegang hebben tot alle verdiepingen.", "raakt": "handhaving-huisvestingswet", "bron": [30], "citaat": "alle bewoners feitelijk toegang tot alle verdiepingen van de woning"},
+  {"actie": "Maak in het voornemen tot een last duidelijk wat de termijn voor een zienswijze is, los van de begunstigingstermijn.", "raakt": "handhaving-huisvestingswet", "bron": [34], "citaat": "mede gelet op de duidelijke bewoordingen in de brief van 27 december 2023"}
+ ],
+ "reden_leeg_actie": null,
+ "raakt": ["handhaving-huisvestingswet", "bezwaar-juridische-zaken", "klantcontact"],
+ "klantuitleg": "Verhuurt u kamers aan meer dan twee mensen die niet samen een huishouden vormen zonder vergunning, dan mag de gemeente een last onder dwangsom opleggen: stopt u niet op tijd, dan betaalt u. Een pand met één voordeur en toegang tot alle verdiepingen telt als één woning, ook als er meer huisnummers geregistreerd staan. Denkt u dat uw pand uit twee woningen bestaat, dan moet u dat onderbouwen.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

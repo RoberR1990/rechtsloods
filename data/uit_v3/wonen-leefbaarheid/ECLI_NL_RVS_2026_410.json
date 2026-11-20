@@ -1,0 +1,46 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:410",
+ "relevant": true,
+ "onderwerp": "woonruimteverdeling",
+ "sub": "urgentie-medisch",
+ "kenmerk": "andere-medische-gegevens",
+ "zaaktype": "urgentieverklaring",
+ "partijen": {"burger": "aanvrager van een urgentieverklaring (moeder met kinderen)", "wederpartij": "college van B&W Dordrecht", "gemeente_is_partij": true},
+ "procesvorm": "hoger beroep",
+ "intro": "Een vrouw met kinderen kreeg van het college van Dordrecht geen urgentieverklaring. Zij ging in hoger beroep bij de Raad van State tegen een uitspraak van de rechtbank Rotterdam; de Raad van State deed mondeling uitspraak.",
+ "titel": "Urgentie geweigerd: medische verklaring van behandelaar kind ontbreekt",
+ "kern": {"zin": "De Raad van State vindt dat de hardheidsclausule alleen toepassing kreeg als een medische verklaring laat zien dat de woonsituatie de medische problemen van een kind versterkt; die ontbrak.", "bron": [25], "citaat": "Een dergelijke verklaring is niet overgelegd."},
+ "samenvatting": [
+  {"zin": "Het college van Dordrecht wees de aanvraag van de vrouw om een urgentieverklaring af en verklaarde haar bezwaar ongegrond.", "bron": [19], "citaat": "een aanvraag van [appellante] om een urgentieverklaring afgewezen"},
+  {"zin": "De rechtbank Rotterdam verklaarde haar beroep ongegrond; daarom ging zij in hoger beroep.", "bron": [20], "citaat": "het beroep van [appellante] tegen het besluit van 26 oktober 2023 ongegrond heeft verklaard"},
+  {"zin": "De Raad van State kan zich vinden in de uitvoerige motivering van de rechtbank en heeft vooral gekeken of het college de hardheidsclausule (uitzondering voor schrijnende gevallen) had moeten toepassen.", "bron": [25], "citaat": "De Afdeling kan zich vinden in de motivering die de rechtbank"},
+  {"zin": "Daarvoor is minstens een medische verklaring van een behandelaar van een kind nodig, waaruit blijkt dat de woonsituatie de medische problemen versterkt; zo'n verklaring is niet overgelegd.", "bron": [25], "citaat": "Een dergelijke verklaring is niet overgelegd."},
+  {"zin": "Ook deed de vrouw ten tijde van het bezwaarbesluit onvoldoende eigen inspanningen, omdat zij niet op woningen reageerde; latere inspanningen tellen niet mee.", "bron": [25], "citaat": "onvoldoende eigen inspanningen heeft gedaan om het woningprobleem zelf op te lossen"},
+  {"zin": "De Raad van State bevestigt de uitspraak van de rechtbank; het college hoeft geen proceskosten te vergoeden.", "bron": [23], "citaat": "De Afdeling bevestigt de aangevallen uitspraak."}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; weigering urgentieverklaring blijft staan.",
+ "gevolg_betrokkene": {"zin": "De aanvrager krijgt geen urgentieverklaring en geen vergoeding van haar proceskosten; over griffierecht staat niets in de uitspraak.", "bron": [26], "citaat": "Het college hoeft geen proceskosten te vergoeden."},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "hardheidsclausule", "burger_zegt": "Het college had de hardheidsclausule moeten toepassen, gelet op haar moeilijke situatie met haar kinderen.", "oordeel": "verworpen", "waarom": {"zin": "Er is geen medische verklaring van een behandelaar van een kind overgelegd waaruit een medische noodzaak om te verhuizen blijkt.", "bron": [25], "citaat": "Een dergelijke verklaring is niet overgelegd."}, "bruikbare_zin": {"citaat": "dat een medische verklaring van een behandelaar van een van de kinderen van [appellante] wordt overgelegd", "bron": [25]}},
+  {"arg": "overig", "burger_zegt": "De kans op een woning is klein, dus reageren op woningen of meedoen aan loting had weinig zin; ook deed ik later meer moeite.", "oordeel": "verworpen", "waarom": {"zin": "Een kleine kans is geen reden om niet te reageren; er wordt uitgegaan van de situatie ten tijde van het bezwaarbesluit.", "bron": [25], "citaat": "Het enkele feit dat de kans bij reactie of deelneming aan loting niet groot is"}, "bruikbare_zin": {"citaat": "omdat van de situatie ten tijde van het besluit van 26 oktober 2023 moet worden uitgegaan", "bron": [25]}}
+ ],
+ "rechtsregel": {"zin": "Voor toepassing van de hardheidsclausule is minstens een medische verklaring van een behandelaar van het kind nodig, waaruit blijkt dat de woonsituatie de medische problemen versterkt en verhuizen medisch noodzakelijk is.", "type": "regel", "reikwijdte": "Hardheidsclausule bij een urgentieaanvraag waarbij de medische problemen van een kind worden aangevoerd.", "uitzondering": null, "herkomst": "oordeel rechter", "bron": [25], "citaat": "Daarvoor is tenminste nodig dat een medische verklaring van een behandelaar van een van de kinderen"},
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": [], "wat_gaf_doorslag": "Er was geen medische verklaring van een behandelaar van een kind en de aanvrager reageerde onvoldoende op woningen."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": ["art. 8:67 Awb"],
+ "actie_gemeente": [
+  {"actie": "Vraag bij een beroep op de hardheidsclausule om een medische verklaring van de behandelaar van het kind.", "raakt": "woonruimteverdeling-urgentie", "bron": [25], "citaat": "dat een medische verklaring van een behandelaar van een van de kinderen van [appellante] wordt overgelegd"},
+  {"actie": "Beoordeel de eigen inspanningen van de aanvrager op het moment van het bezwaarbesluit.", "raakt": "bezwaar-juridische-zaken", "bron": [25], "citaat": "omdat van de situatie ten tijde van het besluit van 26 oktober 2023 moet worden uitgegaan"}
+ ],
+ "reden_leeg_actie": null,
+ "raakt": ["woonruimteverdeling-urgentie", "bezwaar-juridische-zaken", "klantcontact"],
+ "klantuitleg": "Wilt u een urgentieverklaring via de hardheidsclausule (de uitzondering voor schrijnende gevallen) omdat uw kind medische problemen heeft, dan is minstens een verklaring van de behandelaar nodig. Daarin moet staan dat de woonsituatie de problemen versterkt en dat verhuizen medisch nodig is. Ook telt mee of u zelf genoeg doet, bijvoorbeeld door op woningen te reageren.",
+ "gemeente": "Dordrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}
