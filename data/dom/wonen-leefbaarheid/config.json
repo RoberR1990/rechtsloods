@@ -1,0 +1,78 @@
+{
+ "slug": "wonen-leefbaarheid",
+ "label": "Wonen en leefbaarheid",
+ "zaaktype": [
+  "huisvestingsvergunning",
+  "urgentieverklaring",
+  "vergunning-woonruimtevoorraad",
+  "bestuurlijke-boete",
+  "last-onder-dwangsom",
+  "bestuursdwang",
+  "invordering-dwangsom",
+  "handhavingsverzoek",
+  "overig"
+ ],
+ "bezwaargronden_verplicht_bij": [
+  "huisvestingsvergunning",
+  "urgentieverklaring",
+  "vergunning-woonruimtevoorraad",
+  "bestuurlijke-boete",
+  "last-onder-dwangsom",
+  "bestuursdwang",
+  "invordering-dwangsom"
+ ],
+ "raakt": [
+  "handhaving-huisvestingswet",
+  "vergunningen-wonen",
+  "woonruimteverdeling-urgentie",
+  "bouw-woningtoezicht",
+  "stadsontwikkeling-beleid-verordening",
+  "veiligheid",
+  "bezwaar-juridische-zaken",
+  "klantcontact",
+  "invordering"
+ ],
+ "toepasselijkheid": [
+  "landelijk",
+  "lokale verordening",
+  "rijk",
+  "privaat"
+ ],
+ "rollen": "de burger (concreter: de woningzoekende, de aanvrager, de eigenaar, de verhuurder, de huurder; alleen 'de bewoner' als de uitspraak dat zegt; 'betrokkene' als de rol onduidelijk is), de gemeente (ook als het college of de burgemeester besliste, of een woningcorporatie of regionaal samenwerkingsverband namens het college), de rechter, de derde die om handhaving vraagt (buren, omwonenden)",
+ "klantuitleg_vraag": "wanneer krijgt iemand urgentie of een huisvestingsvergunning, wanneer mag de gemeente een boete of last opleggen bij onttrekken, omzetten, splitsen, vakantieverhuur of verhuur zonder vergunning, en wat vindt de rechter evenredig",
+ "rubrieken": {
+  "huisvesting-verdeling": "woonruimteverdeling",
+  "woonruimtevoorraad": "woonruimtevoorraad",
+  "alleen-tekst": "handhaving-huisvestingswet",
+  "vakantieverhuur": "vakantieverhuur",
+  "woningkwaliteit": "woningkwaliteit",
+  "verhuurder-opkoop": "verhuurders",
+  "rotterdamwet": "rotterdamwet",
+  "leegstand-kraken": "verhuurders"
+ },
+ "uitkomstregels": {
+  "uitgangspunt": "Uitkomst = wat DEZE rechter beslist, bekeken vanuit de burger (de aanvrager, woningzoekende, eigenaar, verhuurder of huurder; bij een handhavingsverzoek: de derde die om handhaving vroeg). Waarden: burger wint | wederpartij wint | deels | alleen procedure.",
+  "algemeen": [
+   "Alleen procedure: de burger wint alleen proceskosten, griffierecht, een dwangsom wegens niet tijdig beslissen, een termijnpunt (bezwaar- of beroepstermijn), of de zaak wordt alleen teruggewezen; ook bij niet-ontvankelijkheid (bijv. geen besluit, geen bestuursorgaan, geen procesbelang) en bij vernietiging waarbij de rechtsgevolgen in stand blijven. Nooit 'burger wint' of 'deels' daarvoor.",
+   "Deels: de burger krijgt op een inhoudelijk punt gelijk, maar niet helemaal (bijv. boete verlaagd, één van twee besluiten vervalt, last blijft maar dwangsombedrag of begunstigingstermijn wordt aangepast).",
+   "Misbruik: oordeelt de rechter dat de burger misbruik maakt van recht of procesrecht, dan 'wederpartij wint'.",
+   "Spiegelregel hogere instanties: in hoger beroep en cassatie telt de uitkomst van die procedure, vanuit de burger. Hoger beroep van de gemeente slaagt = 'wederpartij wint'; hoger beroep van de gemeente faalt (de burger houdt zijn winst uit eerste aanleg) = 'burger wint'; hoger beroep van de burger faalt = 'wederpartij wint'; hoger beroep van de burger slaagt = 'burger wint' (of 'deels'). Hoger beroep slaagt alleen over proceskosten of termijn = 'alleen procedure'.",
+   "Voorlopige voorziening: wie krijgt wat hij vroeg, wint. Verzoek van de burger toegewezen (bijv. schorsing van de last of de boete) = 'burger wint'; afgewezen = 'wederpartij wint'; deels toegewezen = 'deels'. uitkomst_toelichting begint met 'Voorlopig: '. Doet de voorzieningenrechter ook direct uitspraak in de hoofdzaak (kortsluiting), dan telt die uitspraak in de hoofdzaak en vervalt 'Voorlopig: '.",
+   "Conclusie van de Advocaat-Generaal: 'alleen procedure'."
+  ],
+  "domein": [
+   "Bestuurlijke boete (Huisvestingswet, Woningwet, vakantieverhuur): boete vernietigd of herroepen = 'burger wint'; boete verlaagd (gematigd) = 'deels'; boete blijft = 'wederpartij wint'.",
+   "Last onder dwangsom of bestuursdwang: last vernietigd of herroepen = 'burger wint'; last blijft maar bedrag, begunstigingstermijn of omvang wordt kleiner = 'deels'; last blijft = 'wederpartij wint'.",
+   "Invordering van een dwangsom: invorderingsbesluit vernietigd = 'burger wint'; lager bedrag ingevorderd = 'deels'; invordering blijft = 'wederpartij wint'.",
+   "Huisvestingsvergunning, urgentie- of voorrangsverklaring, vergunning voor onttrekking, omzetting, splitsing, samenvoeging, woningvorming, vakantieverhuur of verhuur: weigering vernietigd omdat de aanvraag inhoudelijk anders beoordeeld moet worden of de vergunning alsnog verleend = 'burger wint'; weigering blijft = 'wederpartij wint'; besluit alleen vernietigd om een motiverings- of vormgebrek terwijl de rechtsgevolgen blijven = 'alleen procedure'.",
+   "Vergunning verleend en een derde (buren, omwonenden) komt in beroep: de derde is 'de burger'. Vergunning vernietigd = 'burger wint'; blijft = 'wederpartij wint'.",
+   "Handhavingsverzoek van een derde geweigerd: de derde is 'de burger'. Rechter oordeelt dat de gemeente moet handhaven of opnieuw moet beslissen omdat er wel een overtreding is = 'burger wint'; weigering blijft = 'wederpartij wint'.",
+   "Rotterdamwet (inkomenseis, aangewezen gebieden): beoordeel zoals een huisvestingsvergunning; noem de Rotterdamwet alleen als de uitspraak die zelf noemt.",
+   "Beslist een woningcorporatie of een toetsingscommissie en oordeelt de rechter dat dit geen bestuursorgaan is (geen besluit): 'alleen procedure'."
+  ],
+  "rolnamen": "partijen.burger: de rol zoals de uitspraak die noemt (woningzoekende, aanvrager, eigenaar, verhuurder, huurder, omwonende, bedrijf). 'bewoner' alleen als de uitspraak dat zegt; is de rol onduidelijk, dan 'betrokkene'. partijen.wederpartij: 'college van B&W <gemeente>' of 'burgemeester <gemeente>', of de woningcorporatie die namens het college besliste."
+ },
+ "taxonomie_bevroren": "2026-11-20",
+ "versie": "eerste versie",
+ "afbakening": "lab/wonen_afbakening.md"
+}

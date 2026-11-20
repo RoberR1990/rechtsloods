@@ -43,3 +43,43 @@ Elk besluit: **besluit**, alternatief, reden, status. Alles is "door Robert te b
 - Alternatief: ook civiele zaken waarin de gemeente partij is.
 - Reden: de afbakening is bestuursrechtelijk (gemeente als bestuursorgaan); huurgeschillen en civiele zaken zonder gemeente vallen buiten de scope.
 - Status: door Robert te bevestigen.
+
+## B08 Rolnaam: "betrokkene" in plaats van "bewoner"
+- **Besluit:** `partijen.burger` = de rol zoals de uitspraak die noemt (woningzoekende, aanvrager, eigenaar, verhuurder, huurder, omwonende); "bewoner" alleen als de uitspraak dat zegt; bij twijfel "betrokkene". In zinnen ook de concrete rolnaam; "de betrokkene" mag als terugvaloptie (opdracht), al geeft `check_uit_v3.py` daar een waarschuwing (LET OP, geen fout) voor.
+- Alternatief: `verrijk_v3.md` volgen ("betrokkene" nooit in zinnen).
+- Reden: de opdracht zegt uitdrukkelijk "betrokkene, niet bewoner"; dit volgt ook het AVG-voorbeeld (`lab/avg_taxonomie_samenvoegen.py`).
+- Status: door Robert te bevestigen.
+
+## B09 Planologische zaken vallen buiten het domein
+- **Besluit:** zaken waarin het bestemmingsplan, omgevingsplan of de omgevingsvergunning de grondslag is, vallen af, ook als het over kamerverhuur, splitsing of B&B gaat. Wel binnen: dezelfde onderwerpen op grond van de Huisvestingswet/huisvestingsverordening, Woningwet/Bouwbesluit, Leegstandwet, enz.
+- Alternatief: kamerverhuur en splitsing via het bestemmingsplan meenemen.
+- Reden: de afbakening sluit "omgevingsvergunning bouwen/bestemmingsplan" uit; de precisiesteekproef liet zien dat dit de grootste bron van valse treffers is.
+- Status: door Robert te bevestigen.
+
+## B10 Filter in twee stappen, gemeten precisie ~95%
+- **Besluit:** (1) regex op titel + inhoudsindicatie of een treffer in de volledige tekst; (2) na het ophalen een filter op de volledige tekst (`lab/wonen_select.py filter`): weg als er geen woonbegrip in de tekst staat, als planologische termen domineren of in de inhoudsindicatie staan zonder woonbegrip, bij belastingrecht, CRvB zonder woonbegrip, leges/prostitutie/recreatie/Woo, en bij een kernbegrip dat alleen in een bijzin staat (< 4 keer). Alle afgevallen ECLI's met reden staan in `data/dom/wonen-leefbaarheid/afgevallen.json`.
+- Precisie: Haiku-steekproef van 100 (vóór de laatste regel): 84 in, 8 uit, 8 twijfel; bij nalezen zijn 6 van de 8 twijfelgevallen "in" → ~90%. De laatste regel (planologisch in de inhoudsindicatie) haalde 5 van de 8 "uit" weg en geen enkele "in" → ~95%. Eigen controle van 15: 15 in. Overgebleven valse treffers worden in laag 1 `relevant: false`.
+- Status: door Robert te bevestigen.
+
+## B11 Rotterdamwet altijd opnemen
+- **Besluit:** elke uitspraak die de Rotterdamwet (Wbmgp) noemt, blijft in de set, ongeacht de andere filters (27 uitspraken; 3 civiele treffers vallen af onder B07).
+- Reden: de opdracht vraagt om alle Rotterdamwet-uitspraken.
+- Status: ter info.
+
+## B12 Taxonomie bevroren: 7 onderwerpen, 25 subonderwerpen
+- **Besluit:** concept van een Sonnet-agent (201 inhoudsindicaties, `lab/wonen/taxonomie_concept.json`), met twee aanvullingen: sub `woonruimteverdeling/huisvestingsvergunning` (vergunning buiten de Rotterdamwet) en `handhaving-huisvestingswet/boete-huisvestingsvergunning`; `spoed-procedure` heet `procedure`. Rotterdamwet is een eigen onderwerp (3 subs) omdat het uniek is voor Rotterdam. Openbare orde (13b, 174a, Bibob) krijgt geen eigen onderwerp.
+- Alternatief: Rotterdamwet als sub onder woonruimteverdeling.
+- Reden: zichtbaarheid voor Rotterdam; dunne subs zijn samengevoegd (woningkwaliteit 2 subs, verhuurders 2 subs).
+- Status: door Robert te bevestigen (concept: true per onderwerp).
+
+## B13 Uitkomstregels in `config.json` (veld `uitkomstregels`)
+- **Besluit:** de regels van de bestaande domeinen (alleen procedure, deels, misbruik = wederpartij wint, spiegelregel hogere instanties, voorlopige voorziening met "Voorlopig: ") plus domeinregels voor boete, last, invordering, vergunningen, derden en handhavingsverzoeken, Rotterdamwet en "geen bestuursorgaan". Bron: `lab/wonen/uitkomstregels.json`.
+- Alternatief: alleen verwijzen naar `lab/aanscherping_l1c.md`.
+- Reden: de opdracht vraagt de regels in de config; de bestaande configs in deze snapshot hebben dat veld nog niet.
+- Status: door Robert te bevestigen.
+
+## B14 `scripts/parse.py` laadt `data/kandidaten2.json` (parkeren) bij het importeren
+- **Besluit:** lokaal een lege `data/kandidaten2.json` (`[]`) neergezet, niet gecommit (`.git/info/exclude`). `dom_parse.py` overschrijft `P.K` toch.
+- Alternatief: `parse.py` aanpassen.
+- Reden: gedeeld script niet wijzigen.
+- Status: technisch, ter info.

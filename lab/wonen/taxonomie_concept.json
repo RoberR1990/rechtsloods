@@ -1,0 +1,448 @@
+{
+ "taxonomie": {
+  "woonruimteverdeling": {
+   "label": "Woonruimte zoeken: verdeling, urgentie en voorrang",
+   "rechtsgang": "Bestuursrecht: bezwaar (vaak ook voorlopige voorziening) → rechtbank → Raad van State",
+   "anker": "Huisvestingswet 2014 (woonruimteverdeling, huisvestingsvergunning) en de huisvestingsverordening",
+   "kleur": "#2F6F9F",
+   "concept": true,
+   "sub": {
+    "urgentie-voorwaarden": {
+     "label": "Urgentie of voorrang geweigerd: voorwaarden en eigen oplossing",
+     "anker": "Huisvestingswet 2014 (woonruimteverdeling); huisvestingsverordening (urgentiecriteria); Awb art. 4:84",
+     "kenmerk": {
+      "geen-urgent-huisvestingsprobleem": "Geen urgent huisvestingsprobleem",
+      "kan-zelf-oplossen": "Kan het probleem zelf oplossen (inwonen, zoeken, huidige woning)",
+      "woonlasten-schimmel-gebreken": "Te hoge woonlasten, schimmel of gebreken aan de woning",
+      "onvoldoende-gereageerd": "Onvoldoende gereageerd op woningaanbod",
+      "voorrangsverklaring": "Voorrangsverklaring in plaats van urgentie"
+     }
+    },
+    "urgentie-medisch": {
+     "label": "Medische urgentie en medisch advies",
+     "anker": "Huisvestingsverordening (medische urgentie); Awb art. 3:9 (deskundigenadvies)",
+     "kenmerk": {
+      "medisch-advies-gevolgd": "College volgt medisch adviseur",
+      "andere-medische-gegevens": "Burger brengt eigen medische gegevens in",
+      "woning-aanpassen-mogelijk": "Woning aan te passen of andere oplossing"
+     }
+    },
+    "urgentie-sociaal": {
+     "label": "Sociale urgentie: noodopvang, geweld, kinderen, uitstroom",
+     "anker": "Huisvestingsverordening (sociale urgentiecategorieen); Awb art. 3:4 lid 2",
+     "kenmerk": {
+      "uitstroom-opvang": "Uitstroom uit opvang of maatschappelijke instelling",
+      "geweld-bedreiging": "Huiselijk geweld of bedreiging",
+      "kinderen-belangen": "Belangen van kinderen meegewogen",
+      "relatiebreuk": "Relatiebreuk of scheiding"
+     }
+    },
+    "binding-regio": {
+     "label": "Binding met de woningmarktregio",
+     "anker": "Huisvestingsverordening (economische of maatschappelijke binding); Huisvestingswet 2014",
+     "kenmerk": {
+      "economische-binding": "Economische binding (werk)",
+      "maatschappelijke-binding": "Maatschappelijke binding (familie, school, verblijf)",
+      "terugkeer-uit-buitenland": "Terugkeer uit het buitenland of een andere regio"
+     }
+    },
+    "intrekking-herhaling": {
+     "label": "Intrekking urgentie en herhaalde aanvraag",
+     "anker": "Huisvestingsverordening (zoekperiode, intrekking); Awb art. 4:6 (herhaalde aanvraag)",
+     "kenmerk": {
+      "te-weinig-gereageerd": "Te weinig gereageerd tijdens de zoekperiode",
+      "nieuwe-feiten": "Nieuwe feiten of omstandigheden",
+      "herhaalde-aanvraag": "Herhaalde aanvraag zonder nieuwe feiten",
+      "procesbelang": "Procesbelang vervallen"
+     }
+    },
+    "spoed-procedure": {
+     "label": "Spoed en procedure (voorlopige voorziening, niet tijdig, niet-ontvankelijk)",
+     "anker": "Awb art. 8:81 (voorlopige voorziening); Awb hoofdstuk 6 en 7 (bezwaar); Awb titel 4.1.3 (niet tijdig beslissen)",
+     "kenmerk": {
+      "geen-spoedeisend-belang": "Geen spoedeisend belang (heeft al een woning)",
+      "evident-onrechtmatig": "Besluit evident onrechtmatig?",
+      "niet-tijdig": "Niet tijdig beslist",
+      "niet-ontvankelijk": "Bezwaar niet-ontvankelijk"
+     }
+    }
+   }
+  },
+  "woonruimtevoorraad": {
+   "label": "Woningvoorraad beschermen: vergunning voor onttrekken, omzetten en splitsen",
+   "rechtsgang": "Bestuursrecht: bezwaar → rechtbank → Raad van State",
+   "anker": "Huisvestingswet 2014, hoofdstuk over wijziging van de woonruimtevoorraad (onttrekking, samenvoeging, omzetting, woningvorming, splitsing) en de huisvestingsverordening",
+   "kleur": "#3E8E5A",
+   "concept": true,
+   "sub": {
+    "onttrekking": {
+     "label": "Onttrekken aan de woningvoorraad (vergunning, intrekking, tweede woning) en: is het een woning?",
+     "anker": "Huisvestingswet 2014 (onttrekking aan de woonruimtevoorraad); huisvestingsverordening",
+     "kenmerk": {
+      "onttrekkingsvergunning-geweigerd": "Onttrekkingsvergunning geweigerd",
+      "vergunning-ingetrokken": "Verleende vergunning ingetrokken",
+      "tweede-woning-bedrijfsmatig": "Tweede woning of bedrijfsmatig gebruik",
+      "compensatie": "Compensatie of vervangende woonruimte",
+      "bedrijfsruimte-of-woning": "Bedrijfsruimte of woning (zelfstandig of onzelfstandig)"
+     }
+    },
+    "omzetting-kamerverhuur": {
+     "label": "Omzetten naar onzelfstandige woonruimte (kamerverhuur)",
+     "anker": "Huisvestingswet 2014 (omzetting); huisvestingsverordening; Awb art. 4:84",
+     "kenmerk": {
+      "omzettingsvergunning-geweigerd": "Omzettingsvergunning geweigerd",
+      "leefbaarheid-kamerverhuur": "Leefbaarheid en maximum aantal kamerverhuurpanden",
+      "beleidswijziging-overgangsrecht": "Beleid gewijzigd of overgangsrecht",
+      "langer-dan-jaar-ongebruikt": "Pand lang niet als kamerverhuur gebruikt"
+     }
+    },
+    "woningvorming-splitsing": {
+     "label": "Woningvorming, samenvoeging en splitsing",
+     "anker": "Huisvestingswet 2014 (woningvorming, samenvoeging, splitsing); huisvestingsverordening",
+     "kenmerk": {
+      "splitsingsvergunning": "Splitsingsvergunning",
+      "woningvormingsvergunning": "Woningvormingsvergunning",
+      "omwonenden-belanghebbend": "Omwonende of buur als belanghebbende"
+     }
+    }
+   }
+  },
+  "handhaving-huisvestingswet": {
+   "label": "Handhaving Huisvestingswet: boetes en lasten",
+   "rechtsgang": "Bestuursrecht: bezwaar → rechtbank (vaak met voorlopige voorziening) → Raad van State",
+   "anker": "Huisvestingswet 2014 (handhaving, bestuurlijke boete); Awb titel 5.3 (last onder bestuursdwang of dwangsom) en titel 5.4 (bestuurlijke boete)",
+   "kleur": "#B8862B",
+   "concept": true,
+   "sub": {
+    "boete-onttrekking": {
+     "label": "Boete voor onttrekken zonder vergunning",
+     "anker": "Huisvestingswet 2014 (bestuurlijke boete); Awb titel 5.4",
+     "kenmerk": {
+      "hoogte-evenredigheid": "Hoogte van de boete, evenredigheid",
+      "draagkracht": "Beperkte draagkracht",
+      "verminderde-verwijtbaarheid": "Verminderde verwijtbaarheid",
+      "overtreder-functioneel-dader": "Wie is overtreder (eigenaar, beheerder, functioneel dader)",
+      "redelijke-termijn": "Redelijke termijn overschreden"
+     }
+    },
+    "boete-omzetting": {
+     "label": "Boete voor omzetten of omgezet houden zonder vergunning",
+     "anker": "Huisvestingswet 2014 (bestuurlijke boete, omzetting); Awb titel 5.4",
+     "kenmerk": {
+      "hoogte-evenredigheid": "Hoogte van de boete, evenredigheid",
+      "eigenaar-verhuurder-wie": "Eigenaar, verhuurder of beheerder: wie is overtreder",
+      "woongroep-hospita": "Woongroep of hospitaverhuur",
+      "bewijs-controlerapport": "Bewijs en controlerapport"
+     }
+    },
+    "last-dwangsom": {
+     "label": "Last onder dwangsom of bestuursdwang, en verzoek om handhaving door buren (bewoning, splitsing)",
+     "anker": "Awb titel 5.3; Huisvestingswet 2014; huisvestingsverordening",
+     "kenmerk": {
+      "onzelfstandige-bewoning": "Onzelfstandige bewoning door meer personen",
+      "splitsing-ongedaan-maken": "Splitsing ongedaan maken",
+      "begunstigingstermijn": "Begunstigingstermijn",
+      "concreet-zicht-legalisatie": "Concreet zicht op legalisatie",
+      "hoogte-dwangsom": "Hoogte van de dwangsom",
+      "handhavingsverzoek-buren": "Verzoek om handhaving door buren of omwonenden"
+     }
+    },
+    "invordering": {
+     "label": "Invordering van verbeurde dwangsommen",
+     "anker": "Awb titel 5.3 (verbeurde dwangsom, invordering)",
+     "kenmerk": {
+      "overtreding-bewezen": "Is de overtreding bewezen",
+      "bewijslast-gemeente": "Bewijslast bij de gemeente",
+      "opschorting-bezwaar": "Opschorting of uitstel invordering"
+     }
+    }
+   }
+  },
+  "vakantieverhuur": {
+   "label": "Vakantieverhuur en bed and breakfast",
+   "rechtsgang": "Bestuursrecht: bezwaar → rechtbank → Raad van State",
+   "anker": "Huisvestingswet 2014 en huisvestingsverordening (vakantieverhuur: melding of vergunning, onttrekking); Awb titel 5.3 en 5.4",
+   "kleur": "#C2587A",
+   "concept": true,
+   "sub": {
+    "meldplicht": {
+     "label": "Melden en registreren van vakantieverhuur",
+     "anker": "Huisvestingsverordening (meldplicht vakantieverhuur); Huisvestingswet 2014",
+     "kenmerk": {
+      "niet-gemeld": "Niet of te laat gemeld",
+      "maximum-aantal-nachten": "Maximum aantal nachten of personen",
+      "eigen-woning-hoofdverblijf": "Eigen woning en hoofdverblijf"
+     }
+    },
+    "onttrekking-vergunning": {
+     "label": "Vergunning voor bed and breakfast of toeristische verhuur (onttrekking)",
+     "anker": "Huisvestingswet 2014 (onttrekking aan de woonruimtevoorraad); huisvestingsverordening",
+     "kenmerk": {
+      "vergunningplicht": "Vergunningplicht en dienstenrichtlijn",
+      "vergunning-bb": "B&B-vergunning verleend of geweigerd",
+      "omwonenden": "Bezwaar van omwonenden"
+     }
+    },
+    "boete-last": {
+     "label": "Boete of last bij vakantieverhuur",
+     "anker": "Huisvestingswet 2014 (bestuurlijke boete); Awb titel 5.3 en 5.4",
+     "kenmerk": {
+      "hoogte-matiging": "Hoogte en matiging van de boete",
+      "functioneel-daderschap": "Wie is overtreder (functioneel dader)",
+      "leefbaarheidsovertreding": "Leefbaarheidsovertreding of herhaling",
+      "bijzondere-omstandigheden": "Bijzondere omstandigheden"
+     }
+    }
+   }
+  },
+  "verhuurders": {
+   "label": "Verhuurders: opkoopbescherming, goed verhuurderschap en leegstand",
+   "rechtsgang": "Bestuursrecht: bezwaar → rechtbank → Raad van State",
+   "anker": "Huisvestingswet 2014 (opkoopbescherming); Wet goed verhuurderschap; Leegstandwet; Awb titel 5.3 en 5.4",
+   "kleur": "#7A8B2E",
+   "concept": true,
+   "sub": {
+    "opkoop-boete-dwangsom": {
+     "label": "Opkoopbescherming: verhuurvergunning, boete en dwangsom",
+     "anker": "Huisvestingswet 2014 (opkoopbescherming, bestuurlijke boete); Awb titel 5.3 en 5.4",
+     "kenmerk": {
+      "boete-hoogte-matiging": "Hoogte en matiging van de boete",
+      "bedrijfsmatig-verhuurd": "Bedrijfsmatig of particulier verhuurd",
+      "vergunning-geweigerd-of-duur": "Vergunning geweigerd of te kort van duur",
+      "overtreding-bewezen": "Overtreding bewezen"
+     }
+    },
+    "goed-verhuurderschap-leegstand": {
+     "label": "Goed verhuurderschap en Leegstandwet",
+     "anker": "Wet goed verhuurderschap; Leegstandwet; Awb titel 5.3",
+     "kenmerk": {
+      "wgv-last-dwangsom": "Last onder dwangsom op grond van de Wet goed verhuurderschap",
+      "wgv-handhavingsverzoek": "Verzoek om handhaving door huurder of derde",
+      "leegstandsvergunning": "Leegstandsvergunning of tijdelijke verhuur",
+      "verhuurvergunning-verplicht": "Verhuurvergunning verplicht"
+     }
+    }
+   }
+  },
+  "rotterdamwet": {
+   "label": "Rotterdamwet (Wet bijzondere maatregelen grootstedelijke problematiek)",
+   "rechtsgang": "Bestuursrecht: bezwaar → rechtbank → Raad van State",
+   "anker": "Wet bijzondere maatregelen grootstedelijke problematiek (Wbmgp) met de gemeentelijke verordening; Huisvestingswet 2014; Awb titel 5.3 en 5.4",
+   "kleur": "#8A5A3C",
+   "concept": true,
+   "sub": {
+    "vergunning-inkomenseis": {
+     "label": "Huisvestingsvergunning: inkomenseis en gebieden",
+     "anker": "Wbmgp (voorwaarden voor woonruimte in aangewezen gebieden); gemeentelijke verordening",
+     "kenmerk": {
+      "inkomenseis": "Inkomenseis of bezigheid (werk, vrijwilligerswerk)",
+      "schaarste-onderbouwing": "Is schaarste aan goedkope woonruimte onderbouwd",
+      "hardheid-binding": "Hardheid, binding of beleidswijziging",
+      "aangewezen-gebied": "Aangewezen gebied of straat"
+     }
+    },
+    "woonverklaring": {
+     "label": "Woonverklaring en veroordeling (overlast, strafbare feiten)",
+     "anker": "Wbmgp (verklaring omtrent het woongedrag); art. 8 EVRM",
+     "kenmerk": {
+      "opiumdelict": "Veroordeling voor een opiumdelict",
+      "evrm-gezinsleven": "Gezinsleven (art. 8 EVRM)",
+      "drugslab-elders": "Drugslab of feit elders"
+     }
+    },
+    "boete-dwangsom": {
+     "label": "Boete of dwangsom: verhuurd of in gebruik gegeven zonder vergunning",
+     "anker": "Wbmgp; Huisvestingswet 2014; Awb titel 5.3 en 5.4",
+     "kenmerk": {
+      "hoogte-matiging": "Hoogte en matiging van de boete",
+      "huurprijsgrens": "Huurprijs onder of boven de grens",
+      "vastgoedbeheerder": "Wie is overtreder (eigenaar, beheerder)",
+      "verminderde-verwijtbaarheid": "Verminderde verwijtbaarheid"
+     }
+    }
+   }
+  },
+  "woningkwaliteit": {
+   "label": "Woningkwaliteit en veiligheid van bestaande woningen",
+   "rechtsgang": "Bestuursrecht: bezwaar (vaak met voorlopige voorziening) → rechtbank → Raad van State",
+   "anker": "Woningwet en Bouwbesluit (handhaving op bestaande woningen); Awb titel 5.3 (last onder bestuursdwang of dwangsom)",
+   "kleur": "#5D6F8A",
+   "concept": true,
+   "sub": {
+    "onveilige-woning": {
+     "label": "Onveilige of ongeschikte woning (last onder bestuursdwang)",
+     "anker": "Woningwet; Bouwbesluit (bestaande bouw); Awb titel 5.3",
+     "kenmerk": {
+      "stabiliteit-constructie": "Stabiliteit of constructie",
+      "asbest-gevaar": "Asbest of ander gevaar",
+      "spoedeisende-bestuursdwang": "Spoedeisende bestuursdwang",
+      "bewoners-ontruimen": "Bewoners moeten de woning uit"
+     }
+    },
+    "overbewoning-brandveiligheid": {
+     "label": "Overbewoning, brandveiligheid, last onder dwangsom en invordering",
+     "anker": "Woningwet; Bouwbesluit (brandveiligheid, gebruik); Awb titel 5.3",
+     "kenmerk": {
+      "brandveiligheid": "Brandveiligheid",
+      "aantal-bewoners": "Aantal bewoners of kamers",
+      "gebruiksfunctie": "Gebruiksfunctie van het pand",
+      "aanschrijving-invordering": "Aanschrijving, dwangsom of invordering"
+     }
+    }
+   }
+  }
+ },
+ "argumenten": {
+  "onevenredig-hoogte-boete": "De boete of maatregel is onevenredig of te hoog",
+  "draagkracht": "Mijn draagkracht is beperkt",
+  "overtreding-niet-bewezen": "De overtreding is niet bewezen (controlerapport, bewijs)",
+  "geen-overtreder": "Ik ben niet de overtreder (eigenaar, beheerder, verhuurder)",
+  "verminderde-verwijtbaarheid": "Het verwijt is gering (ik wist het niet of kon er weinig aan doen)",
+  "hardheidsclausule": "De hardheidsclausule had moeten worden toegepast",
+  "geen-urgent-probleem": "Ik heb wel een urgent huisvestingsprobleem",
+  "medische-omstandigheden": "Medische of psychische omstandigheden, medisch advies",
+  "kinderen-belangen": "De belangen van kinderen zijn niet meegewogen",
+  "hoofdverblijf-woning": "Het is mijn hoofdverblijf of de woning valt niet onder de regels",
+  "geen-woonruimte": "Het pand is geen woonruimte of is bedrijfsruimte",
+  "vertrouwensbeginsel": "Gewekt vertrouwen of toezegging (vertrouwensbeginsel)",
+  "gelijkheid": "Anderen werden anders behandeld (gelijkheid)",
+  "beleid-afwijken": "De gemeente moest van het beleid afwijken (bijzondere omstandigheden, gewijzigd beleid)",
+  "begunstigingstermijn": "De begunstigingstermijn is te kort",
+  "invordering-dwangsom": "De dwangsom mag niet worden ingevorderd",
+  "legalisatie-concreet-zicht": "De situatie kan worden gelegaliseerd (concreet zicht)",
+  "verordening-onverbindend": "De verordening of het beleid is niet geldig (bijvoorbeeld schaarste niet onderbouwd, dienstenrichtlijn, art. 8 EVRM)",
+  "hoorplicht-motivering": "Niet gehoord of slecht gemotiveerd",
+  "niet-tijdig-beslist": "Niet op tijd beslist of redelijke termijn overschreden",
+  "spoedeisend-belang": "Spoedeisend belang (voorlopige voorziening)",
+  "belanghebbende-handhavingsverzoek": "Ik ben belanghebbende en de gemeente moet handhaven"
+ },
+ "config": {
+  "slug": "wonen-leefbaarheid",
+  "label": "Wonen en leefbaarheid",
+  "zaaktype": [
+   "huisvestingsvergunning",
+   "urgentieverklaring",
+   "vergunning-woonruimtevoorraad",
+   "bestuurlijke-boete",
+   "last-onder-dwangsom",
+   "bestuursdwang",
+   "invordering-dwangsom",
+   "handhavingsverzoek",
+   "overig"
+  ],
+  "bezwaargronden_verplicht_bij": [
+   "huisvestingsvergunning",
+   "urgentieverklaring",
+   "vergunning-woonruimtevoorraad",
+   "bestuurlijke-boete",
+   "last-onder-dwangsom",
+   "bestuursdwang",
+   "invordering-dwangsom"
+  ],
+  "raakt": [
+   "handhaving-huisvestingswet",
+   "vergunningen-wonen",
+   "woonruimteverdeling-urgentie",
+   "bouw-woningtoezicht",
+   "stadsontwikkeling-beleid-verordening",
+   "veiligheid",
+   "bezwaar-juridische-zaken",
+   "klantcontact",
+   "invordering"
+  ],
+  "toepasselijkheid": [
+   "landelijk",
+   "lokale verordening",
+   "rijk",
+   "privaat"
+  ],
+  "rollen": "de burger (concreter: de woningzoekende, de aanvrager, de eigenaar, de verhuurder, de huurder; alleen 'de bewoner' als de uitspraak dat zegt; 'betrokkene' als de rol onduidelijk is), de gemeente (ook als het college of de burgemeester besliste, of een woningcorporatie of regionaal samenwerkingsverband namens het college), de rechter, de derde die om handhaving vraagt (buren, omwonenden)",
+  "klantuitleg_vraag": "wanneer krijgt iemand urgentie of een huisvestingsvergunning, wanneer mag de gemeente een boete of last opleggen bij onttrekken, omzetten, splitsen, vakantieverhuur of verhuur zonder vergunning, en wat vindt de rechter evenredig",
+  "rubrieken": {
+   "huisvesting-verdeling": "woonruimteverdeling",
+   "woonruimtevoorraad": "woonruimtevoorraad",
+   "alleen-tekst": "handhaving-huisvestingswet",
+   "vakantieverhuur": "vakantieverhuur",
+   "woningkwaliteit": "woningkwaliteit",
+   "verhuurder-opkoop": "verhuurders",
+   "rotterdamwet": "rotterdamwet",
+   "leegstand-kraken": "verhuurders"
+  }
+ },
+ "telling_steekproef": {
+  "woonruimteverdeling--urgentie-voorwaarden": 27,
+  "woonruimteverdeling--urgentie-medisch": 4,
+  "woonruimteverdeling--urgentie-sociaal": 4,
+  "woonruimteverdeling--binding-regio": 3,
+  "woonruimteverdeling--intrekking-herhaling": 3,
+  "woonruimteverdeling--spoed-procedure": 8,
+  "woonruimtevoorraad--onttrekking": 4,
+  "woonruimtevoorraad--omzetting-kamerverhuur": 10,
+  "woonruimtevoorraad--woningvorming-splitsing": 5,
+  "handhaving-huisvestingswet--boete-onttrekking": 10,
+  "handhaving-huisvestingswet--boete-omzetting": 10,
+  "handhaving-huisvestingswet--last-dwangsom": 8,
+  "handhaving-huisvestingswet--invordering": 3,
+  "vakantieverhuur--meldplicht": 3,
+  "vakantieverhuur--onttrekking-vergunning": 2,
+  "vakantieverhuur--boete-last": 7,
+  "verhuurders--opkoop-boete-dwangsom": 6,
+  "verhuurders--goed-verhuurderschap-leegstand": 5,
+  "rotterdamwet--vergunning-inkomenseis": 9,
+  "rotterdamwet--woonverklaring": 4,
+  "rotterdamwet--boete-dwangsom": 10,
+  "woningkwaliteit--onveilige-woning": 4,
+  "woningkwaliteit--overbewoning-brandveiligheid": 3
+ },
+ "niet_in_scope_steekproef": [
+  "ECLI:NL:GHARL:2026:4064: inkomstenbelasting, geen gemeentebesluit",
+  "ECLI:NL:RVS:2018:3953: omgevingsvergunning kamerverhuur, planologisch",
+  "ECLI:NL:RBNHO:2021:11958: last wegens bestemmingsplan",
+  "ECLI:NL:RVS:2026:6218: omgevingsvergunning, planologisch",
+  "ECLI:NL:RVS:2018:1265: omgevingsvergunning kamerverhuur",
+  "ECLI:NL:RVS:2019:603: bestemmingsplan, legalisatie kamerbewoning",
+  "ECLI:NL:RBGEL:2022:6283: strijd met beheersverordening",
+  "ECLI:NL:RVS:2025:5762: bestemmingsplan Heerlen",
+  "ECLI:NL:RBROT:2026:1123: omgevingsvergunning woonvoorziening",
+  "ECLI:NL:CRVB:2019:3177: WIA-uitkering, sociale zekerheid",
+  "ECLI:NL:RBGEL:2021:7293: last wegens bestemmingsplan",
+  "ECLI:NL:CRVB:2021:233: CRvB, geen woonzaak (proceskosten)",
+  "ECLI:NL:RVS:2022:1614: bestemmingsplan",
+  "ECLI:NL:RBZWB:2021:437: Woo-verzoek",
+  "ECLI:NL:RBNNE:2023:4005: afvalstoffenheffing",
+  "ECLI:NL:RVS:2021:451: omgevingsvergunning vergroten woning",
+  "ECLI:NL:RBZWB:2023:7444: inhoud onbekend (alleen zaaknummer)",
+  "ECLI:NL:RVS:2023:1546: bestemmingsplan",
+  "ECLI:NL:RBAMS:2017:7482: exploitatievergunning prostitutie",
+  "ECLI:NL:RBDHA:2021:11455: vreemdelingenrecht, gezinslid",
+  "ECLI:NL:RBAMS:2021:760: exploitatievergunning raambordelen",
+  "ECLI:NL:RBZWB:2022:4858: inhoud onbekend (alleen zaaknummer)",
+  "ECLI:NL:RVS:2026:2430: verkeersbesluit ligplaats",
+  "ECLI:NL:RBROT:2025:10062: omgevingsvergunning",
+  "ECLI:NL:RVS:2022:2691: bestemmingsplan",
+  "ECLI:NL:RVS:2020:830: omgevingsvergunning logiesgebouw",
+  "ECLI:NL:RVS:2016:2008: omgevingsvergunning bouwen",
+  "ECLI:NL:RBGEL:2024:2494: omgevingsvergunning B&B, milieuafstand",
+  "ECLI:NL:RVS:2024:1613: omgevingsvergunning short stay",
+  "ECLI:NL:RBNNE:2020:906: subsidie monument",
+  "ECLI:NL:OGEABES:2024:110: Bonaire, ruimtelijk ontwikkelingsplan",
+  "ECLI:NL:RBNHO:2026:12713: omgevingsvergunning B&B",
+  "ECLI:NL:RBZWB:2026:4647: exploitatievergunning, omgevingsplan",
+  "ECLI:NL:RBLIM:2023:2494: omgevingsvergunning bijbehorend bouwwerk",
+  "ECLI:NL:RVS:2023:735: wijzigingsplan short stay",
+  "ECLI:NL:RVS:2020:743: omgevingsvergunning bouwen",
+  "ECLI:NL:RBGEL:2026:1545: omgevingsvergunning bouwen",
+  "ECLI:NL:RBMNE:2023:6044: toezicht corporatie, Autoriteit Woningcorporaties",
+  "ECLI:NL:RBAMS:2021:6213: omgevingsvergunning uitbreiding woning",
+  "ECLI:NL:RVS:2017:3384: camping, recreatieverblijf",
+  "ECLI:NL:RBMNE:2025:4202: omgevingsvergunning woonunit",
+  "ECLI:NL:RVS:2019:2805: recreatiewoning, planologisch",
+  "ECLI:NL:RBGEL:2026:1544: omgevingsvergunning bouwen",
+  "ECLI:NL:RBAMS:2018:621: omgevingsvergunning dakopbouw",
+  "ECLI:NL:RBNNE:2024:1936: omgevingsvergunning strijdig gebruik",
+  "ECLI:NL:RBLIM:2024:4017: bouw, afvoervoorzieningen gevel",
+  "ECLI:NL:RBGEL:2025:6055: omgevingsvergunning arbeidsmigranten",
+  "ECLI:NL:GHDHA:2026:1907: leges, belastingzaak",
+  "ECLI:NL:RBDHA:2026:10072: leges, belastingzaak"
+ ]
+}

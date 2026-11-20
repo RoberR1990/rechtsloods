@@ -14,9 +14,9 @@ python3 scripts/maak_in_l1.py wonen-leefbaarheid && python3 scripts/maak_in_v3.p
 
 ## Stappen
 - [x] 0 Oriëntatie
-- [~] 1 Verzamelen en afbakenen
-- [ ] 2 Taxonomie en uitkomstregels bevriezen
-- [ ] 3 Laag 1 (Haiku)
+- [x] 1 Verzamelen en afbakenen
+- [x] 2 Taxonomie en uitkomstregels bevriezen
+- [~] 3 Laag 1 (Haiku)
 - [ ] 4 Selectie laag 2
 - [ ] 5 Laag 2 (Sonnet, zelf schrijven) + blinde steekproef
 - [ ] 6 Nakijkronde uitkomstregels
@@ -42,13 +42,26 @@ python3 scripts/maak_in_l1.py wonen-leefbaarheid && python3 scripts/maak_in_v3.p
 15. Een "open dataset"-script bestaat niet in de snapshot; de open data van een domein is de map `site/data/domeinen/<slug>/` plus `data/uit_v3/<slug>/`.
 
 ## Aantallen
-(volgt per stap)
+**Stap 1** (`data/dom/wonen-leefbaarheid/afbakening.json`, `kandidaten.json`, `afgevallen.json`)
+- Feeds bestuursrecht 2016-2026: 293.000+ uitspraken doorzocht; volledige-tekstzoeker: 26 termen, 3.661 bestuursrechtelijke treffers (1.535 civiel/straf genegeerd).
+- Kandidaten: 3.620 (2.289 via inhoudsindicatie, 1.331 alleen via de volledige tekst). Vooraf uitgesloten: 159 ander domein, 102 belasting, 37 openbare-orde-kern, 36 bouwen/bestemmingsplan.
+- Na tekstfilter: **2.469 relevant** (weg: 485 geen woonbegrip in tekst, 367 planologisch, 198 alleen bijzin, 62 belastingrecht, 23 CRvB, 15 ander onderwerp, 1 openbare orde).
+- Hoogste rechter 947 (allemaal Raad van State), rechtbank 1.522. Per jaar: 2016 77 · 2017 93 · 2018 131 · 2019 191 · 2020 243 · 2021 250 · 2022 267 · 2023 279 · 2024 384 · 2025 311 · 2026 243.
+- Per instantie: RvS 941 · Rb Amsterdam 414 · Den Haag 363 · Midden-Nederland 280 · Rotterdam 208 · Noord-Holland 110 · Zeeland-West-Brabant 51 · Gelderland 42 · overige < 15.
+- Rotterdam partij (regex dom_parse): 178. Rotterdamwet in de tekst: 27. Overlap openbare orde (gemarkeerd, veld `overlap`): 27. Dubbele publicaties (zelfde instantie + zaaknummer, `dubbel_van`): 10.
+- Precisie: Haiku 100 → 84 in / 8 uit / 8 twijfel (≈90%); na laatste regel ≈95%. Eigen controle 15/15 in. Bijlagen-bug: 2 uitspraken geraakt (RVS:2019:871, RBROT:2022:2347), 9 met beslissing buiten in_v3 (`lab/wonen/bijlagen_check.json`).
+**Stap 2**: 7 onderwerpen, 25 subs, 22 argumenten, 9 zaaktypes, 9 teams; `uitkomstregels` in config. Config-check: 0 fouten.
+**Stap 3**: 99 batches van 25 (`data/batches/l1_wonen-leefbaarheid.json`).
 
 ## Verbruik (schatting vooraf / werkelijk)
-(volgt per stap)
+| stap | agents | schatting | werkelijk |
+|---|---|---|---|
+| 2 taxonomie (Sonnet) | 1 | 100k | 121k |
+| 1 precisie (Haiku) | 1 | 100k | 143k |
+| 3 laag 1 (Haiku, 3×25 per agent) | 33 | 2.469 × 3,6k ≈ 8,9M | (loopt) |
 
 ## Laatste commit
 (volgt)
 
 ## Volgende actie
-Stap 1: feeds afmaken, `python3 -I lab/wonen_zoek.py`, daarna `lab/wonen_select.py` schrijven en draaien.
+Stap 3: Haiku-agents per 3 batches met `lab/wonen_l1.md` (batch-ids `l1-wonen-leefbaarheid-0001` t/m `-0099`); overslaan wat al in `data/uit_l1/wonen-leefbaarheid/` staat met `FOUTEN: 0`. Daarna `python3 scripts/check_l1.py wonen-leefbaarheid`.
