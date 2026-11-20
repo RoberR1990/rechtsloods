@@ -16,7 +16,7 @@ python3 scripts/maak_in_l1.py woz-belastingen && python3 scripts/maak_in_v3.py w
 
 ## Stappen
 - [x] 0 Oriëntatie
-- [~] 1 Verzamelen en afbakenen
+- [x] 1 Verzamelen en afbakenen
 - [ ] 2 Taxonomie en uitkomstregels bevriezen
 - [ ] 3 Laag 1 (Haiku)
 - [ ] 4 Selectie laag 2
@@ -45,12 +45,18 @@ python3 scripts/maak_in_l1.py woz-belastingen && python3 scripts/maak_in_v3.py w
 
 ## Aantallen
 - Feeds belastingrecht 2016-2026: 47.364 uitspraken (uniek). WOZ-regex op de inhoudsindicatie: 8.892. De verkenning gaf ±8.877 (tot 12 nov; het verschil zijn de 15 uitspraken van 12-20 nov). Reproductie: ok.
-- Pool: 11.119 (8.892 regex + 2.227 breed).
+- Pool: 11.119 (8.892 regex + 2.227 breed). Na de afbakening op de volledige tekst (B06): **9.653** (8.756 regex + 898 breed, 1 dubbele publicatie eruit: dezelfde instantie, hetzelfde zaaknummer en dezelfde datum, of identieke tekst). Uitgevallen: 136 uit de regex-bak (rijksbelasting/andere belasting) en 1.329 uit de brede bak.
+- Precisie (stap 1c): 98/100 (Haiku-agent; 15 zelf nagelopen, 15/15 eens; 5 twijfelgevallen op de volledige tekst bekeken, daarvan 3 toch relevant). Afgevallen pool: 0/40 relevant binnen de scope (2 Caribisch NL, buiten de scope, B07). Het filter hoefde niet te worden aangepast.
+- Per instantie: Rb Midden-Nederland 2.130 · Rb Zeeland-West-Brabant 1.479 · Hof Arnhem-Leeuwarden 1.371 · Hof Den Haag 779 · Hof Amsterdam 765 · Rb Oost-Brabant 619 · Rb Den Haag 471 · Hof 's-Hertogenbosch 439 · Rb Noord-Holland 322 · Rb Noord-Nederland 299 · Rb Rotterdam 258 · Rb Gelderland 220 · Hoge Raad 170 · Parket HR (conclusies AG) 48 · Rb Amsterdam 130 · Rb Overijssel 104 · Rb Limburg 49.
+- Per jaar: 2016 324 · 2017 285 · 2018 275 · 2019 360 · 2020 612 · 2021 878 · 2022 1.154 · 2023 1.319 · 2024 1.831 · 2025 1.428 · 2026 1.187 (t/m 20 nov).
+- Prioriteit (dom_parse): 1 = hoogste rechter/hof 3.572 · 2 = Rotterdam partij (niet hoog) 87 · 3 = rest 5.994. Vlag Rotterdam in totaal: 213. Varianten in de data: "heffingsambtenaar van de gemeente Rotterdam", "(directeur) Belastingen van de gemeente Rotterdam", "directeur Gemeentebelastingen Rotterdam", "gemeentelijke belastingen te Rotterdam".
+- Overlap met bestaande domeinen (veld `overlap` in kandidaten.json, niet verwijderd): bpm 16, parkeren 3, avg-privacy 1.
+- Bug in `maak_in_v3.py` ("Bijlage"): 138 uitspraken hebben een kopregel "Bijlage...", vrijwel altijd "Bijlage: juridisch kader" aan het eind. In 0 gevallen valt er beoordeling of dictum weg (`lab/sets/woz_bijlage_geraakt.json` is leeg). Het domein wordt dus niet geraakt.
 
 ## Verbruik (schatting vooraf / werkelijk)
 | stap | schatting | werkelijk |
 |---|---|---|
-| 1 precisie (Haiku, 1 agent) | ~60k | |
+| 1 precisie (Haiku, 1 agent) | ~60k | 148k (1 agent, 140 uitspraken) |
 | 2 taxonomie (Sonnet, 1 agent) | ~150k | |
 | 3 laag 1 (Haiku, ~3,6k per uitspraak) | ~9.000 × 3,6k ≈ 32M | |
 | 5 laag 2 (Sonnet, ~27k per uitspraak) | ~500 × 27k ≈ 13,5M | |
@@ -61,4 +67,4 @@ python3 scripts/maak_in_l1.py woz-belastingen && python3 scripts/maak_in_v3.py w
 (volgt)
 
 ## Volgende actie
-Stap 1: `scripts/dom_fetch.py woz-belastingen 10` afmaken, daarna `python3 -I lab/woz_afbakening.py` en de precisiesteekproef.
+Stap 2: taxonomie door een Sonnet-agent (`lab/woz_taxonomie_opdracht.md`) → controleren → `uitkomstregels` uit `lab/woz_uitkomstregels.json` toevoegen aan `data/dom/woz-belastingen/config.json`.

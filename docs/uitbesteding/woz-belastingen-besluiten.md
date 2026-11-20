@@ -32,3 +32,22 @@ Waar een vaste regel uit een bestaand domein geldt, gaat die voor op een eigen k
 - Alternatief: `woz-belastingen` toevoegen aan de vaste lijst in `scripts/dom_select.py` (daar staat al een 'woz' met alleen een regex).
 - Reden: werkafspraak 7. De regex in `dom_select.py` mist zaken zonder "WOZ" in de inhoudsindicatie, zoals proceskosten en immateriële schade, en neemt rijksbelastingen mee die alleen naar de WOZ-waarde verwijzen.
 - Status: door Robert te bevestigen.
+
+## B06 Afbakening: inhoudsindicatie plus volledige tekst
+- **Besluit:** de kandidaten komen uit de feeds `bestuursrecht_belastingrecht` 2016-2026 (47.364 uitspraken). Er zijn twee bakken (`lab/woz_zoek.py`). De eerste bak (8.892) heeft een WOZ-term in de titel of inhoudsindicatie; dat is dezelfde regex als de verkenning. De tweede bak (2.227, "breed") heeft geen WOZ-term, maar wel een WOZ-achtig begrip (waardepeildatum, taxatieverslag, heffingsambtenaar, proceskosten, immateriële schade, gemachtigde, ...) en geen marker van een andere belasting. Daarna beslist de volledige tekst (`lab/woz_afbakening.py`). Een uitspraak gaat erin als er een WOZ-term in de tekst staat, er een gemeentelijk orgaan in voorkomt en het geen rijkszaak is ("inspecteur" en geen heffingsambtenaar of college in de kop). Voor de brede bak zijn ≥ 2 WOZ-termen nodig. Bij een andere-belastingmarker in de kop zijn ≥ 3 WOZ-termen nodig. Resultaat: 9.653 (8.756 regex + 898 breed − 1 dubbel).
+- Alternatief: alleen de regex op de inhoudsindicatie (8.892), zoals de verkenning.
+- Reden: zaken over proceskosten, immateriële schade en gemachtigden noemen "WOZ" vaak niet in de inhoudsindicatie (bijv. HR "No cure no pay staat niet in de weg aan ... immateriële schade"). Juist die zaken zijn de kern van de business case. Rijkszaken die alleen naar de WOZ-waarde verwijzen (IB, erfbelasting, verhuurderheffing) vallen eruit.
+- Precisie (steekproef van 100, Haiku, 15 zelf nagelopen plus de 5 twijfelgevallen op de volledige tekst): 98%. In 40 afgevallen pool-uitspraken zat geen relevante zaak binnen de scope. De resterende valse treffers (o.a. vennootschapsbelasting, rioolheffing) markeert laag 1 als `relevant: false`.
+- Status: door Robert te bevestigen.
+
+## B07 Caribisch Nederland en Curaçao buiten de scope
+- **Besluit:** de onroerendezaakbelasting van Curaçao en de vastgoedbelasting van Bonaire (OGEAC, OGHACMB) horen niet bij het domein.
+- Alternatief: opnemen als "waardegeschil".
+- Reden: de Wet WOZ en de Gemeentewet gelden daar niet, en de wederpartij is de inspecteur. Haiku zette er 2 op relevant; dat heb ik zelf gecorrigeerd.
+- Status: door Robert te bevestigen.
+
+## B08 BPM-zaken over de "Wet herwaardering proceskostenvergoeding WOZ en bpm" buiten de scope
+- **Besluit:** uitspraken over proceskosten in een BPM-zaak (bijv. HR 26 september 2025, ECLI:NL:HR:2025:1378) horen niet bij dit domein, ook als ze dezelfde wet toepassen.
+- Alternatief: opnemen als bron voor de proceskosten in WOZ-zaken.
+- Reden: BPM is een eigen domein (scope-afspraak). Ik noem het als beperking in de overdracht: de HR-lijn over deze wet loopt deels via BPM-zaken.
+- Status: door Robert te bevestigen.
