@@ -1,0 +1,380 @@
+{
+ "bijstand-recht": {
+  "label": "Bijstand: recht op bijstand en hoogte",
+  "rechtsgang": "Bezwaar → rechtbank → Centrale Raad van Beroep",
+  "anker": "Participatiewet hoofdstuk 2 en 3 (art. 11-40); Bbz 2004; IOAW/IOAZ",
+  "kleur": "#0F5C63",
+  "concept": true,
+  "rubriek": [
+   "bijstand"
+  ],
+  "sub": {
+   "aanvraag-bijstandsbehoevendheid": {
+    "label": "Aanvraag, bewijs en bijstandsbehoevendheid",
+    "anker": "Participatiewet art. 11, 17, 43; Awb art. 4:5",
+    "kenmerk": {
+     "buiten-behandeling": "Aanvraag buiten behandeling gesteld (stukken ontbreken)",
+     "recht-niet-vast-te-stellen": "Recht niet vast te stellen (onduidelijke situatie)",
+     "ingangsdatum-terugwerkende-kracht": "Ingangsdatum en bijstand met terugwerkende kracht",
+     "rechtmatig-verblijf": "Rechtmatig verblijf en gelijkstelling (vreemdeling, EU-burger)",
+     "ioaw-ioaz": "IOAW of IOAZ"
+    }
+   },
+   "woonadres-hoofdverblijf": {
+    "label": "Woonadres, hoofdverblijf en dakloosheid",
+    "anker": "Participatiewet art. 40; Wet BRP",
+    "kenmerk": {
+     "niet-op-opgegeven-adres": "Niet (alleen) op het opgegeven adres",
+     "briefadres-dakloos": "Briefadres, dakloos of zwervend",
+     "verblijf-buitenland": "Verblijf in het buitenland"
+    }
+   },
+   "gezamenlijke-huishouding": {
+    "label": "Samenwonen: gezamenlijke huishouding en gehuwdennorm",
+    "anker": "Participatiewet art. 3 en 4",
+    "kenmerk": {
+     "hoofdverblijf-zelfde-woning": "Hoofdverblijf in dezelfde woning",
+     "wederzijdse-zorg": "Wederzijdse zorg",
+     "duurzaam-gescheiden": "Gehuwd of duurzaam gescheiden"
+    }
+   },
+   "kostendelersnorm-normhoogte": {
+    "label": "Kostendelersnorm en hoogte van de bijstandsnorm",
+    "anker": "Participatiewet art. 19-31 (o.a. 22a kostendelersnorm, 18 lid 1 afstemming)",
+    "kenmerk": {
+     "kostendelende-medebewoner": "Kostendelende medebewoner (huurder, kind, familie)",
+     "jongerennorm": "Jongeren (onder 21 of 27 jaar)",
+     "verlaging-woonsituatie": "Verlaging of toeslag vanwege woonsituatie"
+    }
+   },
+   "middelen-vermogen": {
+    "label": "Inkomsten, vermogen, giften en kasstortingen",
+    "anker": "Participatiewet art. 31-34",
+    "kenmerk": {
+     "kasstortingen-bijschrijvingen": "Kasstortingen en bijschrijvingen op de rekening",
+     "vermogen-onroerend-goed": "Vermogen of onroerend goed (ook in het buitenland)",
+     "erfenis-giften": "Erfenis, schenking of gift",
+     "werkzaamheden-inkomsten": "(Zwart) werk en op geld waardeerbare werkzaamheden"
+    }
+   },
+   "zelfstandigen-bbz-tozo": {
+    "label": "Zelfstandigen: Bbz, Tozo en Tonk",
+    "anker": "Besluit bijstandverlening zelfstandigen 2004; Tozo; Tonk",
+    "kenmerk": {
+     "levensvatbaarheid": "Levensvatbaarheid van het bedrijf",
+     "bedrijfskapitaal-lening": "Bedrijfskapitaal of lening",
+     "tozo-woonplaats-inkomen": "Tozo: woonplaats, partnerinkomen of terugvordering"
+    }
+   }
+  }
+ },
+ "bijstand-handhaving": {
+  "label": "Bijstand: handhaving, terugvordering en sancties",
+  "rechtsgang": "Bezwaar → rechtbank → Centrale Raad van Beroep",
+  "anker": "Participatiewet hoofdstuk 6 en 7 (art. 17, 18, 18a, 53a, 54, 58-62)",
+  "kleur": "#7A3E2B",
+  "concept": true,
+  "rubriek": [
+   "bijstand"
+  ],
+  "sub": {
+   "inlichtingenplicht-intrekking": {
+    "label": "Inlichtingenplicht geschonden: herziening en intrekking",
+    "anker": "Participatiewet art. 17 en 54 lid 3",
+    "kenmerk": {
+     "niet-gemeld-werk-inkomen": "Werk of inkomen niet gemeld",
+     "niet-gemeld-vermogen": "Bezit of vermogen niet gemeld",
+     "schatting-recht": "Recht geschat (schattenderwijs vaststellen)",
+     "kenbaarheid": "Kon iemand weten dat het van belang was?"
+    }
+   },
+   "onderzoek-huisbezoek": {
+    "label": "Onderzoek door de gemeente: huisbezoek, waarneming en verklaringen",
+    "anker": "Participatiewet art. 53a; art. 8 EVRM; Awb art. 3:2",
+    "kenmerk": {
+     "huisbezoek-toestemming": "Huisbezoek en toestemming (informed consent)",
+     "waarneming-observatie": "Waarneming, observatie of camera",
+     "gehouden-aan-verklaring": "Aan verklaring gehouden",
+     "opschorting": "Opschorting en intrekking na niet meewerken"
+    }
+   },
+   "terugvordering-invordering": {
+    "label": "Terugvordering, verhaal en invordering",
+    "anker": "Participatiewet art. 58-62g; Awb titel 4.4",
+    "kenmerk": {
+     "dringende-redenen": "Dringende redenen om af te zien van terugvordering",
+     "hoogte-bruto-netto": "Hoogte van het bedrag (bruto, netto, periode)",
+     "invordering-beslagvrije-voet": "Invordering, verrekening en beslagvrije voet",
+     "verhaal-onderhoudsplichtige": "Verhaal op een onderhoudsplichtige (ex-partner, ouder)"
+    }
+   },
+   "boete": {
+    "label": "Boete bij schending van de inlichtingenplicht",
+    "anker": "Participatiewet art. 18a; Boetebesluit socialezekerheidswetten",
+    "kenmerk": {
+     "verwijtbaarheid": "Mate van verwijtbaarheid (grove schuld, opzet)",
+     "draagkracht-hoogte": "Hoogte en draagkracht",
+     "waarschuwing": "Waarschuwing in plaats van boete"
+    }
+   },
+   "maatregel-verlaging": {
+    "label": "Maatregel: verlaging van de bijstand",
+    "anker": "Participatiewet art. 18 lid 2-4; afstemmingsverordening",
+    "kenmerk": {
+     "verwijtbaar-werkloos": "Verwijtbaar werkloos of ontslag genomen",
+     "gedrag-belemmert-arbeid": "Gedrag dat werk in de weg staat",
+     "niet-meewerken-reintegratie": "Niet meewerken aan re-integratie of afspraak gemist",
+     "geen-verwijtbaarheid": "Geen verwijtbaarheid (dringende redenen, medisch)"
+    }
+   },
+   "arbeidsverplichting-tegenprestatie": {
+    "label": "Arbeidsverplichtingen, re-integratie, ontheffing en tegenprestatie",
+    "anker": "Participatiewet art. 9, 9a, 10",
+    "kenmerk": {
+     "ontheffing": "Ontheffing van de arbeidsplicht",
+     "tegenprestatie": "Tegenprestatie",
+     "re-integratievoorziening": "Re-integratievoorziening of werkstage",
+     "taaleis": "Taaleis"
+    }
+   }
+  }
+ },
+ "bijzondere-bijstand": {
+  "label": "Bijzondere bijstand en toeslagen",
+  "rechtsgang": "Bezwaar → rechtbank → Centrale Raad van Beroep",
+  "anker": "Participatiewet art. 35, 36, 36b",
+  "kleur": "#8C6D1F",
+  "concept": true,
+  "rubriek": [
+   "bijstand"
+  ],
+  "sub": {
+   "bijzondere-bijstand-kosten": {
+    "label": "Bijzondere bijstand voor bijzondere kosten",
+    "anker": "Participatiewet art. 35",
+    "kenmerk": {
+     "inrichting-verhuizing": "Inrichting of verhuizing",
+     "medische-kosten-tandarts": "Medische kosten of tandarts",
+     "bewindvoering": "Kosten van bewindvoering",
+     "woonkosten-huur": "Woonkosten of huur",
+     "draagkracht": "Draagkracht en voorliggende voorziening"
+    }
+   },
+   "inkomenstoeslag-minimaregeling": {
+    "label": "Individuele inkomenstoeslag, studietoeslag en minimaregelingen",
+    "anker": "Participatiewet art. 36 en 36b; gemeentelijke verordeningen",
+    "kenmerk": {
+     "uitzicht-inkomensverbetering": "Geen uitzicht op inkomensverbetering",
+     "studietoeslag": "Studietoeslag",
+     "collectieve-verzekering": "Collectieve verzekering of minimaregeling"
+    }
+   }
+  }
+ },
+ "wmo": {
+  "label": "Wmo: maatschappelijke ondersteuning",
+  "rechtsgang": "Bezwaar → rechtbank → Centrale Raad van Beroep",
+  "anker": "Wet maatschappelijke ondersteuning 2015 (en Wmo 2007); gemeentelijke Wmo-verordening",
+  "kleur": "#4B5D8C",
+  "concept": true,
+  "rubriek": [
+   "wmo"
+  ],
+  "sub": {
+   "melding-onderzoek": {
+    "label": "Melding, onderzoek en ondersteuningsplan (keukentafelgesprek)",
+    "anker": "Wmo 2015 art. 2.3.2 t/m 2.3.5",
+    "kenmerk": {
+     "onderzoek-onvolledig": "Onderzoek onvolledig of zonder deskundige",
+     "eigen-kracht-netwerk": "Eigen kracht, gebruikelijke hulp en mantelzorg",
+     "voorliggende-voorziening": "Voorliggende voorziening (Wlz, Zvw, algemene voorziening)"
+    }
+   },
+   "hulp-huishouden": {
+    "label": "Hulp bij het huishouden",
+    "anker": "Wmo 2015 art. 2.3.5; normenkader huishoudelijke ondersteuning",
+    "kenmerk": {
+     "resultaatgericht-uren": "Resultaat of aantal uren (normering)",
+     "algemene-voorziening": "Algemene voorziening of algemeen gebruikelijk",
+     "wasverzorging-boodschappen": "Was, boodschappen en andere taken"
+    }
+   },
+   "begeleiding-dagbesteding": {
+    "label": "Begeleiding, dagbesteding en persoonlijke verzorging",
+    "anker": "Wmo 2015 art. 1.1.1 en 2.3.5",
+    "kenmerk": {
+     "individuele-begeleiding": "Individuele begeleiding",
+     "dagbesteding": "Dagbesteding",
+     "wlz-afbakening": "Afbakening met Wlz of Zvw"
+    }
+   },
+   "woonvoorziening": {
+    "label": "Woningaanpassing, traplift en verhuizing",
+    "anker": "Wmo 2015 art. 2.3.5",
+    "kenmerk": {
+     "traplift-badkamer": "Traplift of badkameraanpassing",
+     "verhuizing-goedkoopst-adequaat": "Verhuizen als goedkoopste passende oplossing",
+     "voorzienbaarheid-eigen-middelen": "Voorzienbaar of zelf te betalen"
+    }
+   },
+   "vervoer-hulpmiddelen": {
+    "label": "Vervoer, rolstoel en scootmobiel",
+    "anker": "Wmo 2015 art. 2.3.5",
+    "kenmerk": {
+     "scootmobiel-rolstoel": "Scootmobiel of rolstoel",
+     "collectief-vervoer-taxi": "Collectief vervoer of (regio)taxi",
+     "auto-kilometervergoeding": "Auto, aanpassing of kilometervergoeding",
+     "gehandicaptenparkeerkaart": "Gehandicaptenparkeerkaart (medisch advies)"
+    }
+   },
+   "beschermd-wonen-opvang": {
+    "label": "Beschermd wonen en maatschappelijke opvang",
+    "anker": "Wmo 2015 art. 1.2.1, 1.2.2 en 2.3.5",
+    "kenmerk": {
+     "opvang-dakloos": "Opvang voor daklozen of gezinnen",
+     "zelfredzaamheid-eigen-kracht": "Kan iemand zich op eigen kracht handhaven?",
+     "vreemdeling-koppelingsbeginsel": "Vreemdeling zonder rechtmatig verblijf (koppelingsbeginsel)",
+     "beschermd-wonen-indicatie": "Indicatie beschermd wonen"
+    }
+   },
+   "pgb-eigen-bijdrage": {
+    "label": "Pgb, tarief en eigen bijdrage (Wmo)",
+    "anker": "Wmo 2015 art. 2.3.6 en 2.1.4; Uitvoeringsbesluit Wmo 2015",
+    "kenmerk": {
+     "pgb-tarief-netwerk": "Hoogte pgb-tarief (ook sociaal netwerk)",
+     "pgb-verantwoording-terugvordering": "Verantwoording en terugvordering pgb",
+     "eigen-bijdrage-cak": "Eigen bijdrage (CAK)",
+     "zorg-in-natura-of-pgb": "Zorg in natura of pgb"
+    }
+   }
+  }
+ },
+ "jeugdwet": {
+  "label": "Jeugdwet: jeugdhulp",
+  "rechtsgang": "Bezwaar → rechtbank → Centrale Raad van Beroep",
+  "anker": "Jeugdwet (2015); gemeentelijke verordening jeugdhulp",
+  "kleur": "#6B4C7A",
+  "concept": true,
+  "rubriek": [
+   "jeugdwet"
+  ],
+  "sub": {
+   "toegang-onderzoek-jeugd": {
+    "label": "Toegang, onderzoek en eigen mogelijkheden van ouders",
+    "anker": "Jeugdwet art. 2.3, 2.9 en 2.10",
+    "kenmerk": {
+     "onderzoek-hulpvraag": "Onderzoek naar de hulpvraag (stappenplan)",
+     "eigen-mogelijkheden-ouders": "Eigen mogelijkheden en gebruikelijke zorg van ouders",
+     "verwijzing-arts": "Verwijzing door huisarts, jeugdarts of medisch specialist"
+    }
+   },
+   "pgb-tarief-jeugd": {
+    "label": "Pgb voor jeugdhulp en de hoogte van het tarief",
+    "anker": "Jeugdwet art. 8.1.1; verordening jeugdhulp",
+    "kenmerk": {
+     "informeel-tarief": "Tarief voor het sociaal netwerk (informeel pgb)",
+     "pgb-weigering": "Weigering of beëindiging pgb",
+     "verordening-tarief": "Tarief in de verordening (rechtmatigheid)"
+    }
+   },
+   "vorm-omvang-jeugdhulp": {
+    "label": "Soort en omvang van jeugdhulp (verblijf, dyslexie, vervoer, onderwijs)",
+    "anker": "Jeugdwet art. 1.1 en 2.3",
+    "kenmerk": {
+     "verblijf-pleegzorg": "Verblijf, pleegzorg of logeren",
+     "dyslexie": "Dyslexiezorg",
+     "vervoer-reiskosten": "Vervoer en reiskosten",
+     "onderwijs-afbakening": "Afbakening met onderwijs of Wlz"
+    }
+   }
+  }
+ },
+ "schuldhulp": {
+  "label": "Schuldhulpverlening",
+  "rechtsgang": "Bezwaar → rechtbank → Raad van State",
+  "anker": "Wet gemeentelijke schuldhulpverlening (Wgs)",
+  "kleur": "#3F6B4E",
+  "concept": true,
+  "rubriek": [
+   "schuldhulp"
+  ],
+  "sub": {
+   "schuldhulp-toelating-beeindiging": {
+    "label": "Toelating, weigering en beëindiging van schuldhulp",
+    "anker": "Wgs art. 3, 4 en 5",
+    "kenmerk": {
+     "weigering-toelating": "Weigering toelating (o.a. eerdere poging, fraudeschuld)",
+     "beeindiging-nieuwe-schulden": "Beëindiging (nieuwe schulden, niet meewerken)",
+     "kredietbank-bewind": "Kredietbank, budgetbeheer of bewind"
+    }
+   }
+  }
+ },
+ "aanbieders-contractering": {
+  "label": "Zorgaanbieders: aanbesteding, contracten en tarieven",
+  "rechtsgang": "Civiele rechter (kort geding, hof) of bestuursrechter (subsidie, tarief in verordening)",
+  "anker": "Aanbestedingswet 2012; Wmo 2015 art. 2.6.4-2.6.6; Jeugdwet art. 2.12",
+  "kleur": "#5E6B73",
+  "concept": true,
+  "rubriek": [
+   "wmo",
+   "jeugdwet",
+   "bijstand",
+   "schuldhulp"
+  ],
+  "sub": {
+   "aanbesteding-gunning": {
+    "label": "Aanbesteding, inkoop en gunning",
+    "anker": "Aanbestedingswet 2012 (sociale en andere specifieke diensten)",
+    "kenmerk": {
+     "gunningscriteria": "Gunningscriteria en beoordeling inschrijving",
+     "open-house": "Open house of selectie"
+    }
+   },
+   "tarief-contract-aanbieder": {
+    "label": "Tarieven, raamovereenkomsten en beëindiging van contracten",
+    "anker": "Wmo 2015 art. 2.6.6; Jeugdwet art. 2.12; Besluit Wmo 2015 en Besluit Jeugdwet (reële prijs)",
+    "kenmerk": {
+     "reele-prijs": "Reële of kostprijsdekkende prijs",
+     "beeindiging-contract": "Beëindiging of ontbinding van het contract",
+     "subsidie-aanbieder": "Subsidie aan een aanbieder"
+    }
+   }
+  }
+ },
+ "procedure": {
+  "label": "Procedure, termijnen en schadevergoeding",
+  "rechtsgang": "Alle regelingen van dit domein",
+  "anker": "Awb hoofdstuk 4 (paragraaf 4.1.3.2), 6, 7 en 8; art. 8:88 Awb",
+  "kleur": "#7D7D7D",
+  "concept": true,
+  "rubriek": [
+   "bijstand",
+   "wmo",
+   "jeugdwet",
+   "schuldhulp"
+  ],
+  "sub": {
+   "niet-tijdig-schade": {
+    "label": "Te laat beslissen, dwangsom en schadevergoeding",
+    "anker": "Awb art. 4:17, 6:2, 8:55b, 8:88",
+    "kenmerk": {
+     "dwangsom": "Dwangsom bij niet tijdig beslissen",
+     "redelijke-termijn": "Schade door te lange duur (redelijke termijn)",
+     "schade-onrechtmatig-besluit": "Schade door een onrechtmatig besluit"
+    }
+   },
+   "ontvankelijkheid-procesbelang": {
+    "label": "Te laat bezwaar of beroep, procesbelang en proceskosten",
+    "anker": "Awb art. 6:7, 6:11, 7:15, 8:75",
+    "kenmerk": {
+     "termijnoverschrijding": "Termijn overschreden (verschoonbaar?)",
+     "procesbelang": "Geen procesbelang meer",
+     "proceskosten-griffierecht": "Proceskosten en griffierecht"
+    }
+   }
+  }
+ },
+ "_bevroren": "2026-11-20 (concept; vakinhoudelijk nakijken)",
+ "_toewijzing": "Kies het subonderwerp naar de kernvraag die de rechter beslist. Voorbeeld: intrekking wegens samenwonen -> gezamenlijke-huishouding; alleen de hoogte van de terugvordering -> terugvordering-invordering; alleen proceskosten of niet tijdig -> procedure. Zaken van aanbieders tegen de gemeente (tarief, contract, aanbesteding) altijd onder aanbieders-contractering, ook als het over een Wmo- of jeugdhulptarief gaat; een pgb-tarief van een burger valt onder pgb-eigen-bijdrage of pgb-tarief-jeugd."
+}

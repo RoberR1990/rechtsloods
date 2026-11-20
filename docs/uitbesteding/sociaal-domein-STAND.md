@@ -3,12 +3,12 @@
 **Niet publiceren zonder FG-akkoord.** Branch: `col/sociaal-domein` (repo `RoberR1990/rechtsloods`, zie besluit B1).
 
 ## Volgende actie
-Stap 2: taxonomie en uitkomstregels. Trek een steekproef van ±150 koppen en inhoudsindicaties (`python3 -I lab/sociaal_taxonomie.py steekproef <map>`), leid subonderwerpen af en schrijf `data/dom/sociaal-domein/{config,taxonomie,argumenten}.json`.
+Stap 3 voorbereiden (tooling klaarzetten), daarna BLOKKADE (zie onder).
 
 ## Stappen
 - [x] 0 Oriëntatie
 - [x] 1 Verzamelen en afbakenen: 16.499 kandidaten (CRvB 10.789; Rb Rotterdam 699; overige rechtbanken 4.790; RvS 109; hoven 76; HR/PHR 32; civiel 134). Precisie 98,3% (onafhankelijke steekproef van 60). Check `sociaal_select.py --check`: 0 fouten. Zie `sociaal-domein-tellingen.md`.
-- [ ] 2 Taxonomie en uitkomstregels bevriezen
+- [x] 2 Taxonomie en uitkomstregels bevriezen: 8 onderwerpen, 29 subonderwerpen, 25 argumenten, 9 zaaktypen, 10 uitkomstregels, 6 privacyregels. Check `lab/sociaal_taxonomie.py check`: 0 fouten. Label "eerste versie", `concept: true`.
 - [ ] 3 Laag 1 (labels)
 - [ ] 4 Selectie laag 2
 - [ ] 5 Laag 2
@@ -38,6 +38,7 @@ Stap 2: taxonomie en uitkomstregels. Trek een steekproef van ±150 koppen en inh
 | stap | schatting | werkelijk |
 |---|---|---|
 | 0 | eigen context | — |
+| 2 | eigen context ±30k | eigen context (150 inhoudsindicaties gelezen, ±25k) |
 | 1 | Haiku-precisie: 2 agents, ±200k | 1 agent op 200 uitspraken: 145k tokens. 1 agent op 60 (onafhankelijk): 85k tokens. Feeds: 22 downloads, ±440k feedregels |
 
 ## Laatste commit

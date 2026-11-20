@@ -81,3 +81,61 @@ Elk besluit: wat ik heb gekozen, het alternatief, waarom, en de status "door Rob
 - **Alternatief:** massazaken ontdubbelen.
 - **Reden:** dat zijn verschillende zaken met dezelfde rechtsvraag, geen dubbele publicaties.
 - **Status:** door Robert te bevestigen.
+
+## B13. Taxonomie: 8 onderwerpen, 29 subonderwerpen (concept, "eerste versie")
+- **Besluit:** ik heb de indeling afgeleid uit 150 gelezen koppen en inhoudsindicaties (gestratificeerd: 70 bijstand, 45 Wmo, 20 jeugd, 10 schuldhulp, 5 civiel) en een begrippentelling over alle 16.499. De onderwerpen:
+  - bijstand-recht (6);
+  - bijstand-handhaving (6);
+  - bijzondere-bijstand (2);
+  - wmo (7);
+  - jeugdwet (3);
+  - schuldhulp (1);
+  - aanbieders-contractering (2);
+  - procedure (2).
+
+  Samengevoegd omdat ze dun waren:
+  - verhaal (±50) is een kenmerk onder terugvordering-invordering;
+  - eigen bijdrage (±135) zit samen met pgb;
+  - IOAW/IOAZ (±130) is een kenmerk onder aanvraag en een eigen zaaktype;
+  - schuldhulp heeft één subonderwerp met kenmerken;
+  - procedure heeft twee subonderwerpen.
+
+  Elk subonderwerp heeft volgens de grove telling ≥ 45 kandidaten (`lab/sociaal_taxonomie.py tel`).
+- **Alternatief:** indelen per wet (Pw, Wmo, Jw) met de procedurezaken in elk onderwerp.
+- **Reden:** collega's zoeken op het probleem (terugvordering, samenwonen, hulp bij het huishouden), niet op de wet. De wet komt terug als facet `zaaktype`. Aanbieders staan apart van burgerzaken, zoals de opdracht vraagt: andere wederpartij, ander team (`raakt: inkoop-contractmanagement`).
+- **Status:** door Robert te bevestigen. Vakinhoudelijk nakijken door een collega van Werk en Inkomen / Wmo / Jeugd. Tot dan `concept: true`.
+
+## B14. Uitkomstregels: algemene regels overgenomen, domeinregels toegevoegd
+- **Besluit:** overgenomen:
+  - alleen procedure;
+  - misbruik = wederpartij wint;
+  - spiegelregel;
+  - voorlopige voorziening ("Voorlopig: ");
+  - conclusie AG = alleen procedure.
+
+  Toegevoegd:
+  - terugvordering, boete of maatregel verlaagd = deels;
+  - intrekking blijft maar terugvordering of boete omlaag = deels;
+  - vernietiging met rechtsgevolgen in stand (art. 8:72 lid 3 Awb) = alleen procedure;
+  - bij contractzaken telt het perspectief van de zorgaanbieder, bij verhaal dat van de onderhoudsplichtige;
+  - afgekapt dictum = zekerheid laag, niet "niet relevant".
+
+  Alles staat in `config.uitkomstregels` en `lab/aanscherping_sociaal.md`.
+- **Alternatief:** bij "rechtsgevolgen in stand" de burger als winnaar zien (het besluit is immers vernietigd).
+- **Reden:** de burger krijgt dan inhoudelijk niets. Dat sluit aan bij de bestaande regel "alleen procedure = alleen kosten of termijn gewonnen".
+- **Status:** door Robert te bevestigen.
+
+## B15. Config-formaat: extra velden naast het bestaande formaat
+- **Besluit:** `config.json` heeft het formaat van avg-privacy en openbare-orde (de Woo-config staat niet in deze repo). Toegevoegde velden:
+  - `uitkomstregels`, `privacy`, `rotterdam_partij` (regex);
+  - `hoogste_rechter`;
+  - `versie: "eerste versie"`, `status_privacy`.
+- **Alternatief:** de regels alleen in een opdrachtbestand zetten.
+- **Reden:** de opdracht vraagt alles in `config.json`. De extra velden breken bestaande scripts niet: `check_l1` en `check_uit_v3` lezen alleen zaaktype, raakt, toepasselijkheid en bezwaargronden_verplicht_bij.
+- **Status:** door Robert te bevestigen; gelijktrekken met Woo-config.
+
+## B16. "betrokkene" toegestaan in samenvattingen
+- **Besluit:** in dit domein mag "betrokkene" als algemene term. `verrijk_v3.md` verbiedt het en `check_uit_v3.py` geeft er een waarschuwing (geen fout) op. Die waarschuwing negeren we hier (zie `lab/aanscherping_sociaal.md`).
+- **Alternatief:** "de burger" overal.
+- **Reden:** de opdracht schrijft "betrokkene" voor als neutrale term. De privacyregels vragen algemene termen voor andere personen in de zaak.
+- **Status:** door Robert te bevestigen. `check_uit_v3.py` heb ik niet aangepast (gedeeld script).

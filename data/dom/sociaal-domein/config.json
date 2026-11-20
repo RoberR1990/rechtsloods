@@ -1,0 +1,79 @@
+{
+ "slug": "sociaal-domein",
+ "label": "Sociaal domein (bijstand, Wmo, Jeugdwet, schuldhulp)",
+ "versie": "eerste versie",
+ "status_privacy": "Niet publiceren zonder FG-akkoord",
+ "zaaktype": [
+  "bijstand-pw",
+  "bbz-tozo-tonk",
+  "ioaw-ioaz",
+  "wmo",
+  "jeugdwet",
+  "schuldhulp",
+  "contractering-aanbieder",
+  "verhaal",
+  "overig"
+ ],
+ "bezwaargronden_verplicht_bij": [
+  "bijstand-pw",
+  "bbz-tozo-tonk",
+  "ioaw-ioaz",
+  "wmo",
+  "jeugdwet",
+  "schuldhulp"
+ ],
+ "raakt": [
+  "werk-inkomen-uitkering",
+  "handhaving-onderzoek",
+  "terugvordering-incasso",
+  "bijzondere-bijstand-minima",
+  "wmo-toegang",
+  "jeugdhulp-toegang",
+  "inkoop-contractmanagement",
+  "schuldhulpverlening",
+  "bezwaar-juridische-zaken",
+  "klantcontact",
+  "verordening-beleid",
+  "privacy-fg"
+ ],
+ "toepasselijkheid": [
+  "landelijk",
+  "lokale verordening",
+  "rijk",
+  "privaat"
+ ],
+ "rollen": "de burger (of concreter: de aanvrager, de bijstandsgerechtigde, de cliënt, de ouder, de onderhoudsplichtige; in zaken over contracten: de zorgaanbieder), de gemeente (ook als het college, de sociale dienst, een intergemeentelijke dienst of een gemeentelijke kredietbank het besluit nam), het CAK (eigen bijdrage Wmo), de rechter. Personen in de uitspraak (partner, kind, huisgenoot) heten algemeen: 'de partner', 'een kind', 'een huisgenoot', 'betrokkene'.",
+ "klantuitleg_vraag": "wanneer heeft iemand recht op bijstand, een Wmo-voorziening, jeugdhulp of schuldhulp, en wanneer mag de gemeente bijstand intrekken of terugvorderen, een boete of maatregel opleggen of een voorziening weigeren",
+ "rubrieken": {
+  "bijstand": "bijstand-handhaving",
+  "wmo": "wmo",
+  "jeugdwet": "jeugdwet",
+  "schuldhulp": "schuldhulp"
+ },
+ "hoogste_rechter": {
+  "standaard": "Centrale Raad van Beroep",
+  "schuldhulp": "Raad van State",
+  "civiel": "Hoge Raad"
+ },
+ "rotterdam_partij": "(college van (burgemeester|burgermeester) en wethouders|burgemeester en wethouders|het college|dagelijks bestuur|de burgemeester|de raad)( van)?( de gemeente)? rotterdam\\b|\\bgemeente rotterdam\\b|(sociale zaken en werkgelegenheid|werk en inkomen)( van de gemeente)? rotterdam",
+ "uitkomstregels": [
+  "Uitkomst is wat déze rechter beslist, bekeken vanuit de burger (bij contractzaken: de zorgaanbieder; bij verhaal: de onderhoudsplichtige).",
+  "Alleen procedure: de burger wint alleen proceskosten, griffierecht, een dwangsom, schadevergoeding wegens te lange duur, een termijnpunt of niet-ontvankelijkheid van de ander; of de zaak wordt alleen teruggewezen; of het besluit wordt vernietigd maar de rechtsgevolgen blijven in stand (art. 8:72 lid 3 Awb). Nooit 'burger wint' of 'deels' daarvoor.",
+  "Misbruik van (proces)recht vastgesteld: wederpartij wint.",
+  "Spiegelregel hogere instanties: in hoger beroep of cassatie telt wat de hogere rechter beslist voor de burger. Hoger beroep van het college slaagt = wederpartij wint; hoger beroep van het college faalt = burger wint (als de rechtbank de burger gelijk gaf); hoger beroep van de burger faalt = wederpartij wint.",
+  "Voorlopige voorziening: wie krijgt wat hij vroeg, wint (verzoek toegewezen = burger wint; afgewezen = wederpartij wint; deels toegewezen = deels). uitkomst_toelichting begint met 'Voorlopig: '.",
+  "Terugvordering, boete en maatregel: de uitkomst volgt wat de rechter beslist over de oplegging. Volledig vernietigd = burger wint; verlaagd (lager bedrag, kortere periode, lager percentage of lagere boete, waarschuwing in plaats van boete) = deels; in stand = wederpartij wint.",
+  "Intrekking blijft staan maar terugvordering of boete gaat omlaag of vervalt: deels.",
+  "Aanvraag (bijstand, Wmo, jeugdhulp, schuldhulp): besluit vernietigd en de rechter kent zelf toe of draagt op opnieuw te beslissen na onvoldoende onderzoek = burger wint; alleen een gebrek dat in bezwaar alsnog is hersteld = alleen procedure.",
+  "Conclusie van de Advocaat-Generaal (PHR): alleen procedure.",
+  "Bij twijfel (dictum ontbreekt of is afgekapt): zekerheid 'laag' en de zaak in de twijfellijst; niet gokken."
+ ],
+ "privacy": [
+  "Geen namen, adressen, geboortedata, BSN, rekeningnummers of kentekens, ook niet als ze in de uitspraak staan.",
+  "Geen namen of leeftijden van kinderen; schrijf 'een kind' of 'een minderjarig kind'.",
+  "Geen precieze diagnoses of medische details; schrijf 'een zorgvraag', 'medische beperkingen' of 'psychische klachten'. Het onderwerp van de zaak (bijv. hulp bij het huishouden, traplift) mag wel.",
+  "Geen herleidbare details: exacte bedragen bij kleine gemeenten, land en plaats van bezit, werkgever of school. Afgeronde bedragen alleen als ze voor het oordeel nodig zijn (bijv. hoogte van een boete).",
+  "Citaten over de rechtsregel en de beoordeling kiezen, niet over persoonlijke of medische omstandigheden. Lukt dat niet: geen citaat en zekerheid 'laag'.",
+  "Rol 'betrokkene' is in dit domein toegestaan (algemene term); 'bewoner' alleen als de uitspraak dat zegt."
+ ]
+}
