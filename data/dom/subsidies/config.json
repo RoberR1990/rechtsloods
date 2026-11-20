@@ -1,0 +1,72 @@
+{
+ "slug": "subsidies",
+ "label": "Subsidies en gemeentelijke bijdragen",
+ "versie": "eerste versie",
+ "zaaktype": [
+  "aanvraag-verlening",
+  "weigering",
+  "vaststelling-verantwoording",
+  "intrekking-wijziging",
+  "terugvordering",
+  "subsidieplafond-verdeling",
+  "staatssteun",
+  "overeenkomst-civiel",
+  "overig"
+ ],
+ "bezwaargronden_verplicht_bij": [
+  "aanvraag-verlening",
+  "weigering",
+  "vaststelling-verantwoording",
+  "intrekking-wijziging",
+  "terugvordering",
+  "subsidieplafond-verdeling"
+ ],
+ "raakt": [
+  "subsidiebeheer",
+  "bezwaar-juridische-zaken",
+  "verordening-beleid",
+  "staatssteun-europees",
+  "financiele-controle",
+  "welzijn-cultuur-sport",
+  "inkoop-contractmanagement",
+  "handhaving-terugvordering",
+  "klantcontact"
+ ],
+ "toepasselijkheid": [
+  "landelijk",
+  "lokale verordening",
+  "europees",
+  "privaat"
+ ],
+ "rollen": "de aanvrager of subsidieontvanger (stichting, vereniging, onderneming of een enkele persoon), de gemeente (college, burgemeester of raad als subsidieverlenend bestuursorgaan), de accountant of controleur, de rechter",
+ "klantuitleg_vraag": "wanneer mag de gemeente een subsidie weigeren, lager vaststellen, intrekken of terugvorderen, wat mag een subsidieverordening bepalen, en hoe werken subsidieplafond, verantwoording en staatssteun",
+ "rubrieken": {
+  "subsidie-verlening": "verlening-weigering",
+  "subsidie-vaststelling": "vaststelling-verantwoording",
+  "subsidie-terugvordering": "terugvordering",
+  "subsidie-plafond": "plafond-verdeling-staatssteun",
+  "staatssteun": "plafond-verdeling-staatssteun"
+ },
+ "hoogste_rechter": {
+  "standaard": "Raad van State (Afdeling bestuursrechtspraak)",
+  "civiel": "Hoge Raad"
+ },
+ "rotterdam_partij": "(college van (burgemeester|burgermeester) en wethouders|burgemeester en wethouders|het college|dagelijks bestuur|de burgemeester|de raad|deelgemeente)( van)?( de gemeente)? rotterdam\\b|\\bgemeente rotterdam\\b|(stadsbeheer|maatschappelijke ontwikkeling|cultuur)( van de gemeente)? rotterdam",
+ "uitkomstregels": [
+  "Uitkomst is wat déze rechter beslist, bekeken vanuit de aanvrager of subsidieontvanger (de burger of organisatie).",
+  "Alleen procedure: de aanvrager wint alleen proceskosten, griffierecht, een dwangsom, schadevergoeding wegens te lange duur, een termijnpunt of niet-ontvankelijkheid van de ander; of de zaak wordt alleen teruggewezen; of het besluit wordt vernietigd maar de rechtsgevolgen blijven in stand (art. 8:72 lid 3 Awb). Nooit 'wint' of 'deels' daarvoor.",
+  "Misbruik van (proces)recht vastgesteld: wederpartij wint.",
+  "Spiegelregel hogere instanties: in hoger beroep of cassatie telt wat de hogere rechter beslist voor de aanvrager. Hoger beroep van het college slaagt = wederpartij wint; faalt = aanvrager wint (als de rechtbank de aanvrager gelijk gaf); hoger beroep van de aanvrager faalt = wederpartij wint.",
+  "Voorlopige voorziening: wie krijgt wat hij vroeg, wint. Toegewezen = aanvrager wint, afgewezen = wederpartij wint, deels = deels. uitkomst_toelichting begint met 'Voorlopig: '.",
+  "Terugvordering of lagere vaststelling: de uitkomst volgt wat de rechter beslist over het bedrag. Volledig vernietigd = aanvrager wint; verlaagd (lager terug te vorderen bedrag, hogere vaststelling dan het college deed) = deels; in stand = wederpartij wint.",
+  "Weigering of verlaging blijft staan maar een deel van de motivering of het bedrag wordt hersteld: deels.",
+  "Subsidieplafond en verdeling: bij een verdeling op volgorde van binnenkomst of loting telt of de aanvrager alsnog subsidie krijgt of een nieuwe beslissing; alleen een beter gemotiveerd besluit met gelijke uitkomst = alleen procedure.",
+  "Conclusie van de Advocaat-Generaal (PHR): alleen procedure.",
+  "Bij twijfel (dictum ontbreekt of is afgekapt): zekerheid 'laag' en de zaak in de overdracht noemen."
+ ],
+ "privacy": [
+  "Subsidiezaken gaan meestal over rechtspersonen. Geen namen van natuurlijke personen (bestuurders, medewerkers), geen adressen of BSN.",
+  "Gebruik 'de aanvrager', 'de stichting', 'de vereniging', 'de ondernemer'; de naam van een organisatie niet overnemen tenzij het voor het begrip nodig is.",
+  "Citaten over de rechtsregel en de beoordeling, niet over persoonlijke omstandigheden."
+ ]
+}

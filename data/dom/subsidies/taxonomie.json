@@ -1,0 +1,213 @@
+{
+ "verlening-weigering": {
+  "label": "Verlening en weigering van subsidie",
+  "rechtsgang": "bestuursrecht",
+  "anker": "Awb 4:21 en 4:23",
+  "kleur": "#1F618D",
+  "concept": true,
+  "rubriek": [
+   "subsidie-verlening"
+  ],
+  "sub": {
+   "aanvraag-voorwaarden": {
+    "label": "Aanvraag en subsidievoorwaarden",
+    "anker": "Awb 4:23",
+    "kenmerk": {
+     "voorwaarde-niet-voldaan": "Aanvrager voldoet niet aan voorwaarde of vestigingseis",
+     "buiten-regeling": "Activiteit valt buiten de subsidieregeling",
+     "buiten-behandeling": "Aanvraag buiten behandeling (Bibob, gegevens ontbreken)",
+     "vergewisplicht": "Vergewisplicht of onvoldoende onderbouwing"
+    }
+   },
+   "beleidsruimte-advies": {
+    "label": "Beleidsruimte, advies en motivering bij weigering",
+    "anker": "Awb 4:21",
+    "kenmerk": {
+     "beleid-redelijkheid": "Weigering past binnen beleid, redelijkheidstoets",
+     "adviescommissie": "Advies van commissie of deskundige",
+     "motiveringsgebrek": "Onvoldoende motivering of onzorgvuldige voorbereiding",
+     "begrotingsvoorbehoud": "Begrotingsvoorbehoud of financiele ruimte"
+    }
+   },
+   "vertrouwen-hardheid": {
+    "label": "Toezegging, vertrouwensbeginsel en hardheidsclausule",
+    "anker": "Awb 4:21",
+    "kenmerk": {
+     "toezegging": "Toezegging of gewekte verwachting",
+     "hardheidsclausule": "Toepassing hardheidsclausule",
+     "te-late-aanvraag": "Aanvraag te laat ingediend",
+     "gelijkheid": "Gelijkheidsbeginsel"
+    }
+   }
+  }
+ },
+ "vaststelling-verantwoording": {
+  "label": "Vaststelling en verantwoording",
+  "rechtsgang": "bestuursrecht",
+  "anker": "Awb 4:42 en 4:46",
+  "kleur": "#0F5C63",
+  "concept": true,
+  "rubriek": [
+   "subsidie-vaststelling"
+  ],
+  "sub": {
+   "vaststelling-hoogte": {
+    "label": "Vaststelling op nihil of lager bedrag",
+    "anker": "Awb 4:46",
+    "kenmerk": {
+     "nihil": "Vaststelling op nihil",
+     "lager-bedrag": "Lagere vaststelling dan verleend",
+     "activiteiten-niet-uitgevoerd": "Activiteiten niet of niet geheel uitgevoerd",
+     "korting": "Korting of kortingspercentage"
+    }
+   },
+   "verantwoording": {
+    "label": "Verantwoording en accountantsverklaring",
+    "anker": "Awb 4:43",
+    "kenmerk": {
+     "accountantsverklaring": "Accountantsverklaring of controleverklaring ontbreekt",
+     "onvoldoende-gegevens": "Onvoldoende gegevens of stukken",
+     "voorschot": "Voorschot en ambtshalve vaststelling"
+    }
+   }
+  }
+ },
+ "intrekking-wijziging-beeindiging": {
+  "label": "Intrekking, wijziging en beeindiging",
+  "rechtsgang": "bestuursrecht",
+  "anker": "Awb 4:48 en 4:51",
+  "kleur": "#8E44AD",
+  "concept": true,
+  "rubriek": [
+   "subsidie-verlening",
+   "subsidie-vaststelling"
+  ],
+  "sub": {
+   "intrekking-wijziging": {
+    "label": "Intrekking of wijziging van verleende subsidie",
+    "anker": "Awb 4:48",
+    "kenmerk": {
+     "intrekking": "Intrekking van subsidieverlening",
+     "wijziging-nadelig": "Wijziging ten nadele van ontvanger",
+     "herziening-vaststelling": "Wijziging van vaststelling"
+    }
+   },
+   "beeindiging-subsidierelatie": {
+    "label": "Beeindiging subsidierelatie en redelijke termijn",
+    "anker": "Awb 4:51",
+    "kenmerk": {
+     "redelijke-termijn": "Redelijke termijn en afbouw",
+     "bezuiniging": "Bezuiniging als reden",
+     "frictiekosten": "Frictiekosten en vergoeding"
+    }
+   }
+  }
+ },
+ "terugvordering": {
+  "label": "Terugvordering",
+  "rechtsgang": "bestuursrecht",
+  "anker": "Awb 4:57",
+  "kleur": "#B5472D",
+  "concept": true,
+  "rubriek": [
+   "subsidie-terugvordering"
+  ],
+  "sub": {
+   "terugvordering-bedrag": {
+    "label": "Terugvordering en voorschot",
+    "anker": "Awb 4:57",
+    "kenmerk": {
+     "voorschot-terug": "Teveel betaald voorschot",
+     "onverschuldigd": "Onverschuldigd betaald bedrag",
+     "verrekening": "Verrekening of bevoegdheid tot terugvorderen"
+    }
+   }
+  }
+ },
+ "plafond-verdeling-staatssteun": {
+  "label": "Subsidieplafond, verdeling en staatssteun",
+  "rechtsgang": "bestuursrecht",
+  "anker": "Awb 4:22 en 4:25",
+  "kleur": "#7D6608",
+  "concept": true,
+  "rubriek": [
+   "subsidie-plafond",
+   "staatssteun"
+  ],
+  "sub": {
+   "plafond-tender-verdeling": {
+    "label": "Subsidieplafond, tender en verdeling van schaarse subsidie (incl. staatssteun)",
+    "anker": "Awb 4:25",
+    "kenmerk": {
+     "plafond-bereikt": "Plafond bereikt, aanvraag geweigerd",
+     "tender": "Tender of selectieprocedure",
+     "schaars-transparantie": "Schaarse middelen, gelijkheid en transparantie",
+     "concurrent": "Concurrent bestrijdt verlening aan derde",
+     "staatssteun": "Staatssteun of de minimis"
+    }
+   }
+  }
+ },
+ "procedure": {
+  "label": "Procedure",
+  "rechtsgang": "bestuursrecht",
+  "anker": "Awb 8:1",
+  "kleur": "#4B5D8C",
+  "concept": true,
+  "rubriek": [
+   "subsidie-verlening",
+   "subsidie-vaststelling",
+   "subsidie-terugvordering",
+   "subsidie-plafond",
+   "staatssteun"
+  ],
+  "sub": {
+   "ontvankelijkheid-belang": {
+    "label": "Ontvankelijkheid, belanghebbende en procesbelang",
+    "anker": "Awb 1:2",
+    "kenmerk": {
+     "belanghebbende": "Belanghebbende of derde",
+     "procesbelang": "Procesbelang vervallen",
+     "bevoegd-orgaan": "Bevoegd bestuursorgaan (raad of college)"
+    }
+   },
+   "voorlopige-voorziening": {
+    "label": "Voorlopige voorziening",
+    "anker": "Awb 8:81",
+    "kenmerk": {
+     "spoedeisend-belang": "Spoedeisend belang ontbreekt",
+     "afgewezen": "Verzoek afgewezen na belangenafweging"
+    }
+   },
+   "bevoegdheid-rechter": {
+    "label": "Bevoegdheid en kwalificatie van het geschil",
+    "anker": "Awb 4:21",
+    "kenmerk": {
+     "bestuurs-of-civiel": "Bestuursrechter of burgerlijke rechter",
+     "subsidiebegrip": "Begrip subsidie of subsidieontvanger",
+     "overeenkomst": "Overeenkomst naast subsidie"
+    }
+   },
+   "bestuurlijke-lus": {
+    "label": "Bestuurlijke lus en gebrekenherstel",
+    "anker": "Awb 6:22",
+    "kenmerk": {
+     "tussenuitspraak": "Tussenuitspraak",
+     "rechtsgevolgen-in-stand": "Rechtsgevolgen in stand",
+     "herstelbesluit": "Herstelbesluit"
+    }
+   },
+   "proceskosten-schade-dwangsom": {
+    "label": "Proceskosten, schade en dwangsom",
+    "anker": "Awb 8:75",
+    "kenmerk": {
+     "proceskosten": "Proceskostenveroordeling en griffierecht",
+     "schadevergoeding": "Schadevergoeding",
+     "dwangsom": "Dwangsom bij niet tijdig beslissen"
+    }
+   }
+  }
+ },
+ "_toewijzing": "Label elke uitspraak naar de kernvraag die de rechter beslist, niet naar het onderwerp van de regeling. Voorbeeld 1: gemeente weigert subsidie omdat het plafond is bereikt en de aanvrager beroept zich op een toezegging: kernvraag is plafond, dus plafond-verdeling-staatssteun/subsidieplafond. Voorbeeld 2: subsidie wordt op nihil vastgesteld omdat de accountantsverklaring ontbreekt en er wordt teruggevorderd: kernvraag is de verantwoording, dus vaststelling-verantwoording/verantwoording. Is de kernvraag ontvankelijkheid of een voorlopige voorziening, kies procedure.",
+ "_bevroren": "2026-11-20 (concept; vakinhoudelijk nakijken)"
+}

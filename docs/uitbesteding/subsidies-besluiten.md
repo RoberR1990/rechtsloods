@@ -1,0 +1,15 @@
+# Subsidies en gemeentelijke bijdragen — besluiten (autonoom genomen, door Robert te bevestigen)
+
+| # | Besluit | Alternatief | Reden | Status |
+|---|---|---|---|---|
+| B1 | Werkbranch `claude/project-thread-jm3o88` in `RoberR1990/rechtsloods` (publiek). Er is geen `live`-branch; `main` = snapshot live + huisstijl. De privé-repo `rechtzoeker` is voor deze sessie niet gekoppeld. Alleen afgeleide data zonder privacygevoelige inhoud (subsidies gaan over organisaties); niets in de live-index, status `in-opbouw` | wachten op `rechtzoeker` | geen FG-gevoeligheid; coördinator vraagt zo min mogelijk tussenkomst | door Robert te bevestigen |
+| B2 | Slug `subsidies`; scripts `scripts/subsidies_*.py` en `lab/subsidies_*` (kopie van het patroon sociaal-domein), gedeelde scripts niet gewijzigd | gedeelde scripts uitbreiden | gedeelde scripts niet stilletjes wijzigen | genomen |
+| B3 | Selectie op de zoekfeeds (kop + inhoudsindicatie), 2016–nov 2026, bestuursrecht en civiel; kernbegrip subsidie/financiële bijdrage/Awb 4:21–4:70 plus gemeentelijk orgaan. Orgaan niet in de inhoudsindicatie: volledige tekst opgehaald en kop-check op gemeente | volledige-tekst-zoeken | `uitspraken.rechtspraak.nl/api/zoek` is vanuit de cloudomgeving geblokkeerd (proxy 403) | genomen |
+| B4 | Rijksregelingen (NOW, TVL, SDE, RVO, EZK, LNV, CBb-zaken zonder gemeente), provincie, waterschap, DUO, toeslagen en Wmo/jeugd/bijstand uitgesloten (Wmo/jeugd/bijstand = domein sociaal) | meenemen | afbakening coördinator | genomen |
+| B5 | Hoogste rechter: Afdeling bestuursrechtspraak van de Raad van State (subsidiegeschillen gemeente); civiele kant via hof/Hoge Raad. CRvB alleen bij sociaal-gerelateerde subsidies (valt buiten scope) | — | blijkt uit de data (RvS 138 van de kandidaten) | vastgesteld uit data |
+| B6 | Precisie niet met aparte Haiku-steekproef gemeten: laag 1 beoordeelt alle kandidaten op relevantie (ca. 300), het relevantiepercentage is de precisie | aparte steekproef van 100 | ±1/3 van het domein; besparing | genomen |
+| B7 | Reviewpunten 1 en 2 niet afgewacht: aanbevolen optie gekozen (dit bestand). Laag 2 voor alle relevante uitspraken (volume ver onder het maximum van ±450) | selectie | klein domein | door Robert te bevestigen |
+| B8 | Taxonomie: 5–7 onderwerpen, 14–20 subonderwerpen (klein domein; check 12–30 i.p.v. 20–30), label "eerste versie", `concept: true` | 20–30 subs | volume 300–400 | genomen |
+| B9 | Uitkomstregels: algemene regels + terugvordering/lagere vaststelling (verlaagd = deels) + subsidieplafond (gelijke uitkomst met betere motivering = alleen procedure), zie `config.json` | — | patroon sociaal-domein | genomen |
+| B10 | Privacy: lichte regels (rechtspersonen); geen persoonsnamen/adressen/BSN; check `lab/subsidies_privacy_check.py` | volledige sociaal-regels | subsidies gaan over organisaties | genomen |
+| B11 | Domeinafbeelding: placeholder, ChatGPT-prompt in STAND (`site/assets/dom-subsidies.webp`, 1100x825) | zelf genereren | Robert maakt afbeeldingen in ChatGPT | genomen |
