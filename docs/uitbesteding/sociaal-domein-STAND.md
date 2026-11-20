@@ -62,4 +62,4 @@
 | 1 | Haiku-precisie: 2 agents, ±200k | 1 agent op 200 uitspraken: 145k tokens. 1 agent op 60 (onafhankelijk): 85k tokens. Feeds: 22 downloads, ±440k feedregels |
 
 ## Laatste commit
-(volgt)
+6568a3b (plus deze STAND-update)
