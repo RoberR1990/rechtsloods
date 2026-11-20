@@ -1,0 +1,179 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2021:10479",
+ "relevant": true,
+ "onderwerp": "vaststelling-verantwoording",
+ "sub": "vaststelling-hoogte",
+ "kenmerk": "nihil",
+ "zaaktype": "vaststelling-verantwoording",
+ "partijen": {
+  "burger": "bedrijf (medebegunstigde)",
+  "wederpartij": "gemeente Westland",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bedrijf ging in beroep bij de rechtbank Den Haag tegen het college van de gemeente Westland. De gemeente had de subsidie voor dit bedrijf als medebegunstigde op nul vastgesteld.",
+ "titel": "Geen subsidie voor bedrijf dat zelf geen vergoedbare kosten maakte",
+ "kern": {
+  "zin": "De rechtbank vindt dat het bedrijf geen recht op subsidie heeft, omdat het zelf geen kosten maakte die volgens de subsidieverordening vergoed worden.",
+  "bron": [
+   35
+  ],
+  "citaat": "heeft verweerder zich op goede gronden op het standpunt gesteld dat eiseres geen recht op subsidie heeft"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente verleende € 400.000 subsidie voor het verwijderen en verplaatsen van bedrijfswoningen aan een andere onderneming; het bedrijf was medebegunstigde.",
+   "bron": [
+    20
+   ],
+   "citaat": "is bij de subsidieaanvraag aangewezen als medebegunstigde"
+  },
+  {
+   "zin": "De gemeente stelde de subsidie voor het bedrijf op nul vast.",
+   "bron": [
+    23
+   ],
+   "citaat": "heeft verweerder ten aanzien van eiseres de subsidie op nihil vastgesteld"
+  },
+  {
+   "zin": "Het bedrijf zei dat het zich op het vertrouwensbeginsel beriep en dat de hoorplicht was geschonden.",
+   "bron": [
+    31
+   ],
+   "citaat": "Eiseres beroept zich op het vertrouwensbeginsel en op schending van de hoorplicht"
+  },
+  {
+   "zin": "De gemeente vond, op advies van de bezwaarcommissie, dat zij geen subsidie hoeft uit te keren voor kosten die het bedrijf niet heeft gemaakt.",
+   "bron": [
+    27
+   ],
+   "citaat": "subsidie uit te keren voor kosten die eiseres niet heeft gemaakt"
+  },
+  {
+   "zin": "De rechtbank stelde vast dat niet in geschil is dat het bedrijf geen vergoedbare kosten had gemaakt, dus er was geen grondslag voor subsidie.",
+   "bron": [
+    35
+   ],
+   "citaat": "niet in geschil is dat eiseres geen kosten heeft gemaakt die op grond van artikel 11, vijfde lid"
+  },
+  {
+   "zin": "Voor toepassing van de hardheidsclausule zag de rechtbank geen reden, dus het beroep is ongegrond.",
+   "bron": [
+    39
+   ],
+   "citaat": "Evenmin is sprake van een onbillijkheid van overwegende aard"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; vaststelling van de subsidie op nul blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrijf krijgt geen subsidie en ook geen vergoeding van proceskosten.",
+  "bron": [
+   42
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "verwachting-toezegging",
+   "burger_zegt": "Het bedrijf zegt dat het mocht vertrouwen op wat de gemeente deed rond de subsidie.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Vertrouwen kan niets veranderen, omdat niet aan de eis van de subsidieverordening is voldaan.",
+    "bron": [
+     35
+    ],
+    "citaat": "kan niet leiden tot een ander oordeel, nu niet is voldaan aan het bepaalde in artikel 11, vijfde lid"
+   },
+   "bruikbare_zin": {
+    "citaat": "nu niet is voldaan aan het bepaalde in artikel 11, vijfde lid, van de subsidieverordening",
+    "bron": [
+     35
+    ]
+   }
+  },
+  {
+   "arg": "hardheidsclausule",
+   "burger_zegt": "Het bedrijf zegt dat de gemeente de hardheidsclausule had moeten toepassen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er is geen onbillijkheid van overwegende aard die de gemeente dwong af te wijken van de regel.",
+    "bron": [
+     39
+    ],
+    "citaat": "onbillijkheid van overwegende aard die verweerder noopte tot het afwijken"
+   },
+   "bruikbare_zin": {
+    "citaat": "onbillijkheid van overwegende aard die verweerder noopte tot het afwijken",
+    "bron": [
+     39
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het bedrijf zegt dat de gemeente en een andere partij het een eerlijke kans ontnamen om subsidiabele kosten te maken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dit betoog valt buiten dit geschil en leidt niet tot een ander oordeel.",
+    "bron": [
+     36
+    ],
+    "citaat": "leidt daarom niet tot een ander oordeel"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het bedrijf zegt dat de gemeente de hoorplicht heeft geschonden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het bedrijf kon zijn visie geven, dus is niet gebleken dat het in zijn belangen is geschaad.",
+    "bron": [
+     41
+    ],
+    "citaat": "niet gebleken dat zij in haar processuele belangen is geschaad"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie zelf geen kosten maakte die volgens de subsidieverordening voor vergoeding in aanmerking komen, heeft geen recht op subsidie en de gemeente mag die op nul vaststellen.",
+  "type": "regel",
+  "reikwijdte": "Subsidie op grond van deze subsidieverordening, voor een medebegunstigde zonder eigen vergoedbare kosten",
+  "uitzondering": "Een onbillijkheid van overwegende aard kan reden zijn om af te wijken (hardheidsclausule); die was hier niet aan de orde.",
+  "herkomst": "lokale verordening",
+  "bron": [
+   35
+  ],
+  "citaat": "heeft verweerder zich op goede gronden op het standpunt gesteld dat eiseres geen recht op subsidie heeft"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Niet in geschil was dat het bedrijf zelf geen vergoedbare kosten had gemaakt."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 11 lid 5 Subsidieverordening Tender Herstructurering Poelzone",
+  "art. 17 Subsidieverordening Tender Herstructurering Poelzone"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "Oordeel gaat over de feiten van deze zaak; geen concrete actie uit de uitspraak te halen.",
+ "raakt": [
+  "subsidiebeheer",
+  "verordening-beleid",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "Een subsidie dekt kosten die u zelf hebt gemaakt en die volgens de regeling meetellen. Hebt u zulke kosten niet, dan mag de gemeente de subsidie op nul zetten, behalve als dat voor u onredelijk hard uitpakt. Bezwaar heeft op dit punt weinig kans, tenzij u kunt laten zien dat u wel zulke kosten hebt gemaakt.",
+ "gemeente": "Westland",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

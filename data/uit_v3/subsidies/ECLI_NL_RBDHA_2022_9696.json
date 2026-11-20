@@ -1,0 +1,164 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2022:9696",
+ "relevant": true,
+ "onderwerp": "vaststelling-verantwoording",
+ "sub": "vaststelling-hoogte",
+ "kenmerk": "lager-bedrag",
+ "zaaktype": "vaststelling-verantwoording",
+ "partijen": {
+  "burger": "stichting",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een stichting kreeg van het college van burgemeester en wethouders van Den Haag subsidie voor een project in 2018. Zij is het niet eens met de vaststelling (de definitieve berekening achteraf) op een lager bedrag; de rechtbank Den Haag beslist over het beroep.",
+ "titel": "Kosten die niet in de aanvraag stonden, tellen niet mee",
+ "kern": {
+  "zin": "De rechtbank vond dat de gemeente de subsidie mocht vaststellen zonder kosten die niet in de aanvraag en de verlening stonden, omdat de stichting zelf voor een juiste begroting en toestemming bij wijzigingen moest zorgen.",
+  "bron": [
+   37
+  ],
+  "citaat": "de verantwoordelijkheid van de Stichting zelf is om de juiste begroting bij het verzoek om subsidieverlening op te stellen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente verleende voor 2018 een subsidie van € 110.000 voor een project en stelde die achteraf vast op € 59.009,32.",
+   "bron": [
+    19
+   ],
+   "citaat": "Bij het primaire besluit is de subsidie vastgesteld op € 59.009,32"
+  },
+  {
+   "zin": "De stichting vond dat de kosten voor een accountant en een salarisverhoging alsnog moesten meetellen en dat de gemeente de verwachting had gewekt dat dat kon.",
+   "bron": [
+    23
+   ],
+   "citaat": "Hiermee is de verwachting gewekt dat indien de Stichting met nadere informatie zou komen"
+  },
+  {
+   "zin": "De gemeente zei dat deze kosten niet in de aanvraag en niet in de subsidieverlening stonden en daarom niet konden meetellen.",
+   "bron": [
+    24
+   ],
+   "citaat": "dat in de subsidieaanvraag noch in de subsidieverlening een post"
+  },
+  {
+   "zin": "De rechtbank vond dat de gemeente de salarisverhoging terecht niet had meegerekend, omdat daarvoor geen subsidie was verleend.",
+   "bron": [
+    29
+   ],
+   "citaat": "Verweerder heeft dus terecht bij de subsidievaststelling daarmee geen rekening gehouden"
+  },
+  {
+   "zin": "De rechtbank vond dat ook voor de accountantskosten geen subsidie was verleend, omdat de stichting niet om toestemming had gevraagd om ze in de begroting op te nemen.",
+   "bron": [
+    32,
+    33
+   ],
+   "citaat": "Voor de accountantskosten is dus geen subsidie verleend"
+  },
+  {
+   "zin": "De rechtbank vond een e-mail over de subsidievoorwaarden geen toezegging dat posten die niet waren opgevoerd achteraf alsnog konden meetellen.",
+   "bron": [
+    35
+   ],
+   "citaat": "niet de toezegging kan worden opgemaakt dat bij de subsidieverlening niet opgevoerde posten"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; vastgestelde subsidie blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De subsidie blijft vastgesteld op € 59.009,32 en er komt geen vergoeding van proceskosten; over het griffierecht zegt de uitspraak niets.",
+  "bron": [
+   39,
+   19
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De kosten voor een accountant en een salarisverhoging moesten bij de vaststelling alsnog worden meegerekend.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat voor deze kosten geen subsidie was verleend en dat de gemeente ze terecht niet had meegenomen.",
+    "bron": [
+     33
+    ],
+    "citaat": "is voor de accountantskosten geen subsidie verleend en heeft verweerder deze kosten terecht niet bij de subsidievaststelling meegenomen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Verweerder heeft dus terecht bij de subsidievaststelling daarmee geen rekening gehouden",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "verwachting-toezegging",
+   "burger_zegt": "Door een gesprek en een e-mail over de subsidievoorwaarden was de verwachting gewekt dat extra posten alsnog konden meetellen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vond dat uit de e-mail geen toezegging volgt dat niet opgevoerde posten achteraf konden meetellen.",
+    "bron": [
+     35
+    ],
+    "citaat": "niet de toezegging kan worden opgemaakt dat bij de subsidieverlening niet opgevoerde posten"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een gemeente stelt de subsidie vast overeenkomstig de subsidieverlening; kosten waarvoor niet is aangevraagd of verleend en waarvoor geen toestemming is gevraagd, tellen niet mee.",
+  "type": "regel",
+  "reikwijdte": "Vaststelling van een verleende exploitatiesubsidie die bij de verlening over kostensoorten is verdeeld.",
+  "uitzondering": "Het college kan uitdrukkelijk toestemming geven om bedragen tussen kostensoorten over te hevelen.",
+  "herkomst": "wet",
+  "bron": [
+   26
+  ],
+  "citaat": "stelt het bestuursorgaan de subsidie overeenkomstig de subsidieverlening vast, indien een beschikking tot subsidieverlening is gegeven"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "begrotingen bij de aanvragen",
+   "beschikking tot subsidieverlening",
+   "e-mail van de stichting"
+  ],
+  "wat_gaf_doorslag": "Beide kostenposten stonden niet in de begroting bij de aanvraag en er was geen toestemming gevraagd."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 4:46 Awb",
+  "art. 17 Algemene Subsidieverordening Den Haag 2014",
+  "art. 20 Algemene Subsidieverordening Den Haag 2014"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Noem in de beschikking tot verlening uitdrukkelijk dat bij een subsidie boven € 100.000 een accountantsverklaring nodig is bij de vaststelling.",
+   "raakt": "financiele-controle",
+   "bron": [
+    33
+   ],
+   "citaat": "Dit vereiste is immers expliciet opgenomen in de beschikking tot subsidieverlening"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "subsidiebeheer",
+  "financiele-controle",
+  "verordening-beleid",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "De gemeente stelt een subsidie vast op wat in de aanvraag en de toekenning stond. Kosten die u daar niet in had gezet, tellen achteraf meestal niet mee, tenzij de gemeente vooraf uitdrukkelijk toestemming gaf. Heeft u iets nieuws nodig, vraag dan eerst schriftelijk toestemming en bewaar het antwoord.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

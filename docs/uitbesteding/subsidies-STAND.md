@@ -8,7 +8,7 @@ Branch `claude/project-thread-jm3o88` (repo `RoberR1990/rechtsloods`). Niets in 
 - [x] 2 Taxonomie (6 onderwerpen, 14 subs, 19 argumenten) en uitkomstregels bevroren als concept; check 0 fouten
 - [x] 3 Laag 1 (Haiku): 316 uitspraken, 217 relevant, 99 niet relevant, 25 zekerheid laag, check_l1 0 fouten. Herzienbatch (1 uitspraak) niet gedraaid.
 - [x] 4 Selectie laag 2: alle 217 relevante (klein domein), 37 batches van 6 (`lab/selecteer_subsidies_l2.py`)
-- [~] 5 Laag 2 (Sonnet): batches 1-28 klaar en gecheckt (check_uit_v3, extra_check, privacy: 0 fouten); 29-37 liepen bij de pauze nog; ~25k tokens per uitspraak
+- [x] 5 Laag 2 (Sonnet): alle 37 batches klaar (217 uitspraken, waarvan enkele niet relevant), check_uit_v3, extra_check en privacy: 0 fouten; ~25k tokens per uitspraak
 - [ ] [ ] 6 Nakijkronde · [ ] 7 Stand · [ ] 8 Site-data · [ ] 9 Overdracht
 
 ## Bevindingen
@@ -16,7 +16,7 @@ Branch `claude/project-thread-jm3o88` (repo `RoberR1990/rechtsloods`). Niets in 
 - Domeinafbeelding: placeholder; ChatGPT-prompt: zie docs/huisstijl.md; onderwerp "gemeentelijk loket voor een subsidieaanvraag, stapel dossiers, kantoor"; bestand `site/assets/dom-subsidies.webp`, 1100x825, petrol #0F5C63, lichtgrijsblauw #E2E6E6, één oranje accent #A84A00, geen tekst, geen groen.
 
 ## Gepauzeerd (zuinig, weeklimiet) — Volgende actie
-1. Ontbrekende laag-2-bestanden: `ls data/uit_v3/subsidies` vs `lab/sets/subsidies_l2.json`; ontbrekende batches opnieuw draaien (`lab/subsidies_v3_opdracht.md`, 1 batch per Sonnet-agent), check_uit_v3 + extra_check + `lab/subsidies_privacy_check.py` tot 0.
+1. (Laag 2 is volledig.) Twijfelgevallen voor de jurist: Wmo/jeugd-grensgevallen (RBMNE:2021:6614, RBLIM:2019:8195, RBGEL:2019:5940, RBOVE:2019:1226/1075, RBGEL:2018:1367), RVS:2021:847 (onderwijshuisvesting), RBLIM:2018:6611 (provinciaal geld, civiel), RBMNE:2024:3924 (invoer mist r.o. 11-13).
 2. Blinde steekproef 10% (`lab/subsidies_steekproef.py trek|score`), nakijkronde (`lab/subsidies_nakijk_uitkomst.py lijst|toepas`).
 3. `scripts/dom_build.py subsidies --geen-embed`, `lab/stand_dom.py prep|samen subsidies`, `lab/subsidies_site_na.py`, privacy-scan, sitetest. Daarna overdracht.
 NB: `data/` (feeds, xml) is gitignored; opnieuw ophalen: feeds met `scripts/feed.py` (zie `subsidies_select.py`), dan `subsidies_prep.py fetch|parse|in`.

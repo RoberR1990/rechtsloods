@@ -1,0 +1,182 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBAMS:2021:4087",
+ "relevant": true,
+ "onderwerp": "vaststelling-verantwoording",
+ "sub": "vaststelling-hoogte",
+ "kenmerk": "nihil",
+ "zaaktype": "vaststelling-verantwoording",
+ "partijen": {
+  "burger": "organisatie die huurders vertegenwoordigt",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een organisatie die huurders vertegenwoordigt, ging naar de rechtbank Amsterdam tegen het college van de gemeente Amsterdam. De gemeente had de subsidie voor 2017 op nul vastgesteld.",
+ "titel": "Subsidie op nul gezet zonder goede uitleg; gemeente beslist opnieuw",
+ "kern": {
+  "zin": "De rechtbank vindt dat de gemeente de subsidie niet op nul mocht vaststellen zonder uit te leggen welk deel van de kosten wel subsidiabel is.",
+  "bron": [
+   45
+  ],
+  "citaat": "had verweerder de subsidie redelijkerwijs niet op nihil mogen vaststellen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente stelde de subsidie voor 2017 op nul vast, maar vroeg de al betaalde voorschotten van € 460.429 niet terug.",
+   "bron": [
+    26
+   ],
+   "citaat": "de reeds verleende voorschotten van € 460.429,- niet terug te vorderen"
+  },
+  {
+   "zin": "De organisatie zei dat er geen grond was voor een vaststelling op nul, omdat de gemeente geen misbruik van het geld had vastgesteld.",
+   "bron": [
+    37
+   ],
+   "citaat": "Nu verweerder geen malversaties heeft vastgesteld, bestaat er geen grondslag voor de nihil-vaststelling"
+  },
+  {
+   "zin": "De gemeente zei dat uit de stukken niet bleek dat het geld was besteed aan het doel van de subsidie.",
+   "bron": [
+    38
+   ],
+   "citaat": "blijkt niet dat de subsidie is besteed aan het doel waarvoor die is verleend"
+  },
+  {
+   "zin": "De rechtbank vond dat de organisatie niet aan alle subsidievoorwaarden had voldaan.",
+   "bron": [
+    42
+   ],
+   "citaat": "Gelet op het voorgaande heeft eiseres niet aan alle subsidievoorwaarden voldaan"
+  },
+  {
+   "zin": "Toch mocht de gemeente de subsidie niet op nul zetten, want het was aannemelijk dat er subsidiabele kosten waren.",
+   "bron": [
+    45
+   ],
+   "citaat": "had verweerder de subsidie redelijkerwijs niet op nihil mogen vaststellen"
+  },
+  {
+   "zin": "De gemeente moet binnen zes weken een nieuw besluit nemen, want de rechtbank kan het bedrag zelf niet bepalen.",
+   "bron": [
+    49
+   ],
+   "citaat": "Verweerder zal daarom een nieuw besluit moeten nemen met inachtneming van deze uitspraak"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Besluit vernietigd; gemeente moet opnieuw beslissen en griffierecht vergoeden.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet opnieuw beslissen en het griffierecht van € 338 vergoeden; proceskosten worden niet vergoed.",
+  "bron": [
+   56,
+   50
+  ],
+  "citaat": "het betaalde griffierecht van € 338,- aan eiseres te vergoeden"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "verantwoording-onvoldoende",
+   "burger_zegt": "De organisatie zegt dat zij alle gevraagde documenten over activiteiten en geld van 2017 heeft aangeleverd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Haar jaarverslag en accountantsverklaring kwamen te laat en lieten niet zien of de kosten subsidiabel waren.",
+    "bron": [
+     42
+    ],
+    "citaat": "heeft eiseres niet aan alle subsidievoorwaarden voldaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "uit de accountantsverklaring niet volgt of de gemaakte kosten in het licht van de verleende subsidie terecht gemaakt zijn",
+    "bron": [
+     42
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De organisatie zegt dat er geen grond is om de subsidie op nul vast te stellen, omdat er geen misbruik van het geld is vastgesteld.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het was aannemelijk dat er subsidiabele kosten waren, dus op nul vaststellen was niet redelijk.",
+    "bron": [
+     45
+    ],
+    "citaat": "had verweerder de subsidie redelijkerwijs niet op nihil mogen vaststellen"
+   },
+   "bruikbare_zin": {
+    "citaat": "om te motiveren welk deel van de door eiseres gemaakte kosten subsidiabel zijn",
+    "bron": [
+     45
+    ]
+   }
+  },
+  {
+   "arg": "proceskosten-schade",
+   "burger_zegt": "De organisatie zegt dat de gemeente te laat op het bezwaar besliste en daarom een dwangsom moet betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente besliste op tijd, dus er is geen dwangsom verbeurd.",
+    "bron": [
+     35
+    ],
+    "citaat": "terecht vastgesteld dat geen dwangsom is verbeurd"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Is er een geaccepteerde financiële verslaglegging en zijn er aannemelijk subsidiabele kosten, dan moet de gemeente uitleggen welk deel subsidiabel is; op nul vaststellen zonder terugvordering is daar geen vervanging voor.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Vaststelling op nul terwijl de gemeente de verslaglegging heeft geaccepteerd en aannemelijk is dat er subsidiabele kosten zijn",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   45
+  ],
+  "citaat": "om te motiveren welk deel van de door eiseres gemaakte kosten subsidiabel zijn"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "jaarverslag",
+   "jaarrekening",
+   "accountantsverklaring met beperking"
+  ],
+  "wat_gaf_doorslag": "Het was aannemelijk dat er subsidiabele kosten waren, dus op nul vaststellen zonder uitleg was niet redelijk."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 4:45 Awb",
+  "art. 4:46 Awb",
+  "art. 14 Algemene Subsidieverordening Amsterdam",
+  "art. 2.2.3 Controleprotocol Subsidies gemeente Amsterdam 2015"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij een vaststelling op nul uit welk deel van de gemaakte kosten wel of niet subsidiabel is, als er verslaglegging is die u hebt geaccepteerd.",
+   "raakt": "subsidiebeheer",
+   "bron": [
+    45
+   ],
+   "citaat": "om te motiveren welk deel van de door eiseres gemaakte kosten subsidiabel zijn"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "subsidiebeheer",
+  "bezwaar-juridische-zaken",
+  "financiele-controle"
+ ],
+ "klantuitleg": "Levert een organisatie de verantwoording te laat of niet compleet in, dan kan de gemeente de subsidie lager vaststellen. De gemeente moet wel uitleggen waarom de subsidie op nul gaat als het aannemelijk is dat er subsidiabele kosten zijn. Is uw subsidie op nul gezet terwijl u wel kosten hebt gemaakt, dan kan bezwaar zin hebben als u die kosten kunt laten zien.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}
