@@ -3,11 +3,11 @@
 **Niet publiceren zonder FG-akkoord.** Branch: `col/sociaal-domein` (repo `RoberR1990/rechtsloods`, zie besluit B1).
 
 ## Volgende actie
-Stap 1: feeds ophalen is klaar. Daarna `python3 -I scripts/sociaal_select.py`, precisiemeting en tellingen.
+Stap 2: taxonomie en uitkomstregels. Trek een steekproef van ±150 koppen en inhoudsindicaties (`python3 -I lab/sociaal_taxonomie.py steekproef <map>`), leid subonderwerpen af en schrijf `data/dom/sociaal-domein/{config,taxonomie,argumenten}.json`.
 
 ## Stappen
 - [x] 0 Oriëntatie
-- [ ] 1 Verzamelen en afbakenen
+- [x] 1 Verzamelen en afbakenen: 16.499 kandidaten (CRvB 10.789; Rb Rotterdam 699; overige rechtbanken 4.790; RvS 109; hoven 76; HR/PHR 32; civiel 134). Precisie 98,3% (onafhankelijke steekproef van 60). Check `sociaal_select.py --check`: 0 fouten. Zie `sociaal-domein-tellingen.md`.
 - [ ] 2 Taxonomie en uitkomstregels bevriezen
 - [ ] 3 Laag 1 (labels)
 - [ ] 4 Selectie laag 2
@@ -38,6 +38,7 @@ Stap 1: feeds ophalen is klaar. Daarna `python3 -I scripts/sociaal_select.py`, p
 | stap | schatting | werkelijk |
 |---|---|---|
 | 0 | eigen context | — |
+| 1 | Haiku-precisie: 2 agents, ±200k | 1 agent op 200 uitspraken: 145k tokens. 1 agent op 60 (onafhankelijk): 85k tokens. Feeds: 22 downloads, ±440k feedregels |
 
 ## Laatste commit
 (volgt)

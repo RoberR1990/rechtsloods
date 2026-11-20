@@ -26,3 +26,58 @@ Elk besluit: wat ik heb gekozen, het alternatief, waarom, en de status "door Rob
 - **Alternatief:** de bestaande slug `sociaal` hergebruiken.
 - **Reden:** de opdracht noemt de slug expliciet. De live-index mag ik buiten mijn branch niet aanpassen. Het samenvoegen van beide regels is een besluit bij het live zetten.
 - **Status:** door Robert te bevestigen.
+
+## B5. Afbakening CRvB op wetscode in het zaaknummer
+- **Besluit:** bij de CRvB selecteer ik op de wetscode in het zaaknummer (PW, WWB, WIJ, BBZ, IOAW/NIOAW, IOAZ/NIOAZ, TOZO, TONK, WWIK, WMO, WMO15, WVG, JW). Een zaak met alleen codes buiten scope valt af, ook als de inhoudsindicatie een kernbegrip noemt (WIA, ZW, AW, AOW, Wajong, WW, AWBZ, Wlz, Zvw, ...). Zonder code (of met een generieke code zoals ONBEK) val ik terug op kernbegrippen.
+- **Alternatief:** alleen op kernbegrippen in de inhoudsindicatie, zoals `dom_select.py` voor andere domeinen.
+- **Reden:** de code is de eigen indeling van de CRvB. Op kernbegrippen alleen komen UWV-, SVB- en ambtenarenzaken binnen die "bijstand" of "terugvordering" noemen.
+- **Status:** door Robert te bevestigen.
+
+## B6. IOAW/IOAZ, Bbz, Tozo, Tonk en WWIK binnen scope (rubriek bijstand)
+- **Besluit:** meegenomen onder de rubriek "bijstand".
+- **Alternatief:** alleen de Participatiewet in strikte zin.
+- **Reden:** de gemeente voert deze regelingen uit als bestuursorgaan, bij dezelfde afdeling Werk en Inkomen, en de CRvB toetst ze met dezelfde begrippen (inlichtingenplicht, terugvordering, boete).
+- **Status:** door Robert te bevestigen.
+
+## B7. AIO-aanvulling (SVB) buiten scope; eigen bijdrage Wmo via het CAK binnen scope
+- **Besluit:** AIO-zaken zonder gemeentelijk orgaan vallen af (278 zaken; de SVB is daar bestuursorgaan). Zaken over de eigen bijdrage Wmo waarin het CAK beslist, blijven binnen scope (34 zaken).
+- **Alternatief:** beide houden, of beide uitsluiten.
+- **Reden:** de opdracht beperkt het domein tot de gemeente als bestuursorgaan. De eigen bijdrage Wmo noemt de opdracht expliciet: die volgt uit de gemeentelijke verordening, het CAK stelt haar vast en int haar. Precisiemeting: Haiku zag de CAK-zaak als niet relevant; ik houd haar bewust.
+- **Status:** door Robert te bevestigen.
+
+## B8. Uitgesloten: vreemdelingenzaken, Caribisch deel, leerlingenvervoer, Wsw, Wsnp, kinderbescherming, huurzaken
+- **Besluit:** uitgesloten zijn:
+  - vreemdelingenzaken: zaaknummer `NLxx.`, of besluit van minister, staatssecretaris, IND of COA zonder gemeentelijk orgaan;
+  - de Caribische gerechten: Aruba, Curaçao, Sint Maarten en BES, waar de Nederlandse gemeentewetten niet gelden;
+  - leerlingenvervoer;
+  - Wsw (CRvB-code WSW);
+  - Wsnp;
+  - civiele kinderbeschermingszaken (ots, uithuisplaatsing, machtiging gesloten jeugdhulp);
+  - civiele huur- en ontruimingszaken waarin schuldhulp alleen een argument is.
+- **Alternatief:** Wsw en leerlingenvervoer meenemen; ze zijn ook gemeentelijk.
+- **Reden:** de opdracht noemt ze niet als scope. Wsw en leerlingenvervoer zijn andere teams en wetten. Kinderbescherming staat expliciet buiten scope.
+- **Status:** door Robert te bevestigen.
+
+## B9. Civiel recht alleen bij contractering/tarieven/aanbesteding of verhaal
+- **Besluit:** civiele uitspraken alleen als een gemeentelijke regeling samengaat met aanbesteding, inkoop, tarieven, (raam)overeenkomst, subsidie of aanbieders, en een gemeente genoemd wordt. Verhaal van bijstand (art. 62 Pw, bijstandsverhaal) komt er altijd in. Dat zijn 134 civiele kandidaten.
+- **Alternatief:** geen civiel recht.
+- **Reden:** de opdracht noemt tarieven en contractering met aanbieders, en verhaal. Die zaken lopen vaak via de civiele rechter (kort geding aanbesteding, verhaal via de familierechter).
+- **Status:** door Robert te bevestigen.
+
+## B10. Hoogste rechter
+- **Besluit:** CRvB voor Participatiewet, Wmo, Jeugdwet en bijbehorende regelingen (10.789 uitspraken). Raad van State voor schuldhulpverlening (Wgs): 73 van de 109 RvS-uitspraken, geen enkele Wgs-zaak bij de CRvB. Hoge Raad alleen in civiele zaken over verhaal en contractering (32, inclusief conclusies AG).
+- **Alternatief:** —
+- **Reden:** geverifieerd in de data (zie `sociaal-domein-tellingen.md`). Dit is van belang voor de spiegelregel en voor "hr-lijn" in de stand: bij Wgs-zaken is de RvS de hoogste rechter.
+- **Status:** door Robert te bevestigen.
+
+## B11. Rotterdam als partij: varianten
+- **Besluit:** herkenning met `config.rotterdam_partij`. Varianten die in de data voorkomen: "het college van burgemeester en wethouders van Rotterdam" (327× in de steekproef), "… van de gemeente Rotterdam" (126×), "het college van burgemeester en wethouders Rotterdam" (zonder "van", nieuwe stijl 2026), de tikfout "burgermeester", en "(Werk en Inkomen van de) gemeente Rotterdam". Het tweede deel van de bestaande ROT-regex in `dom_parse.py` ("Rotterdam … verweerder/appellant") geeft vals-positieven: "Rechtbank Rotterdam … verweerder" bij zaken van Capelle, Drechtsteden of de Belastingdienst. Dat deel gebruik ik niet.
+- **Alternatief:** de ROT-regex uit `dom_parse.py` ongewijzigd gebruiken.
+- **Reden:** op 1.260 teksten verschillen beide regexen in 7 gevallen. 5 daarvan zijn vals-positieven van de oude regex, 2 gemiste varianten.
+- **Status:** door Robert te bevestigen. `dom_parse.py` zelf heb ik niet aangepast (gedeeld script).
+
+## B12. Precisie en dubbele publicaties
+- **Besluit:** filter vastgezet na een onafhankelijke controle met 98,3% precisie (59 van 60). Dubbele publicaties (zelfde instantie, datum en zaaknummer): 0 gevonden. Massazaken met (bijna) gelijke inhoudsindicaties (806) houd ik; `dom_build` markeert ze als cluster.
+- **Alternatief:** massazaken ontdubbelen.
+- **Reden:** dat zijn verschillende zaken met dezelfde rechtsvraag, geen dubbele publicaties.
+- **Status:** door Robert te bevestigen.
