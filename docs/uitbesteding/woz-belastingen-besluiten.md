@@ -51,3 +51,26 @@ Waar een vaste regel uit een bestaand domein geldt, gaat die voor op een eigen k
 - Alternatief: opnemen als bron voor de proceskosten in WOZ-zaken.
 - Reden: BPM is een eigen domein (scope-afspraak). Ik noem het als beperking in de overdracht: de HR-lijn over deze wet loopt deels via BPM-zaken.
 - Status: door Robert te bevestigen.
+
+## B09 Uitkomstregels: BPM overgenomen, met WOZ-afwijkingen
+- **Besluit:** de uitkomstregels staan in `config.json` (veld `uitkomstregels`, U1-U10; bron `lab/woz_uitkomstregels.json`). Overgenomen zijn de belastingregels van BPM uit `lab/aanscherping_l1c.md`: vernietigd = burger wint, gehandhaafd = wederpartij wint, hoger beroep van de fiscus dat slaagt = wederpartij wint, alleen kosten of immateriële schade = alleen procedure. Ook overgenomen zijn de regels uit de opdracht (misbruik = wederpartij wint, de spiegelregel en de voorlopige voorziening met "Voorlopig: "). Afwijkingen voor WOZ:
+  1. **U3 Verlaging van de waarde:** BPM zegt "aanslag verminderd = deels". Voor WOZ geldt: verlaagd tot (of onder) wat de burger vroeg = "burger wint", verlaagd maar hoger dan wat de burger vroeg = "deels". Is de gevraagde waarde onbekend, dan "deels" met zekerheid "middel". Reden: bij WOZ is de waarde zelf het geschil, en "wie krijgt wat hij vroeg, wint".
+  2. **U4 Vernietiging zonder gevolg voor de waarde:** het beroep is gegrond om de hoorplicht, art. 40 Wet WOZ of de motivering, maar de waarde blijft ("rechtsgevolgen in stand"). Dan geldt "alleen procedure". Dat komt in WOZ-zaken veel voor.
+  3. **U5 Kostenzaken:** "alleen procedure" (zoals BPM), maar de toelichting begint met "Kosten: " en zegt wie het kostenpunt won. Reden: anders is de business case (proceskosten, no-cure-no-pay) niet te volgen in de uitkomstverdeling.
+  4. **U9 Conclusie AG:** "alleen procedure", plus de markering `soort_document: "conclusie AG"` (advies), ook in laag 1.
+  5. **U10 Cassatie met verwijzing:** cassatie van de burger slaagt = "burger wint", die van de heffingsambtenaar slaagt = "wederpartij wint", met zekerheid "middel".
+- Alternatief: BPM-regels ongewijzigd.
+- Reden: zie per punt.
+- Status: door Robert te bevestigen.
+
+## B10 Taxonomie: 5 onderwerpen, 22 subonderwerpen (concept)
+- **Besluit:** de taxonomie volgt de Sonnet-agent (`lab/woz_taxonomie_opdracht.md`, steekproef van 226 inhoudsindicaties plus trefwoordtellingen over 9.653 zaken): `waardebepaling` (5), `niet-woningen` (4), `object-beschikking-ozb` (3), `procedure` (5), `proceskosten-gemachtigden` (5). Ik heb alle ankerartikelen nagelopen: ze staan letterlijk in de uitspraken (bijv. art. 17 Wet WOZ 8.092×, art. 40 Wet WOZ 5.901×, art. 30a Wet WOZ 1.630×). Erfpacht en herziening (art. 29) zijn te dun voor een eigen sub en staan als kenmerk elders.
+- Alternatief: ±30 subs met eigen subs voor erfpacht, herziening en belanghebbende.
+- Reden: elke sub moet in de data herkenbaar voorkomen. Dunne subs leveren in de stand alleen "te weinig" op.
+- Status: door Robert te bevestigen. `concept: true` blijft staan tot een vakinhoudelijk collega de taxonomie heeft nagekeken.
+
+## B11 "betrokkene" en "bewoner"
+- **Besluit:** in `partijen.burger` (laag 1 en 2) komt wat de uitspraak zegt (eigenaar, huurder, bedrijf, gemachtigde-bureau). Is dat onduidelijk, dan "betrokkene". "Bewoner" alleen als de uitspraak dat woord gebruikt. In lopende zinnen staan de rolnamen uit `config.rollen` ("de eigenaar", "de gemeente").
+- Alternatief: overal "betrokkene".
+- Reden: de kwaliteitsregel uit de opdracht. `check_uit_v3.py` waarschuwt bij "betrokkene" in zinnen (jargonlijst van `verrijk_v3.md`), daarom gebruik ik het alleen in het partijveld.
+- Status: door Robert te bevestigen.

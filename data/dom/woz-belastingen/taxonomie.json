@@ -1,0 +1,281 @@
+{
+ "waardebepaling": {
+  "label": "Hoe is de waarde van mijn woning of pand vastgesteld (waardebepaling)",
+  "rechtsgang": "Bezwaar bij de gemeente → rechtbank → gerechtshof → Hoge Raad",
+  "anker": "Wet WOZ, art. 17 (waardebepaling); Waarderingsinstructie en Uitvoeringsregeling instructie waardebepaling",
+  "kleur": "#1F5F8B",
+  "concept": true,
+  "sub": {
+   "vergelijkingsobjecten-matrix": {
+    "label": "Vergelijking met andere woningen (taxatieverslag, matrix, vergelijkingsobjecten)",
+    "anker": "Wet WOZ, art. 17",
+    "kenmerk": {
+     "vergelijkbaarheid": "Zijn de vergeleken woningen echt vergelijkbaar",
+     "indexering": "Verkoopprijzen omgerekend naar de waardepeildatum (indexering)",
+     "grondstaffel": "Waarde van de grond (grondstaffel)",
+     "correcties-koud-v": "Correcties voor kwaliteit, ligging en onderhoud (KOUD-V)",
+     "gebruiksoppervlakte": "Hoeveel vierkante meter of kuubs",
+     "eigen-taxatierapport": "Taxatierapport of vergelijkingen van de eigenaar zelf"
+    }
+   },
+   "eigen-koopsom": {
+    "label": "Eigen koopsom of verkoopcijfer van de woning",
+    "anker": "Wet WOZ, art. 17",
+    "kenmerk": {
+     "aankoopsom-recent": "Recente aankoop of verkoop van dezelfde woning",
+     "onderhandse-verkoop": "Verkoop buiten de makelaar om (onderhands, familie)",
+     "nieuwbouw-von-prijs": "Nieuwbouwprijs (vrij op naam, stichtingskosten)",
+     "gemeente-laat-cijfer-weg": "De gemeente gebruikt het eigen verkoopcijfer niet"
+    }
+   },
+   "waardepeildatum-toestandsdatum": {
+    "label": "Welke datum telt (waardepeildatum en toestandsdatum)",
+    "anker": "Wet WOZ, art. 17",
+    "kenmerk": {
+     "verbouwing-na-peildatum": "Verbouwing of sloop na de peildatum",
+     "bestemmingswijziging": "Andere bestemming van het pand",
+     "verkoop-na-peildatum": "Verkoop vlak voor of na de peildatum"
+    }
+   },
+   "staat-ligging-overlast": {
+    "label": "Staat van onderhoud, ligging en overlast",
+    "anker": "Wet WOZ, art. 17",
+    "kenmerk": {
+     "achterstallig-onderhoud": "Gebreken of slecht onderhoud",
+     "geluid-overlast": "Geluidsoverlast, wegen, windturbines, bedrijven",
+     "bodem-verontreiniging": "Bodemverontreiniging of verpaupering van de buurt",
+     "erfpacht": "Woning op erfpachtgrond (erfpachtcorrectie)",
+     "recht-van-overpad": "Bijzondere rechten of lasten, zoals een recht van overpad"
+    }
+   },
+   "bewijslast-goede-justitie": {
+    "label": "Wie moet wat bewijzen en wat doet de rechter bij twijfel (bewijslast, goede justitie)",
+    "anker": "Wet WOZ, art. 17; Awb, art. 8:77",
+    "kenmerk": {
+     "aannemelijk-maken": "De gemeente moet de waarde aannemelijk maken",
+     "schatten-goede-justitie": "De rechter schat de waarde zelf (in goede justitie)",
+     "gelijkheidsbeginsel": "Vergelijkbare panden anders gewaardeerd (meerderheidsregel, gelijkheid)",
+     "vertrouwensbeginsel": "Vertrouwen op eerder beleid of eerdere waarde",
+     "waarde-hoger-in-beroep": "Waarde in beroep lager of hoger bepleit (standpuntwijziging)"
+    }
+   }
+  }
+ },
+ "niet-woningen": {
+  "label": "Bedrijfspanden en bijzondere gebouwen (niet-woningen)",
+  "rechtsgang": "Bezwaar bij de gemeente → rechtbank → gerechtshof → Hoge Raad",
+  "anker": "Wet WOZ, art. 16 en art. 17 (lid 2 en lid 3); Gemeentewet, art. 220a",
+  "kleur": "#7A4E2D",
+  "concept": true,
+  "sub": {
+   "huurwaardekapitalisatie": {
+    "label": "Waarde afgeleid van de huur (huurwaardekapitalisatie)",
+    "anker": "Wet WOZ, art. 17, lid 2",
+    "kenmerk": {
+     "huurcijfers": "Welke huurprijzen zijn gebruikt (eigen huur of referentie)",
+     "kapitalisatiefactor": "Hoogte van de kapitalisatiefactor",
+     "corona-aftrek": "Aftrek vanwege corona of leegstand",
+     "dcf-methode": "Andere rekenmethode (DCF) of vermenging van methodes"
+    }
+   },
+   "gecorrigeerde-vervangingswaarde": {
+    "label": "Waarde op basis van bouwkosten (gecorrigeerde vervangingswaarde)",
+    "anker": "Wet WOZ, art. 17, lid 3",
+    "kenmerk": {
+     "levensduur-restwaarde": "Levensduur en restwaarde",
+     "veroudering": "Technische, functionele of economische veroudering",
+     "archetype": "Gekozen type gebouw (archetype)",
+     "btw-positie": "Invloed van omzetbelasting op de waarde",
+     "bedrijfswaarde-gebruiker": "Betekenis van de resultaten van de gebruiker"
+    }
+   },
+   "bijzondere-objecten-taxatiewijzer": {
+    "label": "Hotels, sport, zorg, landbouw en andere bijzondere objecten (taxatiewijzers)",
+    "anker": "Wet WOZ, art. 17",
+    "kenmerk": {
+     "hotel-horeca": "Hotel, restaurant, recreatie",
+     "sport-accommodatie": "Sportvelden, voetbal- en golfaccommodaties",
+     "agrarisch": "Agrarisch bedrijf of kwekerij (taxatiewijzer agrarisch)",
+     "zorg-onderwijs": "Zorgcentrum, kinderdagverblijf, begraafplaats",
+     "installaties-machines": "Installaties of machines (uitgezonderde objecten)"
+    }
+   },
+   "woning-of-niet-woning": {
+    "label": "Is het een woning of een niet-woning",
+    "anker": "Wet WOZ, art. 16; Gemeentewet, art. 220a",
+    "kenmerk": {
+     "woonzorg": "Woonzorgcentrum of woonzorgvilla",
+     "gemengd-gebruik": "Woning met bedrijf of landbouw erbij",
+     "feitelijk-gebruik": "Wat het pand feitelijk is, ook al is het anders bedoeld"
+    }
+   }
+  }
+ },
+ "object-beschikking-ozb": {
+  "label": "Welk object, welke beschikking en welke belasting (OZB)",
+  "rechtsgang": "Bezwaar bij de gemeente → rechtbank → gerechtshof → Hoge Raad",
+  "anker": "Wet WOZ, art. 16, art. 22, art. 26 en art. 28; Gemeentewet, art. 220 en art. 220a",
+  "kleur": "#4F7A3A",
+  "concept": true,
+  "sub": {
+   "objectafbakening": {
+    "label": "Wat hoort bij het object (objectafbakening)",
+    "anker": "Wet WOZ, art. 16",
+    "kenmerk": {
+     "een-of-twee-objecten": "Een of twee aparte objecten",
+     "samenstel": "Delen die samen een geheel vormen (samenstelbepaling)",
+     "appartement-vve": "Appartement en lidmaatschap van de VvE",
+     "bijgebouw-mantelzorg": "Bijgebouw, mantelzorgwoning of recreatiewoning",
+     "perceelsgrens": "Grens van het perceel (bijvoorbeeld brandgang)"
+    }
+   },
+   "beschikking-belanghebbende": {
+    "label": "De WOZ-beschikking: voor wie en wanneer (beschikking, belanghebbende)",
+    "anker": "Wet WOZ, art. 22, art. 26 en art. 28",
+    "kenmerk": {
+     "op-naam-erven": "Beschikking op naam van overleden eigenaar of erven",
+     "huurder-procesbelang": "Huurder en belang bij een lagere waarde (procesbelang)",
+     "derde-belanghebbende": "Derde of gebruiker die ook een beschikking krijgt",
+     "nieuwe-beschikking-lopend-jaar": "Nieuwe of gewijzigde beschikking in de loop van het jaar"
+    }
+   },
+   "ozb-en-andere-heffingen": {
+    "label": "Onroerendezaakbelasting en andere heffingen (OZB, tarief, aanslag)",
+    "anker": "Gemeentewet, art. 220 en art. 220a; Wet WOZ",
+    "kenmerk": {
+     "eigenaar-gebruiker": "OZB voor eigenaar of gebruiker (metterdaad bezigen)",
+     "tarief-verordening": "Hoogte van het tarief in de verordening",
+     "vrijstelling": "Vrijstelling (bijvoorbeeld cultuurgrond of woondelen)",
+     "rioolheffing-waterschap": "Rioolheffing, afvalstoffenheffing, watersysteemheffing",
+     "andere-gemeentelijke-belasting": "Andere belasting, zoals forensenbelasting"
+    }
+   }
+  }
+ },
+ "procedure": {
+  "label": "Procedure: gegevens opvragen, gehoord worden, termijnen en ontvankelijkheid",
+  "rechtsgang": "Bezwaar bij de gemeente → rechtbank → gerechtshof → Hoge Raad",
+  "anker": "Wet WOZ, art. 30 en art. 40; Gemeentewet, art. 236; Algemene wet bestuursrecht (Awb), onder meer art. 7:4 en art. 7:10",
+  "kleur": "#7B3F73",
+  "concept": true,
+  "sub": {
+   "verzoek-woz-gegevens": {
+    "label": "Gegevens opvragen bij de gemeente (art. 40 Wet WOZ, stukken die op de zaak betrekking hebben)",
+    "anker": "Wet WOZ, art. 40; Awb, art. 7:4",
+    "kenmerk": {
+     "taxatieverslag-matrix": "Taxatieverslag, matrix en andere onderbouwing van de waarde",
+     "indexeringscijfers-grondstaffels": "Indexeringscijfers, grondstaffels of KOUD-V-factoren",
+     "toezendplicht": "De gemeente moet de gegevens uit zichzelf meesturen (toezendplicht)",
+     "gegevens-te-laat": "Gegevens pas in beroep gevraagd of gegeven",
+     "gevolg-schending": "Gevolg als de gemeente de gegevens niet geeft"
+    }
+   },
+   "hoorplicht-motivering": {
+    "label": "Gehoord worden en een goed onderbouwd besluit (hoorplicht, motivering)",
+    "anker": "Algemene wet bestuursrecht (Awb), hoofdstuk bezwaar; Wet WOZ",
+    "kenmerk": {
+     "niet-gehoord": "Niet uitgenodigd voor een hoorzitting",
+     "motivering-uitspraak-bezwaar": "Besluit op bezwaar onvoldoende uitgelegd",
+     "herstel-in-beroep": "Gebrek hersteld tijdens het beroep (art. 6:22 Awb)",
+     "zorgvuldigheid": "Zorgvuldig onderzoek, bezichtiging door de taxateur"
+    }
+   },
+   "termijnen-ontvankelijkheid": {
+    "label": "Te laat of te vroeg, geldige machtiging en andere ontvankelijkheid",
+    "anker": "Awb, o.a. art. 6:20, art. 6:22 en art. 8:55",
+    "kenmerk": {
+     "bezwaar-beroep-te-laat": "Bezwaar, beroep of hoger beroep te laat ingediend",
+     "prematuur-beroep": "Beroep te vroeg ingediend (voordat de gemeente besliste)",
+     "geen-geldige-machtiging": "Geen of onvoldoende machtiging van de gemachtigde",
+     "herstelverzuim": "Verzuim niet hersteld (bijvoorbeeld griffierecht of gronden)",
+     "geen-procesbelang": "Geen belang meer bij de zaak"
+    }
+   },
+   "dwangsom-beslistermijn": {
+    "label": "Te laat beslissen door de gemeente (beslistermijn, dwangsom)",
+    "anker": "Wet WOZ, art. 30; Gemeentewet, art. 236; Awb, art. 7:10",
+    "kenmerk": {
+     "verdaging-termijn": "Verdaging van de beslistermijn",
+     "dwangsom-niet-tijdig": "Dwangsom voor niet tijdig beslissen",
+     "aanvang-beslistermijn": "Wanneer de termijn begint te lopen",
+     "samenhangende-aanvragen": "Een of meer dwangsommen bij samenhangende aanvragen"
+    }
+   },
+   "procesorde-compromis": {
+    "label": "Goede procesorde, schikking en intrekking (compromis, misbruik)",
+    "anker": "Awb, art. 8:42 en art. 8:51a",
+    "kenmerk": {
+     "compromis": "Schikking (compromis) voor of tijdens de zitting",
+     "intrekking": "Gemeente of eigenaar trekt het besluit of beroep in",
+     "stukken-te-laat": "Stukken of standpunt te laat ingebracht",
+     "misbruik-van-recht": "Misbruik van procesrecht of herhaald dezelfde stellingen",
+     "tussenuitspraak": "Tussenuitspraak of herstel van een gebrek"
+    }
+   }
+  }
+ },
+ "proceskosten-gemachtigden": {
+  "label": "Proceskosten en gemachtigden",
+  "rechtsgang": "Bezwaar bij de gemeente → rechtbank → gerechtshof → Hoge Raad",
+  "anker": "Awb, art. 8:73 en art. 8:75; Besluit proceskosten bestuursrecht (Bpb); Wet WOZ, art. 30a",
+  "kleur": "#B0612B",
+  "concept": true,
+  "sub": {
+   "proceskostenvergoeding": {
+    "label": "Vergoeding van de kosten van bezwaar en beroep (proceskostenvergoeding)",
+    "anker": "Awb, art. 8:75; Besluit proceskosten bestuursrecht (o.a. art. 2, lid 2 en art. 3, lid 2); Wet WOZ, art. 30a",
+    "kenmerk": {
+     "forfaitair-wegingsfactor": "Vaste bedragen en wegingsfactor (bijvoorbeeld 0,5 of 1)",
+     "waarde-per-punt": "Waarde per punt (vermenigvuldigingsfactor, art. 30a Wet WOZ)",
+     "afwijkende-vergoeding": "Afwijkende of gematigde vergoeding (bijzonder geval, punt van ondergeschikt belang)",
+     "samenhangende-zaken": "Samenhangende zaken of meerdere besluiten in een bezwaar",
+     "overgangsrecht-wet-herwaardering": "Overgangsrecht (Wet herwaardering proceskostenvergoeding)",
+     "geen-vergoeding": "Geen vergoeding omdat het beroep ongegrond is"
+    }
+   },
+   "kosten-taxatierapport-deskundige": {
+    "label": "Kosten van een taxatierapport of deskundige",
+    "anker": "Besluit proceskosten bestuursrecht; Awb, art. 8:75",
+    "kenmerk": {
+     "taxatierapport-vergoeding": "Vergoeding van een eigen taxatierapport",
+     "noodzakelijke-kosten": "Waren de kosten redelijk en nodig",
+     "taxateur-als-gemachtigde": "Taxateur die ook gemachtigde is"
+    }
+   },
+   "gemachtigden-no-cure-no-pay": {
+    "label": "Gemachtigde en no cure no pay (beroepsmatige rechtsbijstand, machtiging)",
+    "anker": "Besluit proceskosten bestuursrecht; Wet WOZ, art. 30a; Awb, art. 8:24",
+    "kenmerk": {
+     "beroepsmatig-rechtsbijstand": "Beroepsmatig verleende rechtsbijstand",
+     "no-cure-no-pay": "No cure no pay: drukken de kosten echt op de eigenaar",
+     "wisseling-gemachtigde": "Wisseling van gemachtigde",
+     "machtiging-vereist": "Machtiging aantonen of vernieuwen",
+     "uitbetaling-cessieverbod": "Uitbetaling aan de gemachtigde en verbod op overdracht van de vordering",
+     "bureau-optreden-clusters": "Bureau dat veel zaken tegelijk voert (clustergewijze afdoening)"
+    }
+   },
+   "griffierecht": {
+    "label": "Griffierecht terugkrijgen of betalen",
+    "anker": "Algemene wet bestuursrecht (Awb), griffierecht",
+    "kenmerk": {
+     "vergoeding-griffierecht": "Teruggave van het griffierecht",
+     "niet-betaald": "Griffierecht niet betaald",
+     "schending-goede-procesorde": "Griffierecht vergoed vanwege schending van de procesorde",
+     "overgangsrecht-griffierecht": "Overgangsrecht bij griffierecht"
+    }
+   },
+   "immateriele-schade-redelijke-termijn": {
+    "label": "Vergoeding voor te lang wachten (immateriële schade, redelijke termijn)",
+    "anker": "Awb, art. 8:73 en art. 8:88 e.v.",
+    "kenmerk": {
+     "termijn-overschreden": "De redelijke termijn is overschreden",
+     "hoogte-per-half-jaar": "Hoogte per half jaar (bijvoorbeeld 50 euro)",
+     "spanning-frustratie": "Spanning en frustratie aangetoond of niet",
+     "bijzondere-omstandigheden": "Vertraging door eiser of gemachtigde (verlenging van de termijn)",
+     "samenhang-verzoek-tijdig": "Samenhang tussen zaken en tijdig verzoek",
+     "schadevergoeding-te-hoge-waarde": "Schadevergoeding voor een te hoog vastgestelde waarde"
+    }
+   }
+  }
+ }
+}

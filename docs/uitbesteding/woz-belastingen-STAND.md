@@ -17,7 +17,7 @@ python3 scripts/maak_in_l1.py woz-belastingen && python3 scripts/maak_in_v3.py w
 ## Stappen
 - [x] 0 Oriëntatie
 - [x] 1 Verzamelen en afbakenen
-- [ ] 2 Taxonomie en uitkomstregels bevriezen
+- [x] 2 Taxonomie en uitkomstregels bevriezen
 - [ ] 3 Laag 1 (Haiku)
 - [ ] 4 Selectie laag 2
 - [ ] 5 Laag 2 (Sonnet, zelf schrijven) + blinde steekproef
