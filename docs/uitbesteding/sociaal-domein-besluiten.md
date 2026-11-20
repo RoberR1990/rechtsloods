@@ -139,3 +139,21 @@ Elk besluit: wat ik heb gekozen, het alternatief, waarom, en de status "door Rob
 - **Alternatief:** "de burger" overal.
 - **Reden:** de opdracht schrijft "betrokkene" voor als neutrale term. De privacyregels vragen algemene termen voor andere personen in de zaak.
 - **Status:** door Robert te bevestigen. `check_uit_v3.py` heb ik niet aangepast (gedeeld script).
+
+## B17. Selectie laag 2 met quota (stap 4, klaar in `lab/selecteer_sociaal_l2.py`)
+- **Besluit:** volgorde a → b → c → d, met plafonds zodat elke categorie aan bod komt:
+  - **a.** Rotterdam partij, max 200: eerst hoogste rechter (tot 120), dan rechtbank;
+  - **b.** hoogste rechters (CRvB, RvS, HR), nieuwste eerst, tot totaal 350;
+  - **c.** alle hoven, tot 400;
+  - **d.** dunne subonderwerpen aanvullen tot 20, tot 450.
+
+  Binnen a en b gaat het om en om per subonderwerp, nieuwste eerst. Per massacluster tellen maximaal 2 zaken.
+- **Alternatief:** strikte volgorde zonder plafond.
+- **Reden:** naar schatting ±2.240 zaken hebben Rotterdam als partij (stap 1). Zonder plafond vult (a) alle 450 plekken, en vooral met bijstandsterugvordering. Let op: 29 × 20 = 580 > 450, dus niet elk subonderwerp haalt 20. Stap d vult eerst de dunste aan.
+- **Status:** door Robert te bevestigen.
+
+## B18. Proef op 25 + 2 uitspraken om de tooling te valideren, uitvoer niet bewaard
+- **Besluit:** ik heb één laag-1-batch (25, Haiku) en twee laag-2-uitspraken (Sonnet) gedraaid op de opdrachten en checks van dit domein. Dat valideert de config en de opdrachten en meet het tokenverbruik. De uitvoer is daarna verwijderd en niet gecommit (B3).
+- **Alternatief:** geen proef, alleen de scripts klaarzetten.
+- **Reden:** zonder proef is "tooling klaar" niet getoetst. Een volgende sessie zou dan pas bij de eerste batch op configfouten stuiten.
+- **Status:** door Robert te bevestigen.
