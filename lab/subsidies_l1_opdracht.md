@@ -1,6 +1,6 @@
 # Laag 1 subsidies (Haiku-subagent): 3 batches van 25
 
-Voer `/home/claude/scripts/verrijk_l1.md` uit voor domein `subsidies`, voor de batch-id's in je opdracht (meestal 3), één voor één. Lees eerst ook `/home/claude/rechtzoeker/lab/aanscherping_sociaal.md` en volg die: uitkomstregels, labels en privacy gaan vóór `verrijk_l1.md`.
+Voer `/home/claude/scripts/verrijk_l1.md` uit voor domein `subsidies`, voor de batch-id's in je opdracht (meestal 3), één voor één. Lees eerst ook `/home/claude/rechtzoeker/lab/aanscherping_subsidies.md` en volg die: uitkomstregels, labels en privacy gaan vóór `verrijk_l1.md`.
 
 Aanvullend:
 - Batches: `/home/claude/data/batches/l1_subsidies.json`. Lezen: `python3 /home/claude/scripts/toon_l1.py subsidies <batch-id> 0 10`, dan `10 20` en `20 25`.

@@ -1,0 +1,154 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2021:15515",
+ "relevant": true,
+ "onderwerp": "procedure",
+ "sub": "ontvankelijkheid-belang",
+ "kenmerk": "belanghebbende",
+ "zaaktype": "subsidieplafond-verdeling",
+ "partijen": {
+  "burger": "bedrijf (concurrerende aanvrager)",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "voorlopige voorziening",
+ "intro": "Een bedrijf kreeg geen subsidie omdat het plafond was bereikt na een loting tussen twee aanvragers. Het vroeg de voorzieningenrechter van de rechtbank Den Haag om een voorlopige voorziening tegen de subsidie voor de ander.",
+ "titel": "Verliezer van loting kan subsidie aan winnaar niet stoppen",
+ "kern": {
+  "zin": "De rechter vond dat een aanvrager die zelf is afgewezen geen partij met een rechtstreeks belang is bij de subsidie voor de ander.",
+  "bron": [
+   27
+  ],
+  "citaat": "zodat zij niet als belanghebbende bij dit besluit kan worden aangemerkt"
+ },
+ "samenvatting": [
+  {
+   "zin": "Twee aanvragen pasten samen niet binnen het subsidieplafond; bij gelijke punten werd geloot en de ander stond op plaats 1.",
+   "bron": [
+    18
+   ],
+   "citaat": "Omdat honorering van beide aanvragen zou leiden tot overschrijding van het subsidieplafond zijn de aanvragen beoordeeld"
+  },
+  {
+   "zin": "De aanvraag van het bedrijf werd afgewezen omdat het plafond met de subsidie voor de ander was bereikt.",
+   "bron": [
+    19
+   ],
+   "citaat": "Omdat daarmee het subsidieplafond is bereikt, is de aanvraag van verzoekster afgewezen."
+  },
+  {
+   "zin": "Het college vond dat het bedrijf geen belang had bij de subsidieverlening aan de ander.",
+   "bron": [
+    22
+   ],
+   "citaat": "Verweerder stelt zich op het standpunt dat verzoekster geen belanghebbende is bij de subsidieverlening"
+  },
+  {
+   "zin": "De rechter oordeelde dat het bedrijf zijn eigen afwijzing kan aanvechten, ook over de beoordeling van de ander, en dus geen bezwaar tegen de subsidie voor de ander nodig heeft.",
+   "bron": [
+    27
+   ],
+   "citaat": "zodat zij niet als belanghebbende bij dit besluit kan worden aangemerkt"
+  },
+  {
+   "zin": "Het verzoek om een voorlopige voorziening werd afgewezen.",
+   "bron": [
+    31
+   ],
+   "citaat": "De voorzieningenrechter wijst het verzoek af."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Voorlopig: verzoek afgewezen; verzoeker is waarschijnlijk geen belanghebbende.",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrijf krijgt geen voorlopige voorziening en zijn bezwaar tegen de subsidie voor de ander zal waarschijnlijk niet-ontvankelijk zijn; er is geen vergoeding van proceskosten.",
+  "bron": [
+   31,
+   32
+  ],
+  "citaat": "De voorzieningenrechter wijst het verzoek af."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "belanghebbende-ontvankelijk",
+   "burger_zegt": "Ik heb een rechtstreeks belang bij de subsidie voor de ander en mag daar bezwaar tegen maken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Wie zelf is afgewezen kan de beoordeling van de hoger geëindigde aanvraag aanvechten in de procedure over de eigen afwijzing.",
+    "bron": [
+     25
+    ],
+    "citaat": "voor het bestrijden van de beoordeling van een aanvraag die hoger in de rangorde is geëindigd"
+   },
+   "bruikbare_zin": {
+    "citaat": "ook de beoordeling van hoger geëindigde aanvragen aan de orde kan worden gesteld",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Als mijn aanvraag alsnog wordt toegekend, moet de subsidie direct volledig worden uitbetaald.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "Dit verzoek viel buiten het geschil en werd niet besproken.",
+    "bron": [
+     30
+    ],
+    "citaat": "gaat de grenzen van dit rechtsgeschil te buiten en behoeft geen bespreking"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "bron": [
+   25
+  ],
+  "citaat": "ook de beoordeling van hoger geëindigde aanvragen aan de orde kan worden gesteld",
+  "zin": "Wie bezwaar maakt tegen de afwijzing van de eigen aanvraag, kan daarin ook de beoordeling van hoger geëindigde aanvragen aan de orde stellen; bezwaar tegen de subsidie voor de ander is daarvoor niet nodig.",
+  "type": "regel",
+  "reikwijdte": "Aanvrager die is afgewezen bij een subsidieverdeling op rangorde met een plafond",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De afgewezen aanvrager kan de beoordeling van de ander aanvechten in de procedure over de eigen afwijzing."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2015:2258"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1:2 lid 1 Awb",
+  "art. 3:46 Awb",
+  "art. 4:25 lid 3 Awb",
+  "art. 1:10 lid 4 Subsidieregeling combinatiefunctionarissen sport Den Haag 2021"
+ ],
+ "actie_gemeente": [
+  {
+   "bron": [
+    18
+   ],
+   "citaat": "in overeenstemming met artikel 1:10, vierde lid, van de Subsidieregeling is overgegaan tot een loting",
+   "actie": "Leg in de subsidieregeling vast dat bij gelijke punten onder het plafond wordt geloot.",
+   "raakt": "verordening-beleid"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "subsidiebeheer",
+  "bezwaar-juridische-zaken",
+  "welzijn-cultuur-sport"
+ ],
+ "klantuitleg": "Als u een subsidie niet krijgt omdat het plafond is bereikt, hoeft u geen bezwaar te maken tegen de subsidie voor de ander. U maakt bezwaar tegen uw eigen afwijzing, en daarin kunt u ook de beoordeling van de ander bespreken. Doe dat binnen de bezwaartermijn.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,6 +1,6 @@
 # Laag 2 subsidies (Sonnet-subagent, zelf schrijven; patroon lab/vangnet_v3.md)
 
-Schrijf elk object zelf volgens `/home/claude/scripts/verrijk_v3.md`, plus `/home/claude/rechtzoeker/lab/aanscherping_v3c.md`, plus `/home/claude/rechtzoeker/lab/aanscherping_sociaal.md`. De laatste gaat voor bij botsing (uitkomstregels, privacy). Er is geen concept en geen corrector-ronde.
+Schrijf elk object zelf volgens `/home/claude/scripts/verrijk_v3.md`, plus `/home/claude/rechtzoeker/lab/aanscherping_v3c.md`, plus `/home/claude/rechtzoeker/lab/aanscherping_subsidies.md`. De laatste gaat voor bij botsing (uitkomstregels, privacy). Er is geen concept en geen corrector-ronde.
 
 - Batch: `/home/claude/data/batches/v3_subsidies.json`, object met jouw `id`, veld `files` (6 uitspraken per batch).
 - Lezen: `python3 /home/claude/scripts/toon_v3.py subsidies <bestand>`, steeds 1 of 2 tegelijk; lees alles.

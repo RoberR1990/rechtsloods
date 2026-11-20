@@ -1,0 +1,155 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBDHA:2021:15516",
+ "relevant": true,
+ "onderwerp": "procedure",
+ "sub": "voorlopige-voorziening",
+ "kenmerk": "spoedeisend-belang",
+ "zaaktype": "subsidieplafond-verdeling",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "voorlopige voorziening",
+ "intro": "Een bedrijf vraagt de voorzieningenrechter van de rechtbank Den Haag om een voorlopige maatregel. Het bedrijf verloor een loting om subsidie van de gemeente Den Haag en wil niet op de beslissing op bezwaar wachten.",
+ "titel": "Geen voorlopige maatregel na verlies van subsidieloting",
+ "kern": {
+  "zin": "De rechter wees het verzoek af: geen spoedeisend belang, want het belang is financieel, en het besluit was niet duidelijk onrechtmatig.",
+  "bron": [
+   31
+  ],
+  "citaat": "De voorzieningenrechter is dan ook van oordeel dat niet gebleken is dat sprake is van een dermate spoedeisend belang"
+ },
+ "samenvatting": [
+  {
+   "zin": "Twee aanvragen in dezelfde categorie hadden evenveel punten, dus de gemeente liet loten; daarna was het subsidieplafond bereikt.",
+   "bron": [
+    16
+   ],
+   "citaat": "Omdat daarmee het subsidieplafond is bereikt, is de aanvraag van verzoekster afgewezen."
+  },
+  {
+   "zin": "Het bedrijf zei dat het de uitkomst van bezwaar niet kon afwachten en dat het activiteiten voor 2022 moest financieren.",
+   "bron": [
+    19
+   ],
+   "citaat": "Verzoekster stelt dat zij de uitkomst van de bezwaarschriftenprocedure niet kan afwachten."
+  },
+  {
+   "zin": "Het bedrijf vond ook dat de gemeente niet had mogen loten, omdat een criterium te laag was gewaardeerd.",
+   "bron": [
+    20
+   ],
+   "citaat": "verweerder niet tot loting had mogen overgaan"
+  },
+  {
+   "zin": "De gemeente zei dat het bedrijf geen spoedeisend belang had, omdat het financieel was en er geen acute nood was.",
+   "bron": [
+    21
+   ],
+   "citaat": "Omdat verzoekster een financieel belang heeft en niet is gesteld of gebleken dat zij in acute financiële nood komt"
+  },
+  {
+   "zin": "De rechter zag alleen een financieel belang zonder acute noodsituatie en geen onomkeerbare situatie.",
+   "bron": [
+    25
+   ],
+   "citaat": "Van een onomkeerbare situatie is geen sprake."
+  },
+  {
+   "zin": "Het besluit was ook niet duidelijk onrechtmatig, want de gemeente had het op detailniveau gemotiveerd.",
+   "bron": [
+    30
+   ],
+   "citaat": "Verweerder heeft immers in het bestreden besluit op detailniveau inzichtelijk gemotiveerd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Voorlopig: verzoek om voorziening afgewezen, geen spoedeisend belang.",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrijf krijgt geen voorlopige maatregel en moet de beslissing op bezwaar afwachten; de gemeente hoeft de proceskosten niet te vergoeden.",
+  "bron": [
+   31
+  ],
+  "citaat": "Verweerder hoeft de proceskosten niet te vergoeden."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "spoedeisend-belang",
+   "burger_zegt": "Het bedrijf heeft het geld snel nodig om medewerkers aan te stellen en kan de beslissing op bezwaar niet afwachten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het belang is financieel en een acute financiële noodsituatie blijkt niet.",
+    "bron": [
+     25
+    ],
+    "citaat": "Het is vaste rechtspraak dat een financieel belang in de regel geen aanleiding geeft tot het treffen van een voorlopige voorziening."
+   },
+   "bruikbare_zin": {
+    "citaat": "een financieel belang in de regel geen aanleiding geeft tot het treffen van een voorlopige voorziening",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "subsidievoorwaarden-niet-gehaald",
+   "burger_zegt": "De gemeente paste een beoordelingscriterium onjuist toe en kende te weinig punten toe, waardoor loting ten onrechte nodig was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente had op detailniveau uitgelegd waarom er geen punten waren; dus niet duidelijk onrechtmatig.",
+    "bron": [
+     30
+    ],
+    "citaat": "Verweerder heeft immers in het bestreden besluit op detailniveau inzichtelijk gemotiveerd"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een financieel belang is in de regel geen reden voor een voorlopige voorziening.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om een voorlopige voorziening waarbij het belang overwegend financieel is",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   25
+  ],
+  "citaat": "Het is vaste rechtspraak dat een financieel belang in de regel geen aanleiding geeft tot het treffen van een voorlopige voorziening."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Er bleek geen acute financiële noodsituatie en het besluit was niet duidelijk onrechtmatig."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 1:10 Subsidieregeling"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Motiveer op detailniveau waarom een criterium geen punten oplevert.",
+   "raakt": "subsidiebeheer",
+   "bron": [
+    30
+   ],
+   "citaat": "op detailniveau inzichtelijk gemotiveerd waarom"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "subsidiebeheer",
+  "bezwaar-juridische-zaken",
+  "verordening-beleid"
+ ],
+ "klantuitleg": "Als u een subsidie niet krijgt, kunt u bij de rechter vragen om een tijdelijke maatregel in afwachting van bezwaar. De rechter doet dat meestal alleen als het echt niet kan wachten, en geldbehoefte alleen is meestal niet genoeg. Wilt u dit proberen, onderbouw dan met stukken waarom u de beslissing op bezwaar niet kunt afwachten.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,189 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2017:1660",
+ "relevant": true,
+ "onderwerp": "verlening-weigering",
+ "sub": "aanvraag-voorwaarden",
+ "kenmerk": "voorwaarde-niet-voldaan",
+ "zaaktype": "aanvraag-verlening",
+ "partijen": {
+  "burger": "eigenaar van een pand",
+  "wederpartij": "gemeente Amsterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een pandeigenaar kreeg van de gemeente Amsterdam subsidie om de waterleidingen geschikt te maken voor individuele meters per woning. Hij vond het bedrag te laag en ging in hoger beroep bij de Raad van State tegen het college van burgemeester en wethouders.",
+ "titel": "Subsidie voor individuele watermeters: bedrag en dwangsom blijven staan",
+ "kern": {
+  "zin": "De rechter vindt dat het college de subsidie goed heeft berekend en dat de dwangsom en de redelijke termijn geen reden geven voor een ander besluit.",
+  "bron": [
+   39
+  ],
+  "citaat": "geen grond bestaat voor het oordeel dat het college meer dan € 46,00 als tegemoetkoming voor de overlast had moeten toekennen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het college verleende de subsidie en stelde die vast op € 868.",
+   "bron": [
+    22
+   ],
+   "citaat": "de gevraagde subsidie verstrekt en de hoogte daarvan vastgesteld op € 868,00"
+  },
+  {
+   "zin": "De eigenaar vond dat hij ten onrechte maar één tegemoetkoming voor overlast kreeg.",
+   "bron": [
+    31
+   ],
+   "citaat": "hem ten onrechte slechts één tegemoetkoming voor overlast is toegekend"
+  },
+  {
+   "zin": "Het college gaf alleen een tegemoetkoming voor de woning die werd bewoond, en de eigenaar betwistte dat niet.",
+   "bron": [
+    39
+   ],
+   "citaat": "zodat alleen voor die woning een vergoeding voor overlast is toegekend"
+  },
+  {
+   "zin": "Volgens de rechter was het college na bekendmaking van het nieuwe besluit niet meer te laat, dus de dwangsom van € 120 klopt.",
+   "bron": [
+    43
+   ],
+   "citaat": "vanaf de bekendmaking van het besluit van 5 maart 2015 niet langer in gebreke was"
+  },
+  {
+   "zin": "De redelijke termijn is volgens de rechter niet overschreden, omdat de procedure korter dan vijf jaar duurde.",
+   "bron": [
+    49
+   ],
+   "citaat": "zijn op het moment van deze uitspraak geen vijf jaren verstreken"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    51
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De uitspraak dient te worden bevestigd, voor zover aangevallen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; € 868 subsidie en € 120 dwangsom blijven staan; schadevergoeding afgewezen.",
+ "gevolg_betrokkene": {
+  "zin": "De eigenaar houdt € 868 subsidie en € 120 dwangsom, maar krijgt geen extra tegemoetkoming, geen schadevergoeding en geen proceskosten.",
+  "bron": [
+   56,
+   52,
+   22,
+   27
+  ],
+  "citaat": "wijst het verzoek om schadevergoeding af"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De leidingen liepen door twee woningen, dus ik had recht op meer dan één tegemoetkoming voor overlast.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er is geen grond om meer dan € 46 aan tegemoetkoming toe te kennen.",
+    "bron": [
+     39
+    ],
+    "citaat": "geen grond bestaat voor het oordeel dat het college meer dan € 46,00 als tegemoetkoming voor de overlast had moeten toekennen"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen grond bestaat voor het oordeel dat het college meer dan € 46,00 als tegemoetkoming voor de overlast had moeten toekennen",
+    "bron": [
+     39
+    ]
+   }
+  },
+  {
+   "arg": "proceskosten-schade",
+   "burger_zegt": "Het college was langer in gebreke en moest daarom meer dwangsom betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Na de vernietiging was met het nieuwe besluit het college vanaf de bekendmaking niet langer in gebreke.",
+    "bron": [
+     43
+    ],
+    "citaat": "vanaf de bekendmaking van het besluit van 5 maart 2015 niet langer in gebreke was"
+   },
+   "bruikbare_zin": {
+    "citaat": "vanaf de bekendmaking van het besluit van 5 maart 2015 niet langer in gebreke was",
+    "bron": [
+     43
+    ]
+   }
+  },
+  {
+   "arg": "proceskosten-schade",
+   "burger_zegt": "De procedure duurde te lang; ik wil schadevergoeding voor overschrijding van de redelijke termijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er zijn nog geen vijf jaar verstreken sinds het bezwaarschrift.",
+    "bron": [
+     49
+    ],
+    "citaat": "zijn op het moment van deze uitspraak geen vijf jaren verstreken"
+   },
+   "bruikbare_zin": {
+    "citaat": "De redelijke termijn is derhalve niet overschreden",
+    "bron": [
+     49
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een zaak met bezwaar en twee rechterlijke instanties is een totale duur van ten hoogste vijf jaar in beginsel redelijk.",
+  "type": "regel",
+  "reikwijdte": "Zaken met een bezwaarprocedure en twee rechterlijke instanties; de termijn begint als het bestuursorgaan het bezwaarschrift ontvangt.",
+  "uitzondering": "Is het eerste besluit op of na 1 februari 2014 bekendgemaakt, dan gelden de termijnen uit de uitspraak van 29 januari 2014.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   48,
+   47
+  ],
+  "citaat": "Voor zaken die uit een bezwaarschriftprocedure en twee rechterlijke instanties bestaan is in beginsel een totale lengte van de procedure van ten hoogste vijf jaar redelijk"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "gegevens uit de Basisregistratie Personen"
+  ],
+  "wat_gaf_doorslag": "De aanvrager betwistte niet dat slechts één woning werd bewoond."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:HR:2016:252"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 4.1 lid 4 Subsidieverordening Energie Prestatie Plus Amsterdam",
+  "art. 8:88 lid 1 Awb",
+  "art. 6 EVRM (redelijke termijn)"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Neem na een vernietiging snel een nieuw besluit en maak het aantoonbaar bekend, want daarmee stopt de dwangsom.",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    43
+   ],
+   "citaat": "vanaf de bekendmaking van het besluit van 5 maart 2015 niet langer in gebreke was"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "subsidiebeheer",
+  "bezwaar-juridische-zaken",
+  "verordening-beleid"
+ ],
+ "klantuitleg": "De gemeente betaalt een subsidie volgens de bedragen in de subsidieverordening. Krijgt u minder dan u verwacht, kijk dan eerst of u voor elk onderdeel aan de voorwaarde voldoet, bijvoorbeeld dat een woning echt wordt bewoond. Beslist de gemeente te laat op uw bezwaar, dan kan een dwangsom verschuldigd zijn, maar die stopt zodra het nieuwe besluit bekend is gemaakt.",
+ "gemeente": "Amsterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

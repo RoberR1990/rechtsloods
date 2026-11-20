@@ -1,5 +1,5 @@
 """Nakijkronde uitkomstregels subsidies (stap 6). Markeert laag-2-uitspraken waarvan de uitkomst van een regel afhangt
-(lab/aanscherping_sociaal.md) en past alleen mechanische correcties zelf toe.
+(lab/aanscherping_subsidies.md) en past alleen mechanische correcties zelf toe.
   python3 -I lab/subsidies_nakijk_uitkomst.py lijst      # -> lab/sets/subsidies_nakijk.json (bestand, regel, huidige uitkomst, dictum)
   python3 -I lab/subsidies_nakijk_uitkomst.py toepas     # mechanisch: 'Voorlopig: ' voor vovo-toelichting; leest daarnaast
                                                        #   lab/out/subsidies_nakijk_correcties.json [{bestand, uitkomst, uitkomst_toelichting, reden}]

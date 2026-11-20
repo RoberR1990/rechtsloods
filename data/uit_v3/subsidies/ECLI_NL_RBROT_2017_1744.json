@@ -1,0 +1,191 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2017:1744",
+ "relevant": true,
+ "onderwerp": "verlening-weigering",
+ "sub": "aanvraag-voorwaarden",
+ "kenmerk": "voorwaarde-niet-voldaan",
+ "zaaktype": "weigering",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bedrijf vroeg de gemeente Rotterdam om subsidie voor het slopen van een oude bedrijfsbus en de aankoop van een nieuwe. De gemeente weigerde en het bedrijf ging in beroep bij de rechtbank Rotterdam.",
+ "titel": "Sloopsubsidie alleen voor bedrijven die in Rotterdam zijn gevestigd",
+ "kern": {
+  "zin": "De rechtbank vindt dat de gemeente de subsidie terecht weigerde, omdat het bedrijf niet in Rotterdam was gevestigd; alleen het griffierecht krijgt het bedrijf terug.",
+  "bron": [
+   25
+  ],
+  "citaat": "terecht op het standpunt heeft gesteld dat eiseres niet in aanmerking komt voor de subsidie"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het bedrijf vroeg subsidie voor het slopen van een oude bedrijfsbus en de aanschaf van een nieuwe.",
+   "bron": [
+    16
+   ],
+   "citaat": "Inzet van dit geschil is de aanspraak van eiseres op subsidie voor de sloop van haar oude bedrijfsbus"
+  },
+  {
+   "zin": "Het bedrijf vond dat inschrijving bij de Kamer van Koophandel in Rotterdam genoeg was.",
+   "bron": [
+    16
+   ],
+   "citaat": "Daartoe wijst zij erop dat haar bedrijf is ingeschreven in het register van de Kamer van Koophandel te Rotterdam"
+  },
+  {
+   "zin": "De gemeente zei dat alleen bedrijven die in Rotterdam zijn gevestigd subsidie kunnen krijgen.",
+   "bron": [
+    16
+   ],
+   "citaat": "geen aanspraak heeft op subsidie omdat haar bedrijf niet in Rotterdam is gevestigd"
+  },
+  {
+   "zin": "De rechtbank zegt dat de regel duidelijk is: een rechtspersoon moet in de gemeente Rotterdam zijn gevestigd.",
+   "bron": [
+    20
+   ],
+   "citaat": "heel duidelijk dat de rechtspersoon die voor subsidie in aanmerking wenst te komen moet zijn gevestigd"
+  },
+  {
+   "zin": "De tekst op de website kon verwarring wekken, maar het bedrijf mocht daar niet zonder meer op vertrouwen.",
+   "bron": [
+    22
+   ],
+   "citaat": "mocht eiseres daaraan naar het oordeel van de rechtbank niet zonder meer het gerechtvaardigd vertrouwen ontlenen"
+  },
+  {
+   "zin": "De rechtbank verklaart het bezwaar zelf alsnog ongegrond, dus de weigering blijft staan.",
+   "bron": [
+    25
+   ],
+   "citaat": "zelf in de zaak voorziend, het bezwaar tegen het primaire besluit alsnog ongegrond verklaren"
+  }
+ ],
+ "uitkomst": "alleen procedure",
+ "uitkomst_toelichting": "Beroep gegrond om een procedurefout; weigering blijft staan, griffierecht terug",
+ "gevolg_betrokkene": {
+  "zin": "De weigering blijft staan. De gemeente moet wel het griffierecht van € 334 terugbetalen; schadevergoeding en proceskosten krijgt het bedrijf niet.",
+  "bron": [
+   34
+  ],
+  "citaat": "bepaalt dat verweerder aan eiser het betaalde griffierecht van € 334,- vergoedt"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "verwachting-toezegging",
+   "burger_zegt": "De website van de gemeente noemde inschrijving bij de Kamer van Koophandel, dus ik mocht erop vertrouwen dat ik subsidie kreeg.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank vindt dat het bedrijf de regels had moeten lezen als de website twijfel opriep.",
+    "bron": [
+     22
+    ],
+    "citaat": "Voor zover de tekst twijfel opriep, had het op haar weg gelegen de betreffende regelgeving te raadplegen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Voor zover de tekst twijfel opriep, had het op haar weg gelegen de betreffende regelgeving te raadplegen",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "subsidievoorwaarden-niet-gehaald",
+   "burger_zegt": "Mijn bedrijf is ingeschreven in Rotterdam, dus ik voldoe aan de voorwaarde.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De regel zegt duidelijk dat het bedrijf in de gemeente gevestigd moet zijn.",
+    "bron": [
+     20
+    ],
+    "citaat": "heel duidelijk dat de rechtspersoon die voor subsidie in aanmerking wenst te komen moet zijn gevestigd"
+   },
+   "bruikbare_zin": {
+    "citaat": "heel duidelijk dat de rechtspersoon die voor subsidie in aanmerking wenst te komen moet zijn gevestigd",
+    "bron": [
+     20
+    ]
+   }
+  },
+  {
+   "arg": "proceskosten-schade",
+   "burger_zegt": "Door de trage beslissing van de gemeente heb ik schade geleden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De schade wordt niet vergoed, omdat de afwijzing inhoudelijk klopt.",
+    "bron": [
+     27
+    ],
+    "citaat": "Deze schade komt niet voor vergoeding in aanmerking omdat de afwijzing van de aanvraag inhoudelijk klopt"
+   },
+   "bruikbare_zin": {
+    "citaat": "Deze schade komt niet voor vergoeding in aanmerking omdat de afwijzing van de aanvraag inhoudelijk klopt",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Alleen een rechtspersoon die in de gemeente Rotterdam is gevestigd, komt in aanmerking voor deze sloopsubsidie.",
+  "type": "regel",
+  "reikwijdte": "Sloopsubsidie voor personen- en bestelauto's volgens de Nadere regels van 2014; het gaat om de plaats van vestiging van de rechtspersoon",
+  "uitzondering": null,
+  "herkomst": "lokale verordening",
+  "bron": [
+   20
+  ],
+  "citaat": "heel duidelijk dat de rechtspersoon die voor subsidie in aanmerking wenst te komen moet zijn gevestigd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "gegevens van de Kamer van Koophandel",
+   "tekst van de Nadere regels"
+  ],
+  "wat_gaf_doorslag": "De regel eist vestiging in Rotterdam en het bedrijf was elders gevestigd."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 9 lid 4 onder b Nadere regels subsidie demontage personen- en bestelauto’s 2014",
+  "art. 1:3 lid 1 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Gebruik op de website dezelfde woorden als in de regeling (gevestigd, niet ingeschreven)",
+   "raakt": "klantcontact",
+   "bron": [
+    22
+   ],
+   "citaat": "door het woordgebruik, dat afwijkt van de terminologie in de Nadere regels"
+  },
+  {
+   "actie": "Behandel een bezwaar tegen een e-mail met een afwijzing van subsidie inhoudelijk en niet als niet-ontvankelijk",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    17
+   ],
+   "citaat": "verweerder het bezwaarschrift procedureel niet juist heeft afgehandeld"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "subsidiebeheer",
+  "klantcontact",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "Een gemeente mag in de regels eisen dat een bedrijf in de gemeente is gevestigd. Wat telt, staat in de regeling zelf en niet in een tekst op een website. Twijfelt u over een voorwaarde, lees dan de regeling of vraag het de gemeente voordat u aanvraagt.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

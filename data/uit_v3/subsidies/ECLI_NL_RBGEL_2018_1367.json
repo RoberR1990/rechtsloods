@@ -1,0 +1,177 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBGEL:2018:1367",
+ "relevant": true,
+ "onderwerp": "vaststelling-verantwoording",
+ "sub": "vaststelling-hoogte",
+ "kenmerk": "lager-bedrag",
+ "zaaktype": "vaststelling-verantwoording",
+ "partijen": {
+  "burger": "zorginstelling voor opvang",
+  "wederpartij": "gemeente Nijmegen",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een instelling voor maatschappelijke opvang vindt dat de gemeente Nijmegen te weinig extra subsidie voor 2015 heeft vastgesteld. De zaak ligt bij de rechtbank Gelderland.",
+ "titel": "Extra subsidie voor opvang niet hoger door rommelige administratie",
+ "kern": {
+  "zin": "De gemeente mocht de extra subsidie vaststellen op 30 goed verantwoorde trajecten, omdat de onvolledige administratie van de instelling voor haar rekening komt.",
+  "bron": [
+   29
+  ],
+  "citaat": "Dat de administratie van eiseres niet op orde was, komt voor haar rekening"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente Nijmegen verleende de instelling voor 2015 een grote subsidie voor de opvang van mensen zonder huis.",
+   "bron": [
+    19
+   ],
+   "citaat": "een subsidie verleend van € 10.957.576,- voor de uitvoering van het arrangement 2015"
+  },
+  {
+   "zin": "Later kende de gemeente een extra subsidie van € 475.000 toe voor 30 extra trajecten en wilde die verrekenen met een vordering van € 808.630.",
+   "bron": [
+    22
+   ],
+   "citaat": "zal verrekenen met een nog uitstaande vordering van verweerder op eiseres van € 808.630,-"
+  },
+  {
+   "zin": "De instelling vond het bedrag te laag, omdat door het rommelige overgangsjaar ook trajecten langer dan 90 dagen moesten worden vergoed.",
+   "bron": [
+    27
+   ],
+   "citaat": "vindt dat door het rommelige overgangsjaar 2015 meer dan 90 dagen per traject"
+  },
+  {
+   "zin": "De instelling zei ook dat de gemeente had toegezegd dat het volledige budget besteed mocht worden en dat niet zou worden teruggevorderd.",
+   "bron": [
+    33
+   ],
+   "citaat": "toegezegd dat het volledige bevoorschotte budget voor 2015 aan opvang en beschermd wonen kon worden besteed"
+  },
+  {
+   "zin": "De rechter vindt het redelijk dat de gemeente alleen de trajecten vergoedt die administratief goed zijn verantwoord.",
+   "bron": [
+    29
+   ],
+   "citaat": "een redelijk uitgangspunt heeft gehanteerd door de administratief op juiste wijze verantwoorde extra 30 trajecten te vergoeden"
+  },
+  {
+   "zin": "De rechter ziet geen duidelijke toezegging, want de e-mail zegt alleen dat de extra productie wordt meegewogen.",
+   "bron": [
+    35
+   ],
+   "citaat": "geen ondubbelzinnige toezegging dat het gehele tekort bij Beschermd Wonen zal worden gecompenseerd"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; extra subsidie van € 475.000 juist vastgesteld, geen toezegging",
+ "gevolg_betrokkene": {
+  "zin": "De extra subsidie blijft € 475.000 en de gemeente hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   30,
+   37
+  ],
+  "citaat": "de extra subsidie voor 30 trajecten correct op € 475.000 is vastgesteld"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "evenredigheid",
+   "burger_zegt": "De gemeente had een evenredige belangenafweging moeten maken, zoals bij lagere vaststelling en terugvordering.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het besluit gaat alleen over een aparte extra subsidie, dus een belangenafweging is niet aan de orde.",
+    "bron": [
+     26
+    ],
+    "citaat": "Een belangenafweging is in dit geval niet aan de orde"
+   },
+   "bruikbare_zin": {
+    "citaat": "Van een lagere vaststelling en terugvordering van subsidie is hier daarom geen sprake",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De extra subsidie is te laag berekend: ook de dagen boven de 90 per traject moeten worden vergoed.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De administratie van de instelling was niet op orde en dat komt voor haar rekening.",
+    "bron": [
+     29
+    ],
+    "citaat": "Dat de administratie van eiseres niet op orde was, komt voor haar rekening"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat de administratie van eiseres niet op orde was, komt voor haar rekening",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "verwachting-toezegging",
+   "burger_zegt": "De gemeente heeft toegezegd dat het hele budget besteed mocht worden en dat niet zou worden teruggevorderd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ziet geen duidelijke toezegging en weet niet of de medewerker bevoegd was.",
+    "bron": [
+     35
+    ],
+    "citaat": "geen ondubbelzinnige toezegging dat het gehele tekort bij Beschermd Wonen zal worden gecompenseerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "een aan het bestuursorgaan toe te rekenen concrete en ondubbelzinnige toezegging is gedaan door een daartoe bevoegd persoon",
+    "bron": [
+     34
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een beroep op het vertrouwensbeginsel (wat de gemeente heeft toegezegd, mag u verwachten) slaagt alleen bij een concrete en ondubbelzinnige toezegging van een bevoegd persoon.",
+  "type": "regel",
+  "reikwijdte": "Beroep op een toezegging van de gemeente bij de vaststelling van een subsidie",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   34
+  ],
+  "citaat": "concrete en ondubbelzinnige toezegging is gedaan door een daartoe bevoegd persoon"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "e-mailwisseling van 16 juni 2016 tussen de instelling en de gemeente",
+   "administratie van de verantwoorde trajecten"
+  ],
+  "wat_gaf_doorslag": "Alleen de trajecten die administratief goed als tijdelijke opvang waren verantwoord, werden vergoed."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2015:2161"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 4:23 Awb",
+  "Nijmeegse Kaderverordening Subsidieverstrekking 2011"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "rechter bevestigt de handelwijze van de gemeente; geen nieuwe stap te halen",
+ "raakt": [
+  "subsidiebeheer",
+  "welzijn-cultuur-sport",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "Een gemeente hoeft niet meer subsidie te betalen dan wat u goed hebt verantwoord, ook niet als u in werkelijkheid meer hebt gedaan. Een toezegging telt alleen als die duidelijk is en komt van iemand die daartoe bevoegd is. Wilt u op een afspraak kunnen rekenen, vraag dan een schriftelijk besluit en zorg dat uw verantwoording klopt.",
+ "gemeente": "Nijmegen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "laag"
+}

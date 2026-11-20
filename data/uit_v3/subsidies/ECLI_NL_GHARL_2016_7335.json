@@ -1,0 +1,159 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:GHARL:2016:7335",
+ "relevant": true,
+ "onderwerp": "terugvordering",
+ "sub": "terugvordering-bedrag",
+ "kenmerk": "verrekening",
+ "zaaktype": "overeenkomst-civiel",
+ "partijen": {
+  "burger": "bedrijf (netwerkaanbieder)",
+  "wederpartij": "gemeente Almere",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een netwerkaanbieder moest een te veel betaald voorschot op een subsidie terugbetalen aan de gemeente Almere. Het bedrijf eiste in hoger beroep bij het gerechtshof Arnhem-Leeuwarden juist geld van de gemeente voor extra kosten.",
+ "titel": "Netwerkaanbieder kan extra kosten niet verhalen op gemeente bij subsidieregeling",
+ "kern": {
+  "zin": "Het hof vindt dat de subsidiebrief de gemeente niet verplichtte tot vergoeding van de extra kosten, dus het bedrijf krijgt niets.",
+  "bron": [
+   127
+  ],
+  "citaat": "het gerechtvaardigde vertrouwen ontlenen dat zij op kosten van de gemeente mocht overgaan"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente stelde de subsidie voor het stimuleren van breedbandgebruik definitief lager vast dan het betaalde voorschot.",
+   "bron": [
+    97
+   ],
+   "citaat": "welk bedrag bij deze wordt vastgesteld als de uiteindelijke subsidie"
+  },
+  {
+   "zin": "Daardoor moest het bedrijf een deel van het voorschot terugbetalen.",
+   "bron": [
+    98
+   ],
+   "citaat": "Per saldo resteert dus een van u terug te ontvangen bedrag € 155.662,--"
+  },
+  {
+   "zin": "Het bedrijf wilde dit bedrag verrekenen met eigen kosten voor de uitvoering van de regeling.",
+   "bron": [
+    108
+   ],
+   "citaat": "Wij stellen voor dit bedrag te verrekenen met de kosten van € 285.872 (ex BTW)"
+  },
+  {
+   "zin": "De gemeente zei dat het bedrijf zijn kosten uit de betalingen van de klanten moest dekken.",
+   "bron": [
+    127
+   ],
+   "citaat": "overeenkomsten sloot met particuliere klanten over de levering van snel internet"
+  },
+  {
+   "zin": "Het hof wijst alle grondslagen af, zoals opdracht, zaakwaarneming en ongerechtvaardigde verrijking.",
+   "bron": [
+    131
+   ],
+   "citaat": "niet valt in te zien dat de gemeente ongerechtvaardigd is verrijkt"
+  },
+  {
+   "zin": "Het hof bekrachtigt het vonnis van de rechtbank.",
+   "bron": [
+    142
+   ],
+   "citaat": "De grieven treffen per saldo geen van alle doel, zodat het hof het vonnis waarvan beroep zal bekrachtigen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep van de aanvrager faalt; terugbetaling en afwijzing van kostenclaim blijven.",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrijf moet het te veel betaalde bedrag van € 155.662 terugbetalen, krijgt zijn extra kosten niet vergoed en betaalt € 11.686 aan proceskosten (€ 5.160 verschotten en € 6.526 salaris).",
+  "bron": [
+   146
+  ],
+  "citaat": "aan de zijde van de gemeente vastgesteld op € 5.160,- voor verschotten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het bedrijf zegt dat de gemeente de extra kosten voor de uitvoering van de regeling moet vergoeden, omdat de gemeente daarom had gevraagd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De subsidiebrief geeft geen steun voor een ruime opdracht waarvoor de gemeente de kosten zou betalen.",
+    "bron": [
+     127
+    ],
+    "citaat": "geen steun vindt in de stukken omtrent de overeenkomst betreffende de subsidieverlening"
+   },
+   "bruikbare_zin": {
+    "bron": [
+     127
+    ],
+    "citaat": "mocht op grond van de subsidieovereenkomst aan haar klanten een korting van € 250,- verlenen"
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het bedrijf zegt dat de gemeente ongerechtvaardigd is verrijkt doordat zij apparaten kreeg die het bedrijf had betaald.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het hof ziet niet dat de gemeente is verrijkt of dat het bedrijf is verarmd.",
+    "bron": [
+     131
+    ],
+    "citaat": "niet valt in te zien dat de gemeente ongerechtvaardigd is verrijkt"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het bedrijf moest zijn eigen kosten dekken uit de vergoeding van de klanten; de subsidiebrief gaf alleen recht op een korting voor de klant.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Alleen deze subsidieregeling voor het stimuleren van breedbandgebruik en de brief van de gemeente",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   127
+  ],
+  "citaat": "moest haar eigen kosten verder gedekt krijgen uit de vergoeding die de particuliere klanten haar betaalden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De subsidiebrief gaf het bedrijf geen recht op vergoeding van extra kosten."
+ },
+ "toepasselijkheid": "privaat",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 7:400 BW",
+  "art. 7:406 BW",
+  "art. 6:198 BW"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet in de subsidiebrief aan een uitvoerder duidelijk wat de uitvoerder zelf draagt en wat de gemeente vergoedt.",
+   "raakt": "subsidiebeheer",
+   "bron": [
+    127
+   ],
+   "citaat": "mocht op grond van de subsidieovereenkomst aan haar klanten een korting van € 250,- verlenen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "subsidiebeheer",
+  "bezwaar-juridische-zaken",
+  "inkoop-contractmanagement",
+  "handhaving-terugvordering"
+ ],
+ "klantuitleg": "Heeft u een subsidie als voorschot gekregen en is de definitieve subsidie lager, dan moet u het te veel betaalde bedrag terugbetalen. Extra kosten kunt u alleen op de gemeente verhalen als dat duidelijk in de afspraken staat. Controleer dus vooraf in de subsidiebrief welke kosten voor uw rekening blijven.",
+ "gemeente": "Almere",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

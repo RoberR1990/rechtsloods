@@ -1,0 +1,169 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:13056",
+ "relevant": true,
+ "onderwerp": "procedure",
+ "sub": "ontvankelijkheid-belang",
+ "kenmerk": "belanghebbende",
+ "zaaktype": "staatssteun",
+ "partijen": {
+  "burger": "vastgoedondernemer",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een vastgoedondernemer vroeg het college van Rotterdam om subsidies terug te vorderen die aan een andere ondernemer waren gegeven. Het college zei dat hij daar geen eigen belang bij had; hij ging in beroep bij de rechtbank Rotterdam.",
+ "titel": "Geen eigen belang bij subsidie aan een ander: verzoek mislukt",
+ "kern": {
+  "zin": "De rechter vond dat het college het bezwaar terecht niet inhoudelijk behandelde (niet-ontvankelijk), omdat de ondernemer geen eigen, rechtstreeks belang had bij de subsidies aan een andere ondernemer.",
+  "bron": [
+   43
+  ],
+  "citaat": "heeft verweerder zich terecht op het standpunt gesteld dat eiser niet als belanghebbende is aan te merken"
+ },
+ "samenvatting": [
+  {
+   "zin": "De ondernemer vroeg het college om subsidies uit 2010 tot 2012 aan een andere vastgoedondernemer terug te vorderen, omdat dit volgens hem verboden staatssteun (overheidssteun die de concurrentie vervalst) was.",
+   "bron": [
+    22
+   ],
+   "citaat": "omdat die zijn aan te merken als onrechtmatige staatssteun als bedoeld in artikel 107"
+  },
+  {
+   "zin": "Het college verklaarde zijn bezwaar niet-ontvankelijk (niet inhoudelijk behandeld), omdat hij niet rechtstreeks in zijn belang werd geraakt.",
+   "bron": [
+    26
+   ],
+   "citaat": "niet rechtstreeks in zijn belang wordt geraakt is zijn bezwaar daartegen niet-ontvankelijk"
+  },
+  {
+   "zin": "De ondernemer zei dat hij een concurrent was in dezelfde markt en dat de steun de verhoudingen op de vastgoedmarkt had scheefgetrokken.",
+   "bron": [
+    32
+   ],
+   "citaat": "heeft eiser een actueel, objectief, persoonlijk en eigen belang dat rechtstreeks bij het primaire besluit is betrokken"
+  },
+  {
+   "zin": "De rechter vond dat de ondernemer ten tijde van de subsidies in een ander marktsegment werkte: hij verhuurde woningen, terwijl de ander vooral winkelruimte verhuurde.",
+   "bron": [
+    37
+   ],
+   "citaat": "was eiser ten tijde van de subsidieverlening met de verhuur van woningen dus in een ander marktsegment actief"
+  },
+  {
+   "zin": "Dat de ondernemer later meer panden kreeg, verandert dat niet: wie bij de subsidieverlening geen eigen belang had, krijgt dat niet achteraf bij een verzoek om terugvordering.",
+   "bron": [
+    40
+   ],
+   "citaat": "niet achteraf alsnog belanghebbende kan worden bij een verzoek tot terugvordering van diezelfde subsidie"
+  },
+  {
+   "zin": "Het beroep over het niet tijdig beslissen was niet-ontvankelijk omdat het college inmiddels had beslist; daarvoor kreeg de ondernemer wel een proceskostenvergoeding van 418,50 euro.",
+   "bron": [
+    44
+   ],
+   "citaat": "voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 418,50"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; alleen proceskosten voor het deel over niet tijdig beslissen.",
+ "gevolg_betrokkene": {
+  "zin": "Het college hoeft de subsidies niet terug te vorderen; de ondernemer krijgt alleen 418,50 euro proceskosten voor het deel over niet tijdig beslissen en voor de rest geen proceskostenvergoeding.",
+  "bron": [
+   44
+  ],
+  "citaat": "Voor een veroordeling in de overige proceskosten van eiser bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "belanghebbende-ontvankelijk",
+   "burger_zegt": "Hij is een concurrent in dezelfde markt en dus belanghebbende (heeft een eigen belang) bij het verzoek om terugvordering.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Toen de subsidies werden gegeven, werkte hij in een ander marktsegment en was hij dus geen concurrent.",
+    "bron": [
+     38
+    ],
+    "citaat": "zodat eiser op dat moment geen belanghebbende als bedoeld in artikel 1:2, eerste lid, van de Awb was"
+   },
+   "bruikbare_zin": {
+    "citaat": "indien de subsidie waarvan de terugvordering wordt verzocht strekt tot ondersteuning van bedrijfsactiviteiten, uit te voeren binnen hetzelfde marktsegment en verzorgingsgebied als waarbinnen de derde werkzaam is",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "verwachting-toezegging",
+   "burger_zegt": "Het college had in bezwaar gezegd dat hij belanghebbende was en stuurde hem de stukken; daarop mocht hij vertrouwen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het standpunt van het college was uitdrukkelijk voorlopig; een duidelijke toezegging was er niet.",
+    "bron": [
+     42
+    ],
+    "citaat": "Eiser heeft niet aannemelijk gemaakt dat hem een uitdrukkelijke en ondubbelzinnige toezegging is gedaan"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het stond verweerder vrij om een ander standpunt in te nemen",
+    "bron": [
+     42
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een derde heeft een eigen belang bij een besluit over terugvordering van subsidie als de subsidie bedrijfsactiviteiten steunt in hetzelfde marktsegment en verzorgingsgebied als waarin hij zelf werkt.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken van een concurrent om een subsidie aan een ander terug te vorderen, ook als staatssteun wordt aangevoerd.",
+  "uitzondering": "Wie bij de subsidieverlening geen eigen belang had, krijgt dat niet achteraf door gewijzigde feiten.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   33
+  ],
+  "citaat": "degene wiens concurrentiebelang rechtstreeks is betrokken bij een besluit belanghebbende bij dat besluit is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De ondernemer bezat toen geen panden in het gebied en verhuurde woningen, terwijl de ander vooral winkelruimte verhuurde."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2018:2001",
+   "ECLI:NL:RVS:2013:CA1378",
+   "ECLI:NL:RVS:2019:1694"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1:2 Awb",
+  "art. 4:57 Awb",
+  "art. 4:49 Awb",
+  "art. 107 VWEU",
+  "art. 7 Wet terugvordering staatssteun"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zeg in de bezwaarprocedure uitdrukkelijk dat uw standpunt over wie belanghebbende is voorlopig is.",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    42
+   ],
+   "citaat": "dat het daarin door verweerder ingenomen standpunt dat eiser zich laat kwalificeren als belanghebbende een voorlopig karakter draagt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "staatssteun-europees",
+  "subsidiebeheer"
+ ],
+ "klantuitleg": "Vindt u dat de gemeente een andere ondernemer ten onrechte subsidie gaf, dan moet u zelf een eigen, rechtstreeks belang hebben. Dat is meestal alleen zo als u in dezelfde markt en hetzelfde gebied werkt als die ondernemer. Laat daarom met feiten zien dat u echt met die ondernemer concurreert.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

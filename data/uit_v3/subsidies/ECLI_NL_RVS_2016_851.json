@@ -1,0 +1,165 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2016:851",
+ "relevant": true,
+ "onderwerp": "vaststelling-verantwoording",
+ "sub": "vaststelling-hoogte",
+ "kenmerk": "nihil",
+ "zaaktype": "vaststelling-verantwoording",
+ "partijen": {
+  "burger": "aanvrager (particulier)",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een particulier vroeg subsidie voor het slopen van een oude auto en de aanschaf van een vervangende auto. Hij gaat in hoger beroep bij de Raad van State tegen het college van de gemeente Den Haag, dat de subsidie op nul vaststelde.",
+ "titel": "Subsidie voor autovervanging terecht op nul vastgesteld bij onjuiste factuur",
+ "kern": {
+  "zin": "De Raad van State vindt dat het college de subsidie in redelijkheid op nul mocht vaststellen, omdat de overgelegde factuur onjuist was.",
+  "bron": [
+   31
+  ],
+  "citaat": "dat het college in redelijkheid het subsidiebedrag heeft kunnen vaststellen op nihil"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente verleende eerst een subsidie van € 1.500 voor het slopen en vervangen van een auto.",
+   "bron": [
+    21
+   ],
+   "citaat": "heeft het college de subsidie verleend voor een bedrag van € 1.500,00"
+  },
+  {
+   "zin": "Het college stelde de subsidie daarna op nul vast, omdat de aanvrager willens en wetens onjuiste informatie zou hebben gegeven.",
+   "bron": [
+    24
+   ],
+   "citaat": "willens en wetens onjuiste informatie heeft verstrekt om een hoger subsidiebedrag te kunnen ontvangen"
+  },
+  {
+   "zin": "Het college steunde zich op een verklaring van het autobedrijf en op gegevens van de RDW (de dienst voor kentekens).",
+   "bron": [
+    24
+   ],
+   "citaat": "Deze verklaring wordt ondersteund door de kentekeninformatie van de Dienst wegverkeer"
+  },
+  {
+   "zin": "De aanvrager zei dat niet vaststond dat hij bewust onjuiste informatie gaf en dat hij aan de voorwaarden voldeed.",
+   "bron": [
+    26
+   ],
+   "citaat": "Verder voldoet hij aan de voorwaarden om in aanmerking te komen voor subsidie"
+  },
+  {
+   "zin": "De Raad van State oordeelt dat de factuur onjuist is en dat de aanvrager daarom niet aan de voorwaarden voldoet.",
+   "bron": [
+    31
+   ],
+   "citaat": "voldoet hij derhalve niet aan de voorwaarden van de Subsidieregeling"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    34
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep van de aanvrager faalt; nul-vaststelling blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De subsidie blijft op nul staan en de aanvrager krijgt geen proceskosten vergoed.",
+  "bron": [
+   34,
+   35
+  ],
+  "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "subsidievoorwaarden-niet-gehaald",
+   "burger_zegt": "De aanvrager zegt dat hij aan de voorwaarden voor de subsidie voldoet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De overgelegde factuur klopt niet met de gegevens van het autobedrijf en de RDW, dus hij voldoet niet aan de voorwaarden.",
+    "bron": [
+     31
+    ],
+    "citaat": "voldoet hij derhalve niet aan de voorwaarden van de Subsidieregeling"
+   },
+   "bruikbare_zin": {
+    "bron": [
+     31
+    ],
+    "citaat": "voldoet hij derhalve niet aan de voorwaarden van de Subsidieregeling"
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De aanvrager zegt dat niet vaststaat dat hij bewust onjuiste informatie gaf, omdat hij de auto via een advertentiesite kocht.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De Raad van State ziet in zijn betoog alleen een herhaling van wat de rechtbank al weerlegde.",
+    "bron": [
+     31
+    ],
+    "citaat": "is een herhaling van hetgeen hij in beroep naar voren heeft gebracht"
+   },
+   "bruikbare_zin": {
+    "bron": [
+     31
+    ],
+    "citaat": "heeft terecht en op goede gronden geoordeeld dat het college in redelijkheid"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Is de bij de verantwoording overgelegde factuur onjuist, dan voldoet de aanvrager niet aan de voorwaarden en mag het college de subsidie op nul vaststellen.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Alleen deze subsidieregeling voor sloop en vervanging van auto's, bij een onjuiste verkoopfactuur",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   31
+  ],
+  "citaat": "dat het college in redelijkheid het subsidiebedrag heeft kunnen vaststellen op nihil"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van het autobedrijf",
+   "kentekeninformatie van de RDW"
+  ],
+  "wat_gaf_doorslag": "De factuur van de aanvrager klopte niet met de gegevens van het autobedrijf en de RDW."
+ },
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "Subsidieregeling Demontage en Vervanging Personen- en Bestelauto's"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Toets een verkoopfactuur bij een vaststellingsverzoek aan de verklaring van het autobedrijf en de kentekengegevens van de RDW.",
+   "raakt": "financiele-controle",
+   "bron": [
+    24
+   ],
+   "citaat": "Deze verklaring wordt ondersteund door de kentekeninformatie van de Dienst wegverkeer"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "subsidiebeheer",
+  "financiele-controle",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "De gemeente mag een subsidie op nul vaststellen als stukken bij de verantwoording niet kloppen. Hier bleek de verkoopfactuur onjuist en voldeed de aanvrager daarom niet aan de voorwaarden. Heeft u een bezwaar tegen zo'n besluit, lever dan juiste stukken aan, zoals een echte factuur of koopakte.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}
