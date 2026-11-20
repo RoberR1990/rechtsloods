@@ -1,0 +1,153 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "kenmerk": "belanghebbende",
+ "dubbel_van": null,
+ "reden_gemeente_leeg": null,
+ "reden_leeg_actie": null,
+ "toepasselijkheid": "landelijk",
+ "ecli": "ECLI:NL:RVS:2025:2296",
+ "onderwerp": "procedure",
+ "sub": "ontvankelijkheid-belang",
+ "zaaktype": "staatssteun",
+ "partijen": {
+  "burger": "vastgoedondernemer",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een vastgoedondernemer vroeg het college van Rotterdam om subsidies terug te vorderen die aan een andere ondernemer waren gegeven. De Raad van State beoordeelt het hoger beroep tegen de uitspraak van de rechtbank.",
+ "titel": "Ondernemer niet geraakt door subsidie aan andere vastgoedondernemer",
+ "kern": {
+  "zin": "De Raad van State vindt dat het belang van de ondernemer niet rechtstreeks bij het besluit is betrokken, omdat hij nadeel voor zijn concurrentiepositie niet aannemelijk maakte.",
+  "bron": [
+   36
+  ],
+  "citaat": "niet rechtstreeks is betrokken bij het bestreden besluit"
+ },
+ "samenvatting": [
+  {
+   "zin": "De ondernemer vroeg het college de subsidies terug te vorderen, omdat die onrechtmatige staatssteun (verboden overheidssteun) zouden zijn.",
+   "bron": [
+    21
+   ],
+   "citaat": "omdat die zijn aan te merken als onrechtmatige staatssteun als bedoeld in artikel 107"
+  },
+  {
+   "zin": "Het college verklaarde het bezwaar tegen de afwijzing niet-ontvankelijk (niet inhoudelijk te behandelen), omdat de ondernemer geen eigen belang zou hebben.",
+   "bron": [
+    23
+   ],
+   "citaat": "tegen deze afwijzing niet-ontvankelijk verklaard, omdat"
+  },
+  {
+   "zin": "In hoger beroep zei de ondernemer dat de subsidies de concurrentie echt hadden verstoord.",
+   "bron": [
+    31
+   ],
+   "citaat": "daadwerkelijk hebben geleid tot een verstoring van de concurrentieverhoudingen"
+  },
+  {
+   "zin": "De Raad van State zegt dat een concurrent belang kan hebben als de subsidie activiteiten steunt in dezelfde markt en hetzelfde gebied waarin hij werkt.",
+   "bron": [
+    35
+   ],
+   "citaat": "kan een derde op grond van zijn concurrentiepositie worden aangemerkt als belanghebbende bij een besluit"
+  },
+  {
+   "zin": "Hier lukte dat niet: de ondernemer onderbouwde omzetverlies of ander nadeel niet met stukken.",
+   "bron": [
+    36
+   ],
+   "citaat": "niet concreet onderbouwd dan wel stukken overgelegd waaruit blijkt dat hij"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep van de ondernemer ongegrond; bezwaar blijft niet-ontvankelijk.",
+ "gevolg_betrokkene": {
+  "zin": "Het bezwaar blijft niet-ontvankelijk, de subsidies worden niet teruggevorderd en het college hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   41
+  ],
+  "citaat": "Het college hoeft geen proceskosten te vergoeden."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "belanghebbende-ontvankelijk",
+   "burger_zegt": "Mijn concurrentiepositie is geraakt, dus ik heb belang bij de terugvordering.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Zijn belang is niet rechtstreeks betrokken bij het besluit.",
+    "bron": [
+     36
+    ],
+    "citaat": "niet rechtstreeks is betrokken bij het bestreden besluit"
+   },
+   "bruikbare_zin": {
+    "citaat": "Alleen wie een voldoende objectief en actueel, eigen en persoonlijk belang heeft",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het college hield bij de ander de de-minimisgrens niet aan, waardoor ik panden niet kon kopen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dat hij moest afzien van aankopen werd niet nader onderbouwd.",
+    "bron": [
+     36
+    ],
+    "citaat": "niet nader geconcretiseerd en onderbouwd"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een concurrent kan belang hebben bij het terugvorderen van subsidie aan een ander, als die subsidie activiteiten steunt in hetzelfde marktsegment en verzorgingsgebied.",
+  "type": "regel",
+  "reikwijdte": "Derde die als concurrent vraagt om terugvordering van een gemeentelijke subsidie; overlap in de markt alleen is niet genoeg, nadeel voor de concurrentiepositie moet aannemelijk zijn.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   35
+  ],
+  "citaat": "indien de subsidie waarvan terugvordering wordt verzocht, strekt tot ondersteuning van activiteiten"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De ondernemer onderbouwde omzetverlies of ander nadeel niet met stukken."
+ },
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2011:BQ3428"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1:2 lid 1 Awb",
+  "art. 4:57 lid 4 Awb",
+  "art. 107 VWEU",
+  "art. 7 lid 1 Wet terugvordering staatssteun"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag een concurrent die om terugvordering van subsidie vraagt eerst om concreet te onderbouwen welk nadeel hij heeft door de subsidie aan een ander.",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    36
+   ],
+   "citaat": "niet aannemelijk gemaakt dat zijn concurrentiepositie door de subsidieverlening aan"
+  }
+ ],
+ "raakt": [
+  "subsidiebeheer",
+  "staatssteun-europees",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "Vindt u dat de gemeente een concurrent subsidie gaf die teruggevorderd moet worden, dan kunt u de gemeente vragen dat te doen. De gemeente hoeft uw bezwaar alleen inhoudelijk te behandelen als u zelf rechtstreeks nadeel heeft. Maak dat nadeel met stukken duidelijk, bijvoorbeeld omzetverlies.",
+ "gemeente": "Rotterdam",
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,46 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2022:2302",
+ "relevant": true,
+ "onderwerp": "verlening-weigering",
+ "sub": "aanvraag-voorwaarden",
+ "kenmerk": "voorwaarde-niet-voldaan",
+ "zaaktype": "weigering",
+ "partijen": {"burger": "culturele onderneming", "wederpartij": "gemeente Rotterdam", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Een culturele onderneming vroeg de gemeente Rotterdam om corona-noodsteun en kreeg een afwijzing. Zij gaat in beroep bij de rechtbank Rotterdam.",
+ "titel": "Corona-noodsteun voor cultuur geweigerd: geen eigen podium",
+ "kern": {"zin": "De rechter vond de afwijzing terecht, omdat de onderneming zelf geen podium biedt maar podia van anderen gebruikt.", "bron": [50], "citaat": "Zij biedt geen podium, maar zij maakt zelf gebruik van podia die anderen ter beschikking stellen."},
+ "samenvatting": [
+  {"zin": "De onderneming vroeg 8.300 euro subsidie als tegemoetkoming in vaste lasten tijdens de coronacrisis.", "bron": [16], "citaat": "waarin is verzocht om een subsidiebedrag van € 8.300,- als tegemoetkoming in vaste lasten"},
+  {"zin": "De gemeente wees de aanvraag af, omdat de onderneming geen organisatie is die structureel een podium biedt of werk van Rotterdamse kunstenaars tentoonstelt.", "bron": [17], "citaat": "Volgens verweerder is geen sprake van een organisatie die structureel een voor publiek toegankelijk podium biedt"},
+  {"zin": "De onderneming vond dat zij recht had op subsidie, omdat zij een essentieel onderdeel van de culturele infrastructuur van de stad is en de gemeente het woord podium te strikt uitlegde. Ook riep zij het gelijkheidsbeginsel en het vertrouwensbeginsel in.", "bron": [18], "citaat": "Eiseres stelt dat zij recht heeft op subsidie, omdat de dansschool een essentieel onderdeel uitmaakt"},
+  {"zin": "De rechter vond de tekst van de regeling onduidelijk en keek daarom naar de bedoeling van de gemeente in de toelichting. Daaruit volgt dat alle voorwaarden samen moeten gelden.", "bron": [49], "citaat": "volgt daaruit duidelijk, zoals verweerder stelt, dat aan de cumulatieve voorwaarden moet zijn voldaan"},
+  {"zin": "De rechter vond dat de onderneming geen podium biedt, maar podia van anderen gebruikt. Dat zij ook voorstellingen geeft, verandert dat niet.", "bron": [50], "citaat": "Zij biedt geen podium, maar zij maakt zelf gebruik van podia die anderen ter beschikking stellen."},
+  {"zin": "Het beroep op gelijke behandeling en op vertrouwen slaagde niet, omdat de onderneming haar stellingen niet onderbouwde. Het beroep is ongegrond.", "bron": [46], "citaat": "Eiseres heeft naar het oordeel van de rechtbank niet aannemelijk gemaakt dat er gevallen zijn"}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; afwijzing blijft staan.",
+ "gevolg_betrokkene": {"zin": "De afwijzing blijft staan, de onderneming krijgt geen subsidie en er is geen vergoeding van proceskosten.", "bron": [53], "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "subsidievoorwaarden-niet-gehaald", "burger_zegt": "Zij voldoet aan de voorwaarden, want de regeling sluit niet uit dat zij toch een essentieel onderdeel van de culturele infrastructuur is, en de uitleg van podium bieden is te streng.", "oordeel": "verworpen", "waarom": {"zin": "De onderneming biedt zelf geen podium, maar gebruikt podia van anderen.", "bron": [50], "citaat": "Zij biedt geen podium, maar zij maakt zelf gebruik van podia die anderen ter beschikking stellen."}, "bruikbare_zin": {"citaat": "heeft verweerder zich terecht op het standpunt gesteld dat dat niet wordt voldaan aan de subsidievoorwaarden", "bron": [51]}},
+  {"arg": "gelijkheid-verdeling", "burger_zegt": "De gemeente gaf aan andere vergelijkbare culturele instellingen wel subsidie.", "oordeel": "verworpen", "waarom": {"zin": "De onderneming had slechts een vermoeden en maakte niet aannemelijk dat vergelijkbare gevallen subsidie kregen.", "bron": [46], "citaat": "Eiseres heeft naar het oordeel van de rechtbank niet aannemelijk gemaakt dat er gevallen zijn"}, "bruikbare_zin": {"citaat": "Eiseres heeft naar het oordeel van de rechtbank niet aannemelijk gemaakt dat er gevallen zijn", "bron": [46]}},
+  {"arg": "verwachting-toezegging", "burger_zegt": "De gemeente benaderde haar actief om een aanvraag in te dienen en wekte daarmee vertrouwen.", "oordeel": "verworpen", "waarom": {"zin": "Er was geen toezegging; de gemeente stuurde alleen een algemene brief over de regeling.", "bron": [47], "citaat": "De rechtbank is niet gebleken van een toezegging of andere uitlating of gedraging van de zijde van verweerder"}, "bruikbare_zin": {"citaat": "De rechtbank is niet gebleken van een toezegging of andere uitlating of gedraging van de zijde van verweerder", "bron": [47]}}
+ ],
+ "rechtsregel": {"zin": "Is de tekst van een subsidieregeling onduidelijk, dan kijkt de rechter naar de bedoeling van de gemeente in de toelichting; de voorwaarden voor de doelgroep gelden dan alle samen.", "type": "regel", "reikwijdte": "Alleen deze corona-noodsteunregeling voor culturele ondernemingen; de rechter legde de woorden in ieder geval uit aan de hand van de toelichting.", "uitzondering": null, "herkomst": "oordeel rechter", "bron": [48], "citaat": "ziet de rechtbank aanleiding om naar de bedoeling van verweerder te kijken"},
+ "bewijs": {"bewijslast_bij": "burger", "bewijsmiddelen": [], "wat_gaf_doorslag": "De onderneming bevestigde ter zitting dat zij ruimte van anderen huurt voor haar activiteiten."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": ["art. 8 Subsidieverordening Rotterdam 2014", "art. 4 Subsidieregeling Rotterdamse corona noodsteun privaat gefinancierde culturele ondernemingen 2021"],
+ "actie_gemeente": [
+  {"actie": "Schrijf voorwaarden in een subsidieregeling zonder vage woorden als in ieder geval, zodat duidelijk is of voorwaarden samen moeten gelden.", "raakt": "verordening-beleid", "bron": [48], "citaat": "gebezigde tekst onduidelijk is vanwege de daarin opgenomen woorden"}
+ ],
+ "reden_leeg_actie": null,
+ "raakt": ["subsidiebeheer", "verordening-beleid", "welzijn-cultuur-sport", "bezwaar-juridische-zaken"],
+ "klantuitleg": "De gemeente mag subsidie weigeren als u niet aan alle voorwaarden van de regeling voldoet. Is de tekst van de regeling onduidelijk, dan kijkt de rechter naar wat de gemeente met de regeling bedoelde. Leg bij uw aanvraag en bezwaar dus goed uit en onderbouw met stukken waarom u aan elke voorwaarde voldoet.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

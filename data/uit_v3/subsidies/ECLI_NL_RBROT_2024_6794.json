@@ -1,0 +1,46 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2024:6794",
+ "relevant": true,
+ "onderwerp": "vaststelling-verantwoording",
+ "sub": "vaststelling-hoogte",
+ "kenmerk": "lager-bedrag",
+ "zaaktype": "vaststelling-verantwoording",
+ "partijen": {"burger": "organisatie die subsidie ontving", "wederpartij": "gemeente Rotterdam", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Een organisatie kreeg van de gemeente Rotterdam subsidie voor sport- en cultuuraanvragen. De gemeente stelde de subsidie lager vast en vorderde een deel terug. De organisatie gaat in beroep bij de rechtbank Rotterdam.",
+ "titel": "Subsidie lager vastgesteld en terugvordering mag, maar bedrag was te hoog",
+ "kern": {"zin": "De rechter vond lagere vaststelling en terugvordering in principe terecht, maar de gemeente had met een verkeerd bedrag gerekend; de rechter stelde zelf een iets hoger subsidiebedrag vast.", "bron": [35], "citaat": "Hieruit blijkt dat verweerder te veel van eiseres heeft teruggevorderd."},
+ "samenvatting": [
+  {"zin": "De gemeente verleende voor 2021 een subsidie met afspraken over aantallen te honoreren aanvragen en over organisatiekosten. Bij minder prestaties werd per niet gehonoreerde aanvraag een vast bedrag gekort.", "bron": [19], "citaat": "als uit de ingediende subsidieverantwoording blijkt dat er minder sport- en cultuuraanvragen zijn gehonoreerd dan afgesproken"},
+  {"zin": "De organisatie haalde de afgesproken aantallen niet en gaf een deel van de organisatiekosten niet uit. De gemeente stelde de subsidie daarom lager vast en vorderde het te veel betaalde voorschot terug.", "bron": [28], "citaat": "Tussen partijen is niet in geschil dat eiseres niet heeft voldaan aan de prestatieafspraken"},
+  {"zin": "De organisatie vond dit onredelijk, omdat het geld wel aan het doel van de gemeente was besteed en zij geen invloed had op de aantallen. Ook vond zij terugvorderen van het hele bedrag onevenredig vanwege haar zwakke geldpositie.", "bron": [32], "citaat": "omdat de subsidie zowel wat betreft de kosten als de aard is besteed aan de doelstelling van de gemeente"},
+  {"zin": "De rechter vond dat de gemeente een lagere vaststelling mocht kiezen. De afspraken waren duidelijk, de aantallen kwamen uit de eigen aanvraag, en de geldpositie was niet met bewijsstukken onderbouwd.", "bron": [34], "citaat": "dat de gevolgen van de lagere vaststelling en terugvordering voor eiseres niet onevenredig zijn"},
+  {"zin": "De gemeente bleek zelf met een te laag bedrag aan organisatiekosten te hebben gerekend. Daardoor was te veel teruggevorderd.", "bron": [35], "citaat": "Hieruit blijkt dat verweerder te veel van eiseres heeft teruggevorderd."},
+  {"zin": "De rechter vernietigde het besluit voor de hoogte van de vaststelling en de terugvordering, stelde zelf een nieuw bedrag vast en liet de gemeente het griffierecht vergoeden.", "bron": [37], "citaat": "moet verweerder het door eiseres betaalde griffierecht van € 365,- vergoeden"}
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Lagere vaststelling blijft, maar vastgesteld bedrag hoger en terugvordering lager.",
+ "gevolg_betrokkene": {"zin": "De subsidie wordt vastgesteld op 2.314.411 euro en de terugvordering daalt van 184.450 naar 183.589 euro; de gemeente vergoedt het griffierecht van 365 euro, maar niet de proceskosten.", "bron": [37], "citaat": "De rechtbank ziet geen aanleiding om verweerder te veroordelen in de proceskosten."},
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {"arg": "evenredigheid", "burger_zegt": "Lager vaststellen en terugvorderen is onredelijk en onevenredig, omdat de subsidie is besteed aan het doel, de organisatie geen invloed heeft op de aantallen en haar geldpositie zwak is.", "oordeel": "verworpen", "waarom": {"zin": "De afspraken waren duidelijk en de geldpositie was niet onderbouwd met bewijsstukken.", "bron": [34], "citaat": "De stelling dat eiseres een zwakke liquiditeitspositie heeft is door haar niet onderbouwd met concrete bewijsstukken."}, "bruikbare_zin": {"citaat": "dat de gevolgen van de lagere vaststelling en terugvordering voor eiseres niet onevenredig zijn", "bron": [34]}},
+  {"arg": "terugvordering-bedrag", "burger_zegt": "Het teruggevorderde bedrag is niet juist berekend.", "oordeel": "gehonoreerd", "waarom": {"zin": "De gemeente had met te lage organisatiekosten gerekend en daardoor te veel teruggevorderd.", "bron": [35], "citaat": "Hieruit blijkt dat verweerder te veel van eiseres heeft teruggevorderd."}, "bruikbare_zin": {"citaat": "Hieruit blijkt dat verweerder te veel van eiseres heeft teruggevorderd.", "bron": [35]}}
+ ],
+ "rechtsregel": {"zin": "De gemeente mag een subsidie lager vaststellen als de ontvanger de verplichtingen niet naleeft; zij moet daarbij de belangen afwegen en het besluit moet evenredig zijn.", "type": "regel", "reikwijdte": "Lagere vaststelling van subsidie na het niet halen van duidelijk vastgelegde prestatieafspraken.", "uitzondering": "Het besluit mag niet onevenredig zijn voor de ontvanger.", "herkomst": "wet", "bron": [33], "citaat": "De lagere vaststelling van de subsidie dan de subsidieverlening vanwege het niet-naleven van subsidieverplichtingen is een discretionaire bevoegdheid"},
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": ["verleningsbeschikking", "wijzigingsbeschikking", "financiele verantwoording van de accountant"], "wat_gaf_doorslag": "De organisatie haalde de duidelijk vastgelegde prestaties niet, en de gemeente moest een rekenfout herstellen."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": ["art. 4:46 Awb", "art. 4:57 Awb", "art. 3:4 Awb", "art. 4:44 Awb", "art. 4:45 Awb", "art. 3 Subsidieverordening Rotterdam 2014", "art. 9 Subsidieverordening Rotterdam 2014"],
+ "actie_gemeente": [
+  {"actie": "Controleer bij lagere vaststelling de bedragen uit de financiele verantwoording en de accountantsstukken, zodat u niet te veel terugvordert.", "raakt": "financiele-controle", "bron": [35], "citaat": "Hieruit blijkt dat verweerder te veel van eiseres heeft teruggevorderd."},
+  {"actie": "Omschrijf prestatieafspraken en de gevolgen van het niet nakomen duidelijk in de verleningsbeschikking.", "raakt": "subsidiebeheer", "bron": [34], "citaat": "de consequenties bij het niet nakomen van deze afspraken die in de verleningsbeschikking en wijzigingsbeschikking zeer duidelijk zijn omschreven"}
+ ],
+ "reden_leeg_actie": null,
+ "raakt": ["subsidiebeheer", "financiele-controle", "handhaving-terugvordering", "bezwaar-juridische-zaken"],
+ "klantuitleg": "Haalt u de afgesproken prestaties niet, dan mag de gemeente de subsidie lager vaststellen en het te veel betaalde voorschot terugvragen. Dit moet wel redelijk zijn, en de gemeente moet de bedragen goed berekenen. Controleer dus de berekening en onderbouw met stukken als terugbetalen u in geldproblemen brengt.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

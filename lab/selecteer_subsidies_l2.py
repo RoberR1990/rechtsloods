@@ -28,7 +28,7 @@ clus = lambda e: hashlib.md5(re.sub(r'[\d\W]+', ' ', (U[e].get('inhoud') or '').
 
 sel, reden, per, pc = [], {}, collections.Counter(), collections.Counter()
 def neem(e, r):
-    if e in reden or len(sel) >= MAX or pc[clus(e)] >= 2: return False
+    if e in reden or len(sel) >= MAX or pc[clus(e)] >= 4: return False
     sel.append(e); reden[e] = r; per[sub(e)] += 1; pc[clus(e)] += 1; return True
 
 def om_en_om(L, r, tot):
@@ -52,6 +52,9 @@ for k in sorted(subs, key=lambda k: per[k]):
     for e in nieuw([e for e in rel if sub(e) == k]):
         if per[k] >= 20 or len(sel) >= MAX: break
         neem(e, f'd: dun subonderwerp {k[0]}/{k[1]} aangevuld tot 20')
+
+for e in nieuw(rel):  # klein domein: alle overige relevante uitspraken erbij (besluit B7)
+    neem(e, 'e: overig relevant (klein domein)')
 
 namen = [e.replace(':', '_') + '.json' for e in sel]
 os.makedirs(f'{R}/lab/sets', exist_ok=True)

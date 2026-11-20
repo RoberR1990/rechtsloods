@@ -1,0 +1,45 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:2481",
+ "relevant": true,
+ "onderwerp": "procedure",
+ "sub": "ontvankelijkheid-belang",
+ "kenmerk": null,
+ "zaaktype": "weigering",
+ "partijen": {"burger": "organisatie met een gemachtigde", "wederpartij": "gemeente Rotterdam", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Een organisatie diende 16 subsidieaanvragen in bij de gemeente Rotterdam en kreeg 16 afwijzingen. Zij gaat in beroep bij de rechtbank Rotterdam; de rechter beoordeelt eerst of dit beroep wel is toegestaan.",
+ "titel": "Beroep over geweigerde subsidies is misbruik van recht en niet-ontvankelijk",
+ "kern": {"zin": "De rechter verklaarde het beroep niet-ontvankelijk, omdat de organisatie en haar gemachtigde de procedure gebruikten voor een ander doel dan waarvoor de bevoegdheid bestaat.", "bron": [25], "citaat": "Omdat de rechtbank van oordeel is dat sprake is van misbruik van recht door eiseres is het beroep niet-ontvankelijk."},
+ "samenvatting": [
+  {"zin": "De organisatie diende 16 aparte subsidieaanvragen in voor hetzelfde project. De gemeente wees ze af, omdat de activiteiten de leefbaarheid of sociale samenhang in de wijk niet vergroten.", "bron": [16], "citaat": "dat de activiteiten waarvoor subsidie is aangevraagd niet de leefbaarheid dan wel de sociale samenhang in de wijk vergroten"},
+  {"zin": "De organisatie vond de aanvraagprocedure discriminerend, omdat die alleen online kon, en de afwijzing onvoldoende gemotiveerd.", "bron": [18], "citaat": "Eiseres stelt dat de procedure voor het aanvragen van subsidies discriminatoir is"},
+  {"zin": "De rechter wees erop dat de bevoegdheid om te procederen niet mag worden misbruikt. Een beroep dat misbruik is, wordt niet inhoudelijk behandeld.", "bron": [19], "citaat": "de bevoegdheid om bij de bestuursrechter beroep in te stellen, niet kan worden ingeroepen voor zover deze bevoegdheid wordt misbruikt"},
+  {"zin": "Volgens de rechter was het de organisatie niet om de subsidie te doen. Zij vermeldde niet eens op grond van welke regeling zij subsidie vroeg en voerde in beroep alleen formele punten aan.", "bron": [22], "citaat": "heeft eiseres niet de moeite genomen om op haar aanvragen te vermelden op grond van welke subsidieregeling"},
+  {"zin": "De rechter zag een patroon van veel procedures gericht op het verdienen van geld met dwangsommen. Daardoor moeten andere rechtzoekenden langer wachten.", "bron": [23], "citaat": "Door de veelheid van onnodige procedures worden ook andere rechtszoekenden benadeeld"},
+  {"zin": "Het beroep is niet-ontvankelijk. Er is geen proceskostenveroordeling.", "bron": [26], "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Misbruik van recht vastgesteld; beroep niet-ontvankelijk, afwijzingen blijven staan.",
+ "gevolg_betrokkene": {"zin": "De 16 afwijzingen blijven staan en de organisatie krijgt geen vergoeding van proceskosten; de rechter waarschuwt de gemachtigde dat hij een volgende keer kan worden geweigerd.", "bron": [24], "citaat": "hij een volgende keer ook als gemachtigde door de bestuursrechter kan worden geweigerd"},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "overig", "burger_zegt": "De aanvraagprocedure is discriminerend, omdat subsidie alleen met een online formulier kan worden aangevraagd.", "oordeel": "niet beoordeeld", "waarom": {"zin": "De rechter kwam niet toe aan de inhoud, omdat het beroep misbruik van recht was.", "bron": [25], "citaat": "De rechtbank komt niet toe aan een inhoudelijke beoordeling van het beroep."}, "bruikbare_zin": {"citaat": "De rechtbank komt niet toe aan een inhoudelijke beoordeling van het beroep.", "bron": [25]}},
+  {"arg": "motivering", "burger_zegt": "De gemeente heeft de afwijzingen onvoldoende gemotiveerd.", "oordeel": "niet beoordeeld", "waarom": {"zin": "De rechter beoordeelde de inhoud niet, omdat het beroep niet-ontvankelijk was.", "bron": [25], "citaat": "De rechtbank komt niet toe aan een inhoudelijke beoordeling van het beroep."}, "bruikbare_zin": {"citaat": "Per zaak moet worden beoordeeld of misbruik van recht is gemaakt.", "bron": [21]}}
+ ],
+ "rechtsregel": {"zin": "Een bestuursrechtelijk beroep dat misbruik van recht is, wordt niet inhoudelijk behandeld en is niet-ontvankelijk.", "type": "regel", "reikwijdte": "Beroepen waarbij de procedure vooral wordt gebruikt voor een ander doel dan waarvoor de bevoegdheid is verleend, bijvoorbeeld het verdienen van dwangsommen.", "uitzondering": "Per zaak wordt beoordeeld of misbruik is gemaakt; zijn er aanknopingspunten voor het tegendeel, dan wordt niet zonder meer misbruik aangenomen.", "herkomst": "vaste lijn HR-RvS", "bron": [19], "citaat": "de bevoegdheid om bij de bestuursrechter beroep in te stellen, niet kan worden ingeroepen voor zover deze bevoegdheid wordt misbruikt"},
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": ["eerdere uitspraken van de rechtbank", "verklaringen van de gemachtigde ter zitting"], "wat_gaf_doorslag": "Het patroon van veel procedures gericht op dwangsommen, en beroepsgronden die alleen formele punten noemden."},
+ "toepasselijkheid": "landelijk",
+ "lijn": {"soort": "bevestigt", "eerdere": ["ECLI:NL:RVS:2025:467", "ECLI:NL:RVS:2014:4129", "ECLI:NL:RVS:2014:4135", "ECLI:NL:RVS:2019:2817", "ECLI:NL:RBROT:2024:6107"]},
+ "wetsartikelen": ["art. 3:13 BW", "art. 3:15 BW", "art. 8:25 Awb"],
+ "actie_gemeente": [
+  {"actie": "Wijs de rechter in zaken met veel procedures van dezelfde gemachtigde op eerdere procedures en op de handelwijze, om misbruik van recht aannemelijk te maken.", "raakt": "bezwaar-juridische-zaken", "bron": [21], "citaat": "Eerdere procedures en de handelwijze van een partij mogen worden betrokken bij het oordeel"}
+ ],
+ "reden_leeg_actie": null,
+ "raakt": ["bezwaar-juridische-zaken", "subsidiebeheer"],
+ "klantuitleg": "Een rechter behandelt een beroep niet inhoudelijk als de procedure vooral wordt gebruikt voor een ander doel, zoals het verdienen van dwangsommen. Dan blijft het besluit van de gemeente staan. Gaat het u echt om de subsidie, leg dan in uw beroep uit waarom u er recht op denkt te hebben.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

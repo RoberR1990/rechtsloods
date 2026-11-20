@@ -1,0 +1,47 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:15364",
+ "relevant": true,
+ "onderwerp": "vaststelling-verantwoording",
+ "sub": "verantwoording",
+ "kenmerk": "voorschot",
+ "zaaktype": "vaststelling-verantwoording",
+ "partijen": {"burger": "stichting of organisatie die subsidie ontving", "wederpartij": "gemeente Rotterdam", "gemeente_is_partij": true},
+ "procesvorm": "beroep",
+ "intro": "Een organisatie die subsidie van de gemeente kreeg, gaat in beroep tegen de gemeente Rotterdam. De gemeente stelde de subsidie op nul vast en vorderde het voorschot terug. De zaak ligt bij de rechtbank Rotterdam.",
+ "titel": "Geen verantwoording: subsidie op nul vastgesteld en voorschot terug",
+ "kern": {"zin": "De rechter vond het goed dat de gemeente de subsidie op nul vaststelde en het voorschot terugvorderde, omdat de organisatie geen inhoudelijke verantwoording instuurde.", "bron": [31], "citaat": "bevoegd om de subsidie lager vast te stellen en het verstrekte voorschot terug te vorderen"},
+ "samenvatting": [
+  {"zin": "De gemeente gaf een eenmalige subsidie en betaalde een deel daarvan vooraf uit als voorschot. De organisatie moest daarna laten zien wat ze met het geld had gedaan.", "bron": [18], "citaat": "is aan eiseres een eenmalige subsidie verleend voor de periode van 1 november 2021"},
+  {"zin": "De organisatie diende geen aanvraag tot vaststelling in en legde geen verantwoording af, ook niet na meerdere keren uitstel.", "bron": [20], "citaat": "Eiseres heeft geen aanvraag ingediend tot vaststelling van de subsidie en daarmee ook geen verantwoording afgelegd."},
+  {"zin": "De gemeente stelde de subsidie daarom uit zichzelf op nul vast en vorderde het voorschot terug.", "bron": [30], "citaat": "Het college wijst er op dat op 1 maart 2024 nog steeds geen stukken van eiseres waren ontvangen"},
+  {"zin": "De organisatie vond het onredelijk dat al het geld terug moest, omdat er wel werk was gedaan en kosten waren gemaakt.", "bron": [24], "citaat": "Het is volgens eiseres onbegrijpelijk dat het college het volledige bedrag terug wil vorderen"},
+  {"zin": "De rechter zei dat de gemeente de subsidie lager mocht vaststellen en het voorschot mocht terugvorderen. Het belang van goed besteed publiek geld woog zwaarder dan de belangen van de organisatie.", "bron": [33], "citaat": "Het belang van het college om publieke middelen goed te besteden is een legitiem doel."},
+  {"zin": "Het beroep is ongegrond. De organisatie krijgt het griffierecht en de proceskosten niet vergoed.", "bron": [38], "citaat": "Eiseres krijgt daarom het griffierecht niet terug. Zij krijgt ook geen vergoeding van haar proceskosten."}
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; nihilvaststelling en terugvordering blijven staan.",
+ "gevolg_betrokkene": {"zin": "De organisatie moet het voorschot van 68.750 euro terugbetalen en krijgt geen griffierecht of proceskosten vergoed; een terugbetalingsregeling bleek wel mogelijk.", "bron": [34], "citaat": "Ter zitting is bovendien gebleken dat een terugbetalingsregeling mogelijk is."},
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {"arg": "evenredigheid", "burger_zegt": "Het hele voorschot terugvorderen is onevenredig zwaar, want er is werk verricht en kosten zijn gemaakt.", "oordeel": "verworpen", "waarom": {"zin": "De organisatie had ruim de tijd en de overgelegde stukken lieten niet zien waaraan het geld was besteed.", "bron": [33], "citaat": "Terugvordering van de teveel ontvangen geldbedragen is een geschikt en noodzakelijk middel"}, "bruikbare_zin": {"citaat": "Het belang van het college om publieke middelen goed te besteden is een legitiem doel.", "bron": [33]}},
+  {"arg": "verantwoording-onvoldoende", "burger_zegt": "De voortgang is wel gerapporteerd en meer informatie kon nog worden aangeleverd.", "oordeel": "verworpen", "waarom": {"zin": "De stukken waren te algemeen en lieten niet zien wat er was gepresteerd.", "bron": [33], "citaat": "Verder valt uit de overgelegde stukken niet af te leiden waar het geld aan is besteed"}, "bruikbare_zin": {"citaat": "Zonder de verantwoording zoals opgenomen in het verleningsbesluit is het college niet in staat te beoordelen", "bron": [33]}},
+  {"arg": "evenredigheid", "burger_zegt": "De financiele situatie maakt terugbetaling van het hele bedrag onevenredig.", "oordeel": "verworpen", "waarom": {"zin": "De organisatie onderbouwde haar financiele situatie niet.", "bron": [34], "citaat": "Eiseres heeft haar financiële situatie namelijk niet onderbouwd."}, "bruikbare_zin": {"citaat": "Eiseres heeft haar financiële situatie namelijk niet onderbouwd.", "bron": [34]}}
+ ],
+ "rechtsregel": {"zin": "Geeft een subsidieontvanger geen inhoudelijke verantwoording, dan mag de gemeente de subsidie lager vaststellen en het voorschot terugvorderen, mits dit evenredig is.", "type": "regel", "reikwijdte": "Subsidies waarvoor de verleningsbeschikking een inhoudelijke verantwoording eist en de ontvanger die niet instuurt.", "uitzondering": "De nihilstelling moet evenredig zijn; de rechter weegt de aard van de belangen en de ingrijpendheid van het besluit.", "herkomst": "wet", "bron": [31], "citaat": "bevoegd om de subsidie lager vast te stellen en het verstrekte voorschot terug te vorderen"},
+ "bewijs": {"bewijslast_bij": "niet aan de orde", "bewijsmiddelen": ["verleningsbesluit", "brieven met uitstel en herinnering", "overgelegde voortgangsrapportages"], "wat_gaf_doorslag": "Er kwam geen inhoudelijke verantwoording, ondanks meerdere keren uitstel."},
+ "toepasselijkheid": "lokale verordening",
+ "lijn": {"soort": "onbekend", "eerdere": []},
+ "wetsartikelen": ["art. 4:46 Awb", "art. 4:47 Awb", "art. 4:57 Awb", "art. 3:4 Awb", "art. 14 Subsidieverordening Rotterdam 2014", "art. 15 Subsidieverordening Rotterdam 2014"],
+ "actie_gemeente": [
+  {"actie": "Wijs de subsidieontvanger meerdere keren schriftelijk op de verantwoordingseisen voordat u de subsidie ambtshalve op nul vaststelt.", "raakt": "subsidiebeheer", "bron": [33], "citaat": "Eiseres is er ook meerdere keren op gewezen dat de tussentijdse rapportages niet voldeden aan de eisen."},
+  {"actie": "Leg vast dat u uitstel voor de verantwoording hebt gegeven en hoe vaak.", "raakt": "subsidiebeheer", "bron": [33], "citaat": "nu haar verzoeken om uitstel meerdere keren zijn toegewezen"}
+ ],
+ "reden_leeg_actie": null,
+ "raakt": ["subsidiebeheer", "bezwaar-juridische-zaken", "financiele-controle", "handhaving-terugvordering"],
+ "klantuitleg": "Als u subsidie krijgt, moet u laten zien wat u met het geld hebt gedaan. Stuurt u de gevraagde verantwoording niet in, dan mag de gemeente de subsidie op nul zetten en het voorschot terugvragen. Stuur de verantwoording dus op tijd in en vraag zo nodig uitstel; kunt u niet in één keer terugbetalen, vraag dan naar een betalingsregeling.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}
