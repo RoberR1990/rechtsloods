@@ -1,11 +1,12 @@
-# STAND evenementen-horeca
-- [x] 0 Oriëntatie (repo = snapshot; scripts verwachten /home/claude/{data,scripts,site}: symlinks naar werkmap, niet in repo)
-- [x] 1 Feeds (best 2016-2026: 15k-40k/jr; civ idem) opgehaald; kandidaten = `scripts/dom_select_evenementen_horeca.py` -> 2.325 (907 hoogste rechters/hoven), 669 grensgevallen uitgesloten
-- [x] 1b Precisie steekproef 100 (Haiku): 79 ja, 14 nee, 4 grens-oo, 3 twijfel => 79-83%; filter daarna aangescherpt (nu 2.325)
-- [x] 2 Taxonomie (8 onderwerpen, ±35 subs), argumenten (15), config, besluiten (reviewpunt 1 zelf bevestigd)
-- [~] 3 XML ophalen en parsen
-- [ ] 4 Laag 1 Haiku
-- [ ] 5 Selectie + laag 2 Sonnet
-- [ ] 6-9 Nakijk, stand, site-data, overdracht
-Domeinafbeelding: placeholder nodig `site/assets/dom-evenementen-horeca.webp` (1100x825). ChatGPT-prompt: "Platte vectorillustratie, dunne donkerblauwe contourlijnen (#1F2F44), vlakken petrol #0F5C63 en zeer licht grijsblauw #E2E6E6, één oranje accent #A84A00, witte achtergrond, 4:3, geen tekst, geen groen. Nederlands straatbeeld: horecaterras met parasols en tafeltjes, op de achtergrond een marktkraam en slingers van een straatfeest." Daarna `python3 -I tools/herkleur_afbeeldingen.py <bestand>`.
-Volgende actie: XML-fetch afronden, dom_parse, maak_in_l1, pilot 25.
+# STAND evenementen-horeca (pauze 20 nov 2026, op verzoek: zuinig met tokens)
+- [x] 0 Oriëntatie. Repo is publieke snapshot (geen `live`-branch). Scripts verwachten `/home/claude/{data,scripts,site,rechtzoeker}`: maak symlinks naar werkmap en repo; `dom_parse.py` heeft een lege `data/kandidaten2.json` (`[]`) nodig.
+- [x] 1 Kandidaten: `scripts/dom_select_evenementen_horeca.py` over feeds bestuursrecht + civielrecht 2016-2026 -> 2.325 (907 hoogste rechters/hoven), 669 grensgevallen in `grens.json`. Precisie steekproef 100 (Haiku): 79 ja, 14 nee, 4 grens-oo, 3 twijfel; filter daarna aangescherpt.
+- [x] 2 Taxonomie (8 onderwerpen, 29 subs in gebruik), argumenten (15), config, besluiten (`evenementen-horeca-besluiten.md`; reviewpunt 1 zelf bevestigd).
+- [x] 3 Laag 1 (Haiku): 2.300 uitspraken, 1.717 relevant, 0 fouten. Verbruik ±3,2k tokens per uitspraak. 'overig' onderwerp 105 (6%), sub 'overig' 128. 172 niet-relevant als 'grens openbare-orde' (Bibob 134, woningsluiting 29, sluiting 8). Uitkomsten: wederpartij wint 981, burger wint 407, alleen procedure 214, deels 102.
+- [x] 4 Selectie laag 2: `scripts/selecteer_laag2_evenementen_horeca.py 400` -> `laag2_selectie.json` (103 Rotterdam, 227 hoogste rechters, 70 dunne subs). Reviewpunt 2 zelf bevestigd (cap 400, ±11M Sonnet-tokens geschat).
+- [~] 5 Laag 2 (Sonnet): pilot 25 klaar (batches v000-v004), 0 fouten, ±26k tokens per uitspraak (160k/5 hoogst). Blinde steekproef nog niet gedaan. Resterend 375 in 75 batches (`data/batches/v3_evenementen-horeca.json`, v005-v079).
+- [ ] 6 Nakijk uitkomstregels · [ ] 7 Stand per subonderwerp · [ ] 8 Site-data + privacyscan · [ ] 9 Overdracht
+Uitvoer in repo: `data/dom/evenementen-horeca/`, `data/uit_l1/evenementen-horeca/`, `data/uit_v3/evenementen-horeca/`, `data/batches/`. Niet in repo: XML en `uitspraken.json` (37 MB; opnieuw via `dom_fetch.py` + `dom_parse.py`).
+Domeinafbeelding: placeholder nodig `site/assets/dom-evenementen-horeca.webp` (1100x825). ChatGPT-prompt: "Platte vectorillustratie, dunne donkerblauwe contourlijnen (#1F2F44), vlakken petrol #0F5C63 en zeer licht grijsblauw #E2E6E6, één oranje accent #A84A00, witte achtergrond, 4:3, geen tekst, geen groen. Nederlands straatbeeld: horecaterras met parasols en tafeltjes, een marktkraam en slingers van een straatfeest op de achtergrond." Daarna `python3 -I tools/herkleur_afbeeldingen.py <bestand>`.
+Publiceerbaar zonder FG? Ja inhoudelijk (bedrijfs- en vergunningzaken), maar nog niet: laag 2 is 25 van 400. Met alleen laag 1 kan een 'in opbouw'-domein (labels, filters) online zonder samenvattingen. Live zetten blijft Roberts besluit.
+Volgende actie: laag 2 golven vanaf v005 (10 Sonnet-agents x 1 batch van 5; `scripts/verrijk_v3.md`, domeinregels in besluit 6/7), dan blinde steekproef 10%, stap 6-9.
