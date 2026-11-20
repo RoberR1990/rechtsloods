@@ -18,9 +18,9 @@ python3 scripts/maak_in_l1.py woz-belastingen && python3 scripts/maak_in_v3.py w
 - [x] 0 Oriëntatie
 - [x] 1 Verzamelen en afbakenen
 - [x] 2 Taxonomie en uitkomstregels bevriezen
-- [ ] 3 Laag 1 (Haiku)
-- [ ] 4 Selectie laag 2
-- [ ] 5 Laag 2 (Sonnet, zelf schrijven) + blinde steekproef
+- [~] 3 Laag 1 (Haiku): proef, 2 van 387 batches klaar (50 uitspraken, check 0 fouten)
+- [~] 4 Selectie laag 2: `lab/woz_select.py` staat klaar; eerste deel (a) Rotterdam 209 + (b) HR/AG 195 = 404 in 68 batches van 6 (`data/batches/v3_woz-belastingen.json`)
+- [ ] 5 Laag 2 (Sonnet, zelf schrijven) + blinde steekproef: opdracht `lab/woz_v3.md` en check `lab/woz_check.py` staan klaar; proefbatch v3-0001 nog zonder uitvoer
 - [ ] 6 Nakijkronde uitkomstregels
 - [ ] 7 De stand in het kort
 - [ ] 8 Site-data en feeds, lokale browsertest
@@ -57,14 +57,21 @@ python3 scripts/maak_in_l1.py woz-belastingen && python3 scripts/maak_in_v3.py w
 | stap | schatting | werkelijk |
 |---|---|---|
 | 1 precisie (Haiku, 1 agent) | ~60k | 148k (1 agent, 140 uitspraken) |
-| 2 taxonomie (Sonnet, 1 agent) | ~150k | |
+| 2 taxonomie (Sonnet, 1 agent) | ~150k | 109k (1 agent) |
 | 3 laag 1 (Haiku, ~3,6k per uitspraak) | ~9.000 × 3,6k ≈ 32M | |
 | 5 laag 2 (Sonnet, ~27k per uitspraak) | ~500 × 27k ≈ 13,5M | |
 | 5 steekproef (Sonnet) | ~50 × 10k ≈ 0,5M | |
 | 7 stand (Sonnet) | ~7 × 100k ≈ 0,7M | |
 
 ## Laatste commit
-(volgt)
+Zie `git log -1` op `col/woz-belastingen` (pauze, 20 nov 2026, ±12:20 UTC).
+
+## Pauze (20 nov, op verzoek van Robert)
+- De proefagenten liepen tegen de 5-uurslimiet aan (reset 12:50 UTC). Laag-1-proef: batches 0001 en 0002 klaar (50 uitspraken, `check_l1` 0 fouten: 0 niet relevant; uitkomsten 24 wederpartij, 15 alleen procedure, 9 deels, 2 burger wint). Batch 0003 is niet af. Laag-2-proef v3-0001 heeft nog geen uitvoer.
+- Robert pakt het samen met mij verder op. Ik start geen nieuwe agents tot hij daarom vraagt.
 
 ## Volgende actie
-Stap 2: taxonomie door een Sonnet-agent (`lab/woz_taxonomie_opdracht.md`) → controleren → `uitkomstregels` uit `lab/woz_uitkomstregels.json` toevoegen aan `data/dom/woz-belastingen/config.json`.
+1. Kwaliteit van de laag-1-proef (0001-0002) zelf nalopen (uitkomstregels U3-U5, relevantie), daarna batch 0003 laten afmaken: Haiku-agent met de prompt "Voer `lab/woz_l1.md` uit voor l1-woz-belastingen-0003" (plus de subagent-regels).
+2. Laag-2-proef: Sonnet-agent op `v3-woz-belastingen-0001` (`lab/woz_v3.md`), daarna `python3 -I lab/woz_check.py` op die 6 bestanden en de tokens meten.
+3. Opschalen: laag 1 in blokken van ~15 Haiku-agents × 3 batches (batches 0004-0146 = hoogste rechters, hoven en Rotterdam eerst). Parallel laag 2 voor de 68 batches (a+b). Na elk blok: check, commit, push, STAND.
+4. Als laag 1 voor prio 1+2 klaar is: `python3 -I lab/woz_select.py 500 --schrijf` voegt (c) hoven en (d) aanvulling toe (proceskosten altijd tot 20).
