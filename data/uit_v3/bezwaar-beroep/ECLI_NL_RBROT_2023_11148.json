@@ -1,0 +1,154 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:11148",
+ "relevant": true,
+ "onderwerp": "bezwaartermijn-verschoonbaar",
+ "sub": "verschoonbaar",
+ "kenmerk": "ziekte-persoonlijk",
+ "zaaktype": "bezwaar-beroepstermijn",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "voorlopige voorziening",
+ "intro": "Een ouder vraagt de voorzieningenrechter van de rechtbank Rotterdam om een tijdelijke maatregel tegen de gemeente Rotterdam. Het gaat om aangepast leerlingenvervoer, terwijl het bezwaar te laat was ingediend.",
+ "titel": "Te laat bezwaar: drukte is geen geldige reden, geen spoedmaatregel",
+ "kern": {
+  "zin": "De voorzieningenrechter wijst het verzoek af, omdat het bezwaar te laat was en drukte geen geldige reden is, waardoor er geen spoedeisend belang is.",
+  "bron": [
+   28
+  ],
+  "citaat": "Met verweerder is de voorzieningenrechter van oordeel dat dit geen geldige reden is voor de termijnoverschrijding."
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente wees de aanvraag voor aangepast leerlingenvervoer af en verklaarde het bezwaar niet-ontvankelijk omdat het te laat was.",
+   "bron": [
+    18
+   ],
+   "citaat": "Het college heeft verzoeksters bezwaar niet-ontvankelijk verklaard, omdat zij het bezwaarschrift te laat heeft ingediend"
+  },
+  {
+   "zin": "De ouder vroeg een tijdelijke maatregel zodat de taxikosten worden vergoed tot de beslissing in beroep.",
+   "bron": [
+    18
+   ],
+   "citaat": "wil met het verzoek om voorlopige voorziening bereiken dat de taxikosten worden vergoed"
+  },
+  {
+   "zin": "De bezwaartermijn liep tot en met 12 augustus 2023 en het bezwaar kwam op 23 augustus binnen.",
+   "bron": [
+    26
+   ],
+   "citaat": "is op 23 augustus 2023 door het college ontvangen"
+  },
+  {
+   "zin": "De ouder zei door drukte met werk en zorg voor kinderen over de datum heen te hebben gekeken.",
+   "bron": [
+    27
+   ],
+   "citaat": "over de datum van indiening heen heeft gekeken"
+  },
+  {
+   "zin": "De rechter vond dit voorlopig geen geldige reden, dus is er geen spoedeisend belang en wordt het verzoek afgewezen.",
+   "bron": [
+    28
+   ],
+   "citaat": "heeft verzoekster dus geen spoedeisend belang bij de gevraagde voorziening"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Voorlopig: verzoek afgewezen, want bezwaar te laat en geen verschoonbare reden.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt tijdens de beroepsprocedure geen aangepast vervoer, geen griffierecht terug en geen proceskosten vergoed.",
+  "bron": [
+   38
+  ],
+  "citaat": "verzoekster tijdens de beroepsprocedure niet in aanmerking komt voor het door haar gevraagde aangepast vervoer"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-te-laat",
+   "burger_zegt": "De burger zegt dat de late indiening verschoonbaar is door drukte met werk en zorg voor kinderen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er is niet gebleken dat de burger niet zelf of via iemand anders op tijd bezwaar kon maken.",
+    "bron": [
+     28
+    ],
+    "citaat": "Er is niet gebleken dat verzoekster niet in staat is geweest zelf tijdig een (pro forma) bezwaarschrift in te dienen"
+   },
+   "bruikbare_zin": {
+    "citaat": "dat zij zo nodig niet iemand anders heeft kunnen inschakelen om tijdig in bezwaar te gaan",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De burger zegt dat er spoed is en dat de taxikosten tijdelijk vergoed moeten worden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Omdat het bezwaar waarschijnlijk niet-ontvankelijk blijft, is er geen spoedeisend belang.",
+    "bron": [
+     28
+    ],
+    "citaat": "het bestreden besluit naar verwachting in beroep in stand blijft"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een te laat bezwaar is niet-ontvankelijk, tenzij het te laat indienen verschoonbaar is.",
+  "type": "regel",
+  "reikwijdte": "Bezwaar dat na de termijn van zes weken is ingediend",
+  "uitzondering": "Het te laat indienen is verschoonbaar",
+  "herkomst": "wet",
+  "bron": [
+   24
+  ],
+  "citaat": "Dat is alleen anders als het niet tijdig indienen van het bezwaarschrift verschoonbaar is."
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Er is niet gebleken dat de burger niet zelf of via een ander op tijd bezwaar kon maken."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:RVS:2018:3190"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 6:7 Awb",
+  "art. 6:8 Awb",
+  "art. 6:11 Awb",
+  "art. 8 lid 3 onder a Verordening bekostiging leerlingenvervoer Rotterdam"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg de verzenddatum van het besluit en de ontvangstdatum van het bezwaar vast",
+   "raakt": "termijnbewaking",
+   "bron": [
+    25
+   ],
+   "citaat": "niet in geschil is dat het college het primaire besluit heeft verzonden op 7 juli 2023"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "termijnbewaking",
+  "bezwaar-juridische-zaken",
+  "klantcontact"
+ ],
+ "klantuitleg": "Voor bezwaar heeft u zes weken, te rekenen vanaf de dag na verzending van het besluit. Komt uw bezwaar later, dan is drukte met werk of zorg voor kinderen meestal geen geldige reden om toch te mogen bezwaren. Dien daarom op tijd een kort bezwaarschrift in en vul het later aan, of schakel iemand anders in.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

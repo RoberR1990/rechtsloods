@@ -1,0 +1,136 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:164",
+ "relevant": true,
+ "onderwerp": "bezwaartermijn-verschoonbaar",
+ "sub": "niet-ontvankelijk-te-laat",
+ "kenmerk": "beroep-te-laat",
+ "zaaktype": "bezwaar-beroepstermijn",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "waterschap Hollandse Delta",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "verzet",
+ "intro": "Een burger vroeg de rechtbank Rotterdam om verzet (bezwaar tegen een uitspraak zonder zitting). Die uitspraak had zijn beroep tegen het waterschap Hollandse Delta niet-ontvankelijk verklaard omdat het te laat was.",
+ "titel": "Verkeerd postbusnummer gebruikt: beroep blijft te laat",
+ "kern": {
+  "zin": "Een verschrijving in het postbusnummer is geen reden om een te laat beroep toch te behandelen.",
+  "bron": [
+   15
+  ],
+  "citaat": "De door opposant aangevoerde reden, een onbewuste verschrijving van het postbusnummer van de rechtbank, valt daar niet onder."
+ },
+ "samenvatting": [
+  {
+   "zin": "De rechter verklaarde het beroep van de burger eerder niet-ontvankelijk, omdat het te laat was.",
+   "bron": [
+    10
+   ],
+   "citaat": "Het beroep is niet-ontvankelijk verklaard omdat opposant te laat beroep heeft ingesteld"
+  },
+  {
+   "zin": "In het verzet toetst de rechter alleen of het terecht was om zonder zitting te beslissen.",
+   "bron": [
+    14
+   ],
+   "citaat": "de beoordeling van de verzetrechter beperkt is tot de vraag of terecht uitspraak is gedaan zonder opposant op zitting te horen"
+  },
+  {
+   "zin": "De burger zegt dat de termijn verschoonbaar is overschreden, door een verschrijving van het postbusnummer.",
+   "bron": [
+    12
+   ],
+   "citaat": "omdat sprake is geweest van een onbewuste verschrijving"
+  },
+  {
+   "zin": "De hoofdregel is dat een te laat beroep niet inhoudelijk wordt behandeld, tenzij de termijn verschoonbaar is overschreden.",
+   "bron": [
+    15
+   ],
+   "citaat": "Bij een te laat ingekomen beroepschrift is de hoofdregel dat dit niet inhoudelijk wordt behandeld"
+  },
+  {
+   "zin": "Een verschrijving valt hier niet onder en komt voor rekening van de burger.",
+   "bron": [
+    15
+   ],
+   "citaat": "Zo’n verschrijving komt geheel voor rekening en risico van opposant."
+  },
+  {
+   "zin": "Het verzet is ongegrond en de eerdere uitspraak blijft in stand.",
+   "bron": [
+    17
+   ],
+   "citaat": "Dat betekent dat die uitspraak in stand blijft."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Te laat beroep blijft niet-ontvankelijk; verschrijving is geen verschoonbare reden.",
+ "gevolg_betrokkene": {
+  "zin": "Het beroep wordt niet inhoudelijk behandeld en er is geen vergoeding van proceskosten of griffierecht.",
+  "bron": [
+   17
+  ],
+  "citaat": "Er is geen aanleiding voor een veroordeling in de proceskosten of een vergoeding van het griffierecht."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "termijn-te-laat",
+   "burger_zegt": "Mijn beroep was te laat door een verschrijving van het postbusnummer, maar die termijnoverschrijding is verschoonbaar.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Alleen bijzondere omstandigheden maken een te late termijn verschoonbaar; een verschrijving hoort daar niet bij.",
+    "bron": [
+     15
+    ],
+    "citaat": "Het moet dan gaan om bijzondere omstandigheden."
+   },
+   "bruikbare_zin": {
+    "citaat": "Zo’n verschrijving komt geheel voor rekening en risico van opposant.",
+    "bron": [
+     15
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een te laat beroep wordt niet inhoudelijk behandeld, tenzij de termijn door bijzondere omstandigheden verschoonbaar is overschreden.",
+  "type": "regel",
+  "reikwijdte": "Beroepschriften die te laat zijn ingediend.",
+  "uitzondering": "Bijzondere omstandigheden die de overschrijding verschoonbaar maken.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   15
+  ],
+  "citaat": "Bij een te laat ingekomen beroepschrift is de hoofdregel dat dit niet inhoudelijk wordt behandeld"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "vergelijking van het gebruikte en het juiste postbusnummer"
+  ],
+  "wat_gaf_doorslag": "Een verschrijving in het adres komt voor eigen risico van de indiener."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:CRVB:2015:3034"
+  ]
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij (waterschap); geen concrete actie uit de uitspraak",
+ "raakt": [
+  "termijnbewaking",
+  "bezwaar-juridische-zaken",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een bezwaar- of beroepschrift moet op tijd en op het juiste adres aankomen. Een tikfout in het adres, zoals een verkeerd postbusnummer, komt voor uw eigen rekening. Verstuur uw brief daarom ruim voor het einde van de termijn en controleer het adres.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "waterschap is partij, geen gemeente",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

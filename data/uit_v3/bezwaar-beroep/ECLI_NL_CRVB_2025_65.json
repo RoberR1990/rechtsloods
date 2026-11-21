@@ -1,0 +1,186 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente niet partij",
+ "dubbel_van": null,
+ "reden_leeg_actie": null,
+ "ecli": "ECLI:NL:CRVB:2025:65",
+ "onderwerp": "hoorplicht",
+ "sub": "gevolg-gebrek",
+ "kenmerk": "gebrek-gepasseerd",
+ "zaaktype": "hoorplicht",
+ "partijen": {
+  "burger": "burger met een Ziektewet-uitkering",
+  "wederpartij": "Uwv",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger was in bezwaar niet gehoord door het Uwv, omdat zij de uitnodiging niet had gekregen. De Centrale Raad van Beroep (de hoogste rechter voor uitkeringszaken) besliste in hoger beroep.",
+ "titel": "Niet gehoord, maar besluit blijft staan; wel proceskosten vergoed",
+ "kern": {
+  "zin": "De Raad vond dat de burger ten onrechte niet is gehoord, maar liet dit gebrek passeren omdat zij alsnog haar standpunt kon toelichten.",
+  "bron": [
+   32
+  ],
+  "citaat": "zal dit gebrek met toepassing van artikel 6:22 van de Awb worden gepasseerd"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het Uwv nodigde de burger per aangetekende brief uit voor een hoorzitting, maar de brief kon niet worden bezorgd.",
+   "bron": [
+    20
+   ],
+   "citaat": "Deze brief kon niet bij haar bezorgd worden"
+  },
+  {
+   "zin": "De burger zei dat zij geen afhaalbericht had gekregen en daarom niet wist dat de brief klaarlag.",
+   "bron": [
+    26
+   ],
+   "citaat": "dat zij geen afhaalbericht heeft ontvangen en daardoor niet wist dat er een aangetekende brief voor haar klaar lag"
+  },
+  {
+   "zin": "Het Uwv vroeg de Raad de uitspraak van de rechtbank te bevestigen en de schadevergoeding af te wijzen.",
+   "bron": [
+    28
+   ],
+   "citaat": "verzocht de aangevallen uitspraak te bevestigen en het verzoek om schadevergoeding af te wijzen"
+  },
+  {
+   "zin": "De Raad vond genoeg reden om te twijfelen of er een afhaalbericht was achtergelaten, dus het Uwv had de burger moeten horen.",
+   "bron": [
+    32
+   ],
+   "citaat": "voldoende aanknopingspunten op grond waarvan redelijkerwijs kan worden betwijfeld dat een afhaalbericht bij haar in de brievenbus is achtergelaten"
+  },
+  {
+   "zin": "Toch bleef het besluit staan, omdat aannemelijk is dat de burger niet is benadeeld: zij kon later alsnog mondeling uitleg geven.",
+   "bron": [
+    32
+   ],
+   "citaat": "dat appellante door dit gebrek niet is benadeeld, omdat zij in beroep en hoger beroep alsnog de gelegenheid heeft gehad"
+  },
+  {
+   "zin": "Het Uwv moet wel de proceskosten van de burger betalen.",
+   "bron": [
+    41
+   ],
+   "citaat": "geeft aanleiding het Uwv te veroordelen in de proceskosten van appellante in beroep en hoger beroep"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Hoorgebrek erkend en kosten vergoed, maar besluit blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De uitkering en het dagloon blijven zoals vastgesteld; het Uwv betaalt wel € 2.721 proceskosten en € 186 griffierecht, en de schadevergoeding is afgewezen.",
+  "bron": [
+   47,
+   48,
+   46
+  ],
+  "citaat": "veroordeelt het Uwv in de proceskosten van appellante tot een bedrag van € 2.721,-"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "niet-gehoord",
+   "burger_zegt": "Zij heeft de uitnodiging niet gekregen en kon daarom haar bezwaren niet mondeling toelichten.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De Raad vond dat het Uwv haar in strijd met artikel 7:2 Awb niet in de gelegenheid had gesteld te worden gehoord.",
+    "bron": [
+     32
+    ],
+    "citaat": "in strijd met artikel 7:2 van de Algemene wet bestuursrecht (Awb), niet in de gelegenheid heeft gesteld te worden gehoord"
+   },
+   "bruikbare_zin": {
+    "citaat": "omdat zij in beroep en hoger beroep alsnog de gelegenheid heeft gehad om haar standpunten mondeling toe te lichten",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het dagloon had hoger moeten zijn en moeten uitgaan van een eerder vastgesteld uurloon.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het Uwv mocht bij gebrek aan loongegevens uitgaan van het vonnis van de kantonrechter.",
+    "bron": [
+     34
+    ],
+    "citaat": "voor de vaststelling van het dagloon niet uit had mogen gaan van dit vonnis"
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Zij wilde dat het Uwv schade vergoedt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het besluit was niet onrechtmatig, dus er is geen grondslag voor schadevergoeding.",
+    "bron": [
+     39
+    ],
+    "citaat": "Er is daarom geen grondslag om het Uwv te veroordelen tot vergoeding van schade"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een gebrek bij het horen wordt gepasseerd als aannemelijk is dat de burger er niet door is benadeeld, omdat zij in beroep en hoger beroep alsnog mondeling kon toelichten.",
+  "bron": [
+   32
+  ],
+  "citaat": "zal dit gebrek met toepassing van artikel 6:22 van de Awb worden gepasseerd",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Horen-gebrek dat daarna in beroep en hoger beroep alsnog kon worden goedgemaakt met een mondelinge toelichting",
+  "uitzondering": null,
+  "herkomst": "wet"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "track & trace-gegevens van PostNL",
+   "e-mails met PostNL"
+  ],
+  "wat_gaf_doorslag": "De burger legde stukken over waardoor redelijk te betwijfelen was dat een afhaalbericht was achtergelaten."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:CRVB:2022:1448",
+   "ECLI:NL:CRVB:2023:837"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:2 Awb",
+  "art. 6:22 Awb",
+  "art. 8:88 lid 1 onder a Awb",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Nodig de bezwaarmaker opnieuw uit voor de hoorzitting als redelijk te betwijfelen is dat een afhaalbericht van een aangetekende uitnodiging is achtergelaten",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    32
+   ],
+   "citaat": "voldoende aanknopingspunten op grond waarvan redelijkerwijs kan worden betwijfeld dat een afhaalbericht bij haar in de brievenbus is achtergelaten"
+  },
+  {
+   "actie": "Reken erop dat ook een gepasseerd horen-gebrek tot een proceskostenvergoeding kan leiden",
+   "raakt": "proceskosten-no-cure-no-pay",
+   "bron": [
+    41
+   ],
+   "citaat": "geeft aanleiding het Uwv te veroordelen in de proceskosten van appellante in beroep en hoger beroep"
+  }
+ ],
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "proceskosten-no-cure-no-pay",
+  "klantcontact"
+ ],
+ "klantuitleg": "Het bestuursorgaan moet u de kans geven uw bezwaar mondeling toe te lichten. Gebeurt dat niet, dan kan de rechter dit toch laten passeren als u er niet door is benadeeld, maar u kunt wel uw proceskosten vergoed krijgen. Kreeg u een aangetekende uitnodiging niet, maak dan aannemelijk dat u geen afhaalbericht kreeg, bijvoorbeeld met e-mails van PostNL.",
+ "zekerheid": "middel"
+}

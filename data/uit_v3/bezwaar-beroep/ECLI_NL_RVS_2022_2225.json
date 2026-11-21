@@ -1,0 +1,150 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2022:2225",
+ "relevant": true,
+ "onderwerp": "bezwaartermijn-verschoonbaar",
+ "sub": "termijn-berekening",
+ "kenmerk": "verzending-poststempel",
+ "zaaktype": "bezwaar-beroepstermijn",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Son en Breugel",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger ging in hoger beroep tegen het college van de gemeente Son en Breugel. Het ging erom of zijn beroep te laat was, omdat onduidelijk was wanneer de gemeente het besluit had verstuurd. De zaak was bij de Raad van State (Afdeling bestuursrechtspraak).",
+ "titel": "Gemeente moet bewijzen wanneer het besluit is verstuurd",
+ "kern": {
+  "zin": "De gemeente kon niet aannemelijk maken dat het besluit op 6 januari was verstuurd, dus het beroep was niet te laat.",
+  "bron": [
+   25
+  ],
+  "citaat": "De rechtbank heeft het beroep ten onrechte wegens termijnoverschrijding niet-ontvankelijk verklaard."
+ },
+ "samenvatting": [
+  {
+   "zin": "De rechtbank verklaarde het beroep niet-ontvankelijk (de rechter kijkt dan niet naar de inhoud), omdat het volgens haar te laat was.",
+   "bron": [
+    20
+   ],
+   "citaat": "Het beroepschrift is dus niet tijdig ingediend."
+  },
+  {
+   "zin": "De burger zei dat de verzenddatum op zijn kopie onduidelijk was gestempeld en dat de gemeente niet kon bewijzen dat het besluit op 6 januari was verstuurd.",
+   "bron": [
+    21
+   ],
+   "citaat": "Verder heeft het college niet aannemelijk gemaakt dat het besluit op 6 januari 2021 is verzonden."
+  },
+  {
+   "zin": "De gemeente liet een uitdraai van haar postregistratie en een e-mail van een medewerker zien.",
+   "bron": [
+    25
+   ],
+   "citaat": "een uitdraai uit het postregistratiesysteem en een e-mailbericht van een teamondersteuner van de gemeente"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente moest aantonen wanneer het besluit op de post was gedaan, omdat het niet aangetekend was verstuurd en de burger de datum betwistte.",
+   "bron": [
+    24
+   ],
+   "citaat": "Het ligt daarom op de weg van het college om aannemelijk te maken dat de terpostbezorging daadwerkelijk op die datum heeft plaatsgevonden."
+  },
+  {
+   "zin": "Volgens de rechter bewezen de stukken dat niet, want de gemeente had niet bijgehouden wanneer het besluit ter post werd aangeboden.",
+   "bron": [
+    25
+   ],
+   "citaat": "Het college heeft geen registratie van de aanbieding ter postbezorging bijgehouden."
+  },
+  {
+   "zin": "Het hoger beroep slaagt en de uitspraak van de rechtbank wordt vernietigd.",
+   "bron": [
+    27
+   ],
+   "citaat": "Het hoger beroep is gegrond. De aangevallen uitspraak wordt vernietigd."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Beroep was op tijd; de aanvraag voor planschade bleef wel afgewezen.",
+ "gevolg_betrokkene": {
+  "zin": "Het beroep telt als op tijd, maar de aanvraag om planschade (vergoeding voor waardedaling door een bestemmingsplan) bleef afgewezen. De gemeente betaalt € 1.568,78 aan proceskosten en € 270,00 griffierecht terug.",
+  "bron": [
+   43,
+   44
+  ],
+  "citaat": "opgekomen proceskosten tot een bedrag van € 1.568,78"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente heeft niet aannemelijk gemaakt dat het besluit op 6 januari is verstuurd; verzending op 8 januari was logisch.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De stukken van de gemeente lieten niet zien dat het besluit echt op die dag het gemeentehuis had verlaten.",
+    "bron": [
+     25
+    ],
+    "citaat": "niet aannemelijk gemaakt dat het besluit daadwerkelijk op 6 januari 2021 het gemeentehuis heeft verlaten"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het college heeft geen registratie van de aanbieding ter postbezorging bijgehouden",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Is een besluit niet aangetekend verstuurd en betwist de burger de verzenddatum, dan moet de gemeente aannemelijk maken wanneer het ter post is aangeboden.",
+  "type": "regel",
+  "reikwijdte": "Niet aangetekend verzonden besluiten waarvan de verzenddatum wordt betwist en voor de termijn beslissend is",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "Het ligt daarom op de weg van het college om aannemelijk te maken dat de terpostbezorging daadwerkelijk op die datum heeft plaatsgevonden."
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "uitdraai uit het postregistratiesysteem",
+   "e-mailbericht van een teamondersteuner"
+  ],
+  "wat_gaf_doorslag": "De gemeente had niet vastgelegd wanneer het besluit ter post was aangeboden."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:7 Awb",
+  "art. 6:8 lid 1 Awb",
+  "art. 6:9 lid 1 Awb",
+  "art. 6:11 Awb",
+  "art. 8:116 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij elk besluit vast wanneer het ter post is aangeboden, bijvoorbeeld met een registratie van de aanbieding",
+   "raakt": "termijnbewaking",
+   "bron": [
+    25
+   ],
+   "citaat": "Het college heeft geen registratie van de aanbieding ter postbezorging bijgehouden."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "termijnbewaking"
+ ],
+ "klantuitleg": "U heeft zes weken om bezwaar of beroep in te dienen, geteld vanaf de dag nadat de gemeente het besluit heeft verstuurd. Betwist u de verzenddatum, dan moet de gemeente aannemelijk maken wanneer het besluit op de post is gedaan. Bewaar daarom de envelop en noteer wanneer u de brief kreeg.",
+ "gemeente": "Son en Breugel",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

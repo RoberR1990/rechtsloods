@@ -1,0 +1,168 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2024:5096",
+ "relevant": true,
+ "onderwerp": "hoorplicht",
+ "sub": "gevolg-gebrek",
+ "kenmerk": "gebrek-gepasseerd",
+ "zaaktype": "hoorplicht",
+ "partijen": {
+  "burger": "bewoners",
+  "wederpartij": "gemeente Tholen (commissie van advies voor bezwaarschriften)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een groep bewoners gaat in hoger beroep tegen de gemeente Tholen bij de Raad van State. Het gaat om een bezwaarprocedure waarin de bewoners niet zijn gehoord.",
+ "titel": "Gemeente hoorde bewoners niet, maar dat veranderde de uitkomst niet",
+ "kern": {
+  "zin": "De rechter vond dat de hoorplicht was geschonden, maar liet het besluit staan omdat de bewoners daardoor niet aannemelijk zijn benadeeld.",
+  "bron": [
+   24
+  ],
+  "citaat": "Niet in geschil is dat de hoorplicht is geschonden"
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoners vroegen de bezwaarcommissie van de gemeente om stukken en een opname van een eerdere hoorzitting.",
+   "bron": [
+    18
+   ],
+   "citaat": "alle door de gemeente in die zaak aangeleverde documenten en een kopie van de audio-opname"
+  },
+  {
+   "zin": "Daarna stelden zij de commissie in gebreke (een brief dat te laat is beslist), omdat er geen beslissing kwam.",
+   "bron": [
+    19
+   ],
+   "citaat": "heeft op 6 januari 2021 de commissie in gebreke gesteld wegens het uitblijven van een beslissing"
+  },
+  {
+   "zin": "De rechtbank vond dat de commissie de ingebrekestelling terecht niet in behandeling nam, en dat de commissie de bewoners ten onrechte niet had gehoord.",
+   "bron": [
+    20,
+    21
+   ],
+   "citaat": "de commissie de ingebrekestelling terecht niet in behandeling heeft genomen"
+  },
+  {
+   "zin": "De bewoners zeiden in hoger beroep dat de rechtbank het niet horen niet had mogen passeren.",
+   "bron": [
+    22
+   ],
+   "citaat": "betoogt dat de rechtbank ten onrechte het niet horen heeft gepasseerd"
+  },
+  {
+   "zin": "De Raad van State vond dat de rechtbank dit gebrek mocht passeren, omdat de bewoners hun gronden in beroep mondeling konden toelichten.",
+   "bron": [
+    24
+   ],
+   "citaat": "heeft de rechtbank dit gebrek evenwel mogen passeren met toepassing van artikel 6:22 van de Awb"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    29
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak moet worden bevestigd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoorplicht geschonden, maar gebrek gepasseerd; hoger beroep ongegrond.",
+ "gevolg_betrokkene": {
+  "zin": "De bewoners krijgen geen gelijk en de gemeente hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   29,
+   30
+  ],
+  "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak moet worden bevestigd."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "niet-gehoord",
+   "burger_zegt": "Door het niet horen zijn de bezwaren niet besproken, dus het besluit is onrechtmatig.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het gebrek mocht blijven staan, want de bewoners konden hun gronden in beroep mondeling toelichten.",
+    "bron": [
+     24
+    ],
+    "citaat": "heeft de rechtbank dit gebrek evenwel mogen passeren met toepassing van artikel 6:22 van de Awb"
+   },
+   "bruikbare_zin": {
+    "citaat": "in beroep de mogelijkheid gehad zijn gronden mondeling toe te lichten",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De brief met het verzoek om stukken was een verzoek op grond van de Wob (openbaarheid van bestuur).",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter volgde een eerdere uitspraak: de brief is geen Wob-verzoek en ook geen aanvraag.",
+    "bron": [
+     27
+    ],
+    "citaat": "geen Wob-verzoek is en ook anderszins niet is aan te merken als een aanvraag"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen Wob-verzoek is en ook anderszins niet is aan te merken als een aanvraag",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een besluit mag blijven staan ondanks een geschonden rechtsregel, als aannemelijk is dat de burger daardoor niet is benadeeld.",
+  "type": "regel",
+  "reikwijdte": "Alle gevallen waarin een rechtsregel is geschonden, ook de hoorplicht in bezwaar.",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   23
+  ],
+  "citaat": "kan een besluit waartegen beroep is ingesteld, ondanks schending van een geschreven of ongeschreven rechtsregel"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "toelichting op de zitting van de rechtbank"
+  ],
+  "wat_gaf_doorslag": "De bewoners konden hun gronden in beroep mondeling toelichten en deden dat ook."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2023:2777",
+   "ECLI:NL:RVS:2020:1268"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 6:22 Awb",
+  "art. 1:3 lid 3 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Ga in de beslissing op bezwaar in op wat de bezwaarmaker zegt, ook als u twijfelt of de brief een aanvraag is.",
+   "raakt": "besluitvorming-motivering",
+   "bron": [
+    24
+   ],
+   "citaat": "De commissie is in het besluit van 29 juli 2021 hierop ingegaan."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "besluitvorming-motivering"
+ ],
+ "klantuitleg": "Hoort de gemeente u niet in bezwaar terwijl dat wel moest, dan is het besluit niet vanzelf weg. De rechter kan het gebrek laten rusten als u er niet door benadeeld bent, bijvoorbeeld omdat u uw standpunt later nog mondeling kon toelichten. Zet daarom uw bezwaren zo volledig mogelijk op papier en licht ze toe bij de rechter.",
+ "gemeente": "Tholen",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

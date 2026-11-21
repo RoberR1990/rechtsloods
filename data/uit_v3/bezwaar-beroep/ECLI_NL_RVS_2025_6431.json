@@ -1,0 +1,161 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "dubbel_van": null,
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": null,
+ "ecli": "ECLI:NL:RVS:2025:6431",
+ "onderwerp": "bezwaartermijn-verschoonbaar",
+ "sub": "verschoonbaar",
+ "kenmerk": "ziekte-persoonlijk",
+ "zaaktype": "bezwaar-beroepstermijn",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Roosendaal",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger staat tegenover het college van de gemeente Roosendaal bij de Raad van State, in hoger beroep. Het gaat om een bezwaar dat te laat was ingediend.",
+ "titel": "Te laat bezwaar blijft te laat zonder stukken",
+ "kern": {
+  "zin": "De rechter vindt de termijnoverschrijding niet verschoonbaar, omdat de burger niet met stukken liet zien dat zij de hele bezwaartermijn niet kon handelen.",
+  "bron": [
+   23
+  ],
+  "citaat": "Alleen al om deze reden is de termijnoverschrijding niet verschoonbaar"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het besluit werd op 8 mei 2023 verstuurd en de laatste dag voor bezwaar was 19 juni 2023, maar de gemachtigde diende pas op 7 juli 2023 bezwaar in.",
+   "bron": [
+    23
+   ],
+   "citaat": "De laatste dag waarop bezwaar kon worden gemaakt was 19 juni 2023"
+  },
+  {
+   "zin": "De burger zei dat zij zich door haar persoonlijke situatie niet had gerealiseerd dat bezwaar mogelijk was.",
+   "bron": [
+    22
+   ],
+   "citaat": "niet gerealiseerd dat er een bezwaarmogelijkheid was tegen het besluit"
+  },
+  {
+   "zin": "De gemeente verklaarde het bezwaar niet-ontvankelijk (niet behandeld) en de rechtbank vond de termijnoverschrijding niet verschoonbaar.",
+   "bron": [
+    20
+   ],
+   "citaat": "De rechtbank heeft geoordeeld dat de termijnoverschrijding niet verschoonbaar was"
+  },
+  {
+   "zin": "De rechter volgt de rechtbank: de burger onderbouwde met geen enkel (medisch) stuk dat zij de hele termijn niet kon handelen.",
+   "bron": [
+    23
+   ],
+   "citaat": "niet met (medische) stukken onderbouwd dat [appellante] gedurende de hele bezwaartermijn niet in staat is geweest"
+  },
+  {
+   "zin": "Ook was het bezwaar niet zo snel ingediend als verwacht kon worden, want de gemachtigde had voorlopig bezwaar kunnen maken.",
+   "bron": [
+    24
+   ],
+   "citaat": "Hij had ook meteen in elk geval pro forma bezwaar kunnen maken"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    26
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De Afdeling bevestigt de uitspraak van de rechtbank."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Te laat bezwaar niet verschoonbaar; bezwaar blijft niet-ontvankelijk",
+ "gevolg_betrokkene": {
+  "zin": "Het bezwaar wordt niet inhoudelijk behandeld en de gemeente hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   27
+  ],
+  "citaat": "Het college hoeft geen proceskosten te vergoeden."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-te-laat",
+   "burger_zegt": "Mijn bezwaar kwam te laat door mijn persoonlijke situatie, maar dat is verschoonbaar.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Zonder stukken die laten zien dat de burger de hele termijn niet kon handelen, is de overschrijding niet verschoonbaar.",
+    "bron": [
+     23
+    ],
+    "citaat": "Alleen al om deze reden is de termijnoverschrijding niet verschoonbaar"
+   },
+   "bruikbare_zin": {
+    "citaat": "gedurende de hele bezwaartermijn niet in staat is geweest om tijdig een, eventueel voorlopig, bezwaarschrift in te dienen",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "termijn-te-laat",
+   "burger_zegt": "Mijn gemachtigde maakte bezwaar nadat ik hem had geïnformeerd, dus dat moet als tijdig gelden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De keuze van de gemachtigde om later bezwaar te maken komt voor risico van de burger.",
+    "bron": [
+     24
+    ],
+    "citaat": "Deze keuze van de gemachtigde komt voor risico van [appellante]"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie te laat bezwaar maakt, moet met stukken laten zien dat hij de hele bezwaartermijn niet kon handelen; algemene klachten zijn niet genoeg.",
+  "bron": [
+   23
+  ],
+  "citaat": "niet met (medische) stukken onderbouwd dat [appellante] gedurende de hele bezwaartermijn niet in staat is geweest",
+  "type": "regel",
+  "reikwijdte": "Te late bezwaren waarin de burger persoonlijke omstandigheden aanvoert.",
+  "uitzondering": "Bijzondere omstandigheden die de burger zelf betreffen, kunnen de overschrijding wel verschoonbaar maken.",
+  "herkomst": "oordeel rechter"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "medische stukken"
+  ],
+  "wat_gaf_doorslag": "Algemeen gestelde klachten zonder stukken voor de hele bezwaartermijn."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:CBB:2024:31",
+   "ECLI:NL:CBB:2024:32",
+   "ECLI:NL:CBB:2024:33",
+   "ECLI:NL:CBB:2024:34"
+  ]
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij een te laat bezwaar om (medische) stukken die laten zien dat de burger de hele bezwaartermijn niet kon handelen.",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    23
+   ],
+   "citaat": "niet met (medische) stukken onderbouwd dat [appellante] gedurende de hele bezwaartermijn niet in staat is geweest"
+  }
+ ],
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "termijnbewaking",
+  "klantcontact"
+ ],
+ "klantuitleg": "Komt uw bezwaar na de bezwaartermijn binnen, dan wordt het meestal niet behandeld. Hebt u een zwaarwegende reden, zoals ziekte, dan moet u met stukken laten zien dat u de hele termijn niet kon handelen. Dien liever binnen de termijn een kort, voorlopig bezwaar in en vul het later aan.",
+ "gemeente": "Roosendaal",
+ "zekerheid": "hoog"
+}

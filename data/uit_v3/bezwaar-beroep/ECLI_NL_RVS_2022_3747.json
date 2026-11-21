@@ -1,0 +1,179 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2022:3747",
+ "relevant": true,
+ "onderwerp": "bezwaartermijn-verschoonbaar",
+ "sub": "verschoonbaar",
+ "kenmerk": "ziekte-persoonlijk",
+ "zaaktype": "bezwaar-beroepstermijn",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Heerde (de gemeenteraad)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner stelde beroep in tegen een bestemmingsplan van de gemeente Heerde. De bewoner procedeert tegen de gemeenteraad bij de Raad van State, Afdeling bestuursrechtspraak.",
+ "titel": "Beroep te laat: ziekte telt hier niet als goede reden",
+ "kern": {
+  "zin": "De rechter vond het beroep te laat en liet de ziekte niet als goede reden gelden; het beroep is niet-ontvankelijk (de rechter kijkt niet naar de inhoud).",
+  "bron": [
+   25
+  ],
+  "citaat": "De Afdeling is van oordeel dat het beroepschrift niet verschoonbaar te laat is ingediend."
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeenteraad stelde een bestemmingsplan vast dat 15 appartementen mogelijk maakt.",
+   "bron": [
+    18
+   ],
+   "citaat": "Het bestemmingsplan maakt het realiseren van 15 appartementen mogelijk."
+  },
+  {
+   "zin": "De termijn voor beroep liep tot en met 3 augustus 2022, maar het beroepschrift kwam twee dagen later binnen.",
+   "bron": [
+    23
+   ],
+   "citaat": "De termijn voor het instellen van beroep tegen het besluit van 30 mei 2022 liep tot en met 3 augustus 2022."
+  },
+  {
+   "zin": "De burger zei dat zij ziek was en het beroepschrift niet eerder kon overhandigen.",
+   "bron": [
+    24
+   ],
+   "citaat": "heeft zij aangevoerd dat zij ziek was en niet in staat het beroepschrift eerder te overhandigen"
+  },
+  {
+   "zin": "De gemeente zei dat er geen bewijs was dat de burger op 3 augustus aan de balie was.",
+   "bron": [
+    26
+   ],
+   "citaat": "Er is geen bewijs dat [appellante] ook op 3 augustus 2022 aan de balie in het gemeentehuis is geweest."
+  },
+  {
+   "zin": "De rechter vond dat de burger zelf moet zorgen dat een beroepschrift ook bij ziekte op tijd binnenkomt, bijvoorbeeld via een ander.",
+   "bron": [
+    28
+   ],
+   "citaat": "Het behoort tot de eigen verantwoordelijkheid van de indiener van een beroepschrift om er zorg voor te dragen"
+  },
+  {
+   "zin": "Het beroep is daarom niet-ontvankelijk.",
+   "bron": [
+    31
+   ],
+   "citaat": "Het beroep is niet-ontvankelijk."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep te laat; geen goede reden voor de termijnoverschrijding.",
+ "gevolg_betrokkene": {
+  "zin": "De burger kan niet meer tegen het bestemmingsplan procederen; de gemeente hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   32
+  ],
+  "citaat": "De raad hoeft geen proceskosten te vergoeden."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-te-laat",
+   "burger_zegt": "De burger was ziek en kon het beroepschrift niet eerder overhandigen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Bij ziekte moet de indiener zelf zorgen dat de termijn gehaald wordt, bijvoorbeeld door een ander in te schakelen.",
+    "bron": [
+     28
+    ],
+    "citaat": "Het behoort tot de eigen verantwoordelijkheid van de indiener van een beroepschrift om er zorg voor te dragen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het behoort tot de eigen verantwoordelijkheid van de indiener van een beroepschrift",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "termijn-te-laat",
+   "burger_zegt": "De burger zei dat zij op 3 en 4 augustus aan de balie was en naar huis werd gestuurd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er was geen bewijs dat zij die dagen aan de balie was; alleen op 5 augustus is dat genoteerd.",
+    "bron": [
+     26
+    ],
+    "citaat": "heeft, ook na een verzoek daartoe, niet anderszins aannemelijk gemaakt dat zij op 3 of 4 augustus 2022 aan de balie is geweest"
+   },
+   "bruikbare_zin": {
+    "citaat": "Er is geen bewijs dat [appellante] ook op 3 augustus 2022 aan de balie in het gemeentehuis is geweest.",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De publicatie van het plan was onjuist en er stond geen uitleg over beroep in.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger kreeg het plan op papier en wist binnen de termijn waar het over ging.",
+    "bron": [
+     29
+    ],
+    "citaat": "Dat betekent dat zij binnen de beroepstermijn op de hoogte was van de inhoud van het vastgestelde bestemmingsplan."
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Ook bij ziekte moet de indiener zelf zorgen dat het beroepschrift op tijd binnenkomt, bijvoorbeeld door een ander in te schakelen.",
+  "type": "regel",
+  "reikwijdte": "Te late indiening van een beroepschrift door ziekte van de indiener.",
+  "uitzondering": "Anders als aannemelijk is dat er geen mogelijkheid was om de belangen te laten behartigen.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   28
+  ],
+  "citaat": "Het behoort tot de eigen verantwoordelijkheid van de indiener van een beroepschrift om er zorg voor te dragen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "notitie van bezoek aan de balie",
+   "telefoonnotitie"
+  ],
+  "wat_gaf_doorslag": "Er was geen bewijs dat de burger op 3 of 4 augustus aan de balie was."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2021:60"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 6:15 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Maak van elk bezoek aan de balie een notitie, zodat later te bewijzen is wie wanneer langskwam",
+   "raakt": "klantcontact",
+   "bron": [
+    26
+   ],
+   "citaat": "wanneer iemand aan de balie komt, hiervan een notitie wordt gemaakt waarin expliciet staat dat de desbetreffende persoon"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "termijnbewaking",
+  "klantcontact",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "Komt uw beroep of bezwaar te laat binnen omdat u ziek was, dan is dat meestal geen goede reden. U moet dan zelf iemand anders inschakelen. Dien daarom op tijd in, en bewaar bewijs, zoals een notitie of bericht, van elk contact met de gemeente.",
+ "gemeente": "Heerde",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

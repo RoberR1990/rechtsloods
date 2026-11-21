@@ -1,0 +1,160 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente niet partij",
+ "dubbel_van": null,
+ "reden_leeg_actie": null,
+ "ecli": "ECLI:NL:CRVB:2025:628",
+ "onderwerp": "hoorplicht",
+ "sub": "afzien-van-horen",
+ "kenmerk": "kennelijk-ongegrond",
+ "zaaktype": "hoorplicht",
+ "partijen": {
+  "burger": "burger met een eigen bijdrage voor zorg",
+  "wederpartij": "CAK",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger kreeg een rekening voor een eigen bijdrage voor zorg en wilde daarvan worden vrijgesteld. Het CAK zag in bezwaar af van een hoorzitting en de Centrale Raad van Beroep (de hoogste rechter voor uitkeringszaken) beoordeelde dat in hoger beroep.",
+ "titel": "Geen hoorzitting nodig als bezwaar duidelijk niet kan slagen",
+ "kern": {
+  "zin": "De Raad vond dat het CAK mocht afzien van horen, omdat meteen duidelijk was dat het bezwaar ongegrond was.",
+  "bron": [
+   34
+  ],
+  "citaat": "mocht afzien van het horen in bezwaar. Het hoger beroep slaagt dus niet"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het CAK wees de vrijstelling af en zag in bezwaar af van een hoorzitting.",
+   "bron": [
+    21
+   ],
+   "citaat": "heeft het CAK afgezien van het horen in bezwaar, omdat er redelijkerwijs geen twijfel over mogelijk was"
+  },
+  {
+   "zin": "De burger vond dat het CAK niet van horen mocht afzien, omdat het bezwaar niet zo duidelijk ongegrond was.",
+   "bron": [
+    29
+   ],
+   "citaat": "dat het CAK niet mocht afzien van het horen in bezwaar"
+  },
+  {
+   "zin": "Het CAK vond dat de inkomensgegevens klopten.",
+   "bron": [
+    21
+   ],
+   "citaat": "De inkomensgegevens waarvan het CAK is uitgegaan, kloppen immers"
+  },
+  {
+   "zin": "Volgens de Raad is een bezwaar kennelijk ongegrond als uit het bezwaarschrift direct blijkt dat de bezwaren niet slagen.",
+   "bron": [
+    28
+   ],
+   "citaat": "Van een kennelijk ongegrond bezwaar is sprake als uit het bezwaarschrift direct al blijkt dat de bezwaren ongegrond zijn"
+  },
+  {
+   "zin": "De burger had niet bestreden dat het CAK van de juiste inkomensgegevens uitging.",
+   "bron": [
+    30
+   ],
+   "citaat": "is in het geheel niet bestreden dat het CAK van juiste inkomensgegevens is uitgegaan"
+  },
+  {
+   "zin": "Het CAK mocht dus afzien van horen en het hoger beroep slaagt niet.",
+   "bron": [
+    34
+   ],
+   "citaat": "mocht afzien van het horen in bezwaar. Het hoger beroep slaagt dus niet"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Afzien van horen was toegestaan; bezwaar kennelijk ongegrond",
+ "gevolg_betrokkene": {
+  "zin": "De afwijzing van de vrijstelling blijft staan en de burger krijgt geen vergoeding van proceskosten en griffierecht.",
+  "bron": [
+   34,
+   35
+  ],
+  "citaat": "Dit betekent dat het bestreden besluit in stand blijft"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "niet-gehoord",
+   "burger_zegt": "Het CAK mocht niet afzien van horen, want het bezwaar was niet kennelijk ongegrond.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er kon redelijkerwijs geen twijfel bestaan dat het bezwaar ongegrond was.",
+    "bron": [
+     30
+    ],
+    "citaat": "Hierdoor kon er redelijkerwijs geen twijfel over bestaan dat het bezwaar ongegrond was"
+   },
+   "bruikbare_zin": {
+    "citaat": "Van een kennelijk ongegrond bezwaar is sprake als uit het bezwaarschrift direct al blijkt dat de bezwaren ongegrond zijn",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het CAK had in bezwaar moeten beoordelen of het met een correctiefactuur al was tegemoetgekomen, en dat had besproken kunnen worden op een hoorzitting.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Van tegemoetkomen was duidelijk geen sprake, gelet op het latere besluit.",
+    "bron": [
+     32
+    ],
+    "citaat": "dat sprake was van tegemoetkomen is duidelijk niet het geval, gelet op het besluit van 29 juli 2022"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bezwaar is kennelijk ongegrond als uit het bezwaarschrift direct blijkt dat de bezwaren ongegrond zijn en daar redelijkerwijs geen twijfel over kan bestaan.",
+  "bron": [
+   28
+  ],
+  "citaat": "Van een kennelijk ongegrond bezwaar is sprake als uit het bezwaarschrift direct al blijkt dat de bezwaren ongegrond zijn",
+  "type": "regel",
+  "reikwijdte": "Afzien van horen in bezwaar op grond van artikel 7:3 onder b Awb",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "inkomensgegevens",
+   "bezwaarschrift en aanvullend bezwaarschrift"
+  ],
+  "wat_gaf_doorslag": "De burger bestreed de inkomensgegevens niet in het bezwaarschrift."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 7:3 aanhef en onder b Awb",
+  "art. 3.3.2.2 lid 9 Blz",
+  "art. 23 Participatiewet"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zie alleen van horen af als uit het bezwaarschrift direct blijkt dat het bezwaar ongegrond is en daar geen redelijke twijfel over bestaat",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    28
+   ],
+   "citaat": "Van een kennelijk ongegrond bezwaar is sprake als uit het bezwaarschrift direct al blijkt dat de bezwaren ongegrond zijn"
+  }
+ ],
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "besluitvorming-motivering"
+ ],
+ "klantuitleg": "Een bestuursorgaan hoeft u niet altijd te horen. Het mag dat overslaan als meteen duidelijk is dat uw bezwaar niet kan slagen, bijvoorbeeld omdat u de gegevens waar het besluit op rust niet betwist. Wilt u wel gehoord worden, schrijf dan in uw bezwaarschrift concreet welke gegevens volgens u niet kloppen.",
+ "zekerheid": "hoog"
+}

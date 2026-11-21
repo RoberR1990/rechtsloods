@@ -1,0 +1,188 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:12656",
+ "relevant": true,
+ "onderwerp": "hoorplicht",
+ "sub": "horen-verplicht",
+ "kenmerk": "hoorplicht-geschonden",
+ "zaaktype": "hoorplicht",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Molenlanden",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner procedeert tegen de gemeente Molenlanden bij de rechtbank Rotterdam. Het gaat om een verzoek om extra geluidsregels voor een boerenbedrijf naast zijn huis, dat de gemeente afwees.",
+ "titel": "Alleen schriftelijk horen mag niet: beroep gegrond, dwangsom toegekend",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente de bewoner in bezwaar ook mondeling had moeten horen, en dat de gemeente een dwangsom moest betalen; de afwijzing zelf bleef in stand.",
+  "bron": [
+   31
+  ],
+  "citaat": "niet toelaten dat een bestuursorgaan de belanghebbende de gelegenheid onthoudt om in persoon te worden gehoord"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente wees het verzoek van de bewoner af. Zij hoorde hem in bezwaar alleen schriftelijk.",
+   "bron": [
+    30
+   ],
+   "citaat": "Eiser voert aan dat het horen schriftelijk heeft plaatsgevonden en dat dit in strijd is"
+  },
+  {
+   "zin": "De bewoner zei dat hij in bezwaar ook gehoord wilde worden.",
+   "bron": [
+    30
+   ],
+   "citaat": "Eiser heeft in zijn bezwaarschrift nadrukkelijk aangegeven gehoord te willen worden."
+  },
+  {
+   "zin": "De gemeente had uitleg waarom alleen schriftelijk gehoord werd, maar de rechter vond dat niet voldoende.",
+   "bron": [
+    31
+   ],
+   "citaat": "De toelichting van het college waarom eiser destijds alleen nog schriftelijk werd gehoord, doet aan het vorenstaande niet af."
+  },
+  {
+   "zin": "De gemeente besliste ook niet op het bezwaar over de dwangsom (een vast bedrag per dag dat de gemeente betaalt als zij te laat beslist). De rechter vond dat ongeldig.",
+   "bron": [
+    43
+   ],
+   "citaat": "In het bestreden besluit heeft het college over dit onderwerp geen beslissing genomen op het bezwaar van eiser."
+  },
+  {
+   "zin": "De rechter stelde de dwangsom zelf vast op het maximum, omdat de gemeente veel te laat besliste.",
+   "bron": [
+    45
+   ],
+   "citaat": "moet de dwangsom worden vastgesteld op het maximale bedrag van € 1.442,-."
+  },
+  {
+   "zin": "De afwijzing van het verzoek zelf bleef in stand, omdat de gemeente die in redelijkheid mocht afwijzen.",
+   "bron": [
+    53
+   ],
+   "citaat": "de rechtsgevolgen van het bestreden besluit voor het overige met toepassing van artikel 8:72"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Hoorplicht geschonden en dwangsom toegekend; afwijzing van het verzoek blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner krijgt een dwangsom van 1.442 euro en 184 euro griffierecht terug; de afwijzing van zijn verzoek blijft gelden en schadevergoeding en proceskosten krijgt hij in deze zaak niet.",
+  "bron": [
+   63
+  ],
+  "citaat": "bepaalt dat het college het griffierecht van € 184,- aan eiser moet vergoeden."
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "niet-gehoord",
+   "burger_zegt": "De gemeente hoorde mij alleen schriftelijk, terwijl ik gehoord wilde worden.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter zegt dat de wet niet toelaat dat de gemeente iemand de kans onthoudt om in persoon gehoord te worden.",
+    "bron": [
+     31
+    ],
+    "citaat": "niet toelaten dat een bestuursorgaan de belanghebbende de gelegenheid onthoudt om in persoon te worden gehoord"
+   },
+   "bruikbare_zin": {
+    "citaat": "het categorisch uitsluiten van het fysiek horen van eiser geen recht doet aan het specifieke, op de bestuurlijke heroverweging gerichte belang van de hoorplicht",
+    "bron": [
+     31
+    ]
+   }
+  },
+  {
+   "arg": "niet-tijdig-beslist",
+   "burger_zegt": "De gemeente beslist te laat op mijn aanvraag, dus ik krijg een dwangsom.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente beslistte pas na meer dan 42 dagen na de geldige ingebrekestelling, dus het maximum is verschuldigd.",
+    "bron": [
+     45
+    ],
+    "citaat": "Omdat de beslissing op eisers verzoek is genomen nadat er meer dan 42 dagen zijn verstreken"
+   }
+  },
+  {
+   "arg": "ingebrekestelling-onjuist",
+   "burger_zegt": "Mijn ingebrekestelling bij het te late besluit op bezwaar was niet te vroeg, dus er is een dwangsom.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De ingebrekestelling kwam te vroeg, omdat de gemeente de beslistermijn nog op tijd had verlengd.",
+    "bron": [
+     40
+    ],
+    "citaat": "Dat betekent dat eisers ingebrekestelling van 22 augustus 2023 prematuur is."
+   },
+   "bruikbare_zin": {
+    "citaat": "is een ingebrekestelling die prematuur is, geen ingebrekestelling in de zin van artikel 4:17 van de Awb",
+    "bron": [
+     40
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Het bestuursorgaan mag de bezwaarmaker niet de kans ontnemen om in persoon te worden gehoord, tenzij een uitzondering van art. 7:3 Awb geldt.",
+  "type": "regel",
+  "reikwijdte": "Bezwaarmaker die in bezwaar gehoord wil worden en voor wie geen afzien-reden van art. 7:3 Awb geldt",
+  "uitzondering": "Horen kan achterwege blijven in de gevallen van artikel 7:3 Awb",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   31
+  ],
+  "citaat": "niet toelaten dat een bestuursorgaan de belanghebbende de gelegenheid onthoudt om in persoon te worden gehoord"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2019:2416"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:2 Awb",
+  "art. 7:3 Awb",
+  "art. 7:10 Awb",
+  "art. 4:13 Awb",
+  "art. 4:17 Awb",
+  "art. 8:72 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Nodig een bezwaarmaker die gehoord wil worden uit voor een gesprek in persoon en houd het niet bij schriftelijk horen",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    31
+   ],
+   "citaat": "niet in de gelegenheid is gesteld om fysiek te worden gehoord"
+  },
+  {
+   "actie": "Neem in de beslissing op bezwaar ook een besluit over een dwangsom waar de bezwaarmaker over klaagt",
+   "raakt": "besluitvorming-motivering",
+   "bron": [
+    43
+   ],
+   "citaat": "Dit is in strijd met het motiveringsbeginsel (artikel 7:12, eerste lid, van de Awb)."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "besluitvorming-motivering",
+  "termijnbewaking"
+ ],
+ "klantuitleg": "Wilt u in bezwaar gehoord worden, dan mag de gemeente u niet alleen schriftelijk laten reageren, behalve in een paar vaste uitzonderingen. Beslist de gemeente te laat, dan kan zij een dwangsom (een bedrag per dag) moeten betalen, maar dan moet u haar eerst op het juiste moment schriftelijk aanmanen. Vraag in uw bezwaarschrift dus duidelijk om een hoorzitting.",
+ "gemeente": "Molenlanden",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

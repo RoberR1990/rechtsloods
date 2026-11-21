@@ -1,0 +1,157 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:CRVB:2019:1522",
+ "relevant": true,
+ "onderwerp": "dwangsom-niet-tijdig",
+ "sub": "hoogte-maximum",
+ "kenmerk": "berekening-dagen",
+ "zaaktype": "dwangsom-niet-tijdig",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger gaat in hoger beroep tegen de gemeente Rotterdam bij de Centrale Raad van Beroep. Hij vindt dat de dwangsom (een bedrag per dag bij een te late beslissing) te laag is vastgesteld.",
+ "titel": "Dwangsom loopt door tot het besluit echt bekend is gemaakt",
+ "kern": {
+  "zin": "De dwangsom stopt pas als het besluit bekend is gemaakt; kon de gemeente de verzending niet aantonen, dan telt de dag dat de burger ervan wist.",
+  "bron": [
+   30
+  ],
+  "citaat": "dient in dit verband te worden verstaan de bekendmaking van de beschikking"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger stelde de gemeente in gebreke en vroeg om de verschuldigde dwangsommen.",
+   "bron": [
+    19
+   ],
+   "citaat": "Bij brief van 4 mei 2016 heeft appellant het college in gebreke gesteld en verzocht om de verschuldigde dwangsommen te voldoen"
+  },
+  {
+   "zin": "De gemeente kende een dwangsom toe over de periode tot de datum van de beslissing op bezwaar.",
+   "bron": [
+    22
+   ],
+   "citaat": "heeft het college naar aanleiding van de in 1.4 genoemde ingebrekestelling een dwangsom van € 280,- toegekend"
+  },
+  {
+   "zin": "De burger zei dat niet vaststond dat het besluit op 1 juni 2016 was verzonden.",
+   "bron": [
+    27
+   ],
+   "citaat": "Ten onrechte heeft de rechtbank niet vastgesteld of het besluit daadwerkelijk op 1 juni 2016 is verzonden"
+  },
+  {
+   "zin": "De gemeente gaf toe dat zij niet aannemelijk kon maken dat zij het besluit op die dag had verstuurd.",
+   "bron": [
+    33
+   ],
+   "citaat": "erkend dat het de verzending van het besluit van 1 juni 2016 op die datum niet aannemelijk kan maken"
+  },
+  {
+   "zin": "De rechter zegt dat een besluit pas is gegeven op het moment dat het bekend wordt gemaakt.",
+   "bron": [
+    30
+   ],
+   "citaat": "dient in dit verband te worden verstaan de bekendmaking van de beschikking"
+  },
+  {
+   "zin": "De dwangsom loopt daarom tot 27 juni 2016, omdat de burger het besluit pas op 28 juni 2016 kende.",
+   "bron": [
+    34
+   ],
+   "citaat": "het college een dwangsom verschuldigd is over de periode van 19 mei 2016 tot en met 27 juni 2016"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Hogere dwangsom; nabetaling, proceskosten en griffierecht",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt een dwangsom van € 1.220,- (€ 940,- erbij), € 512,- proceskosten en € 170,- griffierecht vergoed.",
+  "bron": [
+   34,
+   36,
+   45
+  ],
+  "citaat": "moet een nabetaling volgen ter hoogte van € 940,-"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het besluit is niet op 1 juni 2016 verzonden, dus de dwangsom is te laag vastgesteld.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente kon de verzending niet aannemelijk maken, dus er was geen bekendmaking op 1 juni 2016.",
+    "bron": [
+     33
+    ],
+    "citaat": "Dat betekent dat aangenomen moet worden dat geen bekendmaking daarvan heeft plaatsgevonden als voorgeschreven in artikel 3:41 van de Awb."
+   },
+   "bruikbare_zin": {
+    "citaat": "bepalend is wanneer de beschikking op de aanvraag is gegeven",
+    "bron": [
+     30
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor de dwangsom is bepalend wanneer het besluit is gegeven, en dat is de dag van bekendmaking.",
+  "type": "regel",
+  "reikwijdte": "Dwangsom wegens niet tijdig beslissen op een aanvraag",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   30
+  ],
+  "citaat": "bepalend is wanneer de beschikking op de aanvraag is gegeven"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verzendregistratie van een koeriersbedrijf"
+  ],
+  "wat_gaf_doorslag": "De gemeente kon niet aannemelijk maken dat het besluit op 1 juni 2016 was verzonden."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 4:17 lid 1 en 2 Awb",
+  "art. 4:18 Awb",
+  "art. 4:19 lid 1 Awb",
+  "art. 3:41 lid 1 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg de verzending van elke beslissing vast, zodat u de dag van bekendmaking kunt aantonen",
+   "raakt": "termijnbewaking",
+   "bron": [
+    33
+   ],
+   "citaat": "erkend dat het de verzending van het besluit van 1 juni 2016 op die datum niet aannemelijk kan maken"
+  },
+  {
+   "actie": "Reken de dwangsom door tot de dag van bekendmaking van het besluit, niet tot de dagtekening",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    33
+   ],
+   "citaat": "kan daarom niet worden uitgegaan van de dagtekening 1 juni 2016 van de beslissing op bezwaar"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "termijnbewaking",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "Beslist de gemeente te laat, dan kunt u een bedrag per dag krijgen (een dwangsom), tot een maximum. Dit loopt door tot u het besluit hebt gekregen; kan de gemeente niet laten zien dat zij het besluit op tijd heeft verstuurd, dan telt de dag dat u ervan wist. Denkt u dat het bedrag te laag is, maak dan bezwaar of ga in beroep en geef aan wanneer u het besluit kreeg.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

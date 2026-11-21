@@ -1,0 +1,157 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "ecli": "ECLI:NL:RBROT:2026:7384",
+ "onderwerp": "bezwaartermijn-verschoonbaar",
+ "sub": "niet-ontvankelijk-te-laat",
+ "kenmerk": "bezwaar-te-laat",
+ "zaaktype": "bezwaar-beroepstermijn",
+ "partijen": {
+  "burger": "gebruiker van een onroerende zaak",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een gebruiker van een onroerende zaak maakte te laat bezwaar tegen een gemeentelijke aanslag. De gemeente Rotterdam nam het bezwaar niet in behandeling en de burger ging daartegen in beroep bij de rechtbank Rotterdam.",
+ "titel": "Bezwaar te laat: vertrouwen op de eigenaar is geen goede reden",
+ "kern": {
+  "zin": "De rechter vindt het bezwaar terecht niet behandeld, omdat de burger te laat was en geen goede reden had.",
+  "bron": [
+   19
+  ],
+  "citaat": "is geen goede reden voor de termijnoverschrijding. Eiseres had zelf tijdig bezwaar kunnen maken"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente kreeg het bezwaar tegen een besluit van 27 februari 2024 pas op 26 juni 2024.",
+   "bron": [
+    16
+   ],
+   "citaat": "heeft het bezwaarschrift van eiseres tegen het besluit van 27 februari 2024 ontvangen op 26 juni 2024"
+  },
+  {
+   "zin": "De burger zei dat zij ervan uitging dat de eigenaar het zou regelen en pas bezwaar maakte na een aanmaning.",
+   "bron": [
+    17
+   ],
+   "citaat": "Eiseres ging ervan uit dat de eigenaar het verder zou regelen"
+  },
+  {
+   "zin": "De gemeente nam het bezwaar niet in behandeling, omdat het te laat was en een goede reden ontbrak.",
+   "bron": [
+    16
+   ],
+   "citaat": "niet is gebleken dat eiseres een goede reden had voor de termijnoverschrijding"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente dat terecht deed: de laatste dag van de termijn was 9 april 2024.",
+   "bron": [
+    19
+   ],
+   "citaat": "De laatste dag van de bezwaartermijn was 9 april 2024 en de heffingsambtenaar heeft het bezwaar daarna ontvangen"
+  },
+  {
+   "zin": "Vertrouwen op de eigenaar was volgens de rechter geen goede reden, want de burger had zelf bezwaar kunnen maken.",
+   "bron": [
+    19
+   ],
+   "citaat": "is geen goede reden voor de termijnoverschrijding. Eiseres had zelf tijdig bezwaar kunnen maken"
+  },
+  {
+   "zin": "Over de vraag of de aanslag zelf klopte, oordeelde de rechter daarom niet.",
+   "bron": [
+    20
+   ],
+   "citaat": "komt de rechtbank niet toe aan de vraag of de heffingsambtenaar terecht een aanslag onroerendezaakbelasting"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Bezwaar te laat zonder goede reden; beroep ongegrond",
+ "gevolg_betrokkene": {
+  "zin": "De aanslag blijft staan, omdat de rechter niet naar de inhoud kijkt, en de burger krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   22,
+   23
+  ],
+  "citaat": "Het beroep is ongegrond."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-te-laat",
+   "burger_zegt": "Ik ging ervan uit dat de eigenaar het zou regelen, dus mijn te late bezwaar is te verontschuldigen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger had zelf op tijd bezwaar kunnen maken.",
+    "bron": [
+     19
+    ],
+    "citaat": "Eiseres had zelf tijdig bezwaar kunnen maken"
+   },
+   "bruikbare_zin": {
+    "citaat": "is geen goede reden voor de termijnoverschrijding",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De aanslag voor gebruikers van een niet-woning had mij niet opgelegd mogen worden.",
+   "oordeel": "niet beoordeeld",
+   "waarom": {
+    "zin": "De rechter ging hier niet op in, omdat het bezwaar al te laat was.",
+    "bron": [
+     20
+    ],
+    "citaat": "De rechtbank laat de argumenten die eiseres daarover heeft aangevoerd daarom buiten beschouwing"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Vertrouwen op een ander die de aanslag zou regelen is geen goede reden voor een te laat bezwaar; de burger kon zelf tijdig bezwaar maken.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Gebruiker die erop vertrouwt dat de eigenaar van de zaak de aanslag regelt",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "is geen goede reden voor de termijnoverschrijding. Eiseres had zelf tijdig bezwaar kunnen maken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "gebruikersovereenkomst met de eigenaar"
+  ],
+  "wat_gaf_doorslag": "Het vertrouwen op de eigenaar telde niet, want de burger kon zelf tijdig bezwaar maken."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Leg in het dossier vast op welke dag het besluit bekend is gemaakt en wanneer het bezwaar is ontvangen",
+   "raakt": "termijnbewaking",
+   "bron": [
+    19
+   ],
+   "citaat": "De laatste dag van de bezwaartermijn was 9 april 2024 en de heffingsambtenaar heeft het bezwaar daarna ontvangen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "termijnbewaking",
+  "klantcontact"
+ ],
+ "klantuitleg": "U heeft zes weken om bezwaar te maken, te rekenen vanaf de dag na de bekendmaking van het besluit. Bent u te laat, dan neemt de gemeente uw bezwaar niet in behandeling, ook niet als u erop rekende dat een ander het zou regelen. Maak dus zelf op tijd bezwaar; alleen met een goede reden voor de vertraging wordt een te laat bezwaar toch behandeld.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "zekerheid": "hoog",
+ "dubbel_van": null
+}

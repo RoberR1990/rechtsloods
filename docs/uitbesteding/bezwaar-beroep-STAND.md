@@ -34,3 +34,7 @@ Deze PR staat in RoberR1990/rechtsloods (publieke snapshot). De site draait waar
 2. Selectie laag 2 (`scripts/dom_select`-patroon, RvS + Rb Rotterdam, ±200), kostenschatting.
 3. Laag 2 met Sonnet volgens lab/vangnet_v3.md, daarna stap 6-9.
 Werkplek: scripts verwachten /home/claude/{data,site,scripts}; zie memory `rechtsloods-bezwaar-beroep`. Scratch (xml, uitspraken.json) niet in repo; opnieuw te maken met `scripts/bezwaar/fetch_xml.py` + `scripts/dom_parse.py`.
+
+## Laag 2 (21 nov 2026)
+- 200 samenvattingen (Rb Rotterdam 100 / RvS 61 / dunne onderwerpen 39) in data/uit_v3/bezwaar-beroep/; check_uit_v3: 0 fouten, 7 waarschuwingen (LET OP uitkomst vs. dictum, 6x Rb Rotterdam: termijn verschoonbaar + proceskosten, dus 'deels' verdedigbaar; 2024_6777 en 2026_2293 handmatig nalopen). 197 relevant, 3 niet relevant.
+- Nog open: blinde 10%-steekproef, reparatie ~25 tussenuitspraken in laag 1, stand per onderwerp (stand_dom.py), site-data (dom_build.py) + privacyscan, netwerkverruiming (Robert).

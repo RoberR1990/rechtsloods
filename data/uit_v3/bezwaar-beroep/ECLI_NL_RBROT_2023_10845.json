@@ -1,0 +1,136 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:10845",
+ "relevant": true,
+ "onderwerp": "dwangsom-niet-tijdig",
+ "sub": "beroep-niet-tijdig",
+ "kenmerk": "beroep-te-vroeg",
+ "zaaktype": "dwangsom-niet-tijdig",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger gaat in beroep tegen de gemeente Rotterdam omdat de gemeente volgens hem niet op tijd beslist. De rechtbank Rotterdam beslist zonder zitting.",
+ "titel": "Beroep tegen te late beslissing niet-ontvankelijk: ingebrekestelling zonder termijn",
+ "kern": {
+  "zin": "De rechter verklaart het beroep niet-ontvankelijk, omdat de ingebrekestelling de gemeente geen termijn van twee weken gaf om alsnog te beslissen.",
+  "bron": [
+   13
+  ],
+  "citaat": "geen termijn van twee weken geboden om alsnog te beslissen op zijn bezwaarschrift"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger ging in beroep omdat de gemeente volgens hem niet op tijd beslist had.",
+   "bron": [
+    8
+   ],
+   "citaat": "omdat verweerder volgens hem niet op tijd heeft beslist"
+  },
+  {
+   "zin": "De rechter legt uit dat eerst een brief nodig is waarin de gemeente twee weken krijgt om alsnog te beslissen.",
+   "bron": [
+    11
+   ],
+   "citaat": "moet de betrokkene per brief aan het bestuursorgaan laten weten dat binnen twee weken alsnog beslist moet worden"
+  },
+  {
+   "zin": "De burger stuurde wel een ingebrekestelling (die brief), maar gaf daarin geen termijn van twee weken.",
+   "bron": [
+    13
+   ],
+   "citaat": "Eiser heeft weliswaar een ingebrekestelling naar verweerder verstuurd"
+  },
+  {
+   "zin": "Daardoor is er geen geldige ingebrekestelling en is het beroep kennelijk niet-ontvankelijk.",
+   "bron": [
+    14
+   ],
+   "citaat": "Het beroep is daarom kennelijk niet-ontvankelijk."
+  },
+  {
+   "zin": "De rechter beoordeelt het te laat beslissen niet en kent geen proceskosten toe.",
+   "bron": [
+    14
+   ],
+   "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep niet-ontvankelijk door ongeldige ingebrekestelling; geen proceskosten.",
+ "gevolg_betrokkene": {
+  "zin": "De rechter beoordeelt het te laat beslissen niet en de burger krijgt geen proceskostenvergoeding.",
+  "bron": [
+   14
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "De burger zegt dat de gemeente niet op tijd heeft beslist.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De ingebrekestelling gaf de gemeente geen termijn van twee weken, dus er is geen geldige ingebrekestelling.",
+    "bron": [
+     13
+    ],
+    "citaat": "Eiser heeft weliswaar een ingebrekestelling naar verweerder verstuurd, maar hij heeft verweerder daarin geen termijn van twee weken geboden"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen termijn van twee weken geboden om alsnog te beslissen op zijn bezwaarschrift",
+    "bron": [
+     13
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Beroep tegen niet op tijd beslissen kan pas na een ingebrekestelling die het bestuursorgaan twee weken geeft om alsnog te beslissen.",
+  "type": "regel",
+  "reikwijdte": "Beroep tegen het niet tijdig beslissen op een bezwaarschrift",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   11
+  ],
+  "citaat": "moet de betrokkene per brief aan het bestuursorgaan laten weten dat binnen twee weken alsnog beslist moet worden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "In de ingebrekestelling stond geen termijn van twee weken om alsnog te beslissen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:54 Awb",
+  "art. 6:12 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij een beroep tegen niet tijdig beslissen of de ingebrekestelling de termijn van twee weken noemt en leg dat vast",
+   "raakt": "termijnbewaking",
+   "bron": [
+    13
+   ],
+   "citaat": "Als de betrokkene niet aan het hiervoor onder 2. genoemde voldoet, is het beroep niet-ontvankelijk."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "termijnbewaking",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "Als de gemeente te laat beslist, kunt u pas in beroep gaan nadat u de gemeente schriftelijk twee weken heeft gegeven om alsnog te beslissen. Doet u dat niet, dan kijkt de rechter niet eens naar het te laat beslissen. Geef in uw brief dus altijd duidelijk die termijn van twee weken.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

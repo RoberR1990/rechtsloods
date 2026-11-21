@@ -1,0 +1,162 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:7566",
+ "relevant": true,
+ "kenmerk": null,
+ "bezwaargronden": [
+  {
+   "arg": "termijn-te-laat",
+   "burger_zegt": "De aanslag kwam zonder uitleg; de burger begreep de aard ervan pas bij de aanmaning, dus het te late bezwaar is verschoonbaar.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Niet begrijpen waar de aanslag over gaat maakt het te late bezwaar niet verschoonbaar.",
+    "bron": [
+     37
+    ],
+    "citaat": "is niet iets dat maakt dat het te laat indienen van het bezwaar verschoonbaar is"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat hij daar niet voor heeft gekozen omdat hij de aard van de aanslag niet kende",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De termijn gebruiken is in strijd met een eerlijk proces en er is een duidelijke fout, dus de rechter moet de zaak inhoudelijk behandelen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een bezwaartermijn toepassen is niet in strijd met het recht op een eerlijk proces.",
+    "bron": [
+     38
+    ],
+    "citaat": "het toepassen van een termijn om bezwaar te maken niet in strijd met het recht op een eerlijk proces"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bezwaar dat na de termijn van zes weken komt, is toch ontvankelijk als daarvoor een geldige, verschoonbare reden is.",
+  "type": "regel",
+  "reikwijdte": "Bezwaren die na de wettelijke termijn van zes weken zijn ingediend",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   33
+  ],
+  "citaat": "is een bezwaar toch niet niet-ontvankelijk als daarvoor een geldige, verschoonbare reden is"
+ },
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:HR:2019:1595"
+  ]
+ },
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij een te laat bezwaar naar de reden van de termijnoverschrijding voordat u het bezwaar niet-ontvankelijk verklaart.",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    39
+   ],
+   "citaat": "had echter wel naar de reden van het te laat indienen van het bezwaar moeten vragen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "steunt": "gemengd",
+ "toepasselijkheid": "landelijk",
+ "onderwerp": "bezwaartermijn-verschoonbaar",
+ "sub": "verschoonbaar",
+ "zaaktype": "bezwaar-beroepstermijn",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bedrijf ging bij de rechtbank Rotterdam in beroep tegen de gemeente Rotterdam. De gemeente had het bezwaar tegen een BIZ-aanslag (een heffing voor ondernemers in een bedrijfsinvesteringszone) te laat verklaard.",
+ "titel": "Bezwaar te laat: geen goede reden, maar wel griffierecht terug",
+ "kern": {
+  "zin": "De rechter vindt het te late bezwaar niet verschoonbaar, omdat de burger wist dat hij binnen zes weken bezwaar moest maken.",
+  "bron": [
+   37
+  ],
+  "citaat": "heeft ter zitting bevestigd dat hij wist dat er binnen zes weken bezwaar moest worden gemaakt"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde de burger een BIZ-aanslag op voor 2023.",
+   "bron": [
+    10
+   ],
+   "citaat": "heeft aan eiseres met dagtekening 11 juli 2023 voor het jaar 2023 een BIZ-aanslag van € 300,- opgelegd"
+  },
+  {
+   "zin": "Het bezwaar kwam op 26 oktober 2023 binnen, dus na de termijn van zes weken.",
+   "bron": [
+    32
+   ],
+   "citaat": "op 26 oktober 2023 heeft de heffingsambtenaar het bezwaar van eiseres ontvangen"
+  },
+  {
+   "zin": "De burger zei dat de aanslag zonder uitleg was opgelegd.",
+   "bron": [
+    34
+   ],
+   "citaat": "aangevoerd dat de aanslag zonder enige toelichting is opgelegd"
+  },
+  {
+   "zin": "De gemeente verklaarde het bezwaar niet-ontvankelijk omdat het te laat was.",
+   "bron": [
+    30
+   ],
+   "citaat": "volgens hem het bezwaar niet binnen de wettelijke termijn van zes weken na de dagtekening van het aanslagbiljet is ingediend"
+  },
+  {
+   "zin": "De rechter vindt de uitleg van de burger onvoldoende om het te late bezwaar te verontschuldigen.",
+   "bron": [
+    37
+   ],
+   "citaat": "is onvoldoende om te spreken van een geldige, verschoonbare reden"
+  },
+  {
+   "zin": "De gemeente had wel naar de reden van de termijnoverschrijding moeten vragen; dat is onzorgvuldig, maar de rechter laat dit gebrek buiten beschouwing omdat de uitkomst niet anders was.",
+   "bron": [
+    39
+   ],
+   "citaat": "had echter wel naar de reden van het te laat indienen van het bezwaar moeten vragen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Bezwaar te laat; wel griffierecht terug wegens onzorgvuldigheid",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen gelijk over de aanslag, maar krijgt het griffierecht van € 365,- terug; proceskosten worden niet vergoed.",
+  "bron": [
+   43
+  ],
+  "citaat": "Dat betekent dat eiseres geen gelijk krijgt. Omdat de heffingsambtenaar in de bezwaarfase onzorgvuldig heeft gehandeld"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "uitleg van de gemachtigde van de burger op de zitting"
+  ],
+  "wat_gaf_doorslag": "De burger wist dat er binnen zes weken bezwaar moest worden gemaakt."
+ },
+ "wetsartikelen": [
+  "art. 6:11 Awb",
+  "art. 6:22 Awb",
+  "art. 6 EVRM"
+ ],
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "klantcontact",
+  "termijnbewaking"
+ ],
+ "klantuitleg": "U heeft zes weken na de datum op de aanslag om bezwaar te maken. Komt u te laat, dan helpt het niet dat u de aanslag niet begreep; vraag dus binnen die zes weken om uitleg en dien voor de zekerheid bezwaar in. Had u een echt goede reden voor de vertraging, vermeld die dan meteen in uw bezwaar.",
+ "zekerheid": "hoog"
+}

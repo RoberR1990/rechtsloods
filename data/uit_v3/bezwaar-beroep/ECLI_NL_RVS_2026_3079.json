@@ -1,0 +1,137 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:3079",
+ "relevant": true,
+ "onderwerp": "bezwaartermijn-verschoonbaar",
+ "sub": "niet-ontvankelijk-te-laat",
+ "kenmerk": "hoger-beroep-te-laat",
+ "zaaktype": "bezwaar-beroepstermijn",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Dordrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger ging in hoger beroep tegen een uitspraak van de rechtbank Rotterdam in een zaak tegen het college van burgemeester en wethouders van Dordrecht. De Raad van State (Afdeling bestuursrechtspraak) deed een korte mondelinge uitspraak.",
+ "titel": "Hoger beroep drie dagen te laat: niet behandeld",
+ "kern": {
+  "zin": "De rechter behandelt het hoger beroep niet, omdat het te laat was en de burger geen goede reden gaf.",
+  "bron": [
+   24
+  ],
+  "citaat": "Dat is buiten de termijn en dus te laat"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger ging in hoger beroep tegen een uitspraak van de rechtbank Rotterdam van 26 mei 2023.",
+   "bron": [
+    19
+   ],
+   "citaat": "Het hoger beroep richt zich tegen de uitspraak van 26 mei 2023 van de rechtbank Rotterdam"
+  },
+  {
+   "zin": "Voor hoger beroep geldt een termijn van zes weken; die liep af op 7 juli 2023.",
+   "bron": [
+    24
+   ],
+   "citaat": "Dat betekent dat de termijn afliep op 7 juli 2023"
+  },
+  {
+   "zin": "De burger diende zijn hoger beroep pas in op 10 juli 2023, via het digitaal loket.",
+   "bron": [
+    24
+   ],
+   "citaat": "ingediend via het Digitaal loket op 10 juli 2023"
+  },
+  {
+   "zin": "De rechter liet de burger uitleggen waarom de te late indiening te verontschuldigen was.",
+   "bron": [
+    24
+   ],
+   "citaat": "de mogelijkheid gegeven toe te lichten waarom de termijnoverschrijding volgens hem verschoonbaar is"
+  },
+  {
+   "zin": "De burger gaf geen goede reden, omdat de genoemde omstandigheden van na het hoger beroep dateren.",
+   "bron": [
+    24
+   ],
+   "citaat": "bevat geen redenen voor het oordeel dat de termijnoverschrijding verschoonbaar is"
+  },
+  {
+   "zin": "Het hoger beroep wordt niet inhoudelijk behandeld en de gemeente hoeft geen proceskosten te betalen.",
+   "bron": [
+    22,
+    25
+   ],
+   "citaat": "verklaart het hoger beroep niet-ontvankelijk"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep te laat; geen goede reden voor de vertraging.",
+ "gevolg_betrokkene": {
+  "zin": "Het hoger beroep wordt niet behandeld, de uitspraak van de rechtbank blijft staan en de gemeente hoeft geen proceskosten te betalen.",
+  "bron": [
+   22,
+   25
+  ],
+  "citaat": "verklaart het hoger beroep niet-ontvankelijk"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-te-laat",
+   "burger_zegt": "Het hoger beroep was te laat, maar dat is te verontschuldigen door de omstandigheden die hij noemt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De genoemde omstandigheden dateren van na het hoger beroep en zijn dus geen reden voor de vertraging.",
+    "bron": [
+     24
+    ],
+    "citaat": "dateren van na het instellen van het hoger beroep"
+   },
+   "bruikbare_zin": {
+    "citaat": "bevat geen redenen voor het oordeel dat de termijnoverschrijding verschoonbaar is",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De termijn voor hoger beroep is zes weken en begint op de dag na de bekendmaking van de uitspraak.",
+  "type": "regel",
+  "reikwijdte": "Hoger beroep tegen uitspraken van de rechtbank; termijn zes weken.",
+  "uitzondering": "Is de overschrijding verschoonbaar, dan wordt het hoger beroep toch behandeld.",
+  "herkomst": "wet",
+  "bron": [
+   24
+  ],
+  "citaat": "De termijn vangt aan met ingang van de dag na die waarop de uitspraak is bekendgemaakt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De genoemde omstandigheden dateren van na het instellen van het hoger beroep."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:7 Awb",
+  "art. 6:24 Awb",
+  "art. 8:67 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "zuiver procedurele uitspraak",
+ "raakt": [
+  "termijnbewaking",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "Voor hoger beroep geldt een termijn van zes weken. Komt uw stuk te laat binnen, dan wordt het meestal niet meer inhoudelijk bekeken, ook niet als het maar een paar dagen scheelt. Was u te laat, leg dan uit waarom; omstandigheden van na het indienen helpen daarbij niet.",
+ "gemeente": "Dordrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

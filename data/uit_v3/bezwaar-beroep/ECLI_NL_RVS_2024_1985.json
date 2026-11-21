@@ -1,0 +1,140 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2024:1985",
+ "relevant": true,
+ "onderwerp": "dwangsom-niet-tijdig",
+ "sub": "ingebrekestelling-beslistermijn",
+ "kenmerk": "ingebrekestelling-ontbreekt",
+ "zaaktype": "dwangsom-niet-tijdig",
+ "partijen": {
+  "burger": "particulier",
+  "wederpartij": "college van bestuur van een universiteit",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een particulier vroeg om een hogere dwangsom (een bedrag dat het bestuursorgaan moet betalen als het te laat beslist). Het conflict is met het college van bestuur van de Erasmus Universiteit Rotterdam en ligt bij de Raad van State.",
+ "titel": "Te vroege ingebrekestelling levert geen extra dwangsom op",
+ "kern": {
+  "zin": "De rechter verklaart het beroep ongegrond, omdat de e-mail met de waarschuwing te vroeg kwam en dus geen ingebrekestelling was.",
+  "bron": [
+   25
+  ],
+  "citaat": "Deze e-mail is niet aan te merken als een ingebrekestelling. De beslistermijn was nog niet verstreken."
+ },
+ "samenvatting": [
+  {
+   "zin": "Het college stelde een dwangsom vast voor te laat beslissen op een bezwaar en maakte die na bezwaar later € 450,00.",
+   "bron": [
+    18
+   ],
+   "citaat": "heeft het college het door [appellant] daartegen gemaakte bezwaar gegrond verklaard en de hoogte van de verbeurde dwangsommen nader vastgesteld op € 450,00"
+  },
+  {
+   "zin": "De burger vond dat het college niet had beslist op zijn ingebrekestelling (een schriftelijke waarschuwing dat het te laat is) en dat hij daarom meer dwangsom kreeg.",
+   "bron": [
+    23
+   ],
+   "citaat": "heeft aangevoerd dat het college ten onrechte niet op zijn ingebrekestelling van 11 mei 2023 heeft beslist"
+  },
+  {
+   "zin": "De rechter zegt dat het college het bezwaar op 5 mei 2023 ontving en dat de burger zes dagen later een e-mail stuurde.",
+   "bron": [
+    25
+   ],
+   "citaat": "[appellant] heeft zes dagen later met zijn e-mail van 11 mei 2023 beoogd een ingebrekestelling te sturen"
+  },
+  {
+   "zin": "Volgens de rechter is die e-mail geen ingebrekestelling, want de beslistermijn (de tijd om te beslissen) was nog niet voorbij.",
+   "bron": [
+    25
+   ],
+   "citaat": "Deze e-mail is niet aan te merken als een ingebrekestelling. De beslistermijn was nog niet verstreken."
+  },
+  {
+   "zin": "Daarom is er geen dwangsom boven de € 450,00 die al was toegekend.",
+   "bron": [
+    25
+   ],
+   "citaat": "Alleen al daarom is geen dwangsom bovenop de reeds toegekende € 450,00 verschuldigd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Ingebrekestelling te vroeg; geen dwangsom boven de toegekende € 450,00",
+ "gevolg_betrokkene": {
+  "zin": "De burger houdt de al toegekende dwangsom van € 450,00 en krijgt er niets bij.",
+  "bron": [
+   25
+  ],
+  "citaat": "Alleen al daarom is geen dwangsom bovenop de reeds toegekende € 450,00 verschuldigd."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "ingebrekestelling-onjuist",
+   "burger_zegt": "Het college moest beslissen op mijn ingebrekestelling van 11 mei 2023, dus ik krijg een hogere dwangsom.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De e-mail kwam te vroeg, want de beslistermijn was nog niet verstreken.",
+    "bron": [
+     25
+    ],
+    "citaat": "Deze e-mail is niet aan te merken als een ingebrekestelling. De beslistermijn was nog niet verstreken."
+   },
+   "bruikbare_zin": {
+    "citaat": "De beslistermijn was nog niet verstreken.",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een ingebrekestelling die wordt gestuurd voordat de beslistermijn voorbij is, telt niet mee voor een dwangsom.",
+  "type": "regel",
+  "reikwijdte": "Dwangsom bij niet tijdig beslissen, ook op een bezwaar",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   25
+  ],
+  "citaat": "Daarmee is de mededeling zoals opgenomen in de e-mail van 11 mei 2023 te vroeg gedaan."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "ontvangstdatum van het bezwaar",
+   "e-mail van de burger"
+  ],
+  "wat_gaf_doorslag": "De e-mail kwam zes dagen na ontvangst van het bezwaar, voordat de beslistermijn voorbij was."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 4:17 Awb",
+  "art. 7:14 Awb",
+  "art. 8:67 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij een ingebrekestelling eerst of de beslistermijn al is verstreken, voordat u de dwangsom berekent",
+   "raakt": "termijnbewaking",
+   "bron": [
+    25
+   ],
+   "citaat": "De beslistermijn was nog niet verstreken. Daarmee is de mededeling zoals opgenomen in de e-mail van 11 mei 2023 te vroeg gedaan."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "termijnbewaking",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "Als de gemeente te laat beslist, kan een dwangsom (een bedrag dat de gemeente u dan moet betalen) lopen. Dat gebeurt pas nadat u de gemeente schriftelijk hebt gewaarschuwd, en de waarschuwing telt alleen als de tijd om te beslissen al voorbij is. Wacht dus tot die tijd verstreken is voordat u de gemeente schriftelijk waarschuwt.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente; het bestuursorgaan is een universiteit",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

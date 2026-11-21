@@ -1,0 +1,196 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2024:9438",
+ "relevant": true,
+ "onderwerp": "hoorplicht",
+ "sub": "afzien-van-horen",
+ "kenmerk": "kennelijk-ongegrond",
+ "zaaktype": "hoorplicht",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "College voor de Rechten van de Mens",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger vroeg het College voor de Rechten van de Mens om inzage in zijn persoonsgegevens. Hij gaat bij de rechtbank Rotterdam in beroep tegen dat college, onder meer omdat hij in bezwaar niet is gehoord.",
+ "titel": "Niet horen in bezwaar mag als de uitkomst op voorhand vaststaat",
+ "kern": {
+  "zin": "De rechter vond dat het college de burger in bezwaar niet hoefde te horen, omdat het bezwaar op voorhand niet tot een ander besluit kon leiden.",
+  "bron": [
+   33
+  ],
+  "citaat": "Verweerder hoefde eiser dus niet te horen in bezwaar"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg om een overzicht van zijn persoonsgegevens en kreeg dat overzicht.",
+   "bron": [
+    16
+   ],
+   "citaat": "Met het primaire besluit heeft verweerder het verzoek ingewilligd"
+  },
+  {
+   "zin": "De burger vond het overzicht niet volledig.",
+   "bron": [
+    20
+   ],
+   "citaat": "Eiser voert in beroep aan dat het aan hem verstrekte overzicht niet volledig is"
+  },
+  {
+   "zin": "Het college zag af van horen, omdat het bezwaar duidelijk ongegrond was.",
+   "bron": [
+    17
+   ],
+   "citaat": "Omdat het bezwaar kennelijk ongegrond is, heeft verweerder eiser niet gehoord"
+  },
+  {
+   "zin": "De burger vond dat hij in bezwaar ten onrechte niet was gehoord.",
+   "bron": [
+    31
+   ],
+   "citaat": "Eiser voert aan dat hij in bezwaar ten onrechte niet is gehoord"
+  },
+  {
+   "zin": "De rechter vond dat er op voorhand geen twijfel was dat het bezwaar niets aan het besluit kon veranderen.",
+   "bron": [
+    33
+   ],
+   "citaat": "redelijkerwijs geen twijfel mogelijk dat het in bezwaar aangevoerde niet tot een ander standpunt kon leiden"
+  },
+  {
+   "zin": "Het beroep is ongegrond, dus de burger krijgt zijn griffierecht niet terug.",
+   "bron": [
+    38
+   ],
+   "citaat": "Eiser krijgt daarom het griffierecht niet terug"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; horen was niet nodig en er is geen dwangsom.",
+ "gevolg_betrokkene": {
+  "zin": "De burger houdt het overzicht dat hij kreeg, krijgt zijn griffierecht niet terug en krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   38
+  ],
+  "citaat": "Hij krijgt ook geen vergoeding van zijn proceskosten"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "niet-gehoord",
+   "burger_zegt": "Ik ben in bezwaar ten onrechte niet gehoord.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat op voorhand geen twijfel mogelijk was dat het bezwaar niets kon veranderen.",
+    "bron": [
+     33
+    ],
+    "citaat": "redelijkerwijs geen twijfel mogelijk dat het in bezwaar aangevoerde niet tot een ander standpunt kon leiden"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen twijfel over mogelijk is dat het in bezwaar aangevoerde niet tot een ander standpunt kan leiden",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "niet-tijdig-beslist",
+   "burger_zegt": "Het college heeft te laat beslist, dus er moet een dwangsom komen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er was niet te laat beslist en er was ook geen ingebrekestelling gestuurd.",
+    "bron": [
+     36
+    ],
+    "citaat": "Niet is gebleken dat verweerder niet tijdig op het verzoek van eiser heeft beslist"
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft eiser verweerder evenmin in gebreke gesteld",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het overzicht van mijn persoonsgegevens is niet volledig.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger maakte niet aannemelijk dat er gegevens ontbraken in het overzicht.",
+    "bron": [
+     22
+    ],
+    "citaat": "heeft eiser echter niet aannemelijk gemaakt dat verweerder al deze persoonsgegevens verwerkt"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik moet de namen van de medewerkers krijgen die aan mijn zaak werkten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het college hoefde de namen van medewerkers niet te geven.",
+    "bron": [
+     29
+    ],
+    "citaat": "Verweerder hoefde dus niet de namen van de medewerkers aan eiser te verstrekken"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bestuursorgaan mag afzien van horen als er op voorhand geen redelijke twijfel is dat wat in bezwaar wordt aangevoerd niet tot een ander standpunt kan leiden.",
+  "type": "regel",
+  "reikwijdte": "Afzien van horen in bezwaar op grond van artikel 7:3, aanhef en onder b, Awb",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   32
+  ],
+  "citaat": "mag slechts met toepassing van artikel 7:3, aanhef en onder b, van de Awb afzien"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "lijst en tabel van de burger met gegevens die volgens hem ontbraken",
+   "overzicht van de persoonsgegevens (meta-dataoverzicht) van het college"
+  ],
+  "wat_gaf_doorslag": "De burger maakte niet aannemelijk dat er gegevens ontbraken in het overzicht."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:RVS:2021:1331",
+   "ECLI:EU:C:2023:3"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:3 aanhef en onder b Awb",
+  "art. 15 AVG",
+  "art. 15 lid 3 AVG",
+  "art. 15 lid 4 AVG",
+  "art. 4 aanhef en onder 1 AVG"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zie alleen af van horen in bezwaar als op voorhand geen twijfel mogelijk is dat het bezwaar niets aan het besluit verandert",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    32
+   ],
+   "citaat": "mag slechts met toepassing van artikel 7:3, aanhef en onder b, van de Awb afzien"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "klantcontact"
+ ],
+ "klantuitleg": "Soms hoeft de gemeente u niet te horen over uw bezwaar, namelijk als zij op voorhand zeker weet dat uw bezwaar niets aan het besluit verandert. De rechter vond dat in dit geval goed, omdat het bezwaar niets nieuws bracht. Wilt u toch gehoord worden, noem in uw bezwaar dan duidelijk de nieuwe punten of het bewijs die het besluit kunnen veranderen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij (College voor de Rechten van de Mens)",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

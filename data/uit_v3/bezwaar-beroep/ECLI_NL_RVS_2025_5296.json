@@ -1,0 +1,165 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:5296",
+ "relevant": true,
+ "onderwerp": "dwangsom-niet-tijdig",
+ "sub": "ingebrekestelling-beslistermijn",
+ "kenmerk": "bezwaar-tegen-uitblijven",
+ "zaaktype": "dwangsom-niet-tijdig",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "waterschap Aa en Maas",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger wilde een dwangsom (een bedrag per dag bij te late beslissing) van een waterschap, omdat het te laat besliste op zijn bezwaar. De burger ging in hoger beroep bij de Raad van State tegen de uitspraak van de rechtbank.",
+ "titel": "Geen dwangsom: waterschap besliste op tijd, ook per e-mail",
+ "kern": {
+  "zin": "De rechter vond dat het waterschap geen dwangsom verbeurde, omdat het binnen twee weken na de ingebrekestelling beslistte en een e-mail ook een besluit kan zijn.",
+  "bron": [
+   29
+  ],
+  "citaat": "Het waterschap heeft na de ingebrekestelling dus binnen de termijn van twee weken beslist"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger stelde het waterschap in gebreke omdat het nog niet had beslist op zijn bezwaar.",
+   "bron": [
+    26
+   ],
+   "citaat": "het waterschap op 24 juni 2023 in gebreke gesteld, omdat het waterschap nog niet had beslist op zijn bezwaar"
+  },
+  {
+   "zin": "Het waterschap besliste daarna alsnog en mailde die beslissing; de dag erna stuurde het die opnieuw met een beroepsclausule (uitleg over beroep).",
+   "bron": [
+    26
+   ],
+   "citaat": "heeft het waterschap alsnog beslist op het bezwaar van [appellant]"
+  },
+  {
+   "zin": "De burger vond dat een e-mail geen besluit kan zijn, zodat de beslissing niet goed bekend was gemaakt.",
+   "bron": [
+    28
+   ],
+   "citaat": "Een e-mail als zodanig kan geen besluit zijn, aldus [appellant]"
+  },
+  {
+   "zin": "De rechtbank vond dat er geen dwangsom was verbeurd, omdat het waterschap binnen twee weken na de ingebrekestelling beslistte.",
+   "bron": [
+    27
+   ],
+   "citaat": "heeft het waterschap namelijk alsnog binnen twee weken beslist op het bezwaar van [appellant]"
+  },
+  {
+   "zin": "De Raad van State zei dat een e-mail volgens vaste rechtspraak ook een besluit kan zijn.",
+   "bron": [
+    29
+   ],
+   "citaat": "kan, anders dan [appellant] betoogt, een e-mail ook als besluit worden gekwalificeerd"
+  },
+  {
+   "zin": "De rechter begreep dat de mails onduidelijk waren, maar de bekendmaking was juist en het hoger beroep is ongegrond.",
+   "bron": [
+    29
+   ],
+   "citaat": "begrijpt dat de opvolgende mailwisseling door [appellant] als onduidelijk is ervaren"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Geen dwangsom; besluit per e-mail was tijdig en geldig.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen dwangsom en het waterschap hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   31
+  ],
+  "citaat": "Het waterschap hoeft geen proceskosten te vergoeden"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "niet-tijdig-beslist",
+   "burger_zegt": "Er is een dwangsom verschuldigd, omdat het besluit op bezwaar niet goed bekend was gemaakt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het waterschap beslistte binnen twee weken na de ingebrekestelling en verbeurde dus geen dwangsom.",
+    "bron": [
+     29
+    ],
+    "citaat": "Het waterschap heeft na de ingebrekestelling dus binnen de termijn van twee weken beslist"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het waterschap heeft na de ingebrekestelling dus binnen de termijn van twee weken beslist",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Een e-mail kan geen besluit zijn, dus het besluit is niet in werking getreden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Volgens vaste rechtspraak kan een e-mail ook als besluit gelden.",
+    "bron": [
+     29
+    ],
+    "citaat": "kan, anders dan [appellant] betoogt, een e-mail ook als besluit worden gekwalificeerd"
+   },
+   "bruikbare_zin": {
+    "citaat": "een e-mail ook als besluit worden gekwalificeerd",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een e-mail kan als besluit gelden; wie na een ingebrekestelling binnen twee weken beslist, verbeurt geen dwangsom.",
+  "type": "regel",
+  "reikwijdte": "Besluiten die per e-mail aan de burger worden gestuurd, na een ingebrekestelling",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   29
+  ],
+  "citaat": "kan, anders dan [appellant] betoogt, een e-mail ook als besluit worden gekwalificeerd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "e-mails van 12 en 13 juli 2023",
+   "stukken in het dossier"
+  ],
+  "wat_gaf_doorslag": "Het waterschap mailde binnen twee weken na de ingebrekestelling een beslissing."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2019:3382"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:67 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Beslis binnen twee weken na ontvangst van een ingebrekestelling; een besluit per e-mail telt ook mee",
+   "raakt": "termijnbewaking",
+   "bron": [
+    29
+   ],
+   "citaat": "Het waterschap heeft na de ingebrekestelling dus binnen de termijn van twee weken beslist"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "termijnbewaking",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "Als een overheid te laat beslist, kunt u haar schriftelijk sommeren binnen twee weken te beslissen. Beslist zij dan binnen die twee weken, ook per e-mail, dan krijgt u geen dwangsom. Zet daarom een mail met een besluit niet weg, want de termijn voor bezwaar of beroep kan dan al lopen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente; de wederpartij is een waterschap",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

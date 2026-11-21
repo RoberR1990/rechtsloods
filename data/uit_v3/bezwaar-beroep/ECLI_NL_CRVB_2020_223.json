@@ -1,0 +1,182 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:CRVB:2020:223",
+ "relevant": true,
+ "onderwerp": "proceskosten",
+ "sub": "forfait-wegingsfactor",
+ "kenmerk": "afwijken-forfait",
+ "zaaktype": "proceskosten",
+ "partijen": {
+  "burger": "werknemer, bijgestaan door een gemachtigde",
+  "wederpartij": "UWV",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger ging in hoger beroep tegen het UWV (de uitkeringsinstantie voor werknemers). Hij vond dat de rechtbank te weinig proceskosten had toegekend. De zaak lag bij de Centrale Raad van Beroep.",
+ "titel": "Geen hogere proceskostenvergoeding dan het vaste bedrag",
+ "kern": {
+  "zin": "De rechter vond dat er geen bijzondere omstandigheden waren, dus bleef het vaste bedrag aan proceskosten gelden.",
+  "bron": [
+   28
+  ],
+  "citaat": "Er bestaat dan ook geen aanleiding voor een hogere vergoeding dan de forfaitaire vergoeding"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger trok zijn beroep in nadat het UWV het bezwaar alsnog had erkend, en vroeg het UWV om de proceskosten te betalen.",
+   "bron": [
+    20
+   ],
+   "citaat": "het beroep tegen de beslissing op bezwaar van 12 september 2017 ingetrokken en daarbij verzocht om het Uwv te veroordelen"
+  },
+  {
+   "zin": "De rechtbank kende een vast bedrag toe, met 1 punt voor het bezwaarschrift en 1 punt voor het beroepschrift.",
+   "bron": [
+    21
+   ],
+   "citaat": "Daarbij heeft de rechtbank 1 punt toegekend voor het bezwaarschrift en 1 punt voor het beroepschrift"
+  },
+  {
+   "zin": "De burger vond dat hij meer moest krijgen dan het vaste bedrag, omdat het UWV herhaaldelijk onzorgvuldig had gehandeld.",
+   "bron": [
+    22
+   ],
+   "citaat": "een hogere proceskostenvergoeding had moeten krijgen dan de forfaitaire vergoeding"
+  },
+  {
+   "zin": "Het UWV wilde dat de uitspraak van de rechtbank bevestigd werd.",
+   "bron": [
+    24
+   ],
+   "citaat": "Het Uwv heeft bevestiging van de aangevallen uitspraak bepleit"
+  },
+  {
+   "zin": "De rechter vond dat er geen bijzondere omstandigheden waren die een hoger bedrag rechtvaardigen.",
+   "bron": [
+    28
+   ],
+   "citaat": "Er bestaat dan ook geen aanleiding voor een hogere vergoeding dan de forfaitaire vergoeding"
+  },
+  {
+   "zin": "De rechter bevestigde de uitspraak van de rechtbank, dus het hoger beroep mislukte.",
+   "bron": [
+    33
+   ],
+   "citaat": "De Centrale Raad van Beroep bevestigt de aangevallen uitspraak"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep faalt; het vaste bedrag aan proceskosten blijft staan.",
+ "gevolg_betrokkene": {
+  "zin": "De burger houdt de proceskostenvergoeding van € 1.002 die de rechtbank toekende, krijgt niet meer, en krijgt ook geen vergoeding voor het hoger beroep.",
+  "bron": [
+   26,
+   31
+  ],
+  "citaat": "bestaande uit € 501,- voor het opstellen van een bezwaarschrift en € 501,- voor het opstellen van een beroepschrift"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "forfait-onjuist",
+   "burger_zegt": "Het UWV handelde herhaaldelijk onzorgvuldig, dus ik moet meer krijgen dan het vaste bedrag.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Alleen in uitzonderlijke gevallen mag de rechter het vaste bedrag verhogen, en hier waren die er niet.",
+    "bron": [
+     28
+    ],
+    "citaat": "Er bestaat dan ook geen aanleiding voor een hogere vergoeding dan de forfaitaire vergoeding"
+   },
+   "bruikbare_zin": {
+    "citaat": "in uitzonderlijke gevallen strikte toepassing van de regeling onrechtvaardig kan uitpakken",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "forfait-onjuist",
+   "burger_zegt": "De zaak was zwaar, dus de wegingsfactor had 1,5 moeten zijn in plaats van 1.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter nam het oordeel van de rechtbank over, dat de zaak niet afweek van een gemiddelde zaak.",
+    "bron": [
+     21
+    ],
+    "citaat": "wordt alleen toegepast bij een zaak die naar juridische en/of feitelijke complexiteit afwijkt van het gemiddelde"
+   },
+   "bruikbare_zin": {
+    "citaat": "wordt alleen toegepast bij een zaak die naar juridische en/of feitelijke complexiteit afwijkt van het gemiddelde",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er is een telefonische hoorzitting geweest, dus ik krijg een extra punt voor bezwaar.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De stukken lieten alleen een telefoongesprek zien, geen hoorzitting.",
+    "bron": [
+     29
+    ],
+    "citaat": "is geen steun te vinden in de gedingstukken"
+   },
+   "bruikbare_zin": {
+    "citaat": "is geen steun te vinden in de gedingstukken",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij beroepsmatig verleende rechtsbijstand geldt een vast bedrag per proceshandeling, en alleen in bijzondere omstandigheden mag daarvan worden afgeweken.",
+  "type": "regel",
+  "reikwijdte": "Vergoeding van kosten voor beroepsmatige rechtsbijstand in bezwaar en beroep",
+  "uitzondering": "In bijzondere omstandigheden kan de rechter het bedrag verhogen of verlagen.",
+  "herkomst": "wet",
+  "bron": [
+   28
+  ],
+  "citaat": "dat een forfaitaire vergoeding wordt toegekend, waarbij per proceshandeling punten worden toegekend"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "gedingstukken",
+   "e-mailbericht aan de medewerker bezwaar van het UWV"
+  ],
+  "wat_gaf_doorslag": "In de stukken stond alleen een telefoongesprek en geen hoorzitting."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 2 lid 3 Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Houd bij een verzoek om meer dan het vaste bedrag aan proceskosten vast aan het forfait, tenzij de burger bijzondere omstandigheden aantoont",
+   "raakt": "proceskosten-no-cure-no-pay",
+   "bron": [
+    28
+   ],
+   "citaat": "Er bestaat dan ook geen aanleiding voor een hogere vergoeding dan de forfaitaire vergoeding"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "proceskosten-no-cure-no-pay",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "Als u een advocaat of bureau inhuurt en de overheid moet uw kosten betalen, gaat het meestal om een vast bedrag per handeling. U krijgt meer alleen in bijzondere gevallen, bijvoorbeeld als de overheid u met slechte informatie op uitzonderlijk hoge kosten joeg. Vraagt u om meer dan het vaste bedrag, leg dan uit wat er bijzonder is, want zonder zulke omstandigheden heeft dat weinig kans.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "bestuursorgaan is het UWV, geen gemeente",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}
