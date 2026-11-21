@@ -12,3 +12,9 @@ Robert wil zo autonoom mogelijk. Onderstaande keuzes zijn omkeerbaar en door de 
 9. **Laag 2**: alleen Raad van State en Rotterdam als partij (Rb Rotterdam), max ±200, Sonnet; CRvB/CBb alleen laag 1 (grotendeels sociaal/economisch, overlap met Sociaal domein).
 10. **Domeinafbeelding**: placeholder, prompt in STAND.
 11. **Privacy**: geen FG-vereiste verwacht (Awb-procedures, geen bijzondere gegevens), maar namen/adressen worden niet overgenomen; zaken met sociale zekerheid (overlap sociaal) worden niet live gezet zonder FG-akkoord van Sociaal domein. Dit domein blijft op de eigen branch; live zetten blijft aan Robert.
+
+## Aanvulling 21 nov 2026 (na antwoord Robert: 1 ja, 2 onduidelijk, 3 ga door)
+12. **Laag 2 gestart** (Robert: "ga door"): 200 uitspraken, geselecteerd met `scripts/bezwaar/selecteer_l2.py`: 100 Rb Rotterdam met gemeente als partij (nieuwste), 61 Raad van State (max 18 per onderwerp), 39 aanvulling dunne subonderwerpen. Zonder sociaal-overlap, zonder zekerheid "laag". Sonnet, batches van 5, pilot 25 eerst.
+13. **Sociaal-overlap**: laag 1 (alleen labels: onderwerp, uitkomst) bevat geen persoonsgegevens en blijft staan. Alleen laag 2 (samenvattingen en citaten) wordt voor sociaal-zaken niet gemaakt; dat is de enige plek waar privacy-risico zit. Hierdoor is een FG-akkoord voor dit domein niet nodig zolang er geen laag 2 voor sociaal-zaken is.
+14. **Afbeelding**: dom-bezwaar-beroep.webp (door Robert aangeleverd) herkleurd en toegevoegd; huisstijl-check groen.
+15. **Domeinregels Sonnet**: `scripts/bezwaar/verrijk_v3_bezwaar.md` (privacyregels, uitkomst voor de procedurekwestie).
