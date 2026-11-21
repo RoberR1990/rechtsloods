@@ -1,0 +1,154 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:CRVB:2020:2250",
+ "relevant": true,
+ "onderwerp": "proceskosten",
+ "sub": "forfait-wegingsfactor",
+ "kenmerk": "wegingsfactor",
+ "zaaktype": "proceskosten",
+ "partijen": {
+  "burger": "bedrijf (werkgever)",
+  "wederpartij": "UWV",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bedrijf ging in hoger beroep tegen het UWV (de uitkeringsinstantie voor werknemers). Het bedrijf vond de vergoeding van zijn proceskosten te laag; de zaak lag bij de Centrale Raad van Beroep.",
+ "titel": "Lage vergoeding voor beroep dat alleen een besluit afdwingt",
+ "kern": {
+  "zin": "De rechter vond een licht gewicht (0,5) voor de zaak terecht, omdat het beroep alleen bedoeld was om een besluit te krijgen waartegen bezwaar en beroep openstaan.",
+  "bron": [
+   22
+  ],
+  "citaat": "wegingsfactor, bedoeld in de bijlage van het Besluit proceskosten bestuursrecht, van 0,5 (licht) voor onjuist te houden"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het UWV vond dat zijn mededeling aan het bedrijf geen besluit was, en verklaarde het bezwaar niet-ontvankelijk.",
+   "bron": [
+    16
+   ],
+   "citaat": "de mededeling van 16 februari 2016 niet kan worden aangemerkt als een besluit in de zin van de Awb"
+  },
+  {
+   "zin": "De rechtbank verklaarde het beroep ongegrond en kende proceskosten toe met een wegingsfactor van 0,5.",
+   "bron": [
+    18
+   ],
+   "citaat": "waarbij de wegingsfactor is bepaald op 0,5"
+  },
+  {
+   "zin": "In hoger beroep ging het alleen nog om de proceskosten; het bedrijf wilde een hoger gewicht en de echt gemaakte kosten.",
+   "bron": [
+    19
+   ],
+   "citaat": "heeft verder verzocht om het Uwv te veroordelen in de daadwerkelijk gemaakte proceskosten"
+  },
+  {
+   "zin": "Het UWV wilde dat de uitspraak van de rechtbank bevestigd werd.",
+   "bron": [
+    20
+   ],
+   "citaat": "Het Uwv heeft verzocht de aangevallen uitspraak te bevestigen"
+  },
+  {
+   "zin": "De rechter vond het lichte gewicht terecht, omdat het beroep alleen bedoeld was om een besluit te krijgen.",
+   "bron": [
+    22
+   ],
+   "citaat": "het beroepschrift slechts gericht was op het verkrijgen van een voor bezwaar en beroep vatbaar besluit"
+  },
+  {
+   "zin": "De rechter bevestigde de uitspraak en kende ook voor het hoger beroep geen proceskosten toe.",
+   "bron": [
+    24
+   ],
+   "citaat": "Voor een veroordeling in de proceskosten bestaat geen aanleiding"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep faalt; licht gewicht en vast bedrag aan proceskosten blijven.",
+ "gevolg_betrokkene": {
+  "zin": "Het bedrijf houdt de proceskostenvergoeding met licht gewicht (0,5) en krijgt geen vergoeding voor het hoger beroep.",
+  "bron": [
+   18,
+   24
+  ],
+  "citaat": "waarbij de wegingsfactor is bepaald op 0,5"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "forfait-onjuist",
+   "burger_zegt": "Het gewicht van de zaak was te laag vastgesteld op 0,5.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De zaak was alleen gericht op het krijgen van een besluit waartegen bezwaar en beroep open staan, dus licht gewicht was terecht.",
+    "bron": [
+     22
+    ],
+    "citaat": "het beroepschrift slechts gericht was op het verkrijgen van een voor bezwaar en beroep vatbaar besluit"
+   },
+   "bruikbare_zin": {
+    "citaat": "het beroepschrift slechts gericht was op het verkrijgen van een voor bezwaar en beroep vatbaar besluit",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "proceskosten-vergoeding",
+   "burger_zegt": "Het UWV moet de kosten betalen die het bedrijf echt heeft gemaakt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het UWV had al op het verzoek beslist toen het hoger beroep begon, dus afwijken van het vaste bedrag was niet nodig.",
+    "bron": [
+     24
+    ],
+    "citaat": "geen aanleiding om in afwijking van het forfaitaire systeem van vergoeding van proceskosten het Uwv te veroordelen"
+   },
+   "bruikbare_zin": {
+    "citaat": "geen aanleiding om in afwijking van het forfaitaire systeem van vergoeding van proceskosten het Uwv te veroordelen",
+    "bron": [
+     24
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een beroep dat alleen is gericht op het krijgen van een besluit waartegen bezwaar en beroep openstaan, krijgt een licht gewicht (0,5) bij de proceskosten.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Beroep dat alleen bedoeld is om een besluit te krijgen waartegen bezwaar en beroep open staan",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   22
+  ],
+  "citaat": "het beroepschrift slechts gericht was op het verkrijgen van een voor bezwaar en beroep vatbaar besluit"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Het beroep was alleen gericht op het krijgen van een besluit."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:CRVB:2018:4150"
+  ]
+ },
+ "wetsartikelen": [
+  "Besluit proceskosten bestuursrecht (bijlage)"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "proceskosten-no-cure-no-pay",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "Gaat u in beroep alleen om een besluit van de overheid te krijgen, dan is de vergoeding van uw proceskosten lager. De rechter blijft uitgaan van een vast bedrag en vergoedt niet zomaar de echt gemaakte kosten. Wilt u meer vergoed krijgen, leg dan uit waarom uw zaak zwaarder is; als het beroep alleen een besluit moest afdwingen, heeft dat weinig kans.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "bestuursorgaan is het UWV, geen gemeente",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

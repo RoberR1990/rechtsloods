@@ -1,0 +1,185 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:10028",
+ "relevant": true,
+ "onderwerp": "proceskosten",
+ "sub": "vergoeding-in-bezwaar",
+ "kenmerk": "gemachtigde-no-cure-no-pay",
+ "zaaktype": "proceskosten",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bedrijf procedeert tegen de gemeente Rotterdam over een rekening voor bedrijfsafval en over de kosten van de bezwaarprocedure. De rechtbank Rotterdam beslist.",
+ "titel": "Geen proceskosten voor hulp van echtgenoot, wel griffierecht terug",
+ "kern": {
+  "zin": "De rechter vindt het bezwaar ten onrechte niet-ontvankelijk verklaard, maar kent geen proceskosten toe omdat niet is aangetoond dat de hulp van de echtgenoot op zakelijke basis was.",
+  "bron": [
+   27
+  ],
+  "citaat": "niet aannemelijk gemaakt dat de door haar echtgenoot verleende rechtsbijstand op zakelijke basis heeft plaatsgevonden"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente verklaarde het bezwaar van het bedrijf niet-ontvankelijk en wees het verzoek om proceskosten af.",
+   "bron": [
+    17
+   ],
+   "citaat": "Verder heeft verweerder het verzoek om een proceskostenvergoeding afgewezen."
+  },
+  {
+   "zin": "Het bedrijf vroeg een vergoeding voor rechtsbijstand van de echtgenoot en stelde dat het ten onrechte niet was gehoord.",
+   "bron": [
+    26
+   ],
+   "citaat": "Eiseres heeft zich in bezwaar en in beroep laten vertegenwoordigen door haar echtgenoot."
+  },
+  {
+   "zin": "Partijen waren het eens dat het bezwaar ten onrechte niet-ontvankelijk was verklaard.",
+   "bron": [
+    19
+   ],
+   "citaat": "het bezwaar van eiseres ten onrechte niet-ontvankelijk heeft verklaard"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente niet hoefde te horen, omdat de aanslag al was vernietigd.",
+   "bron": [
+    24
+   ],
+   "citaat": "Naar het oordeel van de rechtbank heeft verweerder van het horen mogen afzien."
+  },
+  {
+   "zin": "Hulp van iemand uit hetzelfde huishouden geldt in beginsel niet als zakelijke hulp, en het bedrijf liet niet het tegendeel zien.",
+   "bron": [
+    27
+   ],
+   "citaat": "niet aannemelijk gemaakt dat de door haar echtgenoot verleende rechtsbijstand op zakelijke basis heeft plaatsgevonden"
+  },
+  {
+   "zin": "De aanslag is vernietigd en het bedrijf krijgt griffierecht terug, maar geen proceskosten en geen schadevergoeding.",
+   "bron": [
+    47
+   ],
+   "citaat": "het betaalde griffierecht van € 50,- aan eiseres moet vergoeden"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Bezwaar had niet-ontvankelijk mogen zijn; proceskosten en schade afgewezen.",
+ "gevolg_betrokkene": {
+  "zin": "De aanslag is vernietigd en de burger krijgt € 50 griffierecht terug, maar geen vergoeding voor proceskosten of schade.",
+  "bron": [
+   47
+  ],
+  "citaat": "het betaalde griffierecht van € 50,- aan eiseres moet vergoeden"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "proceskosten-vergoeding",
+   "burger_zegt": "De burger wil een vergoeding voor de rechtsbijstand die de echtgenoot gaf.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ziet geen bewijs dat de hulp zakelijk was en dat er kosten betaald moeten worden.",
+    "bron": [
+     27
+    ],
+    "citaat": "niet aannemelijk gemaakt dat op haar een verplichting rust of zal komen te rusten om kosten"
+   },
+   "bruikbare_zin": {
+    "citaat": "als de rechtsbijstand wordt verleend door een persoon die behoort tot het huishouden van belanghebbende in beginsel moet worden aangenomen dat deze niet op zakelijke basis is verleend",
+    "bron": [
+     27
+    ]
+   }
+  },
+  {
+   "arg": "niet-gehoord",
+   "burger_zegt": "De burger zegt dat zij in bezwaar ten onrechte niet is gehoord.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente hoefde niet te horen omdat het bezwaar volledig werd toegewezen.",
+    "bron": [
+     24
+    ],
+    "citaat": "Het verzoek om proceskostenvergoeding is een bijkomend verzoek, waarover verweerder niet verplicht was eiseres te horen."
+   },
+   "bruikbare_zin": {
+    "citaat": "Ook wanneer verweerder voornemens is om een bijkomend verzoek om proceskostenvergoeding af te wijzen, bestaat geen verplichting te horen.",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De burger zegt dat het bezwaar ten onrechte niet-ontvankelijk is verklaard.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Partijen waren het erover eens dat het bezwaar ten onrechte niet-ontvankelijk was verklaard.",
+    "bron": [
+     19
+    ],
+    "citaat": "het bezwaar van eiseres ten onrechte niet-ontvankelijk heeft verklaard"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Hulp van iemand uit hetzelfde huishouden geldt in beginsel niet als beroepsmatige hulp waarvoor proceskosten worden vergoed.",
+  "type": "regel",
+  "reikwijdte": "Verzoeken om kostenvergoeding voor rechtsbijstand door een gezins- of familielid dat tot het huishouden hoort",
+  "uitzondering": "Als de burger aannemelijk maakt dat de hulp op zakelijke basis is verleend",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   27
+  ],
+  "citaat": "als de rechtsbijstand wordt verleend door een persoon die behoort tot het huishouden van belanghebbende in beginsel moet worden aangenomen dat deze niet op zakelijke basis is verleend"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De burger en de gemachtigde woonden op hetzelfde adres en waren gehuwd, en er was geen onderbouwing van een betalingsverplichting."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:72 lid 3 Awb",
+  "art. 7:2 Awb",
+  "art. 7:3 onder e Awb",
+  "art. 231 Gemeentewet",
+  "art. 1 Besluit proceskosten bestuursrecht",
+  "art. 8:88 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij een verzoek om proceskosten voor hulp van een huisgenoot om bewijs dat de hulp zakelijk is en dat er kosten betaald moeten worden",
+   "raakt": "proceskosten-no-cure-no-pay",
+   "bron": [
+    27
+   ],
+   "citaat": "niet aannemelijk gemaakt dat op haar een verplichting rust of zal komen te rusten om kosten"
+  },
+  {
+   "actie": "Zie af van horen als het bezwaar helemaal wordt toegewezen, ook als alleen de proceskosten worden afgewezen",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    24
+   ],
+   "citaat": "Ook wanneer verweerder voornemens is om een bijkomend verzoek om proceskostenvergoeding af te wijzen, bestaat geen verplichting te horen."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "proceskosten-no-cure-no-pay"
+ ],
+ "klantuitleg": "Als de gemeente uw bezwaar ten onrechte afwijst, kan de rechter dat herstellen en krijgt u het griffierecht terug. Hulp van een partner of huisgenoot wordt in de regel niet vergoed, tenzij u laat zien dat die hulp zakelijk was en u daarvoor moet betalen. Bewaar daarom een factuur of afspraak als u kosten wilt terugvragen.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

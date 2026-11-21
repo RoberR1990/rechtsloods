@@ -1,0 +1,174 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "dubbel_van": null,
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": null,
+ "ecli": "ECLI:NL:RVS:2025:6429",
+ "onderwerp": "dwangsom-niet-tijdig",
+ "sub": "uitzonderingen",
+ "kenmerk": "geen-besluit",
+ "zaaktype": "dwangsom-niet-tijdig",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Lisse",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger staat tegenover het college van de gemeente Lisse bij de Raad van State, in hoger beroep. Het gaat om een dwangsom (vergoeding bij te laat beslissen) na een verzoek om inzage in gegevens.",
+ "titel": "Schrijffout in ondertekening maakt besluit niet ongeldig",
+ "kern": {
+  "zin": "De rechter bevestigt dat het college tijdig besloot en dat het beroep niet-ontvankelijk is, omdat de burger zijn kritiek in hoger beroep niet nieuw onderbouwde.",
+  "bron": [
+   24
+  ],
+  "citaat": "kan zich vinden in het oordeel van de rechtbank"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger deed een verzoek om inzage in een factuur en vroeg later om een dwangsom wegens te laat beslissen.",
+   "bron": [
+    19
+   ],
+   "citaat": "Op 26 januari 2025 heeft [appellant] een ‘Formulier dwangsom bij niet tijdig beslissen’ ingediend bij het college"
+  },
+  {
+   "zin": "De gemeente liet weten dat zij al op 5 januari 2024 tijdig had besloten.",
+   "bron": [
+    19
+   ],
+   "citaat": "dat tijdig, namelijk op 5 januari 2024, een besluit is genomen op zijn verzoek"
+  },
+  {
+   "zin": "De burger zei dat het besluit door een onbevoegd orgaan was genomen en dat de fout voor rekening van de gemeente komt.",
+   "bron": [
+    23
+   ],
+   "citaat": "Het besluit is namelijk genomen door een onbevoegd bestuursorgaan"
+  },
+  {
+   "zin": "De rechtbank zag in de naam van een andere gemeente in de ondertekening een kennelijke verschrijving die de burger had moeten opvallen.",
+   "bron": [
+    21
+   ],
+   "citaat": "De rechtbank gaat uit van een kennelijke verschrijving, welke [appellant] kenbaar had moeten zijn gelet op het besluit"
+  },
+  {
+   "zin": "De rechter vindt dat de burger geen reden gaf waarom het oordeel van de rechtbank onjuist zou zijn.",
+   "bron": [
+    24
+   ],
+   "citaat": "heeft geen redenen aangevoerd waarom de gemotiveerde beoordeling van die gronden in de aangevallen uitspraak onjuist of onvolledig zou zijn"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    25
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak moet worden bevestigd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Besluit was tijdig genomen; hoger beroep ongegrond",
+ "gevolg_betrokkene": {
+  "zin": "Het beroep van de burger blijft niet-ontvankelijk, er komt geen dwangsom en hij krijgt geen proceskosten vergoed.",
+  "bron": [
+   26
+  ],
+  "citaat": "Het college hoeft geen proceskosten te vergoeden."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "niet-tijdig-beslist",
+   "burger_zegt": "De gemeente heeft niet op tijd beslist, dus ik heb recht op een dwangsom.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechtbank oordeelde dat het college op 5 januari 2024 al had beslist.",
+    "bron": [
+     21
+    ],
+    "citaat": "dat het college op 5 januari 2024 op het verzoek van [appellant] heeft beslist"
+   },
+   "bruikbare_zin": {
+    "citaat": "het college op 5 januari 2024 op het verzoek van [appellant] heeft beslist",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er is geen geldig besluit, omdat de ondertekening een andere gemeente noemt en de fout voor rekening van de gemeente komt.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een andere gemeentenaam in de ondertekening maakt volgens de rechtbank niet dat er geen besluit is genomen.",
+    "bron": [
+     21
+    ],
+    "citaat": "maakt naar het oordeel van de rechtbank niet dat er door het college geen besluit volgens de Algemene wet bestuursrecht"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De rechtbank had het beroep moeten zien als bezwaar tegen het besluit van 5 januari 2024.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger onderbouwde dit standpunt niet nader.",
+    "bron": [
+     24
+    ],
+    "citaat": "van 5 januari 2024, heeft hij niet nader onderbouwd"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een kennelijke verschrijving in de ondertekening, zoals de naam van een andere gemeente, maakt een besluit niet ongeldig als briefhoofd, kenmerk en rechtsmiddelenclausule duidelijk maken wie besloot.",
+  "bron": [
+   21
+  ],
+  "citaat": "De rechtbank gaat uit van een kennelijke verschrijving",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Besluiten van gemeenten in een gedeelde werkorganisatie waarbij alleen de ondertekening de verkeerde gemeente noemt.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "briefhoofd",
+   "kenmerk",
+   "rechtsmiddelenclausule"
+  ],
+  "wat_gaf_doorslag": "Briefhoofd, kenmerk en rechtsmiddelenclausule lieten zien dat het college besloot."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "AVG (inzageverzoek)",
+  "Awb (begrip besluit)"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij brieven vanuit een gedeelde werkorganisatie dat de ondertekening de juiste gemeente noemt, zodat er geen discussie ontstaat over een geldig besluit.",
+   "raakt": "besluitvorming-motivering",
+   "bron": [
+    21
+   ],
+   "citaat": "dat de gemeente Lisse en de gemeente Teylingen tot de werkorganisatie HLTsamen behoren"
+  }
+ ],
+ "raakt": [
+  "besluitvorming-motivering",
+  "bezwaar-juridische-zaken",
+  "termijnbewaking"
+ ],
+ "klantuitleg": "Een brief van de gemeente kan gewoon een besluit zijn, ook als er een schrijffout in de ondertekening staat, zolang duidelijk is welke gemeente besloot. Heeft de gemeente op tijd besloten, dan is er geen dwangsom (een vergoeding bij te laat beslissen). Twijfelt u of de brief een besluit is, maak dan toch tijdig bezwaar.",
+ "gemeente": "Lisse",
+ "zekerheid": "middel"
+}

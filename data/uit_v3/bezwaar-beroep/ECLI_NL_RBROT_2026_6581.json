@@ -1,0 +1,175 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2026:6581",
+ "relevant": true,
+ "onderwerp": "hoorplicht",
+ "sub": "afzien-van-horen",
+ "kenmerk": "kennelijk-ongegrond",
+ "zaaktype": "hoorplicht",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "minister",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner ging bij de rechtbank Rotterdam in beroep tegen de minister van Sociale Zaken en Werkgelegenheid, omdat die geen ontheffing van de inburgeringsplicht gaf. Een van de vragen was of de minister de bewoner in bezwaar had moeten horen.",
+ "titel": "Hoorzitting mag vervallen als bezwaar duidelijk niet kan slagen",
+ "kern": {
+  "zin": "De minister mocht in dit geval afzien van het horen in bezwaar, omdat het bezwaar niet tot een ander besluit kon leiden.",
+  "bron": [
+   40
+  ],
+  "citaat": "is van oordeel dat de minister in dit geval heeft mogen afzien van het horen van eiseres in bezwaar"
+ },
+ "samenvatting": [
+  {
+   "zin": "De minister wees de aanvraag af om de bewoner te ontheffen van de inburgeringsplicht (de plicht om Nederlands te leren en examen te doen).",
+   "bron": [
+    10
+   ],
+   "citaat": "Deze uitspraak gaat over de afwijzing van een aanvraag van eiseres om haar ontheffing te verlenen van haar inburgeringsplicht"
+  },
+  {
+   "zin": "De bewoner vond dat zij in bezwaar gehoord had moeten worden, omdat een hoorzitting iets had kunnen veranderen.",
+   "bron": [
+    38
+   ],
+   "citaat": "had een hoorzitting van toegevoegde waarde kunnen zijn en wellicht bij de minister tot andere inzichten kunnen leiden"
+  },
+  {
+   "zin": "De minister hoorde de bewoner niet in bezwaar en verklaarde het bezwaar ongegrond.",
+   "bron": [
+    40,
+    21
+   ],
+   "citaat": "is van oordeel dat de minister in dit geval heeft mogen afzien van het horen van eiseres in bezwaar"
+  },
+  {
+   "zin": "Volgens de rechter mag het horen soms achterwege blijven, bijvoorbeeld als het bezwaar kennelijk ongegrond (duidelijk kansloos) is.",
+   "bron": [
+    39
+   ],
+   "citaat": "In sommige gevallen kan daarvan echter worden afgezien, bijvoorbeeld wanneer het bezwaar kennelijk ongegrond is"
+  },
+  {
+   "zin": "In dit geval kon wat de bewoner in bezwaar aanvoerde niet tot een ander besluit leiden, dus horen was niet nodig.",
+   "bron": [
+    40
+   ],
+   "citaat": "Gelet op dit alles kon wat eiseres in bezwaar heeft aangevoerd niet tot een andersluidend besluit leiden"
+  },
+  {
+   "zin": "Het beroep is ongegrond, dus de afwijzing blijft staan.",
+   "bron": [
+    42
+   ],
+   "citaat": "Dat betekent dat het besluit om eiseres niet te ontheffen van haar inburgeringsplicht in stand blijft"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Minister mocht afzien van horen; beroep ongegrond.",
+ "gevolg_betrokkene": {
+  "zin": "De afwijzing blijft staan en de bewoner krijgt het griffierecht niet terug en geen proceskosten vergoed.",
+  "bron": [
+   42
+  ],
+  "citaat": "Eiseres krijgt daarom het griffierecht niet terug. Zij krijgt ook geen vergoeding van haar proceskosten"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "niet-gehoord",
+   "burger_zegt": "De minister had mij in bezwaar moeten horen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Wat de bewoner in bezwaar aanvoerde kon niet tot een ander besluit leiden, en dat een hoorzitting dit zou veranderen was niet onderbouwd.",
+    "bron": [
+     40
+    ],
+    "citaat": "Gelet op dit alles kon wat eiseres in bezwaar heeft aangevoerd niet tot een andersluidend besluit leiden"
+   },
+   "bruikbare_zin": {
+    "citaat": "een bezwaar kennelijk ongegrond is als er op voorhand redelijkerwijs geen twijfel over mogelijk is dat de bezwaren niet kunnen leiden tot een andersluidend besluit",
+    "bron": [
+     39
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De minister mocht het medisch advies niet gebruiken, want dat was onzorgvuldig tot stand gekomen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het advies was zorgvuldig gemaakt, de redenering was begrijpelijk en de conclusies sloten daarop aan.",
+    "bron": [
+     28
+    ],
+    "citaat": "zorgvuldig tot stand gekomen, de redenering daarin is begrijpelijk en de getrokken conclusies sluiten daarop aan"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De minister had een tijdelijke ontheffing moeten geven.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De wet geeft de minister geen grondslag voor een tijdelijke ontheffing.",
+    "bron": [
+     36
+    ],
+    "citaat": "De Wi 2013 geeft de minister geen wettelijke grondslag om een tijdelijke ontheffing voor achttien maanden te verlenen"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bestuursorgaan mag afzien van horen in bezwaar als op voorhand redelijkerwijs geen twijfel is dat de bezwaren niet tot een ander besluit kunnen leiden.",
+  "type": "regel",
+  "reikwijdte": "Beslissing om af te zien van horen in bezwaar bij een kennelijk ongegrond bezwaar",
+  "uitzondering": "Is er wel twijfel, dan moet de burger worden gehoord.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   39
+  ],
+  "citaat": "een bezwaar kennelijk ongegrond is als er op voorhand redelijkerwijs geen twijfel over mogelijk is"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "medisch advies van een verzekeringsarts",
+   "brieven van een behandelaar"
+  ],
+  "wat_gaf_doorslag": "De bewoner maakte niet concreet dat een hoorzitting tot een ander besluit had kunnen leiden."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 3:9 Awb",
+  "art. 3:2 Awb",
+  "art. 5 Wet inburgering 2021",
+  "art. 2.7 Besluit inburgering 2021"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Beoordeel voordat u afziet van horen of de bezwaargronden redelijkerwijs niet tot een ander besluit kunnen leiden, en leg dat vast",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    40
+   ],
+   "citaat": "Gelet op dit alles kon wat eiseres in bezwaar heeft aangevoerd niet tot een andersluidend besluit leiden"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "klantcontact"
+ ],
+ "klantuitleg": "Normaal wordt u gehoord voordat op uw bezwaar wordt beslist. Dat kan soms achterwege blijven, bijvoorbeeld als uw bezwaar zo zwak is dat een gesprek redelijkerwijs niets kan veranderen. Vraag in uw bezwaarschrift om een hoorzitting en leg uit wat u daar nog extra wilt vertellen of laten zien.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "minister is partij, geen gemeente",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

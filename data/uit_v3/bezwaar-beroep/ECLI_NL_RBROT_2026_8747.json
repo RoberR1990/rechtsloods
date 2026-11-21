@@ -1,0 +1,191 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "ecli": "ECLI:NL:RBROT:2026:8747",
+ "onderwerp": "bezwaartermijn-verschoonbaar",
+ "sub": "verschoonbaar",
+ "kenmerk": "onbekend-rechtsmiddel",
+ "zaaktype": "bezwaar-beroepstermijn",
+ "partijen": {
+  "burger": "bewoner met gemachtigde",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger vroeg de gemeente Rotterdam om schadevergoeding voor een besluit uit 2005. De gemeente wees dat af en de burger ging in beroep bij de rechtbank Rotterdam, die ook keek of het beroep op tijd was.",
+ "titel": "Te laat beroep, maar fout van gemeente; schadeverzoek toch afgewezen",
+ "kern": {
+  "zin": "De rechter vindt het te late beroep te verontschuldigen door de foute uitleg van de gemeente, maar kent toch geen schadevergoeding toe.",
+  "bron": [
+   37
+  ],
+  "citaat": "De rechtbank komt daarmee tot het oordeel dat de termijnoverschrijding niet aan eiser kan worden toegerekend"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente wees het verzoek om schadevergoeding op 21 december 2024 af.",
+   "bron": [
+    24
+   ],
+   "citaat": "Het college heeft het verzoek om schadevergoeding op 21 december 2024 schriftelijk afgewezen"
+  },
+  {
+   "zin": "De burger zei dat het besluit uit 2005 onrechtmatig was en dat hij daardoor schade had.",
+   "bron": [
+    26
+   ],
+   "citaat": "Eiser heeft naar voren gebracht dat het college in 2005 een onrechtmatig besluit heeft genomen"
+  },
+  {
+   "zin": "De gemeente vond het beroep te laat, ook omdat de burger een professionele rechtsbijstandverlener had.",
+   "bron": [
+    32
+   ],
+   "citaat": "Omdat tussen het bestreden besluit en het indienen van het verzoekschrift (beroepschrift) langer dan zes weken tussen zit"
+  },
+  {
+   "zin": "De rechter vond het beroep wel te laat, maar de gemeente had een foute uitleg over bezwaar en beroep in het besluit gezet. Daarom was de termijnoverschrijding te verontschuldigen.",
+   "bron": [
+    37
+   ],
+   "citaat": "De rechtbank komt daarmee tot het oordeel dat de termijnoverschrijding niet aan eiser kan worden toegerekend"
+  },
+  {
+   "zin": "Op de schade ging het mis: de burger kon met stukken niet aantonen dat de schade door het besluit kwam.",
+   "bron": [
+    43
+   ],
+   "citaat": "Omdat het causale verband niet is aangetoond, komt eiser niet in aanmerking voor schadevergoeding"
+  },
+  {
+   "zin": "Door de fout van de gemeente krijgt de burger wel zijn griffierecht terug.",
+   "bron": [
+    45
+   ],
+   "citaat": "Gelet op het geconstateerde gebrek als genoemd in 4.6 moet het college het griffierecht aan eiser vergoeden"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Te laat beroep was te verontschuldigen; schadevergoeding toch geweigerd",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen schadevergoeding, maar de gemeente betaalt wel € 194 griffierecht en € 1.868 proceskosten.",
+  "bron": [
+   45
+  ],
+  "citaat": "Dat betekent dat eiser geen schadevergoeding krijgt."
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-te-laat",
+   "burger_zegt": "Mijn beroep was te laat, maar dat is mij niet te verwijten.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente zette zelf een foute uitleg over de rechtsmiddelen in het besluit.",
+    "bron": [
+     37
+    ],
+    "citaat": "De rechtbank komt daarmee tot het oordeel dat de termijnoverschrijding niet aan eiser kan worden toegerekend"
+   },
+   "bruikbare_zin": {
+    "citaat": "nu het college zelf een foutieve rechtsmiddelenclausule in het bestreden besluit heeft opgenomen",
+    "bron": [
+     37
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het besluit uit 2005 was onrechtmatig en heeft mij schade bezorgd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger toonde met stukken niet aan dat de schade door het besluit kwam.",
+    "bron": [
+     43
+    ],
+    "citaat": "Omdat het causale verband niet is aangetoond, komt eiser niet in aanmerking voor schadevergoeding"
+   },
+   "bruikbare_zin": {
+    "citaat": "het causale verband tussen de schade en het besluit van 21 oktober 2005 door eiser onvoldoende met stukken onderbouwd",
+    "bron": [
+     43
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De vordering is niet verjaard (de gemeente zei van wel).",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter volgde de gemeente niet: de verjaringstermijn was nog niet gaan lopen.",
+    "bron": [
+     39
+    ],
+    "citaat": "Naar het oordeel van de rechtbank is de vordering van eiser niet verjaard"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een te late brief is te verontschuldigen als de overschrijding niet aan de indiener ligt, bijvoorbeeld door het handelen van het bestuursorgaan.",
+  "type": "regel",
+  "reikwijdte": "Te late bezwaar- of beroepschriften waarbij het bestuursorgaan zelf de oorzaak is, ook als een professionele gemachtigde helpt",
+  "uitzondering": "De brief moet ook zo spoedig mogelijk zijn ingediend",
+  "herkomst": "wet",
+  "bron": [
+   34
+  ],
+  "citaat": "of als de termijnoverschrijding is veroorzaakt door het handelen of nalaten van het bestuursorgaan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "brief van de gemeente van 9 april 2024"
+  ],
+  "wat_gaf_doorslag": "De burger onderbouwde met stukken niet dat het besluit uit 2005 de oorzaak van de schade was."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:7 Awb",
+  "art. 6:11 Awb",
+  "art. 3:45 lid 1 Awb",
+  "art. 6:22 Awb",
+  "art. 8:88 Awb",
+  "art. 3:310 BW",
+  "art. IV Wet nadeelcompensatie en schadevergoeding bij onrechtmatige besluiten"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet in elk besluit de juiste rechtsmiddelenclausule: waar de burger bezwaar of beroep kan doen en binnen welke termijn",
+   "raakt": "besluitvorming-motivering",
+   "bron": [
+    35
+   ],
+   "citaat": "in strijd met artikel 3:45, eerste lid, van de Awb, een onjuiste rechtsmiddelenclausule was opgenomen"
+  },
+  {
+   "actie": "Controleer bij een schadeverzoek over een oud besluit of het oude recht geldt en wijs de juiste procedure aan",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    30
+   ],
+   "citaat": "blijft op schade, veroorzaakt door een besluit dat werd bekendgemaakt of een handeling die werd verricht voor 1 juli 2013"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "besluitvorming-motivering",
+  "termijnbewaking",
+  "klantcontact"
+ ],
+ "klantuitleg": "Staat in de brief van de gemeente niet goed waar u bezwaar kunt maken, dan kan een te late reactie toch worden geaccepteerd. Dat betekent niet dat u ook uw schade vergoed krijgt, want u moet met stukken aantonen dat de schade door het besluit komt. Bewaar daarom brieven en uitspraken die dat laten zien.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "zekerheid": "middel",
+ "dubbel_van": null
+}

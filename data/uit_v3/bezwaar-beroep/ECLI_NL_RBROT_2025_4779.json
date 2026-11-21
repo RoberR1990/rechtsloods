@@ -1,0 +1,161 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "dubbel_van": null,
+ "ecli": "ECLI:NL:RBROT:2025:4779",
+ "onderwerp": "bezwaartermijn-verschoonbaar",
+ "sub": "verschoonbaar",
+ "kenmerk": "ziekte-persoonlijk",
+ "zaaktype": "bezwaar-beroepstermijn",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een inwoner maakte te laat bezwaar tegen een verkeersbesluit van de gemeente Rotterdam over een laadpaal. Zij ging in beroep bij de rechtbank Rotterdam.",
+ "titel": "Bezwaar tegen laadpaal te laat; persoonlijke omstandigheden niet onderbouwd",
+ "kern": {
+  "zin": "De rechtbank beslist dat het bezwaar te laat was en dat de burger haar persoonlijke omstandigheden niet heeft uitgelegd of met stukken onderbouwd, dus de termijn is niet te excuseren.",
+  "bron": [
+   21
+  ],
+  "citaat": "Eiseres heeft deze stelling niet nader toegelicht en ook niet onderbouwd met (medische) stukken."
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente maakte het verkeersbesluit op 8 februari 2024 bekend in het Gemeenteblad (het officiële blad van de gemeente).",
+   "bron": [
+    17
+   ],
+   "citaat": "Vast staat dat verweerder het besluit waartegen bezwaar is gemaakt op 8 februari 2024 heeft gepubliceerd in het Gemeenteblad"
+  },
+  {
+   "zin": "De burger maakte pas op 11 juli 2024 bezwaar, terwijl de termijn van zes weken in maart 2024 afliep.",
+   "bron": [
+    18
+   ],
+   "citaat": "Eiseres heeft op 11 juli 2024 digitaal bezwaar gemaakt."
+  },
+  {
+   "zin": "De burger zei dat zij het alleen digitaal bekendgemaakte besluit door persoonlijke omstandigheden niet kon zien.",
+   "bron": [
+    20
+   ],
+   "citaat": "Het verkeersbesluit is alleen digitaal bekend gemaakt"
+  },
+  {
+   "zin": "De rechtbank vindt dat publicatie in het Gemeenteblad de juiste bekendmaking is en dat de gemeente niet ook op een andere manier hoefde te informeren.",
+   "bron": [
+    21
+   ],
+   "citaat": "Het primaire besluit is op de juiste wijze bekendgemaakt in het Gemeenteblad."
+  },
+  {
+   "zin": "De burger heeft haar persoonlijke omstandigheden niet toegelicht of met stukken onderbouwd, dus het te laat zijn is niet te excuseren en het bezwaar is terecht niet in behandeling genomen.",
+   "bron": [
+    21
+   ],
+   "citaat": "Eiseres heeft deze stelling niet nader toegelicht en ook niet onderbouwd met (medische) stukken."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Bezwaar te laat; niet-onderbouwde persoonlijke omstandigheden maken dat niet verschoonbaar.",
+ "gevolg_betrokkene": {
+  "zin": "Het besluit over de laadpaal blijft in stand en de burger krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   23
+  ],
+  "citaat": "Dat betekent dat het bestreden besluit in stand blijft."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-te-laat",
+   "burger_zegt": "Door persoonlijke omstandigheden kon zij niet op tijd bezwaar maken.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger heeft haar stelling niet toegelicht en niet met stukken onderbouwd.",
+    "bron": [
+     21
+    ],
+    "citaat": "Eiseres heeft deze stelling niet nader toegelicht en ook niet onderbouwd met (medische) stukken."
+   },
+   "bruikbare_zin": {
+    "citaat": "niet nader toegelicht en ook niet onderbouwd met (medische) stukken",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het besluit is alleen digitaal bekendgemaakt, dus zij kon het niet tijdig zien.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het besluit is in het Gemeenteblad op de juiste wijze bekendgemaakt.",
+    "bron": [
+     21
+    ],
+    "citaat": "Het primaire besluit is op de juiste wijze bekendgemaakt in het Gemeenteblad."
+   },
+   "bruikbare_zin": {
+    "citaat": "nu verweerder daar op grond van artikel 3:42 van de Awb niet toe gehouden was",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Persoonlijke omstandigheden maken een te late indiening alleen verschoonbaar als de burger ze toelicht en onderbouwt.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Deze zaak: persoonlijke omstandigheden zonder uitleg of stukken",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "Eiseres heeft deze stelling niet nader toegelicht en ook niet onderbouwd met (medische) stukken."
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "medische stukken (ontbraken)"
+  ],
+  "wat_gaf_doorslag": "De burger onderbouwde haar persoonlijke omstandigheden niet en maakte na het zien van het bord wel direct bezwaar."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 3:42 Awb",
+  "art. 6 Bekendmakingswet",
+  "art. 6:7 Awb",
+  "art. 6:8 lid 1 Awb",
+  "art. 6:11 Awb",
+  "art. 8:54 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg de publicatiedatum van een verkeersbesluit in het Gemeenteblad vast, want daarmee loopt de bezwaartermijn",
+   "raakt": "termijnbewaking",
+   "bron": [
+    17
+   ],
+   "citaat": "Vast staat dat verweerder het besluit waartegen bezwaar is gemaakt op 8 februari 2024 heeft gepubliceerd in het Gemeenteblad"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "termijnbewaking",
+  "klantcontact"
+ ],
+ "klantuitleg": "Bij een verkeersbesluit telt de dag van publicatie in het Gemeenteblad. Vanaf die dag heeft u zes weken voor bezwaar. Was u te laat door persoonlijke omstandigheden, leg dan uit wat u hinderde en voeg stukken toe, zoals een verklaring van een arts.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "zekerheid": "hoog"
+}

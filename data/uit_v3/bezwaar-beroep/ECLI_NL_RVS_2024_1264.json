@@ -1,0 +1,150 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2024:1264",
+ "relevant": true,
+ "onderwerp": "proceskosten",
+ "sub": "proceskosten-beroep",
+ "kenmerk": "veroordeling-toegekend",
+ "zaaktype": "proceskosten",
+ "partijen": {
+  "burger": "particulier (aanvrager)",
+  "wederpartij": "college van beroep van een universiteit",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "anders",
+ "intro": "Een particulier vroeg de Raad van State om de proceskosten te laten vergoeden door een universiteit, nadat zij haar beroep wegens niet tijdig beslissen had ingetrokken. De universiteit had toen alsnog beslist op haar administratief beroep (een beroep binnen de organisatie, voordat de rechter kijkt).",
+ "titel": "Beroep ingetrokken na alsnog beslissen: kosten toch vergoed",
+ "kern": {
+  "zin": "De rechter veroordeelt de universiteit tot betaling van de proceskosten, omdat zij met alsnog beslissen tegemoet kwam aan het beroep wegens niet tijdig beslissen.",
+  "bron": [
+   21
+  ],
+  "citaat": "waardoor het naar het oordeel van de Afdeling is tegemoet gekomen aan het beroep niet tijdig beslissen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger trok haar beroep in omdat de universiteit had afgesproken alsnog op haar administratief beroep te beslissen.",
+   "bron": [
+    19
+   ],
+   "citaat": "heeft haar beroep ingetrokken omdat zij met het college is overeengekomen dat alsnog op haar administratief beroepschrift"
+  },
+  {
+   "zin": "De burger vond dat de universiteit haar daarmee tegemoet was gekomen en vroeg daarom om vergoeding van de proceskosten.",
+   "bron": [
+    19
+   ],
+   "citaat": "stelt dat het college hiermee tegemoet is gekomen aan haar beroep wegens niet tijdig beslissen"
+  },
+  {
+   "zin": "De universiteit vond dat de brief geen administratief beroep was en dat zij dus niet te laat had beslist.",
+   "bron": [
+    20
+   ],
+   "citaat": "De brief van 10 september 2022 was namelijk geen administratief beroepschrift, maar een verzoek aan de examencommissie"
+  },
+  {
+   "zin": "De rechter had eerder al geoordeeld dat die brief wel een administratief beroep was.",
+   "bron": [
+    21
+   ],
+   "citaat": "geoordeeld dat de brief van 10 september 2022 aangemerkt moet worden als een administratief beroepschrift"
+  },
+  {
+   "zin": "Omdat de universiteit alsnog beslist had, kwam zij de burger tegemoet.",
+   "bron": [
+    21
+   ],
+   "citaat": "Het college heeft deze beslissing op 27 februari 2023 alsnog genomen"
+  },
+  {
+   "zin": "De rechter veroordeelt de universiteit tot betaling van de proceskosten van de burger.",
+   "bron": [
+    25
+   ],
+   "citaat": "tot vergoeding van bij [appellante] in verband met de behandeling van het beroep bij de Afdeling opgekomen proceskosten"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Proceskostenvergoeding toegekend na intrekking van het beroep.",
+ "gevolg_betrokkene": {
+  "zin": "De universiteit moet € 437,50 proceskosten en € 50,00 griffierecht aan de burger betalen.",
+  "bron": [
+   25,
+   26
+  ],
+  "citaat": "tot vergoeding van bij [appellante] in verband met de behandeling van het beroep bij de Afdeling opgekomen proceskosten"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "proceskosten-vergoeding",
+   "burger_zegt": "Het beroep is ingetrokken omdat de universiteit alsnog beslist heeft; daarom moet zij de kosten betalen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De universiteit kwam het beroep tegemoet door alsnog te beslissen, dus een kostenveroordeling is mogelijk.",
+    "bron": [
+     21
+    ],
+    "citaat": "waardoor het naar het oordeel van de Afdeling is tegemoet gekomen aan het beroep niet tijdig beslissen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het college heeft deze beslissing op 27 februari 2023 alsnog genomen",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wordt een beroep ingetrokken omdat het bestuursorgaan de indiener tegemoetkomt, dan kan dat orgaan op verzoek in de kosten worden veroordeeld.",
+  "type": "regel",
+  "reikwijdte": "Intrekking van een beroep, ook bij niet tijdig beslissen, nadat het bestuursorgaan alsnog beslist.",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   18
+  ],
+  "citaat": "In geval van intrekking van het beroep omdat het bestuursorgaan geheel of gedeeltelijk aan de indiener"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "eerdere uitspraak van de rechter over dezelfde brief"
+  ],
+  "wat_gaf_doorslag": "De rechter had al bepaald dat de brief een administratief beroep was, dus de universiteit moest beslissen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2023:4263"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:57 Awb",
+  "art. 8:75 Awb",
+  "art. 8:75a lid 1 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Houd rekening met een proceskostenveroordeling als u alsnog beslist en het beroep tegen niet tijdig beslissen daarna wordt ingetrokken.",
+   "raakt": "proceskosten-no-cure-no-pay",
+   "bron": [
+    21
+   ],
+   "citaat": "waardoor het naar het oordeel van de Afdeling is tegemoet gekomen aan het beroep niet tijdig beslissen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "proceskosten-no-cure-no-pay",
+  "termijnbewaking"
+ ],
+ "klantuitleg": "Beslist de overheid niet op tijd en gaat u in beroep, dan kan de overheid daarna alsnog beslissen. Trekt u uw beroep dan in, dan kan de rechter bepalen dat de overheid uw kosten betaalt. Vraag dat bij het intrekken van uw beroep.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente; het bestuursorgaan is een universiteit",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

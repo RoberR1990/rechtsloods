@@ -1,0 +1,137 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2024:233",
+ "relevant": true,
+ "onderwerp": "proceskosten",
+ "sub": "forfait-wegingsfactor",
+ "kenmerk": "punten-per-proceshandeling",
+ "zaaktype": "proceskosten",
+ "partijen": {
+  "burger": "particulier",
+  "wederpartij": "het CAK",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een particulier ging in hoger beroep tegen het CAK over de hoogte van de proceskostenvergoeding (geld voor de kosten van de procedure). Het gaat om de Raad van State, na een uitspraak van de rechtbank Limburg.",
+ "titel": "Reacties op vragen van de rechtbank krijgen geen kostenvergoeding",
+ "kern": {
+  "zin": "De rechter wijst de extra kosten af, omdat reacties op brieven van de griffie niet in de lijst van vergoedbare proceshandelingen staan.",
+  "bron": [
+   28
+  ],
+  "citaat": "Deze kosten komen dan ook niet voor vergoeding in aanmerking."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger wilde vergoeding van de kosten voor twee reacties van zijn rechtsbijstandverlener op brieven van de rechtbank.",
+   "bron": [
+    27
+   ],
+   "citaat": "vergoeding wenst van de kosten die gemaakt zijn voor twee reacties van zijn rechtsbijstandverlener"
+  },
+  {
+   "zin": "Hij zei dat de rechtbank om nadere schriftelijke inlichtingen vroeg en dat deze proceshandelingen volgens het Besluit proceskosten bestuursrecht vergoed moeten worden.",
+   "bron": [
+    25
+   ],
+   "citaat": "deze verrichte proceshandelingen ingevolge het Besluit proceskosten bestuursrecht (hierna: Bpb) voor vergoeding in aanmerking komen"
+  },
+  {
+   "zin": "De rechter zegt dat kosten in beroep alleen vergoed worden voor proceshandelingen uit de bijlage bij dat besluit.",
+   "bron": [
+    28
+   ],
+   "citaat": "slechts plaatsvinden voor proceshandelingen die zijn opgenomen in de bijlage bij het Bpb"
+  },
+  {
+   "zin": "De twee reacties vallen volgens de rechter niet onder schriftelijke inlichtingen en ook niet onder een andere categorie in die bijlage.",
+   "bron": [
+    28
+   ],
+   "citaat": "vallen de twee reacties op de griffiersbrieven van de rechtbank niet onder de definitie van schriftelijke inlichtingen"
+  },
+  {
+   "zin": "Dat de brieven ook inhoudelijk op de zaak ingingen, verandert dat niet; het hoger beroep is ongegrond.",
+   "bron": [
+    28
+   ],
+   "citaat": "Daaraan doet niet af dat in de desbetreffende brieven"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoger beroep ongegrond; reacties op griffiersbrieven niet vergoedbaar",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen extra kostenvergoeding voor de twee reacties en ook geen vergoeding van kosten in hoger beroep.",
+  "bron": [
+   31
+  ],
+  "citaat": "Het CAK hoeft in de hoger beroepsprocedure geen proceskosten te vergoeden."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "proceskosten-vergoeding",
+   "burger_zegt": "De twee reacties op de brieven van de rechtbank moeten ook vergoed worden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Alleen handelingen uit de bijlage bij het Besluit proceskosten bestuursrecht worden vergoed, en deze reacties staan daar niet in.",
+    "bron": [
+     28
+    ],
+    "citaat": "slechts plaatsvinden voor proceshandelingen die zijn opgenomen in de bijlage bij het Bpb"
+   },
+   "bruikbare_zin": {
+    "citaat": "Deze kosten komen dan ook niet voor vergoeding in aanmerking.",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Proceskosten in beroep worden alleen vergoed voor proceshandelingen die in de bijlage bij het Besluit proceskosten bestuursrecht staan.",
+  "type": "regel",
+  "reikwijdte": "Kosten van een gemachtigde in beroep en hoger beroep",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   28
+  ],
+  "citaat": "slechts plaatsvinden voor proceshandelingen die zijn opgenomen in de bijlage bij het Bpb"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:75 Awb",
+  "art. 8:45 Awb",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij een verzoek om proceskosten of de handeling in de bijlage bij het Besluit proceskosten bestuursrecht staat",
+   "raakt": "proceskosten-no-cure-no-pay",
+   "bron": [
+    28
+   ],
+   "citaat": "slechts plaatsvinden voor proceshandelingen die zijn opgenomen in de bijlage bij het Bpb"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "proceskosten-no-cure-no-pay",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "Wint u een zaak, dan vergoedt de overheid niet alle kosten van uw procedure. Alleen bepaalde handelingen staan in een vaste lijst, zoals het indienen van een beroepschrift. Een reactie op een brief van de rechtbank met vragen staat daar niet in, dus vraag vooraf aan uw rechtsbijstandverlener welke kosten u terug kunt krijgen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente; het bestuursorgaan is het CAK",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

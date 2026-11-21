@@ -1,0 +1,177 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2024:6105",
+ "relevant": true,
+ "dubbel_van": null,
+ "onderwerp": "dwangsom-niet-tijdig",
+ "sub": "ingebrekestelling-beslistermijn",
+ "kenmerk": "bezwaar-tegen-uitblijven",
+ "zaaktype": "dwangsom-niet-tijdig",
+ "partijen": {
+  "burger": "bewoners",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Vijf burgers vroegen de gemeente Rotterdam om een dwangsom (een bedrag per dag bij een te late beslissing) op hun bezwaar. De rechtbank Rotterdam oordeelt over het beroep van de burgers tegen de gemeente.",
+ "titel": "Besluit niet aantoonbaar verstuurd: gemeente moet dwangsom betalen",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente niet kon laten zien dat het besluit op bezwaar was verstuurd, dus was het besluit niet in werking getreden en was er te laat beslist.",
+  "bron": [
+   30
+  ],
+  "citaat": "Daarmee is dat besluit niet inwerking getreden. Daarom is geen sprake van een rechtsgeldig tijdig genomen besluit"
+ },
+ "samenvatting": [
+  {
+   "zin": "Vijf burgers stelden de gemeente in gebreke (een officiële waarschuwing) omdat een beslissing op hun bezwaar uitbleef.",
+   "bron": [
+    22
+   ],
+   "citaat": "Op 12 mei 2023 hebben eisers verweerder in gebreke gesteld wegens het uitblijven van een besluit op bezwaar"
+  },
+  {
+   "zin": "De burgers zeiden dat ze het besluit op bezwaar van 14 maart 2023 nooit hadden ontvangen.",
+   "bron": [
+    26
+   ],
+   "citaat": "Daartoe stellen zij dat zij het besluit op bezwaar van 14 maart 2023 niet hebben ontvangen"
+  },
+  {
+   "zin": "De gemeente zei dat ze op 14 maart 2023 al had beslist en dat er daarom geen dwangsom was.",
+   "bron": [
+    25
+   ],
+   "citaat": "Omdat er met het besluit van 14 maart 2023 op de bezwaren van eisers is beslist, is geen dwangsom verschuldigd"
+  },
+  {
+   "zin": "De gemeente kon geen bewijs van verzending laten zien, en dat risico is voor de gemeente.",
+   "bron": [
+    29
+   ],
+   "citaat": "geen verzendbewijs of track-and-trace code van het besluit van 14 maart 2023 kunnen overleggen"
+  },
+  {
+   "zin": "Daardoor was het besluit niet op de juiste manier bekendgemaakt en niet in werking getreden.",
+   "bron": [
+    30
+   ],
+   "citaat": "niet op de daartoe bestemde wijze is bekendgemaakt"
+  },
+  {
+   "zin": "De rechter stelde de dwangsom vast op het maximum, één keer voor alle burgers samen.",
+   "bron": [
+    32
+   ],
+   "citaat": "recht op de maximale dwangsom van € 1.442,-"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Maximale dwangsom toegekend en griffierecht vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet de burgers een dwangsom van € 1.442 betalen en het griffierecht van € 365 vergoeden; een vergoeding van proceskosten krijgen ze niet.",
+  "bron": [
+   43,
+   41,
+   35
+  ],
+  "citaat": "draagt verweerder op het betaalde griffierecht van € 365,- aan eisers te vergoeden"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "niet-tijdig-beslist",
+   "burger_zegt": "Wij kregen het besluit op bezwaar nooit, dus de gemeente heeft te laat beslist.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente kon niet aantonen dat ze het besluit had verstuurd.",
+    "bron": [
+     29
+    ],
+    "citaat": "Dat betekent dat verweerder niet heeft aangetoond het besluit van 14 maart 2023 te hebben verstuurd"
+   },
+   "bruikbare_zin": {
+    "citaat": "dient te worden onderzocht of het stuk door PostNL op regelmatige wijze aan het adres van de belanghebbende is aangeboden",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De burgers zeiden pas in beroep dat ze het besluit niet kregen; de gemeente vond dat ze dat al in bezwaar hadden moeten zeggen.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Er geldt geen grondenfuik (regel dat je in beroep geen nieuwe punten mag noemen), dus nieuwe gronden mogen in beroep.",
+    "bron": [
+     28
+    ],
+    "citaat": "geldt er in het bestuursprocesrecht immers geen zogenoemde grondenfuik tussen de fasen van bezwaar en beroep"
+   },
+   "bruikbare_zin": {
+    "citaat": "eisers in beroep nieuwe, niet eerder aangevoerde, gronden mogen aan te voeren",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Is een besluit aangetekend verstuurd en zegt de burger het niet te hebben ontvangen, dan moet worden onderzocht of PostNL het goed heeft aangeboden; kan de gemeente dat niet laten zien, dan blijft dat voor haar risico.",
+  "type": "regel",
+  "reikwijdte": "Besluiten die aangetekend zijn verzonden en waarvan de ontvangst wordt ontkend.",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   29
+  ],
+  "citaat": "dient te worden onderzocht of het stuk door PostNL op regelmatige wijze aan het adres"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verzendbewijs",
+   "track-and-trace code van de aangetekende zending",
+   "uitdraai van de interne postverzendadministratie"
+  ],
+  "wat_gaf_doorslag": "De gemeente kon geen verzendbewijs of track-and-trace code laten zien."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2018:585"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 3:41 lid 1 Awb",
+  "art. 4:17 lid 2 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bewaar bij aangetekende post een uitdraai van de track-and-trace code in het dossier.",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    28
+   ],
+   "citaat": "Verweerder kan er ook zelf voor kiezen om een uitdraai van de track-and-trace code in het dossier te stoppen"
+  },
+  {
+   "actie": "Houd een zorgvuldige verzendadministratie bij, vooral bij gemachtigden die vaak zeggen post niet te hebben ontvangen.",
+   "raakt": "termijnbewaking",
+   "bron": [
+    28
+   ],
+   "citaat": "Bij deze gemachtigde is het extra van belang dat de gemeente zorgvuldig een verzendadministratie bijhoudt"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "termijnbewaking"
+ ],
+ "klantuitleg": "Zegt u dat u een besluit op uw bezwaar nooit kreeg, en kan de gemeente niet laten zien dat ze het goed heeft verstuurd, dan telt dat besluit niet. Dan kan de gemeente te laat zijn en kunt u recht hebben op een dwangsom (een bedrag per dag, met een maximum). Weigert de gemeente een dwangsom, maak dan bezwaar en bewaar uw brief met de waarschuwing.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "zekerheid": "hoog"
+}

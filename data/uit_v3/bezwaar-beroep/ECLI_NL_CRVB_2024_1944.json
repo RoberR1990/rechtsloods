@@ -1,0 +1,154 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:CRVB:2024:1944",
+ "relevant": true,
+ "onderwerp": "bezwaartermijn-verschoonbaar",
+ "sub": "termijn-berekening",
+ "kenmerk": "verzending-poststempel",
+ "zaaktype": "bezwaar-beroepstermijn",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "zorgkantoor",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger ging in hoger beroep bij de Centrale Raad van Beroep tegen een zorgkantoor. Het zorgkantoor vond het bezwaar van de burger te laat.",
+ "titel": "Bezwaarbrief kwam terug, maar was toch op tijd",
+ "kern": {
+  "zin": "De rechter vond het bezwaar op tijd, omdat de brief voor het einde van de termijn op de post was gedaan en de tweede keer binnen een week aankwam.",
+  "bron": [
+   27
+  ],
+  "citaat": "Hiermee is voldaan aan het gestelde in artikel 6:9, tweede lid, van de Awb en is tijdig bezwaar gemaakt."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger maakte bezwaar tegen een besluit van het zorgkantoor over een zorgbudget.",
+   "bron": [
+    17
+   ],
+   "citaat": "Appellant heeft bezwaar gemaakt tegen dit besluit."
+  },
+  {
+   "zin": "De burger zei dat hij zijn bezwaarbrief ruim op tijd had verstuurd, maar dat de brief terugkwam.",
+   "bron": [
+    22
+   ],
+   "citaat": "dat hij het bezwaarschrift ruim op tijd heeft verzonden, namelijk op 29 januari 2020"
+  },
+  {
+   "zin": "Het zorgkantoor verklaarde het bezwaar niet-ontvankelijk (niet in behandeling genomen), omdat het te laat zou zijn.",
+   "bron": [
+    18
+   ],
+   "citaat": "het zorgkantoor het bezwaar van appellant niet-ontvankelijk verklaard, omdat het bezwaar te laat is ingediend"
+  },
+  {
+   "zin": "De rechter oordeelde dat het zorgkantoor het bezwaar ten onrechte niet-ontvankelijk verklaarde.",
+   "bron": [
+    27
+   ],
+   "citaat": "Het zorgkantoor heeft het bezwaar daarom ten onrechte niet-ontvankelijk verklaard."
+  },
+  {
+   "zin": "Volgens de rechter was met het terugkomen van de brief de verzending niet afgelopen.",
+   "bron": [
+    27
+   ],
+   "citaat": "met de retourzending van het bezwaarschrift geen einde is gekomen aan de verzending"
+  },
+  {
+   "zin": "Het zorgkantoor moet opnieuw beslissen op het bezwaar.",
+   "bron": [
+    29
+   ],
+   "citaat": "opdragen een nieuwe beslissing op bezwaar te nemen"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Bezwaar was op tijd; het zorgkantoor moet opnieuw beslissen.",
+ "gevolg_betrokkene": {
+  "zin": "Het zorgkantoor moet opnieuw beslissen op het bezwaar en de burger krijgt € 1.771,60 aan proceskosten en € 184,- griffierecht vergoed.",
+  "bron": [
+   37,
+   38
+  ],
+  "citaat": "veroordeelt het zorgkantoor in de kosten van appellant tot een bedrag van € 1.771,60;"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Mijn bezwaarbrief was op tijd verstuurd en kwam terug; ik heb hem meteen opnieuw aangetekend verstuurd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het poststempel op de envelop toonde dat de brief voor het einde van de termijn op de post was gedaan.",
+    "bron": [
+     27
+    ],
+    "citaat": "Daar staat het poststempel, voorzien van de datum 27.II.20."
+   },
+   "bruikbare_zin": {
+    "citaat": "met de retourzending van het bezwaarschrift geen einde is gekomen aan de verzending",
+    "bron": [
+     27
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een brief die voor het einde van de termijn op de post is gedaan en binnen een week daarna aankomt, is op tijd.",
+  "type": "regel",
+  "reikwijdte": "bezwaar- en beroepschriften die per post worden verstuurd",
+  "uitzondering": "De brief moet uiterlijk een week na het einde van de termijn zijn ontvangen.",
+  "herkomst": "wet",
+  "bron": [
+   25
+  ],
+  "citaat": "bij verzending per post een bezwaar- of beroepschrift tijdig ingediend, indien het voor het einde van de termijn ter post is bezorgd"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "originele envelop met poststempel",
+   "aangetekende verzending"
+  ],
+  "wat_gaf_doorslag": "Het poststempel van 27 februari 2020 op de teruggekomen envelop."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:RVS:2018:52",
+   "ECLI:NL:CRVB:2015:787",
+   "ECLI:NL:CRVB:2021:2451"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 6:7 Awb",
+  "art. 6:9 lid 1 en 2 Awb",
+  "art. 8:72 lid 4 Awb",
+  "art. 8:113 lid 2 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bekijk bij een teruggekomen bezwaarschrift het poststempel op de envelop en bewaar de envelop in het dossier",
+   "raakt": "termijnbewaking",
+   "bron": [
+    27
+   ],
+   "citaat": "Daar staat het poststempel, voorzien van de datum 27.II.20."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "termijnbewaking",
+  "bezwaar-juridische-zaken",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een bezwaarbrief is op tijd als u hem voor het einde van de termijn op de post doet en hij binnen een week daarna aankomt. Komt uw brief terug en stuurt u hem meteen opnieuw, dan kan dit nog steeds op tijd zijn. Bewaar daarom de envelop met poststempel en het bewijs van verzending.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij (zorgkantoor)",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

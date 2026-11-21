@@ -1,0 +1,175 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2024:1550",
+ "relevant": true,
+ "onderwerp": "bezwaartermijn-verschoonbaar",
+ "sub": "verschoonbaar",
+ "kenmerk": "ziekte-persoonlijk",
+ "zaaktype": "bezwaar-beroepstermijn",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger ging in beroep bij de rechtbank Rotterdam tegen de gemeente Rotterdam. De gemeente had het bezwaar van de burger niet behandeld omdat het te laat was.",
+ "titel": "Te laat bezwaar door drukte is niet verschoonbaar",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente het bezwaar terecht niet behandelde, omdat een drukke periode het te laat indienen niet verschoonbaar maakte.",
+  "bron": [
+   21
+  ],
+  "citaat": "het college terecht het standpunt heeft ingenomen dat geen sprake is van een verschoonbare termijnoverschrijding"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente verklaarde het bezwaar niet-ontvankelijk (niet inhoudelijk bekeken), omdat het te laat was ingediend.",
+   "bron": [
+    12
+   ],
+   "citaat": "Het college heeft het bezwaar niet-ontvankelijk verklaard omdat het bezwaar niet tijdig was ingediend."
+  },
+  {
+   "zin": "De termijn voor bezwaar eindigde op 19 augustus 2023 en het bezwaar kwam te laat.",
+   "bron": [
+    17
+   ],
+   "citaat": "zodat de termijn voor het indienen van een bezwaarschrift eindigde op 19 augustus 2023"
+  },
+  {
+   "zin": "De burger zei dat zij het erg druk had met werk en zorgtaken en daarom de termijn over het hoofd zag.",
+   "bron": [
+    20
+   ],
+   "citaat": "waardoor zij het erg druk had en onvoldoende acht heeft geslagen op het tijdig maken van bezwaar"
+  },
+  {
+   "zin": "De gemeente nam aan dat de situatie intensief was, maar vond dat de burger toch een kort bezwaar had kunnen indienen.",
+   "bron": [
+    21
+   ],
+   "citaat": "dat eiseres helemaal niet in staat was om op tijd (pro forma) bezwaar te maken"
+  },
+  {
+   "zin": "De rechter vond dat de gevolgen van het te late bezwaar voor rekening en risico van de burger komen.",
+   "bron": [
+    21
+   ],
+   "citaat": "Ondanks deze omstandigheden komen de gevolgen voor het te laat indienen van het bezwaar voor haar rekening en risico."
+  },
+  {
+   "zin": "Het beroep is ongegrond en het besluit van de gemeente blijft in stand.",
+   "bron": [
+    23
+   ],
+   "citaat": "Het beroep is daarom ongegrond. Dat betekent dat het bestreden besluit in stand blijft."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Bezwaar te laat; drukte met werk en zorg is hier niet verschoonbaar",
+ "gevolg_betrokkene": {
+  "zin": "Het bezwaar wordt niet inhoudelijk bekeken, het besluit van de gemeente blijft staan en er is geen vergoeding van proceskosten.",
+  "bron": [
+   23
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-te-laat",
+   "burger_zegt": "Ik had het te druk met werk en zorgtaken, dus het te laat indienen is verschoonbaar.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Ondanks de drukte komen de gevolgen van het te late bezwaar voor rekening van de burger.",
+    "bron": [
+     21
+    ],
+    "citaat": "Ondanks deze omstandigheden komen de gevolgen voor het te laat indienen van het bezwaar voor haar rekening en risico."
+   },
+   "bruikbare_zin": {
+    "citaat": "dat eiseres helemaal niet in staat was om op tijd (pro forma) bezwaar te maken",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er zijn geen belangen van derden en ik heb zelf geprocedeerd, dus het is niet redelijk mij de termijn aan te rekenen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Die omstandigheden leiden volgens de rechter niet tot een andere conclusie.",
+    "bron": [
+     21
+    ],
+    "citaat": "geen belangen van derden in geschil zouden zijn en eiseres in persoon zou hebben geprocedeerd, niet tot een andere conclusie kunnen leiden"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet tot een andere conclusie kunnen leiden",
+    "bron": [
+     21
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een drukke periode met werk en zorgtaken maakt een te laat bezwaar niet verschoonbaar, als de burger nog wel een kort bezwaar had kunnen indienen.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Deze zaak: een drukke periode met werk en zorgtaken, zonder dat de burger helemaal niet in staat was om bezwaar te maken.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "dat eiseres helemaal niet in staat was om op tijd (pro forma) bezwaar te maken"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "eigen verklaring van de burger"
+  ],
+  "wat_gaf_doorslag": "De omstandigheden waren niet zo ernstig dat de burger helemaal niet in staat was om op tijd bezwaar te maken."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:7 Awb",
+  "art. 6:8 lid 1 Awb",
+  "art. 6:9 lid 1 en 2 Awb",
+  "art. 6:11 Awb",
+  "art. 8:54 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Motiveer bij een te laat bezwaar waarom de genoemde omstandigheden de burger niet belemmerden om op tijd een kort (pro forma) bezwaar in te dienen",
+   "raakt": "besluitvorming-motivering",
+   "bron": [
+    21
+   ],
+   "citaat": "niet zodanig zijn dat kan worden aangenomen dat eiseres helemaal niet in staat was om op tijd (pro forma) bezwaar te maken"
+  },
+  {
+   "actie": "Leg de verzenddatum van het besluit vast en bereken daaruit de einddatum van de bezwaartermijn",
+   "raakt": "termijnbewaking",
+   "bron": [
+    17
+   ],
+   "citaat": "door verzending per post, zodat de termijn voor het indienen van een bezwaarschrift eindigde op 19 augustus 2023"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "termijnbewaking",
+  "besluitvorming-motivering"
+ ],
+ "klantuitleg": "Een bezwaar moet binnen zes weken na het besluit binnen zijn. Bent u te laat, dan kijkt de gemeente niet naar de inhoud, tenzij u er echt niets aan kon doen. Drukte met werk of zorg was in deze zaak niet genoeg, dus dien bij twijfel snel een kort bezwaarschrift in en vul het later aan.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

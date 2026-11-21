@@ -1,0 +1,202 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "ecli": "ECLI:NL:RBROT:2024:2557",
+ "onderwerp": "motivering",
+ "sub": "herstel-of-behoud",
+ "kenmerk": "herstel-beroep",
+ "zaaktype": "motivering",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een inwoner wilde dat de gemeente Rotterdam haar adresgegevens in de basisregistratie personen (BRP) corrigeerde en ging in beroep bij de rechtbank Rotterdam. De rechter keek vooral of de gemeente de afwijzing goed had uitgelegd.",
+ "titel": "Onvoldoende uitleg, maar gemeente herstelt fout en afwijzing blijft",
+ "kern": {
+  "zin": "Het besluit was onvoldoende uitgelegd, maar de gemeente herstelde dat in beroep, dus de afwijzing blijft staan.",
+  "bron": [
+   37
+  ],
+  "citaat": "dat verweerder het geconstateerde gebrek alsnog heeft hersteld en dat eiseres zich hierover ook voldoende heeft kunnen uitlaten"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente wees het verzoek af om de adresgegevens in de BRP te corrigeren en bleef daarbij na bezwaar.",
+   "bron": [
+    10
+   ],
+   "citaat": "heeft verweerder het verzoek van eiseres om haar adresgegevens in de basisregistratie personen (brp) te corrigeren afgewezen"
+  },
+  {
+   "zin": "De burger vond dat de gemeente onvoldoende had uitgelegd waarom haar documenten niet genoeg waren.",
+   "bron": [
+    27
+   ],
+   "citaat": "heeft verweerder onvoldoende gemotiveerd waarom de door eiseres overgelegde documenten onvoldoende zijn om het correctieverzoek in te willigen"
+  },
+  {
+   "zin": "De gemeente vond in beroep dat het verzoek al afgewezen mocht worden omdat de bewaartermijnen waren verstreken.",
+   "bron": [
+    29
+   ],
+   "citaat": "gelet op de inmiddels verstreken bewaartermijnen van de aangifte van eiseres"
+  },
+  {
+   "zin": "De rechter vond dat de bewaartermijn niet aan de burger kon worden tegengeworpen.",
+   "bron": [
+    30
+   ],
+   "citaat": "De genoemde bewaartermijn kan daarom niet aan eiseres worden tegengeworpen."
+  },
+  {
+   "zin": "De rechter vond het besluit zelf onvoldoende uitgelegd en vernietigde het.",
+   "bron": [
+    36
+   ],
+   "citaat": "In het bestreden besluit staat enkel deze conclusie, terwijl het waarom van die conclusie op geen enkele manier wordt toegelicht"
+  },
+  {
+   "zin": "De gemeente legde het alsnog uit in haar verweerschrift, dus de rechter liet de gevolgen van het besluit in stand.",
+   "bron": [
+    37
+   ],
+   "citaat": "Verweerder heeft in het verweerschrift alsnog voldoende gemotiveerd dat op basis van de door eiseres overgelegde stukken"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Motivering onvoldoende, maar hersteld; afwijzing blijft, kosten voor de gemeente",
+ "gevolg_betrokkene": {
+  "zin": "De afwijzing blijft staan, maar de burger krijgt het griffierecht terug en € 1.750 aan proceskosten.",
+  "bron": [
+   41,
+   42
+  ],
+  "citaat": "bepalen dat de rechtsgevolgen van het vernietigde bestreden besluit in stand worden gelaten"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "motivering-onvoldoende",
+   "burger_zegt": "De gemeente heeft niet uitgelegd waarom mijn documenten niet genoeg zijn.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "In het besluit stond alleen de conclusie, zonder uitleg waarom.",
+    "bron": [
+     36
+    ],
+    "citaat": "In het bestreden besluit staat enkel deze conclusie, terwijl het waarom van die conclusie op geen enkele manier wordt toegelicht"
+   },
+   "bruikbare_zin": {
+    "citaat": "het waarom van die conclusie op geen enkele manier wordt toegelicht",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente zegt dat de bewaartermijn voorbij is, zodat de afwijzing al daarom terecht is.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een verstreken bewaartermijn kan niet aan de burger worden tegengeworpen.",
+    "bron": [
+     30
+    ],
+    "citaat": "De genoemde bewaartermijn kan daarom niet aan eiseres worden tegengeworpen."
+   },
+   "bruikbare_zin": {
+    "citaat": "De genoemde bewaartermijn kan daarom niet aan eiseres worden tegengeworpen.",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gevolgen van de afwijzing zijn groot voor mij, dus het besluit is niet evenredig.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De wet geeft geen ruimte voor een belangenafweging.",
+    "bron": [
+     38
+    ],
+    "citaat": "laten de toepasselijke bepalingen uit de Wet brp geen ruimte voor een belangenafweging"
+   },
+   "bruikbare_zin": {
+    "citaat": "laten de toepasselijke bepalingen uit de Wet brp geen ruimte voor een belangenafweging",
+    "bron": [
+     38
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Herstelt het bestuursorgaan een motiveringsgebrek alsnog en kan de burger daarop reageren, dan kan de rechter de gevolgen van het vernietigde besluit in stand laten.",
+  "type": "regel",
+  "reikwijdte": "Een gebrek in de motivering dat het bestuursorgaan in beroep alsnog herstelt, als de burger zich daarover kon uitlaten.",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   37
+  ],
+  "citaat": "dat verweerder het geconstateerde gebrek alsnog heeft hersteld en dat eiseres zich hierover ook voldoende heeft kunnen uitlaten"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "huurovereenkomst",
+   "bankafschriften",
+   "verklaring van de verhuurder",
+   "pintransacties"
+  ],
+  "wat_gaf_doorslag": "Uit de stukken bleken verschillende data, dus de exacte verhuisdatum stond niet buiten redelijke twijfel vast."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2021:59",
+   "ECLI:NL:RVS:2022:1198",
+   "ECLI:NL:RVS:2016:2552"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:12 Awb",
+  "art. 8:72 lid 3 aanhef en onder a Awb",
+  "art. 2.58 Wet brp",
+  "art. 2.20 lid 3 Wet brp",
+  "art. 4:6 Awb",
+  "art. 16 AVG"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg in de beslissing op bezwaar uit waarom overgelegde stukken niet genoeg zijn; alleen de conclusie noemen volstaat niet.",
+   "raakt": "besluitvorming-motivering",
+   "bron": [
+    36
+   ],
+   "citaat": "In het bestreden besluit staat enkel deze conclusie, terwijl het waarom van die conclusie op geen enkele manier wordt toegelicht"
+  },
+  {
+   "actie": "Neem de volledige motivering al in het besluit op; herstel in beroep voorkomt het griffierecht en de proceskosten niet.",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    42
+   ],
+   "citaat": "Omdat het beroep gegrond is, dient verweerder aan eiseres het door haar betaalde griffierecht te vergoeden"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "besluitvorming-motivering",
+  "bezwaar-juridische-zaken",
+  "proceskosten-no-cure-no-pay"
+ ],
+ "klantuitleg": "Legt de gemeente niet uit waarom uw stukken niet genoeg zijn, dan kan de rechter het besluit vernietigen. Is die uitleg later alsnog goed, dan kan uw verzoek toch afgewezen blijven. Wilt u gegevens laten wijzigen, dan helpen originele brondocumenten het meest.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

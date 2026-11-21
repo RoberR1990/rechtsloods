@@ -1,0 +1,154 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2026:5697",
+ "relevant": true,
+ "onderwerp": "motivering",
+ "sub": "herstel-of-behoud",
+ "kenmerk": "herstel-beroep",
+ "zaaktype": "motivering",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner ging bij de rechtbank Rotterdam in beroep tegen de gemeente Rotterdam over een verkeersbesluit. De vraag was of de gemeente de gevolgen voor het verkeersgeluid goed had onderzocht en uitgelegd.",
+ "titel": "Geluidsonderzoek ontbrak, maar verkeersbesluit blijft toch bestaan",
+ "kern": {
+  "zin": "De rechter vond het besluit slecht gemotiveerd omdat onderzoek naar geluid ontbrak, maar liet het besluit in stand omdat de geluidsregels inmiddels zijn veranderd.",
+  "bron": [
+   38
+  ],
+  "citaat": "Hierin ziet de rechtbank aanleiding om te bepalen dat de rechtsgevolgen van het vernietigde bestreden besluit geheel in stand blijven"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente nam een verkeersbesluit en een bewoner maakte daartegen met anderen bezwaar.",
+   "bron": [
+    9
+   ],
+   "citaat": "Eiser heeft hiertegen, samen met anderen, bezwaar gemaakt"
+  },
+  {
+   "zin": "De bewoner zei dat tweerichtingsverkeer meer verkeer en dus meer geluidshinder zou geven.",
+   "bron": [
+    29
+   ],
+   "citaat": "de verkeersintensiteit zal toenemen waardoor meer geluidshinder zal ontstaan"
+  },
+  {
+   "zin": "De gemeente deed geen geluidsonderzoek, omdat zij vond dat er niet meer verkeer zou komen.",
+   "bron": [
+    32
+   ],
+   "citaat": "omdat het zich op het standpunt stelt dat het verkeersbesluit niet leidt tot meer verkeersintensiteit"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente te weinig had onderzocht en het besluit dus slecht had gemotiveerd (uitgelegd).",
+   "bron": [
+    40,
+    33
+   ],
+   "citaat": "heeft gedaan naar de gevolgen van verkeerstoename ten aanzien van verkeersgeluid voor de leefomgeving"
+  },
+  {
+   "zin": "Toch bleven de gevolgen van het besluit staan, omdat de geluidsregels inmiddels niet meer voor deze weg gelden.",
+   "bron": [
+    38,
+    36
+   ],
+   "citaat": "Hierin ziet de rechtbank aanleiding om te bepalen dat de rechtsgevolgen van het vernietigde bestreden besluit geheel in stand blijven"
+  },
+  {
+   "zin": "De gemeente moet wel het griffierecht (de kosten van het beroep) aan de bewoner vergoeden.",
+   "bron": [
+    41
+   ],
+   "citaat": "Omdat het beroep gegrond is moet het college het griffierecht aan eiser vergoeden"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Motiveringsgebrek erkend, maar besluit blijft in stand; griffierecht wordt vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "Het verkeersbesluit blijft gelden, maar de gemeente vergoedt € 194 griffierecht; proceskosten krijgt de bewoner niet.",
+  "bron": [
+   41,
+   47
+  ],
+  "citaat": "Omdat het beroep gegrond is moet het college het griffierecht aan eiser vergoeden"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "motivering-onvoldoende",
+   "burger_zegt": "De gemeente heeft niet goed onderzocht of er door het besluit meer geluid komt.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente had onvoldoende onderzocht wat verkeerstoename betekent voor het verkeersgeluid.",
+    "bron": [
+     40
+    ],
+    "citaat": "heeft gedaan naar de gevolgen van verkeerstoename ten aanzien van verkeersgeluid voor de leefomgeving"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het college heeft vervolgens geen akoestisch onderzoek gedaan naar de toename van geluid",
+    "bron": [
+     32
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij de vraag of de gevolgen van een vernietigd besluit in stand kunnen blijven, kijkt de rechter naar de feiten en het recht van het moment dat het onderzoek sluit.",
+  "type": "regel",
+  "reikwijdte": "Beroep waarbij de rechter overweegt de gevolgen van een vernietigd besluit in stand te laten",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   34
+  ],
+  "citaat": "van de op het moment van het sluiten van het onderzoek geldende feiten en omstandigheden en het dan geldende recht"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verkeerstellingen",
+   "parkeertellingen uit 2023"
+  ],
+  "wat_gaf_doorslag": "De geluidsnormen zijn veranderd en gelden niet meer voor deze weg, waardoor het besluit alsnog goed gemotiveerd was."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 2 Wegenverkeerswet 1994",
+  "art. 3:2 Awb",
+  "art. 3:46 Awb",
+  "art. 8:72 lid 3 Awb",
+  "art. 21a BABW",
+  "art. 5.78i lid 1 Bkl",
+  "art. 5.78m lid 2 Bkl"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Laat bij een wijziging van de verkeersafwikkeling onderzoek doen naar de toename van geluid, of onderbouw waarom die toename uitblijft",
+   "raakt": "besluitvorming-motivering",
+   "bron": [
+    32
+   ],
+   "citaat": "Het college heeft vervolgens geen akoestisch onderzoek gedaan naar de toename van geluid"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "besluitvorming-motivering",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "Denkt u dat een verkeersbesluit u meer geluidshinder geeft, dan moet de gemeente dat goed onderzoeken en uitleggen. In deze zaak was dat niet gebeurd, maar het besluit bleef toch bestaan omdat de geluidsregels inmiddels waren veranderd. U kunt bezwaar maken en de gemeente vragen hoe zij de geluidsgevolgen heeft onderzocht.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

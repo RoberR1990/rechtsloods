@@ -1,0 +1,178 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:CRVB:2024:1130",
+ "relevant": true,
+ "dubbel_van": null,
+ "reden_gemeente_leeg": null,
+ "onderwerp": "bezwaartermijn-verschoonbaar",
+ "sub": "termijn-berekening",
+ "kenmerk": "bekendmaking-aanvang",
+ "zaaktype": "bezwaar-beroepstermijn",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente 's-Hertogenbosch",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger ging tegen de gemeente 's-Hertogenbosch in hoger beroep bij de Centrale Raad van Beroep. Het ging om de vraag of zijn beroep te laat was ingediend, nadat het besluit per e-mail naar zijn gemachtigde was gestuurd.",
+ "titel": "Beroep te laat, ook al was e-mail geen goede bekendmaking",
+ "kern": {
+  "zin": "Het besluit was niet goed bekendgemaakt per e-mail, maar de termijn van zes weken begon toch toen de gemachtigde het las, dus het beroep was te laat.",
+  "bron": [
+   37
+  ],
+  "citaat": "is de termijn van zes weken ruimschoots overschreden"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemachtigde van de burger kreeg het besluit per e-mail en stelde pas in december beroep in.",
+   "bron": [
+    19
+   ],
+   "citaat": "het bestreden besluit op 1 oktober 2021 per e-mail ontvangen"
+  },
+  {
+   "zin": "De burger zei dat hij nooit had ingestemd met toezending per e-mail.",
+   "bron": [
+    26
+   ],
+   "citaat": "op geen enkele wijze te kennen gegeven dat hij instemt met toezending van die beslissing per e-mail"
+  },
+  {
+   "zin": "De gemeente zei dat de gemachtigde al per e-mail met haar contact had en dus via e-mail bereikbaar was.",
+   "bron": [
+    33
+   ],
+   "citaat": "de toenmalige gemachtigde van appellant zich per e-mailbericht heeft gesteld als gemachtigde"
+  },
+  {
+   "zin": "De rechter vond dat de e-mail niet de goede manier van bekendmaken was, omdat er geen vaste e-mailpraktijk was.",
+   "bron": [
+    34
+   ],
+   "citaat": "onvoldoende om aan te nemen dat sprake is van een bestendige e-mailpraktijk"
+  },
+  {
+   "zin": "Toch begon de termijn van zes weken te lopen toen de gemachtigde het besluit las, dus het beroep was te laat.",
+   "bron": [
+    36,
+    37
+   ],
+   "citaat": "vangt de beroepstermijn van zes weken aan op de dag waarop (de gemachtigde van de) belanghebbende het besluit onder ogen heeft gekregen"
+  },
+  {
+   "zin": "De burger noemde geen reden voor de late indiening, dus het beroep bleef niet-ontvankelijk (niet behandeld).",
+   "bron": [
+    38
+   ],
+   "citaat": "Appellant heeft desgevraagd geen redenen genoemd waarom de termijnoverschrijding niet aan hem is toe te rekenen."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep te laat en geen reden om de overschrijding te verontschuldigen",
+ "gevolg_betrokkene": {
+  "zin": "Het besluit blijft staan, het beroep wordt niet inhoudelijk behandeld en de burger krijgt geen vergoeding voor proceskosten en griffierecht.",
+  "bron": [
+   41
+  ],
+  "citaat": "krijgt appellant geen vergoeding voor zijn proceskosten en het betaalde griffierecht"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Toezending per e-mail voldoet niet, dus de beroepstermijn is niet gaan lopen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het besluit was wel niet goed bekendgemaakt, maar de termijn begon toen de gemachtigde het besluit las.",
+    "bron": [
+     36
+    ],
+    "citaat": "vangt de beroepstermijn van zes weken aan op de dag waarop (de gemachtigde van de) belanghebbende het besluit onder ogen heeft gekregen"
+   },
+   "bruikbare_zin": {
+    "citaat": "(de gemachtigde van de) belanghebbende het besluit onder ogen heeft gekregen",
+    "bron": [
+     36
+    ]
+   }
+  },
+  {
+   "arg": "termijn-te-laat",
+   "burger_zegt": "De burger voerde geen reden aan waarom de late indiening te verontschuldigen was.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Zonder reden is er geen grond om de termijnoverschrijding te verontschuldigen.",
+    "bron": [
+     38
+    ],
+    "citaat": "Er is daarom geen reden om aan te nemen dat de termijnoverschrijding verschoonbaar is."
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Is een besluit niet op de voorgeschreven wijze bekendgemaakt, dan begint de termijn van zes weken op de dag dat de burger of zijn gemachtigde het besluit onder ogen krijgt.",
+  "type": "regel",
+  "reikwijdte": "Besluit dat niet goed is bekendgemaakt, maar waarvan de burger of gemachtigde wel kennis heeft genomen",
+  "uitzondering": "De termijnoverschrijding kan verschoonbaar zijn als die niet aan de burger is toe te rekenen",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   36
+  ],
+  "citaat": "vangt de beroepstermijn van zes weken aan op de dag waarop (de gemachtigde van de) belanghebbende het besluit onder ogen heeft gekregen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verzendadministratie van de gemeente",
+   "e-mail van 1 oktober 2021 aan de gemachtigde",
+   "bevestiging van de gemachtigde dat hij het besluit kende"
+  ],
+  "wat_gaf_doorslag": "Niet in geschil was dat de gemachtigde het besluit per e-mail kreeg en las op 1 oktober 2021."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:CRVB:2010:BO1902",
+   "ECLI:NL:CRVB:2015:3230",
+   "ECLI:NL:RVS:2018:3992",
+   "ECLI:NL:CRVB:2022:2454",
+   "ECLI:NL:CRVB:2018:3685"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2:14 lid 1 Awb",
+  "art. 3:41 lid 1 Awb",
+  "art. 6:7 Awb",
+  "art. 6:8 lid 1 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag de burger of gemachtigde of besluiten per e-mail mogen en leg het duidelijke antwoord vast",
+   "raakt": "termijnbewaking",
+   "bron": [
+    32
+   ],
+   "citaat": "duidelijk kenbaar moet hebben gemaakt langs die weg bereikbaar te zijn"
+  },
+  {
+   "actie": "Zorg voor een verzendadministratie die aannemelijk maakt dat een besluit per post is verzonden",
+   "raakt": "termijnbewaking",
+   "bron": [
+    28
+   ],
+   "citaat": "de verzendadministratie van het college niet voldoet aan de daaraan te stellen eisen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "termijnbewaking",
+  "bezwaar-juridische-zaken",
+  "klantcontact"
+ ],
+ "klantuitleg": "Een besluit mag alleen per e-mail komen als u duidelijk hebt laten weten dat dat mag. Ook als de gemeente het verkeerd verstuurt, gaat de termijn van zes weken lopen op het moment dat u of uw gemachtigde het besluit leest. Reageer daarom binnen die zes weken; bent u toch te laat, leg dan uit waarom dat niet aan u lag.",
+ "gemeente": "'s-Hertogenbosch",
+ "zekerheid": "hoog"
+}
