@@ -1,0 +1,175 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2024:3695",
+ "relevant": true,
+ "onderwerp": "motivering",
+ "sub": "herstel-of-behoud",
+ "kenmerk": "gebrek-gepasseerd",
+ "zaaktype": "motivering",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente (belastingkantoor van een samenwerkingsverband)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner ging bij de rechtbank Rotterdam in beroep tegen de gemeente over de WOZ-waarde (de waarde van een woning voor de belasting). De bewoner vond de waarde te hoog en de berekening van de oppervlakte niet goed.",
+ "titel": "Gemeente rekende woonoppervlak fout, maar besluit blijft staan",
+ "kern": {
+  "zin": "De gemeente rekende de oppervlakte van de woning pas in beroep goed uit; de rechter zag dat als een fout, maar liet het besluit staan omdat de bewoner er niet door is benadeeld.",
+  "bron": [
+   30
+  ],
+  "citaat": "De rechtbank zal dit gebrek passeren met toepassing van artikel 6:22 van de Algemene wet bestuursrecht"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente stelde de WOZ-waarde van een woning vast en wees het bezwaar van de bewoner af.",
+   "bron": [
+    10
+   ],
+   "citaat": "heeft de heffingsambtenaar de waarde van de onroerende zaak"
+  },
+  {
+   "zin": "De bewoner zei dat de oppervlakte van de woning niet klopte, omdat onduidelijk was of de schuine muren waren meegeteld.",
+   "bron": [
+    22
+   ],
+   "citaat": "of bij de berekening van de gebruiksoppervlakte van de woning rekening is gehouden"
+  },
+  {
+   "zin": "De gemeente gaf toe dat een deel van de eerste verdieping niet was meegeteld en rekende de oppervlakte in beroep opnieuw uit.",
+   "bron": [
+    22
+   ],
+   "citaat": "heeft de gebruiksoppervlakte daarom aan de hand van de bouwtekening opnieuw berekend"
+  },
+  {
+   "zin": "De rechter vond dat het besluit hierdoor een gebrek had in de zorgvuldigheid en de motivering (uitleg).",
+   "bron": [
+    30
+   ],
+   "citaat": "Dit betekent dat het bestreden besluit een zorgvuldigheids- en motiveringsgebrek bevat."
+  },
+  {
+   "zin": "Omdat dit gebrek de bewoner niet benadeelde, bleef het besluit staan, maar de gemeente moet het griffierecht (de kosten van het beroep) terugbetalen.",
+   "bron": [
+    32
+   ],
+   "citaat": "zal de rechtbank de heffingsambtenaar opdragen het griffierecht te vergoeden"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep ongegrond; gebrek gepasseerd; alleen griffierecht wordt terugbetaald.",
+ "gevolg_betrokkene": {
+  "zin": "De vastgestelde waarde van de woning blijft staan; de gemeente betaalt wel het griffierecht van € 50 terug en er zijn geen proceskosten.",
+  "bron": [
+   36
+  ],
+  "citaat": "bepaalt dat de heffingsambtenaar het betaalde griffierecht van € 50,- aan eiser moet vergoeden"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "motivering-onvoldoende",
+   "burger_zegt": "De berekening van de oppervlakte is niet goed uitgelegd en klopt niet.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente had de schuine muren niet meegenomen en moest de oppervlakte opnieuw berekenen.",
+    "bron": [
+     22
+    ],
+    "citaat": "geen rekening is gehouden met de 1,5 meter lijn op de eerste verdieping"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dit standpunt slaagt.",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De vergelijkbare woningen hebben een lagere WOZ-waarde, dus de waarde van de woning is te hoog.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De WOZ-waarden van vergelijkingswoningen tellen niet; de waarde moet uit verkoopcijfers komen.",
+    "bron": [
+     25
+    ],
+    "citaat": "WOZ-waardes van de vergelijkingsobjecten niet relevant zijn omdat de waarde van de woning op basis van marktgegevens moet worden bepaald"
+   },
+   "bruikbare_zin": {
+    "citaat": "de waarde van de woning op basis van marktgegevens moet worden bepaald",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het gelijkheidsbeginsel (gelijke gevallen gelijk behandelen) is geschonden, want een vergelijkbare woning is lager gewaardeerd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Eén genoemde woning is geen meerderheid van gevallen.",
+    "bron": [
+     29
+    ],
+    "citaat": "levert dit geen meerderheid van gevallen op"
+   },
+   "bruikbare_zin": {
+    "citaat": "moet eiser aannemelijk maken dat ten minste twee identieke objecten binnen dezelfde gemeente lager gewaardeerd zijn dan de woning",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een gebrek in het besluit kan worden gepasseerd (genegeerd) als aannemelijk is dat de bewoner er niet door is benadeeld, omdat het besluit er hetzelfde had uitgezien.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Een rekenfout in de oppervlakte die in beroep is hersteld en de waarde niet verandert.",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   30
+  ],
+  "citaat": "omdat aannemelijk is dat eiser door dit gebrek niet is benadeeld"
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "taxatiematrix met verkoopcijfers van vergelijkbare woningen",
+   "nieuwe berekening aan de hand van de bouwtekening"
+  ],
+  "wat_gaf_doorslag": "Ook zonder het gebrek zou de gemeente dezelfde waarde hebben vastgesteld."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:22 Awb",
+  "art. 17 lid 2 Wet WOZ"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer de oppervlakte van de woning vóór het besluit aan de hand van de bouwtekening, ook bij schuine muren op de verdieping",
+   "raakt": "besluitvorming-motivering",
+   "bron": [
+    22
+   ],
+   "citaat": "bij de berekening van de gebruiksoppervlakte geen rekening is gehouden met de 1,5 meter lijn"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "besluitvorming-motivering",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "Maakt de gemeente een fout bij het bepalen van de waarde van uw woning, dan wordt het besluit niet altijd vernietigd. Blijkt de waarde ook zonder die fout hetzelfde, dan blijft het besluit staan, maar kunt u het griffierecht terugkrijgen. Twijfelt u aan de oppervlakte, vraag dan in bezwaar om de berekening en laat zien waar die niet klopt.",
+ "gemeente": "Schoonhoven",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

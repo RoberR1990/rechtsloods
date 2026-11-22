@@ -1,0 +1,162 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2024:6109",
+ "relevant": true,
+ "dubbel_van": null,
+ "onderwerp": "dwangsom-niet-tijdig",
+ "sub": "uitzonderingen",
+ "kenmerk": null,
+ "zaaktype": "dwangsom-niet-tijdig",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger vroeg de gemeente Rotterdam om een dwangsom (een bedrag per dag bij een te late beslissing) omdat ze te laat zou hebben beslist op zijn bezwaar. De rechtbank Rotterdam oordeelt over het beroep van de burger tegen de gemeente.",
+ "titel": "Te late beslissing op kansloos bezwaar geeft geen dwangsom",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente geen dwangsom verbeurt als ze te laat beslist op een bezwaar dat duidelijk geen kans heeft, dus de gemeente hoefde niet te betalen.",
+  "bron": [
+   20
+  ],
+  "citaat": "Indien niet tijdig wordt beslist op een bezwaar dat kennelijk ongegrond is, verbeurt het bestuursorgaan geen dwangsom"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente weigerde een dwangsom te betalen, en de burger stelde haar in gebreke (een officiële waarschuwing) omdat ze te laat zou beslissen op zijn bezwaar.",
+   "bron": [
+    10,
+    12
+   ],
+   "citaat": "Bij het primaire besluit van 10 augustus 2022 heeft verweerder geweigerd een dwangsom te betalen"
+  },
+  {
+   "zin": "De burger zei dat hij het besluit van 15 december 2022 niet kende.",
+   "bron": [
+    16
+   ],
+   "citaat": "Dat eiser niet bekend is met het besluit van 15 december 2022 acht de rechtbank niet geloofwaardig"
+  },
+  {
+   "zin": "De gemeente zei dat er geen dwangsom was, omdat het bezwaar waar het om ging duidelijk geen kans had (kennelijk ongegrond was).",
+   "bron": [
+    19
+   ],
+   "citaat": "nu eisers bezwaar gericht tegen het besluit van 13 december 2021 kennelijk ongegrond is verklaard"
+  },
+  {
+   "zin": "De gemeente had intussen alsnog beslist, dus de burger had geen belang meer bij zijn beroep over het te laat beslissen.",
+   "bron": [
+    16
+   ],
+   "citaat": "heeft eiser geen belang meer bij zijn beroep wegens niet tijdig beslissen"
+  },
+  {
+   "zin": "Bij een te late beslissing op zo'n kansloos bezwaar verbeurt de gemeente geen dwangsom.",
+   "bron": [
+    20
+   ],
+   "citaat": "Indien niet tijdig wordt beslist op een bezwaar dat kennelijk ongegrond is, verbeurt het bestuursorgaan geen dwangsom"
+  },
+  {
+   "zin": "Het beroep tegen het nieuwe besluit is ongegrond.",
+   "bron": [
+    21
+   ],
+   "citaat": "Het beroep tegen het alsnog genomen besluit op bezwaar van 15 december 2022 is ongegrond"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep niet-ontvankelijk en ongegrond; geen dwangsom.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen dwangsom en geen vergoeding van proceskosten.",
+  "bron": [
+   22,
+   21
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "niet-tijdig-beslist",
+   "burger_zegt": "De gemeente heeft te laat op mijn bezwaar beslist, dus ik krijg een dwangsom.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het bezwaar was kennelijk ongegrond, dus een te late beslissing levert geen dwangsom op.",
+    "bron": [
+     20
+    ],
+    "citaat": "Indien niet tijdig wordt beslist op een bezwaar dat kennelijk ongegrond is, verbeurt het bestuursorgaan geen dwangsom"
+   },
+   "bruikbare_zin": {
+    "citaat": "Indien niet tijdig wordt beslist op een bezwaar dat kennelijk ongegrond is, verbeurt het bestuursorgaan geen dwangsom",
+    "bron": [
+     20
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het besluit van 15 december 2022 was niet bij hem bekend.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemachtigde erkende op de zitting dat hij de stukken van de rechtbank, met dat besluit, had ontvangen.",
+    "bron": [
+     16
+    ],
+    "citaat": "Ter zitting heeft de gemachtigde van eiser erkend de stukken van de rechtbank te hebben ontvangen"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Beslist het bestuursorgaan te laat op een bezwaar dat kennelijk ongegrond is, dan verbeurt het geen dwangsom.",
+  "type": "regel",
+  "reikwijdte": "Te late beslissing op een bezwaar dat kennelijk ongegrond is; de bepaling is bedoeld voor de bezwaarfase.",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   20
+  ],
+  "citaat": "Indien niet tijdig wordt beslist op een bezwaar dat kennelijk ongegrond is, verbeurt het bestuursorgaan geen dwangsom"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "besluit van 15 december 2022",
+   "verklaring van de gemachtigde op de zitting dat de stukken zijn ontvangen"
+  ],
+  "wat_gaf_doorslag": "Het bezwaar waarop te laat was beslist, was kennelijk ongegrond verklaard."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 4:17 lid 6 aanhef en onder c Awb",
+  "art. 6:20 lid 3 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Pas de dwangsom-uitzondering voor kennelijk ongegronde zaken toe in de bezwaarfase en niet bij de aanvraag.",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    20
+   ],
+   "citaat": "is deze bepaling bedoeld voor de bezwaarfase"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "besluitvorming-motivering",
+  "termijnbewaking"
+ ],
+ "klantuitleg": "Beslist de gemeente te laat op uw bezwaar, dan krijgt u niet altijd een dwangsom (een bedrag per dag bij een te late beslissing). Heeft uw bezwaar duidelijk geen kans, dan hoeft de gemeente niets te betalen. Heeft de gemeente intussen alsnog beslist, dan kunt u niet meer klagen over het te laat beslissen, maar wel opkomen tegen het nieuwe besluit zelf.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "zekerheid": "hoog"
+}

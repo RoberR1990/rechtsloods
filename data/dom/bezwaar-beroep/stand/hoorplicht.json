@@ -1,0 +1,131 @@
+{
+ "gevolg-gebrek": {
+  "lijn": "vaste-lijn",
+  "kern": "Een horen-gebrek blijft vaak zonder gevolg als de burger niet is benadeeld.",
+  "lijn_uitleg": "De Raad van State, de Centrale Raad van Beroep, het CBb en de rechtbank Rotterdam passen steeds artikel 6:22 Awb toe: het gebrek wordt gepasseerd of de rechtsgevolgen blijven in stand. De Raad van State herhaalt hier vooral de wettelijke regel en formuleert geen eigen regel, daarom vaste lijn en geen hr-lijn. De rechter laat dit niet toe als partijen het oneens zijn over de feiten.",
+  "regels": [
+   {"zin": "Een besluit mag blijven staan ondanks schending van de hoorplicht, als aannemelijk is dat de burger daardoor niet is benadeeld.", "bronnen": [
+    {"ecli": "ECLI:NL:RVS:2024:5096", "citaat": "kan een besluit waartegen beroep is ingesteld, ondanks schending van een geschreven of ongeschreven rechtsregel"},
+    {"ecli": "ECLI:NL:CRVB:2024:540", "citaat": "niet is benadeeld en dat het gebrek met toepassing van artikel 6:22 van de Awb kan worden gepasseerd"}]},
+   {"zin": "Het gebrek wordt vaak gepasseerd omdat de burger in beroep of hoger beroep alsnog zijn standpunt kon toelichten.", "bronnen": [
+    {"ecli": "ECLI:NL:RVS:2024:5096", "citaat": "heeft de rechtbank dit gebrek evenwel mogen passeren met toepassing van artikel 6:22 van de Awb"},
+    {"ecli": "ECLI:NL:CRVB:2025:65", "citaat": "zal dit gebrek met toepassing van artikel 6:22 van de Awb worden gepasseerd"}]},
+   {"zin": "Is het gebrek erkend en gepasseerd, dan volgen vaak toch een vergoeding van griffierecht of proceskosten.", "bronnen": [
+    {"ecli": "ECLI:NL:RBROT:2025:14033", "citaat": "De burgemeester moet wel het griffierecht aan eiser vergoeden."},
+    {"ecli": "ECLI:NL:CRVB:2025:65", "citaat": "geeft aanleiding het Uwv te veroordelen in de proceskosten van appellante in beroep en hoger beroep"}]},
+   {"zin": "Het bestuursorgaan moet zelf worden uitgenodigd voor de hoorzitting; een gebrek daarin kan ook worden gepasseerd.", "bronnen": [
+    {"ecli": "ECLI:NL:CRVB:2023:323", "citaat": "In dit artikellid is bepaald dat een vertegenwoordiger van het bestuursorgaan voor het horen wordt uitgenodigd"}]}
+  ],
+  "uitzonderingen": [
+   {"zin": "Zijn de feiten in geschil en is de burger niet gehoord, dan kan het gebrek niet zomaar worden genegeerd.", "bronnen": [
+    {"ecli": "ECLI:NL:RBROT:2026:310", "citaat": "Tussen partijen bestaat een verschil van mening over de van belang zijnde feiten"}]},
+   {"zin": "Is de burger wel benadeeld, dan blijft het gebrek niet zonder gevolg.", "bronnen": [
+    {"ecli": "ECLI:NL:RBROT:2025:14033", "citaat": "De rechtbank is van oordeel dat aannemelijk is dat eiser door dit gebrek niet is benadeeld."}]}
+  ],
+  "toetslijst": [
+   {"zin": "Is aannemelijk dat de burger niet is benadeeld door het horen-gebrek?", "bronnen": [
+    {"ecli": "ECLI:NL:CRVB:2024:540", "citaat": "niet is benadeeld en dat het gebrek met toepassing van artikel 6:22 van de Awb kan worden gepasseerd"}]},
+   {"zin": "Had de burger in beroep alsnog de kans om zijn standpunt mondeling toe te lichten?", "bronnen": [
+    {"ecli": "ECLI:NL:RVS:2024:5096", "citaat": "heeft de rechtbank dit gebrek evenwel mogen passeren met toepassing van artikel 6:22 van de Awb"}]},
+   {"zin": "Zijn de feiten tussen partijen in geschil?", "bronnen": [
+    {"ecli": "ECLI:NL:RBROT:2026:310", "citaat": "Tussen partijen bestaat een verschil van mening over de van belang zijnde feiten"}]},
+   {"zin": "Had een hoorzitting de uitkomst niet kunnen veranderen, bijvoorbeeld omdat de feiten vaststaan en er geen beleidsruimte is?", "bronnen": [
+    {"ecli": "ECLI:NL:RBROT:2026:11946", "citaat": "Een hoorzitting zou dus niet tot een andere uitkomst kunnen hebben geleid."}]}
+  ],
+  "steunt_gemeente": ["ECLI:NL:RVS:2024:5096", "ECLI:NL:CRVB:2024:540", "ECLI:NL:CRVB:2025:65", "ECLI:NL:CBB:2026:97"],
+  "steunt_parkeerder": ["ECLI:NL:RBROT:2026:310"],
+  "hiaten": "Weinig hoogste rechtspraak die zelf een eigen regel geeft; vooral toepassing van artikel 6:22 per geval. Onduidelijk is waar de grens ligt als de feiten deels in geschil zijn.",
+  "peil": "10 uitspraken in de uitgelezen selectie: 1 Raad van State, 4 CRvB, 1 CBb, 4 rechtbank Rotterdam"
+ },
+ "horen-verplicht": {
+  "lijn": "vaste-lijn",
+  "kern": "Wie om horen vraagt, moet in persoon gehoord worden, tenzij 7:3 Awb geldt.",
+  "lijn_uitleg": "In meerdere uitspraken van rechtbank Rotterdam wordt dezelfde regel gevolgd dat alleen schriftelijk horen niet volstaat; zij noemen dit een vaste lijn van de hoogste rechter, maar zo'n uitspraak zit niet in deze selectie. Daarom vaste lijn en geen hr-lijn. Telefonisch horen kan alleen met instemming of op verzoek.",
+  "regels": [
+   {"zin": "Een bezwaarmaker die om horen vraagt, mag niet alleen schriftelijk worden gehoord; hij moet in persoon kunnen worden gehoord.", "bronnen": [
+    {"ecli": "ECLI:NL:RBROT:2025:12659", "citaat": "niet toelaten dat een bestuursorgaan de belanghebbende de gelegenheid onthoudt om in persoon te worden gehoord"},
+    {"ecli": "ECLI:NL:RBROT:2025:12656", "citaat": "niet toelaten dat een bestuursorgaan de belanghebbende de gelegenheid onthoudt om in persoon te worden gehoord"},
+    {"ecli": "ECLI:NL:RBROT:2025:12636", "citaat": "toelaten dat een bestuursorgaan de belanghebbende de gelegenheid onthoudt om in persoon te worden gehoord"}]},
+   {"zin": "Telefonisch horen mag alleen als de burger daarmee instemt of erom vraagt en het zorgvuldig kan.", "bronnen": [
+    {"ecli": "ECLI:NL:RBROT:2024:11965", "citaat": "als hij daarmee instemt of daarom verzoekt, en dit horen voldoende zorgvuldig kan geschieden"}]},
+   {"zin": "Weet het bestuursorgaan dat de burger gehoord wil worden, dan mag het niet afzien van horen.", "bronnen": [
+    {"ecli": "ECLI:NL:RBROT:2025:11308", "citaat": "Het was bij het college immers bekend dat eiseres wilde worden gehoord."}]},
+   {"zin": "Het bestuursorgaan moet kunnen aantonen dat de uitnodiging is verstuurd.", "bronnen": [
+    {"ecli": "ECLI:NL:RBROT:2023:1147", "citaat": "heeft het college aangetoond dat eiser is uitgenodigd voor de hoorzitting"}]}
+  ],
+  "uitzonderingen": [
+   {"zin": "Van horen mag worden afgezien in de gevallen van artikel 7:3 Awb.", "bronnen": [
+    {"ecli": "ECLI:NL:RBROT:2025:12659", "citaat": "terwijl zich niet een situatie voordeed waarin van het horen kon worden afgezien op grond van artikel 7:3 van de Awb"}]},
+   {"zin": "Een bezwaarmaker met een advocaat moet zich voorbereiden op de hoorzitting.", "bronnen": [
+    {"ecli": "ECLI:NL:CRVB:2018:718", "citaat": "Het lag immers op de weg van de advocaat om goed voorbereid op de hoorzitting te verschijnen"}]}
+  ],
+  "toetslijst": [
+   {"zin": "Heeft de bezwaarmaker gevraagd om gehoord te worden, en is hij ook in persoon gehoord?", "bronnen": [
+    {"ecli": "ECLI:NL:RBROT:2025:12659", "citaat": "niet toelaten dat een bestuursorgaan de belanghebbende de gelegenheid onthoudt om in persoon te worden gehoord"}]},
+   {"zin": "Heeft de burger ingestemd met of gevraagd om telefonisch horen, en kon dat zorgvuldig?", "bronnen": [
+    {"ecli": "ECLI:NL:RBROT:2024:11965", "citaat": "als hij daarmee instemt of daarom verzoekt, en dit horen voldoende zorgvuldig kan geschieden"}]},
+   {"zin": "Kunnen wij bewijzen dat de uitnodiging is verstuurd?", "bronnen": [
+    {"ecli": "ECLI:NL:RBROT:2023:1147", "citaat": "heeft het college aangetoond dat eiser is uitgenodigd voor de hoorzitting"}]},
+   {"zin": "Is bekend dat de burger gehoord wil worden, ook als een formulier niet is teruggestuurd?", "bronnen": [
+    {"ecli": "ECLI:NL:RBROT:2025:11308", "citaat": "Het was bij het college immers bekend dat eiseres wilde worden gehoord."}]}
+  ],
+  "steunt_gemeente": ["ECLI:NL:RBROT:2023:1147", "ECLI:NL:CRVB:2018:718"],
+  "steunt_parkeerder": ["ECLI:NL:RBROT:2025:12659", "ECLI:NL:RBROT:2025:12656", "ECLI:NL:RBROT:2025:11308", "ECLI:NL:RBROT:2024:11965"],
+  "hiaten": "Bijna alle uitspraken komen van een rechtbank; er is geen hoogste rechter in de selectie. Onduidelijk is hoe digitaal (video) horen moet worden beoordeeld.",
+  "peil": "8 uitspraken in de uitgelezen selectie: 1 CRvB, 7 rechtbank Rotterdam"
+ },
+ "afzien-van-horen": {
+  "lijn": "vaste-lijn",
+  "kern": "Afzien van horen mag bij kennelijk ongegrond bezwaar of als de burger niet reageert.",
+  "lijn_uitleg": "De Centrale Raad van Beroep en de rechtbank Rotterdam volgen dezelfde lijn: afzien mag als redelijkerwijs geen twijfel bestaat dat het bezwaar niet kan slagen. Bij een aanbod dat de burger laat liggen kan ook worden afgezien. Het gaat om een kleine selectie van vier uitspraken, dus voorzichtig.",
+  "regels": [
+   {"zin": "Een bezwaar is kennelijk ongegrond als uit het bezwaarschrift direct blijkt dat de bezwaren ongegrond zijn en daarover redelijkerwijs geen twijfel kan bestaan.", "bronnen": [
+    {"ecli": "ECLI:NL:CRVB:2025:628", "citaat": "Van een kennelijk ongegrond bezwaar is sprake als uit het bezwaarschrift direct al blijkt dat de bezwaren ongegrond zijn"},
+    {"ecli": "ECLI:NL:RBROT:2026:6581", "citaat": "een bezwaar kennelijk ongegrond is als er op voorhand redelijkerwijs geen twijfel over mogelijk is"}]},
+   {"zin": "Dan mag het bestuursorgaan afzien van horen.", "bronnen": [
+    {"ecli": "ECLI:NL:RBROT:2024:9438", "citaat": "redelijkerwijs geen twijfel mogelijk dat het in bezwaar aangevoerde niet tot een ander standpunt kon leiden"}]},
+   {"zin": "Reageert de gemachtigde niet tijdig op een aanbod voor een telefonische hoorzitting, dan mag ook worden afgezien van horen.", "bronnen": [
+    {"ecli": "ECLI:NL:RBROT:2024:12674", "citaat": "gelet op artikel 7:3, aanhef en onder d, van de Awb heeft verweerder mogen afzien van het horen van eiseres"}]}
+  ],
+  "uitzonderingen": [
+   {"zin": "Is er wel twijfel, of had een hoorzitting iets kunnen toevoegen, dan moet de burger worden gehoord.", "bronnen": [
+    {"ecli": "ECLI:NL:RBROT:2026:6581", "citaat": "had een hoorzitting van toegevoegde waarde kunnen zijn en wellicht bij de minister tot andere inzichten kunnen leiden"}]}
+  ],
+  "toetslijst": [
+   {"zin": "Blijkt uit het bezwaarschrift zelf direct dat het bezwaar niet kan slagen?", "bronnen": [
+    {"ecli": "ECLI:NL:CRVB:2025:628", "citaat": "Van een kennelijk ongegrond bezwaar is sprake als uit het bezwaarschrift direct al blijkt dat de bezwaren ongegrond zijn"}]},
+   {"zin": "Is er redelijkerwijs geen twijfel dat wat de burger aanvoert niet tot een ander standpunt kan leiden?", "bronnen": [
+    {"ecli": "ECLI:NL:RBROT:2024:9438", "citaat": "redelijkerwijs geen twijfel mogelijk dat het in bezwaar aangevoerde niet tot een ander standpunt kon leiden"}]},
+   {"zin": "Was de reactietermijn op het aanbod voor horen redelijk?", "bronnen": [
+    {"ecli": "ECLI:NL:RBROT:2024:12674", "citaat": "De gegeven reactietermijn van twee weken vindt de rechtbank, ook in een zomervakantie, niet onredelijk."}]}
+  ],
+  "steunt_gemeente": ["ECLI:NL:CRVB:2025:628", "ECLI:NL:RBROT:2026:6581", "ECLI:NL:RBROT:2024:9438", "ECLI:NL:RBROT:2024:12674"],
+  "steunt_parkeerder": [],
+  "hiaten": "Alleen vier uitspraken, geen hoogste rechter met een eigen regel. Weinig inzicht in wanneer de rechter toch twijfel aanneemt en afzien niet toestaat.",
+  "peil": "4 uitspraken in de uitgelezen selectie: 1 CRvB, 3 rechtbank Rotterdam"
+ },
+ "hoorzitting-verloop": {
+  "lijn": "weinig",
+  "kern": "Te weinig uitspraken voor een duidelijke lijn over verslag en stukken.",
+  "lijn_uitleg": "Slechts drie uitspraken in de selectie (CRvB en rechtbank Rotterdam), over het hoorverslag en het tijdig toesturen van stukken. Dat is te weinig voor een lijn.",
+  "regels": [],
+  "uitzonderingen": [],
+  "toetslijst": [],
+  "steunt_gemeente": [],
+  "steunt_parkeerder": [],
+  "hiaten": "Weinig rechtspraak over de vorm van het verslag en over hoeveel tijd een burger moet hebben om stukken te lezen. Ook de uitkomst als een verslag ontbreekt is hier maar beperkt vertegenwoordigd.",
+  "peil": "3 uitspraken in de uitgelezen selectie: 1 CRvB, 2 rechtbank Rotterdam"
+ },
+ "overig": {
+  "lijn": "weinig",
+  "kern": "Eén uitspraak, over vertegenwoordiging door een raadslid; geen lijn.",
+  "lijn_uitleg": "De enige uitspraak (Raad van State) gaat over het weigeren van een raadslid als vertegenwoordiger, en raakt de hoorplicht maar zijdelings.",
+  "regels": [],
+  "uitzonderingen": [],
+  "toetslijst": [],
+  "steunt_gemeente": [],
+  "steunt_parkeerder": [],
+  "hiaten": "Eén uitspraak die maar zijdelings over horen gaat; hier is geen lijn uit af te leiden.",
+  "peil": "1 uitspraak in de uitgelezen selectie: 1 Raad van State"
+ }
+}

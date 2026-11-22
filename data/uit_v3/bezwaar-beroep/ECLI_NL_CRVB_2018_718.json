@@ -1,0 +1,186 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:CRVB:2018:718",
+ "relevant": true,
+ "onderwerp": "hoorplicht",
+ "sub": "horen-verplicht",
+ "kenmerk": "hoorplicht-geschonden",
+ "zaaktype": "hoorplicht",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger gaat in hoger beroep tegen de gemeente Rotterdam bij de Centrale Raad van Beroep. De gemeente nam zijn bijstandsaanvraag niet in behandeling en hij zegt dat hij in bezwaar niet goed is gehoord.",
+ "titel": "Wel gehoord in bezwaar: advocaat had stukken kunnen opvragen",
+ "kern": {
+  "zin": "De rechter vindt dat de burger voldoende is gehoord, omdat zijn advocaat de stukken vooraf had kunnen opvragen of inzien.",
+  "bron": [
+   32
+  ],
+  "citaat": "De rechtbank heeft terecht geoordeeld dat de hoorplicht van artikel 7:2 van de Awb onder deze omstandigheden niet is geschonden."
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente vroeg de burger bij zijn bijstandsaanvraag om bankafschriften.",
+   "bron": [
+    16
+   ],
+   "citaat": "heeft het college appellant verzocht voor 24 oktober 2014 nadere gegevens in te leveren, waaronder bankafschriften van alle spaar- en betaalrekeningen"
+  },
+  {
+   "zin": "De gemeente nam de aanvraag niet in behandeling, omdat de gevraagde stukken niet kwamen.",
+   "bron": [
+    19
+   ],
+   "citaat": "heeft het college de aanvraag met toepassing van artikel 4:5 van de Algemene wet bestuursrecht (Awb) niet in behandeling genomen"
+  },
+  {
+   "zin": "De burger zei dat hij in bezwaar niet of niet goed genoeg was gehoord.",
+   "bron": [
+    32
+   ],
+   "citaat": "dat hij in strijd met artikel 7:2, eerste lid, van de Awb niet of onvoldoende is gehoord"
+  },
+  {
+   "zin": "De gemeente nodigde de burger uit voor een hoorzitting en wees hem op het recht om de stukken vooraf in te zien.",
+   "bron": [
+    32
+   ],
+   "citaat": "Appellant is bij brief van 23 april 2015 uitgenodigd voor een hoorzitting op 29 april 2015."
+  },
+  {
+   "zin": "De rechter zegt dat de advocaat zich goed moest voorbereiden en de stukken vooraf kon opvragen of inzien.",
+   "bron": [
+    32
+   ],
+   "citaat": "Het lag immers op de weg van de advocaat om goed voorbereid op de hoorzitting te verschijnen"
+  },
+  {
+   "zin": "Het hoger beroep slaagt niet en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    33
+   ],
+   "citaat": "Uit 4.1 tot en met 4.7 vloeit voort dat het hoger beroep niet slaagt, zodat de aangevallen uitspraak moet worden bevestigd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Hoorplicht niet geschonden; aanvraag blijft buiten behandeling",
+ "gevolg_betrokkene": {
+  "zin": "De aanvraag blijft buiten behandeling en de burger krijgt geen vergoeding van proceskosten.",
+  "bron": [
+   34,
+   33
+  ],
+  "citaat": "Voor een veroordeling in de proceskosten bestaat geen aanleiding."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "niet-gehoord",
+   "burger_zegt": "Hij is in bezwaar niet of niet goed genoeg gehoord.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger is met zijn advocaat gehoord en de stukken waren vooraf in te zien.",
+    "bron": [
+     32
+    ],
+    "citaat": "De rechtbank heeft terecht geoordeeld dat de hoorplicht van artikel 7:2 van de Awb onder deze omstandigheden niet is geschonden."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het lag immers op de weg van de advocaat om goed voorbereid op de hoorzitting te verschijnen",
+    "bron": [
+     32
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij kon de zitting bij de rechtbank niet bijwonen, dus zijn recht op een eerlijk proces is geschonden.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De advocaat vroeg pas daags voor de zitting om uitstel en koos er daarna voor niet te komen.",
+    "bron": [
+     26
+    ],
+    "citaat": "noopt niet tot het oordeel dat artikel 6 van het EVRM is geschonden"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gevraagde bankafschriften waren niet nodig, want hij had eerder al bijstand gekregen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Bankafschriften van de periode voor de aanvraag zijn in het algemeen nodig om het recht op bijstand te beoordelen.",
+    "bron": [
+     30
+    ],
+    "citaat": "is inzage in bankafschriften met betrekking tot de aan de bijstandsaanvraag voorafgaande periode in het algemeen noodzakelijk"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bezwaarmaker met een advocaat moet zich voorbereiden op de hoorzitting en kan de stukken vooraf opvragen of inzien.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Bezwaarmaker met advocaat die de stukken voor de hoorzitting niet opvroeg of inzag, terwijl hij daar op was gewezen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   32
+  ],
+  "citaat": "Het lag immers op de weg van de advocaat om goed voorbereid op de hoorzitting te verschijnen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verslag van de hoorzitting",
+   "uitnodiging voor de hoorzitting"
+  ],
+  "wat_gaf_doorslag": "Uit het verslag bleek dat de burger met zijn advocaat is gehoord en de stukken nadien kreeg."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:CRVB:2012:BX5218"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:2 lid 1 Awb",
+  "art. 7:4 lid 2 Awb",
+  "art. 4:5 lid 1 onder c Awb",
+  "art. 4:2 lid 2 Awb",
+  "art. 6 EVRM"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Wijs in de uitnodiging voor de hoorzitting op het recht om de stukken vooraf in te zien",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    32
+   ],
+   "citaat": "Appellant is daar bij de brief van 23 april 2015 ook op gewezen."
+  },
+  {
+   "actie": "Leg in het verslag van de hoorzitting vast wie er was en wat is afgesproken over aanvullend horen",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    32
+   ],
+   "citaat": "verslag van de hoorzitting blijkt dat appellant vervolgens op 29 april 2015, bijgestaan door de advocaat, is gehoord"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "klantcontact"
+ ],
+ "klantuitleg": "U hebt in bezwaar recht om gehoord te worden. U bent voldoende gehoord als u, of uw advocaat, de kans kreeg uw verhaal te vertellen en de stukken vooraf in te zien. Wilt u zich goed voorbereiden, vraag dan vóór de hoorzitting om de stukken.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

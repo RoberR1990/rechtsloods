@@ -1,0 +1,162 @@
+{
+ "ecli": "ECLI:NL:RBROT:2025:1196",
+ "onderwerp": "proceskosten",
+ "sub": "vergoeding-in-bezwaar",
+ "kenmerk": "besluit-onrechtmatig",
+ "zaaktype": "proceskosten",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging in beroep tegen de gemeente Rotterdam bij de rechtbank Rotterdam. Het ging om een vergoeding van de kosten voor bezwaar tegen aanmaning- en dwangbevelkosten (kosten voor het innen van een rekening achteraf).",
+ "titel": "Geen kostenvergoeding in bezwaar bij kosten die de gemeente liet vervallen",
+ "kern": {
+  "zin": "De rechter vond dat er geen vergoeding van bezwaarkosten is, omdat de gemeente de incassokosten niet liet vervallen door een eigen fout.",
+  "bron": [
+   29
+  ],
+  "citaat": "Naar het oordeel van de rechtbank heeft verweerder daarom terecht de proceskosten in bezwaar niet vergoed."
+ },
+ "samenvatting": [
+  {
+   "zin": "De parkeerder kreeg een rekening achteraf voor parkeren en maakte hiertegen bezwaar, dat niet-ontvankelijk werd verklaard.",
+   "bron": [
+    18
+   ],
+   "citaat": "omdat er geen gronden van bezwaar zijn ingediend"
+  },
+  {
+   "zin": "Daarna kreeg de parkeerder een aanmaning en een dwangbevel met extra kosten.",
+   "bron": [
+    21
+   ],
+   "citaat": "om de naheffingsaanslag en de aanmaningskosten in te vorderen, waarbij ook € 46,- dwangbevelkosten in rekening zijn gebracht"
+  },
+  {
+   "zin": "De gemeente liet die kosten uit coulance (als gunst) vervallen en weigerde een vergoeding van de bezwaarkosten.",
+   "bron": [
+    23
+   ],
+   "citaat": "heeft verweerder verklaard de aanmaningskosten en de dwangbevelkosten uit coulance te laten vervallen"
+  },
+  {
+   "zin": "De parkeerder vond dat de kosten waren vervallen door een fout van de gemeente, omdat het beroep nog liep.",
+   "bron": [
+    25
+   ],
+   "citaat": "Volgens eiser heeft verweerder de aanmaningskosten en de kosten voor het dwangbevel namelijk laten vervallen"
+  },
+  {
+   "zin": "De rechter vond dat de betalingsverplichting was herleefd, zodat de gemeente de kosten terecht in rekening bracht.",
+   "bron": [
+    29
+   ],
+   "citaat": "is het uitstel van betaling vervallen en de betalingsverplichting van eiser herleefd"
+  },
+  {
+   "zin": "Het beroep is ongegrond en er is geen vergoeding van kosten.",
+   "bron": [
+    31
+   ],
+   "citaat": "Het beroep is ongegrond. Eiser krijgt daarom het griffierecht niet terug."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Besluit niet herroepen wegens fout gemeente; geen kostenvergoeding in bezwaar.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt geen vergoeding van de bezwaarkosten en geen griffierecht terug; de kosten van € 8 en € 46 waren al vervallen.",
+  "bron": [
+   31
+  ],
+  "citaat": "Het beroep is ongegrond. Eiser krijgt daarom het griffierecht niet terug."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "proceskosten-vergoeding",
+   "burger_zegt": "De gemeente liet de kosten vervallen door een eigen fout, dus de bezwaarkosten moeten worden vergoed.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter keek naar de vraag of het besluit herroepen is door een fout van de gemeente, niet naar het label coulance.",
+    "bron": [
+     28
+    ],
+    "citaat": "Het gaat erom of het bestreden besluit wordt herroepen vanwege een aan het bestuursorgaan te wijten onrechtmatigheid"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het gaat erom of het bestreden besluit wordt herroepen vanwege een aan het bestuursorgaan te wijten onrechtmatigheid",
+    "bron": [
+     28
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente mocht niet innen, omdat het beroep tegen de niet-ontvankelijkverklaring nog liep.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond dat het uitstel van betaling was vervallen, ook als er nog beroep liep.",
+    "bron": [
+     29
+    ],
+    "citaat": "is het uitstel van betaling vervallen en de betalingsverplichting van eiser herleefd"
+   },
+   "bruikbare_zin": {
+    "citaat": "is het uitstel van betaling vervallen en de betalingsverplichting van eiser herleefd",
+    "bron": [
+     29
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bezwaarkosten worden alleen vergoed als het besluit is herroepen door een fout van de gemeente; het label coulance is niet doorslaggevend.",
+  "type": "regel",
+  "reikwijdte": "Vergoeding van kosten in bezwaar na het laten vervallen van invorderingskosten.",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   28
+  ],
+  "citaat": "Het gaat erom of het bestreden besluit wordt herroepen vanwege een aan het bestuursorgaan te wijten onrechtmatigheid"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Het uitstel van betaling was vervallen, dus de invorderingskosten waren terecht opgelegd."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 7:15 lid 2 Awb",
+  "art. 6:6 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Toets bij een verzoek om bezwaarkosten of het besluit is herroepen door een fout van de gemeente, niet aan het woord coulance",
+   "raakt": "proceskosten-no-cure-no-pay",
+   "bron": [
+    28
+   ],
+   "citaat": "Het gaat erom of het bestreden besluit wordt herroepen vanwege een aan het bestuursorgaan te wijten onrechtmatigheid"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "proceskosten-no-cure-no-pay",
+  "bezwaar-juridische-zaken",
+  "klantcontact"
+ ],
+ "klantuitleg": "Laat de gemeente kosten vervallen, dan krijgt u uw bezwaarkosten alleen terug als dat kwam door een fout van de gemeente; dat zij het een gunst noemt, maakt niet uit. Was uw betalingsplicht niet vervallen, dan heeft bezwaar over deze kosten weinig kans. Betaal een rekening daarom op tijd, ook als u nog in beroep bent.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "zekerheid": "hoog",
+ "schema": "v3",
+ "relevant": true,
+ "dubbel_van": null
+}

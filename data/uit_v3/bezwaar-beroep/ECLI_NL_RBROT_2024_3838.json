@@ -1,0 +1,158 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2024:3838",
+ "relevant": true,
+ "onderwerp": "dwangsom-niet-tijdig",
+ "sub": "beroep-niet-tijdig",
+ "kenmerk": null,
+ "zaaktype": "dwangsom-niet-tijdig",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Capelle aan den IJssel en gemeente Zwijndrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger stapte bij de rechtbank Rotterdam naar de rechter tegen twee gemeenten, omdat zij niet op tijd zouden hebben beslist op zijn verzoeken om schadevergoeding. De rechter deed uitspraak zonder zitting.",
+ "titel": "Geen beroep mogelijk als gemeente te laat beslist op schadeverzoek",
+ "kern": {
+  "zin": "Tegen het niet op tijd beslissen op een verzoek om schadevergoeding staat geen beroep open, dus de bestuursrechter neemt de zaken niet in behandeling.",
+  "bron": [
+   14
+  ],
+  "citaat": "staat evenmin beroep open tegen het niet tijdig nemen van een besluit op een verzoek om schadevergoeding"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de rechter te beslissen over twee schadeverzoeken waarop twee gemeenten volgens hem niet op tijd hadden beslist.",
+   "bron": [
+    13
+   ],
+   "citaat": "Eiser heeft een verzoekschrift ingediend wegens verondersteld niet tijdig beslissen op een schadeverzoek door college 1"
+  },
+  {
+   "zin": "De burger zei dat zijn verzoek ging over een fictief schadebesluit (een besluit dat door te late beslissing wordt verondersteld), zodat er geen besluit bestond.",
+   "bron": [
+    16
+   ],
+   "citaat": "Eiser heeft hierop gereageerd met de vermelding dat het verzoek ziet op een fictief schadebesluit"
+  },
+  {
+   "zin": "De rechter vond dat tegen een besluit over schadevergoeding wegens onrechtmatig handelen geen beroep openstaat, en dus ook niet tegen het te laat beslissen daarop.",
+   "bron": [
+    14
+   ],
+   "citaat": "staat evenmin beroep open tegen het niet tijdig nemen van een besluit op een verzoek om schadevergoeding"
+  },
+  {
+   "zin": "Ook de toegangsontzegging en contactbeperking waar de burger over klaagde, vormen geen besluit waarop een schadeverzoek bij de bestuursrechter kan steunen.",
+   "bron": [
+    17
+   ],
+   "citaat": "De schriftelijke toegangsontzegging en contactbeperking vormen geen publiekrechtelijke rechtshandeling en dus geen besluit"
+  },
+  {
+   "zin": "De rechter verklaarde zich onbevoegd; de burger kan met zijn schade naar de burgerlijke rechter.",
+   "bron": [
+    18
+   ],
+   "citaat": "dan kan hij zich tot de burgerlijke rechter wenden"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Rechter onbevoegd; geen beroep tegen te laat beslissen op schadeverzoek.",
+ "gevolg_betrokkene": {
+  "zin": "De rechtbank behandelt de zaken niet inhoudelijk; de burger betaalt geen griffierecht en krijgt geen proceskostenvergoeding, en kan met zijn schade naar de burgerlijke rechter.",
+  "bron": [
+   22,
+   19,
+   20
+  ],
+  "citaat": "verklaart zich onbevoegd kennis te nemen van het verzoek in de ene zaak"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Het verzoek gaat over een fictief schadebesluit, dus er is geen besluit en de rechter moet toch beslissen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Schade kan niet alleen bestaan uit het niet op tijd nemen van een schadebesluit.",
+    "bron": [
+     16
+    ],
+    "citaat": "schade in de zin van artikel 8:88 van de Awb niet bestaan uit het enkel niet tijdig nemen"
+   },
+   "bruikbare_zin": {
+    "citaat": "schade in de zin van artikel 8:88 van de Awb niet bestaan uit het enkel niet tijdig nemen van een schadebesluit",
+    "bron": [
+     16
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente is schadeplichtig wegens een onjuist briefadres en een toegangsontzegging tot het gemeentehuis.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het besluit over het briefadres was rechtmatig en de toegangsontzegging is geen besluit.",
+    "bron": [
+     17
+    ],
+    "citaat": "vormen geen publiekrechtelijke rechtshandeling en dus geen besluit als bedoeld in artikel 1:3 van de Awb"
+   },
+   "bruikbare_zin": {
+    "citaat": "De schriftelijke toegangsontzegging en contactbeperking vormen geen publiekrechtelijke rechtshandeling",
+    "bron": [
+     17
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Tegen het niet op tijd beslissen op een verzoek om schadevergoeding wegens onrechtmatig handelen staat geen beroep open, omdat tegen het besluit zelf ook geen beroep openstaat.",
+  "type": "regel",
+  "reikwijdte": "Beroep wegens niet tijdig beslissen op een verzoek om schadevergoeding wegens onrechtmatig bestuurshandelen.",
+  "uitzondering": "Een schadeverzoek bij de bestuursrechter blijft mogelijk (art. 8:88 Awb), als er een onrechtmatig besluit of een onrechtmatige voorbereidingshandeling is.",
+  "herkomst": "wet",
+  "bron": [
+   14
+  ],
+  "citaat": "staat evenmin beroep open tegen het niet tijdig nemen van een besluit op een verzoek om schadevergoeding"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RBROT:2021:9022",
+   "ECLI:NL:RVS:2023:1450",
+   "ECLI:NL:RVS:2012:BY0392",
+   "ECLI:NL:CRVB:2017:2714",
+   "ECLI:NL:CRVB:2021:1918"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 8:4 lid 1 onder f Awb",
+  "art. 6:2 onder b Awb",
+  "art. 8:88 Awb",
+  "art. 8:90 lid 2 Awb",
+  "art. 1:3 Awb",
+  "art. 8:54 Awb",
+  "art. 8:94 lid 1 Awb"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "Uitspraak gaat over de bevoegdheid van de rechter; geen concrete actie voor de gemeente.",
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "klantcontact"
+ ],
+ "klantuitleg": "Beslist de gemeente niet op tijd op een verzoek om schadevergoeding, dan kunt u daarover niet in beroep bij de bestuursrechter. Een schadeverzoek bij de bestuursrechter kan alleen als er een onrechtmatig besluit is of een onrechtmatige handeling die daarbij hoort. Hebt u schade, dan kunt u naar de burgerlijke rechter (de rechter voor gewone geschillen tussen burgers en overheid).",
+ "gemeente": "Capelle aan den IJssel en Zwijndrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

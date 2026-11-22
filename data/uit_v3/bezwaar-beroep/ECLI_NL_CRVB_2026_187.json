@@ -1,0 +1,168 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "ecli": "ECLI:NL:CRVB:2026:187",
+ "onderwerp": "dwangsom-niet-tijdig",
+ "sub": "ingebrekestelling-beslistermijn",
+ "kenmerk": null,
+ "zaaktype": "dwangsom-niet-tijdig",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "minister",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Twee inwoners eisten een dwangsom (een geldbedrag voor elke dag te laat) van de minister van Onderwijs, Cultuur en Wetenschap. Zij gingen in hoger beroep bij de Centrale Raad van Beroep tegen de uitspraak van de rechtbank.",
+ "titel": "Geen dwangsom als het bestuursorgaan binnen twee weken beslist",
+ "kern": {
+  "zin": "De rechter besliste dat de minister geen dwangsom schuldig is, omdat hij binnen twee weken na de ingebrekestelling (de brief dat hij te laat is) een besluit nam.",
+  "bron": [
+   33
+  ],
+  "citaat": "Dat appellanten de besluiten inhoudelijk onjuist vinden staat los van de vraag of er tijdig is besloten."
+ },
+ "samenvatting": [
+  {
+   "zin": "De inwoners stelden de minister in gebreke omdat hij te laat zou zijn met een besluit op hun verzoek.",
+   "bron": [
+    17
+   ],
+   "citaat": "hebben appellanten de minister in gebreke gesteld vanwege het niet-tijdig beslissen op het verzoek"
+  },
+  {
+   "zin": "De minister wees het verzoek twee dagen later af.",
+   "bron": [
+    18
+   ],
+   "citaat": "Met besluiten van 20 mei 2022 heeft de minister het verzoek om loskoppeling afgewezen"
+  },
+  {
+   "zin": "De inwoners vonden dat de minister op een andere grond afwees dan zij hadden gevraagd en dus niet echt had beslist.",
+   "bron": [
+    32
+   ],
+   "citaat": "Appellanten menen dat hierdoor sprake is van een weigering om te beslissen op het verzoek om loskoppeling"
+  },
+  {
+   "zin": "De minister vond dat hij geen dwangsom hoefde te betalen, omdat hij binnen twee weken had beslist.",
+   "bron": [
+    19
+   ],
+   "citaat": "omdat binnen twee weken na ontvangst van de ingebrekestelling is beslist op het verzoek"
+  },
+  {
+   "zin": "De rechter oordeelde dat het gaat om het moment van beslissen, niet om de vraag of het besluit goed is.",
+   "bron": [
+    33
+   ],
+   "citaat": "Dat appellanten de besluiten inhoudelijk onjuist vinden staat los van de vraag of er tijdig is besloten."
+  },
+  {
+   "zin": "De rechtbank had een grond ten onrechte niet besproken, maar de uitspraak bleef daardoor toch staan.",
+   "bron": [
+    40
+   ],
+   "citaat": "heeft de rechtbank een grond van appellanten ten onrechte niet besproken, maar dit leidt niet tot vernietiging"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Geen dwangsom en geen schadevergoeding; alleen het griffierecht wordt terugbetaald.",
+ "gevolg_betrokkene": {
+  "zin": "De inwoners krijgen geen dwangsom en geen schadevergoeding, maar de minister betaalt het griffierecht van 138 euro in hoger beroep terug.",
+  "bron": [
+   45
+  ],
+  "citaat": "bepaalt dat de minister aan appellanten het in hoger beroep betaalde griffierecht van € 138,- vergoedt"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "niet-tijdig-beslist",
+   "burger_zegt": "De minister weigerde te beslissen op het gevraagde en moet daarom een dwangsom betalen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De minister nam binnen twee weken een besluit, dus er is geen dwangsom verbeurd.",
+    "bron": [
+     33
+    ],
+    "citaat": "De minister heeft daarom geen dwangsommen verbeurd."
+   },
+   "bruikbare_zin": {
+    "citaat": "Dat appellanten de besluiten inhoudelijk onjuist vinden staat los van de vraag of er tijdig is besloten.",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De rechtbank heeft hun grond over de dwangsom niet besproken.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank ging niet in op deze grond, maar dat leidde niet tot vernietiging.",
+    "bron": [
+     30
+    ],
+    "citaat": "De rechtbank is in het geheel niet op deze grond ingegaan."
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Zij vroegen schadevergoeding omdat de procedure te lang duurde.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De procedure duurde nog geen vier jaar, dus de redelijke termijn is niet overschreden.",
+    "bron": [
+     38
+    ],
+    "citaat": "Dit betekent dat de redelijke termijn in deze zaak niet is overschreden."
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een dwangsom is er alleen bij een te late beslissing; of het besluit inhoudelijk klopt, speelt daarbij geen rol.",
+  "type": "regel",
+  "reikwijdte": "Dwangsom bij niet tijdig beslissen op een aanvraag.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   33
+  ],
+  "citaat": "Dat appellanten de besluiten inhoudelijk onjuist vinden staat los van de vraag of er tijdig is besloten."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "data van de ingebrekestellingen",
+   "data van de besluiten"
+  ],
+  "wat_gaf_doorslag": "De minister besliste binnen twee weken na de ingebrekestelling."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:CRVB:2009:BH1009",
+   "ECLI:NL:HR:2016:252"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 4:17 Awb",
+  "art. 4:19 Awb",
+  "art. 8:69 Awb",
+  "art. 1:3 Awb",
+  "art. 6 EVRM"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "termijnbewaking",
+  "bezwaar-juridische-zaken",
+  "klantcontact"
+ ],
+ "klantuitleg": "U krijgt een dwangsom (een geldbedrag per dag) alleen als een besluit te laat komt. Neemt het bestuursorgaan op tijd een besluit, dan krijgt u geen dwangsom, ook niet als u het besluit onjuist vindt. Bent u het niet eens met het besluit zelf, maak daar dan bezwaar tegen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente geen partij; besluit van een minister",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

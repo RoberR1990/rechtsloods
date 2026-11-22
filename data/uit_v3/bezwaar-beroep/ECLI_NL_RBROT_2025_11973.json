@@ -1,0 +1,155 @@
+{
+ "ecli": "ECLI:NL:RBROT:2025:11973",
+ "onderwerp": "proceskosten",
+ "sub": "forfait-wegingsfactor",
+ "kenmerk": "punten-per-proceshandeling",
+ "zaaktype": "proceskosten",
+ "partijen": {
+  "burger": "parkeerder",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een parkeerder ging met een gemachtigde in beroep tegen de gemeente Rotterdam bij de rechtbank Rotterdam. Het ging om de kostenvergoeding voor bezwaar tegen een naheffingsaanslag (een rekening achteraf voor parkeren).",
+ "titel": "Punt voor hoorzitting in bezwaar toch vergoed",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente ten onrechte geen punt voor de hoorzitting gaf, ook al kwam het argument pas op de hoorzitting.",
+  "bron": [
+   23
+  ],
+  "citaat": "Naar het oordeel van de rechtbank heeft de heffingsambtenaar ten onrechte geen procespunt toegekend voor de hoorzitting in bezwaar."
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemachtigde diende een algemeen bezwaar in tegen de naheffingsaanslag.",
+   "bron": [
+    18
+   ],
+   "citaat": "De gemachtigde van eiser heeft een generiek, algemeen geformuleerd bezwaarschrift ingediend tegen de naheffingsaanslag."
+  },
+  {
+   "zin": "De gemeente vroeg vooraf om stukken en kondigde aan anders geen punt voor de hoorzitting toe te kennen.",
+   "bron": [
+    18
+   ],
+   "citaat": "hij geen procespunt voor de hoorzitting zou toekennen bij de berekening van de proceskostenvergoeding voor het bezwaar"
+  },
+  {
+   "zin": "Pas op de hoorzitting kwam het argument dat de aanslag aan een verkeerd kenteken was gekoppeld; de gemeente vernietigde de aanslag maar gaf geen punt voor de hoorzitting.",
+   "bron": [
+    18
+   ],
+   "citaat": "De heffingsambtenaar heeft de naheffingsaanslag vervolgens vernietigd en bij de proceskostenvergoeding in bezwaar geen punt toegekend voor de hoorzitting."
+  },
+  {
+   "zin": "De parkeerder vond dat hij niet verplicht was dit eerder te melden en dat de gemeente de hoorzitting zelf had kunnen voorkomen.",
+   "bron": [
+    20
+   ],
+   "citaat": "Eiser voert aan dat hij niet opzettelijk informatie heeft achtergehouden"
+  },
+  {
+   "zin": "De rechter vond dat een argument pas op de hoorzitting geen bijzondere omstandigheid is, en dat de gemeente de fout in het eigen dossier kon zien.",
+   "bron": [
+    23
+   ],
+   "citaat": "nu eiser niet verplicht is alle relevante argumenten voorafgaand aan de hoorzitting aan te voeren"
+  },
+  {
+   "zin": "De rechter stelde zelf de vergoeding vast en de gemeente moet ook griffierecht en proceskosten in beroep betalen.",
+   "bron": [
+    26
+   ],
+   "citaat": "Omdat het beroep gegrond is, moet de heffingsambtenaar het betaalde griffierecht vergoeden."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Procespunt voor hoorzitting alsnog toegekend; hogere kostenvergoeding in bezwaar.",
+ "gevolg_betrokkene": {
+  "zin": "De parkeerder krijgt € 647 kostenvergoeding voor bezwaar, € 51 griffierecht terug en € 453,50 voor de proceskosten in beroep.",
+  "bron": [
+   25,
+   26
+  ],
+  "citaat": "De rechtbank voorziet zelf in de zaak door te bepalen dat de heffingsambtenaar een proceskostenvergoeding in bezwaar moet betalen"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "proceskosten-vergoeding",
+   "burger_zegt": "Hij hoefde zijn argument niet eerder te melden en de gemeente kon de hoorzitting zelf voorkomen; dus een punt voor de hoorzitting.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter zag geen bijzondere omstandigheid, want de gemeente had de fout zelf uit het dossier kunnen halen.",
+    "bron": [
+     23
+    ],
+    "citaat": "Er zijn geen bijzondere omstandigheden die een afwijking rechtvaardigen van de toekenning van een proceskostenvergoeding"
+   },
+   "bruikbare_zin": {
+    "citaat": "Er zijn geen bijzondere omstandigheden die een afwijking rechtvaardigen van de toekenning van een proceskostenvergoeding",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een burger hoeft niet alle argumenten voor de hoorzitting in te dienen, ook niet als de gemeente daarom vraagt; het punt voor de hoorzitting wordt dan toch toegekend.",
+  "type": "regel",
+  "reikwijdte": "Kostenvergoeding in bezwaar als de aanslag wordt vernietigd om een fout die de gemeente uit het eigen dossier kon halen.",
+  "uitzondering": "Komt de burger pas op de hoorzitting met nieuw bewijs dat de gemeente niet kon kennen, dan is er doorgaans geen recht op kostenvergoeding.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "nu eiser niet verplicht is alle relevante argumenten voorafgaand aan de hoorzitting aan te voeren"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "foto's van de scanauto in het dossier"
+  ],
+  "wat_gaf_doorslag": "De foto's van de scanauto in het dossier lieten al een ander kenteken zien dan op de aanslag."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 7:15 lid 2 Awb",
+  "art. 2 Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Ken een punt voor de hoorzitting toe als de fout al uit het eigen dossier, zoals de scanfoto's, te zien was",
+   "raakt": "proceskosten-no-cure-no-pay",
+   "bron": [
+    23
+   ],
+   "citaat": "In dit geval had de heffingsambtenaar echter ook zelf aan de hand van de foto’s van de scanauto kunnen constateren"
+  },
+  {
+   "actie": "Onderbouw een beroep op misbruik van recht met concrete feiten",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    23
+   ],
+   "citaat": "de heffingsambtenaar onvoldoende feiten heeft gesteld waaruit dat misbruik zou kunnen blijken"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "proceskosten-no-cure-no-pay",
+  "bezwaar-juridische-zaken",
+  "besluitvorming-motivering"
+ ],
+ "klantuitleg": "Wordt uw aanslag in bezwaar vernietigd, dan kunt u recht hebben op een vergoeding van uw kosten, ook als u uw argument pas op de hoorzitting noemt en de gemeente de fout zelf had kunnen zien. Is het nieuw bewijs dat de gemeente niet kon kennen, dan is er meestal geen vergoeding. Vraag de vergoeding dus altijd aan in uw bezwaar.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "zekerheid": "hoog",
+ "schema": "v3",
+ "relevant": true,
+ "dubbel_van": null
+}

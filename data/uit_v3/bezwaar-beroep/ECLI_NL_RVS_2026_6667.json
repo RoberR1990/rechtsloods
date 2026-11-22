@@ -1,0 +1,182 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2026:6667",
+ "relevant": true,
+ "onderwerp": "bezwaartermijn-verschoonbaar",
+ "sub": "derdebelanghebbende",
+ "kenmerk": "publicatie",
+ "zaaktype": "bezwaar-beroepstermijn",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Pekela",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een omwonende ging in hoger beroep bij de Raad van State tegen het college van de gemeente Pekela. Het ging om een bezwaar tegen een omgevingsvergunning voor een loods dat volgens de gemeente te laat was.",
+ "titel": "Te laat bezwaar tegen vergunning: ander adres in de buurt helpt niet",
+ "kern": {
+  "zin": "De rechter vindt het te late bezwaar niet te verontschuldigen, omdat de gemeente het besluit goed bekendmaakte en de omwonende geen bijzondere omstandigheden aanvoerde.",
+  "bron": [
+   31
+  ],
+  "citaat": "geen bijzondere omstandigheden heeft aangevoerd op grond waarvan moet worden geoordeeld dat de termijnoverschrijding niet aan hem wordt toegerekend"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente verklaarde het bezwaar van de omwonende tegen de vergunning niet-ontvankelijk (niet behandeld) omdat het te laat was.",
+   "bron": [
+    26
+   ],
+   "citaat": "Het bezwaar van [appellant] is door het college daarom terecht niet-ontvankelijk verklaard"
+  },
+  {
+   "zin": "De omwonende zei dat hij de publicaties had gevolgd onder het adres waaronder het perceel in de buurt bekend was.",
+   "bron": [
+    30
+   ],
+   "citaat": "dat hij de publicaties heeft gevolgd op het adres waaronder het perceel voor hem en anderen kenbaar was"
+  },
+  {
+   "zin": "De rechter vindt dat de gemeente het besluit op de voorgeschreven wijze heeft bekendgemaakt, met het juiste adres.",
+   "bron": [
+    32
+   ],
+   "citaat": "Het besluit tot verlening van de omgevingsvergunning is, zoals de rechtbank terecht heeft overwogen, op de voorgeschreven wijze bekendgemaakt"
+  },
+  {
+   "zin": "Dat de omwonende het perceel onder een andere aanduiding kende, komt volgens de rechter voor zijn risico, omdat hij de plaatselijke situatie kende.",
+   "bron": [
+    33
+   ],
+   "citaat": "zijn omstandigheden die, gelet op zijn plaatselijke bekendheid, voor zijn risico komen"
+  },
+  {
+   "zin": "Volgens de rechter had hij navraag kunnen doen bij de gemeente; dat hij geen jurist is en geen rechtsbijstand had, verandert dat niet.",
+   "bron": [
+    34
+   ],
+   "citaat": "had het op zijn weg gelegen om onderzoek te doen naar de exacte inhoud van die vergunning"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de gemeente hoeft geen proceskosten te vergoeden.",
+   "bron": [
+    37
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De Afdeling bevestigt de uitspraak van de rechtbank"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Bezwaar te laat; termijnoverschrijding komt voor rekening van de omwonende.",
+ "gevolg_betrokkene": {
+  "zin": "De vergunning wordt niet inhoudelijk getoetst en de burger krijgt geen proceskosten vergoed.",
+  "bron": [
+   38
+  ],
+  "citaat": "Het college hoeft geen proceskosten te vergoeden"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-te-laat",
+   "burger_zegt": "Het perceel stond in de buurt bekend onder een ander adres, dus hij zocht de publicatie op dat adres.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Als direct aanwonende kende hij de plaatselijke situatie, dus het andere adres komt voor zijn risico.",
+    "bron": [
+     33
+    ],
+    "citaat": "zijn omstandigheden die, gelet op zijn plaatselijke bekendheid, voor zijn risico komen"
+   },
+   "bruikbare_zin": {
+    "citaat": "Deze omstandigheden doen niet af aan de juistheid van de publicatie",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "termijn-te-laat",
+   "burger_zegt": "Hij hoorde pas bij de start van de werkzaamheden van het besluit en diende daarna snel bezwaar in.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Hij had redelijkerwijs eerder kennis kunnen nemen van het besluit en deed te weinig om dat te doen.",
+    "bron": [
+     34
+    ],
+    "citaat": "heeft [appellant] zich onvoldoende ingespannen om tijdig kennis te nemen van het besluit"
+   },
+   "bruikbare_zin": {
+    "citaat": "had het op zijn weg gelegen om onderzoek te doen naar de exacte inhoud van die vergunning, bijvoorbeeld door hierover navraag te doen bij de gemeente",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij is geen jurist en had geen rechtsbijstand, dus van hem kon niet worden verwacht dat hij de adressenregistratie raadpleegde.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dat hij niet juridisch deskundig was en geen rechtsbijstand had, maakt het oordeel niet anders.",
+    "bron": [
+     34
+    ],
+    "citaat": "maakt dit niet anders"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een omwonende die de plaatselijke situatie kent, kan zich niet beroepen op een andere aanduiding van het perceel dan in de bekendmaking staat.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Direct aanwonende die bekend is met de plaatselijke situatie, bij een bekendmaking met het officiële adres",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   33
+  ],
+  "citaat": "zijn omstandigheden die, gelet op zijn plaatselijke bekendheid, voor zijn risico komen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "bekendmaking van het besluit met het officiële adres",
+   "feitelijke ontsluiting van de loods"
+  ],
+  "wat_gaf_doorslag": "De bekendmaking noemde het officiële adres en de omwonende kende de plaatselijke situatie."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Maak een vergunning bekend onder het officiële adres en leg vast dat de bekendmaking op de voorgeschreven wijze is gebeurd",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    32
+   ],
+   "citaat": "Het besluit tot verlening van de omgevingsvergunning is, zoals de rechtbank terecht heeft overwogen, op de voorgeschreven wijze bekendgemaakt"
+  },
+  {
+   "actie": "Onderzoek bij een te laat bezwaar van een omwonende of die redelijkerwijs eerder kennis kon nemen van het besluit",
+   "raakt": "termijnbewaking",
+   "bron": [
+    34
+   ],
+   "citaat": "redelijkerwijs eerder kennis had kunnen nemen van het besluit tot verlening van de omgevingsvergunning"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "termijnbewaking"
+ ],
+ "klantuitleg": "Wilt u bezwaar maken tegen een vergunning in uw buurt, dan loopt de termijn vanaf de officiële bekendmaking. Dat u het perceel onder een ander adres kent, is meestal geen reden voor extra tijd, zeker niet als u dichtbij woont. Vermoedt u dat er iets wordt vergund, vraag dan bij de gemeente na wat er is besloten.",
+ "gemeente": "Pekela",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

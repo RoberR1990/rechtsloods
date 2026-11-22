@@ -1,0 +1,196 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:10619",
+ "relevant": true,
+ "onderwerp": "dwangsom-niet-tijdig",
+ "sub": "hoogte-maximum",
+ "kenmerk": "maximum-1442",
+ "zaaktype": "dwangsom-niet-tijdig",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner procedeert tegen de gemeente Rotterdam. De gemeente nam na een eerdere uitspraak te laat een nieuwe beslissing op bezwaar tegen de WOZ-waarde (de waarde van de woning voor de belasting). De rechtbank Rotterdam beslist.",
+ "titel": "Te late beslissing na uitspraak: volledige dwangsom en proceskosten",
+ "kern": {
+  "zin": "De gemeente beslist te laat na een eerdere uitspraak en moet daarom de maximale dwangsom van € 1.442 en de proceskosten in bezwaar en beroep betalen.",
+  "bron": [
+   23
+  ],
+  "citaat": "Naar het oordeel van de rechtbank heeft de heffingsambtenaar een dwangsom van € 1.442,- verbeurd."
+ },
+ "samenvatting": [
+  {
+   "zin": "De rechtbank had de gemeente eerder opgedragen een nieuwe beslissing op bezwaar te nemen, maar die kwam pas op 22 september 2022.",
+   "bron": [
+    12
+   ],
+   "citaat": "de heffingsambtenaar opgedragen een nieuw besluit te nemen"
+  },
+  {
+   "zin": "De bewoner stelde de gemeente in gebreke (een brief dat er nog beslist moet worden) en zei dat een dwangsom was verbeurd.",
+   "bron": [
+    21
+   ],
+   "citaat": "Eiser betoogt dat de heffingsambtenaar een dwangsom heeft verbeurd"
+  },
+  {
+   "zin": "De gemeente erkende dat duidelijk was waar de ingebrekestelling over ging en dat die is verzonden.",
+   "bron": [
+    22
+   ],
+   "citaat": "Op de zitting heeft de heffingsambtenaar erkend dat voldoende duidelijk is naar welk besluit de ingebrekestelling verwijst"
+  },
+  {
+   "zin": "De rechter rekent zes weken als beslistermijn als een uitspraak geen termijn noemt, en de maximale dwangsom was verbeurd.",
+   "bron": [
+    23
+   ],
+   "citaat": "De beslistermijn is in dit geval niet langer dan zes weken na de dag van verzending van een afschrift van de uitspraak."
+  },
+  {
+   "zin": "De gemeente had ook proceskosten in bezwaar moeten toekennen, maar de WOZ-waarde blijft gelijk.",
+   "bron": [
+    25
+   ],
+   "citaat": "had de heffingsambtenaar een proceskostenvergoeding moeten toekennen op grond van artikel 7:15, tweede lid, van de Awb"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Dwangsom € 1.442 en proceskostenvergoeding toegekend; WOZ-waarde blijft gelijk.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet de burger € 1.442 dwangsom, € 2.266 proceskosten en € 50 griffierecht betalen, en de WOZ-waarde blijft gelijk.",
+  "bron": [
+   38
+  ],
+  "citaat": "Dit betekent dat de heffingsambtenaar € 1.442,- aan eiser moet betalen en dat de WOZ-waarde van de woning hetzelfde blijft."
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "niet-tijdig-beslist",
+   "burger_zegt": "De burger zegt dat de gemeente te laat een nieuw besluit nam en dus een dwangsom verbeurde.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Er was geen termijn gesteld, dus gold de beslistermijn van zes weken, en de gemeente nam pas veel later een besluit.",
+    "bron": [
+     23
+    ],
+    "citaat": "Omdat de heffingsambtenaar pas op 22 september 2022 een uitspraak op bezwaar heeft genomen, is de maximale dwangsom van € 1.442,- verbeurd."
+   },
+   "bruikbare_zin": {
+    "citaat": "De beslistermijn is in dit geval niet langer dan zes weken na de dag van verzending van een afschrift van de uitspraak",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "proceskosten-vergoeding",
+   "burger_zegt": "De burger zegt dat de gemeente in bezwaar ten onrechte geen proceskosten toekende.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente kende wel schadevergoeding toe voor de te lange procedure, dus het bezwaar was deels gegrond door een fout van de gemeente.",
+    "bron": [
+     25
+    ],
+    "citaat": "was het bezwaar (deels) gegrond als gevolg van een aan de heffingsambtenaar te wijten onrechtmatigheid"
+   },
+   "bruikbare_zin": {
+    "citaat": "had de heffingsambtenaar een proceskostenvergoeding moeten toekennen op grond van artikel 7:15, tweede lid, van de Awb",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De burger zegt dat de WOZ-waarde te hoog is vastgesteld.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De woning was rond de peildatum voor een hoger bedrag verkocht dan de vastgestelde waarde.",
+    "bron": [
+     30
+    ],
+    "citaat": "heeft de heffingsambtenaar aannemelijk gemaakt dat de WOZ-waarde niet te hoog is vastgesteld"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De burger vraagt een extra vergoeding voor de te lange duur van de procedure.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente had al € 500 toegekend en dat is meer dan de € 200 waar de burger recht op had.",
+    "bron": [
+     36
+    ],
+    "citaat": "Uit het voorgaande volgt dat eiser recht heeft op een immateriële schadevergoeding van € 200,-."
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Als een uitspraak geen termijn noemt voor een nieuwe beslissing, moet het bestuursorgaan binnen zes weken na verzending van de uitspraak beslissen.",
+  "type": "regel",
+  "reikwijdte": "Nieuwe beslissing op bezwaar na een uitspraak van de rechtbank zonder genoemde termijn",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   23
+  ],
+  "citaat": "de heffingsambtenaar dan zo spoedig als redelijkerwijs mogelijk is een nieuwe uitspraak op bezwaar moet nemen"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "verzendadministratie van de ingebrekestelling"
+  ],
+  "wat_gaf_doorslag": "De gemeente erkende dat de ingebrekestelling duidelijk was en dat die op 5 juli 2022 per post is verzonden."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RBROT:2023:6163"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 4:17 Awb",
+  "art. 7:15 lid 2 Awb",
+  "art. 8:72 lid 3 Awb",
+  "art. 17 lid 2 Wet WOZ",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Neem na een uitspraak zonder genoemde termijn binnen zes weken een nieuwe beslissing op bezwaar",
+   "raakt": "termijnbewaking",
+   "bron": [
+    23
+   ],
+   "citaat": "niet langer dan zes weken na de dag van verzending van een afschrift van de uitspraak"
+  },
+  {
+   "actie": "Ken proceskosten in bezwaar toe als u ook schadevergoeding toekent voor de te lange procedure",
+   "raakt": "proceskosten-no-cure-no-pay",
+   "bron": [
+    25
+   ],
+   "citaat": "een immateriële schadevergoeding heeft toegekend wegens overschrijding van de redelijke termijn en eiser had verzocht om een proceskostenvergoeding"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "termijnbewaking",
+  "bezwaar-juridische-zaken",
+  "proceskosten-no-cure-no-pay"
+ ],
+ "klantuitleg": "Als de gemeente na een uitspraak van de rechter te laat een nieuw besluit neemt, kan zij een dwangsom (een vast bedrag per dag) verschuldigd zijn, tot een maximum van € 1.442. Daarvoor moet u de gemeente eerst schriftelijk laten weten dat zij alsnog moet beslissen. Bewaar het bewijs dat u die brief heeft verstuurd.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

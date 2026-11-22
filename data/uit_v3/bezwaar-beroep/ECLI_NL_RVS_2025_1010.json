@@ -1,0 +1,137 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:1010",
+ "relevant": true,
+ "onderwerp": "dwangsom-niet-tijdig",
+ "sub": "beroep-niet-tijdig",
+ "kenmerk": null,
+ "zaaktype": "dwangsom-niet-tijdig",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Den Haag",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bewoner gaat in hoger beroep tegen de gemeente Den Haag bij de Raad van State. Hij vindt dat de gemeente niet heeft beslist op zijn verzoek om handhaving.",
+ "titel": "Brief van de gemeente was wel degelijk een besluit",
+ "kern": {
+  "zin": "De rechter oordeelde dat de brief van de gemeente een besluit was, dus de gemeente had op tijd beslist en het beroep over te late beslissing viel weg.",
+  "bron": [
+   18
+  ],
+  "citaat": "Dit betekent dat de brief van 25 mei 2021 een besluit is."
+ },
+ "samenvatting": [
+  {
+   "zin": "De bewoner vroeg de gemeente om handhaving en kreeg later een brief van de gemeente.",
+   "bron": [
+    16
+   ],
+   "citaat": "Het college heeft op dit verzoek gereageerd bij brief van 25 mei 2021."
+  },
+  {
+   "zin": "De bewoner zei dat de gemeente met die brief ten onrechte niet had beslist en stapte naar de rechter over te late beslissing.",
+   "bron": [
+    16
+   ],
+   "citaat": "stelt dat het college met deze brief ten onrechte niet heeft beslist"
+  },
+  {
+   "zin": "De rechtbank vond de brief een besluit, ook zonder uitleg over bezwaar en beroep.",
+   "bron": [
+    17
+   ],
+   "citaat": "Dat een rechtsmiddelenclausule ontbreekt maakt dit niet anders"
+  },
+  {
+   "zin": "De Raad van State vond ook dat de brief duidelijk het verzoek afwees, omdat de brief naar het verzoek en dezelfde plek verwijst.",
+   "bron": [
+    19
+   ],
+   "citaat": "Het is daarom volstrekt duidelijk dat het besluit de afwijzing van het handhavingsverzoek"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    20
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De uitspraak van de rechtbank dient te worden bevestigd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Brief was een besluit; beroep over te late beslissing niet-ontvankelijk.",
+ "gevolg_betrokkene": {
+  "zin": "De bewoner krijgt geen gelijk en de gemeente hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   20,
+   21
+  ],
+  "citaat": "Het hoger beroep is ongegrond. De uitspraak van de rechtbank dient te worden bevestigd."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "niet-tijdig-beslist",
+   "burger_zegt": "De gemeente heeft met haar brief niet beslist op mijn verzoek, dus is niet tijdig beslist.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de brief een besluit op het verzoek.",
+    "bron": [
+     18
+    ],
+    "citaat": "Dit betekent dat de brief van 25 mei 2021 een besluit is."
+   },
+   "bruikbare_zin": {
+    "citaat": "doet niet aan af aan het besluitkarakter ervan",
+    "bron": [
+     19
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een brief die duidelijk het handhavingsverzoek afwijst is een besluit, ook als niet alles met zoveel woorden is benoemd.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Brief die met datum en kenmerk naar het verzoek verwijst en over dezelfde plek en objecten gaat.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "Het is daarom volstrekt duidelijk dat het besluit de afwijzing van het handhavingsverzoek"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "brief van de gemeente met datum en kenmerk van het verzoek"
+  ],
+  "wat_gaf_doorslag": "De brief noemt datum en kenmerk van het verzoek en gaat over dezelfde plek en objecten."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [
+  {
+   "actie": "Noem in een besluit op een handhavingsverzoek de datum en het kenmerk van het verzoek en de plek waar het over gaat.",
+   "raakt": "besluitvorming-motivering",
+   "bron": [
+    19
+   ],
+   "citaat": "in de eerste alinea wordt ook nog verwezen naar het kenmerk van dit verzoek"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "besluitvorming-motivering",
+  "bezwaar-juridische-zaken",
+  "termijnbewaking"
+ ],
+ "klantuitleg": "Geeft de gemeente een brief die duidelijk antwoord geeft op uw verzoek om handhaving, dan is dat een besluit. Dat geldt ook als er niets in staat over bezwaar maken. Bent u het er niet mee eens, reageer dan op de inhoud van die brief en niet op het uitblijven van een besluit.",
+ "gemeente": "Den Haag",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

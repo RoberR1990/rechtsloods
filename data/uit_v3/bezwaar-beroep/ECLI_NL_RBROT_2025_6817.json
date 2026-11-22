@@ -1,0 +1,150 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:6817",
+ "relevant": true,
+ "kenmerk": "ingebrekestelling-onduidelijk",
+ "bezwaargronden": [
+  {
+   "arg": "niet-tijdig-beslist",
+   "burger_zegt": "De gemeente besliste te laat en daarom had de burger recht op een dwangsom voor de bezwaarfase.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De e-mails van de burger telden niet als ingebrekestelling, dus de gemeente hoefde geen dwangsom te betalen.",
+    "bron": [
+     47
+    ],
+    "citaat": "Het college heeft zich in redelijkheid op het standpunt mogen stellen dat deze e-mailberichten niet kunnen worden gekwalificeerd als ingebrekestelling"
+   },
+   "bruikbare_zin": {
+    "citaat": "deze e-mailberichten niet kunnen worden gekwalificeerd als ingebrekestelling",
+    "bron": [
+     47
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een e-mail van iemand die meerdere soortgelijke procedures heeft, hoeft niet als ingebrekestelling te gelden, omdat die persoon kan weten wat erin moet staan.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "E-mails van iemand die al meerdere soortgelijke procedures voert en alleen om antwoord binnen twee weken vraagt",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   47
+  ],
+  "citaat": "mede gelet op het feit dat eiser meerdere, soortgelijke procedures heeft lopen en had kunnen en moeten weten"
+ },
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:RBROT:2024:2284",
+   "ECLI:NL:RVS:2023:487"
+  ]
+ },
+ "actie_gemeente": [
+  {
+   "actie": "Motiveer in het dwangsombesluit waarom een e-mail geen ingebrekestelling is, bijvoorbeeld door te wijzen op eerdere soortgelijke procedures van de burger.",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    47
+   ],
+   "citaat": "had kunnen en moeten weten wat in ieder geval in een ingebrekestelling moet worden aangegeven"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "gemeente": null,
+ "reden_gemeente_leeg": "geanonimiseerd",
+ "dubbel_van": null,
+ "steunt": "gemeente",
+ "toepasselijkheid": "landelijk",
+ "onderwerp": "dwangsom-niet-tijdig",
+ "sub": "ingebrekestelling-beslistermijn",
+ "zaaktype": "dwangsom-niet-tijdig",
+ "partijen": {
+  "burger": "bewoner met een AVG-inzageverzoek",
+  "wederpartij": "gemeente (college van burgemeester en wethouders)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger stapte naar de rechtbank Rotterdam omdat de gemeente te laat beslist zou hebben op zijn bezwaar over een inzageverzoek. Hij wilde ook een dwangsom (een vast bedrag per dag) omdat de gemeente te laat was.",
+ "titel": "E-mail met 'antwoord binnen twee weken' telt niet als laatste waarschuwing",
+ "kern": {
+  "zin": "De rechter vindt de e-mails van de burger geen ingebrekestelling (laatste waarschuwing), dus geen dwangsom voor de bezwaarfase; het beroep over te laat beslissen is niet-ontvankelijk omdat de gemeente inmiddels had beslist.",
+  "bron": [
+   47
+  ],
+  "citaat": "Het college heeft daarom terecht bepaald dat eiser geen recht heeft op (een) bestuurlijke dwangsom(men)."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger maakte bezwaar tegen een besluit en vroeg de gemeente per e-mail om binnen twee weken te antwoorden; daarna stelde hij beroep in omdat de gemeente niet tijdig beslist had.",
+   "bron": [
+    18
+   ],
+   "citaat": "Op 6 oktober 2023 heeft eiser het college gevraagd alsnog binnen twee weken te antwoorden"
+  },
+  {
+   "zin": "De gemeente besliste daarna alsnog op het bezwaar.",
+   "bron": [
+    19
+   ],
+   "citaat": "Vervolgens heeft het college op 1 februari 2024 beslist op het bezwaar van eiser."
+  },
+  {
+   "zin": "De burger vond dat de gemeente te laat had beslist en dat hij daarom een dwangsom kreeg.",
+   "bron": [
+    44
+   ],
+   "citaat": "Het college heeft volgens eiser buiten de daarvoor gestelde termijn (voor AVG-verzoeken) beslist."
+  },
+  {
+   "zin": "De gemeente bepaalde dat zij voor de bezwaarfase geen dwangsom verschuldigd was.",
+   "bron": [
+    46
+   ],
+   "citaat": "Het college heeft hierbij bepaald geen dwangsom verschuldigd te zijn voor wat betreft de bezwaarfase."
+  },
+  {
+   "zin": "De rechter verklaart het beroep over het te laat beslissen niet-ontvankelijk, omdat de burger geen eigen belang meer had nadat de gemeente tijdens het beroep had beslist.",
+   "bron": [
+    23
+   ],
+   "citaat": "Het beroep tegen het niet tijdig nemen van een besluit is daarom niet-ontvankelijk vanwege het ontbreken van procesbelang."
+  },
+  {
+   "zin": "De rechter vindt dat de gemeente de e-mails terecht niet als ingebrekestelling (laatste waarschuwing) zag, en dat er dus geen dwangsom is.",
+   "bron": [
+    47
+   ],
+   "citaat": "Het college heeft daarom terecht bepaald dat eiser geen recht heeft op (een) bestuurlijke dwangsom(men)."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Geen dwangsom; beroep over te laat beslissen niet-ontvankelijk",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt voor de bezwaarfase geen dwangsom; de dwangsom van € 46,- voor de eerste fase stond al vast.",
+  "bron": [
+   47,
+   45
+  ],
+  "citaat": "Het college heeft daarom terecht bepaald dat eiser geen recht heeft op (een) bestuurlijke dwangsom(men)."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "e-mailberichten van de burger van 6 oktober en 17 november 2023"
+  ],
+  "wat_gaf_doorslag": "De e-mails waren geen ingebrekestelling, mede omdat de burger meerdere soortgelijke procedures voert."
+ },
+ "wetsartikelen": [
+  "art. 15 AVG",
+  "art. 4:19 Awb",
+  "art. 7:11 Awb"
+ ],
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "termijnbewaking"
+ ],
+ "klantuitleg": "Beslist de gemeente te laat, dan kan zij een dwangsom (een vast bedrag per dag) moeten betalen, maar meestal pas nadat u de gemeente een duidelijke laatste waarschuwing stuurde. Een e-mail waarin u alleen vraagt om binnen twee weken antwoord telt niet altijd als zo'n waarschuwing. Stuur dus een duidelijke brief of e-mail waarin staat dat de gemeente te laat is en alsnog moet beslissen, en bewaar het bewijs van verzending.",
+ "zekerheid": "middel"
+}

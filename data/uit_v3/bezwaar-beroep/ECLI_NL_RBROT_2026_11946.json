@@ -1,0 +1,186 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2026:11946",
+ "relevant": true,
+ "onderwerp": "hoorplicht",
+ "sub": "gevolg-gebrek",
+ "kenmerk": "gebrek-gepasseerd",
+ "zaaktype": "hoorplicht",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "waterschap (belastingdienst van het waterschap)",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een bewoner ging in beroep tegen een rekening voor waterschapsbelasting. De zaak is tussen de bewoner en het waterschap bij de rechtbank Rotterdam.",
+ "titel": "Niet gehoord in bezwaar, maar de belastingrekening blijft staan",
+ "kern": {
+  "zin": "De rechter vond dat de burger niet was gehoord en dat niet op al zijn bezwaren was ingegaan, maar liet die fouten passeren en wees het beroep af.",
+  "bron": [
+   19
+  ],
+  "citaat": "De rechtbank passeert het gebrek met toepassing van artikel 6:22 van de Awb."
+ },
+ "samenvatting": [
+  {
+   "zin": "Het waterschap nam een beslissing op het bezwaar en stuurde later een tweede beslissing, waartoe het niet bevoegd was.",
+   "bron": [
+    15
+   ],
+   "citaat": "De heffingsambtenaar heeft op 27 september 2024 een tweede uitspraak op bezwaar aan eiser toegestuurd"
+  },
+  {
+   "zin": "De burger vond de beslissing op bezwaar slecht gemotiveerd, omdat niet op al zijn bezwaren was ingegaan.",
+   "bron": [
+    17
+   ],
+   "citaat": "omdat daarin niet op alle bezwaargronden is ingegaan"
+  },
+  {
+   "zin": "De burger zei ook dat hij niet was gehoord, terwijl hij daar wel om had gevraagd.",
+   "bron": [
+    19
+   ],
+   "citaat": "Eiser betoogt dat hij ondanks zijn verzoek daartoe niet is gehoord."
+  },
+  {
+   "zin": "Het waterschap erkende dat het de burger had moeten horen.",
+   "bron": [
+    19
+   ],
+   "citaat": "De heffingsambtenaar heeft erkend dat de hoorplicht is geschonden."
+  },
+  {
+   "zin": "De rechter liet het gebrek bij het horen passeren, omdat een hoorzitting de uitkomst niet had veranderd.",
+   "bron": [
+    19
+   ],
+   "citaat": "Een hoorzitting zou dus niet tot een andere uitkomst kunnen hebben geleid."
+  },
+  {
+   "zin": "Ook het motiveringsgebrek liet de rechter passeren, omdat het waterschap later alsnog op de laatste bezwaargrond was ingegaan.",
+   "bron": [
+    17
+   ],
+   "citaat": "alsnog op de resterende bezwaargrond is ingegaan"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Gebreken erkend maar gepasseerd; wel griffierecht terug, geen schadevergoeding",
+ "gevolg_betrokkene": {
+  "zin": "De burger houdt zijn belastingrekening, krijgt € 51,- griffierecht terug en krijgt geen schadevergoeding en geen proceskostenvergoeding.",
+  "bron": [
+   34,
+   33,
+   29
+  ],
+  "citaat": "bepaalt dat de heffingsambtenaar het griffierecht van € 51,- aan eiser moet vergoeden"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "niet-gehoord",
+   "burger_zegt": "Ik ben ondanks mijn verzoek niet gehoord in bezwaar.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond de hoorplicht geschonden, maar liet dat passeren omdat horen niets aan de uitkomst had veranderd.",
+    "bron": [
+     19
+    ],
+    "citaat": "De heffingsambtenaar heeft erkend dat de hoorplicht is geschonden. De beroepsgrond slaagt."
+   },
+   "bruikbare_zin": {
+    "citaat": "Een hoorzitting zou dus niet tot een andere uitkomst kunnen hebben geleid",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "bezwaargronden-niet-besproken",
+   "burger_zegt": "De beslissing op bezwaar gaat niet in op al mijn bezwaren.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dit terecht, maar liet het gebrek passeren omdat het waterschap later alsnog inging op de laatste bezwaargrond.",
+    "bron": [
+     17
+    ],
+    "citaat": "De rechtbank ziet aanleiding dit gebrek te passeren met toepassing van artikel 6:22 van de Awb"
+   },
+   "bruikbare_zin": {
+    "citaat": "alsnog op de resterende bezwaargrond is ingegaan",
+    "bron": [
+     17
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het waterschap moest in dezelfde beslissing ook beslissen over mijn verzoek om kwijtschelding.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter oordeelde dat alleen de belastingrekening aan de orde was en niet het kwijtscheldingsverzoek.",
+    "bron": [
+     21
+    ],
+    "citaat": "In deze procedure is slechts de aanslag waterschapsbelastingen en niet het kwijtscheldingsverzoek aan de orde."
+   },
+   "bruikbare_zin": {
+    "citaat": "niet gehouden om met de uitspraak op bezwaar ook te beslissen op het kwijtscheldingsverzoek",
+    "bron": [
+     21
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik wil schadevergoeding, omdat de zaak te lang heeft geduurd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter stelde alleen vast dat de zaak te lang duurde, omdat de burger geen geldelijk belang van meer dan € 1.000,- stelde.",
+    "bron": [
+     26
+    ],
+    "citaat": "De rechtbank volstaat daarom met de constatering dat de redelijke termijn is overschreden."
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een gebrek bij het horen mag worden gepasseerd als de feiten vaststaan en het bestuursorgaan geen beleidsruimte heeft, omdat horen dan niets aan de uitkomst verandert.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Zaken waarin de feiten niet in geschil zijn en het bestuursorgaan bij de belastingaanslag geen beleidsruimte heeft",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   19
+  ],
+  "citaat": "Een hoorzitting zou dus niet tot een andere uitkomst kunnen hebben geleid."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "gegevens uit het WOZ-waardeloket"
+  ],
+  "wat_gaf_doorslag": "De feiten waren niet in geschil en het waterschap had geen beleidsruimte."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:22 Awb",
+  "art. 3 Verordening watersysteemheffing Hoogheemraadschap van Schieland en de Krimpenerwaard 2020"
+ ],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "besluitvorming-motivering"
+ ],
+ "klantuitleg": "Wordt u in bezwaar niet gehoord, of gaat de beslissing niet in op al uw bezwaren, dan is dat een fout. De rechter kan die fout laten passeren als horen niets aan de uitkomst had veranderd, maar u kunt dan wel uw griffierecht terugkrijgen. Noem een gemiste hoorzitting daarom in uw beroep, maar reken niet op een andere uitkomst als de overheid geen keuzeruimte heeft.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "waterschapsbelasting; gemeente is geen partij",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

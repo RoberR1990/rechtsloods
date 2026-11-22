@@ -1,0 +1,186 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2026:310",
+ "relevant": true,
+ "kenmerk": "vernietiging",
+ "reden_leeg_actie": null,
+ "dubbel_van": null,
+ "reden_gemeente_leeg": null,
+ "procesvorm": "beroep",
+ "gemeente": "Rotterdam",
+ "onderwerp": "hoorplicht",
+ "sub": "gevolg-gebrek",
+ "zaaktype": "hoorplicht",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "intro": "Een bewoner kreeg van de gemeente Rotterdam vier rekeningen achteraf voor parkeren (naheffingsaanslagen) en maakte bezwaar. De bewoner procedeert tegen de gemeente bij de rechtbank Rotterdam, onder meer omdat zij niet is gehoord in bezwaar.",
+ "titel": "Niet gehoord in bezwaar, maar de parkeeraanslagen blijven toch staan",
+ "kern": {
+  "zin": "De rechter vindt dat de gemeente de burger in bezwaar had moeten horen, maar laat de aanslagen staan, omdat ze terecht zijn opgelegd.",
+  "bron": [
+   59
+  ],
+  "citaat": "Dit omdat de naheffingsaanslagen terecht aan eiseres zijn opgelegd"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente legde de bewoner vier naheffingsaanslagen (rekeningen achteraf) voor parkeerbelasting op.",
+   "bron": [
+    10
+   ],
+   "citaat": "vier naheffingsaanslagen parkeerbelasting opgelegd"
+  },
+  {
+   "zin": "De bewoner zei dat zij in bezwaar niet was gehoord, ook al had zij daarom gevraagd.",
+   "bron": [
+    47
+   ],
+   "citaat": "Eiseres betoogt dat zij, ondanks haar verzoek hiertoe, niet is gehoord alvorens er uitspraak op bezwaar is gedaan"
+  },
+  {
+   "zin": "De gemeente vond dat alle aanslagen terecht waren, omdat niet was voldaan aan de voorwaarden van de parkeervergunning.",
+   "bron": [
+    57
+   ],
+   "citaat": "alle aanslagen rechtmatig zijn opgelegd, omdat niet was voldaan aan de voorwaarden voor het parkeren met een parkeervergunning"
+  },
+  {
+   "zin": "De rechter stelt vast dat de bewoner niet is gehoord en kan dit niet over het hoofd zien, omdat partijen het oneens zijn over de feiten.",
+   "bron": [
+    48
+   ],
+   "citaat": "Tussen partijen bestaat een verschil van mening over de van belang zijnde feiten"
+  },
+  {
+   "zin": "De rechter vindt de aanslagen wel terecht, omdat de auto niet als actief kenteken bij de vergunning stond.",
+   "bron": [
+    53
+   ],
+   "citaat": "Er is geen sprake van parkeren met een vergunning, als aan één of meer dan deze voorwaarden niet wordt voldaan"
+  },
+  {
+   "zin": "De rechter vernietigt de beslissingen op bezwaar, maar laat de gevolgen ervan in stand.",
+   "bron": [
+    59
+   ],
+   "citaat": "laat met toepassing van artikel 8:72, derde lid, aanhef en onder a, van de Awb de rechtsgevolgen"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Hoorgebrek erkend, maar de aanslagen blijven staan; griffierecht terug",
+ "gevolg_betrokkene": {
+  "zin": "De vier aanslagen van € 69,26 per stuk blijven staan, maar de gemeente betaalt het griffierecht van € 51,- terug; proceskosten zijn er niet.",
+  "bron": [
+   60,
+   66
+  ],
+  "citaat": "Omdat de beroepen gegrond zijn, moet de heffingsambtenaar het griffierecht aan eiseres vergoeden"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "niet-gehoord",
+   "burger_zegt": "De bewoner is in bezwaar niet gehoord, ondanks haar verzoek.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter ziet geen reden om dit gebrek te passeren, want over de feiten bestaat verschil van mening.",
+    "bron": [
+     48
+    ],
+    "citaat": "ziet geen aanleiding om de schending van de hoorplicht met toepassing van artikel 6:22"
+   },
+   "bruikbare_zin": {
+    "citaat": "Tussen partijen bestaat een verschil van mening over de van belang zijnde feiten",
+    "bron": [
+     48
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De aanslagen zijn onterecht, want de bewoner vergat het tijdelijk gekoppelde kenteken terug te zetten.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een aanslag is geen straf maar een herstelmaatregel, dus een vergissing maakt niet uit.",
+    "bron": [
+     54
+    ],
+    "citaat": "de naheffingsaanslag geen straf is maar een herstelmaatregel"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Eén fout mag niet leiden tot vier aanslagen; dat is onevenredig.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter mag de aanslag alleen bij bijzondere, niet voorziene omstandigheden toetsen aan evenredigheid, en die zijn er niet.",
+    "bron": [
+     55
+    ],
+    "citaat": "tenzij sprake is van bijzondere omstandigheden die de wetgever niet heeft voorzien"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Er zijn slechts twee van de zeven aanslagen vernietigd; dat is ongelijk.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente hoeft geen coulance te verlenen en de aanslagen waren rechtmatig.",
+    "bron": [
+     57
+    ],
+    "citaat": "Gelet op de gegeven toelichting is van strijd met het gelijkheidsbeginsel geen sprake"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een hoorgebrek kan niet worden genegeerd als burger en gemeente het oneens zijn over de feiten.",
+  "type": "regel",
+  "reikwijdte": "Gevallen waarin partijen van mening verschillen over de feiten en de burger niet is gehoord",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   48
+  ],
+  "citaat": "Tussen partijen bestaat een verschil van mening over de van belang zijnde feiten"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "gegevens over het gekoppelde kenteken bij de parkeervergunning"
+  ],
+  "wat_gaf_doorslag": "Het kenteken van de geparkeerde auto stond niet als actief kenteken bij de vergunning; dat was niet in geschil."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 7:2 Awb",
+  "art. 6:22 Awb",
+  "art. 8:72 lid 3 onder a Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Hoor de bezwaarmaker als die daarom vraagt, zeker als er een meningsverschil is over de feiten",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    48
+   ],
+   "citaat": "In een dergelijk geval kan niet worden gezegd dat eiseres niet is benadeeld"
+  }
+ ],
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "klantcontact"
+ ],
+ "klantuitleg": "Als u in bezwaar vraagt om een hoorzitting en de gemeente laat u niet horen, kan de rechter de beslissing op uw bezwaar ongeldig verklaren. Toch hoeft u dan niet vrij te komen van de rekening voor het parkeren, want klopt die rekening volgens de rechter wel, dan blijft die staan. Vraag daarom in uw bezwaar om een hoorzitting en onderbouw uw feiten.",
+ "zekerheid": "hoog"
+}

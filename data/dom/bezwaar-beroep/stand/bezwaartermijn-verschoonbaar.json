@@ -1,0 +1,433 @@
+{
+ "termijn-berekening": {
+  "lijn": "vaste-lijn",
+  "kern": "Termijn loopt pas na goede bekendmaking; bestuursorgaan moet verzending aannemelijk maken.",
+  "lijn_uitleg": "Raad van State, Centrale Raad van Beroep en rechtbank oordelen in dezelfde richting over wanneer de termijn begint. Is een besluit niet goed bekendgemaakt, dan loopt de termijn niet of pas vanaf kennisname. Omdat de uitspraken vooral over bekendmaking gaan en een hoogste rechter geen algemene rekenregel geeft, is dit een vaste lijn en geen hr-lijn.",
+  "regels": [
+   {
+    "zin": "Is een besluit niet aangetekend verstuurd en wordt de verzenddatum betwist, dan moet het bestuursorgaan aannemelijk maken wanneer het ter post is aangeboden.",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RVS:2022:2225",
+      "citaat": "Het ligt daarom op de weg van het college om aannemelijk te maken dat de terpostbezorging daadwerkelijk op die datum heeft plaatsgevonden."
+     },
+     {
+      "ecli": "ECLI:NL:RBROT:2025:4319",
+      "citaat": "In geval van niet aangetekende verzending van een besluit dient het bestuursorgaan aannemelijk te maken dat dat besluit is verzonden."
+     }
+    ]
+   },
+   {
+    "zin": "Lukt dat niet, dan is het besluit niet bekendgemaakt en loopt de termijn niet.",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RBROT:2025:4319",
+      "citaat": "Dit betekent dat dit besluit niet op die datum op de voorgeschreven wijze is bekendgemaakt"
+     }
+    ]
+   },
+   {
+    "zin": "Is een besluit niet goed bekendgemaakt, maar kent de burger of zijn gemachtigde het wel, dan begint de termijn van zes weken op de dag van kennisname.",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:CRVB:2024:1130",
+      "citaat": "vangt de beroepstermijn van zes weken aan op de dag waarop (de gemachtigde van de) belanghebbende het besluit onder ogen heeft gekregen"
+     }
+    ]
+   },
+   {
+    "zin": "Een brief die op tijd op de post is gedaan en binnen een week na het einde van de termijn aankomt, is op tijd.",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:CRVB:2024:1944",
+      "citaat": "bij verzending per post een bezwaar- of beroepschrift tijdig ingediend, indien het voor het einde van de termijn ter post is bezorgd"
+     }
+    ]
+   },
+   {
+    "zin": "Een besluit dat naar een verkeerd adres is gestuurd, is niet goed bekendgemaakt.",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:CRVB:2024:805",
+      "citaat": "Het bestreden besluit is hierdoor niet op de juiste wijze bekend gemaakt als bedoeld in artikel 6:8 van de Awb"
+     }
+    ]
+   }
+  ],
+  "uitzonderingen": [
+   {
+    "zin": "Een teruggekomen aangetekende brief betekent niet zonder meer dat het door de gemachtigde opgegeven adres niet meer in gebruik is.",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:CRVB:2023:1077",
+      "citaat": "Het retour komen van deze aangetekende brief betekent niet zonder meer dat dit postbusadres niet langer in gebruik is"
+     }
+    ]
+   },
+   {
+    "zin": "Een e-mailadres invullen op een formulier is geen uitdrukkelijke instemming met uitsluitend elektronisch contact.",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RBROT:2026:10774",
+      "citaat": "kan het enkel invullen van een e-mailadres niet worden aangemerkt als uitdrukkelijke instemming met uitsluitend elektronische communicatie"
+     }
+    ]
+   }
+  ],
+  "toetslijst": [
+   {
+    "zin": "Kunnen wij aantonen wanneer het besluit ter post is aangeboden, bijvoorbeeld met een registratie?",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RVS:2022:2225",
+      "citaat": "Het college heeft geen registratie van de aanbieding ter postbezorging bijgehouden."
+     }
+    ]
+   },
+   {
+    "zin": "Is het besluit op de voorgeschreven wijze bekendgemaakt, ook als het per e-mail is verstuurd?",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RBROT:2026:10774",
+      "citaat": "De beslissing op bezwaar is daarom niet rechtsgeldig bekend gemaakt en is de beroepstermijn niet overschreden"
+     }
+    ]
+   },
+   {
+    "zin": "Is het besluit gestuurd naar het adres dat de burger of gemachtigde zelf opgaf?",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:CRVB:2023:1077",
+      "citaat": "Het retour komen van deze aangetekende brief betekent niet zonder meer dat dit postbusadres niet langer in gebruik is"
+     }
+    ]
+   },
+   {
+    "zin": "Is een per post verstuurd bezwaarschrift binnen een week na afloop van de termijn binnengekomen?",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:CRVB:2024:1944",
+      "citaat": "bij verzending per post een bezwaar- of beroepschrift tijdig ingediend, indien het voor het einde van de termijn ter post is bezorgd"
+     }
+    ]
+   }
+  ],
+  "steunt_gemeente": [
+   "ECLI:NL:CRVB:2024:1130",
+   "ECLI:NL:CRVB:2023:1077"
+  ],
+  "steunt_parkeerder": [
+   "ECLI:NL:RVS:2022:2225",
+   "ECLI:NL:CRVB:2024:1944",
+   "ECLI:NL:RBROT:2025:4319",
+   "ECLI:NL:RBROT:2026:10774"
+  ],
+  "hiaten": "Geen uitspraak in de selectie geeft een algemene rekenregel voor het einde van de termijn. De selectie bevat vooral zaken over bekendmaking en verzending.",
+  "peil": "8 uitspraken in de uitgelezen selectie: 1 Raad van State, 4 Centrale Raad van Beroep, 3 rechtbank"
+ },
+ "niet-ontvankelijk-te-laat": {
+  "lijn": "vaste-lijn",
+  "kern": "Te laat bezwaar, beroep of griffierecht: niet-ontvankelijk, tenzij de indiener niet in verzuim was.",
+  "lijn_uitleg": "Raad van State, Centrale Raad van Beroep en rechtbank oordelen consistent dat te laat bezwaar, beroep of griffierecht leidt tot niet-ontvankelijkheid, tenzij de indiener redelijkerwijs niet in verzuim was. Veel van de uitspraken passen vooral de wet toe, daarom vaste-lijn.",
+  "regels": [
+   {
+    "zin": "Bij een te laat ingekomen beroepschrift is de hoofdregel dat het niet inhoudelijk wordt behandeld.",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RBROT:2025:164",
+      "citaat": "Bij een te laat ingekomen beroepschrift is de hoofdregel dat dit niet inhoudelijk wordt behandeld"
+     }
+    ]
+   },
+   {
+    "zin": "Een te laat bezwaar of beroep blijft ontvankelijk als redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest.",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RBROT:2026:11216",
+      "citaat": "niet-ontvankelijkverklaring op grond daarvan achterwege indien redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest"
+     }
+    ]
+   },
+   {
+    "zin": "Wordt het griffierecht niet of niet op tijd betaald, dan wordt de zaak niet inhoudelijk beoordeeld, tenzij dit verontschuldigbaar is.",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RBROT:2025:5591",
+      "citaat": "Als het griffierecht niet of niet tijdig wordt betaald, verklaart de voorzieningenrechter het verzoek niet-ontvankelijk."
+     },
+     {
+      "ecli": "ECLI:NL:RVS:2022:3366",
+      "citaat": "is het beroep niet-ontvankelijk, tenzij redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest"
+     }
+    ]
+   },
+   {
+    "zin": "Een verschrijving of een niet afgehaalde brief komt voor rekening van de indiener.",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RBROT:2025:164",
+      "citaat": "Zo’n verschrijving komt geheel voor rekening en risico van opposant."
+     },
+     {
+      "ecli": "ECLI:NL:RBROT:2025:5591",
+      "citaat": "Het niet afhalen van de aangetekend verzonden nota dient voor rekening van verzoeker te komen."
+     }
+    ]
+   },
+   {
+    "zin": "Wie van adres verandert tijdens een procedure, moet dat zelf aan de rechter doorgeven.",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RVS:2025:4902",
+      "citaat": "is zelf verantwoordelijk voor het doorgeven van zijn adreswijziging aan de rechtbank, wanneer zijn adres gedurende de procedure wijzigt"
+     }
+    ]
+   }
+  ],
+  "uitzonderingen": [
+   {
+    "zin": "Technische problemen zijn geen reden als de indiener nog op tijd een kort (pro forma) bezwaar had kunnen indienen.",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RBROT:2026:11216",
+      "citaat": "Eiser had immers tijdig pro forma bezwaar kunnen maken"
+     }
+    ]
+   },
+   {
+    "zin": "Vertrouwen erop dat een ander het regelt is geen goede reden.",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RBROT:2026:7384",
+      "citaat": "is geen goede reden voor de termijnoverschrijding. Eiseres had zelf tijdig bezwaar kunnen maken"
+     }
+    ]
+   }
+  ],
+  "toetslijst": [
+   {
+    "zin": "Is de termijn echt verstreken, en is de dag van ontvangst goed vastgesteld?",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RBROT:2024:5580",
+      "citaat": "De bezwaartermijn van zes weken is hiermee ruimschoots overschreden"
+     }
+    ]
+   },
+   {
+    "zin": "Hebben wij de indiener gevraagd om een reden voor de late indiening?",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RBROT:2026:7384",
+      "citaat": "niet is gebleken dat eiseres een goede reden had voor de termijnoverschrijding"
+     }
+    ]
+   },
+   {
+    "zin": "Heeft de indiener concreet gemaakt hoe de aangevoerde omstandigheden hem verhinderden?",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RBROT:2026:11216",
+      "citaat": "dat eiser niet concreet heeft gemaakt dat en op welke wijze deze omstandigheden eiser hebben verhinderd"
+     }
+    ]
+   },
+   {
+    "zin": "Is bij te laat betaald griffierecht gekeken of dat verontschuldigbaar is?",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RBROT:2025:8976",
+      "citaat": "Er is dus geen verontschuldiging voor dit verzuim gebleken."
+     }
+    ]
+   }
+  ],
+  "steunt_gemeente": [
+   "ECLI:NL:RVS:2026:3079",
+   "ECLI:NL:RVS:2025:4902",
+   "ECLI:NL:RVS:2022:3366",
+   "ECLI:NL:RBROT:2026:7384"
+  ],
+  "steunt_parkeerder": [],
+  "hiaten": "In de selectie krijgt in deze subgroep geen indiener gelijk. De uitspraken waarin een te late indiening toch wordt aanvaard staan in het onderwerp verschoonbaarheid.",
+  "peil": "15 uitspraken in de uitgelezen selectie: 5 Raad van State, 3 Centrale Raad van Beroep, 7 rechtbank"
+ },
+ "verschoonbaar": {
+  "lijn": "vaste-lijn",
+  "kern": "Termijnoverschrijding is alleen verschoonbaar als zij niet aan de indiener is toe te rekenen.",
+  "lijn_uitleg": "De Raad van State en rechtbanken oordelen consistent: de indiener moet bijzondere omstandigheden onderbouwen, en handelen van een professionele gemachtigde komt in beginsel voor zijn risico. De Raad van State past een bestaande regel toe in uiteenlopende zaken, dus geen duidelijke eigen hr-lijn. De uitkomst hangt sterk af van het geval.",
+  "regels": [
+   {
+    "zin": "Wie te laat is, moet met stukken laten zien dat hij de hele termijn niet kon handelen; algemene klachten zijn niet genoeg.",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RVS:2025:6431",
+      "citaat": "niet met (medische) stukken onderbouwd dat [appellante] gedurende de hele bezwaartermijn niet in staat is geweest"
+     },
+     {
+      "ecli": "ECLI:NL:RBROT:2025:4779",
+      "citaat": "Eiseres heeft deze stelling niet nader toegelicht en ook niet onderbouwd met (medische) stukken."
+     }
+    ]
+   },
+   {
+    "zin": "Het handelen van een professionele rechtshulpverlener komt in beginsel voor risico van de indiener.",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RVS:2026:5920",
+      "citaat": "komt het handelen van de rechtshulpverlener in beginsel voor risico van de indiener"
+     },
+     {
+      "ecli": "ECLI:NL:RVS:2026:5333",
+      "citaat": "dat het handelen van de rechtsbijstandsverlener in beginsel voor risico van Bingoal komt"
+     }
+    ]
+   },
+   {
+    "zin": "Drukte, stress of ziekte maakt een te late indiening meestal niet verschoonbaar, zeker als nog een kort bezwaar kon worden ingediend.",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RBROT:2024:1550",
+      "citaat": "dat eiseres helemaal niet in staat was om op tijd (pro forma) bezwaar te maken"
+     },
+     {
+      "ecli": "ECLI:NL:RVS:2022:3747",
+      "citaat": "Het behoort tot de eigen verantwoordelijkheid van de indiener van een beroepschrift om er zorg voor te dragen"
+     }
+    ]
+   },
+   {
+    "zin": "Een bestuursorgaan mag in beginsel uitgaan van het adres in het bevolkingsregister.",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RVS:2021:2845",
+      "citaat": "De staatssecretaris mocht in beginsel uit gaan van de juistheid van de in de Brp opgenomen gegevens."
+     }
+    ]
+   },
+   {
+    "zin": "Wie niet wist en niet kon weten dat een besluit was genomen, is niet verwijtbaar te laat als hij binnen twee weken na ontdekking bezwaar of beroep instelt.",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RVS:2023:84",
+      "citaat": "niet verwijtbaar te laat met het maken van bezwaar of instellen van beroep als hij dat doet binnen twee weken"
+     }
+    ]
+   }
+  ],
+  "uitzonderingen": [
+   {
+    "zin": "Een samenstel van persoonlijke omstandigheden, meteen handelen zodra het kan en geen belangen van anderen kan de overschrijding verschoonbaar maken.",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RVS:2025:5482",
+      "citaat": "sprake was van een samenstel van factoren in het tijdsverloop"
+     }
+    ]
+   },
+   {
+    "zin": "Is de overschrijding veroorzaakt door handelen of nalaten van het bestuursorgaan, dan is zij te verontschuldigen.",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RBROT:2026:8747",
+      "citaat": "of als de termijnoverschrijding is veroorzaakt door het handelen of nalaten van het bestuursorgaan"
+     }
+    ]
+   },
+   {
+    "zin": "Ontbreekt de rechtsmiddelenclausule of de termijn daarin, dan is te laat beroep in beginsel te verontschuldigen, behalve als de indiener de termijn redelijkerwijs kende.",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RVS:2021:331",
+      "citaat": "Dit beginsel lijdt uitzondering indien redelijkerwijs kan worden aangenomen dat de belanghebbende tijdig wist"
+     }
+    ]
+   }
+  ],
+  "toetslijst": [
+   {
+    "zin": "Hebben wij de indiener de kans gegeven om uit te leggen waarom hij te laat was?",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RBROT:2025:7566",
+      "citaat": "had echter wel naar de reden van het te laat indienen van het bezwaar moeten vragen"
+     }
+    ]
+   },
+   {
+    "zin": "Is de aangevoerde omstandigheid onderbouwd, bijvoorbeeld met medische stukken?",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RVS:2025:6431",
+      "citaat": "niet met (medische) stukken onderbouwd dat [appellante] gedurende de hele bezwaartermijn niet in staat is geweest"
+     }
+    ]
+   },
+   {
+    "zin": "Had de indiener nog een kort (pro forma) bezwaar kunnen indienen?",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RVS:2025:6431",
+      "citaat": "Hij had ook meteen in elk geval pro forma bezwaar kunnen maken"
+     }
+    ]
+   },
+   {
+    "zin": "Heeft de indiener direct gehandeld nadat hij het besluit kende?",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RVS:2025:5482",
+      "citaat": "nu hij meteen nadat hij kennis kreeg van het besluit van 27 juni 2022 een bezwaarschrift heeft ingediend"
+     }
+    ]
+   },
+   {
+    "zin": "Heeft ons eigen handelen, zoals een onduidelijke rechtsmiddelenclausule, bijgedragen aan de overschrijding?",
+    "bronnen": [
+     {
+      "ecli": "ECLI:NL:RBROT:2026:8747",
+      "citaat": "of als de termijnoverschrijding is veroorzaakt door het handelen of nalaten van het bestuursorgaan"
+     }
+    ]
+   }
+  ],
+  "steunt_gemeente": [
+   "ECLI:NL:RVS:2026:5920",
+   "ECLI:NL:RVS:2025:6431",
+   "ECLI:NL:RVS:2023:204",
+   "ECLI:NL:RVS:2022:3747"
+  ],
+  "steunt_parkeerder": [
+   "ECLI:NL:RVS:2025:5482",
+   "ECLI:NL:RVS:2025:1830",
+   "ECLI:NL:RVS:2023:84",
+   "ECLI:NL:RBROT:2026:8747"
+  ],
+  "hiaten": "De uitkomst hangt sterk af van de feiten. Er zijn weinig uitspraken over wanneer een overschrijding van meerdere maanden nog verschoonbaar is.",
+  "peil": "19 uitspraken in de uitgelezen selectie: 10 Raad van State, 9 rechtbank"
+ },
+ "derdebelanghebbende": {
+  "lijn": "weinig",
+  "kern": "Te weinig uitspraken voor een lijn over derden en bekendmaking.",
+  "lijn_uitleg": "De selectie bevat drie uitspraken, waarvan een van de Raad van State. Dat is te weinig om een lijn vast te stellen.",
+  "regels": [],
+  "uitzonderingen": [],
+  "toetslijst": [],
+  "steunt_gemeente": [],
+  "steunt_parkeerder": [],
+  "hiaten": "Er zijn te weinig uitspraken. Een omwonende die de situatie kent kan zich volgens de Raad van State niet op een andere aanduiding beroepen, maar dat is één zaak.",
+  "peil": "3 uitspraken in de uitgelezen selectie: 1 Raad van State, 2 rechtbank"
+ },
+ "overig": {
+  "lijn": "weinig",
+  "kern": "Eén uitspraak, over griffierecht; geen lijn.",
+  "lijn_uitleg": "De selectie bevat één uitspraak, over te laat betaald griffierecht. Dat is te weinig.",
+  "regels": [],
+  "uitzonderingen": [],
+  "toetslijst": [],
+  "steunt_gemeente": [],
+  "steunt_parkeerder": [],
+  "hiaten": "Te weinig uitspraken. Griffierecht komt al aan bod onder niet-ontvankelijkheid.",
+  "peil": "1 uitspraak in de uitgelezen selectie, rechtbank"
+ }
+}

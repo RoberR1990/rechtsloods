@@ -1,0 +1,136 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "gemeente": null,
+ "reden_gemeente_leeg": "gemeente niet partij",
+ "dubbel_van": null,
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "ecli": "ECLI:NL:CRVB:2025:1736",
+ "onderwerp": "dwangsom-niet-tijdig",
+ "sub": "ingebrekestelling-beslistermijn",
+ "kenmerk": "ingebrekestelling-ontbreekt",
+ "zaaktype": "dwangsom-niet-tijdig",
+ "partijen": {
+  "burger": "student",
+  "wederpartij": "minister van Onderwijs, Cultuur en Wetenschap",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een student vroeg een dwangsom (een bedrag per dag) aan de minister omdat die te laat zou hebben beslist. De Centrale Raad van Beroep (de hoogste rechter voor uitkeringszaken) besliste in hoger beroep.",
+ "titel": "Geen dwangsom: de minister had al op de hele aanvraag beslist",
+ "kern": {
+  "zin": "De Raad vond dat de minister niet in gebreke was omdat hij al inhoudelijk had beslist, dus er is geen dwangsom verschuldigd.",
+  "bron": [
+   28
+  ],
+  "citaat": "ten tijde van belang niet in gebreke was en terecht heeft vastgesteld dat hij aan appellant geen dwangsom verschuldigd is"
+ },
+ "samenvatting": [
+  {
+   "zin": "De student vroeg studiefinanciering aan en kreeg een reisvoorziening en een basisbeurs.",
+   "bron": [
+    17
+   ],
+   "citaat": "vanaf juli 2023 een reisvoorziening en een basisbeurs toegekend"
+  },
+  {
+   "zin": "Hij stelde de minister in gebreke omdat niet tijdig was beslist over het deel van de aanvraag voor de aanvullende beurs.",
+   "bron": [
+    18
+   ],
+   "citaat": "niet tijdig is beslist op het deel van zijn aanvraag dat betrekking heeft op de aanvullende beurs"
+  },
+  {
+   "zin": "De minister vond dat er geen dwangsom was, omdat al op de hele aanvraag was beslist.",
+   "bron": [
+    19
+   ],
+   "citaat": "omdat bij besluit van 28 februari 2023 op de gehele aanvraag van appellant van diezelfde datum is beslist"
+  },
+  {
+   "zin": "De Raad vond dat na dat besluit geen beslistermijn meer liep, ook al kon het bedrag nog veranderen.",
+   "bron": [
+    28
+   ],
+   "citaat": "liep er geen termijn meer voor het nader vaststellen van het bedrag van de aanvullende beurs"
+  },
+  {
+   "zin": "Het hoger beroep slaagt niet en de student krijgt geen vergoeding van proceskosten en griffierecht.",
+   "bron": [
+    32
+   ],
+   "citaat": "krijgt appellant geen vergoeding voor zijn proceskosten en het betaalde griffierecht"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Geen dwangsom: de minister was niet te laat met beslissen",
+ "gevolg_betrokkene": {
+  "zin": "De weigering om een dwangsom te betalen blijft staan en de student krijgt geen vergoeding van proceskosten en griffierecht.",
+  "bron": [
+   31,
+   32
+  ],
+  "citaat": "de bij het bestreden besluit gehandhaafde weigering om aan appellant een dwangsom toe te wijzen in stand blijft"
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "niet-tijdig-beslist",
+   "burger_zegt": "De minister heeft niet op tijd beslist over de aanvullende beurs, dus er is een dwangsom verschuldigd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er liep na het besluit geen termijn meer, dus de minister was niet in gebreke.",
+    "bron": [
+     28
+    ],
+    "citaat": "liep er geen termijn meer voor het nader vaststellen van het bedrag van de aanvullende beurs"
+   },
+   "bruikbare_zin": {
+    "citaat": "Daar doet niet aan af dat bij dit besluit het bedrag van de aanvullende beurs op nihil werd gesteld",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een inhoudelijk besluit op de hele aanvraag stopt de beslistermijn, ook als het bedrag op nul staat en later nog kan veranderen.",
+  "bron": [
+   28
+  ],
+  "citaat": "Daar doet niet aan af dat bij dit besluit het bedrag van de aanvullende beurs op nihil werd gesteld",
+  "type": "regel",
+  "reikwijdte": "Aanvraag waarop met één besluit ook inhoudelijk is beslist over een onderdeel, met een bedrag dat later kan wijzigen",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "besluit op de aanvraag",
+   "ingebrekestelling"
+  ],
+  "wat_gaf_doorslag": "Het eerste besluit besliste ook inhoudelijk over de aanvullende beurs."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:CRVB:2020:2085"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1:3 Awb",
+  "art. 4:5 Awb",
+  "art. 4:13 Awb",
+  "art. 4:17 Awb",
+  "Wsf 2000"
+ ],
+ "actie_gemeente": [],
+ "raakt": [
+  "termijnbewaking",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "Een dwangsom (een bedrag per dag) krijgt u alleen als een bestuursorgaan te laat is met beslissen. Heeft het bestuursorgaan al wel een besluit genomen over uw hele aanvraag, ook als daarin een bedrag op nul staat, dan is het niet te laat. Bent u het niet eens met zo'n besluit, maak dan op tijd bezwaar.",
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,147 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2025:11308",
+ "relevant": true,
+ "onderwerp": "hoorplicht",
+ "sub": "horen-verplicht",
+ "kenmerk": "hoorplicht-geschonden",
+ "zaaktype": "hoorplicht",
+ "partijen": {
+  "burger": "bewoner (met gemachtigde)",
+  "wederpartij": "gemeente Nissewaard",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger procedeert tegen de gemeente Nissewaard bij de rechtbank Rotterdam. De gemeente had de burger in bezwaar niet gehoord, terwijl zij dat wel wilde.",
+ "titel": "Telefonisch gevraagd om gehoord te worden: gemeente moet opnieuw beslissen",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente de burger in bezwaar ten onrechte niet hoorde, omdat de gemeente wist dat de burger gehoord wilde worden.",
+  "bron": [
+   24
+  ],
+  "citaat": "Het college heeft eiseres dus ten onrechte niet gehoord."
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente bleef bij de afwijzing van de aanvraag, ook na het bezwaar van de burger.",
+   "bron": [
+    12
+   ],
+   "citaat": "is het college bij de afwijzing van de aanvraag gebleven"
+  },
+  {
+   "zin": "De burger zei dat haar gemachtigde (iemand die voor haar optreedt) telefonisch had gemeld dat zij gehoord wilde worden.",
+   "bron": [
+    23
+   ],
+   "citaat": "met een medewerker van het college uitdrukkelijk heeft verklaard dat eiseres wil worden gehoord"
+  },
+  {
+   "zin": "De gemeente zei dat de medewerker zich het gesprek niet meer kon herinneren.",
+   "bron": [
+    23
+   ],
+   "citaat": "de desbetreffende medewerker zich de inhoud van het telefoongesprek niet meer kan herinneren"
+  },
+  {
+   "zin": "De rechter ging ervan uit dat de burger telefonisch had gezegd gehoord te willen worden.",
+   "bron": [
+    23
+   ],
+   "citaat": "gaat er daarom van uit dat de gemachtigde van eiseres in het telefoongesprek inderdaad uitdrukkelijk heeft verklaard"
+  },
+  {
+   "zin": "De gemeente moet opnieuw op het bezwaar beslissen, nadat zij de burger heeft gehoord.",
+   "bron": [
+    24
+   ],
+   "citaat": "De rechtbank zal het college opdragen opnieuw op het bezwaar van eiseres te beslissen"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Besluit op bezwaar vernietigd; gemeente moet de burger horen en opnieuw beslissen.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet de burger horen en opnieuw beslissen, het griffierecht van € 53,- terugbetalen en € 1.814,- proceskosten vergoeden.",
+  "bron": [
+   24,
+   25,
+   26
+  ],
+  "citaat": "nadat eiseres in de gelegenheid is gesteld om te worden gehoord"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "niet-gehoord",
+   "burger_zegt": "De gemeente heeft haar in bezwaar ten onrechte niet gehoord.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente wist dat de burger gehoord wilde worden, ook zonder ingevuld antwoordformulier.",
+    "bron": [
+     23
+    ],
+    "citaat": "Het was bij het college immers bekend dat eiseres wilde worden gehoord."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het was bij het college immers bekend dat eiseres wilde worden gehoord.",
+    "bron": [
+     23
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Weet de gemeente dat de burger gehoord wil worden, dan mag zij van het horen niet afzien, ook niet als het antwoordformulier niet is teruggestuurd.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Bezwaren waarbij de burger telefonisch liet weten gehoord te willen worden en de gemeente dat wist.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "Het was bij het college immers bekend dat eiseres wilde worden gehoord."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "verklaring van de gemachtigde over het telefoongesprek"
+  ],
+  "wat_gaf_doorslag": "De gemeente kon het telefoongesprek niet tegenspreken, omdat de medewerker zich niets meer herinnerde."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 7:3 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Hoor de burger als je weet dat die gehoord wil worden, ook als dat telefonisch is gezegd en het antwoordformulier niet is teruggestuurd.",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    23
+   ],
+   "citaat": "Het was bij het college immers bekend dat eiseres wilde worden gehoord."
+  },
+  {
+   "actie": "Leg telefonische meldingen over horen vast in het dossier.",
+   "raakt": "klantcontact",
+   "bron": [
+    23
+   ],
+   "citaat": "de desbetreffende medewerker zich de inhoud van het telefoongesprek niet meer kan herinneren"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "klantcontact"
+ ],
+ "klantuitleg": "Wilt u in bezwaar gehoord worden, laat dat dan duidelijk aan de gemeente weten. Weet de gemeente dat u gehoord wilt worden, dan mag zij dat niet overslaan; doet zij dat toch, dan kan de rechter het besluit op uw bezwaar ongeldig verklaren. Bevestig uw wens ook schriftelijk en stuur het antwoordformulier terug.",
+ "gemeente": "Nissewaard",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,192 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2024:9484",
+ "relevant": true,
+ "onderwerp": "dwangsom-niet-tijdig",
+ "sub": "beroep-niet-tijdig",
+ "kenmerk": "beroep-te-vroeg",
+ "zaaktype": "dwangsom-niet-tijdig",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "gemeente Rotterdam (burgemeester)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "voorlopige voorziening",
+ "intro": "Een ondernemer vroeg de burgemeester van Rotterdam om op te treden tegen een terras van een ander bedrijf. Zij ging bij de voorzieningenrechter van de rechtbank Rotterdam in beroep en vroeg een voorlopige voorziening, omdat de burgemeester niet op tijd besliste.",
+ "titel": "Te laat beslist op handhavingsverzoek: gemeente betaalt kosten",
+ "kern": {
+  "zin": "De rechter vond dat de burgemeester te laat besliste en dat de ondernemer hem in dit geval niet eerst in gebreke hoefde te stellen, maar het beroep viel toch weg omdat de burgemeester alsnog besliste.",
+  "bron": [
+   26
+  ],
+  "citaat": "redelijkerwijs niet van eiseres kon worden gevergd dat zij verweerder eerst nog in gebreke stelde"
+ },
+ "samenvatting": [
+  {
+   "zin": "Een ondernemer vroeg de burgemeester om handhaving tegen een terras dat niet was toegestaan.",
+   "bron": [
+    18
+   ],
+   "citaat": "Eiseres heeft het college gevraagd handhavend op te treden tegen de exploitatie van zowel een terras"
+  },
+  {
+   "zin": "Zij vond dat de burgemeester niet op tijd had beslist.",
+   "bron": [
+    13
+   ],
+   "citaat": "omdat verweerder volgens haar niet op tijd heeft beslist op het handhavingsverzoek"
+  },
+  {
+   "zin": "De burgemeester zei dat het beroep te vroeg was, omdat hij na de ingebrekestelling (een laatste schriftelijke waarschuwing) nog twee weken had om te beslissen.",
+   "bron": [
+    20
+   ],
+   "citaat": "Verweerder heeft ter zitting aangevoerd dat sprake is van een prematuur beroep"
+  },
+  {
+   "zin": "De rechter vond dat de burgemeester te laat was, omdat zeven dagen in dit geval redelijk was.",
+   "bron": [
+    24
+   ],
+   "citaat": "Een termijn van zeven dagen om te beslissen op het handhavingsverzoek acht de voorzieningenrechter"
+  },
+  {
+   "zin": "Een ingebrekestelling was hier niet nodig, omdat het terrassenseizoen bijna afliep en de ondernemer schade stelde te lijden.",
+   "bron": [
+    26
+   ],
+   "citaat": "Indachtig het feit dat het einde van het terrassenseizoen nadert, en verzoekster voorts stelt schade te lijden"
+  },
+  {
+   "zin": "De burgemeester nam vlak voor de zitting alsnog een besluit, dus het beroep was niet-ontvankelijk (niet te behandelen), maar de gemeente moet de kosten betalen.",
+   "bron": [
+    31
+   ],
+   "citaat": "Omdat eiseres verder geen belang meer heeft bij het beroep"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Voorlopig: beroep niet-ontvankelijk, maar te laat beslist en kosten vergoed.",
+ "gevolg_betrokkene": {
+  "zin": "De ondernemer krijgt 742 euro griffierecht terug en 2.625 euro aan proceskosten; de burgemeester behandelt haar bezwaar tegen het nieuwe besluit.",
+  "bron": [
+   33,
+   37,
+   39,
+   40
+  ],
+  "citaat": "Verweerder moet wel het griffierecht aan eiseres vergoeden"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "niet-tijdig-beslist",
+   "burger_zegt": "De burgemeester heeft niet op tijd beslist op mijn verzoek om te handhaven.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De burgemeester besliste niet binnen zeven dagen en was dus te laat.",
+    "bron": [
+     24
+    ],
+    "citaat": "was verweerder aldus in gebreke tijdig een besluit te nemen"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet binnen die termijn van zeven dagen heeft beslist",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "ingebrekestelling-onjuist",
+   "burger_zegt": "De burgemeester zegt: het beroep is te vroeg, want de ingebrekestelling was nog geen twee weken oud.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De ondernemer hoefde de burgemeester hier niet eerst in gebreke te stellen.",
+    "bron": [
+     26
+    ],
+    "citaat": "redelijkerwijs niet van eiseres kon worden gevergd dat zij verweerder eerst nog in gebreke stelde"
+   },
+   "bruikbare_zin": {
+    "citaat": "een ingebrekestelling niet nodig is, indien redelijkerwijs niet van de belanghebbende kan worden gevergd",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het nieuwe besluit is geen echt besluit, want het is niet op rechtsgevolg gericht.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter zag het wel als besluit dat op rechtsgevolg is gericht.",
+    "bron": [
+     28
+    ],
+    "citaat": "verweerder na het instellen van het beroep alsnog op 19 september 2024 een (op rechtsgevolg gericht) besluit heeft genomen"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een ingebrekestelling is niet nodig als van de burger redelijkerwijs niet kan worden gevraagd die te sturen, bijvoorbeeld als wachten het besluit weinig of geen betekenis laat houden.",
+  "type": "regel",
+  "reikwijdte": "Beroep tegen niet tijdig beslissen; ingebrekestelling niet nodig als langer wachten het besluit weinig of geen betekenis meer geeft",
+  "uitzondering": "Is dat niet zo, dan moet de burger eerst een ingebrekestelling sturen en twee weken wachten (art. 6:12 lid 2 Awb).",
+  "herkomst": "wet",
+  "bron": [
+   25
+  ],
+  "citaat": "niet van de belanghebbende kan worden gevergd dat hij het bestuursorgaan in gebreke stelt"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "uitspraak van de voorzieningenrechter van 12 juli 2024"
+  ],
+  "wat_gaf_doorslag": "Het terrassenseizoen liep bijna af en de ondernemer stelde schade te lijden."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 4:13 lid 1 Awb",
+  "art. 6:12 lid 2 Awb",
+  "art. 6:12 lid 3 Awb",
+  "art. 6:20 lid 3 Awb",
+  "art. 6:20 lid 4 Awb",
+  "art. 8:86 Awb",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Beslis binnen ongeveer zeven dagen op een handhavingsverzoek als de overtreding bekend is en weinig onderzoek nodig is",
+   "raakt": "termijnbewaking",
+   "bron": [
+    24
+   ],
+   "citaat": "Een termijn van zeven dagen om te beslissen op het handhavingsverzoek"
+  },
+  {
+   "actie": "Let bij een handhavingsverzoek op een naderende einddatum, zoals het einde van een seizoen, want dan is een ingebrekestelling niet meer nodig",
+   "raakt": "termijnbewaking",
+   "bron": [
+    26
+   ],
+   "citaat": "Indachtig het feit dat het einde van het terrassenseizoen nadert"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "termijnbewaking",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "Beslist de gemeente te laat op uw verzoek om te handhaven, dan kunt u in beroep gaan. Meestal moet u de gemeente eerst schriftelijk een laatste waarschuwing sturen (ingebrekestelling), maar soms is dat niet nodig, bijvoorbeeld als wachten het besluit weinig waard maakt. Twijfelt u, stuur die waarschuwing dan toch en wacht de termijn af.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

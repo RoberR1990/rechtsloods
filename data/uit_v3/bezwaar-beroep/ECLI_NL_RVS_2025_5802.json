@@ -1,0 +1,167 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "dubbel_van": null,
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": "universiteit is partij; geen gemeente",
+ "ecli": "ECLI:NL:RVS:2025:5802",
+ "onderwerp": "dwangsom-niet-tijdig",
+ "sub": "beroep-niet-tijdig",
+ "kenmerk": "beroep-te-vroeg",
+ "zaaktype": "dwangsom-niet-tijdig",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "college van bestuur van een universiteit",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger staat tegenover het college van bestuur van een universiteit bij de Raad van State. Het gaat om een beroep omdat het college te laat zou beslissen over een verzoek om inschrijving.",
+ "titel": "Beroep tegen te late beslissing kwam te vroeg",
+ "kern": {
+  "zin": "De rechter verklaart het beroep tegen het uitblijven van een besluit niet-ontvankelijk, omdat het college op de dag van het beroep nog niet te laat was.",
+  "bron": [
+   29
+  ],
+  "citaat": "Het beroep niet tijdig is prematuur en daarom niet-ontvankelijk."
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg om inschrijving voor een opleiding en stelde het college van bestuur daarna in gebreke (een officiële waarschuwing) wegens niet tijdig beslissen.",
+   "bron": [
+    20
+   ],
+   "citaat": "Op 3 september 2025 heeft hij het CvB in gebreke gesteld wegens het niet tijdig beslissen op zijn verzoek"
+  },
+  {
+   "zin": "De burger zei dat het college niet op tijd had besloten en daarom een dwangsom moest betalen.",
+   "bron": [
+    27
+   ],
+   "citaat": "dat het CvB niet op tijd op zijn verzoek om inschrijving heeft besloten en daarom een dwangsom moet betalen"
+  },
+  {
+   "zin": "Als de wet geen termijn noemt, is de redelijke beslistermijn in elk geval na acht weken voorbij.",
+   "bron": [
+    28
+   ],
+   "citaat": "verstreken wanneer het bestuursorgaan binnen acht weken na ontvangst van de aanvraag geen beschikking heeft gegeven"
+  },
+  {
+   "zin": "De rechter vindt het beroep te vroeg, omdat het college op de dag van het beroep nog niet te laat was.",
+   "bron": [
+    29
+   ],
+   "citaat": "Gelet op wat onder 7.1 is overwogen, was het CvB op die dag niet in gebreke"
+  },
+  {
+   "zin": "Het beroep tegen de afwijzing van de inschrijving is ongegrond, omdat het college het verzoek mocht afwijzen.",
+   "bron": [
+    34
+   ],
+   "citaat": "Het CvB heeft het verzoek tot inschrijving van [appellant] daarom kunnen afwijzen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep tegen uitblijven besluit te vroeg; afwijzing inschrijving blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "Het beroep over het uitblijven van een besluit slaagt niet, de afwijzing van de inschrijving blijft staan en de universiteit hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   36
+  ],
+  "citaat": "Het CvB hoeft geen proceskosten te vergoeden."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "niet-tijdig-beslist",
+   "burger_zegt": "Het college besliste niet op tijd, dus ik heb recht op een dwangsom.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Op de dag van het beroep was het college nog niet in gebreke, dus het beroep was te vroeg.",
+    "bron": [
+     29
+    ],
+    "citaat": "Gelet op wat onder 7.1 is overwogen, was het CvB op die dag niet in gebreke"
+   },
+   "bruikbare_zin": {
+    "citaat": "was het CvB op die dag niet in gebreke",
+    "bron": [
+     29
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De brief van het college is geen besluit, omdat Studielink aangeeft dat het verzoek nog in behandeling is.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Wat in Studielink staat, haalt aan de brief niet het karakter van een besluit weg.",
+    "bron": [
+     32
+    ],
+    "citaat": "kan aan de beslissing van 27 oktober 2025 niet het besluitkarakter ontnemen"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het college mag geen voorwaarden stellen voor herinschrijving, want daarvoor is geen grondslag in de wet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Onder bijzondere omstandigheden mag een inschrijving om dringende redenen worden geweigerd.",
+    "bron": [
+     33
+    ],
+    "citaat": "de inschrijving van een student onder bijzondere omstandigheden om dringende redenen kan worden geweigerd"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een beroep tegen het niet tijdig nemen van een besluit kan pas worden ingesteld zodra het bestuursorgaan te laat is met beslissen.",
+  "bron": [
+   29
+  ],
+  "citaat": "beroep tegen het niet tijdig nemen van een besluit worden ingediend zodra het bestuursorgaan in gebreke is",
+  "type": "regel",
+  "reikwijdte": "Beroep tegen het uitblijven van een besluit op een aanvraag.",
+  "uitzondering": null,
+  "herkomst": "wet"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "Het beroep werd ingediend voordat de beslistermijn was verstreken."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 4:13 Awb",
+  "art. 6:12 Awb",
+  "art. 6:20 Awb",
+  "art. 1:3 Awb",
+  "art. 7.37 Whw",
+  "art. 7.57h Whw"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Houd acht weken na ontvangst van een aanvraag zonder wettelijke beslistermijn als moment aan waarop de redelijke termijn in elk geval is verstreken.",
+   "raakt": "termijnbewaking",
+   "bron": [
+    28
+   ],
+   "citaat": "verstreken wanneer het bestuursorgaan binnen acht weken na ontvangst van de aanvraag geen beschikking heeft gegeven"
+  }
+ ],
+ "raakt": [
+  "termijnbewaking",
+  "bezwaar-juridische-zaken",
+  "klantcontact"
+ ],
+ "klantuitleg": "Beslist een gemeente niet op tijd, dan kunt u niet meteen naar de rechter. Het beroep komt te vroeg als de beslistermijn nog niet voorbij is. Controleer daarom eerst of die termijn echt is verstreken voordat u beroep instelt.",
+ "gemeente": null,
+ "zekerheid": "hoog"
+}

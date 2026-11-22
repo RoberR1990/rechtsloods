@@ -1,0 +1,202 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2026:2698",
+ "relevant": true,
+ "kenmerk": "gebrek-gepasseerd",
+ "reden_leeg_actie": null,
+ "dubbel_van": null,
+ "reden_gemeente_leeg": null,
+ "procesvorm": "beroep",
+ "gemeente": "Rotterdam",
+ "onderwerp": "motivering",
+ "sub": "herstel-of-behoud",
+ "zaaktype": "motivering",
+ "partijen": {
+  "burger": "bedrijf of organisatie (huurder van een pand)",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "intro": "Een huurder van een pand vroeg de gemeente Rotterdam om stukken openbaar te maken en ging na een lange procedure in beroep bij de rechtbank Rotterdam. De rechter beoordeelt of het beroep mag, of weggelakte stukken terecht geheim bleven en of de procedure te lang duurde.",
+ "titel": "Geen gelijk over stukken, wel geld voor te lange procedure",
+ "kern": {
+  "zin": "De rechter behandelt het beroep inhoudelijk en laat een zorgvuldigheidsgebrek zonder gevolg, omdat het de burger niet benadeelt; wel krijgt de burger kosten en schadevergoeding.",
+  "bron": [
+   34
+  ],
+  "citaat": "omdat eiseres door dit gebrek niet is benadeeld"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente om stukken over gemeentelijke besluitvorming en ging in beroep tegen het besluit daarover.",
+   "bron": [
+    10
+   ],
+   "citaat": "verzoek van eiseres tot openbaarmaking van stukken die zien op gemeentelijke besluitvorming"
+  },
+  {
+   "zin": "De burger vond het niet geloofwaardig dat er geen stukken zijn over de mogelijke sloop van het pand.",
+   "bron": [
+    37
+   ],
+   "citaat": "Eiseres voert verder aan dat het niet geloofwaardig is dat er geen enkele ambtenaar is geweest"
+  },
+  {
+   "zin": "De gemeente vond het beroep niet-ontvankelijk (niet te behandelen), omdat het besluit al onderdeel was van een eerder beroep.",
+   "bron": [
+    23
+   ],
+   "citaat": "Het college stelt zich op het standpunt dat het beroep van eiseres niet-ontvankelijk is"
+  },
+  {
+   "zin": "De rechter vindt het beroep wel ontvankelijk en vindt dat de gemeente de stukken mocht weglakken.",
+   "bron": [
+    24
+   ],
+   "citaat": "De rechtbank is van oordeel dat het beroep van eiseres ontvankelijk is"
+  },
+  {
+   "zin": "Een gebrek in het besluit laat de rechter zonder gevolg, omdat de burger er niet door is benadeeld; het beroep is ongegrond.",
+   "bron": [
+    34
+   ],
+   "citaat": "omdat eiseres door dit gebrek niet is benadeeld"
+  },
+  {
+   "zin": "De gemeente moet het griffierecht en de proceskosten betalen, en schadevergoeding omdat de procedure te lang duurde.",
+   "bron": [
+    42
+   ],
+   "citaat": "Het college moet wel het griffierecht aan eiseres vergoeden vanwege de toepassing van artikel 6:22 van de Awb"
+  }
+ ],
+ "uitkomst": "deels",
+ "uitkomst_toelichting": "Beroep ongegrond, maar griffierecht, proceskosten en schadevergoeding toegekend",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt € 365,- griffierecht terug, een proceskostenvergoeding van € 1.868,- en € 3.500,- schadevergoeding; de weggelakte passages blijven geheim.",
+  "bron": [
+   42,
+   46
+  ],
+  "citaat": "Deze vergoeding bedraagt € 1.868,- omdat de gemachtigde van eiseres een beroepschrift heeft ingediend"
+ },
+ "steunt": "gemengd",
+ "bezwaargronden": [
+  {
+   "arg": "niet-ontvankelijk-formeel",
+   "burger_zegt": "De gemeente zegt dat het beroep niet te behandelen is; de burger wil een inhoudelijke beoordeling.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Het besluit hoorde bij een eerder beroep, maar de rechter vindt het beroep toch ontvankelijk.",
+    "bron": [
+     24
+    ],
+    "citaat": "De rechtbank is van oordeel dat het beroep van eiseres ontvankelijk is"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het weglakken van persoonlijke beleidsopvattingen (meningen van ambtenaren) mocht niet.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De weggelakte opmerkingen waren bedoeld voor intern overleg en niet objectief.",
+    "bron": [
+     33
+    ],
+    "citaat": "Het college mocht deze opmerkingen dus weglakken"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het college mocht deze opmerkingen dus weglakken",
+    "bron": [
+     33
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente heeft niet goed gezocht; er moeten meer stukken zijn.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter ziet geen aanwijzingen dat de zoekactie onzorgvuldig was.",
+    "bron": [
+     39
+    ],
+    "citaat": "De rechtbank ziet geen aanwijzingen dat de zoekslag onzorgvuldig is geweest"
+   },
+   "bruikbare_zin": null
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De procedure duurde te lang; de burger vraagt schadevergoeding.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Na aftrek van vertraging die partijen zelf veroorzaakten, blijft een overschrijding die de gemeente moet vergoeden.",
+    "bron": [
+     46
+    ],
+    "citaat": "Dat leidt tot een bedrag van € 3.500,- wat is toe te rekenen aan het college"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een beroep tegen het niet op tijd beslissen heeft in principe ook betrekking op het besluit dat de gemeente daarna alsnog neemt, zodat niet opnieuw griffierecht hoeft te worden betaald.",
+  "type": "regel",
+  "reikwijdte": "Beroep tegen niet tijdig beslissen waarna het bestuursorgaan alsnog een besluit neemt",
+  "uitzondering": "Het woord 'in principe' laat ruimte voor uitzonderingen, maar de rechter noemt er geen",
+  "herkomst": "wet",
+  "bron": [
+   24
+  ],
+  "citaat": "een beroep niet tijdig beslissen in principe mede betrekking heeft op het alsnog genomen besluit"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "inventarislijst van stukken",
+   "toelichting van de gemeente op de zitting"
+  ],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2023:922",
+   "ECLI:NL:RVS:2022:3027",
+   "ECLI:NL:RVS:2022:1223",
+   "ECLI:NL:HR:2016:252"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 6:20 lid 3 Awb",
+  "art. 6:22 Awb",
+  "art. 5.2 lid 1 Woo",
+  "art. 5.3 Woo"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Maak elke gedeeltelijke weigering terug te vinden in het besluit zelf, naast de inventarislijst",
+   "raakt": "besluitvorming-motivering",
+   "bron": [
+    34
+   ],
+   "citaat": "deze gedeeltelijke weigering van openbaarmaking niet is terug te vinden in het bestreden besluit in combinatie met de inventarislijst"
+  },
+  {
+   "actie": "Bewaak de duur van de bezwaarprocedure, want jaren wachten leidt tot schadevergoeding",
+   "raakt": "termijnbewaking",
+   "bron": [
+    45
+   ],
+   "citaat": "De bezwaarprocedure heeft 4 jaar en 7 maanden geduurd"
+  }
+ ],
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "besluitvorming-motivering",
+  "termijnbewaking"
+ ],
+ "klantuitleg": "Als de gemeente erg lang over uw bezwaar doet, kunt u recht hebben op schadevergoeding. Dat kan ook als u inhoudelijk geen gelijk krijgt. Vraagt u stukken op, maak dan concreet aannemelijk waarom er meer stukken moeten zijn.",
+ "zekerheid": "hoog"
+}

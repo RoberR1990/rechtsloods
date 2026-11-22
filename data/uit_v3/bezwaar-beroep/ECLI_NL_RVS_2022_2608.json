@@ -1,0 +1,154 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2022:2608",
+ "relevant": true,
+ "onderwerp": "proceskosten",
+ "sub": "vergoeding-in-bezwaar",
+ "kenmerk": "besluit-onrechtmatig",
+ "zaaktype": "proceskosten",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Eindhoven",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger ging in hoger beroep tegen het college van de gemeente Eindhoven. Het ging om een stuk dat de gemeente niet openbaar wilde maken en om de vergoeding van de kosten van het bezwaar. De zaak was bij de Raad van State (Afdeling bestuursrechtspraak).",
+ "titel": "Gemeente moet proceskosten van het bezwaar vergoeden",
+ "kern": {
+  "zin": "De rechter vond dat de burger in bezwaar wel om proceskosten had gevraagd, dus de gemeente moest die kosten vergoeden.",
+  "bron": [
+   22
+  ],
+  "citaat": "De Afdeling zal het college veroordelen tot vergoeding van bij [appellant] in verband met de behandeling van het bezwaar opgekomen proceskosten"
+ },
+ "samenvatting": [
+  {
+   "zin": "In een eerdere tussenuitspraak (tussenstap van de rechter) droeg de Raad van State de gemeente op een gebrek in haar besluit te herstellen.",
+   "bron": [
+    18
+   ],
+   "citaat": "heeft de Afdeling het college opgedragen alsnog toereikend te motiveren waarom het de waardeverklaring"
+  },
+  {
+   "zin": "De burger vond dat de rechtbank ten onrechte had gezegd dat de gemeente het stuk niet openbaar hoefde te maken, en de rechter gaf hem daarin gelijk.",
+   "bron": [
+    21
+   ],
+   "citaat": "terecht betoogd dat de rechtbank ten onrechte heeft geoordeeld dat het college de waardeverklaring"
+  },
+  {
+   "zin": "De rechter oordeelde ook dat de burger in bezwaar wel om vergoeding van proceskosten had gevraagd.",
+   "bron": [
+    21
+   ],
+   "citaat": "ten onrechte geoordeeld dat [appellant] in bezwaar niet om vergoeding van de proceskosten heeft verzocht"
+  },
+  {
+   "zin": "Het besluit van de gemeente wordt daarom vernietigd, ook omdat de proceskosten van het bezwaar niet waren vergoed.",
+   "bron": [
+    22
+   ],
+   "citaat": "de proceskosten in verband met de behandeling van het bezwaar niet heeft vergoed"
+  },
+  {
+   "zin": "De gemeente maakte het stuk daarna alsnog helemaal openbaar.",
+   "bron": [
+    24
+   ],
+   "citaat": "Het college heeft ter uitvoering van de tussenuitspraak bij besluit van 4 maart 2022 de waardeverklaring openbaar gemaakt."
+  },
+  {
+   "zin": "De gemeente moet ook de proceskosten van het hoger beroep vergoeden.",
+   "bron": [
+    26
+   ],
+   "citaat": "Het college moet de proceskosten in hoger beroep vergoeden."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Proceskosten van bezwaar en hoger beroep toegekend.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente betaalt € 1.082,00 voor de kosten van het bezwaar en € 1.518,00 voor het hoger beroep.",
+  "bron": [
+   33,
+   35
+  ],
+  "citaat": "opgekomen proceskosten tot een bedrag van €1.082,00"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "proceskosten-vergoeding",
+   "burger_zegt": "De burger had in bezwaar om vergoeding van de proceskosten gevraagd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechtbank had ten onrechte gezegd dat in bezwaar niet om proceskosten was gevraagd.",
+    "bron": [
+     21
+    ],
+    "citaat": "ten onrechte geoordeeld dat [appellant] in bezwaar niet om vergoeding van de proceskosten heeft verzocht"
+   },
+   "bruikbare_zin": {
+    "citaat": "de proceskosten in verband met de behandeling van het bezwaar niet heeft vergoed",
+    "bron": [
+     22
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente moest het stuk (een waardeverklaring) openbaar maken.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De rechter vond dat de rechtbank ten onrechte had geoordeeld dat het stuk niet openbaar hoefde.",
+    "bron": [
+     21
+    ],
+    "citaat": "terecht betoogd dat de rechtbank ten onrechte heeft geoordeeld dat het college de waardeverklaring"
+   },
+   "bruikbare_zin": {
+    "citaat": "Die besluiten moeten worden vernietigd voor zover het college openbaarmaking van de waardeverklaring",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": null,
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": null
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:RVS:2022:175"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 10 lid 2 Wob",
+  "art. 11 lid 1 Wob"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Controleer bij elk bezwaarschrift of om vergoeding van proceskosten is gevraagd en neem daar in de beslissing op bezwaar een besluit over",
+   "raakt": "proceskosten-no-cure-no-pay",
+   "bron": [
+    22
+   ],
+   "citaat": "de proceskosten in verband met de behandeling van het bezwaar niet heeft vergoed"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "proceskosten-no-cure-no-pay"
+ ],
+ "klantuitleg": "Vraagt u in uw bezwaarschrift om vergoeding van uw proceskosten, dan moet de gemeente daar een besluit over nemen. Krijgt u gelijk, dan kunnen kosten zoals een jurist vergoed worden. Zet uw verzoek daarom duidelijk in uw bezwaarschrift.",
+ "gemeente": "Eindhoven",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

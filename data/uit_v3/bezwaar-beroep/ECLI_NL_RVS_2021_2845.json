@@ -1,0 +1,148 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2021:2845",
+ "relevant": true,
+ "onderwerp": "bezwaartermijn-verschoonbaar",
+ "sub": "verschoonbaar",
+ "kenmerk": "post-niet-ontvangen",
+ "zaaktype": "bezwaar-beroepstermijn",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "staatssecretaris van Sociale Zaken en Werkgelegenheid",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een burger ging in hoger beroep tegen de staatssecretaris van Sociale Zaken. Het ging erom of zijn bezwaar tegen een boete te laat was, omdat het besluit naar een oud adres was gestuurd. De zaak was bij de Raad van State (Afdeling bestuursrechtspraak).",
+ "titel": "Besluit naar oud adres gestuurd: bezwaar toch te laat",
+ "kern": {
+  "zin": "De rechter vond het bezwaar te laat, omdat de burger zijn adreswijziging niet had doorgegeven en geen ander adres had gekozen.",
+  "bron": [
+   28
+  ],
+  "citaat": "nu hij heeft nagelaten een adreswijziging door te geven of een adres te kiezen"
+ },
+ "samenvatting": [
+  {
+   "zin": "Het bestuursorgaan (de staatssecretaris) stuurde zijn besluit naar een adres in het buitenland, waar de burger niet meer woonde.",
+   "bron": [
+    26
+   ],
+   "citaat": "De staatssecretaris heeft het besluit gestuurd naar een adres in Polen"
+  },
+  {
+   "zin": "De burger zei dat het besluit niet goed was bekendgemaakt, of dat zijn te late bezwaar te verontschuldigen was.",
+   "bron": [
+    26
+   ],
+   "citaat": "het besluit van 14 december 2018 niet op de juiste wijze bekend is gemaakt"
+  },
+  {
+   "zin": "De staatssecretaris had het besluit verstuurd naar het laatst bekende adres uit het bevolkingsregister.",
+   "bron": [
+    28
+   ],
+   "citaat": "na raadpleging van de Brp, verzonden naar het bij hem laatst bekende adres"
+  },
+  {
+   "zin": "De rechter vond dat het besluit op de juiste manier was bekendgemaakt en dat de burger zelf moest zorgen dat zijn adres klopte.",
+   "bron": [
+    28
+   ],
+   "citaat": "Het lag echter op zijn weg ervoor te zorgen dat zijn adresgegevens in de RNi juist waren."
+  },
+  {
+   "zin": "Er waren volgens de rechter ook geen omstandigheden die de te late indiening rechtvaardigden.",
+   "bron": [
+    28
+   ],
+   "citaat": "niet is gebleken van omstandigheden die de termijnoverschrijding rechtvaardigen"
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en de uitspraak van de rechtbank blijft staan.",
+   "bron": [
+    30
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Bezwaar bleef te laat; geen reden om de termijn te verschonen.",
+ "gevolg_betrokkene": {
+  "zin": "Het bezwaar blijft te laat (niet-ontvankelijk, de rechter kijkt dan niet naar de inhoud) en de burger krijgt geen proceskostenvergoeding.",
+  "bron": [
+   30,
+   31
+  ],
+  "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "termijn-te-laat",
+   "burger_zegt": "Het besluit was niet goed bekendgemaakt, of de overschrijding van de bezwaartermijn is te verontschuldigen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Een adreswijziging doorgeven aan buitenlandse autoriteiten is niet genoeg; de burger moest zelf zorgen voor een juist adres in het register.",
+    "bron": [
+     28
+    ],
+    "citaat": "is niet afdoende. De rechtbank heeft terecht overwogen dat niet is gebleken van omstandigheden"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het lag echter op zijn weg ervoor te zorgen dat zijn adresgegevens in de RNi juist waren",
+    "bron": [
+     28
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een bestuursorgaan mag in beginsel uitgaan van de juistheid van het adres in het bevolkingsregister.",
+  "type": "regel",
+  "reikwijdte": "Bekendmaking van een besluit door toezending naar het laatst bekende adres in de Brp",
+  "uitzondering": "Alleen 'in beginsel': de burger kan omstandigheden aanvoeren die de termijnoverschrijding rechtvaardigen.",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   28
+  ],
+  "citaat": "De staatssecretaris mocht in beginsel uit gaan van de juistheid van de in de Brp opgenomen gegevens."
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "uitdraai uit een overheidsregister bij het boeterapport",
+   "melding van adreswijziging aan buitenlandse autoriteiten"
+  ],
+  "wat_gaf_doorslag": "De burger had geen adreswijziging doorgegeven aan het register en geen ander adres gekozen."
+ },
+ "toepasselijkheid": "rijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2012:BV2401"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 3:41 lid 1 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Raadpleeg voor het versturen van een besluit de Brp en stuur het naar het laatst bekende adres daaruit",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    28
+   ],
+   "citaat": "na raadpleging van de Brp, verzonden naar het bij hem laatst bekende adres"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "termijnbewaking"
+ ],
+ "klantuitleg": "Een besluit mag worden gestuurd naar het adres dat in het bevolkingsregister (de BRP) staat, ook als u daar niet meer woont en uw verhuizing niet heeft doorgegeven. Geef een verhuizing daarom altijd door aan de officiële registers. Was uw bezwaar te laat, dan helpt het alleen als u een goede reden kunt aantonen.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "geen gemeente partij; bestuursorgaan is de staatssecretaris",
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

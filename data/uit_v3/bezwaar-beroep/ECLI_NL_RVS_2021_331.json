@@ -1,0 +1,151 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2021:331",
+ "relevant": true,
+ "onderwerp": "bezwaartermijn-verschoonbaar",
+ "sub": "verschoonbaar",
+ "kenmerk": "onbekend-rechtsmiddel",
+ "zaaktype": "bezwaar-beroepstermijn",
+ "partijen": {
+  "burger": "bedrijf",
+  "wederpartij": "gemeente Son en Breugel",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een bedrijf ging in hoger beroep tegen het college van de gemeente Son en Breugel. Het ging erom of het beroep tegen een vergunning te laat was, omdat in de brief de beroepstermijn ontbrak. De zaak was bij de Raad van State (Afdeling bestuursrechtspraak).",
+ "titel": "Termijn ontbreekt in brief, beroep toch te laat",
+ "kern": {
+  "zin": "De rechter vond het beroep te laat: de termijn stond in een bijlage, dus het ontbreken in de brief zelf maakte de overschrijding niet te verontschuldigen.",
+  "bron": [
+   25
+  ],
+  "citaat": "leidt het ontbreken van deze termijn in haar geval niet tot verschoonbaarheid"
+ },
+ "samenvatting": [
+  {
+   "zin": "De rechtbank verklaarde het beroep van het bedrijf niet-ontvankelijk (de rechter kijkt dan niet naar de inhoud), omdat het te laat was.",
+   "bron": [
+    21
+   ],
+   "citaat": "beroep wegens niet verschoonbare termijnoverschrijding niet-ontvankelijk verklaard"
+  },
+  {
+   "zin": "Het beroep kwam na de termijn van zes weken binnen.",
+   "bron": [
+    23
+   ],
+   "citaat": "buiten de in artikel 6:7 van de Algemene wet bestuursrecht voorgeschreven termijn van zes weken is ingediend"
+  },
+  {
+   "zin": "Het bedrijf zei dat de brief geen beroepstermijn noemde en dat het pas na afloop een jurist kreeg.",
+   "bron": [
+    22
+   ],
+   "citaat": "een rechtsmiddelenclausule ontbreekt"
+  },
+  {
+   "zin": "De rechter noemt als regel dat een ontbrekende rechtsmiddelverwijzing (uitleg over bezwaar en beroep) in beginsel de termijnoverschrijding te verontschuldigen maakt, behalve als de burger de termijn tijdig kende.",
+   "bron": [
+    24
+   ],
+   "citaat": "Dit beginsel lijdt uitzondering indien redelijkerwijs kan worden aangenomen dat de belanghebbende tijdig wist"
+  },
+  {
+   "zin": "De uitleg in de brief was onvolledig, maar de beroepstermijn stond duidelijk in de bijlage bij het besluit.",
+   "bron": [
+    25
+   ],
+   "citaat": "Deze rechtsmiddelenclausule is echter onvolledig, omdat de termijn waarbinnen beroep kan worden ingesteld ontbreekt."
+  },
+  {
+   "zin": "Het hoger beroep is ongegrond en een proceskostenveroordeling volgt niet.",
+   "bron": [
+    27
+   ],
+   "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd."
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep te laat; termijn stond wel in de bijlage.",
+ "gevolg_betrokkene": {
+  "zin": "Het beroep blijft niet-ontvankelijk en het bedrijf krijgt geen proceskostenvergoeding.",
+  "bron": [
+   27,
+   28
+  ],
+  "citaat": "Het hoger beroep is ongegrond. De aangevallen uitspraak dient te worden bevestigd."
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-te-laat",
+   "burger_zegt": "De brief noemde de beroepstermijn niet, dus het te late beroep is te verontschuldigen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De termijn van zes weken stond duidelijk in de motivering die bij het besluit zat.",
+    "bron": [
+     25
+    ],
+    "citaat": "duidelijk uit de motivering van het besluit"
+   },
+   "bruikbare_zin": {
+    "citaat": "bij een eventuele onduidelijkheid over de ingangsdatum van de beroepstermijn",
+    "bron": [
+     25
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Ontbreekt een rechtsmiddelverwijzing, dan is te laat beroep in beginsel te verontschuldigen, behalve als de burger de termijn redelijkerwijs tijdig kende.",
+  "type": "regel",
+  "reikwijdte": "Besluiten zonder (volledige) rechtsmiddelverwijzing waarbij de burger zich daarop beroept",
+  "uitzondering": "Bekendheid met de termijn wordt in ieder geval aangenomen als de burger vóór afloop al professionele rechtsbijstand had.",
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   24
+  ],
+  "citaat": "Dit beginsel lijdt uitzondering indien redelijkerwijs kan worden aangenomen dat de belanghebbende tijdig wist"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "tekst van de rechtsmiddelenclausule",
+   "bijlage bij het besluit met de beroepstermijn"
+  ],
+  "wat_gaf_doorslag": "De beroepstermijn stond duidelijk in de bijlage bij het besluit op bezwaar."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2011:BT2131",
+   "ECLI:NL:RVS:2014:2982"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 6:7 Awb",
+  "art. 3:45 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Noem in elke rechtsmiddelenclausule ook de termijn van zes weken waarbinnen beroep kan worden ingesteld",
+   "raakt": "besluitvorming-motivering",
+   "bron": [
+    25
+   ],
+   "citaat": "Deze rechtsmiddelenclausule is echter onvolledig, omdat de termijn waarbinnen beroep kan worden ingesteld ontbreekt."
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "besluitvorming-motivering",
+  "termijnbewaking"
+ ],
+ "klantuitleg": "Staat in de brief niet hoe lang u heeft om in beroep te gaan, dan wordt een te late indiening niet altijd tegen u gebruikt. Staat de termijn wel elders in de brief of in een bijlage, of had u al een jurist, dan geldt de termijn van zes weken gewoon. Twijfelt u over de ingangsdatum, vraag dat dan binnen de termijn aan de gemeente.",
+ "gemeente": "Son en Breugel",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

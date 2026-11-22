@@ -1,0 +1,174 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "gemeente": "Leiden",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "reden_leeg_actie": null,
+ "ecli": "ECLI:NL:CRVB:2026:1136",
+ "onderwerp": "hoorplicht",
+ "sub": "hoorzitting-verloop",
+ "kenmerk": "hoorverslag",
+ "zaaktype": "hoorplicht",
+ "partijen": {
+  "burger": "bedrijf (zelfstandig ondernemer)",
+  "wederpartij": "gemeente Leiden",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een zelfstandig ondernemer vroeg bijstand aan bij de gemeente Leiden en kreeg een afwijzing. De Centrale Raad van Beroep (de hoogste rechter voor uitkeringszaken) besliste in hoger beroep, onder meer over het verslag van de hoorzitting.",
+ "titel": "Advies van commissie mag dienen als verslag van de hoorzitting",
+ "kern": {
+  "zin": "De Raad vond een apart verslag van de hoorzitting niet nodig als uit het advies van de bezwaarcommissie blijkt wat is besproken, en vernietigde het besluit daarom niet.",
+  "bron": [
+   25
+  ],
+  "citaat": "ziet de Raad geen aanleiding om het bestreden besluit om die reden te vernietigen"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente wees de bijstandsaanvraag van de ondernemer af omdat zijn bedrijf niet levensvatbaar zou zijn.",
+   "bron": [
+    17
+   ],
+   "citaat": "de aanvraag afgewezen omdat het bedrijf van appellant niet levensvatbaar is"
+  },
+  {
+   "zin": "De ondernemer vond dat hij ten onrechte geen schriftelijk verslag van de hoorzitting had gekregen.",
+   "bron": [
+    25
+   ],
+   "citaat": "dat appellant geen schriftelijk verslag van de hoorzitting heeft gehad"
+  },
+  {
+   "zin": "De gemeente liet zich op de zitting van de Raad niet vertegenwoordigen.",
+   "bron": [
+    10
+   ],
+   "citaat": "Het college heeft zich niet laten vertegenwoordigen"
+  },
+  {
+   "zin": "De Raad vond dat het verslag ook in het advies van de bezwaarcommissie mag staan.",
+   "bron": [
+    25
+   ],
+   "citaat": "uit de beslissing op bezwaar, of zoals in dit geval uit het advies van de bezwaarschriftcommissie"
+  },
+  {
+   "zin": "Een korte, zakelijke weergave van wat is besproken is genoeg.",
+   "bron": [
+    25
+   ],
+   "citaat": "kan worden volstaan met een beknopte, zakelijke vermelding van hetgeen tijdens de hoorzitting met betrekking tot de zaak is betoogd"
+  },
+  {
+   "zin": "Het hoger beroep slaagt niet en de ondernemer krijgt geen vergoeding van proceskosten en griffierecht.",
+   "bron": [
+    26
+   ],
+   "citaat": "krijgt appellant geen vergoeding voor de proceskosten en het betaalde griffierecht"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Geen apart hoorverslag nodig; besluit gemeente blijft staan",
+ "gevolg_betrokkene": {
+  "zin": "De afwijzing van de bijstand blijft staan en de ondernemer krijgt geen vergoeding van proceskosten, griffierecht of schade.",
+  "bron": [
+   26,
+   13
+  ],
+  "citaat": "krijgt appellant geen vergoeding voor de proceskosten en het betaalde griffierecht"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij kreeg geen schriftelijk verslag van de hoorzitting.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Het advies van de bezwaarcommissie kan als verslag dienen als daaruit blijkt wat op de hoorzitting is besproken.",
+    "bron": [
+     25
+    ],
+    "citaat": "uit de beslissing op bezwaar, of zoals in dit geval uit het advies van de bezwaarschriftcommissie"
+   },
+   "bruikbare_zin": {
+    "citaat": "uit het advies van de bezwaarschriftcommissie, blijkt van hetgeen tijdens de hoorzitting is verhandeld",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De leden van de bezwaarcommissie zouden van de Rijkspolitie zijn en er zou met een onderzoek zijn gedreigd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Dit kon niet tot vernietiging van het besluit leiden.",
+    "bron": [
+     24
+    ],
+    "citaat": "kan dit, wat hier verder ook van zij, niet leiden tot vernietiging van het bestreden besluit"
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Zijn bedrijf is wel levensvatbaar.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De ondernemer moest zelf aannemelijk maken dat zijn bedrijf levensvatbaar is.",
+    "bron": [
+     20
+    ],
+    "citaat": "Het ligt daarom op de weg van appellant om aannemelijk te maken dat zijn bedrijf levensvatbaar is"
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een verslag van de hoorzitting hoeft geen woordelijke weergave te zijn; een beknopte, zakelijke weergave in het advies van de commissie volstaat.",
+  "bron": [
+   25
+  ],
+  "citaat": "Niet kan worden geëist dat het verslag een woordelijke weergave inhoudt van al hetgeen tijdens de hoorzitting is gezegd",
+  "type": "regel",
+  "reikwijdte": "Verslag van de hoorzitting in bezwaar (art. 7:7 Awb): mag in het advies van de bezwaarcommissie of de beslissing staan",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "advies van de bezwaarschriftcommissie",
+   "rapport van een adviesbureau over de levensvatbaarheid"
+  ],
+  "wat_gaf_doorslag": "Het advies van de bezwaarcommissie liet zien wat op de hoorzitting is besproken."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2023:163",
+   "ECLI:NL:RVS:2020:842"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 7:7 Awb",
+  "art. 1 onder c Bbz 2004"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Laat de bezwaarcommissie in haar advies kort en zakelijk vastleggen wat op de hoorzitting is betoogd",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    25
+   ],
+   "citaat": "kan worden volstaan met een beknopte, zakelijke vermelding van hetgeen tijdens de hoorzitting met betrekking tot de zaak is betoogd"
+  }
+ ],
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "besluitvorming-motivering"
+ ],
+ "klantuitleg": "Na een hoorzitting hoeft u niet altijd een los verslag te krijgen. Het mag ook in het advies van de bezwaarcommissie of in de beslissing staan, als daar kort en zakelijk in staat wat is besproken. Mist u iets in dat verslag, geef dan concreet aan wat er ontbreekt.",
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,161 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "dubbel_van": null,
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": null,
+ "ecli": "ECLI:NL:RBROT:2026:10774",
+ "onderwerp": "bezwaartermijn-verschoonbaar",
+ "sub": "termijn-berekening",
+ "kenmerk": "bekendmaking-aanvang",
+ "zaaktype": "bezwaar-beroepstermijn",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "verzet",
+ "intro": "Een burger vroeg bij de rechtbank Rotterdam om verzet (een herkansing) tegen een uitspraak waarin haar beroep tegen de gemeente Rotterdam te laat was verklaard. Het ging om de vraag of de gemeente de beslissing op bezwaar geldig per e-mail had verstuurd.",
+ "titel": "Besluit alleen per e-mail verstuurd: niet geldig bekendgemaakt",
+ "kern": {
+  "zin": "De rechter vindt dat alleen een e-mailadres invullen geen uitdrukkelijke toestemming is voor alleen e-mail, dus het besluit was niet geldig bekendgemaakt en het beroep niet te laat.",
+  "bron": [
+   23
+  ],
+  "citaat": "kan het enkel invullen van een e-mailadres niet worden aangemerkt als uitdrukkelijke instemming met uitsluitend elektronische communicatie"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente stuurde de beslissing op bezwaar per e-mail; de burger verwachtte het besluit ook per post.",
+   "bron": [
+    18
+   ],
+   "citaat": "zij verwachtte het besluit ook per post te ontvangen"
+  },
+  {
+   "zin": "De rechtbank vond eerst dat het beroep te laat was, omdat de burger eerder toestemming zou hebben gegeven om per e-mail bereikbaar te zijn.",
+   "bron": [
+    20
+   ],
+   "citaat": "omdat zij eerder toestemming heeft gegeven om langs die weg bereikbaar te zijn"
+  },
+  {
+   "zin": "De burger zei in verzet dat zij alleen het formulier voor de hoorzitting had ingevuld.",
+   "bron": [
+    22
+   ],
+   "citaat": "Zij heeft enkel het formulier voor de hoorzitting ingevuld"
+  },
+  {
+   "zin": "De rechter zag dat op het formulier geen vakje stond om niet in te stemmen met alleen elektronisch procederen.",
+   "bron": [
+    23
+   ],
+   "citaat": "Voor de toestemming om uitsluitend elektronisch procederen staat geen vakje"
+  },
+  {
+   "zin": "Daarom was de beslissing niet geldig bekendgemaakt en was de beroepstermijn niet overschreden.",
+   "bron": [
+    23
+   ],
+   "citaat": "De beslissing op bezwaar is daarom niet rechtsgeldig bekend gemaakt en is de beroepstermijn niet overschreden"
+  },
+  {
+   "zin": "Het verzet is gegrond: de eerdere uitspraak vervalt en de rechter gaat verder met het beroep.",
+   "bron": [
+    26
+   ],
+   "citaat": "de uitspraak van 3 maart vervalt en de rechtbank het onderzoek hervat"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Besluit niet geldig bekendgemaakt; beroep niet te laat; gemeente betaalt € 467 proceskosten",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt € 467 aan proceskosten vergoed en haar beroep wordt alsnog behandeld.",
+  "bron": [
+   27
+  ],
+  "citaat": "Opposante krijgt een vergoeding voor de proceskosten die zij heeft gemaakt"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Ik heb niet uitdrukkelijk toestemming gegeven om alleen per e-mail te worden geïnformeerd, dus het besluit is niet geldig bekendgemaakt.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "Zonder vakje om niet in te stemmen is een ingevuld e-mailadres geen uitdrukkelijke instemming.",
+    "bron": [
+     23
+    ],
+    "citaat": "kan het enkel invullen van een e-mailadres niet worden aangemerkt als uitdrukkelijke instemming met uitsluitend elektronische communicatie"
+   },
+   "bruikbare_zin": {
+    "citaat": "van een bestuursorgaan mag worden verwacht dat het duidelijk communiceert",
+    "bron": [
+     23
+    ]
+   }
+  },
+  {
+   "arg": "termijn-te-laat",
+   "burger_zegt": "Als ik te laat was, is dat verschoonbaar, omdat ik de e-mail door persoonlijke omstandigheden niet las.",
+   "oordeel": "niet beoordeeld",
+   "waarom": null,
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Alleen het invullen van een e-mailadres op een formulier zonder vakje om niet in te stemmen is geen uitdrukkelijke instemming met uitsluitend elektronische communicatie.",
+  "type": "regel",
+  "reikwijdte": "Formulieren waarop geen keuze bestaat om niet in te stemmen met uitsluitend elektronisch contact",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   23
+  ],
+  "citaat": "kan het enkel invullen van een e-mailadres niet worden aangemerkt als uitdrukkelijke instemming met uitsluitend elektronische communicatie"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "antwoordformulier voor de hoorzitting"
+  ],
+  "wat_gaf_doorslag": "Op het formulier ontbrak een vakje om niet in te stemmen met alleen elektronisch contact."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 8:54 Awb",
+  "Besluit proceskosten bestuursrecht"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Zet op formulieren een duidelijk vakje waarmee iemand kan aangeven niet alleen elektronisch te willen communiceren.",
+   "raakt": "klantcontact",
+   "bron": [
+    23
+   ],
+   "citaat": "Voor de toestemming om uitsluitend elektronisch procederen staat geen vakje"
+  },
+  {
+   "actie": "Leg vast of iemand uitdrukkelijk heeft ingestemd met uitsluitend elektronisch contact, voordat u een besluit alleen per e-mail verstuurt.",
+   "raakt": "termijnbewaking",
+   "bron": [
+    23
+   ],
+   "citaat": "niet worden aangemerkt als uitdrukkelijke instemming met uitsluitend elektronische communicatie"
+  }
+ ],
+ "raakt": [
+  "klantcontact",
+  "termijnbewaking",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "Een besluit dat alleen per e-mail komt, telt pas als u daar duidelijk mee hebt ingestemd; alleen uw e-mailadres invullen is dat meestal niet. Was u te laat omdat het besluit alleen per e-mail kwam, dan kan bezwaar of beroep toch zin hebben. Bewaar het formulier en de e-mails en leg uit wat u wel of niet hebt afgesproken.",
+ "gemeente": "Rotterdam",
+ "zekerheid": "hoog"
+}

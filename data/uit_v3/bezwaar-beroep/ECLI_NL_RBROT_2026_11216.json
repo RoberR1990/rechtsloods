@@ -1,0 +1,157 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "dubbel_van": null,
+ "reden_leeg_actie": null,
+ "reden_gemeente_leeg": null,
+ "ecli": "ECLI:NL:RBROT:2026:11216",
+ "onderwerp": "bezwaartermijn-verschoonbaar",
+ "sub": "niet-ontvankelijk-te-laat",
+ "kenmerk": "bezwaar-te-laat",
+ "zaaktype": "bezwaar-beroepstermijn",
+ "partijen": {
+  "burger": "burger",
+  "wederpartij": "gemeente Alblasserdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger ging bij de rechtbank Rotterdam in beroep tegen de gemeente Alblasserdam. De gemeente had zijn bezwaar tegen een omgevingsvergunning niet-ontvankelijk (niet in behandeling) verklaard, omdat het te laat was.",
+ "titel": "Bezwaar te laat: problemen met DigiD waren geen goede reden",
+ "kern": {
+  "zin": "De rechter vindt dat de gemeente het bezwaar terecht niet in behandeling nam, omdat de burger te laat was en dat voor eigen rekening komt.",
+  "bron": [
+   24
+  ],
+  "citaat": "Dat eiser pas op 10 juli 2026 bezwaar heeft gemaakt komt voor zijn rekening en risico"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger diende zijn bezwaar tegen een omgevingsvergunning ruim na de bezwaartermijn in.",
+   "bron": [
+    22
+   ],
+   "citaat": "zijn bewaarschrift op 10 juli 2026 en dus ruim na afloop van de bezwaartermijn heeft ingediend"
+  },
+  {
+   "zin": "De gemeente vroeg de burger waarom hij te laat was; hij noemde onder meer niet goed werkende apps en problemen met zijn account bij overheid.nl.",
+   "bron": [
+    23
+   ],
+   "citaat": "niet goed werkende apps en problemen met zijn account bij overheid.nl"
+  },
+  {
+   "zin": "De gemeente vond dat de burger niet concreet had gemaakt dat deze problemen hem hadden verhinderd op tijd bezwaar te maken.",
+   "bron": [
+    23
+   ],
+   "citaat": "dat eiser niet concreet heeft gemaakt dat en op welke wijze deze omstandigheden eiser hebben verhinderd"
+  },
+  {
+   "zin": "Op de zitting zei de burger dat hij niet kon inloggen met DigiD, omdat dit op te veel apparaten stond.",
+   "bron": [
+    24
+   ],
+   "citaat": "problemen ervoer met inloggen via DigiD, omdat zijn DigiD op teveel apparaten geactiveerd was"
+  },
+  {
+   "zin": "De rechter vond dit onvoldoende, omdat de burger op tijd een pro-forma bezwaar (kort bezwaar zonder uitleg) had kunnen maken.",
+   "bron": [
+    24
+   ],
+   "citaat": "Eiser had immers tijdig pro forma bezwaar kunnen maken"
+  },
+  {
+   "zin": "Het beroep is ongegrond en een voorlopige voorziening is niet nodig.",
+   "bron": [
+    26
+   ],
+   "citaat": "Het beroep is ongegrond. Omdat het beroep ongegrond is, is er geen aanleiding om een voorlopige voorziening te treffen"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Bezwaar niet verschoonbaar te laat; verzoek om voorlopige voorziening afgewezen",
+ "gevolg_betrokkene": {
+  "zin": "Het bezwaar van de burger wordt niet inhoudelijk behandeld en hij krijgt geen griffierecht terug en geen proceskostenvergoeding.",
+  "bron": [
+   26
+  ],
+  "citaat": "Eiser krijgt daarom het griffierecht niet terug. Hij krijgt ook geen vergoeding van zijn proceskosten"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-te-laat",
+   "burger_zegt": "Ik was te laat door problemen met DigiD en computersystemen, en het bouwplan week af van wat mij was laten zien.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De burger had op tijd een kort bezwaar kunnen indienen, dus het te late bezwaar komt voor zijn rekening.",
+    "bron": [
+     24
+    ],
+    "citaat": "Dat eiser pas op 10 juli 2026 bezwaar heeft gemaakt komt voor zijn rekening en risico"
+   },
+   "bruikbare_zin": {
+    "citaat": "Eiser had immers tijdig pro forma bezwaar kunnen maken",
+    "bron": [
+     24
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Het besluit over de omgevingsvergunning is inhoudelijk niet goed.",
+   "oordeel": "niet beoordeeld",
+   "waarom": null,
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een te laat bezwaar blijft ontvankelijk als redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest.",
+  "type": "regel",
+  "reikwijdte": "Bezwaar- en beroepschriften die na afloop van de termijn zijn ingediend",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   23
+  ],
+  "citaat": "niet-ontvankelijkverklaring op grond daarvan achterwege indien redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "reactie van de burger van 3 augustus 2026",
+   "toelichting van de burger op de zitting"
+  ],
+  "wat_gaf_doorslag": "De burger had op tijd een kort pro-forma bezwaar kunnen indienen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 6:11 Awb",
+  "art. 6:7 Awb",
+  "art. 6:8 lid 1 Awb",
+  "art. 3:41 lid 1 Awb",
+  "art. 8:86 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Vraag bij een te laat bezwaar schriftelijk waarom de bezwaarmaker te laat was en beoordeel concreet of de reden de termijnoverschrijding verklaart.",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    23
+   ],
+   "citaat": "in de gelegenheid gesteld om te reageren waarom hij te laat is met het indienen van een bezwaarschrift"
+  }
+ ],
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "termijnbewaking",
+  "klantcontact"
+ ],
+ "klantuitleg": "Bent u te laat met uw bezwaar, dan kijkt de gemeente niet naar de inhoud, tenzij u echt niets te verwijten valt. Problemen met inloggen of een computer zijn meestal geen reden als u ook een kort bezwaar had kunnen sturen. Stuur daarom binnen zes weken uw bezwaar in, desnoods kort en zonder uitleg, en vul het later aan.",
+ "gemeente": "Alblasserdam",
+ "zekerheid": "hoog"
+}

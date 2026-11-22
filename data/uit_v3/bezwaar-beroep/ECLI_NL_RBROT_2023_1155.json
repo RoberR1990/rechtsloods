@@ -1,0 +1,166 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2023:1155",
+ "relevant": true,
+ "onderwerp": "dwangsom-niet-tijdig",
+ "sub": "uitzonderingen",
+ "kenmerk": "misbruik-recht",
+ "zaaktype": "dwangsom-niet-tijdig",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Zwijndrecht",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger stuurde informatieverzoeken en bezwaren naar e-mailadressen van de gemeente Zwijndrecht die daarvoor niet waren opengesteld. Hij ging tegen de gemeente in beroep bij de rechtbank Rotterdam.",
+ "titel": "Beroep afgewezen: misbruik van recht bij verkeerd ingediend informatieverzoek",
+ "kern": {
+  "zin": "De rechter ziet kwade trouw en verklaart het beroep kennelijk niet-ontvankelijk wegens misbruik van recht.",
+  "bron": [
+   22
+  ],
+  "citaat": "Het beroep is daarom kennelijk niet-ontvankelijk wegens misbruik van recht"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burger vroeg de gemeente om informatie over de vergoedingen en declaraties van de burgemeester.",
+   "bron": [
+    8
+   ],
+   "citaat": "een aanvraag gedaan om informatie ten aanzien van de vergoedingen die de burgemeester"
+  },
+  {
+   "zin": "De gemeente liet weten dat de verzoeken niet op de voorgeschreven manier waren ingediend en dus niet in behandeling werden genomen.",
+   "bron": [
+    11
+   ],
+   "citaat": "niet op de juiste wijze heeft ingediend en dat die daarom niet in behandeling worden genomen"
+  },
+  {
+   "zin": "De burger vond dat een informatieverzoek en een bezwaar vormvrij zijn en dat hij dat al jaren per e-mail doet.",
+   "bron": [
+    18
+   ],
+   "citaat": "het indienen van een Woo-verzoek en het maken van bezwaar vormvrij zijn"
+  },
+  {
+   "zin": "De rechter vond dat de gemeente eisen mag stellen aan de manier van elektronisch indienen.",
+   "bron": [
+    20
+   ],
+   "citaat": "verweerder de genoemde eisen mag stellen aan de wijze van elektronische indiening"
+  },
+  {
+   "zin": "Volgens de rechter handelde de burger te kwader trouw, ook met het oog op zijn eerdere procedeergedrag.",
+   "bron": [
+    21
+   ],
+   "citaat": "getuigt naar het oordeel van de rechtbank van kwader trouw"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep niet-ontvankelijk wegens misbruik van recht; geen proceskostenveroordeling.",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen behandeling van zijn beroep en geen vergoeding van proceskosten.",
+  "bron": [
+   23
+  ],
+  "citaat": "Voor een proceskostenveroordeling bestaat geen aanleiding"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Een informatieverzoek en een bezwaar zijn vormvrij en mogen per e-mail naar elk e-mailadres.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente mag eisen stellen aan de manier van elektronisch indienen.",
+    "bron": [
+     20
+    ],
+    "citaat": "verweerder de genoemde eisen mag stellen aan de wijze van elektronische indiening"
+   },
+   "bruikbare_zin": {
+    "citaat": "het bestuursorgaan nadere eisen kan stellen aan het gebruik van de elektronische weg",
+    "bron": [
+     19
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Eerdere e-mails aan personen binnen de gemeente zijn wel in behandeling genomen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Eerdere behandeling verplicht de gemeente niet om die werkwijze vol te houden.",
+    "bron": [
+     20
+    ],
+    "citaat": "maakt niet dat verweerder aan die werkwijze moet blijven vasthouden"
+   },
+   "bruikbare_zin": null
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Wie willens en wetens blijft mailen naar adressen die niet zijn opengesteld, en dan beroep instelt, kan daarmee te kwader trouw handelen.",
+  "type": "feitelijk_oordeel",
+  "reikwijdte": "Alleen deze burger, gelet op zijn eerdere procedeergedrag en de uitleg die de gemeente hem gaf.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   21
+  ],
+  "citaat": "getuigt naar het oordeel van de rechtbank van kwader trouw"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "e-mailberichten van de gemeente met uitleg over de juiste indieningswijze"
+  ],
+  "wat_gaf_doorslag": "Het blijven mailen naar niet-opengestelde adressen na uitleg van de gemeente, plus eerder procedeergedrag."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2019:1655",
+   "ECLI:NL:CRVB:2022:105",
+   "ECLI:NL:RBROT:2021:9391",
+   "ECLI:NL:RBROT:2019:4060"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 2:13 Awb",
+  "art. 2:15 Awb",
+  "art. 4.1 Wet open overheid",
+  "art. 8:54 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Verwijs in een afwijzing van een onjuist ingediend verzoek naar de juiste indieningswijze op de website",
+   "raakt": "klantcontact",
+   "bron": [
+    11
+   ],
+   "citaat": "Voor de juiste wijze van indienen van openbaarmakingsverzoeken wordt naar de website van gemeente verwezen"
+  },
+  {
+   "actie": "Maak op de website kenbaar via welke elektronische weg verzoeken en bezwaren kunnen worden ingediend",
+   "raakt": "klantcontact",
+   "bron": [
+    19
+   ],
+   "citaat": "voor zover het bestuursorgaan kenbaar heeft gemaakt dat deze weg is geopend"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "klantcontact",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "U kunt een verzoek of bezwaar per e-mail indienen, maar alleen op de manier die de gemeente aangeeft, bijvoorbeeld via de website. Stuurt u het naar een ander e-mailadres, dan hoeft de gemeente het niet te behandelen. Dien uw verzoek daarom in via de weg die op de website van de gemeente staat.",
+ "gemeente": "Zwijndrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

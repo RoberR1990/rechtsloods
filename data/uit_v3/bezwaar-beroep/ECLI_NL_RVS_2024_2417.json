@@ -1,0 +1,167 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2024:2417",
+ "relevant": true,
+ "onderwerp": "dwangsom-niet-tijdig",
+ "sub": "uitzonderingen",
+ "kenmerk": "geen-aanvraag",
+ "zaaktype": "dwangsom-niet-tijdig",
+ "partijen": {
+  "burger": "particulier",
+  "wederpartij": "gemeente Medemblik",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "hoger beroep",
+ "intro": "Een particulier vroeg de gemeente Medemblik om handhaving (optreden tegen een overtreding) en vond dat de gemeente te laat besliste. Zij ging in hoger beroep bij de Raad van State tegen de uitspraak van de rechtbank Noord-Holland.",
+ "titel": "Geen dwangsom bij verzoek van iemand zonder eigen belang",
+ "kern": {
+  "zin": "De rechter vindt dat de rechtbank zich terecht onbevoegd verklaarde, omdat een verzoek zonder eigen rechtstreeks belang geen aanvraag is.",
+  "bron": [
+   26
+  ],
+  "citaat": "Omdat geen sprake is van een aanvraag, is ook geen sprake van het niet tijdig nemen van een besluit"
+ },
+ "samenvatting": [
+  {
+   "zin": "De rechtbank zei dat het college alleen hoeft te beslissen op een aanvraag, en dat een verzoek van iemand zonder eigen belang geen aanvraag is.",
+   "bron": [
+    22
+   ],
+   "citaat": "Een verzoek van iemand die geen belanghebbende is, is geen aanvraag en daarop hoeft dus geen besluit te worden genomen"
+  },
+  {
+   "zin": "Volgens de rechtbank had de burger niet laten zien dat zij zelf rechtstreeks belang had bij het handhavend optreden.",
+   "bron": [
+    23
+   ],
+   "citaat": "verstaan degene wiens belang rechtstreeks bij een besluit is betrokken"
+  },
+  {
+   "zin": "De rechtbank verklaarde zich daarom onbevoegd, en de burger ging in hoger beroep.",
+   "bron": [
+    24
+   ],
+   "citaat": "De rechtbank heeft zich daarom onbevoegd verklaard om van het geschil kennis te nemen"
+  },
+  {
+   "zin": "De rechter ziet in het hoger beroep geen aanwijzing dat zij zelf rechtstreeks belang had, dus er was geen aanvraag en geen te late beslissing.",
+   "bron": [
+    26
+   ],
+   "citaat": "Omdat zij geen belanghebbende was bij haar verzoek, was geen sprake van een aanvraag"
+  },
+  {
+   "zin": "De procedure duurde acht dagen te lang en dat komt door de rechtbank.",
+   "bron": [
+    31
+   ],
+   "citaat": "Dit betekent dat de redelijke termijn met acht dagen is overschreden"
+  },
+  {
+   "zin": "De Staat betaalt daarom € 500,00 schadevergoeding.",
+   "bron": [
+    35
+   ],
+   "citaat": "wordt de vergoeding van schade uitgesproken ten laste van de Staat der Nederlanden"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Geen dwangsom; wel € 500,00 schadevergoeding van de Staat wegens te lange procedure",
+ "gevolg_betrokkene": {
+  "zin": "De burger krijgt geen dwangsom en geen proceskosten, maar wel € 500,00 schadevergoeding van de Staat.",
+  "bron": [
+   35,
+   37
+  ],
+  "citaat": "wordt de vergoeding van schade uitgesproken ten laste van de Staat der Nederlanden"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "niet-tijdig-beslist",
+   "burger_zegt": "De gemeente beslistte te laat op mijn verzoek om handhaving, dus er hoort een dwangsom te komen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Zij had geen eigen rechtstreeks belang, dus haar verzoek was geen aanvraag.",
+    "bron": [
+     26
+    ],
+    "citaat": "Omdat zij geen belanghebbende was bij haar verzoek, was geen sprake van een aanvraag"
+   },
+   "bruikbare_zin": {
+    "citaat": "Omdat geen sprake is van een aanvraag, is ook geen sprake van het niet tijdig nemen van een besluit",
+    "bron": [
+     26
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De procedure heeft te lang geduurd en daarvoor hoort schadevergoeding.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De overschrijding komt door de rechtbank.",
+    "bron": [
+     33
+    ],
+    "citaat": "De overschrijding van de redelijke termijn moet daarom worden toegerekend aan de rechtbank"
+   },
+   "bruikbare_zin": {
+    "citaat": "Dit betekent dat de redelijke termijn met acht dagen is overschreden",
+    "bron": [
+     31
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Een verzoek van iemand zonder eigen rechtstreeks belang is geen aanvraag, dus er kan geen dwangsom ontstaan voor niet tijdig beslissen.",
+  "type": "regel",
+  "reikwijdte": "Verzoek om handhaving van iemand die geen rechtstreeks belang heeft",
+  "uitzondering": null,
+  "herkomst": "wet",
+  "bron": [
+   26
+  ],
+  "citaat": "Omdat geen sprake is van een aanvraag, is ook geen sprake van het niet tijdig nemen van een besluit"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [],
+  "wat_gaf_doorslag": "De burger gaf in hoger beroep geen aanwijzing dat zij zelf rechtstreeks belang had."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2014:188"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 1:2 Awb",
+  "art. 1:3 lid 3 Awb",
+  "art. 8:1 Awb",
+  "art. 6 EVRM"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Bepaal bij een verzoek om handhaving eerst of de indiener zelf rechtstreeks belang heeft",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    26
+   ],
+   "citaat": "Omdat zij geen belanghebbende was bij haar verzoek, was geen sprake van een aanvraag"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "termijnbewaking",
+  "klantcontact"
+ ],
+ "klantuitleg": "De gemeente hoeft alleen te beslissen op een verzoek van iemand die er zelf rechtstreeks belang bij heeft. Beslist de gemeente niet op tijd, terwijl u zelf geen rechtstreeks belang hebt, dan krijgt u geen dwangsom (een bedrag dat de gemeente anders moet betalen). Leg in uw verzoek uit waarom het besluit u persoonlijk raakt.",
+ "gemeente": "Medemblik",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

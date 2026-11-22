@@ -1,0 +1,159 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RVS:2025:1702",
+ "relevant": true,
+ "onderwerp": "bezwaartermijn-verschoonbaar",
+ "sub": "verschoonbaar",
+ "kenmerk": "onbekend-rechtsmiddel",
+ "zaaktype": "bezwaar-beroepstermijn",
+ "partijen": {
+  "burger": "student",
+  "wederpartij": "college van beroep voor de examens van een universiteit",
+  "gemeente_is_partij": false
+ },
+ "procesvorm": "beroep",
+ "intro": "Een student gaat bij de Raad van State tegen het college van beroep voor de examens van een universiteit. Zijn administratief beroep (bezwaar bij de universiteit) kwam te laat.",
+ "titel": "Te laat beroep tegen cijfer blijft te laat",
+ "kern": {
+  "zin": "De rechter oordeelde dat het beroep terecht te laat was en dat de termijnoverschrijding niet verschoonbaar (te verontschuldigen) was.",
+  "bron": [
+   26
+  ],
+  "citaat": "terecht in deze omstandigheden geen aanleiding gezien om de termijnoverschrijding verschoonbaar te achten"
+ },
+ "samenvatting": [
+  {
+   "zin": "De termijn voor administratief beroep tegen een cijfer was verstreken voordat de student beroep instelde.",
+   "bron": [
+    21
+   ],
+   "citaat": "de termijn voor het instellen van administratief beroep op 10 april 2024 is geëindigd"
+  },
+  {
+   "zin": "De student zei dat een medestudent ook namens hem tijdig een klacht had gestuurd.",
+   "bron": [
+    22
+   ],
+   "citaat": "dat een medestudent, ook namens hem, binnen de termijn een klacht aan de examencommissie heeft gestuurd"
+  },
+  {
+   "zin": "Het college van beroep vond het beroep niet-ontvankelijk, en de student was het daar niet mee eens.",
+   "bron": [
+    20
+   ],
+   "citaat": "het niet eens met het oordeel van het CBE dat zijn administratief beroep niet-ontvankelijk is"
+  },
+  {
+   "zin": "De rechter vond niet aannemelijk dat die klacht ook namens de student was ingediend.",
+   "bron": [
+    22
+   ],
+   "citaat": "niet aannemelijk gemaakt dat die klacht ook namens hem is ingediend"
+  },
+  {
+   "zin": "Onder de beslissing stond uitleg over het rechtsmiddel, dus de student had de procedure en termijn moeten kennen.",
+   "bron": [
+    25
+   ],
+   "citaat": "gelet op die rechtsmiddelenclausule op de hoogte had moeten zijn van de procedure bij het CBE"
+  },
+  {
+   "zin": "De rechter vond geen reden om de termijnoverschrijding te verontschuldigen, en het beroep is ongegrond.",
+   "bron": [
+    26
+   ],
+   "citaat": "terecht in deze omstandigheden geen aanleiding gezien om de termijnoverschrijding verschoonbaar te achten"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Beroep te laat en overschrijding niet verschoonbaar.",
+ "gevolg_betrokkene": {
+  "zin": "Het beroep van de student blijft niet-ontvankelijk en het college hoeft geen proceskosten te vergoeden.",
+  "bron": [
+   31,
+   30
+  ],
+  "citaat": "Het CBE hoeft geen proceskosten te vergoeden."
+ },
+ "steunt": null,
+ "bezwaargronden": [
+  {
+   "arg": "termijn-te-laat",
+   "burger_zegt": "Mijn beroep kwam te laat, maar dat is te verontschuldigen.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Er stond een rechtsmiddelenclausule onder de beslissing, dus de student kon de termijn kennen.",
+    "bron": [
+     25
+    ],
+    "citaat": "gelet op die rechtsmiddelenclausule op de hoogte had moeten zijn van de procedure bij het CBE"
+   },
+   "bruikbare_zin": {
+    "citaat": "gelet op die rechtsmiddelenclausule op de hoogte had moeten zijn van de procedure",
+    "bron": [
+     25
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "Een klacht van een medestudent gold ook als tijdig administratief beroep van mij.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De student maakte niet aannemelijk dat de klacht ook namens hem was ingediend.",
+    "bron": [
+     22
+    ],
+    "citaat": "niet aannemelijk gemaakt dat die klacht ook namens hem is ingediend"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet aannemelijk gemaakt dat die klacht ook namens hem is ingediend",
+    "bron": [
+     22
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "De rechter kijkt of bijzondere omstandigheden maken dat de termijnoverschrijding niet aan de indiener kan worden toegerekend.",
+  "type": "regel",
+  "reikwijdte": "Beoordeling of een te laat ingesteld beroep verschoonbaar is, volgens de nieuwe regels van het College van Beroep voor het bedrijfsleven.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   24
+  ],
+  "citaat": "bezien of zich bijzondere omstandigheden voordeden die maken dat de termijnoverschrijding niet aan"
+ },
+ "bewijs": {
+  "bewijslast_bij": "burger",
+  "bewijsmiddelen": [
+   "e-mailwisseling met het college van beroep",
+   "rechtsmiddelenclausule onder de beslissing"
+  ],
+  "wat_gaf_doorslag": "De rechtsmiddelenclausule stond onder de beslissing en de student maakte zijn stelling niet aannemelijk."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": [
+   "ECLI:NL:CBB:2024:31",
+   "ECLI:NL:CBB:2024:32",
+   "ECLI:NL:CBB:2024:33",
+   "ECLI:NL:CBB:2024:34"
+  ]
+ },
+ "wetsartikelen": [],
+ "actie_gemeente": [],
+ "reden_leeg_actie": "gemeente geen partij; niet over te zetten",
+ "raakt": [
+  "termijnbewaking",
+  "klantcontact",
+  "bezwaar-juridische-zaken"
+ ],
+ "klantuitleg": "Bent u te laat met bezwaar of beroep, dan kijkt de rechter of u daar niets aan kon doen. Staat onder het besluit uitleg over hoe en wanneer u bezwaar kunt maken, dan mag de rechter verwachten dat u die termijn kent. Een klacht van iemand anders telt alleen voor u als u kunt laten zien dat die ook namens u was; dien daarom zelf op tijd uw bezwaar in.",
+ "gemeente": null,
+ "reden_gemeente_leeg": "universiteit is partij, geen gemeente",
+ "dubbel_van": null,
+ "zekerheid": "middel"
+}

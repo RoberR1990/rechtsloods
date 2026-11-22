@@ -1,0 +1,195 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2024:9972",
+ "relevant": true,
+ "onderwerp": "dwangsom-niet-tijdig",
+ "sub": "ingebrekestelling-beslistermijn",
+ "kenmerk": "bezwaar-tegen-uitblijven",
+ "zaaktype": "dwangsom-niet-tijdig",
+ "partijen": {
+  "burger": "bewoner (erfgenamen)",
+  "wederpartij": "gemeente Gorinchem",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een burger procedeert tegen de gemeente Gorinchem bij de rechtbank Rotterdam. De gemeente besliste te laat op een bezwaar tegen een bouwvergunning voor een buurman.",
+ "titel": "Te late beslissing op bezwaar kost de gemeente geld",
+ "kern": {
+  "zin": "De rechter vond dat de gemeente te laat besliste, omdat zij de beslistermijn niet op deze manier mocht verlengen; daarom is een dwangsom (een bedrag per dag) verschuldigd.",
+  "bron": [
+   34
+  ],
+  "citaat": "Verweerder heeft een dwangsom verbeurd over de periode van twee weken na 13 december 2022"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente liet bij de beslissing op bezwaar de omgevingsvergunning in stand.",
+   "bron": [
+    12
+   ],
+   "citaat": "heeft verweerder de omgevingsvergunning in stand gelaten"
+  },
+  {
+   "zin": "De burger zei dat de gemeente door het te late besluit dwangsommen had verbeurd.",
+   "bron": [
+    31
+   ],
+   "citaat": "Eiser betoogt dat verweerder vanwege het niet tijdig beslissen op het bezwaar dwangsommen heeft verbeurd."
+  },
+  {
+   "zin": "De gemeente vond de ingebrekestelling (de schriftelijke waarschuwing dat zij te laat is) te vroeg en dus ongeldig.",
+   "bron": [
+    32
+   ],
+   "citaat": "Volgens verweerder is de ingebrekestelling van eiser, ontvangen op 13 december 2022, prematuur en daarom niet rechtsgeldig."
+  },
+  {
+   "zin": "De rechter vond de ingebrekestelling niet te vroeg, omdat de beslistermijn twaalf weken was.",
+   "bron": [
+    34
+   ],
+   "citaat": "De door verweerder op 13 december 2022 ontvangen ingebrekestelling was dus niet prematuur"
+  },
+  {
+   "zin": "De rechter stelde de dwangsom zelf vast op € 1.442,-.",
+   "bron": [
+    36
+   ],
+   "citaat": "zodat verweerder een dwangsom van € 1.442,- is verschuldigd"
+  },
+  {
+   "zin": "De gemeente moet ook de proceskosten en het griffierecht betalen.",
+   "bron": [
+    57
+   ],
+   "citaat": "moet verweerder het griffierecht aan eiser vergoeden en veroordeelt de rechtbank verweerder in de door eiser gemaakte proceskosten"
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Dwangsom van € 1.442,- vastgesteld; overige bezwaren tegen de vergunning ongegrond.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet een dwangsom van € 1.442,-, € 875,- proceskosten en € 184,- griffierecht betalen.",
+  "bron": [
+   57,
+   64
+  ],
+  "citaat": "voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 875,-"
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "niet-tijdig-beslist",
+   "burger_zegt": "De gemeente besliste te laat op het bezwaar en heeft daarom een dwangsom verbeurd.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente mocht de termijn niet verder verdagen voor nader onderzoek, dus was de ingebrekestelling niet te vroeg.",
+    "bron": [
+     34
+    ],
+    "citaat": "De door verweerder op 13 december 2022 ontvangen ingebrekestelling was dus niet prematuur"
+   },
+   "bruikbare_zin": {
+    "citaat": "Het verzoek om een dwangsom is ten onrechte afgewezen door verweerder.",
+    "bron": [
+     34
+    ]
+   }
+  },
+  {
+   "arg": "advies-niet-gevolgd",
+   "burger_zegt": "De gemeente heeft het advies van de bezwaarcommissie niet gevolgd.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De gemeente had een eigen aanvullende motivering en mocht daarom afwijken van het advies.",
+    "bron": [
+     43
+    ],
+    "citaat": "Naar het oordeel van de rechtbank heeft verweerder in redelijkheid kunnen afwijken van het advies van de Commissie."
+   },
+   "bruikbare_zin": {
+    "citaat": "heeft verweerder in redelijkheid kunnen afwijken van het advies van de Commissie",
+    "bron": [
+     43
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De buurman krijgt een vergunning die zijn privacy en zonlicht onevenredig aantast.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De rechter vond de belangenafweging van de gemeente redelijk.",
+    "bron": [
+     48
+    ],
+    "citaat": "niet onevenredig in zijn privacybelangen wordt geschaad"
+   },
+   "bruikbare_zin": {
+    "citaat": "niet onevenredig in zijn privacybelangen wordt geschaad",
+    "bron": [
+     48
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Extra uitstel voor nader onderzoek kan pas nadat de beslistermijn eerst met ten hoogste zes weken is verdaagd.",
+  "type": "regel",
+  "reikwijdte": "Beslissingen op bezwaar waarbij de gemeente meer tijd nodig heeft voor nader onderzoek.",
+  "uitzondering": null,
+  "herkomst": "oordeel rechter",
+  "bron": [
+   33
+  ],
+  "citaat": "dit artikel een extra mogelijkheid is om te verdagen, nadat eerder een verdaging van zes weken heeft plaatsgevonden"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "e-mail over het instellen van de commissie",
+   "ingebrekestelling"
+  ],
+  "wat_gaf_doorslag": "De gemeente had de burger al gemeld dat een commissie was ingesteld, dus gold een termijn van twaalf weken."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "onbekend",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 4:17 Awb",
+  "art. 6:20 Awb",
+  "art. 7:10 Awb",
+  "art. 7:13 Awb",
+  "art. 8:55c Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Verdaag de beslistermijn eerst met ten hoogste zes weken, voordat je verder uitstel voor nader onderzoek inzet.",
+   "raakt": "termijnbewaking",
+   "bron": [
+    33
+   ],
+   "citaat": "dit artikel een extra mogelijkheid is om te verdagen, nadat eerder een verdaging van zes weken heeft plaatsgevonden"
+  },
+  {
+   "actie": "Leg vast wanneer je de burger meldt dat een bezwaarcommissie is ingesteld, want dan geldt een termijn van twaalf weken.",
+   "raakt": "bezwaar-juridische-zaken",
+   "bron": [
+    34
+   ],
+   "citaat": "eiser op de hoogte gesteld dat er een commissie als bedoeld in artikel 7:13 van de Awb was ingesteld"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "termijnbewaking",
+  "bezwaar-juridische-zaken",
+  "proceskosten-no-cure-no-pay"
+ ],
+ "klantuitleg": "Beslist de gemeente niet op tijd op uw bezwaar, dan kunt u haar schriftelijk laten weten dat zij te laat is. Als zij daarna nog steeds niet beslist, kan een bedrag per dag gaan lopen, voor ten hoogste 42 dagen. Heeft u dat gedaan en komt er geen besluit, dan kunt u naar de rechter stappen om dat bedrag te vragen.",
+ "gemeente": "Gorinchem",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}

@@ -1,0 +1,145 @@
+{
+ "schema": "v3",
+ "relevant": true,
+ "dubbel_van": null,
+ "ecli": "ECLI:NL:RBROT:2025:4319",
+ "onderwerp": "bezwaartermijn-verschoonbaar",
+ "sub": "termijn-berekening",
+ "kenmerk": "bekendmaking-aanvang",
+ "zaaktype": "bezwaar-beroepstermijn",
+ "partijen": {
+  "burger": "bewoner",
+  "wederpartij": "gemeente Rotterdam",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Een inwoner van het buitenland maakte te laat bezwaar tegen een besluit van de gemeente Rotterdam, volgens de gemeente. Hij ging in beroep bij de rechtbank Rotterdam.",
+ "titel": "Te laat bezwaar: gemeente kan verzending van het besluit niet bewijzen",
+ "kern": {
+  "zin": "De rechtbank beslist dat de gemeente niet aannemelijk heeft gemaakt dat het besluit is verstuurd, dus de bezwaartermijn is niet gaan lopen en het bezwaar was op tijd.",
+  "bron": [
+   20
+  ],
+  "citaat": "Dit betekent dat dit besluit niet op die datum op de voorgeschreven wijze is bekendgemaakt"
+ },
+ "samenvatting": [
+  {
+   "zin": "De gemeente verklaarde het bezwaar van de burger niet-ontvankelijk (niet in behandeling genomen) omdat het te laat was.",
+   "bron": [
+    14
+   ],
+   "citaat": "In geschil is of het college terecht het bezwaar van eiser niet-ontvankelijk heeft verklaard"
+  },
+  {
+   "zin": "De burger zei dat hij in het buitenland woonde en niet op de hoogte was gesteld van het besluit.",
+   "bron": [
+    18
+   ],
+   "citaat": "Eiser woont sinds juni 2022 in [land] en is niet op de hoogte gesteld van het primaire besluit."
+  },
+  {
+   "zin": "De gemeente vond dat de burger geen reden had gegeven en dat de termijnoverschrijding dus niet verschoonbaar (te excuseren) was.",
+   "bron": [
+    19
+   ],
+   "citaat": "Het standpunt van het college dat eiser geen reden heeft gegeven voor de te late indiening van het bezwaar"
+  },
+  {
+   "zin": "De rechtbank zegt dat de gemeente bij een gewone brief aannemelijk moet maken dat het besluit is verstuurd, en dat kon de gemeente niet.",
+   "bron": [
+    17
+   ],
+   "citaat": "In geval van niet aangetekende verzending van een besluit dient het bestuursorgaan aannemelijk te maken dat dat besluit is verzonden."
+  },
+  {
+   "zin": "Zonder bekendmaking is de termijn niet gaan lopen, dus het bezwaar was op tijd en de gemeente moet opnieuw beslissen.",
+   "bron": [
+    20
+   ],
+   "citaat": "Het bezwaarschrift van 16 februari 2024 is dus tijdig ingediend."
+  }
+ ],
+ "uitkomst": "burger wint",
+ "uitkomst_toelichting": "Bezwaar was op tijd; gemeente moet inhoudelijk opnieuw beslissen.",
+ "gevolg_betrokkene": {
+  "zin": "De gemeente moet binnen zes weken opnieuw beslissen op het bezwaar en het griffierecht van € 51 vergoeden; proceskosten zijn niet toegekend.",
+  "bron": [
+   23,
+   30,
+   31,
+   25
+  ],
+  "citaat": "Het college zal een nieuw inhoudelijk besluit moeten nemen op het bezwaar."
+ },
+ "steunt": "burger",
+ "bezwaargronden": [
+  {
+   "arg": "overig",
+   "burger_zegt": "Hij woonde in het buitenland en kreeg het besluit niet, dus hij kon niet op tijd bezwaar maken.",
+   "oordeel": "gehonoreerd",
+   "waarom": {
+    "zin": "De gemeente kan niet aannemelijk maken dat het besluit is verstuurd, dus de termijn is niet gaan lopen.",
+    "bron": [
+     20
+    ],
+    "citaat": "Aan eiser kan derhalve niet worden tegengeworpen dat hij niet binnen de gestelde termijn bezwaar heeft gemaakt."
+   },
+   "bruikbare_zin": {
+    "citaat": "Het college heeft het bezwaar van eiser daarom ten onrechte niet-ontvankelijk verklaard",
+    "bron": [
+     20
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Bij een niet aangetekend verstuurd besluit moet de gemeente aannemelijk maken dat het is verstuurd; lukt dat niet, dan is het besluit niet bekendgemaakt en loopt de bezwaartermijn niet.",
+  "type": "regel",
+  "reikwijdte": "Besluiten die niet aangetekend zijn verstuurd",
+  "uitzondering": "Contra-indicaties (aanwijzingen dat het besluit toch is ontvangen) kunnen de verzending alsnog aannemelijk maken",
+  "herkomst": "oordeel rechter",
+  "bron": [
+   17
+  ],
+  "citaat": "In geval van niet aangetekende verzending van een besluit dient het bestuursorgaan aannemelijk te maken dat dat besluit is verzonden."
+ },
+ "bewijs": {
+  "bewijslast_bij": "wederpartij",
+  "bewijsmiddelen": [
+   "verzendadministratie",
+   "registratie van de verzending"
+  ],
+  "wat_gaf_doorslag": "De gemeente had geen registratie van de verzending en er waren geen aanwijzingen dat het besluit toch was ontvangen."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": []
+ },
+ "wetsartikelen": [
+  "art. 3:41 lid 1 Awb",
+  "art. 6:7 Awb",
+  "art. 6:8 lid 1 Awb",
+  "art. 7:11 lid 1 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg bij elk besluit de adressering, de verzenddatum en de verzending vast in een deugdelijke verzendadministratie",
+   "raakt": "termijnbewaking",
+   "bron": [
+    17
+   ],
+   "citaat": "het besluit is voorzien van de juiste adressering en een verzenddatum en dat sprake is van een deugdelijke verzendadministratie"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "bezwaar-juridische-zaken",
+  "termijnbewaking",
+  "besluitvorming-motivering"
+ ],
+ "klantuitleg": "Als de gemeente niet kan laten zien dat zij het besluit heeft verstuurd, begint de termijn voor bezwaar niet te lopen. Uw bezwaar kan dan toch op tijd zijn. Heeft u het besluit nooit gekregen, zeg dat dan duidelijk in uw bezwaar.",
+ "gemeente": "Rotterdam",
+ "reden_gemeente_leeg": null,
+ "zekerheid": "middel"
+}

@@ -1,0 +1,175 @@
+{
+ "schema": "v3",
+ "ecli": "ECLI:NL:RBROT:2024:7540",
+ "relevant": true,
+ "onderwerp": "bezwaartermijn-verschoonbaar",
+ "sub": "derdebelanghebbende",
+ "kenmerk": "kennis-besluit",
+ "zaaktype": "bezwaar-beroepstermijn",
+ "partijen": {
+  "burger": "huurders van een loods (een bedrijf en twee personen)",
+  "wederpartij": "gemeente Zwijndrecht (burgemeester)",
+  "gemeente_is_partij": true
+ },
+ "procesvorm": "beroep",
+ "intro": "Huurders van een loods vechten een besluit aan van de burgemeester van Zwijndrecht om de loods langer gesloten te houden. De zaak ligt bij de rechtbank Rotterdam en gaat over een te laat bezwaar.",
+ "titel": "Huurders te laat met bezwaar: geen verschoonbare reden",
+ "kern": {
+  "zin": "De rechter vindt het te late bezwaar niet verschoonbaar, ook al kregen de huurders het besluit niet toegestuurd, omdat zij redelijkerwijs van het besluit konden weten.",
+  "bron": [
+   31
+  ],
+  "citaat": "is het te laat indienen van het bezwaar tegen dat besluit niet verschoonbaar"
+ },
+ "samenvatting": [
+  {
+   "zin": "De burgemeester sloot een loods op grond van de Opiumwet.",
+   "bron": [
+    16
+   ],
+   "citaat": "om de loods direct op 17 maart 2022 op grond van artikel 13b van de Opiumwet te sluiten"
+  },
+  {
+   "zin": "Het besluit om de loods langer gesloten te houden ging naar de eigenaar, niet naar de huurders.",
+   "bron": [
+    16
+   ],
+   "citaat": "Dit besluit is op 1 april 2022 aan de eigenaresse verzonden"
+  },
+  {
+   "zin": "De huurders zeiden dat de gemeente het besluit ook aan hen had moeten sturen.",
+   "bron": [
+    21
+   ],
+   "citaat": "Eisers betogen dat verweerder dit besluit ten onrechte niet aan hen als belanghebbenden heeft toegestuurd"
+  },
+  {
+   "zin": "De gemeente zei dat het bezwaar te laat was en dat de huurders dit konden weten.",
+   "bron": [
+    19
+   ],
+   "citaat": "Het te laat indienen van het bezwaar door eisers is niet verschoonbaar"
+  },
+  {
+   "zin": "De rechter vond dat de huurders van het besluit konden weten, omdat zij de sluiting en de plannen voor langer sluiten kenden.",
+   "bron": [
+    29
+   ],
+   "citaat": "hadden eisers redelijkerwijs kunnen weten van het besluit van 1 april 2022"
+  },
+  {
+   "zin": "Het beroep is ongegrond, dus het bezwaar wordt niet inhoudelijk behandeld.",
+   "bron": [
+    33
+   ],
+   "citaat": "Verweerder heeft terecht het bezwaar van eisers tegen zijn besluit van 1 april 2022"
+  }
+ ],
+ "uitkomst": "wederpartij wint",
+ "uitkomst_toelichting": "Bezwaar te laat; termijnoverschrijding niet verschoonbaar; beroep ongegrond.",
+ "gevolg_betrokkene": {
+  "zin": "Het bezwaar wordt niet inhoudelijk behandeld, de huurders krijgen hun griffierecht niet terug en ook geen vergoeding van proceskosten.",
+  "bron": [
+   33
+  ],
+  "citaat": "Eisers krijgen daarom het griffierecht niet terug"
+ },
+ "steunt": "gemeente",
+ "bezwaargronden": [
+  {
+   "arg": "termijn-te-laat",
+   "burger_zegt": "Zij wisten niet dat de sluiting een besluit was waartegen bezwaar kon, dus de termijnoverschrijding is verschoonbaar.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "De huurders kenden de sluiting en de plannen voor langer sluiten en hadden kunnen vragen naar bezwaar.",
+    "bron": [
+     29
+    ],
+    "citaat": "hadden eisers redelijkerwijs kunnen weten van het besluit van 1 april 2022"
+   },
+   "bruikbare_zin": {
+    "citaat": "De omstandigheid dat eisers in de veronderstelling verkeerden dat juridische stappen niet mogelijk waren",
+    "bron": [
+     30
+    ]
+   }
+  },
+  {
+   "arg": "overig",
+   "burger_zegt": "De gemeente moest het besluit ook aan de huurders sturen, dus de bezwaartermijn begon pas later.",
+   "oordeel": "verworpen",
+   "waarom": {
+    "zin": "Toezending aan de eigenaar zet het besluit in werking, ook als de huurder het niet kreeg.",
+    "bron": [
+     26
+    ],
+    "citaat": "treedt naar vaste rechtspraak een besluit tot (verdere) sluiting in werking"
+   },
+   "bruikbare_zin": {
+    "citaat": "treedt naar vaste rechtspraak een besluit tot (verdere) sluiting in werking",
+    "bron": [
+     26
+    ]
+   }
+  }
+ ],
+ "rechtsregel": {
+  "zin": "Voor een verschoonbaar te laat bezwaar is in de eerste plaats nodig dat de burger redelijkerwijs niet eerder van het besluit kon weten; ook omstandigheden van vóór het in werking treden tellen mee.",
+  "type": "regel",
+  "reikwijdte": "Te laat bezwaar tegen een besluit dat niet aan de burger is toegestuurd",
+  "uitzondering": null,
+  "herkomst": "vaste lijn HR-RvS",
+  "bron": [
+   28
+  ],
+  "citaat": "in de eerste plaats vereist dat de betrokkene redelijkerwijs niet eerder kennis kón hebben van het besluit"
+ },
+ "bewijs": {
+  "bewijslast_bij": "niet aan de orde",
+  "bewijsmiddelen": [
+   "telefonische mededeling door de eigenaar",
+   "gesprek met de politie",
+   "juridisch advies na een dagvaarding"
+  ],
+  "wat_gaf_doorslag": "De huurders wisten van de sluiting en van de plannen voor langer sluiten en vroegen niet naar bezwaarmogelijkheden."
+ },
+ "toepasselijkheid": "landelijk",
+ "lijn": {
+  "soort": "bevestigt",
+  "eerdere": [
+   "ECLI:NL:RVS:2018:831",
+   "ECLI:NL:RVS:2024:1406",
+   "ECLI:NL:RVS:2022:1144"
+  ]
+ },
+ "wetsartikelen": [
+  "art. 13b Opiumwet",
+  "art. 3:40 Awb",
+  "art. 3:41 lid 1 Awb",
+  "art. 5:24 lid 3 Awb",
+  "art. 6:7 Awb",
+  "art. 6:8 Awb",
+  "art. 6:11 Awb"
+ ],
+ "actie_gemeente": [
+  {
+   "actie": "Leg vast op welke dag u een sluitingsbesluit aan de eigenaar stuurt, want vanaf die dag loopt de bezwaartermijn",
+   "raakt": "termijnbewaking",
+   "bron": [
+    27
+   ],
+   "citaat": "op 1 april 2022 de termijn van zes weken voor het indienen van bezwaar gaan lopen"
+  }
+ ],
+ "reden_leeg_actie": null,
+ "raakt": [
+  "termijnbewaking",
+  "bezwaar-juridische-zaken",
+  "klantcontact"
+ ],
+ "klantuitleg": "Bent u te laat met uw bezwaar, dan kijkt de rechter of u redelijkerwijs eerder van het besluit kon weten. Wist u al van de sluiting en van de plannen om het pand langer dicht te houden, dan had u moeten uitzoeken of u hiertegen bezwaar kon maken. Twijfelt u, vraag dan meteen bij de gemeente of bij een jurist hoe u bezwaar kunt maken.",
+ "gemeente": "Zwijndrecht",
+ "reden_gemeente_leeg": null,
+ "dubbel_van": null,
+ "zekerheid": "hoog"
+}
