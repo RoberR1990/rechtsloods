@@ -1,0 +1,82 @@
+{
+ "forfait-wegingsfactor": {
+  "lijn": "vaste-lijn",
+  "kern": "Vast bedrag per handeling uit het Bpb; afwijken alleen bij bijzondere omstandigheden.",
+  "lijn_uitleg": "De Centrale Raad van Beroep en de Raad van State oordelen in de selectie consistent dat de vergoeding een vast bedrag per proceshandeling is, volgens de bijlage bij het Besluit proceskosten bestuursrecht. Omdat deze regel vooral uit de wet komt en de rechtbank ook meespreekt, is dit voorzichtig als vaste lijn beoordeeld.",
+  "regels": [
+   {"zin": "Bij beroepsmatige rechtsbijstand geldt een vast bedrag: per proceshandeling worden punten toegekend.", "bronnen": [{"ecli": "ECLI:NL:CRVB:2020:223", "citaat": "dat een forfaitaire vergoeding wordt toegekend, waarbij per proceshandeling punten worden toegekend"}]},
+   {"zin": "In beroep worden alleen kosten vergoed voor proceshandelingen die in de bijlage bij het Besluit proceskosten bestuursrecht staan.", "bronnen": [{"ecli": "ECLI:NL:RVS:2024:233", "citaat": "slechts plaatsvinden voor proceshandelingen die zijn opgenomen in de bijlage bij het Bpb"}]},
+   {"zin": "Bezwaren die tegelijk of bijna tegelijk zijn behandeld, met dezelfde rechtshulpverlener, tellen als samenhangende zaken.", "bronnen": [{"ecli": "ECLI:NL:CRVB:2020:1078", "citaat": "gelijktijdig of nagenoeg gelijktijdig zijn behandeld, en waarin rechtsbijstand is verleend door dezelfde persoon"}]},
+   {"zin": "Een beroep dat alleen een besluit moet afdwingen waartegen bezwaar en beroep openstaan, krijgt een licht gewicht (0,5).", "bronnen": [{"ecli": "ECLI:NL:CRVB:2020:2249", "citaat": "het beroepschrift slechts gericht was op het verkrijgen van een voor bezwaar en beroep vatbaar besluit"}]}
+  ],
+  "uitzonderingen": [
+   {"zin": "Alleen bij bijzondere omstandigheden is een hoger bedrag dan het vaste bedrag mogelijk; die waren er in de uitspraak niet.", "bronnen": [{"ecli": "ECLI:NL:CRVB:2020:223", "citaat": "Er bestaat dan ook geen aanleiding voor een hogere vergoeding dan de forfaitaire vergoeding"}]},
+   {"zin": "Wordt het bezwaar volledig toegewezen, dan mag het bestuursorgaan afzien van horen en is er geen punt voor een hoorzitting.", "bronnen": [{"ecli": "ECLI:NL:RBROT:2024:13061", "citaat": "daarom mocht de heffingsambtenaar van het horen afzien op grond van artikel 7:3, aanhef en onder e van de Awb"}]}
+  ],
+  "toetslijst": [
+   {"zin": "Staat de handeling waarvoor kosten worden gevraagd in de bijlage bij het Besluit proceskosten bestuursrecht?", "bronnen": [{"ecli": "ECLI:NL:RVS:2024:233", "citaat": "slechts plaatsvinden voor proceshandelingen die zijn opgenomen in de bijlage bij het Bpb"}]},
+   {"zin": "Zijn de bezwaren tegelijk behandeld, met dezelfde rechtshulpverlener en bijna hetzelfde werk, zodat ze samenhangend zijn?", "bronnen": [{"ecli": "ECLI:NL:CRVB:2020:1078", "citaat": "gelijktijdig of nagenoeg gelijktijdig zijn behandeld, en waarin rechtsbijstand is verleend door dezelfde persoon"}]},
+   {"zin": "Is het beroep alleen bedoeld om een besluit af te dwingen, zodat een licht gewicht past?", "bronnen": [{"ecli": "ECLI:NL:CRVB:2020:2249", "citaat": "het beroepschrift slechts gericht was op het verkrijgen van een voor bezwaar en beroep vatbaar besluit"}]},
+   {"zin": "Is er een bijzondere omstandigheid die afwijken van het vaste bedrag rechtvaardigt?", "bronnen": [{"ecli": "ECLI:NL:CRVB:2020:223", "citaat": "Er bestaat dan ook geen aanleiding voor een hogere vergoeding dan de forfaitaire vergoeding"}]}
+  ],
+  "steunt_gemeente": ["ECLI:NL:CRVB:2020:1078", "ECLI:NL:CRVB:2020:223", "ECLI:NL:RVS:2024:233", "ECLI:NL:CRVB:2020:2249"],
+  "steunt_parkeerder": ["ECLI:NL:RBROT:2025:11973"],
+  "hiaten": "Weinig rechtspraak over de hoogte van de wegingsfactor bij zwaardere zaken en over bijzondere omstandigheden. Enkele uitspraken in de selectie gaan over lokale heffingen en zijn daarom beperkt bruikbaar.",
+  "peil": "9 uitspraken in de uitgelezen selectie: 1 Raad van State, 3 Centrale Raad van Beroep, 5 rechtbank"
+ },
+ "overig": {
+  "lijn": "weinig",
+  "kern": "Te weinig bruikbare uitspraken; de ene uitspraak gaat vooral over redelijke termijn.",
+  "lijn_uitleg": "In de selectie staat één uitspraak van de Centrale Raad van Beroep, en die gaat vooral over de redelijke termijn en niet over proceskosten zelf. Daardoor is geen lijn te geven.",
+  "regels": [],
+  "uitzonderingen": [],
+  "toetslijst": [],
+  "steunt_gemeente": [],
+  "steunt_parkeerder": [],
+  "hiaten": "Er is bijna geen bruikbare rechtspraak in de selectie voor dit restonderwerp. Alleen geschiktheid van deze ene uitspraak voor dit subonderwerp is twijfelachtig.",
+  "peil": "1 uitspraak in de uitgelezen selectie, van de Centrale Raad van Beroep"
+ },
+ "vergoeding-in-bezwaar": {
+  "lijn": "vaste-lijn",
+  "kern": "Bezwaarkosten alleen bij herroeping door een fout van het bestuursorgaan.",
+  "lijn_uitleg": "De Raad van State en een rechtbank stellen allebei dat bezwaarkosten alleen worden vergoed als het besluit is herroepen door een fout die aan het bestuursorgaan te wijten is. Een hoogste rechter formuleert dit zelf, maar de selectie is klein, dus is voorzichtig vaste lijn gekozen.",
+  "regels": [
+   {"zin": "Een intrekking telt alleen als herroeping voor kostenvergoeding in bezwaar als het gevolg van een fout van het bestuursorgaan.", "bronnen": [{"ecli": "ECLI:NL:RVS:2023:1732", "citaat": "alleen als die intrekking het gevolg is van een onrechtmatigheid, die aan het bestuursorgaan is te wijten"}]},
+   {"zin": "Het gaat erom of het besluit is herroepen door een fout van het bestuursorgaan; het label coulance is niet doorslaggevend.", "bronnen": [{"ecli": "ECLI:NL:RBROT:2025:1196", "citaat": "Het gaat erom of het bestreden besluit wordt herroepen vanwege een aan het bestuursorgaan te wijten onrechtmatigheid"}]},
+   {"zin": "Rechtsbijstand is beroepsmatig als het een vast onderdeel is van werk dat op inkomen gericht is.", "bronnen": [{"ecli": "ECLI:NL:RVS:2016:406", "citaat": "Voor het beroepsmatig verlenen van rechtsbijstand is van belang dat deze werkzaamheden een vast onderdeel vormen van een duurzame, op het vergaren van een inkomen gerichte taakuitoefening"}]},
+   {"zin": "Hulp van iemand uit hetzelfde huishouden geldt in beginsel niet als zakelijke hulp waarvoor kosten worden vergoed.", "bronnen": [{"ecli": "ECLI:NL:RBROT:2023:10028", "citaat": "als de rechtsbijstand wordt verleend door een persoon die behoort tot het huishouden van belanghebbende in beginsel moet worden aangenomen dat deze niet op zakelijke basis is verleend"}]},
+   {"zin": "Herroept het bestuursorgaan na bezwaar een onterechte inhouding en vergoedt het bezwaarkosten, dan moet het ook de kosten van de hoorzitting vergoeden.", "bronnen": [{"ecli": "ECLI:NL:CRVB:2024:1253", "citaat": "had het college ook de kosten voor het bijwonen van de daarop volgende hoorzitting moeten vergoeden"}]}
+  ],
+  "uitzonderingen": [
+   {"zin": "Maakt de burger aannemelijk dat de hulp uit het huishouden toch op zakelijke basis is verleend, dan kan vergoeding wel.", "bronnen": [{"ecli": "ECLI:NL:RBROT:2023:10028", "citaat": "niet aannemelijk gemaakt dat de door haar echtgenoot verleende rechtsbijstand op zakelijke basis heeft plaatsgevonden"}]}
+  ],
+  "toetslijst": [
+   {"zin": "Is het besluit herroepen of ingetrokken door een fout van het bestuursorgaan, of om een andere reden?", "bronnen": [{"ecli": "ECLI:NL:RVS:2023:1732", "citaat": "alleen als die intrekking het gevolg is van een onrechtmatigheid, die aan het bestuursorgaan is te wijten"}]},
+   {"zin": "Is om vergoeding van de proceskosten in bezwaar verzocht?", "bronnen": [{"ecli": "ECLI:NL:RVS:2022:2608", "citaat": "ten onrechte geoordeeld dat [appellant] in bezwaar niet om vergoeding van de proceskosten heeft verzocht"}]},
+   {"zin": "Is de gemachtigde beroepsmatig bezig met rechtsbijstand, en hoort hij niet tot het huishouden van de burger?", "bronnen": [{"ecli": "ECLI:NL:RVS:2016:406", "citaat": "Voor het beroepsmatig verlenen van rechtsbijstand is van belang dat deze werkzaamheden een vast onderdeel vormen van een duurzame, op het vergaren van een inkomen gerichte taakuitoefening"}, {"ecli": "ECLI:NL:RBROT:2023:10028", "citaat": "niet aannemelijk gemaakt dat de door haar echtgenoot verleende rechtsbijstand op zakelijke basis heeft plaatsgevonden"}]},
+   {"zin": "Is de bezwaarfase echt afgerond voordat de hoorzitting is gehouden, en is dan ook een punt voor de hoorzitting toegekend?", "bronnen": [{"ecli": "ECLI:NL:CRVB:2024:1253", "citaat": "had het college ook de kosten voor het bijwonen van de daarop volgende hoorzitting moeten vergoeden"}]}
+  ],
+  "steunt_gemeente": ["ECLI:NL:RVS:2023:1732", "ECLI:NL:RBROT:2025:1196", "ECLI:NL:RBROT:2023:10028"],
+  "steunt_parkeerder": ["ECLI:NL:RVS:2016:406", "ECLI:NL:RVS:2022:2608", "ECLI:NL:CRVB:2024:1253"],
+  "hiaten": "Weinig rechtspraak over wat precies als fout van het bestuursorgaan telt buiten de genoemde situaties. Onduidelijk blijft hoe streng de eis van juridische scholing van de gemachtigde is.",
+  "peil": "6 uitspraken in de uitgelezen selectie: 3 Raad van State, 1 Centrale Raad van Beroep, 2 rechtbank"
+ },
+ "proceskosten-beroep": {
+  "lijn": "weinig",
+  "kern": "Bij alsnog beslissen tijdens beroep kan het bestuursorgaan in de kosten worden veroordeeld.",
+  "lijn_uitleg": "In de selectie staan twee uitspraken van de Raad van State die in dezelfde richting wijzen. Dat zijn minder dan vier bruikbare uitspraken, dus is geen vaste lijn te geven.",
+  "regels": [
+   {"zin": "Wordt een beroep ingetrokken omdat het bestuursorgaan de indiener tegemoetkomt, dan kan het op verzoek in de kosten worden veroordeeld.", "bronnen": [{"ecli": "ECLI:NL:RVS:2024:1264", "citaat": "In geval van intrekking van het beroep omdat het bestuursorgaan geheel of gedeeltelijk aan de indiener"}]},
+   {"zin": "Beslist het bestuursorgaan tijdens een beroep tegen niet tijdig beslissen alsnog en was dat beroep niet te vroeg, dan komt het de indiener tegemoet en volgt een kostenveroordeling.", "bronnen": [{"ecli": "ECLI:NL:RVS:2026:6820", "citaat": "beroep heeft ingesteld tegen het niet tijdig nemen van een besluit en dit beroep niet te vroeg is ingesteld"}]}
+  ],
+  "uitzonderingen": [],
+  "toetslijst": [
+   {"zin": "Is het beroep over niet tijdig beslissen niet te vroeg ingesteld, en is daarna alsnog besloten?", "bronnen": [{"ecli": "ECLI:NL:RVS:2026:6820", "citaat": "beroep heeft ingesteld tegen het niet tijdig nemen van een besluit en dit beroep niet te vroeg is ingesteld"}]},
+   {"zin": "Is het beroep ingetrokken omdat het bestuursorgaan de indiener (deels) tegemoet is gekomen?", "bronnen": [{"ecli": "ECLI:NL:RVS:2024:1264", "citaat": "In geval van intrekking van het beroep omdat het bestuursorgaan geheel of gedeeltelijk aan de indiener"}]}
+  ],
+  "steunt_gemeente": [],
+  "steunt_parkeerder": ["ECLI:NL:RVS:2026:6820", "ECLI:NL:RVS:2024:1264"],
+  "hiaten": "Er zijn maar twee uitspraken in de selectie, beide van de Raad van State en beide over alsnog beslissen. Over kostenveroordeling na gegrond beroep staat niets in de selectie.",
+  "peil": "2 uitspraken in de uitgelezen selectie, beide Raad van State"
+ }
+}
