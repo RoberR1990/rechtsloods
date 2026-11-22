@@ -269,8 +269,8 @@
   "ecli": "ECLI:NL:CBB:2024:753",
   "relevant": true,
   "onderwerp": "bestuurlijke-lus",
-  "sub": "overig",
-  "kenmerk": null,
+  "sub": "toepassing-lus",
+  "kenmerk": "lus-toegepast",
   "zaaktype": "bestuurlijke-lus",
   "partijen": {
    "burger": null,
@@ -279,11 +279,17 @@
   },
   "procesvorm": "beroep",
   "uitkomst": "alleen procedure",
-  "uitkomst_bron": null,
+  "uitkomst_bron": {
+   "bron": [
+    35
+   ],
+   "citaat": "houdt iedere verdere beslissing aan"
+  },
   "bezwaargronden": [],
   "gemeente": null,
-  "zekerheid": "laag",
-  "hersteld": true
+  "zekerheid": "hoog",
+  "hersteld": true,
+  "dictum_gecontroleerd": true
  },
  {
   "ecli": "ECLI:NL:CBB:2024:756",

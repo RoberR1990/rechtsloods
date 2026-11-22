@@ -1,0 +1,299 @@
+{
+ "dwangsom-niet-tijdig": {
+  "label": "Dwangsom bij niet tijdig beslissen",
+  "rechtsgang": "Ingebrekestelling → dwangsom loopt → beroep bij de rechtbank (→ hoger beroep Raad van State/CRvB)",
+  "anker": "Awb afdeling 4.1.3 (art. 4:17-4:20) en art. 6:2, 8:55b-8:55g",
+  "kleur": "#1F4E79",
+  "concept": true,
+  "sub": {
+   "ingebrekestelling-beslistermijn": {
+    "label": "Wanneer is er een dwangsom? (ingebrekestelling en beslistermijn)",
+    "anker": "Awb art. 4:13, 4:14, 4:17",
+    "kenmerk": {
+     "beslistermijn-verstreken": "Beslistermijn verstreken",
+     "ingebrekestelling-ontbreekt": "Ingebrekestelling ontbreekt of is te vroeg",
+     "ingebrekestelling-onduidelijk": "Ingebrekestelling onduidelijk of onjuist geadresseerd",
+     "bezwaar-tegen-uitblijven": "Bezwaar- of beroepschrift niet tijdig behandeld"
+    }
+   },
+   "hoogte-maximum": {
+    "label": "Hoogte en maximum van de dwangsom",
+    "anker": "Awb art. 4:17 lid 2",
+    "kenmerk": {
+     "maximum-1442": "Maximum van de dwangsom bereikt",
+     "berekening-dagen": "Berekening van het aantal dagen"
+    }
+   },
+   "uitzonderingen": {
+    "label": "Wanneer geldt de dwangsom niet?",
+    "anker": "Awb art. 4:17 lid 6, 4:18",
+    "kenmerk": {
+     "geen-besluit": "Geen besluit in de zin van de Awb",
+     "misbruik-recht": "Misbruik van recht",
+     "geen-aanvraag": "Geen aanvraag of verzoek",
+     "spoedeisend-voorlopig": "Voorlopige voorziening of andere reden"
+    }
+   },
+   "vaststelling-uitbetaling": {
+    "label": "Vaststellen en uitbetalen van de dwangsom",
+    "anker": "Awb art. 4:17 lid 3, 4:18, 4:19",
+    "kenmerk": {
+     "dwangsom-vaststellen": "Besluit tot vaststelling van de dwangsom",
+     "uitbetalen-termijn": "Uitbetaling en termijn",
+     "verrekening": "Verrekening en wettelijke rente"
+    }
+   },
+   "beroep-niet-tijdig": {
+    "label": "Beroep tegen het niet tijdig beslissen",
+    "anker": "Awb art. 6:2, 6:12, 8:55b e.v.",
+    "kenmerk": {
+     "beroep-ontvankelijk": "Beroep ontvankelijk (na ingebrekestelling)",
+     "beroep-te-vroeg": "Beroep te vroeg ingesteld",
+     "alsnog-beslissen": "Rechter beslist zelf of draagt op alsnog te beslissen"
+    }
+   },
+   "overig": {
+    "label": "Overig dwangsom niet tijdig beslissen",
+    "anker": "Awb afdeling 4.1.3",
+    "kenmerk": {}
+   }
+  }
+ },
+ "bezwaartermijn-verschoonbaar": {
+  "label": "Bezwaar- en beroepstermijn, verschoonbare termijnoverschrijding",
+  "rechtsgang": "Bezwaar (zes weken) → beroep (zes weken) → hoger beroep",
+  "anker": "Awb art. 6:7-6:12, 6:8 (aanvang), 6:11 (verschoonbaar)",
+  "kleur": "#2E75B6",
+  "concept": true,
+  "sub": {
+   "termijn-berekening": {
+    "label": "Termijn: wanneer begint en eindigt die?",
+    "anker": "Awb art. 6:7, 6:8, 6:9, 6:10",
+    "kenmerk": {
+     "bekendmaking-aanvang": "Aanvang bij bekendmaking of toezending",
+     "verzending-poststempel": "Tijdig verzonden of ontvangen",
+     "laatste-dag-weekend": "Laatste dag op zaterdag, zondag of feestdag",
+     "herzien-nieuw-besluit": "Termijn bij gewijzigd of nieuw besluit"
+    }
+   },
+   "verschoonbaar": {
+    "label": "Is de termijnoverschrijding verschoonbaar?",
+    "anker": "Awb art. 6:11",
+    "kenmerk": {
+     "ziekte-persoonlijk": "Ziekte of persoonlijke omstandigheden",
+     "gemachtigde-fout": "Fout van de gemachtigde of rechtsbijstandverlener",
+     "post-niet-ontvangen": "Brief niet of te laat ontvangen",
+     "onbekend-rechtsmiddel": "Onbekendheid met rechtsmiddel of ontbrekende rechtsmiddelenclausule",
+     "korte-overschrijding": "Korte overschrijding"
+    }
+   },
+   "niet-ontvankelijk-te-laat": {
+    "label": "Niet-ontvankelijk door te laat bezwaar of beroep",
+    "anker": "Awb art. 6:5, 6:6, 8:41",
+    "kenmerk": {
+     "bezwaar-te-laat": "Bezwaar te laat",
+     "beroep-te-laat": "Beroep te laat",
+     "hoger-beroep-te-laat": "Hoger beroep te laat",
+     "gebreken-herstel": "Gebrek (gronden, handtekening) niet tijdig hersteld"
+    }
+   },
+   "derdebelanghebbende": {
+    "label": "Derde-belanghebbenden en bekendmaking",
+    "anker": "Awb art. 6:13, 3:41, 3:42",
+    "kenmerk": {
+     "kennis-besluit": "Wanneer kende de derde het besluit?",
+     "publicatie": "Termijn bij publicatie of kennisgeving"
+    }
+   },
+   "overig": {
+    "label": "Overig termijnen",
+    "anker": "Awb hoofdstuk 6",
+    "kenmerk": {}
+   }
+  }
+ },
+ "hoorplicht": {
+  "label": "Hoorplicht in bezwaar",
+  "rechtsgang": "Bezwaar → horen door de commissie of ambtenaar → beslissing op bezwaar",
+  "anker": "Awb art. 7:2-7:9",
+  "kleur": "#548235",
+  "concept": true,
+  "sub": {
+   "horen-verplicht": {
+    "label": "Wanneer moet gehoord worden?",
+    "anker": "Awb art. 7:2",
+    "kenmerk": {
+     "hoorplicht-geschonden": "Niet of onvoldoende gehoord",
+     "uitnodiging-termijn": "Uitnodiging te laat of onduidelijk",
+     "derden-gehoord": "Derde-belanghebbenden niet uitgenodigd"
+    }
+   },
+   "afzien-van-horen": {
+    "label": "Afzien van horen",
+    "anker": "Awb art. 7:3",
+    "kenmerk": {
+     "kennelijk-niet-ontvankelijk": "Bezwaar kennelijk niet-ontvankelijk",
+     "kennelijk-ongegrond": "Bezwaar kennelijk ongegrond",
+     "ontvangen-verklaring-afzien": "Bezwaarmaker laat weten af te zien"
+    }
+   },
+   "hoorzitting-verloop": {
+    "label": "Hoorzitting en verslag",
+    "anker": "Awb art. 7:5-7:9",
+    "kenmerk": {
+     "hoorverslag": "Hoorverslag en advies",
+     "onpartijdigheid-commissie": "Onpartijdigheid en samenstelling commissie",
+     "niet-verschenen": "Bezwaarmaker niet verschenen"
+    }
+   },
+   "gevolg-gebrek": {
+    "label": "Gevolg van een horen-gebrek",
+    "anker": "Awb art. 6:22, 8:51a",
+    "kenmerk": {
+     "gebrek-gepasseerd": "Gebrek gepasseerd (art. 6:22)",
+     "herstel-in-beroep": "Hersteld in beroep of via lus",
+     "vernietiging": "Besluit vernietigd"
+    }
+   },
+   "overig": {
+    "label": "Overig horen",
+    "anker": "Awb afdeling 7.2",
+    "kenmerk": {}
+   }
+  }
+ },
+ "motivering": {
+  "label": "Motivering van besluiten",
+  "rechtsgang": "Besluit → bezwaar → beroep: rechter toetst motivering",
+  "anker": "Awb art. 3:46, 3:47, 7:12",
+  "kleur": "#7F6000",
+  "concept": true,
+  "sub": {
+   "motiveringsplicht": {
+    "label": "Is het besluit deugdelijk gemotiveerd?",
+    "anker": "Awb art. 3:46, 3:47",
+    "kenmerk": {
+     "te-summier": "Motivering te summier",
+     "ondeugdelijk": "Motivering sluit niet aan bij feiten",
+     "tegenspraak": "Motivering in strijd met eerder standpunt",
+     "adviezen-overgenomen": "Advies of rapport zonder eigen onderbouwing overgenomen"
+    }
+   },
+   "beslissing-op-bezwaar": {
+    "label": "Motivering van de beslissing op bezwaar",
+    "anker": "Awb art. 7:12",
+    "kenmerk": {
+     "bezwaargronden-niet-besproken": "Bezwaargronden niet besproken",
+     "herhaling-primair": "Alleen herhaling van het primaire besluit",
+     "advies-commissie-afwijken": "Afwijken van het advies van de commissie"
+    }
+   },
+   "herstel-of-behoud": {
+    "label": "Herstellen van een motiveringsgebrek",
+    "anker": "Awb art. 6:22, 8:51a",
+    "kenmerk": {
+     "herstel-beroep": "Hersteld in beroep of lus",
+     "gebrek-gepasseerd": "Gebrek gepasseerd (6:22)",
+     "nieuwe-motivering": "Nieuwe motivering na vernietiging"
+    }
+   },
+   "overig": {
+    "label": "Overig motivering",
+    "anker": "Awb afdeling 3.7",
+    "kenmerk": {}
+   }
+  }
+ },
+ "proceskosten": {
+  "label": "Proceskostenvergoeding en forfait",
+  "rechtsgang": "Bezwaar → vergoeding kosten (7:15) → beroep → proceskostenveroordeling (8:75)",
+  "anker": "Awb art. 7:15, 8:75, 8:75a en Besluit proceskosten bestuursrecht (Bpb)",
+  "kleur": "#A84A00",
+  "concept": true,
+  "sub": {
+   "vergoeding-in-bezwaar": {
+    "label": "Vergoeding van kosten in bezwaar",
+    "anker": "Awb art. 7:15 lid 2",
+    "kenmerk": {
+     "besluit-onrechtmatig": "Besluit herroepen wegens onrechtmatigheid toe te rekenen aan bestuursorgaan",
+     "kosten-redelijk": "Redelijke kosten",
+     "gemachtigde-no-cure-no-pay": "Professionele gemachtigde of no cure no pay",
+     "geen-vergoeding-gebrek": "Geen vergoeding door gebrek te herstellen"
+    }
+   },
+   "forfait-wegingsfactor": {
+    "label": "Forfait en wegingsfactor",
+    "anker": "Besluit proceskosten bestuursrecht art. 2, bijlage",
+    "kenmerk": {
+     "punten-per-proceshandeling": "Punten per proceshandeling",
+     "wegingsfactor": "Wegingsfactor (gewicht van de zaak)",
+     "samenhangende-zaken": "Samenhangende zaken",
+     "afwijken-forfait": "Afwijken van het forfait"
+    }
+   },
+   "proceskosten-beroep": {
+    "label": "Proceskostenveroordeling door de rechter",
+    "anker": "Awb art. 8:75, 8:75a",
+    "kenmerk": {
+     "veroordeling-toegekend": "Proceskostenveroordeling toegekend",
+     "geen-veroordeling": "Geen proceskostenveroordeling",
+     "griffierecht-vergoeden": "Vergoeding griffierecht"
+    }
+   },
+   "overig": {
+    "label": "Overig proceskosten",
+    "anker": "Awb 7:15 en 8:75",
+    "kenmerk": {}
+   }
+  }
+ },
+ "bestuurlijke-lus": {
+  "label": "Bestuurlijke lus en tussenuitspraak",
+  "rechtsgang": "Beroep → tussenuitspraak (gebrek herstellen) → herstel door bestuursorgaan → einduitspraak",
+  "anker": "Awb art. 8:51a-8:51d, 8:80a, 8:80b",
+  "kleur": "#6B2E5E",
+  "concept": true,
+  "sub": {
+   "toepassing-lus": {
+    "label": "Wanneer past de rechter de lus toe?",
+    "anker": "Awb art. 8:51a",
+    "kenmerk": {
+     "lus-toegepast": "Lus toegepast",
+     "lus-niet-toegepast": "Lus niet toegepast (definitief vernietigd)",
+     "herstelbaar-gebrek": "Is het gebrek herstelbaar?"
+    }
+   },
+   "invulling-herstel": {
+    "label": "Hoe herstelt het bestuursorgaan?",
+    "anker": "Awb art. 8:51b, 8:51c",
+    "kenmerk": {
+     "termijn-herstel": "Termijn voor herstel",
+     "nieuw-besluit-of-motivering": "Nieuw besluit of aanvullende motivering",
+     "zienswijze-partijen": "Reactie van partijen"
+    }
+   },
+   "einduitspraak": {
+    "label": "Einduitspraak na de lus",
+    "anker": "Awb art. 8:51d, 8:72, 8:80a",
+    "kenmerk": {
+     "gebrek-hersteld": "Gebrek hersteld: beroep ongegrond",
+     "niet-hersteld": "Gebrek niet hersteld: vernietiging",
+     "gevolgen-in-stand": "Rechtsgevolgen in stand"
+    }
+   },
+   "tussenuitspraak-overig": {
+    "label": "Tussenuitspraken buiten de lus",
+    "anker": "Awb art. 8:80a",
+    "kenmerk": {
+     "bewijsopdracht": "Bewijsopdracht",
+     "onderzoek-gebreken": "Aanvullend onderzoek"
+    }
+   },
+   "overig": {
+    "label": "Overig bestuurlijke lus",
+    "anker": "Awb hoofdstuk 8",
+    "kenmerk": {}
+   }
+  }
+ }
+}

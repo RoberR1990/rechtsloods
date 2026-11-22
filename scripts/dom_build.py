@@ -12,6 +12,8 @@ def norm(x): x=unicodedata.normalize('NFKC',x or '');x=re.sub(r'[‘’‚`´]',
 WET=r'(Wet WOZ|Wet waardering onroerende zaken|Gemeentewet|Opiumwet|Wet Bibob|Awb|Algemene wet bestuursrecht|AVG|Wahv|Wet BPM(?: 1992)?|RVV 1990|WVW 1994|Wegenverkeerswet 1994|UAVG|Uitvoeringswet AVG|Wpg|Wet politiegegevens|Woo|Wob|AWR|Algemene wet inzake rijksbelastingen|Wet BRP|VWEU|Wet MRB 1994|Politiewet 2012|APV|Wetboek van Strafvordering|Sv|Wetboek van Strafrecht|Sr)'
 RX=re.compile(r'art(?:ikel|\.)\s*(\d+[a-z]?(?::\d+[a-z]?)?)(?:[,\s]+(?:lid\s*\d+|eerste|tweede|derde|vierde|vijfde)(?:\s*lid)?)?(?:[,\s]+(?:aanhef en )?onder\s+[a-z0-9]+)?,?\s+(?:van\s+)?(?:de\s+|het\s+)?'+WET)
 FC=re.compile(r'feitcode[^A-Z0-9]{0,15}([A-Z]{1,2}\s?\d{2,3}[a-z]?)')
+KO={}
+if cfg.get('sociaal_tekst_weren') and os.path.exists(f'{C}/kandidaten.json'): KO={r['ecli']:r.get('overlap') or [] for r in json.load(open(f'{C}/kandidaten.json'))}
 L1={}
 if os.path.isdir(f'{D}/uit_l1/{s}'):
     for f in sorted(os.listdir(f'{D}/uit_l1/{s}')):
@@ -66,6 +68,7 @@ for u in U:
     z=zn.get((u['instantie'],u.get('zaaknr')),[])
     if u.get('zaaknr') and len(z)>1 and z[0]!=u['ecli']: o.setdefault('dubbel_van',z[0])
     o['prio']=u.get('prio');o['rotterdam']=u.get('rotterdam')
+    if KO.get(u['ecli']): o['overlap']=KO[u['ecli']]
     if not l1 and not o2: stat['geen_ai']+=1
     ver.append(o)
 json.dump(ver,open(f'{OUT}/verrijkt.json','w'),ensure_ascii=False,separators=(',',':'))
@@ -92,7 +95,7 @@ for i,u in enumerate(U):
     meta.append({'e':u['ecli'],'i':u['instantie'],'n':niveau(u['instantie']),'d':u['datum'],'p':u['procedure'],'o':o.get('onderwerp'),'s':o.get('sub'),
         'g':o.get('gemeente') or u.get('gemeente'),'u':o.get('uitkomst'),'h':(u.get('inhoud') or '')[:700],'r':rel,'v':nb[i],'z':u.get('zaaknr'),'t':u['tekens'],
         'x':u.get('rubrieken',[]),'c':0,'st':None,'vv':1 if u['procedure'] in ('Voorlopige voorziening','Kort geding') else 0,'ww':None,'l':o['laag'],'pr':u.get('prio'),'rot':1 if u.get('rotterdam') else 0})
-    tek[u['ecli']]=[[a.get('rov'),a['t'],1 if a.get('kop') else 0] for a in u['alineas']]
+    tek[u['ecli']]=[] if 'sociaal' in KO.get(u['ecli'],[]) else [[a.get('rov'),a['t'],1 if a.get('kop') else 0] for a in u['alineas']]
 json.dump(meta,open(f'{OUT}/meta.json','w'),ensure_ascii=False,separators=(',',':'))
 tot=sum(len(json.dumps(v,ensure_ascii=False)) for v in tek.values());NP=max(1,-(-tot//(14*2**20)))
 for f in os.listdir(OUT):
