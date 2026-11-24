@@ -54,5 +54,5 @@ Een actief bezoek levert ruwweg 10-30 gebeurtenissen (pageviews, verblijf, scrol
 
 ## Installatie (15 nov 2026)
 - Umami draait op de NAS (Container Manager, project `umami-stats`, poort 3020). Website "rechtsloods" (rechtsloods.nl) staat erin.
-- Publiek via Cloudflare Tunnel `vault-robertriteco`: `https://stats.rechtsloods.nl` met alleen `^/(script\.js|api/send)$`. Het dashboard blijft alleen intern bereikbaar (het interne beheeradres).
+- Publiek via een Cloudflare Tunnel: `https://stats.rechtsloods.nl` met alleen `^/(script\.js|api/send)$`. Het dashboard blijft alleen intern bereikbaar (het interne beheeradres).
 - `site/meet.js` heeft host en website-id ingevuld.
